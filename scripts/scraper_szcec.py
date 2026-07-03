@@ -41,7 +41,11 @@ def fetch_exhibition_detail(url, headers):
                 start_date = f"{year1}-{int(month1):02d}-{int(day1):02d}"
                 end_date = f"{year2}-{int(month2):02d}-{int(day2):02d}"
                 if start_date <= end_date:
-                    full_dates = (start_date, end_date)
+                    start_year, start_month = int(year1), int(month1)
+                    end_year, end_month = int(year2), int(month2)
+                    month_diff = (end_year - start_year) * 12 + (end_month - start_month)
+                    if month_diff <= 1:
+                        full_dates = (start_date, end_date)
         
         content_divs = soup.find_all(['div', 'article'], class_=re.compile(r'(content|article|main|detail|body)'))
         
