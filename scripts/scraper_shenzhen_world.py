@@ -93,10 +93,10 @@ def fetch_shenzhen_world_exhibitions():
                     month_match = re.search(r'(\d{1,2})月', date_text)
                     current_month = int(month_match.group(1)) if month_match else 1
                     
-                    date_pattern = re.search(r'(\d{1,2})[-~—–](\d{1,2})日', date_text)
-                    if date_pattern:
-                        start_day = int(date_pattern.group(1))
-                        end_day = int(date_pattern.group(2))
+                    date_range_pattern = re.search(r'(\d{1,2})[-~—–](\d{1,2})日', date_text)
+                    if date_range_pattern:
+                        start_day = int(date_range_pattern.group(1))
+                        end_day = int(date_range_pattern.group(2))
                         
                         start_date = f"{current_year}-{current_month:02d}-{start_day:02d}"
                         end_date = f"{current_year}-{current_month:02d}-{end_day:02d}"

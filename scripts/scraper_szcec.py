@@ -12,15 +12,36 @@ from config import SZCEC_URL, SZCEC_NAME, OUTPUT_DIR, JSON_FILE
 
 def fetch_exhibition_detail(url, headers):
     description = ''
+    full_dates = None
     
     if not url or url.startswith('#'):
-        return description
+        return description, full_dates
     
     try:
         full_url = url if url.startswith('http') else f"https://www.szcec.com{url}"
         response = requests.get(full_url, headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'lxml')
+        
+        text = soup.get_text()
+        
+        date_patterns = re.findall(r'(\d{4})年(\d{1,2})月(\d{1,2})日.*?(\d{1,2})月(\d{1,2})日', text)
+        if date_patterns:
+            year, start_month, start_day, end_month, end_day = date_patterns[0]
+            start_date = f"{year}-{int(start_month):02d}-{int(start_day):02d}"
+            end_date = f"{year}-{int(end_month):02d}-{int(end_day):02d}"
+            if start_date <= end_date:
+                full_dates = (start_date, end_date)
+        
+        if not full_dates:
+            date_patterns2 = re.findall(r'(\d{4})年(\d{1,2})月(\d{1,2})日', text)
+            if len(date_patterns2) >= 2:
+                year1, month1, day1 = date_patterns2[0]
+                year2, month2, day2 = date_patterns2[1]
+                start_date = f"{year1}-{int(month1):02d}-{int(day1):02d}"
+                end_date = f"{year2}-{int(month2):02d}-{int(day2):02d}"
+                if start_date <= end_date:
+                    full_dates = (start_date, end_date)
         
         content_divs = soup.find_all(['div', 'article'], class_=re.compile(r'(content|article|main|detail|body)'))
         
@@ -41,7 +62,7 @@ def fetch_exhibition_detail(url, headers):
     except Exception:
         pass
     
-    return description
+    return description, full_dates
 
 
 def fetch_szcec_exhibitions():
@@ -107,13 +128,7 @@ def fetch_szcec_exhibitions():
             
             start_day = int(day_match.group(1))
             start_date = f"{current_year}-{current_month:02d}-{start_day:02d}"
-            
-            end_day_match = re.search(r'(\d{1,2})日.*?(\d{1,2})日', date_str)
-            if end_day_match:
-                end_day = int(end_day_match.group(2))
-                end_date = f"{current_year}-{current_month:02d}-{end_day:02d}"
-            else:
-                end_date = start_date
+            end_date = start_date
             
             url = ''
             link = name_cell.find('a')
@@ -126,8 +141,11 @@ def fetch_szcec_exhibitions():
             if len(name_text) < 2:
                 continue
             
-            description = fetch_exhibition_detail(url, headers)
+            description, full_dates = fetch_exhibition_detail(url, headers)
             time.sleep(0.3)
+            
+            if full_dates:
+                start_date, end_date = full_dates
             
             exhibition = {
                 'name': name_text,

@@ -286,10 +286,11 @@
                     <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📱 添加到日历</a>
                 </div>
                 <div id="android-subscribe" style="display: none;">
-                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📥 下载日历文件</a>
-                    <div style="margin-top: 10px;">
-                        <button onclick="copySubscribeUrl()" style="display: inline-block; padding: 10px 20px; background: #f0f0f0; color: #666; border: none; border-radius: 8px; font-size: 13px; cursor: pointer;">📋 复制订阅链接（Google 日历）</button>
+                    <div style="margin-bottom: 15px; padding: 12px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #e65100; text-align: center;">
+                        💡 安卓订阅方式：推荐使用 Google 日历或 Outlook 日历实现自动更新
                     </div>
+                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" style="margin-bottom: 10px;">📥 下载日历文件（离线导入）</a>
+                    <button onclick="copySubscribeUrl()" style="display: block; width: 100%; padding: 14px; background: linear-gradient(135deg, #4285f4 0%, #34a853 100%); color: white; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer;">🔄 复制订阅链接（支持自动更新）</button>
                 </div>
                 <div class="source-info">数据每周自动更新</div>
             </div>
@@ -317,8 +318,13 @@
                 </div>
                 
                 <div id="android-tutorial" class="tutorial">
+                    <div style="margin-bottom: 20px; padding: 16px; background: #fff3e0; border-radius: 10px; border-left: 4px solid #ff9800;">
+                        <strong style="color: #e65100;">💡 重要说明</strong>
+                        <p style="margin-top: 8px; font-size: 13px;">下载文件是离线导入，不会自动更新。如需自动同步，请使用下方的 Google 日历或 Outlook 日历订阅方法。</p>
+                    </div>
+                    
                     <div style="margin-bottom: 20px; padding: 16px; background: #e8f5e9; border-radius: 10px; border-left: 4px solid #4caf50;">
-                        <strong style="color: #2e7d32;">📱 通用方法（推荐）</strong>
+                        <strong style="color: #2e7d32;">📱 方法一：离线导入（简单）</strong>
                     </div>
                     <div class="step">
                         <div class="step-number">1</div>
@@ -336,9 +342,13 @@
                         <div class="step-number">4</div>
                         <div class="step-text">点击「确定」或「导入」完成添加</div>
                     </div>
+                    <div class="step">
+                        <div class="step-number">5</div>
+                        <div class="step-text"><strong>注意：</strong>这种方式是一次性导入，数据不会自动更新</div>
+                    </div>
                     
-                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #fff3e0; border-radius: 10px; border-left: 4px solid #ff9800;">
-                        <strong style="color: #e65100;">🔄 Google 日历（支持自动更新）</strong>
+                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #e3f2fd; border-radius: 10px; border-left: 4px solid #1976d2;">
+                        <strong style="color: #0d47a1;">🔄 方法二：Google 日历（支持自动更新）</strong>
                     </div>
                     <div class="step">
                         <div class="step-number">1</div>
@@ -350,7 +360,27 @@
                     </div>
                     <div class="step">
                         <div class="step-number">3</div>
-                        <div class="step-text">点击菜单 → 其他日历 → 通过 URL 添加</div>
+                        <div class="step-text">点击左上角菜单 → 其他日历 → 添加日历 → 通过 URL 添加</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">粘贴链接并添加，订阅后自动同步更新</div>
+                    </div>
+                    
+                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #fce4ec; border-radius: 10px; border-left: 4px solid #c2185b;">
+                        <strong style="color: #880e4f;">🔄 方法三：Outlook 日历（支持自动更新）</strong>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「复制订阅链接」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">打开「Outlook」App → 日历</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">点击右上角「+」→ 添加日历 → 从 URL</div>
                     </div>
                     <div class="step">
                         <div class="step-number">4</div>
