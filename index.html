@@ -198,8 +198,8 @@
             <div class="section">
                 <h2>一键订阅</h2>
                 <div class="platform-tabs" style="margin-bottom: 16px;">
-                    <button class="tab active" onclick="showPlatform('ios')">iOS</button>
-                    <button class="tab" onclick="showPlatform('android')">Android</button>
+                    <button class="tab active" onclick="switchPlatform('ios')">iOS</button>
+                    <button class="tab" onclick="switchPlatform('android')">Android</button>
                 </div>
                 <div id="ios-subscribe">
                     <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📱 添加到日历</a>
@@ -215,10 +215,6 @@
             
             <div class="section">
                 <h2>订阅教程</h2>
-                <div class="platform-tabs">
-                    <button class="tab active" onclick="showTutorial('ios')">iOS</button>
-                    <button class="tab" onclick="showTutorial('android')">Android</button>
-                </div>
                 
                 <div id="ios-tutorial" class="tutorial active">
                     <div class="step">
@@ -277,24 +273,20 @@
     </div>
     
     <script>
-        function showTutorial(platform) {
-            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-            document.querySelectorAll('.tutorial').forEach(tut => tut.classList.remove('active'));
-            
-            event.target.classList.add('active');
-            document.getElementById(platform + '-tutorial').classList.add('active');
-        }
-        
-        function showPlatform(platform) {
+        function switchPlatform(platform) {
             document.querySelectorAll('.platform-tabs button').forEach(tab => tab.classList.remove('active'));
             event.target.classList.add('active');
+            
+            document.querySelectorAll('.tutorial').forEach(tut => tut.classList.remove('active'));
             
             if (platform === 'ios') {
                 document.getElementById('ios-subscribe').style.display = 'block';
                 document.getElementById('android-subscribe').style.display = 'none';
+                document.getElementById('ios-tutorial').classList.add('active');
             } else {
                 document.getElementById('ios-subscribe').style.display = 'none';
                 document.getElementById('android-subscribe').style.display = 'block';
+                document.getElementById('android-tutorial').classList.add('active');
             }
         }
         
