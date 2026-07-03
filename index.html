@@ -197,8 +197,17 @@
         <div class="content">
             <div class="section">
                 <h2>一键订阅</h2>
-                <a href="webcal://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/output/exhibitions.ics" class="subscribe-btn">📱 添加到我的日历</a>
-                <div class="source-info">数据每日自动更新</div>
+                <div class="platform-tabs" style="margin-bottom: 16px;">
+                    <button class="tab active" onclick="showPlatform('ios')">iOS</button>
+                    <button class="tab" onclick="showPlatform('android')">Android</button>
+                </div>
+                <div id="ios-subscribe">
+                    <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📱 添加到日历</a>
+                </div>
+                <div id="android-subscribe" style="display: none;">
+                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📥 下载日历文件</a>
+                </div>
+                <div class="source-info">数据每周自动更新</div>
             </div>
             
             <div class="section">
@@ -211,7 +220,7 @@
                 <div id="ios-tutorial" class="tutorial active">
                     <div class="step">
                         <div class="step-number">1</div>
-                        <div class="step-text">点击上方「添加到我的日历」按钮</div>
+                        <div class="step-text">点击上方「添加到日历」按钮</div>
                     </div>
                     <div class="step">
                         <div class="step-number">2</div>
@@ -230,19 +239,19 @@
                 <div id="android-tutorial" class="tutorial">
                     <div class="step">
                         <div class="step-number">1</div>
-                        <div class="step-text">点击上方「添加到我的日历」按钮</div>
+                        <div class="step-text">点击上方「下载日历文件」按钮</div>
                     </div>
                     <div class="step">
                         <div class="step-number">2</div>
-                        <div class="step-text">选择使用「Google 日历」打开</div>
+                        <div class="step-text">下载完成后打开文件</div>
                     </div>
                     <div class="step">
                         <div class="step-number">3</div>
-                        <div class="step-text">点击「添加」完成订阅</div>
+                        <div class="step-text">选择「日历」应用打开并导入</div>
                     </div>
                     <div class="step">
                         <div class="step-number">4</div>
-                        <div class="step-text">订阅后日历会自动同步更新</div>
+                        <div class="step-text">点击「确定」完成导入</div>
                     </div>
                 </div>
             </div>
@@ -271,6 +280,19 @@
             
             event.target.classList.add('active');
             document.getElementById(platform + '-tutorial').classList.add('active');
+        }
+        
+        function showPlatform(platform) {
+            document.querySelectorAll('.platform-tabs button').forEach(tab => tab.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            if (platform === 'ios') {
+                document.getElementById('ios-subscribe').style.display = 'block';
+                document.getElementById('android-subscribe').style.display = 'none';
+            } else {
+                document.getElementById('ios-subscribe').style.display = 'none';
+                document.getElementById('android-subscribe').style.display = 'block';
+            }
         }
     </script>
 </body>

@@ -17,7 +17,7 @@ def format_date(date_str, is_end=False):
     date = datetime.strptime(date_str, '%Y-%m-%d')
     if is_end:
         date = date + timedelta(days=1)
-    return date.strftime('%Y%m%d') + 'T000000'
+    return date.strftime('%Y%m%d')
 
 
 def create_ics(exhibitions):
@@ -29,18 +29,36 @@ def create_ics(exhibitions):
     lines.append(f'X-WR-CALDESC:{CALENDAR_DESCRIPTION}')
     lines.append(f'X-WR-TIMEZONE:{CALENDAR_TIMEZONE}')
     
+    lines.append('BEGIN:VTIMEZONE')
+    lines.append('TZID:Asia/Shanghai')
+    lines.append('BEGIN:STANDARD')
+    lines.append('DTSTART:19701001T030000')
+    lines.append('RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU')
+    lines.append('TZNAME:CST')
+    lines.append('TZOFFSETFROM:+0800')
+    lines.append('TZOFFSETTO:+0800')
+    lines.append('END:STANDARD')
+    lines.append('BEGIN:DAYLIGHT')
+    lines.append('DTSTART:19700401T020000')
+    lines.append('RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU')
+    lines.append('TZNAME:CST')
+    lines.append('TZOFFSETFROM:+0800')
+    lines.append('TZOFFSETTO:+0800')
+    lines.append('END:DAYLIGHT')
+    lines.append('END:VTIMEZONE')
+    
     for exhibition in exhibitions:
         uid = generate_uid(exhibition)
         
         lines.append('BEGIN:VEVENT')
         lines.append(f'UID:{uid}@shenzhen-exhibitions')
-        lines.append(f'DTSTAMP:{datetime.now().strftime("%Y%m%dT%H%M%S")}')
+        lines.append(f'DTSTAMP:{datetime.now().strftime("%Y%m%dT%H%M%SZ")}')
         
         start_dt = format_date(exhibition['start_date'])
         end_dt = format_date(exhibition['end_date'], is_end=True)
         
-        lines.append(f'DTSTART;VALUE=DATE-TIME;TZID={CALENDAR_TIMEZONE}:{start_dt}')
-        lines.append(f'DTEND;VALUE=DATE-TIME;TZID={CALENDAR_TIMEZONE}:{end_dt}')
+        lines.append(f'DTSTART;VALUE=DATE:{start_dt}')
+        lines.append(f'DTEND;VALUE=DATE:{end_dt}')
         
         lines.append(f'SUMMARY:{exhibition["name"]}')
         lines.append(f'LOCATION:{exhibition["venue"]}')
