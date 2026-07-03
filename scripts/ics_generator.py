@@ -64,6 +64,8 @@ def create_ics(exhibitions):
         lines.append(f'LOCATION:{exhibition["venue"]}')
         
         description_parts = []
+        if exhibition.get('description'):
+            description_parts.append(exhibition['description'])
         description_parts.append(f'地点: {exhibition["venue"]}')
         description_parts.append(f'时间: {exhibition["start_date"]} 至 {exhibition["end_date"]}')
         if exhibition.get('url'):
