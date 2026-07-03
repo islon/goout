@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>深圳展览日历</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        
+        .header p {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        
+        .icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        .section h2 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: #333;
+        }
+        
+        .subscribe-btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .subscribe-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .platform-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .tab {
+            flex: 1;
+            padding: 12px;
+            background: #f5f5f5;
+            border: none;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .tab.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .tutorial {
+            display: none;
+        }
+        
+        .tutorial.active {
+            display: block;
+        }
+        
+        .step {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 16px;
+            padding: 16px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .step-number {
+            width: 28px;
+            height: 28px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 600;
+            margin-right: 12px;
+            flex-shrink: 0;
+        }
+        
+        .step-text {
+            font-size: 14px;
+            color: #555;
+            line-height: 1.6;
+        }
+        
+        .feature-list {
+            list-style: none;
+        }
+        
+        .feature-list li {
+            display: flex;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+            font-size: 14px;
+            color: #555;
+        }
+        
+        .feature-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .check-icon {
+            color: #10b981;
+            margin-right: 10px;
+            font-size: 18px;
+        }
+        
+        .footer {
+            padding: 20px 30px;
+            background: #f5f5f5;
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+        }
+        
+        .source-info {
+            font-size: 12px;
+            color: #888;
+            margin-top: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="icon">📅</div>
+            <h1>深圳展览日历</h1>
+            <p>深圳会展中心 & 深圳国际会展中心</p>
+        </div>
+        
+        <div class="content">
+            <div class="section">
+                <h2>一键订阅</h2>
+                <a href="webcal://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/output/exhibitions.ics" class="subscribe-btn">📱 添加到我的日历</a>
+                <div class="source-info">数据每日自动更新</div>
+            </div>
+            
+            <div class="section">
+                <h2>订阅教程</h2>
+                <div class="platform-tabs">
+                    <button class="tab active" onclick="showTutorial('ios')">iOS</button>
+                    <button class="tab" onclick="showTutorial('android')">Android</button>
+                </div>
+                
+                <div id="ios-tutorial" class="tutorial active">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「添加到我的日历」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">系统会自动打开「日历」应用</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">点击「添加全部」完成订阅</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">订阅后日历会自动同步更新</div>
+                    </div>
+                </div>
+                
+                <div id="android-tutorial" class="tutorial">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「添加到我的日历」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">选择使用「Google 日历」打开</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">点击「添加」完成订阅</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">订阅后日历会自动同步更新</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>功能特点</h2>
+                <ul class="feature-list">
+                    <li><span class="check-icon">✓</span>整合深圳两大会展中心数据</li>
+                    <li><span class="check-icon">✓</span>支持 iOS / Android 原生日历</li>
+                    <li><span class="check-icon">✓</span>订阅后自动同步更新</li>
+                    <li><span class="check-icon">✓</span>无需安装任何 App</li>
+                    <li><span class="check-icon">✓</span>零广告，完全免费</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer">
+            数据来源：深圳会展中心 | 深圳国际会展中心
+        </div>
+    </div>
+    
+    <script>
+        function showTutorial(platform) {
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tutorial').forEach(tut => tut.classList.remove('active'));
+            
+            event.target.classList.add('active');
+            document.getElementById(platform + '-tutorial').classList.add('active');
+        }
+    </script>
+</body>
+</html>
