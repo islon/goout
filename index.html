@@ -205,7 +205,10 @@
                     <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📱 添加到日历</a>
                 </div>
                 <div id="android-subscribe" style="display: none;">
-                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📥 下载日历文件</a>
+                    <button onclick="copySubscribeUrl()" class="subscribe-btn">📋 复制订阅链接</button>
+                    <div style="margin-top: 10px;">
+                        <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" style="display: inline-block; padding: 10px 20px; background: #f0f0f0; color: #666; border-radius: 8px; font-size: 13px; text-decoration: none;">📥 下载日历文件（备用）</a>
+                    </div>
                 </div>
                 <div class="source-info">数据每周自动更新</div>
             </div>
@@ -239,19 +242,19 @@
                 <div id="android-tutorial" class="tutorial">
                     <div class="step">
                         <div class="step-number">1</div>
-                        <div class="step-text">点击上方「下载日历文件」按钮</div>
+                        <div class="step-text">点击上方「复制订阅链接」按钮</div>
                     </div>
                     <div class="step">
                         <div class="step-number">2</div>
-                        <div class="step-text">下载完成后打开文件</div>
+                        <div class="step-text">打开「Google 日历」App</div>
                     </div>
                     <div class="step">
                         <div class="step-number">3</div>
-                        <div class="step-text">选择「日历」应用打开并导入</div>
+                        <div class="step-text">点击菜单 → 其他日历 → 通过 URL 添加</div>
                     </div>
                     <div class="step">
                         <div class="step-number">4</div>
-                        <div class="step-text">点击「确定」完成导入</div>
+                        <div class="step-text">粘贴链接并添加，订阅后自动同步更新</div>
                     </div>
                 </div>
             </div>
@@ -293,6 +296,20 @@
                 document.getElementById('ios-subscribe').style.display = 'none';
                 document.getElementById('android-subscribe').style.display = 'block';
             }
+        }
+        
+        function copySubscribeUrl() {
+            const url = 'https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics';
+            navigator.clipboard.writeText(url).then(() => {
+                const btn = event.target;
+                const originalText = btn.textContent;
+                btn.textContent = '✓ 已复制';
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                }, 2000);
+            }).catch(err => {
+                alert('复制失败，请手动复制链接：\n' + url);
+            });
         }
     </script>
 </body>
