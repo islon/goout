@@ -30,7 +30,7 @@
         .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 40px 30px;
+            padding: 20px 20px 30px;
             text-align: center;
             position: relative;
         }
@@ -51,10 +51,34 @@
             margin-bottom: 16px;
         }
         
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .schedule-link {
+            padding: 8px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .schedule-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
         .feedback-btn {
-            position: absolute;
-            top: 20px;
-            right: 20px;
             padding: 8px 14px;
             background: rgba(255, 255, 255, 0.2);
             border: 1px solid rgba(255, 255, 255, 0.4);
@@ -294,9 +318,10 @@
 <body>
     <div class="container">
         <div class="header">
-            <a href="https://github.com/islon/shenzhen-exhibitions/issues/new" class="feedback-btn" target="_blank" rel="noopener">
-                📝 反馈
-            </a>
+            <div class="header-top">
+                <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="schedule-link" target="_blank">📅 查看日程</a>
+                <a href="https://github.com/islon/shenzhen-exhibitions/issues/new" class="feedback-btn" target="_blank" rel="noopener">📝 反馈</a>
+            </div>
             <div class="icon">👨‍👩‍👧‍👦</div>
             <h1>深圳亲子活动</h1>
             <p>最好的成长是一路相伴</p>
@@ -498,15 +523,88 @@
         
         function copySubscribeUrl() {
             const url = 'https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics';
-            navigator.clipboard.writeText(url).then(() => {
-                const btn = event.target;
-                const originalText = btn.textContent;
-                btn.textContent = '✓ 已复制';
-                setTimeout(() => {
-                    btn.textContent = originalText;
-                }, 2000);
-            }).catch(err => {
-                alert('复制失败，请手动复制链接：\n' + url);
+            const btn = event.target;
+            const originalText = btn.textContent;
+            
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(url).then(() => {
+                    btn.textContent = '✓ 已复制';
+                    setTimeout(() => {
+                        btn.textContent = originalText;
+                    }, 2000);
+                }).catch(err => {
+                    fallbackCopy(url, btn, originalText);
+                });
+            } else {
+                fallbackCopy(url, btn, originalText);
+            }
+        }
+
+        function fallbackCopy(url, btn, originalText) {
+            const textArea = document.createElement('textarea');
+            textArea.value = url;
+            textArea.style.position = 'fixed';
+            textArea.style.left = '-9999px';
+            document.body.appendChild(textArea);
+            textArea.select();
+            
+            try {
+                const successful = document.execCommand('copy');
+                if (successful) {
+                    btn.textContent = '✓ 已复制';
+                    setTimeout(() => {
+                        btn.textContent = originalText;
+                    }, 2000);
+                } else {
+                    showCopyError(url);
+                }
+            } catch (err) {
+                showCopyError(url);
+            }
+            
+            document.body.removeChild(textArea);
+        }
+
+        function showCopyError(url) {
+            const modal = document.createElement('div');
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: rgba(0,0,0,0.5);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                z-index: 9999;
+            `;
+            
+            const content = document.createElement('div');
+            content.style.cssText = `
+                background: white;
+                border-radius: 12px;
+                padding: 24px;
+                max-width: 320px;
+                text-align: center;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            `;
+            
+            content.innerHTML = `
+                <div style="font-size: 32px; margin-bottom: 12px;">📋</div>
+                <div style="font-size: 16px; font-weight: 600; color: #333; margin-bottom: 8px;">复制订阅链接</div>
+                <div style="font-size: 13px; color: #666; margin-bottom: 16px;">请长按下方链接复制</div>
+                <div style="padding: 12px; background: #f5f7fa; border-radius: 8px; font-size: 12px; color: #666; word-break: break-all; text-align: left;">${url}</div>
+                <button onclick="this.parentElement.parentElement.remove()" style="margin-top: 16px; padding: 10px 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 14px; font-weight: 500; cursor: pointer;">知道了</button>
+            `;
+            
+            modal.appendChild(content);
+            document.body.appendChild(modal);
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                }
             });
         }
         
