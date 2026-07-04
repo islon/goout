@@ -7,7 +7,7 @@ import re
 import time
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from config import BALIB_URL, BALIB_NAME, OUTPUT_DIR, JSON_FILE
+from config import BAOAN_TY_URL, BAOAN_TY_NAME, OUTPUT_DIR, JSON_FILE
 
 
 def extract_dates(text):
@@ -28,37 +28,50 @@ def extract_dates(text):
     return dates
 
 
-def fetch_balib_activities():
+def extract_location(text):
+    location_keywords = ['体育馆', '体育场', '体育中心', '游泳馆', '训练馆', '综合馆']
+    for keyword in location_keywords:
+        if keyword in text:
+            return f"宝安{keyword}"
+    return BAOAN_TY_NAME
+
+
+def fetch_baoan_ty_activities():
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
     activities = []
     
-    category_urls = [
-        'https://www.balib.cn/category/13',
-        'https://www.balib.cn/category/275',
-        'https://www.balib.cn/category/126',
+    urls_to_try = [
+        'http://www.baoan.gov.cn/bawtlyj/',
+        'http://www.baoan.gov.cn/bawtlyj/gkmlpt/index',
+        'http://www.baoan.gov.cn/xxgk/xwzx/bmdt/',
     ]
     
-    for category_url in category_urls:
+    for base_url in urls_to_try:
         try:
-            response = requests.get(category_url, headers=headers, timeout=10)
+            response = requests.get(base_url, headers=headers, timeout=10)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'lxml')
             
             info_links = []
             for link in soup.find_all('a', href=True):
                 href = link['href']
-                if href.startswith('/information/'):
-                    info_links.append(href)
+                text = link.get_text().strip()
+                
+                activity_keywords = ['体育', '比赛', '赛事', '演出', '活动', '演唱会', '音乐会']
+                if any(kw in text for kw in activity_keywords):
+                    if href.startswith('http'):
+                        info_links.append(href)
+                    elif href.startswith('/'):
+                        info_links.append(f"http://www.baoan.gov.cn{href}")
             
-            info_links = list(set(info_links))[:30]
+            info_links = list(set(info_links))[:20]
             
-            for href in info_links:
+            for url in info_links:
                 try:
-                    full_url = f"https://www.balib.cn{href}"
-                    response = requests.get(full_url, headers=headers, timeout=10)
+                    response = requests.get(url, headers=headers, timeout=10)
                     response.raise_for_status()
                     soup = BeautifulSoup(response.text, 'lxml')
                     
@@ -70,12 +83,6 @@ def fetch_balib_activities():
                     
                     text = soup.get_text()
                     
-                    keywords = ['活动', '讲座', '沙龙', '展览', '亲子', '阅读', '培训', '比赛', '演出']
-                    has_keyword = any(kw in name for kw in keywords)
-                    
-                    if not has_keyword:
-                        continue
-                    
                     dates = extract_dates(text)
                     
                     if len(dates) == 0:
@@ -84,7 +91,9 @@ def fetch_balib_activities():
                     start_date = dates[0]
                     end_date = dates[-1]
                     
-                    content_divs = soup.find_all(['div', 'article'], class_=re.compile(r'(content|article|detail|text|active-detail)'))
+                    venue = extract_location(text)
+                    
+                    content_divs = soup.find_all(['div', 'article'], class_=re.compile(r'(content|article|detail|text)'))
                     description = ''
                     for div in content_divs:
                         div_text = div.get_text().strip()
@@ -102,33 +111,33 @@ def fetch_balib_activities():
                     
                     activity = {
                         'name': name,
-                        'venue': BALIB_NAME,
+                        'venue': venue,
                         'start_date': start_date,
                         'end_date': end_date,
-                        'url': full_url,
+                        'url': url,
                         'contact': '',
                         'description': description,
-                        'source': 'balib'
+                        'source': 'baoan_ty'
                     }
                     activities.append(activity)
                     
                     time.sleep(0.3)
                     
-                except Exception as e:
+                except Exception:
                     continue
             
-        except Exception as e:
+        except Exception:
             continue
     
     return activities
 
 
 def main():
-    activities = fetch_balib_activities()
-    print(f"Fetched {len(activities)} activities from {BALIB_NAME}")
+    activities = fetch_baoan_ty_activities()
+    print(f"Fetched {len(activities)} activities from {BAOAN_TY_NAME}")
     
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    json_path = os.path.join(OUTPUT_DIR, f"balib_{JSON_FILE}")
+    json_path = os.path.join(OUTPUT_DIR, f"baoan_ty_{JSON_FILE}")
     
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(activities, f, ensure_ascii=False, indent=2)

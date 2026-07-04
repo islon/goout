@@ -6,10 +6,10 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from scraper_szcec import fetch_szcec_exhibitions
 from scraper_shenzhen_world import fetch_shenzhen_world_exhibitions
 from scraper_balib import fetch_balib_activities
-from scraper_bawt import fetch_bawt_activities
 from scraper_szlib import fetch_szlib_activities
 from scraper_bayarea_eye import fetch_bayarea_eye_activities
 from scraper_baoan_kjg import fetch_baoan_kjg_activities
+from scraper_baoan_ty import fetch_baoan_ty_activities
 from ics_generator import create_ics
 from rss_generator import generate_rss
 from config import OUTPUT_DIR, ICS_FILE, JSON_FILE
@@ -42,11 +42,11 @@ def main():
     baoan_kjg_activities = fetch_baoan_kjg_activities()
     print(f"   获取到 {len(baoan_kjg_activities)} 个活动")
     
-    print("\n7. 抓取宝安文体通数据...")
-    bawt_activities = fetch_bawt_activities()
-    print(f"   获取到 {len(bawt_activities)} 个活动")
+    print("\n7. 抓取宝安体育中心数据...")
+    baoan_ty_activities = fetch_baoan_ty_activities()
+    print(f"   获取到 {len(baoan_ty_activities)} 个活动")
     
-    all_exhibitions = szcec_exhibitions + world_exhibitions + szlib_activities + balib_activities + bayarea_activities + baoan_kjg_activities + bawt_activities
+    all_exhibitions = szcec_exhibitions + world_exhibitions + szlib_activities + balib_activities + bayarea_activities + baoan_kjg_activities + baoan_ty_activities
     all_exhibitions.sort(key=lambda x: x['start_date'])
     
     print(f"\n8. 共获取 {len(all_exhibitions)} 个活动")

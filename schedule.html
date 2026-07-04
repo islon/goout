@@ -165,6 +165,10 @@
             border-left-color: #ec4899;
         }
 
+        .exhibition-card.baoan_ty {
+            border-left-color: #f97316;
+        }
+
         .exhibition-card:hover {
             transform: translateX(4px);
         }
@@ -255,6 +259,26 @@
             color: #1565c0;
         }
 
+        .fee-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 500;
+            margin-left: 6px;
+            vertical-align: middle;
+        }
+
+        .fee-badge.free {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .fee-badge.paid {
+            background: #fff3e0;
+            color: #e65100;
+        }
+
         .loading {
             text-align: center;
             padding: 40px;
@@ -265,7 +289,6 @@
 <body>
     <div class="header">
         <div class="header-top">
-            <a href="https://islon.github.io/shenzhen-exhibitions/" class="back-link">← 返回首页</a>
             <a href="https://islon.github.io/shenzhen-exhibitions/" class="subscribe-link" target="_blank">📅 订阅日程</a>
         </div>
         <h1>👨‍👩‍👧‍👦 深圳亲子活动日程</h1>
@@ -274,9 +297,9 @@
     <div class="filter-section">
         <div class="filter-label">时间筛选</div>
         <div class="filter-bar" id="time-filter-bar">
-            <button class="filter-btn active" data-filter="today">今天</button>
+            <button class="filter-btn" data-filter="today">今天</button>
             <button class="filter-btn" data-filter="tomorrow">明天</button>
-            <button class="filter-btn" data-filter="upcoming">最近活动</button>
+            <button class="filter-btn active" data-filter="upcoming">最近活动</button>
             <button class="filter-btn" data-filter="week">本周</button>
             <button class="filter-btn" data-filter="month">本月</button>
             <button class="filter-btn" data-filter="next_month">下月</button>
@@ -285,16 +308,25 @@
     </div>
 
     <div class="filter-section">
-        <div class="filter-label">数据来源</div>
+        <div class="filter-label">地点</div>
         <div class="filter-bar" id="source-filter-bar">
-            <button class="filter-btn active" data-source="all">全部来源</button>
+            <button class="filter-btn active" data-source="all">全部地点</button>
             <button class="filter-btn" data-source="szcec">深圳会展中心</button>
             <button class="filter-btn" data-source="shenzhen_world">深圳国际会展中心</button>
             <button class="filter-btn" data-source="szlib">深圳图书馆</button>
             <button class="filter-btn" data-source="balib">宝安图书馆</button>
             <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
             <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
-            <button class="filter-btn" data-source="bawt">宝安文体通</button>
+            <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
+        </div>
+    </div>
+
+    <div class="filter-section">
+        <div class="filter-label">收费筛选</div>
+        <div class="filter-bar" id="fee-filter-bar">
+            <button class="filter-btn active" data-fee="all">全部</button>
+            <button class="filter-btn" data-fee="free">免费</button>
+            <button class="filter-btn" data-fee="paid">收费</button>
         </div>
     </div>
 
@@ -309,6 +341,36 @@
         let allExhibitions = [];
         let currentTimeFilter = 'upcoming';
         let currentSourceFilter = 'all';
+        let currentFeeFilter = 'all';
+
+        function getFeeType(exhibition) {
+            const name = exhibition.name || '';
+            const desc = exhibition.description || '';
+            const venue = exhibition.venue || '';
+            
+            const freeKeywords = ['免费', '公益', '免门票', '免费开放', '免费参与'];
+            const paidKeywords = ['收费', '门票', '购票', '票价', '预售', '报名费用', '￥', '元'];
+            
+            if (freeKeywords.some(kw => name.includes(kw) || desc.includes(kw))) {
+                return 'free';
+            }
+            
+            if (paidKeywords.some(kw => name.includes(kw) || desc.includes(kw))) {
+                return 'paid';
+            }
+            
+            const freeVenues = ['图书馆', '宝安科技馆', '湾区之眼'];
+            if (freeVenues.some(v => venue.includes(v))) {
+                return 'free';
+            }
+            
+            const paidVenues = ['会展中心', '体育馆', '体育场', '体育中心'];
+            if (paidVenues.some(v => venue.includes(v))) {
+                return 'paid';
+            }
+            
+            return 'unknown';
+        }
 
         function getFilteredExhibitions() {
             const now = new Date();
@@ -321,6 +383,10 @@
 
             if (currentSourceFilter !== 'all') {
                 filtered = filtered.filter(e => e.source === currentSourceFilter);
+            }
+
+            if (currentFeeFilter !== 'all') {
+                filtered = filtered.filter(e => getFeeType(e) === currentFeeFilter);
             }
 
             switch (currentTimeFilter) {
@@ -429,6 +495,9 @@
                 }
 
                 const dateBadge = getDateBadge(startDate);
+                const feeType = getFeeType(exhibition);
+                const feeBadge = feeType === 'free' ? '<span class="fee-badge free">免费</span>' : 
+                                feeType === 'paid' ? '<span class="fee-badge paid">收费</span>' : '';
                 const dateDisplay = startDate === endDate 
                     ? formatDate(startDate) 
                     : `${startDate.substring(5)} ~ ${endDate.substring(5)}`;
@@ -436,7 +505,7 @@
                 html += `
                     <div class="exhibition-card ${exhibition.source || 'szcec'}">
                         ${dateBadge}
-                        <div class="exhibition-title">${exhibition.name}</div>
+                        <div class="exhibition-title">${exhibition.name} ${feeBadge}</div>
                         <div class="exhibition-meta">
                             <span>📅 ${dateDisplay}</span>
                             <span>📍 ${exhibition.venue}</span>
@@ -467,6 +536,16 @@
                     sourceButtons.forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
                     currentSourceFilter = btn.dataset.source;
+                    renderExhibitions();
+                });
+            });
+
+            const feeButtons = document.querySelectorAll('#fee-filter-bar .filter-btn');
+            feeButtons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    feeButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentFeeFilter = btn.dataset.fee;
                     renderExhibitions();
                 });
             });
