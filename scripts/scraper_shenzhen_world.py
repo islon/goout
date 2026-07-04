@@ -62,7 +62,11 @@ def fetch_shenzhen_world_exhibitions():
         try:
             response = requests.get(url, headers=headers)
             response.raise_for_status()
-            soup = BeautifulSoup(response.content, 'lxml')
+            
+            if response.encoding != 'utf-8':
+                response.encoding = response.apparent_encoding
+            
+            soup = BeautifulSoup(response.text, 'lxml')
             
             exh_items = soup.find_all('li', class_='exh-item')
             
