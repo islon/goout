@@ -94,47 +94,36 @@ def fetch_balib_activities():
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'lxml')
             
-            content_box = soup.find('div', class_='content-box')
-            if not content_box:
-                continue
+            info_links = []
+            for link in soup.find_all('a', href=True):
+                href = link['href']
+                if href.startswith('/information/'):
+                    info_links.append(href)
             
-            items = content_box.find_all('div', class_='item')
+            info_links = list(set(info_links))[:30]
             
-            for item in items:
+            for href in info_links:
                 try:
-                    links = item.find_all('a', href=True)
-                    href = ''
-                    name = ''
+                    full_url = f"https://www.balib.cn{href}"
+                    response = requests.get(full_url, headers=headers, timeout=10)
+                    response.raise_for_status()
+                    soup = BeautifulSoup(response.text, 'lxml')
                     
-                    for link in links:
-                        if link['href'].startswith('/information/'):
-                            href = link['href']
-                            text = link.get_text().strip()
-                            if text and len(text) > 1:
-                                name = text
+                    title_tag = soup.find('h1') or soup.find('title')
+                    name = title_tag.get_text().strip() if title_tag else ''
                     
-                    if not href or not name:
+                    if not name or len(name) < 2:
                         continue
                     
-                    pub = item.find('div', class_='pub')
-                    date_str = ''
-                    if pub:
-                        date_str = pub.get_text().strip()
+                    description, full_dates = fetch_activity_detail(href, headers)
                     
                     start_date = ''
                     end_date = ''
                     
-                    date_match = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', date_str)
-                    if date_match:
-                        year, month, day = date_match.groups()
-                        start_date = f"{year}-{int(month):02d}-{int(day):02d}"
-                        end_date = start_date
+                    if full_dates:
+                        start_date, end_date = full_dates
                     else:
-                        full_url = f"https://www.balib.cn{href}"
-                        response_detail = requests.get(full_url, headers=headers, timeout=10)
-                        response_detail.raise_for_status()
-                        soup_detail = BeautifulSoup(response_detail.text, 'lxml')
-                        text = soup_detail.get_text()
+                        text = soup.get_text()
                         date_match = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', text)
                         if date_match:
                             year, month, day = date_match.groups()
@@ -144,23 +133,19 @@ def fetch_balib_activities():
                     if not start_date:
                         continue
                     
-                    description, full_dates = fetch_activity_detail(href, headers)
-                    if full_dates:
-                        start_date, end_date = full_dates
-                    
                     activity = {
                         'name': name,
                         'venue': BALIB_NAME,
                         'start_date': start_date,
                         'end_date': end_date,
-                        'url': f"https://www.balib.cn{href}",
+                        'url': full_url,
                         'contact': '',
                         'description': description,
                         'source': 'balib'
                     }
                     activities.append(activity)
                     
-                    time.sleep(0.2)
+                    time.sleep(0.3)
                     
                 except Exception as e:
                     continue

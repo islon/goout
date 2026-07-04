@@ -7,8 +7,9 @@ from scraper_szcec import fetch_szcec_exhibitions
 from scraper_shenzhen_world import fetch_shenzhen_world_exhibitions
 from scraper_balib import fetch_balib_activities
 from scraper_bawt import fetch_bawt_activities
-from scraper_octohbay import fetch_octohbay_activities
-from scraper_bayeye import fetch_bayeye_activities
+from scraper_szlib import fetch_szlib_activities
+from scraper_bayarea_eye import fetch_bayarea_eye_activities
+from scraper_baoan_kjg import fetch_baoan_kjg_activities
 from ics_generator import create_ics
 from rss_generator import generate_rss
 from config import OUTPUT_DIR, ICS_FILE, JSON_FILE
@@ -25,26 +26,30 @@ def main():
     world_exhibitions = fetch_shenzhen_world_exhibitions()
     print(f"   获取到 {len(world_exhibitions)} 个展会")
     
-    print("\n3. 抓取宝安图书馆数据...")
+    print("\n3. 抓取深圳图书馆数据...")
+    szlib_activities = fetch_szlib_activities()
+    print(f"   获取到 {len(szlib_activities)} 个活动")
+    
+    print("\n4. 抓取宝安图书馆数据...")
     balib_activities = fetch_balib_activities()
     print(f"   获取到 {len(balib_activities)} 个活动")
     
-    print("\n4. 抓取宝安文体通数据...")
+    print("\n5. 抓取湾区之眼数据...")
+    bayarea_activities = fetch_bayarea_eye_activities()
+    print(f"   获取到 {len(bayarea_activities)} 个活动")
+    
+    print("\n6. 抓取宝安科技馆数据...")
+    baoan_kjg_activities = fetch_baoan_kjg_activities()
+    print(f"   获取到 {len(baoan_kjg_activities)} 个活动")
+    
+    print("\n7. 抓取宝安文体通数据...")
     bawt_activities = fetch_bawt_activities()
     print(f"   获取到 {len(bawt_activities)} 个活动")
     
-    print("\n5. 抓取欢乐港湾数据...")
-    octohbay_activities = fetch_octohbay_activities()
-    print(f"   获取到 {len(octohbay_activities)} 个活动")
-    
-    print("\n6. 抓取湾区之眼数据...")
-    bayeye_activities = fetch_bayeye_activities()
-    print(f"   获取到 {len(bayeye_activities)} 个活动")
-    
-    all_exhibitions = szcec_exhibitions + world_exhibitions + balib_activities + bawt_activities + octohbay_activities + bayeye_activities
+    all_exhibitions = szcec_exhibitions + world_exhibitions + szlib_activities + balib_activities + bayarea_activities + baoan_kjg_activities + bawt_activities
     all_exhibitions.sort(key=lambda x: x['start_date'])
     
-    print(f"\n7. 共获取 {len(all_exhibitions)} 个活动")
+    print(f"\n8. 共获取 {len(all_exhibitions)} 个活动")
     
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
