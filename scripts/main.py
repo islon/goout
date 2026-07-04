@@ -6,6 +6,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from scraper_szcec import fetch_szcec_exhibitions
 from scraper_shenzhen_world import fetch_shenzhen_world_exhibitions
 from ics_generator import create_ics
+from rss_generator import generate_rss
 from config import OUTPUT_DIR, ICS_FILE, JSON_FILE
 
 
@@ -38,6 +39,9 @@ def main():
     with open(ics_path, 'w', encoding='utf-8') as f:
         f.write(ics_content)
     print(f"   ICS日历已生成到 {ics_path}")
+    
+    generate_rss()
+    print(f"   RSS订阅已生成到 {os.path.join(OUTPUT_DIR, 'exhibitions.rss')}")
     
     print("\n=== 完成 ===")
 
