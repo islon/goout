@@ -7,6 +7,8 @@ from scraper_szcec import fetch_szcec_exhibitions
 from scraper_shenzhen_world import fetch_shenzhen_world_exhibitions
 from scraper_balib import fetch_balib_activities
 from scraper_bawt import fetch_bawt_activities
+from scraper_octohbay import fetch_octohbay_activities
+from scraper_bayeye import fetch_bayeye_activities
 from ics_generator import create_ics
 from rss_generator import generate_rss
 from config import OUTPUT_DIR, ICS_FILE, JSON_FILE
@@ -31,10 +33,18 @@ def main():
     bawt_activities = fetch_bawt_activities()
     print(f"   获取到 {len(bawt_activities)} 个活动")
     
-    all_exhibitions = szcec_exhibitions + world_exhibitions + balib_activities + bawt_activities
+    print("\n5. 抓取欢乐港湾数据...")
+    octohbay_activities = fetch_octohbay_activities()
+    print(f"   获取到 {len(octohbay_activities)} 个活动")
+    
+    print("\n6. 抓取湾区之眼数据...")
+    bayeye_activities = fetch_bayeye_activities()
+    print(f"   获取到 {len(bayeye_activities)} 个活动")
+    
+    all_exhibitions = szcec_exhibitions + world_exhibitions + balib_activities + bawt_activities + octohbay_activities + bayeye_activities
     all_exhibitions.sort(key=lambda x: x['start_date'])
     
-    print(f"\n5. 共获取 {len(all_exhibitions)} 个活动")
+    print(f"\n7. 共获取 {len(all_exhibitions)} 个活动")
     
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
