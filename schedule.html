@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>深圳展览日程</title>
+    <title>深圳亲子活动日程</title>
     <style>
         * {
             margin: 0;
@@ -20,14 +20,34 @@
         .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 24px 20px;
+            padding: 20px 20px 24px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+        }
+
+        .subscribe-link {
+            position: absolute;
+            top: 12px;
+            right: 16px;
+            padding: 6px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .subscribe-link:hover {
+            background: rgba(255, 255, 255, 0.3);
         }
 
         .header h1 {
             font-size: 24px;
             font-weight: 600;
             text-align: center;
+            margin-top: 8px;
         }
 
         .filter-bar {
@@ -184,15 +204,16 @@
 </head>
 <body>
     <div class="header">
-        <h1>📅 深圳展览日程</h1>
+        <a href="https://islon.github.io/shenzhen-exhibitions/" class="subscribe-link">🔔 订阅日程</a>
+        <h1>👨‍👩‍👧‍👦 深圳亲子活动日程</h1>
     </div>
 
     <div class="filter-bar" id="filter-bar">
-        <button class="filter-btn active" data-filter="upcoming">最近展览</button>
+        <button class="filter-btn active" data-filter="upcoming">最近活动</button>
         <button class="filter-btn" data-filter="month">本月</button>
         <button class="filter-btn" data-filter="next_month">下月</button>
         <button class="filter-btn" data-filter="quarter">本季度</button>
-        <button class="filter-btn" data-filter="all">全部展览</button>
+        <button class="filter-btn" data-filter="all">全部活动</button>
     </div>
 
     <div class="content">
