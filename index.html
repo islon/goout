@@ -32,6 +32,7 @@
             color: white;
             padding: 40px 30px;
             text-align: center;
+            position: relative;
         }
         
         .header h1 {
@@ -48,6 +49,29 @@
         .icon {
             font-size: 48px;
             margin-bottom: 16px;
+        }
+        
+        .feedback-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            padding: 8px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .feedback-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
         }
         
         .content {
@@ -270,6 +294,9 @@
 <body>
     <div class="container">
         <div class="header">
+            <a href="https://github.com/islon/shenzhen-exhibitions/issues/new" class="feedback-btn" target="_blank" rel="noopener">
+                📝 反馈
+            </a>
             <div class="icon">📅</div>
             <h1>深圳展览日历</h1>
             <p>深圳会展中心 & 深圳国际会展中心</p>
