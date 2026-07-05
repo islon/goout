@@ -254,23 +254,19 @@ def generate_events():
         }
     
     date_pool = []
-    for month in range(7, 13):
-        days_in_month = [1, 8, 15, 22, 29]
-        if month in [9, 11]:
-            days_in_month = [1, 8, 15, 22]
+    
+    for month in range(1, 13):
+        if month == 2:
+            days_in_month = list(range(1, 29))
+        elif month in [4, 6, 9, 11]:
+            days_in_month = list(range(1, 31))
+        else:
+            days_in_month = list(range(1, 32))
         
         for day in days_in_month:
             date_pool.append((2026, month, day))
     
-    for month in range(1, 7):
-        days_in_month = [1, 8, 15, 22, 29]
-        if month == 2:
-            days_in_month = [1, 8, 15, 22]
-        elif month in [4, 6]:
-            days_in_month = [1, 8, 15, 22]
-        
-        for day in days_in_month:
-            date_pool.append((2026, month, day))
+    random.shuffle(date_pool)
     
     date_index = 0
     
