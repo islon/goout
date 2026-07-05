@@ -30,6 +30,34 @@
             box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
             overflow: hidden;
         }
+
+        @media (min-width: 768px) {
+            .container {
+                max-width: 720px;
+            }
+            
+            .content {
+                padding: 40px;
+            }
+            
+            .header h1 {
+                font-size: 36px;
+            }
+            
+            .header p {
+                font-size: 16px;
+            }
+            
+            .icon {
+                font-size: 56px;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .container {
+                max-width: 800px;
+            }
+        }
         
         .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -60,6 +88,12 @@
             justify-content: space-between;
             align-items: center;
             margin-bottom: 16px;
+            gap: 8px;
+        }
+
+        .header-links {
+            display: flex;
+            gap: 8px;
         }
 
         .schedule-link {
@@ -79,6 +113,26 @@
         }
 
         .schedule-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        .data-review-link {
+            padding: 8px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .data-review-link:hover {
             background: rgba(255, 255, 255, 0.3);
         }
         
@@ -323,7 +377,10 @@
     <div class="container">
         <div class="header">
             <div class="header-top">
-                <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="schedule-link" target="_blank">📅 查看日程</a>
+                <div class="header-links">
+                    <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="schedule-link" target="_blank">📅 查看日程</a>
+                    <a href="https://islon.github.io/shenzhen-exhibitions/data-review.html" class="data-review-link" target="_blank">📋 数据审核</a>
+                </div>
                 <a href="https://github.com/islon/shenzhen-exhibitions/issues/new" class="feedback-btn" target="_blank" rel="noopener">📝 反馈</a>
             </div>
             <div class="icon">👨‍👩‍👧‍👦</div>
@@ -503,7 +560,7 @@
         </div>
         
         <div class="footer">
-            数据来源：深圳会展中心 | 深圳国际会展中心 | 深圳图书馆 | 宝安图书馆 | 湾区之眼 | 宝安科技馆 | 宝安文体通
+            数据来源：深圳会展中心 | 深圳国际会展中心 | 深圳图书馆 | 宝安图书馆 | 湾区之眼 | 宝安科技馆 | 宝安体育中心
         </div>
     </div>
     
@@ -642,8 +699,12 @@
                         const endDate = exhibition.end_date;
                         const dateDisplay = startDate === endDate ? startDate : `${startDate} ~ ${endDate}`;
                         
+                        const isFree = exhibition.venue.includes('图书馆') || exhibition.venue.includes('科技馆') || exhibition.venue.includes('湾区之眼');
+                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' : 
+                                         exhibition.venue.includes('会展中心') || exhibition.venue.includes('体育') ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
+                        
                         card.innerHTML = `
-                            <div class="exhibition-title">${exhibition.name}</div>
+                            <div class="exhibition-title">${exhibition.name}${feeBadge}</div>
                             <div class="exhibition-meta">
                                 <span>📅 ${dateDisplay}</span>
                                 <span>📍 ${exhibition.venue}</span>

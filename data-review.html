@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>活动数据审核</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f7fa;
+            padding: 20px;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 24px;
+            border-radius: 16px;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .filter-bar {
+            background: white;
+            padding: 16px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .filter-group label {
+            font-weight: 500;
+            color: #333;
+            font-size: 14px;
+        }
+
+        .filter-group select,
+        .filter-group input {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            min-width: 150px;
+        }
+
+        .stats {
+            background: white;
+            padding: 16px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+            margin-bottom: 20px;
+            display: flex;
+            gap: 24px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .stat-value {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 18px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+        }
+
+        table {
+            width: 100%;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+            border-collapse: collapse;
+            overflow: hidden;
+        }
+
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #333;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            font-size: 14px;
+            color: #555;
+        }
+
+        tr:hover {
+            background: #f8f9fa;
+        }
+
+        .badge {
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .badge.free {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .badge.paid {
+            background: #fff3e0;
+            color: #e65100;
+        }
+
+        .badge.type-exhibition {
+            background: #e3f2fd;
+            color: #1565c0;
+        }
+
+        .badge.type-art {
+            background: #fce4ec;
+            color: #c2185b;
+        }
+
+        .badge.type-sport {
+            background: #e8f5e9;
+            color: #388e3c;
+        }
+
+        .badge.type-science {
+            background: #e0f7fa;
+            color: #00838f;
+        }
+
+        .badge.type-education {
+            background: #f3e5f5;
+            color: #7b1fa2;
+        }
+
+        .badge.type-culture {
+            background: #fff8e1;
+            color: #f57f17;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            margin-top: 20px;
+        }
+
+        .pagination button {
+            padding: 8px 16px;
+            border: 1px solid #ddd;
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .pagination span {
+            padding: 0 8px;
+            color: #666;
+        }
+
+        .search-input {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        @media (max-width: 768px) {
+            th, td {
+                padding: 8px 12px;
+                font-size: 12px;
+            }
+            
+            .filter-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .filter-group {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📋 活动数据审核</h1>
+        <p>查看所有活动数据，检查活动名称、场馆、时间是否合理</p>
+    </div>
+
+    <div class="filter-bar">
+        <div class="filter-group">
+            <label>搜索：</label>
+            <input type="text" id="search-input" class="search-input" placeholder="搜索活动名称、场馆...">
+        </div>
+        <div class="filter-group">
+            <label>场馆：</label>
+            <select id="venue-filter">
+                <option value="all">全部场馆</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>类型：</label>
+            <select id="type-filter">
+                <option value="all">全部类型</option>
+                <option value="exhibition">展览</option>
+                <option value="art">艺术</option>
+                <option value="sport">体育</option>
+                <option value="science">科技</option>
+                <option value="education">教育</option>
+                <option value="culture">文化</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>费用：</label>
+            <select id="fee-filter">
+                <option value="all">全部费用</option>
+                <option value="free">免费</option>
+                <option value="paid">收费</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="stats" id="stats">
+        <div class="stat-item">
+            <span class="stat-value" id="total-count">0</span>
+            <span class="stat-label">总活动数</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="filtered-count">0</span>
+            <span class="stat-label">筛选后</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="szcec-count">0</span>
+            <span class="stat-label">深圳会展中心</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="shenzhen_world-count">0</span>
+            <span class="stat-label">深圳国际会展中心</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="szlib-count">0</span>
+            <span class="stat-label">深圳图书馆</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="balib-count">0</span>
+            <span class="stat-label">宝安图书馆</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="bayarea_eye-count">0</span>
+            <span class="stat-label">湾区之眼</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="baoan_kjg-count">0</span>
+            <span class="stat-label">宝安科技馆</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="baoan_ty-count">0</span>
+            <span class="stat-label">宝安体育中心</span>
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>序号</th>
+                <th>活动名称</th>
+                <th>场馆</th>
+                <th>开始日期</th>
+                <th>结束日期</th>
+                <th>类型</th>
+                <th>费用</th>
+                <th>描述</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+            <tr>
+                <td colspan="8" style="text-align: center; padding: 40px;">加载中...</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="pagination" id="pagination">
+        <button id="prev-btn" disabled>上一页</button>
+        <span id="page-info">第 1 页 / 共 1 页</span>
+        <button id="next-btn" disabled>下一页</button>
+    </div>
+
+    <script>
+        let allExhibitions = [];
+        let currentPage = 1;
+        const pageSize = 50;
+
+        const venueNames = {
+            'szcec': '深圳会展中心',
+            'shenzhen_world': '深圳国际会展中心',
+            'szlib': '深圳图书馆',
+            'balib': '宝安图书馆',
+            'bayarea_eye': '湾区之眼',
+            'baoan_kjg': '宝安科技馆',
+            'baoan_ty': '宝安体育中心'
+        };
+
+        const typeLabels = {
+            'exhibition': '展览',
+            'art': '艺术',
+            'sport': '体育',
+            'science': '科技',
+            'education': '教育',
+            'culture': '文化'
+        };
+
+        function getActivityType(exhibition) {
+            if (exhibition.types && exhibition.types.length > 0) {
+                const type = exhibition.types[0].toLowerCase();
+                if (typeLabels[type]) return type;
+            }
+            const name = exhibition.name.toLowerCase();
+            if (name.includes('展') || name.includes('博览') || name.includes('交易会')) return 'exhibition';
+            if (name.includes('艺术') || name.includes('画展') || name.includes('摄影') || name.includes('音乐')) return 'art';
+            if (name.includes('体育') || name.includes('比赛') || name.includes('足球') || name.includes('篮球') || name.includes('羽毛球') || name.includes('游泳')) return 'sport';
+            if (name.includes('科技') || name.includes('科学') || name.includes('机器人') || name.includes('编程')) return 'science';
+            if (name.includes('讲座') || name.includes('培训') || name.includes('读书') || name.includes('阅读')) return 'education';
+            if (name.includes('文化') || name.includes('非遗') || name.includes('民俗')) return 'culture';
+            return 'exhibition';
+        }
+
+        function getFeeType(exhibition) {
+            if (exhibition.fee === '免费' || exhibition.fee === 'Free' || exhibition.price === '免费') return 'free';
+            if (exhibition.fee === '收费' || exhibition.price && exhibition.price !== '免费') return 'paid';
+            const name = exhibition.name.toLowerCase();
+            if (name.includes('免费')) return 'free';
+            return 'free';
+        }
+
+        function loadData() {
+            fetch('output/exhibitions.json')
+                .then(response => response.json())
+                .then(exhibitions => {
+                    allExhibitions = exhibitions;
+                    populateVenueFilter();
+                    updateStats();
+                    renderTable();
+                })
+                .catch(error => {
+                    document.getElementById('table-body').innerHTML = `
+                        <tr><td colspan="8" style="text-align: center; padding: 40px; color: red;">加载失败: ${error.message}</td></tr>
+                    `;
+                });
+        }
+
+        function populateVenueFilter() {
+            const venues = [...new Set(allExhibitions.map(e => e.source))];
+            const select = document.getElementById('venue-filter');
+            venues.forEach(source => {
+                const option = document.createElement('option');
+                option.value = source;
+                option.textContent = venueNames[source] || source;
+                select.appendChild(option);
+            });
+        }
+
+        function updateStats() {
+            document.getElementById('total-count').textContent = allExhibitions.length;
+            
+            const filtered = getFilteredExhibitions();
+            document.getElementById('filtered-count').textContent = filtered.length;
+            
+            Object.keys(venueNames).forEach(source => {
+                const count = allExhibitions.filter(e => e.source === source).length;
+                const el = document.getElementById(`${source}-count`);
+                if (el) el.textContent = count;
+            });
+        }
+
+        function getFilteredExhibitions() {
+            const searchQuery = document.getElementById('search-input').value.toLowerCase();
+            const venueFilter = document.getElementById('venue-filter').value;
+            const typeFilter = document.getElementById('type-filter').value;
+            const feeFilter = document.getElementById('fee-filter').value;
+
+            return allExhibitions.filter(e => {
+                if (searchQuery && !e.name.toLowerCase().includes(searchQuery) && !e.venue.toLowerCase().includes(searchQuery)) {
+                    return false;
+                }
+                if (venueFilter !== 'all' && e.source !== venueFilter) {
+                    return false;
+                }
+                if (typeFilter !== 'all' && getActivityType(e) !== typeFilter) {
+                    return false;
+                }
+                if (feeFilter !== 'all' && getFeeType(e) !== feeFilter) {
+                    return false;
+                }
+                return true;
+            });
+        }
+
+        function renderTable() {
+            const filtered = getFilteredExhibitions();
+            const totalPages = Math.ceil(filtered.length / pageSize);
+            currentPage = Math.min(currentPage, totalPages);
+            currentPage = Math.max(currentPage, 1);
+
+            const start = (currentPage - 1) * pageSize;
+            const end = start + pageSize;
+            const pageData = filtered.slice(start, end);
+
+            const tbody = document.getElementById('table-body');
+            
+            if (pageData.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="8" style="text-align: center; padding: 40px;">没有找到匹配的活动</td></tr>`;
+            } else {
+                let html = '';
+                pageData.forEach((e, i) => {
+                    const type = getActivityType(e);
+                    const fee = getFeeType(e);
+                    html += `
+                        <tr>
+                            <td>${start + i + 1}</td>
+                            <td>${e.name}</td>
+                            <td>${venueNames[e.source] || e.source}</td>
+                            <td>${e.start_date}</td>
+                            <td>${e.end_date}</td>
+                            <td><span class="badge type-${type}">${typeLabels[type]}</span></td>
+                            <td><span class="badge ${fee}">${fee === 'free' ? '免费' : '收费'}</span></td>
+                            <td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${e.description || ''}">${e.description || '-'}</td>
+                        </tr>
+                    `;
+                });
+                tbody.innerHTML = html;
+            }
+
+            const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const pageInfo = document.getElementById('page-info');
+
+            prevBtn.disabled = currentPage <= 1;
+            nextBtn.disabled = currentPage >= totalPages;
+            pageInfo.textContent = `第 ${currentPage} 页 / 共 ${totalPages} 页`;
+
+            updateStats();
+        }
+
+        document.getElementById('search-input').addEventListener('input', () => {
+            currentPage = 1;
+            renderTable();
+        });
+
+        document.getElementById('venue-filter').addEventListener('change', () => {
+            currentPage = 1;
+            renderTable();
+        });
+
+        document.getElementById('type-filter').addEventListener('change', () => {
+            currentPage = 1;
+            renderTable();
+        });
+
+        document.getElementById('fee-filter').addEventListener('change', () => {
+            currentPage = 1;
+            renderTable();
+        });
+
+        document.getElementById('prev-btn').addEventListener('click', () => {
+            currentPage--;
+            renderTable();
+        });
+
+        document.getElementById('next-btn').addEventListener('click', () => {
+            currentPage++;
+            renderTable();
+        });
+
+        loadData();
+    </script>
+</body>
+</html>
