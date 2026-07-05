@@ -323,6 +323,25 @@
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            transition: all 0.3s;
+        }
+
+        .exhibition-desc.expanded {
+            display: block;
+            -webkit-line-clamp: unset;
+            max-height: 200px;
+        }
+
+        .expand-link {
+            color: #667eea;
+            font-size: 11px;
+            cursor: pointer;
+            margin-bottom: 8px;
+            display: inline-block;
+        }
+
+        .expand-link:hover {
+            text-decoration: underline;
         }
 
         .exhibition-link {
@@ -665,6 +684,16 @@
     </div>
 
     <div class="filter-section-mobile">
+        <div class="filter-label">区县</div>
+        <div class="filter-bar" id="district-filter-bar">
+            <button class="filter-btn" data-district="all">全部区县</button>
+            <button class="filter-btn" data-district="宝安区">宝安区</button>
+            <button class="filter-btn" data-district="福田区">福田区</button>
+            <button class="filter-btn" data-district="南山区">南山区</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
         <div class="filter-label">地点</div>
         <div class="filter-bar" id="source-filter-bar">
             <button class="filter-btn" data-source="all">全部地点</button>
@@ -724,6 +753,16 @@
             </div>
 
             <div class="sidebar-card">
+                <div class="sidebar-title">🌆 区县</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-district="all">全部区县</button>
+                    <button class="filter-btn" data-district="宝安区">宝安区</button>
+                    <button class="filter-btn" data-district="福田区">福田区</button>
+                    <button class="filter-btn" data-district="南山区">南山区</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
                 <div class="sidebar-title">📍 地点</div>
                 <div class="filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-source="all">全部地点</button>
@@ -778,7 +817,22 @@
         let currentSourceFilter = localStorage.getItem('schedule_source_filter') || 'all';
         let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
         let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
+        let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
         let currentSearchQuery = '';
+
+        const districtMapping = {
+            'szcec': '福田区',
+            'shenzhen_world': '宝安区',
+            'szlib': '福田区',
+            'balib': '宝安区',
+            'bayarea_eye': '宝安区',
+            'baoan_kjg': '宝安区',
+            'baoan_ty': '宝安区'
+        };
+
+        function getDistrict(source) {
+            return districtMapping[source] || '其他';
+        }
 
         function getFeeType(exhibition) {
             const name = exhibition.name || '';
@@ -878,6 +932,10 @@
                     (e.venue || '').toLowerCase().includes(query) ||
                     (e.description || '').toLowerCase().includes(query)
                 );
+            }
+
+            if (currentDistrictFilter !== 'all') {
+                filtered = filtered.filter(e => getDistrict(e.source) === currentDistrictFilter);
             }
 
             if (currentSourceFilter !== 'all') {
@@ -1017,8 +1075,9 @@
                     ? formatDate(startDate) 
                     : `${startDate.substring(5)} ~ ${endDate.substring(5)}`;
 
+                const hasLongDesc = exhibition.description && exhibition.description.length > 60;
                 html += `
-                    <div class="exhibition-card ${exhibition.source || 'szcec'}" onclick="openModal(${JSON.stringify(exhibition).replace(/"/g, '&quot;')})">
+                    <div class="exhibition-card ${exhibition.source || 'szcec'}" data-index="${index}">
                         ${dateBadge}
                         <div class="exhibition-header">
                             <div class="exhibition-title">${exhibition.name}</div>
@@ -1032,16 +1091,27 @@
                             <span>⏱️ ${getDuration(startDate, endDate)}</span>
                             <span>📍 ${exhibition.venue}</span>
                         </div>
-                        ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
+                        ${exhibition.description ? `
+                        <div class="exhibition-desc" id="desc-${index}">${exhibition.description}</div>
+                        ${hasLongDesc ? `<div class="expand-link" onclick="toggleDesc(${index}); event.stopPropagation();">展开 ↓</div>` : ''}
+                        ` : ''}
                         <div class="exhibition-link">点击查看详情 →</div>
                     </div>
                 `;
             });
 
             listContainer.innerHTML = html;
+            
+            document.querySelectorAll('.exhibition-card').forEach(card => {
+                card.addEventListener('click', function() {
+                    const idx = parseInt(this.dataset.index);
+                    openModal(idx);
+                });
+            });
         }
 
-        function openModal(exhibition) {
+        function openModal(index) {
+            const exhibition = allExhibitions[index];
             const overlay = document.getElementById('modal-overlay');
             const title = document.getElementById('modal-title');
             const badges = document.getElementById('modal-badges');
@@ -1098,6 +1168,18 @@
             overlay.classList.remove('active');
         }
 
+        function toggleDesc(index) {
+            const desc = document.getElementById(`desc-${index}`);
+            const link = desc.nextElementSibling;
+            if (desc.classList.contains('expanded')) {
+                desc.classList.remove('expanded');
+                link.textContent = '展开 ↓';
+            } else {
+                desc.classList.add('expanded');
+                link.textContent = '收起 ↑';
+            }
+        }
+
         document.getElementById('modal-overlay').addEventListener('click', function(e) {
             if (e.target === this) {
                 closeModal();
@@ -1116,12 +1198,14 @@
             currentSourceFilter = 'all';
             currentFeeFilter = 'all';
             currentTypeFilter = 'all';
+            currentDistrictFilter = 'all';
             currentSearchQuery = '';
             
             localStorage.setItem('schedule_time_filter', 'upcoming');
             localStorage.setItem('schedule_source_filter', 'all');
             localStorage.setItem('schedule_fee_filter', 'all');
             localStorage.setItem('schedule_type_filter', 'all');
+            localStorage.setItem('schedule_district_filter', 'all');
             
             document.getElementById('search-input').value = '';
             document.getElementById('search-input-desktop').value = '';
@@ -1130,6 +1214,7 @@
             
             document.querySelectorAll('[data-filter="upcoming"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-type="all"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-district="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-source="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
             
@@ -1161,6 +1246,20 @@
                     btn.classList.add('active');
                     currentTypeFilter = btn.dataset.type;
                     localStorage.setItem('schedule_type_filter', currentTypeFilter);
+                    renderExhibitions();
+                });
+            });
+
+            const districtButtons = document.querySelectorAll('[data-district]');
+            districtButtons.forEach(btn => {
+                if (btn.dataset.district === currentDistrictFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    districtButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentDistrictFilter = btn.dataset.district;
+                    localStorage.setItem('schedule_district_filter', currentDistrictFilter);
                     renderExhibitions();
                 });
             });
