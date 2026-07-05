@@ -228,6 +228,12 @@
         .exhibition-card.bayarea_eye { border-left-color: #f59e0b; }
         .exhibition-card.baoan_kjg { border-left-color: #ec4899; }
         .exhibition-card.baoan_ty { border-left-color: #f97316; }
+        .exhibition-card.baoan_guihua { border-left-color: #8b5cf6; }
+        .exhibition-card.baoan_qingshaonian { border-left-color: #06b6d4; }
+        .exhibition-card.shenzhen_binhai_art { border-left-color: #84cc16; }
+        .exhibition-card.baoan_zonghe { border-left-color: #f43f5e; }
+        .exhibition-card.huanle_juchang { border-left-color: #eab308; }
+        .exhibition-card.baoan_binhai_park { border-left-color: #14b8a6; }
 
         .exhibition-header {
             display: flex;
@@ -267,6 +273,11 @@
         .badge.paid {
             background: #fff3e0;
             color: #e65100;
+        }
+
+        .badge.family {
+            background: #fce4ec;
+            color: #c2185b;
         }
 
         .badge.type-exhibition {
@@ -704,6 +715,12 @@
             <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
             <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
             <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
+            <button class="filter-btn" data-source="baoan_guihua">城市规划展览馆</button>
+            <button class="filter-btn" data-source="baoan_qingshaonian">宝安区青少年宫</button>
+            <button class="filter-btn" data-source="shenzhen_binhai_art">深圳滨海艺术中心</button>
+            <button class="filter-btn" data-source="baoan_zonghe">宝安综合训练馆</button>
+            <button class="filter-btn" data-source="huanle_juchang">欢乐剧场</button>
+            <button class="filter-btn" data-source="baoan_binhai_park">宝安滨海文化公园</button>
         </div>
     </div>
 
@@ -713,6 +730,14 @@
             <button class="filter-btn" data-fee="all">全部</button>
             <button class="filter-btn" data-fee="free">免费</button>
             <button class="filter-btn" data-fee="paid">收费</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">亲子筛选</div>
+        <div class="filter-bar" id="family-filter-bar">
+            <button class="filter-btn" data-family="family">适合亲子</button>
+            <button class="filter-btn" data-family="all">全部活动</button>
         </div>
     </div>
 
@@ -773,6 +798,12 @@
                     <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
                     <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
                     <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
+                    <button class="filter-btn" data-source="baoan_guihua">城市规划展览馆</button>
+                    <button class="filter-btn" data-source="baoan_qingshaonian">宝安区青少年宫</button>
+                    <button class="filter-btn" data-source="shenzhen_binhai_art">深圳滨海艺术中心</button>
+                    <button class="filter-btn" data-source="baoan_zonghe">宝安综合训练馆</button>
+                    <button class="filter-btn" data-source="huanle_juchang">欢乐剧场</button>
+                    <button class="filter-btn" data-source="baoan_binhai_park">宝安滨海文化公园</button>
                 </div>
             </div>
 
@@ -782,6 +813,14 @@
                     <button class="filter-btn" data-fee="all">全部</button>
                     <button class="filter-btn" data-fee="free">免费</button>
                     <button class="filter-btn" data-fee="paid">收费</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">👨‍👩‍👧‍👦 亲子筛选</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-family="family">适合亲子</button>
+                    <button class="filter-btn" data-family="all">全部活动</button>
                 </div>
             </div>
 
@@ -818,6 +857,7 @@
         let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
         let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
         let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
+        let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'family';
         let currentSearchQuery = '';
 
         const districtMapping = {
@@ -956,6 +996,10 @@
                 filtered = filtered.filter(e => getActivityType(e) === currentTypeFilter);
             }
 
+            if (currentFamilyFriendlyFilter === 'family') {
+                filtered = filtered.filter(e => e.family_friendly === true);
+            }
+
             switch (currentTimeFilter) {
                 case 'today':
                     return filtered.filter(e => e.start_date === today || 
@@ -1076,6 +1120,7 @@
                 const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
                                 feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
                 const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
+                const familyBadge = exhibition.family_friendly === true ? `<span class="badge family">👨‍👩‍👧‍👦 适合亲子</span>` : '';
                 
                 const dateDisplay = startDate === endDate 
                     ? formatDate(startDate) 
@@ -1091,6 +1136,7 @@
                             <div class="exhibition-badges">
                                 ${typeBadge}
                                 ${feeBadge}
+                                ${familyBadge}
                             </div>
                         </div>
                         <div class="exhibition-meta">
@@ -1140,7 +1186,8 @@
             const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
                             feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
             const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
-            badges.innerHTML = `${typeBadge} ${feeBadge}`;
+            const familyBadge = exhibition.family_friendly === true ? `<span class="badge family">👨‍👩‍👧‍👦 适合亲子</span>` : '';
+            badges.innerHTML = `${typeBadge} ${feeBadge} ${familyBadge}`;
 
             const startDate = exhibition.start_date;
             const endDate = exhibition.end_date;
@@ -1215,6 +1262,7 @@
             currentFeeFilter = 'all';
             currentTypeFilter = 'all';
             currentDistrictFilter = 'all';
+            currentFamilyFriendlyFilter = 'family';
             currentSearchQuery = '';
             
             localStorage.setItem('schedule_time_filter', 'upcoming');
@@ -1222,6 +1270,7 @@
             localStorage.setItem('schedule_fee_filter', 'all');
             localStorage.setItem('schedule_type_filter', 'all');
             localStorage.setItem('schedule_district_filter', 'all');
+            localStorage.setItem('schedule_family_filter', 'family');
             
             document.getElementById('search-input').value = '';
             document.getElementById('search-input-desktop').value = '';
@@ -1233,6 +1282,7 @@
             document.querySelectorAll('[data-district="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-source="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-family="family"]').forEach(btn => btn.classList.add('active'));
             
             renderExhibitions();
         }
@@ -1334,6 +1384,20 @@
                     btn.classList.add('active');
                     currentFeeFilter = btn.dataset.fee;
                     localStorage.setItem('schedule_fee_filter', currentFeeFilter);
+                    renderExhibitions();
+                });
+            });
+
+            const familyButtons = document.querySelectorAll('[data-family]');
+            familyButtons.forEach(btn => {
+                if (btn.dataset.family === currentFamilyFriendlyFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    familyButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentFamilyFriendlyFilter = btn.dataset.family;
+                    localStorage.setItem('schedule_family_filter', currentFamilyFriendlyFilter);
                     renderExhibitions();
                 });
             });

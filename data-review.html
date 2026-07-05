@@ -313,6 +313,30 @@
             <span class="stat-value" id="baoan_ty-count">0</span>
             <span class="stat-label">宝安体育中心</span>
         </div>
+        <div class="stat-item">
+            <span class="stat-value" id="baoan_guihua-count">0</span>
+            <span class="stat-label">城市规划展览馆</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="baoan_qingshaonian-count">0</span>
+            <span class="stat-label">宝安区青少年宫</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="shenzhen_binhai_art-count">0</span>
+            <span class="stat-label">深圳滨海艺术中心</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="baoan_zonghe-count">0</span>
+            <span class="stat-label">宝安综合训练馆</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="huanle_juchang-count">0</span>
+            <span class="stat-label">欢乐剧场</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-value" id="baoan_binhai_park-count">0</span>
+            <span class="stat-label">宝安滨海文化公园</span>
+        </div>
     </div>
 
     <table>
@@ -325,12 +349,13 @@
                 <th>结束日期</th>
                 <th>类型</th>
                 <th>费用</th>
+                <th>适合亲子</th>
                 <th>描述</th>
             </tr>
         </thead>
         <tbody id="table-body">
             <tr>
-                <td colspan="8" style="text-align: center; padding: 40px;">加载中...</td>
+                <td colspan="9" style="text-align: center; padding: 40px;">加载中...</td>
             </tr>
         </tbody>
     </table>
@@ -470,12 +495,13 @@
             const tbody = document.getElementById('table-body');
             
             if (pageData.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="8" style="text-align: center; padding: 40px;">没有找到匹配的活动</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="9" style="text-align: center; padding: 40px;">没有找到匹配的活动</td></tr>`;
             } else {
                 let html = '';
                 pageData.forEach((e, i) => {
                     const type = getActivityType(e);
                     const fee = getFeeType(e);
+                    const family = e.family_friendly ? '✅' : '❌';
                     html += `
                         <tr>
                             <td>${start + i + 1}</td>
@@ -485,6 +511,7 @@
                             <td>${e.end_date}</td>
                             <td><span class="badge type-${type}">${typeLabels[type]}</span></td>
                             <td><span class="badge ${fee}">${fee === 'free' ? '免费' : '收费'}</span></td>
+                            <td>${family}</td>
                             <td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${e.description || ''}">${e.description || '-'}</td>
                         </tr>
                     `;
