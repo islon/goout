@@ -737,6 +737,7 @@
         <div class="filter-label">亲子筛选</div>
         <div class="filter-bar" id="family-filter-bar">
             <button class="filter-btn" data-family="family">适合亲子</button>
+            <button class="filter-btn" data-family="other">其他活动</button>
             <button class="filter-btn" data-family="all">全部活动</button>
         </div>
     </div>
@@ -820,6 +821,7 @@
                 <div class="sidebar-title">👨‍👩‍👧‍👦 亲子筛选</div>
                 <div class="filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-family="family">适合亲子</button>
+                    <button class="filter-btn" data-family="other">其他活动</button>
                     <button class="filter-btn" data-family="all">全部活动</button>
                 </div>
             </div>
@@ -998,6 +1000,8 @@
 
             if (currentFamilyFriendlyFilter === 'family') {
                 filtered = filtered.filter(e => e.family_friendly === true);
+            } else if (currentFamilyFriendlyFilter === 'other') {
+                filtered = filtered.filter(e => e.family_friendly !== true);
             }
 
             switch (currentTimeFilter) {

@@ -834,15 +834,21 @@ def generate_events():
             desc_base = get_activity_description(activity_name)
             description = f"{config['name']}将于{start_date}举办{activity_name}。活动时间：{time_str}。{desc_base}"
             
-            is_family_friendly = False
+            is_family_friendly = True
             base_activity_name = activity_name.replace('(深圳)', '').replace('(宝安)', '').strip()
             
-            if base_activity_name in FAMILY_FRIENDLY_ACTIVITIES:
-                is_family_friendly = True
-            elif any(keyword in base_activity_name for keyword in ['亲子', '儿童', '少儿', '青少年', '科普', '讲座', '体验', '培训', '公开课', '读书', '阅读', '绘本', '手工', '烘焙', '露营', '音乐会', '演出', '戏剧', '电影', '展览', '比赛', '运动会', '嘉年华']):
-                is_family_friendly = True
-            elif activity_type in ['教育', '亲子', '文化', '艺术', '科技']:
-                is_family_friendly = True
+            NOT_FAMILY_FRIENDLY_KEYWORDS = [
+                '股票', '基金', '投资', '理财', '金融', '消费金融', '证券', '期货',
+                '房地产', '供应链', '物流装备', '五金机电', '建筑建材', '电池储能',
+                '光伏', '智慧能源', '智能交通', '轨道交通', '氢能', '节能环保',
+                '康复护理', '养老', '葡萄酒', '酒店用品', '零售商业', '电商贸易',
+                '国际贸易', '工业设计', '照明灯饰', '光电技术', '显示技术',
+                '触控显示', '医疗器械', '美容美发', '咖啡茶饮', '餐饮服务',
+                '茶叶博览'
+            ]
+            
+            if any(keyword in base_activity_name for keyword in NOT_FAMILY_FRIENDLY_KEYWORDS):
+                is_family_friendly = False
             
             all_events.append({
                 'name': activity_name,
