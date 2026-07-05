@@ -1052,7 +1052,7 @@
             let html = '';
             let currentMonth = '';
 
-            filtered.forEach(exhibition => {
+            filtered.forEach((exhibition, i) => {
                 const startDate = exhibition.start_date;
                 const endDate = exhibition.end_date;
                 const monthKey = startDate.substring(0, 7);
@@ -1077,7 +1077,7 @@
 
                 const hasLongDesc = exhibition.description && exhibition.description.length > 60;
                 html += `
-                    <div class="exhibition-card ${exhibition.source || 'szcec'}" data-index="${index}">
+                    <div class="exhibition-card ${exhibition.source || 'szcec'}" data-id="${exhibition.id}">
                         ${dateBadge}
                         <div class="exhibition-header">
                             <div class="exhibition-title">${exhibition.name}</div>
@@ -1092,8 +1092,8 @@
                             <span>📍 ${exhibition.venue}</span>
                         </div>
                         ${exhibition.description ? `
-                        <div class="exhibition-desc" id="desc-${index}">${exhibition.description}</div>
-                        ${hasLongDesc ? `<div class="expand-link" onclick="toggleDesc(${index}); event.stopPropagation();">展开 ↓</div>` : ''}
+                        <div class="exhibition-desc" id="desc-${exhibition.id}">${exhibition.description}</div>
+                        ${hasLongDesc ? `<div class="expand-link" onclick="toggleDesc('${exhibition.id}'); event.stopPropagation();">展开 ↓</div>` : ''}
                         ` : ''}
                         <div class="exhibition-link">点击查看详情 →</div>
                     </div>
@@ -1104,14 +1104,14 @@
             
             document.querySelectorAll('.exhibition-card').forEach(card => {
                 card.addEventListener('click', function() {
-                    const idx = parseInt(this.dataset.index);
-                    openModal(idx);
+                    const id = this.dataset.id;
+                    openModal(id);
                 });
             });
         }
 
-        function openModal(index) {
-            const exhibition = allExhibitions[index];
+        function openModal(id) {
+            const exhibition = allExhibitions.find(e => e.id === id);
             const overlay = document.getElementById('modal-overlay');
             const title = document.getElementById('modal-title');
             const badges = document.getElementById('modal-badges');
@@ -1168,8 +1168,8 @@
             overlay.classList.remove('active');
         }
 
-        function toggleDesc(index) {
-            const desc = document.getElementById(`desc-${index}`);
+        function toggleDesc(id) {
+            const desc = document.getElementById(`desc-${id}`);
             const link = desc.nextElementSibling;
             if (desc.classList.contains('expanded')) {
                 desc.classList.remove('expanded');
@@ -1260,9 +1260,39 @@
                     btn.classList.add('active');
                     currentDistrictFilter = btn.dataset.district;
                     localStorage.setItem('schedule_district_filter', currentDistrictFilter);
+                    updateSourceButtonVisibility();
                     renderExhibitions();
                 });
             });
+
+            function updateSourceButtonVisibility() {
+                const sourceButtons = document.querySelectorAll('[data-source]');
+                sourceButtons.forEach(btn => {
+                    const source = btn.dataset.source;
+                    if (source === 'all') {
+                        btn.style.display = 'block';
+                    } else {
+                        const district = getDistrict(source);
+                        if (currentDistrictFilter === 'all' || district === currentDistrictFilter) {
+                            btn.style.display = 'block';
+                        } else {
+                            btn.style.display = 'none';
+                        }
+                    }
+                });
+                
+                if (currentDistrictFilter !== 'all' && currentSourceFilter !== 'all') {
+                    const sourceDistrict = getDistrict(currentSourceFilter);
+                    if (sourceDistrict !== currentDistrictFilter) {
+                        currentSourceFilter = 'all';
+                        localStorage.setItem('schedule_source_filter', 'all');
+                        sourceButtons.forEach(b => b.classList.remove('active'));
+                        sourceButtons.forEach(b => {
+                            if (b.dataset.source === 'all') b.classList.add('active');
+                        });
+                    }
+                }
+            }
 
             const sourceButtons = document.querySelectorAll('[data-source]');
             sourceButtons.forEach(btn => {
@@ -1291,6 +1321,8 @@
                     renderExhibitions();
                 });
             });
+
+            updateSourceButtonVisibility();
         }
 
         function loadExhibitions() {
