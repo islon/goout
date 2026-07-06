@@ -419,6 +419,109 @@
             color: #999;
         }
 
+        .source-filter-collapsed {
+            max-height: 120px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .source-filter-collapsed::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 30px;
+            background: linear-gradient(to bottom, transparent, #f5f5f5);
+            pointer-events: none;
+        }
+
+        .expand-toggle-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            padding: 8px 16px;
+            font-size: 13px;
+            color: #667eea;
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            border-radius: 20px;
+            cursor: pointer;
+            margin-top: 8px;
+            transition: all 0.2s;
+        }
+
+        .expand-toggle-btn:hover {
+            background: #f0f4ff;
+            border-color: #667eea;
+        }
+
+        .sidebar-source-filter-collapsed {
+            max-height: 300px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .sidebar-source-filter-collapsed::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 30px;
+            background: linear-gradient(to bottom, transparent, #fff);
+            pointer-events: none;
+        }
+
+        .sidebar-expand-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            padding: 6px 12px;
+            font-size: 12px;
+            color: #667eea;
+            background: #f8f9ff;
+            border: 1px solid #e0e0e0;
+            border-radius: 16px;
+            cursor: pointer;
+            margin-top: 8px;
+            transition: all 0.2s;
+        }
+
+        .sidebar-expand-btn:hover {
+            background: #eef2ff;
+        }
+
+        .page-btn {
+            padding: 6px 12px;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            background: #fff;
+            font-size: 13px;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .page-btn:hover:not(:disabled) {
+            border-color: #667eea;
+            color: #667eea;
+            background: #f8f9ff;
+        }
+
+        .page-btn.active {
+            background: #667eea;
+            color: #fff;
+            border-color: #667eea;
+        }
+
+        .page-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
         .empty-state .icon {
             font-size: 48px;
             margin-bottom: 12px;
@@ -805,7 +908,7 @@
 
     <div class="filter-section-mobile">
         <div class="filter-label">地点</div>
-        <div class="filter-bar" id="source-filter-bar">
+        <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
             <button class="filter-btn" data-source="all">全部地点</button>
             <button class="filter-btn" data-source="szcec">深圳会展中心</button>
             <button class="filter-btn" data-source="shenzhen_world">深圳国际会展中心</button>
@@ -864,6 +967,7 @@
             <!-- 罗湖区 -->
             <button class="filter-btn" data-source="lh_paleo">深圳古生物博物馆</button>
         </div>
+        <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
     </div>
 
     <div class="filter-section-mobile">
@@ -939,7 +1043,7 @@
 
             <div class="sidebar-card">
                 <div class="sidebar-title">📍 地点</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                <div class="filter-bar sidebar-source-filter-collapsed" id="sidebar-source-filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-source="all">全部地点</button>
                     <button class="filter-btn" data-source="szcec">深圳会展中心</button>
                     <button class="filter-btn" data-source="shenzhen_world">深圳国际会展中心</button>
@@ -998,6 +1102,7 @@
                     <!-- 罗湖区 -->
                     <button class="filter-btn" data-source="lh_paleo">深圳古生物博物馆</button>
                 </div>
+                <button class="sidebar-expand-btn" id="sidebar-source-expand-btn" onclick="toggleSidebarSourceFilter()">展开更多 ▼</button>
             </div>
 
             <div class="sidebar-card">
@@ -1053,6 +1158,9 @@
         let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
         let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'family';
         let currentSearchQuery = '';
+        let currentPage = 1;
+        const PAGE_SIZE = 50;
+        let filteredExhibitions = [];
 
         const districtMapping = {
             'szcec': '福田区',
@@ -1086,30 +1194,30 @@
             'rcpy': '南山区',
             'szwgy': '南山区',
             'qhs': '南山区',
-            # 坪山区
+            // 坪山区
             'ps_nature': '坪山区',
-            # 光明区
+            // 光明区
             'gm_kjg': '光明区',
             'gm_lib': '光明区',
-            # 盐田区
+            // 盐田区
             'yt_lib': '盐田区',
             'yt_history': '盐田区',
-            # 大鹏新区
+            // 大鹏新区
             'dp_geopark': '大鹏新区',
             'dp_nuclear': '大鹏新区',
-            # 福田区
+            // 福田区
             'sz_children_lib': '福田区',
             'sz_safety': '福田区',
-            # 南山区新增
+            // 南山区新增
             'oct_wetland': '南山区',
-            # 宝安区新增
+            // 宝安区新增
             'baoan_1990': '宝安区',
-            # 龙岗区
+            // 龙岗区
             'lg_hakka': '龙岗区',
-            # 龙华区
+            // 龙华区
             'lh_printmaking': '龙华区',
             'lh_ecology': '龙华区',
-            # 罗湖区
+            // 罗湖区
             'lh_paleo': '罗湖区'
         };
 
@@ -1324,8 +1432,18 @@
 
             const filtered = getFilteredExhibitions();
             filtered.sort((a, b) => a.start_date.localeCompare(b.start_date));
+            filteredExhibitions = filtered;
 
-            countInfo.textContent = `共 ${filtered.length} 个活动`;
+            if (currentPage > Math.ceil(filtered.length / PAGE_SIZE)) {
+                currentPage = 1;
+            }
+
+            const startIdx = (currentPage - 1) * PAGE_SIZE;
+            const endIdx = Math.min(startIdx + PAGE_SIZE, filtered.length);
+            const pageItems = filtered.slice(startIdx, endIdx);
+            const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+
+            countInfo.textContent = `共 ${filtered.length} 个活动（第 ${currentPage}/${totalPages || 1} 页）`;
 
             if (filtered.length === 0) {
                 listContainer.innerHTML = `
@@ -1341,7 +1459,8 @@
             let html = '';
             let currentMonth = '';
 
-            filtered.forEach((exhibition, i) => {
+            pageItems.forEach((exhibition, localIdx) => {
+                const globalIdx = startIdx + localIdx;
                 const startDate = exhibition.start_date;
                 const endDate = exhibition.end_date;
                 const monthKey = startDate.substring(0, 7);
@@ -1368,7 +1487,7 @@
                 const hasLongDesc = exhibition.description && exhibition.description.length > 60;
                 const cardId = exhibition.id || `${exhibition.source}-${exhibition.name}-${startDate}`;
                 html += `
-                    <div class="exhibition-card ${exhibition.source || 'szcec'}" data-id="${cardId}" data-idx="${i}">
+                    <div class="exhibition-card ${exhibition.source || 'szcec'}" data-id="${cardId}" data-idx="${globalIdx}">
                         ${dateBadge}
                         <div class="exhibition-header">
                             <div class="exhibition-title">${exhibition.name}</div>
@@ -1392,6 +1511,29 @@
                 `;
             });
 
+            if (totalPages > 1) {
+                html += '<div class="pagination" style="grid-column: 1 / -1; display: flex; justify-content: center; align-items: center; gap: 8px; margin: 24px 0 12px; flex-wrap: wrap;">';
+                
+                html += `<button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="goToPage(${currentPage - 1})">上一页</button>`;
+                
+                let startPage = Math.max(1, currentPage - 2);
+                let endPage = Math.min(totalPages, currentPage + 2);
+                if (startPage > 1) {
+                    html += `<button class="page-btn" onclick="goToPage(1)">1</button>`;
+                    if (startPage > 2) html += '<span style="color: #999;">...</span>';
+                }
+                for (let p = startPage; p <= endPage; p++) {
+                    html += `<button class="page-btn ${p === currentPage ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`;
+                }
+                if (endPage < totalPages) {
+                    if (endPage < totalPages - 1) html += '<span style="color: #999;">...</span>';
+                    html += `<button class="page-btn" onclick="goToPage(${totalPages})">${totalPages}</button>`;
+                }
+                
+                html += `<button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="goToPage(${currentPage + 1})">下一页</button>`;
+                html += '</div>';
+            }
+
             listContainer.innerHTML = html;
             
             document.querySelectorAll('.exhibition-card').forEach(card => {
@@ -1399,10 +1541,8 @@
                     const idx = parseInt(this.dataset.idx);
                     openModal(idx);
                     
-                    // 统计活动打开次数
-                    const exhibition = filteredExhibitions[idx];
-                    if (typeof trackEvent === 'function' && exhibition) {
-                        trackEvent('活动详情', '打开弹窗', exhibition.source);
+                    if (typeof trackEvent === 'function') {
+                        trackEvent('活动详情', '打开弹窗', filtered[idx].source);
                     }
                 });
             });
@@ -1414,6 +1554,66 @@
                     toggleDesc(descId);
                 });
             });
+        }
+
+        function goToPage(page) {
+            const totalPages = Math.ceil(filteredExhibitions.length / PAGE_SIZE);
+            if (page < 1 || page > totalPages || page === currentPage) return;
+            currentPage = page;
+            renderExhibitions();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        const venueAddressMap = {
+            'szcec': '福田区福华三路',
+            'shenzhen_world': '宝安区福海街道展城路1号',
+            'szlib': '福田区福中一路2001号',
+            'balib': '宝安区宝兴路1号',
+            'bayarea_eye': '宝安区宝兴路与海滨广场路交汇处',
+            'baoan_kjg': '宝安区新安街道龙井路123号',
+            'baoan_ty': '宝安区新安街道体育中心',
+            'baoan_guihua': '宝安区宝华路宝安图书馆旁',
+            'baoan_qingshaonian': '宝安区新安街道新安二路70号',
+            'shenzhen_binhai_art': '宝安区宝兴路欢乐港湾',
+            'baoan_zonghe': '宝安区新安街道',
+            'huanle_juchang': '宝安区宝华路欢乐港湾',
+            'baoan_binhai_park': '宝安区新安街道海滨广场',
+            'nslib': '南山区南山大道2093号',
+            'nsmuseum': '南山区南山大道2093号',
+            'nswhg': '南山区艺园路与正风路交汇处',
+            'skhykpg': '南山区南水路18号蛇口大厦副楼2层',
+            'sarc': '南山区科苑南路人才公园',
+            'ntgc': '南山区南头古城内',
+            'zsjbwg': '南山区蛇口街道水湾路',
+            'nsqsng': '南山区后海大道2551号',
+            'nswtzx': '南山区南山大道',
+            'szwty': '南山区滨海大道',
+            'skwtpark': '南山区蛇口街道',
+            'hqcwh': '南山区华侨城片区',
+            'nsaqjy': '南山区南山大道3109号中山公园内',
+            'nssxf': '南山区各街道（前海/留仙洞/西丽/蛇口/高新等）',
+            'rcpy': '南山区科苑南路',
+            'szwgy': '南山区深圳湾沿海',
+            'qhs': '南山区前海桂湾片区',
+            'ps_nature': '坪山区石井街道沙壆片区（地铁16号线沙壆站D出口）',
+            'gm_kjg': '光明区光明街道（地铁6号线光明站D出口）',
+            'gm_lib': '光明区光明街道',
+            'yt_lib': '盐田区海山街道（地铁8号线海山站）',
+            'yt_history': '盐田区沙头角街道中英街内',
+            'dp_geopark': '大鹏新区南澳街道地质公园路7号',
+            'dp_nuclear': '大鹏新区大亚湾核电基地',
+            'sz_children_lib': '福田区莲花街道（地铁3号线莲花村站D出口/10号线冬瓜岭站A出口）',
+            'sz_safety': '福田区梅林街道（地铁9号线下梅林站）',
+            'oct_wetland': '南山区华侨城（地铁1号线华侨城站）',
+            'baoan_1990': '宝安区新安街道（地铁5号线洪浪北站）',
+            'lg_hakka': '龙岗区龙岗街道（地铁3号线双龙站）',
+            'lh_printmaking': '龙华区观澜街道（地铁4号线牛湖站观澜版画村内）',
+            'lh_ecology': '龙华区观澜街道',
+            'lh_paleo': '罗湖区莲塘街道仙湖植物园内'
+        };
+
+        function getVenueAddress(source) {
+            return venueAddressMap[source] || '';
         }
 
         function openModal(filteredIndex) {
@@ -1449,6 +1649,12 @@
                     <div class="modal-info-label">📍 地点</div>
                     <div class="modal-info-value">${exhibition.venue}</div>
                 </div>
+                ${getVenueAddress(exhibition.source) ? `
+                <div class="modal-info-row">
+                    <div class="modal-info-label">🏠 详细地址</div>
+                    <div class="modal-info-value">${getVenueAddress(exhibition.source)}</div>
+                </div>
+                ` : ''}
                 <div class="modal-info-row">
                     <div class="modal-info-label">⏱️ 时长</div>
                     <div class="modal-info-value">${getDuration(startDate, endDate)}</div>
@@ -1545,6 +1751,34 @@
             }
         }
 
+        let sourceFilterExpanded = false;
+        function toggleSourceFilter() {
+            const bar = document.getElementById('source-filter-bar');
+            const btn = document.getElementById('source-expand-btn');
+            sourceFilterExpanded = !sourceFilterExpanded;
+            if (sourceFilterExpanded) {
+                bar.classList.remove('source-filter-collapsed');
+                btn.textContent = '收起 ↑';
+            } else {
+                bar.classList.add('source-filter-collapsed');
+                btn.textContent = '展开更多 ▼';
+            }
+        }
+
+        let sidebarSourceExpanded = false;
+        function toggleSidebarSourceFilter() {
+            const bar = document.getElementById('sidebar-source-filter-bar');
+            const btn = document.getElementById('sidebar-source-expand-btn');
+            sidebarSourceExpanded = !sidebarSourceExpanded;
+            if (sidebarSourceExpanded) {
+                bar.classList.remove('sidebar-source-filter-collapsed');
+                btn.textContent = '收起 ↑';
+            } else {
+                bar.classList.add('sidebar-source-filter-collapsed');
+                btn.textContent = '展开更多 ▼';
+            }
+        }
+
         document.getElementById('modal-overlay').addEventListener('click', function(e) {
             if (e.target === this) {
                 closeModal();
@@ -1555,6 +1789,7 @@
             const mobileInput = document.getElementById('search-input');
             const desktopInput = document.getElementById('search-input-desktop');
             currentSearchQuery = (mobileInput ? mobileInput.value : '') || (desktopInput ? desktopInput.value : '') || '';
+            currentPage = 1;
             renderExhibitions();
         }
 
@@ -1586,6 +1821,7 @@
             document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-family="family"]').forEach(btn => btn.classList.add('active'));
             
+            currentPage = 1;
             renderExhibitions();
         }
 
@@ -1600,6 +1836,7 @@
                     btn.classList.add('active');
                     currentTimeFilter = btn.dataset.filter;
                     localStorage.setItem('schedule_time_filter', currentTimeFilter);
+                    currentPage = 1;
                     renderExhibitions();
                 });
             });
@@ -1614,6 +1851,7 @@
                     btn.classList.add('active');
                     currentTypeFilter = btn.dataset.type;
                     localStorage.setItem('schedule_type_filter', currentTypeFilter);
+                    currentPage = 1;
                     renderExhibitions();
                 });
             });
@@ -1628,6 +1866,7 @@
                     btn.classList.add('active');
                     currentDistrictFilter = btn.dataset.district;
                     localStorage.setItem('schedule_district_filter', currentDistrictFilter);
+                    currentPage = 1;
                     updateSourceButtonVisibility();
                     renderExhibitions();
                 });
@@ -1672,6 +1911,7 @@
                     btn.classList.add('active');
                     currentSourceFilter = btn.dataset.source;
                     localStorage.setItem('schedule_source_filter', currentSourceFilter);
+                    currentPage = 1;
                     renderExhibitions();
                 });
             });
@@ -1686,6 +1926,7 @@
                     btn.classList.add('active');
                     currentFeeFilter = btn.dataset.fee;
                     localStorage.setItem('schedule_fee_filter', currentFeeFilter);
+                    currentPage = 1;
                     renderExhibitions();
                 });
             });
@@ -1700,6 +1941,7 @@
                     btn.classList.add('active');
                     currentFamilyFriendlyFilter = btn.dataset.family;
                     localStorage.setItem('schedule_family_filter', currentFamilyFriendlyFilter);
+                    currentPage = 1;
                     renderExhibitions();
                 });
             });
