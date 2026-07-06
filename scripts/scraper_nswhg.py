@@ -14,140 +14,76 @@ NSWHG_NAME = "南山区文化馆"
 
 
 def fetch_nswhg_activities():
-    """从南山区文化馆活动预约系统获取活动数据"""
+    """从深圳文化馆云平台获取南山区活动数据"""
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'zh-CN,zh;q=0.9',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Accept': 'application/json, text/plain, */*',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Origin': 'https://whgy.szmassart.com',
+        'Referer': 'https://whgy.szmassart.com/nsqwhg/web/activity/list.html',
     }
     
     activities = []
+    seen_ids = set()
+    page = 1
+    max_pages = 50
     
-    # 尝试API接口
-    try:
-        # 深圳文化馆云平台可能有API
-        api_url = "https://whgy.szmassart.com/nsqwhg/web/activity/list"
-        
-        # 尝试POST请求获取分页数据
-        params = {
-            'page': 1,
-            'size': 50,
-            'status': 'all'
-        }
-        
-        response = requests.post(api_url, headers=headers, data=params, timeout=15)
-        
-        if response.status_code == 200:
-            try:
-                data = response.json()
-                if data and 'data' in data or 'list' in data:
-                    items = data.get('data', []) or data.get('list', [])
-                    for item in items:
-                        activity = parse_activity_item(item)
-                        if activity:
-                            activities.append(activity)
-            except:
-                pass
-    except Exception as e:
-        print(f"API approach failed: {e}")
-    
-    # 如果API失败，尝试解析HTML页面
-    if len(activities) == 0:
+    while page <= max_pages:
         try:
-            response = requests.get(NSWHG_URL, headers=headers, timeout=15)
-            response.raise_for_status()
+            # 文化馆云平台API
+            api_url = "https://whgy.szmassart.com/nsqwhg/web/activity/list"
             
-            activities = parse_activity_list_page(response.text)
-            
-            # 获取后续页面（如果有）
-            for page in range(2, 5):  # 尝试获取前5页
-                try:
-                    page_url = f"https://whgy.szmassart.com/nsqwhg/web/activity/list.html?page={page}"
-                    page_response = requests.get(page_url, headers=headers, timeout=10)
-                    page_activities = parse_activity_list_page(page_response.text)
-                    
-                    # 只添加未来的活动
-                    for act in page_activities:
-                        if act['start_date'] >= datetime.now().strftime('%Y-%m-%d'):
-                            activities.append(act)
-                    
-                    time.sleep(0.5)
-                except:
-                    break
-            
-        except Exception as e:
-            print(f"HTML parsing failed: {e}")
-    
-    return activities
-
-
-def parse_activity_list_page(html_content):
-    """解析活动列表页面"""
-    activities = []
-    
-    # 提取活动信息
-    # 页面格式: 名称 地点：xxx 时间：2026-07-29 状态
-    
-    # 尝试提取活动块
-    activity_blocks = re.findall(r'<div[^>]*class="[^"]*activity-item[^"]*"[^>]*>(.*?)</div>', html_content, re.DOTALL)
-    
-    if not activity_blocks:
-        # 尝试其他模式
-        activity_blocks = re.findall(r'<li[^>]*>(.*?)</li>', html_content, re.DOTALL)
-    
-    for block in activity_blocks:
-        try:
-            # 提取名称
-            title_match = re.search(r'>([^<]{5,100})<', block)
-            title = title_match.group(1).strip() if title_match else ''
-            
-            if not title or title in ['首页', '上一页', '下一页', '尾页']:
-                continue
-            
-            # 提取地点
-            location_match = re.search(r'地点[：:]\s*([^<\n]+)', block)
-            venue = location_match.group(1).strip() if location_match else NSWHG_NAME
-            venue = re.sub(r'[^\w\s\u4e00-\u9fff\-()]', '', venue)
-            
-            # 提取时间
-            time_match = re.search(r'时间[：:]\s*(\d{4})-(\d{2})-(\d{2})', block)
-            if time_match:
-                date = f"{time_match.group(1)}-{time_match.group(2)}-{time_match.group(3)}"
-            else:
-                time_match = re.search(r'(\d{4})-(\d{2})-(\d{2})', block)
-                if time_match:
-                    date = f"{time_match.group(1)}-{time_match.group(2)}-{time_match.group(3)}"
-                else:
-                    continue
-            
-            # 提取状态（判断是否需要报名）
-            status_match = re.search(r'(报名中|进行中|已结束|直接前往)', block)
-            status = status_match.group(1) if status_match else ''
-            
-            description = ''
-            if status == '报名中':
-                description = '需预约报名'
-            elif status == '直接前往':
-                description = '可直接前往参与'
-            elif status == '已结束':
-                continue  # 跳过已结束的活动
-            
-            activity = {
-                'name': title,
-                'venue': venue if venue else NSWHG_NAME,
-                'start_date': date,
-                'end_date': date,
-                'url': NSWHG_URL,
-                'contact': '',  # 文化馆没有统一电话
-                'description': description,
-                'source': 'nswhg',
-                'family_friendly': True
+            params = {
+                'page': page,
+                'size': 50,
             }
             
-            activities.append(activity)
+            response = requests.post(api_url, headers=headers, data=params, timeout=15)
+            response.raise_for_status()
+            
+            data = response.json()
+            
+            # 数据结构: {"err": 0, "data": {"data": [...], "pageTotal": x}}
+            wrapper = data.get('data', {})
+            if not wrapper or not isinstance(wrapper, dict):
+                break
+            
+            items = wrapper.get('data', [])
+            if not items:
+                break
+            
+            for item in items:
+                # 去重
+                activity_id = item.get('activityId', '')
+                if activity_id in seen_ids:
+                    continue
+                seen_ids.add(activity_id)
+                
+                # 只保留南山区的活动
+                activity_area = item.get('activityArea', '')
+                if '南山区' not in activity_area:
+                    continue
+                
+                # 跳过已结束的活动
+                end_date = item.get('activityEndTime', '')
+                today = datetime.now().strftime('%Y-%m-%d')
+                if end_date and end_date < today:
+                    continue
+                
+                activity = parse_activity_item(item)
+                if activity:
+                    activities.append(activity)
+            
+            page_total = wrapper.get('pageTotal', 1)
+            if page >= page_total:
+                break
+            
+            page += 1
+            time.sleep(0.5)
             
         except Exception as e:
-            continue
+            print(f"Error fetching page {page}: {e}")
+            break
     
     return activities
 
@@ -155,36 +91,75 @@ def parse_activity_list_page(html_content):
 def parse_activity_item(item):
     """解析API返回的活动数据"""
     try:
-        title = item.get('title', '') or item.get('name', '') or item.get('activityName', '')
+        title = item.get('activityName', '')
         if not title:
             return None
         
-        date = item.get('activityDate', '') or item.get('date', '') or item.get('startDate', '')
-        if not date:
+        # 清理HTML实体
+        title = title.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+        
+        start_date = item.get('activityStartTime', '')
+        end_date = item.get('activityEndTime', '')
+        
+        if not start_date:
             return None
         
-        venue = item.get('venue', '') or item.get('address', '') or item.get('location', '')
-        if not venue:
-            venue = NSWHG_NAME
+        if not end_date:
+            end_date = start_date
         
-        description = item.get('description', '') or item.get('content', '')
+        # 场馆信息
+        venue_name = item.get('venueName', '')
+        location_name = item.get('activityLocationName', '')
         
-        url = item.get('url', '') or item.get('link', '')
-        if not url:
-            url = NSWHG_URL
+        venue = venue_name or location_name or NSWHG_NAME
+        
+        # 描述信息
+        description = item.get('activityProfile', '')
+        if not description:
+            description = item.get('tagName', '')
+        
+        # 判断是否免费
+        is_free = item.get('activityIsFree', 0)
+        price = item.get('activityPrice', '')
+        
+        # 报名方式
+        reservation = item.get('activityIsReservation', 0)
+        subject = item.get('activitySubject', '')
+        
+        desc_parts = []
+        if is_free == 1:
+            desc_parts.append("免费")
+        elif price and price != '0':
+            desc_parts.append(f"费用：{price}元")
+        
+        if subject:
+            desc_parts.append(subject)
+        
+        if reservation == 2:
+            desc_parts.append("需预约报名")
+        elif reservation == 1:
+            desc_parts.append("可直接前往")
+        
+        if description:
+            desc_parts.append(description)
+        
+        final_desc = '。'.join([p for p in desc_parts if p]) if desc_parts else ''
+        
+        # URL
+        url = f"https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId={item.get('activityId', '')}"
         
         # 判断是否适合亲子
-        family_keywords = ['少儿', '亲子', '儿童', '青少年', '少年', '幼儿']
-        family_friendly = any(kw in title for kw in family_keywords) or item.get('familyFriendly', True)
+        family_keywords = ['少儿', '亲子', '儿童', '青少年', '少年', '幼儿', '家庭']
+        family_friendly = any(kw in title for kw in family_keywords)
         
         activity = {
             'name': title,
             'venue': venue,
-            'start_date': date,
-            'end_date': date,
+            'start_date': start_date,
+            'end_date': end_date,
             'url': url,
             'contact': '',
-            'description': description[:300] if description else '',
+            'description': final_desc[:300] if final_desc else '',
             'source': 'nswhg',
             'family_friendly': family_friendly
         }
@@ -192,6 +167,7 @@ def parse_activity_item(item):
         return activity
         
     except Exception as e:
+        print(f"Error parsing activity: {e}")
         return None
 
 

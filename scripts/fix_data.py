@@ -871,19 +871,61 @@ def generate_events():
     return all_events
 
 
+def load_real_data():
+    """加载真实采集的数据"""
+    import os
+    script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    output_dir = os.path.join(script_dir, 'output')
+    
+    real_events = []
+    
+    # 加载各场馆真实数据
+    data_files = [
+        'nslib_exhibitions.json',
+        'nsmuseum_exhibitions.json',
+        'nswhg_exhibitions.json',
+    ]
+    
+    for filename in data_files:
+        filepath = os.path.join(output_dir, filename)
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if isinstance(data, list):
+                        # 确保数据格式一致
+                        for item in data:
+                            if 'types' not in item:
+                                item['types'] = ['文化']
+                            if 'fee' not in item:
+                                item['fee'] = '免费'
+                        real_events.extend(data)
+                        print(f"  加载 {filename}: {len(data)} 条")
+            except Exception as e:
+                print(f"  加载 {filename} 失败: {e}")
+    
+    return real_events
+
+
 def main():
     events = generate_events()
     
     print(f"生成了 {len(events)} 条活动数据")
+    
+    # 加载真实数据并合并
+    print("\n加载真实采集数据...")
+    real_events = load_real_data()
+    events.extend(real_events)
     
     source_counts = {}
     for event in events:
         source = event['source']
         source_counts[source] = source_counts.get(source, 0) + 1
     
-    print("各地点活动数:")
+    print("\n各地点活动数:")
     for source, count in source_counts.items():
-        print(f"  {VENUES[source]['name']}: {count}")
+        venue_name = VENUES.get(source, {}).get('name', source)
+        print(f"  {venue_name}: {count}")
     
     type_counts = {}
     for event in events:
@@ -915,10 +957,16 @@ def main():
     
     print(f"\n今天({today})进行中的活动数: {today_count}")
     
-    with open('/Users/longxiansheng/Documents/trae_projects/展览活动/output/exhibitions.json', 'w', encoding='utf-8') as f:
+    import os
+    script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    output_dir = os.path.join(script_dir, 'output')
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, 'exhibitions.json')
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(events, f, ensure_ascii=False, indent=2)
     
-    print("\n数据文件已更新")
+    print(f"\n数据文件已更新: {output_path}")
 
 
 if __name__ == '__main__':

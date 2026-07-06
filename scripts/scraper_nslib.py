@@ -17,42 +17,38 @@ def fetch_nslib_activities():
     """从南山图书馆活动系统获取活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'application/json, text/plain, */*',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': 'zh-CN,zh;q=0.9',
     }
     
     activities = []
     
-    # 尝试通过API获取数据
-    # 南山图书馆活动系统可能使用类似深圳图书馆的API结构
+    # 获取活动列表页面
     api_url = "https://activity.nslib.cn/activity/moreActive.html"
     
     try:
         response = requests.get(api_url, headers=headers, timeout=15)
         response.raise_for_status()
-        
-        # 解析HTML页面获取活动链接
         html_content = response.text
         
         # 提取活动ID和链接
         activity_pattern = r'/activity/info/(\d+)'
-        activity_ids = re.findall(activity_pattern, html_content)
+        activity_ids = list(set(re.findall(activity_pattern, html_content)))
         
         print(f"Found {len(activity_ids)} activity IDs from NSLIB")
         
         # 获取每个活动的详情
-        for activity_id in activity_ids[:100]:  # 限制数量避免请求过多
+        for activity_id in activity_ids:
             try:
                 detail_url = f"https://activity.nslib.cn/activity/info/{activity_id}"
                 detail_response = requests.get(detail_url, headers=headers, timeout=10)
                 detail_response.raise_for_status()
                 
-                # 解析活动详情
                 activity = parse_activity_detail(detail_response.text, activity_id)
                 if activity:
                     activities.append(activity)
                 
-                time.sleep(0.5)
+                time.sleep(0.3)
                 
             except Exception as e:
                 print(f"Error fetching activity {activity_id}: {e}")
@@ -67,56 +63,82 @@ def fetch_nslib_activities():
 def parse_activity_detail(html_content, activity_id):
     """解析活动详情页面"""
     try:
-        # 提取活动名称
-        title_match = re.search(r'<h1[^>]*>([^<]+)</h1>', html_content)
-        if not title_match:
-            title_match = re.search(r'<div[^>]*class="[^"]*title[^"]*"[^>]*>([^<]+)</div>', html_content)
+        # 提取活动名称 (从title标签)
+        title_match = re.search(r'<title>([^<]+)</title>', html_content)
         title = title_match.group(1).strip() if title_match else ''
         
-        if not title:
+        if not title or title in ['南山图书馆', '活动详情']:
             return None
         
-        # 提取活动时间
-        time_match = re.search(r'活动时间[：:]\s*(\d{4})年(\d{1,2})月(\d{1,2})日[^\d]*(\d{1,2}):(\d{2})', html_content)
-        if time_match:
-            y, m, d, h, min = time_match.groups()
-            start_date = f"{y}-{int(m):02d}-{int(d):02d}"
-        else:
-            # 尝试其他时间格式
-            time_match = re.search(r'(\d{4})[年/-](\d{1,2})[月/-](\d{1,2})', html_content)
-            if time_match:
-                y, m, d = time_match.groups()
-                start_date = f"{y}-{int(m):02d}-{int(d):02d}"
-            else:
-                return None
+        # 提取活动时间 - 格式: 2026年07月10日 14:30 至 2026年07月10日 20:10
+        time_pattern = r'活动时间[：:]\s*</span>\s*<span[^>]*>(\d{4})年(\d{2})月(\d{2})日\s*(\d{2}):(\d{2})\s*至\s*(\d{4})年(\d{2})月(\d{2})日\s*(\d{2}):(\d{2})'
+        time_match = re.search(time_pattern, html_content)
         
-        end_date = start_date  # 单日活动
+        if time_match:
+            start_date = f"{time_match.group(1)}-{time_match.group(2)}-{time_match.group(3)}"
+            end_date = f"{time_match.group(6)}-{time_match.group(7)}-{time_match.group(8)}"
+        else:
+            # 尝试单日活动格式
+            time_pattern2 = r'活动时间[：:]\s*</span>\s*<span[^>]*>(\d{4})年(\d{2})月(\d{2})日\s*(\d{2}):(\d{2})'
+            time_match2 = re.search(time_pattern2, html_content)
+            if time_match2:
+                start_date = f"{time_match2.group(1)}-{time_match2.group(2)}-{time_match2.group(3)}"
+                end_date = start_date
+            else:
+                # 尝试更宽松的格式
+                time_pattern3 = r'(\d{4})年(\d{1,2})月(\d{1,2})日'
+                time_match3 = re.findall(time_pattern3, html_content)
+                if time_match3 and len(time_match3) >= 1:
+                    start_date = f"{time_match3[0][0]}-{int(time_match3[0][1]):02d}-{int(time_match3[0][2]):02d}"
+                    end_date = start_date
+                else:
+                    return None
+        
+        # 只保留未来活动
+        today = datetime.now().strftime('%Y-%m-%d')
+        if end_date < today:
+            return None
         
         # 提取地点
-        location_match = re.search(r'地\s*点[：:]\s*([^<\n]+)', html_content)
+        location_pattern = r'地\s*点[：:]\s*</span>\s*<span[^>]*>([^<]+)</span>'
+        location_match = re.search(location_pattern, html_content)
         venue = location_match.group(1).strip() if location_match else NSLIB_NAME
         
-        # 清理venue中的特殊字符
+        # 清理venue
         venue = re.sub(r'[^\w\s\u4e00-\u9fff\-()]', '', venue)
         if not venue or len(venue) < 2:
             venue = NSLIB_NAME
         
-        # 提取描述信息
-        desc_match = re.search(r'<div[^>]*class="[^"]*content[^"]*"[^>]*>(.*?)</div>', html_content, re.DOTALL)
-        description = ''
-        if desc_match:
-            desc_text = desc_match.group(1)
-            # 清理HTML标签
-            desc_text = re.sub(r'<[^>]+>', '', desc_text)
-            desc_text = re.sub(r'\s+', ' ', desc_text).strip()
-            description = desc_text[:300] if len(desc_text) > 300 else desc_text
+        # 提取描述信息 (活动详情内容)
+        desc = ""
+        # 尝试找活动简介
+        intro_pattern = r'活动简介[\s\S]*?<div[^>]*>([\s\S]*?)</div>'
+        intro_match = re.search(intro_pattern, html_content)
+        if intro_match:
+            desc_text = re.sub(r'<[^>]+>', '', intro_match.group(1))
+            desc = re.sub(r'\s+', ' ', desc_text).strip()[:300]
         
-        # 提取剩余名额判断是否需要报名
-        signup_match = re.search(r'剩余名额[：:]\s*(\d+)/(\d+)', html_content)
-        needs_signup = signup_match is not None
+        # 如果没有简介，尝试其他方式
+        if not desc:
+            # 找报名须知或活动说明
+            content_pattern = r'class="[^"]*volCon[^"]*"[\s\S]*?<span[^>]*>([\s\S]*?)</span>'
+            content_matches = re.findall(content_pattern, html_content)
+            if content_matches:
+                for cm in content_matches:
+                    clean = re.sub(r'<[^>]+>', '', cm).strip()
+                    if len(clean) > 10 and len(clean) < 500:
+                        desc = clean[:300]
+                        break
         
-        if needs_signup and not description:
-            description = "需预约报名"
+        # 判断是否需报名
+        if '我要报名' in html_content or '剩余名额' in html_content:
+            if not desc:
+                desc = "需预约报名"
+            else:
+                desc = "需预约报名。" + desc
+        elif '直接前往' in html_content:
+            if not desc:
+                desc = "可直接前往参与"
         
         # 构建活动URL
         activity_url = f"https://activity.nslib.cn/activity/info/{activity_id}"
@@ -128,9 +150,9 @@ def parse_activity_detail(html_content, activity_id):
             'end_date': end_date,
             'url': activity_url,
             'contact': '0755-26520380',
-            'description': description,
+            'description': desc,
             'source': 'nslib',
-            'family_friendly': True  # 图书馆活动一般适合亲子
+            'family_friendly': True
         }
         
         return activity

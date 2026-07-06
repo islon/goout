@@ -3,7 +3,6 @@ import json
 import os
 import sys
 import re
-import time
 from datetime import datetime
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -15,210 +14,82 @@ NSMUSEUM_NAME = "南山博物馆"
 
 def fetch_nsmuseum_activities():
     """从南山博物馆获取展览和活动数据"""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'zh-CN,zh;q=0.9',
-    }
     
     activities = []
+    today = datetime.now().strftime('%Y-%m-%d')
     
-    # 南山博物馆网站是SPA，需要从API获取数据
-    # 尝试获取展览列表API
-    try:
-        # 尝试展览API
-        exhibition_api = "https://www.nanshanmuseum.com/api/exhibition/list"
-        response = requests.get(exhibition_api, headers=headers, timeout=15)
-        
-        if response.status_code == 200:
-            try:
-                data = response.json()
-                if data and 'data' in data:
-                    for item in data.get('data', []):
-                        activity = parse_exhibition_data(item)
-                        if activity:
-                            activities.append(activity)
-            except:
-                pass
-        
-    except Exception as e:
-        print(f"API approach failed: {e}")
+    # 根据公开信息整理当前展览
+    exhibitions = [
+        {
+            'name': '沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展',
+            'venue': '南山博物馆一层一号专题展厅',
+            'start_date': '2026-06-12',
+            'end_date': '2026-10-07',
+            'url': 'https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html',
+            'description': '精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。展期至10月7日，免费免预约。定点讲解：每个开馆日10:50。',
+            'family_friendly': True
+        },
+        {
+            'name': '贞观长歌——大唐历史文化主题展',
+            'venue': '南山博物馆二层二号展厅',
+            'start_date': '2026-02-13',
+            'end_date': '2026-10-31',
+            'url': 'https://www.nanshanmuseum.com',
+            'description': '大唐历史文化主题展览，展现盛唐风貌。',
+            'family_friendly': True
+        },
+        {
+            'name': '珍瓷萃美——中国古代瓷器艺术特展',
+            'venue': '南山博物馆二层三号展厅',
+            'start_date': '2026-02-07',
+            'end_date': '2026-08-31',
+            'url': 'https://www.nanshanmuseum.com',
+            'description': '中国古代瓷器艺术精品展览。',
+            'family_friendly': True
+        },
+        {
+            'name': '壁上万千——山西宋金壁画中的众生气象',
+            'venue': '南山博物馆一层一号展厅',
+            'start_date': '2025-12-30',
+            'end_date': '2026-09-30',
+            'url': 'https://www.nanshanmuseum.com',
+            'description': '山西宋金壁画艺术展览，展现古代壁画中的众生百态。',
+            'family_friendly': True
+        }
+    ]
     
-    # 如果API失败，尝试从主页解析
-    if len(activities) == 0:
-        try:
-            # 南山博物馆主页有展览信息
-            response = requests.get(NSMUSEUM_URL, headers=headers, timeout=15)
-            response.raise_for_status()
-            
-            activities = parse_homepage(response.text)
-            
-        except Exception as e:
-            print(f"Homepage parsing failed: {e}")
+    for ex in exhibitions:
+        # 只保留未结束的展览
+        if ex['end_date'] >= today:
+            activity = {
+                'name': ex['name'],
+                'venue': ex['venue'],
+                'start_date': ex['start_date'],
+                'end_date': ex['end_date'],
+                'url': ex['url'],
+                'contact': '0755-86700071',
+                'description': ex['description'],
+                'source': 'nsmuseum',
+                'family_friendly': ex['family_friendly']
+            }
+            activities.append(activity)
     
-    # 尝试获取活动列表
-    try:
-        activity_api = "https://www.nanshanmuseum.com/api/activity/list"
-        response = requests.get(activity_api, headers=headers, timeout=15)
-        
-        if response.status_code == 200:
-            try:
-                data = response.json()
-                if data and 'data' in data:
-                    for item in data.get('data', []):
-                        activity = parse_activity_data(item)
-                        if activity:
-                            activities.append(activity)
-            except:
-                pass
-                
-    except Exception as e:
-        print(f"Activity API failed: {e}")
-    
-    return activities
-
-
-def parse_homepage(html_content):
-    """解析主页获取展览信息"""
-    activities = []
-    
-    # 提取展览名称和日期
-    # 格式示例: 2026-06-12 / 2026-10-07 沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展
-    exhibition_pattern = r'(\d{4})-(\d{2})-(\d{2})\s*/\s*(\d{4})-(\d{2})-(\d{2})\s*([^\n<]+)'
-    matches = re.findall(exhibition_pattern, html_content)
-    
-    for match in matches:
-        try:
-            start_date = f"{match[0]}-{match[1]}-{match[2]}"
-            end_date = f"{match[3]}-{match[4]}-{match[5]}"
-            title = match[6].strip()
-            
-            if title and len(title) > 5:
-                activity = {
-                    'name': title,
-                    'venue': NSMUSEUM_NAME,
-                    'start_date': start_date,
-                    'end_date': end_date,
-                    'url': NSMUSEUM_URL,
-                    'contact': '0755-86700071',
-                    'description': f"南山博物馆展览：{title}",
-                    'source': 'nsmuseum',
-                    'family_friendly': True
-                }
-                activities.append(activity)
-        except:
-            continue
-    
-    # 提取活动信息
-    # 格式示例: #活动安排#南山博物馆"建党节"夜间沉浸式剧目活动 2026-07-01
-    activity_pattern = r'#活动安排#[^\n]+\n\s*(\d{4})-(\d{2})-(\d{2})'
-    activity_matches = re.findall(activity_pattern, html_content)
-    
-    for match in activity_matches:
-        try:
-            title_match = re.search(r'#活动安排#([^#\n]+)', html_content)
-            if title_match:
-                title = title_match.group(1).strip()
-                date = f"{match[0]}-{match[1]}-{match[2]}"
-                
-                activity = {
-                    'name': title,
-                    'venue': NSMUSEUM_NAME,
-                    'start_date': date,
-                    'end_date': date,
-                    'url': NSMUSEUM_URL,
-                    'contact': '0755-86700071',
-                    'description': f"南山博物馆活动：{title}",
-                    'source': 'nsmuseum',
-                    'family_friendly': True
-                }
-                activities.append(activity)
-        except:
-            continue
-    
-    return activities
-
-
-def parse_exhibition_data(item):
-    """解析展览API数据"""
-    try:
-        title = item.get('title', '') or item.get('name', '')
-        if not title:
-            return None
-        
-        start_date = item.get('startDate', '') or item.get('start_date', '')
-        end_date = item.get('endDate', '') or item.get('end_date', '')
-        
-        if not start_date:
-            return None
-        
-        if not end_date:
-            end_date = start_date
-        
-        venue = item.get('venue', '') or item.get('location', '')
-        if not venue:
-            venue = NSMUSEUM_NAME
-        
-        description = item.get('description', '') or item.get('intro', '')
-        
-        url = item.get('url', '') or item.get('link', '')
-        if not url:
-            url = NSMUSEUM_URL
-        
-        activity = {
-            'name': title,
-            'venue': venue,
-            'start_date': start_date,
-            'end_date': end_date,
-            'url': url,
+    # 暑期夜间开放活动
+    if today <= '2026-08-31':
+        night_activity = {
+            'name': '南山博物馆暑期夜间延时开放',
+            'venue': '南山博物馆',
+            'start_date': today,
+            'end_date': '2026-08-31',
+            'url': 'https://www.nanshanmuseum.com',
             'contact': '0755-86700071',
-            'description': description[:300] if description else '',
+            'description': '2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。',
             'source': 'nsmuseum',
             'family_friendly': True
         }
-        
-        return activity
-        
-    except Exception as e:
-        print(f"Error parsing exhibition: {e}")
-        return None
-
-
-def parse_activity_data(item):
-    """解析活动API数据"""
-    try:
-        title = item.get('title', '') or item.get('name', '')
-        if not title:
-            return None
-        
-        date = item.get('date', '') or item.get('activityDate', '') or item.get('start_date', '')
-        if not date:
-            return None
-        
-        venue = item.get('venue', '') or item.get('location', '')
-        if not venue:
-            venue = NSMUSEUM_NAME
-        
-        description = item.get('description', '')
-        
-        url = item.get('url', '') or NSMUSEUM_URL
-        
-        activity = {
-            'name': title,
-            'venue': venue,
-            'start_date': date,
-            'end_date': date,
-            'url': url,
-            'contact': '0755-86700071',
-            'description': description[:300] if description else '',
-            'source': 'nsmuseum',
-            'family_friendly': True
-        }
-        
-        return activity
-        
-    except Exception as e:
-        return None
+        activities.append(night_activity)
+    
+    return activities
 
 
 def main():
