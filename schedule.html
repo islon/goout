@@ -679,6 +679,8 @@
         }
     </style>
 </head>
+<!-- 不蒜子统计 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <body>
     <div class="header">
         <div class="header-top">
@@ -686,6 +688,10 @@
             <a href="https://islon.github.io/shenzhen-exhibitions/" class="subscribe-link" target="_blank">📅 订阅日程</a>
         </div>
         <h1>👨‍👩‍👧‍👦 深圳亲子活动日程</h1>
+        <div class="visit-stats" style="font-size: 13px; opacity: 0.9; margin-top: 8px; text-align: center;">
+            <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
+            <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
+        </div>
     </div>
 
     <div class="filter-section-mobile">
@@ -1259,9 +1265,10 @@
                 ` : ''}
                 ${exhibition.url ? `
                 <div class="modal-original-link">
-                    <a href="${exhibition.url}" target="_blank" rel="noopener" class="original-link-btn">
+                    <a href="${exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
                         🔗 查看原始活动详情
                     </a>
+                    <div style="font-size: 11px; color: #999; margin-top: 6px;" id="click-stats-display"></div>
                 </div>
                 ` : ''}
                 <div class="modal-contact">
@@ -1274,11 +1281,55 @@
             `;
 
             overlay.classList.add('active');
+
+            // 绑定点击统计
+            const linkBtn = document.getElementById('original-link-btn');
+            const statsDisplay = document.getElementById('click-stats-display');
+            if (linkBtn && exhibition.url) {
+                const currentSource = exhibition.source;
+                const stats = getClickStats();
+                const count = stats[currentSource] || 0;
+                if (statsDisplay) {
+                    statsDisplay.textContent = `已点击查看: ${count} 次`;
+                }
+
+                linkBtn.addEventListener('click', function() {
+                    trackClick(currentSource, exhibition.name);
+                    if (statsDisplay) {
+                        statsDisplay.textContent = `已点击查看: ${stats[currentSource] || 1} 次`;
+                    }
+                }, { once: true });
+            }
         }
 
         function closeModal() {
             const overlay = document.getElementById('modal-overlay');
             overlay.classList.remove('active');
+        }
+
+        // 点击统计功能
+        function getClickStats() {
+            const stats = localStorage.getItem('click_stats');
+            return stats ? JSON.parse(stats) : {};
+        }
+
+        function getClickCount(source) {
+            const stats = getClickStats();
+            return stats[source] || 0;
+        }
+
+        function trackClick(source, activityName) {
+            const stats = getClickStats();
+            stats[source] = (stats[source] || 0) + 1;
+            localStorage.setItem('click_stats', JSON.stringify(stats));
+
+            // 更新显示
+            const countEl = document.getElementById(`click-count-${source}`);
+            if (countEl) {
+                countEl.textContent = stats[source];
+            }
+
+            console.log(`点击记录: ${source} - ${activityName} (累计: ${stats[source]}次)`);
         }
 
         function toggleDesc(id) {
