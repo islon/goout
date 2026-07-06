@@ -397,14 +397,14 @@
                     <button class="tab" onclick="switchPlatform('android')">Android</button>
                 </div>
                 <div id="ios-subscribe">
-                    <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn">📱 添加到日历</a>
+                    <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" onclick="trackEvent('订阅', 'iOS添加日历', '一键订阅')">📱 添加到日历</a>
                 </div>
                 <div id="android-subscribe" style="display: none;">
                     <div style="margin-bottom: 15px; padding: 12px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #e65100; text-align: center;">
                         💡 安卓订阅方式：推荐使用 Google 日历或 Outlook 日历实现自动更新
                     </div>
-                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" style="margin-bottom: 10px;">📥 下载日历文件（离线导入）</a>
-                    <button onclick="copySubscribeUrl()" style="display: block; width: 100%; padding: 14px; background: linear-gradient(135deg, #4285f4 0%, #34a853 100%); color: white; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer;">🔄 复制订阅链接（支持自动更新）</button>
+                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" style="margin-bottom: 10px;" onclick="trackEvent('订阅', 'Android下载日历', '离线导入')">📥 下载日历文件（离线导入）</a>
+                    <button onclick="copySubscribeUrl(); trackEvent('订阅', 'Android复制链接', '自动更新')" style="display: block; width: 100%; padding: 14px; background: linear-gradient(135deg, #4285f4 0%, #34a853 100%); color: white; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer;">🔄 复制订阅链接（支持自动更新）</button>
                 </div>
                 <div class="source-info">数据每周自动更新</div>
             </div>
@@ -730,5 +730,22 @@
         
         window.addEventListener('DOMContentLoaded', loadExhibitions);
     </script>
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?你的百度统计ID";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+})();
+
+function trackEvent(category, action, label) {
+    if (window._hmt) {
+        _hmt.push(['_trackEvent', category, action, label]);
+    }
+    console.log(`统计事件: ${category} - ${action} - ${label}`);
+}
+</script>
 </body>
 </html>

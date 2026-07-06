@@ -681,6 +681,23 @@
 </head>
 <!-- 不蒜子统计 -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?你的百度统计ID";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+})();
+
+function trackEvent(category, action, label) {
+    if (window._hmt) {
+        _hmt.push(['_trackEvent', category, action, label]);
+    }
+    console.log(`统计事件: ${category} - ${action} - ${label}`);
+}
+</script>
 <body>
     <div class="header">
         <div class="header-top">
@@ -1208,6 +1225,12 @@
                 card.addEventListener('click', function() {
                     const idx = parseInt(this.dataset.idx);
                     openModal(idx);
+                    
+                    // 统计活动打开次数
+                    const exhibition = filteredExhibitions[idx];
+                    if (typeof trackEvent === 'function' && exhibition) {
+                        trackEvent('活动详情', '打开弹窗', exhibition.source);
+                    }
                 });
             });
 
@@ -1327,6 +1350,11 @@
             const countEl = document.getElementById(`click-count-${source}`);
             if (countEl) {
                 countEl.textContent = stats[source];
+            }
+
+            // 百度统计事件追踪
+            if (typeof trackEvent === 'function') {
+                trackEvent('活动详情', '点击原始链接', source);
             }
 
             console.log(`点击记录: ${source} - ${activityName} (累计: ${stats[source]}次)`);
