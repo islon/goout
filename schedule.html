@@ -650,6 +650,29 @@
             gap: 8px;
             margin-top: 8px;
         }
+
+        .modal-original-link {
+            margin-top: 16px;
+            text-align: center;
+        }
+
+        .original-link-btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            text-decoration: none;
+            transition: all 0.2s;
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+        }
+
+        .original-link-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
     </style>
 </head>
 <body>
@@ -1218,11 +1241,18 @@
                     <div class="modal-desc-content">${exhibition.description}</div>
                 </div>
                 ` : ''}
+                ${exhibition.url ? `
+                <div class="modal-original-link">
+                    <a href="${exhibition.url}" target="_blank" rel="noopener" class="original-link-btn">
+                        🔗 查看原始活动详情
+                    </a>
+                </div>
+                ` : ''}
                 <div class="modal-contact">
                     <div class="modal-contact-title">📞 联系信息</div>
                     <div class="modal-contact-info">
                         ${exhibition.contact ? `<div>电话：${exhibition.contact}</div>` : ''}
-                        ${exhibition.url ? `<div>官网：<a href="${exhibition.url}" target="_blank" class="modal-url">${exhibition.url}</a></div>` : ''}
+                        ${!exhibition.url && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
                     </div>
                 </div>
             `;
