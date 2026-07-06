@@ -1,0 +1,35 @@
+[
+  {
+    "name": "南山书房阅读推广活动",
+    "venue": "南山书房",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://activity.nslib.cn",
+    "contact": "",
+    "description": "南山书房定期举办读书分享会、亲子阅读等阅读推广活动，免费参与。",
+    "source": "nssxf",
+    "family_friendly": true
+  },
+  {
+    "name": "南山书房文化讲座",
+    "venue": "南山书房",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://activity.nslib.cn",
+    "contact": "",
+    "description": "南山书房举办各类文化讲座与沙龙活动，免费参与，需预约。",
+    "source": "nssxf",
+    "family_friendly": true
+  },
+  {
+    "name": "南山书房自习空间开放",
+    "venue": "南山书房",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://activity.nslib.cn",
+    "contact": "",
+    "description": "南山书房提供免费自习与阅读空间，免预约前往。",
+    "source": "nssxf",
+    "family_friendly": true
+  }
+]

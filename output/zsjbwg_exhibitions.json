@@ -1,0 +1,35 @@
+[
+  {
+    "name": "招商局百年历程展",
+    "venue": "招商局历史博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-26818800",
+    "description": "展示招商局集团自1872年创立以来的百年发展历程，涵盖航运、金融、港口、地产等领域，免费参观。",
+    "source": "zsjbwg",
+    "family_friendly": true
+  },
+  {
+    "name": "中国近代航运史展",
+    "venue": "招商局历史博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-26818800",
+    "description": "展示中国近代航运业发展历程，招商局在中国近现代经济发展中的重要贡献，免费参观。",
+    "source": "zsjbwg",
+    "family_friendly": true
+  },
+  {
+    "name": "蛇口工业区改革开放展",
+    "venue": "招商局历史博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-26818800",
+    "description": "展示蛇口工业区作为改革开放先行者的探索历程与改革成果，免费参观。",
+    "source": "zsjbwg",
+    "family_friendly": true
+  }
+]
