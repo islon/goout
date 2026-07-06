@@ -234,6 +234,10 @@
         .exhibition-card.baoan_zonghe { border-left-color: #f43f5e; }
         .exhibition-card.huanle_juchang { border-left-color: #eab308; }
         .exhibition-card.baoan_binhai_park { border-left-color: #14b8a6; }
+        /* 南山区场馆 */
+        .exhibition-card.nslib { border-left-color: #0ea5e9; }
+        .exhibition-card.nsmuseum { border-left-color: #a855f7; }
+        .exhibition-card.nswhg { border-left-color: #22c55e; }
 
         .exhibition-header {
             display: flex;
@@ -744,6 +748,10 @@
             <button class="filter-btn" data-source="baoan_zonghe">宝安综合训练馆</button>
             <button class="filter-btn" data-source="huanle_juchang">欢乐剧场</button>
             <button class="filter-btn" data-source="baoan_binhai_park">宝安滨海文化公园</button>
+            <!-- 南山区场馆 -->
+            <button class="filter-btn" data-source="nslib">南山图书馆</button>
+            <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
+            <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
         </div>
     </div>
 
@@ -828,6 +836,10 @@
                     <button class="filter-btn" data-source="baoan_zonghe">宝安综合训练馆</button>
                     <button class="filter-btn" data-source="huanle_juchang">欢乐剧场</button>
                     <button class="filter-btn" data-source="baoan_binhai_park">宝安滨海文化公园</button>
+                    <!-- 南山区场馆 -->
+                    <button class="filter-btn" data-source="nslib">南山图书馆</button>
+                    <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
+                    <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
                 </div>
             </div>
 
@@ -898,7 +910,11 @@
             'shenzhen_binhai_art': '宝安区',
             'baoan_zonghe': '宝安区',
             'huanle_juchang': '宝安区',
-            'baoan_binhai_park': '宝安区'
+            'baoan_binhai_park': '宝安区',
+            // 南山区场馆
+            'nslib': '南山区',
+            'nsmuseum': '南山区',
+            'nswhg': '南山区'
         };
 
         function getDistrict(source) {
