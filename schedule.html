@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="public, max-age=86400">
     <title>童行 (深圳亲子活动)</title>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
@@ -1965,23 +1966,65 @@
         }
 
         function loadExhibitions() {
-            fetch('output/exhibitions.json')
-                .then(response => response.json())
-                .then(exhibitions => {
-                    allExhibitions = exhibitions;
+            const cacheKey = 'exhibitions_cache';
+            const versionKey = 'exhibitions_version';
+            const lastCheckKey = 'exhibitions_last_check';
+            
+            const cachedData = localStorage.getItem(cacheKey);
+            const cachedVersion = localStorage.getItem(versionKey);
+            
+            const now = Date.now();
+            const lastCheck = parseInt(localStorage.getItem(lastCheckKey) || '0');
+            const checkInterval = 30 * 60 * 1000;
+            
+            if (cachedData && cachedVersion && (now - lastCheck < checkInterval)) {
+                try {
+                    allExhibitions = JSON.parse(cachedData);
                     initFilters();
                     renderExhibitions();
-                })
-                .catch(error => {
-                    document.getElementById('exhibition-list').innerHTML = `
-                        <div class="empty-state">
-                            <div class="icon">⚠️</div>
-                            <div>加载失败</div>
-                            <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
-                        </div>
-                    `;
-                    console.error('Failed to load exhibitions:', error);
-                });
+                    console.log('使用缓存数据，版本:', cachedVersion);
+                } catch (e) {
+                    console.error('缓存数据解析失败:', e);
+                    fetchAndCache();
+                    return;
+                }
+            }
+            
+            fetchAndCache();
+            
+            function fetchAndCache() {
+                fetch('output/exhibitions.json', { cache: 'no-cache' })
+                    .then(response => {
+                        const newVersion = response.headers.get('etag') || response.headers.get('last-modified') || String(Date.now());
+                        response.json().then(exhibitions => {
+                            if (newVersion !== cachedVersion || !cachedData) {
+                                localStorage.setItem(cacheKey, JSON.stringify(exhibitions));
+                                localStorage.setItem(versionKey, newVersion);
+                                allExhibitions = exhibitions;
+                                initFilters();
+                                renderExhibitions();
+                                console.log('数据已更新，版本:', newVersion);
+                            } else {
+                                console.log('数据未变化，跳过更新');
+                            }
+                            localStorage.setItem(lastCheckKey, String(Date.now()));
+                        });
+                    })
+                    .catch(error => {
+                        if (!cachedData) {
+                            document.getElementById('exhibition-list').innerHTML = `
+                                <div class="empty-state">
+                                    <div class="icon">⚠️</div>
+                                    <div>加载失败</div>
+                                    <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
+                                </div>
+                            `;
+                            console.error('Failed to load exhibitions:', error);
+                        } else {
+                            console.log('网络错误，继续使用缓存数据');
+                        }
+                    });
+            }
         }
 
         window.addEventListener('DOMContentLoaded', loadExhibitions);
