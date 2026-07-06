@@ -681,7 +681,7 @@
 </head>
 <!-- 不蒜子统计 -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<!-- 百度统计 -->
+<!-- 百度统计（匿名模式，不收集个人信息） -->
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -690,6 +690,9 @@ var _hmt = _hmt || [];
     var s = document.getElementsByTagName("script")[0]; 
     s.parentNode.insertBefore(hm, s);
 })();
+
+_hmt.push(['_setCustomVar', 1, 'UserType', 'Anonymous', 3]);
+_hmt.push(['_setCustomVar', 2, 'Privacy', 'NoPersonalInfo', 3]);
 
 function trackEvent(category, action, label) {
     if (window._hmt) {
