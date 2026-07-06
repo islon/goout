@@ -113,6 +113,15 @@
             border-bottom: 1px solid #eee;
         }
 
+        .filter-section-mobile--right-align {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .filter-section-mobile--right-align .filter-bar {
+            align-self: flex-start;
+        }
+
         .filter-label {
             font-size: 12px;
             color: #888;
@@ -409,6 +418,7 @@
             font-size: 11px;
             text-decoration: none;
             font-weight: 500;
+            text-align: left;
         }
 
         .exhibition-link:hover {
@@ -452,6 +462,7 @@
             border-radius: 20px;
             cursor: pointer;
             margin-top: 8px;
+            margin-left: auto;
             transition: all 0.2s;
         }
 
@@ -910,7 +921,7 @@
         </div>
     </div>
 
-    <div class="filter-section-mobile">
+    <div class="filter-section-mobile filter-section-mobile--right-align">
         <div class="filter-label">地点</div>
         <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
             <button class="filter-btn" data-source="all">全部地点</button>
