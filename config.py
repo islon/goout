@@ -25,6 +25,41 @@ RCPY_URL = ""
 SZWGY_URL = ""
 QHS_URL = ""
 
+# 坪山区
+PS_NATURE_URL = "https://www.szns.gov.cn"
+
+# 光明区
+GM_KJG_URL = "https://www.szmct.cn"
+GM_LIB_URL = "https://www.szmct.cn"
+
+# 盐田区
+YT_LIB_URL = "https://www.yantian.gov.cn"
+YT_HISTORY_URL = "https://www.yantian.gov.cn"
+
+# 大鹏新区
+DP_GEOPARK_URL = "https://www.dapeng.gov.cn"
+DP_NUCLEAR_URL = "https://www.dapeng.gov.cn"
+
+# 福田区
+SZ_CHILDREN_LIB_URL = "https://www.szlib.org.cn"
+SZ_SAFETY_URL = "https://www.sz.gov.cn"
+
+# 南山区新增
+OCT_WETLAND_URL = "https://www.szns.gov.cn"
+
+# 宝安区新增
+BAOAN_1990_URL = "https://www.baoan.gov.cn"
+
+# 龙岗区
+LG_HAKKA_URL = "https://www.lg.gov.cn"
+
+# 龙华区
+LH_PRINTMAKING_URL = "https://www.szlh.gov.cn"
+LH_ECOLOGY_URL = "https://www.szlh.gov.cn"
+
+# 罗湖区
+LH_PALEO_URL = "https://www.sz.gov.cn"
+
 OUTPUT_DIR = "output"
 ICS_FILE = "exhibitions.ics"
 JSON_FILE = "exhibitions.json"
@@ -55,6 +90,41 @@ NSSXF_NAME = "南山书房"
 RCPY_NAME = "人才公园"
 SZWGY_NAME = "深圳湾公园"
 QHS_NAME = "前海石公园"
+
+# 坪山区
+PS_NATURE_NAME = "深圳自然博物馆"
+
+# 光明区
+GM_KJG_NAME = "深圳科学技术馆（光明新馆）"
+GM_LIB_NAME = "光明区少年儿童图书馆"
+
+# 盐田区
+YT_LIB_NAME = "盐田区图书馆"
+YT_HISTORY_NAME = "中英街历史博物馆"
+
+# 大鹏新区
+DP_GEOPARK_NAME = "大鹏半岛国家地质公园博物馆"
+DP_NUCLEAR_NAME = "大亚湾核能科技馆"
+
+# 福田区
+SZ_CHILDREN_LIB_NAME = "深圳少年儿童图书馆"
+SZ_SAFETY_NAME = "深圳市安全教育基地"
+
+# 南山区新增
+OCT_WETLAND_NAME = "华侨城湿地生态展厅"
+
+# 宝安区新增
+BAOAN_1990_NAME = "宝安1990文化馆"
+
+# 龙岗区
+LG_HAKKA_NAME = "龙岗客家民俗博物馆"
+
+# 龙华区
+LH_PRINTMAKING_NAME = "中国版画博物馆"
+LH_ECOLOGY_NAME = "龙华生态文明展览馆"
+
+# 罗湖区
+LH_PALEO_NAME = "深圳古生物博物馆"
 
 CALENDAR_NAME = "深圳亲子活动"
 CALENDAR_DESCRIPTION = "深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等"

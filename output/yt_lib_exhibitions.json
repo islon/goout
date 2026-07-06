@@ -1,0 +1,57 @@
+[
+  {
+    "name": "海洋主题少儿阅览区",
+    "venue": "盐田区图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "以海洋为主题的少儿阅览专区，装饰充满海洋元素，提供海洋科普书籍与绘本。免费开放。",
+    "source": "yt_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "亲子阅读区",
+    "venue": "盐田区图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "温馨的亲子阅读空间，适合家长与孩子共同阅读，促进亲子互动。免费开放。",
+    "source": "yt_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "青少年科普读物区",
+    "venue": "盐田区图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "青少年科普书籍专区，涵盖海洋科学、自然探索、科技创新等领域。免费开放。",
+    "source": "yt_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "海洋科普展览",
+    "venue": "盐田区图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "定期举办海洋科普主题展览，展示海洋生物标本、海洋环境保护知识等。免费参观。",
+    "source": "yt_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "少儿阅读活动",
+    "venue": "盐田区图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "每周举办故事会、绘本共读、手工制作等少儿阅读活动。免费参与。",
+    "source": "yt_lib",
+    "family_friendly": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "0-3岁亲子绘本区",
+    "venue": "光明区少年儿童图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "专为婴幼儿设计的绘本阅读区，提供适合0-3岁儿童的绘本读物与亲子阅读空间。免费开放。",
+    "source": "gm_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "3-6岁幼儿绘本区",
+    "venue": "光明区少年儿童图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "幼儿绘本专区，精选国内外优秀绘本，培养幼儿阅读兴趣。免费开放。",
+    "source": "gm_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "6-12岁少儿读物区",
+    "venue": "光明区少年儿童图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "小学阶段少儿读物专区，涵盖文学、科普、历史等各类书籍。免费开放。",
+    "source": "gm_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "暑期科普阅读活动",
+    "venue": "光明区少年儿童图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "暑期期间举办各类科普阅读活动，包括科普讲座、阅读分享、手工制作等。免费参与。",
+    "source": "gm_lib",
+    "family_friendly": true
+  },
+  {
+    "name": "少儿数字阅读体验区",
+    "venue": "光明区少年儿童图书馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "提供数字绘本、有声读物、电子书等数字阅读资源，配备电子阅读设备。免费开放。",
+    "source": "gm_lib",
+    "family_friendly": true
+  }
+]

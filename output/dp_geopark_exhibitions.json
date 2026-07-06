@@ -1,0 +1,68 @@
+[
+  {
+    "name": "火山喷发模拟体验",
+    "venue": "大鹏半岛国家地质公园博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "沉浸式火山喷发模拟体验，感受火山爆发的震撼场景，了解火山地质知识。免费参观。",
+    "source": "dp_geopark",
+    "family_friendly": true
+  },
+  {
+    "name": "恐龙蛋化石展",
+    "venue": "大鹏半岛国家地质公园博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展出珍贵恐龙蛋化石标本，展示恐龙繁殖方式与古生物演化历史。免费参观。",
+    "source": "dp_geopark",
+    "family_friendly": true
+  },
+  {
+    "name": "矿物晶体展",
+    "venue": "大鹏半岛国家地质公园博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展示各类精美矿物晶体标本，呈现大自然的鬼斧神工与地质之美。免费参观。",
+    "source": "dp_geopark",
+    "family_friendly": true
+  },
+  {
+    "name": "海岸地质演化展",
+    "venue": "大鹏半岛国家地质公园博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "介绍大鹏半岛独特的海岸地质地貌，展示海蚀地貌与沉积岩形成过程。免费参观。",
+    "source": "dp_geopark",
+    "family_friendly": true
+  },
+  {
+    "name": "古生物化石展",
+    "venue": "大鹏半岛国家地质公园博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展出古生物化石标本，包括古植物、古动物化石，重现史前生态环境。免费参观。",
+    "source": "dp_geopark",
+    "family_friendly": true
+  },
+  {
+    "name": "地质灾害科普展",
+    "venue": "大鹏半岛国家地质公园博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "介绍地震、滑坡、泥石流等地质灾害的成因与防范措施，提高防灾减灾意识。免费参观。",
+    "source": "dp_geopark",
+    "family_friendly": true
+  }
+]

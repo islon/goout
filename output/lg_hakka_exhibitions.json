@@ -1,0 +1,68 @@
+[
+  {
+    "name": "客家围屋建筑展",
+    "venue": "龙岗客家民俗博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展示全国最大客家围屋之一的建筑特色，呈现客家传统建筑工艺与文化内涵。免费参观。",
+    "source": "lg_hakka",
+    "family_friendly": true
+  },
+  {
+    "name": "客家民俗文化展",
+    "venue": "龙岗客家民俗博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展示客家民俗风情，包括客家服饰、饮食、节庆等传统文化。免费参观。",
+    "source": "lg_hakka",
+    "family_friendly": true
+  },
+  {
+    "name": "客家农耕文化展",
+    "venue": "龙岗客家民俗博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展示客家农耕工具与传统农业生产方式，了解客家先民的农耕智慧。免费参观。",
+    "source": "lg_hakka",
+    "family_friendly": true
+  },
+  {
+    "name": "客家宗族文化展",
+    "venue": "龙岗客家民俗博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展示客家宗族制度与族谱文化，呈现客家姓氏源流与宗族传承。免费参观。",
+    "source": "lg_hakka",
+    "family_friendly": true
+  },
+  {
+    "name": "客家非遗展",
+    "venue": "龙岗客家民俗博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "展示客家非物质文化遗产，包括客家山歌、客家酿豆腐制作技艺等。免费参观。",
+    "source": "lg_hakka",
+    "family_friendly": true
+  },
+  {
+    "name": "客家传统生活展",
+    "venue": "龙岗客家民俗博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.sz.gov.cn",
+    "contact": "",
+    "description": "复原客家传统生活场景，展示客家民居内部布局与生活用具。免费参观。",
+    "source": "lg_hakka",
+    "family_friendly": true
+  }
+]
