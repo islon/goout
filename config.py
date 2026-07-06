@@ -126,6 +126,6 @@ LH_ECOLOGY_NAME = "龙华生态文明展览馆"
 # 罗湖区
 LH_PALEO_NAME = "深圳古生物博物馆"
 
-CALENDAR_NAME = "深圳亲子活动"
+CALENDAR_NAME = "童行 (深圳亲子活动)"
 CALENDAR_DESCRIPTION = "深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等"
 CALENDAR_TIMEZONE = "Asia/Shanghai"
