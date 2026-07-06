@@ -372,6 +372,26 @@
             text-align: right;
         }
     </style>
+    <!-- 不蒜子统计 -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <!-- 百度统计（匿名模式，不收集个人信息） -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?2b4500f063cc3deffe5b1cc07e5d21b8";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+    _hmt.push(['_setCustomVar', 1, 'UserType', 'Anonymous', 3]);
+    _hmt.push(['_setCustomVar', 2, 'Privacy', 'NoPersonalInfo', 3]);
+    function trackEvent(category, action, label) {
+        if (window._hmt) {
+            _hmt.push(['_trackEvent', category, action, label]);
+        }
+        console.log('统计事件: ' + category + ' - ' + action + ' - ' + label);
+    }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -731,25 +751,5 @@
         
         window.addEventListener('DOMContentLoaded', loadExhibitions);
     </script>
-<!-- 百度统计（匿名模式，不收集个人信息） -->
-<script>
-var _hmt = _hmt || [];
-(function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?2b4500f063cc3deffe5b1cc07e5d21b8";
-    var s = document.getElementsByTagName("script")[0]; 
-    s.parentNode.insertBefore(hm, s);
-})();
-
-_hmt.push(['_setCustomVar', 1, 'UserType', 'Anonymous', 3]);
-_hmt.push(['_setCustomVar', 2, 'Privacy', 'NoPersonalInfo', 3]);
-
-function trackEvent(category, action, label) {
-    if (window._hmt) {
-        _hmt.push(['_trackEvent', category, action, label]);
-    }
-    console.log(`统计事件: ${category} - ${action} - ${label}`);
-}
-</script>
 </body>
 </html>
