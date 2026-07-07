@@ -23428,5 +23428,80 @@
       "文化"
     ],
     "fee": "免费"
+  },
+  {
+    "name": "2026中超联赛：深圳新鹏城 vs 青岛西海岸",
+    "venue": "深圳市体育中心体育场",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "url": "https://www.dongqiudi.com/team/22199",
+    "contact": "",
+    "description": "2026赛季中超联赛第18轮，深圳新鹏城主场迎战青岛西海岸。开赛时间19:35。购票渠道：深圳新鹏城足球俱乐部票务小程序、看个比赛APP/小程序。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "体育"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "2026中超联赛：深圳新鹏城 vs 重庆铜梁龙",
+    "venue": "深圳市体育中心体育场",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "url": "https://www.dongqiudi.com/team/22199",
+    "contact": "",
+    "description": "2026赛季中超联赛第21轮，深圳新鹏城主场迎战重庆铜梁龙。开赛时间20:00。购票渠道：深圳新鹏城足球俱乐部票务小程序、看个比赛APP/小程序。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "体育"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "2026中超联赛：深圳新鹏城 vs 浙江",
+    "venue": "深圳市体育中心体育场",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "url": "https://www.dongqiudi.com/team/22199",
+    "contact": "",
+    "description": "2026赛季中超联赛第24轮，深圳新鹏城主场迎战浙江队。开赛时间19:35。购票渠道：深圳新鹏城足球俱乐部票务小程序、看个比赛APP/小程序。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "体育"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "2026中超联赛：深圳新鹏城 vs 上海海港",
+    "venue": "深圳市体育中心体育场",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-28",
+    "url": "https://www.dongqiudi.com/team/22199",
+    "contact": "",
+    "description": "2026赛季中超联赛第25轮，深圳新鹏城主场迎战上海海港。开赛时间20:00。购票渠道：深圳新鹏城足球俱乐部票务小程序、看个比赛APP/小程序。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "体育"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "2026粤BA广东省城市篮球联赛半决赛：深圳 vs 广州（主场）",
+    "venue": "龙华文体中心综合馆",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-08",
+    "url": "https://www.sztv.com.cn",
+    "contact": "",
+    "description": "2026年广东省城市篮球联赛（粤BA）半决赛次回合，深圳队主场迎战广州队。开赛时间19:30。首回合7月4日在广州进行。季后赛采用主客场双回合+黄金九分决胜赛制。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "体育"
+    ],
+    "fee": "收费"
   }
 ]
