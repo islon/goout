@@ -9,7 +9,8 @@ from config import OUTPUT_DIR, ICS_FILE, JSON_FILE, CALENDAR_NAME, CALENDAR_DESC
 
 
 def generate_uid(exhibition):
-    content = f"{exhibition['name']}{exhibition['venue']}{exhibition['start_date']}"
+    title = exhibition.get('title') or exhibition.get('name', '')
+    content = f"{title}{exhibition['venue']}{exhibition['start_date']}"
     return md5(content.encode()).hexdigest()[:16]
 
 
@@ -60,7 +61,7 @@ def create_ics(exhibitions):
         lines.append(f'DTSTART;VALUE=DATE:{start_dt}')
         lines.append(f'DTEND;VALUE=DATE:{end_dt}')
         
-        lines.append(f'SUMMARY:{exhibition["name"]}')
+        lines.append(f'SUMMARY:{exhibition.get("title") or exhibition.get("name", "")}')
         lines.append(f'LOCATION:{exhibition["venue"]}')
         
         description_parts = []
@@ -68,8 +69,8 @@ def create_ics(exhibitions):
             description_parts.append(exhibition['description'])
         description_parts.append(f'地点: {exhibition["venue"]}')
         description_parts.append(f'时间: {exhibition["start_date"]} 至 {exhibition["end_date"]}')
-        if exhibition.get('url'):
-            description_parts.append(f'详情: {exhibition["url"]}')
+        if exhibition.get('link') or exhibition.get('url'):
+            description_parts.append(f'详情: {exhibition.get("link") or exhibition.get("url", "")}')
         if exhibition.get('contact'):
             description_parts.append(f'联系: {exhibition["contact"]}')
         

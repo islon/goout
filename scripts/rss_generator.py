@@ -16,18 +16,20 @@ def generate_rss():
     
     rss_items = []
     for ex in exhibitions[:50]:
+        title = ex.get('title') or ex.get('name', '')
+        link = ex.get('link') or ex.get('url', 'https://islon.github.io/shenzhen-exhibitions/')
         date_range = ex['start_date'] if ex['start_date'] == ex['end_date'] else f"{ex['start_date']} ~ {ex['end_date']}"
         description = ex.get('description', '')[:300]
         rss_items.append(f"""    <item>
-        <title>{ex['name']}</title>
-        <link>{ex.get('url', 'https://islon.github.io/shenzhen-exhibitions/')}</link>
+        <title>{title}</title>
+        <link>{link}</link>
         <description><![CDATA[
             <strong>日期：</strong>{date_range}<br>
             <strong>地点：</strong>{ex['venue']}<br>
             {description if description else ''}
         ]]></description>
         <pubDate>{datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')}</pubDate>
-        <guid>{ex['name']}</guid>
+        <guid>{title}</guid>
     </item>""")
     
     rss_content = f"""<?xml version="1.0" encoding="UTF-8"?>

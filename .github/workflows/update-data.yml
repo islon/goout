@@ -24,8 +24,7 @@ jobs:
 
       - name: Run scrapers
         run: |
-          cd scripts
-          python main.py
+          python scripts/data_pipeline.py
 
       - name: Commit and push
         run: |

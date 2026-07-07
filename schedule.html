@@ -908,11 +908,13 @@
         <div class="filter-label">类型筛选</div>
         <div class="filter-bar" id="type-filter-bar">
             <button class="filter-btn" data-type="all">全部类型</button>
-            <button class="filter-btn" data-type="exhibition">展览</button>
-            <button class="filter-btn" data-type="lecture">讲座</button>
-            <button class="filter-btn" data-type="sports">体育</button>
-            <button class="filter-btn" data-type="art">艺术</button>
-            <button class="filter-btn" data-type="tech">科技</button>
+            <button class="filter-btn" data-type="展览">展览</button>
+            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
+            <button class="filter-btn" data-type="科普活动">科普活动</button>
+            <button class="filter-btn" data-type="演出">演出</button>
+            <button class="filter-btn" data-type="影视放映">影视放映</button>
+            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
+            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
         </div>
     </div>
 
@@ -937,62 +939,17 @@
         <div class="filter-label">地点</div>
         <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
             <button class="filter-btn" data-source="all">全部地点</button>
-            <button class="filter-btn" data-source="szcec">深圳会展中心</button>
-            <button class="filter-btn" data-source="shenzhen_world">深圳国际会展中心</button>
             <button class="filter-btn" data-source="szlib">深圳图书馆</button>
-            <button class="filter-btn" data-source="balib">宝安图书馆</button>
-            <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
-            <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
-            <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
-            <button class="filter-btn" data-source="baoan_guihua">城市规划展览馆</button>
-            <button class="filter-btn" data-source="baoan_qingshaonian">宝安区青少年宫</button>
-            <button class="filter-btn" data-source="shenzhen_binhai_art">深圳滨海艺术中心</button>
-            <button class="filter-btn" data-source="baoan_zonghe">宝安综合训练馆</button>
-            <button class="filter-btn" data-source="huanle_juchang">欢乐剧场</button>
-            <button class="filter-btn" data-source="baoan_binhai_park">宝安滨海文化公园</button>
-            <!-- 南山区场馆 -->
             <button class="filter-btn" data-source="nslib">南山图书馆</button>
             <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
             <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
-            <button class="filter-btn" data-source="skhykpg">蛇口海洋科普馆</button>
-            <button class="filter-btn" data-source="sarc">深爱人才馆</button>
-            <button class="filter-btn" data-source="ntgc">南头古城博物馆群</button>
-            <button class="filter-btn" data-source="zsjbwg">招商局历史博物馆</button>
-            <button class="filter-btn" data-source="nsqsng">青少年活动中心</button>
-            <button class="filter-btn" data-source="nswtzx">南山文体中心</button>
+            <button class="filter-btn" data-source="szbwg">深圳博物馆</button>
             <button class="filter-btn" data-source="szwty">深圳湾体育中心</button>
-            <button class="filter-btn" data-source="skwtpark">蛇口文体公园</button>
-            <button class="filter-btn" data-source="hqcwh">华侨城体育文化中心</button>
-            <button class="filter-btn" data-source="nsaqjy">安全教育体验馆</button>
-            <button class="filter-btn" data-source="nssxf">南山书房</button>
-            <button class="filter-btn" data-source="rcpy">人才公园</button>
-            <button class="filter-btn" data-source="szwgy">深圳湾公园</button>
-            <button class="filter-btn" data-source="qhs">前海石公园</button>
-            <!-- 坪山区 -->
-            <button class="filter-btn" data-source="ps_nature">深圳自然博物馆</button>
-            <!-- 光明区 -->
-            <button class="filter-btn" data-source="gm_kjg">深圳科技馆（光明）</button>
-            <button class="filter-btn" data-source="gm_lib">光明少儿图书馆</button>
-            <!-- 盐田区 -->
-            <button class="filter-btn" data-source="yt_lib">盐田区图书馆</button>
-            <button class="filter-btn" data-source="yt_history">中英街历史博物馆</button>
-            <!-- 大鹏新区 -->
-            <button class="filter-btn" data-source="dp_geopark">大鹏地质公园博物馆</button>
-            <button class="filter-btn" data-source="dp_nuclear">大亚湾核能科技馆</button>
-            <!-- 福田区 -->
-            <button class="filter-btn" data-source="sz_children_lib">深圳少儿图书馆</button>
-            <button class="filter-btn" data-source="sz_safety">深圳市安全教育基地</button>
-            <!-- 南山区新增 -->
-            <button class="filter-btn" data-source="oct_wetland">华侨城湿地</button>
-            <!-- 宝安区新增 -->
-            <button class="filter-btn" data-source="baoan_1990">宝安1990文化馆</button>
-            <!-- 龙岗区 -->
-            <button class="filter-btn" data-source="lg_hakka">龙岗客家民俗博物馆</button>
-            <!-- 龙华区 -->
-            <button class="filter-btn" data-source="lh_printmaking">中国版画博物馆</button>
-            <button class="filter-btn" data-source="lh_ecology">龙华生态文明展览馆</button>
-            <!-- 罗湖区 -->
-            <button class="filter-btn" data-source="lh_paleo">深圳古生物博物馆</button>
+            <button class="filter-btn" data-source="shenzhen_world">深圳市体育中心体育场</button>
+            <button class="filter-btn" data-source="balib">宝安图书馆</button>
+            <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
+            <button class="filter-btn" data-source="baoan_qingshaonian">宝安青少年宫</button>
+            <button class="filter-btn" data-source="lh">龙华文体中心</button>
         </div>
         <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
     </div>
@@ -1033,11 +990,13 @@
                 <div class="sidebar-title">🏷️ 类型筛选</div>
                 <div class="filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-type="all">全部类型</button>
-            <button class="filter-btn" data-type="exhibition">展览</button>
-            <button class="filter-btn" data-type="lecture">讲座</button>
-            <button class="filter-btn" data-type="sports">体育</button>
-            <button class="filter-btn" data-type="art">艺术</button>
-            <button class="filter-btn" data-type="tech">科技</button>
+            <button class="filter-btn" data-type="展览">展览</button>
+            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
+            <button class="filter-btn" data-type="科普活动">科普活动</button>
+            <button class="filter-btn" data-type="演出">演出</button>
+            <button class="filter-btn" data-type="影视放映">影视放映</button>
+            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
+            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
                 </div>
             </div>
 
@@ -1272,6 +1231,9 @@
         }
 
         function getActivityType(exhibition) {
+            if (exhibition.category) {
+                return exhibition.category;
+            }
             const name = exhibition.name || '';
             const venue = exhibition.venue || '';
 
@@ -1280,48 +1242,48 @@
                 name.includes('羽毛球') || name.includes('乒乓球') || name.includes('网球') ||
                 name.includes('游泳') || name.includes('田径') || name.includes('马拉松') ||
                 name.includes('瑜伽') || name.includes('舞蹈') || name.includes('武术')) {
-                return 'sports';
+                return '体育赛事';
             }
 
             if (venue.includes('科技馆') || name.includes('科学') || name.includes('科普') ||
                 name.includes('科技') || name.includes('机器人') || name.includes('编程') ||
                 name.includes('3D打印') || name.includes('VR') || name.includes('创客')) {
-                return 'tech';
+                return '科普活动';
             }
 
             if (venue.includes('湾区之眼') || name.includes('艺术') || name.includes('展览') ||
-                name.includes('画展') || name.includes('摄影') || name.includes('雕塑') ||
-                name.includes('音乐会') || name.includes('话剧') || name.includes('表演')) {
-                return 'art';
+                name.includes('画展') || name.includes('摄影') || name.includes('雕塑')) {
+                return '展览';
             }
 
             if (venue.includes('图书馆') || name.includes('讲座') || name.includes('故事会') ||
                 name.includes('阅读') || name.includes('沙龙') || name.includes('分享')) {
-                return 'lecture';
+                return '讲座阅读';
             }
 
             if (name.includes('亲子') || name.includes('儿童') || name.includes('手工') ||
                 name.includes('夏令营') || name.includes('嘉年华')) {
-                return 'family';
+                return '亲子活动';
+            }
+
+            if (name.includes('音乐会') || name.includes('演唱会') || name.includes('话剧') ||
+                name.includes('歌剧') || name.includes('演出') || name.includes('演奏')) {
+                return '演出';
+            }
+
+            if (name.includes('电影') || name.includes('放映') || name.includes('观影')) {
+                return '影视放映';
             }
 
             if (name.includes('展览') || name.includes('展')) {
-                return 'exhibition';
+                return '展览';
             }
 
-            return 'exhibition';
+            return '展览';
         }
 
         function getTypeLabel(type) {
-            const labels = {
-                'exhibition': '展览',
-                'lecture': '讲座',
-                'sports': '体育',
-                'family': '亲子',
-                'art': '艺术',
-                'tech': '科技'
-            };
-            return labels[type] || '其他';
+            return type || '其他';
         }
 
         function getFilteredExhibitions() {
