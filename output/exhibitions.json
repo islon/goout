@@ -23503,5 +23503,455 @@
       "体育"
     ],
     "fee": "收费"
+  },
+  {
+    "name": "童享美育，阅读一夏——少儿暑期系列活动",
+    "venue": "深圳图书馆中心馆+北馆",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "url": "https://m.sohu.com/a/1045852334_121106875/",
+    "contact": "",
+    "description": "五大板块（主题书展、公益课堂、亲子互动、经典共读、趣味挑战），百余场活动。中心馆+北馆双馆联动。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "暑期公益培训课（8大类69节）",
+    "venue": "深圳图书馆中心馆、北馆少儿服务区",
+    "start_date": "2026-07-14",
+    "end_date": "2026-08-28",
+    "url": "https://m.sohu.com/a/1045449552_121106875/",
+    "contact": "",
+    "description": "5-16岁青少年，8大类69节免费公益素质课程：语言朗诵、创意美术、魔方益智、传统棋艺、科创实验、职业体验等。需预约，关注「深圳图书馆」微信公众号。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "少年行·青少年人工智能（AI）训练营",
+    "venue": "深圳图书馆中心馆五楼报告厅",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-28",
+    "url": "https://m.sohu.com/a/1045449552_121106875/",
+    "contact": "",
+    "description": "中国科学技术大学理学博士王才琳主讲。AI发展脉络、大模型底层逻辑、AI绘画/视频生成/编程工具。需预约。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "科技"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "中华少儿经典故事奇遇之旅",
+    "venue": "深圳图书馆中心馆五楼报告厅",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "url": "https://m.sohu.com/a/1045449552_121106875/",
+    "contact": "",
+    "description": "19:00-21:00。《大禹治水》《狐假虎威》《拔苗助长》《木兰从军》《哪吒》五大篇章。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "走读进行时——观澜湖手艺工场人文科普探索",
+    "venue": "观澜湖手艺工场",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-17",
+    "url": "https://m.sohu.com/a/1045449552_121106875/",
+    "contact": "",
+    "description": "陶艺、木艺、蓝染等传统技艺体验。需预约，关注微信公众号。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "走读进行时——深圳自然博物馆探索之旅",
+    "venue": "深圳自然博物馆",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "url": "https://m.sohu.com/a/1045449552_121106875/",
+    "contact": "",
+    "description": "恐龙展厅与宇宙展厅探索。需预约，关注微信公众号。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "科技"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "第七届少儿阅经典——《爱丽丝漫游奇境》《骑鹅旅行记》",
+    "venue": "深圳图书馆北馆/中心馆少儿服务区",
+    "start_date": "2026-07-23",
+    "end_date": "2026-08-31",
+    "url": "https://m.sohu.com/a/1045852334_121106875/",
+    "contact": "",
+    "description": "6-12岁少儿读者。精选《爱丽丝漫游奇境》和《骑鹅旅行记》，融合打卡读、导师讲、自由创、阅享答四大环节。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "博闻广识——如何在AI变革中成为不可替代的自己",
+    "venue": "深圳图书馆中心馆南书房",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "url": "https://m.sohu.com/a/1045449552_121106875/",
+    "contact": "",
+    "description": "14:30-16:00。人文通识专题分享课第一场。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "科技"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "百年初心如炬 万里浩气长存——主题文献推荐展",
+    "venue": "深圳图书馆中心馆二楼展厅",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "url": "http://m.toutiao.com/group/7659590427574387254/",
+    "contact": "",
+    "description": "党史和长征主题文献600余种，庆祝中国共产党成立105周年暨纪念红军长征胜利90周年。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "湾区光影，丝路书香——馆藏五洲传播出版丛书展",
+    "venue": "深圳图书馆北馆3F影音资料馆",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "url": "http://m.toutiao.com/group/7657606655168856610/",
+    "contact": "",
+    "description": "200余种精品图书+粤港澳大湾区影像志系列图片+纪录片《大湾区湿地乐园》循环播放。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "宠·爱——猫猫狗狗的世界（中法萌宠科普文物互动体验展）",
+    "venue": "深圳博物馆金田路馆（历史民俗）",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "url": "https://m.sohu.com/a/1043302903_121107011/",
+    "contact": "0755-88125266",
+    "description": "与法国国家科技总馆联合打造，汇集80件/套展品，引入20余项法国原版科学互动展项。每周末有抽奖、丢沙包活动。10:00-18:00（17:30停止进场）。免费免预约。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "来处与归途：三燕百年",
+    "venue": "深圳博物馆同心路馆（古代艺术）1-4号厅",
+    "start_date": "2026-06-01",
+    "end_date": "2026-07-26",
+    "url": "https://www.sz.gov.cn/cn/zrgk/",
+    "contact": "0755-88125266",
+    "description": "展出157组文物（马甲胄、金步摇、壁画摹本、玻璃器等），展现民族融合历史。免费免预约。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "骥跃升腾——三彩马的世界",
+    "venue": "深圳博物馆同心路馆（古代艺术）5-6号厅",
+    "start_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "url": "https://www.sz.gov.cn/cn/zrgk/",
+    "contact": "0755-88125266",
+    "description": "借展陕西唐三彩艺术博物馆42组60件唐三彩珍品（彩绘陶马球俑、三彩舞马、三彩凤首壶等）。免费免预约。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "深圳博物馆暑期延时开放",
+    "venue": "深圳博物馆金田路馆、同心路馆",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "url": "https://www.sz.gov.cn/cn/zrgk/",
+    "contact": "0755-88125266",
+    "description": "金田路馆（历史民俗）与同心路馆（古代艺术）：周二至周日9:00-21:00（20:30停止入场）。深圳改革开放展览馆：周二至周日10:00-21:00（20:30停止入场）。逢周一闭馆。免费免预约。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "南图创客空间——风能探索",
+    "venue": "南山图书馆南二楼壹课堂",
+    "start_date": "2026-07-05",
+    "end_date": "2026-07-05",
+    "url": "https://activity.nslib.cn/mb/activity/activityList",
+    "contact": "0755-26520380",
+    "description": "10:00-11:30。少儿科创活动，探索风能奥秘。需报名。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "科技"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "南图创客空间——自动往返车",
+    "venue": "南山图书馆南二楼壹课堂",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "url": "https://activity.nslib.cn/mb/activity/activityList",
+    "contact": "0755-26520380",
+    "description": "15:00-16:30。少儿科创活动，制作自动往返车。需报名。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "科技"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "馆员故事会《小壁虎借尾巴》",
+    "venue": "南山图书馆少儿活动室",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "url": "https://activity.nslib.cn/mb/activity/activityList",
+    "contact": "0755-26520380",
+    "description": "15:00-16:30。适合低龄儿童的绘本故事会。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "跟名师读名著——《古灵精怪动物园》",
+    "venue": "南山图书馆",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "url": "https://activity.nslib.cn/mb/activity/activityList",
+    "contact": "0755-26520380",
+    "description": "10:00-12:00。名师导读少儿经典读物。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "原创音乐剧《博物馆奇遇记》（2026巡演深圳站）",
+    "venue": "南山文化馆剧场",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-05",
+    "url": "http://m.toutiao.com/group/7643819899982184998/",
+    "contact": "",
+    "description": "15:00/19:30两场。国内首部海外文物回归主题原创音乐剧，主人公为10岁女孩，讲述文物回家的温情故事。适合全家观看的亲子佳作。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "艺术"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "「艺起归来」中央美术学院深圳校友联展",
+    "venue": "宝安图书馆负一楼展览厅",
+    "start_date": "2026-07-03",
+    "end_date": "2026-07-18",
+    "url": "https://wsw.balib.cn/information/46735",
+    "contact": "0755-27789800",
+    "description": "周二到周日9:00-17:00。中央美术学院深圳校友艺术作品联展。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "艺术"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "暑期公益课——夏氏灯笼制作",
+    "venue": "宝安图书馆航城街道分馆二楼培训室",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "url": "https://wsw.balib.cn",
+    "contact": "0755-85905112",
+    "description": "14:30-16:00。5-16岁，15人/课。非遗手工艺体验。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "暑期公益课——谢氏核雕",
+    "venue": "宝安图书馆航城街道分馆二楼培训室",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-21",
+    "url": "https://wsw.balib.cn",
+    "contact": "0755-85905112",
+    "description": "14:30-16:00。5-16岁，15人/课。非遗手工艺体验。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "第三届深圳乐队节「乐动湾区·创享未来」",
+    "venue": "宝安青少年宫",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "url": "",
+    "contact": "",
+    "description": "键盘乐、民乐、西洋管弦乐、流行爵士乐、电吹管五大专场。小学组/初中组/高中组/大学组/社会组。报名截止7月6日。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "艺术"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "2026暑期嗨学季「一眼看世界·启程向未来」",
+    "venue": "湾区之眼",
+    "start_date": "2026-06-27",
+    "end_date": "2026-08-31",
+    "url": "http://www.sznews.com/news/content/mb/2026-07/06/content_32112876.htm",
+    "contact": "",
+    "description": "青春毕业季+盛夏嗨玩季。准考证专属福利（购书文创8.8折）、主题打卡装置、高考志愿填报公益沙龙、青春毕业歌会、湾区绿茵嘉年华、南台阶露天观影+淘趣市集。万种优质图书6折起。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "一纸侨批平山海——侨批回批实物特展",
+    "venue": "湾区之眼北区L1人文万象",
+    "start_date": "2026-05-21",
+    "end_date": "2026-08-20",
+    "url": "http://www.sznews.com/news/content/mb/2026-07/06/content_32112876.htm",
+    "contact": "",
+    "description": "侨批回批实物特展，展现海外华侨家书历史。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "免费"
+  },
+  {
+    "name": "《福尔摩斯的委托》沉浸式推理展",
+    "venue": "湾区之眼",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "url": "http://www.sznews.com/news/content/mb/2026-07/06/content_32112876.htm",
+    "contact": "",
+    "description": "沉浸式推理互动展览，适合青少年及成人。",
+    "source": "manual",
+    "family_friendly": true,
+    "types": [
+      "文化"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "汪峰演唱会",
+    "venue": "深圳湾体育中心",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "url": "http://m.bendibao.com/show924876.html",
+    "contact": "",
+    "description": "看台480/680/880元，内场1180元。",
+    "source": "manual",
+    "family_friendly": false,
+    "types": [
+      "艺术"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "动力火车「都是因为爱」巡演深圳站",
+    "venue": "深圳湾体育中心",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "url": "http://m.bendibao.com/show924876.html",
+    "contact": "",
+    "description": "19:30开演，约150分钟，28首曲目。",
+    "source": "manual",
+    "family_friendly": false,
+    "types": [
+      "艺术"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "周杰伦「嘉年华」世界巡演深圳站",
+    "venue": "深圳湾体育中心体育场",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-17",
+    "url": "http://m.bendibao.com/show924876.html",
+    "contact": "",
+    "description": "8月15、16、17日共3场。",
+    "source": "manual",
+    "family_friendly": false,
+    "types": [
+      "艺术"
+    ],
+    "fee": "收费"
+  },
+  {
+    "name": "邓紫棋「I AM GLORIA」巡演深圳站",
+    "venue": "深圳湾体育中心",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-24",
+    "url": "http://m.bendibao.com/show924876.html",
+    "contact": "",
+    "description": "8月23、24日共2场。",
+    "source": "manual",
+    "family_friendly": false,
+    "types": [
+      "艺术"
+    ],
+    "fee": "收费"
   }
 ]
