@@ -17,17 +17,20 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: #f5f7fa;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: #f8f9fa;
             min-height: 100vh;
+            color: #1a1a2e;
+            -webkit-font-smoothing: antialiased;
         }
 
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px 20px 28px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            background: #ffffff;
+            color: #1a1a2e;
+            padding: 16px 20px 20px;
+            border-bottom: 1px solid #e8eaed;
             position: relative;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
         }
 
         .header-top {
@@ -42,39 +45,48 @@
 
         .subscribe-link {
             padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
+            background: #f0f0f5;
+            color: #1a1a2e;
             border-radius: 20px;
-            font-size: 13px;
+            font-size: 12px;
             text-decoration: none;
             font-weight: 500;
-            transition: background 0.2s;
+            transition: all 0.2s;
         }
 
         .subscribe-link:hover {
-            background: rgba(255, 255, 255, 0.3);
+            background: #e8e8f0;
         }
 
         .feedback-link {
             padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
+            background: #f0f0f5;
+            color: #1a1a2e;
             border-radius: 20px;
-            font-size: 13px;
+            font-size: 12px;
             text-decoration: none;
             font-weight: 500;
-            transition: background 0.2s;
+            transition: all 0.2s;
         }
 
         .feedback-link:hover {
-            background: rgba(255, 255, 255, 0.3);
+            background: #e8e8f0;
         }
 
         .header h1 {
-            font-size: 22px;
-            font-weight: 600;
+            font-size: 20px;
+            font-weight: 700;
             text-align: center;
             margin: 0;
+            letter-spacing: -0.3px;
+        }
+
+        .header-subtitle {
+            text-align: center;
+            font-size: 12px;
+            color: #8898aa;
+            margin-top: 4px;
+            font-weight: 400;
         }
 
         .main-wrapper {
@@ -93,25 +105,27 @@
 
         .sidebar-card {
             background: white;
-            border-radius: 12px;
+            border-radius: 14px;
             padding: 16px;
             margin-bottom: 12px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+            border: 1px solid #e8eaed;
         }
 
         .sidebar-title {
-            font-size: 14px;
+            font-size: 13px;
             font-weight: 600;
-            color: #333;
+            color: #1a1a2e;
             margin-bottom: 12px;
             padding-bottom: 8px;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid #e8eaed;
+            letter-spacing: -0.2px;
         }
 
         .filter-section-mobile {
             background: white;
-            padding: 12px 16px;
-            border-bottom: 1px solid #eee;
+            padding: 14px 16px;
+            border-bottom: 1px solid #e8eaed;
         }
 
         .filter-section-mobile--right-align {
@@ -124,71 +138,74 @@
         }
 
         .filter-label {
-            font-size: 12px;
-            color: #888;
-            margin-bottom: 8px;
+            font-size: 11px;
+            color: #8898aa;
+            margin-bottom: 10px;
             padding-left: 4px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         .filter-bar {
             display: flex;
-            gap: 8px;
+            gap: 6px;
             overflow-x: auto;
-            padding-bottom: 4px;
+            padding-bottom: 2px;
             flex-wrap: wrap;
         }
 
         .filter-btn {
-            padding: 8px 14px;
-            background: #f5f7fa;
-            border: 1px solid #ddd;
-            border-radius: 20px;
-            font-size: 13px;
-            color: #666;
+            padding: 7px 13px;
+            background: #f4f5f7;
+            border: none;
+            border-radius: 8px;
+            font-size: 12px;
+            color: #5a6270;
             cursor: pointer;
             white-space: nowrap;
-            transition: all 0.2s;
+            transition: all 0.15s ease;
             flex-shrink: 0;
+            font-weight: 500;
         }
 
         .filter-btn.active {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #1a1a2e;
             color: white;
-            border-color: #667eea;
-            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 1px 3px rgba(26, 26, 46, 0.2);
             font-weight: 600;
-            transform: scale(1.02);
         }
 
         .filter-btn:hover:not(.active) {
-            background: #e8ecf0;
-            border-color: #ccc;
-        }
-
-        .filter-btn.active:hover {
-            opacity: 0.9;
+            background: #e8eaed;
+            color: #1a1a2e;
         }
 
         .search-container {
             position: relative;
-            margin-bottom: 16px;
+            margin-bottom: 12px;
         }
 
         .search-input {
             width: 100%;
             padding: 10px 36px 10px 14px;
-            border: 1px solid #ddd;
-            border-radius: 24px;
+            border: 1px solid #e8eaed;
+            border-radius: 10px;
             font-size: 14px;
-            background: #f5f7fa;
+            background: #f8f9fa;
             transition: all 0.2s;
+            color: #1a1a2e;
         }
 
         .search-input:focus {
             outline: none;
-            border-color: #667eea;
+            border-color: #1a1a2e;
             background: white;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            box-shadow: 0 0 0 3px rgba(26, 26, 46, 0.06);
+        }
+
+        .search-input::placeholder {
+            color: #a0aec0;
         }
 
         .search-icon {
@@ -215,80 +232,45 @@
         .exhibition-grid {
             display: grid;
             grid-template-columns: 1fr;
-            gap: 12px;
+            gap: 10px;
         }
 
         .exhibition-card {
             background: white;
-            border-radius: 12px;
+            border-radius: 14px;
             padding: 16px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
-            border-left: 4px solid #667eea;
-            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+            border-left: 3px solid #c4cdd5;
+            transition: all 0.2s ease;
             cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .exhibition-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(0,0,0,0.03), transparent);
         }
 
         .exhibition-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
         }
 
-        .exhibition-card.szcec { border-left-color: #667eea; }
-        .exhibition-card.shenzhen_world { border-left-color: #764ba2; }
-        .exhibition-card.szlib { border-left-color: #10b981; }
-        .exhibition-card.balib { border-left-color: #3b82f6; }
-        .exhibition-card.bayarea_eye { border-left-color: #f59e0b; }
-        .exhibition-card.baoan_kjg { border-left-color: #ec4899; }
-        .exhibition-card.baoan_ty { border-left-color: #f97316; }
-        .exhibition-card.baoan_guihua { border-left-color: #8b5cf6; }
-        .exhibition-card.baoan_qingshaonian { border-left-color: #06b6d4; }
-        .exhibition-card.shenzhen_binhai_art { border-left-color: #84cc16; }
-        .exhibition-card.baoan_zonghe { border-left-color: #f43f5e; }
-        .exhibition-card.huanle_juchang { border-left-color: #eab308; }
-        .exhibition-card.baoan_binhai_park { border-left-color: #14b8a6; }
-        /* 南山区场馆 */
-        .exhibition-card.nslib { border-left-color: #0ea5e9; }
-        .exhibition-card.nsmuseum { border-left-color: #a855f7; }
-        .exhibition-card.nswhg { border-left-color: #22c55e; }
-        .exhibition-card.skhykpg { border-left-color: #06b6d4; }
-        .exhibition-card.sarc { border-left-color: #6366f1; }
-        .exhibition-card.ntgc { border-left-color: #b45309; }
-        .exhibition-card.zsjbwg { border-left-color: #7c3aed; }
-        .exhibition-card.nsqsng { border-left-color: #e11d48; }
-        .exhibition-card.nswtzx { border-left-color: #059669; }
-        .exhibition-card.szwty { border-left-color: #2563eb; }
-        .exhibition-card.skwtpark { border-left-color: #65a30d; }
-        .exhibition-card.hqcwh { border-left-color: #c026d3; }
-        .exhibition-card.nsaqjy { border-left-color: #dc2626; }
-        .exhibition-card.nssxf { border-left-color: #0891b2; }
-        .exhibition-card.rcpy { border-left-color: #d97706; }
-        .exhibition-card.szwgy { border-left-color: #0d9488; }
-        .exhibition-card.qhs { border-left-color: #4f46e5; }
-        /* 坪山区 */
-        .exhibition-card.ps_nature { border-left-color: #16a34a; }
-        /* 光明区 */
-        .exhibition-card.gm_kjg { border-left-color: #3b82f6; }
-        .exhibition-card.gm_lib { border-left-color: #8b5cf6; }
-        /* 盐田区 */
-        .exhibition-card.yt_lib { border-left-color: #0ea5e9; }
-        .exhibition-card.yt_history { border-left-color: #f59e0b; }
-        /* 大鹏新区 */
-        .exhibition-card.dp_geopark { border-left-color: #14b8a6; }
-        .exhibition-card.dp_nuclear { border-left-color: #dc2626; }
-        /* 福田区 */
-        .exhibition-card.sz_children_lib { border-left-color: #06b6d4; }
-        .exhibition-card.sz_safety { border-left-color: #ef4444; }
-        /* 南山区新增 */
-        .exhibition-card.oct_wetland { border-left-color: #22c55e; }
-        /* 宝安区新增 */
-        .exhibition-card.baoan_1990 { border-left-color: #eab308; }
-        /* 龙岗区 */
-        .exhibition-card.lg_hakka { border-left-color: #a855f7; }
-        /* 龙华区 */
-        .exhibition-card.lh_printmaking { border-left-color: #ec4899; }
-        .exhibition-card.lh_ecology { border-left-color: #059669; }
-        /* 罗湖区 */
-        .exhibition-card.lh_paleo { border-left-color: #7c3aed; }
+        /* 按分类着色 */
+        .exhibition-card.cat-展览 { border-left-color: #3b82f6; }
+        .exhibition-card.cat-讲座阅读 { border-left-color: #8b5cf6; }
+        .exhibition-card.cat-科普活动 { border-left-color: #10b981; }
+        .exhibition-card.cat-演出 { border-left-color: #f59e0b; }
+        .exhibition-card.cat-影视放映 { border-left-color: #ec4899; }
+        .exhibition-card.cat-体育赛事 { border-left-color: #ef4444; }
+        .exhibition-card.cat-亲子活动 { border-left-color: #e17055; }
+        .exhibition-card.cat-其他 { border-left-color: #94a3b8; }
 
         .exhibition-header {
             display: flex;
@@ -298,80 +280,61 @@
         }
 
         .exhibition-title {
-            font-size: 16px;
+            font-size: 15px;
             font-weight: 600;
-            color: #333;
+            color: #1a1a2e;
             line-height: 1.4;
             flex: 1;
             margin-right: 8px;
+            letter-spacing: -0.2px;
         }
 
         .exhibition-badges {
             display: flex;
             flex-wrap: wrap;
-            gap: 4px;
+            gap: 5px;
             flex-shrink: 0;
         }
 
         .badge {
-            padding: 2px 8px;
-            border-radius: 4px;
+            padding: 3px 8px;
+            border-radius: 6px;
             font-size: 11px;
             font-weight: 500;
         }
 
         .badge.free {
-            background: #e8f5e9;
-            color: #2e7d32;
+            background: #f0fdf4;
+            color: #16a34a;
         }
 
         .badge.paid {
-            background: #fff3e0;
-            color: #e65100;
+            background: #fff7ed;
+            color: #ea580c;
         }
 
         .badge.family {
-            background: #fce4ec;
-            color: #c2185b;
+            background: #fff1f2;
+            color: #e11d48;
         }
 
-        .badge.type-exhibition {
-            background: #e3f2fd;
-            color: #1976d2;
-        }
-
-        .badge.type-lecture {
-            background: #fce4ec;
-            color: #c2185b;
-        }
-
-        .badge.type-sports {
-            background: #fff3e0;
-            color: #e65100;
-        }
-
-        .badge.type-family {
-            background: #f3e5f5;
-            color: #7b1fa2;
-        }
-
-        .badge.type-art {
-            background: #e8f5e9;
-            color: #2e7d32;
-        }
-
-        .badge.type-tech {
-            background: #e0f7fa;
-            color: #00838f;
-        }
+        .badge.type-展览 { background: #eff6ff; color: #2563eb; }
+        .badge.type-讲座阅读 { background: #f5f3ff; color: #7c3aed; }
+        .badge.type-科普活动 { background: #f0fdf4; color: #16a34a; }
+        .badge.type-演出 { background: #fffbeb; color: #d97706; }
+        .badge.type-影视放映 { background: #fdf2f8; color: #db2777; }
+        .badge.type-体育赛事 { background: #fef2f2; color: #dc2626; }
+        .badge.type-亲子活动 { background: #fff7ed; color: #c2410c; }
+        .badge.type-其他 { background: #f1f5f9; color: #64748b; }
 
         .exhibition-meta {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
             font-size: 12px;
-            color: #666;
+            color: #6b7280;
             margin-bottom: 8px;
+            margin-top: 6px;
         }
 
         .exhibition-meta span {
@@ -382,9 +345,9 @@
 
         .exhibition-desc {
             font-size: 12px;
-            color: #888;
-            line-height: 1.5;
-            margin-bottom: 10px;
+            color: #8898aa;
+            line-height: 1.6;
+            margin-bottom: 8px;
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
@@ -399,31 +362,34 @@
         }
 
         .expand-link {
-            color: #667eea;
+            color: #8898aa;
             font-size: 11px;
             cursor: pointer;
             margin-bottom: 8px;
             display: inline-block;
+            font-weight: 500;
         }
 
         .expand-link:hover {
-            text-decoration: underline;
+            color: #1a1a2e;
         }
 
         .exhibition-link {
             display: inline-block;
             padding: 5px 12px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #1a1a2e;
             color: white;
-            border-radius: 4px;
+            border-radius: 6px;
             font-size: 11px;
             text-decoration: none;
             font-weight: 500;
             text-align: left;
+            transition: all 0.15s;
         }
 
         .exhibition-link:hover {
-            opacity: 0.9;
+            background: #2d2d44;
+            transform: translateY(-1px);
         }
 
         .empty-state {
@@ -522,19 +488,19 @@
         }
 
         .page-btn:hover:not(:disabled) {
-            border-color: #667eea;
-            color: #667eea;
-            background: #f8f9ff;
+            border-color: #1a1a2e;
+            color: #1a1a2e;
+            background: #f4f5f7;
         }
 
         .page-btn.active {
-            background: #667eea;
+            background: #1a1a2e;
             color: #fff;
-            border-color: #667eea;
+            border-color: #1a1a2e;
         }
 
         .page-btn:disabled {
-            opacity: 0.4;
+            opacity: 0.3;
             cursor: not-allowed;
         }
 
@@ -545,49 +511,53 @@
 
         .date-badge {
             display: inline-block;
-            padding: 3px 8px;
+            padding: 2px 7px;
             border-radius: 4px;
-            font-size: 11px;
-            font-weight: 500;
+            font-size: 10px;
+            font-weight: 600;
             margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
         }
 
         .date-badge.upcoming {
-            background: #fff3e0;
-            color: #e65100;
+            background: #fffbeb;
+            color: #d97706;
         }
 
         .date-badge.today {
-            background: #ffebee;
-            color: #c62828;
+            background: #fef2f2;
+            color: #dc2626;
         }
 
         .date-badge.tomorrow {
-            background: #e3f2fd;
-            color: #1565c0;
+            background: #eff6ff;
+            color: #2563eb;
         }
 
         .loading {
             text-align: center;
             padding: 40px;
-            color: #999;
+            color: #a0aec0;
+            font-size: 14px;
         }
 
         .clear-filters-btn {
             width: 100%;
             padding: 10px;
-            background: #f5f7fa;
-            border: 1px solid #ddd;
+            background: #f4f5f7;
+            border: none;
             border-radius: 8px;
-            font-size: 13px;
-            color: #666;
+            font-size: 12px;
+            color: #5a6270;
             cursor: pointer;
             transition: all 0.2s;
+            font-weight: 500;
         }
 
         .clear-filters-btn:hover {
-            background: #e8ecf0;
-            border-color: #ccc;
+            background: #e8eaed;
+            color: #1a1a2e;
         }
 
         @media (min-width: 768px) {
@@ -668,11 +638,12 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: rgba(0, 0, 0, 0.5);
+            background: rgba(0, 0, 0, 0.4);
             z-index: 1000;
             justify-content: center;
             align-items: center;
             padding: 20px;
+            backdrop-filter: blur(4px);
         }
 
         .modal-overlay.active {
@@ -681,33 +652,35 @@
 
         .modal {
             background: white;
-            border-radius: 16px;
-            max-width: 600px;
+            border-radius: 18px;
+            max-width: 560px;
             width: 100%;
             max-height: 85vh;
             overflow-y: auto;
             position: relative;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
         }
 
         .modal-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #1a1a2e;
             color: white;
             padding: 20px 24px;
-            border-radius: 16px 16px 0 0;
+            border-radius: 18px 18px 0 0;
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
         }
 
         .modal-title {
-            font-size: 20px;
-            font-weight: 600;
+            font-size: 18px;
+            font-weight: 700;
             margin-bottom: 8px;
+            line-height: 1.4;
+            letter-spacing: -0.2px;
         }
 
         .modal-close {
-            background: rgba(255, 255, 255, 0.2);
+            background: rgba(255, 255, 255, 0.1);
             border: none;
             color: white;
             width: 32px;
@@ -724,7 +697,7 @@
         }
 
         .modal-close:hover {
-            background: rgba(255, 255, 255, 0.3);
+            background: rgba(255, 255, 255, 0.2);
         }
 
         .modal-body {
@@ -733,62 +706,68 @@
 
         .modal-info-row {
             display: flex;
-            margin-bottom: 16px;
+            margin-bottom: 14px;
             align-items: flex-start;
         }
 
         .modal-info-label {
-            width: 80px;
+            width: 70px;
             font-weight: 500;
-            color: #666;
+            color: #8898aa;
             flex-shrink: 0;
+            font-size: 13px;
         }
 
         .modal-info-value {
             flex: 1;
-            color: #333;
+            color: #1a1a2e;
+            font-size: 14px;
+            font-weight: 500;
         }
 
         .modal-description {
             margin-top: 20px;
             padding-top: 20px;
-            border-top: 1px solid #eee;
+            border-top: 1px solid #e8eaed;
         }
 
         .modal-desc-title {
             font-weight: 600;
-            margin-bottom: 12px;
-            color: #333;
+            margin-bottom: 10px;
+            color: #1a1a2e;
+            font-size: 14px;
         }
 
         .modal-desc-content {
             line-height: 1.8;
-            color: #555;
+            color: #4a5568;
             font-size: 14px;
         }
 
         .modal-contact {
             margin-top: 16px;
-            padding: 16px;
+            padding: 14px;
             background: #f8f9fa;
-            border-radius: 12px;
+            border-radius: 10px;
         }
 
         .modal-contact-title {
             font-weight: 600;
             margin-bottom: 8px;
-            color: #333;
+            color: #1a1a2e;
+            font-size: 13px;
         }
 
         .modal-contact-info {
             display: flex;
             flex-direction: column;
-            gap: 8px;
-            font-size: 14px;
+            gap: 6px;
+            font-size: 13px;
+            color: #4a5568;
         }
 
         .modal-url {
-            color: #667eea;
+            color: #3b82f6;
             text-decoration: none;
             word-break: break-all;
         }
@@ -797,43 +776,33 @@
             text-decoration: underline;
         }
 
-        .exhibition-card {
-            cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-
-        .exhibition-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-        }
-
         .modal-badges {
             display: flex;
-            gap: 8px;
+            gap: 6px;
             margin-top: 8px;
+            flex-wrap: wrap;
         }
 
         .modal-original-link {
-            margin-top: 16px;
+            margin-top: 20px;
             text-align: center;
         }
 
         .original-link-btn {
             display: inline-block;
-            padding: 12px 24px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 12px 28px;
+            background: #1a1a2e;
             color: white;
-            border-radius: 8px;
+            border-radius: 10px;
             font-size: 14px;
-            font-weight: 500;
+            font-weight: 600;
             text-decoration: none;
             transition: all 0.2s;
-            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
         }
 
         .original-link-btn:hover {
+            background: #2d2d44;
             transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
         }
     </style>
     <!-- 不蒜子统计 -->
@@ -866,7 +835,8 @@
             <a href="https://islon.github.io/shenzhen-exhibitions/" class="subscribe-link" target="_blank">📅 订阅日程</a>
         </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
-        <div class="visit-stats" style="font-size: 13px; opacity: 0.9; margin-top: 8px; text-align: center;">
+        <div class="header-subtitle">深圳亲子活动日历 · 真实 · 可溯源</div>
+        <div class="visit-stats" style="font-size: 12px; color: #8898aa; margin-top: 10px; text-align: center;">
             <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
             <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
         </div>
@@ -1466,7 +1436,7 @@
                 const hasLongDesc = exhibition.description && exhibition.description.length > 60;
                 const cardId = exhibition.id || `${exhibition.source}-${exhibition.name}-${startDate}`;
                 html += `
-                    <div class="exhibition-card ${exhibition.source || 'szcec'}" data-id="${cardId}" data-idx="${globalIdx}">
+                    <div class="exhibition-card cat-${activityType}" data-id="${cardId}" data-idx="${globalIdx}">
                         ${dateBadge}
                         <div class="exhibition-header">
                             <div class="exhibition-title">${exhibition.name}</div>
