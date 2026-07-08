@@ -9,6 +9,8 @@ from config import OUTPUT_DIR, JSON_FILE, ICS_FILE
 from ics_generator import create_ics
 from rss_generator import generate_rss
 
+WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.json')
+
 REAL_SCRAPERS = [
     # 市级核心场馆
     ('深圳图书馆', 'scraper_szlib', 'fetch_szlib_activities'),
@@ -148,6 +150,44 @@ def load_manual_data():
         return []
 
 
+def fetch_wechat_activities(max_accounts=10, max_articles_per_account=5):
+    try:
+        from wechat_crawler import crawl_wechat_articles
+        from ai_analyzer import analyze_articles
+    except ImportError:
+        print("  微信爬虫模块未安装，跳过")
+        return []
+
+    if not os.path.exists(WECHAT_ACCOUNTS_FILE):
+        print("  公众号配置文件不存在")
+        return []
+
+    try:
+        with open(WECHAT_ACCOUNTS_FILE, 'r', encoding='utf-8') as f:
+            accounts_config = json.load(f)
+    except Exception as e:
+        print(f"  加载公众号配置失败: {e}")
+        return []
+
+    all_accounts = []
+    for category, accounts in accounts_config.items():
+        all_accounts.extend(accounts)
+
+    selected_accounts = all_accounts[:max_accounts]
+    account_names = [acc['account'] for acc in selected_accounts]
+
+    print(f"  爬取 {len(account_names)} 个公众号...")
+    articles = crawl_wechat_articles(account_names, max_articles_per_account=max_articles_per_account)
+    print(f"  获取到 {len(articles)} 篇文章")
+
+    print("  分析文章内容...")
+    api_key = os.environ.get('OPENAI_API_KEY') or os.environ.get('ANTHROPIC_API_KEY')
+    activities = analyze_articles(articles, api_key=api_key, use_llm=bool(api_key))
+    print(f"  提取到 {len(activities)} 个活动")
+
+    return activities
+
+
 def collect_all_activities():
     all_activities = []
 
@@ -178,6 +218,16 @@ def collect_all_activities():
             manual_valid.append(activity)
     print(f"有效活动: {len(manual_valid)} 条")
     all_activities.extend(manual_valid)
+
+    print("\n=== 抓取微信公众号数据 ===")
+    wechat_data = fetch_wechat_activities(max_accounts=10, max_articles_per_account=3)
+    wechat_valid = []
+    for raw in wechat_data:
+        activity = normalize_activity(raw)
+        if activity and is_valid_activity(activity):
+            wechat_valid.append(activity)
+    print(f"有效活动: {len(wechat_valid)} 条")
+    all_activities.extend(wechat_valid)
 
     all_activities.sort(key=lambda x: x['start_date'])
 
