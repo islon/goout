@@ -14,7 +14,7 @@ YT_LIB_NAME = "盐田区图书馆"
 
 
 def fetch_yt_lib_activities():
-    """从政府网站获取盐田区图书馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取盐田区图书馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,73 +80,7 @@ def fetch_yt_lib_activities():
     except Exception as e:
         print(f"Error fetching YT_LIB activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供盐田区图书馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '海洋主题少儿阅览区',
-            'venue': YT_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '以海洋为主题的少儿阅览专区，装饰充满海洋元素，提供海洋科普书籍与绘本。免费开放。',
-            'source': 'yt_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '亲子阅读区',
-            'venue': YT_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '温馨的亲子阅读空间，适合家长与孩子共同阅读，促进亲子互动。免费开放。',
-            'source': 'yt_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '青少年科普读物区',
-            'venue': YT_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '青少年科普书籍专区，涵盖海洋科学、自然探索、科技创新等领域。免费开放。',
-            'source': 'yt_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '海洋科普展览',
-            'venue': YT_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '定期举办海洋科普主题展览，展示海洋生物标本、海洋环境保护知识等。免费参观。',
-            'source': 'yt_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '少儿阅读活动',
-            'venue': YT_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '每周举办故事会、绘本共读、手工制作等少儿阅读活动。免费参与。',
-            'source': 'yt_lib',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

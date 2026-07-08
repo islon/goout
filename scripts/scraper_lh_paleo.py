@@ -14,7 +14,7 @@ LH_PALEO_NAME = "深圳古生物博物馆"
 
 
 def fetch_lh_paleo_activities():
-    """从政府网站获取深圳古生物博物馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取深圳古生物博物馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_lh_paleo_activities():
     except Exception as e:
         print(f"Error fetching LH_PALEO activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供深圳古生物博物馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '恐龙化石展',
-            'venue': LH_PALEO_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展出珍贵恐龙化石骨架，重现史前巨兽的辉煌时代。园区收费但博物馆免费。',
-            'source': 'lh_paleo',
-            'family_friendly': True
-        },
-        {
-            'name': '古生物复原展',
-            'venue': LH_PALEO_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '通过科学复原展示古生物形态，了解史前生物的真实面貌。园区收费但博物馆免费。',
-            'source': 'lh_paleo',
-            'family_friendly': True
-        },
-        {
-            'name': '古植物化石展',
-            'venue': LH_PALEO_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示古植物化石标本，了解地球植物演化历史。园区收费但博物馆免费。',
-            'source': 'lh_paleo',
-            'family_friendly': True
-        },
-        {
-            'name': '古无脊椎动物展',
-            'venue': LH_PALEO_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示古生代无脊椎动物化石，了解生命早期演化历程。园区收费但博物馆免费。',
-            'source': 'lh_paleo',
-            'family_friendly': True
-        },
-        {
-            'name': '地质年代展',
-            'venue': LH_PALEO_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍地球地质年代划分，展示不同地质时期的生物特征。园区收费但博物馆免费。',
-            'source': 'lh_paleo',
-            'family_friendly': True
-        },
-        {
-            'name': '化石挖掘体验',
-            'venue': LH_PALEO_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '模拟化石挖掘体验，让观众感受古生物学家的工作过程。园区收费但博物馆免费。',
-            'source': 'lh_paleo',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

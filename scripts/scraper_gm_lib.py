@@ -14,7 +14,7 @@ GM_LIB_NAME = "光明区少年儿童图书馆"
 
 
 def fetch_gm_lib_activities():
-    """从政府网站获取光明区少年儿童图书馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取光明区少年儿童图书馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,73 +80,7 @@ def fetch_gm_lib_activities():
     except Exception as e:
         print(f"Error fetching GM_LIB activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供光明区少年儿童图书馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '0-3岁亲子绘本区',
-            'venue': GM_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '专为婴幼儿设计的绘本阅读区，提供适合0-3岁儿童的绘本读物与亲子阅读空间。免费开放。',
-            'source': 'gm_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '3-6岁幼儿绘本区',
-            'venue': GM_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '幼儿绘本专区，精选国内外优秀绘本，培养幼儿阅读兴趣。免费开放。',
-            'source': 'gm_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '6-12岁少儿读物区',
-            'venue': GM_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '小学阶段少儿读物专区，涵盖文学、科普、历史等各类书籍。免费开放。',
-            'source': 'gm_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '暑期科普阅读活动',
-            'venue': GM_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '暑期期间举办各类科普阅读活动，包括科普讲座、阅读分享、手工制作等。免费参与。',
-            'source': 'gm_lib',
-            'family_friendly': True
-        },
-        {
-            'name': '少儿数字阅读体验区',
-            'venue': GM_LIB_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '提供数字绘本、有声读物、电子书等数字阅读资源，配备电子阅读设备。免费开放。',
-            'source': 'gm_lib',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

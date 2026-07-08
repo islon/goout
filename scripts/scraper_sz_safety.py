@@ -14,7 +14,7 @@ SZ_SAFETY_NAME = "深圳市安全教育基地"
 
 
 def fetch_sz_safety_activities():
-    """从政府网站获取深圳市安全教育基地活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取深圳市安全教育基地活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_sz_safety_activities():
     except Exception as e:
         print(f"Error fetching SZ_SAFETY activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供深圳市安全教育基地常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '消防安全沉浸式体验',
-            'venue': SZ_SAFETY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '模拟火灾场景，学习火灾逃生技巧、灭火器使用方法等消防安全知识。免费参观。',
-            'source': 'sz_safety',
-            'family_friendly': True
-        },
-        {
-            'name': '交通安全体验馆',
-            'venue': SZ_SAFETY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '通过互动模拟体验，学习交通规则、安全骑行、行人安全等知识。免费参观。',
-            'source': 'sz_safety',
-            'family_friendly': True
-        },
-        {
-            'name': '居家安全科普展',
-            'venue': SZ_SAFETY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示居家安全隐患，学习燃气安全、用电安全、防盗防骗等知识。免费参观。',
-            'source': 'sz_safety',
-            'family_friendly': True
-        },
-        {
-            'name': '急救技能培训体验',
-            'venue': SZ_SAFETY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '学习心肺复苏(CPR)、海姆立克急救法等急救技能，配备模拟人实操训练。免费参观。',
-            'source': 'sz_safety',
-            'family_friendly': True
-        },
-        {
-            'name': '自然灾害科普展',
-            'venue': SZ_SAFETY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍地震、台风、暴雨等自然灾害的应对方法，提升防灾减灾能力。免费参观。',
-            'source': 'sz_safety',
-            'family_friendly': True
-        },
-        {
-            'name': '安全知识互动游戏',
-            'venue': SZ_SAFETY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '通过趣味互动游戏，让儿童在玩乐中学习安全知识，寓教于乐。免费参观。',
-            'source': 'sz_safety',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

@@ -14,7 +14,7 @@ NSQSNG_NAME = "南山区青少年活动中心"
 
 
 def fetch_nsqsng_activities():
-    """从南山政府在线和文化馆云平台获取青少年活动中心数据，失败时提供兜底数据"""
+    """从南山政府在线和文化馆云平台获取青少年活动中心数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -174,51 +174,6 @@ def fetch_nsqsng_activities():
             unique_activities.append(a)
     activities = unique_activities
 
-    # 如果没有爬到线上数据，使用兜底数据
-    if not activities:
-        print("No online data found, using fallback data")
-        activities = get_fallback_activities(today)
-
-    return activities
-
-
-def get_fallback_activities(today):
-    """提供南山区青少年活动中心常设公益活动兜底数据"""
-    activities = [
-        {
-            'name': '青少年公益培训班',
-            'venue': NSQSNG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26661612',
-            'description': '面向青少年开设书法、绘画、舞蹈、科技等公益培训课程，免费参与，需报名。',
-            'source': 'nsqsng',
-            'family_friendly': True
-        },
-        {
-            'name': '周末亲子公益课堂',
-            'venue': NSQSNG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26661612',
-            'description': '周末举办亲子阅读、手工制作、科普实验等亲子公益活动，免费参与。',
-            'source': 'nsqsng',
-            'family_friendly': True
-        },
-        {
-            'name': '青少年科技创新工坊',
-            'venue': NSQSNG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26661612',
-            'description': '机器人编程、3D打印、航模制作等科技创新实践活动，免费参与。',
-            'source': 'nsqsng',
-            'family_friendly': True
-        }
-    ]
     return activities
 
 

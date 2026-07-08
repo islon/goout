@@ -14,7 +14,7 @@ SKHYKPG_NAME = "蛇口海洋科普馆"
 
 
 def fetch_skhykpg_activities():
-    """从南山政府在线获取蛇口海洋科普馆活动数据，失败时提供常设展兜底数据"""
+    """从南山政府在线获取蛇口海洋科普馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -86,63 +86,7 @@ def fetch_skhykpg_activities():
     except Exception as e:
         print(f"Error fetching SKHYKPG activities from gov site: {e}")
 
-    # 如果没有爬到线上数据，使用常设展兜底
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供蛇口海洋科普馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '海洋贝类标本展',
-            'venue': SKHYKPG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn/nsqwhg/',
-            'contact': '0755-26862327',
-            'description': '展示各类海洋贝类标本，包括腹足纲、双壳纲等珍稀贝类，免费参观。',
-            'source': 'skhykpg',
-            'family_friendly': True
-        },
-        {
-            'name': '珊瑚标本展',
-            'venue': SKHYKPG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn/nsqwhg/',
-            'contact': '0755-26862327',
-            'description': '展示各类珊瑚标本，包括石珊瑚、软珊瑚等，了解珊瑚礁生态系统，免费参观。',
-            'source': 'skhykpg',
-            'family_friendly': True
-        },
-        {
-            'name': '砗磲标本展',
-            'venue': SKHYKPG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn/nsqwhg/',
-            'contact': '0755-26862327',
-            'description': '展示大型砗磲标本及海洋生态知识，免费参观。',
-            'source': 'skhykpg',
-            'family_friendly': True
-        },
-        {
-            'name': '海洋生态保护科普展',
-            'venue': SKHYKPG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn/nsqwhg/',
-            'contact': '0755-26862327',
-            'description': '介绍深圳海域生态保护成果与海洋环保知识，免费参观。',
-            'source': 'skhykpg',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

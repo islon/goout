@@ -14,7 +14,7 @@ NSWTZX_NAME = "南山文体中心"
 
 
 def fetch_nswtzx_activities():
-    """从文化馆云平台和南山政府在线获取南山文体中心活动数据，失败时提供兜底数据"""
+    """从文化馆云平台和南山政府在线获取南山文体中心活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -175,51 +175,6 @@ def fetch_nswtzx_activities():
             unique_activities.append(a)
     activities = unique_activities
 
-    # 如果没有爬到线上数据，使用兜底数据
-    if not activities:
-        print("No online data found, using fallback data")
-        activities = get_fallback_activities(today)
-
-    return activities
-
-
-def get_fallback_activities(today):
-    """提供南山文体中心常设活动兜底数据"""
-    activities = [
-        {
-            'name': '南山文体中心公益演出',
-            'venue': NSWTZX_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-86051111',
-            'description': '南山文体中心定期举办公益文艺演出，包括音乐会、舞蹈、戏剧等，部分场次免费。',
-            'source': 'nswtzx',
-            'family_friendly': True
-        },
-        {
-            'name': '南山文体中心艺术展览',
-            'venue': NSWTZX_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-86051111',
-            'description': '南山文体中心展厅定期举办书画、摄影等艺术展览，免费参观。',
-            'source': 'nswtzx',
-            'family_friendly': True
-        },
-        {
-            'name': '南山文体中心公益培训',
-            'venue': NSWTZX_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-86051111',
-            'description': '南山文体中心开设各类公益艺术培训课程，免费参与，需报名。',
-            'source': 'nswtzx',
-            'family_friendly': True
-        }
-    ]
     return activities
 
 

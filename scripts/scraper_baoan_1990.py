@@ -14,7 +14,7 @@ BAOAN_1990_NAME = "宝安1990文化馆"
 
 
 def fetch_baoan_1990_activities():
-    """从政府网站获取宝安1990文化馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取宝安1990文化馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_baoan_1990_activities():
     except Exception as e:
         print(f"Error fetching BAOAN_1990 activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供宝安1990文化馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '非遗体验展',
-            'venue': BAOAN_1990_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示宝安非遗文化项目，提供非遗手工艺体验活动。免费参与。',
-            'source': 'baoan_1990',
-            'family_friendly': True
-        },
-        {
-            'name': '少儿艺术展',
-            'venue': BAOAN_1990_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示少年儿童优秀艺术作品，包括绘画、书法、手工等。免费参观。',
-            'source': 'baoan_1990',
-            'family_friendly': True
-        },
-        {
-            'name': '公益手工课',
-            'venue': BAOAN_1990_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '定期举办各类公益手工课程，培养儿童动手能力与创造力。免费参与。',
-            'source': 'baoan_1990',
-            'family_friendly': True
-        },
-        {
-            'name': '宝安历史文化展',
-            'venue': BAOAN_1990_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示宝安地区历史文化变迁，呈现本地民俗风情与发展历程。免费参观。',
-            'source': 'baoan_1990',
-            'family_friendly': True
-        },
-        {
-            'name': '少儿绘本馆',
-            'venue': BAOAN_1990_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '提供丰富的少儿绘本资源，营造温馨的阅读环境。免费开放。',
-            'source': 'baoan_1990',
-            'family_friendly': True
-        },
-        {
-            'name': '亲子艺术工坊',
-            'venue': BAOAN_1990_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '亲子共同参与的艺术创作活动，增进亲子互动与艺术素养。免费参与。',
-            'source': 'baoan_1990',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

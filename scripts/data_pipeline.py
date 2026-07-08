@@ -10,21 +10,51 @@ from ics_generator import create_ics
 from rss_generator import generate_rss
 
 REAL_SCRAPERS = [
+    # 市级核心场馆
     ('深圳图书馆', 'scraper_szlib', 'fetch_szlib_activities'),
     ('南山图书馆', 'scraper_nslib', 'fetch_nslib_activities'),
     ('南山博物馆', 'scraper_nsmuseum', 'fetch_nsmuseum_activities'),
     ('南山区文化馆', 'scraper_nswhg', 'fetch_nswhg_activities'),
+    ('南山区青少年活动中心', 'scraper_nsqsng', 'fetch_nsqsng_activities'),
+    ('南山文体中心', 'scraper_nswtzx', 'fetch_nswtzx_activities'),
+    # 其他有抓取能力的爬虫（即使当前环境可能失败，GitHub Actions 环境可能成功）
+    ('宝安图书馆', 'scraper_balib', 'fetch_balib_activities'),
+    ('深圳少年儿童图书馆', 'scraper_sz_children_lib', 'fetch_sz_children_lib_activities'),
+    ('光明区图书馆', 'scraper_gm_lib', 'fetch_gm_lib_activities'),
+    ('光明区科技馆', 'scraper_gm_kjg', 'fetch_gm_kjg_activities'),
+    ('盐田区图书馆', 'scraper_yt_lib', 'fetch_yt_lib_activities'),
+    ('大鹏地质公园博物馆', 'scraper_dp_geopark', 'fetch_dp_geopark_activities'),
+    ('龙岗客家民俗博物馆', 'scraper_lg_hakka', 'fetch_lg_hakka_activities'),
+    ('中国版画博物馆', 'scraper_lh_printmaking', 'fetch_lh_printmaking_activities'),
+    ('龙华生态文明展览馆', 'scraper_lh_ecology', 'fetch_lh_ecology_activities'),
+    ('南山安全教育体验馆', 'scraper_nsaqjy', 'fetch_nsaqjy_activities'),
+    ('蛇口海洋科普馆', 'scraper_skhykpg', 'fetch_skhykpg_activities'),
+    ('深爱人才馆', 'scraper_sarc', 'fetch_sarc_activities'),
+    ('宝安1990文化馆', 'scraper_baoan_1990', 'fetch_baoan_1990_activities'),
+    ('华侨城湿地', 'scraper_oct_wetland', 'fetch_oct_wetland_activities'),
+    ('深圳自然博物馆', 'scraper_ps_nature', 'fetch_ps_nature_activities'),
+    ('大亚湾核能科技馆', 'scraper_dp_nuclear', 'fetch_dp_nuclear_activities'),
+    ('南山书房', 'scraper_nssxf', 'fetch_nssxf_activities'),
+    ('深圳湾体育中心', 'scraper_szwty', 'fetch_szwty_activities'),
+    ('宝安科技馆', 'scraper_baoan_kjg', 'fetch_baoan_kjg_activities'),
+    ('宝安体育中心', 'scraper_baoan_ty', 'fetch_baoan_ty_activities'),
+    ('深圳市安全教育基地', 'scraper_sz_safety', 'fetch_sz_safety_activities'),
+    ('中英街历史博物馆', 'scraper_yt_history', 'fetch_yt_history_activities'),
+    ('招商局历史博物馆', 'scraper_zsjbwg', 'fetch_zsjbwg_activities'),
+    ('南头古城博物馆群', 'scraper_ntgc', 'fetch_ntgc_activities'),
+    ('深圳古生物博物馆', 'scraper_lh_paleo', 'fetch_lh_paleo_activities'),
+    ('湾区之眼', 'scraper_bayarea_eye', 'fetch_bayarea_eye_activities'),
 ]
 
 MANUAL_DATA_FILE = os.path.join(os.path.dirname(__file__), 'manual_data.json')
 
 CATEGORY_KEYWORDS = {
     '展览': ['展', '展览', '博览会', '艺术展', '书画展', '摄影展', '特展', '沉浸展', '推理展', '侨批', '珍品展', '爱丽丝漫游奇境'],
-    '讲座阅读': ['讲座', '沙龙', '分享会', '读书', '阅读', '绘本', '故事会', '论坛', '讲', '分享', '签售', '作家', '诗词', '朗诵', '书海探底', '走进图书馆', '参访', '法律', '咨询', '心理', '荟', '悦读', '思辨', '普法', '疗愈', '不被定义'],
+    '讲座阅读': ['讲座', '沙龙', '分享会', '读书', '阅读', '绘本', '故事会', '论坛', '讲', '分享', '签售', '作家', '诗词', '朗诵', '书海探底', '走进图书馆', '参访', '法律', '咨询', '心理', '荟', '悦读', '思辨', '普法', '疗愈', '不被定义', '书法', '合唱', '培训'],
     '科普活动': ['科普', '科学', '实验', '机器人', '编程', '3D打印', 'VR', '创客', '科技', '天文', '探索', 'AI', '科技馆', '博物馆', '延时开放', '夜间开放', '科幻'],
     '演出': ['音乐会', '歌剧', '话剧', '戏曲', '舞蹈', '演唱会', '演出', '音乐剧', '儿童剧', '演奏', '剧场', '音乐赏析', '聆赏', '民乐', '声音舞台', '乐队节', '形体'],
     '体育赛事': ['足球', '篮球', '羽毛球', '乒乓球', '网球', '马拉松', '游泳', '比赛', '赛事', '体育', '运动', '中超', '粤BA'],
-    '亲子活动': ['亲子', '儿童', '少儿', '宝宝', '家庭', '手工', '烘焙', '露营', '亲子活动', '儿童剧', '绘本', '故事会', '少年', '暑期', '非遗', '体验'],
+    '亲子活动': ['亲子', '儿童', '少儿', '宝宝', '家庭', '手工', '烘焙', '露营', '亲子活动', '儿童剧', '绘本', '故事会', '少年', '暑期', '非遗', '体验', '培育', '提升', '公益', '古典舞'],
     '影视放映': ['电影', '放映', '观影', '她影', '书影', '原声带', '心迷宫', '楚门', '妖猫传', '风暴', '海上花', '美丽新世界', '小说家', '1917', '东方幻境', '照明商店', '侍神令', '沙丘', '明日战纪', '明日之战', '749局', '月球陨落', '流浪地球', '蜘蛛侠'],
 }
 

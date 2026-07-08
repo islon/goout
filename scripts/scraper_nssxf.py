@@ -14,7 +14,7 @@ NSSXF_NAME = "南山书房"
 
 
 def fetch_nssxf_activities():
-    """从南山图书馆活动系统获取南山书房相关活动数据，通过关键词筛选书房活动"""
+    """从南山图书馆活动系统获取南山书房相关活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -57,11 +57,6 @@ def fetch_nssxf_activities():
 
     except Exception as e:
         print(f"Error fetching NSSXF activities from NSLIB system: {e}")
-
-    # 如果没有爬到线上数据，使用兜底数据
-    if not activities:
-        print("No online data found, using fallback data")
-        activities = get_fallback_activities(today)
 
     return activities
 
@@ -167,46 +162,6 @@ def parse_activity_detail(html_content, activity_id, today):
     except Exception as e:
         print(f"Error parsing activity {activity_id}: {e}")
         return None
-
-
-def get_fallback_activities(today):
-    """提供南山书房常设活动兜底数据"""
-    activities = [
-        {
-            'name': '南山书房阅读推广活动',
-            'venue': NSSXF_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://activity.nslib.cn',
-            'contact': '',
-            'description': '南山书房定期举办读书分享会、亲子阅读等阅读推广活动，免费参与。',
-            'source': 'nssxf',
-            'family_friendly': True
-        },
-        {
-            'name': '南山书房文化讲座',
-            'venue': NSSXF_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://activity.nslib.cn',
-            'contact': '',
-            'description': '南山书房举办各类文化讲座与沙龙活动，免费参与，需预约。',
-            'source': 'nssxf',
-            'family_friendly': True
-        },
-        {
-            'name': '南山书房自习空间开放',
-            'venue': NSSXF_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://activity.nslib.cn',
-            'contact': '',
-            'description': '南山书房提供免费自习与阅读空间，免预约前往。',
-            'source': 'nssxf',
-            'family_friendly': True
-        }
-    ]
-    return activities
 
 
 def main():

@@ -14,7 +14,7 @@ LH_ECOLOGY_NAME = "龙华生态文明展览馆"
 
 
 def fetch_lh_ecology_activities():
-    """从政府网站获取龙华生态文明展览馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取龙华生态文明展览馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_lh_ecology_activities():
     except Exception as e:
         print(f"Error fetching LH_ECOLOGY activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供龙华生态文明展览馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '黑科技互动小游戏',
-            'venue': LH_ECOLOGY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '通过互动游戏体验环保科技，了解生态保护知识，寓教于乐。免费参观。',
-            'source': 'lh_ecology',
-            'family_friendly': True
-        },
-        {
-            'name': '裸眼3D影院',
-            'venue': LH_ECOLOGY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '裸眼3D沉浸式观影体验，展现生态美景与环保主题影片。免费观影。',
-            'source': 'lh_ecology',
-            'family_friendly': True
-        },
-        {
-            'name': '生态文明科普展',
-            'venue': LH_ECOLOGY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍生态文明建设理念，展示生态保护成果与可持续发展实践。免费参观。',
-            'source': 'lh_ecology',
-            'family_friendly': True
-        },
-        {
-            'name': '低碳生活体验馆',
-            'venue': LH_ECOLOGY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示低碳生活方式与节能减排技术，体验绿色生活理念。免费参观。',
-            'source': 'lh_ecology',
-            'family_friendly': True
-        },
-        {
-            'name': '水资源保护展',
-            'venue': LH_ECOLOGY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍水资源保护知识，展示节水技术与水循环利用原理。免费参观。',
-            'source': 'lh_ecology',
-            'family_friendly': True
-        },
-        {
-            'name': '垃圾分类互动体验',
-            'venue': LH_ECOLOGY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '通过互动游戏学习垃圾分类知识，培养环保意识。免费参观。',
-            'source': 'lh_ecology',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

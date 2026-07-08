@@ -14,7 +14,7 @@ GM_KJG_NAME = "深圳科学技术馆（光明新馆）"
 
 
 def fetch_gm_kjg_activities():
-    """从政府网站获取深圳科学技术馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取深圳科学技术馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_gm_kjg_activities():
     except Exception as e:
         print(f"Error fetching GM_KJG activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供深圳科学技术馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '探索与发现展厅',
-            'venue': GM_KJG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '基础科学探索展区，涵盖数学、物理、化学等学科互动展项。收费场馆：成人50元、儿童32元，6岁以下免票。',
-            'source': 'gm_kjg',
-            'family_friendly': True
-        },
-        {
-            'name': '创造与创新展厅',
-            'venue': GM_KJG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示科技创新成果与前沿技术，体验未来科技生活。收费场馆：成人50元、儿童32元，6岁以下免票。',
-            'source': 'gm_kjg',
-            'family_friendly': True
-        },
-        {
-            'name': '生命与健康展厅',
-            'venue': GM_KJG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '探索生命奥秘，了解人体结构与健康知识，互动体验丰富。收费场馆：成人50元、儿童32元，6岁以下免票。',
-            'source': 'gm_kjg',
-            'family_friendly': True
-        },
-        {
-            'name': '地球与宇宙展厅',
-            'venue': GM_KJG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示地球科学与宇宙探索，包含天文观测与地质科学互动展项。收费场馆：成人50元、儿童32元，6岁以下免票。',
-            'source': 'gm_kjg',
-            'family_friendly': True
-        },
-        {
-            'name': '儿童科学乐园',
-            'venue': GM_KJG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '专为儿童设计的科普乐园，通过游戏互动方式学习科学知识。收费场馆：成人50元、儿童32元，6岁以下免票。',
-            'source': 'gm_kjg',
-            'family_friendly': True
-        },
-        {
-            'name': '科技影院',
-            'venue': GM_KJG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': 'IMAX巨幕影院与球幕影院，播放科普影片，沉浸式科学体验。另需购票。收费场馆：成人50元、儿童32元，6岁以下免票。',
-            'source': 'gm_kjg',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

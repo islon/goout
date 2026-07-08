@@ -14,7 +14,7 @@ NTGC_NAME = "南头古城博物馆群"
 
 
 def fetch_ntgc_activities():
-    """从南山政府在线获取南头古城博物馆群活动数据，失败时提供常设展兜底数据"""
+    """从南山政府在线获取南头古城博物馆群活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -83,52 +83,7 @@ def fetch_ntgc_activities():
     except Exception as e:
         print(f"Error fetching NTGC activities from gov site: {e}")
 
-    # 如果没有爬到线上数据，使用常设展兜底
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供南头古城博物馆群常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '南头古城历史展',
-            'venue': '南头古城博物馆',
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26603800',
-            'description': '展示南头古城1700年历史变迁，包括古城考古发掘、城池演变等内容，免费参观。',
-            'source': 'ntgc',
-            'family_friendly': True
-        },
-        {
-            'name': '陈郁故居生平事迹展',
-            'venue': '陈郁故居',
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26603800',
-            'description': '展示无产阶级革命家陈郁同志生平事迹与革命历史，免费参观。',
-            'source': 'ntgc',
-            'family_friendly': True
-        },
-        {
-            'name': '南头古城非遗文化展',
-            'venue': '南头古城博物馆',
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26603800',
-            'description': '展示南山区非物质文化遗产项目与传统民俗文化，免费参观。',
-            'source': 'ntgc',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

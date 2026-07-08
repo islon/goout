@@ -14,7 +14,7 @@ DP_GEOPARK_NAME = "大鹏半岛国家地质公园博物馆"
 
 
 def fetch_dp_geopark_activities():
-    """从政府网站获取大鹏半岛国家地质公园博物馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取大鹏半岛国家地质公园博物馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_dp_geopark_activities():
     except Exception as e:
         print(f"Error fetching DP_GEOPARK activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供大鹏半岛国家地质公园博物馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '火山喷发模拟体验',
-            'venue': DP_GEOPARK_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '沉浸式火山喷发模拟体验，感受火山爆发的震撼场景，了解火山地质知识。免费参观。',
-            'source': 'dp_geopark',
-            'family_friendly': True
-        },
-        {
-            'name': '恐龙蛋化石展',
-            'venue': DP_GEOPARK_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展出珍贵恐龙蛋化石标本，展示恐龙繁殖方式与古生物演化历史。免费参观。',
-            'source': 'dp_geopark',
-            'family_friendly': True
-        },
-        {
-            'name': '矿物晶体展',
-            'venue': DP_GEOPARK_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示各类精美矿物晶体标本，呈现大自然的鬼斧神工与地质之美。免费参观。',
-            'source': 'dp_geopark',
-            'family_friendly': True
-        },
-        {
-            'name': '海岸地质演化展',
-            'venue': DP_GEOPARK_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍大鹏半岛独特的海岸地质地貌，展示海蚀地貌与沉积岩形成过程。免费参观。',
-            'source': 'dp_geopark',
-            'family_friendly': True
-        },
-        {
-            'name': '古生物化石展',
-            'venue': DP_GEOPARK_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展出古生物化石标本，包括古植物、古动物化石，重现史前生态环境。免费参观。',
-            'source': 'dp_geopark',
-            'family_friendly': True
-        },
-        {
-            'name': '地质灾害科普展',
-            'venue': DP_GEOPARK_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍地震、滑坡、泥石流等地质灾害的成因与防范措施，提高防灾减灾意识。免费参观。',
-            'source': 'dp_geopark',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

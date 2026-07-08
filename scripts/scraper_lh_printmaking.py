@@ -14,7 +14,7 @@ LH_PRINTMAKING_NAME = "中国版画博物馆"
 
 
 def fetch_lh_printmaking_activities():
-    """从政府网站获取中国版画博物馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取中国版画博物馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_lh_printmaking_activities():
     except Exception as e:
         print(f"Error fetching LH_PRINTMAKING activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供中国版画博物馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '版画艺术精品展',
-            'venue': LH_PRINTMAKING_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示国内外版画艺术精品，呈现版画艺术的多样性与创新性。全国规模最大版画专业馆。免费参观。',
-            'source': 'lh_printmaking',
-            'family_friendly': True
-        },
-        {
-            'name': '版画历史沿革展',
-            'venue': LH_PRINTMAKING_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍版画艺术从古代到现代的发展历程，展示不同时期的版画技法与风格。免费参观。',
-            'source': 'lh_printmaking',
-            'family_friendly': True
-        },
-        {
-            'name': '版画技法展',
-            'venue': LH_PRINTMAKING_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示木刻、铜版、石版、丝网等多种版画制作技法，了解版画创作过程。免费参观。',
-            'source': 'lh_printmaking',
-            'family_friendly': True
-        },
-        {
-            'name': '国际版画交流展',
-            'venue': LH_PRINTMAKING_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示国际版画艺术家作品，促进中外版画艺术交流与对话。免费参观。',
-            'source': 'lh_printmaking',
-            'family_friendly': True
-        },
-        {
-            'name': '少儿版画体验',
-            'venue': LH_PRINTMAKING_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '提供少儿版画创作体验课程，培养儿童艺术创作能力。免费参与。',
-            'source': 'lh_printmaking',
-            'family_friendly': True
-        },
-        {
-            'name': '版画工坊',
-            'venue': LH_PRINTMAKING_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '开放版画创作工坊，提供版画制作工具与材料，体验版画创作乐趣。免费参观。',
-            'source': 'lh_printmaking',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

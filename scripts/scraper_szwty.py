@@ -14,7 +14,7 @@ SZWTY_NAME = "深圳湾体育中心"
 
 
 def fetch_szwty_activities():
-    """从南山政府在线和文化馆云平台获取深圳湾体育中心活动数据，失败时提供兜底数据"""
+    """从南山政府在线和文化馆云平台获取深圳湾体育中心活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -175,40 +175,6 @@ def fetch_szwty_activities():
             unique_activities.append(a)
     activities = unique_activities
 
-    # 如果没有爬到线上数据，使用兜底数据
-    if not activities:
-        print("No online data found, using fallback data")
-        activities = get_fallback_activities(today)
-
-    return activities
-
-
-def get_fallback_activities(today):
-    """提供深圳湾体育中心常设活动兜底数据"""
-    activities = [
-        {
-            'name': '深圳湾体育中心公益体育活动',
-            'venue': SZWTY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-86300066',
-            'description': '深圳湾体育中心（春茧）定期举办全民健身公益活动，部分时段免费开放。',
-            'source': 'szwty',
-            'family_friendly': True
-        },
-        {
-            'name': '深圳湾体育中心文体演出',
-            'venue': SZWTY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-86300066',
-            'description': '深圳湾体育中心定期举办演唱会、体育赛事、文艺演出等大型活动，具体排期请关注官方信息。',
-            'source': 'szwty',
-            'family_friendly': False
-        }
-    ]
     return activities
 
 

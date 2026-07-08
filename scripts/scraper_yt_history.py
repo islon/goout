@@ -14,7 +14,7 @@ YT_HISTORY_NAME = "中英街历史博物馆"
 
 
 def fetch_yt_history_activities():
-    """从政府网站获取中英街历史博物馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取中英街历史博物馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,73 +80,7 @@ def fetch_yt_history_activities():
     except Exception as e:
         print(f"Error fetching YT_HISTORY activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供中英街历史博物馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '近代海防历史展',
-            'venue': YT_HISTORY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示中英街地区近代海防历史，呈现鸦片战争以来的海防变迁与军事防御设施。需预约进入中英街。免费参观。',
-            'source': 'yt_history',
-            'family_friendly': True
-        },
-        {
-            'name': '中英街民俗历史展',
-            'venue': YT_HISTORY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展现中英街独特的民俗文化与历史风貌，讲述一街两制下的百年变迁。需预约进入中英街。免费参观。',
-            'source': 'yt_history',
-            'family_friendly': True
-        },
-        {
-            'name': '界碑历史展',
-            'venue': YT_HISTORY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示中英街八块界碑的历史由来与意义，见证百年边界变迁。需预约进入中英街。免费参观。',
-            'source': 'yt_history',
-            'family_friendly': True
-        },
-        {
-            'name': '沙头角鱼灯舞非遗展',
-            'venue': YT_HISTORY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示国家级非物质文化遗产沙头角鱼灯舞的历史传承与艺术特色。需预约进入中英街。免费参观。',
-            'source': 'yt_history',
-            'family_friendly': True
-        },
-        {
-            'name': '改革开放记忆展',
-            'venue': YT_HISTORY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '记录改革开放以来中英街地区的发展变迁，展示从边境小镇到繁华商业街的历程。需预约进入中英街。免费参观。',
-            'source': 'yt_history',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

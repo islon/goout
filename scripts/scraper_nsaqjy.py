@@ -14,7 +14,7 @@ NSAQJY_NAME = "南山安全教育体验馆"
 
 
 def fetch_nsaqjy_activities():
-    """从南山政府在线获取南山安全教育体验馆活动数据，失败时提供常设展兜底数据"""
+    """从南山政府在线获取南山安全教育体验馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -83,74 +83,7 @@ def fetch_nsaqjy_activities():
     except Exception as e:
         print(f"Error fetching NSAQJY activities from gov site: {e}")
 
-    # 如果没有爬到线上数据，使用常设体验项目兜底
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供南山安全教育体验馆常设体验项目兜底数据"""
-    exhibitions = [
-        {
-            'name': '消防安全体验区',
-            'venue': NSAQJY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26738119',
-            'description': '消防安全隐患排查、灭火器使用模拟、火灾逃生演练等互动体验项目，免费需预约参观。',
-            'source': 'nsaqjy',
-            'family_friendly': True
-        },
-        {
-            'name': '交通安全体验区',
-            'venue': NSAQJY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26738119',
-            'description': '交通安全知识学习、模拟驾驶体验、交通事故应急处理等互动项目，免费需预约参观。',
-            'source': 'nsaqjy',
-            'family_friendly': True
-        },
-        {
-            'name': '居家安全体验区',
-            'venue': NSAQJY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26738119',
-            'description': '居家用电安全、燃气安全、电梯安全等生活安全知识互动体验，免费需预约参观。',
-            'source': 'nsaqjy',
-            'family_friendly': True
-        },
-        {
-            'name': '自然灾害体验区',
-            'venue': NSAQJY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26738119',
-            'description': '地震避险体验、台风模拟、应急救护技能学习等自然灾害应对体验项目，免费需预约参观。',
-            'source': 'nsaqjy',
-            'family_friendly': True
-        },
-        {
-            'name': '生产安全体验区',
-            'venue': NSAQJY_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26738119',
-            'description': '建筑施工安全、危化品安全、职业健康防护等生产安全知识体验，免费需预约参观。',
-            'source': 'nsaqjy',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

@@ -14,7 +14,7 @@ PS_NATURE_NAME = "深圳自然博物馆"
 
 
 def fetch_ps_nature_activities():
-    """从政府网站获取深圳自然博物馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取深圳自然博物馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,106 +80,7 @@ def fetch_ps_nature_activities():
     except Exception as e:
         print(f"Error fetching PS_NATURE activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供深圳自然博物馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '宇宙演化展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '探索宇宙起源与演化，展示天体运行规律与深空探测成果。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '地球科学展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '揭示地球形成与演化历史，展示地质构造与矿产资源。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '生命演化展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '追溯生命起源与进化历程，展示从单细胞到人类的演化之路。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '恐龙化石展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展出珍贵恐龙化石骨架，重现史前巨兽的辉煌时代。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '古人类遗迹展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示人类起源与演化，呈现古人类生活场景与文化遗物。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '本土生态展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示深圳及华南地区独特生态系统，呈现本土动植物多样性。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '海洋科学展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '探索海洋奥秘，展示海洋生物与海洋地质特征。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        },
-        {
-            'name': '人与自然展厅',
-            'venue': PS_NATURE_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '探讨人与自然和谐共生，倡导可持续发展理念。',
-            'source': 'ps_nature',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

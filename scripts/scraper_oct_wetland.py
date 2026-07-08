@@ -14,7 +14,7 @@ OCT_WETLAND_NAME = "华侨城湿地生态展厅"
 
 
 def fetch_oct_wetland_activities():
-    """从政府网站获取华侨城湿地生态展厅活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取华侨城湿地生态展厅活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_oct_wetland_activities():
     except Exception as e:
         print(f"Error fetching OCT_WETLAND activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供华侨城湿地生态展厅常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '湿地生态科普展',
-            'venue': OCT_WETLAND_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示湿地生态系统的结构与功能，介绍湿地保护的重要性与生态价值。免费参观。',
-            'source': 'oct_wetland',
-            'family_friendly': True
-        },
-        {
-            'name': '鸟类科普展厅',
-            'venue': OCT_WETLAND_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示湿地鸟类多样性，介绍不同鸟类的生活习性与保护现状。免费参观。',
-            'source': 'oct_wetland',
-            'family_friendly': True
-        },
-        {
-            'name': '望远镜观鸟体验',
-            'venue': OCT_WETLAND_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '提供望远镜进行实地观鸟体验，观察湿地鸟类的自然行为。免费参观。',
-            'source': 'oct_wetland',
-            'family_friendly': True
-        },
-        {
-            'name': '湿地植物展',
-            'venue': OCT_WETLAND_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示湿地特色植物，介绍水生植物与湿地生态的相互关系。免费参观。',
-            'source': 'oct_wetland',
-            'family_friendly': True
-        },
-        {
-            'name': '湿地生态摄影展',
-            'venue': OCT_WETLAND_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示湿地生态摄影作品，记录湿地美景与野生动物精彩瞬间。免费参观。',
-            'source': 'oct_wetland',
-            'family_friendly': True
-        },
-        {
-            'name': '湿地保护科普讲座',
-            'venue': OCT_WETLAND_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '定期举办湿地保护主题科普讲座，增强公众环保意识。免费参与。',
-            'source': 'oct_wetland',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

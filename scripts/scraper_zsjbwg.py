@@ -14,7 +14,7 @@ ZSJBWG_NAME = "招商局历史博物馆"
 
 
 def fetch_zsjbwg_activities():
-    """尝试从线上获取招商局历史博物馆活动数据，失败时提供常设展兜底数据"""
+    """从线上获取招商局历史博物馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -83,52 +83,7 @@ def fetch_zsjbwg_activities():
     except Exception as e:
         print(f"Error fetching ZSJBWG activities from gov site: {e}")
 
-    # 如果没有爬到线上数据，使用常设展兜底
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供招商局历史博物馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '招商局百年历程展',
-            'venue': ZSJBWG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26818800',
-            'description': '展示招商局集团自1872年创立以来的百年发展历程，涵盖航运、金融、港口、地产等领域，免费参观。',
-            'source': 'zsjbwg',
-            'family_friendly': True
-        },
-        {
-            'name': '中国近代航运史展',
-            'venue': ZSJBWG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26818800',
-            'description': '展示中国近代航运业发展历程，招商局在中国近现代经济发展中的重要贡献，免费参观。',
-            'source': 'zsjbwg',
-            'family_friendly': True
-        },
-        {
-            'name': '蛇口工业区改革开放展',
-            'venue': ZSJBWG_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '0755-26818800',
-            'description': '展示蛇口工业区作为改革开放先行者的探索历程与改革成果，免费参观。',
-            'source': 'zsjbwg',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

@@ -14,7 +14,7 @@ DP_NUCLEAR_NAME = "大亚湾核能科技馆"
 
 
 def fetch_dp_nuclear_activities():
-    """从政府网站获取大亚湾核能科技馆活动数据，失败时使用常设展兜底数据"""
+    """从政府网站获取大亚湾核能科技馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -80,84 +80,7 @@ def fetch_dp_nuclear_activities():
     except Exception as e:
         print(f"Error fetching DP_NUCLEAR activities from gov site: {e}")
 
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供大亚湾核能科技馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '华龙一号核电模型展',
-            'venue': DP_NUCLEAR_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示我国自主研发的华龙一号核电技术模型，了解核电站工作原理与安全设计。免费参观。',
-            'source': 'dp_nuclear',
-            'family_friendly': True
-        },
-        {
-            'name': '核能安全科普展',
-            'venue': DP_NUCLEAR_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '普及核能安全知识，介绍核电站的多重安全屏障与应急措施。免费参观。',
-            'source': 'dp_nuclear',
-            'family_friendly': True
-        },
-        {
-            'name': '核能发电原理展',
-            'venue': DP_NUCLEAR_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '互动展示核能发电的基本原理，从核裂变到电能输出的全过程。免费参观。',
-            'source': 'dp_nuclear',
-            'family_friendly': True
-        },
-        {
-            'name': '核燃料循环展',
-            'venue': DP_NUCLEAR_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '展示核燃料从开采、加工、使用到后处理的完整循环过程。免费参观。',
-            'source': 'dp_nuclear',
-            'family_friendly': True
-        },
-        {
-            'name': '核电与环境展',
-            'venue': DP_NUCLEAR_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '介绍核电对环境的影响，展示核电作为清洁能源的优势与环保措施。免费参观。',
-            'source': 'dp_nuclear',
-            'family_friendly': True
-        },
-        {
-            'name': '核电科普互动体验',
-            'venue': DP_NUCLEAR_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.sz.gov.cn',
-            'contact': '',
-            'description': '通过互动游戏与模拟实验，让观众深入了解核能科学知识。免费参观。',
-            'source': 'dp_nuclear',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():

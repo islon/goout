@@ -14,7 +14,7 @@ SARC_NAME = "深爱人才馆"
 
 
 def fetch_sarc_activities():
-    """从南山政府在线获取深爱人才馆活动数据，失败时提供常设展兜底数据"""
+    """从南山政府在线获取深爱人才馆活动数据"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -83,41 +83,7 @@ def fetch_sarc_activities():
     except Exception as e:
         print(f"Error fetching SARC activities from gov site: {e}")
 
-    # 如果没有爬到线上数据，使用常设展兜底
-    if not activities:
-        print("No online data found, using permanent exhibition fallback data")
-        activities = get_permanent_exhibitions(today)
-
     return activities
-
-
-def get_permanent_exhibitions(today):
-    """提供深爱人才馆常设展览兜底数据"""
-    exhibitions = [
-        {
-            'name': '深圳人才发展历程展',
-            'venue': SARC_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '',
-            'description': '展示深圳人才发展历程与政策成果，免费参观。',
-            'source': 'sarc',
-            'family_friendly': True
-        },
-        {
-            'name': '南山人才创新成果展',
-            'venue': SARC_NAME,
-            'start_date': today,
-            'end_date': '2027-12-31',
-            'url': 'https://www.szns.gov.cn',
-            'contact': '',
-            'description': '展示南山区人才创新创业成果与科技产品，免费参观。',
-            'source': 'sarc',
-            'family_friendly': True
-        }
-    ]
-    return exhibitions
 
 
 def main():
