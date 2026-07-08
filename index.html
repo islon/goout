@@ -13,18 +13,33 @@
             --sand-primary: #D4A373;
             --sand-light: #E8D5BC;
             --sand-dark: #B8895A;
+            --sand-bg: #FDF6ED;
+            --sand-50: #FFFBF5;
+            --sand-100: #FDF6ED;
+            --sand-200: #F5E6D3;
             --ocean: #0891B2;
+            --ocean-light: #E0F2F7;
             --forest: #166534;
+            --forest-light: #DCFCE7;
             --bg-warm: #FFFDF7;
             --surface: #FFFFFF;
             --text-primary: #292524;
             --text-secondary: #78716C;
             --text-muted: #A8A29E;
             --border: #F5F0E8;
+            --border-strong: #E7DFD3;
             --success: #166534;
             --warning: #CA8A04;
             --error: #DC2626;
             --info: #0891B2;
+            --shadow-sm: 0 1px 2px rgba(212, 163, 115, 0.05);
+            --shadow-md: 0 4px 12px rgba(212, 163, 115, 0.08);
+            --shadow-lg: 0 12px 24px rgba(212, 163, 115, 0.12);
+            --shadow-xl: 0 20px 40px rgba(212, 163, 115, 0.15);
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 20px;
         }
 
         * {
@@ -45,10 +60,22 @@
             max-width: 600px;
             margin: 0 auto;
             background: var(--surface);
-            border-radius: 20px;
-            box-shadow: 0 10px 40px rgba(212, 163, 115, 0.15);
+            border-radius: var(--radius-xl);
+            box-shadow: var(--shadow-xl);
             overflow: hidden;
             border: 1px solid var(--border);
+            animation: container-fade-in 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @keyframes container-fade-in {
+            from {
+                opacity: 0;
+                transform: translateY(16px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         @media (min-width: 768px) {
@@ -85,6 +112,29 @@
             padding: 20px 20px 30px;
             text-align: center;
             position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -60%;
+            right: -20%;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: -40%;
+            left: -10%;
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
+            pointer-events: none;
         }
         
         .header h1 {
@@ -202,23 +252,41 @@
         .subscribe-btn {
             display: block;
             width: 100%;
-            padding: 16px;
+            padding: 16px 20px;
             background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
             color: white;
             border: none;
-            border-radius: 12px;
+            border-radius: var(--radius-lg);
             font-size: 16px;
             font-weight: 600;
             cursor: pointer;
             text-align: center;
             text-decoration: none;
-            transition: all 0.2s;
-            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.25);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 4px 12px rgba(212, 163, 115, 0.3);
+            position: relative;
+            overflow: hidden;
         }
-        
+
+        .subscribe-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(180deg, rgba(255,255,255,0.2) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
         .subscribe-btn:hover {
             transform: translateY(-2px);
-            box-shadow: 0 8px 20px rgba(212, 163, 115, 0.35);
+            box-shadow: 0 8px 24px rgba(212, 163, 115, 0.4);
+        }
+
+        .subscribe-btn:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
         }
         
         .platform-tabs {
@@ -229,22 +297,30 @@
         
         .tab {
             flex: 1;
-            padding: 12px;
-            background: var(--bg-warm);
-            border: 1px solid var(--border);
-            border-radius: 10px;
+            padding: 12px 16px;
+            background: var(--surface);
+            border: 1.5px solid var(--border-strong);
+            border-radius: var(--radius-lg);
             font-size: 14px;
             font-weight: 500;
             cursor: pointer;
-            transition: all 0.2s;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
             color: var(--text-secondary);
+            text-align: center;
         }
         
         .tab.active {
             background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
             color: white;
-            border-color: transparent;
-            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.25);
+            border-color: var(--sand-primary);
+            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
+            font-weight: 600;
+        }
+
+        .tab:hover:not(.active) {
+            border-color: var(--sand-light);
+            color: var(--sand-dark);
+            background: var(--sand-50);
         }
         
         .tutorial {
@@ -260,14 +336,20 @@
             align-items: flex-start;
             margin-bottom: 14px;
             padding: 16px;
-            background: var(--bg-warm);
-            border-radius: 12px;
+            background: var(--sand-50);
+            border-radius: var(--radius-lg);
             border: 1px solid var(--border);
+            transition: all 0.2s ease;
+        }
+
+        .step:hover {
+            border-color: var(--sand-light);
+            background: var(--sand-100);
         }
         
         .step-number {
-            width: 28px;
-            height: 28px;
+            width: 30px;
+            height: 30px;
             background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
             color: white;
             border-radius: 50%;
@@ -278,13 +360,27 @@
             font-weight: 700;
             margin-right: 12px;
             flex-shrink: 0;
-            box-shadow: 0 2px 4px rgba(212, 163, 115, 0.25);
+            box-shadow: 0 2px 6px rgba(212, 163, 115, 0.3);
+            position: relative;
+        }
+
+        .step-number::after {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 6px;
+            width: 10px;
+            height: 6px;
+            background: rgba(255,255,255,0.3);
+            border-radius: 50%;
+            transform: rotate(-30deg);
         }
         
         .step-text {
             font-size: 14px;
             color: var(--text-secondary);
             line-height: 1.6;
+            padding-top: 4px;
         }
         
         .feature-list {
@@ -329,13 +425,45 @@
         }
         
         .exhibition-card {
-            background: var(--bg-warm);
-            border-radius: 12px;
+            background: var(--surface);
+            border-radius: var(--radius-lg);
             padding: 16px;
             margin-bottom: 12px;
-            border-left: 4px solid var(--sand-primary);
             border: 1px solid var(--border);
-            border-left: 4px solid var(--sand-primary);
+            border-left: 3px solid var(--sand-primary);
+            box-shadow: var(--shadow-sm);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            animation: card-fade-in 0.3s ease-out backwards;
+        }
+
+        @keyframes card-fade-in {
+            from {
+                opacity: 0;
+                transform: translateY(6px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .exhibition-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-md);
+            border-color: var(--sand-light);
+        }
+
+        .exhibition-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 60px;
+            height: 60px;
+            background: radial-gradient(circle at top right, rgba(212, 163, 115, 0.06), transparent 70%);
+            pointer-events: none;
         }
         
         .exhibition-card.szcec {
@@ -347,17 +475,18 @@
         }
         
         .exhibition-title {
-            font-size: 16px;
+            font-size: 15px;
             font-weight: 600;
             color: var(--text-primary);
             margin-bottom: 8px;
+            line-height: 1.4;
         }
         
         .exhibition-meta {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
-            font-size: 13px;
+            font-size: 12px;
             color: var(--text-secondary);
             margin-bottom: 10px;
         }
@@ -378,9 +507,9 @@
         }
         
         .exhibition-desc {
-            font-size: 14px;
+            font-size: 13px;
             color: var(--text-secondary);
-            line-height: 1.5;
+            line-height: 1.6;
             margin-bottom: 12px;
             display: -webkit-box;
             -webkit-line-clamp: 2;
@@ -389,20 +518,26 @@
         }
         
         .exhibition-link {
-            display: inline-block;
-            padding: 8px 16px;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 7px 14px;
             background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
             color: white;
-            border-radius: 8px;
-            font-size: 13px;
+            border-radius: var(--radius-md);
+            font-size: 12px;
             text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
+            font-weight: 600;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
         }
         
         .exhibition-link:hover {
             transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(212, 163, 115, 0.3);
+            box-shadow: 0 4px 10px rgba(212, 163, 115, 0.3);
+        }
+
+        .exhibition-link:active {
+            transform: translateY(0);
         }
         
         .exhibition-count {
