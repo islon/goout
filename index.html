@@ -3,43 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>童行 (深圳亲子活动)</title>
+    <title>童行 - 深圳亲子活动</title>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
     <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <style>
         :root {
-            --sand-primary: #D4A373;
-            --sand-light: #E8D5BC;
-            --sand-dark: #B8895A;
-            --sand-bg: #FDF6ED;
-            --sand-50: #FFFBF5;
-            --sand-100: #FDF6ED;
-            --sand-200: #F5E6D3;
-            --ocean: #0891B2;
-            --ocean-light: #E0F2F7;
-            --forest: #166534;
-            --forest-light: #DCFCE7;
-            --bg-warm: #FFFDF7;
-            --surface: #FFFFFF;
-            --text-primary: #292524;
-            --text-secondary: #78716C;
-            --text-muted: #A8A29E;
-            --border: #F5F0E8;
-            --border-strong: #E7DFD3;
-            --success: #166534;
-            --warning: #CA8A04;
-            --error: #DC2626;
-            --info: #0891B2;
-            --shadow-sm: 0 1px 2px rgba(212, 163, 115, 0.05);
-            --shadow-md: 0 4px 12px rgba(212, 163, 115, 0.08);
-            --shadow-lg: 0 12px 24px rgba(212, 163, 115, 0.12);
-            --shadow-xl: 0 20px 40px rgba(212, 163, 115, 0.15);
+            --primary: #0066cc;
+            --primary-focus: #0071e3;
+            --primary-on-dark: #2997ff;
+            --ink: #1d1d1f;
+            --body: #1d1d1f;
+            --body-on-dark: #ffffff;
+            --body-muted: #cccccc;
+            --ink-muted-80: #333333;
+            --ink-muted-48: #7a7a7a;
+            --divider-soft: #f0f0f0;
+            --hairline: #e0e0e0;
+            --canvas: #ffffff;
+            --canvas-parchment: #f5f5f7;
+            --surface-pearl: #fafafc;
+            --surface-tile-1: #272729;
+            --surface-tile-2: #2a2a2c;
+            --surface-tile-3: #252527;
+            --surface-black: #000000;
+            --surface-chip-translucent: #d2d2d7;
+            --on-primary: #ffffff;
+            --on-dark: #ffffff;
+            --radius-xs: 5px;
             --radius-sm: 8px;
-            --radius-md: 12px;
-            --radius-lg: 16px;
-            --radius-xl: 20px;
+            --radius-md: 11px;
+            --radius-lg: 18px;
+            --radius-pill: 9999px;
+            --radius-full: 9999px;
+            --spacing-xxs: 4px;
+            --spacing-xs: 8px;
+            --spacing-sm: 12px;
+            --spacing-md: 17px;
+            --spacing-lg: 24px;
+            --spacing-xl: 32px;
+            --spacing-xxl: 48px;
+            --spacing-section: 80px;
+            --product-shadow: rgba(0, 0, 0, 0.22) 3px 5px 30px 0;
         }
 
         * {
@@ -47,509 +53,661 @@
             padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
-            background: var(--bg-warm);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: var(--canvas-parchment);
             min-height: 100vh;
-            padding: 20px;
-            color: var(--text-primary);
-        }
-        
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background: var(--surface);
-            border-radius: var(--radius-xl);
-            box-shadow: var(--shadow-xl);
-            overflow: hidden;
-            border: 1px solid var(--border);
-            animation: container-fade-in 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            color: var(--body);
+            font-size: 17px;
+            line-height: 1.47;
+            letter-spacing: -0.374px;
         }
 
-        @keyframes container-fade-in {
-            from {
-                opacity: 0;
-                transform: translateY(16px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        @media (min-width: 768px) {
-            .container {
-                max-width: 720px;
-            }
-            
-            .content {
-                padding: 40px;
-            }
-            
-            .header h1 {
-                font-size: 36px;
-            }
-            
-            .header p {
-                font-size: 16px;
-            }
-            
-            .icon {
-                font-size: 56px;
-            }
-        }
-
-        @media (min-width: 1024px) {
-            .container {
-                max-width: 800px;
-            }
-        }
-        
-        .header {
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            padding: 20px 20px 30px;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -60%;
-            right: -20%;
-            width: 300px;
-            height: 300px;
-            background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 70%);
-            pointer-events: none;
-        }
-
-        .header::after {
-            content: '';
-            position: absolute;
-            bottom: -40%;
-            left: -10%;
-            width: 200px;
-            height: 200px;
-            background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
-            pointer-events: none;
-        }
-        
-        .header h1 {
-            font-size: 28px;
-            font-weight: 700;
-            margin-bottom: 8px;
-            letter-spacing: -0.3px;
-        }
-        
-        .header p {
-            font-size: 14px;
-            opacity: 0.92;
-        }
-        
-        .icon {
-            font-size: 48px;
-            margin-bottom: 16px;
-        }
-        
-        .header-top {
+        .global-nav {
+            background: var(--surface-black);
+            color: var(--on-dark);
+            height: 44px;
             display: flex;
+            align-items: center;
             justify-content: space-between;
-            align-items: center;
-            margin-bottom: 16px;
-            gap: 8px;
+            padding: 0 var(--spacing-lg);
+            font-size: 12px;
+            letter-spacing: -0.12px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
 
-        .header-links {
+        .global-nav-links {
             display: flex;
-            gap: 8px;
+            gap: 20px;
+            align-items: center;
         }
 
-        .schedule-link {
-            padding: 8px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            border-radius: 20px;
-            color: white;
-            font-size: 13px;
-            font-weight: 500;
-            cursor: pointer;
+        .global-nav-link {
+            color: var(--on-dark);
             text-decoration: none;
-            transition: all 0.2s;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            backdrop-filter: blur(10px);
+            opacity: 0.8;
+            transition: opacity 0.2s;
         }
 
-        .schedule-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-        
-        .data-review-link {
-            padding: 8px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            border-radius: 20px;
-            color: white;
-            font-size: 13px;
-            font-weight: 500;
-            cursor: pointer;
-            text-decoration: none;
-            transition: all 0.2s;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            backdrop-filter: blur(10px);
+        .global-nav-link:hover {
+            opacity: 1;
         }
 
-        .data-review-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-        
-        .feedback-btn {
-            padding: 8px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            border-radius: 20px;
-            color: white;
-            font-size: 13px;
-            font-weight: 500;
-            cursor: pointer;
-            text-decoration: none;
-            transition: all 0.2s;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            backdrop-filter: blur(10px);
-        }
-        
-        .feedback-btn:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-        
-        .content {
-            padding: 30px;
-        }
-        
-        .section {
-            margin-bottom: 32px;
-        }
-        
-        .section h2 {
-            font-size: 18px;
-            font-weight: 700;
-            margin-bottom: 16px;
-            color: var(--text-primary);
-            letter-spacing: -0.2px;
-        }
-        
-        .subscribe-btn {
-            display: block;
-            width: 100%;
-            padding: 16px 20px;
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            border: none;
-            border-radius: var(--radius-lg);
+        .global-nav-logo {
             font-size: 16px;
             font-weight: 600;
-            cursor: pointer;
+        }
+
+        .hero-tile {
+            background: var(--surface-tile-1);
+            color: var(--on-dark);
+            padding: var(--spacing-section) var(--spacing-lg);
             text-align: center;
+        }
+
+        .hero-title {
+            font-size: 34px;
+            font-weight: 600;
+            line-height: 1.07;
+            letter-spacing: -0.28px;
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .hero-subtitle {
+            font-size: 21px;
+            font-weight: 400;
+            line-height: 1.19;
+            letter-spacing: 0.231px;
+            opacity: 0.9;
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .hero-note {
+            font-size: 14px;
+            opacity: 0.6;
+            margin-top: var(--spacing-lg);
+        }
+
+        .button-primary {
+            display: inline-block;
+            background: var(--primary);
+            color: var(--on-primary);
+            padding: 11px 22px;
+            border-radius: var(--radius-pill);
+            font-size: 17px;
+            font-weight: 400;
             text-decoration: none;
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            box-shadow: 0 4px 12px rgba(212, 163, 115, 0.3);
-            position: relative;
-            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.15s;
+            border: none;
         }
 
-        .subscribe-btn::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(180deg, rgba(255,255,255,0.2) 0%, transparent 50%);
-            pointer-events: none;
+        .button-primary:hover {
+            transform: scale(1.02);
         }
 
-        .subscribe-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 24px rgba(212, 163, 115, 0.4);
+        .button-primary:active {
+            transform: scale(0.95);
         }
 
-        .subscribe-btn:active {
-            transform: translateY(0);
-            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
+        .button-secondary-pill {
+            display: inline-block;
+            background: transparent;
+            color: var(--primary);
+            padding: 11px 22px;
+            border-radius: var(--radius-pill);
+            font-size: 17px;
+            font-weight: 400;
+            text-decoration: none;
+            cursor: pointer;
+            transition: transform 0.15s;
+            border: 1px solid var(--primary);
         }
-        
+
+        .button-secondary-pill:active {
+            transform: scale(0.95);
+        }
+
+        .button-dark-utility {
+            background: var(--ink);
+            color: var(--on-dark);
+            padding: 8px 15px;
+            border-radius: var(--radius-sm);
+            font-size: 14px;
+            font-weight: 400;
+            letter-spacing: -0.224px;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.15s;
+        }
+
+        .button-dark-utility:active {
+            transform: scale(0.95);
+        }
+
+        .button-pearl-capsule {
+            background: var(--surface-pearl);
+            color: var(--ink-muted-80);
+            padding: 8px 14px;
+            border-radius: var(--radius-md);
+            font-size: 14px;
+            font-weight: 400;
+            border: 1px solid var(--divider-soft);
+            cursor: pointer;
+            transition: transform 0.15s;
+        }
+
+        .button-pearl-capsule:active {
+            transform: scale(0.95);
+        }
+
+        .button-group {
+            display: flex;
+            gap: var(--spacing-md);
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .utility-tile {
+            background: var(--canvas);
+            padding: var(--spacing-section) var(--spacing-lg);
+        }
+
+        .parchment-tile {
+            background: var(--canvas-parchment);
+            padding: var(--spacing-section) var(--spacing-lg);
+        }
+
+        .product-tile-dark {
+            background: var(--surface-tile-1);
+            color: var(--on-dark);
+            padding: var(--spacing-section) var(--spacing-lg);
+        }
+
+        .section-title {
+            font-size: 34px;
+            font-weight: 600;
+            line-height: 1.47;
+            letter-spacing: -0.374px;
+            margin-bottom: var(--spacing-xl);
+            color: var(--ink);
+            text-align: center;
+        }
+
+        .section-title-on-dark {
+            font-size: 34px;
+            font-weight: 600;
+            line-height: 1.47;
+            letter-spacing: -0.374px;
+            margin-bottom: var(--spacing-xl);
+            color: var(--on-dark);
+            text-align: center;
+        }
+
+        .section-subtitle {
+            font-size: 17px;
+            font-weight: 400;
+            line-height: 1.47;
+            letter-spacing: -0.374px;
+            color: var(--ink-muted-48);
+            margin-bottom: var(--spacing-xxl);
+            text-align: center;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
         .platform-tabs {
             display: flex;
-            gap: 10px;
-            margin-bottom: 20px;
-        }
-        
-        .tab {
-            flex: 1;
-            padding: 12px 16px;
-            background: var(--surface);
-            border: 1.5px solid var(--border-strong);
-            border-radius: var(--radius-lg);
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-            color: var(--text-secondary);
-            text-align: center;
-        }
-        
-        .tab.active {
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            border-color: var(--sand-primary);
-            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
-            font-weight: 600;
+            justify-content: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-xl);
         }
 
-        .tab:hover:not(.active) {
-            border-color: var(--sand-light);
-            color: var(--sand-dark);
-            background: var(--sand-50);
+        .tab {
+            background: transparent;
+            color: var(--primary);
+            padding: 8px 24px;
+            border: 1px solid var(--primary);
+            border-radius: var(--radius-pill);
+            font-size: 17px;
+            font-weight: 400;
+            cursor: pointer;
+            transition: all 0.15s;
         }
-        
+
+        .tab.active {
+            background: var(--primary);
+            color: var(--on-primary);
+        }
+
+        .tab:active {
+            transform: scale(0.95);
+        }
+
         .tutorial {
             display: none;
         }
-        
+
         .tutorial.active {
             display: block;
         }
-        
+
         .step {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 14px;
-            padding: 16px;
-            background: var(--sand-50);
+            margin-bottom: var(--spacing-md);
+            padding: var(--spacing-lg);
+            background: var(--canvas);
             border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            transition: all 0.2s ease;
+            border: 1px solid var(--hairline);
         }
 
-        .step:hover {
-            border-color: var(--sand-light);
-            background: var(--sand-100);
-        }
-        
         .step-number {
             width: 30px;
             height: 30px;
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
+            background: var(--ink);
+            color: var(--on-dark);
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             font-size: 14px;
-            font-weight: 700;
-            margin-right: 12px;
+            font-weight: 600;
+            margin-right: var(--spacing-sm);
             flex-shrink: 0;
-            box-shadow: 0 2px 6px rgba(212, 163, 115, 0.3);
-            position: relative;
         }
 
-        .step-number::after {
-            content: '';
-            position: absolute;
-            top: 2px;
-            left: 6px;
-            width: 10px;
-            height: 6px;
-            background: rgba(255,255,255,0.3);
-            border-radius: 50%;
-            transform: rotate(-30deg);
-        }
-        
         .step-text {
-            font-size: 14px;
-            color: var(--text-secondary);
-            line-height: 1.6;
+            font-size: 17px;
+            color: var(--body);
+            line-height: 1.47;
             padding-top: 4px;
         }
-        
+
         .feature-list {
             list-style: none;
+            max-width: 600px;
+            margin: 0 auto;
         }
-        
+
         .feature-list li {
             display: flex;
             align-items: center;
-            padding: 12px 0;
-            border-bottom: 1px solid var(--border);
-            font-size: 14px;
-            color: var(--text-secondary);
+            padding: var(--spacing-md) 0;
+            border-bottom: 1px solid var(--hairline);
+            font-size: 17px;
+            color: var(--body);
         }
-        
+
         .feature-list li:last-child {
             border-bottom: none;
         }
-        
+
         .check-icon {
-            color: var(--forest);
-            margin-right: 10px;
+            color: var(--primary);
+            margin-right: var(--spacing-sm);
             font-size: 18px;
-            font-weight: 700;
-        }
-        
-        .footer {
-            padding: 20px 30px;
-            background: var(--bg-warm);
-            text-align: center;
-            font-size: 12px;
-            color: var(--text-muted);
-            border-top: 1px solid var(--border);
-            line-height: 1.8;
-        }
-        
-        .source-info {
-            font-size: 12px;
-            color: var(--text-muted);
-            margin-top: 10px;
-            text-align: center;
-        }
-        
-        .exhibition-card {
-            background: var(--surface);
-            border-radius: var(--radius-lg);
-            padding: 16px;
-            margin-bottom: 12px;
-            border: 1px solid var(--border);
-            border-left: 3px solid var(--sand-primary);
-            box-shadow: var(--shadow-sm);
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            position: relative;
-            overflow: hidden;
-            animation: card-fade-in 0.3s ease-out backwards;
+            font-weight: 600;
         }
 
-        @keyframes card-fade-in {
-            from {
-                opacity: 0;
-                transform: translateY(6px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        .tips-card {
+            padding: var(--spacing-lg);
+            background: var(--surface-pearl);
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--divider-soft);
+            margin-bottom: var(--spacing-xl);
+            font-size: 14px;
+            color: var(--ink-muted-80);
+            text-align: center;
+        }
+
+        .warning-card {
+            padding: var(--spacing-lg);
+            background: var(--surface-pearl);
+            border-radius: var(--radius-lg);
+            border-left: 4px solid var(--primary);
+            margin-bottom: var(--spacing-xl);
+            font-size: 14px;
+            color: var(--ink-muted-80);
+        }
+
+        .method-card {
+            padding: var(--spacing-lg);
+            background: var(--canvas);
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--hairline);
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .method-title {
+            font-size: 17px;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: var(--spacing-md);
+            line-height: 1.24;
+            letter-spacing: -0.374px;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: var(--spacing-md);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .small-card {
+            background: var(--canvas);
+            padding: var(--spacing-lg);
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--hairline);
+            text-align: center;
+        }
+
+        .small-card-icon {
+            font-size: 32px;
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .small-card-title {
+            font-size: 17px;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: var(--spacing-xs);
+            line-height: 1.24;
+            letter-spacing: -0.374px;
+        }
+
+        .small-card-desc {
+            font-size: 14px;
+            color: var(--ink-muted-48);
+            line-height: 1.43;
+            letter-spacing: -0.224px;
+        }
+
+        .footer {
+            background: var(--canvas-parchment);
+            padding: 64px var(--spacing-lg);
+        }
+
+        .footer-links {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-sm);
+            font-size: 17px;
+            line-height: 2.41;
+            color: var(--ink-muted-80);
+            margin-bottom: var(--spacing-xl);
+            text-align: center;
+        }
+
+        .footer-links a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+
+        .footer-legal {
+            font-size: 12px;
+            color: var(--ink-muted-48);
+            line-height: 1.0;
+            text-align: center;
+            letter-spacing: -0.12px;
+        }
+
+        .source-info {
+            font-size: 12px;
+            color: var(--ink-muted-48);
+            margin-top: var(--spacing-sm);
+            text-align: center;
+            letter-spacing: -0.12px;
+        }
+
+        .exhibition-card {
+            background: var(--canvas);
+            border-radius: var(--radius-lg);
+            padding: var(--spacing-lg);
+            margin-bottom: var(--spacing-md);
+            border: 1px solid var(--hairline);
+            transition: transform 0.15s;
         }
 
         .exhibition-card:hover {
-            transform: translateY(-2px);
-            box-shadow: var(--shadow-md);
-            border-color: var(--sand-light);
+            transform: scale(1.01);
         }
 
-        .exhibition-card::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            right: 0;
-            width: 60px;
-            height: 60px;
-            background: radial-gradient(circle at top right, rgba(212, 163, 115, 0.06), transparent 70%);
-            pointer-events: none;
-        }
-        
-        .exhibition-card.szcec {
-            border-left-color: var(--sand-primary);
-        }
-        
-        .exhibition-card.shenzhen_world {
-            border-left-color: var(--ocean);
-        }
-        
         .exhibition-title {
-            font-size: 15px;
+            font-size: 17px;
             font-weight: 600;
-            color: var(--text-primary);
-            margin-bottom: 8px;
-            line-height: 1.4;
+            color: var(--ink);
+            margin-bottom: var(--spacing-xs);
+            line-height: 1.24;
+            letter-spacing: -0.374px;
         }
-        
+
         .exhibition-meta {
             display: flex;
             flex-wrap: wrap;
-            gap: 10px;
-            font-size: 12px;
-            color: var(--text-secondary);
-            margin-bottom: 10px;
+            gap: var(--spacing-sm);
+            font-size: 14px;
+            color: var(--ink-muted-48);
+            margin-bottom: var(--spacing-xs);
         }
-        
+
         .exhibition-meta span {
             display: flex;
             align-items: center;
         }
-        
+
         .exhibition-meta span::before {
             content: '';
             display: inline-block;
             width: 4px;
             height: 4px;
-            background: var(--text-muted);
+            background: var(--ink-muted-48);
             border-radius: 50%;
             margin-right: 6px;
         }
-        
+
         .exhibition-desc {
-            font-size: 13px;
-            color: var(--text-secondary);
-            line-height: 1.6;
-            margin-bottom: 12px;
+            font-size: 17px;
+            color: var(--body);
+            line-height: 1.47;
+            margin-bottom: var(--spacing-md);
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
-        
+
         .exhibition-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            padding: 7px 14px;
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            border-radius: var(--radius-md);
-            font-size: 12px;
+            color: var(--primary);
+            font-size: 17px;
+            font-weight: 400;
             text-decoration: none;
-            font-weight: 600;
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-        
-        .exhibition-link:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 10px rgba(212, 163, 115, 0.3);
+            transition: opacity 0.2s;
         }
 
-        .exhibition-link:active {
-            transform: translateY(0);
+        .exhibition-link:hover {
+            opacity: 0.8;
+            text-decoration: underline;
         }
-        
+
         .exhibition-count {
-            font-size: 13px;
-            color: var(--text-muted);
-            margin-bottom: 12px;
+            font-size: 14px;
+            color: var(--ink-muted-48);
+            margin-bottom: var(--spacing-md);
             text-align: right;
         }
+
+        .subscribe-section {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .subscribe-btn {
+            display: block;
+            width: 100%;
+            background: var(--primary);
+            color: var(--on-primary);
+            padding: 14px;
+            border-radius: var(--radius-pill);
+            font-size: 18px;
+            font-weight: 300;
+            text-decoration: none;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.15s;
+            border: none;
+            margin-bottom: var(--spacing-md);
+        }
+
+        .subscribe-btn:active {
+            transform: scale(0.98);
+        }
+
+        .subscribe-btn-secondary {
+            display: block;
+            width: 100%;
+            background: transparent;
+            color: var(--primary);
+            padding: 14px;
+            border-radius: var(--radius-pill);
+            font-size: 18px;
+            font-weight: 300;
+            text-decoration: none;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.15s;
+            border: 1px solid var(--primary);
+        }
+
+        .subscribe-btn-secondary:active {
+            transform: scale(0.98);
+        }
+
+        .text-link {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .text-link:hover {
+            text-decoration: underline;
+        }
+
+        .text-link-on-dark {
+            color: var(--primary-on-dark);
+            text-decoration: none;
+        }
+
+        .text-link-on-dark:hover {
+            text-decoration: underline;
+        }
+
+        .copy-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+        }
+
+        .copy-modal-content {
+            background: var(--canvas);
+            border-radius: var(--radius-lg);
+            padding: var(--spacing-xl);
+            max-width: 320px;
+            text-align: center;
+        }
+
+        .copy-modal-icon {
+            font-size: 48px;
+            margin-bottom: var(--spacing-md);
+        }
+
+        .copy-modal-title {
+            font-size: 17px;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: var(--spacing-xs);
+            line-height: 1.24;
+            letter-spacing: -0.374px;
+        }
+
+        .copy-modal-desc {
+            font-size: 14px;
+            color: var(--ink-muted-48);
+            margin-bottom: var(--spacing-md);
+            line-height: 1.43;
+            letter-spacing: -0.224px;
+        }
+
+        .copy-modal-url {
+            padding: var(--spacing-md);
+            background: var(--surface-pearl);
+            border-radius: var(--radius-sm);
+            font-size: 12px;
+            color: var(--ink-muted-48);
+            word-break: break-all;
+            text-align: left;
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .view-all-link {
+            color: var(--primary);
+            font-size: 17px;
+            font-weight: 400;
+            text-decoration: none;
+            padding: 8px 20px;
+            border: 1px solid var(--primary);
+            border-radius: var(--radius-pill);
+            transition: transform 0.15s;
+        }
+
+        .view-all-link:active {
+            transform: scale(0.95);
+        }
+
+        @media (min-width: 768px) {
+            .hero-title {
+                font-size: 40px;
+            }
+
+            .hero-subtitle {
+                font-size: 28px;
+            }
+
+            .card-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .hero-title {
+                font-size: 56px;
+            }
+
+            .card-grid {
+                grid-template-columns: repeat(4, 1fr);
+                max-width: 980px;
+            }
+        }
     </style>
-    <!-- 不蒜子统计 -->
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <!-- 百度统计（匿名模式，不收集个人信息） -->
     <script>
     var _hmt = _hmt || [];
     (function() {
@@ -569,73 +727,80 @@
     </script>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <div class="header-top">
-                <div class="header-links">
-                    <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="schedule-link" target="_blank">📅 查看日程</a>
-                    <a href="https://islon.github.io/shenzhen-exhibitions/data-review.html" class="data-review-link" target="_blank">📋 数据审核</a>
-                </div>
-                <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="feedback-btn" target="_blank" rel="noopener">📝 反馈</a>
-            </div>
-            <div class="icon">👨‍👩‍👧‍👦</div>
-            <h1>童行</h1>
-            <p>最好的成长是一路相伴</p>
-            <p style="font-size: 13px; opacity: 0.8;">建议使用浏览器，微信里面打开可能无法订阅</p>
+    <nav class="global-nav">
+        <div class="global-nav-links">
+            <a href="#" class="global-nav-link global-nav-logo">👨‍👩‍👧‍👦 童行</a>
         </div>
-        
-        <div class="content">
-            <div class="section">
-                <h2>一键订阅</h2>
-                <div class="platform-tabs" style="margin-bottom: 16px;">
-                    <button class="tab active" onclick="switchPlatform('ios')">iOS</button>
-                    <button class="tab" onclick="switchPlatform('android')">Android</button>
-                </div>
-                <div id="ios-subscribe">
-                    <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" onclick="trackEvent('订阅', 'iOS添加日历', '一键订阅')">📱 添加到日历</a>
-                </div>
-                <div id="android-subscribe" style="display: none;">
-                    <div style="margin-bottom: 15px; padding: 12px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #e65100; text-align: center;">
-                        💡 安卓订阅方式：推荐使用 Google 日历或 Outlook 日历实现自动更新
-                    </div>
-                    <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" style="margin-bottom: 10px;" onclick="trackEvent('订阅', 'Android下载日历', '离线导入')">📥 下载日历文件（离线导入）</a>
-                    <button onclick="copySubscribeUrl(); trackEvent('订阅', 'Android复制链接', '自动更新')" style="display: block; width: 100%; padding: 14px; background: linear-gradient(135deg, #4285f4 0%, #34a853 100%); color: white; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer;">🔄 复制订阅链接（支持自动更新）</button>
-                </div>
+        <div class="global-nav-links">
+            <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="global-nav-link" target="_blank">📅 日程</a>
+            <a href="https://islon.github.io/shenzhen-exhibitions/data-review.html" class="global-nav-link" target="_blank">📋 审核</a>
+            <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="global-nav-link" target="_blank" rel="noopener">📝 反馈</a>
+        </div>
+    </nav>
+
+    <section class="hero-tile">
+        <h1 class="hero-title">童行</h1>
+        <p class="hero-subtitle">最好的成长是一路相伴</p>
+        <div class="button-group">
+            <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="button-primary" onclick="trackEvent('订阅', 'iOS添加日历', '一键订阅')">📱 添加到日历</a>
+            <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="button-secondary-pill" target="_blank">📅 查看日程</a>
+        </div>
+        <p class="hero-note">建议使用浏览器打开，微信内可能无法订阅</p>
+    </section>
+
+    <section class="utility-tile">
+        <h2 class="section-title">一键订阅</h2>
+        <div class="subscribe-section">
+            <div class="platform-tabs">
+                <button class="tab active" onclick="switchPlatform('ios')">iOS</button>
+                <button class="tab" onclick="switchPlatform('android')">Android</button>
+            </div>
+            <div id="ios-subscribe">
+                <a href="webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" onclick="trackEvent('订阅', 'iOS添加日历', '一键订阅')">📱 添加到日历</a>
                 <div class="source-info">数据每周自动更新</div>
             </div>
-            
-            <div class="section">
-                <h2>订阅教程</h2>
-                
-                <div id="ios-tutorial" class="tutorial active">
-                    <div class="step">
-                        <div class="step-number">1</div>
-                        <div class="step-text">点击上方「添加到日历」按钮</div>
-                    </div>
-                    <div class="step">
-                        <div class="step-number">2</div>
-                        <div class="step-text">系统会自动打开「日历」应用</div>
-                    </div>
-                    <div class="step">
-                        <div class="step-number">3</div>
-                        <div class="step-text">点击「添加全部」完成订阅</div>
-                    </div>
-                    <div class="step">
-                        <div class="step-number">4</div>
-                        <div class="step-text">订阅后日历会自动同步更新</div>
-                    </div>
+            <div id="android-subscribe" style="display: none;">
+                <div class="tips-card">
+                    💡 安卓订阅方式：推荐使用 Google 日历或 Outlook 日历实现自动更新
                 </div>
-                
-                <div id="android-tutorial" class="tutorial">
-                    <div style="margin-bottom: 20px; padding: 16px; background: #ffeb3b; border-radius: 10px; border-left: 4px solid #fbc02d;">
-                        <strong style="color: #f57f17;">⚠️ 大陆品牌日历限制</strong>
-                        <p style="margin-top: 8px; font-size: 13px;">小米、华为、OPPO、vivo 等大陆品牌手机的原生日历不支持通过 URL 订阅并自动更新，仅支持一次性离线导入。</p>
-                        <p style="margin-top: 4px; font-size: 13px;">如需自动同步更新，请使用 Google 日历或 Outlook 日历（方法二、三）。</p>
-                    </div>
-                    
-                    <div style="margin-bottom: 20px; padding: 16px; background: #e8f5e9; border-radius: 10px; border-left: 4px solid #4caf50;">
-                        <strong style="color: #2e7d32;">📱 方法一：离线导入（简单）</strong>
-                    </div>
+                <a href="https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics" class="subscribe-btn" style="margin-bottom: var(--spacing-sm);" onclick="trackEvent('订阅', 'Android下载日历', '离线导入')">📥 下载日历文件（离线导入）</a>
+                <button onclick="copySubscribeUrl(); trackEvent('订阅', 'Android复制链接', '自动更新')" class="subscribe-btn-secondary">🔄 复制订阅链接（支持自动更新）</button>
+                <div class="source-info">数据每周自动更新</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="product-tile-dark">
+        <h2 class="section-title-on-dark">订阅教程</h2>
+        <div class="subscribe-section">
+            <div id="ios-tutorial" class="tutorial active">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-text">点击上方「添加到日历」按钮</div>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-text">系统会自动打开「日历」应用</div>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-text">点击「添加全部」完成订阅</div>
+                </div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <div class="step-text">订阅后日历会自动同步更新</div>
+                </div>
+            </div>
+
+            <div id="android-tutorial" class="tutorial">
+                <div class="warning-card">
+                    <strong style="color: var(--primary);">⚠️ 大陆品牌日历限制</strong><br>
+                    小米、华为、OPPO、vivo 等大陆品牌手机的原生日历不支持通过 URL 订阅并自动更新，仅支持一次性离线导入。<br>
+                    如需自动同步更新，请使用 Google 日历或 Outlook 日历。
+                </div>
+
+                <div class="method-card">
+                    <div class="method-title">📱 方法一：离线导入（简单）</div>
                     <div class="step">
                         <div class="step-number">1</div>
                         <div class="step-text">点击上方「下载日历文件」按钮</div>
@@ -656,14 +821,12 @@
                         <div class="step-number">5</div>
                         <div class="step-text"><strong>注意：</strong>这种方式是一次性导入，数据不会自动更新</div>
                     </div>
-                    
-                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #e3f2fd; border-radius: 10px; border-left: 4px solid #1976d2;">
-                        <strong style="color: #0d47a1;">🔄 方法二：Google 日历（支持自动更新）</strong>
-                    </div>
-                    <div style="margin-bottom: 16px; padding: 12px; background: #fff3e0; border-radius: 8px; border-left: 3px solid #ff9800;">
-                        <div style="font-size: 13px; color: #e65100;">
-                            <strong>📱 手机端注意：</strong>Google 日历 App 不支持通过 URL 添加订阅，需在手机浏览器中打开 <a href="https://calendar.google.com" target="_blank" style="color: #e65100; text-decoration: underline;">calendar.google.com</a> 网页版操作；订阅成功后，可在 Google 日历 App 中查看日历。
-                        </div>
+                </div>
+
+                <div class="method-card">
+                    <div class="method-title">🔄 方法二：Google 日历（支持自动更新）</div>
+                    <div class="tips-card" style="text-align: left; margin-bottom: var(--spacing-md);">
+                        📱 手机端注意：Google 日历 App 不支持通过 URL 添加订阅，需在手机浏览器中打开 <a href="https://calendar.google.com" target="_blank" class="text-link">calendar.google.com</a> 网页版操作；订阅成功后，可在 Google 日历 App 中查看日历。
                     </div>
                     <div class="step">
                         <div class="step-number">1</div>
@@ -671,7 +834,7 @@
                     </div>
                     <div class="step">
                         <div class="step-number">2</div>
-                        <div class="step-text">在浏览器中打开 Google 日历网页版（<a href="https://calendar.google.com" target="_blank" style="color: #1976d2;">calendar.google.com</a>）</div>
+                        <div class="step-text">在浏览器中打开 Google 日历网页版（<a href="https://calendar.google.com" target="_blank" class="text-link">calendar.google.com</a>）</div>
                     </div>
                     <div class="step">
                         <div class="step-number">3</div>
@@ -681,10 +844,10 @@
                         <div class="step-number">4</div>
                         <div class="step-text">粘贴链接并点击「添加日历」，订阅后自动同步更新</div>
                     </div>
-                    
-                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #fce4ec; border-radius: 10px; border-left: 4px solid #c2185b;">
-                        <strong style="color: #880e4f;">🔄 方法三：Outlook 日历（支持自动更新）</strong>
-                    </div>
+                </div>
+
+                <div class="method-card">
+                    <div class="method-title">🔄 方法三：Outlook 日历（支持自动更新）</div>
                     <div class="step">
                         <div class="step-number">1</div>
                         <div class="step-text">点击上方「复制订阅链接」按钮</div>
@@ -703,74 +866,81 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="section">
-                <h2>功能特点</h2>
-                <ul class="feature-list">
-                    <li><span class="check-icon">✓</span>整合深圳两大会展中心数据</li>
-                    <li><span class="check-icon">✓</span>支持 iOS / Android 原生日历</li>
-                    <li><span class="check-icon">✓</span>订阅后自动同步更新</li>
-                    <li><span class="check-icon">✓</span>无需安装任何 App</li>
-                    <li><span class="check-icon">✓</span>零广告，完全免费</li>
-                </ul>
+        </div>
+    </section>
+
+    <section class="utility-tile">
+        <h2 class="section-title">功能特点</h2>
+        <ul class="feature-list">
+            <li><span class="check-icon">✓</span>整合深圳两大会展中心数据</li>
+            <li><span class="check-icon">✓</span>支持 iOS / Android 原生日历</li>
+            <li><span class="check-icon">✓</span>订阅后自动同步更新</li>
+            <li><span class="check-icon">✓</span>无需安装任何 App</li>
+            <li><span class="check-icon">✓</span>零广告，完全免费</li>
+        </ul>
+    </section>
+
+    <section class="parchment-tile">
+        <h2 class="section-title">其他提醒方式</h2>
+        <div class="card-grid">
+            <div class="small-card">
+                <div class="small-card-icon">📱</div>
+                <div class="small-card-title">添加到主屏幕</div>
+                <div class="small-card-desc">浏览器菜单 → 添加到主屏幕</div>
             </div>
-            
-            <div class="section">
-                <h2>其他提醒方式</h2>
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
-                    <div style="padding: 14px; background: #e3f2fd; border-radius: 10px; text-align: center;">
-                        <div style="font-size: 24px; margin-bottom: 8px;">📱</div>
-                        <div style="font-size: 13px; font-weight: 600; color: #1976d2;">添加到主屏幕</div>
-                        <div style="font-size: 11px; color: #666; margin-top: 4px;">浏览器菜单 → 添加到主屏幕</div>
-                    </div>
-                    <div style="padding: 14px; background: #e8f5e9; border-radius: 10px; text-align: center;">
-                        <div style="font-size: 24px; margin-bottom: 8px;">🔖</div>
-                        <div style="font-size: 13px; font-weight: 600; color: #2e7d32;">添加书签</div>
-                        <div style="font-size: 11px; color: #666; margin-top: 4px;">定期访问查看最新展览</div>
-                    </div>
-                    <div style="padding: 14px; background: #fce4ec; border-radius: 10px; text-align: center;">
-                        <div style="font-size: 24px; margin-bottom: 8px;">💬</div>
-                        <div style="font-size: 13px; font-weight: 600; color: #c2185b;">微信收藏</div>
-                        <div style="font-size: 11px; color: #666; margin-top: 4px;">分享到微信 → 收藏文章</div>
-                    </div>
-                    <div style="padding: 14px; background: #fff3e0; border-radius: 10px; text-align: center;">
-                        <div style="font-size: 24px; margin-bottom: 8px;">📡</div>
-                        <div style="font-size: 13px; font-weight: 600; color: #e65100;">RSS订阅</div>
-                        <div style="font-size: 11px; color: #666; margin-top: 4px;">使用RSS阅读器订阅更新</div>
-                        <a href="output/exhibitions.rss" style="display: inline-block; margin-top: 8px; padding: 4px 12px; background: #ff9800; color: white; border-radius: 15px; font-size: 11px; text-decoration: none;">订阅RSS</a>
-                    </div>
-                </div>
-                <div style="margin-top: 15px; padding: 12px; background: #f5f5f5; border-radius: 8px; font-size: 12px; color: #666; text-align: center;">
-                    💡 建议：添加到主屏幕后，每次打开即可看到最新展览日程
-                </div>
+            <div class="small-card">
+                <div class="small-card-icon">🔖</div>
+                <div class="small-card-title">添加书签</div>
+                <div class="small-card-desc">定期访问查看最新展览</div>
             </div>
-            
-            <div class="section">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
-                    <h2>活动日程</h2>
-                    <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" style="padding: 6px 14px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 20px; font-size: 13px; text-decoration: none; font-weight: 500;">查看全部</a>
-                </div>
-                <div id="exhibition-list" style="display: none;">
-                    <div style="text-align: center; padding: 20px; color: #999;">加载中...</div>
-                </div>
-                <div id="exhibition-error" style="display: none; text-align: center; padding: 20px; color: #999;">
-                    加载失败，请稍后重试
-                </div>
+            <div class="small-card">
+                <div class="small-card-icon">💬</div>
+                <div class="small-card-title">微信收藏</div>
+                <div class="small-card-desc">分享到微信 → 收藏文章</div>
+            </div>
+            <div class="small-card">
+                <div class="small-card-icon">📡</div>
+                <div class="small-card-title">RSS订阅</div>
+                <div class="small-card-desc">使用RSS阅读器订阅更新</div>
+                <a href="output/exhibitions.rss" class="button-primary" style="display: inline-block; margin-top: var(--spacing-sm); font-size: 14px; padding: 6px 16px;">订阅RSS</a>
             </div>
         </div>
-        
-        <div class="footer">
+        <div class="tips-card" style="max-width: 600px; margin-left: auto; margin-right: auto; margin-top: var(--spacing-lg);">
+            💡 建议：添加到主屏幕后，每次打开即可看到最新展览日程
+        </div>
+    </section>
+
+    <section class="utility-tile">
+        <div style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: 0 auto var(--spacing-xl); padding: 0 var(--spacing-lg);">
+            <h2 class="section-title" style="margin-bottom: 0;">活动日程</h2>
+            <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" class="view-all-link" target="_blank">查看全部</a>
+        </div>
+        <div id="exhibition-list" style="display: none; max-width: 600px; margin: 0 auto; padding: 0 var(--spacing-lg);">
+            <div style="text-align: center; padding: var(--spacing-xxl); color: var(--ink-muted-48);">加载中...</div>
+        </div>
+        <div id="exhibition-error" style="display: none; text-align: center; padding: var(--spacing-xxl); color: var(--ink-muted-48);">
+            加载失败，请稍后重试
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="https://islon.github.io/shenzhen-exhibitions/schedule.html" target="_blank">📅 查看日程</a>
+            <a href="https://islon.github.io/shenzhen-exhibitions/data-review.html" target="_blank">📋 数据审核</a>
+            <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" target="_blank" rel="noopener">📝 反馈建议</a>
+        </div>
+        <div class="footer-legal">
             数据来源：深圳会展中心 | 深圳国际会展中心 | 深圳图书馆 | 宝安图书馆 | 湾区之眼 | 宝安科技馆 | 宝安体育中心 | 南山图书馆 | 南山博物馆 | 南山区文化馆 | 蛇口海洋科普馆 | 深爱人才馆 | 南头古城博物馆群 | 招商局历史博物馆 | 南山区青少年活动中心 | 南山文体中心 | 深圳湾体育中心 | 南山安全教育体验馆 | 南山书房 | 人才公园 | 深圳湾公园 | 前海石公园 | 深圳自然博物馆 | 深圳科学技术馆（光明新馆） | 光明区少年儿童图书馆 | 盐田区图书馆 | 中英街历史博物馆 | 大鹏半岛国家地质公园博物馆 | 大亚湾核能科技馆 | 深圳少年儿童图书馆 | 深圳市安全教育基地 | 华侨城湿地生态展厅 | 宝安1990文化馆 | 龙岗客家民俗博物馆 | 中国版画博物馆 | 龙华生态文明展览馆 | 深圳古生物博物馆
         </div>
-    </div>
-    
+    </footer>
+
     <script>
         function switchPlatform(platform) {
             document.querySelectorAll('.platform-tabs button').forEach(tab => tab.classList.remove('active'));
             event.target.classList.add('active');
-            
+
             document.querySelectorAll('.tutorial').forEach(tut => tut.classList.remove('active'));
-            
+
             if (platform === 'ios') {
                 document.getElementById('ios-subscribe').style.display = 'block';
                 document.getElementById('android-subscribe').style.display = 'none';
@@ -781,12 +951,12 @@
                 document.getElementById('android-tutorial').classList.add('active');
             }
         }
-        
+
         function copySubscribeUrl() {
             const url = 'https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics';
             const btn = event.target;
             const originalText = btn.textContent;
-            
+
             if (navigator.clipboard && navigator.clipboard.writeText) {
                 navigator.clipboard.writeText(url).then(() => {
                     btn.textContent = '✓ 已复制';
@@ -808,7 +978,7 @@
             textArea.style.left = '-9999px';
             document.body.appendChild(textArea);
             textArea.select();
-            
+
             try {
                 const successful = document.execCommand('copy');
                 if (successful) {
@@ -822,87 +992,69 @@
             } catch (err) {
                 showCopyError(url);
             }
-            
+
             document.body.removeChild(textArea);
         }
 
         function showCopyError(url) {
             const modal = document.createElement('div');
-            modal.style.cssText = `
-                position: fixed;
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                background: rgba(0,0,0,0.5);
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                z-index: 9999;
-            `;
-            
+            modal.className = 'copy-modal';
+
             const content = document.createElement('div');
-            content.style.cssText = `
-                background: white;
-                border-radius: 12px;
-                padding: 24px;
-                max-width: 320px;
-                text-align: center;
-                box-shadow: 0 10px 40px rgba(0,0,0,0.2);
-            `;
-            
+            content.className = 'copy-modal-content';
+
             content.innerHTML = `
-                <div style="font-size: 32px; margin-bottom: 12px;">📋</div>
-                <div style="font-size: 16px; font-weight: 600; color: #333; margin-bottom: 8px;">复制订阅链接</div>
-                <div style="font-size: 13px; color: #666; margin-bottom: 16px;">请长按下方链接复制</div>
-                <div style="padding: 12px; background: #f5f7fa; border-radius: 8px; font-size: 12px; color: #666; word-break: break-all; text-align: left;">${url}</div>
-                <button onclick="this.parentElement.parentElement.remove()" style="margin-top: 16px; padding: 10px 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 14px; font-weight: 500; cursor: pointer;">知道了</button>
+                <div class="copy-modal-icon">📋</div>
+                <div class="copy-modal-title">复制订阅链接</div>
+                <div class="copy-modal-desc">请长按下方链接复制</div>
+                <div class="copy-modal-url">${url}</div>
+                <button onclick="this.parentElement.parentElement.remove()" class="button-primary">知道了</button>
             `;
-            
+
             modal.appendChild(content);
             document.body.appendChild(modal);
-            
+
             modal.addEventListener('click', (e) => {
                 if (e.target === modal) {
                     modal.remove();
                 }
             });
         }
-        
+
         function loadExhibitions() {
             const listContainer = document.getElementById('exhibition-list');
             const errorContainer = document.getElementById('exhibition-error');
-            
+
             listContainer.style.display = 'block';
             errorContainer.style.display = 'none';
-            
+
             fetch('output/exhibitions.json')
                 .then(response => response.json())
                 .then(exhibitions => {
                     listContainer.innerHTML = '';
-                    
+
                     if (exhibitions.length === 0) {
-                        listContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: #999;">暂无展览数据</div>';
+                        listContainer.innerHTML = '<div style="text-align: center; padding: var(--spacing-xxl); color: var(--ink-muted-48);">暂无展览数据</div>';
                         return;
                     }
-                    
+
                     const currentDate = new Date().toISOString().split('T')[0];
                     const futureExhibitions = exhibitions.filter(e => e.start_date >= currentDate).slice(0, 20);
-                    
+
                     listContainer.innerHTML = `<div class="exhibition-count">共 ${exhibitions.length} 个展览，显示最近 ${futureExhibitions.length} 个</div>`;
-                    
+
                     futureExhibitions.forEach(exhibition => {
                         const card = document.createElement('div');
                         card.className = `exhibition-card ${exhibition.source || 'szcec'}`;
-                        
+
                         const startDate = exhibition.start_date;
                         const endDate = exhibition.end_date;
                         const dateDisplay = startDate === endDate ? startDate : `${startDate} ~ ${endDate}`;
-                        
+
                         const isFree = exhibition.venue.includes('图书馆') || exhibition.venue.includes('科技馆') || exhibition.venue.includes('湾区之眼');
-                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' : 
+                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' :
                                          exhibition.venue.includes('会展中心') || exhibition.venue.includes('体育') ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
-                        
+
                         card.innerHTML = `
                             <div class="exhibition-title">${exhibition.name}${feeBadge}</div>
                             <div class="exhibition-meta">
@@ -912,7 +1064,7 @@
                             ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
                             ${exhibition.url ? `<a href="${exhibition.url}" target="_blank" class="exhibition-link">🔗 查看详情</a>` : ''}
                         `;
-                        
+
                         listContainer.appendChild(card);
                     });
                 })
@@ -922,7 +1074,7 @@
                     console.error('Failed to load exhibitions:', error);
                 });
         }
-        
+
         window.addEventListener('DOMContentLoaded', loadExhibitions);
     </script>
 </body>
