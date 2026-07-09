@@ -171,8 +171,8 @@ python scripts/main.py
 | 链接类型 | URL |
 |----------|-----|
 | 落地页 | https://islon.github.io/goout/ |
-| ICS 文件 | https://islon.github.io/goout/output/exhibitions.ics |
-| 订阅链接 | webcal://islon.github.io/goout/output/exhibitions.ics |
+| ICS 文件 | https://islon.github.io/goout-calender/output/exhibitions.ics |
+| 订阅链接 | webcal://islon.github.io/goout-calender/output/exhibitions.ics |
 | GitHub 仓库 | https://github.com/islon/goout |
 
 ---
