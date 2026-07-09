@@ -371,51 +371,37 @@
         let currentPage = 1;
         const pageSize = 50;
 
-        const venueNames = {
-            'szcec': '深圳会展中心',
-            'shenzhen_world': '深圳国际会展中心',
-            'szlib': '深圳图书馆',
-            'balib': '宝安图书馆',
-            'bayarea_eye': '湾区之眼',
-            'baoan_kjg': '宝安科技馆',
-            'baoan_ty': '宝安体育中心',
-            'baoan_guihua': '宝安区城市规划展览馆',
-            'baoan_qingshaonian': '宝安区青少年宫',
-            'shenzhen_binhai_art': '深圳滨海艺术中心',
-            'baoan_zonghe': '宝安综合训练馆',
-            'huanle_juchang': '欢乐剧场',
-            'baoan_binhai_park': '宝安滨海文化公园'
+        // 使用数据中的实际 category 映射
+        const typeLabels = {
+            '展览': '展览',
+            '讲座阅读': '阅读',
+            '科普活动': '科技',
+            '演出': '艺术',
+            '体育赛事': '体育',
+            '亲子活动': '教育',
+            '影视放映': '文化',
+            '其他': '其他'
         };
 
-        const typeLabels = {
-            'exhibition': '展览',
-            'art': '艺术',
-            'sport': '体育',
-            'science': '科技',
-            'education': '教育',
-            'culture': '文化'
+        const typeClassMap = {
+            '展览': 'exhibition',
+            '讲座阅读': 'education',
+            '科普活动': 'science',
+            '演出': 'art',
+            '体育赛事': 'sport',
+            '亲子活动': 'education',
+            '影视放映': 'culture',
+            '其他': 'culture'
         };
 
         function getActivityType(exhibition) {
-            if (exhibition.types && exhibition.types.length > 0) {
-                const type = exhibition.types[0].toLowerCase();
-                if (typeLabels[type]) return type;
-            }
-            const name = exhibition.name.toLowerCase();
-            if (name.includes('展') || name.includes('博览') || name.includes('交易会')) return 'exhibition';
-            if (name.includes('艺术') || name.includes('画展') || name.includes('摄影') || name.includes('音乐')) return 'art';
-            if (name.includes('体育') || name.includes('比赛') || name.includes('足球') || name.includes('篮球') || name.includes('羽毛球') || name.includes('游泳')) return 'sport';
-            if (name.includes('科技') || name.includes('科学') || name.includes('机器人') || name.includes('编程')) return 'science';
-            if (name.includes('讲座') || name.includes('培训') || name.includes('读书') || name.includes('阅读')) return 'education';
-            if (name.includes('文化') || name.includes('非遗') || name.includes('民俗')) return 'culture';
-            return 'exhibition';
+            return exhibition.category || '展览';
         }
 
         function getFeeType(exhibition) {
-            if (exhibition.fee === '免费' || exhibition.fee === 'Free' || exhibition.price === '免费') return 'free';
-            if (exhibition.fee === '收费' || exhibition.price && exhibition.price !== '免费') return 'paid';
-            const name = exhibition.name.toLowerCase();
-            if (name.includes('免费')) return 'free';
+            const fee = exhibition.fee || '';
+            if (fee.includes('免费')) return 'free';
+            if (fee.includes('收费') || fee.includes('购票')) return 'paid';
             return 'free';
         }
 
@@ -430,18 +416,24 @@
                 })
                 .catch(error => {
                     document.getElementById('table-body').innerHTML = `
-                        <tr><td colspan="8" style="text-align: center; padding: 40px; color: red;">加载失败: ${error.message}</td></tr>
+                        <tr><td colspan="9" style="text-align: center; padding: 40px; color: red;">加载失败: ${error.message}</td></tr>
                     `;
                 });
         }
 
         function populateVenueFilter() {
-            const venues = [...new Set(allExhibitions.map(e => e.source))];
+            // 使用 venue 字段（实际场馆名称），按数量排序
+            const venueCounts = {};
+            allExhibitions.forEach(e => {
+                const v = e.venue || '未知';
+                venueCounts[v] = (venueCounts[v] || 0) + 1;
+            });
+            const sorted = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]);
             const select = document.getElementById('venue-filter');
-            venues.forEach(source => {
+            sorted.forEach(([venue, count]) => {
                 const option = document.createElement('option');
-                option.value = source;
-                option.textContent = venueNames[source] || source;
+                option.value = venue;
+                option.textContent = `${venue} (${count})`;
                 select.appendChild(option);
             });
         }
@@ -452,10 +444,26 @@
             const filtered = getFilteredExhibitions();
             document.getElementById('filtered-count').textContent = filtered.length;
             
-            Object.keys(venueNames).forEach(source => {
-                const count = allExhibitions.filter(e => e.source === source).length;
-                const el = document.getElementById(`${source}-count`);
-                if (el) el.textContent = count;
+            // 动态更新场馆统计（取前15个）
+            const venueCounts = {};
+            allExhibitions.forEach(e => {
+                const v = e.venue || '未知';
+                venueCounts[v] = (venueCounts[v] || 0) + 1;
+            });
+            const topVenues = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+            
+            const statsDiv = document.getElementById('stats');
+            // 保留前3个固定元素
+            const fixedItems = statsDiv.querySelectorAll('.stat-item');
+            for (let i = 3; i < fixedItems.length; i++) {
+                fixedItems[i].remove();
+            }
+            
+            topVenues.forEach(([venue, count]) => {
+                const div = document.createElement('div');
+                div.className = 'stat-item';
+                div.innerHTML = `<span class="stat-value">${count}</span><span class="stat-label">${venue.length > 10 ? venue.slice(0, 10) + '...' : venue}</span>`;
+                statsDiv.appendChild(div);
             });
         }
 
@@ -466,14 +474,18 @@
             const feeFilter = document.getElementById('fee-filter').value;
 
             return allExhibitions.filter(e => {
-                if (searchQuery && !e.name.toLowerCase().includes(searchQuery) && !e.venue.toLowerCase().includes(searchQuery)) {
+                const title = (e.title || e.name || '').toLowerCase();
+                const venue = (e.venue || '').toLowerCase();
+                if (searchQuery && !title.includes(searchQuery) && !venue.includes(searchQuery)) {
                     return false;
                 }
-                if (venueFilter !== 'all' && e.source !== venueFilter) {
+                if (venueFilter !== 'all' && e.venue !== venueFilter) {
                     return false;
                 }
-                if (typeFilter !== 'all' && getActivityType(e) !== typeFilter) {
-                    return false;
+                if (typeFilter !== 'all') {
+                    const cat = e.category || '展览';
+                    const typeMap = { 'exhibition': '展览', 'art': '演出', 'sport': '体育赛事', 'science': '科普活动', 'education': '亲子活动', 'culture': '影视放映' };
+                    if (typeMap[typeFilter] && cat !== typeMap[typeFilter]) return false;
                 }
                 if (feeFilter !== 'all' && getFeeType(e) !== feeFilter) {
                     return false;
@@ -484,7 +496,7 @@
 
         function renderTable() {
             const filtered = getFilteredExhibitions();
-            const totalPages = Math.ceil(filtered.length / pageSize);
+            const totalPages = Math.ceil(filtered.length / pageSize) || 1;
             currentPage = Math.min(currentPage, totalPages);
             currentPage = Math.max(currentPage, 1);
 
@@ -499,20 +511,23 @@
             } else {
                 let html = '';
                 pageData.forEach((e, i) => {
-                    const type = getActivityType(e);
+                    const cat = getActivityType(e);
+                    const typeClass = typeClassMap[cat] || 'exhibition';
                     const fee = getFeeType(e);
                     const family = e.family_friendly ? '✅' : '❌';
+                    const title = e.title || e.name || '';
+                    const desc = (e.description || '-').slice(0, 100);
                     html += `
                         <tr>
                             <td>${start + i + 1}</td>
-                            <td>${e.name}</td>
-                            <td>${venueNames[e.source] || e.source}</td>
-                            <td>${e.start_date}</td>
-                            <td>${e.end_date}</td>
-                            <td><span class="badge type-${type}">${typeLabels[type]}</span></td>
+                            <td><a href="${e.link || e.url || '#'}" target="_blank" style="color: #667eea; text-decoration: none;">${title}</a></td>
+                            <td>${e.venue || ''}</td>
+                            <td>${e.start_date || ''}</td>
+                            <td>${e.end_date || ''}</td>
+                            <td><span class="badge type-${typeClass}">${cat}</span></td>
                             <td><span class="badge ${fee}">${fee === 'free' ? '免费' : '收费'}</span></td>
                             <td>${family}</td>
-                            <td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${e.description || ''}">${e.description || '-'}</td>
+                            <td style="max-width: 250px; font-size: 12px; color: #888;" title="${e.description || ''}">${desc}</td>
                         </tr>
                     `;
                 });
