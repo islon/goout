@@ -8,7 +8,6 @@
             location.replace(location.href.replace('/shenzhen-exhibitions', '/goout'));
         }
     </script>
-    <meta http-equiv="Cache-Control" content="public, max-age=86400">
     <title>童行 (深圳亲子活动)</title>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
@@ -53,700 +52,30 @@
             padding: 0;
             box-sizing: border-box;
         }
-
+        
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
             background: var(--bg-warm);
             min-height: 100vh;
+            padding: 20px;
             color: var(--text-primary);
-            -webkit-font-smoothing: antialiased;
         }
-
-        .header {
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            padding: 16px 20px 20px;
-            border-bottom: none;
-            position: relative;
-            box-shadow: var(--shadow-md);
-            overflow: hidden;
-        }
-
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            right: -10%;
-            width: 300px;
-            height: 300px;
-            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-            pointer-events: none;
-        }
-
-        .header::after {
-            content: '';
-            position: absolute;
-            bottom: -30%;
-            left: -5%;
-            width: 200px;
-            height: 200px;
-            background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
-            pointer-events: none;
-        }
-
-        .header-top {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 12px;
-            max-width: 1200px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        .subscribe-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
-            backdrop-filter: blur(10px);
-        }
-
-        .subscribe-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-
-        .feedback-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
-            backdrop-filter: blur(10px);
-        }
-
-        .feedback-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-
-        .header h1 {
-            font-size: 20px;
-            font-weight: 700;
-            text-align: center;
-            margin: 0;
-            letter-spacing: -0.3px;
-        }
-
-        .header-subtitle {
-            text-align: center;
-            font-size: 12px;
-            color: rgba(255, 255, 255, 0.85);
-            margin-top: 4px;
-            font-weight: 400;
-        }
-
-        .main-wrapper {
-            display: flex;
-            max-width: 1200px;
+        
+        .container {
+            max-width: 600px;
             margin: 0 auto;
-            padding: 16px;
-            gap: 20px;
-        }
-
-        .sidebar {
-            width: 260px;
-            flex-shrink: 0;
-            display: none;
-        }
-
-        .sidebar-card {
             background: var(--surface);
-            border-radius: 14px;
-            padding: 16px;
-            margin-bottom: 12px;
-            box-shadow: 0 1px 3px rgba(212, 163, 115, 0.08);
-            border: 1px solid var(--border);
-        }
-
-        .sidebar-title {
-            font-size: 13px;
-            font-weight: 700;
-            color: var(--text-primary);
-            margin-bottom: 12px;
-            padding-bottom: 8px;
-            border-bottom: 1px solid var(--border);
-            letter-spacing: -0.2px;
-        }
-
-        .filter-section-mobile {
-            background: var(--surface);
-            padding: 14px 16px;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .filter-section-mobile--right-align {
-            display: flex;
-            flex-direction: column;
-        }
-
-        .filter-section-mobile--right-align .filter-bar {
-            align-self: flex-start;
-        }
-
-        .filter-label {
-            font-size: 11px;
-            color: var(--text-muted);
-            margin-bottom: 10px;
-            padding-left: 4px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .filter-bar {
-            display: flex;
-            gap: 6px;
-            overflow-x: auto;
-            padding-bottom: 2px;
-            flex-wrap: wrap;
-        }
-
-        .filter-btn {
-            padding: 7px 14px;
-            background: var(--surface);
-            border: 1.5px solid var(--border-strong);
-            border-radius: 24px;
-            font-size: 12px;
-            color: var(--text-secondary);
-            cursor: pointer;
-            white-space: nowrap;
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-            flex-shrink: 0;
-            font-weight: 500;
-        }
-
-        .filter-btn.active {
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            border-color: var(--sand-primary);
-            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
-            font-weight: 600;
-        }
-
-        .filter-btn:hover:not(.active) {
-            background: var(--sand-50);
-            color: var(--sand-dark);
-            border-color: var(--sand-light);
-            transform: translateY(-1px);
-        }
-
-        .filter-btn:active {
-            transform: scale(0.97);
-        }
-
-        .search-container {
-            position: relative;
-            margin-bottom: 12px;
-        }
-
-        .search-input {
-            width: 100%;
-            padding: 12px 40px 12px 16px;
-            border: 1.5px solid var(--border-strong);
             border-radius: var(--radius-xl);
-            font-size: 14px;
-            background: var(--surface);
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-            color: var(--text-primary);
-            box-shadow: var(--shadow-sm);
-        }
-
-        .search-input:focus {
-            outline: none;
-            border-color: var(--sand-primary);
-            background: var(--surface);
-            box-shadow: 0 0 0 4px rgba(212, 163, 115, 0.12), var(--shadow-sm);
-        }
-
-        .search-input::placeholder {
-            color: var(--text-muted);
-        }
-
-        .search-icon {
-            position: absolute;
-            right: 14px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--text-muted);
-            font-size: 16px;
-            pointer-events: none;
-            transition: color 0.2s;
-        }
-
-        .search-input:focus + .search-icon {
-            color: var(--sand-primary);
-        }
-
-        .content {
-            flex: 1;
-            min-width: 0;
-        }
-
-        .count-info {
-            font-size: 13px;
-            color: var(--text-muted);
-            margin-bottom: 12px;
-            text-align: right;
-        }
-
-        .exhibition-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 10px;
-        }
-
-        .exhibition-card {
-            background: var(--surface);
-            border-radius: var(--radius-lg);
-            padding: 16px;
-            box-shadow: var(--shadow-sm);
-            border-left: 3px solid var(--border-strong);
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            cursor: pointer;
-            position: relative;
+            box-shadow: var(--shadow-xl);
             overflow: hidden;
             border: 1px solid var(--border);
-            border-left: 3px solid var(--border-strong);
-            opacity: 0;
-            display: flex;
-            flex-direction: column;
-            height: 100%;
+            animation: container-fade-in 0.5s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        .exhibition-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 1px;
-            background: linear-gradient(90deg, transparent, var(--sand-light), transparent);
-            opacity: 0.5;
-        }
-
-        .exhibition-card::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            right: 0;
-            width: 80px;
-            height: 80px;
-            background: radial-gradient(circle at top right, rgba(212, 163, 115, 0.06), transparent 70%);
-            pointer-events: none;
-        }
-
-        .exhibition-card:hover {
-            transform: translateY(-3px);
-            box-shadow: var(--shadow-lg);
-            border-color: var(--sand-light);
-        }
-
-        .exhibition-card:active {
-            transform: translateY(-1px);
-            box-shadow: var(--shadow-md);
-        }
-
-        /* 按分类着色 */
-        .exhibition-card.cat-展览 { border-left-color: var(--ocean); }
-        .exhibition-card.cat-讲座阅读 { border-left-color: #8B5CF6; }
-        .exhibition-card.cat-科普活动 { border-left-color: var(--forest); }
-        .exhibition-card.cat-演出 { border-left-color: var(--warning); }
-        .exhibition-card.cat-影视放映 { border-left-color: #DB2777; }
-        .exhibition-card.cat-体育赛事 { border-left-color: var(--error); }
-        .exhibition-card.cat-亲子活动 { border-left-color: var(--sand-primary); }
-        .exhibition-card.cat-其他 { border-left-color: var(--text-muted); }
-
-        .exhibition-header {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            gap: 8px;
-            margin-bottom: 8px;
-        }
-
-        .exhibition-title {
-            font-size: 15px;
-            font-weight: 700;
-            color: var(--text-primary);
-            line-height: 1.4;
-            letter-spacing: -0.2px;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        .exhibition-badges {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 5px;
-            flex-shrink: 0;
-        }
-
-        .badge {
-            padding: 4px 10px;
-            border-radius: 20px;
-            font-size: 11px;
-            font-weight: 600;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            line-height: 1.2;
-        }
-
-        .badge.free {
-            background: var(--forest-light);
-            color: var(--forest);
-            border: 1px solid rgba(22, 101, 52, 0.2);
-        }
-
-        .badge.free::before {
-            content: '✓';
-            font-weight: 700;
-        }
-
-        .badge.paid {
-            background: #FEF3C7;
-            color: var(--warning);
-            border: 1px solid rgba(202, 138, 4, 0.2);
-        }
-
-        .badge.paid::before {
-            content: '💰';
-            font-size: 10px;
-        }
-
-        .badge.family {
-            background: #FFE4E6;
-            color: #BE123C;
-            border: 1px solid rgba(190, 18, 60, 0.2);
-        }
-
-        .badge.family::before {
-            content: '👨‍👩‍👧';
-            font-size: 10px;
-        }
-
-        .badge.type-展览 { background: var(--ocean-light); color: var(--ocean); border: 1px solid rgba(8, 145, 178, 0.15); }
-        .badge.type-讲座阅读 { background: #EDE9FE; color: #7C3AED; border: 1px solid rgba(124, 58, 237, 0.15); }
-        .badge.type-科普活动 { background: var(--forest-light); color: var(--forest); border: 1px solid rgba(22, 101, 52, 0.15); }
-        .badge.type-演出 { background: #FEF3C7; color: var(--warning); border: 1px solid rgba(202, 138, 4, 0.15); }
-        .badge.type-影视放映 { background: #FCE7F3; color: #BE185D; border: 1px solid rgba(190, 24, 93, 0.15); }
-        .badge.type-体育赛事 { background: #FEE2E2; color: var(--error); border: 1px solid rgba(220, 38, 38, 0.15); }
-        .badge.type-亲子活动 { background: var(--sand-bg); color: var(--sand-dark); border: 1px solid rgba(212, 163, 115, 0.25); }
-        .badge.type-其他 { background: #F1F5F9; color: #64748B; border: 1px solid rgba(100, 116, 139, 0.15); }
-
-        .exhibition-meta {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            font-size: 12px;
-            color: var(--text-secondary);
-            margin-bottom: 8px;
-            margin-top: 6px;
-        }
-
-        .exhibition-meta span {
-            display: flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        .exhibition-desc {
-            font-size: 13px;
-            color: var(--text-secondary);
-            line-height: 1.7;
-            margin-bottom: 10px;
-        }
-
-        .exhibition-desc.empty {
-            color: var(--text-muted);
-            font-style: italic;
-        }
-
-        .exhibition-link {
-            display: inline-block;
-            padding: 5px 12px;
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            border-radius: 8px;
-            font-size: 11px;
-            text-decoration: none;
-            font-weight: 600;
-            text-align: left;
-            transition: all 0.15s;
-            box-shadow: 0 1px 3px rgba(212, 163, 115, 0.2);
-            margin-top: auto;
-            align-self: flex-start;
-        }
-
-        .exhibition-link:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(212, 163, 115, 0.3);
-        }
-
-        .empty-state {
-            text-align: center;
-            padding: 60px 20px;
-            color: var(--text-muted);
-        }
-
-        .source-filter-collapsed {
-            max-height: 130px;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .source-filter-collapsed::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            height: 40px;
-            background: linear-gradient(to bottom, rgba(255,255,255,0), var(--surface));
-            pointer-events: none;
-            z-index: 10;
-        }
-
-        .expand-toggle-btn {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 4px;
-            padding: 8px 16px;
-            font-size: 13px;
-            color: var(--sand-dark);
-            background: var(--surface);
-            border: 1px solid var(--sand-light);
-            border-radius: 20px;
-            cursor: pointer;
-            margin-top: 8px;
-            margin-left: auto;
-            transition: all 0.2s;
-            font-weight: 500;
-        }
-
-        .expand-toggle-btn:hover {
-            background: var(--sand-bg);
-            border-color: var(--sand-primary);
-        }
-
-        .sidebar-source-filter-collapsed {
-            max-height: 120px;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .sidebar-source-filter-collapsed::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            height: 40px;
-            background: linear-gradient(to bottom, rgba(255,255,255,0), var(--surface));
-            pointer-events: none;
-            z-index: 10;
-        }
-
-        .sidebar-expand-btn {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 4px;
-            padding: 6px 12px;
-            font-size: 12px;
-            color: var(--sand-dark);
-            background: var(--sand-bg);
-            border: 1px solid var(--sand-light);
-            border-radius: 16px;
-            cursor: pointer;
-            margin-top: 8px;
-            transition: all 0.2s;
-            font-weight: 500;
-        }
-
-        .sidebar-expand-btn:hover {
-            background: var(--sand-light);
-        }
-
-        .page-btn {
-            padding: 6px 12px;
-            border: 1px solid var(--border-strong);
-            border-radius: 8px;
-            background: var(--surface);
-            font-size: 13px;
-            color: var(--text-secondary);
-            cursor: pointer;
-            transition: all 0.2s;
-            font-weight: 500;
-        }
-
-        .page-btn:hover:not(:disabled) {
-            border-color: var(--sand-primary);
-            color: var(--sand-dark);
-            background: var(--sand-bg);
-        }
-
-        .page-btn.active {
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: #fff;
-            border-color: transparent;
-            box-shadow: 0 2px 6px rgba(212, 163, 115, 0.3);
-        }
-
-        .page-btn:disabled {
-            opacity: 0.3;
-            cursor: not-allowed;
-        }
-
-        .empty-state .icon {
-            font-size: 48px;
-            margin-bottom: 12px;
-        }
-
-        .date-badge {
-            display: inline-block;
-            padding: 2px 7px;
-            border-radius: 6px;
-            font-size: 10px;
-            font-weight: 700;
-            margin-bottom: 6px;
-            text-transform: uppercase;
-            letter-spacing: 0.3px;
-        }
-
-        .date-badge.upcoming {
-            background: #FEF3C7;
-            color: var(--warning);
-        }
-
-        .date-badge.today {
-            background: #FEE2E2;
-            color: var(--error);
-        }
-
-        .date-badge.tomorrow {
-            background: var(--ocean-light);
-            color: var(--ocean);
-        }
-
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: var(--text-muted);
-            font-size: 14px;
-        }
-
-        /* 骨架屏 - 离线优先设计 */
-        .skeleton-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 10px;
-        }
-
-        .skeleton-card {
-            background: var(--surface);
-            border-radius: var(--radius-lg);
-            padding: 16px;
-            border: 1px solid var(--border);
-            border-left: 3px solid var(--border-strong);
-        }
-
-        .skeleton-line {
-            background: linear-gradient(
-                90deg,
-                var(--sand-100) 25%,
-                var(--sand-200) 50%,
-                var(--sand-100) 75%
-            );
-            background-size: 200% 100%;
-            animation: skeleton-shimmer 1.5s infinite;
-            border-radius: 4px;
-        }
-
-        .skeleton-line.title {
-            height: 18px;
-            width: 70%;
-            margin-bottom: 10px;
-        }
-
-        .skeleton-line.meta {
-            height: 12px;
-            width: 50%;
-            margin-bottom: 8px;
-        }
-
-        .skeleton-line.desc {
-            height: 12px;
-            width: 90%;
-            margin-bottom: 6px;
-        }
-
-        .skeleton-line.desc.short {
-            width: 60%;
-        }
-
-        .skeleton-line.badge {
-            height: 20px;
-            width: 48px;
-            display: inline-block;
-            margin-right: 6px;
-            border-radius: 6px;
-        }
-
-        @keyframes skeleton-shimmer {
-            0% {
-                background-position: 200% 0;
-            }
-            100% {
-                background-position: -200% 0;
-            }
-        }
-
-        @media (min-width: 768px) {
-            .skeleton-grid {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 16px;
-            }
-            .skeleton-card {
-                padding: 20px;
-            }
-        }
-
-        @media (min-width: 1200px) {
-            .skeleton-grid {
-                grid-template-columns: repeat(3, 1fr);
-            }
-        }
-
-        /* 入场动画 */
-        @keyframes fade-in-up {
+        @keyframes container-fade-in {
             from {
                 opacity: 0;
-                transform: translateY(8px);
+                transform: translateY(16px);
             }
             to {
                 opacity: 1;
@@ -754,288 +83,473 @@
             }
         }
 
-        .exhibition-card {
-            animation: fade-in-up 0.3s ease-out forwards;
-        }
-
-        .exhibition-card:nth-child(1) { animation-delay: 0.02s; }
-        .exhibition-card:nth-child(2) { animation-delay: 0.04s; }
-        .exhibition-card:nth-child(3) { animation-delay: 0.06s; }
-        .exhibition-card:nth-child(4) { animation-delay: 0.08s; }
-        .exhibition-card:nth-child(5) { animation-delay: 0.10s; }
-        .exhibition-card:nth-child(6) { animation-delay: 0.12s; }
-        .exhibition-card:nth-child(7) { animation-delay: 0.14s; }
-        .exhibition-card:nth-child(8) { animation-delay: 0.16s; }
-        .exhibition-card:nth-child(9) { animation-delay: 0.18s; }
-
-        .clear-filters-btn {
-            width: 100%;
-            padding: 10px;
-            background: var(--bg-warm);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            font-size: 12px;
-            color: var(--text-secondary);
-            cursor: pointer;
-            transition: all 0.2s;
-            font-weight: 500;
-        }
-
-        .clear-filters-btn:hover {
-            background: var(--sand-bg);
-            color: var(--sand-dark);
-            border-color: var(--sand-light);
-        }
-
         @media (min-width: 768px) {
-            .header h1 {
-                font-size: 28px;
+            .container {
+                max-width: 720px;
             }
-
-            .header-top {
-                padding: 0 20px;
-            }
-
-            .exhibition-grid {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 16px;
-            }
-
-            .exhibition-card {
-                padding: 20px;
-            }
-
-            .exhibition-title {
-                font-size: 17px;
-            }
-
-            .exhibition-meta {
-                font-size: 13px;
-            }
-
-            .exhibition-desc {
-                font-size: 13px;
-            }
-
+            
             .content {
-                padding: 0;
+                padding: 40px;
+            }
+            
+            .header h1 {
+                font-size: 36px;
+            }
+            
+            .header p {
+                font-size: 16px;
+            }
+            
+            .icon {
+                font-size: 56px;
             }
         }
 
         @media (min-width: 1024px) {
-            .sidebar {
-                display: block;
-            }
-
-            .filter-section-mobile {
-                display: none;
-            }
-
-            .exhibition-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            .main-wrapper {
-                padding: 16px;
-            }
-
-            .content {
-                margin-top: 0;
-            }
-
-            .header {
-                padding: 12px 20px 16px;
-            }
-
-            .header h1 {
-                font-size: 24px;
+            .container {
+                max-width: 800px;
             }
         }
-
-        @media (min-width: 1200px) {
-            .exhibition-grid {
-                grid-template-columns: repeat(3, 1fr);
-                grid-auto-rows: 1fr;
-            }
+        
+        .header {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            padding: 20px 20px 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
         }
 
-        .modal-overlay {
-            display: none;
-            position: fixed;
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -60%;
+            right: -20%;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: -40%;
+            left: -10%;
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
+            pointer-events: none;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            letter-spacing: -0.3px;
+        }
+        
+        .header p {
+            font-size: 14px;
+            opacity: 0.92;
+        }
+        
+        .icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+        
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            gap: 8px;
+        }
+
+        .header-links {
+            display: flex;
+            gap: 8px;
+        }
+
+        .schedule-link {
+            padding: 8px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            backdrop-filter: blur(10px);
+        }
+
+        .schedule-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+        
+        .data-review-link {
+            padding: 8px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            backdrop-filter: blur(10px);
+        }
+
+        .data-review-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+        
+        .feedback-btn {
+            padding: 8px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .feedback-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .section {
+            margin-bottom: 32px;
+        }
+        
+        .section h2 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+            letter-spacing: -0.2px;
+        }
+        
+        .subscribe-btn {
+            display: block;
+            width: 100%;
+            padding: 16px 20px;
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border: none;
+            border-radius: var(--radius-lg);
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 4px 12px rgba(212, 163, 115, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .subscribe-btn::before {
+            content: '';
+            position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: rgba(0, 0, 0, 0.4);
-            z-index: 1000;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            backdrop-filter: blur(4px);
+            background: linear-gradient(180deg, rgba(255,255,255,0.2) 0%, transparent 50%);
+            pointer-events: none;
         }
 
-        .modal-overlay.active {
-            display: flex;
+        .subscribe-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(212, 163, 115, 0.4);
         }
 
-        .modal {
-            background: var(--surface);
-            border-radius: 18px;
-            max-width: 560px;
-            width: 100%;
-            max-height: 85vh;
-            overflow-y: auto;
-            position: relative;
-            box-shadow: 0 20px 60px rgba(212, 163, 115, 0.2);
-            border: 1px solid var(--border);
-        }
-
-        .modal-header {
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            padding: 20px 24px;
-            border-radius: 18px 18px 0 0;
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-        }
-
-        .modal-title {
-            font-size: 18px;
-            font-weight: 700;
-            margin-bottom: 8px;
-            line-height: 1.4;
-            letter-spacing: -0.2px;
-        }
-
-        .modal-close {
-            background: rgba(255, 255, 255, 0.15);
-            border: none;
-            color: white;
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            font-size: 20px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s;
-            flex-shrink: 0;
-            margin-left: 12px;
-        }
-
-        .modal-close:hover {
-            background: rgba(255, 255, 255, 0.25);
-            transform: rotate(90deg);
-        }
-
-        .modal-body {
-            padding: 24px;
-        }
-
-        .modal-info-row {
-            display: flex;
-            margin-bottom: 14px;
-            align-items: flex-start;
-        }
-
-        .modal-info-label {
-            width: 70px;
-            font-weight: 600;
-            color: var(--text-muted);
-            flex-shrink: 0;
-            font-size: 13px;
-        }
-
-        .modal-info-value {
-            flex: 1;
-            color: var(--text-primary);
-            font-size: 14px;
-            font-weight: 500;
-        }
-
-        .modal-description {
-            margin-top: 20px;
-            padding-top: 20px;
-            border-top: 1px solid var(--border);
-        }
-
-        .modal-desc-title {
-            font-weight: 700;
-            margin-bottom: 10px;
-            color: var(--text-primary);
-            font-size: 14px;
-        }
-
-        .modal-desc-content {
-            line-height: 1.8;
-            color: var(--text-secondary);
-            font-size: 14px;
-        }
-
-        .modal-contact {
-            margin-top: 16px;
-            padding: 14px;
-            background: var(--bg-warm);
-            border-radius: 10px;
-            border: 1px solid var(--border);
-        }
-
-        .modal-contact-title {
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: var(--text-primary);
-            font-size: 13px;
-        }
-
-        .modal-contact-info {
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
-            font-size: 13px;
-            color: var(--text-secondary);
-        }
-
-        .modal-url {
-            color: var(--ocean);
-            text-decoration: none;
-            word-break: break-all;
-            font-weight: 500;
-        }
-
-        .modal-url:hover {
-            text-decoration: underline;
-        }
-
-        .modal-badges {
-            display: flex;
-            gap: 6px;
-            margin-top: 8px;
-            flex-wrap: wrap;
-        }
-
-        .modal-original-link {
-            margin-top: 20px;
-            text-align: center;
-        }
-
-        .original-link-btn {
-            display: inline-block;
-            padding: 12px 28px;
-            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
-            color: white;
-            border-radius: 10px;
-            font-size: 14px;
-            font-weight: 600;
-            text-decoration: none;
-            transition: all 0.2s;
+        .subscribe-btn:active {
+            transform: translateY(0);
             box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
         }
+        
+        .platform-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .tab {
+            flex: 1;
+            padding: 12px 16px;
+            background: var(--surface);
+            border: 1.5px solid var(--border-strong);
+            border-radius: var(--radius-lg);
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            color: var(--text-secondary);
+            text-align: center;
+        }
+        
+        .tab.active {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-color: var(--sand-primary);
+            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
+            font-weight: 600;
+        }
 
-        .original-link-btn:hover {
+        .tab:hover:not(.active) {
+            border-color: var(--sand-light);
+            color: var(--sand-dark);
+            background: var(--sand-50);
+        }
+        
+        .tutorial {
+            display: none;
+        }
+        
+        .tutorial.active {
+            display: block;
+        }
+        
+        .step {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 14px;
+            padding: 16px;
+            background: var(--sand-50);
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--border);
+            transition: all 0.2s ease;
+        }
+
+        .step:hover {
+            border-color: var(--sand-light);
+            background: var(--sand-100);
+        }
+        
+        .step-number {
+            width: 30px;
+            height: 30px;
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
+            margin-right: 12px;
+            flex-shrink: 0;
+            box-shadow: 0 2px 6px rgba(212, 163, 115, 0.3);
+            position: relative;
+        }
+
+        .step-number::after {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 6px;
+            width: 10px;
+            height: 6px;
+            background: rgba(255,255,255,0.3);
+            border-radius: 50%;
+            transform: rotate(-30deg);
+        }
+        
+        .step-text {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            padding-top: 4px;
+        }
+        
+        .feature-list {
+            list-style: none;
+        }
+        
+        .feature-list li {
+            display: flex;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+        
+        .feature-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .check-icon {
+            color: var(--forest);
+            margin-right: 10px;
+            font-size: 18px;
+            font-weight: 700;
+        }
+        
+        .footer {
+            padding: 20px 30px;
+            background: var(--bg-warm);
+            text-align: center;
+            font-size: 12px;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border);
+            line-height: 1.8;
+        }
+        
+        .source-info {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+        }
+        
+        .exhibition-card {
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            padding: 16px;
+            margin-bottom: 12px;
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--sand-primary);
+            box-shadow: var(--shadow-sm);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            animation: card-fade-in 0.3s ease-out backwards;
+        }
+
+        @keyframes card-fade-in {
+            from {
+                opacity: 0;
+                transform: translateY(6px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .exhibition-card:hover {
             transform: translateY(-2px);
-            box-shadow: 0 6px 16px rgba(212, 163, 115, 0.4);
+            box-shadow: var(--shadow-md);
+            border-color: var(--sand-light);
+        }
+
+        .exhibition-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 60px;
+            height: 60px;
+            background: radial-gradient(circle at top right, rgba(212, 163, 115, 0.06), transparent 70%);
+            pointer-events: none;
+        }
+        
+        .exhibition-card.szcec {
+            border-left-color: var(--sand-primary);
+        }
+        
+        .exhibition-card.shenzhen_world {
+            border-left-color: var(--ocean);
+        }
+        
+        .exhibition-title {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+        
+        .exhibition-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            font-size: 12px;
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+        }
+        
+        .exhibition-meta span {
+            display: flex;
+            align-items: center;
+        }
+        
+        .exhibition-meta span::before {
+            content: '';
+            display: inline-block;
+            width: 4px;
+            height: 4px;
+            background: var(--text-muted);
+            border-radius: 50%;
+            margin-right: 6px;
+        }
+        
+        .exhibition-desc {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 12px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        
+        .exhibition-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 7px 14px;
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-radius: var(--radius-md);
+            font-size: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        .exhibition-link:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 10px rgba(212, 163, 115, 0.3);
+        }
+
+        .exhibition-link:active {
+            transform: translateY(0);
+        }
+        
+        .exhibition-count {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+            text-align: right;
         }
     </style>
     <!-- 不蒜子统计 -->
@@ -1049,10 +563,8 @@
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();
-
     _hmt.push(['_setCustomVar', 1, 'UserType', 'Anonymous', 3]);
     _hmt.push(['_setCustomVar', 2, 'Privacy', 'NoPersonalInfo', 3]);
-
     function trackEvent(category, action, label) {
         if (window._hmt) {
             _hmt.push(['_trackEvent', category, action, label]);
@@ -1062,1274 +574,360 @@
     </script>
 </head>
 <body>
-    <div class="header">
-        <div class="header-top">
-            <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
-            <a href="https://islon.github.io/goout/" class="subscribe-link" target="_blank">📅 订阅日程</a>
-        </div>
-        <h1>👨‍👩‍👧‍👦 童行</h1>
-        <div class="header-subtitle">深圳亲子活动日历 · 真实 · 可溯源</div>
-        <div class="visit-stats" style="font-size: 12px; color: rgba(255,255,255,0.75); margin-top: 10px; text-align: center;">
-            <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
-            <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
-        </div>
-        <div style="font-size: 11px; opacity: 0.7; text-align: center; margin-top: 4px;">
-            📊 本站使用匿名统计，不收集任何个人信息
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="search-container">
-            <span class="search-icon">🔍</span>
-            <input type="text" class="search-input" id="search-input" placeholder="搜索活动名称、地点..." oninput="handleSearch()">
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">时间筛选</div>
-        <div class="filter-bar" id="time-filter-bar">
-            <button class="filter-btn" data-filter="upcoming">最近活动</button>
-            <button class="filter-btn" data-filter="today">今天</button>
-            <button class="filter-btn" data-filter="tomorrow">明天</button>
-            <button class="filter-btn" data-filter="week">本周</button>
-            <button class="filter-btn" data-filter="month">本月</button>
-            <button class="filter-btn" data-filter="next_month">下月</button>
-            <button class="filter-btn" data-filter="all">全部活动</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">亲子筛选</div>
-        <div class="filter-bar" id="family-filter-bar">
-            <button class="filter-btn" data-family="all">全部活动</button>
-            <button class="filter-btn" data-family="family">适合亲子</button>
-            <button class="filter-btn" data-family="other">其他活动</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">类型筛选</div>
-        <div class="filter-bar" id="type-filter-bar">
-            <button class="filter-btn" data-type="all">全部类型</button>
-            <button class="filter-btn" data-type="展览">展览</button>
-            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
-            <button class="filter-btn" data-type="科普活动">科普活动</button>
-            <button class="filter-btn" data-type="演出">演出</button>
-            <button class="filter-btn" data-type="影视放映">影视放映</button>
-            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
-            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">区县</div>
-        <div class="filter-bar" id="district-filter-bar">
-            <button class="filter-btn" data-district="all">全部区县</button>
-            <button class="filter-btn" data-district="宝安区">宝安区</button>
-            <button class="filter-btn" data-district="福田区">福田区</button>
-            <button class="filter-btn" data-district="南山区">南山区</button>
-            <button class="filter-btn" data-district="坪山区">坪山区</button>
-            <button class="filter-btn" data-district="光明区">光明区</button>
-            <button class="filter-btn" data-district="盐田区">盐田区</button>
-            <button class="filter-btn" data-district="大鹏新区">大鹏新区</button>
-            <button class="filter-btn" data-district="龙岗区">龙岗区</button>
-            <button class="filter-btn" data-district="龙华区">龙华区</button>
-            <button class="filter-btn" data-district="罗湖区">罗湖区</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile filter-section-mobile--right-align">
-        <div class="filter-label">地点</div>
-        <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
-            <button class="filter-btn" data-source="all">全部地点</button>
-            <!-- 市级核心场馆 -->
-            <button class="filter-btn" data-source="szlib">深圳图书馆</button>
-            <button class="filter-btn" data-source="sz_children_lib">深圳少儿图书馆</button>
-            <button class="filter-btn" data-source="szbwg">深圳博物馆</button>
-            <button class="filter-btn" data-source="szstm">深圳科学技术馆</button>
-            <button class="filter-btn" data-source="szcp">深圳市少年宫</button>
-            <button class="filter-btn" data-source="szaac">深圳市青少年活动中心</button>
-            <button class="filter-btn" data-source="sznm">深圳自然博物馆</button>
-            <button class="filter-btn" data-source="szbo">深圳滨海艺术中心</button>
-            <button class="filter-btn" data-source="szconcert">深圳音乐厅</button>
-            <button class="filter-btn" data-source="szmocap">当代艺术与城市规划馆</button>
-            <button class="filter-btn" data-source="szsports">深圳市体育中心</button>
-            <button class="filter-btn" data-source="szmassart">深圳市文化馆</button>
-            <!-- 区级图书馆 -->
-            <button class="filter-btn" data-source="nslib">南山图书馆</button>
-            <button class="filter-btn" data-source="balib">宝安图书馆</button>
-            <button class="filter-btn" data-source="ftlib">福田区图书馆</button>
-            <button class="filter-btn" data-source="lhlib">罗湖区图书馆</button>
-            <button class="filter-btn" data-source="lglib">龙岗区图书馆</button>
-            <button class="filter-btn" data-source="lhxqlib">龙华区图书馆</button>
-            <button class="filter-btn" data-source="gmlib">光明区图书馆</button>
-            <button class="filter-btn" data-source="pslib">坪山区图书馆</button>
-            <button class="filter-btn" data-source="ytlib">盐田区图书馆</button>
-            <button class="filter-btn" data-source="dplib">大鹏新区图书馆</button>
-            <!-- 区级博物馆与科普馆 -->
-            <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
-            <button class="filter-btn" data-source="lgmuseum">龙岗区博物馆</button>
-            <button class="filter-btn" data-source="bamuseum">宝安区博物馆</button>
-            <button class="filter-btn" data-source="lhmuseum">龙华区博物馆</button>
-            <button class="filter-btn" data-source="lhmuseum2">罗湖区博物馆</button>
-            <button class="filter-btn" data-source="dpgeopark">大鹏地质公园博物馆</button>
-            <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
-            <button class="filter-btn" data-source="lgkjg">龙岗区科技馆</button>
-            <button class="filter-btn" data-source="lhkjg">龙华区科技馆</button>
-            <button class="filter-btn" data-source="ytkjg">盐田区科技馆</button>
-            <button class="filter-btn" data-source="gm_kjg">光明区科技馆</button>
-            <!-- 青少年宫 -->
-            <button class="filter-btn" data-source="baoan_qsng">宝安区青少年宫</button>
-            <button class="filter-btn" data-source="nsqsng">南山区青少年活动中心</button>
-            <button class="filter-btn" data-source="lgqsng">龙岗区青少年宫</button>
-            <button class="filter-btn" data-source="lhqsng">龙华区青少年宫</button>
-            <button class="filter-btn" data-source="lhqsng2">罗湖区青少年活动中心</button>
-            <button class="filter-btn" data-source="gmqsng">光明区青少年活动中心</button>
-            <button class="filter-btn" data-source="psqsng">坪山区青少年宫</button>
-            <!-- 区级体育中心 -->
-            <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
-            <button class="filter-btn" data-source="nswtzx">南山文体中心</button>
-            <button class="filter-btn" data-source="szwty">深圳湾体育中心</button>
-            <button class="filter-btn" data-source="lhtyzx">龙岗体育中心</button>
-            <button class="filter-btn" data-source="lhwtx">龙华文体中心</button>
-            <button class="filter-btn" data-source="gmtyzx">光明区群众体育中心</button>
-            <button class="filter-btn" data-source="lhtyzx2">罗湖区体育中心</button>
-            <button class="filter-btn" data-source="pstyzx">坪山体育中心</button>
-            <button class="filter-btn" data-source="yttyzx">盐田体育中心</button>
-            <!-- 其他公立场馆 -->
-            <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
-            <button class="filter-btn" data-source="baoan_1990">宝安1990文化馆</button>
-            <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
-            <button class="filter-btn" data-source="baoan_guihua">宝安城市规划展览馆</button>
-            <button class="filter-btn" data-source="lgguihua">龙岗城市规划展览馆</button>
-            <button class="filter-btn" data-source="nsguihua">南山城市规划展览馆</button>
-            <button class="filter-btn" data-source="lh_printmaking">中国版画博物馆</button>
-            <button class="filter-btn" data-source="nsaqjy">南山安全教育体验馆</button>
-            <button class="filter-btn" data-source="skhykpg">蛇口海洋科普馆</button>
-        </div>
-        <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">收费筛选</div>
-        <div class="filter-bar" id="fee-filter-bar">
-            <button class="filter-btn" data-fee="all">全部</button>
-            <button class="filter-btn" data-fee="free">免费</button>
-            <button class="filter-btn" data-fee="paid">收费</button>
-        </div>
-    </div>
-
-    <div class="main-wrapper">
-        <aside class="sidebar">
-            <div class="sidebar-card">
-                <div class="sidebar-title">🔍 搜索</div>
-                <div class="search-container">
-                    <span class="search-icon">🔍</span>
-                    <input type="text" class="search-input" id="search-input-desktop" placeholder="搜索活动..." oninput="handleSearch()">
+    <div class="container">
+        <div class="header">
+            <div class="header-top">
+                <div class="header-links">
+                    <a href="https://islon.github.io/goout/" class="schedule-link" target="_blank">📅 查看日程</a>
+                    <a href="https://islon.github.io/goout/data-review.html" class="data-review-link" target="_blank">📋 数据审核</a>
                 </div>
+                <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="feedback-btn" target="_blank" rel="noopener">📝 反馈</a>
             </div>
-
-            <div class="sidebar-card">
-                <div class="sidebar-title">📅 时间筛选</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-filter="upcoming">最近活动</button>
-                    <button class="filter-btn" data-filter="today">今天</button>
-                    <button class="filter-btn" data-filter="tomorrow">明天</button>
-                    <button class="filter-btn" data-filter="week">本周</button>
-                    <button class="filter-btn" data-filter="month">本月</button>
-                    <button class="filter-btn" data-filter="next_month">下月</button>
-                    <button class="filter-btn" data-filter="all">全部活动</button>
-                </div>
-            </div>
-
-            <div class="sidebar-card">
-                <div class="sidebar-title">🏷️ 类型筛选</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-type="all">全部类型</button>
-            <button class="filter-btn" data-type="展览">展览</button>
-            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
-            <button class="filter-btn" data-type="科普活动">科普活动</button>
-            <button class="filter-btn" data-type="演出">演出</button>
-            <button class="filter-btn" data-type="影视放映">影视放映</button>
-            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
-            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
-                </div>
-            </div>
-
-            <div class="sidebar-card">
-                <div class="sidebar-title">🌆 区县</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-district="all">全部区县</button>
-                    <button class="filter-btn" data-district="宝安区">宝安区</button>
-                    <button class="filter-btn" data-district="福田区">福田区</button>
-                    <button class="filter-btn" data-district="南山区">南山区</button>
-                    <button class="filter-btn" data-district="坪山区">坪山区</button>
-                    <button class="filter-btn" data-district="光明区">光明区</button>
-                    <button class="filter-btn" data-district="盐田区">盐田区</button>
-                    <button class="filter-btn" data-district="大鹏新区">大鹏新区</button>
-                    <button class="filter-btn" data-district="龙岗区">龙岗区</button>
-                    <button class="filter-btn" data-district="龙华区">龙华区</button>
-                    <button class="filter-btn" data-district="罗湖区">罗湖区</button>
-                </div>
-            </div>
-
-            <div class="sidebar-card">
-                <div class="sidebar-title">📍 地点</div>
-                <div class="filter-bar sidebar-source-filter-collapsed" id="sidebar-source-filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-source="all">全部地点</button>
-                    <!-- 市级核心场馆 -->
-                    <button class="filter-btn" data-source="szlib">深圳图书馆</button>
-                    <button class="filter-btn" data-source="sz_children_lib">深圳少儿图书馆</button>
-                    <button class="filter-btn" data-source="szbwg">深圳博物馆</button>
-                    <button class="filter-btn" data-source="szstm">深圳科学技术馆</button>
-                    <button class="filter-btn" data-source="szcp">深圳市少年宫</button>
-                    <button class="filter-btn" data-source="szaac">深圳市青少年活动中心</button>
-                    <button class="filter-btn" data-source="sznm">深圳自然博物馆</button>
-                    <button class="filter-btn" data-source="szbo">深圳滨海艺术中心</button>
-                    <button class="filter-btn" data-source="szconcert">深圳音乐厅</button>
-                    <button class="filter-btn" data-source="szmocap">当代艺术与城市规划馆</button>
-                    <button class="filter-btn" data-source="szsports">深圳市体育中心</button>
-                    <button class="filter-btn" data-source="szmassart">深圳市文化馆</button>
-                    <!-- 区级图书馆 -->
-                    <button class="filter-btn" data-source="nslib">南山图书馆</button>
-                    <button class="filter-btn" data-source="balib">宝安图书馆</button>
-                    <button class="filter-btn" data-source="ftlib">福田区图书馆</button>
-                    <button class="filter-btn" data-source="lhlib">罗湖区图书馆</button>
-                    <button class="filter-btn" data-source="lglib">龙岗区图书馆</button>
-                    <button class="filter-btn" data-source="lhxqlib">龙华区图书馆</button>
-                    <button class="filter-btn" data-source="gmlib">光明区图书馆</button>
-                    <button class="filter-btn" data-source="pslib">坪山区图书馆</button>
-                    <button class="filter-btn" data-source="ytlib">盐田区图书馆</button>
-                    <button class="filter-btn" data-source="dplib">大鹏新区图书馆</button>
-                    <!-- 区级博物馆与科普馆 -->
-                    <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
-                    <button class="filter-btn" data-source="lgmuseum">龙岗区博物馆</button>
-                    <button class="filter-btn" data-source="bamuseum">宝安区博物馆</button>
-                    <button class="filter-btn" data-source="lhmuseum">龙华区博物馆</button>
-                    <button class="filter-btn" data-source="lhmuseum2">罗湖区博物馆</button>
-                    <button class="filter-btn" data-source="dpgeopark">大鹏地质公园博物馆</button>
-                    <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
-                    <button class="filter-btn" data-source="lgkjg">龙岗区科技馆</button>
-                    <button class="filter-btn" data-source="lhkjg">龙华区科技馆</button>
-                    <button class="filter-btn" data-source="ytkjg">盐田区科技馆</button>
-                    <button class="filter-btn" data-source="gm_kjg">光明区科技馆</button>
-                    <!-- 青少年宫 -->
-                    <button class="filter-btn" data-source="baoan_qsng">宝安区青少年宫</button>
-                    <button class="filter-btn" data-source="nsqsng">南山区青少年活动中心</button>
-                    <button class="filter-btn" data-source="lgqsng">龙岗区青少年宫</button>
-                    <button class="filter-btn" data-source="lhqsng">龙华区青少年宫</button>
-                    <button class="filter-btn" data-source="lhqsng2">罗湖区青少年活动中心</button>
-                    <button class="filter-btn" data-source="gmqsng">光明区青少年活动中心</button>
-                    <button class="filter-btn" data-source="psqsng">坪山区青少年宫</button>
-                    <!-- 区级体育中心 -->
-                    <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
-                    <button class="filter-btn" data-source="nswtzx">南山文体中心</button>
-                    <button class="filter-btn" data-source="szwty">深圳湾体育中心</button>
-                    <button class="filter-btn" data-source="lhtyzx">龙岗体育中心</button>
-                    <button class="filter-btn" data-source="lhwtx">龙华文体中心</button>
-                    <button class="filter-btn" data-source="gmtyzx">光明区群众体育中心</button>
-                    <button class="filter-btn" data-source="lhtyzx2">罗湖区体育中心</button>
-                    <button class="filter-btn" data-source="pstyzx">坪山体育中心</button>
-                    <button class="filter-btn" data-source="yttyzx">盐田体育中心</button>
-                    <!-- 其他公立场馆 -->
-                    <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
-                    <button class="filter-btn" data-source="baoan_1990">宝安1990文化馆</button>
-                    <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
-                    <button class="filter-btn" data-source="baoan_guihua">宝安城市规划展览馆</button>
-                    <button class="filter-btn" data-source="lgguihua">龙岗城市规划展览馆</button>
-                    <button class="filter-btn" data-source="nsguihua">南山城市规划展览馆</button>
-                    <button class="filter-btn" data-source="lh_printmaking">中国版画博物馆</button>
-                    <button class="filter-btn" data-source="nsaqjy">南山安全教育体验馆</button>
-                    <button class="filter-btn" data-source="skhykpg">蛇口海洋科普馆</button>
-                </div>
-                <button class="sidebar-expand-btn" id="sidebar-source-expand-btn" onclick="toggleSidebarSourceFilter()">展开更多 ▼</button>
-            </div>
-
-            <div class="sidebar-card">
-                <div class="sidebar-title">💰 收费类型</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-fee="all">全部</button>
-                    <button class="filter-btn" data-fee="free">免费</button>
-                    <button class="filter-btn" data-fee="paid">收费</button>
-                </div>
-            </div>
-
-            <div class="sidebar-card">
-                <div class="sidebar-title">👨‍👩‍👧‍👦 亲子筛选</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-family="all">全部活动</button>
-                    <button class="filter-btn" data-family="family">适合亲子</button>
-                    <button class="filter-btn" data-family="other">其他活动</button>
-                </div>
-            </div>
-
-            <div class="sidebar-card">
-                <button class="clear-filters-btn" onclick="clearAllFilters()">🗑️ 清除所有筛选</button>
-            </div>
-        </aside>
-
-        <main class="content">
-            <div class="count-info" id="count-info">加载中...</div>
-            <div class="exhibition-grid" id="exhibition-list">
-                <div class="loading">加载中...</div>
-            </div>
-        </main>
-    </div>
-
-    <div class="modal-overlay" id="modal-overlay">
-        <div class="modal">
-            <div class="modal-header">
-                <div>
-                    <div class="modal-title" id="modal-title"></div>
-                    <div class="modal-badges" id="modal-badges"></div>
-                </div>
-                <button class="modal-close" onclick="closeModal()">×</button>
-            </div>
-            <div class="modal-body" id="modal-body"></div>
+            <div class="icon">👨‍👩‍👧‍👦</div>
+            <h1>童行</h1>
+            <p>最好的成长是一路相伴</p>
+            <p style="font-size: 13px; opacity: 0.8;">建议使用浏览器，微信里面打开可能无法订阅</p>
         </div>
-    </div>
-
-    <script>
-        let allExhibitions = [];
-        let currentTimeFilter = localStorage.getItem('schedule_time_filter') || 'upcoming';
-        let currentSourceFilter = localStorage.getItem('schedule_source_filter') || 'all';
-        let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
-        let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
-        let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
-        let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'all';
-        let currentSearchQuery = '';
-        let currentPage = 1;
-        const PAGE_SIZE = 50;
-        let filteredExhibitions = [];
-
-        const districtMapping = {
-            // 市级核心场馆
-            'szlib': '福田区',
-            'sz_children_lib': '福田区',
-            'szbwg': '福田区',
-            'szstm': '光明区',
-            'szcp': '福田区',
-            'szaac': '福田区',
-            'sznm': '坪山区',
-            'szbo': '宝安区',
-            'szconcert': '福田区',
-            'szmocap': '福田区',
-            'szsports': '福田区',
-            'szmassart': '福田区',
-            // 区级图书馆
-            'nslib': '南山区',
-            'balib': '宝安区',
-            'ftlib': '福田区',
-            'lhlib': '罗湖区',
-            'lglib': '龙岗区',
-            'lhxqlib': '龙华区',
-            'gmlib': '光明区',
-            'pslib': '坪山区',
-            'ytlib': '盐田区',
-            'dplib': '大鹏新区',
-            // 区级博物馆与科普馆
-            'nsmuseum': '南山区',
-            'lgmuseum': '龙岗区',
-            'bamuseum': '宝安区',
-            'lhmuseum': '龙华区',
-            'lhmuseum2': '罗湖区',
-            'dpgeopark': '大鹏新区',
-            'baoan_kjg': '宝安区',
-            'lgkjg': '龙岗区',
-            'lhkjg': '龙华区',
-            'ytkjg': '盐田区',
-            'gm_kjg': '光明区',
-            // 青少年宫
-            'baoan_qsng': '宝安区',
-            'nsqsng': '南山区',
-            'lgqsng': '龙岗区',
-            'lhqsng': '龙华区',
-            'lhqsng2': '罗湖区',
-            'gmqsng': '光明区',
-            'psqsng': '坪山区',
-            // 区级体育中心
-            'baoan_ty': '宝安区',
-            'nswtzx': '南山区',
-            'szwty': '南山区',
-            'lhtyzx': '龙岗区',
-            'lhwtx': '龙华区',
-            'gmtyzx': '光明区',
-            'lhtyzx2': '罗湖区',
-            'pstyzx': '坪山区',
-            'yttyzx': '盐田区',
-            // 其他公立场馆
-            'nswhg': '南山区',
-            'baoan_1990': '宝安区',
-            'bayarea_eye': '宝安区',
-            'baoan_guihua': '宝安区',
-            'lgguihua': '龙岗区',
-            'nsguihua': '南山区',
-            'lh_printmaking': '龙华区',
-            'nsaqjy': '南山区',
-            'skhykpg': '南山区',
-            // 旧字段兼容
-            'szcec': '福田区',
-            'shenzhen_world': '宝安区',
-            'ps_nature': '坪山区',
-            'gm_lib': '光明区',
-            'yt_lib': '盐田区',
-            'yt_history': '盐田区',
-            'dp_geopark': '大鹏新区',
-            'dp_nuclear': '大鹏新区',
-            'sz_safety': '福田区',
-            'oct_wetland': '南山区',
-            'lg_hakka': '龙岗区',
-            'lh_ecology': '龙华区',
-            'lh_paleo': '罗湖区',
-            'sarc': '南山区',
-            'ntgc': '南山区',
-            'zsjbwg': '南山区',
-            'nssxf': '南山区',
-        };
-
-        function getDistrict(source) {
-            return districtMapping[source] || '其他';
-        }
-
-        // source key 到场馆名的映射（用于筛选匹配）
-        const sourceToVenue = {
-            'szlib': '深圳图书馆', 'sz_children_lib': '深圳少儿图书馆', 'szbwg': '深圳博物馆',
-            'szstm': '深圳科学技术馆', 'szcp': '深圳市少年宫', 'szaac': '深圳市青少年活动中心',
-            'sznm': '深圳自然博物馆', 'szbo': '深圳滨海艺术中心', 'szconcert': '深圳音乐厅',
-            'szmocap': '当代艺术与城市规划馆', 'szsports': '深圳市体育中心', 'szmassart': '深圳市文化馆',
-            'nslib': '南山图书馆', 'balib': '宝安图书馆', 'ftlib': '福田区图书馆',
-            'lhlib': '罗湖区图书馆', 'lglib': '龙岗区图书馆', 'lhxqlib': '龙华区图书馆',
-            'gmlib': '光明区图书馆', 'pslib': '坪山区图书馆', 'ytlib': '盐田区图书馆',
-            'dplib': '大鹏新区图书馆', 'nsmuseum': '南山博物馆', 'lgmuseum': '龙岗区博物馆',
-            'bamuseum': '宝安区博物馆', 'lhmuseum': '龙华区博物馆', 'lhmuseum2': '罗湖区博物馆',
-            'dpgeopark': '大鹏地质公园博物馆', 'baoan_kjg': '宝安科技馆', 'lgkjg': '龙岗区科技馆',
-            'lhkjg': '龙华区科技馆', 'ytkjg': '盐田区科技馆', 'gm_kjg': '光明区科技馆',
-            'baoan_qsng': '宝安区青少年宫', 'nsqsng': '南山区青少年活动中心',
-            'lgqsng': '龙岗区青少年宫', 'lhqsng': '龙华区青少年宫',
-            'lhqsng2': '罗湖区青少年活动中心', 'gmqsng': '光明区青少年活动中心',
-            'psqsng': '坪山区青少年宫', 'baoan_ty': '宝安体育中心', 'nswtzx': '南山文体中心',
-            'szwty': '深圳湾体育中心', 'lhtyzx': '龙岗体育中心', 'lhwtx': '龙华文体中心',
-            'gmtyzx': '光明区群众体育中心', 'lhtyzx2': '罗湖区体育中心',
-            'pstyzx': '坪山体育中心', 'yttyzx': '盐田体育中心',
-            'nswhg': '南山区文化馆', 'baoan_1990': '宝安1990文化馆',
-            'bayarea_eye': '湾区之眼', 'baoan_guihua': '宝安城市规划展览馆',
-            'lgguihua': '龙岗城市规划展览馆', 'nsguihua': '南山城市规划展览馆',
-            'lh_printmaking': '中国版画博物馆', 'nsaqjy': '南山安全教育体验馆',
-            'skhykpg': '蛇口海洋科普馆',
-        };
-
-        function matchSource(exhibition, sourceKey) {
-            if (exhibition.source === sourceKey) return true;
-            const venueName = sourceToVenue[sourceKey];
-            if (venueName && exhibition.venue && exhibition.venue.includes(venueName)) return true;
-            return false;
-        }
-
-        function getFeeType(exhibition) {
-            const name = exhibition.name || '';
-            const desc = exhibition.description || '';
-            const venue = exhibition.venue || '';
-            
-            const freeKeywords = ['免费', '公益', '免门票', '免费开放', '免费参与'];
-            const paidKeywords = ['收费', '门票', '购票', '票价', '预售', '报名费用', '￥', '元'];
-            
-            if (freeKeywords.some(kw => name.includes(kw) || desc.includes(kw))) {
-                return 'free';
-            }
-            
-            if (paidKeywords.some(kw => name.includes(kw) || desc.includes(kw))) {
-                return 'paid';
-            }
-            
-            const freeVenues = ['图书馆', '宝安科技馆', '湾区之眼'];
-            if (freeVenues.some(v => venue.includes(v))) {
-                return 'free';
-            }
-            
-            const paidVenues = ['会展中心', '体育馆', '体育场', '体育中心'];
-            if (paidVenues.some(v => venue.includes(v))) {
-                return 'paid';
-            }
-            
-            return 'unknown';
-        }
-
-        function getActivityType(exhibition) {
-            if (exhibition.category) {
-                return exhibition.category;
-            }
-            const name = exhibition.name || '';
-            const venue = exhibition.venue || '';
-
-            if (venue.includes('体育') || name.includes('比赛') || name.includes('健身') || 
-                name.includes('运动') || name.includes('足球') || name.includes('篮球') ||
-                name.includes('羽毛球') || name.includes('乒乓球') || name.includes('网球') ||
-                name.includes('游泳') || name.includes('田径') || name.includes('马拉松') ||
-                name.includes('瑜伽') || name.includes('舞蹈') || name.includes('武术')) {
-                return '体育赛事';
-            }
-
-            if (venue.includes('科技馆') || name.includes('科学') || name.includes('科普') ||
-                name.includes('科技') || name.includes('机器人') || name.includes('编程') ||
-                name.includes('3D打印') || name.includes('VR') || name.includes('创客')) {
-                return '科普活动';
-            }
-
-            if (venue.includes('湾区之眼') || name.includes('艺术') || name.includes('展览') ||
-                name.includes('画展') || name.includes('摄影') || name.includes('雕塑')) {
-                return '展览';
-            }
-
-            if (venue.includes('图书馆') || name.includes('讲座') || name.includes('故事会') ||
-                name.includes('阅读') || name.includes('沙龙') || name.includes('分享')) {
-                return '讲座阅读';
-            }
-
-            if (name.includes('亲子') || name.includes('儿童') || name.includes('手工') ||
-                name.includes('夏令营') || name.includes('嘉年华')) {
-                return '亲子活动';
-            }
-
-            if (name.includes('音乐会') || name.includes('演唱会') || name.includes('话剧') ||
-                name.includes('歌剧') || name.includes('演出') || name.includes('演奏')) {
-                return '演出';
-            }
-
-            if (name.includes('电影') || name.includes('放映') || name.includes('观影')) {
-                return '影视放映';
-            }
-
-            if (name.includes('展览') || name.includes('展')) {
-                return '展览';
-            }
-
-            return '展览';
-        }
-
-        function getTypeLabel(type) {
-            return type || '其他';
-        }
-
-        function getFilteredExhibitions() {
-            const now = new Date();
-            const currentYear = now.getFullYear();
-            const currentMonth = now.getMonth();
-            const currentDay = now.getDate();
-            const today = now.toISOString().split('T')[0];
-
-            let filtered = allExhibitions;
-
-            if (currentSearchQuery) {
-                const query = currentSearchQuery.toLowerCase();
-                filtered = filtered.filter(e => 
-                    (e.name || '').toLowerCase().includes(query) ||
-                    (e.venue || '').toLowerCase().includes(query) ||
-                    (e.description || '').toLowerCase().includes(query)
-                );
-            }
-
-            if (currentDistrictFilter !== 'all') {
-                filtered = filtered.filter(e => getDistrict(e.source) === currentDistrictFilter);
-            }
-
-            if (currentSourceFilter !== 'all') {
-                filtered = filtered.filter(e => matchSource(e, currentSourceFilter));
-            }
-
-            if (currentFeeFilter !== 'all') {
-                filtered = filtered.filter(e => getFeeType(e) === currentFeeFilter);
-            }
-
-            if (currentTypeFilter !== 'all') {
-                filtered = filtered.filter(e => getActivityType(e) === currentTypeFilter);
-            }
-
-            if (currentFamilyFriendlyFilter === 'family') {
-                filtered = filtered.filter(e => e.family_friendly === true);
-            } else if (currentFamilyFriendlyFilter === 'other') {
-                filtered = filtered.filter(e => e.family_friendly !== true);
-            }
-
-            switch (currentTimeFilter) {
-                case 'today':
-                    return filtered.filter(e => e.start_date === today || 
-                        (e.start_date <= today && e.end_date >= today));
-
-                case 'tomorrow':
-                    const tomorrow = new Date(now);
-                    tomorrow.setDate(currentDay + 1);
-                    const tomorrowStr = tomorrow.toISOString().split('T')[0];
-                    return filtered.filter(e => e.start_date === tomorrowStr ||
-                        (e.start_date <= tomorrowStr && e.end_date >= tomorrowStr));
-
-                case 'week':
-                    const weekLater = new Date(now);
-                    weekLater.setDate(currentDay + 7);
-                    const weekLaterStr = weekLater.toISOString().split('T')[0];
-                    return filtered.filter(e => e.start_date <= weekLaterStr && e.end_date >= today);
-
-                case 'upcoming':
-                    return filtered.filter(e => e.start_date >= today);
-
-                case 'month':
-                    return filtered.filter(e => {
-                        const date = new Date(e.start_date);
-                        return date.getFullYear() === currentYear && date.getMonth() === currentMonth;
-                    });
-
-                case 'next_month':
-                    let nextMonth = currentMonth + 1;
-                    let nextYear = currentYear;
-                    if (nextMonth > 11) {
-                        nextMonth = 0;
-                        nextYear++;
-                    }
-                    return filtered.filter(e => {
-                        const date = new Date(e.start_date);
-                        return date.getFullYear() === nextYear && date.getMonth() === nextMonth;
-                    });
-
-                case 'all':
-                default:
-                    return filtered;
-            }
-        }
-
-        function formatDate(dateStr) {
-            const date = new Date(dateStr);
-            const year = date.getFullYear();
-            const month = date.getMonth() + 1;
-            const day = date.getDate();
-            const weekDays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
-            const weekDay = weekDays[date.getDay()];
-            return `${month}月${day}日 ${weekDay}`;
-        }
-
-        function getDuration(startDate, endDate) {
-            if (startDate === endDate) return '1天';
-            const start = new Date(startDate);
-            const end = new Date(endDate);
-            const days = Math.floor((end - start) / (1000 * 60 * 60 * 24)) + 1;
-            return `${days}天`;
-        }
-
-        function getDateBadge(startDate) {
-            const now = new Date();
-            const today = now.toISOString().split('T')[0];
-            const tomorrow = new Date(now);
-            tomorrow.setDate(now.getDate() + 1);
-            const tomorrowStr = tomorrow.toISOString().split('T')[0];
-
-            if (startDate === today) return '<div class="date-badge today">今天</div>';
-            if (startDate === tomorrowStr) return '<div class="date-badge tomorrow">明天</div>';
-            
-            const diffDays = Math.floor((new Date(startDate) - now) / (1000 * 60 * 60 * 24));
-            if (diffDays >= 0 && diffDays <= 7) return '<div class="date-badge upcoming">即将开始</div>';
-            
-            return '';
-        }
-
-        function renderExhibitions() {
-            const listContainer = document.getElementById('exhibition-list');
-            const countInfo = document.getElementById('count-info');
-
-            const filtered = getFilteredExhibitions();
-            filtered.sort((a, b) => a.start_date.localeCompare(b.start_date));
-            filteredExhibitions = filtered;
-
-            if (currentPage > Math.ceil(filtered.length / PAGE_SIZE)) {
-                currentPage = 1;
-            }
-
-            const startIdx = (currentPage - 1) * PAGE_SIZE;
-            const endIdx = Math.min(startIdx + PAGE_SIZE, filtered.length);
-            const pageItems = filtered.slice(startIdx, endIdx);
-            const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
-
-            countInfo.textContent = `共 ${filtered.length} 个活动（第 ${currentPage}/${totalPages || 1} 页）`;
-
-            if (filtered.length === 0) {
-                listContainer.innerHTML = `
-                    <div class="empty-state">
-                        <div class="icon">📭</div>
-                        <div>该筛选条件下暂无活动</div>
-                        <div style="font-size: 13px; margin-top: 8px; color: #bbb;">试试其他筛选条件</div>
+        
+        <div class="content">
+            <div class="section">
+                <h2>一键订阅</h2>
+                <div class="platform-tabs" style="margin-bottom: 16px;">
+                    <button class="tab active" onclick="switchPlatform('ios')">iOS</button>
+                    <button class="tab" onclick="switchPlatform('android')">Android</button>
+                </div>
+                <div id="ios-subscribe">
+                    <a href="webcal://islon.github.io/goout/output/exhibitions.ics" class="subscribe-btn" onclick="trackEvent('订阅', 'iOS添加日历', '一键订阅')">📱 添加到日历</a>
+                </div>
+                <div id="android-subscribe" style="display: none;">
+                    <div style="margin-bottom: 15px; padding: 12px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #e65100; text-align: center;">
+                        💡 安卓订阅方式：推荐使用 Google 日历或 Outlook 日历实现自动更新
                     </div>
-                `;
-                return;
-            }
-
-            let html = '';
-            let currentMonth = '';
-
-            pageItems.forEach((exhibition, localIdx) => {
-                const globalIdx = startIdx + localIdx;
-                const startDate = exhibition.start_date;
-                const endDate = exhibition.end_date;
-                const monthKey = startDate.substring(0, 7);
-
-                if (monthKey !== currentMonth) {
-                    currentMonth = monthKey;
-                    const [year, month] = monthKey.split('-');
-                    html += `<div style="font-size: 16px; font-weight: 600; color: #333; margin: 20px 0 12px; padding-left: 4px; grid-column: 1 / -1;">${year}年${parseInt(month)}月</div>`;
-                }
-
-                const dateBadge = getDateBadge(startDate);
-                const feeType = getFeeType(exhibition);
-                const activityType = getActivityType(exhibition);
-                
-                const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
-                                feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
-                const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
-                const familyBadge = (exhibition.family_friendly === true && activityType !== 'family') ? `<span class="badge family">👶 适合亲子</span>` : '';
-                
-                const dateDisplay = startDate === endDate 
-                    ? formatDate(startDate) 
-                    : `${startDate.substring(5)} ~ ${endDate.substring(5)}`;
-
-                const cardId = exhibition.id || `${exhibition.source}-${exhibition.name}-${startDate}`;
-                html += `
-                    <div class="exhibition-card cat-${activityType}" data-id="${cardId}" data-idx="${globalIdx}">
-                        ${dateBadge}
-                        <div class="exhibition-header">
-                            <div class="exhibition-title">${exhibition.name}</div>
-                            <div class="exhibition-badges">
-                                ${typeBadge}
-                                ${feeBadge}
-                                ${familyBadge}
-                            </div>
-                        </div>
-                        <div class="exhibition-meta">
-                            <span>📅 ${dateDisplay}</span>
-                            <span>⏱️ ${getDuration(startDate, endDate)}</span>
-                            <span>📍 ${exhibition.venue}</span>
-                        </div>
-                        ${exhibition.description
-                            ? `<div class="exhibition-desc">${exhibition.description}</div>`
-                            : `<div class="exhibition-desc empty">暂无详细介绍</div>`}
-                        <div class="exhibition-link">点击查看详情 →</div>
-                    </div>
-                `;
-            });
-
-            if (totalPages > 1) {
-                html += '<div class="pagination" style="grid-column: 1 / -1; display: flex; justify-content: center; align-items: center; gap: 8px; margin: 24px 0 12px; flex-wrap: wrap;">';
-                
-                html += `<button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="goToPage(${currentPage - 1})">上一页</button>`;
-                
-                let startPage = Math.max(1, currentPage - 2);
-                let endPage = Math.min(totalPages, currentPage + 2);
-                if (startPage > 1) {
-                    html += `<button class="page-btn" onclick="goToPage(1)">1</button>`;
-                    if (startPage > 2) html += '<span style="color: #999;">...</span>';
-                }
-                for (let p = startPage; p <= endPage; p++) {
-                    html += `<button class="page-btn ${p === currentPage ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`;
-                }
-                if (endPage < totalPages) {
-                    if (endPage < totalPages - 1) html += '<span style="color: #999;">...</span>';
-                    html += `<button class="page-btn" onclick="goToPage(${totalPages})">${totalPages}</button>`;
-                }
-                
-                html += `<button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="goToPage(${currentPage + 1})">下一页</button>`;
-                html += '</div>';
-            }
-
-            listContainer.innerHTML = html;
+                    <a href="https://islon.github.io/goout/output/exhibitions.ics" class="subscribe-btn" style="margin-bottom: 10px;" onclick="trackEvent('订阅', 'Android下载日历', '离线导入')">📥 下载日历文件（离线导入）</a>
+                    <button onclick="copySubscribeUrl(); trackEvent('订阅', 'Android复制链接', '自动更新')" style="display: block; width: 100%; padding: 14px; background: linear-gradient(135deg, #4285f4 0%, #34a853 100%); color: white; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer;">🔄 复制订阅链接（支持自动更新）</button>
+                </div>
+                <div class="source-info">数据每周自动更新</div>
+            </div>
             
-            document.querySelectorAll('.exhibition-card').forEach(card => {
-                card.addEventListener('click', function() {
-                    const idx = parseInt(this.dataset.idx);
-                    openModal(idx);
+            <div class="section">
+                <h2>订阅教程</h2>
+                
+                <div id="ios-tutorial" class="tutorial active">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「添加到日历」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">系统会自动打开「日历」应用</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">点击「添加全部」完成订阅</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">订阅后日历会自动同步更新</div>
+                    </div>
+                </div>
+                
+                <div id="android-tutorial" class="tutorial">
+                    <div style="margin-bottom: 20px; padding: 16px; background: #ffeb3b; border-radius: 10px; border-left: 4px solid #fbc02d;">
+                        <strong style="color: #f57f17;">⚠️ 大陆品牌日历限制</strong>
+                        <p style="margin-top: 8px; font-size: 13px;">小米、华为、OPPO、vivo 等大陆品牌手机的原生日历不支持通过 URL 订阅并自动更新，仅支持一次性离线导入。</p>
+                        <p style="margin-top: 4px; font-size: 13px;">如需自动同步更新，请使用 Google 日历或 Outlook 日历（方法二、三）。</p>
+                    </div>
                     
-                    if (typeof trackEvent === 'function') {
-                        trackEvent('活动详情', '打开弹窗', filtered[idx].source);
-                    }
-                });
-            });
-
-        }
-
-        function goToPage(page) {
-            const totalPages = Math.ceil(filteredExhibitions.length / PAGE_SIZE);
-            if (page < 1 || page > totalPages || page === currentPage) return;
-            currentPage = page;
-            renderExhibitions();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-
-        const venueAddressMap = {
-            'szcec': '福田区福华三路',
-            'shenzhen_world': '宝安区福海街道展城路1号',
-            'szlib': '福田区福中一路2001号',
-            'balib': '宝安区宝兴路1号',
-            'bayarea_eye': '宝安区宝兴路与海滨广场路交汇处',
-            'baoan_kjg': '宝安区新安街道龙井路123号',
-            'baoan_ty': '宝安区新安街道体育中心',
-            'baoan_guihua': '宝安区宝华路宝安图书馆旁',
-            'baoan_qingshaonian': '宝安区新安街道新安二路70号',
-            'shenzhen_binhai_art': '宝安区宝兴路欢乐港湾',
-            'baoan_zonghe': '宝安区新安街道',
-            'huanle_juchang': '宝安区宝华路欢乐港湾',
-            'baoan_binhai_park': '宝安区新安街道海滨广场',
-            'nslib': '南山区南山大道2093号',
-            'nsmuseum': '南山区南山大道2093号',
-            'nswhg': '南山区艺园路与正风路交汇处',
-            'skhykpg': '南山区南水路18号蛇口大厦副楼2层',
-            'sarc': '南山区科苑南路人才公园',
-            'ntgc': '南山区南头古城内',
-            'zsjbwg': '南山区蛇口街道水湾路',
-            'nsqsng': '南山区后海大道2551号',
-            'nswtzx': '南山区南山大道',
-            'szwty': '南山区滨海大道',
-            'skwtpark': '南山区蛇口街道',
-            'hqcwh': '南山区华侨城片区',
-            'nsaqjy': '南山区南山大道3109号中山公园内',
-            'nssxf': '南山区各街道（前海/留仙洞/西丽/蛇口/高新等）',
-            'rcpy': '南山区科苑南路',
-            'szwgy': '南山区深圳湾沿海',
-            'qhs': '南山区前海桂湾片区',
-            'ps_nature': '坪山区石井街道沙壆片区（地铁16号线沙壆站D出口）',
-            'gm_kjg': '光明区光明街道（地铁6号线光明站D出口）',
-            'gm_lib': '光明区光明街道',
-            'yt_lib': '盐田区海山街道（地铁8号线海山站）',
-            'yt_history': '盐田区沙头角街道中英街内',
-            'dp_geopark': '大鹏新区南澳街道地质公园路7号',
-            'dp_nuclear': '大鹏新区大亚湾核电基地',
-            'sz_children_lib': '福田区莲花街道（地铁3号线莲花村站D出口/10号线冬瓜岭站A出口）',
-            'sz_safety': '福田区梅林街道（地铁9号线下梅林站）',
-            'oct_wetland': '南山区华侨城（地铁1号线华侨城站）',
-            'baoan_1990': '宝安区新安街道（地铁5号线洪浪北站）',
-            'lg_hakka': '龙岗区龙岗街道（地铁3号线双龙站）',
-            'lh_printmaking': '龙华区观澜街道（地铁4号线牛湖站观澜版画村内）',
-            'lh_ecology': '龙华区观澜街道',
-            'lh_paleo': '罗湖区莲塘街道仙湖植物园内',
-            '宝安科技馆': '宝安区新安街道龙井路123号',
-            '宝安区文化馆': '宝安区新安街道龙井路123号',
-            '宝安区青少年宫': '宝安区新安街道新安二路70号',
-            '宝安体育中心': '宝安区新安街道体育中心',
-            '宝安区文化馆燕罗分馆': '宝安区燕罗街道',
-            '大鹏地质公园博物馆': '大鹏新区南澳街道地质公园路7号',
-            '深圳科学技术馆官网': '光明区光明街道（地铁6号线光明站D出口）',
-            '深圳博物馆': '福田区金田路4001号',
-            '龙岗区青少年宫': '龙岗区龙城街道',
-            '龙华区青少年宫': '龙华区观澜街道',
-            '龙岗区博物馆': '龙岗区龙城街道',
-            '深圳图书馆官网': '福田区福中一路2001号',
-            '宝安图书馆官网': '宝安区宝兴路1号',
-            '南山图书馆': '南山区南山大道2093号',
-            '南山区文化馆官网': '南山区艺园路与正风路交汇处',
-            '南山区青少年活动中心': '南山区后海大道2551号',
-            '南山区文化馆': '南山区艺园路与正风路交汇处',
-            '深圳市文化馆官网': '福田区莲花街道',
-            '深圳市体育中心': '福田区笋岗西路2006号',
-            '深圳湾体育中心': '南山区滨海大道3001号',
-            '南山文体中心': '南山区南山大道2093号',
-            '深圳音乐厅官网': '福田区福中一路2016号',
-            '深圳滨海艺术中心官网': '宝安区宝兴路欢乐港湾',
-            '深圳少年儿童图书馆官网': '福田区莲花街道（地铁3号线莲花村站）',
-            '深圳少年儿童图书馆公众号': '福田区莲花街道（地铁3号线莲花村站）',
-            '福田区图书馆官网': '福田区景田路70号',
-            '福田区图书馆': '福田区景田路70号',
-            '罗湖区图书馆官网': '罗湖区怡景路1012号',
-            '龙岗区图书馆官网': '龙岗区龙城街道',
-            '龙华区图书馆官网': '龙华区观澜街道',
-            '坪山区图书馆官网': '坪山区坪山街道',
-            '盐田区图书馆官网': '盐田区海山街道（地铁8号线海山站）',
-            '大鹏新区图书馆官网': '大鹏新区大鹏街道',
-            '光明区图书馆官网': '光明区光明街道',
-            '光明区文化馆': '光明区光明街道',
-            '桃源街道文化服务中心': '南山区桃源街道',
-            '深圳市少年宫官网': '福田区福中一路2002号'
-        };
-
-        function getVenueAddress(source) {
-            return venueAddressMap[source] || '';
-        }
-
-        function openModal(filteredIndex) {
-            const filtered = getFilteredExhibitions();
-            const exhibition = filtered[filteredIndex];
-            const overlay = document.getElementById('modal-overlay');
-            const title = document.getElementById('modal-title');
-            const badges = document.getElementById('modal-badges');
-            const body = document.getElementById('modal-body');
-
-            title.textContent = exhibition.name;
-
-            const feeType = getFeeType(exhibition);
-            const activityType = getActivityType(exhibition);
-            const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
-                            feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
-            const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
-            const familyBadge = (exhibition.family_friendly === true && activityType !== 'family') ? `<span class="badge family">👶 适合亲子</span>` : '';
-            badges.innerHTML = `${typeBadge} ${feeBadge} ${familyBadge}`;
-
-            const startDate = exhibition.start_date;
-            const endDate = exhibition.end_date;
-            const dateDisplay = startDate === endDate 
-                ? formatDate(startDate) 
-                : `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
-
-            body.innerHTML = `
-                <div class="modal-info-row">
-                    <div class="modal-info-label">📅 时间</div>
-                    <div class="modal-info-value">${dateDisplay}</div>
-                </div>
-                <div class="modal-info-row">
-                    <div class="modal-info-label">📍 地点</div>
-                    <div class="modal-info-value">${exhibition.venue}</div>
-                </div>
-                ${getVenueAddress(exhibition.source) ? `
-                <div class="modal-info-row">
-                    <div class="modal-info-label">🏠 地址</div>
-                    <div class="modal-info-value">${getVenueAddress(exhibition.source)}</div>
-                </div>
-                ` : ''}
-                <div class="modal-info-row">
-                    <div class="modal-info-label">⏱️ 时长</div>
-                    <div class="modal-info-value">${getDuration(startDate, endDate)}</div>
-                </div>
-                ${exhibition.description ? `
-                <div class="modal-description">
-                    <div class="modal-desc-title">📝 活动介绍</div>
-                    <div class="modal-desc-content">${exhibition.description}</div>
-                </div>
-                ` : ''}
-                ${exhibition.url ? `
-                <div class="modal-original-link">
-                    <a href="${exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
-                        🔗 查看原始活动详情
-                    </a>
-                    <div style="font-size: 11px; color: #999; margin-top: 6px;" id="click-stats-display"></div>
-                </div>
-                ` : ''}
-                <div class="modal-contact">
-                    <div class="modal-contact-title">📞 联系信息</div>
-                    <div class="modal-contact-info">
-                        ${exhibition.contact ? `<div>电话：${exhibition.contact}</div>` : ''}
-                        ${!exhibition.url && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
+                    <div style="margin-bottom: 20px; padding: 16px; background: #e8f5e9; border-radius: 10px; border-left: 4px solid #4caf50;">
+                        <strong style="color: #2e7d32;">📱 方法一：离线导入（简单）</strong>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「下载日历文件」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">下载完成后点击打开文件</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">选择手机上的日历应用打开</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">点击「确定」或「导入」完成添加</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">5</div>
+                        <div class="step-text"><strong>注意：</strong>这种方式是一次性导入，数据不会自动更新</div>
+                    </div>
+                    
+                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #e3f2fd; border-radius: 10px; border-left: 4px solid #1976d2;">
+                        <strong style="color: #0d47a1;">🔄 方法二：Google 日历（支持自动更新）</strong>
+                    </div>
+                    <div style="margin-bottom: 16px; padding: 12px; background: #fff3e0; border-radius: 8px; border-left: 3px solid #ff9800;">
+                        <div style="font-size: 13px; color: #e65100;">
+                            <strong>📱 手机端注意：</strong>Google 日历 App 不支持通过 URL 添加订阅，需在手机浏览器中打开 <a href="https://calendar.google.com" target="_blank" style="color: #e65100; text-decoration: underline;">calendar.google.com</a> 网页版操作；订阅成功后，可在 Google 日历 App 中查看日历。
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「复制订阅链接」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">在浏览器中打开 Google 日历网页版（<a href="https://calendar.google.com" target="_blank" style="color: #1976d2;">calendar.google.com</a>）</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">点击左侧菜单「其他日历」旁的 ➕ → 添加日历 → 通过 URL 添加</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">粘贴链接并点击「添加日历」，订阅后自动同步更新</div>
+                    </div>
+                    
+                    <div style="margin-top: 24px; margin-bottom: 20px; padding: 16px; background: #fce4ec; border-radius: 10px; border-left: 4px solid #c2185b;">
+                        <strong style="color: #880e4f;">🔄 方法三：Outlook 日历（支持自动更新）</strong>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-text">点击上方「复制订阅链接」按钮</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-text">打开「Outlook」App → 日历</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-text">点击右上角「+」→ 添加日历 → 从 URL</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-text">粘贴链接并添加，订阅后自动同步更新</div>
                     </div>
                 </div>
+            </div>
+            
+            <div class="section">
+                <h2>功能特点</h2>
+                <ul class="feature-list">
+                    <li><span class="check-icon">✓</span>整合深圳两大会展中心数据</li>
+                    <li><span class="check-icon">✓</span>支持 iOS / Android 原生日历</li>
+                    <li><span class="check-icon">✓</span>订阅后自动同步更新</li>
+                    <li><span class="check-icon">✓</span>无需安装任何 App</li>
+                    <li><span class="check-icon">✓</span>零广告，完全免费</li>
+                </ul>
+            </div>
+            
+            <div class="section">
+                <h2>其他提醒方式</h2>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+                    <div style="padding: 14px; background: #e3f2fd; border-radius: 10px; text-align: center;">
+                        <div style="font-size: 24px; margin-bottom: 8px;">📱</div>
+                        <div style="font-size: 13px; font-weight: 600; color: #1976d2;">添加到主屏幕</div>
+                        <div style="font-size: 11px; color: #666; margin-top: 4px;">浏览器菜单 → 添加到主屏幕</div>
+                    </div>
+                    <div style="padding: 14px; background: #e8f5e9; border-radius: 10px; text-align: center;">
+                        <div style="font-size: 24px; margin-bottom: 8px;">🔖</div>
+                        <div style="font-size: 13px; font-weight: 600; color: #2e7d32;">添加书签</div>
+                        <div style="font-size: 11px; color: #666; margin-top: 4px;">定期访问查看最新展览</div>
+                    </div>
+                    <div style="padding: 14px; background: #fce4ec; border-radius: 10px; text-align: center;">
+                        <div style="font-size: 24px; margin-bottom: 8px;">💬</div>
+                        <div style="font-size: 13px; font-weight: 600; color: #c2185b;">微信收藏</div>
+                        <div style="font-size: 11px; color: #666; margin-top: 4px;">分享到微信 → 收藏文章</div>
+                    </div>
+                    <div style="padding: 14px; background: #fff3e0; border-radius: 10px; text-align: center;">
+                        <div style="font-size: 24px; margin-bottom: 8px;">📡</div>
+                        <div style="font-size: 13px; font-weight: 600; color: #e65100;">RSS订阅</div>
+                        <div style="font-size: 11px; color: #666; margin-top: 4px;">使用RSS阅读器订阅更新</div>
+                        <a href="output/exhibitions.rss" style="display: inline-block; margin-top: 8px; padding: 4px 12px; background: #ff9800; color: white; border-radius: 15px; font-size: 11px; text-decoration: none;">订阅RSS</a>
+                    </div>
+                </div>
+                <div style="margin-top: 15px; padding: 12px; background: #f5f5f5; border-radius: 8px; font-size: 12px; color: #666; text-align: center;">
+                    💡 建议：添加到主屏幕后，每次打开即可看到最新展览日程
+                </div>
+            </div>
+            
+            <div class="section">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                    <h2>活动日程</h2>
+                    <a href="https://islon.github.io/goout/" style="padding: 6px 14px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 20px; font-size: 13px; text-decoration: none; font-weight: 500;">查看全部</a>
+                </div>
+                <div id="exhibition-list" style="display: none;">
+                    <div style="text-align: center; padding: 20px; color: #999;">加载中...</div>
+                </div>
+                <div id="exhibition-error" style="display: none; text-align: center; padding: 20px; color: #999;">
+                    加载失败，请稍后重试
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            数据来源：深圳会展中心 | 深圳国际会展中心 | 深圳图书馆 | 宝安图书馆 | 湾区之眼 | 宝安科技馆 | 宝安体育中心 | 南山图书馆 | 南山博物馆 | 南山区文化馆 | 蛇口海洋科普馆 | 深爱人才馆 | 南头古城博物馆群 | 招商局历史博物馆 | 南山区青少年活动中心 | 南山文体中心 | 深圳湾体育中心 | 南山安全教育体验馆 | 南山书房 | 人才公园 | 深圳湾公园 | 前海石公园 | 深圳自然博物馆 | 深圳科学技术馆（光明新馆） | 光明区少年儿童图书馆 | 盐田区图书馆 | 中英街历史博物馆 | 大鹏半岛国家地质公园博物馆 | 大亚湾核能科技馆 | 深圳少年儿童图书馆 | 深圳市安全教育基地 | 华侨城湿地生态展厅 | 宝安1990文化馆 | 龙岗客家民俗博物馆 | 中国版画博物馆 | 龙华生态文明展览馆 | 深圳古生物博物馆
+        </div>
+    </div>
+    
+    <script>
+        function switchPlatform(platform) {
+            document.querySelectorAll('.platform-tabs button').forEach(tab => tab.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            document.querySelectorAll('.tutorial').forEach(tut => tut.classList.remove('active'));
+            
+            if (platform === 'ios') {
+                document.getElementById('ios-subscribe').style.display = 'block';
+                document.getElementById('android-subscribe').style.display = 'none';
+                document.getElementById('ios-tutorial').classList.add('active');
+            } else {
+                document.getElementById('ios-subscribe').style.display = 'none';
+                document.getElementById('android-subscribe').style.display = 'block';
+                document.getElementById('android-tutorial').classList.add('active');
+            }
+        }
+        
+        function copySubscribeUrl() {
+            const url = 'https://islon.github.io/goout/output/exhibitions.ics';
+            const btn = event.target;
+            const originalText = btn.textContent;
+            
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(url).then(() => {
+                    btn.textContent = '✓ 已复制';
+                    setTimeout(() => {
+                        btn.textContent = originalText;
+                    }, 2000);
+                }).catch(err => {
+                    fallbackCopy(url, btn, originalText);
+                });
+            } else {
+                fallbackCopy(url, btn, originalText);
+            }
+        }
+
+        function fallbackCopy(url, btn, originalText) {
+            const textArea = document.createElement('textarea');
+            textArea.value = url;
+            textArea.style.position = 'fixed';
+            textArea.style.left = '-9999px';
+            document.body.appendChild(textArea);
+            textArea.select();
+            
+            try {
+                const successful = document.execCommand('copy');
+                if (successful) {
+                    btn.textContent = '✓ 已复制';
+                    setTimeout(() => {
+                        btn.textContent = originalText;
+                    }, 2000);
+                } else {
+                    showCopyError(url);
+                }
+            } catch (err) {
+                showCopyError(url);
+            }
+            
+            document.body.removeChild(textArea);
+        }
+
+        function showCopyError(url) {
+            const modal = document.createElement('div');
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: rgba(0,0,0,0.5);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                z-index: 9999;
             `;
-
-            overlay.classList.add('active');
-
-            // 绑定点击统计
-            const linkBtn = document.getElementById('original-link-btn');
-            const statsDisplay = document.getElementById('click-stats-display');
-            if (linkBtn && exhibition.url) {
-                const currentSource = exhibition.source;
-                const stats = getClickStats();
-                const count = stats[currentSource] || 0;
-                if (statsDisplay) {
-                    statsDisplay.textContent = `已点击查看: ${count} 次`;
-                }
-
-                linkBtn.addEventListener('click', function() {
-                    trackClick(currentSource, exhibition.name);
-                    if (statsDisplay) {
-                        statsDisplay.textContent = `已点击查看: ${stats[currentSource] || 1} 次`;
-                    }
-                }, { once: true });
-            }
-        }
-
-        function closeModal() {
-            const overlay = document.getElementById('modal-overlay');
-            overlay.classList.remove('active');
-        }
-
-        // 点击统计功能
-        function getClickStats() {
-            const stats = localStorage.getItem('click_stats');
-            return stats ? JSON.parse(stats) : {};
-        }
-
-        function getClickCount(source) {
-            const stats = getClickStats();
-            return stats[source] || 0;
-        }
-
-        function trackClick(source, activityName) {
-            const stats = getClickStats();
-            stats[source] = (stats[source] || 0) + 1;
-            localStorage.setItem('click_stats', JSON.stringify(stats));
-
-            // 更新显示
-            const countEl = document.getElementById(`click-count-${source}`);
-            if (countEl) {
-                countEl.textContent = stats[source];
-            }
-
-            // 百度统计事件追踪
-            if (typeof trackEvent === 'function') {
-                trackEvent('活动详情', '点击原始链接', source);
-            }
-
-            console.log(`点击记录: ${source} - ${activityName} (累计: ${stats[source]}次)`);
-        }
-
-        let sourceFilterExpanded = false;
-        function toggleSourceFilter() {
-            const bar = document.getElementById('source-filter-bar');
-            const btn = document.getElementById('source-expand-btn');
-            sourceFilterExpanded = !sourceFilterExpanded;
-            if (sourceFilterExpanded) {
-                bar.classList.remove('source-filter-collapsed');
-                btn.textContent = '收起 ↑';
-            } else {
-                bar.classList.add('source-filter-collapsed');
-                btn.textContent = '展开更多 ▼';
-            }
-        }
-
-        let sidebarSourceExpanded = false;
-        function toggleSidebarSourceFilter() {
-            const bar = document.getElementById('sidebar-source-filter-bar');
-            const btn = document.getElementById('sidebar-source-expand-btn');
-            sidebarSourceExpanded = !sidebarSourceExpanded;
-            if (sidebarSourceExpanded) {
-                bar.classList.remove('sidebar-source-filter-collapsed');
-                btn.textContent = '收起 ↑';
-            } else {
-                bar.classList.add('sidebar-source-filter-collapsed');
-                btn.textContent = '展开更多 ▼';
-            }
-        }
-
-        document.getElementById('modal-overlay').addEventListener('click', function(e) {
-            if (e.target === this) {
-                closeModal();
-            }
-        });
-
-        function handleSearch() {
-            const mobileInput = document.getElementById('search-input');
-            const desktopInput = document.getElementById('search-input-desktop');
-            currentSearchQuery = (mobileInput ? mobileInput.value : '') || (desktopInput ? desktopInput.value : '') || '';
-            currentPage = 1;
-            renderExhibitions();
-        }
-
-        function clearAllFilters() {
-            currentTimeFilter = 'upcoming';
-            currentSourceFilter = 'all';
-            currentFeeFilter = 'all';
-            currentTypeFilter = 'all';
-            currentDistrictFilter = 'all';
-            currentFamilyFriendlyFilter = 'all';
-            currentSearchQuery = '';
             
-            localStorage.setItem('schedule_time_filter', 'upcoming');
-            localStorage.setItem('schedule_source_filter', 'all');
-            localStorage.setItem('schedule_fee_filter', 'all');
-            localStorage.setItem('schedule_type_filter', 'all');
-            localStorage.setItem('schedule_district_filter', 'all');
-            localStorage.setItem('schedule_family_filter', 'family');
+            const content = document.createElement('div');
+            content.style.cssText = `
+                background: white;
+                border-radius: 12px;
+                padding: 24px;
+                max-width: 320px;
+                text-align: center;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            `;
             
-            document.getElementById('search-input').value = '';
-            document.getElementById('search-input-desktop').value = '';
+            content.innerHTML = `
+                <div style="font-size: 32px; margin-bottom: 12px;">📋</div>
+                <div style="font-size: 16px; font-weight: 600; color: #333; margin-bottom: 8px;">复制订阅链接</div>
+                <div style="font-size: 13px; color: #666; margin-bottom: 16px;">请长按下方链接复制</div>
+                <div style="padding: 12px; background: #f5f7fa; border-radius: 8px; font-size: 12px; color: #666; word-break: break-all; text-align: left;">${url}</div>
+                <button onclick="this.parentElement.parentElement.remove()" style="margin-top: 16px; padding: 10px 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 14px; font-weight: 500; cursor: pointer;">知道了</button>
+            `;
             
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            modal.appendChild(content);
+            document.body.appendChild(modal);
             
-            document.querySelectorAll('[data-filter="upcoming"]').forEach(btn => btn.classList.add('active'));
-            document.querySelectorAll('[data-type="all"]').forEach(btn => btn.classList.add('active'));
-            document.querySelectorAll('[data-district="all"]').forEach(btn => btn.classList.add('active'));
-            document.querySelectorAll('[data-source="all"]').forEach(btn => btn.classList.add('active'));
-            document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
-            document.querySelectorAll('[data-family="family"]').forEach(btn => btn.classList.add('active'));
-            
-            currentPage = 1;
-            renderExhibitions();
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                }
+            });
         }
-
-        function initFilters() {
-            const timeButtons = document.querySelectorAll('[data-filter]');
-            timeButtons.forEach(btn => {
-                if (btn.dataset.filter === currentTimeFilter) {
-                    btn.classList.add('active');
-                }
-                btn.addEventListener('click', () => {
-                    timeButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentTimeFilter = btn.dataset.filter;
-                    localStorage.setItem('schedule_time_filter', currentTimeFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
-            });
-
-            const typeButtons = document.querySelectorAll('[data-type]');
-            typeButtons.forEach(btn => {
-                if (btn.dataset.type === currentTypeFilter) {
-                    btn.classList.add('active');
-                }
-                btn.addEventListener('click', () => {
-                    typeButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentTypeFilter = btn.dataset.type;
-                    localStorage.setItem('schedule_type_filter', currentTypeFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
-            });
-
-            const districtButtons = document.querySelectorAll('[data-district]');
-            districtButtons.forEach(btn => {
-                if (btn.dataset.district === currentDistrictFilter) {
-                    btn.classList.add('active');
-                }
-                btn.addEventListener('click', () => {
-                    districtButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentDistrictFilter = btn.dataset.district;
-                    localStorage.setItem('schedule_district_filter', currentDistrictFilter);
-                    currentPage = 1;
-                    updateSourceButtonVisibility();
-                    renderExhibitions();
-                });
-            });
-
-            function updateSourceButtonVisibility() {
-                const sourceButtons = document.querySelectorAll('[data-source]');
-                sourceButtons.forEach(btn => {
-                    const source = btn.dataset.source;
-                    if (source === 'all') {
-                        btn.style.display = 'block';
-                    } else {
-                        const district = getDistrict(source);
-                        if (currentDistrictFilter === 'all' || district === currentDistrictFilter) {
-                            btn.style.display = 'block';
-                        } else {
-                            btn.style.display = 'none';
-                        }
-                    }
-                });
-                
-                if (currentDistrictFilter !== 'all' && currentSourceFilter !== 'all') {
-                    const sourceDistrict = getDistrict(currentSourceFilter);
-                    if (sourceDistrict !== currentDistrictFilter) {
-                        currentSourceFilter = 'all';
-                        localStorage.setItem('schedule_source_filter', 'all');
-                        sourceButtons.forEach(b => b.classList.remove('active'));
-                        sourceButtons.forEach(b => {
-                            if (b.dataset.source === 'all') b.classList.add('active');
-                        });
-                    }
-                }
-            }
-
-            const sourceButtons = document.querySelectorAll('[data-source]');
-            sourceButtons.forEach(btn => {
-                if (btn.dataset.source === currentSourceFilter) {
-                    btn.classList.add('active');
-                }
-                btn.addEventListener('click', () => {
-                    sourceButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentSourceFilter = btn.dataset.source;
-                    localStorage.setItem('schedule_source_filter', currentSourceFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
-            });
-
-            const feeButtons = document.querySelectorAll('[data-fee]');
-            feeButtons.forEach(btn => {
-                if (btn.dataset.fee === currentFeeFilter) {
-                    btn.classList.add('active');
-                }
-                btn.addEventListener('click', () => {
-                    feeButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentFeeFilter = btn.dataset.fee;
-                    localStorage.setItem('schedule_fee_filter', currentFeeFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
-            });
-
-            const familyButtons = document.querySelectorAll('[data-family]');
-            familyButtons.forEach(btn => {
-                if (btn.dataset.family === currentFamilyFriendlyFilter) {
-                    btn.classList.add('active');
-                }
-                btn.addEventListener('click', () => {
-                    familyButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentFamilyFriendlyFilter = btn.dataset.family;
-                    localStorage.setItem('schedule_family_filter', currentFamilyFriendlyFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
-            });
-
-            updateSourceButtonVisibility();
-        }
-
+        
         function loadExhibitions() {
-            const cacheKey = 'exhibitions_cache';
-            const versionKey = 'exhibitions_version';
-            const lastCheckKey = 'exhibitions_last_check';
+            const listContainer = document.getElementById('exhibition-list');
+            const errorContainer = document.getElementById('exhibition-error');
             
-            const cachedData = localStorage.getItem(cacheKey);
-            const cachedVersion = localStorage.getItem(versionKey);
+            listContainer.style.display = 'block';
+            errorContainer.style.display = 'none';
             
-            const now = Date.now();
-            const lastCheck = parseInt(localStorage.getItem(lastCheckKey) || '0');
-            const checkInterval = 30 * 60 * 1000;
-            
-            if (cachedData && cachedVersion && (now - lastCheck < checkInterval)) {
-                try {
-                    allExhibitions = JSON.parse(cachedData);
-                    initFilters();
-                    renderExhibitions();
-                    console.log('使用缓存数据，版本:', cachedVersion);
-                } catch (e) {
-                    console.error('缓存数据解析失败:', e);
-                    fetchAndCache();
-                    return;
-                }
-            }
-            
-            fetchAndCache();
-            
-            function fetchAndCache() {
-                fetch('output/exhibitions.json', { cache: 'no-cache' })
-                    .then(response => {
-                        const newVersion = response.headers.get('etag') || response.headers.get('last-modified') || String(Date.now());
-                        response.json().then(exhibitions => {
-                            if (newVersion !== cachedVersion || !cachedData) {
-                                localStorage.setItem(cacheKey, JSON.stringify(exhibitions));
-                                localStorage.setItem(versionKey, newVersion);
-                                allExhibitions = exhibitions;
-                                initFilters();
-                                renderExhibitions();
-                                console.log('数据已更新，版本:', newVersion);
-                            } else {
-                                console.log('数据未变化，跳过更新');
-                            }
-                            localStorage.setItem(lastCheckKey, String(Date.now()));
-                        });
-                    })
-                    .catch(error => {
-                        if (!cachedData) {
-                            document.getElementById('exhibition-list').innerHTML = `
-                                <div class="empty-state">
-                                    <div class="icon">⚠️</div>
-                                    <div>加载失败</div>
-                                    <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
-                                </div>
-                            `;
-                            console.error('Failed to load exhibitions:', error);
-                        } else {
-                            console.log('网络错误，继续使用缓存数据');
-                        }
+            fetch('output/exhibitions.json')
+                .then(response => response.json())
+                .then(exhibitions => {
+                    listContainer.innerHTML = '';
+                    
+                    if (exhibitions.length === 0) {
+                        listContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: #999;">暂无展览数据</div>';
+                        return;
+                    }
+                    
+                    const currentDate = new Date().toISOString().split('T')[0];
+                    const futureExhibitions = exhibitions.filter(e => e.start_date >= currentDate).slice(0, 20);
+                    
+                    listContainer.innerHTML = `<div class="exhibition-count">共 ${exhibitions.length} 个展览，显示最近 ${futureExhibitions.length} 个</div>`;
+                    
+                    futureExhibitions.forEach(exhibition => {
+                        const card = document.createElement('div');
+                        card.className = `exhibition-card ${exhibition.source || 'szcec'}`;
+                        
+                        const startDate = exhibition.start_date;
+                        const endDate = exhibition.end_date;
+                        const dateDisplay = startDate === endDate ? startDate : `${startDate} ~ ${endDate}`;
+                        
+                        const isFree = exhibition.venue.includes('图书馆') || exhibition.venue.includes('科技馆') || exhibition.venue.includes('湾区之眼');
+                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' : 
+                                         exhibition.venue.includes('会展中心') || exhibition.venue.includes('体育') ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
+                        
+                        card.innerHTML = `
+                            <div class="exhibition-title">${exhibition.name}${feeBadge}</div>
+                            <div class="exhibition-meta">
+                                <span>📅 ${dateDisplay}</span>
+                                <span>📍 ${exhibition.venue}</span>
+                            </div>
+                            ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
+                            ${exhibition.url ? `<a href="${exhibition.url}" target="_blank" class="exhibition-link">🔗 查看详情</a>` : ''}
+                        `;
+                        
+                        listContainer.appendChild(card);
                     });
-            }
+                })
+                .catch(error => {
+                    listContainer.style.display = 'none';
+                    errorContainer.style.display = 'block';
+                    console.error('Failed to load exhibitions:', error);
+                });
         }
-
+        
         window.addEventListener('DOMContentLoaded', loadExhibitions);
     </script>
 </body>

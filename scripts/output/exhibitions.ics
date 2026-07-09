@@ -1,0 +1,3988 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:22ad4c1adce1b87f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20261001
+SUMMARY:壁上万千——山西宋金壁画中的众生气象
+LOCATION:南山博物馆一层一号展厅
+DESCRIPTION:山西宋金壁画艺术展览，展现古代壁画中的众生百态。\n地点: 南山博物馆一层一号展厅\n时间: 2025-12-30 至 2026-09-30\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e3b94e36d016a7@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:吉金春秋——深圳博物馆铜器展
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:深圳博物馆藏铜器常设展，展出商周至明清铜器精品。同心路馆10号展厅。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e236c26d9ce2d0ed@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:问陶之旅——深圳博物馆陶瓷展
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:深圳博物馆藏陶瓷常设展，涵盖新石器时代到明清各时期陶瓷。同心路馆11号展厅。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:07fa4c0fa23dd1e7@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:深圳改革开放史展览
+LOCATION:深圳博物馆（改革开放展览馆）
+DESCRIPTION:深圳改革开放主题常设展，展示深圳从边陲小镇到国际化大都市的发展历程。\n地点: 深圳博物馆（改革开放展览馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:99264feb21ef5495@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:古代深圳——深圳历史展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳古代历史常设展，展示深圳7000年人类活动史和1700年城市史。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:72546bfb4479ec65@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:近代深圳——深圳近代史展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳近代历史常设展，展示深圳从鸦片战争到解放战争时期的历史。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4f5cfb3a7b5ac07d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:深圳民俗文化展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳民俗文化常设展，展示广府、客家、海洋等多元民俗文化。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:500d9e88cbafc3ea@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:世界野生动物标本展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳博物馆世界野生动物标本常设展，展出非洲、美洲、澳洲等地的珍稀动物标本，亲子友好。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:6fe8419a22d0a993@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20261223
+SUMMARY:清平“阅” | “阅”时光：集章兑礼
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。【参与方式】1.凭读者证到新桥街道中心路36号新桥文化艺术中心东楼三楼、四楼服务台领取集章册2.每张读者证一天最多可集3枚印章，单项不重复3.如遗失集章册可重新申领，但不追补印章4.兑礼地点:新桥街道中心路36号新桥文化艺术中心东楼三楼服务台。【联系电话】：0755-23081553；地点：新桥街道分馆（详见活动简介）；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-02-04 至 2026-12-22\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1785a1b0c0a21b8a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260901
+SUMMARY:珍瓷萃美——中国古代瓷器艺术特展
+LOCATION:南山博物馆二层三号展厅
+DESCRIPTION:中国古代瓷器艺术精品展览。\n地点: 南山博物馆二层三号展厅\n时间: 2026-02-07 至 2026-08-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f452d5a03175ee@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20261101
+SUMMARY:贞观长歌——大唐历史文化主题展
+LOCATION:南山博物馆二层二号展厅
+DESCRIPTION:大唐历史文化主题展览，展现盛唐风貌。\n地点: 南山博物馆二层二号展厅\n时间: 2026-02-13 至 2026-10-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:24993101de14705d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20270401
+SUMMARY:2026年光明区群众文艺团队培育提升系列活动
+LOCATION:光明区文化馆
+DESCRIPTION:免费。培训\n地点: 光明区文化馆\n时间: 2026-03-13 至 2027-03-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:19728fd085bb2f86@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20261226
+SUMMARY:“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动
+LOCATION:光明区文化馆
+DESCRIPTION:免费。演出\n地点: 光明区文化馆\n时间: 2026-03-27 至 2026-12-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c466e8b7fd207255@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260716
+SUMMARY:“圳少年·有话说”——中学生脱口秀（第三季）线上海选
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、教育大事全媒体
+备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。
+咨询电话：0755-82841335\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-05-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5927de07dc3e8381@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260727
+SUMMARY:来处与归途：三燕百年
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:三燕历史文化特展，深圳博物馆金田路馆。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-05-18 至 2026-07-26\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:14d2e3e1d7ffebd3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260801
+SUMMARY:骥跃升腾——三彩马的世界
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:唐三彩马主题特展，深圳博物馆同心路馆。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-05-18 至 2026-07-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a1ebc6cdb07d87@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20261008
+SUMMARY:沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展
+LOCATION:南山博物馆一层一号专题展厅
+DESCRIPTION:精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。展期至10月7日，免费免预约。定点讲解：每个开馆日10:50。\n地点: 南山博物馆一层一号专题展厅\n时间: 2026-06-12 至 2026-10-07\n详情: https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee58acb064333ab@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20261008
+SUMMARY:沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展
+LOCATION:南山博物馆
+DESCRIPTION:精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。\n地点: 南山博物馆\n时间: 2026-06-12 至 2026-10-07\n详情: https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee58acb064333ab@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20261008
+SUMMARY:沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展
+LOCATION:南山博物馆
+DESCRIPTION:精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。\n地点: 南山博物馆\n时间: 2026-06-12 至 2026-10-07\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:c4f31ef02b9a679d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260712
+SUMMARY:与经典同行｜《儒林外史》：“婉而多讽”的文人浮世绘
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:宝安区图书馆开展“书香雅韵·‘宝’读诗书”线上活动，每月一期，为读者推荐百部经典主题馆藏，邀请老师作音频领读赏析，学习了解中国传统文化。  咨询电话：0755-2788 1694；方式：线上；主办：宝安区公共文化体育服务中心\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-06-14 至 2026-07-11\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:93cd0310739617f2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20261009
+SUMMARY:国宝萌友展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:沉浸式体验+活体昆虫互动展，亲子友好。光明新馆特展。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-06-20 至 2026-10-08\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1a63bba441f9a111@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。展览\n地点: 南山区青少年活动中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:71cd1ec1f968ff0a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。展览\n地点: 南山区青少年活动中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:070319b499eb0de7@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。展览\n地点: 南山区青少年活动中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc4ae685d21b93e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。展览\n地点: 南山区青少年活动中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:f159accbbc79f760@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳博物馆暑期延时开放
+LOCATION:深圳博物馆
+DESCRIPTION:金田路馆与同心路馆延时开放至21:00（20:30停止入场），改革开放展览馆10:00-21:00。逢周一闭馆。\n地点: 深圳博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d9495f6a29503cd0@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:太空奥德赛——宇宙探索展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:宇宙探索主题科普展，含航天器模型、太空体验区。光明新馆常设展。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-01 至 2026-12-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5c23e50b8f6727cf@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:一平米实验室
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:小型科学实验互动展，适合儿童动手探索。光明新馆互动区。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-01 至 2026-12-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d637e67de875a2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳图书馆暑期系列活动
+LOCATION:深圳图书馆
+DESCRIPTION:暑期公益培训课、AI训练营、经典故事奇遇之旅、走读深圳、少儿阅经典等系列活动。详见深圳图书馆官网活动日历。\n地点: 深圳图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szlib.org.cn\n联系: 0755-82841247
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1497fa5e9a00d5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙岗区博物馆暑期展览
+LOCATION:龙岗区博物馆
+DESCRIPTION:龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。\n地点: 龙岗区博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.lgmuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e85a704083009839@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳少年儿童图书馆暑期活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期系列活动，包含绘本故事会、科普讲座、手工制作等。免费参与。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3b4d403ed7ab13@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳市少年宫暑期科普活动
+LOCATION:深圳市少年宫
+DESCRIPTION:深圳市少年宫暑期科普活动，包含科技展览、科学实验、机器人体验等。免费参观。\n地点: 深圳市少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.szcp.com
+END:VEVENT
+BEGIN:VEVENT
+UID:f159accbbc79f760@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳博物馆暑期延时开放
+LOCATION:深圳博物馆
+DESCRIPTION:金田路馆与同心路馆延时开放至21:00（20:30停止入场），改革开放展览馆10:00-21:00。逢周一闭馆。\n地点: 深圳博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d637e67de875a2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳图书馆暑期系列活动
+LOCATION:深圳图书馆
+DESCRIPTION:暑期公益培训课、AI训练营、经典故事奇遇之旅、走读深圳、少儿阅经典等系列活动。详见深圳图书馆官网活动日历。\n地点: 深圳图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szlib.org.cn\n联系: 0755-82841247
+END:VEVENT
+BEGIN:VEVENT
+UID:e85a704083009839@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳少年儿童图书馆暑期活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期系列活动，包含绘本故事会、科普讲座、手工制作等。免费参与。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3b4d403ed7ab13@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳市少年宫暑期科普活动
+LOCATION:深圳市少年宫
+DESCRIPTION:深圳市少年宫暑期科普活动，包含科技展览、科学实验、机器人体验等。免费参观。\n地点: 深圳市少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.szcp.com
+END:VEVENT
+BEGIN:VEVENT
+UID:baa83fe8bc9565c0@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳科学技术馆暑期科普展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:深圳科学技术馆暑期科普活动，包含常设展厅参观、科学实验室、互动体验等。免费需预约。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1497fa5e9a00d5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙岗区博物馆暑期展览
+LOCATION:龙岗区博物馆
+DESCRIPTION:龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。\n地点: 龙岗区博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.lgmuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:af9c2f6c78c71dc8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳音乐厅暑期音乐季
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳音乐厅暑期音乐季，包含美丽星期天系列公益音乐会、交响乐、室内乐、民乐等演出。详见官网排期。\n地点: 深圳音乐厅\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:96dfdda124d8ce2c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳滨海艺术中心暑期演出季
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:深圳滨海艺术中心暑期演出季，包含儿童剧、芭蕾舞、音乐会等演出。详见官网排期。\n地点: 深圳滨海艺术中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b21db734750104d3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山博物馆暑期夜间延时开放
+LOCATION:南山博物馆
+DESCRIPTION:7月4日至8月31日，新增周五、周日夜间延时开放。周二至周日10:00-18:00，周五至周日夜间至21:00。免费免预约。\n地点: 南山博物馆\n时间: 2026-07-04 至 2026-08-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fcf0218a4bc89b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山博物馆暑期延时开放
+LOCATION:南山博物馆
+DESCRIPTION:7月4日至8月31日，新增周五、周日夜间延时开放。周二至周日10:00-18:00，周五至周日夜间至21:00。免费免预约。\n地点: 南山博物馆\n时间: 2026-07-04 至 2026-08-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:aa094c55cc9a3bb8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:小奶牛故事绘
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆少儿绘本故事会，每周六上午10:00。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:3a89e7d7acb638cf@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳少年儿童图书馆暑期阅读挑战赛
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期阅读挑战赛，完成阅读任务可获得奖励。适合6-14岁儿童。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b7651a56e1f6ed@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:光明区图书馆暑期阅读活动
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆暑期阅读推广活动，包含小太阳i阅读故事会、小奶牛故事绘等。\n地点: 光明区图书馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c4ccab643fcf96@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山图书馆暑期阅读推广活动
+LOCATION:南山图书馆
+DESCRIPTION:南山图书馆暑期阅读推广活动，包含少儿阅读、读书分享会、科普讲座等。免费参与。\n地点: 南山图书馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://www.nsszlib.com
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea1789bcaea71b9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安区文化馆暑期公益培训
+LOCATION:宝安区文化馆
+DESCRIPTION:宝安区文化馆暑期公益艺术培训，包含舞蹈、声乐、器乐、书法、美术等课程。免费报名。\n地点: 宝安区文化馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd3f4478c5394d2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260801
+SUMMARY:坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。展览\n地点: 南山区青少年活动中心\n时间: 2026-07-06 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:887f1a7b9cfd169c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260803
+SUMMARY:新桥街道“文化春雨行动”新桥新梦公益课堂.
+LOCATION:宝安区文化馆新桥街道分馆
+DESCRIPTION:免费。展览\n地点: 宝安区文化馆新桥街道分馆\n时间: 2026-07-06 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=55afc0d24dc64104b91bb3e15fbd9530\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:05577c8a3b886eea@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260901
+SUMMARY:小太阳i阅读故事会
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆少儿阅读推广活动，每周日上午。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-06 至 2026-08-31\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0f1be62409b0b50c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安图书馆绘本故事会
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆少儿绘本故事会，每周六上午10:30。适合3-6岁儿童。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-06 至 2026-08-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0f1be62409b0b50c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安图书馆绘本故事会
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆少儿绘本故事会，每周六上午10:30。适合3-6岁儿童。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-06 至 2026-08-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c1fc1806f22b8aa5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260826
+SUMMARY:少儿国际象棋公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，少儿国际象棋入门。每周一上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-07 至 2026-08-25\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c124c12dc041047b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260831
+SUMMARY:盐田区图书馆暑期活动
+LOCATION:盐田区图书馆
+DESCRIPTION:盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。\n地点: 盐田区图书馆\n时间: 2026-07-07 至 2026-08-30\n详情: https://www.ytlib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c124c12dc041047b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260831
+SUMMARY:盐田区图书馆暑期活动
+LOCATION:盐田区图书馆
+DESCRIPTION:盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。\n地点: 盐田区图书馆\n时间: 2026-07-07 至 2026-08-30\n详情: https://www.ytlib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1669d5d74badf0e1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市文化馆暑期公益培训班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑期公益培训班，包含少儿国际象棋、成人古典舞、读剧、朗诵艺术等课程。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-07 至 2026-08-25\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:febfa1cb9cfb5bcf@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。展览\n地点: 南山区青少年活动中心\n时间: 2026-07-08 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:1436c02a53ae667e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260827
+SUMMARY:成人古典舞公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，成人古典舞基础。每周二上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-08 至 2026-08-26\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:35ec137de771d3c0@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:罗湖区图书馆暑期阅读活动
+LOCATION:罗湖区图书馆
+DESCRIPTION:罗湖区图书馆暑期少儿阅读活动，包含故事屋、手工坊、科普讲座等。免费参与。\n地点: 罗湖区图书馆\n时间: 2026-07-08 至 2026-08-30\n详情: https://szlhlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c74392db5ca7a8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安区青少年宫暑期活动
+LOCATION:宝安区青少年宫
+DESCRIPTION:宝安区青少年宫暑期系列活动，包含书法、绘画、科技制作、舞蹈等公益课程。免费报名。\n地点: 宝安区青少年宫\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9234f14111584ca8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳市青少年活动中心暑期活动
+LOCATION:深圳市青少年活动中心
+DESCRIPTION:深圳市青少年活动中心暑期系列活动，包含艺术培训、科技活动、体育锻炼等。免费报名。\n地点: 深圳市青少年活动中心\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.szaac.com
+END:VEVENT
+BEGIN:VEVENT
+UID:35ec137de771d3c0@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:罗湖区图书馆暑期阅读活动
+LOCATION:罗湖区图书馆
+DESCRIPTION:罗湖区图书馆暑期少儿阅读活动，包含故事屋、手工坊、科普讲座等。免费参与。\n地点: 罗湖区图书馆\n时间: 2026-07-08 至 2026-08-30\n详情: https://szlhlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a65d4b2471b836ea@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260827
+SUMMARY:深圳市文化馆暑期美术培训班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆暑期美术公益培训班，包含素描、水彩、国画基础等课程。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-08 至 2026-08-26\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c74392db5ca7a8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安区青少年宫暑期活动
+LOCATION:宝安区青少年宫
+DESCRIPTION:宝安区青少年宫暑期系列活动，包含书法、绘画、科技制作、舞蹈等公益课程。免费报名。\n地点: 宝安区青少年宫\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4442abedcf28be26@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:南山文体中心暑期少儿游泳班
+LOCATION:南山文体中心
+DESCRIPTION:南山文体中心暑期少儿游泳培训班，面向6-14岁儿童。收费课程。\n地点: 南山文体中心\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc690f038d710ab@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260829
+SUMMARY:南山区青少年活动中心暑期艺术培训
+LOCATION:南山区青少年活动中心
+DESCRIPTION:南山区青少年活动中心暑期艺术培训，包含美术、书法、舞蹈、声乐等课程。免费报名。\n地点: 南山区青少年活动中心\n时间: 2026-07-08 至 2026-08-28\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6d52fee9cf355d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260829
+SUMMARY:燕罗街道分馆暑期阅读活动
+LOCATION:宝安区文化馆燕罗街道分馆
+DESCRIPTION:宝安区文化馆燕罗街道分馆暑期阅读活动，包含绘本故事、手工制作、亲子阅读等。免费参与。\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-08 至 2026-08-28\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:05377a4ebc005711@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:音乐赏析之《音乐之声》原声带【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-09 至 2026-07-09\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654488&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5779fa248f2161@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:音乐赏析之《音乐之声》原声带【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-09 至 2026-07-09\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654493&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:324b6e8994fbab86@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山博物馆暑期夜间延时开放
+LOCATION:南山博物馆
+DESCRIPTION:2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。\n地点: 南山博物馆\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:fca392506e9f6b52@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿民族打击乐A班（面向7-9岁少年招募）
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。需预约报名。培训\n地点: 南山区青少年活动中心\n时间: 2026-07-09 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:2728ad531871d00c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿民族打击乐B班（面向10-12岁少年招募）
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。需预约报名。培训\n地点: 南山区青少年活动中心\n时间: 2026-07-09 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:7354c61d83c9c059@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿民族打击乐A班（面向7-9岁少年招募）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-09 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8a1b57911c5ebb@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿民族打击乐B班（面向10-12岁少年招募）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-09 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:6b93b7448c6a278c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260731
+SUMMARY:成人零基础芭蕾形体（10节课程，自备舞蹈练功服）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-09 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fe47c03b33074a99a5029c7256ce4ed3\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:85171cd604a37808@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:“童心”领读：婴幼儿故事会（平日版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《魔法亲亲》；主讲人：宗珂珂；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-09 至 2026-07-09\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:bad60833b658c9fe@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260829
+SUMMARY:“宝”读诗书，诗词挑战
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:活动期间持深圳图书馆之城读者证可参与诗词抢答，详见活动海报。；地点：宝安区图书馆总馆（详见活动简介）；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-09 至 2026-08-28\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:293c15065312716f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《爱宠大机密》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-09 至 2026-07-09\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1660e3cf575069c3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:启阅90｜图图姐姐讲故事：《赶走黑夜的小兔子》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-09 至 2026-07-09\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b0abd7244a58c870@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:清平“阅” | 图图姐姐讲故事《大西瓜》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。讲述了小女孩与一颗调皮的大西瓜之间的可爱故事，表达了收获和分享的快乐。；方式：线上；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-09 至 2026-07-09\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9428bc2ca07bf15b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260828
+SUMMARY:读剧公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，读剧表演体验。每周三上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-09 至 2026-08-27\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e2bbe20cc4e9b207@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙华区图书馆暑期少儿活动
+LOCATION:龙华区图书馆
+DESCRIPTION:龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。\n地点: 龙华区图书馆\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.szlhlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:287ec7e04827748d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙华区青少年宫暑期活动
+LOCATION:龙华区青少年宫
+DESCRIPTION:龙华区青少年宫暑期系列活动，包含舞蹈、音乐、科技等公益课程。免费报名。\n地点: 龙华区青少年宫\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:60a359df95384ccc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260831
+SUMMARY:福田区图书馆少儿绘本课堂
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期少儿绘本课堂，每周二、周五上午10:00，适合3-8岁儿童。免费参与。\n地点: 福田区图书馆\n时间: 2026-07-09 至 2026-08-30\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e2bbe20cc4e9b207@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙华区图书馆暑期少儿活动
+LOCATION:龙华区图书馆
+DESCRIPTION:龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。\n地点: 龙华区图书馆\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.szlhlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:287ec7e04827748d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙华区青少年宫暑期活动
+LOCATION:龙华区青少年宫
+DESCRIPTION:龙华区青少年宫暑期系列活动，包含舞蹈、音乐、科技等公益课程。免费报名。\n地点: 龙华区青少年宫\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e055c194dae2ddb8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260828
+SUMMARY:南山图书馆暑期亲子故事会
+LOCATION:南山图书馆
+DESCRIPTION:南山图书馆暑期亲子绘本故事会，每周四、周日上午10:00。适合3-8岁儿童。免费参与。\n地点: 南山图书馆\n时间: 2026-07-09 至 2026-08-27\n详情: https://www.nsszlib.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b97670d07c8862af@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:心迷宫
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满45周岁以上。
+参与方式：先到先得，影厅提供28个座位，观影座位不指定。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654173&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8fcccedb68357d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654498&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae7213c885ccfc1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:东方幻境之旅：《刺杀小说家》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655100&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:b79697e8efebed2a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:观影《潜艇总动员：环游地球80天》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654198&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:36aff4134b70299d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:观影《魔发奇缘》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654203&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cec7e847d7a066@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654503&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:a00b9e06e312a654@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:心理咨询
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名\n地点: 南山图书馆\n时间: 2026-07-10 至 2026-07-10\n详情: https://activity.nslib.cn/activity/info/11634\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea01acbbea62186@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿声乐（3节课程）
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。需预约报名。培训\n地点: 南山区青少年活动中心\n时间: 2026-07-10 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb81f1a5e9aa1f5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260730
+SUMMARY:成人书法（6节课程，需自备材料）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:e9275dca303b9e50@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿声乐（3节课程）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:bdae77bf7d23ee7d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:朗诵艺术公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，朗诵技巧入门。每周四上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:71d8cd07046eadc9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:福田区图书馆暑期读书分享会
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。\n地点: 福田区图书馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2ead44020ac83a22@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安科技馆暑期科普活动
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆暑期科普活动，包含科学实验、机器人体验、科普讲座等。免费参与。\n地点: 宝安科技馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:32104fc79a4db26f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳湾体育中心暑期青少年体育培训
+LOCATION:深圳湾体育中心
+DESCRIPTION:深圳湾体育中心暑期青少年体育培训，包含篮球、羽毛球、游泳等项目。收费课程。\n地点: 深圳湾体育中心\n时间: 2026-07-10 至 2026-08-30\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf53770e7259660@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:光明区文化馆暑期公益培训班
+LOCATION:光明区文化馆
+DESCRIPTION:光明区文化馆暑期公益艺术培训，包含书法、国画、舞蹈、声乐等课程。免费报名。\n地点: 光明区文化馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.szgm.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:af0f9e3391cdeead@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安图书馆创客空间暑期活动
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆创客空间暑期开放，3D打印、激光切割、编程体验等活动。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:71d8cd07046eadc9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:福田区图书馆暑期读书分享会
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。\n地点: 福田区图书馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d6af682f0f94e4b3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:深圳少年儿童图书馆暑期电影展映
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期经典儿童电影展映，每周五下午14:30。免费观影。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2ead44020ac83a22@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安科技馆暑期科普活动
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆暑期科普活动，包含科学实验、机器人体验、科普讲座等。免费参与。\n地点: 宝安科技馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1abb21368c33e7b9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳科学技术馆科学小课堂
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:深圳科学技术馆暑期科学小课堂，包含物理、化学、生物趣味实验，每周六日举行。免费需预约。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-10 至 2026-08-30\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7f5705571b6541@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期篮球训练营
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期篮球训练营，面向8-16岁青少年。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-10 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:32104fc79a4db26f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳湾体育中心暑期青少年体育培训
+LOCATION:深圳湾体育中心
+DESCRIPTION:深圳湾体育中心暑期青少年体育培训，包含篮球、羽毛球、游泳等项目。收费课程。\n地点: 深圳湾体育中心\n时间: 2026-07-10 至 2026-08-30\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:81d03e1a6eebd94d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:南山文体中心暑期公益培训
+LOCATION:南山文体中心
+DESCRIPTION:南山文体中心暑期公益培训，包含羽毛球、乒乓球、游泳、舞蹈等课程。免费报名。\n地点: 南山文体中心\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e51328ed68c1cf5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:桃源街道综合性文化服务中心暑期活动
+LOCATION:桃源街道综合性文化服务中心
+DESCRIPTION:桃源街道综合性文化服务中心暑期社区活动，包含亲子手工、读书分享、健康讲座等。免费参与。\n地点: 桃源街道综合性文化服务中心\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d38229d45bbb1356@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安区文化馆暑期少儿艺术团
+LOCATION:宝安区文化馆
+DESCRIPTION:宝安区文化馆暑期少儿艺术团招募和培训，包含合唱、舞蹈、戏剧表演等。免费报名。\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:288ab61444dc2b99@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第79场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655044&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3d00a569009ff06d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:书海探底——智慧书库参观体验活动第634场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654632&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6214a53f618a60@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第80场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655045&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7bef3c29b1661591@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:律师公益咨询活动
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆  深圳市律师协会
+地点：中心馆 一楼展厅
+地址：福田区福中一路2001号深圳图书馆一楼展厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655106&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:598094ae386722cd@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:1917
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654166&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c3df39eb7574d354@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:不被定义的人生——在生命的各种角色中发现真实的自己
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳女报杂志社
+地点：北馆 1F北书房
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642142&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7dee2102e930e7c1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:书海探底——智慧书库参观体验活动第635场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654633&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6cd214cd6fc0eff3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第81场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655046&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:ecaaa58b139c9590@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:“回声温暖” 2026 年深圳图书馆声音舞台文娱活动（第一场）
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市盲人协会、浙江传媒学院
+地点：北馆 4F报告厅
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656062&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd5b0b2036d86a1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:走进图书馆丨图书馆的特别读者
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。走进图书馆丨图书馆的特别读者\n地点: 南山图书馆\n时间: 2026-07-11 至 2026-07-11\n详情: https://activity.nslib.cn/activity/info/11624\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e298a7da41a76b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:南图沙龙·读书 | 道德经：法之篇
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。南图沙龙·读书 | 道德经：法之篇\n地点: 南山图书馆\n时间: 2026-07-11 至 2026-07-11\n详情: https://activity.nslib.cn/activity/info/11632\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:4b961f08325e6373@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:艺术荟·音阅共生 | 音乐与电影（下）——映象中的影像
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。艺术荟·音阅共生 | 音乐与电影（下）——映象中的影像\n地点: 南山图书馆\n时间: 2026-07-11 至 2026-07-11\n详情: https://activity.nslib.cn/activity/info/11625\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:aecda4eb70c0276a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:中超联赛 深圳新鹏城 vs 青岛西海岸
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间19:35。\n地点: 深圳市体育中心体育场\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e5ad78c00485e8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+SUMMARY:坪山区图书馆暑期阅读季
+LOCATION:坪山区图书馆
+DESCRIPTION:坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。\n地点: 坪山区图书馆\n时间: 2026-07-11 至 2026-08-29\n详情: https://www.szpslib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd12164b6695e17@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260829
+SUMMARY:龙岗区青少年宫暑期公益课
+LOCATION:龙岗区青少年宫
+DESCRIPTION:龙岗区青少年宫暑期公益课程，包含艺术、科技、体育等课程。免费报名。\n地点: 龙岗区青少年宫\n时间: 2026-07-11 至 2026-08-28\n详情: https://www.lg.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a6df89e2c5de17@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+SUMMARY:罗湖区图书馆暑期国学课堂
+LOCATION:罗湖区图书馆
+DESCRIPTION:罗湖区图书馆暑期国学课堂，包含书法、诗词诵读、传统礼仪体验等。免费参与。\n地点: 罗湖区图书馆\n时间: 2026-07-11 至 2026-08-29\n详情: https://szlhlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e5ad78c00485e8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+SUMMARY:坪山区图书馆暑期阅读季
+LOCATION:坪山区图书馆
+DESCRIPTION:坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。\n地点: 坪山区图书馆\n时间: 2026-07-11 至 2026-08-29\n详情: https://www.szpslib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd12164b6695e17@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260829
+SUMMARY:龙岗区青少年宫暑期公益课
+LOCATION:龙岗区青少年宫
+DESCRIPTION:龙岗区青少年宫暑期公益课程，包含艺术、科技、体育等课程。免费报名。\n地点: 龙岗区青少年宫\n时间: 2026-07-11 至 2026-08-28\n详情: https://www.lg.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:dc8fdcfb0806c8dd@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第82场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655047&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee2c5a0626a9f71@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:萤光读书会第25期：《积极情绪的力量》之三：建构资源——把经历变成内心的风景
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳大学心理学院
+地点：北馆 2F多功能学习室
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643069&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:36261cb4a213eab3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“回声温暖” 2026 年深圳图书馆声音舞台文娱活动（第二场）
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市盲人协会、浙江传媒学院
+地点：中心馆 五楼报告厅
+地址：福田区福中一路2001号深圳图书馆五楼报告厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656064&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:27f66ffd72e2e225@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654140&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c96b9f19e1970a1a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:书海探底——智慧书库参观体验活动第636场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654634&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6dd7154c542f57@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:弦上云烟 · 沉浸式民乐聆赏会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约
+备注：专业级高保真音响 + LPCD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=650334&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:53774a2b12f761a1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第83场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655048&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4e5ebf724cd64e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:她影：《我经过风暴》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652258&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:01dbc044ebb70cd5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:从“愿景”到“原型”，一次城市中“重构未来”的共创实验
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 四楼创客空间
+地址：福田区福中一路2001号深圳图书馆四楼创客空间
+备注：活动面向12岁及以上读者。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656116&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:9498d11a79b35796@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“圳作一夏”主题系列活动 | 企业实地参访之北科生物
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：馆外（具体见简介）
+地址：具体见活动简介或活动备注
+备注：年满18周岁读者可预约报名，报名方式详见深圳图书馆微信公众号推文。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654676&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:9957001f50a8b0af@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:书海探底——智慧书库参观体验活动第637场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654635&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5afa120db068c207@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:美丽新世界
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654167&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:873711498c8f3e05@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第84场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655049&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d29809a68ca08047@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“深读”读书沙龙 | 跑步总是膝盖疼？破解运动损伤的底层逻辑
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼南书房
+地址：福田区福中一路2001号深圳图书馆一楼南书房\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639635&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:66c7d98469d88a08@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:“音阅同行·湾区华章”大型民族管弦乐音乐会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：馆外（具体见简介）
+地址：具体见活动简介或活动备注
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654306&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5fcb8383e0d3381b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:法律咨询
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名\n地点: 南山图书馆\n时间: 2026-07-12 至 2026-07-12\n详情: https://activity.nslib.cn/activity/info/11639\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:fb7341acdab9196d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:悦读乐学——南图&amp;学爱学习困难知识科普公益行丨解锁汉字密码，玩出读写能力
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。悦读乐学——南图&amp;学爱学习困难知识科普公益行丨解锁汉字密码，玩出读写能力\n地点: 南山图书馆\n时间: 2026-07-12 至 2026-07-12\n详情: https://activity.nslib.cn/activity/info/11629\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe3bf11d7510257@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:书影英语 | 《楚门的世界》
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。书影英语 | 《楚门的世界》\n地点: 南山图书馆\n时间: 2026-07-12 至 2026-07-12\n详情: https://activity.nslib.cn/activity/info/11628\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:326e07e31e0be138@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:阖家欢电影展映：《熊出没·原始时代》
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:地点：宝安区图书馆报告厅2；地址：宝安区宝兴路1号宝安图书馆负一楼报告厅2；方式：线下；咨询：（活动咨询电话）27789800；主办：宝安区公共文化体育服务中心\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.balib.cn\n联系: （活动咨询电话）27789800
+END:VEVENT
+BEGIN:VEVENT
+UID:b52e21d9c5710103@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+SUMMARY:书香乐韵——音乐读书会
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆音乐主题读书分享会，隔周六下午。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d11bbee7f2af627f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260827
+SUMMARY:龙岗区图书馆暑期夏令营
+LOCATION:龙岗区图书馆
+DESCRIPTION:龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。\n地点: 龙岗区图书馆\n时间: 2026-07-12 至 2026-08-26\n详情: https://www.szlglib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:7a34f79331715aca@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260827
+SUMMARY:大鹏地质公园博物馆科普活动
+LOCATION:大鹏地质公园博物馆
+DESCRIPTION:大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。\n地点: 大鹏地质公园博物馆\n时间: 2026-07-12 至 2026-08-26\n详情: https://www.dapeng.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:694acdd2cccb4cb1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+SUMMARY:福田区图书馆暑期电影放映
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期少儿电影放映，每周日下午14:30。免费观影。\n地点: 福田区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d11bbee7f2af627f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260827
+SUMMARY:龙岗区图书馆暑期夏令营
+LOCATION:龙岗区图书馆
+DESCRIPTION:龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。\n地点: 龙岗区图书馆\n时间: 2026-07-12 至 2026-08-26\n详情: https://www.szlglib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:78a947d94577287c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+SUMMARY:盐田区图书馆海洋文化讲座
+LOCATION:盐田区图书馆
+DESCRIPTION:盐田区图书馆暑期海洋文化系列讲座，结合盐田滨海特色，开展海洋知识科普。免费参与。\n地点: 盐田区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.ytlib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4757da358ccb99@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260829
+SUMMARY:深圳湾体育中心暑期网球培训班
+LOCATION:深圳湾体育中心
+DESCRIPTION:深圳湾体育中心暑期网球培训班，面向6-14岁儿童。收费课程。\n地点: 深圳湾体育中心\n时间: 2026-07-12 至 2026-08-28\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:7a34f79331715aca@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260827
+SUMMARY:大鹏地质公园博物馆科普活动
+LOCATION:大鹏地质公园博物馆
+DESCRIPTION:大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。\n地点: 大鹏地质公园博物馆\n时间: 2026-07-12 至 2026-08-26\n详情: https://www.dapeng.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:03c514d3ba2fa39f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260823
+SUMMARY:南山区青少年活动中心暑期科技营
+LOCATION:南山区青少年活动中心
+DESCRIPTION:南山区青少年活动中心暑期科技营，包含编程、机器人、3D打印等课程。免费报名。\n地点: 南山区青少年活动中心\n时间: 2026-07-12 至 2026-08-22\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:2182ecd65eca7a07@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260716
+SUMMARY:少儿朗诵（3节课程）
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。需预约报名。培训\n地点: 南山区青少年活动中心\n时间: 2026-07-13 至 2026-07-15\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7c1a6802e201441593f1366949ba0865\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:040482aa9eded71e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260716
+SUMMARY:少儿朗诵（3节课程）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-13 至 2026-07-15\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7c1a6802e201441593f1366949ba0865\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed872e8d83c5ccd@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:美丽星期天——暑期交响音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳交响乐团暑期公益音乐会，15:00演出。免费领票入场。\n地点: 深圳音乐厅\n时间: 2026-07-13 至 2026-07-13\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b3c651348bc7dc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260828
+SUMMARY:大鹏新区图书馆暑期活动
+LOCATION:大鹏新区图书馆
+DESCRIPTION:大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。\n地点: 大鹏新区图书馆\n时间: 2026-07-13 至 2026-08-27\n详情: https://www.dplib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b3c651348bc7dc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260828
+SUMMARY:大鹏新区图书馆暑期活动
+LOCATION:大鹏新区图书馆
+DESCRIPTION:大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。\n地点: 大鹏新区图书馆\n时间: 2026-07-13 至 2026-08-27\n详情: https://www.dplib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f017d1635b9d8aa5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260825
+SUMMARY:光明区图书馆光明大讲堂
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆品牌讲座「光明大讲堂」暑期系列，邀请各界名家开讲。每周日下午举行。\n地点: 光明区图书馆\n时间: 2026-07-13 至 2026-08-24\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd785237b1bdddd@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260825
+SUMMARY:南山博物馆暑期讲座系列
+LOCATION:南山博物馆
+DESCRIPTION:南山博物馆暑期学术讲座系列，邀请文博专家讲述展览背后的故事。每周六下午。免费参与。\n地点: 南山博物馆\n时间: 2026-07-13 至 2026-08-24\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:831e5d1a5bbcca44@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:音乐赏析之苏运莹作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-14 至 2026-07-14\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654469&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6f9a099f5e3f15@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:音乐赏析之苏运莹作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-14 至 2026-07-14\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654473&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7bfb0b43133918@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260826
+SUMMARY:坪山区图书馆少儿暑期工坊
+LOCATION:坪山区图书馆
+DESCRIPTION:坪山区图书馆暑期少儿手工工坊，包含折纸、剪纸、模型制作等。每周三下午举行。免费参与。\n地点: 坪山区图书馆\n时间: 2026-07-14 至 2026-08-25\n详情: https://www.szpslib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:682d89f05b455647@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:音乐赏析之费玉清作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654478&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:30be2d480fc952c8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:音乐赏析之费玉清作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-15 至 2026-07-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654483&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:648bc8d6cc32ddb9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:南图创客空间丨自动往返车
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。南图创客空间丨自动往返车\n地点: 南山图书馆\n时间: 2026-07-15 至 2026-07-15\n详情: https://activity.nslib.cn/activity/info/11631\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c1007851f3bac5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20261016
+SUMMARY:中国科幻史里程碑展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:中国科幻文学与影视发展历程展览，含经典科幻道具展示。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-15 至 2026-10-15\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b459f84d6983767f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260824
+SUMMARY:宝安图书馆暑期阅读夏令营
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆暑期阅读夏令营，包含绘本故事、手工制作、科普讲座等活动。每周三、周五举行。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-15 至 2026-08-23\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:8229e00ff1f1eb33@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期游泳培训班
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-15 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:2951ed609ab0ce7e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260831
+SUMMARY:南山区文化馆暑期公益培训
+LOCATION:南山区文化馆
+DESCRIPTION:南山区文化馆暑期公益艺术培训，包含舞蹈、声乐、书法、国画、摄影等课程。免费报名。\n地点: 南山区文化馆\n时间: 2026-07-15 至 2026-08-30\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:a37f6dd58cd4abdc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:光明区文化馆少儿暑期营
+LOCATION:光明区文化馆
+DESCRIPTION:光明区文化馆少儿暑期活动营，包含手工制作、科普实验、绘本阅读等。免费参与。\n地点: 光明区文化馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.szgm.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b459f84d6983767f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260824
+SUMMARY:宝安图书馆暑期阅读夏令营
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆暑期阅读夏令营，包含绘本故事、手工制作、科普讲座等活动。每周三、周五举行。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-15 至 2026-08-23\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c60ab36f43d1a095@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:龙岗区图书馆少儿编程体验课
+LOCATION:龙岗区图书馆
+DESCRIPTION:龙岗区图书馆暑期少儿编程体验课，Scratch和Python入门，适合7-14岁。免费参与。\n地点: 龙岗区图书馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.szlglib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8d4e23454fa227@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:宝安科技馆暑期创客工坊
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆暑期创客工坊，包含3D打印、电子制作、编程入门等动手实践课程。\n地点: 宝安科技馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7805315862ba1e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:龙岗区青少年宫暑期体育训练营
+LOCATION:龙岗区青少年宫
+DESCRIPTION:龙岗区青少年宫暑期体育训练营，包含篮球、羽毛球、跆拳道等课程。免费报名。\n地点: 龙岗区青少年宫\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.lg.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1233e4caf18eb3cb@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市少年宫暑期少儿剧场
+LOCATION:深圳市少年宫
+DESCRIPTION:深圳市少年宫暑期少儿剧场，包含儿童剧、木偶戏、魔术表演等。免费领票。\n地点: 深圳市少年宫\n时间: 2026-07-15 至 2026-08-25\n详情: http://www.szcp.com
+END:VEVENT
+BEGIN:VEVENT
+UID:8229e00ff1f1eb33@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期游泳培训班
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-15 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae7bd9ef187a4176@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市体育中心暑期运动营
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。\n地点: 深圳市体育中心体育场\n时间: 2026-07-15 至 2026-08-25\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:17616933b9647d0c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:大鹏地质公园博物馆暑期探索营
+LOCATION:大鹏地质公园博物馆
+DESCRIPTION:大鹏地质公园博物馆暑期青少年探索营，包含火山地质考察、化石挖掘体验、海岸地貌观察。\n地点: 大鹏地质公园博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.dapeng.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f10e9d0bc4400748@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:南山博物馆暑期少儿工作坊
+LOCATION:南山博物馆
+DESCRIPTION:南山博物馆暑期少儿手工工作坊，结合展览内容开展陶艺、拓印、绘画等体验活动。免费需预约。\n地点: 南山博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:262077065d572459@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市青少年活动中心暑期科技体验
+LOCATION:深圳市青少年活动中心
+DESCRIPTION:深圳市青少年活动中心暑期科技体验活动，包含VR体验、机器人编程、无人机飞行等。免费报名。\n地点: 深圳市青少年活动中心\n时间: 2026-07-15 至 2026-08-25\n详情: https://www.szaac.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fc68368645737697@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:音乐赏析之《音乐之声》原声带【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654489&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d5970b69d6aff6f2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:音乐赏析之《音乐之声》原声带【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654494&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d97f37abd2f9cbd6@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:馆员故事会《小壁虎借尾巴》
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。馆员故事会《小壁虎借尾巴》\n地点: 南山图书馆\n时间: 2026-07-16 至 2026-07-16\n详情: https://activity.nslib.cn/activity/info/11626\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:17ac956b438dfd98@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260828
+SUMMARY:龙华区图书馆暑期科普讲座
+LOCATION:龙华区图书馆
+DESCRIPTION:龙华区图书馆暑期科普讲座系列活动，包含天文、地理、生物等主题。每周六下午举行。免费参与。\n地点: 龙华区图书馆\n时间: 2026-07-16 至 2026-08-27\n详情: https://www.szlhlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ce77f05fd4844721@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:海上花
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满45周岁以上。
+参与方式：先到先得，影厅提供28个座位，观影座位不指定。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654174&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2552074a4e7c7acc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:东方幻境之旅：《妖猫传》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651456&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:b520ba1072fb0cea@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:“非遗体验”走进观澜手工创作营
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：馆外（具体见简介）
+地址：具体见活动简介或活动备注
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656045&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb06b8f82767f11@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654499&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4a6f67be7645eb@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:观影《潜艇总动员：海底两万里》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654199&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:1f77f1fb1581c40c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654504&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:48ceb4acd0c7eff9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:沙里淘晶-经典民乐赏析丨国乐文脉巡礼.弦歌唐韵 
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼报告厅
+地址：福田区福中一路2001号深圳图书馆五楼报告厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=653422&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:523887c357683694@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:心理咨询
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名\n地点: 南山图书馆\n时间: 2026-07-17 至 2026-07-17\n详情: https://activity.nslib.cn/activity/info/11635\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:55db377668f8b76b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第85场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655050&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:9d419e068e3b4f7a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:绘本半小时：《阿圆的家》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：活动无需预约，场地有限，座位先到先得。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654300&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f51e38e1626aca56@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:书海探底——智慧书库参观体验活动第638场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654636&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:99636d8ca3d04843@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第86场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655051&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:12cc02475b3465d2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:律师公益咨询活动
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆  深圳市律师协会
+地点：中心馆 一楼展厅
+地址：福田区福中一路2001号深圳图书馆一楼展厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655107&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:378824055d07bc31@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:故事小讲堂第150期：“感知四季”自然主题读书会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654135&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:620175f97289f3a5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:艺术疗愈工作坊第4期：边界与共生——在关系中建立健康自我
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647681&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:532f6f9cb0ba91ef@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:书海探底——智慧书库参观体验活动第639场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654637&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:779db5f1ed63a2e8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:海上花
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654168&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b9958e51ebbd45@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第87场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655052&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:34b7ca0d59deab5c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。综合\n地点: 南山区青少年活动中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22f60f5f8ef649f7a4786e3c77f2d393\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:df4b0853695421cd@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260816
+SUMMARY:宝安区青少年宫暑期科技夏令营
+LOCATION:宝安区青少年宫
+DESCRIPTION:宝安区青少年宫暑期科技夏令营，包含机器人编程、无人机体验、科学实验等。免费报名。\n地点: 宝安区青少年宫\n时间: 2026-07-18 至 2026-08-15\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:83da46f25135b17e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:2026 不止于攀登·深圳珠峰登顶者分享会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市登山户外运动协会
+地点：中心馆 五楼报告厅
+地址：福田区福中一路2001号深圳图书馆五楼报告厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654303&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:545f854e9598b52f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第88场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655053&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:cc15c9902f74780e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:家长课堂：读懂孩子行为背后的“无声语言”
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647128&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4ddb42654ec63e4c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:书海探底——智慧书库参观体验活动第640场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654640&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:1b42c18f98f409a8@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654141&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:aa452486a9dbca68@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:弦上云烟 · 沉浸式民乐聆赏会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约
+备注：专业级高保真音响 + LPCD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=650335&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:49fba89bf1511900@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第89场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655054&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5f1c28757701b3@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:她影：《女人世界》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652259&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:39d8e137ceedd2d4@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:苏格拉底思辨荟第二季第1期：从“虚拟陪伴”到“物理在场”：当机器人走进家门
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F北书房
+地址：深圳市龙华区腾龙路30号
+备注：具体报名方式详见深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652220&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3896734e120ecc8e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:“走进何宇鹏的拓绘世界”——拓绘艺术分享与现场体验活动
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 4F报告厅
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655560&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f9dab68ba21bbb@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:寻找智美更登
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654169&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:a2835f4b6fdd413d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:书海探底——智慧书库参观体验活动第641场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654641&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f1df845a8aa92523@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第90场
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼文旅融合专区
+地址：福田区福中一路2001号深圳图书馆一楼大厅
+需预约
+备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655055&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2dac7934f9f33c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:“深读”读书沙龙 | AI时代，普通人如何让自己被看见？ ——打造属于你的个人IP
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼南书房
+地址：福田区福中一路2001号深圳图书馆一楼南书房\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639636&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:48d9f591838eeb65@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:阖家欢电影展映：《雄狮少年2》
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:地点：宝安区图书馆报告厅1；地址：宝安区宝兴路1号宝安图书馆负一楼报告厅1；方式：线下；咨询：（活动咨询电话）27789800；主办：宝安区公共文化体育服务中心\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.balib.cn\n联系: （活动咨询电话）27789800
+END:VEVENT
+BEGIN:VEVENT
+UID:d9dc7647b0ef9ac4@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:美丽星期天——室内乐之夜
+LOCATION:深圳音乐厅
+DESCRIPTION:弦乐四重奏室内乐公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-07-20 至 2026-07-20\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:eb432503ff2f63f9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260826
+SUMMARY:南山区文化馆暑期少儿艺术营
+LOCATION:南山区文化馆
+DESCRIPTION:南山区文化馆暑期少儿艺术营，包含儿童绘画、手工制作、音乐启蒙等课程。免费报名。\n地点: 南山区文化馆\n时间: 2026-07-20 至 2026-08-25\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:78ff00c444da6c7d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:音乐赏析之苏运莹作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-21 至 2026-07-21\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654470&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8830aec3e864f0@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:音乐赏析之苏运莹作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-21 至 2026-07-21\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654474&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5be4fa60d164286d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:视障儿童夏令营南科大校园科普实验
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市盲人协会、深圳广电娃公益金
+地点：馆外（具体见简介）
+地址：具体见活动简介或活动备注\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-22 至 2026-07-22\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:e2563a920108d413@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:音乐赏析之费玉清作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-22 至 2026-07-22\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:50b824182de90e94@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:音乐赏析之费玉清作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-22 至 2026-07-22\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3a11c31b342b4f55@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260813
+SUMMARY:成人汉唐舞（4节课程，自备舞蹈练功服）
+LOCATION:宝安区文化馆
+DESCRIPTION:免费。需预约报名。培训\n地点: 宝安区文化馆\n时间: 2026-07-22 至 2026-08-12\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:50e97cfc300c2f8c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:音乐赏析之《音乐之声》原声带【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-07-23\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654490&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:47046d64f5ca8753@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:音乐赏析之《音乐之声》原声带【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-07-23\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654495&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6396b2da0559225a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区
+地址：福田区福中一路2001号深圳图书馆
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2165a5f73bed177a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260808
+SUMMARY:悦读《爱丽丝漫游奇境记》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 少儿服务区
+地址：深圳市龙华区腾龙路30号
+备注：具体参与方式请关注深圳图书馆微信公众号推文\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-23 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:9a46bc3fb29660c6@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:寻找智美更登
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满45周岁以上。
+参与方式：先到先得，影厅提供28个座位，观影座位不指定。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654175&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:8466bfb8769a2b83@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:东方幻境之旅：《照明商店》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651458&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3a06338722842c19@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654500&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:49e260128f3d4f2f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:观影《卑鄙的我》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654204&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:53634525460dda6c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:观影《爱丽丝梦游仙境》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654200&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d25518d12cce4263@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654505&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:76041cd37c510dfc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:读剧：中华少儿经典故事
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼报告厅
+地址：福田区福中一路2001号深圳图书馆五楼报告厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655002&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7d8c32701b8affae@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:绘本半小时：《阿兔的小瓷碗》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：活动无需预约，场地有限，座位先到先得。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654301&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7e448df8d60d22d5@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:书海探底——智慧书库参观体验活动第642场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654642&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:df59e6b6a59e9f79@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:律师公益咨询活动
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆  深圳市律师协会
+地点：中心馆 一楼展厅
+地址：福田区福中一路2001号深圳图书馆一楼展厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655108&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7fd1cca91bdd6c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:原版BOOK快乐读：乐于助人的Bella
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+需预约
+备注：本场活动面向6-8岁少儿，限额20名。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647640&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:73981ea3c766516f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:胭脂扣
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654170&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5d8519805fbc82@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:书海探底——智慧书库参观体验活动第643场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654643&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5d73242f0bbd26ab@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:故事小讲堂第151期：“不一样，也很好”创意主题读书会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647606&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d6204fc6ef78c1ac@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:“圳作一夏”主题系列活动 |  企业实地参访之斯达高瓷艺
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：馆外（具体见简介）
+地址：具体见活动简介或活动备注
+备注：年满18周岁读者可预约报名，报名方式详见深圳图书馆微信公众号推文。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654677&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ee02600b6b31cc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:“民断是非”大型思辨性公益普法活动
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市法学会
+地点：北馆 4F报告厅
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637446&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7c4a1709f8c8021d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:弦上云烟 · 沉浸式民乐聆赏会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约
+备注：专业级高保真音响 + LPCD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=650337&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3b57469f525d94@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:巫婆读书会 | 追逐候鸟的人：在旷野与书页间重拾好奇
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市彩虹花公益小书房
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642082&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e1b0b517c612ba@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:书海探底——智慧书库参观体验活动第644场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654644&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:09e9ae09e0602c7a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654142&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9c5191d3e3cc53@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:她影：《七月与安生》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652260&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:710c76ae33e4d183@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:故事小讲堂第152期：“夏天的故事”陈伯吹获奖图书读书会
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647608&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6969f3399e960112@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:像鸡毛一样飞
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654171&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:fa0ff837f84e850e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:书海探底——智慧书库参观体验活动第645场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654645&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7384cafd51341f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:“深读”读书沙龙 | 在文学中疗愈和成长自己
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼南书房
+地址：福田区福中一路2001号深圳图书馆一楼南书房\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639637&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c5e445843eee42@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:阖家欢电影展映：《飞驰人生2》
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:地点：宝安区图书馆报告厅1；地址：宝安区宝兴路1号宝安图书馆负一楼报告厅1；方式：线下；咨询：（活动咨询电话）27789800；主办：宝安区公共文化体育服务中心\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.balib.cn\n联系: （活动咨询电话）27789800
+END:VEVENT
+BEGIN:VEVENT
+UID:c82d84a7df864bea@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:美丽星期天——民乐鉴赏
+LOCATION:深圳音乐厅
+DESCRIPTION:民族器乐鉴赏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-07-27 至 2026-07-27\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc583653f0fcf27@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:音乐赏析之苏运莹作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654471&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:ebea5542c6d4cc03@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652471&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:39f81bafa2855ecc@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:音乐赏析之苏运莹作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654475&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa4777d014bc1da@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:音乐赏析之费玉清作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654480&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:936b4f31399637ba@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652472&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb44eaac1a871de@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:音乐赏析之费玉清作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654485&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:36f6da3855e77204@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:2025年桃源公益形体培训活动
+LOCATION:桃源街道综合性文化服务中心
+DESCRIPTION:免费。直接前往。可直接前往。2025年桃源公益形体培训活动\n地点: 桃源街道综合性文化服务中心\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9
+END:VEVENT
+BEGIN:VEVENT
+UID:1badbc08f6b9f1ae@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:2025年桃源公益形体培训活动
+LOCATION:南山区青少年活动中心
+DESCRIPTION:免费。2025年桃源公益形体培训活动\n地点: 南山区青少年活动中心\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:da39b5f5027a739a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:音乐赏析之《音乐之声》原声带【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654491&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2f7a2218d27144@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652473&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:8f7ea9cb2aed4925@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:音乐赏析之《音乐之声》原声带【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654496&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e7166f56c12ad2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:胭脂扣
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满45周岁以上。
+参与方式：先到先得，影厅提供28个座位，观影座位不指定。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654176&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5a98b2e9c7ac76@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:东方幻境之旅：《侍神令》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651461&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5086cb62e9e64a15@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【下午场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654501&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:53de0c7734e43349@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:艺术疗愈人生
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳女报杂志社
+地点：北馆 1F北书房
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642144&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f3f5c053de2f0d62@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:观影《哪吒之魔童闹海》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654201&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6706d2606d9ec72c@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:观影《爱丽丝梦游仙境》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654205&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:b06c3989d113339e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652474&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:826a7120287fad0e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:音乐赏析之拉赫玛尼诺夫作品【晚上场】
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654506&year=2026&month=7&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3e8027af463b0e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:中超联赛 深圳新鹏城 vs 重庆铜梁龙
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。\n地点: 深圳市体育中心体育场\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:20d8c6956436e031@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655872&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f293d4940b7d7aed@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:夏日科幻季——《沙丘》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655672&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcfd04fc90cf159@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:美丽星期天——合唱音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳合唱团公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-03 至 2026-08-03\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:67a2b3723f539913@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652475&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:02d3b1f8b34e8540@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:8b64518b836798c0@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:俄罗斯冰上芭蕾《胡桃夹子》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编。\n地点: 深圳滨海艺术中心\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:cd237ad499481cb7@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-06 至 2026-08-06\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652477&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:810b399f4c902cef@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:俄罗斯冰上芭蕾《天鹅湖》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，冰上版天鹅湖。\n地点: 深圳滨海艺术中心\n时间: 2026-08-06 至 2026-08-06\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b52ec71e6d3b00f9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:夏日科幻季——《明日战纪》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-07 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655673&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:0eba1a453bbb2689@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-07 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652478&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1516450582102f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:观影《龙猫》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-07 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654210&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:722fa96cc8315d84@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:观影《妈妈咪鸭》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-07 至 2026-08-07\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654206&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4377970a736d6bf4@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:跟着音乐去旅行——暑期亲子音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:含《动物狂欢节》《狮子王》组曲等，专为亲子设计的互动音乐会。\n地点: 深圳音乐厅\n时间: 2026-08-07 至 2026-08-07\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:88c495e1e5a9fde9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:故事小讲堂第153期：“神奇魔法”想象力主题图书会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-08 至 2026-08-08\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656199&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4d8f262d555a4c06@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:俄罗斯冰上芭蕾《天鹅湖》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，冰上版天鹅湖（加演场）。\n地点: 深圳滨海艺术中心\n时间: 2026-08-08 至 2026-08-08\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6992482ad7d0ae4a@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:鼻涕虫教授的昆虫秀
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:英国原版互动音乐儿童偶剧，适合3岁以上儿童。\n地点: 深圳滨海艺术中心\n时间: 2026-08-08 至 2026-08-08\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:18913d89487273cb@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-09 至 2026-08-09\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655873&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:1640892e285c452d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:夏日科幻季——《明日之战》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-09 至 2026-08-09\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655674&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac81a86cf06cac4@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:俄罗斯冰上芭蕾《胡桃夹子》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编（加演场）。\n地点: 深圳滨海艺术中心\n时间: 2026-08-09 至 2026-08-09\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:44c43e8b65a24630@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:美丽星期天——钢琴独奏会
+LOCATION:深圳音乐厅
+DESCRIPTION:青年钢琴家独奏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-10 至 2026-08-10\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:a20754d30ec5d79d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:夏日科幻季——《749局》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-14 至 2026-08-14\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655675&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c57460157e25d0e1@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:观影《愤怒的小鸟大电影》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-14 至 2026-08-14\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654207&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3919d2c7b15f67@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:观影《星际宝贝》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-14 至 2026-08-14\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654211&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:7c67fd17a00a387e@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:故事小讲堂第154期：“勇敢做自己”入学准备主题图书会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-15 至 2026-08-15\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656200&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:282f8963fd96622d@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260821
+SUMMARY:龙华区青少年宫暑期艺术展演
+LOCATION:龙华区青少年宫
+DESCRIPTION:龙华区青少年宫暑期艺术展演，展示暑期培训成果，包含舞蹈、声乐、器乐等表演。免费观看。\n地点: 龙华区青少年宫\n时间: 2026-08-15 至 2026-08-20\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e60c0a1a94b18073@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-16 至 2026-08-16\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655874&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:79c8d995f15f40d2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:夏日科幻季——《月球陨落》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-16 至 2026-08-16\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655676&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:49d68bb9336591ab@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:美丽星期天——弦乐鉴赏
+LOCATION:深圳音乐厅
+DESCRIPTION:弦乐鉴赏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-17 至 2026-08-17\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b10449c46a714fd2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:夏日科幻季——《流浪地球》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-21 至 2026-08-21\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655677&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:1bdf94bf56c415e2@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:观影《萤火奇兵》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-21 至 2026-08-21\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654208&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:bb46ec9c1c8af083@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:观影《星际宝贝2》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-21 至 2026-08-21\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654212&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c0906ec292bf5f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:故事小讲堂第155期：“守护最美的太阳“经典主题读书会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-22 至 2026-08-22\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4c92ce6bb1b93a8b@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:中超联赛 深圳新鹏城 vs 浙江
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间19:35。\n地点: 深圳市体育中心体育场\n时间: 2026-08-22 至 2026-08-22\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5ffc852b7fdabf@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-23 至 2026-08-23\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655875&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:95f608e02bb02e57@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:夏日科幻季——《流浪地球2》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-23 至 2026-08-23\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655678&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:5102a78487d233ac@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:故事小讲堂第156期：“泥巴会唱歌”陈伯吹获奖图书读书会
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+备注：面向3-8岁少儿读者及家长\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-23 至 2026-08-23\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647613&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:ec8d1195e4e16e75@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:美丽星期天——管乐音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:管乐重奏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-24 至 2026-08-24\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:7df978691f279e5f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:夏日科幻季——《蜘蛛侠》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655679&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:85a464baf24bfa75@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:观影《黑猫警长之翡翠之星》
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654209&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:eec238dab46f6c57@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:观影《借物少女艾莉缇》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654213&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:ef0f9156ba7b56b9@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:中超联赛 深圳新鹏城 vs 上海海港
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。\n地点: 深圳市体育中心体育场\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:22bfd08e57eabc58@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-30 至 2026-08-30\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655876&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:bc560f8ca428a538@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:夏日科幻季——《星际探索》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-30 至 2026-08-30\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655680&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:af313f300f850f59@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:美丽星期天——童声合唱
+LOCATION:深圳音乐厅
+DESCRIPTION:童声合唱团公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-31 至 2026-08-31\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:354c38b3da5d5cdd@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:“民断是非”大型思辨性公益普法活动
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市法学会
+地点：北馆 4F报告厅
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-09-24 至 2026-09-24\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637447&year=2026&month=9&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:08cb4ebafaef807f@shenzhen-exhibitions
+DTSTAMP:20260709T123345Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:“民断是非”大型思辨性公益普法活动
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、深圳市法学会
+地点：北馆 4F报告厅
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-11-28 至 2026-11-28\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637449&year=2026&month=11&customizedUrl=salon
+END:VEVENT
+END:VCALENDAR
