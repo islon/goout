@@ -117,6 +117,7 @@ def parse_activity_item(item):
         description = item.get('activityProfile', '')
         if not description:
             description = item.get('tagName', '')
+        tag = item.get('tagName', '')
         
         # 判断是否免费
         is_free = item.get('activityIsFree', 0)
@@ -127,8 +128,15 @@ def parse_activity_item(item):
         subject = item.get('activitySubject', '')
         
         desc_parts = []
+        if description and len(description) >= 15:
+            desc_parts.append(description)
+        elif tag and description == tag:
+            pass
+        elif description:
+            desc_parts.append(description)
+        
         if is_free == 1:
-            desc_parts.append("免费")
+            desc_parts.append("免费参与")
         elif price and price != '0':
             desc_parts.append(f"费用：{price}元")
         
@@ -140,10 +148,10 @@ def parse_activity_item(item):
         elif reservation == 1:
             desc_parts.append("可直接前往")
         
-        if description:
-            desc_parts.append(description)
-        
         final_desc = '。'.join([p for p in desc_parts if p]) if desc_parts else ''
+        if len(final_desc) < 20:
+            extra = f"{title}。"
+            final_desc = extra + final_desc
         
         # URL
         url = f"https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId={item.get('activityId', '')}"

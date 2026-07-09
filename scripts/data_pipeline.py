@@ -96,6 +96,11 @@ def normalize_activity(raw, venue_default=''):
 
     category = categorize_activity(title, description)
 
+    if not description or len(description) < 10:
+        description = f"{title}。{venue}举办。"
+        if fee and fee != '免费':
+            description += f"{fee}。"
+
     if not family_friendly:
         family_friendly = is_family_friendly(title, description, category)
 
