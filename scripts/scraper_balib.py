@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 import json
 import os
 import sys
@@ -7,132 +6,136 @@ import re
 import time
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from config import BALIB_URL, BALIB_NAME, OUTPUT_DIR, JSON_FILE
-
-
-def extract_dates(text):
-    date_patterns = [
-        r'(\d{4})-(\d{1,2})-(\d{1,2})',
-        r'(\d{4})/(\d{1,2})/(\d{1,2})',
-        r'(\d{4})年(\d{1,2})月(\d{1,2})日',
-    ]
-    
-    dates = []
-    for pattern in date_patterns:
-        matches = re.findall(pattern, text)
-        for match in matches:
-            year, month, day = match
-            dates.append(f"{year}-{int(month):02d}-{int(day):02d}")
-    
-    dates = sorted(list(set(dates)))
-    return dates
+from config import BALIB_NAME, OUTPUT_DIR, JSON_FILE
 
 
 def fetch_balib_activities():
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Content-Type': 'application/x-www-form-urlencoded'
     }
-    
+
     activities = []
-    
-    category_urls = [
-        'https://www.balib.cn/category/13',
-        'https://www.balib.cn/category/275',
-        'https://www.balib.cn/category/126',
-    ]
-    
-    for category_url in category_urls:
+    api_url = 'https://www.balib.cn/api/getSZAction'
+    seen_ids = set()
+    proxies = {'http': 'http://127.0.0.1:18080', 'https': 'http://127.0.0.1:18080'}
+
+    # 尝试翻页获取所有活动
+    for page in range(1, 50):
         try:
-            response = requests.get(category_url, headers=headers, timeout=10)
+            params = {'page': page, 'limit': 10}
+            response = requests.get(api_url, headers=headers, params=params,
+                                   timeout=30, verify=False, proxies=proxies)
             response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'lxml')
-            
-            info_links = []
-            for link in soup.find_all('a', href=True):
-                href = link['href']
-                if href.startswith('/information/'):
-                    info_links.append(href)
-            
-            info_links = list(set(info_links))[:30]
-            
-            for href in info_links:
-                try:
-                    full_url = f"https://www.balib.cn{href}"
-                    response = requests.get(full_url, headers=headers, timeout=10)
-                    response.raise_for_status()
-                    soup = BeautifulSoup(response.text, 'lxml')
-                    
-                    title_tag = soup.find('h1') or soup.find('title')
-                    name = title_tag.get_text().strip() if title_tag else ''
-                    
-                    if not name or len(name) < 2:
-                        continue
-                    
-                    text = soup.get_text()
-                    
-                    keywords = ['活动', '讲座', '沙龙', '展览', '亲子', '阅读', '培训', '比赛', '演出']
-                    has_keyword = any(kw in name for kw in keywords)
-                    
-                    if not has_keyword:
-                        continue
-                    
-                    dates = extract_dates(text)
-                    
-                    if len(dates) == 0:
-                        continue
-                    
-                    start_date = dates[0]
-                    end_date = dates[-1]
-                    
-                    content_divs = soup.find_all(['div', 'article'], class_=re.compile(r'(content|article|detail|text|active-detail)'))
-                    description = ''
-                    for div in content_divs:
-                        div_text = div.get_text().strip()
-                        if len(div_text) > 50:
-                            description = div_text[:500]
-                            break
-                    
-                    if not description:
-                        paragraphs = soup.find_all('p')
-                        combined_text = ' '.join([p.get_text().strip() for p in paragraphs])
-                        if len(combined_text) > 50:
-                            description = combined_text[:500]
-                    
-                    description = re.sub(r'\s+', ' ', description).strip()
-                    
-                    activity = {
-                        'name': name,
-                        'venue': BALIB_NAME,
-                        'start_date': start_date,
-                        'end_date': end_date,
-                        'url': full_url,
-                        'contact': '',
-                        'description': description,
-                        'source': 'balib'
-                    }
-                    activities.append(activity)
-                    
-                    time.sleep(0.3)
-                    
-                except Exception as e:
+            data = response.json()
+
+            if data.get('code') != 0:
+                break
+
+            records = data.get('record', [])
+            if not records:
+                break
+
+            new_count = 0
+            for item in records:
+                item_id = item.get('id')
+                if item_id in seen_ids:
                     continue
-            
+                seen_ids.add(item_id)
+
+                title = item.get('title', '').strip()
+                if not title or len(title) < 2:
+                    continue
+
+                content = item.get('content', '').strip()
+                start_time = item.get('activityStartTime', '')
+                end_time = item.get('activityEndTime', '')
+                location = item.get('location', '')
+                address = item.get('address', '')
+                library_name = item.get('libraryname', '')
+                signup_note = item.get('signupnote', '')
+                way = item.get('way', '')
+                speaker = item.get('speaker', '')
+                speaker_summary = item.get('speakersummary', '')
+                organizer = item.get('organizer2', '') or item.get('organizer4', '')
+
+                # 解析日期
+                start_date = ''
+                end_date = ''
+                date_match = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', start_time)
+                if date_match:
+                    y, m, d = date_match.groups()
+                    start_date = f"{y}-{int(m):02d}-{int(d):02d}"
+
+                date_match = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', end_time)
+                if date_match:
+                    y, m, d = date_match.groups()
+                    end_date = f"{y}-{int(m):02d}-{int(d):02d}"
+
+                if not start_date:
+                    continue
+
+                if not end_date:
+                    end_date = start_date
+
+                venue = f"{BALIB_NAME} ({library_name})" if library_name and library_name != BALIB_NAME else BALIB_NAME
+
+                # 构建描述
+                description_parts = []
+                if content and content != title:
+                    description_parts.append(content)
+                if speaker:
+                    description_parts.append(f"主讲人：{speaker}")
+                if speaker_summary:
+                    description_parts.append(speaker_summary)
+                if location:
+                    description_parts.append(f"地点：{location}")
+                if address and address != '详见活动简介':
+                    description_parts.append(f"地址：{address}")
+                if way:
+                    description_parts.append(f"方式：{way}")
+                if signup_note:
+                    description_parts.append(f"咨询：{signup_note}")
+                if organizer:
+                    description_parts.append(f"主办：{organizer}")
+
+                description = '；'.join(description_parts)
+
+                activity = {
+                    'name': title,
+                    'venue': venue,
+                    'start_date': start_date,
+                    'end_date': end_date,
+                    'url': f"https://www.balib.cn",
+                    'contact': signup_note or '',
+                    'description': description,
+                    'source': 'balib'
+                }
+                activities.append(activity)
+                new_count += 1
+
+            if new_count == 0:
+                break  # 连续两页无新数据则停止
+
+            time.sleep(0.3)
+
         except Exception as e:
-            continue
-    
+            print(f"balib page {page} error: {e}")
+            break
+
     return activities
 
 
 def main():
     activities = fetch_balib_activities()
     print(f"Fetched {len(activities)} activities from {BALIB_NAME}")
-    
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     json_path = os.path.join(OUTPUT_DIR, f"balib_{JSON_FILE}")
-    
+
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(activities, f, ensure_ascii=False, indent=2)
-    
+
     print(f"Data saved to {json_path}")
 
 

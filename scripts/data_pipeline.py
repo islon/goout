@@ -2,7 +2,22 @@ import json
 import os
 import re
 import sys
+import ssl
+import warnings
 from datetime import datetime, timedelta
+
+# 全局禁用 SSL 验证（gov.cn 网站证书有 BAD_ECPOINT 问题）
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+warnings.filterwarnings('ignore', message='Unverified HTTPS request')
+
+# Monkey-patch requests Session 以全局禁用 SSL 验证
+import requests
+_original_request = requests.Session.request
+def _patched_request(self, method, url, **kwargs):
+    kwargs['verify'] = False
+    return _original_request(self, method, url, **kwargs)
+requests.Session.request = _patched_request
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import OUTPUT_DIR, JSON_FILE, ICS_FILE
