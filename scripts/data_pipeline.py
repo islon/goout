@@ -34,6 +34,9 @@ REAL_SCRAPERS = [
     ('南山区文化馆', 'scraper_nswhg', 'fetch_nswhg_activities'),
     ('南山区青少年活动中心', 'scraper_nsqsng', 'fetch_nsqsng_activities'),
     ('南山文体中心', 'scraper_nswtzx', 'fetch_nswtzx_activities'),
+    # 会展中心（API / HTML 解析，数据量大）
+    ('深圳会展中心', 'scraper_szcec', 'fetch_szcec_exhibitions'),
+    ('深圳国际会展中心', 'scraper_shenzhen_world', 'fetch_shenzhen_world_exhibitions'),
     # 其他有抓取能力的爬虫（即使当前环境可能失败，GitHub Actions 环境可能成功）
     ('宝安图书馆', 'scraper_balib', 'fetch_balib_activities'),
     ('深圳少年儿童图书馆', 'scraper_sz_children_lib', 'fetch_sz_children_lib_activities'),
