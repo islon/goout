@@ -469,34 +469,15 @@
         }
 
         .exhibition-desc {
-            font-size: 12px;
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 10px;
+        }
+
+        .exhibition-desc.empty {
             color: var(--text-muted);
-            line-height: 1.6;
-            margin-bottom: 8px;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            transition: all 0.3s;
-        }
-
-        .exhibition-desc.expanded {
-            display: block;
-            -webkit-line-clamp: unset;
-            max-height: 200px;
-        }
-
-        .expand-link {
-            color: var(--text-muted);
-            font-size: 11px;
-            cursor: pointer;
-            margin-bottom: 8px;
-            display: inline-block;
-            font-weight: 600;
-        }
-
-        .expand-link:hover {
-            color: var(--sand-primary);
+            font-style: italic;
         }
 
         .exhibition-link {
@@ -850,7 +831,7 @@
             }
 
             .main-wrapper {
-                padding: 24px;
+                padding: 16px;
             }
 
             .content {
@@ -858,11 +839,11 @@
             }
 
             .header {
-                padding: 24px 20px 32px;
+                padding: 12px 20px 16px;
             }
 
             .header h1 {
-                font-size: 32px;
+                font-size: 24px;
             }
         }
 
@@ -1410,7 +1391,7 @@
         let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
         let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
         let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
-        let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'family';
+        let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'all';
         let currentSearchQuery = '';
         let currentPage = 1;
         const PAGE_SIZE = 50;
@@ -1801,7 +1782,6 @@
                     ? formatDate(startDate) 
                     : `${startDate.substring(5)} ~ ${endDate.substring(5)}`;
 
-                const hasLongDesc = exhibition.description && exhibition.description.length > 60;
                 const cardId = exhibition.id || `${exhibition.source}-${exhibition.name}-${startDate}`;
                 html += `
                     <div class="exhibition-card cat-${activityType}" data-id="${cardId}" data-idx="${globalIdx}">
@@ -1819,10 +1799,9 @@
                             <span>⏱️ ${getDuration(startDate, endDate)}</span>
                             <span>📍 ${exhibition.venue}</span>
                         </div>
-                        ${exhibition.description ? `
-                        <div class="exhibition-desc" id="desc-${cardId}">${exhibition.description}</div>
-                        ${hasLongDesc ? `<div class="expand-link" data-desc-id="${cardId}">展开 ↓</div>` : ''}
-                        ` : ''}
+                        ${exhibition.description
+                            ? `<div class="exhibition-desc">${exhibition.description}</div>`
+                            : `<div class="exhibition-desc empty">暂无详细介绍</div>`}
                         <div class="exhibition-link">点击查看详情 →</div>
                     </div>
                 `;
@@ -1864,13 +1843,6 @@
                 });
             });
 
-            document.querySelectorAll('.expand-link').forEach(link => {
-                link.addEventListener('click', function(e) {
-                    e.stopPropagation();
-                    const descId = this.dataset.descId;
-                    toggleDesc(descId);
-                });
-            });
         }
 
         function goToPage(page) {
@@ -2056,18 +2028,6 @@
             console.log(`点击记录: ${source} - ${activityName} (累计: ${stats[source]}次)`);
         }
 
-        function toggleDesc(id) {
-            const desc = document.getElementById(`desc-${id}`);
-            const link = desc.nextElementSibling;
-            if (desc.classList.contains('expanded')) {
-                desc.classList.remove('expanded');
-                link.textContent = '展开 ↓';
-            } else {
-                desc.classList.add('expanded');
-                link.textContent = '收起 ↑';
-            }
-        }
-
         let sourceFilterExpanded = false;
         function toggleSourceFilter() {
             const bar = document.getElementById('source-filter-bar');
@@ -2116,7 +2076,7 @@
             currentFeeFilter = 'all';
             currentTypeFilter = 'all';
             currentDistrictFilter = 'all';
-            currentFamilyFriendlyFilter = 'family';
+            currentFamilyFriendlyFilter = 'all';
             currentSearchQuery = '';
             
             localStorage.setItem('schedule_time_filter', 'upcoming');
