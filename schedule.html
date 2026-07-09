@@ -1781,7 +1781,7 @@
                 const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
                                 feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
                 const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
-                const familyBadge = exhibition.family_friendly === true ? `<span class="badge family">👶 适合亲子</span>` : '';
+                const familyBadge = (exhibition.family_friendly === true && activityType !== 'family') ? `<span class="badge family">👶 适合亲子</span>` : '';
                 
                 const dateDisplay = startDate === endDate 
                     ? formatDate(startDate) 
@@ -1925,7 +1925,7 @@
             const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
                             feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
             const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
-            const familyBadge = exhibition.family_friendly === true ? `<span class="badge family">👶 适合亲子</span>` : '';
+            const familyBadge = (exhibition.family_friendly === true && activityType !== 'family') ? `<span class="badge family">👶 适合亲子</span>` : '';
             badges.innerHTML = `${typeBadge} ${feeBadge} ${familyBadge}`;
 
             const startDate = exhibition.start_date;
