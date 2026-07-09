@@ -285,58 +285,7 @@
             <span class="stat-value" id="filtered-count">0</span>
             <span class="stat-label">筛选后</span>
         </div>
-        <div class="stat-item">
-            <span class="stat-value" id="szcec-count">0</span>
-            <span class="stat-label">深圳会展中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="shenzhen_world-count">0</span>
-            <span class="stat-label">深圳国际会展中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="szlib-count">0</span>
-            <span class="stat-label">深圳图书馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="balib-count">0</span>
-            <span class="stat-label">宝安图书馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="bayarea_eye-count">0</span>
-            <span class="stat-label">湾区之眼</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_kjg-count">0</span>
-            <span class="stat-label">宝安科技馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_ty-count">0</span>
-            <span class="stat-label">宝安体育中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_guihua-count">0</span>
-            <span class="stat-label">城市规划展览馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_qingshaonian-count">0</span>
-            <span class="stat-label">宝安区青少年宫</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="shenzhen_binhai_art-count">0</span>
-            <span class="stat-label">深圳滨海艺术中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_zonghe-count">0</span>
-            <span class="stat-label">宝安综合训练馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="huanle_juchang-count">0</span>
-            <span class="stat-label">欢乐剧场</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_binhai_park-count">0</span>
-            <span class="stat-label">宝安滨海文化公园</span>
-        </div>
+        
     </div>
 
     <table>
@@ -453,16 +402,17 @@
             const topVenues = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
             
             const statsDiv = document.getElementById('stats');
-            // 保留前3个固定元素
-            const fixedItems = statsDiv.querySelectorAll('.stat-item');
-            for (let i = 3; i < fixedItems.length; i++) {
-                fixedItems[i].remove();
+            // 保留前2个固定元素（总活动数、筛选后），移除其余动态项
+            const items = statsDiv.querySelectorAll('.stat-item');
+            for (let i = 2; i < items.length; i++) {
+                items[i].remove();
             }
             
             topVenues.forEach(([venue, count]) => {
                 const div = document.createElement('div');
                 div.className = 'stat-item';
-                div.innerHTML = `<span class="stat-value">${count}</span><span class="stat-label">${venue.length > 10 ? venue.slice(0, 10) + '...' : venue}</span>`;
+                const shortName = venue.length > 10 ? venue.slice(0, 10) + '...' : venue;
+                div.innerHTML = `<span class="stat-value">${count}</span><span class="stat-label">${shortName}</span>`;
                 statsDiv.appendChild(div);
             });
         }
