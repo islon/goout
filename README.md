@@ -29,14 +29,14 @@
 
 ### 方式一：订阅到日历（推荐）
 
-1. 打开 [订阅页面](https://islon.github.io/shenzhen-exhibitions/)
+1. 打开 [订阅页面](https://islon.github.io/goout/)
 2. 选择你的平台（iOS / Android）
 3. 点击"添加到日历"或复制订阅链接
 4. 活动信息将自动同步到你的手机日历
 
 ### 方式二：浏览活动列表
 
-直接访问 [活动日程](https://islon.github.io/shenzhen-exhibitions/schedule.html)，支持按时间、类型、区县、收费状态等多维度筛选。
+直接访问 [活动日程](https://islon.github.io/goout/schedule.html)，支持按时间、类型、区县、收费状态等多维度筛选。
 
 ---
 

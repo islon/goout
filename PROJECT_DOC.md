@@ -120,9 +120,9 @@
 
 ### 5.1 GitHub Pages 部署
 
-1. 创建 GitHub 仓库：`https://github.com/islon/shenzhen-exhibitions`
+1. 创建 GitHub 仓库：`https://github.com/islon/goout`
 2. 启用 GitHub Pages：Settings → Pages → Source: main / (root)
-3. 访问地址：`https://islon.github.io/shenzhen-exhibitions/`
+3. 访问地址：`https://islon.github.io/goout/`
 
 ### 5.2 自动更新
 
@@ -152,7 +152,7 @@ jobs:
 
 ### 6.1 用户订阅
 
-1. 打开落地页：`https://islon.github.io/shenzhen-exhibitions/`
+1. 打开落地页：`https://islon.github.io/goout/`
 2. 点击「添加到我的日历」按钮
 3. 按照提示完成订阅
 
@@ -170,10 +170,10 @@ python scripts/main.py
 
 | 链接类型 | URL |
 |----------|-----|
-| 落地页 | https://islon.github.io/shenzhen-exhibitions/ |
-| ICS 文件 | https://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics |
-| 订阅链接 | webcal://islon.github.io/shenzhen-exhibitions/output/exhibitions.ics |
-| GitHub 仓库 | https://github.com/islon/shenzhen-exhibitions |
+| 落地页 | https://islon.github.io/goout/ |
+| ICS 文件 | https://islon.github.io/goout/output/exhibitions.ics |
+| 订阅链接 | webcal://islon.github.io/goout/output/exhibitions.ics |
+| GitHub 仓库 | https://github.com/islon/goout |
 
 ---
 

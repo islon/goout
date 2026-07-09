@@ -2,7 +2,7 @@
 # 童行数据自动更新脚本
 # 运行所有爬虫，更新数据，推送到GitHub
 
-cd /workspace/shenzhen-exhibitions
+cd /workspace/goout
 
 echo "=== 开始自动更新童行数据 ==="
 echo "时间: $(date)"

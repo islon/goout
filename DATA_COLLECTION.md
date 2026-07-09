@@ -63,7 +63,7 @@
 
 ```bash
 # 进入项目目录
-cd /workspace/shenzhen-exhibitions
+cd /workspace/goout
 
 # 运行单个场馆数据采集
 python3 scripts/scraper_nslib.py    # 南山图书馆
