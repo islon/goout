@@ -10,7 +10,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -23,7 +24,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -36,7 +38,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "国宝萌友展",
@@ -49,7 +52,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -62,7 +66,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -75,7 +80,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "一平米实验室",
@@ -88,7 +94,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——暑期交响音乐会",
@@ -101,7 +108,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -114,7 +122,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——民乐鉴赏",
@@ -127,7 +136,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——合唱音乐会",
@@ -140,7 +150,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -153,7 +164,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——钢琴独奏会",
@@ -166,7 +178,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -179,7 +192,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -192,7 +206,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -205,7 +220,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -218,7 +234,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -231,7 +248,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -244,7 +262,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -257,7 +276,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "鼻涕虫教授的昆虫秀",
@@ -270,7 +290,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "小奶牛故事绘",
@@ -283,7 +304,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "小太阳i阅读故事会",
@@ -296,7 +318,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -309,7 +332,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "少儿国际象棋公益班",
@@ -322,7 +346,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "成人古典舞公益班",
@@ -335,7 +360,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "读剧公益班",
@@ -348,7 +374,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "朗诵艺术公益班",
@@ -361,7 +388,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -374,7 +402,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -387,7 +416,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 青岛西海岸",
@@ -400,7 +430,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "city": "深圳"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
@@ -413,7 +444,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "city": "深圳"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
@@ -426,7 +458,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "city": "深圳"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
@@ -439,7 +472,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "city": "深圳"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -452,7 +486,8 @@
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -465,7 +500,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -478,7 +514,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -491,7 +528,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网"
+    "source": "福田区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -504,7 +542,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -517,7 +556,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -530,7 +570,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网"
+    "source": "龙华区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -543,7 +584,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网"
+    "source": "坪山区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -556,7 +598,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网"
+    "source": "盐田区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -569,7 +612,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆官网"
+    "source": "大鹏新区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -582,7 +626,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -595,7 +640,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -608,7 +654,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -621,7 +668,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -634,7 +682,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "city": "深圳"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -647,7 +696,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "city": "深圳"
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -660,7 +710,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆"
+    "source": "龙岗区博物馆",
+    "city": "深圳"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -673,7 +724,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆"
+    "source": "大鹏地质公园博物馆",
+    "city": "深圳"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -686,7 +738,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -699,7 +752,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "city": "深圳"
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -712,7 +766,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网"
+    "source": "深圳市青少年活动中心官网",
+    "city": "深圳"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -725,7 +780,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -738,7 +794,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳改革开放史展览",
@@ -751,7 +808,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -764,7 +822,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -777,7 +836,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳民俗文化展",
@@ -790,7 +850,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "世界野生动物标本展",
@@ -803,7 +864,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -816,7 +878,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -829,7 +892,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网"
+    "source": "南山区文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
@@ -842,7 +906,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网"
+    "source": "南山区文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -855,7 +920,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "city": "深圳"
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -868,7 +934,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "city": "深圳"
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -881,7 +948,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
@@ -894,7 +962,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网"
+    "source": "福田区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "福田区图书馆暑期电影放映",
@@ -907,7 +976,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网"
+    "source": "福田区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -920,7 +990,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
@@ -933,7 +1004,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -946,7 +1018,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网"
+    "source": "龙华区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -959,7 +1032,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网"
+    "source": "坪山区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
@@ -972,7 +1046,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网"
+    "source": "盐田区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -985,7 +1060,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -998,7 +1074,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -1011,7 +1088,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -1024,7 +1102,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -1037,7 +1116,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -1050,7 +1130,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -1063,7 +1144,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -1076,7 +1158,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -1089,7 +1172,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -1102,7 +1186,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -1115,7 +1200,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "city": "深圳"
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -1128,7 +1214,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -1141,7 +1228,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -1154,7 +1242,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "city": "深圳"
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -1167,7 +1256,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "city": "深圳"
   },
   {
     "title": "深圳市体育中心暑期运动营",
@@ -1180,7 +1270,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "city": "深圳"
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
@@ -1193,7 +1284,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆"
+    "source": "大鹏地质公园博物馆",
+    "city": "深圳"
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -1206,7 +1298,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -1219,7 +1312,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -1232,7 +1326,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "city": "深圳"
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
@@ -1245,7 +1340,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "city": "深圳"
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -1258,7 +1354,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心"
+    "source": "南山区青少年活动中心",
+    "city": "深圳"
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
@@ -1271,7 +1368,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心"
+    "source": "南山区青少年活动中心",
+    "city": "深圳"
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
@@ -1284,7 +1382,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "city": "深圳"
   },
   {
     "title": "南山图书馆暑期亲子故事会",
@@ -1297,7 +1396,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "city": "深圳"
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -1310,7 +1410,8 @@
     "fee": "免费需预约",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -1323,7 +1424,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -1336,7 +1438,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网"
+    "source": "深圳市青少年活动中心官网",
+    "city": "深圳"
   },
   {
     "title": "桃源街道综合性文化服务中心暑期活动",
@@ -1349,7 +1452,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桃源街道文化服务中心"
+    "source": "桃源街道文化服务中心",
+    "city": "深圳"
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -1362,7 +1466,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆"
+    "source": "宝安区文化馆燕罗分馆",
+    "city": "深圳"
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -1375,7 +1480,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "city": "深圳"
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -1388,7 +1494,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "city": "深圳"
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -1401,7 +1508,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -1414,7 +1522,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "红星闪闪耀童心——线上答题活动",
@@ -1427,7 +1536,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -1440,7 +1550,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "国艺团少儿文艺汇演——跃马新程·筑梦盛夏",
@@ -1453,7 +1564,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -1466,7 +1578,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "心迹·万象——尹烨斌艺术作品展",
@@ -1479,7 +1592,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "ntgc"
+    "source": "ntgc",
+    "city": "深圳"
   },
   {
     "title": "且陶陶，乐尽天真——中国民间玩具展",
@@ -1492,7 +1606,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "ntgc",
+    "city": "深圳"
   },
   {
     "title": "2026声无界·圳当潮LIVE嘉年华",
@@ -1505,7 +1620,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "ntgc",
+    "city": "深圳"
   },
   {
     "title": "南头古城「源野集」创意市集",
@@ -1518,7 +1634,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "ntgc",
+    "city": "深圳"
   },
   {
     "title": "南头古城常设历史展",
@@ -1531,7 +1648,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "ntgc",
+    "city": "深圳"
   },
   {
     "title": "奔腾的印记——东西方马主题版画艺术特展",
@@ -1544,7 +1662,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lh_printmaking"
+    "source": "lh_printmaking",
+    "city": "深圳"
   },
   {
     "title": "中国版画博物馆常设展",
@@ -1557,7 +1676,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lh_printmaking"
+    "source": "lh_printmaking",
+    "city": "深圳"
   },
   {
     "title": "海阔天高——亚太版画作品邀请展",
@@ -1570,7 +1690,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "lh_printmaking"
+    "source": "lh_printmaking",
+    "city": "深圳"
   },
   {
     "title": "龙岗客家民俗博物馆常设展（鹤湖新居）",
@@ -1583,7 +1704,8 @@
     "fee": "免费",
     "contact": "0755-84297960",
     "family_friendly": true,
-    "source": "lg_hakka"
+    "source": "lg_hakka",
+    "city": "深圳"
   },
   {
     "title": "鹤湖新居MR互动展览体验",
@@ -1596,7 +1718,8 @@
     "fee": "免费",
     "contact": "0755-84298800",
     "family_friendly": true,
-    "source": "lg_hakka"
+    "source": "lg_hakka",
+    "city": "深圳"
   },
   {
     "title": "2026南山区自然艺术季——大师讲堂",
@@ -1609,7 +1732,8 @@
     "fee": "免费",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "oct_wetland"
+    "source": "oct_wetland",
+    "city": "深圳"
   },
   {
     "title": "华侨城湿地生态导赏课程",
@@ -1622,7 +1746,8 @@
     "fee": "免费",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "oct_wetland"
+    "source": "oct_wetland",
+    "city": "深圳"
   },
   {
     "title": "华侨城湿地公园日常开放",
@@ -1635,7 +1760,8 @@
     "fee": "免费需预约",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "oct_wetland"
+    "source": "oct_wetland",
+    "city": "深圳"
   },
   {
     "title": "宝安城市规划展览馆常设展",
@@ -1648,7 +1774,8 @@
     "fee": "免费",
     "contact": "0755-23224727",
     "family_friendly": true,
-    "source": "baoan_guihua"
+    "source": "baoan_guihua",
+    "city": "深圳"
   },
   {
     "title": "宝安城市规划展览馆志愿讲解活动",
@@ -1661,7 +1788,8 @@
     "fee": "免费",
     "contact": "0755-23224727",
     "family_friendly": true,
-    "source": "baoan_guihua"
+    "source": "baoan_guihua",
+    "city": "深圳"
   },
   {
     "title": "寻迹华夏——中华文明溯源图片展",
@@ -1674,7 +1802,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "宝安1990·周末剧场皮影专场",
@@ -1687,7 +1816,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "宝安1990文化馆常设展",
@@ -1700,7 +1830,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "蛇口海洋科普馆常设展",
@@ -1713,7 +1844,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "skhykpg"
+    "source": "skhykpg",
+    "city": "深圳"
   },
   {
     "title": "深圳科学技术馆暑期延时开放",
@@ -1726,7 +1858,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "探秘国宝萌友——中国濒危保护动物大展",
@@ -1739,7 +1872,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "太空奥德赛——大型沉浸式科幻冒险体验",
@@ -1752,7 +1886,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "艺起归来——中央美术学院深圳校友联展",
@@ -1765,7 +1900,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
+    "source": "balib",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆暑期五大科学实验秀",
@@ -1778,7 +1914,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆3D打印创意工坊",
@@ -1791,7 +1928,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆巧手创客课程",
@@ -1804,7 +1942,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆4D动感影院与球幕影院",
@@ -1817,7 +1956,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "第三届深圳乐队节",
@@ -1830,7 +1970,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "宝安区青少年宫暑期小小科学家研学营",
@@ -1843,7 +1984,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "city": "深圳"
   },
   {
     "title": "俄罗斯经典冰上芭蕾舞剧《天鹅湖》《胡桃夹子》",
@@ -1856,7 +1998,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "shenzhen_binhai_art"
+    "source": "shenzhen_binhai_art",
+    "city": "深圳"
   },
   {
     "title": "欢乐港湾FIFA世界杯主题夜游",
@@ -1869,7 +2012,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_binhai_park"
+    "source": "baoan_binhai_park",
+    "city": "深圳"
   },
   {
     "title": "宝安体育中心暑期青少年游泳培训",
@@ -1882,7 +2026,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "city": "深圳"
   },
   {
     "title": "宝安体育中心暑期足球训练营",
@@ -1895,7 +2040,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "city": "深圳"
   },
   {
     "title": "宝安体育中心暑期羽毛球培训班",
@@ -1908,7 +2054,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "city": "深圳"
   },
   {
     "title": "宝安航城街道暑期公益非遗课",
@@ -1921,7 +2068,8 @@
     "fee": "免费",
     "contact": "0755-85905112",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆"
+    "source": "宝安区文化馆燕罗分馆",
+    "city": "深圳"
   },
   {
     "title": "宝安区文化馆暑期非遗公益课",
@@ -1934,7 +2082,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "city": "深圳"
   },
   {
     "title": "宠·爱——猫猫狗狗的世界",
@@ -1947,7 +2096,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会",
@@ -1960,7 +2110,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
@@ -1973,7 +2124,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
@@ -1986,7 +2138,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "气泡王国——比利时国宝漫画百年巡礼",
@@ -1999,7 +2152,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "city": "深圳"
   },
   {
     "title": "北京人艺话剧《寻找春柳社》",
@@ -2012,7 +2166,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "city": "深圳"
   },
   {
     "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
@@ -2025,7 +2180,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "city": "深圳"
   },
   {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
@@ -2038,7 +2194,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "city": "深圳"
   },
   {
     "title": "国风儿童剧《少年诗词游之李白》",
@@ -2051,7 +2208,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区茅洲河体育艺术中心"
+    "source": "光明区茅洲河体育艺术中心",
+    "city": "深圳"
   },
   {
     "title": "科普绘本剧《肚子里的火车站》",
@@ -2064,7 +2222,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区茅洲河体育艺术中心"
+    "source": "光明区茅洲河体育艺术中心",
+    "city": "深圳"
   },
   {
     "title": "百老汇儿童剧《原始人大冒险》",
@@ -2077,7 +2236,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区玉塘文体中心"
+    "source": "光明区玉塘文体中心",
+    "city": "深圳"
   },
   {
     "title": "沉浸式互动亲子科学剧《数学秀》",
@@ -2090,7 +2250,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗国际艺术中心"
+    "source": "龙岗国际艺术中心",
+    "city": "深圳"
   },
   {
     "title": "笔墨同心·林墉、苏华作品展",
@@ -2103,7 +2264,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "city": "深圳"
   },
   {
     "title": "薪火相传 稚笔生花——2026深圳美术馆少儿艺术展",
@@ -2116,7 +2278,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "city": "深圳"
   },
   {
     "title": "丹青联心——深澳两地书画艺术交流展",
@@ -2129,7 +2292,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "福田美术馆"
+    "source": "福田美术馆",
+    "city": "深圳"
   },
   {
     "title": "《海洋奇缘：启航》迪士尼电影主题展",
@@ -2142,7 +2306,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "city": "深圳"
   },
   {
     "title": "深圳欢乐谷·夏浪狂欢节",
@@ -2155,7 +2320,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳欢乐谷"
+    "source": "深圳欢乐谷",
+    "city": "深圳"
   },
   {
     "title": "深圳世界之窗·WoW潮音嘉年华+啤酒节",
@@ -2168,7 +2334,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳世界之窗"
+    "source": "深圳世界之窗",
+    "city": "深圳"
   },
   {
     "title": "锦绣中华民俗村·夏浪民族狂欢节",
@@ -2181,7 +2348,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "锦绣中华民俗村"
+    "source": "锦绣中华民俗村",
+    "city": "深圳"
   },
   {
     "title": "儿童音乐皮影戏",
@@ -2194,7 +2362,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳戏院"
+    "source": "深圳戏院",
+    "city": "深圳"
   },
   {
     "title": "炫彩青春——优秀青年京剧演员展演",
@@ -2207,7 +2376,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳戏院"
+    "source": "深圳戏院",
+    "city": "深圳"
   },
   {
     "title": "深圳图书馆第十二届'暑期缤纷季'——近300场阅读活动",
@@ -2220,7 +2390,8 @@
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "宝安大仟里首届暑期儿童戏剧节",
@@ -2233,7 +2404,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安大仟里"
+    "source": "宝安大仟里",
+    "city": "深圳"
   },
   {
     "title": "罗湖一站式普惠托育集市",
@@ -2246,7 +2418,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖发布"
+    "source": "罗湖发布",
+    "city": "深圳"
   },
   {
     "title": "汪苏泷“十万伏特”巡回演唱会深圳站",
@@ -2259,7 +2432,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szwty"
+    "source": "szwty",
+    "city": "深圳"
   },
   {
     "title": "汪峰“相信未来”巡回演唱会深圳站",
@@ -2272,7 +2446,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szwty"
+    "source": "szwty",
+    "city": "深圳"
   },
   {
     "title": "Jony J 2026“本命”巡回演唱会深圳站",
@@ -2285,7 +2460,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szwty"
+    "source": "szwty",
+    "city": "深圳"
   },
   {
     "title": "韦礼安巡回演唱会深圳站",
@@ -2298,7 +2474,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szwty"
+    "source": "szwty",
+    "city": "深圳"
   },
   {
     "title": "新中式舞蹈秀《叹春风》",
@@ -2311,7 +2488,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "city": "深圳"
   },
   {
     "title": "“鑫”乐之旅——田佳鑫钢琴独奏音乐会",
@@ -2324,7 +2502,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "city": "深圳"
   },
   {
     "title": "蔡程昱“一程”2026音乐会深圳站",
@@ -2337,7 +2516,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "city": "深圳"
   },
   {
     "title": "TizzyT“流行”巡回演唱会深圳站",
@@ -2350,7 +2530,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "lgwhg"
+    "source": "lgwhg",
+    "city": "深圳"
   },
   {
     "title": "新裤子巡回演唱会深圳站",
@@ -2363,7 +2544,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "lgwhg"
+    "source": "lgwhg",
+    "city": "深圳"
   },
   {
     "title": "王源巡回演唱会深圳站",
@@ -2376,7 +2558,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "lgwhg"
+    "source": "lgwhg",
+    "city": "深圳"
   },
   {
     "title": "T街创意市集“后浪一夏”",
@@ -2389,7 +2572,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "nswtzx",
+    "city": "深圳"
   },
   {
     "title": "“大有可叙·灵感群岛”艺术市集",
@@ -2402,7 +2586,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "nswtzx",
+    "city": "深圳"
   },
   {
     "title": "八家园集章打卡闯关活动",
@@ -2415,7 +2600,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhwhg2"
+    "source": "lhwhg2",
+    "city": "深圳"
   },
   {
     "title": "深圳珠宝博物馆常设展及集章打卡",
@@ -2428,7 +2614,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "lhwhg2"
+    "source": "lhwhg2",
+    "city": "深圳"
   },
   {
     "title": "深圳图书馆党史长征主题文献展",
@@ -2441,7 +2628,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "szlib",
+    "city": "深圳"
   },
   {
     "title": "2026“夏日乐读季”",
@@ -2454,7 +2642,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "szlib",
+    "city": "深圳"
   },
   {
     "title": "湾区之眼2026暑期嗨学季",
@@ -2467,7 +2656,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "bayarea_eye"
+    "source": "bayarea_eye",
+    "city": "深圳"
   },
   {
     "title": "盐田区文化馆“四季享艺”公益培训夏季班",
@@ -2480,7 +2670,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ytwhg"
+    "source": "ytwhg",
+    "city": "深圳"
   },
   {
     "title": "2026年盐田区中小学生舞蹈节展演",
@@ -2493,7 +2684,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "ytwhg"
+    "source": "ytwhg",
+    "city": "深圳"
   },
   {
     "title": "《在巴黎的星空下》芭蕾明星精品荟萃",
@@ -2506,7 +2698,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "city": "深圳"
   },
   {
     "title": "深圳原创大型主题交响曲《潮起山海间》",
@@ -2519,7 +2712,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "city": "深圳"
   },
   {
     "title": "《新时代的脉搏》国际管乐学院音乐节亚洲巡演专场音乐会",
@@ -2532,7 +2726,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "city": "深圳"
   },
   {
     "title": "「艺起归来」中央美术学院深圳校友联展",
@@ -2545,7 +2740,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
+    "source": "balib",
+    "city": "深圳"
   },
   {
     "title": "第六届\"馆长少年\"暑期成长计划",
@@ -2558,7 +2754,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "balib",
+    "city": "深圳"
   },
   {
     "title": "艺术阅读亲子创作活动",
@@ -2571,7 +2768,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "balib",
+    "city": "深圳"
   },
   {
     "title": "7月文博工坊·环保点翠发簪手作活动",
@@ -2584,7 +2782,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "宝博小小讲解员定点讲解",
@@ -2597,7 +2796,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "暑期主题科学实验秀（五大主题轮换）",
@@ -2610,7 +2810,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_kjg"
+    "source": "baoan_kjg",
+    "city": "深圳"
   },
   {
     "title": "\"小小科学家\"科创研学营（小学组）",
@@ -2623,7 +2824,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_qsng"
+    "source": "baoan_qsng",
+    "city": "深圳"
   },
   {
     "title": "R.E.D 演唱会深圳站",
@@ -2636,7 +2838,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_ty"
+    "source": "baoan_ty",
+    "city": "深圳"
   },
   {
     "title": "欢子《我的青春有你》巡回演唱会深圳站",
@@ -2649,7 +2852,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_ty"
+    "source": "baoan_ty",
+    "city": "深圳"
   },
   {
     "title": "陈洁仪 ATRIUM(心房) 巡回演唱会深圳站",
@@ -2662,7 +2866,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_ty"
+    "source": "baoan_ty",
+    "city": "深圳"
   },
   {
     "title": "第十一届深圳摄影作品年度展（宝安巡展）",
@@ -2675,7 +2880,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "宝安非遗手绘展",
@@ -2688,7 +2894,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "暑期公益艺术培训（少儿+成人）",
@@ -2701,7 +2908,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "福尔摩斯大型沉浸式主题展",
@@ -2714,7 +2922,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "bayarea_eye"
+    "source": "bayarea_eye",
+    "city": "深圳"
   },
   {
     "title": "湾区绿茵嘉年华+世界杯直播",
@@ -2727,7 +2936,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "bayarea_eye"
+    "source": "bayarea_eye",
+    "city": "深圳"
   },
   {
     "title": "防溺水安全科普课",
@@ -2740,7 +2950,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "科普小课堂·儿童科学防晒专题",
@@ -2753,7 +2964,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "\"城市代言\"公益定时讲解",
@@ -2766,7 +2978,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_1990"
+    "source": "baoan_1990",
+    "city": "深圳"
   },
   {
     "title": "青年视界——2026深圳青年美术大展",
@@ -2779,7 +2992,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "道登天门——萧娴书法艺术展",
@@ -2792,7 +3006,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "墨彩童年——王明明、方楚雄儿童画作品特展",
@@ -2805,7 +3020,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "国门守护·丹青传承——深圳海关查获近现代书画文物珍品特展",
@@ -2818,7 +3034,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "深情托付——深圳美术馆新馆捐赠作品展",
@@ -2831,7 +3048,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "载文蕴艺——中国历代金石碑拓大展",
@@ -2844,7 +3062,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "团结促发展 奋斗谱新篇——深圳市政协主题书画展",
@@ -2857,7 +3076,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "szartm",
+    "city": "深圳"
   },
   {
     "title": "建立新美术——20世纪上半叶粤港画坛的历史抉择",
@@ -2870,7 +3090,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "hxngallery"
+    "source": "hxngallery",
+    "city": "深圳"
   },
   {
     "title": "杨丽萍作品·舞蹈剧场《十面埋伏》",
@@ -2883,7 +3104,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "city": "深圳"
   },
   {
     "title": "2026德云社张鹤伦郎鹤炎相声专场",
@@ -2896,7 +3118,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "city": "深圳"
   },
   {
     "title": "吴琼领衔主演经典黄梅戏《女驸马》",
@@ -2909,7 +3132,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "city": "深圳"
   },
   {
     "title": "「仲夏梦·童话夜」春泥合唱团动漫金曲沉浸式音乐会",
@@ -2922,7 +3146,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "city": "深圳"
   },
   {
     "title": "央华版·话剧《日出》",
@@ -2935,7 +3160,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "city": "深圳"
   },
   {
     "title": "舞剧《她的龟兹》",
@@ -2948,7 +3174,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "乔治·哈利奥诺钢琴独奏会《东方幻想》",
@@ -2961,7 +3188,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "陕西人艺话剧《主角》",
@@ -2974,7 +3202,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "Duo Perfetto意大利撒丁岛二重奏《弦系四季》",
@@ -2987,7 +3216,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "刘莉旻「下一站，嘉禾望岗」2026深圳特别专场",
@@ -3000,7 +3230,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "中国国家话剧院话剧《青蛇》",
@@ -3013,7 +3244,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "美术馆里的音乐会——弦乐快闪",
@@ -3026,7 +3258,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "gmarts"
+    "source": "gmarts",
+    "city": "深圳"
   },
   {
     "title": "PONG！张达利艺术展",
@@ -3039,7 +3272,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "moacup"
+    "source": "moacup",
+    "city": "深圳"
   },
   {
     "title": "大潮起珠江——广东改革开放40周年展览",
@@ -3052,7 +3286,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "moacup"
+    "source": "moacup",
+    "city": "深圳"
   },
   {
     "title": "别开新径——春睡同人艺术研究展",
@@ -3065,7 +3300,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gsyart"
+    "source": "gsyart",
+    "city": "深圳"
   },
   {
     "title": "星丛——青春心印十二年工笔画艺术生态展",
@@ -3078,7 +3314,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gsyart"
+    "source": "gsyart",
+    "city": "深圳"
   },
   {
     "title": "深圳世界之窗夏日狂欢季——23°HI啤一夏",
@@ -3091,7 +3328,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "theme_park"
+    "source": "theme_park",
+    "city": "深圳"
   },
   {
     "title": "《宋美龄耳环丢了》民国悬疑行进式互动话剧",
@@ -3104,7 +3342,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "opower"
+    "source": "opower",
+    "city": "深圳"
   },
   {
     "title": "莫叫姐姐《不该用情》巡回演唱会",
@@ -3117,7 +3356,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "nswtzx",
+    "city": "深圳"
   },
   {
     "title": "刘大壮「吉他不及她」巡回演唱会",
@@ -3130,7 +3370,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "nswtzx",
+    "city": "深圳"
   },
   {
     "title": "西安话剧院《长安第二碗》",
@@ -3143,7 +3384,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "nswtzx",
+    "city": "深圳"
   },
   {
     "title": "动力火车「一路向前」巡回演唱会",
@@ -3156,7 +3398,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "sztyzx"
+    "source": "sztyzx",
+    "city": "深圳"
   },
   {
     "title": "于文文「边界」巡回演唱会",
@@ -3169,7 +3412,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "sztyzx"
+    "source": "sztyzx",
+    "city": "深圳"
   },
   {
     "title": "郎朗·乐境音乐会",
@@ -3182,7 +3426,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_ty"
+    "source": "baoan_ty",
+    "city": "深圳"
   },
   {
     "title": "姜育恒「再回首·我心依旧」巡回演唱会",
@@ -3195,7 +3440,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szicec"
+    "source": "szicec",
+    "city": "深圳"
   },
   {
     "title": "健康讲坛第220期：牙周护得好，牙齿陪到老",
@@ -3208,7 +3454,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "从异域风潮到日常杯盏：咖啡的文化、风味与健康",
@@ -3221,7 +3468,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "心理学堂——智慧父母的养育之二：明确亲子教育的边界",
@@ -3234,7 +3482,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "市民文化大讲堂·APEC的机如何转为深圳的遇",
@@ -3247,7 +3496,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "如何在AI变革中成为不可替代的自己",
@@ -3260,7 +3510,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "中华诗词大讲堂第三季第六讲：对仗与对联",
@@ -3273,7 +3524,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "市民文化大讲堂·长征不能忘的那些事",
@@ -3286,7 +3538,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "人文讲坛第303期：周易、汉易、宋易与术数易",
@@ -3299,7 +3552,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "健康讲坛第221期：代谢健康管理",
@@ -3312,7 +3566,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "市民文化大讲堂·大航海与全球化时代的世界文明格局",
@@ -3325,7 +3580,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "市民文化大讲堂公众号"
+    "source": "市民文化大讲堂公众号",
+    "city": "深圳"
   },
   {
     "title": "市民文化大讲堂·古罗马帝国的兴衰",
@@ -3338,7 +3594,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "市民文化大讲堂公众号"
+    "source": "市民文化大讲堂公众号",
+    "city": "深圳"
   },
   {
     "title": "市民文化大讲堂·实干成就梦想",
@@ -3351,7 +3608,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "市民文化大讲堂公众号"
+    "source": "市民文化大讲堂公众号",
+    "city": "深圳"
   },
   {
     "title": "市民文化大讲堂·深圳创新型城市的发展与展望",
@@ -3364,7 +3622,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "市民文化大讲堂公众号"
+    "source": "市民文化大讲堂公众号",
+    "city": "深圳"
   },
   {
     "title": "宠·爱——猫猫狗狗的世界",
@@ -3377,7 +3636,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "来处与归途：三燕百年",
@@ -3390,7 +3650,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -3403,7 +3664,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "金戈铁甲·武备千秋——中国古代甲胄探究课程",
@@ -3416,7 +3678,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "汪星人长寿食谱——宠·爱养宠沙龙",
@@ -3429,7 +3692,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "拓跋魏的来处与慕容燕的归途讲座",
@@ -3442,7 +3706,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "大成敦煌——敦煌文化艺术大展",
@@ -3455,7 +3720,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "阿尔丰斯·穆夏——新艺术运动与1900年巴黎世界博览会",
@@ -3468,7 +3734,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "瑞玉呈祥——湖北省博物馆典藏明清玉器展",
@@ -3481,7 +3748,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "city": "深圳"
   },
   {
     "title": "太空奥德赛沉浸式科幻体验展",
@@ -3494,7 +3762,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "脑科学研学营——意念驯龙·脑控水舞",
@@ -3507,7 +3776,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "2025年深圳市科普讲解大赛决赛",
@@ -3520,7 +3790,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市科协"
+    "source": "深圳市科协",
+    "city": "深圳"
   },
   {
     "title": "深圳科学技术馆暑期延时开放",
@@ -3533,7 +3804,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "city": "深圳"
   },
   {
     "title": "镜子宇宙——叶锦添个展",
@@ -3546,7 +3818,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳两馆官网"
+    "source": "深圳两馆官网",
+    "city": "深圳"
   },
   {
     "title": "蒋兆和：属于我的荒草径",
@@ -3559,7 +3832,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳两馆官网"
+    "source": "深圳两馆官网",
+    "city": "深圳"
   },
   {
     "title": "天有九野——空间解锁与维度重塑（首场馆藏展）",
@@ -3572,7 +3846,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳两馆官网"
+    "source": "深圳两馆官网",
+    "city": "深圳"
   },
   {
     "title": "乡村骑士×丑角 音乐会版歌剧",
@@ -3585,7 +3860,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
@@ -3598,7 +3874,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "景焕、章奥哲与广州青年交响乐团湾区巡演",
@@ -3611,7 +3888,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "纪念莫扎特诞辰270周年 音乐会版歌剧《唐璜》",
@@ -3624,7 +3902,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "跟着音乐去旅行 暑期亲子音乐会",
@@ -3637,7 +3916,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "舒伯特的诗意花园——吉他大师与女高音七夕音乐会",
@@ -3650,7 +3930,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "魅之回响——远古与大地多民族童声合唱音乐会",
@@ -3663,7 +3944,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "city": "深圳"
   },
   {
     "title": "舞剧《只此青绿》",
@@ -3676,7 +3958,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "滨海艺术中心官网"
+    "source": "滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "肢体儿童剧《捣蛋托管班》",
@@ -3689,7 +3972,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "滨海艺术中心官网"
+    "source": "滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "新版杂技芭蕾剧《天鹅湖》",
@@ -3702,7 +3986,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "滨海艺术中心官网"
+    "source": "滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "斯拉法的下雪秀 SLAVA'S SNOW SHOW",
@@ -3715,7 +4000,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "滨海艺术中心官网"
+    "source": "滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "意大利音乐剧《神曲》",
@@ -3728,7 +4014,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "滨海艺术中心官网"
+    "source": "滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "话剧《Skylight天色》",
@@ -3741,7 +4028,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "滨海艺术中心官网"
+    "source": "滨海艺术中心官网",
+    "city": "深圳"
   },
   {
     "title": "游学馆|新疆站|坎儿井（加场）",
@@ -3754,7 +4042,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "游学馆|新疆站|喀什寻喵迹（第一期）",
@@ -3767,7 +4056,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "曹操的神秘炮兵开启科技创新思维",
@@ -3780,7 +4070,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "手艺人图书馆研学——旗遇图书馆（非遗旗袍）",
@@ -3793,7 +4084,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "手艺人图书馆研学——锔星图书馆（锔瓷技艺）",
@@ -3806,7 +4098,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "手艺人图书馆——錾能图书馆（金属锻造）",
@@ -3819,7 +4112,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "手艺人图书馆——绣才图书馆（刺绣）",
@@ -3832,7 +4126,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "烽火岁月，胜利荣光——纪念抗战胜利80周年",
@@ -3845,7 +4140,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少图公众号"
+    "source": "深圳少图公众号",
+    "city": "深圳"
   },
   {
     "title": "艺术荟·音阅共生|音乐与电影（下）",
@@ -3858,7 +4154,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "南图沙龙·读书|道德经：法之篇",
@@ -3871,7 +4168,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "走进图书馆——图书馆的神秘读者",
@@ -3884,7 +4182,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "南图创客空间丨自动往返车",
@@ -3897,7 +4196,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "跟名师读名著系列丨古灵精怪动物园",
@@ -3910,7 +4210,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "科普小讲堂丨高楼不倒的秘密",
@@ -3923,7 +4224,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "南图双语故事会|Go Away, Floppy",
@@ -3936,7 +4238,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "探秘敦煌·时空讲堂|敦煌时光机：壁上千年",
@@ -3949,7 +4252,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "南图双语故事会|Pete the Cat I Love My White Shoes",
@@ -3962,7 +4266,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆活动平台"
+    "source": "南山图书馆活动平台",
+    "city": "深圳"
   },
   {
     "title": "第五届馆长少年智慧营创新提案赛",
@@ -3975,7 +4280,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "山海深处——第18回 宝城十二品书法展",
@@ -3988,7 +4294,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "八段锦教学",
@@ -4001,7 +4308,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "非一般音乐会——铜管五重奏",
@@ -4014,7 +4322,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "创意课堂×康阅福田：茶艺课堂——借茶解暑",
@@ -4027,7 +4336,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆公众号"
+    "source": "福田区图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "创意视界《伴你高飞》",
@@ -4040,7 +4350,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆公众号"
+    "source": "福田区图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "小小剧本杀：无人岛的宝藏",
@@ -4053,7 +4364,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆公众号"
+    "source": "福田区图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "阅读之光手工活动：好玩的旋转pizza",
@@ -4066,7 +4378,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆公众号"
+    "source": "福田区图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "福田区图书馆×华强北博物馆：小小创客一日研学",
@@ -4079,7 +4392,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆公众号"
+    "source": "福田区图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "数字图书馆·科学大冒险系列",
@@ -4092,7 +4406,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆公众号"
+    "source": "福田区图书馆公众号",
+    "city": "深圳"
   },
   {
     "title": "扬帆起航，探秘蔚蓝——航海之旅科普展览",
@@ -4105,7 +4420,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆暑期科学秀",
@@ -4118,7 +4434,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安日报"
+    "source": "宝安日报",
+    "city": "深圳"
   },
   {
     "title": "宝安科技馆3D打印创意工坊&巧手创客课程",
@@ -4131,7 +4448,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安日报"
+    "source": "宝安日报",
+    "city": "深圳"
   },
   {
     "title": "2025 FIBA女篮亚洲杯",
@@ -4144,7 +4462,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育局"
+    "source": "深圳市体育局",
+    "city": "深圳"
   },
   {
     "title": "中超联赛：深圳新鹏城 vs 青岛海牛",
@@ -4157,7 +4476,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育局"
+    "source": "深圳市体育局",
+    "city": "深圳"
   },
   {
     "title": "吉克隽逸太阳的女儿巡回演唱会深圳站",
@@ -4170,7 +4490,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "city": "深圳"
   },
   {
     "title": "鹿晗Season4亚洲巡演深圳站",
@@ -4183,7 +4504,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "city": "深圳"
   },
   {
     "title": "陶喆Soul Power世界巡回演唱会深圳站",
@@ -4196,7 +4518,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "city": "深圳"
   },
   {
     "title": "陈慧娴40周年Fabulous 40巡回演唱会深圳站",
@@ -4209,7 +4532,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "city": "深圳"
   },
   {
     "title": "粤剧《白蛇传·情》（曾小敏主演）",
@@ -4222,7 +4546,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "city": "深圳"
   },
   {
     "title": "舞剧《天工开物》",
@@ -4235,7 +4560,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳文旅游局"
+    "source": "深圳文旅游局",
+    "city": "深圳"
   },
   {
     "title": "哈利·波特奇妙魔法之旅音乐会",
@@ -4248,7 +4574,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳文旅游局"
+    "source": "深圳文旅游局",
+    "city": "深圳"
   },
   {
     "title": "话剧《长安十二时辰》",
@@ -4261,7 +4588,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳文旅游局"
+    "source": "深圳文旅游局",
+    "city": "深圳"
   },
   {
     "title": "2025广东省青少年拳击锦标赛暨十五运会拳击测试赛",
@@ -4274,7 +4602,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳政府在线"
+    "source": "深圳政府在线",
+    "city": "深圳"
   },
   {
     "title": "虎洲杯深圳女排精英赛",
@@ -4287,7 +4616,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "city": "深圳"
   },
   {
     "title": "你好，海洋——MR沉浸式海洋科普展",
@@ -4300,7 +4630,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗政府在线"
+    "source": "龙岗政府在线",
+    "city": "深圳"
   },
   {
     "title": "我心中的美好布吉——油画作品展",
@@ -4313,7 +4644,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗政府在线"
+    "source": "龙岗政府在线",
+    "city": "深圳"
   },
   {
     "title": "笔尖下的曙光——进步报刊选萃",
@@ -4326,7 +4658,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "龙岗政府在线"
+    "source": "龙岗政府在线",
+    "city": "深圳"
   },
   {
     "title": "双面镜——植物的艺术之美与科学之真",
@@ -4339,7 +4672,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "city": "深圳"
   },
   {
     "title": "我负丹青——吴冠中艺术展",
@@ -4352,7 +4686,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "city": "深圳"
   },
   {
     "title": "寻迹华夏——中华文明溯源图片展",
@@ -4365,7 +4700,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "读创新闻"
+    "source": "读创新闻",
+    "city": "深圳"
   },
   {
     "title": "匠耀湾区——宝安工匠专题展",
@@ -4378,7 +4714,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网"
+    "source": "凤凰网",
+    "city": "深圳"
   },
   {
     "title": "龙华区图书馆暑期公益电影放映",
@@ -4391,7 +4728,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华政府在线"
+    "source": "龙华政府在线",
+    "city": "深圳"
   },
   {
     "title": "跳进故事海，奇遇一整夏——2025经典绘本奇遇展",
@@ -4404,7 +4742,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "龙岗乐读科普节——科学实验室系列",
@@ -4417,7 +4756,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "科普作家邓昕分享会《熊猫航天员》",
@@ -4430,7 +4770,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "光明大讲堂——《史记》是如何炼成的",
@@ -4443,7 +4784,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "科学小记者·航天主题活动",
@@ -4456,7 +4798,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "city": "深圳"
   },
   {
     "title": "光明区健康大讲堂——睡眠障碍防治",
@@ -4469,7 +4812,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明政府在线"
+    "source": "光明政府在线",
+    "city": "深圳"
   },
   {
     "title": "轻松读懂高科技系列讲座",
@@ -4482,7 +4826,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山新闻网"
+    "source": "坪山新闻网",
+    "city": "深圳"
   },
   {
     "title": "舞剧《永不消逝的电波》",
@@ -4495,7 +4840,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳新闻网"
+    "source": "深圳新闻网",
+    "city": "深圳"
   },
   {
     "title": "英文儿童音乐剧《阿里巴巴和四十大盗》",
@@ -4508,7 +4854,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳新闻网"
+    "source": "深圳新闻网",
+    "city": "深圳"
   },
   {
     "title": "山海之旅·走读盐田——蛛网探秘：半山公园蜘蛛观察",
@@ -4521,7 +4868,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆"
+    "source": "盐田区图书馆",
+    "city": "深圳"
   },
   {
     "title": "海洋文化园海洋科普参观体验",
@@ -4534,7 +4882,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆"
+    "source": "盐田区图书馆",
+    "city": "深圳"
   },
   {
     "title": "创阅汇——航天航空主题之火箭动力源大揭秘",
@@ -4547,7 +4896,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆"
+    "source": "罗湖区图书馆",
+    "city": "深圳"
   },
   {
     "title": "阅绘999推荐绘本展",
@@ -4560,7 +4910,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆"
+    "source": "罗湖区图书馆",
+    "city": "深圳"
   },
   {
     "title": "小小科学家科学探索研学营",
@@ -4573,7 +4924,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "city": "深圳"
   },
   {
     "title": "宝安区青少年宫AI赋能AIGC工作场景应用沙龙",
@@ -4586,7 +4938,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安青少年宫公众号"
+    "source": "宝安青少年宫公众号",
+    "city": "深圳"
   },
   {
     "title": "龙岗区流动少年宫梦想进社区",
@@ -4599,7 +4952,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗青年公众号"
+    "source": "龙岗青年公众号",
+    "city": "深圳"
   },
   {
     "title": "龙华区青少年宫小小科学家公益夏令营",
@@ -4612,6 +4966,693 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华政府在线"
+    "source": "龙华政府在线",
+    "city": "深圳"
+  },
+  {
+    "title": "文艺复兴的交响——格拉斯哥博物馆藏大师作品展",
+    "venue": "广东省博物馆",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-18",
+    "link": "https://www.nfnews.com/content/VoQVkdjXy5.html",
+    "description": "英国格拉斯哥博物馆意大利艺术珍藏展，近70件珍稀藏品涵盖绘画、雕塑、陶器等六大门类。提香《基督救赎妇人》、贝利尼《圣母子》、丁托列托《图西亚的考验》等大师真迹亮相。暑期延时至21:00，需在广东省博物馆小程序预约。地铁3号线珠江新城站。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gdmuseum",
+    "city": "guangzhou"
+  },
+  {
+    "title": "虫友：寻访甲虫世界",
+    "venue": "广东省博物馆",
+    "start_date": "2026-07-17",
+    "end_date": "2026-08-30",
+    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+    "description": "汇聚昆虫、鸟类、植物等1000余件自然标本及20余件套精美文物，打造趣味横生的昆虫星球。暑期自然科普之夜配套戏剧表演、科普互动与创意市集。地铁3号线珠江新城站。",
+    "category": "科普活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gdmuseum",
+    "city": "guangzhou"
+  },
+  {
+    "title": "互利天下：广东外贸一千年",
+    "venue": "广东省博物馆",
+    "start_date": "2025-10-15",
+    "end_date": "2026-10-15",
+    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+    "description": "广东外贸一千年历史文化展，展示海上丝绸之路贸易历史。常设展，免费参观。地铁3号线珠江新城站。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gdmuseum",
+    "city": "guangzhou"
+  },
+  {
+    "title": "由来是广州——广州建城2240年暨得名1800年文物精品展",
+    "venue": "广州艺术博物院",
+    "start_date": "2026-07-01",
+    "end_date": "2027-06-01",
+    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+    "description": "广州建城2240年、得名1800年核心主题展，通过文物、典籍与多媒体叙事梳理广州城脉商脉文脉。暑期延时至18:00。地铁5号线小北站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzam",
+    "city": "guangzhou"
+  },
+  {
+    "title": "一念敦煌——石窟艺术大展",
+    "venue": "广州艺术博物院",
+    "start_date": "2026-05-01",
+    "end_date": "2026-10-31",
+    "link": "https://www.nfnews.com/content/46Ndzk2eym.html",
+    "description": "一念敦煌石窟艺术大展，1号馆。暑期夜场延长至20:30。地铁5号线小北站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzam",
+    "city": "guangzhou"
+  },
+  {
+    "title": "青州微笑——中国古青州佛造像艺术展",
+    "venue": "广州艺术博物院",
+    "start_date": "2026-06-20",
+    "end_date": "2026-12-19",
+    "link": "https://www.nfnews.com/content/46Ndzk2eym.html",
+    "description": "中国古青州佛造像艺术展，1号馆。暑期夜场延长至20:30。地铁5号线小北站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzam",
+    "city": "guangzhou"
+  },
+  {
+    "title": "深度自然——2026广东美术馆儿童公共艺术季",
+    "venue": "广东美术馆（二沙岛本馆）",
+    "start_date": "2026-06-29",
+    "end_date": "2026-09-13",
+    "link": "https://www.nfnews.com/content/46Ndzk2eym.html",
+    "description": "联动越秀区八所幼儿园打造的儿童公共艺术季，首次将户外雕塑园开拓成孩子共创现场。引导孩子探寻自然秩序与生命韵律，树立生态保护理念。配套自然工作坊、亲子共创活动。二沙岛本馆暑期不延时。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gdartmuseum",
+    "city": "guangzhou"
+  },
+  {
+    "title": "海丝门户——文物里的清代广州",
+    "venue": "广州博物馆（镇海楼展区）",
+    "start_date": "2026-04-25",
+    "end_date": "2026-08-23",
+    "link": "https://www.163.com/dy/article/L1AAG8SS0523E4AV.html",
+    "description": "海丝门户——文物里的清代广州展览，超过四分之一展品为近年新征集文物精品。知名外销画师庭呱全套广州港口风光作品。地铁2号线越秀公园站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzmuseum",
+    "city": "guangzhou"
+  },
+  {
+    "title": "第三期广州之宝特展——羊城之夏",
+    "venue": "广州博物馆（镇海楼展区）",
+    "start_date": "2026-07-02",
+    "end_date": "2026-09-28",
+    "link": "https://www.163.com/dy/article/L1AAG8SS0523E4AV.html",
+    "description": "第三期广州之宝文物特展，以羊城之夏为主题。邹伯奇日冕钟、居廉越女采菱图扇面、广彩描金荔枝纹瓷盘等珍贵文物。地铁2号线越秀公园站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzmuseum",
+    "city": "guangzhou"
+  },
+  {
+    "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
+    "venue": "南越王博物院（王墓展区）",
+    "start_date": "2026-02-06",
+    "end_date": "2026-10-11",
+    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+    "description": "古埃及文物与数字艺术体验展，古埃及文物珍品+数字沉浸式体验。地铁2号线越秀公园站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "nanyuewang",
+    "city": "guangzhou"
+  },
+  {
+    "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
+    "venue": "广州大剧院",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "link": "http://www.gzdjy.org/",
+    "description": "敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzdjy",
+    "city": "guangzhou"
+  },
+  {
+    "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
+    "venue": "广州大剧院",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "link": "http://www.gzdjy.org/",
+    "description": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gzdjy",
+    "city": "guangzhou"
+  },
+  {
+    "title": "陕西人艺茅奖系列话剧《主角》",
+    "venue": "广州大剧院",
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-30",
+    "link": "http://www.gzdjy.org/",
+    "description": "陕西人艺茅奖系列话剧《主角》，根据陈彦同名小说改编，讲述秦腔名伶忆秦娥的传奇人生。地铁APM线大剧院站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzdjy",
+    "city": "guangzhou"
+  },
+  {
+    "title": "杨丽萍作品舞蹈剧场2026版《十面埋伏》",
+    "venue": "广州大剧院",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-15",
+    "link": "http://www.gzdjy.org/",
+    "description": "杨丽萍巅峰力作舞蹈剧场2026版《十面埋伏》，融合京剧、武术、民乐、装置艺术。地铁APM线大剧院站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzdjy",
+    "city": "guangzhou"
+  },
+  {
+    "title": "余隆演绎拉赫玛尼诺夫第二交响曲",
+    "venue": "星海音乐厅",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "link": "https://www.nfnews.com/content/46Ndzk2eym.html",
+    "description": "余隆指挥广州交响乐团演绎拉赫玛尼诺夫第二交响曲。交响乐演奏大厅。地铁3号线/6号线如意坊站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "xinghai",
+    "city": "guangzhou"
+  },
+  {
+    "title": "理查德·克莱德曼钢琴音乐会《爱永恒》",
+    "venue": "广州中山纪念堂",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-09",
+    "link": "https://www.nfnews.com/content/46Ndzk2eym.html",
+    "description": "理查德·克莱德曼钢琴音乐会《爱永恒》广州站。经典钢琴曲演奏。地铁2号线纪念堂站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "zsauditorium",
+    "city": "guangzhou"
+  },
+  {
+    "title": "世界树之巅：美洲古代文明大展",
+    "venue": "上海博物馆（人民广场馆）",
+    "start_date": "2026-07-09",
+    "end_date": "2027-11-14",
+    "link": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+    "description": "上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "shanghaimuseum",
+    "city": "shanghai"
+  },
+  {
+    "title": "肇兴中国：秦·大一统之路文物考古特展",
+    "venue": "上海博物馆（东馆）",
+    "start_date": "2026-07-09",
+    "end_date": "2026-09-07",
+    "link": "http://m.toutiao.com/group/7657908763235451411/",
+    "description": "汇集14家考古文博机构510件文物，展现秦代大一统历史。地铁14号线世纪大道站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shanghaimuseum",
+    "city": "shanghai"
+  },
+  {
+    "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
+    "venue": "上海美术馆（中华艺术宫）",
+    "start_date": "2026-07-03",
+    "end_date": "2026-10-07",
+    "link": "http://m.toutiao.com/group/7657908763235451411/",
+    "description": "马王堆汉墓50余年考古史上规模最大、等级最高的湖南省外展出。195件套472件展品，3件禁止出境文物，一级文物31件套。展现汉代生活极致风雅。地铁8号线中华艺术宫站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chinaartmuseum",
+    "city": "shanghai"
+  },
+  {
+    "title": "国采——故宫藏清代帝后服饰展",
+    "venue": "上海世博会博物馆",
+    "start_date": "2026-07-07",
+    "end_date": "2026-10-07",
+    "link": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+    "description": "故宫博物院藏百余件织绣珍品，康熙礼服褂、乾隆龙袍、嘉庆朝袍等。九成从未出京，超三成首次面世。周六延时至20:00。地铁13号线世博会博物馆站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "expomuseum",
+    "city": "shanghai"
+  },
+  {
+    "title": "天地星语——中国诗文里的天文",
+    "venue": "上海天文馆",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "http://m.toutiao.com/group/7657908763235451411/",
+    "description": "天地星语——中国诗文里的天文展览，分日月星三大篇章，设有独立MR沉浸体验空间。地铁16号线滴水湖站。",
+    "category": "科普活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "shanghai-astronomy",
+    "city": "shanghai"
+  },
+  {
+    "title": "从元代水闸到外白渡桥——苏州河历史文化展",
+    "venue": "上海市历史博物馆",
+    "start_date": "2026-07-03",
+    "end_date": "2026-08-29",
+    "link": "http://m.sh.bendibao.com/tour/307215.html",
+    "description": "苏州河历史文化展，西楼临展厅延长开放至20:00。小浪花讲解团、苏州河夜游Citywalk、徽州非遗工坊。地铁1号线/2号线/8号线人民广场站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shhistorymuseum",
+    "city": "shanghai"
+  },
+  {
+    "title": "音乐剧《基督山伯爵》中文版",
+    "venue": "上海文化广场",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-11",
+    "link": "https://www.shcstheatre.com/program/programlist_easy.aspx",
+    "description": "音乐剧《基督山伯爵》中文版，改编自大仲马同名经典。票价80-1080元。地铁9号线/12号线嘉善路站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shcstheatre",
+    "city": "shanghai"
+  },
+  {
+    "title": "龙马社原创话剧《断金》",
+    "venue": "上海文化广场",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-19",
+    "link": "https://www.shcstheatre.com/program/programlist_easy.aspx",
+    "description": "邹静之编剧，张国立、王刚、张铁林主演话剧《断金》。三位老艺术家并肩登台。票价280-1380元。地铁9号线/12号线嘉善路站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shcstheatre",
+    "city": "shanghai"
+  },
+  {
+    "title": "音乐剧《粉丝来信》中文版",
+    "venue": "上海文化广场",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-01",
+    "link": "https://www.shcstheatre.com/program/programlist_easy.aspx",
+    "description": "音乐剧《粉丝来信》中文版，八轮演出口碑之作。票价80-680元。地铁9号线/12号线嘉善路站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shcstheatre",
+    "city": "shanghai"
+  },
+  {
+    "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
+    "venue": "上海大剧院",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "description": "纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shgtheatre",
+    "city": "shanghai"
+  },
+  {
+    "title": "话剧《无墙》",
+    "venue": "上海大剧院",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-19",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "description": "原创话剧《无墙》，随机世界里的意外相遇。地铁1号线/2号线/8号线人民广场站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shgtheatre",
+    "city": "shanghai"
+  },
+  {
+    "title": "2026上海夏季音乐节（MISA）",
+    "venue": "捷豹上海交响音乐厅",
+    "start_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "link": "https://m.sohu.com/a/1044837744_391502/",
+    "description": "第37届上海夏季音乐节，33场现场演出+25场线上直播。开幕大戏为余隆执棒、濮存昕主演音乐与戏剧文学《哈姆雷特》。电影音乐、跨界舞台、国际大咖齐聚。地铁10号线上海图书馆站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "misa",
+    "city": "shanghai"
+  },
+  {
+    "title": "上海海昌海洋公园虎鲸造浪节",
+    "venue": "上海海昌海洋公园",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+    "description": "连续66天夜场，4大戏水、7大剧目升级、奥特曼60周年庆、烟花盛典。7月11日-8月23日虎鲸造浪音乐节。地铁16号线临港大道站。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "haichang",
+    "city": "shanghai"
+  },
+  {
+    "title": "上海乐高乐园开园一周年暑期活动",
+    "venue": "上海乐高乐园",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+    "description": "庆祝开园一周年，周五至周日营业时间延长至20:00，无人机表演生日蛋糕、乐高人仔图案。亲子骑乘、F1赛车竞速等限时活动。地铁22号线金山站。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "legoland",
+    "city": "shanghai"
+  },
+  {
+    "title": "双星耀世——三星堆—金沙遗址古蜀文明展",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-01-18",
+    "end_date": "2026-08-18",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "三星堆—金沙遗址古蜀文明展，南8南9展厅。古蜀文明珍贵文物。需提前7天在国家博物馆小程序预约，实名制人脸核验。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "叩问永恒——庞贝的探索与发掘",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-02-04",
+    "end_date": "2026-10-11",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "庞贝古城考古发掘特展，南1南2展厅。古罗马庞贝古城出土文物。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "巴西魂——波尔蒂纳里艺术展",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-06-10",
+    "end_date": "2026-10-11",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "巴西现代艺术大师坎迪多·波尔蒂纳里56件原作与沉浸式数字体验。南4展厅。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "行·迹——卡塔尔游牧生活与文化展",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-06-09",
+    "end_date": "2026-09-09",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "国内首次系统性呈现卡塔尔游牧生活的专题展览，约150件组实物及摄影作品。南3展厅。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "看·见——中国国家博物馆藏海外中国图像展",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-05-30",
+    "end_date": "2026-12-31",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "精选约300件套海外中国图像展品，以时间为轴通过远观、凝视、识见三个单元铺展。北8展厅。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "李静训和她的时代",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-04-03",
+    "end_date": "2026-10-08",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "李静训墓出土文物特展，隋代少女墓葬精美文物。南6南7展厅。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "心游万仞——蒲松龄与《聊斋志异》",
+    "venue": "中国国家博物馆",
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-31",
+    "link": "https://www.chnmuseum.cn/zl/",
+    "description": "蒲松龄与聊斋志异文化展。北1展厅。地铁1号线天安门东站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "chnmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "归心一园——故宫乾隆花园沉浸式光影展",
+    "venue": "国家图书馆（国家典籍博物馆）",
+    "start_date": "2026-07-09",
+    "end_date": "2026-12-06",
+    "link": "http://m.toutiao.com/group/7657970472113406473/",
+    "description": "故宫博物院联合主办，首次以数字光影技术复原乾隆花园全域风貌。五境游园17处交互展项，每日10:30、14:00免费公益讲解。海淀区中关村南大街33号。地铁4号线国家图书馆站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gugong",
+    "city": "beijing"
+  },
+  {
+    "title": "从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
+    "venue": "中国美术馆",
+    "start_date": "2026-04-28",
+    "end_date": "2026-08-28",
+    "link": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+    "description": "36件意大利文艺复兴杰作，达·芬奇、米开朗基罗、拉斐尔三杰代表作首次齐聚中国。全价票120元，优惠票60元。地铁8号线中国美术馆站。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "namoc",
+    "city": "beijing"
+  },
+  {
+    "title": "墨韵文脉——八大山人与17世纪以来中国写意艺术展",
+    "venue": "中国美术馆",
+    "start_date": "2026-05-20",
+    "end_date": "2026-08-15",
+    "link": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+    "description": "系统梳理17世纪以来写意文脉，扬州八怪到齐白石黄宾虹。免费参观。地铁8号线中国美术馆站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "namoc",
+    "city": "beijing"
+  },
+  {
+    "title": "吉金耀山川——鄂尔多斯青铜文化展",
+    "venue": "北京大运河博物馆（首都博物馆东馆）",
+    "start_date": "2026-06-16",
+    "end_date": "2026-09-13",
+    "link": "http://m.toutiao.com/group/7657883354057998848/",
+    "description": "鄂尔多斯青铜器展，11、12号展厅。北方草原文化代表性器物。地铁6号线北运河东站。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "bjmuseum",
+    "city": "beijing"
+  },
+  {
+    "title": "苍穹记忆——南天门计划科幻科普主题展",
+    "venue": "中华世纪坛",
+    "start_date": "2026-07-08",
+    "end_date": "2026-10-11",
+    "link": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+    "description": "中航环球航空科幻IP南天门计划，3000平方米沉浸式展区，1:1实体机甲战机，23处互动体验。早鸟票68元，原价108元。地铁1号线/9号线军事博物馆站。",
+    "category": "科普活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "centuryaltar",
+    "city": "beijing"
+  },
+  {
+    "title": "国家大剧院原创喜歌剧《三打白骨精》",
+    "venue": "国家大剧院",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "link": "https://ticket.chncpa.org",
+    "description": "国家大剧院原创喜歌剧《三打白骨精》，取材西游记经典故事。戏剧场，票价100-500元。地铁1号线天安门西站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "ncpa",
+    "city": "beijing"
+  },
+  {
+    "title": "2026漫步经典系列音乐会",
+    "venue": "国家大剧院",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "link": "https://ticket.chncpa.org",
+    "description": "国家大剧院漫步经典系列，柏林爱乐十二把大提琴开幕，多场高品质古典音乐会。音乐厅，票价80-880元。地铁1号线天安门西站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "ncpa",
+    "city": "beijing"
+  },
+  {
+    "title": "柏林爱乐十二把大提琴音乐会",
+    "venue": "国家大剧院",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-09",
+    "link": "https://ticket.chncpa.org",
+    "description": "柏林爱乐十二把大提琴音乐会，2026漫步经典开幕演出。票价180-880元。地铁1号线天安门西站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "ncpa",
+    "city": "beijing"
+  },
+  {
+    "title": "话剧《杜甫》",
+    "venue": "首都剧场",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-19",
+    "link": "https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html",
+    "description": "北京人民艺术剧院话剧《杜甫》，郭启宏编剧，冯远征导演并主演。票价80-680元，学生票40元。地铁5号线/6号线东四站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "bjry",
+    "city": "beijing"
+  },
+  {
+    "title": "话剧《罗密欧与朱丽叶》",
+    "venue": "北京国际戏剧中心·人艺小剧场",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-27",
+    "link": "https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html",
+    "description": "北京人艺小剧场话剧《罗密欧与朱丽叶》，莎士比亚经典，魏嘉诚导演。票价180-280元，学生票60元。地铁5号线/6号线东四站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "bjry",
+    "city": "beijing"
+  },
+  {
+    "title": "话剧《沈钧儒》",
+    "venue": "国家话剧院剧场",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-11",
+    "link": "https://m.sohu.com/a/1043160917_121106842/",
+    "description": "中国原创话剧邀请展剧目《沈钧儒》。票价50-380元。地铁9号线白堆子站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "cntheatre",
+    "city": "beijing"
+  },
+  {
+    "title": "舞台剧《看不见的客人》",
+    "venue": "北京艺术中心（国家大剧院台湖）",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-12",
+    "link": "https://ticket.chncpa.org",
+    "description": "丁一滕导演，张维伊、金靖主演舞台剧《看不见的客人》。票价80-680元。地铁7号线高楼金站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "ncpa",
+    "city": "beijing"
   }
 ]
