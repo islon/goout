@@ -238,6 +238,15 @@ LOCATION:光明区图书馆
 DESCRIPTION:光明区图书馆音乐主题读书分享会，隔周六下午。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.szgmlib.com.cn
 END:VEVENT
 BEGIN:VEVENT
+UID:3968d389ceb8dd70@shenzhen-exhibitions
+DTSTAMP:20260710T171353Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260720
+SUMMARY:话剧《杜甫》
+LOCATION:首都剧场
+DESCRIPTION:北京人民艺术剧院话剧《杜甫》，郭启宏编剧，冯远征导演并主演。票价80-680元，学生票40元。地铁5号线/6号线东四站。\n地点: 首都剧场\n时间: 2026-07-06 至 2026-07-19\n详情: https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:c1fc1806f22b8aa5@shenzhen-exhibitions
 DTSTAMP:20260711T014755Z
 DTSTART;VALUE=DATE:20260707

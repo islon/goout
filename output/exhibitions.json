@@ -2,6 +2,7 @@
   {
     "title": "来处与归途：三燕百年",
     "venue": "深圳博物馆（历史民俗馆）",
+    "city": "shenzhen",
     "start_date": "2026-05-18",
     "end_date": "2026-07-26",
     "link": "https://www.shenzhenmuseum.com",
@@ -15,6 +16,7 @@
   {
     "title": "骥跃升腾——三彩马的世界",
     "venue": "深圳博物馆（古代艺术馆）",
+    "city": "shenzhen",
     "start_date": "2026-05-18",
     "end_date": "2026-07-31",
     "link": "https://www.shenzhenmuseum.com",
@@ -41,6 +43,7 @@
   {
     "title": "国宝萌友展",
     "venue": "深圳科学技术馆（光明新馆）",
+    "city": "shenzhen",
     "start_date": "2026-06-20",
     "end_date": "2026-10-08",
     "link": "https://www.szstm.org.cn",
@@ -54,6 +57,7 @@
   {
     "title": "太空奥德赛——宇宙探索展",
     "venue": "深圳科学技术馆（光明新馆）",
+    "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-12-31",
     "link": "https://www.szstm.org.cn",
@@ -80,6 +84,7 @@
   {
     "title": "一平米实验室",
     "venue": "深圳科学技术馆（光明新馆）",
+    "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-12-31",
     "link": "https://www.szstm.org.cn",
@@ -275,6 +280,7 @@
   {
     "title": "小奶牛故事绘",
     "venue": "光明区图书馆",
+    "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-30",
     "link": "https://www.szgmlib.com.cn",
@@ -288,6 +294,7 @@
   {
     "title": "小太阳i阅读故事会",
     "venue": "光明区图书馆",
+    "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-08-31",
     "link": "https://www.szgmlib.com.cn",
@@ -312,8 +319,25 @@
     "source": "光明区图书馆官网"
   },
   {
+    "title": "话剧《杜甫》",
+    "name": "话剧《杜甫》",
+    "venue": "首都剧场",
+    "city": "beijing",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-19",
+    "link": "https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html",
+    "url": "https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html",
+    "description": "北京人民艺术剧院话剧《杜甫》，郭启宏编剧，冯远征导演并主演。票价80-680元，学生票40元。地铁5号线/6号线东四站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "bjry"
+  },
+  {
     "title": "少儿国际象棋公益班",
     "venue": "深圳市文化馆",
+    "city": "shenzhen",
     "start_date": "2026-07-07",
     "end_date": "2026-08-25",
     "link": "https://www.szmassart.com",
@@ -327,6 +351,7 @@
   {
     "title": "成人古典舞公益班",
     "venue": "深圳市文化馆",
+    "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-26",
     "link": "https://www.szmassart.com",
@@ -340,6 +365,7 @@
   {
     "title": "读剧公益班",
     "venue": "深圳市文化馆",
+    "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-27",
     "link": "https://www.szmassart.com",
@@ -353,6 +379,7 @@
   {
     "title": "朗诵艺术公益班",
     "venue": "深圳市文化馆",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
     "link": "https://www.szmassart.com",
@@ -483,6 +510,7 @@
   {
     "title": "福田区图书馆暑期读书分享会",
     "venue": "福田区图书馆",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
     "link": "https://www.ftlib.org.cn",
@@ -574,6 +602,7 @@
   {
     "title": "宝安科技馆暑期科普活动",
     "venue": "宝安科技馆",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
     "link": "https://www.baoan.gov.cn",
@@ -639,6 +668,7 @@
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
     "venue": "深圳湾体育中心",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-30",
     "link": "https://www.szns.gov.cn",
@@ -847,6 +877,7 @@
   {
     "title": "光明区文化馆暑期公益培训班",
     "venue": "光明区文化馆",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
     "link": "https://www.szgm.gov.cn",
@@ -873,6 +904,7 @@
   {
     "title": "宝安图书馆创客空间暑期活动",
     "venue": "宝安图书馆",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
     "link": "https://www.balib.cn",
@@ -1133,6 +1165,7 @@
   {
     "title": "深圳科学技术馆科学小课堂",
     "venue": "深圳科学技术馆（光明新馆）",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-30",
     "link": "https://www.szstm.org.cn",
@@ -1146,6 +1179,7 @@
   {
     "title": "宝安体育中心暑期篮球训练营",
     "venue": "宝安体育中心",
+    "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
     "link": "http://www.baoan.gov.cn/bawtlyj/",
@@ -1159,6 +1193,7 @@
   {
     "title": "深圳湾体育中心暑期网球培训班",
     "venue": "深圳湾体育中心",
+    "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-28",
     "link": "https://www.szns.gov.cn",
@@ -1172,6 +1207,7 @@
   {
     "title": "深圳市体育中心暑期运动营",
     "venue": "深圳市体育中心体育场",
+    "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
     "link": "https://www.szsportscenter.com",
@@ -1185,6 +1221,7 @@
   {
     "title": "大鹏地质公园博物馆暑期探索营",
     "venue": "大鹏地质公园博物馆",
+    "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
     "link": "https://www.dapeng.gov.cn",
@@ -1302,6 +1339,7 @@
   {
     "title": "南山博物馆暑期少儿工作坊",
     "venue": "南山博物馆",
+    "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
     "link": "https://www.nanshanmuseum.com",
@@ -1328,6 +1366,7 @@
   {
     "title": "深圳市青少年活动中心暑期科技体验",
     "venue": "深圳市青少年活动中心",
+    "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
     "link": "https://www.szaac.com",
@@ -1562,6 +1601,7 @@
   {
     "title": "海阔天高——亚太版画作品邀请展",
     "venue": "中国版画博物馆",
+    "city": "shenzhen",
     "start_date": "2026-11-01",
     "end_date": "2026-12-31",
     "link": "https://www.szlh.gov.cn",
