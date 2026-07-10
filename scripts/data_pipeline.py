@@ -26,6 +26,8 @@ from rss_generator import generate_rss
 
 WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.json')
 
+DEFAULT_CITY = 'shenzhen'
+
 REAL_SCRAPERS = [
     # 市级核心场馆
     ('深圳图书馆', 'scraper_szlib', 'fetch_szlib_activities'),
@@ -79,7 +81,7 @@ CATEGORY_KEYWORDS = {
 }
 
 
-def normalize_activity(raw, venue_default=''):
+def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     title = raw.get('title') or raw.get('name') or ''
     link = raw.get('link') or raw.get('url') or ''
     venue = raw.get('venue') or venue_default
@@ -90,6 +92,7 @@ def normalize_activity(raw, venue_default=''):
     contact = raw.get('contact') or ''
     family_friendly = raw.get('family_friendly', False)
     source = raw.get('source') or ''
+    city_val = raw.get('city') or city
 
     if not title or not start_date:
         return None
@@ -108,6 +111,7 @@ def normalize_activity(raw, venue_default=''):
         'title': title,
         'name': title,
         'venue': venue,
+        'city': city_val,
         'start_date': start_date,
         'end_date': end_date,
         'link': link,

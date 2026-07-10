@@ -9,7 +9,7 @@
         }
     </script>
     <meta http-equiv="Cache-Control" content="public, max-age=86400">
-    <title>童行 (深圳亲子活动)</title>
+    <title>童行 (全国亲子活动日历)</title>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
     <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
@@ -1069,7 +1069,7 @@
             <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
         </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
-        <div class="header-subtitle">深圳亲子活动日历 · 真实 · 可溯源</div>
+        <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div></div>
         <div class="visit-stats" style="font-size: 12px; color: rgba(255,255,255,0.75); margin-top: 10px; text-align: center;">
             <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
             <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
@@ -1083,6 +1083,16 @@
         <div class="search-container">
             <span class="search-icon">🔍</span>
             <input type="text" class="search-input" id="search-input" placeholder="搜索活动名称、地点..." oninput="handleSearch()">
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">城市</div>
+        <div class="filter-bar" id="city-filter-bar">
+            <button class="filter-btn active" data-city="shenzhen">深圳</button>
+            <button class="filter-btn" data-city="guangzhou">广州</button>
+            <button class="filter-btn" data-city="shanghai">上海</button>
+            <button class="filter-btn" data-city="beijing">北京</button>
         </div>
     </div>
 
@@ -1126,16 +1136,37 @@
         <div class="filter-label">区县</div>
         <div class="filter-bar" id="district-filter-bar">
             <button class="filter-btn" data-district="all">全部区县</button>
-            <button class="filter-btn" data-district="宝安区">宝安区</button>
-            <button class="filter-btn" data-district="福田区">福田区</button>
-            <button class="filter-btn" data-district="南山区">南山区</button>
-            <button class="filter-btn" data-district="坪山区">坪山区</button>
-            <button class="filter-btn" data-district="光明区">光明区</button>
-            <button class="filter-btn" data-district="盐田区">盐田区</button>
-            <button class="filter-btn" data-district="大鹏新区">大鹏新区</button>
-            <button class="filter-btn" data-district="龙岗区">龙岗区</button>
-            <button class="filter-btn" data-district="龙华区">龙华区</button>
-            <button class="filter-btn" data-district="罗湖区">罗湖区</button>
+            <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
+            <button class="filter-btn" data-district="福田区" data-city="shenzhen">福田区</button>
+            <button class="filter-btn" data-district="南山区" data-city="shenzhen">南山区</button>
+            <button class="filter-btn" data-district="坪山区" data-city="shenzhen">坪山区</button>
+            <button class="filter-btn" data-district="光明区" data-city="shenzhen">光明区</button>
+            <button class="filter-btn" data-district="盐田区" data-city="shenzhen">盐田区</button>
+            <button class="filter-btn" data-district="大鹏新区" data-city="shenzhen">大鹏新区</button>
+            <button class="filter-btn" data-district="龙岗区" data-city="shenzhen">龙岗区</button>
+            <button class="filter-btn" data-district="龙华区" data-city="shenzhen">龙华区</button>
+            <button class="filter-btn" data-district="罗湖区" data-city="shenzhen">罗湖区</button>
+            <button class="filter-btn" data-district="越秀区" data-city="guangzhou" style="display:none;">越秀区</button>
+            <button class="filter-btn" data-district="天河区" data-city="guangzhou" style="display:none;">天河区</button>
+            <button class="filter-btn" data-district="海珠区" data-city="guangzhou" style="display:none;">海珠区</button>
+            <button class="filter-btn" data-district="荔湾区" data-city="guangzhou" style="display:none;">荔湾区</button>
+            <button class="filter-btn" data-district="白云区" data-city="guangzhou" style="display:none;">白云区</button>
+            <button class="filter-btn" data-district="黄埔区" data-city="guangzhou" style="display:none;">黄埔区</button>
+            <button class="filter-btn" data-district="番禺区" data-city="guangzhou" style="display:none;">番禺区</button>
+            <button class="filter-btn" data-district="黄浦区" data-city="shanghai" style="display:none;">黄浦区</button>
+            <button class="filter-btn" data-district="徐汇区" data-city="shanghai" style="display:none;">徐汇区</button>
+            <button class="filter-btn" data-district="浦东新区" data-city="shanghai" style="display:none;">浦东新区</button>
+            <button class="filter-btn" data-district="静安区" data-city="shanghai" style="display:none;">静安区</button>
+            <button class="filter-btn" data-district="杨浦区" data-city="shanghai" style="display:none;">杨浦区</button>
+            <button class="filter-btn" data-district="虹口区" data-city="shanghai" style="display:none;">虹口区</button>
+            <button class="filter-btn" data-district="闵行区" data-city="shanghai" style="display:none;">闵行区</button>
+            <button class="filter-btn" data-district="金山区" data-city="shanghai" style="display:none;">金山区</button>
+            <button class="filter-btn" data-district="东城区" data-city="beijing" style="display:none;">东城区</button>
+            <button class="filter-btn" data-district="西城区" data-city="beijing" style="display:none;">西城区</button>
+            <button class="filter-btn" data-district="朝阳区" data-city="beijing" style="display:none;">朝阳区</button>
+            <button class="filter-btn" data-district="海淀区" data-city="beijing" style="display:none;">海淀区</button>
+            <button class="filter-btn" data-district="丰台区" data-city="beijing" style="display:none;">丰台区</button>
+            <button class="filter-btn" data-district="通州区" data-city="beijing" style="display:none;">通州区</button>
         </div>
     </div>
 
@@ -1143,70 +1174,99 @@
         <div class="filter-label">地点</div>
         <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
             <button class="filter-btn" data-source="all">全部地点</button>
-            <!-- 市级核心场馆 -->
-            <button class="filter-btn" data-source="szlib">深圳图书馆</button>
-            <button class="filter-btn" data-source="sz_children_lib">深圳少儿图书馆</button>
-            <button class="filter-btn" data-source="szbwg">深圳博物馆</button>
-            <button class="filter-btn" data-source="szstm">深圳科学技术馆</button>
-            <button class="filter-btn" data-source="szcp">深圳市少年宫</button>
-            <button class="filter-btn" data-source="szaac">深圳市青少年活动中心</button>
-            <button class="filter-btn" data-source="sznm">深圳自然博物馆</button>
-            <button class="filter-btn" data-source="szbo">深圳滨海艺术中心</button>
-            <button class="filter-btn" data-source="szconcert">深圳音乐厅</button>
-            <button class="filter-btn" data-source="szmocap">当代艺术与城市规划馆</button>
-            <button class="filter-btn" data-source="szsports">深圳市体育中心</button>
-            <button class="filter-btn" data-source="szmassart">深圳市文化馆</button>
-            <!-- 区级图书馆 -->
-            <button class="filter-btn" data-source="nslib">南山图书馆</button>
-            <button class="filter-btn" data-source="balib">宝安图书馆</button>
-            <button class="filter-btn" data-source="ftlib">福田区图书馆</button>
-            <button class="filter-btn" data-source="lhlib">罗湖区图书馆</button>
-            <button class="filter-btn" data-source="lglib">龙岗区图书馆</button>
-            <button class="filter-btn" data-source="lhxqlib">龙华区图书馆</button>
-            <button class="filter-btn" data-source="gmlib">光明区图书馆</button>
-            <button class="filter-btn" data-source="pslib">坪山区图书馆</button>
-            <button class="filter-btn" data-source="ytlib">盐田区图书馆</button>
-            <button class="filter-btn" data-source="dplib">大鹏新区图书馆</button>
-            <!-- 区级博物馆与科普馆 -->
-            <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
-            <button class="filter-btn" data-source="lgmuseum">龙岗区博物馆</button>
-            <button class="filter-btn" data-source="bamuseum">宝安区博物馆</button>
-            <button class="filter-btn" data-source="lhmuseum">龙华区博物馆</button>
-            <button class="filter-btn" data-source="lhmuseum2">罗湖区博物馆</button>
-            <button class="filter-btn" data-source="dpgeopark">大鹏地质公园博物馆</button>
-            <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
-            <button class="filter-btn" data-source="lgkjg">龙岗区科技馆</button>
-            <button class="filter-btn" data-source="lhkjg">龙华区科技馆</button>
-            <button class="filter-btn" data-source="ytkjg">盐田区科技馆</button>
-            <button class="filter-btn" data-source="gm_kjg">光明区科技馆</button>
-            <!-- 青少年宫 -->
-            <button class="filter-btn" data-source="baoan_qsng">宝安区青少年宫</button>
-            <button class="filter-btn" data-source="nsqsng">南山区青少年活动中心</button>
-            <button class="filter-btn" data-source="lgqsng">龙岗区青少年宫</button>
-            <button class="filter-btn" data-source="lhqsng">龙华区青少年宫</button>
-            <button class="filter-btn" data-source="lhqsng2">罗湖区青少年活动中心</button>
-            <button class="filter-btn" data-source="gmqsng">光明区青少年活动中心</button>
-            <button class="filter-btn" data-source="psqsng">坪山区青少年宫</button>
-            <!-- 区级体育中心 -->
-            <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
-            <button class="filter-btn" data-source="nswtzx">南山文体中心</button>
-            <button class="filter-btn" data-source="szwty">深圳湾体育中心</button>
-            <button class="filter-btn" data-source="lhtyzx">龙岗体育中心</button>
-            <button class="filter-btn" data-source="lhwtx">龙华文体中心</button>
-            <button class="filter-btn" data-source="gmtyzx">光明区群众体育中心</button>
-            <button class="filter-btn" data-source="lhtyzx2">罗湖区体育中心</button>
-            <button class="filter-btn" data-source="pstyzx">坪山体育中心</button>
-            <button class="filter-btn" data-source="yttyzx">盐田体育中心</button>
-            <!-- 其他公立场馆 -->
-            <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
-            <button class="filter-btn" data-source="baoan_1990">宝安1990文化馆</button>
-            <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
-            <button class="filter-btn" data-source="baoan_guihua">宝安城市规划展览馆</button>
-            <button class="filter-btn" data-source="lgguihua">龙岗城市规划展览馆</button>
-            <button class="filter-btn" data-source="nsguihua">南山城市规划展览馆</button>
-            <button class="filter-btn" data-source="lh_printmaking">中国版画博物馆</button>
-            <button class="filter-btn" data-source="nsaqjy">南山安全教育体验馆</button>
-            <button class="filter-btn" data-source="skhykpg">蛇口海洋科普馆</button>
+            <!-- 深圳市级核心场馆 -->
+            <button class="filter-btn" data-source="szlib" data-city="shenzhen">深圳图书馆</button>
+            <button class="filter-btn" data-source="sz_children_lib" data-city="shenzhen">深圳少儿图书馆</button>
+            <button class="filter-btn" data-source="szbwg" data-city="shenzhen">深圳博物馆</button>
+            <button class="filter-btn" data-source="szstm" data-city="shenzhen">深圳科学技术馆</button>
+            <button class="filter-btn" data-source="szcp" data-city="shenzhen">深圳市少年宫</button>
+            <button class="filter-btn" data-source="szaac" data-city="shenzhen">深圳市青少年活动中心</button>
+            <button class="filter-btn" data-source="sznm" data-city="shenzhen">深圳自然博物馆</button>
+            <button class="filter-btn" data-source="szbo" data-city="shenzhen">深圳滨海艺术中心</button>
+            <button class="filter-btn" data-source="szconcert" data-city="shenzhen">深圳音乐厅</button>
+            <button class="filter-btn" data-source="szmocap" data-city="shenzhen">当代艺术与城市规划馆</button>
+            <button class="filter-btn" data-source="szsports" data-city="shenzhen">深圳市体育中心</button>
+            <button class="filter-btn" data-source="szmassart" data-city="shenzhen">深圳市文化馆</button>
+            <!-- 深圳区级图书馆 -->
+            <button class="filter-btn" data-source="nslib" data-city="shenzhen">南山图书馆</button>
+            <button class="filter-btn" data-source="balib" data-city="shenzhen">宝安图书馆</button>
+            <button class="filter-btn" data-source="ftlib" data-city="shenzhen">福田区图书馆</button>
+            <button class="filter-btn" data-source="lhlib" data-city="shenzhen">罗湖区图书馆</button>
+            <button class="filter-btn" data-source="lglib" data-city="shenzhen">龙岗区图书馆</button>
+            <button class="filter-btn" data-source="lhxqlib" data-city="shenzhen">龙华区图书馆</button>
+            <button class="filter-btn" data-source="gmlib" data-city="shenzhen">光明区图书馆</button>
+            <button class="filter-btn" data-source="pslib" data-city="shenzhen">坪山区图书馆</button>
+            <button class="filter-btn" data-source="ytlib" data-city="shenzhen">盐田区图书馆</button>
+            <button class="filter-btn" data-source="dplib" data-city="shenzhen">大鹏新区图书馆</button>
+            <!-- 深圳区级博物馆与科普馆 -->
+            <button class="filter-btn" data-source="nsmuseum" data-city="shenzhen">南山博物馆</button>
+            <button class="filter-btn" data-source="lgmuseum" data-city="shenzhen">龙岗区博物馆</button>
+            <button class="filter-btn" data-source="bamuseum" data-city="shenzhen">宝安区博物馆</button>
+            <button class="filter-btn" data-source="lhmuseum" data-city="shenzhen">龙华区博物馆</button>
+            <button class="filter-btn" data-source="lhmuseum2" data-city="shenzhen">罗湖区博物馆</button>
+            <button class="filter-btn" data-source="dpgeopark" data-city="shenzhen">大鹏地质公园博物馆</button>
+            <button class="filter-btn" data-source="baoan_kjg" data-city="shenzhen">宝安科技馆</button>
+            <button class="filter-btn" data-source="lgkjg" data-city="shenzhen">龙岗区科技馆</button>
+            <button class="filter-btn" data-source="lhkjg" data-city="shenzhen">龙华区科技馆</button>
+            <button class="filter-btn" data-source="ytkjg" data-city="shenzhen">盐田区科技馆</button>
+            <button class="filter-btn" data-source="gm_kjg" data-city="shenzhen">光明区科技馆</button>
+            <!-- 深圳青少年宫 -->
+            <button class="filter-btn" data-source="baoan_qsng" data-city="shenzhen">宝安区青少年宫</button>
+            <button class="filter-btn" data-source="nsqsng" data-city="shenzhen">南山区青少年活动中心</button>
+            <button class="filter-btn" data-source="lgqsng" data-city="shenzhen">龙岗区青少年宫</button>
+            <button class="filter-btn" data-source="lhqsng" data-city="shenzhen">龙华区青少年宫</button>
+            <button class="filter-btn" data-source="lhqsng2" data-city="shenzhen">罗湖区青少年活动中心</button>
+            <button class="filter-btn" data-source="gmqsng" data-city="shenzhen">光明区青少年活动中心</button>
+            <button class="filter-btn" data-source="psqsng" data-city="shenzhen">坪山区青少年宫</button>
+            <!-- 深圳区级体育中心 -->
+            <button class="filter-btn" data-source="baoan_ty" data-city="shenzhen">宝安体育中心</button>
+            <button class="filter-btn" data-source="nswtzx" data-city="shenzhen">南山文体中心</button>
+            <button class="filter-btn" data-source="szwty" data-city="shenzhen">深圳湾体育中心</button>
+            <button class="filter-btn" data-source="lhtyzx" data-city="shenzhen">龙岗体育中心</button>
+            <button class="filter-btn" data-source="lhwtx" data-city="shenzhen">龙华文体中心</button>
+            <button class="filter-btn" data-source="gmtyzx" data-city="shenzhen">光明区群众体育中心</button>
+            <button class="filter-btn" data-source="lhtyzx2" data-city="shenzhen">罗湖区体育中心</button>
+            <button class="filter-btn" data-source="pstyzx" data-city="shenzhen">坪山体育中心</button>
+            <button class="filter-btn" data-source="yttyzx" data-city="shenzhen">盐田体育中心</button>
+            <!-- 深圳其他公立场馆 -->
+            <button class="filter-btn" data-source="nswhg" data-city="shenzhen">南山区文化馆</button>
+            <button class="filter-btn" data-source="baoan_1990" data-city="shenzhen">宝安1990文化馆</button>
+            <button class="filter-btn" data-source="bayarea_eye" data-city="shenzhen">湾区之眼</button>
+            <button class="filter-btn" data-source="baoan_guihua" data-city="shenzhen">宝安城市规划展览馆</button>
+            <button class="filter-btn" data-source="lgguihua" data-city="shenzhen">龙岗城市规划展览馆</button>
+            <button class="filter-btn" data-source="nsguihua" data-city="shenzhen">南山城市规划展览馆</button>
+            <button class="filter-btn" data-source="lh_printmaking" data-city="shenzhen">中国版画博物馆</button>
+            <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
+            <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
+            <!-- 广州场馆 -->
+            <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
+            <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
+            <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
+            <button class="filter-btn" data-source="gzmuseum" data-city="guangzhou" style="display:none;">广州博物馆</button>
+            <button class="filter-btn" data-source="nanyuewang" data-city="guangzhou" style="display:none;">南越王博物院</button>
+            <button class="filter-btn" data-source="gzdjy" data-city="guangzhou" style="display:none;">广州大剧院</button>
+            <button class="filter-btn" data-source="xinghai" data-city="guangzhou" style="display:none;">星海音乐厅</button>
+            <button class="filter-btn" data-source="zsauditorium" data-city="guangzhou" style="display:none;">广州中山纪念堂</button>
+            <!-- 上海场馆 -->
+            <button class="filter-btn" data-source="shanghaimuseum" data-city="shanghai" style="display:none;">上海博物馆</button>
+            <button class="filter-btn" data-source="chinaartmuseum" data-city="shanghai" style="display:none;">上海美术馆</button>
+            <button class="filter-btn" data-source="expomuseum" data-city="shanghai" style="display:none;">上海世博会博物馆</button>
+            <button class="filter-btn" data-source="shanghai-astronomy" data-city="shanghai" style="display:none;">上海天文馆</button>
+            <button class="filter-btn" data-source="shhistorymuseum" data-city="shanghai" style="display:none;">上海市历史博物馆</button>
+            <button class="filter-btn" data-source="shcstheatre" data-city="shanghai" style="display:none;">上海文化广场</button>
+            <button class="filter-btn" data-source="shgtheatre" data-city="shanghai" style="display:none;">上海大剧院</button>
+            <button class="filter-btn" data-source="misa" data-city="shanghai" style="display:none;">捷豹上海交响音乐厅</button>
+            <button class="filter-btn" data-source="haichang" data-city="shanghai" style="display:none;">上海海昌海洋公园</button>
+            <button class="filter-btn" data-source="legoland" data-city="shanghai" style="display:none;">上海乐高乐园</button>
+            <!-- 北京场馆 -->
+            <button class="filter-btn" data-source="chnmuseum" data-city="beijing" style="display:none;">中国国家博物馆</button>
+            <button class="filter-btn" data-source="gugong" data-city="beijing" style="display:none;">国家图书馆</button>
+            <button class="filter-btn" data-source="namoc" data-city="beijing" style="display:none;">中国美术馆</button>
+            <button class="filter-btn" data-source="bjmuseum" data-city="beijing" style="display:none;">北京大运河博物馆</button>
+            <button class="filter-btn" data-source="centuryaltar" data-city="beijing" style="display:none;">中华世纪坛</button>
+            <button class="filter-btn" data-source="ncpa" data-city="beijing" style="display:none;">国家大剧院</button>
+            <button class="filter-btn" data-source="bjry" data-city="beijing" style="display:none;">首都剧场</button>
+            <button class="filter-btn" data-source="cntheatre" data-city="beijing" style="display:none;">国家话剧院剧场</button>
         </div>
         <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
     </div>
@@ -1227,6 +1287,16 @@
                 <div class="search-container">
                     <span class="search-icon">🔍</span>
                     <input type="text" class="search-input" id="search-input-desktop" placeholder="搜索活动..." oninput="handleSearch()">
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">📍 城市</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn active" data-city="shenzhen">深圳</button>
+                    <button class="filter-btn" data-city="guangzhou">广州</button>
+                    <button class="filter-btn" data-city="shanghai">上海</button>
+                    <button class="filter-btn" data-city="beijing">北京</button>
                 </div>
             </div>
 
@@ -1261,16 +1331,37 @@
                 <div class="sidebar-title">🌆 区县</div>
                 <div class="filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-district="all">全部区县</button>
-                    <button class="filter-btn" data-district="宝安区">宝安区</button>
-                    <button class="filter-btn" data-district="福田区">福田区</button>
-                    <button class="filter-btn" data-district="南山区">南山区</button>
-                    <button class="filter-btn" data-district="坪山区">坪山区</button>
-                    <button class="filter-btn" data-district="光明区">光明区</button>
-                    <button class="filter-btn" data-district="盐田区">盐田区</button>
-                    <button class="filter-btn" data-district="大鹏新区">大鹏新区</button>
-                    <button class="filter-btn" data-district="龙岗区">龙岗区</button>
-                    <button class="filter-btn" data-district="龙华区">龙华区</button>
-                    <button class="filter-btn" data-district="罗湖区">罗湖区</button>
+                    <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
+                    <button class="filter-btn" data-district="福田区" data-city="shenzhen">福田区</button>
+                    <button class="filter-btn" data-district="南山区" data-city="shenzhen">南山区</button>
+                    <button class="filter-btn" data-district="坪山区" data-city="shenzhen">坪山区</button>
+                    <button class="filter-btn" data-district="光明区" data-city="shenzhen">光明区</button>
+                    <button class="filter-btn" data-district="盐田区" data-city="shenzhen">盐田区</button>
+                    <button class="filter-btn" data-district="大鹏新区" data-city="shenzhen">大鹏新区</button>
+                    <button class="filter-btn" data-district="龙岗区" data-city="shenzhen">龙岗区</button>
+                    <button class="filter-btn" data-district="龙华区" data-city="shenzhen">龙华区</button>
+                    <button class="filter-btn" data-district="罗湖区" data-city="shenzhen">罗湖区</button>
+                    <button class="filter-btn" data-district="越秀区" data-city="guangzhou" style="display:none;">越秀区</button>
+                    <button class="filter-btn" data-district="天河区" data-city="guangzhou" style="display:none;">天河区</button>
+                    <button class="filter-btn" data-district="海珠区" data-city="guangzhou" style="display:none;">海珠区</button>
+                    <button class="filter-btn" data-district="荔湾区" data-city="guangzhou" style="display:none;">荔湾区</button>
+                    <button class="filter-btn" data-district="白云区" data-city="guangzhou" style="display:none;">白云区</button>
+                    <button class="filter-btn" data-district="黄埔区" data-city="guangzhou" style="display:none;">黄埔区</button>
+                    <button class="filter-btn" data-district="番禺区" data-city="guangzhou" style="display:none;">番禺区</button>
+                    <button class="filter-btn" data-district="黄浦区" data-city="shanghai" style="display:none;">黄浦区</button>
+                    <button class="filter-btn" data-district="徐汇区" data-city="shanghai" style="display:none;">徐汇区</button>
+                    <button class="filter-btn" data-district="浦东新区" data-city="shanghai" style="display:none;">浦东新区</button>
+                    <button class="filter-btn" data-district="静安区" data-city="shanghai" style="display:none;">静安区</button>
+                    <button class="filter-btn" data-district="杨浦区" data-city="shanghai" style="display:none;">杨浦区</button>
+                    <button class="filter-btn" data-district="虹口区" data-city="shanghai" style="display:none;">虹口区</button>
+                    <button class="filter-btn" data-district="闵行区" data-city="shanghai" style="display:none;">闵行区</button>
+                    <button class="filter-btn" data-district="金山区" data-city="shanghai" style="display:none;">金山区</button>
+                    <button class="filter-btn" data-district="东城区" data-city="beijing" style="display:none;">东城区</button>
+                    <button class="filter-btn" data-district="西城区" data-city="beijing" style="display:none;">西城区</button>
+                    <button class="filter-btn" data-district="朝阳区" data-city="beijing" style="display:none;">朝阳区</button>
+                    <button class="filter-btn" data-district="海淀区" data-city="beijing" style="display:none;">海淀区</button>
+                    <button class="filter-btn" data-district="丰台区" data-city="beijing" style="display:none;">丰台区</button>
+                    <button class="filter-btn" data-district="通州区" data-city="beijing" style="display:none;">通州区</button>
                 </div>
             </div>
 
@@ -1278,70 +1369,99 @@
                 <div class="sidebar-title">📍 地点</div>
                 <div class="filter-bar sidebar-source-filter-collapsed" id="sidebar-source-filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-source="all">全部地点</button>
-                    <!-- 市级核心场馆 -->
-                    <button class="filter-btn" data-source="szlib">深圳图书馆</button>
-                    <button class="filter-btn" data-source="sz_children_lib">深圳少儿图书馆</button>
-                    <button class="filter-btn" data-source="szbwg">深圳博物馆</button>
-                    <button class="filter-btn" data-source="szstm">深圳科学技术馆</button>
-                    <button class="filter-btn" data-source="szcp">深圳市少年宫</button>
-                    <button class="filter-btn" data-source="szaac">深圳市青少年活动中心</button>
-                    <button class="filter-btn" data-source="sznm">深圳自然博物馆</button>
-                    <button class="filter-btn" data-source="szbo">深圳滨海艺术中心</button>
-                    <button class="filter-btn" data-source="szconcert">深圳音乐厅</button>
-                    <button class="filter-btn" data-source="szmocap">当代艺术与城市规划馆</button>
-                    <button class="filter-btn" data-source="szsports">深圳市体育中心</button>
-                    <button class="filter-btn" data-source="szmassart">深圳市文化馆</button>
-                    <!-- 区级图书馆 -->
-                    <button class="filter-btn" data-source="nslib">南山图书馆</button>
-                    <button class="filter-btn" data-source="balib">宝安图书馆</button>
-                    <button class="filter-btn" data-source="ftlib">福田区图书馆</button>
-                    <button class="filter-btn" data-source="lhlib">罗湖区图书馆</button>
-                    <button class="filter-btn" data-source="lglib">龙岗区图书馆</button>
-                    <button class="filter-btn" data-source="lhxqlib">龙华区图书馆</button>
-                    <button class="filter-btn" data-source="gmlib">光明区图书馆</button>
-                    <button class="filter-btn" data-source="pslib">坪山区图书馆</button>
-                    <button class="filter-btn" data-source="ytlib">盐田区图书馆</button>
-                    <button class="filter-btn" data-source="dplib">大鹏新区图书馆</button>
-                    <!-- 区级博物馆与科普馆 -->
-                    <button class="filter-btn" data-source="nsmuseum">南山博物馆</button>
-                    <button class="filter-btn" data-source="lgmuseum">龙岗区博物馆</button>
-                    <button class="filter-btn" data-source="bamuseum">宝安区博物馆</button>
-                    <button class="filter-btn" data-source="lhmuseum">龙华区博物馆</button>
-                    <button class="filter-btn" data-source="lhmuseum2">罗湖区博物馆</button>
-                    <button class="filter-btn" data-source="dpgeopark">大鹏地质公园博物馆</button>
-                    <button class="filter-btn" data-source="baoan_kjg">宝安科技馆</button>
-                    <button class="filter-btn" data-source="lgkjg">龙岗区科技馆</button>
-                    <button class="filter-btn" data-source="lhkjg">龙华区科技馆</button>
-                    <button class="filter-btn" data-source="ytkjg">盐田区科技馆</button>
-                    <button class="filter-btn" data-source="gm_kjg">光明区科技馆</button>
-                    <!-- 青少年宫 -->
-                    <button class="filter-btn" data-source="baoan_qsng">宝安区青少年宫</button>
-                    <button class="filter-btn" data-source="nsqsng">南山区青少年活动中心</button>
-                    <button class="filter-btn" data-source="lgqsng">龙岗区青少年宫</button>
-                    <button class="filter-btn" data-source="lhqsng">龙华区青少年宫</button>
-                    <button class="filter-btn" data-source="lhqsng2">罗湖区青少年活动中心</button>
-                    <button class="filter-btn" data-source="gmqsng">光明区青少年活动中心</button>
-                    <button class="filter-btn" data-source="psqsng">坪山区青少年宫</button>
-                    <!-- 区级体育中心 -->
-                    <button class="filter-btn" data-source="baoan_ty">宝安体育中心</button>
-                    <button class="filter-btn" data-source="nswtzx">南山文体中心</button>
-                    <button class="filter-btn" data-source="szwty">深圳湾体育中心</button>
-                    <button class="filter-btn" data-source="lhtyzx">龙岗体育中心</button>
-                    <button class="filter-btn" data-source="lhwtx">龙华文体中心</button>
-                    <button class="filter-btn" data-source="gmtyzx">光明区群众体育中心</button>
-                    <button class="filter-btn" data-source="lhtyzx2">罗湖区体育中心</button>
-                    <button class="filter-btn" data-source="pstyzx">坪山体育中心</button>
-                    <button class="filter-btn" data-source="yttyzx">盐田体育中心</button>
-                    <!-- 其他公立场馆 -->
-                    <button class="filter-btn" data-source="nswhg">南山区文化馆</button>
-                    <button class="filter-btn" data-source="baoan_1990">宝安1990文化馆</button>
-                    <button class="filter-btn" data-source="bayarea_eye">湾区之眼</button>
-                    <button class="filter-btn" data-source="baoan_guihua">宝安城市规划展览馆</button>
-                    <button class="filter-btn" data-source="lgguihua">龙岗城市规划展览馆</button>
-                    <button class="filter-btn" data-source="nsguihua">南山城市规划展览馆</button>
-                    <button class="filter-btn" data-source="lh_printmaking">中国版画博物馆</button>
-                    <button class="filter-btn" data-source="nsaqjy">南山安全教育体验馆</button>
-                    <button class="filter-btn" data-source="skhykpg">蛇口海洋科普馆</button>
+                    <!-- 深圳市级核心场馆 -->
+                    <button class="filter-btn" data-source="szlib" data-city="shenzhen">深圳图书馆</button>
+                    <button class="filter-btn" data-source="sz_children_lib" data-city="shenzhen">深圳少儿图书馆</button>
+                    <button class="filter-btn" data-source="szbwg" data-city="shenzhen">深圳博物馆</button>
+                    <button class="filter-btn" data-source="szstm" data-city="shenzhen">深圳科学技术馆</button>
+                    <button class="filter-btn" data-source="szcp" data-city="shenzhen">深圳市少年宫</button>
+                    <button class="filter-btn" data-source="szaac" data-city="shenzhen">深圳市青少年活动中心</button>
+                    <button class="filter-btn" data-source="sznm" data-city="shenzhen">深圳自然博物馆</button>
+                    <button class="filter-btn" data-source="szbo" data-city="shenzhen">深圳滨海艺术中心</button>
+                    <button class="filter-btn" data-source="szconcert" data-city="shenzhen">深圳音乐厅</button>
+                    <button class="filter-btn" data-source="szmocap" data-city="shenzhen">当代艺术与城市规划馆</button>
+                    <button class="filter-btn" data-source="szsports" data-city="shenzhen">深圳市体育中心</button>
+                    <button class="filter-btn" data-source="szmassart" data-city="shenzhen">深圳市文化馆</button>
+                    <!-- 深圳区级图书馆 -->
+                    <button class="filter-btn" data-source="nslib" data-city="shenzhen">南山图书馆</button>
+                    <button class="filter-btn" data-source="balib" data-city="shenzhen">宝安图书馆</button>
+                    <button class="filter-btn" data-source="ftlib" data-city="shenzhen">福田区图书馆</button>
+                    <button class="filter-btn" data-source="lhlib" data-city="shenzhen">罗湖区图书馆</button>
+                    <button class="filter-btn" data-source="lglib" data-city="shenzhen">龙岗区图书馆</button>
+                    <button class="filter-btn" data-source="lhxqlib" data-city="shenzhen">龙华区图书馆</button>
+                    <button class="filter-btn" data-source="gmlib" data-city="shenzhen">光明区图书馆</button>
+                    <button class="filter-btn" data-source="pslib" data-city="shenzhen">坪山区图书馆</button>
+                    <button class="filter-btn" data-source="ytlib" data-city="shenzhen">盐田区图书馆</button>
+                    <button class="filter-btn" data-source="dplib" data-city="shenzhen">大鹏新区图书馆</button>
+                    <!-- 深圳区级博物馆与科普馆 -->
+                    <button class="filter-btn" data-source="nsmuseum" data-city="shenzhen">南山博物馆</button>
+                    <button class="filter-btn" data-source="lgmuseum" data-city="shenzhen">龙岗区博物馆</button>
+                    <button class="filter-btn" data-source="bamuseum" data-city="shenzhen">宝安区博物馆</button>
+                    <button class="filter-btn" data-source="lhmuseum" data-city="shenzhen">龙华区博物馆</button>
+                    <button class="filter-btn" data-source="lhmuseum2" data-city="shenzhen">罗湖区博物馆</button>
+                    <button class="filter-btn" data-source="dpgeopark" data-city="shenzhen">大鹏地质公园博物馆</button>
+                    <button class="filter-btn" data-source="baoan_kjg" data-city="shenzhen">宝安科技馆</button>
+                    <button class="filter-btn" data-source="lgkjg" data-city="shenzhen">龙岗区科技馆</button>
+                    <button class="filter-btn" data-source="lhkjg" data-city="shenzhen">龙华区科技馆</button>
+                    <button class="filter-btn" data-source="ytkjg" data-city="shenzhen">盐田区科技馆</button>
+                    <button class="filter-btn" data-source="gm_kjg" data-city="shenzhen">光明区科技馆</button>
+                    <!-- 深圳青少年宫 -->
+                    <button class="filter-btn" data-source="baoan_qsng" data-city="shenzhen">宝安区青少年宫</button>
+                    <button class="filter-btn" data-source="nsqsng" data-city="shenzhen">南山区青少年活动中心</button>
+                    <button class="filter-btn" data-source="lgqsng" data-city="shenzhen">龙岗区青少年宫</button>
+                    <button class="filter-btn" data-source="lhqsng" data-city="shenzhen">龙华区青少年宫</button>
+                    <button class="filter-btn" data-source="lhqsng2" data-city="shenzhen">罗湖区青少年活动中心</button>
+                    <button class="filter-btn" data-source="gmqsng" data-city="shenzhen">光明区青少年活动中心</button>
+                    <button class="filter-btn" data-source="psqsng" data-city="shenzhen">坪山区青少年宫</button>
+                    <!-- 深圳区级体育中心 -->
+                    <button class="filter-btn" data-source="baoan_ty" data-city="shenzhen">宝安体育中心</button>
+                    <button class="filter-btn" data-source="nswtzx" data-city="shenzhen">南山文体中心</button>
+                    <button class="filter-btn" data-source="szwty" data-city="shenzhen">深圳湾体育中心</button>
+                    <button class="filter-btn" data-source="lhtyzx" data-city="shenzhen">龙岗体育中心</button>
+                    <button class="filter-btn" data-source="lhwtx" data-city="shenzhen">龙华文体中心</button>
+                    <button class="filter-btn" data-source="gmtyzx" data-city="shenzhen">光明区群众体育中心</button>
+                    <button class="filter-btn" data-source="lhtyzx2" data-city="shenzhen">罗湖区体育中心</button>
+                    <button class="filter-btn" data-source="pstyzx" data-city="shenzhen">坪山体育中心</button>
+                    <button class="filter-btn" data-source="yttyzx" data-city="shenzhen">盐田体育中心</button>
+                    <!-- 深圳其他公立场馆 -->
+                    <button class="filter-btn" data-source="nswhg" data-city="shenzhen">南山区文化馆</button>
+                    <button class="filter-btn" data-source="baoan_1990" data-city="shenzhen">宝安1990文化馆</button>
+                    <button class="filter-btn" data-source="bayarea_eye" data-city="shenzhen">湾区之眼</button>
+                    <button class="filter-btn" data-source="baoan_guihua" data-city="shenzhen">宝安城市规划展览馆</button>
+                    <button class="filter-btn" data-source="lgguihua" data-city="shenzhen">龙岗城市规划展览馆</button>
+                    <button class="filter-btn" data-source="nsguihua" data-city="shenzhen">南山城市规划展览馆</button>
+                    <button class="filter-btn" data-source="lh_printmaking" data-city="shenzhen">中国版画博物馆</button>
+                    <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
+                    <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
+                    <!-- 广州场馆 -->
+                    <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
+                    <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
+                    <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
+                    <button class="filter-btn" data-source="gzmuseum" data-city="guangzhou" style="display:none;">广州博物馆</button>
+                    <button class="filter-btn" data-source="nanyuewang" data-city="guangzhou" style="display:none;">南越王博物院</button>
+                    <button class="filter-btn" data-source="gzdjy" data-city="guangzhou" style="display:none;">广州大剧院</button>
+                    <button class="filter-btn" data-source="xinghai" data-city="guangzhou" style="display:none;">星海音乐厅</button>
+                    <button class="filter-btn" data-source="zsauditorium" data-city="guangzhou" style="display:none;">广州中山纪念堂</button>
+                    <!-- 上海场馆 -->
+                    <button class="filter-btn" data-source="shanghaimuseum" data-city="shanghai" style="display:none;">上海博物馆</button>
+                    <button class="filter-btn" data-source="chinaartmuseum" data-city="shanghai" style="display:none;">上海美术馆</button>
+                    <button class="filter-btn" data-source="expomuseum" data-city="shanghai" style="display:none;">上海世博会博物馆</button>
+                    <button class="filter-btn" data-source="shanghai-astronomy" data-city="shanghai" style="display:none;">上海天文馆</button>
+                    <button class="filter-btn" data-source="shhistorymuseum" data-city="shanghai" style="display:none;">上海市历史博物馆</button>
+                    <button class="filter-btn" data-source="shcstheatre" data-city="shanghai" style="display:none;">上海文化广场</button>
+                    <button class="filter-btn" data-source="shgtheatre" data-city="shanghai" style="display:none;">上海大剧院</button>
+                    <button class="filter-btn" data-source="misa" data-city="shanghai" style="display:none;">捷豹上海交响音乐厅</button>
+                    <button class="filter-btn" data-source="haichang" data-city="shanghai" style="display:none;">上海海昌海洋公园</button>
+                    <button class="filter-btn" data-source="legoland" data-city="shanghai" style="display:none;">上海乐高乐园</button>
+                    <!-- 北京场馆 -->
+                    <button class="filter-btn" data-source="chnmuseum" data-city="beijing" style="display:none;">中国国家博物馆</button>
+                    <button class="filter-btn" data-source="gugong" data-city="beijing" style="display:none;">国家图书馆</button>
+                    <button class="filter-btn" data-source="namoc" data-city="beijing" style="display:none;">中国美术馆</button>
+                    <button class="filter-btn" data-source="bjmuseum" data-city="beijing" style="display:none;">北京大运河博物馆</button>
+                    <button class="filter-btn" data-source="centuryaltar" data-city="beijing" style="display:none;">中华世纪坛</button>
+                    <button class="filter-btn" data-source="ncpa" data-city="beijing" style="display:none;">国家大剧院</button>
+                    <button class="filter-btn" data-source="bjry" data-city="beijing" style="display:none;">首都剧场</button>
+                    <button class="filter-btn" data-source="cntheatre" data-city="beijing" style="display:none;">国家话剧院剧场</button>
                 </div>
                 <button class="sidebar-expand-btn" id="sidebar-source-expand-btn" onclick="toggleSidebarSourceFilter()">展开更多 ▼</button>
             </div>
@@ -1392,6 +1512,7 @@
 
     <script>
         let allExhibitions = [];
+        let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'shenzhen';
         let currentTimeFilter = localStorage.getItem('schedule_time_filter') || 'upcoming';
         let currentSourceFilter = localStorage.getItem('schedule_source_filter') || 'all';
         let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
@@ -1507,6 +1628,35 @@
             'lg_arts': '龙岗区',
             'opower': '南山区',
             'sztyzx': '福田区',
+            // 广州
+            'gdmuseum': '天河区',
+            'gzam': '越秀区',
+            'gdartmuseum': '越秀区',
+            'gzmuseum': '越秀区',
+            'nanyuewang': '越秀区',
+            'gzdjy': '天河区',
+            'xinghai': '越秀区',
+            'zsauditorium': '越秀区',
+            // 上海
+            'shanghaimuseum': '黄浦区',
+            'chinaartmuseum': '浦东新区',
+            'expomuseum': '黄浦区',
+            'shanghai-astronomy': '浦东新区',
+            'shhistorymuseum': '黄浦区',
+            'shcstheatre': '黄浦区',
+            'shgtheatre': '黄浦区',
+            'misa': '徐汇区',
+            'haichang': '浦东新区',
+            'legoland': '金山区',
+            // 北京
+            'chnmuseum': '东城区',
+            'gugong': '海淀区',
+            'namoc': '东城区',
+            'bjmuseum': '通州区',
+            'centuryaltar': '海淀区',
+            'ncpa': '西城区',
+            'bjry': '东城区',
+            'cntheatre': '西城区',
         };
 
         function getDistrict(source) {
@@ -1548,6 +1698,35 @@
             'szmuseum': '深圳博物馆', 'theme_park': '主题公园',
             'lg_arts': '深圳龙岗国际艺术中心', 'opower': 'OPOWER文化艺术中心',
             'sztyzx': '深圳市体育中心体育馆',
+            // 广州
+            'gdmuseum': '广东省博物馆',
+            'gzam': '广州艺术博物院',
+            'gdartmuseum': '广东美术馆',
+            'gzmuseum': '广州博物馆',
+            'nanyuewang': '南越王博物院',
+            'gzdjy': '广州大剧院',
+            'xinghai': '星海音乐厅',
+            'zsauditorium': '广州中山纪念堂',
+            // 上海
+            'shanghaimuseum': '上海博物馆',
+            'chinaartmuseum': '上海美术馆',
+            'expomuseum': '上海世博会博物馆',
+            'shanghai-astronomy': '上海天文馆',
+            'shhistorymuseum': '上海市历史博物馆',
+            'shcstheatre': '上海文化广场',
+            'shgtheatre': '上海大剧院',
+            'misa': '捷豹上海交响音乐厅',
+            'haichang': '上海海昌海洋公园',
+            'legoland': '上海乐高乐园',
+            // 北京
+            'chnmuseum': '中国国家博物馆',
+            'gugong': '国家图书馆',
+            'namoc': '中国美术馆',
+            'bjmuseum': '北京大运河博物馆',
+            'centuryaltar': '中华世纪坛',
+            'ncpa': '国家大剧院',
+            'bjry': '首都剧场',
+            'cntheatre': '国家话剧院剧场',
         };
 
         function matchSource(exhibition, sourceKey) {
@@ -1650,6 +1829,8 @@
             const today = now.toISOString().split('T')[0];
 
             let filtered = allExhibitions;
+
+            filtered = filtered.filter(e => (e.city || 'shenzhen') === currentCityFilter);
 
             if (currentSearchQuery) {
                 const query = currentSearchQuery.toLowerCase();
@@ -1992,7 +2173,36 @@
             'theme_park': '南山区华侨城（地铁1号线世界之窗站/华侨城站）',
             'lg_arts': '龙岗区大运新城（地铁3号线/14号线/16号线大运站）',
             'opower': '南山区华侨城（地铁1号线侨城东站）',
-            'sztyzx': '福田区笋岗西路2006号（地铁3号线通新岭站）'
+            'sztyzx': '福田区笋岗西路2006号（地铁3号线通新岭站）',
+            // 广州
+            'gdmuseum': '天河区珠江新城珠江东路2号',
+            'gzam': '越秀区麓湖路13号',
+            'gdartmuseum': '越秀区二沙岛烟雨路38号',
+            'gzmuseum': '越秀区越秀公园内镇海楼',
+            'nanyuewang': '越秀区解放北路867号',
+            'gzdjy': '天河区珠江新城华夏路',
+            'xinghai': '越秀区二沙岛晴波路33号',
+            'zsauditorium': '越秀区东风中路259号',
+            // 上海
+            'shanghaimuseum': '黄浦区人民大道201号',
+            'chinaartmuseum': '浦东新区上南路205号',
+            'expomuseum': '黄浦区龙华东路18号',
+            'shanghai-astronomy': '浦东新区临港大道380号',
+            'shhistorymuseum': '黄浦区南京西路325号',
+            'shcstheatre': '黄浦区永嘉路36号',
+            'shgtheatre': '黄浦区人民大道300号',
+            'misa': '徐汇区复兴中路1380号',
+            'haichang': '浦东新区南汇新城镇临港大道333号',
+            'legoland': '金山区枫泾镇',
+            // 北京
+            'chnmuseum': '东城区东长安街16号',
+            'gugong': '海淀区中关村南大街33号',
+            'namoc': '东城区五四大街1号',
+            'bjmuseum': '通州区绿心路1号',
+            'centuryaltar': '海淀区复兴路甲9号',
+            'ncpa': '西城区西长安街2号',
+            'bjry': '东城区王府井大街22号',
+            'cntheatre': '西城区广安门外大街277号'
         };
 
         function getVenueAddress(source) {
@@ -2197,6 +2407,45 @@
         }
 
         function initFilters() {
+            const cityButtons = document.querySelectorAll('[data-city]');
+            cityButtons.forEach(btn => {
+                if (btn.dataset.city === currentCityFilter) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+                btn.addEventListener('click', () => {
+                    cityButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentCityFilter = btn.dataset.city;
+                    localStorage.setItem('schedule_city_filter', currentCityFilter);
+                    currentDistrictFilter = 'all';
+                    localStorage.setItem('schedule_district_filter', 'all');
+                    currentSourceFilter = 'all';
+                    localStorage.setItem('schedule_source_filter', 'all');
+                    currentPage = 1;
+                    updateDistrictButtons();
+                    updateSourceButtonVisibility();
+                    renderExhibitions();
+                });
+            });
+
+            function updateDistrictButtons() {
+                const districtButtons = document.querySelectorAll('[data-district]');
+                districtButtons.forEach(btn => {
+                    if (btn.dataset.district === 'all') {
+                        btn.style.display = 'block';
+                    } else {
+                        const btnCity = btn.dataset.city || 'shenzhen';
+                        if (btnCity === currentCityFilter) {
+                            btn.style.display = 'block';
+                        } else {
+                            btn.style.display = 'none';
+                        }
+                    }
+                });
+            }
+
             const timeButtons = document.querySelectorAll('[data-filter]');
             timeButtons.forEach(btn => {
                 if (btn.dataset.filter === currentTimeFilter) {
@@ -2250,8 +2499,11 @@
                     if (source === 'all') {
                         btn.style.display = 'block';
                     } else {
+                        const btnCity = btn.dataset.city || 'shenzhen';
                         const district = getDistrict(source);
-                        if (currentDistrictFilter === 'all' || district === currentDistrictFilter) {
+                        const cityMatch = btnCity === currentCityFilter;
+                        const districtMatch = currentDistrictFilter === 'all' || district === currentDistrictFilter;
+                        if (cityMatch && districtMatch) {
                             btn.style.display = 'block';
                         } else {
                             btn.style.display = 'none';
@@ -2259,9 +2511,9 @@
                     }
                 });
                 
-                if (currentDistrictFilter !== 'all' && currentSourceFilter !== 'all') {
-                    const sourceDistrict = getDistrict(currentSourceFilter);
-                    if (sourceDistrict !== currentDistrictFilter) {
+                if (currentSourceFilter !== 'all') {
+                    const activeBtn = document.querySelector(`[data-source="${currentSourceFilter}"]`);
+                    if (!activeBtn || activeBtn.style.display === 'none') {
                         currentSourceFilter = 'all';
                         localStorage.setItem('schedule_source_filter', 'all');
                         sourceButtons.forEach(b => b.classList.remove('active'));
@@ -2317,6 +2569,7 @@
                 });
             });
 
+            updateDistrictButtons();
             updateSourceButtonVisibility();
         }
 
