@@ -76,6 +76,64 @@ CATEGORY_KEYWORDS = {
 }
 
 
+ALLOWED_FEE_VALUES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
+
+DISTRICT_MAPPING = {
+    '深圳': ['深圳', '市级'],
+    '南山': ['南山', '南山区'],
+    '宝安': ['宝安', '宝安区'],
+    '福田': ['福田', '福田区'],
+    '罗湖': ['罗湖', '罗湖区'],
+    '龙岗': ['龙岗', '龙岗区'],
+    '龙华': ['龙华', '龙华区'],
+    '光明': ['光明', '光明区'],
+    '坪山': ['坪山', '坪山区'],
+    '盐田': ['盐田', '盐田区'],
+    '大鹏': ['大鹏', '大鹏新区'],
+}
+
+
+def get_district_from_text(text):
+    if not text:
+        return None
+    for district, keywords in DISTRICT_MAPPING.items():
+        for kw in keywords:
+            if kw in text:
+                return district
+    return None
+
+
+def fix_description(title, description, venue, category, fee):
+    if len(description) >= 10:
+        return description
+    
+    parts = []
+    if category:
+        parts.append(f"{category}活动")
+    if venue:
+        parts.append(f"在{venue}举行")
+    if title:
+        parts.append(f"详情请关注官方信息")
+    
+    if fee and fee in ALLOWED_FEE_VALUES:
+        if fee == '免费':
+            parts.insert(0, "免费参与")
+        elif fee == '免费需预约':
+            parts.insert(0, "免费需预约")
+        elif fee == '收费':
+            parts.insert(0, "收费活动")
+        elif fee == '部分免费':
+            parts.insert(0, "部分免费")
+        elif fee == '需购票':
+            parts.insert(0, "需购票")
+    
+    result = '，'.join(parts)
+    if len(result) < 10:
+        result = f"{title}，{venue}举办的活动，欢迎参与。"
+    
+    return result[:300]
+
+
 def normalize_activity(raw, venue_default=''):
     title = raw.get('title') or raw.get('name') or ''
     link = raw.get('link') or raw.get('url') or ''
@@ -95,6 +153,52 @@ def normalize_activity(raw, venue_default=''):
 
     if not family_friendly:
         family_friendly = is_family_friendly(title, description, category)
+
+    if fee not in ALLOWED_FEE_VALUES:
+        fee = '免费'
+
+    venue_district = get_district_from_text(venue)
+    source_district = get_district_from_text(source)
+    
+    if source and venue_district and source_district and venue_district != source_district:
+        source_map = {
+            'nsqsng': '南山区青少年活动中心',
+            'nswtzx': '南山文体中心',
+            'nslib': '南山图书馆',
+            'nsmuseum': '南山博物馆',
+            'nswhg': '南山区文化馆',
+            'balib': '宝安图书馆',
+            'szlib': '深圳图书馆',
+            'gm_lib': '光明区图书馆',
+            'gm_kjg': '光明区科技馆',
+            'yt_lib': '盐田区图书馆',
+            'dp_geopark': '大鹏地质公园博物馆',
+            'lg_hakka': '龙岗客家民俗博物馆',
+            'lh_printmaking': '中国版画博物馆',
+            'lh_ecology': '龙华生态文明展览馆',
+            'nsaqjy': '南山安全教育体验馆',
+            'skhykpg': '蛇口海洋科普馆',
+            'sarc': '深爱人才馆',
+            'baoan_1990': '宝安1990文化馆',
+            'oct_wetland': '华侨城湿地',
+            'ps_nature': '深圳自然博物馆',
+            'dp_nuclear': '大亚湾核能科技馆',
+            'nssxf': '南山书房',
+            'szwty': '深圳湾体育中心',
+            'baoan_kjg': '宝安科技馆',
+            'baoan_ty': '宝安体育中心',
+            'sz_safety': '深圳市安全教育基地',
+            'yt_history': '中英街历史博物馆',
+            'zsjbwg': '招商局历史博物馆',
+            'ntgc': '南头古城博物馆群',
+            'lh_paleo': '深圳古生物博物馆',
+            'bayarea_eye': '湾区之眼',
+            'sz_children_lib': '深圳少年儿童图书馆',
+        }
+        if source in source_map:
+            source = source_map[source]
+
+    description = fix_description(title, description, venue, category, fee)
 
     result = {
         'title': title,
