@@ -5976,5 +5976,19 @@
     "family_friendly": true,
     "source": "龙岗区文化馆",
     "city": "shenzhen"
+  },
+  {
+    "title": "北京人艺话剧《寻找春柳社》",
+    "venue": "光明文化艺术中心·演艺中心·音乐厅",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "北京人艺倾情演出，以'戏中戏'结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明文化艺术中心",
+    "city": "shenzhen"
   }
 ]

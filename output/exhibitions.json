@@ -4032,22 +4032,6 @@
     "source": "nsmuseum"
   },
   {
-    "title": "2026“星光大浪”青年歌手大赛--周赛",
-    "name": "2026“星光大浪”青年歌手大赛--周赛",
-    "venue": "大浪街道综合文化服务中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-11",
-    "end_date": "2026-07-11",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec21ee5ab25141efb3ea84eab0888072",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec21ee5ab25141efb3ea84eab0888072",
-    "description": "免费参与。需预约报名。地点：大浪街道综合文化服务中心",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-86051111",
-    "family_friendly": false,
-    "source": "szmassart"
-  },
-  {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
     "name": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
     "venue": "深圳会展中心",
@@ -10622,6 +10606,22 @@
     "contact": "愈到（上海）展览有限公司&nbsp; 周女士&nbsp; 13761260618",
     "family_friendly": false,
     "source": "szcec"
+  },
+  {
+    "title": "“民断是非”大型思辨性公益普法活动",
+    "name": "“民断是非”大型思辨性公益普法活动",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-28",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637449&year=2026&month=11&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637449&year=2026&month=11&customizedUrl=salon",
+    "description": "主办方：深圳图书馆、深圳市法学会\n地点：北馆 4F报告厅\n地址：深圳市龙华区腾龙路30号",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "szlib"
   },
   {
     "title": "2026第二十届中国（深圳）国际物流与供应链博览会",
