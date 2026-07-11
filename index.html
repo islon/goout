@@ -1633,6 +1633,27 @@
     </div>
 
     <script>
+        // 兼容隐私模式/受限环境：localStorage 不可用时用内存替代，避免抛 SecurityError 中断脚本
+        (function() {
+            try {
+                window.localStorage.setItem('__ls_test__', '1');
+                window.localStorage.removeItem('__ls_test__');
+            } catch(e) {
+                var _mem = {};
+                try {
+                    Object.defineProperty(window, 'localStorage', {
+                        value: {
+                            getItem: function(k) { return k in _mem ? _mem[k] : null; },
+                            setItem: function(k, v) { _mem[k] = String(v); },
+                            removeItem: function(k) { delete _mem[k]; },
+                            clear: function() { _mem = {}; }
+                        },
+                        configurable: true
+                    });
+                } catch(e2) {}
+            }
+        })();
+
         const cityNameToCode = {
             '深圳': 'shenzhen',
             '广州': 'guangzhou',
