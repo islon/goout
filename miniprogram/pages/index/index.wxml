@@ -1,0 +1,100 @@
+<!-- pages/index/index.wxml -->
+<view class="container">
+
+  <!-- 顶部横幅 -->
+  <view class="header">
+    <view class="header-title">童行</view>
+    <view class="header-subtitle">全国亲子活动日历</view>
+    <view class="header-stats">
+      <text>共 {{filteredActivities.length}} 场活动</text>
+    </view>
+  </view>
+
+  <!-- 筛选栏 -->
+  <view class="filter-bar">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-chips">
+        <view 
+          class="chip {{activeCategory === '全部' ? 'chip-active' : ''}}" 
+          bindtap="onCategoryTap" data-value="全部">全部</view>
+        <view 
+          class="chip {{activeCategory === item ? 'chip-active' : ''}}" 
+          wx:for="{{categories}}" wx:key="*this" wx:if="{{item !== '全部'}}"
+          bindtap="onCategoryTap" data-value="{{item}}">{{item}}</view>
+      </view>
+    </scroll-view>
+
+    <view class="filter-actions">
+      <view 
+        class="action-btn {{activeFee === '免费' ? 'action-active' : ''}}"
+        bindtap="onFeeTap" data-value="{{activeFee === '免费' ? '全部' : '免费'}}">
+        <text>免费</text>
+      </view>
+      <view 
+        class="action-btn {{activeFamily === 'family' ? 'action-active' : ''}}"
+        bindtap="onFamilyTap" data-value="{{activeFamily === 'family' ? 'all' : 'family'}}">
+        <text>亲子</text>
+      </view>
+      <view 
+        class="action-btn {{activeCity !== '全部' ? 'action-active' : ''}}"
+        bindtap="toggleFilter">
+        <text>{{activeCity === '全部' ? '城市' : activeCity}} ▾</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 城市展开选择 -->
+  <view class="city-panel" wx:if="{{showFilter}}">
+    <view 
+      class="city-chip {{activeCity === item ? 'city-active' : ''}}"
+      wx:for="{{cities}}" wx:key="*this"
+      bindtap="onCityTap" data-value="{{item}}">{{item}}</view>
+  </view>
+
+  <!-- 活动列表 -->
+  <view class="activity-list" wx:if="{{filteredActivities.length > 0}}">
+    <view 
+      class="activity-card"
+      wx:for="{{filteredActivities}}" wx:key="_id"
+      bindtap="onActivityTap" data-id="{{item._id}}">
+
+      <!-- 标签行 -->
+      <view class="card-tags">
+        <text class="tag tag-category">{{item.category}}</text>
+        <text class="tag {{item._isFree ? 'tag-free' : 'tag-paid'}}">{{item.fee}}</text>
+        <text class="tag tag-family" wx:if="{{item._isFamily}}">👶 亲子</text>
+      </view>
+
+      <!-- 标题 -->
+      <view class="card-title">{{item.title}}</view>
+
+      <!-- 日期 -->
+      <view class="card-row">
+        <text class="card-icon">📅</text>
+        <text class="card-text">{{item._dateRange}}</text>
+      </view>
+
+      <!-- 地点 -->
+      <view class="card-row">
+        <text class="card-icon">📍</text>
+        <text class="card-text">{{item.venue}}</text>
+      </view>
+
+      <!-- 城市标记 -->
+      <view class="card-city">{{item._cityName}}</view>
+    </view>
+
+    <!-- 列表底部 -->
+    <view class="list-footer">
+      <text>— 没有更多活动了 —</text>
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty-state" wx:if="{{filteredActivities.length === 0 && !loading}}">
+    <view class="empty-icon">🔍</view>
+    <view class="empty-text">没有符合条件的活动</view>
+    <view class="empty-hint">试试调整筛选条件</view>
+  </view>
+
+</view>

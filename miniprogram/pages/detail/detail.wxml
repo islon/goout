@@ -1,0 +1,74 @@
+<!-- pages/detail/detail.wxml -->
+<view class="container" wx:if="{{activity}}">
+
+  <!-- 顶部信息卡 -->
+  <view class="hero-card">
+    <view class="hero-tags">
+      <text class="tag tag-category">{{activity.category}}</text>
+      <text class="tag {{activity._isFree ? 'tag-free' : 'tag-paid'}}">{{activity.fee}}</text>
+      <text class="tag tag-family" wx:if="{{activity.family_friendly}}">👶 适合亲子</text>
+    </view>
+
+    <view class="hero-title">{{activity.title}}</view>
+
+    <view class="hero-status {{activity._daysUntil <= 0 ? 'status-active' : ''}}">
+      {{activity._daysUntilText}}
+    </view>
+  </view>
+
+  <!-- 详细信息 -->
+  <view class="info-card">
+    <view class="info-row">
+      <view class="info-icon">📅</view>
+      <view class="info-content">
+        <view class="info-label">活动时间</view>
+        <view class="info-value">{{activity._dateRange}}</view>
+      </view>
+    </view>
+
+    <view class="info-row">
+      <view class="info-icon">📍</view>
+      <view class="info-content">
+        <view class="info-label">活动地点</view>
+        <view class="info-value">{{activity.venue}}</view>
+      </view>
+    </view>
+
+    <view class="info-row" wx:if="{{activity.contact}}">
+      <view class="info-icon">📞</view>
+      <view class="info-content">
+        <view class="info-label">联系方式</view>
+        <view class="info-value">{{activity.contact}}</view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 活动介绍 -->
+  <view class="desc-card" wx:if="{{activity.description}}">
+    <view class="desc-title">活动介绍</view>
+    <view class="desc-text">{{activity.description}}</view>
+  </view>
+
+  <!-- 详情链接 -->
+  <view class="link-card" wx:if="{{activity.link || activity.url}}" bindtap="onCopyLink">
+    <view class="link-icon">🔗</view>
+    <view class="link-text">
+      <view class="link-label">详情链接</view>
+      <view class="link-url">{{activity.link || activity.url}}</view>
+    </view>
+    <view class="link-action">复制</view>
+  </view>
+
+  <!-- 底部订阅按钮 -->
+  <view class="bottom-bar">
+    <button 
+      class="subscribe-btn {{subscribed ? 'subscribed' : ''}}"
+      bindtap="onSubscribeTap"
+      loading="{{subscribeLoading}}"
+      disabled="{{subscribeLoading}}">
+      <text wx:if="{{subscribed}}">✓ 已订阅，点击取消</text>
+      <text wx:else>🔔 提醒我</text>
+    </button>
+  </view>
+
+</view>
