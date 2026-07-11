@@ -1245,6 +1245,7 @@
             <button class="filter-btn" data-source="lh_printmaking" data-city="shenzhen">中国版画博物馆</button>
             <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
             <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
+            <button class="filter-btn" data-source="hlgw" data-city="shenzhen">欢乐港湾</button>
             <!-- 广州场馆 -->
             <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
             <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
@@ -1291,6 +1292,17 @@
             <button class="filter-btn" data-source="gugong" data-city="beijing" style="display:none;">故宫博物院</button>
             <button class="filter-btn" data-source="sdmuseum" data-city="beijing" style="display:none;">首都博物馆</button>
             <button class="filter-btn" data-source="bjlz" data-city="beijing" style="display:none;">北京展览馆</button>
+            <button class="filter-btn" data-source="clib" data-city="beijing" style="display:none;">首都图书馆</button>
+            <button class="filter-btn" data-source="bjsng" data-city="beijing" style="display:none;">北京市少年宫</button>
+            <button class="filter-btn" data-source="bjguihua" data-city="beijing" style="display:none;">北京城市规划展览馆</button>
+            <button class="filter-btn" data-source="bjwhg" data-city="beijing" style="display:none;">北京市文化馆</button>
+            <button class="filter-btn" data-source="dcLib" data-city="beijing" style="display:none;">东城区图书馆</button>
+            <button class="filter-btn" data-source="xcLib" data-city="beijing" style="display:none;">西城区图书馆</button>
+            <button class="filter-btn" data-source="cyLib" data-city="beijing" style="display:none;">朝阳区图书馆</button>
+            <button class="filter-btn" data-source="hdLib" data-city="beijing" style="display:none;">海淀区图书馆</button>
+            <button class="filter-btn" data-source="kaogu" data-city="beijing" style="display:none;">中国考古博物馆</button>
+            <button class="filter-btn" data-source="bjgjz" data-city="beijing" style="display:none;">北京古代建筑博物馆</button>
+            <button class="filter-btn" data-source="cykjg" data-city="beijing" style="display:none;">朝阳区科技馆</button>
         </div>
         <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
     </div>
@@ -1458,6 +1470,7 @@
                     <button class="filter-btn" data-source="lh_printmaking" data-city="shenzhen">中国版画博物馆</button>
                     <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
                     <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
+                    <button class="filter-btn" data-source="hlgw" data-city="shenzhen">欢乐港湾</button>
                     <!-- 广州场馆 -->
                     <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
                     <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
@@ -1504,6 +1517,7 @@
                     <button class="filter-btn" data-source="gugong" data-city="beijing" style="display:none;">故宫博物院</button>
                     <button class="filter-btn" data-source="sdmuseum" data-city="beijing" style="display:none;">首都博物馆</button>
                     <button class="filter-btn" data-source="bjlz" data-city="beijing" style="display:none;">北京展览馆</button>
+                    <button class="filter-btn" data-source="cykjg" data-city="beijing" style="display:none;">朝阳区科技馆</button>
                 </div>
                 <button class="sidebar-expand-btn" id="sidebar-source-expand-btn" onclick="toggleSidebarSourceFilter()">展开更多 ▼</button>
             </div>
@@ -1732,6 +1746,7 @@
             'gdsci': '越秀区',
             'gzartmuseum': '海珠区',
             'gzcec': '海珠区',
+            'cykjg': '朝阳区',
         };
 
         function getDistrict(source) {
@@ -1820,6 +1835,7 @@
             'gdsci': '广东科学馆',
             'gzartmuseum': '广州美术馆',
             'gzcec': '广交会展馆',
+            'cykjg': '朝阳区科技馆',
         };
 
         function matchSource(exhibition, sourceKey) {
@@ -2394,7 +2410,8 @@
             'gdsc': '番禺区大学城科普路168号',
             'gdsci': '越秀区连新路171号',
             'gzartmuseum': '海珠区艺苑路198号',
-            'gzcec': '海珠区阅江中路380号'
+            'gzcec': '海珠区阅江中路380号',
+            'cykjg': '朝阳区安华里五区'
         };
 
         function getVenueAddress(source) {
