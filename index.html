@@ -102,6 +102,8 @@
             max-width: 1200px;
             margin-left: auto;
             margin-right: auto;
+            flex-wrap: wrap;
+            gap: 8px;
         }
 
         .subscribe-link {
@@ -2594,7 +2596,12 @@
             if (guideSection.style.display === 'none') {
                 guideSection.style.display = 'block';
                 mainWrapper.style.display = 'none';
-                loadVenueInfo().then(() => renderVenueGuide());
+                const container = document.getElementById('venue-guide-content');
+                container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">加载中...</div>';
+                loadVenueInfo().then(() => renderVenueGuide()).catch(e => {
+                    console.error('场馆指南加载失败:', e);
+                    container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">加载失败，请重试</div>';
+                });
             } else {
                 guideSection.style.display = 'none';
                 mainWrapper.style.display = 'flex';
@@ -2602,7 +2609,11 @@
         }
 
         function renderVenueGuide() {
-            if (!venueInfoList) return;
+            if (!venueInfoList) {
+                const container = document.getElementById('venue-guide-content');
+                container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">暂无场馆数据</div>';
+                return;
+            }
             const container = document.getElementById('venue-guide-content');
             const typeFilter = document.getElementById('venue-guide-type-filter');
             const selectedType = typeFilter.value;
