@@ -1070,11 +1070,11 @@
         </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
         <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div></div>
-        <div class="visit-stats" style="font-size: 12px; color: rgba(255,255,255,0.75); margin-top: 10px; text-align: center;">
+        <div class="visit-stats" style="font-size: 12px; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,0.2); margin-top: 10px; text-align: center; font-weight: 500;">
             <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
             <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
         </div>
-        <div style="font-size: 11px; opacity: 0.7; text-align: center; margin-top: 4px;">
+        <div style="font-size: 11px; color: rgba(255,255,255,0.85); text-align: center; margin-top: 4px;">
             📊 本站使用匿名统计，不收集任何个人信息
         </div>
     </div>
@@ -1244,6 +1244,8 @@
             <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
             <button class="filter-btn" data-source="gzmuseum" data-city="guangzhou" style="display:none;">广州博物馆</button>
             <button class="filter-btn" data-source="nanyuewang" data-city="guangzhou" style="display:none;">南越王博物院</button>
+            <button class="filter-btn" data-source="nanhanerling" data-city="guangzhou" style="display:none;">南汉二陵博物馆</button>
+            <button class="filter-btn" data-source="nongjiangsuo" data-city="guangzhou" style="display:none;">农讲所纪念馆</button>
             <button class="filter-btn" data-source="gzdjy" data-city="guangzhou" style="display:none;">广州大剧院</button>
             <button class="filter-btn" data-source="xinghai" data-city="guangzhou" style="display:none;">星海音乐厅</button>
             <button class="filter-btn" data-source="zsauditorium" data-city="guangzhou" style="display:none;">广州中山纪念堂</button>
@@ -1439,6 +1441,8 @@
                     <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
                     <button class="filter-btn" data-source="gzmuseum" data-city="guangzhou" style="display:none;">广州博物馆</button>
                     <button class="filter-btn" data-source="nanyuewang" data-city="guangzhou" style="display:none;">南越王博物院</button>
+                    <button class="filter-btn" data-source="nanhanerling" data-city="guangzhou" style="display:none;">南汉二陵博物馆</button>
+                    <button class="filter-btn" data-source="nongjiangsuo" data-city="guangzhou" style="display:none;">农讲所纪念馆</button>
                     <button class="filter-btn" data-source="gzdjy" data-city="guangzhou" style="display:none;">广州大剧院</button>
                     <button class="filter-btn" data-source="xinghai" data-city="guangzhou" style="display:none;">星海音乐厅</button>
                     <button class="filter-btn" data-source="zsauditorium" data-city="guangzhou" style="display:none;">广州中山纪念堂</button>
@@ -1511,6 +1515,21 @@
     </div>
 
     <script>
+        const cityNameToCode = {
+            '深圳': 'shenzhen',
+            '广州': 'guangzhou',
+            '上海': 'shanghai',
+            '北京': 'beijing',
+            'shenzhen': 'shenzhen',
+            'guangzhou': 'guangzhou',
+            'shanghai': 'shanghai',
+            'beijing': 'beijing',
+        };
+
+        function normalizeCity(city) {
+            return cityNameToCode[city] || city || 'shenzhen';
+        }
+
         let allExhibitions = [];
         let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'shenzhen';
         let currentTimeFilter = localStorage.getItem('schedule_time_filter') || 'upcoming';
@@ -1634,6 +1653,8 @@
             'gdartmuseum': '越秀区',
             'gzmuseum': '越秀区',
             'nanyuewang': '越秀区',
+            'nanhanerling': '番禺区',
+            'nongjiangsuo': '越秀区',
             'gzdjy': '天河区',
             'xinghai': '越秀区',
             'zsauditorium': '越秀区',
@@ -1704,6 +1725,8 @@
             'gdartmuseum': '广东美术馆',
             'gzmuseum': '广州博物馆',
             'nanyuewang': '南越王博物院',
+            'nanhanerling': '南汉二陵博物馆',
+            'nongjiangsuo': '农讲所纪念馆',
             'gzdjy': '广州大剧院',
             'xinghai': '星海音乐厅',
             'zsauditorium': '广州中山纪念堂',
@@ -1830,7 +1853,7 @@
 
             let filtered = allExhibitions;
 
-            filtered = filtered.filter(e => (e.city || 'shenzhen') === currentCityFilter);
+            filtered = filtered.filter(e => normalizeCity(e.city) === currentCityFilter);
 
             if (currentSearchQuery) {
                 const query = currentSearchQuery.toLowerCase();
@@ -2180,6 +2203,8 @@
             'gdartmuseum': '越秀区二沙岛烟雨路38号',
             'gzmuseum': '越秀区越秀公园内镇海楼',
             'nanyuewang': '越秀区解放北路867号',
+            'nanhanerling': '番禺区大学城华师一路8号',
+            'nongjiangsuo': '越秀区中山四路42号',
             'gzdjy': '天河区珠江新城华夏路',
             'xinghai': '越秀区二沙岛晴波路33号',
             'zsauditorium': '越秀区东风中路259号',
@@ -2407,7 +2432,7 @@
         }
 
         function initFilters() {
-            const cityButtons = document.querySelectorAll('[data-city]');
+            const cityButtons = document.querySelectorAll('[data-city]:not([data-district]):not([data-source])');
             cityButtons.forEach(btn => {
                 if (btn.dataset.city === currentCityFilter) {
                     btn.classList.add('active');
@@ -2423,6 +2448,19 @@
                     localStorage.setItem('schedule_district_filter', 'all');
                     currentSourceFilter = 'all';
                     localStorage.setItem('schedule_source_filter', 'all');
+
+                    const districtButtons = document.querySelectorAll('[data-district]');
+                    districtButtons.forEach(b => b.classList.remove('active'));
+                    districtButtons.forEach(b => {
+                        if (b.dataset.district === 'all') b.classList.add('active');
+                    });
+
+                    const sourceButtons = document.querySelectorAll('[data-source]');
+                    sourceButtons.forEach(b => b.classList.remove('active'));
+                    sourceButtons.forEach(b => {
+                        if (b.dataset.source === 'all') b.classList.add('active');
+                    });
+
                     currentPage = 1;
                     updateDistrictButtons();
                     updateSourceButtonVisibility();
@@ -2588,6 +2626,7 @@
             if (cachedData && cachedVersion && (now - lastCheck < checkInterval)) {
                 try {
                     allExhibitions = JSON.parse(cachedData);
+                    allExhibitions.forEach(e => e.city = normalizeCity(e.city));
                     initFilters();
                     renderExhibitions();
                     console.log('使用缓存数据，版本:', cachedVersion);
@@ -2605,6 +2644,7 @@
                     .then(response => {
                         const newVersion = response.headers.get('etag') || response.headers.get('last-modified') || String(Date.now());
                         response.json().then(exhibitions => {
+                            exhibitions.forEach(e => e.city = normalizeCity(e.city));
                             if (newVersion !== cachedVersion || !cachedData) {
                                 localStorage.setItem(cacheKey, JSON.stringify(exhibitions));
                                 localStorage.setItem(versionKey, newVersion);

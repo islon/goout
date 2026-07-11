@@ -28,6 +28,17 @@ WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.
 
 DEFAULT_CITY = 'shenzhen'
 
+CITY_NAME_TO_CODE = {
+    '深圳': 'shenzhen',
+    '广州': 'guangzhou',
+    '上海': 'shanghai',
+    '北京': 'beijing',
+    'shenzhen': 'shenzhen',
+    'guangzhou': 'guangzhou',
+    'shanghai': 'shanghai',
+    'beijing': 'beijing',
+}
+
 REAL_SCRAPERS = [
     # 市级核心场馆
     ('深圳图书馆', 'scraper_szlib', 'fetch_szlib_activities'),
@@ -153,6 +164,7 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     family_friendly = raw.get('family_friendly', False)
     source = raw.get('source') or ''
     city_val = raw.get('city') or city
+    city_val = CITY_NAME_TO_CODE.get(city_val, city_val)
 
     if not title or not start_date:
         return None
