@@ -159,7 +159,7 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     start_date = raw.get('start_date') or ''
     end_date = raw.get('end_date') or start_date
     description = raw.get('description') or ''
-    fee = raw.get('fee') or '免费'
+    fee_raw = raw.get('fee') or ''
     contact = raw.get('contact') or ''
     family_friendly = raw.get('family_friendly', False)
     source = raw.get('source') or ''
@@ -170,6 +170,7 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
         return None
 
     category = categorize_activity(title, description)
+    fee = standardize_fee(fee_raw, title, description)
 
     if not description or len(description) < 10:
         description = f"{title}。{venue}举办。"
@@ -250,6 +251,51 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
         result['types'] = raw['types']
 
     return result
+
+
+VALID_FEE_TYPES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
+
+FREE_KEYWORDS = ['免费', '公益', '免门票', '免票', '不要钱', '无需费用', '无费用']
+FREE_RESERVATION_KEYWORDS = ['免费需预约', '免费预约', '预约入馆', '提前预约', '预约免费', '免费但需预约', '需预约']
+CHARGE_KEYWORDS = ['收费', '元', '票价', '门票', '购票', '单人票', '双人票', '亲子票', '学生票', '半价', '早鸟', 'vip', 'VIP', '￥', '¥', '$', 'dollar', '含在门票内']
+PARTIAL_FREE_KEYWORDS = ['部分免费', '部分收费', '有的免费', '有免费有收费', '部分项目免费', '部分活动免费']
+TICKET_REQUIRED_KEYWORDS = ['需购票', '凭票入场', '购票入场', '买票', '需要门票', '需门票']
+
+
+def standardize_fee(fee_raw, title='', description=''):
+    if not fee_raw:
+        return '免费'
+
+    fee_str = str(fee_raw).strip()
+
+    if fee_str in VALID_FEE_TYPES:
+        return fee_str
+
+    combined = f"{fee_str} {title} {description}"
+
+    for kw in FREE_RESERVATION_KEYWORDS:
+        if kw in combined and any(fk in combined for fk in FREE_KEYWORDS):
+            return '免费需预约'
+
+    for kw in TICKET_REQUIRED_KEYWORDS:
+        if kw in combined:
+            return '需购票'
+
+    for kw in PARTIAL_FREE_KEYWORDS:
+        if kw in combined:
+            return '部分免费'
+
+    has_free = any(kw in combined for kw in FREE_KEYWORDS)
+    has_charge = any(kw in combined for kw in CHARGE_KEYWORDS)
+
+    if has_charge and has_free:
+        return '部分免费'
+    if has_charge:
+        return '收费'
+    if has_free:
+        return '免费'
+
+    return '免费'
 
 
 def categorize_activity(title, description):

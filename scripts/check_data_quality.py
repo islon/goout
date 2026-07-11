@@ -4,39 +4,106 @@ import sys
 
 ALLOWED_FEE_VALUES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
 
-DISTRICT_MAPPING = {
-    '深圳': ['深圳', '市级'],
-    '南山': ['南山', '南山区'],
-    '宝安': ['宝安', '宝安区'],
-    '福田': ['福田', '福田区'],
-    '罗湖': ['罗湖', '罗湖区'],
-    '龙岗': ['龙岗', '龙岗区'],
-    '龙华': ['龙华', '龙华区'],
-    '光明': ['光明', '光明区'],
-    '坪山': ['坪山', '坪山区'],
-    '盐田': ['盐田', '盐田区'],
-    '大鹏': ['大鹏', '大鹏新区'],
+CITY_DISTRICT_KEYWORDS = {
+    '深圳': {
+        '市级': ['深圳', '市级', '市'],
+        '南山': ['南山', '南山区'],
+        '宝安': ['宝安', '宝安区'],
+        '福田': ['福田', '福田区'],
+        '罗湖': ['罗湖', '罗湖区'],
+        '龙岗': ['龙岗', '龙岗区'],
+        '龙华': ['龙华', '龙华区'],
+        '光明': ['光明', '光明区'],
+        '坪山': ['坪山', '坪山区'],
+        '盐田': ['盐田', '盐田区'],
+        '大鹏': ['大鹏', '大鹏新区'],
+    },
+    '广州': {
+        '市级': ['广州', '市级', '市'],
+        '越秀': ['越秀', '越秀区'],
+        '海珠': ['海珠', '海珠区'],
+        '天河': ['天河', '天河区'],
+        '白云': ['白云', '白云区'],
+        '黄埔': ['黄埔', '黄埔区'],
+        '番禺': ['番禺', '番禺区'],
+        '花都': ['花都', '花都区'],
+        '南沙': ['南沙', '南沙区'],
+        '从化': ['从化', '从化区'],
+        '增城': ['增城', '增城区'],
+    },
+    '北京': {
+        '市级': ['北京', '市级', '市'],
+        '东城': ['东城', '东城区'],
+        '西城': ['西城', '西城区'],
+        '朝阳': ['朝阳', '朝阳区'],
+        '海淀': ['海淀', '海淀区'],
+        '丰台': ['丰台', '丰台区'],
+        '石景山': ['石景山', '石景山区'],
+        '通州': ['通州', '通州区'],
+        '昌平': ['昌平', '昌平区'],
+    },
+    '上海': {
+        '市级': ['上海', '市级', '市'],
+        '浦东': ['浦东', '浦东新区', '临港'],
+        '黄浦': ['黄浦', '黄浦区'],
+        '静安': ['静安', '静安区'],
+        '徐汇': ['徐汇', '徐汇区'],
+        '长宁': ['长宁', '长宁区'],
+        '普陀': ['普陀', '普陀区'],
+        '虹口': ['虹口', '虹口区'],
+        '杨浦': ['杨浦', '杨浦区'],
+        '闵行': ['闵行', '闵行区'],
+        '嘉定': ['嘉定', '嘉定区'],
+        '松江': ['松江', '松江区'],
+    },
+    '杭州': {
+        '市级': ['杭州', '市级', '市'],
+        '上城': ['上城', '上城区'],
+        '拱墅': ['拱墅', '拱墅区'],
+        '西湖': ['西湖', '西湖区'],
+        '滨江': ['滨江', '滨江区'],
+        '萧山': ['萧山', '萧山区'],
+        '余杭': ['余杭', '余杭区'],
+        '临平': ['临平', '临平区'],
+        '钱塘': ['钱塘', '钱塘区'],
+        '富阳': ['富阳', '富阳区'],
+        '临安': ['临安', '临安区'],
+    },
 }
 
 
-def get_district_from_text(text):
+def get_city_district(text, city=None):
     if not text:
         return None
-    specific_districts = ['南山', '宝安', '福田', '罗湖', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏']
-    for district in specific_districts:
-        if district in text:
-            return district
-    if '深圳' in text:
-        return '深圳'
+    if city and city in CITY_DISTRICT_KEYWORDS:
+        specific_districts = [d for d in CITY_DISTRICT_KEYWORDS[city] if d != '市级']
+        for district in specific_districts:
+            for kw in CITY_DISTRICT_KEYWORDS[city][district]:
+                if kw in text:
+                    return district
+        for kw in CITY_DISTRICT_KEYWORDS[city].get('市级', []):
+            if kw in text:
+                return '市级'
     return None
+
+
+CITY_NAME_MAP = {
+    'shenzhen': '深圳',
+    'guangzhou': '广州',
+    'shanghai': '上海',
+    'beijing': '北京',
+    'hangzhou': '杭州',
+    'chengdu': '成都',
+    'nanjing': '南京',
+}
 
 
 def check_data_quality(data, source_file):
     issues = []
-    
+
     for i, item in enumerate(data):
         item_num = i + 1
-        
+
         if 'fee' in item and item['fee'] not in ALLOWED_FEE_VALUES:
             issues.append({
                 'type': 'fee_invalid',
@@ -48,7 +115,7 @@ def check_data_quality(data, source_file):
                 'allowed_values': list(ALLOWED_FEE_VALUES),
                 'message': f"fee字段值 '{item['fee']}' 不在允许范围内"
             })
-        
+
         description = item.get('description', '')
         if len(description) < 10:
             issues.append({
@@ -61,47 +128,55 @@ def check_data_quality(data, source_file):
                 'description': description,
                 'message': f"description长度 {len(description)} 小于10字"
             })
-        
+
+        link = item.get('link', '') or item.get('url', '')
+        if not link:
+            issues.append({
+                'type': 'link_missing',
+                'file': source_file,
+                'item': item_num,
+                'title': item.get('title', 'N/A'),
+                'venue': item.get('venue', 'N/A'),
+                'message': "缺少来源链接(link)，无法追溯数据来源"
+            })
+
         venue = item.get('venue', '')
         source = item.get('source', '')
-        
-        venue_district = get_district_from_text(venue)
-        source_district = get_district_from_text(source)
-        
-        city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布', '深圳博物馆官网', '深圳音乐厅官网', '深圳科学技术馆官网', '深圳图书馆官网', '深圳市文化馆官网', '深圳市少年宫官网', '深圳少年儿童图书馆官网', '深圳滨海艺术中心官网', '深圳国际会展中心', '深圳会展中心']
-        
-        if venue_district and source_district and venue_district != source_district:
-            if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
-                pass
-            else:
-                issues.append({
-                    'type': 'district_mismatch',
-                    'file': source_file,
-                    'item': item_num,
-                    'title': item.get('title', 'N/A'),
-                    'venue': venue,
-                    'source': source,
-                    'venue_district': venue_district,
-                    'source_district': source_district,
-                    'message': f"venue区县({venue_district})与source区县({source_district})不匹配"
-                })
-    
+        city_code = item.get('city', '')
+        city_name = CITY_NAME_MAP.get(city_code, '')
+
+        if city_name:
+            venue_district = get_city_district(venue, city_name)
+            source_district = get_city_district(source, city_name)
+
+            if venue_district and source_district and venue_district != source_district:
+                if source_district == '市级':
+                    pass
+                else:
+                    issues.append({
+                        'type': 'district_mismatch',
+                        'file': source_file,
+                        'item': item_num,
+                        'title': item.get('title', 'N/A'),
+                        'venue': venue,
+                        'source': source,
+                        'city': city_name,
+                        'venue_district': venue_district,
+                        'source_district': source_district,
+                        'message': f"venue区县({venue_district})与source区县({source_district})不匹配 [{city_name}]"
+                    })
+
     return issues
 
 
 def load_json_files():
     files_to_check = []
-    
-    manual_file = os.path.join(os.path.dirname(__file__), 'manual_data.json')
-    if os.path.exists(manual_file):
-        files_to_check.append(('manual_data.json', manual_file))
-    
+
     output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'output')
-    if os.path.exists(output_dir):
-        for filename in os.listdir(output_dir):
-            if filename.endswith('_exhibitions.json') or filename == 'exhibitions.json':
-                files_to_check.append((filename, os.path.join(output_dir, filename)))
-    
+    final_file = os.path.join(output_dir, 'exhibitions.json')
+    if os.path.exists(final_file):
+        files_to_check.append(('exhibitions.json', final_file))
+
     return files_to_check
 
 
