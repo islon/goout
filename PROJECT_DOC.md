@@ -1,8 +1,11 @@
-# 深圳展览日历 - 项目文档
+# 童行 — 全国亲子活动日历 | 项目文档
 
 ## 一、项目概述
 
-本项目旨在创建一个深圳展览日历系统，整合深圳会展中心和深圳国际会展中心的展览日程数据，提供标准化的 iCalendar (.ics) 订阅服务，让用户可以在 iOS 和 Android 手机上一键订阅展览日程。
+**童行**是一个聚焦城市亲子活动的开源日历项目，覆盖深圳、广州、上海、北京四城，整合各城市官方场馆的活动数据，提供标准化的 iCalendar (.ics) 订阅服务，让用户可以按城市一键订阅活动日程到手机日历。
+
+- 线上地址：https://islon.github.io/goout/
+- GitHub 仓库：https://github.com/islon/goout
 
 ---
 
@@ -10,19 +13,37 @@
 
 ### 2.1 核心功能
 
-| 功能 | 描述 | 优先级 |
-|------|------|--------|
-| 数据爬取 | 自动抓取深圳各场馆的展览活动数据 | 高 |
-| ICS 生成 | 将展览数据转换为标准 iCalendar 格式 | 高 |
-| 一键订阅 | 用户点击按钮即可订阅日历 | 高 |
-| 自动更新 | 定期更新展览数据 | 高 |
-| 访问统计 | 匿名统计网站访问量、订阅次数、活动点击情况 | 中 |
+| 功能 | 描述 | 状态 |
+|------|------|------|
+| 多城市覆盖 | 深圳、广州、上海、北京四城活动数据 | ✅ 已上线 |
+| 城市筛选 | 首页支持切换城市，默认深圳 | ✅ 已实现 |
+| 多维筛选 | 时间/类型/区县/地点/费用/亲子，筛选器智能联动（无结果选项置灰） | ✅ 已实现 |
+| 按城市订阅 | 订阅页面按城市切换，只接收对应城市活动 | ✅ 已实现 |
+| ICS 生成 | 全量 + 按城市生成标准 iCalendar 格式文件 | ✅ 已实现 |
+| RSS 订阅 | 生成 RSS 订阅源 | ✅ 已实现 |
+| 自动更新 | GitHub Actions 定期运行爬虫更新数据 | ✅ 已实现 |
+| 访问统计 | 不蒜子（公开显示）+ 百度统计（匿名） | ✅ 已实现 |
+| 数据审核 | 数据审核页面，支持按城市分组展示 | ✅ 已实现 |
+| 反馈机制 | 飞书表单收集用户反馈 | ✅ 已实现 |
 
 ### 2.2 订阅方式
 
-- **iOS 用户**：点击订阅按钮 → 自动打开「日历」应用 → 点击「添加全部」完成订阅
-- **Android 用户**：点击订阅按钮 → 选择「Google 日历」打开 → 点击「添加」完成订阅
-- **微信分享**：通过微信分享链接，用户打开后按上述方式订阅
+- **iOS 用户**：选择城市 → 点击「xx添加到日历」→ 自动打开日历应用 → 添加全部
+- **Android 用户**：
+  - 方法一：下载 ICS 文件离线导入
+  - 方法二：复制订阅链接 → Google 日历网页版通过 URL 添加（支持自动更新）
+  - 方法三：复制订阅链接 → Outlook 日历添加（支持自动更新）
+- **RSS 订阅**：使用 RSS 阅读器订阅更新
+
+### 2.3 筛选器联动
+
+筛选器之间智能联动，当某个筛选选项在当前条件下无匹配活动时，该按钮自动置灰禁用：
+
+- **城市** → 影响：区县、地点、时间、类型、费用、亲子
+- **区县** → 影响：地点、时间、类型、费用、亲子
+- **时间/类型/费用/亲子** → 相互影响
+- 当前选中的按钮不会被置灰
+- 隐藏的按钮（如其他城市的区县/地点）不受影响
 
 ---
 
@@ -32,52 +53,73 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                      数据爬取层                              │
-│  ┌─────────────────────┐  ┌─────────────────────────────┐   │
-│  │ scraper_szcec.py    │  │ scraper_shenzhen_world.py   │   │
-│  │ 深圳会展中心爬虫     │  │ 深圳国际会展中心爬虫         │   │
-│  └──────────┬──────────┘  └────────────────┬────────────┘   │
-│             │                              │                │
-└─────────────┼──────────────────────────────┼────────────────┘
-              ▼                              ▼
+│                      数据采集层                              │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐        │
+│  │ 深圳爬虫  │ │ 广州爬虫  │ │ 上海爬虫  │ │ 北京爬虫  │        │
+│  │ (33个场馆) │ │ (手动)   │ │ (手动)   │ │ (手动)   │        │
+│  └─────┬────┘ └─────┬────┘ └─────┬────┘ └─────┬────┘        │
+└────────┼────────────┼────────────┼────────────┼─────────────┘
+         ▼            ▼            ▼            ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      数据处理层                              │
-│                     main.py                                 │
-│              整合数据 → 排序 → 保存                          │
-└──────────────────────────────┬──────────────────────────────┘
-                               ▼
+│                   data_pipeline.py                          │
+│         整合 → 标准化 → 去重 → 排序 → 分类                    │
+└──────────────────────────┬──────────────────────────────────┘
+                           ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      文件生成层                              │
-│                   ics_generator.py                          │
-│              JSON → iCalendar (.ics)                        │
-└──────────────────────────────┬──────────────────────────────┘
-                               ▼
+│  ┌─────────┐ ┌──────────────┐ ┌──────────────┐              │
+│  │ 全量输出  │ │ 按城市输出    │ │ RSS 输出     │              │
+│  │ .json    │ │ .json + .ics │ │ .rss         │              │
+│  │ .ics     │ │ (4个城市)    │ │              │              │
+│  └─────────┘ └──────────────┘ └──────────────┘              │
+└──────────────────────────┬──────────────────────────────────┘
+                           ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      展示层                                  │
-│                     index.html                              │
-│              落地页 + 订阅按钮 + iOS/Android 教程             │
+│  ┌───────────┐  ┌──────────────┐  ┌──────────────┐          │
+│  │ index.html│  │schedule.html │  │data-review   │          │
+│  │ 活动列表   │  │ 订阅页面      │  │.html 数据审核 │          │
+│  │ 多维筛选   │  │ 按城市订阅    │  │              │          │
+│  └───────────┘  └──────────────┘  └──────────────┘          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ### 3.2 文件结构
 
 ```
-展览活动/
-├── index.html                    # 落地页
-├── config.py                     # 配置文件
-├── requirements.txt              # Python 依赖
-├── .gitignore                    # Git 忽略文件
+goout/
+├── index.html                      # 活动列表页（主页面）
+├── schedule.html                   # 订阅页面（按城市订阅）
+├── data-review.html                # 数据审核页面
+├── config.py                       # 配置文件
+├── requirements.txt                # Python 依赖
+├── .gitignore
 ├── .github/
 │   └── workflows/
-│       └── update.yml            # GitHub Actions 自动更新
+│       └── update.yml              # GitHub Actions 自动更新
 ├── output/
-│   ├── exhibitions.json          # 展览数据（JSON）
-│   └── exhibitions.ics           # iCalendar 文件
-└── scripts/
-    ├── main.py                   # 主脚本
-    ├── scraper_szcec.py          # 深圳会展中心爬虫
-    ├── scraper_shenzhen_world.py # 深圳国际会展中心爬虫
-    └── ics_generator.py          # ICS 文件生成器
+│   ├── exhibitions.json            # 全量活动数据
+│   ├── exhibitions.ics             # 全量 ICS 文件
+│   ├── exhibitions.rss             # RSS 订阅源
+│   ├── exhibitions_shenzhen.json   # 深圳 JSON
+│   ├── exhibitions_shenzhen.ics    # 深圳 ICS
+│   ├── exhibitions_guangzhou.json  # 广州 JSON
+│   ├── exhibitions_guangzhou.ics   # 广州 ICS
+│   ├── exhibitions_shanghai.json   # 上海 JSON
+│   ├── exhibitions_shanghai.ics    # 上海 ICS
+│   ├── exhibitions_beijing.json    # 北京 JSON
+│   ├── exhibitions_beijing.ics     # 北京 ICS
+│   └── *_exhibitions.json          # 各场馆原始爬虫数据
+├── scripts/
+│   ├── data_pipeline.py            # 数据处理核心脚本
+│   ├── manual_data.json            # 手动整理活动数据
+│   ├── ics_generator.py            # ICS 文件生成器
+│   ├── rss_generator.py            # RSS 生成器
+│   └── scraper_*.py                # 各场馆爬虫脚本
+├── PROJECT_DOC.md                  # 项目文档
+├── README.md                       # 项目说明
+└── DATA_COLLECTION.md              # 数据采集说明
 ```
 
 ### 3.3 关键技术
@@ -86,83 +128,108 @@
 |------|------|
 | iCalendar (.ics) | 标准日历订阅格式，iOS/Android 原生支持 |
 | webcal:// 协议 | iOS 日历订阅专用协议 |
-| Python 爬虫 | requests + BeautifulSoup |
+| Python 爬虫 | requests + BeautifulSoup，33个深圳场馆 |
 | GitHub Pages | 静态网站托管 |
 | GitHub Actions | 定期自动更新数据 |
+| localStorage | 前端筛选状态持久化 |
+| 不蒜子 | 页面访问量统计 |
+| 百度统计 | 匿名用户行为分析 |
 
 ---
 
 ## 四、数据来源
 
-### 4.1 深圳会展中心 (SZCEC)
+### 4.1 数据分布
 
-- 官网：http://www.szcec.com
-- 数据页：/szcec/cn-schedule/review/index.html
+| 城市 | 活动数量 | 场馆数量 | 数据方式 |
+|------|---------|---------|---------|
+| 深圳 | 355条 | 105个 | 自动爬虫 + 手动补充 |
+| 北京 | 21条 | 9个 | 手动整理（官方链接） |
+| 上海 | 16条 | 7个 | 手动整理（官方链接） |
+| 广州 | 11条 | 4个 | 手动整理（官方链接） |
 
-### 4.2 深圳国际会展中心 (Shenzhen World)
+### 4.2 深圳场馆（自动爬虫，33个）
 
-- 第三方平台：www.wuzhanliuhui.com
+深圳图书馆、南山图书馆、南山博物馆、南山区文化馆、南山区青少年活动中心、南山文体中心、深圳会展中心、深圳国际会展中心、宝安图书馆、深圳少年儿童图书馆、光明区图书馆、光明区科技馆、盐田区图书馆、大鹏地质公园博物馆、龙岗客家民俗博物馆、中国版画博物馆、龙华生态文明展览馆、南山安全教育体验馆、蛇口海洋科普馆、深爱人才馆、宝安1990文化馆、华侨城湿地、深圳自然博物馆、大亚湾核能科技馆、南山书房、深圳湾体育中心、宝安科技馆、宝安体育中心、深圳市安全教育基地、中英街历史博物馆、招商局历史博物馆、南头古城博物馆群、深圳古生物博物馆、湾区之眼
 
-### 4.3 数据字段
+### 4.3 其他城市场馆（手动整理）
+
+**北京**：中国科学技术馆、北京科学中心、北京天文馆、国家自然博物馆、故宫博物院、首都博物馆、北京展览馆、中国国家博物馆、国家大剧院等
+
+**上海**：上海科技馆、上海自然博物馆、上海当代艺术博物馆、上海世博展览馆、上海展览中心、上海博物馆、上海天文馆等
+
+**广州**：广东科学中心、广东科学馆、广州美术馆、广交会展馆、广东省博物馆、南越王博物院等
+
+### 4.4 数据字段
 
 | 字段 | 类型 | 说明 |
 |------|------|------|
-| name | string | 展会名称 |
+| title | string | 活动名称 |
+| name | string | 活动名称（冗余字段，兼容旧代码） |
 | venue | string | 场馆名称 |
+| city | string | 城市代码（shenzhen/guangzhou/shanghai/beijing） |
 | start_date | string | 开始日期 (YYYY-MM-DD) |
 | end_date | string | 结束日期 (YYYY-MM-DD) |
-| url | string | 详情链接 |
+| link | string | 官方来源链接 |
+| url | string | 同 link（冗余字段） |
+| description | string | 活动描述 |
+| category | string | 分类（展览/讲座阅读/科普活动/演出/体育赛事/亲子活动/影视放映） |
+| fee | string | 费用（免费/免费需预约/收费/部分免费/需购票） |
 | contact | string | 联系方式 |
+| family_friendly | boolean | 是否亲子友好 |
+| source | string | 数据来源（场馆代码或名称） |
+
+### 4.5 数据质量要求
+
+- **可溯源**：每个活动必须有官方来源链接，不接受第三方新闻网站链接
+- **准确性**：活动时间、场馆、费用等信息以官网为准
+- **时效性**：过期的活动自动过滤（end_date < 今天）
+- **标准化**：city 字段统一使用英文代码，中文值自动转换
 
 ---
 
-## 五、部署方案
+## 五、前端功能
 
-### 5.1 GitHub Pages 部署
+### 5.1 活动列表页 (index.html)
 
-1. 创建 GitHub 仓库：`https://github.com/islon/goout`
+- **城市筛选**：深圳（默认）/ 广州 / 上海 / 北京
+- **区县筛选**：随城市切换，显示对应城市的区县
+- **地点筛选**：随城市切换，显示对应城市的场馆
+- **时间筛选**：全部 / 今天 / 明天 / 本周 / 本月
+- **类型筛选**：全部 / 展览 / 讲座阅读 / 科普活动 / 演出 / 体育赛事 / 亲子活动 / 影视放映
+- **费用筛选**：全部 / 免费 / 免费需预约 / 收费 / 部分免费
+- **亲子筛选**：全部 / 亲子友好
+- **筛选联动**：无匹配结果的选项自动置灰
+- **搜索功能**：支持按活动名称/场馆搜索
+- **活动卡片**：显示标题、日期、场馆、分类、费用、描述、详情链接
+- **统计展示**：页面头部显示访问量和访客数
+
+### 5.2 订阅页面 (schedule.html)
+
+- **城市选择器**：深圳 / 广州 / 上海 / 北京
+- **iOS 订阅**：按钮文字动态显示城市（如"深圳添加到日历"）
+- **Android 订阅**：离线导入 / Google 日历 / Outlook 日历三种方式
+- **活动列表**：随城市切换显示对应城市的近期活动
+- **RSS 订阅**：按城市订阅 RSS 更新
+
+### 5.3 数据审核页面 (data-review.html)
+
+- 按城市分组展示数据来源
+- 支持查看各场馆的活动数据
+
+---
+
+## 六、部署方案
+
+### 6.1 GitHub Pages 部署
+
+1. GitHub 仓库：`https://github.com/islon/goout`
 2. 启用 GitHub Pages：Settings → Pages → Source: main / (root)
 3. 访问地址：`https://islon.github.io/goout/`
 
-### 5.2 自动更新
+### 6.2 自动更新
 
-通过 GitHub Actions 每周日自动运行爬虫更新数据：
-
-```yaml
-name: Update Exhibition Data
-on:
-  schedule:
-    - cron: '0 0 * * 0'
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-      - run: pip install -r requirements.txt
-      - run: python scripts/main.py
-      - run: git add output/ && git commit -m "chore: update exhibition data"
-      - uses: ad-m/github-push-action@master
-```
-
----
-
-## 六、使用方式
-
-### 6.1 用户订阅
-
-1. 打开落地页：`https://islon.github.io/goout/`
-2. 点击「添加到我的日历」按钮
-3. 按照提示完成订阅
-
-### 6.2 手动更新数据
-
-```bash
-cd /Users/longxiansheng/Documents/trae_projects/展览活动
-source venv/bin/activate
-python scripts/main.py
-```
+通过 GitHub Actions 定期运行爬虫更新数据，生成全量和按城市的输出文件。
 
 ---
 
@@ -170,54 +237,50 @@ python scripts/main.py
 
 | 链接类型 | URL |
 |----------|-----|
-| 落地页 | https://islon.github.io/goout/ |
-| ICS 文件 | https://islon.github.io/goout/output/exhibitions.ics |
-| 订阅链接 | webcal://islon.github.io/goout/output/exhibitions.ics |
+| 活动列表页 | https://islon.github.io/goout/ |
+| 订阅页面 | https://islon.github.io/goout/schedule.html |
+| 数据审核 | https://islon.github.io/goout/data-review.html |
+| 全量 ICS | https://islon.github.io/goout/output/exhibitions.ics |
+| 深圳 ICS | https://islon.github.io/goout/output/exhibitions_shenzhen.ics |
+| 广州 ICS | https://islon.github.io/goout/output/exhibitions_guangzhou.ics |
+| 上海 ICS | https://islon.github.io/goout/output/exhibitions_shanghai.ics |
+| 北京 ICS | https://islon.github.io/goout/output/exhibitions_beijing.ics |
+| RSS 订阅 | https://islon.github.io/goout/output/exhibitions.rss |
 | GitHub 仓库 | https://github.com/islon/goout |
+| 反馈表单 | https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ |
 
 ---
 
-## 八、注意事项
+## 八、统计功能
 
-1. **数据准确性**：展览数据来源于第三方平台，如有变动请以官方公告为准
-2. **订阅同步**：订阅后日历会自动同步更新，无需重复订阅
-3. **网络要求**：首次订阅需要网络连接，后续可离线查看
-4. **平台兼容**：支持 iOS 日历和 Android Google 日历，其他日历应用可能需要手动导入 ICS 文件
-
----
-
-## 九、统计功能
-
-### 9.1 统计方式
-
-本项目集成了两种统计方式：
+### 8.1 统计方式
 
 | 方式 | 说明 | 数据范围 |
 |------|------|---------|
-| **不蒜子** | 页面访问量和访客数统计，无需注册 | 公开显示在页面上 |
-| **百度统计** | 详细的用户行为分析，需注册账号 | 后台查看详细数据 |
+| **不蒜子** | 页面访问量和访客数统计 | 公开显示在页面上 |
+| **百度统计** | 用户行为分析（匿名模式） | 后台查看详细数据 |
 
-### 9.2 统计事件
+### 8.2 统计事件
 
 | 页面 | 事件分类 | 事件名称 | 说明 |
 |------|---------|---------|------|
-| index.html | 订阅 | iOS添加日历 | 用户点击iOS订阅按钮 |
-| index.html | 订阅 | Android下载日历 | 用户下载Android日历文件 |
-| index.html | 订阅 | Android复制链接 | 用户复制Android订阅链接 |
-| schedule.html | 活动详情 | 打开弹窗 | 用户点击活动卡片 |
-| schedule.html | 活动详情 | 点击原始链接 | 用户点击查看原始活动链接 |
+| index.html | 订阅 | iOS添加日历 | 用户点击iOS订阅按钮（按城市记录） |
+| index.html | 订阅 | Android下载日历 | 用户下载日历文件 |
+| index.html | 订阅 | Android复制链接 | 用户复制订阅链接 |
+| schedule.html | 订阅 | iOS添加日历 | 用户点击订阅按钮（按城市记录） |
 
-### 9.3 启用百度统计
+### 8.3 隐私保护
 
-1. 注册百度统计账号：https://tongji.baidu.com
-2. 新增网站，获取统计ID（格式：`12345678`）
-3. 替换以下文件中的 `你的百度统计ID`：
-   - `index.html` 第739行
-   - `schedule.html` 第689行
-4. 提交推送更新
-
-### 9.4 隐私保护
-
-- **匿名统计**：不收集任何个人敏感信息（姓名、手机号、邮箱等）
+- **匿名统计**：不收集任何个人敏感信息
 - **仅收集**：页面访问量、设备类型、浏览器信息、自定义事件
-- **用户提示**：页面显示"本站使用匿名统计，不收集任何个人信息"
+- **百度统计**：设置自定义变量标记匿名模式
+
+---
+
+## 九、注意事项
+
+1. **数据准确性**：活动数据来源于官方场馆网站，如有变动请以官网为准
+2. **订阅同步**：订阅后日历会自动同步更新，无需重复订阅
+3. **按城市订阅**：建议只订阅所在城市的活动，避免接收全国所有活动
+4. **平台兼容**：iOS 原生支持订阅；Android 推荐使用 Google 日历或 Outlook
+5. **微信限制**：微信内打开可能无法直接订阅，建议使用浏览器
