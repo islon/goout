@@ -22,102 +22,642 @@ TZOFFSETTO:+0800
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:59688d00b6c41652@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20261016
-SUMMARY:互利天下：广东外贸一千年
-LOCATION:广东省博物馆
-DESCRIPTION:广东外贸一千年历史文化展，展示海上丝绸之路贸易历史。常设展。\n地点: 广东省博物馆\n时间: 2025-10-15 至 2026-10-15\n详情: https://www.gdmuseum.com
-END:VEVENT
-BEGIN:VEVENT
-UID:d3a4e3a323810006@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
+UID:f680186e96f147ce@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20261012
 SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术体验展
-LOCATION:南越王博物院（王墓展区）
-DESCRIPTION:南越王博物院古埃及文物特展，结合数字艺术技术呈现古埃及文明。\n地点: 南越王博物院（王墓展区）\n时间: 2026-02-06 至 2026-10-11\n详情: https://www.nywmuseum.org.cn
+LOCATION:南越王博物院
+DESCRIPTION:南越王博物院王墓展区（解放北路867号）综合陈列楼三楼。180余件欧洲古埃及文物+AR/全息投影数字体验，中埃文明对比。王墓展区全票10元、半票5元（王宫展区免费）。适合全龄亲子。暑期王宫展区7.11-8.31延长至18:00。\n地点: 南越王博物院\n时间: 2026-02-06 至 2026-10-11\n详情: https://www.nywmuseum.org.cn/Exhibition/TList/lszl
 END:VEVENT
 BEGIN:VEVENT
-UID:1757dbf8d43e77fc@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
+UID:918fcbf5b0433de1@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260901
+SUMMARY:“绣花大玩家”——广绣亲子体验招募
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫广绣非遗亲子体验招募（2026-04-10发布）。收费，需报名，适合亲子（6岁以上）。\n地点: 广州市少年宫\n时间: 2026-04-10 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:019c5da65c9a8cd7@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260727
+SUMMARY:韩家英的设计辞典 II
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆新馆（白鹅潭）。平面设计回顾展。免费免预约，偏成人/设计爱好者。\n地点: 广东美术馆\n时间: 2026-04-17 至 2026-07-26\n详情: https://www.gdmoa.org/Exhibition/Current/202604/t20260413_18285.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:69ec5d1e68bd52df@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260907
+SUMMARY:知齐者，徐君也——徐悲鸿藏齐白石艺术研究展
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆新馆（白鹅潭）。徐悲鸿珍藏齐白石作品研究展，齐白石题材受少儿喜爱。免费免预约，适合家庭。\n地点: 广东美术馆\n时间: 2026-04-24 至 2026-09-06\n详情: https://www.gdmoa.org/Exhibition/Current/202604/t20260421_18297.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:7f7ad5f49e58d004@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20261101
+SUMMARY:一念敦煌·石窟艺术大展
+LOCATION:广州艺术博物院（广州美术馆）
+DESCRIPTION:广州艺术博物院（广州美术馆）2、3号展厅。以“一念”为精神主线，创新“时空轮转”叙事，剧场化沉浸体验敦煌文明。免费（美术馆免预约或线上预约），适合全龄亲子。\n地点: 广州艺术博物院（广州美术馆）\n时间: 2026-05-01 至 2026-10-31\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8e2357e8d8e8bb@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260801
+SUMMARY:梦里寻她——中国传统绘画中的女性时空叠影
+LOCATION:广州艺术博物院（广州美术馆）
+DESCRIPTION:广州艺术博物院（广州美术馆）展至2026年7月31日。精选79件套院藏传统国画（约六成为国家一、二级文物），以女性时空为线索。免费需预约，适合成人及青少年。\n地点: 广州艺术博物院（广州美术馆）\n时间: 2026-05-01 至 2026-07-31\n详情: https://baike.baidu.com/item/%E6%A2%A6%E9%87%8C%E5%AF%BB%E5%A5%B9%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E7%BB%98%E7%94%BB%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E6%97%B6%E7%A9%BA%E5%8F%A0%E5%BD%B1/67758517
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd152af9dfab024@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260901
+SUMMARY:“人工智能+”亲子3D创意造物招募
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫AI+亲子3D创意造物活动招募（2026-05-26发布）。收费，需报名，亲子共创（建议7岁以上）。\n地点: 广州市少年宫\n时间: 2026-05-26 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:4caee21de4a96312@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260806
+SUMMARY:四季倒影：光之镜中的自然——赫利顿·希夏个展
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆新馆（白鹅潭）。墙面雕塑与自然光影个展。免费免预约，视觉性强，适合家庭。\n地点: 广东美术馆\n时间: 2026-05-28 至 2026-08-05\n详情: https://www.gdmoa.org/Exhibition/Current/202605/t20260525_18340.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfc3fd5b3389957@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260806
+SUMMARY:风景与想象之间——意大利当代艺术在中国
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆新馆（白鹅潭）。中意当代艺术对话展。免费免预约，适合全龄亲子。\n地点: 广东美术馆\n时间: 2026-05-29 至 2026-08-05\n详情: https://www.gdmoa.org/Exhibition/Current/202605/t20260526_18341.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:44232eba9e3f7ef1@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260907
+SUMMARY:葵山——许江艺术展
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆新馆（白鹅潭）展厅。许江以“葵”为意象的大型绘画展。广东美术馆免预约、免费参观；新馆暑期7.10-8.30延长开放至21:00。适合全龄。\n地点: 广东美术馆\n时间: 2026-05-30 至 2026-09-06\n详情: https://www.gdmoa.org/Exhibition/Current/202605/t20260525_18339.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:782c5128592340d8@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260901
+SUMMARY:其命惟新——广东美术百年陈列展（1900-1978）
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆本馆（二沙岛）。广东美术百年长期陈列。免费免预约，适合全龄。\n地点: 广东美术馆\n时间: 2026-06-09 至 2026-08-31\n详情: https://www.gdmoa.org/Exhibition/Current/202606/t20260609_18356.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:f618483ad3f169e7@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260820
+SUMMARY:长风万里——关山月艺术研究（其命惟新暨名家个案）
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆本馆（二沙岛）。关山月艺术个案研究展。免费免预约，适合全龄。\n地点: 广东美术馆\n时间: 2026-06-09 至 2026-08-19\n详情: https://www.gdmoa.org/Exhibition/Current/202606/t20260609_18355.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:d03f6e53b656895f@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260910
+SUMMARY:无界：广东美术馆青年艺术家学术提名展回顾
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆本馆（二沙岛）。青年艺术家提名展回顾。免费免预约，偏艺术爱好者。\n地点: 广东美术馆\n时间: 2026-06-09 至 2026-09-09\n详情: https://www.gdmoa.org/Exhibition/Current/202606/t20260609_18354.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:91f092d8eeffea96@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20261220
+SUMMARY:青州微笑——中国古青州佛造像艺术展
+LOCATION:广州艺术博物院（广州美术馆）
+DESCRIPTION:广州艺术博物院（广州美术馆）1号展厅。展出青州市、诸城市博物馆62件佛造像精品，呈现北魏至北齐艺术风格流变。免费需预约，适合全龄。\n地点: 广州艺术博物院（广州美术馆）\n时间: 2026-06-20 至 2026-12-19\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20b3bbac695fc95a@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260901
+SUMMARY:少年军校多个教学点报名启动
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫少年军校多个教学点启动报名（2026-06-23发布）。收费培训，需报名，适合中小学生，含亲子/国防教育。\n地点: 广州市少年宫\n时间: 2026-06-23 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:33d789f80f81c049@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260901
+SUMMARY:奇趣自然——给孩子们的博物百科课堂
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫博物百科兴趣课堂（2026-06-23发布）。收费课程，需报名，适合少儿亲子（6-12岁）。\n地点: 广州市少年宫\n时间: 2026-06-23 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c5445f18b875e9@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州市少年宫青少年主持人艺术团2026年第二学期招新
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫主持人艺术团招新（2026-06-26发布）。收费培训，需报名，适合青少年。\n地点: 广州市少年宫\n时间: 2026-06-26 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:07ec4a69dc36b2d3@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州市少年宫三大艺术团招新面试
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫三大艺术团（合唱/舞蹈/交响等）招新面试开启（2026-06-26发布）。收费培训，需报名，适合少儿青少年。\n地点: 广州市少年宫\n时间: 2026-06-26 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7eabd7e76554c3@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260914
+SUMMARY:深度自然——2026广东美术馆儿童公共艺术季
+LOCATION:广东美术馆
+DESCRIPTION:广东美术馆本馆（二沙岛）。面向少年儿童的公共艺术季，含互动装置与工作坊。免费免预约，强烈推荐亲子（3-12岁）。\n地点: 广东美术馆\n时间: 2026-06-29 至 2026-09-13\n详情: https://www.gdmoa.org/Exhibition/Current/202606/t20260629_18369.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:d16fa5a962a44030@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20261019
-SUMMARY:文艺复兴的交响——格拉斯哥博物馆藏大师作品展
+SUMMARY:文艺复兴的交响：格拉斯哥博物馆藏大师作品展
 LOCATION:广东省博物馆
-DESCRIPTION:广东省博物馆2026年重磅特展，展出格拉斯哥博物馆藏文艺复兴时期大师作品。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://www.gdmuseum.com
+DESCRIPTION:广东省博物馆三楼展厅三。精选英国格拉斯哥博物馆近70件意大利艺术珍品（提香、贝利尼、丁托列托等真迹），含绘画、雕塑、陶器、玻璃、兵器，设“从威尼斯到广州”中西对话专题。收费特展，适合全龄家庭参观。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:915f7eff55da16ab@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20261016
-SUMMARY:肠道小宇宙——人体微生物组科普展
-LOCATION:广东科学中心
-DESCRIPTION:广东科学中心暑期新展，探索人体微生物组的奥秘，互动体验肠道菌群世界。\n地点: 广东科学中心\n时间: 2026-07-15 至 2026-10-15\n详情: https://www.gdsc.org.cn
+UID:5e8c8519b7f61d5b@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270701
+SUMMARY:由来是广州——广州建城2240年暨得名1800年文物精品展（暂名）
+LOCATION:广州艺术博物院（广州美术馆）
+DESCRIPTION:广州艺术博物院（广州美术馆）三楼10、11号展厅。紧扣“广州建城2240年、得名1800年”，以文物、典籍与多媒体梳理广州城脉、商脉、文脉。2026年7月开幕（暂定展至2027年6月）。免费需预约，适合全龄亲子。\n地点: 广州艺术博物院（广州美术馆）\n时间: 2026-07-01 至 2027-06-30\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:382d43ec8d4d32a8@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260715
+UID:f4fbdda57dbb0c68@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
-SUMMARY:假日科学派——2026暑期十大主题活动
-LOCATION:广东科学中心
-DESCRIPTION:广东科学中心暑期推出十大主题科学活动，涵盖机器人、天文、化学、生物等领域。\n地点: 广东科学中心\n时间: 2026-07-15 至 2026-08-31\n详情: https://www.gdsc.org.cn
+SUMMARY:海丝门户——文物里的清代广州
+LOCATION:广州博物馆（镇海楼）
+DESCRIPTION:广州博物馆推荐展览（常设/展期以官网为准）。镇海楼展区（越秀公园内）成人10元，仲元楼展区免费；周一闭馆，周二至周日9:00-17:30。适合全龄。\n地点: 广州博物馆（镇海楼）\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.guangzhoumuseum.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:f1c080a49f637916@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260719
-SUMMARY:2026广州艺术季 华人之光·芭蕾明星GALA
-LOCATION:广州大剧院
-DESCRIPTION:敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://www.gzdjy.org/
+UID:26aea62f91f55573@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:诗中广州
+LOCATION:广州博物馆（镇海楼）
+DESCRIPTION:广州博物馆推荐常设展览（展期以官网为准）。仲元楼展区免费参观。适合全龄亲子。\n地点: 广州博物馆（镇海楼）\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.guangzhoumuseum.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb3bd89f81fb7e2f@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州之宝——文物特展
+LOCATION:广州博物馆（镇海楼）
+DESCRIPTION:广州博物馆推荐常设文物特展（展期以官网为准）。镇海楼展区成人10元。适合全龄。\n地点: 广州博物馆（镇海楼）\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.guangzhoumuseum.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:08131b0c8fde0028@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:秦汉南疆——南越国历史专题陈列（基本陈列）
+LOCATION:南越王博物院
+DESCRIPTION:南越王博物院王宫展区（中山四路316号）基本陈列，免费参观；周二至周日9:00-17:30（暑期延长至18:00），周一闭馆。适合全龄亲子。\n地点: 南越王博物院\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.nywmuseum.org.cn/Exhibition/BDetails/jbcl?nid=8068
+END:VEVENT
+BEGIN:VEVENT
+UID:ed4e103a2dcf7e7c@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:2026年广州市少年宫“雨后彩虹”融合艺术团招新
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫（官网54cn.net / 61cn.org.cn）。融合艺术团暑期招新，面向特殊及普通青少年。收费课程，需报名，适合少儿。注：用户所给 gz54.com 为已出售占用的域名，非少年宫官网。\n地点: 广州市少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5bfb4f5469b443@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:广州市少年宫2026年暑期篮球队队员选拔
+LOCATION:广州市少年宫
+DESCRIPTION:广州市少年宫暑期篮球队选拔（2026-07-01发布）。收费培训，需报名，适合中小学生。\n地点: 广州市少年宫\n时间: 2026-07-01 至 2026-07-31\n详情: https://www.54cn.net/channel/teen-course
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5a282d0f896faa@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:柏林爱乐12把大提琴音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅交响乐演奏厅，20:00。柏林爱乐12把大提琴专场。收费，建议8岁以上。\n地点: 星海音乐厅\n时间: 2026-07-02 至 2026-07-02\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5029
+END:VEVENT
+BEGIN:VEVENT
+UID:82df7af8ceb3039c@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260831
+SUMMARY:2026暑期“粤博之夜”系列活动
+LOCATION:广东省博物馆
+DESCRIPTION:暑期每周五晚间品牌夜场，2026年共4场主题：文艺复兴（7.3已办）、红棉之夜（革命文物）、虫友自然科普之夜、数字科技与经典艺术之夜。融合戏剧、音乐、科普、非遗。免费需预约，适合家庭（少儿建议6岁以上）。\n地点: 广东省博物馆\n时间: 2026-07-03 至 2026-08-30\n详情: https://xxsb.gz-cmc.com/pages/2026/07/04/defbfe664eff47edbcf249372e9b633d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:0d489da3d759c811@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:唐·库普曼领衔 阿姆斯特丹巴洛克乐团 亨德尔之夜
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。2026广州艺术季年度音乐大赏。收费，建议8岁以上。\n地点: 星海音乐厅\n时间: 2026-07-03 至 2026-07-03\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5033
+END:VEVENT
+BEGIN:VEVENT
+UID:121d691e7b55f74b@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:唐·库普曼领衔 阿姆斯特丹巴洛克乐团 巴赫之夜
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。2026广州艺术季年度音乐大赏。收费，建议8岁以上。\n地点: 星海音乐厅\n时间: 2026-07-04 至 2026-07-04\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5034
+END:VEVENT
+BEGIN:VEVENT
+UID:86756ee631152b51@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:【阅创空间·小河马玩具馆】亲子主题活动（每周，1-8岁）
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆少儿区，每周滚动（如7.4-7.10、7.11-7.17等），分龄1-8岁。玩具馆亲子互动。免费需预约（持少儿证报名），亲子首选。\n地点: 广州图书馆\n时间: 2026-07-04 至 2026-08-31\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50115596
+END:VEVENT
+BEGIN:VEVENT
+UID:6c481312d591a9dd@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:“小樱桃”阅读树·樱桃读书会（少儿）
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆，每周六10:30（如《记事情》《好买卖：货币的神奇故事》等）。少儿读书会。免费需预约，适合6-12岁。\n地点: 广州图书馆\n时间: 2026-07-04 至 2026-08-31\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50115776
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ed5b95967dbcf3@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:周日音乐下午茶4 交响N次元
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，15:00。轻松普及型交响音乐会。收费，适合亲子（6岁以上）。\n地点: 星海音乐厅\n时间: 2026-07-05 至 2026-07-05\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=4993
+END:VEVENT
+BEGIN:VEVENT
+UID:4d30c9aea2400102@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:话剧《三家巷》
+LOCATION:广州中山纪念堂
+DESCRIPTION:广州中山纪念堂。根据欧阳山小说改编的广州题材话剧。收费，建议10岁以上。\n地点: 广州中山纪念堂\n时间: 2026-07-05 至 2026-07-05\n详情: https://wx.zs-hall.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa78ea618a7ecf1f@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:【向日葵亲子小屋】认知/卫生习惯主题亲子活动
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆，每周主题（如《Hair》《不一样的1》等），10:30。低龄亲子认知活动。免费需预约，适合0-6岁亲子。\n地点: 广州图书馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50116456
+END:VEVENT
+BEGIN:VEVENT
+UID:3f00589baf88e8cc@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260801
+SUMMARY:2025“天生会画”数字创作大赛收官展
+LOCATION:广州艺术博物院（广州美术馆）
+DESCRIPTION:广州艺术博物院线下数字艺术展，集中呈现华为“天生会画”大赛全球创作者数字画作（国风水墨、潮流插画、童趣手绘等），开幕于2026年7月10日（短期展，约7.10-7.12首周密集，建议以馆方公告为准）。免费，适合全年龄亲子。\n地点: 广州艺术博物院（广州美术馆）\n时间: 2026-07-10 至 2026-07-31\n详情: https://baijiahao.baidu.com/s?id=1870297712143907785
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4b2b67c42fb0a4@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:岭南新民谣·给阿嫲的歌
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。岭南新民谣专场。收费，适合全龄。\n地点: 星海音乐厅\n时间: 2026-07-10 至 2026-07-10\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5072
+END:VEVENT
+BEGIN:VEVENT
+UID:8c86cc2f9818fd65@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20261016
+SUMMARY:互利天下：广东外贸一千年
+LOCATION:广东省博物馆
+DESCRIPTION:广东省博物馆三楼展厅二。基本陈列级大展，遴选逾200件（套）文物展现广东千年外贸史。免费，需预约（暑期7.1-8.30延长开放至21:00，免预约夜场）。\n地点: 广东省博物馆\n时间: 2026-07-11 至 2026-10-15\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:de996d122349a046@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260901
+SUMMARY:昆虫野外探索观察课程（暑期招募）
+LOCATION:广东省博物馆
+DESCRIPTION:广东省博物馆2026暑期科普研学课程，配合“虫友”特展的野外昆虫观察活动。需报名，收费/公益以官网为准，适合中小学亲子家庭。\n地点: 广东省博物馆\n时间: 2026-07-11 至 2026-08-31\n详情: https://www.gdmuseum.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:02df45370944e606@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260901
+SUMMARY:未来小馆长·第六届“鞋盒里的博物馆”招募
+LOCATION:广东省博物馆
+DESCRIPTION:面向少年儿童的博物馆主题创作/策展体验活动，第六届。需报名，适合小学生亲子参与。\n地点: 广东省博物馆\n时间: 2026-07-11 至 2026-08-31\n详情: https://www.gdmuseum.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:93c10483570754bd@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:巴黎圣母院管风琴大师 拉特利·回望巴赫
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。2026管风琴艺术季名家单元。收费，建议10岁以上。\n地点: 星海音乐厅\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=4998
+END:VEVENT
+BEGIN:VEVENT
+UID:49e51e06096a41b4@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260901
+SUMMARY:如见|天生我材·李白——中国传统文化数字艺术展广州站
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆内。中国传统文化数字艺术展（李白主题），2026-07-11起。免费，需预约（广图活动多需官网/官微报名）。适合全龄。\n地点: 广州图书馆\n时间: 2026-07-11 至 2026-08-31\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50116856
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4f118731012c56@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:2026周末民乐坊 双韵和鸣 潮州音乐、广东汉乐音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，15:00。传统民乐普及专场。收费，适合亲子（6岁以上）。\n地点: 星海音乐厅\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5019
+END:VEVENT
+BEGIN:VEVENT
+UID:5849a7dab85393c4@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:广州交响乐团2025/2026音乐季闭幕音乐会 余隆演绎拉赫玛尼诺夫第二交响曲
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。广交音乐季闭幕。收费，建议10岁以上。\n地点: 星海音乐厅\n时间: 2026-07-12 至 2026-07-12\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=4963
+END:VEVENT
+BEGIN:VEVENT
+UID:7a66526b156d03fb@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:小云雀之夜·华韵——2026小云雀民乐音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。青少年民乐团体专场。收费，适合亲子。\n地点: 星海音乐厅\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5062
+END:VEVENT
+BEGIN:VEVENT
+UID:d519471aa98b5893@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260826
+SUMMARY:【科普广图】2026“探海无疆”暑期海洋科普系列讲座
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆，7-8月多场（7.16/7.21/7.28及8月第6、7讲等，14:30）。海洋科普系列讲座。免费需预约，适合少儿亲子。\n地点: 广州图书馆\n时间: 2026-07-16 至 2026-08-25\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50116736
 END:VEVENT
 BEGIN:VEVENT
 UID:fd990144e17e1270@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
+DTSTAMP:20260711T130048Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260831
 SUMMARY:虫友：寻访甲虫世界
 LOCATION:广东省博物馆
-DESCRIPTION:广东省博物馆暑期昆虫主题特展，近距离探索甲虫的奇妙世界。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://www.gdmuseum.com
+DESCRIPTION:广东省博物馆三楼专题展厅。汇聚昆虫、鸟类、植物等1000余件自然标本及20余件(套)文物，打造趣味昆虫星球自然观察之旅。收费特展，极适合少儿亲子（1-12岁）。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c080a49f637916@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026广州艺术季 华人之光·芭蕾明星GALA
+LOCATION:广州大剧院
+DESCRIPTION:广州大剧院歌剧厅，19:30。芭蕾明星荟萃GALA。收费，适合全龄（建议6岁以上）。\n地点: 广州大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: https://www.gzdjy.org/piao/4/23891.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5d96560f4f46b7f8@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:小云雀之夜·乐韵——2026小云雀交响音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。青少年交响乐团专场。收费，适合亲子。\n地点: 星海音乐厅\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5069
+END:VEVENT
+BEGIN:VEVENT
+UID:c0764d10bb932d43@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:音乐启蒙亲子剧场 小蒲公英奇妙之旅·国风版
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，10:30 / 14:30 / 16:30 三场（星海音乐厅出品）。专为亲子打造的音乐启蒙剧场，国风主题。收费，适合3-8岁亲子家庭。\n地点: 星海音乐厅\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5065
+END:VEVENT
+BEGIN:VEVENT
+UID:67f6d0b3c223cbae@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:名家名曲 广东民族乐团2025/2026音乐季闭幕音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。广东民族乐团音乐季闭幕。收费，建议8岁以上。\n地点: 星海音乐厅\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5054
+END:VEVENT
+BEGIN:VEVENT
+UID:2163c12c24cefcb8@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260901
+SUMMARY:【科普广图】蓝色星球的奥妙第3季科普展览：探索极地奥秘
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆内，2026-07-18起。极地科普展览。免费需预约，适合少儿亲子。\n地点: 广州图书馆\n时间: 2026-07-18 至 2026-08-31\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50117216
+END:VEVENT
+BEGIN:VEVENT
+UID:8431ec4a2f73ce54@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:【羊城学堂】南越王的文物与故事（朱海仁）
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆，10:00。历史文化讲座。免费需预约，适合成人及青少年。\n地点: 广州图书馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50116216
+END:VEVENT
+BEGIN:VEVENT
+UID:b53b3f1a38ea09fb@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:广州交响乐团×星海音乐厅 2026夏日美乐 维也纳圆舞曲交响音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。维也纳圆舞曲主题交响音乐会。收费，适合全龄。\n地点: 星海音乐厅\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5058
+END:VEVENT
+BEGIN:VEVENT
+UID:0760ec049aa8ea7b@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:金嗓子之夜·俄罗斯彼得堡小夜曲室内合唱音乐会·广州站
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。俄罗斯室内合唱专场。收费，建议8岁以上。\n地点: 星海音乐厅\n时间: 2026-07-23 至 2026-07-23\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5075
+END:VEVENT
+BEGIN:VEVENT
+UID:72425bf75cde047b@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:原创少儿科幻音乐戏剧《本草纲目》（小剧场版）
+LOCATION:广州大剧院
+DESCRIPTION:广州大剧院实验剧场，19:30。少儿科幻题材音乐戏剧。收费，适合少儿亲子（5岁以上）。\n地点: 广州大剧院\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.gzdjy.org/piao/4/24045.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2d168d586f5d2add@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:广州青年交响乐团成立15周年湾区巡演暨2025/2026音乐季闭幕式音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅，20:00。青少年交响乐团周年专场。收费，适合亲子。\n地点: 星海音乐厅\n时间: 2026-07-24 至 2026-07-24\n详情: https://www.concerthall.com.cn/events/neweventdetail.php?id=5048
+END:VEVENT
+BEGIN:VEVENT
+UID:4afea11957eeb442@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:李思捷「百变天王」笑唱会2.0加强版-广州站
+LOCATION:广州中山纪念堂
+DESCRIPTION:广州中山纪念堂。喜剧笑唱会。收费，建议8岁以上。\n地点: 广州中山纪念堂\n时间: 2026-07-24 至 2026-07-24\n详情: https://wx.zs-hall.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf16c13776a7bf9@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:天空之城——宫崎骏与久石让主题交响音乐会（乌兹别克斯坦国家爱乐乐团）
+LOCATION:广州中山纪念堂
+DESCRIPTION:广州中山纪念堂。宫崎骏/久石让动漫主题交响音乐会。收费，推荐亲子（4岁以上）。\n地点: 广州中山纪念堂\n时间: 2026-07-26 至 2026-07-26\n详情: https://wx.zs-hall.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:31c29c196cac894d@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
+DTSTAMP:20260711T130048Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260801
 SUMMARY:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》
 LOCATION:广州大剧院
-DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-30 至 2026-07-31\n详情: http://www.gzdjy.org/
+DESCRIPTION:广州大剧院，19:30。冰上芭蕾经典童话。收费，强烈推荐亲子（4岁以上）。\n地点: 广州大剧院\n时间: 2026-07-30 至 2026-07-31\n详情: https://www.gzdjy.org/piao/4/23711.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7da7089859525e83@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20261101
-SUMMARY:不止于闺阁——宋金女性生活展
-LOCATION:南越王博物院（王宫展区）
-DESCRIPTION:南越王博物院宋金时期女性生活主题展，展示古代女性的日常生活与精神世界。\n地点: 南越王博物院（王宫展区）\n时间: 2026-07-31 至 2026-10-31\n详情: https://www.nywmuseum.org.cn
+UID:9761f7c1b1a72364@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:《Ta来听我们的演唱会》经典粤语金曲共唱会
+LOCATION:广州中山纪念堂
+DESCRIPTION:广州中山纪念堂。经典粤语金曲合唱共唱会。收费，适合全龄。\n地点: 广州中山纪念堂\n时间: 2026-07-30 至 2026-07-30\n详情: https://wx.zs-hall.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:d093f62c01325ed7@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:俄罗斯圣彼得堡国家冰上芭蕾舞团《天鹅湖》
+LOCATION:广州大剧院
+DESCRIPTION:广州大剧院，14:30、19:30。冰上芭蕾《天鹅湖》。收费，推荐亲子（4岁以上）。\n地点: 广州大剧院\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.gzdjy.org/piao/4/23710.html
+END:VEVENT
+BEGIN:VEVENT
+UID:571d1d1821c2295c@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:2026泳儿 Vincy The Present 巡回音乐会-广州站
+LOCATION:广州中山纪念堂
+DESCRIPTION:广州中山纪念堂，20:00。泳儿巡回音乐会。收费（VIP498/368/288/188），建议8岁以上。\n地点: 广州中山纪念堂\n时间: 2026-08-01 至 2026-08-01\n详情: https://finance.sina.cn/2026-07-07/detail-inifyquy8459015.d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3d700117f43eec05@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260809
+SUMMARY:大型原创舞剧《沙湾往事》
+LOCATION:广州大剧院
+DESCRIPTION:广州大剧院，19:30。广东歌舞剧院经典舞剧。收费，建议8岁以上。\n地点: 广州大剧院\n时间: 2026-08-07 至 2026-08-08\n详情: https://www.gzdjy.org/piao/4/24021.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fca753feca194522@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260819
+SUMMARY:【纪录片展映】旅游主题纪录片展映
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆，8.13-8.18 14:30起。旅游主题纪录片展映。免费需预约，适合全龄。\n地点: 广州图书馆\n时间: 2026-08-13 至 2026-08-18\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50117256
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5775d0a65d75b7@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
+DTSTAMP:20260711T130048Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260816
 SUMMARY:杨丽萍作品舞蹈剧场2026版《十面埋伏》
 LOCATION:广州大剧院
-DESCRIPTION:杨丽萍巅峰力作舞蹈剧场2026版《十面埋伏》，融合京剧、武术、民乐、装置艺术。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-14 至 2026-08-15\n详情: http://www.gzdjy.org/
+DESCRIPTION:广州大剧院，8.14 19:30 / 8.15 14:30、19:30。杨丽萍舞蹈剧场。收费，建议10岁以上。\n地点: 广州大剧院\n时间: 2026-08-14 至 2026-08-15\n详情: https://www.gzdjy.org/piao/4/23923.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20a401597dbfeb3f@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
+UID:0b0445c43b546f4a@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:洛朗·班2026「Thousand Layers of Love」个人巡回音乐会
+LOCATION:广州大剧院
+DESCRIPTION:广州大剧院，19:30。法语音乐剧明星洛朗·班音乐会。收费，建议8岁以上。\n地点: 广州大剧院\n时间: 2026-08-18 至 2026-08-18\n详情: https://www.gzdjy.org/piao/4/24012.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b323e24c3dde75f4@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:【科普广图】8月科普开放日：整点科学-探海无疆科普讲解
+LOCATION:广州图书馆
+DESCRIPTION:广州图书馆，10:00-17:00。科普开放日整点讲解。免费需预约，适合少儿亲子。\n地点: 广州图书馆\n时间: 2026-08-22 至 2026-08-22\n详情: https://action.gzlib.org.cn:443/action/web/integral.do?actionCmd=viewSP&id=50106258
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ed4888b6518b96@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:天空之城 动漫作品音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅交响乐演奏厅，20:00。宫崎骏/久石让动漫主题音乐会。收费，推荐亲子（4岁以上）。\n地点: 星海音乐厅\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.df962388.com/yanchu/397048.html
+END:VEVENT
+BEGIN:VEVENT
+UID:d86bf1811b86b072@shenzhen-exhibitions
+DTSTAMP:20260711T130048Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
-SUMMARY:陕西人艺茅奖系列话剧《主角》
+SUMMARY:陕西人艺“茅奖系列”话剧《主角》
 LOCATION:广州大剧院
-DESCRIPTION:陕西人艺茅奖系列话剧《主角》，根据陈彦同名小说改编，讲述秦腔名伶忆秦娥的传奇人生。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-29 至 2026-08-30\n详情: http://www.gzdjy.org/
+DESCRIPTION:广州大剧院，8.29 19:30 / 8.30 14:30。根据茅盾文学奖小说改编话剧。收费，建议12岁以上。\n地点: 广州大剧院\n时间: 2026-08-29 至 2026-08-30\n详情: https://www.gzdjy.org/piao/4/24079.html
 END:VEVENT
 END:VCALENDAR
