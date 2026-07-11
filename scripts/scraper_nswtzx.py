@@ -12,9 +12,56 @@ from config import OUTPUT_DIR, JSON_FILE
 NSWTZX_URL = "https://www.szns.gov.cn"
 NSWTZX_NAME = "南山文体中心"
 
+VENUE_SOURCE_MAP = {
+    '南山文体中心': 'nswtzx',
+    '南山区文化馆': 'nswhg',
+    '南山': 'nswtzx',
+    '桃源街道': 'nswtzx',
+    '宝安区文化馆': 'baoan_1990',
+    '宝安': 'baoan_1990',
+    '燕罗': 'baoan_1990',
+    '新桥': 'baoan_1990',
+    '光明区文化馆': 'gmwhg',
+    '光明': 'gmwhg',
+    '公明': 'gmwhg',
+    '马田': 'gmwhg',
+    '玉塘': 'gmwhg',
+    '塘家': 'gmwhg',
+    '甲子塘': 'gmwhg',
+    '迳口': 'gmwhg',
+    '龙岗': 'lgwhg',
+    '龙城': 'lgwhg',
+    '坪地': 'lgwhg',
+    '坂田': 'lgwhg',
+    '吉华': 'lgwhg',
+    '南湾': 'lgwhg',
+    '平湖': 'lgwhg',
+    '龙华': 'lhwhg',
+    '罗湖': 'lhwhg2',
+    '园岭': 'lhwhg2',
+    '福田': 'ftwhg',
+    '安托山': 'ftwhg',
+    '梦工场': 'ftwhg',
+    '盐田': 'ytwhg',
+    '坪山': 'pswhg',
+    '大鹏': 'dpwhg',
+}
+
+DEFAULT_SOURCE = 'szmassart'
+
+
+def get_source_from_venue(venue_name):
+    """根据场馆名称映射到对应的 source key"""
+    if not venue_name:
+        return DEFAULT_SOURCE
+    for keyword, source_key in VENUE_SOURCE_MAP.items():
+        if keyword in venue_name:
+            return source_key
+    return DEFAULT_SOURCE
+
 
 def fetch_nswtzx_activities():
-    """从文化馆云平台和南山政府在线获取南山文体中心活动数据"""
+    """从文化馆云平台获取全市文化馆活动数据，按场馆映射到正确的source"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -24,7 +71,7 @@ def fetch_nswtzx_activities():
     activities = []
     today = datetime.now().strftime('%Y-%m-%d')
 
-    # 尝试从文化馆云平台获取文体中心相关活动
+    # 从文化馆云平台获取文化馆活动
     try:
         api_url = "https://whgy.szmassart.com/nsqwhg/web/activity/list"
         api_headers = {
@@ -53,12 +100,8 @@ def fetch_nswtzx_activities():
 
             for item in items:
                 title = item.get('activityName', '')
-                # 筛选文体中心相关活动
                 venue_name = item.get('venueName', '')
                 location = item.get('activityLocationName', '')
-                venue_keywords = ['文体中心', '南山文体', '文化馆']
-                if not any(kw in venue_name or kw in location for kw in venue_keywords):
-                    continue
 
                 start_date = item.get('activityStartTime', '')
                 end_date = item.get('activityEndTime', '')
@@ -72,19 +115,37 @@ def fetch_nswtzx_activities():
                 description = item.get('activityProfile', '') or item.get('tagName', '')
                 is_free = item.get('activityIsFree', 0)
                 reservation = item.get('activityIsReservation', 0)
+                tag = item.get('tagName', '')
 
                 desc_parts = []
-                if is_free == 1:
-                    desc_parts.append("免费")
+                if description and len(description) >= 15:
+                    desc_parts.append(description)
+                elif tag and description == tag:
+                    pass
+                elif description:
+                    desc_parts.append(description)
+
+                fee_info = "免费参与" if is_free == 1 else "收费活动"
+                desc_parts.append(fee_info)
+
                 if reservation == 2:
                     desc_parts.append("需预约报名")
-                if description:
-                    desc_parts.append(description)
+                if venue_name:
+                    desc_parts.append(f"地点：{venue_name}")
+
+                final_desc = '。'.join([p for p in desc_parts if p])[:300]
+                if len(final_desc) < 20:
+                    extra = f"{title}。"
+                    if venue_name:
+                        extra += f"地点：{venue_name}。"
+                    final_desc = extra + final_desc
 
                 activity_url = f"https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId={item.get('activityId', '')}"
 
                 family_keywords = ['少儿', '亲子', '儿童', '青少年', '少年']
                 family_friendly = any(kw in title for kw in family_keywords)
+
+                source_key = get_source_from_venue(venue_name or location)
 
                 activities.append({
                     'name': title,
@@ -93,8 +154,8 @@ def fetch_nswtzx_activities():
                     'end_date': end_date,
                     'url': activity_url,
                     'contact': '0755-86051111',
-                    'description': '。'.join([p for p in desc_parts if p])[:300],
-                    'source': 'nswtzx',
+                    'description': final_desc,
+                    'source': source_key,
                     'family_friendly': family_friendly
                 })
 

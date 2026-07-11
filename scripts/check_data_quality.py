@@ -22,10 +22,12 @@ DISTRICT_MAPPING = {
 def get_district_from_text(text):
     if not text:
         return None
-    for district, keywords in DISTRICT_MAPPING.items():
-        for kw in keywords:
-            if kw in text:
-                return district
+    specific_districts = ['南山', '宝安', '福田', '罗湖', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏']
+    for district in specific_districts:
+        if district in text:
+            return district
+    if '深圳' in text:
+        return '深圳'
     return None
 
 
@@ -66,18 +68,23 @@ def check_data_quality(data, source_file):
         venue_district = get_district_from_text(venue)
         source_district = get_district_from_text(source)
         
+        city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布', '深圳博物馆官网', '深圳音乐厅官网', '深圳科学技术馆官网', '深圳图书馆官网', '深圳市文化馆官网', '深圳市少年宫官网', '深圳少年儿童图书馆官网', '深圳滨海艺术中心官网', '深圳国际会展中心', '深圳会展中心']
+        
         if venue_district and source_district and venue_district != source_district:
-            issues.append({
-                'type': 'district_mismatch',
-                'file': source_file,
-                'item': item_num,
-                'title': item.get('title', 'N/A'),
-                'venue': venue,
-                'source': source,
-                'venue_district': venue_district,
-                'source_district': source_district,
-                'message': f"venue区县({venue_district})与source区县({source_district})不匹配"
-            })
+            if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
+                pass
+            else:
+                issues.append({
+                    'type': 'district_mismatch',
+                    'file': source_file,
+                    'item': item_num,
+                    'title': item.get('title', 'N/A'),
+                    'venue': venue,
+                    'source': source,
+                    'venue_district': venue_district,
+                    'source_district': source_district,
+                    'message': f"venue区县({venue_district})与source区县({source_district})不匹配"
+                })
     
     return issues
 

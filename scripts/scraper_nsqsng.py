@@ -74,14 +74,26 @@ def fetch_nsqsng_activities():
                 description = item.get('activityProfile', '') or item.get('tagName', '')
                 is_free = item.get('activityIsFree', 0)
                 reservation = item.get('activityIsReservation', 0)
+                tag = item.get('tagName', '')
 
                 desc_parts = []
-                if is_free == 1:
-                    desc_parts.append("免费")
+                if description and len(description) >= 15:
+                    desc_parts.append(description)
+                elif tag and description == tag:
+                    pass
+                elif description:
+                    desc_parts.append(description)
+
+                fee_info = "免费参与" if is_free == 1 else "收费活动"
+                desc_parts.append(fee_info)
+
                 if reservation == 2:
                     desc_parts.append("需预约报名")
-                if description:
-                    desc_parts.append(description)
+
+                final_desc = '。'.join([p for p in desc_parts if p])[:300]
+                if len(final_desc) < 20:
+                    extra = f"{title}。"
+                    final_desc = extra + final_desc
 
                 activity_url = f"https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId={item.get('activityId', '')}"
 
@@ -92,7 +104,7 @@ def fetch_nsqsng_activities():
                     'end_date': end_date,
                     'url': activity_url,
                     'contact': '0755-26661612',
-                    'description': '。'.join([p for p in desc_parts if p])[:300],
+                    'description': final_desc,
                     'source': 'nsqsng',
                     'family_friendly': True
                 })

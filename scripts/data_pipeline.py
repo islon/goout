@@ -26,6 +26,8 @@ from rss_generator import generate_rss
 
 WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.json')
 
+DEFAULT_CITY = 'shenzhen'
+
 REAL_SCRAPERS = [
     # 市级核心场馆
     ('深圳图书馆', 'scraper_szlib', 'fetch_szlib_activities'),
@@ -34,6 +36,9 @@ REAL_SCRAPERS = [
     ('南山区文化馆', 'scraper_nswhg', 'fetch_nswhg_activities'),
     ('南山区青少年活动中心', 'scraper_nsqsng', 'fetch_nsqsng_activities'),
     ('南山文体中心', 'scraper_nswtzx', 'fetch_nswtzx_activities'),
+    # 会展中心（API / HTML 解析，数据量大）
+    ('深圳会展中心', 'scraper_szcec', 'fetch_szcec_exhibitions'),
+    ('深圳国际会展中心', 'scraper_shenzhen_world', 'fetch_shenzhen_world_exhibitions'),
     # 其他有抓取能力的爬虫（即使当前环境可能失败，GitHub Actions 环境可能成功）
     ('宝安图书馆', 'scraper_balib', 'fetch_balib_activities'),
     ('深圳少年儿童图书馆', 'scraper_sz_children_lib', 'fetch_sz_children_lib_activities'),
@@ -96,10 +101,12 @@ DISTRICT_MAPPING = {
 def get_district_from_text(text):
     if not text:
         return None
-    for district, keywords in DISTRICT_MAPPING.items():
-        for kw in keywords:
-            if kw in text:
-                return district
+    specific_districts = ['南山', '宝安', '福田', '罗湖', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏']
+    for district in specific_districts:
+        if district in text:
+            return district
+    if '深圳' in text:
+        return '深圳'
     return None
 
 
@@ -134,7 +141,7 @@ def fix_description(title, description, venue, category, fee):
     return result[:300]
 
 
-def normalize_activity(raw, venue_default=''):
+def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     title = raw.get('title') or raw.get('name') or ''
     link = raw.get('link') or raw.get('url') or ''
     venue = raw.get('venue') or venue_default
@@ -145,11 +152,17 @@ def normalize_activity(raw, venue_default=''):
     contact = raw.get('contact') or ''
     family_friendly = raw.get('family_friendly', False)
     source = raw.get('source') or ''
+    city_val = raw.get('city') or city
 
     if not title or not start_date:
         return None
 
     category = categorize_activity(title, description)
+
+    if not description or len(description) < 10:
+        description = f"{title}。{venue}举办。"
+        if fee and fee != '免费':
+            description += f"{fee}。"
 
     if not family_friendly:
         family_friendly = is_family_friendly(title, description, category)
@@ -161,42 +174,46 @@ def normalize_activity(raw, venue_default=''):
     source_district = get_district_from_text(source)
     
     if source and venue_district and source_district and venue_district != source_district:
-        source_map = {
-            'nsqsng': '南山区青少年活动中心',
-            'nswtzx': '南山文体中心',
-            'nslib': '南山图书馆',
-            'nsmuseum': '南山博物馆',
-            'nswhg': '南山区文化馆',
-            'balib': '宝安图书馆',
-            'szlib': '深圳图书馆',
-            'gm_lib': '光明区图书馆',
-            'gm_kjg': '光明区科技馆',
-            'yt_lib': '盐田区图书馆',
-            'dp_geopark': '大鹏地质公园博物馆',
-            'lg_hakka': '龙岗客家民俗博物馆',
-            'lh_printmaking': '中国版画博物馆',
-            'lh_ecology': '龙华生态文明展览馆',
-            'nsaqjy': '南山安全教育体验馆',
-            'skhykpg': '蛇口海洋科普馆',
-            'sarc': '深爱人才馆',
-            'baoan_1990': '宝安1990文化馆',
-            'oct_wetland': '华侨城湿地',
-            'ps_nature': '深圳自然博物馆',
-            'dp_nuclear': '大亚湾核能科技馆',
-            'nssxf': '南山书房',
-            'szwty': '深圳湾体育中心',
-            'baoan_kjg': '宝安科技馆',
-            'baoan_ty': '宝安体育中心',
-            'sz_safety': '深圳市安全教育基地',
-            'yt_history': '中英街历史博物馆',
-            'zsjbwg': '招商局历史博物馆',
-            'ntgc': '南头古城博物馆群',
-            'lh_paleo': '深圳古生物博物馆',
-            'bayarea_eye': '湾区之眼',
-            'sz_children_lib': '深圳少年儿童图书馆',
-        }
-        if source in source_map:
-            source = source_map[source]
+        city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布']
+        if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
+            pass
+        else:
+            source_map = {
+                'nsqsng': '南山区青少年活动中心',
+                'nswtzx': '南山文体中心',
+                'nslib': '南山图书馆',
+                'nsmuseum': '南山博物馆',
+                'nswhg': '南山区文化馆',
+                'balib': '宝安图书馆',
+                'szlib': '深圳图书馆',
+                'gm_lib': '光明区图书馆',
+                'gm_kjg': '光明区科技馆',
+                'yt_lib': '盐田区图书馆',
+                'dp_geopark': '大鹏地质公园博物馆',
+                'lg_hakka': '龙岗客家民俗博物馆',
+                'lh_printmaking': '中国版画博物馆',
+                'lh_ecology': '龙华生态文明展览馆',
+                'nsaqjy': '南山安全教育体验馆',
+                'skhykpg': '蛇口海洋科普馆',
+                'sarc': '深爱人才馆',
+                'baoan_1990': '宝安1990文化馆',
+                'oct_wetland': '华侨城湿地',
+                'ps_nature': '深圳自然博物馆',
+                'dp_nuclear': '大亚湾核能科技馆',
+                'nssxf': '南山书房',
+                'szwty': '深圳湾体育中心',
+                'baoan_kjg': '宝安科技馆',
+                'baoan_ty': '宝安体育中心',
+                'sz_safety': '深圳市安全教育基地',
+                'yt_history': '中英街历史博物馆',
+                'zsjbwg': '招商局历史博物馆',
+                'ntgc': '南头古城博物馆群',
+                'lh_paleo': '深圳古生物博物馆',
+                'bayarea_eye': '湾区之眼',
+                'sz_children_lib': '深圳少年儿童图书馆',
+            }
+            if source in source_map:
+                source = source_map[source]
 
     description = fix_description(title, description, venue, category, fee)
 
@@ -204,6 +221,7 @@ def normalize_activity(raw, venue_default=''):
         'title': title,
         'name': title,
         'venue': venue,
+        'city': city_val,
         'start_date': start_date,
         'end_date': end_date,
         'link': link,
