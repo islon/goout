@@ -255,6 +255,12 @@
             transform: scale(0.97);
         }
 
+        .filter-btn.disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+
         .search-container {
             position: relative;
             margin-bottom: 12px;
@@ -1965,6 +1971,85 @@
             return '';
         }
 
+        // 检查：在当前其他筛选条件下，如果把某个筛选器换成指定值，是否有结果
+        function checkFilterHasResult(filterType, testValue) {
+            const savedCity = currentCityFilter;
+            const savedTime = currentTimeFilter;
+            const savedSource = currentSourceFilter;
+            const savedFee = currentFeeFilter;
+            const savedType = currentTypeFilter;
+            const savedDistrict = currentDistrictFilter;
+            const savedFamily = currentFamilyFriendlyFilter;
+
+            switch (filterType) {
+                case 'city': currentCityFilter = testValue; currentDistrictFilter = 'all'; currentSourceFilter = 'all'; break;
+                case 'time': currentTimeFilter = testValue; break;
+                case 'type': currentTypeFilter = testValue; break;
+                case 'district': currentDistrictFilter = testValue; break;
+                case 'source': currentSourceFilter = testValue; break;
+                case 'fee': currentFeeFilter = testValue; break;
+                case 'family': currentFamilyFriendlyFilter = testValue; break;
+            }
+
+            const result = getFilteredExhibitions().length > 0;
+
+            currentCityFilter = savedCity;
+            currentTimeFilter = savedTime;
+            currentSourceFilter = savedSource;
+            currentFeeFilter = savedFee;
+            currentTypeFilter = savedType;
+            currentDistrictFilter = savedDistrict;
+            currentFamilyFriendlyFilter = savedFamily;
+
+            return result;
+        }
+
+        function updateFilterAvailability() {
+            // 城市
+            document.querySelectorAll('[data-city]:not([data-district]):not([data-source])').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('city', btn.dataset.city));
+            });
+
+            // 时间
+            document.querySelectorAll('[data-filter]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('time', btn.dataset.filter));
+            });
+
+            // 类型
+            document.querySelectorAll('[data-type]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('type', btn.dataset.type));
+            });
+
+            // 区县（只检查可见的）
+            document.querySelectorAll('[data-district]').forEach(btn => {
+                if (btn.style.display === 'none') return;
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('district', btn.dataset.district));
+            });
+
+            // 地点（只检查可见的）
+            document.querySelectorAll('[data-source]').forEach(btn => {
+                if (btn.style.display === 'none') return;
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('source', btn.dataset.source));
+            });
+
+            // 费用
+            document.querySelectorAll('[data-fee]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('fee', btn.dataset.fee));
+            });
+
+            // 亲子
+            document.querySelectorAll('[data-family]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('family', btn.dataset.family));
+            });
+        }
+
         function renderExhibitions() {
             const listContainer = document.getElementById('exhibition-list');
             const countInfo = document.getElementById('count-info');
@@ -1972,6 +2057,8 @@
             const filtered = getFilteredExhibitions();
             filtered.sort((a, b) => a.start_date.localeCompare(b.start_date));
             filteredExhibitions = filtered;
+
+            updateFilterAvailability();
 
             if (currentPage > Math.ceil(filtered.length / PAGE_SIZE)) {
                 currentPage = 1;
