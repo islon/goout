@@ -33,10 +33,12 @@ CITY_NAME_TO_CODE = {
     '广州': 'guangzhou',
     '上海': 'shanghai',
     '北京': 'beijing',
+    '杭州': 'hangzhou',
     'shenzhen': 'shenzhen',
     'guangzhou': 'guangzhou',
     'shanghai': 'shanghai',
     'beijing': 'beijing',
+    'hangzhou': 'hangzhou',
 }
 
 REAL_SCRAPERS = [
@@ -464,7 +466,7 @@ def main():
         f.write(ics_content)
     print(f"ICS日历已生成到 {ics_path}")
 
-    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing']
+    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou']
     for city_code in city_codes:
         city_activities = [a for a in activities if a.get('city') == city_code]
         if not city_activities:
