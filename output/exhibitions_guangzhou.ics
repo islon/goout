@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:59688d00b6c41652@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20261016
+SUMMARY:互利天下：广东外贸一千年
+LOCATION:广东省博物馆
+DESCRIPTION:广东外贸一千年历史文化展，展示海上丝绸之路贸易历史。常设展。\n地点: 广东省博物馆\n时间: 2025-10-15 至 2026-10-15\n详情: https://www.gdmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a4e3a323810006@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20261012
+SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术体验展
+LOCATION:南越王博物院（王墓展区）
+DESCRIPTION:南越王博物院古埃及文物特展，结合数字艺术技术呈现古埃及文明。\n地点: 南越王博物院（王墓展区）\n时间: 2026-02-06 至 2026-10-11\n详情: https://www.nywmuseum.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1757dbf8d43e77fc@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261019
+SUMMARY:文艺复兴的交响——格拉斯哥博物馆藏大师作品展
+LOCATION:广东省博物馆
+DESCRIPTION:广东省博物馆2026年重磅特展，展出格拉斯哥博物馆藏文艺复兴时期大师作品。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://www.gdmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:915f7eff55da16ab@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20261016
+SUMMARY:肠道小宇宙——人体微生物组科普展
+LOCATION:广东科学中心
+DESCRIPTION:广东科学中心暑期新展，探索人体微生物组的奥秘，互动体验肠道菌群世界。\n地点: 广东科学中心\n时间: 2026-07-15 至 2026-10-15\n详情: https://www.gdsc.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:382d43ec8d4d32a8@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260901
+SUMMARY:假日科学派——2026暑期十大主题活动
+LOCATION:广东科学中心
+DESCRIPTION:广东科学中心暑期推出十大主题科学活动，涵盖机器人、天文、化学、生物等领域。\n地点: 广东科学中心\n时间: 2026-07-15 至 2026-08-31\n详情: https://www.gdsc.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c080a49f637916@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026广州艺术季 华人之光·芭蕾明星GALA
+LOCATION:广州大剧院
+DESCRIPTION:敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://www.gzdjy.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fd990144e17e1270@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260831
+SUMMARY:虫友：寻访甲虫世界
+LOCATION:广东省博物馆
+DESCRIPTION:广东省博物馆暑期昆虫主题特展，近距离探索甲虫的奇妙世界。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://www.gdmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:31c29c196cac894d@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260801
+SUMMARY:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》
+LOCATION:广州大剧院
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-30 至 2026-07-31\n详情: http://www.gzdjy.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:7da7089859525e83@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20261101
+SUMMARY:不止于闺阁——宋金女性生活展
+LOCATION:南越王博物院（王宫展区）
+DESCRIPTION:南越王博物院宋金时期女性生活主题展，展示古代女性的日常生活与精神世界。\n地点: 南越王博物院（王宫展区）\n时间: 2026-07-31 至 2026-10-31\n详情: https://www.nywmuseum.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5775d0a65d75b7@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260816
+SUMMARY:杨丽萍作品舞蹈剧场2026版《十面埋伏》
+LOCATION:广州大剧院
+DESCRIPTION:杨丽萍巅峰力作舞蹈剧场2026版《十面埋伏》，融合京剧、武术、民乐、装置艺术。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-14 至 2026-08-15\n详情: http://www.gzdjy.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:20a401597dbfeb3f@shenzhen-exhibitions
+DTSTAMP:20260711T031853Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:陕西人艺茅奖系列话剧《主角》
+LOCATION:广州大剧院
+DESCRIPTION:陕西人艺茅奖系列话剧《主角》，根据陈彦同名小说改编，讲述秦腔名伶忆秦娥的传奇人生。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-29 至 2026-08-30\n详情: http://www.gzdjy.org/
+END:VEVENT
+END:VCALENDAR

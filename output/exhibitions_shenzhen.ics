@@ -22,15 +22,6 @@ TZOFFSETTO:+0800
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bea44a9ff6d46748@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20250107
-DTEND;VALUE=DATE:20261019
-SUMMARY:玉出昆冈——清代宫廷和田玉文化特展
-LOCATION:故宫博物院
-DESCRIPTION:故宫博物院斋宫展厅展出的清代宫廷和田玉文化特展，系统展示清代宫廷和田玉器的文化内涵与艺术成就。\n地点: 故宫博物院\n时间: 2025-01-07 至 2026-10-18\n详情: https://www.dpm.org.cn/pavilions.html
-END:VEVENT
-BEGIN:VEVENT
 UID:e127ee3139910bdf@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20250424
@@ -1003,15 +994,6 @@ LOCATION:深圳滨海艺术中心
 DESCRIPTION:谢君豪、王菀之主演，司徒慧焯导演，粤语演出普通话字幕。歌剧厅，票价180-680元，公益票50元。\n地点: 深圳滨海艺术中心\n时间: 2025-08-29 至 2025-08-30\n详情: http://www.szbo.com.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:59688d00b6c41652@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20261016
-SUMMARY:互利天下：广东外贸一千年
-LOCATION:广东省博物馆
-DESCRIPTION:广东外贸一千年历史文化展，展示海上丝绸之路贸易历史。常设展。\n地点: 广东省博物馆\n时间: 2025-10-15 至 2026-10-15\n详情: https://www.gdmuseum.com
-END:VEVENT
-BEGIN:VEVENT
 UID:b4518f353577795c@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20251105
@@ -1147,42 +1129,6 @@ LOCATION:深圳科学技术馆（光明新馆）
 DESCRIPTION:XR大空间内体验2099年科技加持下的太空探险之旅，8K效果的火星、土卫6、巨蟹座嵌合星、高维空间等宇宙奇观。二层。需购票。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.szstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:52b68481fbc7bd50@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260118
-DTEND;VALUE=DATE:20260819
-SUMMARY:双星耀世——三星堆—金沙遗址古蜀文明展
-LOCATION:中国国家博物馆
-DESCRIPTION:三星堆—金沙遗址古蜀文明展，南8南9展厅。古蜀文明珍贵文物。需提前7天在国家博物馆小程序预约，实名制人脸核验。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-01-18 至 2026-08-18\n详情: https://www.chnmuseum.cn/zl/
-END:VEVENT
-BEGIN:VEVENT
-UID:df6265ab8a4139af@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20261012
-SUMMARY:叩问永恒——庞贝的探索与发掘
-LOCATION:中国国家博物馆
-DESCRIPTION:庞贝古城考古发掘特展，南1南2展厅。古罗马庞贝古城出土文物。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-02-04 至 2026-10-11\n详情: https://www.chnmuseum.cn/zl/
-END:VEVENT
-BEGIN:VEVENT
-UID:d3a4e3a323810006@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260206
-DTEND;VALUE=DATE:20261012
-SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术体验展
-LOCATION:南越王博物院（王墓展区）
-DESCRIPTION:南越王博物院古埃及文物特展，结合数字艺术技术呈现古埃及文明。\n地点: 南越王博物院（王墓展区）\n时间: 2026-02-06 至 2026-10-11\n详情: https://www.nywmuseum.org.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:f01ff9bbeeefff95@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20261019
-SUMMARY:万法归一：萨迦寺历史文化与艺术展
-LOCATION:故宫博物院
-DESCRIPTION:在故宫博物院午门展出的萨迦寺历史文化与艺术展，展示藏传佛教萨迦寺珍贵文物与艺术精品。\n地点: 故宫博物院\n时间: 2026-02-09 至 2026-10-18\n详情: https://www.dpm.org.cn/show/378502.html
-END:VEVENT
-BEGIN:VEVENT
 UID:5ab219e480449445@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260328
@@ -1190,24 +1136,6 @@ DTEND;VALUE=DATE:20260817
 SUMMARY:奔腾的印记——东西方马主题版画艺术特展
 LOCATION:中国版画博物馆
 DESCRIPTION:东西方马主题版画艺术特展，于观澜版画美术馆展出。免费参观。\n地点: 中国版画博物馆\n时间: 2026-03-28 至 2026-08-16\n详情: https://www.szlh.gov.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:9f02315c939e6741@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260901
-SUMMARY:从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展
-LOCATION:上海博物馆
-DESCRIPTION:展出英国文学史上从莎士比亚到J.K.罗琳等著名文学家的肖像画与手稿真迹，带领观众走进英国文学的璀璨世界。\n地点: 上海博物馆\n时间: 2026-04-01 至 2026-08-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004234
-END:VEVENT
-BEGIN:VEVENT
-UID:158d95e84d56ce1a@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20261009
-SUMMARY:李静训和她的时代
-LOCATION:中国国家博物馆
-DESCRIPTION:李静训墓出土文物特展，隋代少女墓葬精美文物。南6南7展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-04-03 至 2026-10-08\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d287df85a51981d@shenzhen-exhibitions
@@ -1219,24 +1147,6 @@ LOCATION:深圳科学技术馆（光明新馆）
 DESCRIPTION:国家动物博物馆×深圳科学技术馆联合打造，集珍稀标本、沉浸式互动、权威科普于一体。二层临时展厅B。需购票。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-04-04 至 2026-11-01\n详情: https://www.szstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:933802ad3de44936@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260901
-SUMMARY:奇骥奔腾——天马行空特展
-LOCATION:上海科技馆
-DESCRIPTION:上海科技馆2026年特展，以马为主题，融合科学与艺术。\n地点: 上海科技馆\n时间: 2026-04-15 至 2026-08-31\n详情: https://www.sstm.org.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:9eadf5fbe40eda59@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260817
-SUMMARY:星辰足迹—月背之约
-LOCATION:中国科学技术馆
-DESCRIPTION:由中国科学技术馆和国家航天局新闻宣传中心联合举办，采用珍贵实物展陈+大空间VR沉浸式体验结合的创新模式。展出嫦娥五号相关实物，VR体验中观众以第一视角穿越至2049年月球南极基地。\n地点: 中国科学技术馆\n时间: 2026-04-24 至 2026-08-16\n详情: https://www.cstm.org.cn/cgzn/dqzl/zzrz/art/2026/art_54971cdc575c4e5b81338bc1554ea4c4.html
-END:VEVENT
-BEGIN:VEVENT
 UID:89f31528a0282e5e@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260428
@@ -1246,24 +1156,6 @@ LOCATION:深圳市当代艺术与城市规划馆
 DESCRIPTION:PONG！张达利艺术展，深圳市当代艺术与城市规划馆云中心3-5层。每张门票捆绑1枚球，可在球池内自主打捞。暑期延时至21:00。地铁3号线/4号线少年宫站。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2026-04-28 至 2026-07-18\n详情: https://m.sohu.com/a/1047164870_121106875/
 END:VEVENT
 BEGIN:VEVENT
-UID:f102d4856097d623@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20261012
-SUMMARY:霸王龙T-REX——恐龙之王特展
-LOCATION:国家自然博物馆
-DESCRIPTION:由国家自然博物馆、德国阿尔特姆恐龙博物馆联合主办，霸王龙化石首次在中国大陆公开展出。展出青年霸王龙洛基及成年霸王龙蕾蒂娜骨架化石。\n地点: 国家自然博物馆\n时间: 2026-04-28 至 2026-10-11\n详情: https://www.nnhm.org.cn/zljs/lszl/2026nlszl/4028c1089d405ea4019d42b471b60038.shtml
-END:VEVENT
-BEGIN:VEVENT
-UID:49965d4b3989170d@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260817
-SUMMARY:肠子的小心思——肠道的奇妙冒险互动体验科学展
-LOCATION:中国科学技术馆
-DESCRIPTION:由法国国家科学技术总馆出品、风靡欧洲的现象级科普展首站登陆中国科学技术馆。展览以7部影像装置、9处经典互动实验构成创新科普体验，观众可亲手拉出7米长肠道模型等，在游戏中掌握肠道健康知识。\n地点: 中国科学技术馆\n时间: 2026-04-29 至 2026-08-16\n详情: https://www.cstm.org.cn/cgzn/dqzl/zzrz/art/2026/art_bd75476bacb04aaa867cbedbf13817cf.html
-END:VEVENT
-BEGIN:VEVENT
 UID:0971d94e3e84fade@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260430
@@ -1271,15 +1163,6 @@ DTEND;VALUE=DATE:20260910
 SUMMARY:载文蕴艺——中国历代金石碑拓大展
 LOCATION:深圳美术馆
 DESCRIPTION:载文蕴艺——中国历代金石碑拓大展，四层14-18号展厅。探源华夏文脉，汉代石刻的万千气象。免费免预约。\n地点: 深圳美术馆\n时间: 2026-04-30 至 2026-09-09\n详情: https://m.sohu.com/a/1044744042_121106875/
-END:VEVENT
-BEGIN:VEVENT
-UID:dbb7d3634f2d7469@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260901
-SUMMARY:只有树知道——自然艺术特展
-LOCATION:上海自然博物馆
-DESCRIPTION:上海自然博物馆自然艺术主题特展，以树木为线索探索自然与人类的关系。\n地点: 上海自然博物馆\n时间: 2026-05-01 至 2026-08-31\n详情: https://www.snhm.org.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:04faf09dfab864d5@shenzhen-exhibitions
@@ -1309,24 +1192,6 @@ LOCATION:深圳博物馆（古代艺术馆）
 DESCRIPTION:唐三彩马主题特展，深圳博物馆同心路馆。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-05-18 至 2026-07-31\n详情: https://www.shenzhenmuseum.com
 END:VEVENT
 BEGIN:VEVENT
-UID:476ec5be701ea8b8@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20261019
-SUMMARY:玉米·黄金·美洲豹——玛雅与安第斯古代文明大展
-LOCATION:首都博物馆
-DESCRIPTION:首都博物馆建馆以来规模最大的展览，汇聚墨西哥、秘鲁两国20余家文博机构约800件馆藏精品。展览面积约1万平方米，含VR虚拟现实体验、实景沉浸式解谜等。\n地点: 首都博物馆\n时间: 2026-05-18 至 2026-10-18\n详情: https://capitalmuseum.org.cn/exhibition/da19ac94b1834b16b6a6e0e54d04a252
-END:VEVENT
-BEGIN:VEVENT
-UID:a22708aba0b1a912@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20270101
-SUMMARY:心游万仞——蒲松龄与《聊斋志异》
-LOCATION:中国国家博物馆
-DESCRIPTION:蒲松龄与聊斋志异文化展。北1展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-05-28 至 2026-12-31\n详情: https://www.chnmuseum.cn/zl/
-END:VEVENT
-BEGIN:VEVENT
 UID:cd7aa58d763e14ad@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260529
@@ -1334,51 +1199,6 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:薪火相传 稚笔生花——2026深圳美术馆少儿艺术展
 LOCATION:深圳美术馆
 DESCRIPTION:从全市1400余件投稿中遴选出140幅少儿佳作，涵盖国画、油画、水彩、数字艺术等。免费免预约。\n地点: 深圳美术馆\n时间: 2026-05-29 至 2026-10-31\n详情: http://m.toutiao.com/group/7658324154139148850/
-END:VEVENT
-BEGIN:VEVENT
-UID:83ddc8e890396b57@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20270101
-SUMMARY:看·见——中国国家博物馆藏海外中国图像展
-LOCATION:中国国家博物馆
-DESCRIPTION:精选约300件套海外中国图像展品，以时间为轴通过远观、凝视、识见三个单元铺展。北8展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-05-30 至 2026-12-31\n详情: https://www.chnmuseum.cn/zl/
-END:VEVENT
-BEGIN:VEVENT
-UID:a7a6d2f8fd98c67a@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20261101
-SUMMARY:从零到无穷——数学的奇妙之旅
-LOCATION:上海科技馆
-DESCRIPTION:上海科技馆数学主题科普展，互动体验数学的奥秘。\n地点: 上海科技馆\n时间: 2026-06-01 至 2026-10-31\n详情: https://www.sstm.org.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:74bdf8bf60ea5983@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260824
-SUMMARY:植物庞贝城——乌达二叠纪化石精品展
-LOCATION:国家自然博物馆
-DESCRIPTION:由国家自然博物馆与中国科学院南京地质古生物研究所联合主办，展出约74件珍贵化石展品，约2.98亿年前火山灰瞬时原位埋藏的远古森林。\n地点: 国家自然博物馆\n时间: 2026-06-05 至 2026-08-23\n详情: https://www.nnhm.org.cn/zljs/lszl/2026nlszl/4028c1089e326a16019e96c8ef5501b5.shtml
-END:VEVENT
-BEGIN:VEVENT
-UID:29777850dbaf615f@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260910
-SUMMARY:行·迹——卡塔尔游牧生活与文化展
-LOCATION:中国国家博物馆
-DESCRIPTION:国内首次系统性呈现卡塔尔游牧生活的专题展览，约150件组实物及摄影作品。南3展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-06-09 至 2026-09-09\n详情: https://www.chnmuseum.cn/zl/
-END:VEVENT
-BEGIN:VEVENT
-UID:70c72dffed6de3d8@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20261012
-SUMMARY:巴西魂——波尔蒂纳里艺术展
-LOCATION:中国国家博物馆
-DESCRIPTION:巴西现代艺术大师坎迪多·波尔蒂纳里56件原作与沉浸式数字体验。南4展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-06-10 至 2026-10-11\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ee58acb064333ab@shenzhen-exhibitions
@@ -1768,33 +1588,6 @@ LOCATION:深圳市当代艺术与城市规划馆
 DESCRIPTION:大潮起珠江——广东改革开放40周年展览，深圳市当代艺术与城市规划馆。常设展，暑期延时开放至21:00。免费参观。地铁3号线/4号线少年宫站。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://sz.cnr.cn/gstjsz/20260704/t20260704_527689111.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:c073e7f7e964d008@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20270201
-SUMMARY:珠归海上：庄万里家族捐赠两塗轩书画展（第二期）
-LOCATION:上海博物馆
-DESCRIPTION:庄万里家族捐赠两塗轩书画展第二期，以书画史为线索，全面展示庄氏家族捐赠的书画精品，包括明代谢时臣《溪山岁晚图轴》、晚明张瑞图《行书庾子山步虚词卷》等名品。\n地点: 上海博物馆\n时间: 2026-07-01 至 2027-01-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004247
-END:VEVENT
-BEGIN:VEVENT
-UID:bb1f57b361fd6753@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20271101
-SUMMARY:暂得之乐：暂得楼捐赠明清瓷器展
-LOCATION:上海博物馆
-DESCRIPTION:精选香港收藏家胡惠春先生暂得楼捐赠的明清陶瓷珍品，涵盖官窑名品与艺术佳作，展现明清瓷器的精湛工艺与美学价值。\n地点: 上海博物馆\n时间: 2026-07-01 至 2027-10-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004245
-END:VEVENT
-BEGIN:VEVENT
-UID:1757dbf8d43e77fc@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20261019
-SUMMARY:文艺复兴的交响——格拉斯哥博物馆藏大师作品展
-LOCATION:广东省博物馆
-DESCRIPTION:广东省博物馆2026年重磅特展，展出格拉斯哥博物馆藏文艺复兴时期大师作品。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://www.gdmuseum.com
-END:VEVENT
-BEGIN:VEVENT
 UID:17390b307512fb87@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260702
@@ -2029,24 +1822,6 @@ LOCATION:宝安体育中心体育馆
 DESCRIPTION:郎朗·乐境音乐会深圳站，宝安体育中心体育馆。地铁11号线宝体站。\n地点: 宝安体育中心体育馆\n时间: 2026-07-05 至 2026-07-05\n详情: https://www.meipian.cn/5n819blh
 END:VEVENT
 BEGIN:VEVENT
-UID:4d3a3f2d815737a8@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260826
-SUMMARY:2026上海科技馆暑期科学营
-LOCATION:上海科技馆
-DESCRIPTION:上海科技馆暑期推出系列科学营活动，涵盖机器人编程、天文观测、化学实验等主题。\n地点: 上海科技馆\n时间: 2026-07-05 至 2026-08-25\n详情: https://www.sstm.org.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:021c6684ea8956aa@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20261009
-SUMMARY:纸上奇遇——国际绘本艺术展
-LOCATION:上海当代艺术博物馆
-DESCRIPTION:上海当代艺术博物馆绘本艺术主题展，汇聚国际知名绘本艺术家的原画与手稿。\n地点: 上海当代艺术博物馆\n时间: 2026-07-05 至 2026-10-08\n详情: https://www.powerstationofart.com
-END:VEVENT
-BEGIN:VEVENT
 UID:05577c8a3b886eea@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260706
@@ -2081,15 +1856,6 @@ DTEND;VALUE=DATE:20260822
 SUMMARY:宝安区青少年宫暑期小小科学家研学营
 LOCATION:宝安区青少年宫
 DESCRIPTION:共青团·伙伴计划，2026年暑假小小科学家科学探索研学营，涵盖人工智能、机器人编程、3D打印、科学实验秀等主题。每周一至周五9:00-18:00。收费：200元/期。\n地点: 宝安区青少年宫\n时间: 2026-07-06 至 2026-08-21\n详情: https://www.baoan.gov.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:bec4d6c070bf719a@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260831
-SUMMARY:2026暑期八大主题周活动
-LOCATION:北京天文馆
-DESCRIPTION:北京天文馆暑期连续56天开放，8大主题周轮番上线：天问摘星、天宫掠影、叩问广寒、镜观星河、玛雅奇遇、光影星愿、星河赴约、广寒探秘。涵盖球幕影片、科普剧场、专题展览、专家讲座等。\n地点: 北京天文馆\n时间: 2026-07-06 至 2026-08-30\n详情: https://www.bjp.org.cn/kphd/qthd/4028c1369f0fdaad019f116c7b72001e.shtml
 END:VEVENT
 BEGIN:VEVENT
 UID:c1fc1806f22b8aa5@shenzhen-exhibitions
@@ -2209,42 +1975,6 @@ LOCATION:宝安区文化馆燕罗街道分馆
 DESCRIPTION:宝安区文化馆燕罗街道分馆暑期阅读活动，包含绘本故事、手工制作、亲子阅读等。免费参与。\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-08 至 2026-08-28\n详情: https://www.baoan.gov.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:df559ef4ba566c0b@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260712
-SUMMARY:音乐剧《基督山伯爵》中文版
-LOCATION:上海文化广场
-DESCRIPTION:音乐剧《基督山伯爵》中文版，改编自大仲马同名经典。票价80-1080元。地铁9号线/12号线嘉善路站。\n地点: 上海文化广场\n时间: 2026-07-08 至 2026-07-11\n详情: https://www.shcstheatre.com/program/programlist_easy.aspx
-END:VEVENT
-BEGIN:VEVENT
-UID:3b274a271db29845@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260801
-SUMMARY:2026漫步经典系列音乐会
-LOCATION:国家大剧院
-DESCRIPTION:国家大剧院漫步经典系列，柏林爱乐十二把大提琴开幕，多场高品质古典音乐会。音乐厅，票价80-880元。地铁1号线天安门西站。\n地点: 国家大剧院\n时间: 2026-07-08 至 2026-07-31\n详情: https://ticket.chncpa.org
-END:VEVENT
-BEGIN:VEVENT
-UID:d1e64f65c39648c8@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260710
-SUMMARY:柏林爱乐十二把大提琴音乐会
-LOCATION:国家大剧院
-DESCRIPTION:柏林爱乐十二把大提琴音乐会，2026漫步经典开幕演出。票价180-880元。地铁1号线天安门西站。\n地点: 国家大剧院\n时间: 2026-07-08 至 2026-07-09\n详情: https://ticket.chncpa.org
-END:VEVENT
-BEGIN:VEVENT
-UID:13349810f22505d1@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260901
-SUMMARY:快乐暑期，科海扬帆——2026暑期系列活动
-LOCATION:北京科学中心
-DESCRIPTION:北京科学中心暑期推出1175场科学教育活动，涵盖北科展教坊、首都科学讲堂、北科剧院、北科秀场、小球大世界、安全训练营等板块。\n地点: 北京科学中心\n时间: 2026-07-08 至 2026-08-31\n详情: https://www.bjsc.net.cn/#/article/25387
-END:VEVENT
-BEGIN:VEVENT
 UID:9428bc2ca07bf15b@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260709
@@ -2306,24 +2036,6 @@ DTEND;VALUE=DATE:20260710
 SUMMARY:2026德云社张鹤伦郎鹤炎相声专场
 LOCATION:深圳保利剧院
 DESCRIPTION:2026德云社成立三十周年——张鹤伦郎鹤炎相声专场，深圳保利剧院。票价280/380/580/780/980元。地铁2号线后海站。\n地点: 深圳保利剧院\n时间: 2026-07-09 至 2026-07-09\n详情: https://m.sohu.com/a/1043746671_121124734/
-END:VEVENT
-BEGIN:VEVENT
-UID:f4cc4cc61d2afc93@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20271101
-SUMMARY:雨林探秘：玛雅大冒险（沉浸式体验展）
-LOCATION:上海博物馆
-DESCRIPTION:上海博物馆携手国内顶级制作团队打造的沉浸式VR体验，作为美洲古代文明大展的重要组成部分。观众佩戴VR设备穿梭于古老雨林与金字塔之间，亲历墨西哥城、奇琴伊察、特奥蒂瓦坎等文化遗产地的昔日辉煌。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-10-31\n详情: https://www.shanghai.gov.cn/nw31406/20260709/6e1e00b160124bfe9f261f2c468ecdba.html
-END:VEVENT
-BEGIN:VEVENT
-UID:fd0ca49f3297bf4a@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20271101
-SUMMARY:飞越马丘比丘：云端印加之旅（沉浸式体验展）
-LOCATION:上海博物馆
-DESCRIPTION:上海博物馆与全球知名沉浸式体验公司NEON联合打造，以突破性VR技术与360度全动态座椅为载体，带领观众飞越浩瀚安第斯山脉，亲临悬浮于云雾之中的神秘古城马丘比丘。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-10-31\n详情: https://www.shanghai.gov.cn/nw31406/20260709/6e1e00b160124bfe9f261f2c468ecdba.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bdae77bf7d23ee7d@shenzhen-exhibitions
@@ -2641,15 +2353,6 @@ LOCATION:OPOWER文化艺术中心
 DESCRIPTION:《宋美龄耳环丢了》民国悬疑行进式互动话剧，OPOWER文化艺术中心O空间（南山侨城东）。大麦评分9.7、豆瓣评分8.2，覆盖全国15+城市巡演超300场。票价196/218元。地铁1号线侨城东站。\n地点: OPOWER文化艺术中心\n时间: 2026-07-11 至 2026-07-12\n详情: https://m.sohu.com/a/1048651415_675420/
 END:VEVENT
 BEGIN:VEVENT
-UID:7fcb2bd4c3431857@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260713
-SUMMARY:舞台剧《看不见的客人》
-LOCATION:北京艺术中心（国家大剧院台湖）
-DESCRIPTION:丁一滕导演，张维伊、金靖主演舞台剧《看不见的客人》。票价80-680元。地铁7号线高楼金站。\n地点: 北京艺术中心（国家大剧院台湖）\n时间: 2026-07-11 至 2026-07-12\n详情: https://ticket.chncpa.org
-END:VEVENT
-BEGIN:VEVENT
 UID:b52e21d9c5710103@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260712
@@ -2756,15 +2459,6 @@ DTEND;VALUE=DATE:20260713
 SUMMARY:美术馆里的音乐会——弦乐快闪
 LOCATION:光明文化艺术中心美术馆
 DESCRIPTION:光明文化艺术中心携手深圳交响乐团联袂呈现美术馆里的音乐会首场快闪，以弦乐的优雅之声跨界联动比利时国宝漫画百年巡礼展。免费。地铁6号线光明站。\n地点: 光明文化艺术中心美术馆\n时间: 2026-07-12 至 2026-07-12\n详情: http://www.sznews.com/news/content/mb/2026-07/09/content_32115795.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:74cf5d0d501146de@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20261013
-SUMMARY:新文化制作人第四季
-LOCATION:上海当代艺术博物馆
-DESCRIPTION:上海当代艺术博物馆新文化制作人第四季展览，探索当代文化生产的新形式。\n地点: 上海当代艺术博物馆\n时间: 2026-07-12 至 2026-10-12\n详情: https://www.powerstationofart.com
 END:VEVENT
 BEGIN:VEVENT
 UID:3ed872e8d83c5ccd@shenzhen-exhibitions
@@ -2965,24 +2659,6 @@ LOCATION:深圳市青少年活动中心
 DESCRIPTION:深圳市青少年活动中心暑期科技体验活动，包含VR体验、机器人编程、无人机飞行等。免费报名。\n地点: 深圳市青少年活动中心\n时间: 2026-07-15 至 2026-08-25\n详情: https://www.szaac.com
 END:VEVENT
 BEGIN:VEVENT
-UID:915f7eff55da16ab@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20261016
-SUMMARY:肠道小宇宙——人体微生物组科普展
-LOCATION:广东科学中心
-DESCRIPTION:广东科学中心暑期新展，探索人体微生物组的奥秘，互动体验肠道菌群世界。\n地点: 广东科学中心\n时间: 2026-07-15 至 2026-10-15\n详情: https://www.gdsc.org.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:382d43ec8d4d32a8@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260901
-SUMMARY:假日科学派——2026暑期十大主题活动
-LOCATION:广东科学中心
-DESCRIPTION:广东科学中心暑期推出十大主题科学活动，涵盖机器人、天文、化学、生物等领域。\n地点: 广东科学中心\n时间: 2026-07-15 至 2026-08-31\n详情: https://www.gdsc.org.cn
-END:VEVENT
-BEGIN:VEVENT
 UID:17ac956b438dfd98@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260716
@@ -2999,15 +2675,6 @@ DTEND;VALUE=DATE:20260720
 SUMMARY:“大有可叙·灵感群岛”艺术市集
 LOCATION:华侨城创意文化园
 DESCRIPTION:“大有可叙·灵感群岛”艺术市集，华侨城创意文化园OCAT B10馆。免费入场，免预约。地铁1号线侨城东站A口。\n地点: 华侨城创意文化园\n时间: 2026-07-16 至 2026-07-19\n详情: https://www.oct-loft.com
-END:VEVENT
-BEGIN:VEVENT
-UID:6b3f04b43a3e11c3@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260720
-SUMMARY:龙马社原创话剧《断金》
-LOCATION:上海文化广场
-DESCRIPTION:邹静之编剧，张国立、王刚、张铁林主演话剧《断金》。三位老艺术家并肩登台。票价280-1380元。地铁9号线/12号线嘉善路站。\n地点: 上海文化广场\n时间: 2026-07-16 至 2026-07-19\n详情: https://www.shcstheatre.com/program/programlist_easy.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:91b696bde25ef203@shenzhen-exhibitions
@@ -3044,42 +2711,6 @@ DTEND;VALUE=DATE:20260807
 SUMMARY:星丛——青春心印十二年工笔画艺术生态展
 LOCATION:关山月美术馆
 DESCRIPTION:星丛：青春心印十二年工笔画艺术生态展，关山月美术馆。聚焦12位艺术家，汇集绘画、手稿与日常物件。免费免预约。\n地点: 关山月美术馆\n时间: 2026-07-17 至 2026-08-06\n详情: https://m.sohu.com/a/1043651578_121124668/
-END:VEVENT
-BEGIN:VEVENT
-UID:f1c080a49f637916@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260719
-SUMMARY:2026广州艺术季 华人之光·芭蕾明星GALA
-LOCATION:广州大剧院
-DESCRIPTION:敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://www.gzdjy.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ece6e3e38189ea09@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260721
-SUMMARY:国家大剧院原创喜歌剧《三打白骨精》
-LOCATION:国家大剧院
-DESCRIPTION:国家大剧院原创喜歌剧《三打白骨精》，取材西游记经典故事。戏剧场，票价100-500元。地铁1号线天安门西站。\n地点: 国家大剧院\n时间: 2026-07-17 至 2026-07-20\n详情: https://ticket.chncpa.org
-END:VEVENT
-BEGIN:VEVENT
-UID:41c3b8452ea5971a@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260721
-SUMMARY:WAIC 2026世界人工智能大会
-LOCATION:上海世博展览馆
-DESCRIPTION:2026世界人工智能大会，汇聚全球AI领域顶尖专家与企业，展示最新技术成果。\n地点: 上海世博展览馆\n时间: 2026-07-17 至 2026-07-20\n详情: https://www.worldaic.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:fd990144e17e1270@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260831
-SUMMARY:虫友：寻访甲虫世界
-LOCATION:广东省博物馆
-DESCRIPTION:广东省博物馆暑期昆虫主题特展，近距离探索甲虫的奇妙世界。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://www.gdmuseum.com
 END:VEVENT
 BEGIN:VEVENT
 UID:df4b0853695421cd@shenzhen-exhibitions
@@ -3352,24 +2983,6 @@ LOCATION:深圳滨海艺术中心
 DESCRIPTION:《新时代的脉搏》-国际管乐学院音乐节亚洲巡演专场音乐会，歌剧厅演出。公益票50元、99元。深圳滨海艺术中心官网购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-27 至 2026-07-27\n详情: http://ebook.szbo.com.cn/ticketlist.html
 END:VEVENT
 BEGIN:VEVENT
-UID:31c29c196cac894d@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260801
-SUMMARY:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》
-LOCATION:广州大剧院
-DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-30 至 2026-07-31\n详情: http://www.gzdjy.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:190942621d8d1d04@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260802
-SUMMARY:音乐剧《粉丝来信》中文版
-LOCATION:上海文化广场
-DESCRIPTION:音乐剧《粉丝来信》中文版，八轮演出口碑之作。票价80-680元。地铁9号线/12号线嘉善路站。\n地点: 上海文化广场\n时间: 2026-07-30 至 2026-08-01\n详情: https://www.shcstheatre.com/program/programlist_easy.aspx
-END:VEVENT
-BEGIN:VEVENT
 UID:dbe5a1bdee58263a@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260731
@@ -3377,24 +2990,6 @@ DTEND;VALUE=DATE:20260802
 SUMMARY:《在巴黎的星空下》芭蕾明星精品荟萃
 LOCATION:深圳滨海艺术中心
 DESCRIPTION:2026 UNDER THE STARS OF PARIS 在巴黎的星空下 芭蕾明星精品荟萃，深圳文博会艺术季。歌剧厅演出。票价公益票50元，180/280/380/580/680/880元。深圳滨海艺术中心官网购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-31 至 2026-08-01\n详情: http://ebook.szbo.com.cn/ticketlist.html
-END:VEVENT
-BEGIN:VEVENT
-UID:29dca7e644fe4f96@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260803
-SUMMARY:2026亚洲设计艺术与收藏玩具展
-LOCATION:北京展览馆
-DESCRIPTION:涵盖手办、雕像、潮流艺术品、可动人形、积木、手作等品类的专业展会。\n地点: 北京展览馆\n时间: 2026-07-31 至 2026-08-02\n详情: https://www.beijing.gov.cn/fwcj/calendar/zlzh/6a429b219405807783d024a5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:7da7089859525e83@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20261101
-SUMMARY:不止于闺阁——宋金女性生活展
-LOCATION:南越王博物院（王宫展区）
-DESCRIPTION:南越王博物院宋金时期女性生活主题展，展示古代女性的日常生活与精神世界。\n地点: 南越王博物院（王宫展区）\n时间: 2026-07-31 至 2026-10-31\n详情: https://www.nywmuseum.org.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:6d3e8027af463b0e@shenzhen-exhibitions
@@ -3532,24 +3127,6 @@ LOCATION:深圳音乐厅
 DESCRIPTION:青年钢琴家独奏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-10 至 2026-08-10\n详情: https://www.shenzhenconcerthall.com
 END:VEVENT
 BEGIN:VEVENT
-UID:d3597797b42ae8d9@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260819
-SUMMARY:2026上海书展
-LOCATION:上海展览中心
-DESCRIPTION:2026上海书展暨书香中国上海周，上海年度最大规模图书文化盛会。\n地点: 上海展览中心\n时间: 2026-08-12 至 2026-08-18\n详情: https://www.shbookfair.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:eb5775d0a65d75b7@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260816
-SUMMARY:杨丽萍作品舞蹈剧场2026版《十面埋伏》
-LOCATION:广州大剧院
-DESCRIPTION:杨丽萍巅峰力作舞蹈剧场2026版《十面埋伏》，融合京剧、武术、民乐、装置艺术。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-14 至 2026-08-15\n详情: http://www.gzdjy.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:282f8963fd96622d@shenzhen-exhibitions
 DTSTAMP:20260711T031853Z
 DTSTART;VALUE=DATE:20260815
@@ -3620,15 +3197,6 @@ DTEND;VALUE=DATE:20260829
 SUMMARY:中超联赛 深圳新鹏城 vs 上海海港
 LOCATION:深圳市体育中心体育场
 DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。\n地点: 深圳市体育中心体育场\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.szsportscenter.com
-END:VEVENT
-BEGIN:VEVENT
-UID:20a401597dbfeb3f@shenzhen-exhibitions
-DTSTAMP:20260711T031853Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:陕西人艺茅奖系列话剧《主角》
-LOCATION:广州大剧院
-DESCRIPTION:陕西人艺茅奖系列话剧《主角》，根据陈彦同名小说改编，讲述秦腔名伶忆秦娥的传奇人生。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-29 至 2026-08-30\n详情: http://www.gzdjy.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:af313f300f850f59@shenzhen-exhibitions

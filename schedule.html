@@ -551,6 +551,54 @@
             margin-bottom: 12px;
             text-align: right;
         }
+
+        .city-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+
+        .city-tab {
+            flex: 1;
+            padding: 12px 16px;
+            background: var(--surface);
+            border: 1.5px solid var(--border-strong);
+            border-radius: var(--radius-lg);
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            color: var(--text-secondary);
+            text-align: center;
+        }
+
+        .city-tab.active {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-color: var(--sand-primary);
+            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
+            font-weight: 600;
+        }
+
+        .city-tab:hover:not(.active) {
+            border-color: var(--sand-light);
+            color: var(--sand-dark);
+            background: var(--sand-50);
+        }
+
+        .city-hint {
+            padding: 10px 14px;
+            background: var(--sand-50);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .city-hint strong {
+            color: var(--sand-dark);
+        }
     </style>
     <!-- 不蒜子统计 -->
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -590,6 +638,19 @@
         </div>
         
         <div class="content">
+            <div class="section">
+                <h2>选择城市</h2>
+                <div class="city-tabs" id="city-tabs">
+                    <button class="city-tab active" data-city="shenzhen" onclick="switchCity('shenzhen')">深圳</button>
+                    <button class="city-tab" data-city="guangzhou" onclick="switchCity('guangzhou')">广州</button>
+                    <button class="city-tab" data-city="shanghai" onclick="switchCity('shanghai')">上海</button>
+                    <button class="city-tab" data-city="beijing" onclick="switchCity('beijing')">北京</button>
+                </div>
+                <div class="city-hint" id="city-hint">
+                    💡 订阅后将只接收 <strong id="city-hint-name">深圳</strong> 的活动日程，避免冗余提醒
+                </div>
+            </div>
+            
             <div class="section">
                 <h2>一键订阅</h2>
                 <div class="platform-tabs" style="margin-bottom: 16px;">
@@ -712,7 +773,7 @@
             <div class="section">
                 <h2>功能特点</h2>
                 <ul class="feature-list">
-                    <li><span class="check-icon">✓</span>覆盖深圳、广州、上海、北京四城活动</li>
+                    <li><span class="check-icon">✓</span>按城市订阅，只接收你关心的活动</li>
                     <li><span class="check-icon">✓</span>支持 iOS / Android 原生日历</li>
                     <li><span class="check-icon">✓</span>订阅后自动同步更新</li>
                     <li><span class="check-icon">✓</span>无需安装任何 App</li>
@@ -774,6 +835,49 @@
     </div>
     
     <script>
+        let currentCity = 'shenzhen';
+        const cityNames = {
+            'shenzhen': '深圳',
+            'guangzhou': '广州',
+            'shanghai': '上海',
+            'beijing': '北京'
+        };
+        const baseUrl = 'https://islon.github.io/goout/output';
+
+        function switchCity(city) {
+            currentCity = city;
+            
+            document.querySelectorAll('.city-tab').forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.city === city);
+            });
+            
+            document.getElementById('city-hint-name').textContent = cityNames[city];
+            
+            updateSubscribeLinks();
+            loadExhibitions();
+        }
+
+        function updateSubscribeLinks() {
+            const icsUrl = `${baseUrl}/exhibitions_${currentCity}.ics`;
+            const webcalUrl = `webcal://islon.github.io/goout/output/exhibitions_${currentCity}.ics`;
+            
+            const iosBtn = document.querySelector('#ios-subscribe .subscribe-btn');
+            if (iosBtn) {
+                iosBtn.href = webcalUrl;
+                iosBtn.onclick = () => trackEvent('订阅', 'iOS添加日历', cityNames[currentCity]);
+            }
+            
+            const androidBtn = document.querySelector('#android-subscribe .subscribe-btn');
+            if (androidBtn) {
+                androidBtn.href = icsUrl;
+            }
+            
+            const rssLink = document.querySelector('a[href*="exhibitions.rss"]');
+            if (rssLink) {
+                rssLink.href = `output/exhibitions_${currentCity}.rss`;
+            }
+        }
+
         function switchPlatform(platform) {
             document.querySelectorAll('.platform-tabs button').forEach(tab => tab.classList.remove('active'));
             event.target.classList.add('active');
@@ -792,7 +896,7 @@
         }
         
         function copySubscribeUrl() {
-            const url = 'https://islon.github.io/goout/output/exhibitions.ics';
+            const url = `${baseUrl}/exhibitions_${currentCity}.ics`;
             const btn = event.target;
             const originalText = btn.textContent;
             
@@ -885,20 +989,20 @@
             listContainer.style.display = 'block';
             errorContainer.style.display = 'none';
             
-            fetch('output/exhibitions.json')
+            fetch(`output/exhibitions_${currentCity}.json`)
                 .then(response => response.json())
                 .then(exhibitions => {
                     listContainer.innerHTML = '';
                     
                     if (exhibitions.length === 0) {
-                        listContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: #999;">暂无展览数据</div>';
+                        listContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: #999;">暂无活动数据</div>';
                         return;
                     }
                     
                     const currentDate = new Date().toISOString().split('T')[0];
                     const futureExhibitions = exhibitions.filter(e => e.start_date >= currentDate).slice(0, 20);
                     
-                    listContainer.innerHTML = `<div class="exhibition-count">共 ${exhibitions.length} 个展览，显示最近 ${futureExhibitions.length} 个</div>`;
+                    listContainer.innerHTML = `<div class="exhibition-count">共 ${exhibitions.length} 个${cityNames[currentCity]}活动，显示最近 ${futureExhibitions.length} 个</div>`;
                     
                     futureExhibitions.forEach(exhibition => {
                         const card = document.createElement('div');
@@ -932,7 +1036,10 @@
                 });
         }
         
-        window.addEventListener('DOMContentLoaded', loadExhibitions);
+        window.addEventListener('DOMContentLoaded', () => {
+            updateSubscribeLinks();
+            loadExhibitions();
+        });
     </script>
 </body>
 </html>

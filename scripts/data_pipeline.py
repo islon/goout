@@ -418,6 +418,23 @@ def main():
         f.write(ics_content)
     print(f"ICS日历已生成到 {ics_path}")
 
+    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing']
+    for city_code in city_codes:
+        city_activities = [a for a in activities if a.get('city') == city_code]
+        if not city_activities:
+            continue
+
+        city_json_path = os.path.join(OUTPUT_DIR, f'exhibitions_{city_code}.json')
+        with open(city_json_path, 'w', encoding='utf-8') as f:
+            json.dump(city_activities, f, ensure_ascii=False, indent=2)
+        print(f"  [{city_code}] JSON: {len(city_activities)} 条 -> {city_json_path}")
+
+        city_ics = create_ics(city_activities)
+        city_ics_path = os.path.join(OUTPUT_DIR, f'exhibitions_{city_code}.ics')
+        with open(city_ics_path, 'w', encoding='utf-8') as f:
+            f.write(city_ics)
+        print(f"  [{city_code}] ICS -> {city_ics_path}")
+
     try:
         generate_rss()
         print("RSS订阅已生成")
