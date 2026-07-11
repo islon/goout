@@ -1159,6 +1159,7 @@
             <button class="filter-btn" data-district="白云区" data-city="guangzhou" style="display:none;">白云区</button>
             <button class="filter-btn" data-district="黄埔区" data-city="guangzhou" style="display:none;">黄埔区</button>
             <button class="filter-btn" data-district="番禺区" data-city="guangzhou" style="display:none;">番禺区</button>
+            <button class="filter-btn" data-district="南沙区" data-city="guangzhou" style="display:none;">南沙区</button>
             <button class="filter-btn" data-district="黄浦区" data-city="shanghai" style="display:none;">黄浦区</button>
             <button class="filter-btn" data-district="徐汇区" data-city="shanghai" style="display:none;">徐汇区</button>
             <button class="filter-btn" data-district="浦东新区" data-city="shanghai" style="display:none;">浦东新区</button>
@@ -1167,6 +1168,7 @@
             <button class="filter-btn" data-district="虹口区" data-city="shanghai" style="display:none;">虹口区</button>
             <button class="filter-btn" data-district="闵行区" data-city="shanghai" style="display:none;">闵行区</button>
             <button class="filter-btn" data-district="金山区" data-city="shanghai" style="display:none;">金山区</button>
+            <button class="filter-btn" data-district="长宁区" data-city="shanghai" style="display:none;">长宁区</button>
             <button class="filter-btn" data-district="东城区" data-city="beijing" style="display:none;">东城区</button>
             <button class="filter-btn" data-district="西城区" data-city="beijing" style="display:none;">西城区</button>
             <button class="filter-btn" data-district="朝阳区" data-city="beijing" style="display:none;">朝阳区</button>
@@ -1246,7 +1248,21 @@
             <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
             <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
             <button class="filter-btn" data-source="hlgw" data-city="shenzhen">欢乐港湾</button>
+            <!-- 上海其他场馆 -->
+            <button class="filter-btn" data-source="sh_children_lib" data-city="shanghai" style="display:none;">上海少年儿童图书馆</button>
+            <button class="filter-btn" data-source="shsng" data-city="shanghai" style="display:none;">上海市少年宫</button>
+            <button class="filter-btn" data-source="shqyg" data-city="shanghai" style="display:none;">上海市群众艺术馆</button>
+            <button class="filter-btn" data-source="qiantan_taikooli" data-city="shanghai" style="display:none;">前滩太古里</button>
+            <button class="filter-btn" data-source="xuhui_riverside" data-city="shanghai" style="display:none;">徐汇西岸滨江</button>
+            <button class="filter-btn" data-source="beitang_raffles" data-city="shanghai" style="display:none;">北外滩来福士广场</button>
             <!-- 广州场馆 -->
+            <button class="filter-btn" data-source="gzlib" data-city="guangzhou" style="display:none;">广州图书馆</button>
+            <button class="filter-btn" data-source="gz_children_lib" data-city="guangzhou" style="display:none;">广州少年儿童图书馆</button>
+            <button class="filter-btn" data-source="gzsng" data-city="guangzhou" style="display:none;">广州市少年宫</button>
+            <button class="filter-btn" data-source="gzwhg" data-city="guangzhou" style="display:none;">广州市文化馆</button>
+            <button class="filter-btn" data-source="yongqingfang" data-city="guangzhou" style="display:none;">永庆坊</button>
+            <button class="filter-btn" data-source="canton_tower_riverside" data-city="guangzhou" style="display:none;">广州塔珠江滨水步道</button>
+            <button class="filter-btn" data-source="nansha_coastal" data-city="guangzhou" style="display:none;">南沙滨海公园</button>
             <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
             <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
             <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
@@ -1303,6 +1319,11 @@
             <button class="filter-btn" data-source="kaogu" data-city="beijing" style="display:none;">中国考古博物馆</button>
             <button class="filter-btn" data-source="bjgjz" data-city="beijing" style="display:none;">北京古代建筑博物馆</button>
             <button class="filter-btn" data-source="cykjg" data-city="beijing" style="display:none;">朝阳区科技馆</button>
+            <button class="filter-btn" data-source="bjqsng" data-city="beijing" style="display:none;">北京市青少年活动中心</button>
+            <button class="filter-btn" data-source="cyqsng" data-city="beijing" style="display:none;">朝阳区青少年活动中心</button>
+            <button class="filter-btn" data-source="shougang" data-city="beijing" style="display:none;">首钢园·六工汇</button>
+            <button class="filter-btn" data-source="tongzhou_canal" data-city="beijing" style="display:none;">通州运河文化广场</button>
+            <button class="filter-btn" data-source="aosen" data-city="beijing" style="display:none;">奥林匹克森林公园</button>
         </div>
         <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
     </div>
@@ -1384,6 +1405,7 @@
                     <button class="filter-btn" data-district="白云区" data-city="guangzhou" style="display:none;">白云区</button>
                     <button class="filter-btn" data-district="黄埔区" data-city="guangzhou" style="display:none;">黄埔区</button>
                     <button class="filter-btn" data-district="番禺区" data-city="guangzhou" style="display:none;">番禺区</button>
+                    <button class="filter-btn" data-district="南沙区" data-city="guangzhou" style="display:none;">南沙区</button>
                     <button class="filter-btn" data-district="黄浦区" data-city="shanghai" style="display:none;">黄浦区</button>
                     <button class="filter-btn" data-district="徐汇区" data-city="shanghai" style="display:none;">徐汇区</button>
                     <button class="filter-btn" data-district="浦东新区" data-city="shanghai" style="display:none;">浦东新区</button>
@@ -1392,6 +1414,7 @@
                     <button class="filter-btn" data-district="虹口区" data-city="shanghai" style="display:none;">虹口区</button>
                     <button class="filter-btn" data-district="闵行区" data-city="shanghai" style="display:none;">闵行区</button>
                     <button class="filter-btn" data-district="金山区" data-city="shanghai" style="display:none;">金山区</button>
+                    <button class="filter-btn" data-district="长宁区" data-city="shanghai" style="display:none;">长宁区</button>
                     <button class="filter-btn" data-district="东城区" data-city="beijing" style="display:none;">东城区</button>
                     <button class="filter-btn" data-district="西城区" data-city="beijing" style="display:none;">西城区</button>
                     <button class="filter-btn" data-district="朝阳区" data-city="beijing" style="display:none;">朝阳区</button>
@@ -1471,7 +1494,21 @@
                     <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
                     <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
                     <button class="filter-btn" data-source="hlgw" data-city="shenzhen">欢乐港湾</button>
+                    <!-- 上海其他场馆 -->
+                    <button class="filter-btn" data-source="sh_children_lib" data-city="shanghai" style="display:none;">上海少年儿童图书馆</button>
+                    <button class="filter-btn" data-source="shsng" data-city="shanghai" style="display:none;">上海市少年宫</button>
+                    <button class="filter-btn" data-source="shqyg" data-city="shanghai" style="display:none;">上海市群众艺术馆</button>
+                    <button class="filter-btn" data-source="qiantan_taikooli" data-city="shanghai" style="display:none;">前滩太古里</button>
+                    <button class="filter-btn" data-source="xuhui_riverside" data-city="shanghai" style="display:none;">徐汇西岸滨江</button>
+                    <button class="filter-btn" data-source="beitang_raffles" data-city="shanghai" style="display:none;">北外滩来福士广场</button>
                     <!-- 广州场馆 -->
+                    <button class="filter-btn" data-source="gzlib" data-city="guangzhou" style="display:none;">广州图书馆</button>
+                    <button class="filter-btn" data-source="gz_children_lib" data-city="guangzhou" style="display:none;">广州少年儿童图书馆</button>
+                    <button class="filter-btn" data-source="gzsng" data-city="guangzhou" style="display:none;">广州市少年宫</button>
+                    <button class="filter-btn" data-source="gzwhg" data-city="guangzhou" style="display:none;">广州市文化馆</button>
+                    <button class="filter-btn" data-source="yongqingfang" data-city="guangzhou" style="display:none;">永庆坊</button>
+                    <button class="filter-btn" data-source="canton_tower_riverside" data-city="guangzhou" style="display:none;">广州塔珠江滨水步道</button>
+                    <button class="filter-btn" data-source="nansha_coastal" data-city="guangzhou" style="display:none;">南沙滨海公园</button>
                     <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
                     <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
                     <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
@@ -1518,6 +1555,11 @@
                     <button class="filter-btn" data-source="sdmuseum" data-city="beijing" style="display:none;">首都博物馆</button>
                     <button class="filter-btn" data-source="bjlz" data-city="beijing" style="display:none;">北京展览馆</button>
                     <button class="filter-btn" data-source="cykjg" data-city="beijing" style="display:none;">朝阳区科技馆</button>
+                    <button class="filter-btn" data-source="bjqsng" data-city="beijing" style="display:none;">北京市青少年活动中心</button>
+                    <button class="filter-btn" data-source="cyqsng" data-city="beijing" style="display:none;">朝阳区青少年活动中心</button>
+                    <button class="filter-btn" data-source="shougang" data-city="beijing" style="display:none;">首钢园·六工汇</button>
+                    <button class="filter-btn" data-source="tongzhou_canal" data-city="beijing" style="display:none;">通州运河文化广场</button>
+                    <button class="filter-btn" data-source="aosen" data-city="beijing" style="display:none;">奥林匹克森林公园</button>
                 </div>
                 <button class="sidebar-expand-btn" id="sidebar-source-expand-btn" onclick="toggleSidebarSourceFilter()">展开更多 ▼</button>
             </div>
@@ -1747,6 +1789,27 @@
             'gzartmuseum': '海珠区',
             'gzcec': '海珠区',
             'cykjg': '朝阳区',
+            // 北京新增
+            'bjqsng': '西城区',
+            'cyqsng': '朝阳区',
+            'shougang': '石景山区',
+            'tongzhou_canal': '通州区',
+            'aosen': '朝阳区',
+            // 上海新增
+            'sh_children_lib': '静安区',
+            'shsng': '长宁区',
+            'shqyg': '徐汇区',
+            'qiantan_taikooli': '浦东新区',
+            'xuhui_riverside': '徐汇区',
+            'beitang_raffles': '虹口区',
+            // 广州新增
+            'gzlib': '天河区',
+            'gz_children_lib': '越秀区',
+            'gzsng': '荔湾区',
+            'gzwhg': '海珠区',
+            'yongqingfang': '荔湾区',
+            'canton_tower_riverside': '海珠区',
+            'nansha_coastal': '南沙区',
         };
 
         function getDistrict(source) {
@@ -1836,6 +1899,27 @@
             'gzartmuseum': '广州美术馆',
             'gzcec': '广交会展馆',
             'cykjg': '朝阳区科技馆',
+            // 北京新增
+            'bjqsng': '北京市青少年活动中心',
+            'cyqsng': '朝阳区青少年活动中心',
+            'shougang': '首钢园·六工汇',
+            'tongzhou_canal': '通州运河文化广场',
+            'aosen': '奥林匹克森林公园',
+            // 上海新增
+            'sh_children_lib': '上海少年儿童图书馆',
+            'shsng': '上海市少年宫',
+            'shqyg': '上海市群众艺术馆',
+            'qiantan_taikooli': '前滩太古里',
+            'xuhui_riverside': '徐汇西岸滨江',
+            'beitang_raffles': '北外滩来福士广场',
+            // 广州新增
+            'gzlib': '广州图书馆',
+            'gz_children_lib': '广州少年儿童图书馆',
+            'gzsng': '广州市少年宫',
+            'gzwhg': '广州市文化馆',
+            'yongqingfang': '永庆坊',
+            'canton_tower_riverside': '广州塔珠江滨水步道',
+            'nansha_coastal': '南沙滨海公园',
         };
 
         function matchSource(exhibition, sourceKey) {
@@ -2411,7 +2495,28 @@
             'gdsci': '越秀区连新路171号',
             'gzartmuseum': '海珠区艺苑路198号',
             'gzcec': '海珠区阅江中路380号',
-            'cykjg': '朝阳区安华里五区'
+            'cykjg': '朝阳区安华里五区',
+            // 北京新增
+            'bjqsng': '西城区平安里西大街43号',
+            'cyqsng': '朝阳区红庙路口',
+            'shougang': '石景山区石景山路68号首钢园',
+            'tongzhou_canal': '通州区新华北路与东关大街交叉口',
+            'aosen': '朝阳区奥林匹克公园',
+            // 上海新增
+            'sh_children_lib': '静安区南京西路962号',
+            'shsng': '长宁区愚园路641号',
+            'shqyg': '徐汇区古宜路157号',
+            'qiantan_taikooli': '浦东新区东育路500弄1-9号',
+            'xuhui_riverside': '徐汇区龙腾大道沿江全线',
+            'beitang_raffles': '虹口区东大名路999号',
+            // 广州新增
+            'gzlib': '天河区珠江东路4号',
+            'gz_children_lib': '越秀区中山四路42号',
+            'gzsng': '荔湾区东风西路167号',
+            'gzwhg': '海珠区新滘中路288号',
+            'yongqingfang': '荔湾区恩宁路99号',
+            'canton_tower_riverside': '海珠区阅江西路珠江沿岸',
+            'nansha_coastal': '南沙区双山大道与海滨路沿线'
         };
 
         function getVenueAddress(source) {
