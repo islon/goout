@@ -982,7 +982,24 @@
                 }
             });
         }
-        
+
+        let scheduleVenueInfo = null;
+
+        async function loadScheduleVenueInfo() {
+            if (scheduleVenueInfo) return scheduleVenueInfo;
+            try {
+                const resp = await fetch('output/venue_info.json');
+                if (!resp.ok) return null;
+                const list = await resp.json();
+                scheduleVenueInfo = {};
+                list.forEach(v => {
+                    if (v.source) scheduleVenueInfo[v.source] = v;
+                    if (v.name) scheduleVenueInfo[v.name] = v;
+                });
+                return scheduleVenueInfo;
+            } catch(e) { return null; }
+        }
+
         function loadExhibitions() {
             const listContainer = document.getElementById('exhibition-list');
             const errorContainer = document.getElementById('exhibition-error');
@@ -1008,25 +1025,32 @@
                     futureExhibitions.forEach(exhibition => {
                         const card = document.createElement('div');
                         card.className = `exhibition-card ${exhibition.source || 'szcec'}`;
-                        
+
                         const startDate = exhibition.start_date;
                         const endDate = exhibition.end_date;
                         const dateDisplay = startDate === endDate ? startDate : `${startDate} ~ ${endDate}`;
-                        
+
                         const isFree = exhibition.venue.includes('图书馆') || exhibition.venue.includes('科技馆') || exhibition.venue.includes('湾区之眼');
-                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' : 
+                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' :
                                          exhibition.venue.includes('会展中心') || exhibition.venue.includes('体育') ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
-                        
+
+                        // 场馆信息
+                        const vinfo = scheduleVenueInfo ? (scheduleVenueInfo[exhibition.source] || scheduleVenueInfo[exhibition.venue]) : null;
+                        const typeTag = vinfo && vinfo.type ? `<span style="margin-left:6px;padding:2px 8px;background:#f0f7ff;color:#0891b2;border-radius:4px;font-size:11px;font-weight:500;">${vinfo.type}</span>` : '';
+                        const venueDesc = vinfo && vinfo.description ? `<div style="margin-top:4px;font-size:12px;color:#78716c;line-height:1.5;">💡 ${vinfo.description}</div>` : '';
+                        const venueAddr = vinfo && vinfo.address && vinfo.address !== '待补充' ? ` · ${vinfo.address}` : '';
+
                         card.innerHTML = `
-                            <div class="exhibition-title">${exhibition.name}${feeBadge}</div>
+                            <div class="exhibition-title">${exhibition.name}${feeBadge}${typeTag}</div>
                             <div class="exhibition-meta">
                                 <span>📅 ${dateDisplay}</span>
-                                <span>📍 ${exhibition.venue}</span>
+                                <span>📍 ${exhibition.venue}${venueAddr ? '<br><span style="font-size:11px;color:#a8a29e;">' + venueAddr + '</span>' : ''}</span>
                             </div>
                             ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
+                            ${venueDesc}
                             ${exhibition.url ? `<a href="${exhibition.url}" target="_blank" class="exhibition-link">🔗 查看详情</a>` : ''}
                         `;
-                        
+
                         listContainer.appendChild(card);
                     });
                 })
@@ -1039,7 +1063,7 @@
         
         window.addEventListener('DOMContentLoaded', () => {
             updateSubscribeLinks();
-            loadExhibitions();
+            loadScheduleVenueInfo().then(() => loadExhibitions());
         });
     </script>
 </body>

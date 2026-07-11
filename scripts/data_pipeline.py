@@ -435,6 +435,14 @@ def main():
             f.write(city_ics)
         print(f"  [{city_code}] ICS -> {city_ics_path}")
 
+    # 复制场馆信息文件到 output 目录
+    venue_info_src = os.path.join(os.path.dirname(__file__), 'venue_info.json')
+    if os.path.exists(venue_info_src):
+        import shutil
+        venue_info_dst = os.path.join(OUTPUT_DIR, 'venue_info.json')
+        shutil.copy2(venue_info_src, venue_info_dst)
+        print(f"场馆信息已复制到 {venue_info_dst}")
+
     try:
         generate_rss()
         print("RSS订阅已生成")
