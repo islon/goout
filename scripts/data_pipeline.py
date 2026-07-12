@@ -6,6 +6,47 @@ import ssl
 import warnings
 from datetime import datetime, timedelta
 
+ALLOWED_FEES = {"免费", "免费需预约", "收费", "部分免费", "需购票"}
+
+VENUE_DISTRICT_KEYWORDS = {
+    "南山区": ["南山", "南头", "蛇口", "科技园", "华侨城", "前海", "后海"],
+    "福田区": ["福田", "市中心", "华强北", "CBD"],
+    "罗湖区": ["罗湖", "东门", "笋岗"],
+    "宝安区": ["宝安", "沙井", "福永", "西乡", "松岗"],
+    "龙岗区": ["龙岗", "坪山", "横岗", "布吉"],
+    "龙华区": ["龙华", "观澜"],
+    "光明区": ["光明"],
+    "盐田区": ["盐田", "沙头角"],
+    "大鹏新区": ["大鹏", "葵涌", "南澳"],
+    "坪山区": ["坪山"],
+}
+
+DISTRICT_SOURCE_MAP = {
+    "南山区": ["nsmuseum", "nslib", "nswhg", "nsaqjy", "nssxf", "nswtzx", "nsqsng", "oct_wetland", "octohbay", "ntgc"],
+    "福田区": ["szlib", "sz_children_lib", "szwty", "szcec"],
+    "罗湖区": ["skhykpg"],
+    "宝安区": ["baoan_1990", "balib", "zsjbwg", "shenzhen_world"],
+    "龙岗区": ["lg_hakka"],
+    "龙华区": ["lh_paleo", "lh_ecology", "lh_printmaking"],
+    "光明区": ["gm_lib", "gm_kjg", "sz_safety"],
+    "盐田区": ["sarc", "yt_history", "yt_lib"],
+    "大鹏新区": ["dp_geopark", "dp_nuclear"],
+    "坪山区": ["ps_nature"],
+}
+
+CATEGORY_DESC = {
+    "展览": "展览活动，欢迎市民前往参观欣赏",
+    "演出": "精彩演出活动，带来视听盛宴",
+    "讲座阅读": "讲座阅读活动，丰富知识视野",
+    "亲子活动": "亲子互动活动，增进家庭感情",
+    "培训": "培训课程活动，提升技能水平",
+    "综合": "综合性文化活动，内容丰富多样",
+    "科普活动": "科普教育活动，探索科学奥秘",
+    "体育赛事": "体育赛事活动，感受运动激情",
+    "影视放映": "影视放映活动，享受观影乐趣",
+    "其他": "文化活动",
+}
+
 # 全局禁用 SSL 验证（gov.cn 网站证书有 BAD_ECPOINT 问题）
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -76,6 +117,55 @@ CATEGORY_KEYWORDS = {
 }
 
 
+def detect_district_from_venue(venue):
+    for district, keywords in VENUE_DISTRICT_KEYWORDS.items():
+        for keyword in keywords:
+            if keyword in venue:
+                return district
+    return None
+
+
+def fix_single_activity(activity):
+    fixed_count = 0
+    
+    fee = activity.get("fee", "")
+    if fee and fee not in ALLOWED_FEES:
+        activity["fee"] = "免费"
+        fixed_count += 1
+    
+    description = activity.get("description", "")
+    if len(description) < 10:
+        title = activity.get("title", "")
+        category = activity.get("category", "")
+        fee_text = activity.get("fee", "")
+        venue = activity.get("venue", "")
+        
+        base_desc = CATEGORY_DESC.get(category, "文化活动")
+        desc_parts = []
+        if fee_text:
+            desc_parts.append(fee_text)
+        if venue:
+            desc_parts.append(f"地点：{venue}")
+        if title:
+            desc_parts.append(f"{title}。{base_desc}")
+        
+        activity["description"] = "。".join(desc_parts)
+        fixed_count += 1
+    
+    source = activity.get("source", "")
+    venue = activity.get("venue", "")
+    
+    detected_district = detect_district_from_venue(venue)
+    if detected_district and source in ["nswtzx", "nsqsng"]:
+        if detected_district != "南山区":
+            candidates = DISTRICT_SOURCE_MAP.get(detected_district, [])
+            if candidates:
+                activity["source"] = candidates[0]
+                fixed_count += 1
+    
+    return fixed_count
+
+
 def normalize_activity(raw, venue_default=''):
     title = raw.get('title') or raw.get('name') or ''
     link = raw.get('link') or raw.get('url') or ''
@@ -114,6 +204,8 @@ def normalize_activity(raw, venue_default=''):
 
     if 'types' in raw:
         result['types'] = raw['types']
+
+    fix_single_activity(result)
 
     return result
 
