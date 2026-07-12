@@ -3022,39 +3022,59 @@
             
             fetchAndCache();
             
-            function fetchAndCache() {
-                fetch('output/exhibitions.json', { cache: 'no-cache' })
-                    .then(response => {
-                        const newVersion = response.headers.get('etag') || response.headers.get('last-modified') || String(Date.now());
-                        response.json().then(exhibitions => {
-                            exhibitions.forEach(e => e.city = normalizeCity(e.city));
-                            if (newVersion !== cachedVersion || !cachedData) {
-                                localStorage.setItem(cacheKey, JSON.stringify(exhibitions));
-                                localStorage.setItem(versionKey, newVersion);
-                                allExhibitions = exhibitions;
-                                initFilters();
-                                renderExhibitions();
-                                console.log('数据已更新，版本:', newVersion);
-                            } else {
-                                console.log('数据未变化，跳过更新');
-                            }
-                            localStorage.setItem(lastCheckKey, String(Date.now()));
+            async function fetchAndCache() {
+                const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing'];
+                let allData = [];
+                let latestVersion = '';
+                let anySuccess = false;
+                let firstError = null;
+
+                for (const city of cities) {
+                    try {
+                        const resp = await fetch('output/exhibitions_' + city + '.json', { cache: 'no-cache' });
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        const ver = resp.headers.get('etag') || resp.headers.get('last-modified') || '';
+                        if (ver > latestVersion) latestVersion = ver;
+                        const data = await resp.json();
+                        data.forEach(e => {
+                            e.city = normalizeCity(e.city || city);
                         });
-                    })
-                    .catch(error => {
-                        if (!cachedData) {
-                            document.getElementById('exhibition-list').innerHTML = `
-                                <div class="empty-state">
-                                    <div class="icon">⚠️</div>
-                                    <div>加载失败</div>
-                                    <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
-                                </div>
-                            `;
-                            console.error('Failed to load exhibitions:', error);
-                        } else {
-                            console.log('网络错误，继续使用缓存数据');
-                        }
-                    });
+                        allData = allData.concat(data);
+                        anySuccess = true;
+                    } catch(e) {
+                        console.warn('加载', city, '数据失败:', e);
+                        if (!firstError) firstError = e;
+                    }
+                }
+
+                if (anySuccess) {
+                    if (latestVersion !== cachedVersion || !cachedData) {
+                        try {
+                            localStorage.setItem(cacheKey, JSON.stringify(allData));
+                            localStorage.setItem(versionKey, latestVersion);
+                        } catch(e) { console.warn('缓存写入失败', e); }
+                        allExhibitions = allData;
+                        initFilters();
+                        renderExhibitions();
+                        console.log('数据已更新，总条数:', allData.length, '版本:', latestVersion);
+                    } else {
+                        console.log('数据未变化，跳过更新');
+                    }
+                    try { localStorage.setItem(lastCheckKey, String(Date.now())); } catch(e) {}
+                } else {
+                    if (!cachedData) {
+                        document.getElementById('exhibition-list').innerHTML = `
+                            <div class="empty-state">
+                                <div class="icon">⚠️</div>
+                                <div>加载失败</div>
+                                <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
+                            </div>
+                        `;
+                        console.error('所有城市数据加载失败:', firstError);
+                    } else {
+                        console.log('网络错误，继续使用缓存数据');
+                    }
+                }
             }
         }
 
