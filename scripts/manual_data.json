@@ -1753,5 +1753,44 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳少年儿童图书馆公众号"
+  },
+  {
+    "title": "北京人艺话剧《寻找春柳社》",
+    "venue": "光明文化艺术中心·演艺中心·音乐厅",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "北京人艺倾情演出，以戏中戏结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明文化艺术中心"
+  },
+  {
+    "title": "北京舞蹈学院舞剧《巍巍正阳》",
+    "venue": "光明文化艺术中心·演艺中心·大剧场",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-19",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "北京舞蹈学院原创舞剧，以正阳门下一家五代人的命运流转，铺展出一幅微缩的中国近现代史长卷。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明文化艺术中心"
+  },
+  {
+    "title": "气泡王国——比利时国宝漫画百年巡礼",
+    "venue": "光明文化艺术中心美术馆3F展厅B",
+    "start_date": "2026-07-02",
+    "end_date": "2026-09-19",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "汇聚九大经典IP，通过珍贵手稿、场景复原、互动装置等展现近百年比利时漫画的艺术传承。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明文化艺术中心"
   }
 ]

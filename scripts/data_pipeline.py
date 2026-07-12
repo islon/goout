@@ -65,6 +65,76 @@ REAL_SCRAPERS = [
 
 MANUAL_DATA_FILE = os.path.join(os.path.dirname(__file__), 'manual_data.json')
 
+VALID_FEE_VALUES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
+
+DISTRICT_KEYWORDS = {
+    '南山': ['南山', 'nanshan', 'ns', '蛇口', '南头', '沙河', '粤海', '招商', '桃源', '西丽', 'nsmuseum', 'nslib', 'nswtzx', 'nswhg', 'nsaqjy', 'skhykpg', 'nsqsng', 'nssxf', 'ntgc', 'zsjbwg', 'sarc', 'oct_wetland', 'szwt', 'shenzhen_world', 'sz_children_lib', 'szmuseum', 'szlib'],
+    '福田': ['福田', 'futian', 'ft', '华强', '莲花', '园岭', '南园', '沙头', '梅林', '华富', '香蜜湖', '福保'],
+    '罗湖': ['罗湖', 'luohu', 'lh', '东门', '翠竹', '南湖', '黄贝', '桂园', '笋岗', '清水河', '莲塘', '东湖', 'lh_paleo'],
+    '宝安': ['宝安', 'baoan', 'ba', '新安', '西乡', '福永', '沙井', '松岗', '石岩', 'balib', 'baoan_1990', 'baoan_kjg', 'baoan_ty', 'bayarea_eye'],
+    '龙岗': ['龙岗', 'longgang', 'lg', '龙城', '龙岗街道', '坂田', '布吉', '南湾', '平湖', '横岗', '坪地', '吉华', '园山', '宝龙', 'lg_hakka', 'lgmuseum'],
+    '龙华': ['龙华', 'longhua', 'lhx', '龙华街道', '民治', '大浪', '观澜', '福城', '观湖', 'lh_ecology', 'lh_printmaking', 'lhmuseum'],
+    '光明': ['光明', 'guangming', 'gm', '光明街道', '公明', '新湖', '凤凰', '玉塘', '马田', '光明文化艺术中心', 'gm_lib', 'gm_kjg', 'gmqsng', 'gmtyzx'],
+    '坪山': ['坪山', 'pingshan', 'ps', '坪山街道', '坑梓', '龙田', '石井', '马峦', '碧岭', 'ps_nature', 'pslib', 'psqsng', 'pstyzx'],
+    '盐田': ['盐田', 'yantian', 'yt', '沙头角', '海山', '盐田街道', '梅沙', '中英街', 'yt_history', 'yt_lib', 'yttyzx'],
+    '大鹏': ['大鹏', 'dapeng', 'dp', '葵涌', '大鹏街道', '南澳', '大亚湾', '地质公园', 'dp_geopark', 'dp_nuclear'],
+}
+
+
+def get_district(text):
+    if not text:
+        return None
+    text_lower = text.lower()
+    for dist, keywords in DISTRICT_KEYWORDS.items():
+        for kw in keywords:
+            if kw.lower() in text_lower:
+                return dist
+    return None
+
+
+def normalize_fee(fee):
+    if not fee:
+        return '免费'
+    fee = fee.strip()
+    if fee in VALID_FEE_VALUES:
+        return fee
+    fee_lower = fee.lower()
+    if '免费' in fee and '预约' in fee:
+        return '免费需预约'
+    if '免费' in fee:
+        return '免费'
+    if '收费' in fee or '票' in fee or '元' in fee:
+        if '需购票' in fee or '购票' in fee:
+            return '需购票'
+        return '收费'
+    if '部分' in fee:
+        return '部分免费'
+    return '免费'
+
+
+def validate_and_fix_activity(activity):
+    if not activity:
+        return None
+    fee = activity.get('fee', '免费')
+    activity['fee'] = normalize_fee(fee)
+    description = activity.get('description', '')
+    title = activity.get('title', '')
+    if len(description) < 10:
+        if description:
+            activity['description'] = f"{title}，{description}。详情请以官方信息为准。"
+        else:
+            activity['description'] = f"{title}活动，详情请以官方信息为准。"
+    if len(activity['description']) > 500:
+        activity['description'] = activity['description'][:500]
+    source = activity.get('source', '')
+    venue = activity.get('venue', '')
+    source_dist = get_district(source)
+    venue_dist = get_district(venue)
+    if source_dist and venue_dist and source_dist != venue_dist:
+        if venue_dist:
+            pass
+    return activity
+
 CATEGORY_KEYWORDS = {
     '展览': ['展', '展览', '博览会', '艺术展', '书画展', '摄影展', '特展', '沉浸展', '推理展', '侨批', '珍品展', '爱丽丝漫游奇境'],
     '讲座阅读': ['讲座', '沙龙', '分享会', '读书', '阅读', '绘本', '故事会', '论坛', '讲', '分享', '签售', '作家', '诗词', '朗诵', '书海探底', '走进图书馆', '参访', '法律', '咨询', '心理', '荟', '悦读', '思辨', '普法', '疗愈', '不被定义', '书法', '合唱', '培训'],
@@ -114,6 +184,8 @@ def normalize_activity(raw, venue_default=''):
 
     if 'types' in raw:
         result['types'] = raw['types']
+
+    result = validate_and_fix_activity(result)
 
     return result
 
