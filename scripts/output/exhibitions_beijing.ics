@@ -23,7 +23,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:60733d5be5c125c3@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260817
 SUMMARY:星辰足迹——月背之约航天主题展
@@ -32,92 +32,47 @@ DESCRIPTION:2026中国航天日重磅科普展，采用珍贵航天实物+大空
 END:VEVENT
 BEGIN:VEVENT
 UID:476ec5be701ea8b8@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20261019
 SUMMARY:玉米·黄金·美洲豹——玛雅与安第斯古代文明大展
 LOCATION:首都博物馆
-DESCRIPTION:约800件文物串联美洲3000余年历史，设NFC手环互动解密，从看展人变文明守护者。\n地点: 首都博物馆\n时间: 2026-05-18 至 2026-10-18\n详情: https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260518_4655125.html
-END:VEVENT
-BEGIN:VEVENT
-UID:44a63f9a1f8f07f6@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260816
-SUMMARY:墨韵文脉——八大山人与17世纪以来中国写意艺术展
-LOCATION:中国美术馆
-DESCRIPTION:系统梳理中国写意画脉，展示八大山人及后世写意画家的精品力作。\n地点: 中国美术馆\n时间: 2026-05-20 至 2026-08-15\n详情: https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html
+DESCRIPTION:约800件文物串联美洲3000余年历史，设NFC手环互动解密。\n地点: 首都博物馆\n时间: 2026-05-18 至 2026-10-18\n详情: https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260518_4655125.html
 END:VEVENT
 BEGIN:VEVENT
 UID:1c452ca8d6b4a684@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260824
 SUMMARY:植物庞贝城——乌达二叠纪化石精品展
 LOCATION:北京自然博物馆
-DESCRIPTION:二叠纪植物化石精品展，展示3亿年前的植物世界，科学性强，适合自然爱好者。\n地点: 北京自然博物馆\n时间: 2026-06-05 至 2026-08-23\n详情: https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html
+DESCRIPTION:二叠纪植物化石精品展，展示3亿年前的植物世界。\n地点: 北京自然博物馆\n时间: 2026-06-05 至 2026-08-23\n详情: https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html
 END:VEVENT
 BEGIN:VEVENT
 UID:29777850dbaf615f@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260910
 SUMMARY:行·迹——卡塔尔游牧生活与文化展
 LOCATION:中国国家博物馆
-DESCRIPTION:国内首次系统性呈现卡塔尔游牧文化，约150件组实物含游牧帐篷、生活器具等，互动性较强。\n地点: 中国国家博物馆\n时间: 2026-06-09 至 2026-09-09\n详情: https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html
-END:VEVENT
-BEGIN:VEVENT
-UID:70c72dffed6de3d8@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20261012
-SUMMARY:巴西魂——波尔蒂纳里艺术展
-LOCATION:中国国家博物馆
-DESCRIPTION:巴西著名画家波尔蒂纳里作品展，展现巴西社会与文化。\n地点: 中国国家博物馆\n时间: 2026-06-10 至 2026-10-11\n详情: https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html
+DESCRIPTION:国内首次系统性呈现卡塔尔游牧文化，约150件组实物含游牧帐篷、生活器具等。\n地点: 中国国家博物馆\n时间: 2026-06-09 至 2026-09-09\n详情: https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html
 END:VEVENT
 BEGIN:VEVENT
 UID:7ced2c03db67f596@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270104
 SUMMARY:哦吼！火星——火星探测与未来生活体验展
 LOCATION:北京天文馆
-DESCRIPTION:火星陨石实物、搭建火星城互动、星际航线规划等展项，暑假连续开放56天不闭馆，延时至19:00。\n地点: 北京天文馆\n时间: 2026-07-01 至 2027-01-03\n详情: https://www.bjp.org.cn/xwzx/gndt/4028c1369f0fdaad019f120e1f860036.shtml
+DESCRIPTION:火星陨石实物、搭建火星城互动、星际航线规划等展项，暑假连续开放56天不闭馆。\n地点: 北京天文馆\n时间: 2026-07-01 至 2027-01-03\n详情: https://www.bjp.org.cn/xwzx/gndt/4028c1369f0fdaad019f120e1f860036.shtml
 END:VEVENT
 BEGIN:VEVENT
 UID:fd0dc264e75d0239@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动
 LOCATION:首都图书馆
-DESCRIPTION:近380场暑期文化活动，含少儿阅读、名家讲坛、摩西奶奶田园画展、AI声效中轴声景展等。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.xinhuanet.com/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:11084dc9bf97d485@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260713
-SUMMARY:天问摘星——北京天文馆航天主题活动周
-LOCATION:北京天文馆
-DESCRIPTION:专家讲座、星河趣玩集闯关互动、球幕电影等航天主题系列活动。\n地点: 北京天文馆\n时间: 2026-07-06 至 2026-07-12\n详情: https://www.bjp.org.cn/xwzx/gndt/4028c1369f0fdaad019f120e1f860036.shtml
-END:VEVENT
-BEGIN:VEVENT
-UID:0685c1cf8f38c9d5@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260901
-SUMMARY:快乐暑期，科海扬帆——北京科学中心1175场暑期科教活动
-LOCATION:北京科学中心
-DESCRIPTION:暑期推出1175场科学教育活动，涵盖科学体验、AI教育、生态环保、动手实践等。\n地点: 北京科学中心\n时间: 2026-07-08 至 2026-08-31\n详情: http://tech.gmw.cn/2026-07/03/content_38866407.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:b985d33ef4b549fa@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20261207
-SUMMARY:归心一园——故宫乾隆花园沉浸式光影展
-LOCATION:国家图书馆（国家典籍博物馆）
-DESCRIPTION:15幕沉浸场景、17处交互装置，全息昆曲牡丹亭、数字拆解漆纱工艺，每日两场免费公益讲解。\n地点: 国家图书馆（国家典籍博物馆）\n时间: 2026-07-09 至 2026-12-06\n详情: https://www.nlc.cn/nmcb/gonggao/20260707_2653832.shtml
+DESCRIPTION:近380场暑期文化活动，含少儿阅读、名家讲坛、摩西奶奶田园画展等。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.xinhuanet.com/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html
 END:VEVENT
 END:VCALENDAR

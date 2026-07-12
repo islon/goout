@@ -22,26 +22,8 @@ TZOFFSETTO:+0800
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3cc34be183795cf2@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260901
-SUMMARY:无尽宇宙——科学与艺术融合作品展
-LOCATION:上海天文馆
-DESCRIPTION:将科学与艺术融合的宇宙主题展览，展现人类对宇宙的探索和想象。\n地点: 上海天文馆\n时间: 2026-05-01 至 2026-08-31\n详情: http://www.sh.xinhuanet.com/20260519/2b5d1f632a92470795d9f2497765ce17/c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:2d0d742c06ae968f@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260901
-SUMMARY:只有树知道——自然·艺术融合特展
-LOCATION:上海自然博物馆
-DESCRIPTION:以树为主题的自然与艺术融合特展，融合科学知识与艺术表达，适合全年龄段参观。\n地点: 上海自然博物馆\n时间: 2026-05-01 至 2026-08-31\n详情: https://www.snhm.org.cn/lzdy/lzIndex.htm
-END:VEVENT
-BEGIN:VEVENT
 UID:1e3ac8ae4fdaf94d@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260901
 SUMMARY:科好玩了——2026上海科技馆暑假营
@@ -50,47 +32,29 @@ DESCRIPTION:15大科普品牌活动，包括球幕沉浸式多媒体互动秀、
 END:VEVENT
 BEGIN:VEVENT
 UID:a683c7e03d00f8ad@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260902
 SUMMARY:上海童话·2026暑期少儿阅读季
 LOCATION:上海少年儿童图书馆
-DESCRIPTION:全市联动的暑期少儿阅读活动，含童书π讲座、小种子故事会、皮影剧场、STEM手工课、小小建筑师等40余场活动。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-09-01\n详情: http://sh.people.com.cn/n2/2026/0702/c350122-41627961.html
+DESCRIPTION:全市联动的暑期少儿阅读活动，含童书π讲座、小种子故事会、皮影剧场等40余场活动。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-09-01\n详情: http://sh.people.com.cn/n2/2026/0702/c350122-41627961.html
 END:VEVENT
 BEGIN:VEVENT
-UID:bbe326f0d3aad56b@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+UID:edada5c0ddb477d5@shenzhen-exhibitions
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20261008
-SUMMARY:千金之家——马王堆汉墓的生活美学及养成国宝艺术大展
+SUMMARY:千金之家——马王堆汉墓的生活美学大展
 LOCATION:中华艺术宫
-DESCRIPTION:马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物，展现汉代生活美学。儿童票仅9.9元。\n地点: 中华艺术宫\n时间: 2026-07-03 至 2026-10-07\n详情: https://www.jfdaily.com/sgh/detail?id=4015071
-END:VEVENT
-BEGIN:VEVENT
-UID:8609be9f32a73718@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20261008
-SUMMARY:国采——故宫藏清代帝后服饰展
-LOCATION:上海世博会博物馆
-DESCRIPTION:故宫藏清代帝后服饰特展，近九成文物首次出京，周六延时开放至20:00。\n地点: 上海世博会博物馆\n时间: 2026-07-07 至 2026-10-07\n详情: http://www.expo-museum.org
+DESCRIPTION:马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。\n地点: 中华艺术宫\n时间: 2026-07-03 至 2026-10-07\n详情: https://www.jfdaily.com/sgh/detail?id=4015071
 END:VEVENT
 BEGIN:VEVENT
 UID:56535a1658c8c1c9@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20271115
 SUMMARY:世界树之巅：美洲古代文明大展
 LOCATION:上海博物馆
-DESCRIPTION:玛雅、阿兹特克、印加等美洲古代文明文物大展，含VR沉浸体验飞越马丘比丘、玛雅大冒险。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-11-14\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00005037
-END:VEVENT
-BEGIN:VEVENT
-UID:2280ee68785deaaf@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20261026
-SUMMARY:丽娜·波·巴蒂：生存的诗学（建筑大师中国首展）
-LOCATION:上海当代艺术博物馆
-DESCRIPTION:巴西著名女建筑师丽娜·波·巴蒂的作品中国首展，展现其建筑理念与实践。\n地点: 上海当代艺术博物馆\n时间: 2026-07-25 至 2026-10-25\n详情: https://www.powerstationofart.com/
+DESCRIPTION:玛雅、阿兹特克、印加等美洲古代文明文物大展，含VR沉浸体验。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-11-14\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00005037
 END:VEVENT
 END:VCALENDAR

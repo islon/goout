@@ -496,6 +496,22 @@
     "source": "深圳科学技术馆官网"
   },
   {
+    "title": "宠·爱——猫猫狗狗的世界",
+    "name": "宠·爱——猫猫狗狗的世界",
+    "venue": "深圳博物馆金田路馆（历史民俗）",
+    "city": "shenzhen",
+    "start_date": "2026-06-20",
+    "end_date": "2026-07-31",
+    "link": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+    "url": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+    "description": "汇集80件/套展品，梳理人与猫狗跨越万年的相伴羁绊。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科普可看、可玩、可体验。暑期延时开放至21:00。",
+    "category": "科普活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳博物馆"
+  },
+  {
     "title": "深圳博物馆暑期延时开放",
     "name": "深圳博物馆暑期延时开放",
     "venue": "深圳博物馆",
@@ -2976,6 +2992,22 @@
     "source": "shenzhen_world"
   },
   {
+    "title": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧",
+    "name": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧",
+    "venue": "深圳音乐厅",
+    "city": "shenzhen",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-17",
+    "link": "https://www.szyyt.com/performance/show_100000937342526.html",
+    "url": "https://www.szyyt.com/performance/show_100000937342526.html",
+    "description": "深圳交响乐团2025-2026音乐季闭幕音乐会，两大经典歌剧同台演绎。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳音乐厅"
+  },
+  {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第85场",
     "name": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第85场",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -3136,6 +3168,22 @@
     "source": "szlib"
   },
   {
+    "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
+    "name": "南图沙龙·摄视觉 | 培养你的摄影眼",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://activity.nslib.cn/activity/info/11663",
+    "url": "https://activity.nslib.cn/activity/info/11663",
+    "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
+  },
+  {
     "title": "跟名师读名著系列丨《古灵精怪动物园》",
     "name": "跟名师读名著系列丨《古灵精怪动物园》",
     "venue": "南山图书馆",
@@ -3161,22 +3209,6 @@
     "link": "https://activity.nslib.cn/activity/info/11666",
     "url": "https://activity.nslib.cn/activity/info/11666",
     "description": "需预约报名。百姓健康讲堂|​八段锦养身，中医护安康",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib"
-  },
-  {
-    "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
-    "name": "南图沙龙·摄视觉 | 培养你的摄影眼",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-18",
-    "end_date": "2026-07-18",
-    "link": "https://activity.nslib.cn/activity/info/11663",
-    "url": "https://activity.nslib.cn/activity/info/11663",
-    "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -3230,6 +3262,22 @@
     "contact": "",
     "family_friendly": true,
     "source": "光明文化艺术中心"
+  },
+  {
+    "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
+    "name": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
+    "venue": "深圳音乐厅",
+    "city": "shenzhen",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://www.szyyt.com/performance/show_100000954193225.html",
+    "url": "https://www.szyyt.com/performance/show_100000954193225.html",
+    "description": "漫步古典夜系列，长笛与吉他二重奏，演绎时光的折痕。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳音乐厅"
   },
   {
     "title": "2026 不止于攀登·深圳珠峰登顶者分享会",
@@ -3456,6 +3504,22 @@
     "source": "szlib"
   },
   {
+    "title": "法律咨询",
+    "name": "法律咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "link": "https://activity.nslib.cn/activity/info/11640",
+    "url": "https://activity.nslib.cn/activity/info/11640",
+    "description": "法律咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
+  },
+  {
     "title": "科普小讲堂丨高楼不倒的秘密",
     "name": "科普小讲堂丨高楼不倒的秘密",
     "venue": "南山图书馆",
@@ -3482,22 +3546,6 @@
     "url": "https://activity.nslib.cn/activity/info/11662",
     "description": "践书+|《认知驱动》。南山图书馆举办。",
     "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib"
-  },
-  {
-    "title": "法律咨询",
-    "name": "法律咨询",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-19",
-    "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11640",
-    "url": "https://activity.nslib.cn/activity/info/11640",
-    "description": "法律咨询。南山图书馆举办。",
-    "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -4622,6 +4670,22 @@
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
     "source": "szcec"
+  },
+  {
+    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "venue": "深圳音乐厅五楼小剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szyyt.com/performance/show_100000984262811.html",
+    "url": "https://www.szyyt.com/performance/show_100000984262811.html",
+    "description": "广州市同曲异工乐团演绎，以新世纪音乐风格呈现柴可夫斯基《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳音乐厅"
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",

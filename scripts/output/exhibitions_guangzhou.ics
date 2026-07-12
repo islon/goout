@@ -23,43 +23,34 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f680186e96f147ce@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20261012
 SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术体验展
 LOCATION:南越王博物院
-DESCRIPTION:180余件古埃及文物，近95%首次来华，含AR、全息投影等数字互动技术，对比南越王墓与古埃及墓葬文化。\n地点: 南越王博物院\n时间: 2026-02-06 至 2026-10-11\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+DESCRIPTION:180余件古埃及文物，近95%首次来华，含AR、全息投影等数字互动技术。\n地点: 南越王博物院\n时间: 2026-02-06 至 2026-10-11\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
 UID:513d5a974a814a75@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20261101
 SUMMARY:一念敦煌——石窟艺术大展
 LOCATION:广州艺术博物院
-DESCRIPTION:沉浸式石窟艺术大展，复原敦煌石窟场景，设有粤语讲解等特色服务，夜场开放至20:30。\n地点: 广州艺术博物院\n时间: 2026-05-01 至 2026-10-31\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
-END:VEVENT
-BEGIN:VEVENT
-UID:865286994a28a91b@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20261220
-SUMMARY:青州微笑——中国古青州佛造像艺术展
-LOCATION:广州艺术博物院
-DESCRIPTION:展出古青州龙兴寺遗址出土的佛造像精品，展现南北朝至隋唐时期的佛教艺术成就。夜场开放至20:30。\n地点: 广州艺术博物院\n时间: 2026-06-20 至 2026-12-19\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+DESCRIPTION:沉浸式石窟艺术大展，复原敦煌石窟场景，夜场开放至20:30。\n地点: 广州艺术博物院\n时间: 2026-05-01 至 2026-10-31\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
 UID:d16fa5a962a44030@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20261019
 SUMMARY:文艺复兴的交响：格拉斯哥博物馆藏大师作品展
 LOCATION:广东省博物馆
-DESCRIPTION:汇集格拉斯哥博物馆藏文艺复兴时期大师作品，包括意大利、佛兰德斯、荷兰等画派名家真迹。暑期延时开放至21:00。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+DESCRIPTION:汇集格拉斯哥博物馆藏文艺复兴时期大师作品，包括意大利、佛兰德斯、荷兰等画派名家真迹。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
 UID:50b18c3f362622ad@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:肠道小宇宙——肠道的奇妙冒险互动体验科学展
@@ -67,39 +58,21 @@ LOCATION:广东科学中心
 DESCRIPTION:法国引进的现象级互动展，通过沉浸式体验和科学互动装置，探索人体肠道的奥秘。\n地点: 广东科学中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://m.sohu.com/a/1048387246_222493/
 END:VEVENT
 BEGIN:VEVENT
-UID:6d1de46e7b41701a@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260901
-SUMMARY:假日科学派——广东科学中心暑期十大主题活动
-LOCATION:广东科学中心
-DESCRIPTION:包含科学挑战赛、科普摊位、创意工坊、科普表演秀等十大主题活动，暑期每天精彩不断。\n地点: 广东科学中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://m.sohu.com/a/1048387246_222493/
-END:VEVENT
-BEGIN:VEVENT
 UID:c178f2dd1a96b7df@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260901
 SUMMARY:请到粤图过暑假——300余场暑期阅读推广活动
 LOCATION:广东省立中山图书馆
-DESCRIPTION:近200场少儿专属活动，含绘本阅读、手工制作、文化讲座等，另有粤图夜读文化集市。\n地点: 广东省立中山图书馆\n时间: 2026-07-10 至 2026-08-31\n详情: http://culture.ycwb.com/ikimvkltjj/content_54223794.htm
+DESCRIPTION:近200场少儿专属活动，含绘本阅读、手工制作、文化讲座等。\n地点: 广东省立中山图书馆\n时间: 2026-07-10 至 2026-08-31\n详情: http://culture.ycwb.com/ikimvkltjj/content_54223794.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:fd990144e17e1270@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
+DTSTAMP:20260712T140934Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260831
 SUMMARY:虫友：寻访甲虫世界
 LOCATION:广东省博物馆
-DESCRIPTION:汇聚1000余件自然标本，展示甲虫世界的多样性与奇妙，适合孩子探索自然科学。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
-END:VEVENT
-BEGIN:VEVENT
-UID:d1f7766cefcfe2da@shenzhen-exhibitions
-DTSTAMP:20260712T140141Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260824
-SUMMARY:生长——第七届杨之光杯全国青少年创意美术双年展
-LOCATION:广州市文化馆新馆
-DESCRIPTION:全国青少年创意美术优秀作品展示，涵盖绘画、手工、装置艺术等多种形式。\n地点: 广州市文化馆新馆\n时间: 2026-07-25 至 2026-08-23\n详情: https://m.sohu.com/a/1044350246_121124748/
+DESCRIPTION:汇聚1000余件自然标本，展示甲虫世界的多样性与奇妙。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 END:VCALENDAR
