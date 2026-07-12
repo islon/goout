@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏛️ 场馆指南 - 童行</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <style>
+        :root {
+            --sand-primary: #D4A373;
+            --sand-light: #E8D5BC;
+            --sand-dark: #B8895A;
+            --sand-bg: #FDF6ED;
+            --sand-50: #FFFBF5;
+            --sand-100: #FDF6ED;
+            --sand-200: #F5E6D3;
+            --ocean: #0891B2;
+            --ocean-light: #E0F2F7;
+            --forest: #166534;
+            --forest-light: #DCFCE7;
+            --bg-warm: #FFFDF7;
+            --surface: #FFFFFF;
+            --text-primary: #292524;
+            --text-secondary: #78716C;
+            --text-muted: #A8A29E;
+            --border: #F5F0E8;
+            --border-strong: #E7DFD3;
+            --shadow-sm: 0 1px 2px rgba(212, 163, 115, 0.05);
+            --shadow-md: 0 4px 12px rgba(212, 163, 115, 0.08);
+            --shadow-lg: 0 12px 24px rgba(212, 163, 115, 0.12);
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 20px;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: var(--bg-warm);
+            color: var(--text-primary);
+            min-height: 100vh;
+            padding-bottom: 40px;
+        }
+        .header {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            padding: 16px 20px 24px;
+            position: relative;
+            box-shadow: var(--shadow-md);
+        }
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto 12px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .header h1 { font-size: 24px; max-width: 1200px; margin: 0 auto; }
+        .header-sub { font-size: 13px; opacity: 0.9; max-width: 1200px; margin: 6px auto 0; }
+        .btn-link {
+            padding: 6px 14px;
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.35);
+            color: white;
+            border-radius: 20px;
+            font-size: 13px;
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            transition: background 0.2s;
+        }
+        .btn-link:hover { background: rgba(255,255,255,0.3); }
+        .filters {
+            max-width: 1200px;
+            margin: 20px auto 0;
+            padding: 0 16px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .city-tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+        .city-tab {
+            padding: 7px 16px;
+            border: 1.5px solid var(--border-strong);
+            border-radius: 20px;
+            background: var(--surface);
+            color: var(--text-secondary);
+            font-size: 13px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .city-tab.active {
+            background: var(--sand-primary);
+            color: white;
+            border-color: var(--sand-primary);
+        }
+        .type-select {
+            padding: 7px 14px;
+            border: 1.5px solid var(--border-strong);
+            border-radius: 20px;
+            font-size: 13px;
+            background: var(--surface);
+            color: var(--text-primary);
+            outline: none;
+            cursor: pointer;
+            margin-left: auto;
+        }
+        .search-box {
+            padding: 7px 14px;
+            border: 1.5px solid var(--border-strong);
+            border-radius: 20px;
+            font-size: 13px;
+            background: var(--surface);
+            color: var(--text-primary);
+            outline: none;
+            width: 180px;
+            max-width: 100%;
+        }
+        .search-box:focus { border-color: var(--sand-primary); }
+        .stats-bar {
+            max-width: 1200px;
+            margin: 14px auto 0;
+            padding: 0 16px;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+        .venue-grid {
+            max-width: 1200px;
+            margin: 14px auto 0;
+            padding: 0 16px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+            gap: 16px;
+        }
+        .venue-card {
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            padding: 18px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow-sm);
+            transition: box-shadow 0.2s, transform 0.2s;
+            display: flex;
+            flex-direction: column;
+        }
+        .venue-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+        .venue-name {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+        .venue-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+        .tag {
+            font-size: 11px;
+            padding: 3px 10px;
+            border-radius: 10px;
+            font-weight: 500;
+        }
+        .tag-type { background: var(--sand-200); color: var(--sand-dark); }
+        .tag-free { background: var(--forest-light); color: var(--forest); }
+        .tag-paid { background: var(--sand-200); color: var(--sand-dark); }
+        .tag-other { background: var(--ocean-light); color: var(--ocean); }
+        .venue-info { font-size: 13px; color: var(--text-secondary); line-height: 1.7; }
+        .venue-info-row { display: flex; gap: 6px; align-items: flex-start; }
+        .venue-info-icon { flex-shrink: 0; }
+        .venue-desc {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px dashed var(--border);
+        }
+        .venue-highlights {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 10px;
+        }
+        .highlight-chip {
+            font-size: 11px;
+            padding: 2px 8px;
+            background: var(--sand-100);
+            border-radius: 8px;
+            color: var(--sand-dark);
+        }
+        .venue-link {
+            display: inline-block;
+            margin-top: 12px;
+            font-size: 13px;
+            color: var(--ocean);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .venue-link:hover { text-decoration: underline; }
+        .empty-state {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+        .loading {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+        .type-section {
+            grid-column: 1 / -1;
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-top: 12px;
+            margin-bottom: 4px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--sand-200);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .type-count { font-size: 12px; color: var(--text-muted); font-weight: 400; }
+        @media (max-width: 600px) {
+            .venue-grid { grid-template-columns: 1fr; padding: 0 12px; }
+            .type-select, .search-box { margin-left: 0; width: 100%; }
+            .filters { padding: 0 12px; }
+            .header h1 { font-size: 20px; padding: 0 12px; }
+            .header-sub { padding: 0 12px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-top">
+            <a href="index.html" class="btn-link">← 返回活动</a>
+            <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="btn-link" target="_blank" rel="noopener">📝 反馈</a>
+        </div>
+        <h1>🏛️ 场馆指南</h1>
+        <div class="header-sub">有些场馆虽暂无活动，但本身值得带娃去逛逛</div>
+    </div>
+
+    <div class="filters">
+        <div class="city-tabs" id="city-tabs">
+            <button class="city-tab active" data-city="shenzhen">深圳</button>
+            <button class="city-tab" data-city="guangzhou">广州</button>
+            <button class="city-tab" data-city="shanghai">上海</button>
+            <button class="city-tab" data-city="beijing">北京</button>
+        </div>
+        <input type="text" class="search-box" id="search-box" placeholder="搜索场馆名称/地址...">
+        <select class="type-select" id="type-filter">
+            <option value="all">全部类型</option>
+        </select>
+    </div>
+
+    <div class="stats-bar" id="stats-bar"></div>
+    <div class="venue-grid" id="venue-grid">
+        <div class="loading">加载中...</div>
+    </div>
+
+    <script>
+        let venueList = [];
+        let currentCity = 'shenzhen';
+        let currentType = 'all';
+        let currentSearch = '';
+
+        async function loadData() {
+            try {
+                const resp = await fetch('output/venue_info.json');
+                if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                venueList = await resp.json();
+                initTypeFilter();
+                render();
+            } catch(e) {
+                console.error('加载场馆数据失败:', e);
+                document.getElementById('venue-grid').innerHTML = '<div class="empty-state">加载失败，请刷新重试</div>';
+            }
+        }
+
+        function initTypeFilter() {
+            const types = [...new Set(venueList.map(v => v.type).filter(Boolean))].sort();
+            const sel = document.getElementById('type-filter');
+            types.forEach(t => {
+                const opt = document.createElement('option');
+                opt.value = t; opt.textContent = t;
+                sel.appendChild(opt);
+            });
+        }
+
+        function feeTagClass(fee) {
+            if (!fee) return '';
+            if (fee.indexOf('免费') >= 0) return 'tag-free';
+            if (fee.indexOf('收费') >= 0) return 'tag-paid';
+            return 'tag-other';
+        }
+
+        function escapeHtml(s) {
+            if (!s) return '';
+            return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        }
+
+        function render() {
+            const grid = document.getElementById('venue-grid');
+            const stats = document.getElementById('stats-bar');
+
+            let venues = venueList.filter(v => v.city === currentCity);
+            if (currentType !== 'all') venues = venues.filter(v => v.type === currentType);
+            if (currentSearch) {
+                const q = currentSearch.toLowerCase();
+                venues = venues.filter(v =>
+                    (v.name && v.name.toLowerCase().indexOf(q) >= 0) ||
+                    (v.address && v.address.toLowerCase().indexOf(q) >= 0) ||
+                    (v.description && v.description.toLowerCase().indexOf(q) >= 0) ||
+                    (v.highlights && v.highlights.some(h => h.toLowerCase().indexOf(q) >= 0))
+                );
+            }
+
+            stats.textContent = '共 ' + venues.length + ' 个场馆' + (currentType !== 'all' ? ' · ' + currentType : '') + (currentSearch ? ' · 搜索"' + currentSearch + '"' : '');
+
+            if (venues.length === 0) {
+                grid.innerHTML = '<div class="empty-state">没有符合条件的场馆，换个筛选条件试试？</div>';
+                return;
+            }
+
+            // 按类型分组
+            const groups = {};
+            venues.forEach(v => {
+                const t = v.type || '其他';
+                if (!groups[t]) groups[t] = [];
+                groups[t].push(v);
+            });
+
+            const typeOrder = ['博物馆', '美术馆', '图书馆', '科技馆', '公园', '演出场所', '文体中心', '文化中心', '亲子乐园', '主题乐园', '展览馆', '纪念馆', '其他'];
+
+            let html = '';
+            Object.keys(groups).sort((a, b) => {
+                const ia = typeOrder.indexOf(a), ib = typeOrder.indexOf(b);
+                return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+            }).forEach(type => {
+                html += '<div class="type-section">📁 ' + escapeHtml(type) + ' <span class="type-count">(' + groups[type].length + ')</span></div>';
+                groups[type].forEach(v => {
+                    const feeTag = v.fee ? '<span class="tag ' + feeTagClass(v.fee) + '">' + escapeHtml(v.fee) + '</span>' : '';
+                    let info = '';
+                    if (v.address) info += '<div class="venue-info-row"><span class="venue-info-icon">📍</span><span>' + escapeHtml(v.address) + '</span></div>';
+                    if (v.transport) info += '<div class="venue-info-row"><span class="venue-info-icon">🚇</span><span>' + escapeHtml(v.transport) + '</span></div>';
+                    let highlights = '';
+                    if (v.highlights && v.highlights.length) {
+                        highlights = '<div class="venue-highlights">' + v.highlights.map(h => '<span class="highlight-chip">' + escapeHtml(h) + '</span>').join('') + '</div>';
+                    }
+                    const link = v.official_url ? '<a href="' + escapeHtml(v.official_url) + '" target="_blank" rel="noopener" class="venue-link">🔗 场馆官网 →</a>' : '';
+
+                    html += '<div class="venue-card">' +
+                        '<div class="venue-name">' + escapeHtml(v.name) + '</div>' +
+                        '<div class="venue-tags">' +
+                            (v.type ? '<span class="tag tag-type">' + escapeHtml(v.type) + '</span>' : '') +
+                            feeTag +
+                        '</div>' +
+                        '<div class="venue-info">' + info + '</div>' +
+                        (v.description ? '<div class="venue-desc">' + escapeHtml(v.description) + '</div>' : '') +
+                        highlights +
+                        link +
+                    '</div>';
+                });
+            });
+
+            grid.innerHTML = html;
+        }
+
+        // 事件绑定
+        document.getElementById('city-tabs').addEventListener('click', function(e) {
+            if (e.target.classList.contains('city-tab')) {
+                document.querySelectorAll('.city-tab').forEach(t => t.classList.remove('active'));
+                e.target.classList.add('active');
+                currentCity = e.target.dataset.city;
+                render();
+            }
+        });
+        document.getElementById('type-filter').addEventListener('change', function(e) {
+            currentType = e.target.value;
+            render();
+        });
+        document.getElementById('search-box').addEventListener('input', function(e) {
+            currentSearch = e.target.value.trim();
+            render();
+        });
+
+        loadData();
+    </script>
+</body>
+</html>
