@@ -69,7 +69,7 @@ NSAQJY_URL = "https://www.szns.gov.cn"
 SKHYKPG_URL = "https://www.szns.gov.cn"
 
 # ========== 旧字段兼容 ==========
-SZCEC_URL = "https://www.szcec.com/szcec/cn-schedule/review-2025/index.html"
+SZCEC_URL = "https://www.szcec.com/szcec/cn-schedule/zl/index.html"
 SHENZHEN_WORLD_URL = "https://www.shenzhen-world.com/scheduling/index.html"
 OCT_WETLAND_URL = "https://www.szns.gov.cn"
 LG_HAKKA_URL = "https://www.lg.gov.cn"

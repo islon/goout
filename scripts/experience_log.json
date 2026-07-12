@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-07-10",
+    "activities_total": 578,
+    "issues_closed": 27,
+    "issues_remaining": 0,
+    "new_activities_added": 24,
+    "data_quality_issues_fixed": 11,
+    "lessons_learned": "1. 检查报告(#30)报告了10条区县匹配不一致和1条fee类型不规范，但在本次执行时这些问题已在之前修复，说明数据管线中的normalize_activity和scraper_nswtzx的get_source_from_venue函数已经正确处理了区县映射。2. 24个新活动发现issue的信息格式统一，包含活动名称/场馆/所在区/时间/地址/类型/描述/来源链接，易于解析。3. 日期解析需注意多种格式：'2026年7月5日至7月30日'需拆分为start_date和end_date；'即日起至2026年7月'需推断开始日期。4. fee判断：'免费免预约'和'免费开放'归为'免费'；有票价信息如'早鸟票99元起'归为'收费'；'购票入场'归为'需购票'。5. 部分gov.cn网站有SSL证书问题(BAD_ECPOINT)，data_pipeline.py已全局禁用SSL验证。6. bs4模块未安装会导致部分爬虫失败，需先pip install。7. 微信爬虫模块未安装会跳过，manual_data.json是重要补充数据源。",
+    "improvement_ideas": "1. 可考虑在data_pipeline.py的normalize_activity函数中增加fee字段自动标准化逻辑，将非标准值映射到最接近的标准值。2. 可考虑为scraper_nswtzx增加更多区县关键词映射，减少source与venue不匹配的情况。3. 可考虑新增爬虫：何香凝美术馆、福田美术馆、深圳戏院、光明文化艺术中心等本次手动添加的场馆。4. 可考虑在GitHub Actions中增加bs4/lxml依赖，避免爬虫因模块缺失而失败。5. 可考虑增加定时任务自动检查活动过期情况，清理已结束的活动。6. 可考虑增加数据去重逻辑，避免同一活动被多次添加。7. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。"
+  },
+  {
+    "date": "2026-07-11",
+    "activities_total": 670,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 92,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次GitHub token验证失败(Bad credentials)，无法获取和处理issues，需要更新token。2. 数据管线运行正常，共抓取670条有效活动，较昨日增加92条。3. 最终输出exhibitions.json数据质量完全合格：0个fee问题、0个description问题、0个区县匹配问题，说明normalize_activity函数工作良好。4. 部分爬虫单独输出文件(_exhibitions.json)中存在description太短的问题，但这些中间产物不影响最终数据质量。5. 大量gov.cn网站因SSL证书问题(BAD_ECPOINT)爬取失败，文化馆云平台(szmassart.com)是重要的数据来源。6. 深圳图书馆和深圳国际会展中心是数据量最大的两个来源。7. manual_data.json中的411条手动数据质量良好，是数据的重要补充。",
+    "improvement_ideas": "1. 需更新GitHub token以恢复issue处理能力。2. 可考虑在各爬虫scraper脚本的输出前也进行数据标准化，使中间输出文件也符合质量标准。3. 可考虑增加更多文化馆云平台的数据源，以弥补gov.cn网站SSL问题导致的数据缺失。4. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。5. 可考虑新增爬虫：深圳音乐厅、深圳滨海艺术中心等已有手动数据但无自动爬虫的场馆。6. 可考虑优化check_data_quality.py，只检查最终输出文件exhibitions.json，避免中间文件的问题干扰判断。7. 可考虑增加活动分类的自动优化，提高分类准确率。"
+  },
+  {
+    "date": "2026-07-11",
+    "activities_total": 678,
+    "issues_closed": 2,
+    "issues_remaining": 0,
+    "new_activities_added": 1,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. GitHub token验证成功，成功获取并处理2个Issues：#33数据质量巡检报告(0问题)和#34新活动发现(北京人艺话剧《寻找春柳社》)。2. 数据管线运行正常，共抓取678条有效活动。3. 最终输出exhibitions.json数据质量完全合格：0个fee问题、0个description问题、0个区县匹配问题。4. 中间文件(nslib_exhibitions.json、nsqsng_exhibitions.json、nswtzx_exhibitions.json)存在16个description太短的问题，但normalize_activity函数在合并时已正确处理，不影响最终数据质量。5. 大量gov.cn网站因SSL证书问题(BAD_ECPOINT)爬取失败，文化馆云平台仍是重要数据来源。6. manual_data.json的格式规范，新增活动只需追加到末尾即可。7. 新活动发现Issue信息格式统一，包含完整的活动名称/场馆/所在区/时间/地址/类型/描述/来源链接，易于解析和添加。",
+    "improvement_ideas": "1. 可考虑新增爬虫：光明文化艺术中心，该场馆已有手动添加的数据但无自动爬虫。2. 可考虑优化check_data_quality.py，只检查最终输出文件exhibitions.json，避免中间文件问题干扰判断。3. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。4. 可考虑在data_pipeline.py中增加fee字段自动标准化逻辑。5. 可考虑增加活动过期检查机制，自动清理已结束的活动。6. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。7. 可考虑为光明区增加更多场馆的爬虫支持。"
+  },
+  {
+    "date": "2026-07-11",
+    "activities_total": 678,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 0,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 多城市活动采集：成功搜集广州19条、上海15条、北京14条、杭州15条当前活动信息，共63条活动速查数据。2. 搜索策略验证有效：先搜政府文旅局官网汇总页（如广东省文旅厅湾区展讯whly.gd.gov.cn），再搜权威媒体报道（南方+、新华网、人民网），最后搜单场馆官网活动栏目。3. 暑期活动特征明显：多数场馆延时开放至20:00-21:00，博物馆奇妙夜/夜宿活动成为暑期爆款，图书馆/文化馆活动几乎全部免费。4. 亲子活动判断：科技馆/自然博物馆/少儿图书馆/青少年活动中心的活动几乎都family_friendly=true；美术馆/博物馆的特展需根据活动描述判断。5. fee判断新案例：上海天文馆夜场358元/人归为'收费'；北京天文馆'含在门票内'继承场馆门票类型；杭州图书馆全部活动免费。6. 日期格式新增案例：'7.9-8.31每周二至五'需解析为start_date=2026-07-09/end_date=2026-08-31；'7月多期'需选择第一期和最后一期日期。7. 杭州台风影响：受第9号台风'巴威'影响，杭州部分场馆7月10-11日临时闭馆，需在文档中标注提醒。8. 政务公开渠道验证：广东省文旅厅湾区展讯页面(whly.gd.gov.cn/service_new/hdyg/)是广州活动信息最权威汇总源；京报网(xinwen.bjd.com.cn)有北京七月展讯汇总；上海本地宝有博物馆奇妙夜汇总。9. 创建了SOP.md经验手册，系统化总结了场馆搜索方法论、活动采集流程、数据质量标准、常见错误解决方案等，供后续执行直接参考。",
+    "improvement_ideas": "1. 为广州、上海、北京、杭州的核心场馆编写scraper脚本，实现自动采集。2. 接入国家公共文化云(culturedc.cn)API，实现跨城市批量活动获取。3. 增加活动过期自动清理机制，避免过期活动堆积。4. 增加数据去重逻辑，同一活动可能来自不同数据源（如媒体报道+场馆官网）。5. 考虑增加活动推荐功能，基于用户位置和偏好推荐附近活动。6. 考虑从微信公众号文章自动抓取活动信息。7. 定期更新SOP.md，每次执行后追加新的经验教训。8. 为商业综合体（欢乐港湾、前滩太古里等）建立单独的数据采集流程。9. 考虑增加活动收藏/订阅功能，用户可关注特定场馆。"
+  }
+]
