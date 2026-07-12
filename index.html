@@ -1083,7 +1083,6 @@
         <div class="header-top">
             <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
             <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
-            <button class="subscribe-link" id="venue-guide-btn" type="button" onclick="toggleVenueGuide()" style="font-family:inherit;cursor:pointer;display:inline-flex;align-items:center;border:none;">🏛️ 场馆指南</button>
         </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
         <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div>
@@ -1357,19 +1356,6 @@
             <button class="filter-btn" data-fee="free">免费</button>
             <button class="filter-btn" data-fee="paid">收费</button>
         </div>
-    </div>
-
-    <div id="venue-guide-section" style="display:none;max-width:1200px;margin:0 auto;padding:16px;">
-        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
-            <h2 style="font-size:18px;font-weight:700;color:var(--text-primary);">🏛️ 场馆指南</h2>
-            <div style="display:flex;gap:8px;align-items:center;">
-                <select id="venue-guide-type-filter" onchange="renderVenueGuide()" style="padding:6px 12px;border:1px solid var(--border-strong);border-radius:20px;font-size:13px;background:var(--surface);color:var(--text-primary);outline:none;cursor:pointer;">
-                    <option value="all">全部类型</option>
-                </select>
-                <button onclick="toggleVenueGuide()" class="subscribe-link" type="button" style="font-size:12px;font-family:inherit;cursor:pointer;display:inline-flex;align-items:center;">← 返回活动列表</button>
-            </div>
-        </div>
-        <div id="venue-guide-content" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;"></div>
     </div>
 
     <div class="main-wrapper" id="main-wrapper">
@@ -2622,106 +2608,6 @@
             return html;
         }
 
-        function toggleVenueGuide() {
-            const guideSection = document.getElementById('venue-guide-section');
-            const mainWrapper = document.getElementById('main-wrapper');
-            if (guideSection.style.display === 'none') {
-                guideSection.style.display = 'block';
-                mainWrapper.style.display = 'none';
-                const container = document.getElementById('venue-guide-content');
-                container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">加载中...</div>';
-                loadVenueInfo().then(() => renderVenueGuide()).catch(e => {
-                    console.error('场馆指南加载失败:', e);
-                    container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">加载失败，请重试</div>';
-                });
-            } else {
-                guideSection.style.display = 'none';
-                mainWrapper.style.display = 'flex';
-            }
-        }
-
-        function renderVenueGuide() {
-            if (!venueInfoList) {
-                const container = document.getElementById('venue-guide-content');
-                container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">暂无场馆数据</div>';
-                return;
-            }
-            const container = document.getElementById('venue-guide-content');
-            const typeFilter = document.getElementById('venue-guide-type-filter');
-            const selectedType = typeFilter.value;
-
-            // 填充类型筛选（只一次）
-            if (typeFilter.options.length <= 1) {
-                const types = [...new Set(venueInfoList.map(v => v.type).filter(Boolean))].sort();
-                types.forEach(t => {
-                    const opt = document.createElement('option');
-                    opt.value = t; opt.textContent = t;
-                    typeFilter.appendChild(opt);
-                });
-            }
-
-            let venues = venueInfoList.filter(v => v.city === currentCityFilter);
-            if (selectedType && selectedType !== 'all')
-                venues = venues.filter(v => v.type === selectedType);
-
-            // 按类型分组
-            const groups = {};
-            venues.forEach(v => {
-                const t = v.type || '其他';
-                if (!groups[t]) groups[t] = [];
-                groups[t].push(v);
-            });
-
-            // 统计每个场馆的活动数
-            const venueCounts = {};
-            allExhibitions.forEach(e => {
-                const key = e.source || e.venue;
-                venueCounts[key] = (venueCounts[key] || 0) + 1;
-                if (e.venue) venueCounts[e.venue] = (venueCounts[e.venue] || 0) + 1;
-            });
-
-            let html = '';
-            const typeOrder = ['博物馆', '美术馆', '图书馆', '科技馆', '公园', '演出场所', '文体中心', '文化中心', '亲子乐园', '主题乐园', '展览馆', '纪念馆', '其他'];
-            Object.keys(groups).sort((a,b) => {
-                const ia = typeOrder.indexOf(a), ib = typeOrder.indexOf(b);
-                return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
-            }).forEach(type => {
-                html += '<div style="grid-column:1/-1;font-size:14px;font-weight:700;color:var(--text-secondary);margin-top:8px;margin-bottom:4px;padding-bottom:4px;border-bottom:1px solid var(--border);">📁 ' + type + ' (' + groups[type].length + ')</div>';
-                groups[type].forEach(v => {
-                    const count = venueCounts[v.source] || venueCounts[v.name] || 0;
-                    const addr = (v.address && v.address !== '待补充') ? v.address : '';
-                    const transport = (v.transport && v.transport !== '待补充') ? ' · 🚇 ' + v.transport : '';
-                    html += '<div style="background:var(--surface);border-radius:14px;padding:16px;border:1px solid var(--border);box-shadow:var(--shadow-sm);">';
-                    html += '<div style="font-size:15px;font-weight:600;color:var(--text-primary);margin-bottom:6px;">' + v.name + '</div>';
-                    if (addr) html += '<div style="font-size:12px;color:var(--text-secondary);margin-bottom:4px;">📍 ' + addr + transport + '</div>';
-                    if (v.fee) html += '<span style="font-size:11px;padding:2px 8px;border-radius:10px;background:' + (v.fee === '免费' ? 'var(--forest-light)' : v.fee === '收费' ? 'var(--sand-200)' : 'var(--ocean-light)') + ';color:' + (v.fee === '免费' ? 'var(--forest)' : v.fee === '收费' ? 'var(--sand-dark)' : 'var(--ocean)') + ';margin-right:4px;">' + v.fee + '</span>';
-                    if (v.description) html += '<div style="font-size:13px;color:var(--text-secondary);margin-top:8px;line-height:1.5;">' + v.description + '</div>';
-                    if (v.highlights && v.highlights.length) html += '<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:4px;">' + v.highlights.map(h => '<span style="font-size:11px;padding:2px 6px;background:var(--sand-100);border-radius:8px;color:var(--sand-dark);">' + h + '</span>').join('') + '</div>';
-                    html += '<div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;">';
-                    if (count > 0) {
-                        html += '<span style="font-size:12px;color:var(--forest);font-weight:500;">📅 ' + count + ' 场活动</span>';
-                        html += '<a href="javascript:void(0)" onclick="filterByVenue(\'' + (v.source || v.name).replace(/'/g, "\\'") + '\')" style="font-size:12px;color:var(--ocean);text-decoration:none;font-weight:500;">查看活动 →</a>';
-                    } else {
-                        html += '<span style="font-size:12px;color:var(--text-muted);">暂无活动，但场馆本身值得去</span>';
-                    }
-                    html += '</div>';
-                    if (v.official_url) html += '<a href="' + v.official_url + '" target="_blank" rel="noopener" style="display:block;margin-top:6px;font-size:12px;color:var(--text-muted);text-decoration:none;">🔗 官网</a>';
-                    html += '</div>';
-                });
-            });
-
-            if (!html) html = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">暂无该类型场馆</div>';
-            container.innerHTML = html;
-        }
-
-        function filterByVenue(source) {
-            toggleVenueGuide(); // 返回活动列表
-            // 设置场馆筛选
-            const btn = document.querySelector('[data-source="' + source + '"]');
-            if (btn) {
-                btn.click();
-            }
-        }
         // ========== 场馆信息功能 END ==========
 
         function openModal(filteredIndex) {
@@ -3173,7 +3059,6 @@
 
         window.addEventListener('DOMContentLoaded', function() {
             loadExhibitions();
-            loadVenueInfo(); // 预加载场馆信息
         });
     </script>
 </body>
