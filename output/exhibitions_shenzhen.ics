@@ -1,0 +1,3795 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e127ee3139910bdf@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250727
+SUMMARY:来处与归途：三燕百年
+LOCATION:深圳博物馆同心路馆（古代艺术）
+DESCRIPTION:三燕历史文化特展，展出157套文物包括马甲胄、金步摇、壁画摹本、玻璃器等，1-4号厅。\n地点: 深圳博物馆同心路馆（古代艺术）\n时间: 2025-04-24 至 2025-07-26\n详情: https://www.shenzhenmuseum.com/exhibitiondetail?clazzName=CmsExhibition&resId=2442a848e6944ad5a3636bb162d6a07a&type=2
+END:VEVENT
+BEGIN:VEVENT
+UID:9e67f79489d56261@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250821
+SUMMARY:寻迹华夏——中华文明溯源图片展
+LOCATION:宝安1990（文化馆博物馆美术馆）
+DESCRIPTION:汇集20家文博考古机构200余件文物图像，牛河梁、良渚、石峁等重大遗址考古成果。二楼展厅，配套研学夏令营。\n地点: 宝安1990（文化馆博物馆美术馆）\n时间: 2025-04-26 至 2025-08-20\n详情: https://www.dutenews.com/n/article/8948970
+END:VEVENT
+BEGIN:VEVENT
+UID:aa564daa215b09a4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250804
+SUMMARY:瑞玉呈祥——湖北省博物馆典藏明清玉器展
+LOCATION:南山博物馆
+DESCRIPTION:展出湖北省博物馆明清玉器精品，含故宫博物院调拨的清宫旧藏。二层三号展厅，免费免预约。\n地点: 南山博物馆\n时间: 2025-04-30 至 2025-08-03\n详情: http://www.sz.gov.cn/szzt2010/szwtt/wthd/content/post_12152311.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aad14e52e54f6041@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250520
+DTEND;VALUE=DATE:20250818
+SUMMARY:我心中的美好布吉——油画作品展
+LOCATION:大芬美术馆
+DESCRIPTION:以布吉为主题，展现历史与当下、自然与人文交织的壮丽图景。一楼常设展厅，免预约免费。\n地点: 大芬美术馆\n时间: 2025-05-20 至 2025-08-17\n详情: http://www.lg.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:69a1bc83ba22b4d6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20251009
+SUMMARY:宠·爱——猫猫狗狗的世界
+LOCATION:深圳博物馆金田路馆（历史民俗）
+DESCRIPTION:中法联合沉浸式科普大展，80件/套展品+20余项法国原版科学互动展项，解码猫狗感官与心灵世界，亲子友好。第一专题展厅。\n地点: 深圳博物馆金田路馆（历史民俗）\n时间: 2025-05-30 至 2025-10-08\n详情: https://www.shenzhenmuseum.com/exhibitiondetail?clazzName=CmsExhibition&resId=659c5f681ef04429a67813e8aa3502b9&type=2
+END:VEVENT
+BEGIN:VEVENT
+UID:888f556aea771c91@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250908
+SUMMARY:我负丹青——吴冠中艺术展
+LOCATION:深圳美术馆（新馆）
+DESCRIPTION:展出吴冠中及师友艺术风采，寻觅油画中的东方意象。二层4、5号展厅，免预约免费。\n地点: 深圳美术馆（新馆）\n时间: 2025-05-30 至 2025-09-07\n详情: https://www.sz-artmuseum.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a9802df8f639b556@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250908
+SUMMARY:镜子宇宙——叶锦添个展
+LOCATION:深圳市当代艺术与城市规划馆
+DESCRIPTION:奥斯卡得主叶锦添个展，围绕核心人物LILI展开，融合装置、服装设计、手稿及数字影像。一层综合展厅，免费。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2025-05-31 至 2025-09-07\n详情: https://www.sznews.com/news/content/mb/2025-05/31/content_31586725.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0513a20c63000a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250821
+SUMMARY:双面镜——植物的艺术之美与科学之真
+LOCATION:深圳美术馆（新馆）
+DESCRIPTION:水墨画、水彩画、版画等情感表达作品与植物科学画的视觉对话。一楼3号厅，免预约免费。\n地点: 深圳美术馆（新馆）\n时间: 2025-06-26 至 2025-08-20\n详情: https://www.sz-artmuseum.org
+END:VEVENT
+BEGIN:VEVENT
+UID:491f43e313467d71@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:太空奥德赛沉浸式科幻体验展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:2楼临时展厅A，沉浸式科幻冒险体验，穿越火星、土卫6等宇宙奇观，XR大空间8K效果。需单独购票。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2025-07-01 至 2025-08-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d606505fb319f873@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:脑科学研学营——意念驯龙·脑控水舞
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:12款交互任务，生成个性化脑电波报告。6-11岁，需提前3天预约，含在常设展厅门票内。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2025-07-01 至 2025-08-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:441709205f3079c1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:宝安科技馆暑期科学秀
+LOCATION:宝安科技馆
+DESCRIPTION:暑期每周二、四及周末，专业演示人员将科学原理转化为直观实验。学术报告厅。\n地点: 宝安科技馆\n时间: 2025-07-01 至 2025-08-31\n详情: https://barb.sznews.com/MB/content/202508/04/content_3367851.html
+END:VEVENT
+BEGIN:VEVENT
+UID:51df41204dc786e1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:宝安科技馆3D打印创意工坊&巧手创客课程
+LOCATION:宝安科技馆
+DESCRIPTION:暑期周末，从数字化建模到实体打印，制作智能红绿灯/温度计/声控小灯等。\n地点: 宝安科技馆\n时间: 2025-07-01 至 2025-08-31\n详情: https://barb.sznews.com/MB/content/202508/04/content_3367851.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b5febef2ff111218@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:你好，海洋——MR沉浸式海洋科普展
+LOCATION:龙岗文博展览馆
+DESCRIPTION:首个基于实体展厅的混合现实海洋科普展，500余件实物展品+MR眼镜沉浸体验。龙岗文化中心D区一层。\n地点: 龙岗文博展览馆\n时间: 2025-07-01 至 2025-08-31\n详情: http://www.lg.gov.cn/lgwtlyj/gkmlpt/content/12/12579/post_12579997.html
+END:VEVENT
+BEGIN:VEVENT
+UID:57c28d339c623254@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20251102
+SUMMARY:笔尖下的曙光——进步报刊选萃
+LOCATION:龙岗客家民俗博物馆（鹤湖新居）
+DESCRIPTION:庆祝建党104周年，选取15种进步报刊展示早期马克思主义者以笔为枪的历史。免费免预约。\n地点: 龙岗客家民俗博物馆（鹤湖新居）\n时间: 2025-07-01 至 2025-11-01\n详情: http://www.lg.gov.cn/xxgk/xwzx/lgyw/bmdt/content/post_12258697.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9721ba9d4d2e64@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250831
+SUMMARY:跳进故事海，奇遇一整夏——2025经典绘本奇遇展
+LOCATION:龙岗区图书馆
+DESCRIPTION:少儿馆一楼，经典绘本主题展览，面向所有读者。\n地点: 龙岗区图书馆\n时间: 2025-07-01 至 2025-08-30\n详情: https://szlglib.com.cn/information/2281
+END:VEVENT
+BEGIN:VEVENT
+UID:e2846c1b97a1e84c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:轻松读懂高科技系列讲座
+LOCATION:坪山区图书馆
+DESCRIPTION:依托南方科技大学《十万个高科技为什么》丛书，聚焦前沿科技。8/6刘泉影教授主讲《人工智能赋能脑机接口》。\n地点: 坪山区图书馆\n时间: 2025-07-01 至 2025-08-31\n详情: http://ipingshan.sznews.com/content/2025-08/07/content_31655383.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:dd411f542b97e370@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250901
+SUMMARY:阅绘999推荐绘本展
+LOCATION:罗湖区图书馆
+DESCRIPTION:从9.2万种绘本中精选999种、涵盖54国绘本精品书单展览。三楼千手涂涂绘本馆。\n地点: 罗湖区图书馆\n时间: 2025-07-01 至 2025-08-31\n详情: https://www.sohu.com/a/914880708_121106875
+END:VEVENT
+BEGIN:VEVENT
+UID:b75140cf1fab8638@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20251001
+SUMMARY:扬帆起航，探秘蔚蓝——航海之旅科普展览
+LOCATION:宝安科技馆
+DESCRIPTION:四大展区：航海史、航海科技、航海模型运动、互动体验。含VR海洋探险、遥控摄影船挑战。一楼展厅。\n地点: 宝安科技馆\n时间: 2025-07-04 至 2025-09-30\n详情: https://www.baoanone.com/content194695.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd12bb8571fab1b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250727
+SUMMARY:龙华区图书馆暑期公益电影放映
+LOCATION:龙华区图书馆
+DESCRIPTION:每周五、六 19:00-21:00 二楼报告厅，7月放映：萤火奇兵2/武状元苏乞儿/雪人奇缘/功夫之王/赛尔号/大师兄/神秘世界历险记4/武林外传。\n地点: 龙华区图书馆\n时间: 2025-07-04 至 2025-07-26\n详情: http://www.szlhq.gov.cn/lhq/fwztgb/jmsh/wthd/dyzx/content/post_12268673.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a9c8d948503368@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:游学馆|新疆站|坎儿井（加场）
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:绘本阅读《地下长城坎儿井》+非遗拓印手工。三楼游学馆 15:00，4-7岁，限15组。\n地点: 深圳少年儿童图书馆\n时间: 2025-07-05 至 2025-07-05\n详情: https://mp.weixin.qq.com/s/IC6_1T-51rIJivW_7Q60gQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ebca4e9a16b48003@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:曹操的神秘炮兵开启科技创新思维
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:了解三国霹雳车科技+重力小车DIY。文创阅览区书画坊 15:00，6-12岁，25组。\n地点: 深圳少年儿童图书馆\n时间: 2025-07-05 至 2025-07-05\n详情: https://mp.weixin.qq.com/s/6CFqHtmvtIyAobyTXK1-rw
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b595ebf27c5d17@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250719
+SUMMARY:龙华区青少年宫小小科学家公益夏令营
+LOCATION:龙华区青少年宫
+DESCRIPTION:未来机器人美术创作、手摇发电机制作、科普问答竞赛、科学就这Young科普秀。服务120名少年儿童。\n地点: 龙华区青少年宫\n时间: 2025-07-07 至 2025-07-18\n详情: https://www.szlhq.gov.cn/bmdt/content/post_12286912.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8b67f847f0b84cd5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250714
+SUMMARY:舞剧《只此青绿》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:2025中国东方艺术季，以舞作画，将绘画空间造型艺术转化为时空表演艺术。歌剧厅，公益票50元起。\n地点: 深圳滨海艺术中心\n时间: 2025-07-10 至 2025-07-13\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:82b2480f80a1a21f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:宝安区青少年宫AI赋能AIGC工作场景应用沙龙
+LOCATION:宝安区青少年宫
+DESCRIPTION:手把手教AIGC办公应用：一键生成PPT、智能撰写报告、会议纪要生成。一楼大湾区青年发展中心 16:00-17:00。\n地点: 宝安区青少年宫\n时间: 2025-07-10 至 2025-07-10\n详情: https://mp.weixin.qq.com/s?__biz=MzA5OTIxNTgwMA==&mid=2652844043&idx=1&sn=54f02822fcf8ab54550e5f099f50c848
+END:VEVENT
+BEGIN:VEVENT
+UID:d9591e64efb658c0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:健康讲坛第220期：牙周护得好，牙齿陪到老
+LOCATION:深圳图书馆
+DESCRIPTION:健康讲坛，深圳图书馆中心馆五楼报告厅 10:00-11:30\n地点: 深圳图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.szlib.org.cn/activity-item/view/642176.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:4faa0e116f35fc78@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:从异域风潮到日常杯盏：咖啡的文化、风味与健康
+LOCATION:深圳图书馆
+DESCRIPTION:鹏城食话食品安全科普讲座，中心馆一楼南书房 10:30-12:00\n地点: 深圳图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.szlib.org.cn/activity-item/view/654573.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:1e6e16eeb7bd66c1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:心理学堂——智慧父母的养育之二：明确亲子教育的边界
+LOCATION:深圳图书馆
+DESCRIPTION:心理π系列讲座，中心馆一楼讲读厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.szlib.org.cn/activity-item/view/653286.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:1eac5e70464e7b17@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:市民文化大讲堂·APEC的机如何转为深圳的遇
+LOCATION:深圳图书馆
+DESCRIPTION:嘉宾：陆地（北京大学教授），中心馆五楼报告厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.szlib.org.cn/activity-item/view/655515.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:51e89bb07d429855@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:汪星人长寿食谱——宠·爱养宠沙龙
+LOCATION:深圳博物馆金田路馆（历史民俗）
+DESCRIPTION:结合汉方食养思维与现代宠物喂养知识，教主人为爱犬制作夏日长寿鲜食。西式贵宾厅 15:00-16:00，需预约。\n地点: 深圳博物馆金田路馆（历史民俗）\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.shenzhenmuseum.com/activeDetail?resId=e384bbcbb3a0492f84345aeeb5cd069a&clazzName=CmsActive&type=0
+END:VEVENT
+BEGIN:VEVENT
+UID:249307d142298a2a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:拓跋魏的来处与慕容燕的归途讲座
+LOCATION:深圳博物馆同心路馆（古代艺术）
+DESCRIPTION:常彧（深圳大学历史系主任）主讲，聚焦参合陂之战，报告厅 14:30-16:30，需预约。\n地点: 深圳博物馆同心路馆（古代艺术）\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.shenzhenmuseum.com/activeDetail?resId=d5396d40673f4eca8309bb188a967719&clazzName=CmsActive&type=1
+END:VEVENT
+BEGIN:VEVENT
+UID:db2ab4c234869128@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250901
+SUMMARY:深圳科学技术馆暑期延时开放
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:7月11日至8月31日 9:30-18:00，7/13、7/27、8/10、8/24闭馆。每日20:00开放第六日门票。常设展厅50元/人。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2025-07-11 至 2025-08-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c52b6c6c7ba347ac@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:艺术荟·音阅共生|音乐与电影（下）
+LOCATION:南山图书馆
+DESCRIPTION:张长文（哈工大深圳教授级高级建筑师）主讲，古典音乐与电影艺术融合。四楼读者沙龙室 10:00-12:00，18-99岁。\n地点: 南山图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://activity.nslib.cn/activity/info/11625
+END:VEVENT
+BEGIN:VEVENT
+UID:b2540503784cbd17@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:南图沙龙·读书|道德经：法之篇
+LOCATION:南山图书馆
+DESCRIPTION:邱文山主讲，目标拆解与执行心法、断舍离能量管理。四楼读者活动室 14:30-16:30，18-99岁。\n地点: 南山图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://activity.nslib.cn/activity/info/11632
+END:VEVENT
+BEGIN:VEVENT
+UID:2c5b0f101532bc5c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:走进图书馆——图书馆的神秘读者
+LOCATION:南山图书馆
+DESCRIPTION:奥斯卡和西奥多在图书馆遇到五个脑袋怪物的故事。一楼少儿活动室 15:00-15:50，4-9岁。\n地点: 南山图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://activity.nslib.cn/activity/info/11624
+END:VEVENT
+BEGIN:VEVENT
+UID:f513af6757be9032@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250719
+SUMMARY:2025广东省青少年拳击锦标赛暨十五运会拳击测试赛
+LOCATION:宝安体育中心体育馆
+DESCRIPTION:全省18个城市346名运动员角逐32个项目冠军，宝安体育馆升级改造后首场专项赛事。\n地点: 宝安体育中心体育馆\n时间: 2025-07-11 至 2025-07-18\n详情: https://www.sz.gov.cn/cn/xxgk/zfxxgj/gqdt/content/post_12278090.html
+END:VEVENT
+BEGIN:VEVENT
+UID:90aa72a12e04058e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:海洋文化园海洋科普参观体验
+LOCATION:盐田区图书馆
+DESCRIPTION:中国航海日，认识海洋、学习海洋资源开发与保护。四楼海洋文化园 15:00-16:30。\n地点: 盐田区图书馆\n时间: 2025-07-11 至 2025-07-11\n详情: https://www.sohu.com/a/910940882_121106875
+END:VEVENT
+BEGIN:VEVENT
+UID:79787576327eab3f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:如何在AI变革中成为不可替代的自己
+LOCATION:深圳图书馆
+DESCRIPTION:暑期缤纷季活动，中心馆一楼南书房 14:30-16:00\n地点: 深圳图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.szlib.org.cn/activity-item/view/653695.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:c6589eaa2bdefeac@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:中华诗词大讲堂第三季第六讲：对仗与对联
+LOCATION:深圳图书馆
+DESCRIPTION:北馆1F北书房 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.szlib.org.cn/activity-item/view/648847.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:cec752b573831de0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:市民文化大讲堂·长征不能忘的那些事
+LOCATION:深圳图书馆
+DESCRIPTION:嘉宾：李东朗（中央党校教授），中心馆五楼报告厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.szlib.org.cn/activity-item/view/655519.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:a1eeeaed6216aa07@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:人文讲坛第303期：周易、汉易、宋易与术数易
+LOCATION:深圳图书馆
+DESCRIPTION:中心馆五楼报告厅 19:00-21:00\n地点: 深圳图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.szlib.org.cn/activity-item/view/639444.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:d06b30aff859b3e0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:金戈铁甲·武备千秋——中国古代甲胄探究课程
+LOCATION:深圳博物馆同心路馆（古代艺术）
+DESCRIPTION:8-15岁青少年，30名。陈伟东主讲，含近距离观摩触摸复原甲胄体验。报告厅 14:30-16:00，需预约。\n地点: 深圳博物馆同心路馆（古代艺术）\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.shenzhenmuseum.com/activeDetail?resId=fb52125ab41c40c3866005923eb50f05&clazzName=CmsActive&type=0
+END:VEVENT
+BEGIN:VEVENT
+UID:4815eb74136e9738@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:游学馆|新疆站|喀什寻喵迹（第一期）
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:绘本阅读+非遗拓印手工。三楼游学馆 15:00，4-7岁。\n地点: 深圳少年儿童图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://mp.weixin.qq.com/s/us8zshnJb8xzG_yvOSQP7g
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7b1de523beb9df@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:创意课堂×康阅福田：茶艺课堂——借茶解暑
+LOCATION:福田区图书馆
+DESCRIPTION:三楼深圳书房 15:00。\n地点: 福田区图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.sohu.com/a/909416126_121119388
+END:VEVENT
+BEGIN:VEVENT
+UID:baa8778de336c52e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:光明大讲堂——《史记》是如何炼成的
+LOCATION:光明区图书馆
+DESCRIPTION:常彧带你走进司马迁与千古典籍的背后故事。总馆一楼报告厅。\n地点: 光明区图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.szgmlib.com.cn/web/culture/lecture_detail/id/523.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddbb0c3db1eb336b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250727
+SUMMARY:科学小记者·航天主题活动
+LOCATION:光明区少年儿童图书馆
+DESCRIPTION:7/12卫星遥感、7/19飞机飞行奥秘、7/26科普写作技巧。4楼报告厅 15:00-16:30，10-16岁，90人。\n地点: 光明区少年儿童图书馆\n时间: 2025-07-12 至 2025-07-26\n详情: https://www.szgmlib.com.cn/web/culture/sciencereporter_detail/id/37.html
+END:VEVENT
+BEGIN:VEVENT
+UID:77035de2477f755c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:山海之旅·走读盐田——蛛网探秘：半山公园蜘蛛观察
+LOCATION:盐田区图书馆
+DESCRIPTION:自然教育导师陈冰心带领行走半山健步道，寻找蜘蛛认识不同蜘蛛特征和习性。16:00-18:00。\n地点: 盐田区图书馆\n时间: 2025-07-12 至 2025-07-12\n详情: https://www.sohu.com/a/910940882_121106875
+END:VEVENT
+BEGIN:VEVENT
+UID:c55b1151349b87da@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250713
+DTEND;VALUE=DATE:20250721
+SUMMARY:2025 FIBA女篮亚洲杯
+LOCATION:深圳市体育中心体育馆
+DESCRIPTION:国际篮联亚太区最高级别女子篮球赛事，16支队伍参赛。7/19半决赛中国vs日本 19:30。\n地点: 深圳市体育中心体育馆\n时间: 2025-07-13 至 2025-07-20\n详情: https://www.sohu.com/a/916242449_122441659
+END:VEVENT
+BEGIN:VEVENT
+UID:e83dbcd76cebb491@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250713
+DTEND;VALUE=DATE:20250714
+SUMMARY:光明区健康大讲堂——睡眠障碍防治
+LOCATION:光明区图书馆
+DESCRIPTION:刘涛博士科普+多科室专家义诊（失眠咨询/睡眠评估/中医耳穴等）。总馆一楼多功能报告厅 9:00-12:00。\n地点: 光明区图书馆\n时间: 2025-07-13 至 2025-07-13\n详情: https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/gzgg/content/post_12271595.html
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff5a9ac24a4d4e7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250816
+SUMMARY:小小科学家科学探索研学营
+LOCATION:深圳市青少年活动中心（青年广场）
+DESCRIPTION:7-12岁双职工家庭子女，每期104名额。课程含AI编程、科学实验、海洋科技、无人机等。200元/期含保险和部分餐费。少年宫提供流动科普展车。\n地点: 深圳市青少年活动中心（青年广场）\n时间: 2025-07-14 至 2025-08-15\n详情: https://m.bendibao.com/show989341.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9061fec40f6bf627@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250716
+SUMMARY:南图创客空间丨自动往返车
+LOCATION:南山图书馆
+DESCRIPTION:亲手拼装齿轮往返小车，探索旋转运动转化为往返动能。南二楼壹课堂 15:00-16:30，9-12岁。\n地点: 南山图书馆\n时间: 2025-07-15 至 2025-07-15\n详情: https://activity.nslib.cn/activity/info/11631
+END:VEVENT
+BEGIN:VEVENT
+UID:41ed6471e6f65261@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250718
+SUMMARY:乡村骑士×丑角 音乐会版歌剧
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳交响乐团2025-2026音乐季闭幕音乐会，指挥李昊冉。演奏大厅 19:30，票价80-880元。\n地点: 深圳音乐厅\n时间: 2025-07-17 至 2025-07-17\n详情: https://szyyt.com/performance/show_100000937342526.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7610b163cc1e6828@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:健康讲坛第221期：代谢健康管理
+LOCATION:深圳图书馆
+DESCRIPTION:肥胖与脂肪肝的中西医科学调理，中心馆五楼报告厅 10:00-11:30\n地点: 深圳图书馆\n时间: 2025-07-18 至 2025-07-18\n详情: https://www.szlib.org.cn/activity-item/view/642177.html?pageId=141
+END:VEVENT
+BEGIN:VEVENT
+UID:69098e0f38e0d066@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:于渊（柏林音乐厅长笛首席）×匡俊宏（慕尼黑ARD大赛最高奖）。五楼小剧场 19:30，票价80-280元。\n地点: 深圳音乐厅\n时间: 2025-07-18 至 2025-07-18\n详情: https://szyyt.com/performance/show_100000954193225.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c18e41fab47ba92d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:跟名师读名著系列丨古灵精怪动物园
+LOCATION:南山图书馆
+DESCRIPTION:张品丽（深圳市优秀教师）主讲，50首童诗构建奇幻动物园。四楼读者沙龙室 10:00-12:00，6-12岁。\n地点: 南山图书馆\n时间: 2025-07-18 至 2025-07-18\n详情: https://activity.nslib.cn/activity/info/11621
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f763499db1e124@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250826
+SUMMARY:龙岗区流动少年宫梦想进社区
+LOCATION:龙岗区各社区
+DESCRIPTION:13个公益项目140场主题活动：生命安全、心理戏剧、国防教育、AI智能、非遗文化等，服务6300人次。\n地点: 龙岗区各社区\n时间: 2025-07-18 至 2025-08-25\n详情: https://mp.weixin.qq.com/s?__biz=MjM5MTM2MzQyMQ==&mid=2656140189&idx=1&sn=8fdd1c6c365630bb4c54166966b091cf
+END:VEVENT
+BEGIN:VEVENT
+UID:531a51d9a76a50b8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:肢体儿童剧《捣蛋托管班》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:澳门霜冰雪创作实验剧团，托管班里严厉老师与顽皮学生引发充满童趣的滑稽事件。多功能厅 10:30/15:30。\n地点: 深圳滨海艺术中心\n时间: 2025-07-19 至 2025-07-19\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:afc1ebaeb656479d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:科普小讲堂丨高楼不倒的秘密
+LOCATION:南山图书馆
+DESCRIPTION:郄雪刚（国家一级注册建筑师）主讲，从地基、结构、抗震等维度讲解。南二楼壹课堂 14:30-16:30，6-12岁。\n地点: 南山图书馆\n时间: 2025-07-19 至 2025-07-19\n详情: https://activity.nslib.cn/activity/info/11665
+END:VEVENT
+BEGIN:VEVENT
+UID:967abeb063f81ad5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:小小剧本杀：无人岛的宝藏
+LOCATION:福田区图书馆
+DESCRIPTION:二楼少儿阅览区 10:30。\n地点: 福田区图书馆\n时间: 2025-07-19 至 2025-07-19\n详情: https://www.sohu.com/a/909416126_121119388
+END:VEVENT
+BEGIN:VEVENT
+UID:f1025782931bde8d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:中超联赛：深圳新鹏城 vs 青岛海牛
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:深圳唯一中超俱乐部主场，新帅佩普·穆尼奥斯执教。19:35。\n地点: 深圳市体育中心体育场\n时间: 2025-07-19 至 2025-07-19\n详情: https://www.sohu.com/a/916242449_122441659
+END:VEVENT
+BEGIN:VEVENT
+UID:08b3432e94b58cc6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:陈慧娴40周年Fabulous 40巡回演唱会深圳站
+LOCATION:深圳湾体育中心
+DESCRIPTION:19:00，体育馆，已售罄。\n地点: 深圳湾体育中心\n时间: 2025-07-19 至 2025-07-19\n详情: https://news.qq.com/rain/a/20250702A09BTT00
+END:VEVENT
+BEGIN:VEVENT
+UID:313f7de65b58c9fb@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250720
+DTEND;VALUE=DATE:20250721
+SUMMARY:创意视界《伴你高飞》
+LOCATION:福田区图书馆
+DESCRIPTION:负一楼报告厅 15:00。\n地点: 福田区图书馆\n时间: 2025-07-20 至 2025-07-20\n详情: https://www.sohu.com/a/909416126_121119388
+END:VEVENT
+BEGIN:VEVENT
+UID:710b261ab529a614@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250720
+DTEND;VALUE=DATE:20250721
+SUMMARY:创阅汇——航天航空主题之火箭动力源大揭秘
+LOCATION:罗湖区图书馆
+DESCRIPTION:探索火箭动力原理，制作火箭升空灯。三楼活动室 10:30-12:00，需读者证报名。\n地点: 罗湖区图书馆\n时间: 2025-07-20 至 2025-07-20\n详情: https://www.sohu.com/a/914880708_121106875
+END:VEVENT
+BEGIN:VEVENT
+UID:3bba805427d33679@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250723
+DTEND;VALUE=DATE:20251022
+SUMMARY:蒋兆和：属于我的荒草径
+LOCATION:深圳市当代艺术与城市规划馆
+DESCRIPTION:展出蒋兆和80余件代表作品含《流民图稿》《杜甫》等，通过数字交互、AI生成实现传统水墨与智能算法对话。三楼A3展厅，免费。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2025-07-23 至 2025-10-21\n详情: http://art.china.cn/txt/2025-07/23/content_43181855.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:d00d5dbd8e868ec4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250723
+DTEND;VALUE=DATE:20250724
+SUMMARY:第五届馆长少年智慧营创新提案赛
+LOCATION:宝安图书馆
+DESCRIPTION:9-18岁青少年以未来图书馆首席架构师定位参与公共文化空间建设。负一楼报告厅2。\n地点: 宝安图书馆\n时间: 2025-07-23 至 2025-07-23\n详情: https://www.balib.cn/information/46240
+END:VEVENT
+BEGIN:VEVENT
+UID:a149c0545dcef6da@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:市民文化大讲堂·大航海与全球化时代的世界文明格局
+LOCATION:深圳图书馆
+DESCRIPTION:嘉宾：赵林（武汉大学教授），中心馆五楼报告厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-07-25 至 2025-07-25\n详情: https://mp.weixin.qq.com/s?__biz=MjM5NTY5Njc4MQ==&mid=2651670958&idx=2&sn=53db19680353ca0fd8b205b8dc3c3c69
+END:VEVENT
+BEGIN:VEVENT
+UID:227681bc555f67c8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:景焕、章奥哲与广州青年交响乐团湾区巡演
+LOCATION:深圳音乐厅
+DESCRIPTION:庆祝广青交成立15周年，章奥哲（帕格尼尼小提琴比赛金奖）。演奏大厅 19:30，票价80-280元。\n地点: 深圳音乐厅\n时间: 2025-07-25 至 2025-07-25\n详情: https://szyyt.com/performance/show_100000977285556.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cda5ae082fb0a7d2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20251124
+SUMMARY:大成敦煌——敦煌文化艺术大展
+LOCATION:南山博物馆
+DESCRIPTION:华南地区迄今规模最大的敦煌艺术展，205件套珍贵文物，6个1:1数字化复原特级保护洞窟，80余件文物真迹。二层二号专题展厅。成人票98元，亲子票150元起。\n地点: 南山博物馆\n时间: 2025-07-26 至 2025-11-23\n详情: https://sz.bendibao.com/xiuxian/2025324/986166.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8cdbf54fb03c3a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250728
+SUMMARY:新版杂技芭蕾剧《天鹅湖》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:西安战士战旗杂技团，拥有世界杂技最高奖摩纳哥金小丑奖。歌剧厅。\n地点: 深圳滨海艺术中心\n时间: 2025-07-26 至 2025-07-27\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d781b4c156b85761@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:手艺人图书馆研学——旗遇图书馆（非遗旗袍）
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:非遗旗袍传承人唐光艳讲述旗袍故事，体验针线、盘扣、绣花。负一楼文创区101 9:30-11:30，6-12岁。\n地点: 深圳少年儿童图书馆\n时间: 2025-07-26 至 2025-07-26\n详情: https://mp.weixin.qq.com/s/I-GcSI4-XwiZaZN1elsLmA
+END:VEVENT
+BEGIN:VEVENT
+UID:223798e97f3868e5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:八段锦教学
+LOCATION:宝安图书馆
+DESCRIPTION:热身操+八段锦教学，复习一至四式，教学五六式。负一楼多功能活动室 10:00，无需预约。\n地点: 宝安图书馆\n时间: 2025-07-26 至 2025-07-26\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0093c4a4befa9681@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:阅读之光手工活动：好玩的旋转pizza
+LOCATION:福田区图书馆
+DESCRIPTION:二楼少儿阅览区 15:00。\n地点: 福田区图书馆\n时间: 2025-07-26 至 2025-07-26\n详情: https://www.sohu.com/a/909416126_121119388
+END:VEVENT
+BEGIN:VEVENT
+UID:82f6c6f0462173b8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:吉克隽逸太阳的女儿巡回演唱会深圳站
+LOCATION:深圳市体育中心体育馆
+DESCRIPTION:19:30，票价380-1280元。\n地点: 深圳市体育中心体育馆\n时间: 2025-07-26 至 2025-07-26\n详情: https://news.qq.com/rain/a/20250723A09XRG00
+END:VEVENT
+BEGIN:VEVENT
+UID:86e8219b9e5a95ec@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250727
+DTEND;VALUE=DATE:20250728
+SUMMARY:2025年深圳市科普讲解大赛决赛
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:深圳市科协主办，科普爱好者参赛，用通俗易懂的语言传播科学知识。公益免费。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2025-07-27 至 2025-07-27\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:07d5a005ceaa3880@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250727
+DTEND;VALUE=DATE:20250728
+SUMMARY:非一般音乐会——铜管五重奏
+LOCATION:宝安图书馆
+DESCRIPTION:探秘音乐主题分享+铜管五重奏与打击乐演奏家联袂呈现。负一楼多功能活动室 15:00，限60人。\n地点: 宝安图书馆\n时间: 2025-07-27 至 2025-07-27\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5b67be52a13549cc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20251103
+SUMMARY:天有九野——空间解锁与维度重塑（首场馆藏展）
+LOCATION:深圳市当代艺术与城市规划馆
+DESCRIPTION:开馆以来首届典藏展，15位艺术家23组作品，含安尼施·卡普尔等。入选2025年全国美术馆青年策展人扶持计划。云中心3-5层，免费。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2025-07-29 至 2025-11-02\n详情: https://www.sznews.com/news/content/2025-08/20/content_31669952.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:79f36eaa983486b1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250916
+SUMMARY:匠耀湾区——宝安工匠专题展
+LOCATION:宝安1990（文化馆博物馆美术馆）
+DESCRIPTION:沉浸式展陈展示宝安工匠在精密制造、新材料、智能装备领域的突破。三楼，含仿生灵巧手等展品。\n地点: 宝安1990（文化馆博物馆美术馆）\n时间: 2025-07-30 至 2025-09-15\n详情: https://ishare.ifeng.com/c/s/8lPVNsmqPiD
+END:VEVENT
+BEGIN:VEVENT
+UID:7ccd25aa889c9737@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:南图双语故事会|Go Away, Floppy
+LOCATION:南山图书馆
+DESCRIPTION:小狗Floppy捣乱后被误会又找回的暖心故事。一楼少儿活动室 19:30-20:30，5-8岁。\n地点: 南山图书馆\n时间: 2025-07-31 至 2025-07-31\n详情: https://activity.nslib.cn/activity/info/11605
+END:VEVENT
+BEGIN:VEVENT
+UID:6738560bcb4eeff3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:粤剧《白蛇传·情》（曾小敏主演）
+LOCATION:南山文体中心聚橙剧院
+DESCRIPTION:大剧院 20:00，票价50-480元，限时8.5折。\n地点: 南山文体中心聚橙剧院\n时间: 2025-07-31 至 2025-07-31\n详情: https://news.sohu.com/a/1045074746_121124708
+END:VEVENT
+BEGIN:VEVENT
+UID:aee11cbcc1be4a18@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:市民文化大讲堂·古罗马帝国的兴衰
+LOCATION:深圳图书馆
+DESCRIPTION:嘉宾：赵林（武汉大学教授），中心馆五楼报告厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-08-02 至 2025-08-02\n详情: https://mp.weixin.qq.com/s?__biz=MjM5NTY5Njc4MQ==&mid=2651641368&idx=2&sn=5c2a5e3a7190f73fcc6874333d58521b
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b3dc5db1717fc0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:纪念莫扎特诞辰270周年 音乐会版歌剧《唐璜》
+LOCATION:深圳音乐厅
+DESCRIPTION:2026深圳文博会艺术季特别制作，深圳交响乐团+深圳歌剧舞剧院合唱团联合呈现。演奏大厅 19:30，票价100-580元。\n地点: 深圳音乐厅\n时间: 2025-08-02 至 2025-08-02\n详情: https://szyyt.com/performance/show_100000985618174.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a97de9e9f29be106@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:手艺人图书馆研学——锔星图书馆（锔瓷技艺）
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:探秘锔瓷技艺，把碎瓷裂缝变成金色星河。负一楼文创区101 9:30-11:30，6-12岁。\n地点: 深圳少年儿童图书馆\n时间: 2025-08-02 至 2025-08-02\n详情: https://mp.weixin.qq.com/s/sB6MqyFYbhjvOgpdZb1rWg
+END:VEVENT
+BEGIN:VEVENT
+UID:5284c0c227fec19b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250804
+SUMMARY:舞剧《天工开物》
+LOCATION:南山文体中心聚橙剧院
+DESCRIPTION:2025深圳文博会艺术季重点项目。\n地点: 南山文体中心聚橙剧院\n时间: 2025-08-02 至 2025-08-03\n详情: http://wtl.sz.gov.cn/bsfw/mzwhhd/mzyc/content/post_12267693.html
+END:VEVENT
+BEGIN:VEVENT
+UID:42835993aeae1428@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250806
+DTEND;VALUE=DATE:20251110
+SUMMARY:阿尔丰斯·穆夏——新艺术运动与1900年巴黎世界博览会
+LOCATION:南山博物馆
+DESCRIPTION:精选捷克三家文博机构117件/组珍品，44幅穆夏原作。一层一号专题展厅，免费免预约。\n地点: 南山博物馆\n时间: 2025-08-06 至 2025-11-09\n详情: https://www.sohu.com/a/920900341_121956422
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4f894dd4422f9a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250806
+DTEND;VALUE=DATE:20250811
+SUMMARY:斯拉法的下雪秀 SLAVA'S SNOW SHOW
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯传奇丑角大师斯拉法·波鲁林创作主演，融合默剧、形体表演、舞台视效。歌剧厅，票价180-680元，公益票50元。适合8岁以上。\n地点: 深圳滨海艺术中心\n时间: 2025-08-06 至 2025-08-10\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:013be8f66e9af7f3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250806
+DTEND;VALUE=DATE:20250807
+SUMMARY:探秘敦煌·时空讲堂|敦煌时光机：壁上千年
+LOCATION:南山图书馆
+DESCRIPTION:以故事形式解读敦煌壁画，互动填色解锁千年色彩密码。一楼少儿活动室 15:00，4-7岁亲子家庭。\n地点: 南山图书馆\n时间: 2025-08-06 至 2025-08-06\n详情: https://activity.nslib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a263014a14c4fc36@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250807
+DTEND;VALUE=DATE:20250808
+SUMMARY:跟着音乐去旅行 暑期亲子音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:俄罗斯青年小提琴家与意大利钢琴家室内乐音乐会，曲目含圣桑《动物狂欢节》等。五楼小剧场 19:30，票价80-380元。\n地点: 深圳音乐厅\n时间: 2025-08-07 至 2025-08-07\n详情: https://szyyt.com/performance/show_100001006641353.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6afc130bc0d889cf@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250811
+SUMMARY:陶喆Soul Power世界巡回演唱会深圳站
+LOCATION:深圳湾体育中心
+DESCRIPTION:8月8/9/10日连唱三天，每场预计22000观众。体育场，票价380-1380元。\n地点: 深圳湾体育中心\n时间: 2025-08-08 至 2025-08-10\n详情: https://news.qq.com/rain/a/20250723A09XRG00
+END:VEVENT
+BEGIN:VEVENT
+UID:e4026c690dfd7a59@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250815
+SUMMARY:龙岗乐读科普节——科学实验室系列
+LOCATION:龙岗区图书馆
+DESCRIPTION:8/8-8/14，电动绘图仪/放映机/磁悬浮永动笔/牛顿摆/液压挖土机/自动发球机/液压升降台/万花筒/电动道闸/避障机器人。三楼客家文献收藏中心，8-12岁，公益免费。\n地点: 龙岗区图书馆\n时间: 2025-08-08 至 2025-08-14\n详情: https://www.163.com/dy/article/K6CO1N8R0525CKB5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:478ba6b2e1330069@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250811
+SUMMARY:舞剧《永不消逝的电波》
+LOCATION:坪山大剧院
+DESCRIPTION:经典舞剧，坪山大剧院暑期演出系列。\n地点: 坪山大剧院\n时间: 2025-08-08 至 2025-08-10\n详情: https://www.sznews.com/news/content/2025-07/08/content_31623014.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:37deadf1703c57dd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+SUMMARY:市民文化大讲堂·实干成就梦想
+LOCATION:深圳图书馆
+DESCRIPTION:嘉宾：陆建新（中建钢构首席专家，全国劳模），中心馆五楼报告厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-08-09 至 2025-08-09\n详情: https://mp.weixin.qq.com/s?__biz=MjM5NTY5Njc4MQ==&mid=2651641368&idx=2&sn=5c2a5e3a7190f73fcc6874333d58521b
+END:VEVENT
+BEGIN:VEVENT
+UID:56c066fc4835b6ee@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250902
+SUMMARY:山海深处——第18回 宝城十二品书法展
+LOCATION:宝安图书馆
+DESCRIPTION:12位书法家72件近年力作，涵盖篆隶楷行草五体。负一楼展览厅。\n地点: 宝安图书馆\n时间: 2025-08-09 至 2025-09-01\n详情: https://www.balib.cn/information/46077
+END:VEVENT
+BEGIN:VEVENT
+UID:f545aeddb55b58d2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250810
+DTEND;VALUE=DATE:20250811
+SUMMARY:市民文化大讲堂·深圳创新型城市的发展与展望
+LOCATION:深圳图书馆
+DESCRIPTION:嘉宾：郭万达（综合开发研究院常务副院长），中心馆五楼报告厅 15:00-17:00\n地点: 深圳图书馆\n时间: 2025-08-10 至 2025-08-10\n详情: https://mp.weixin.qq.com/s?__biz=MjM5NTY5Njc4MQ==&mid=2651641368&idx=2&sn=5c2a5e3a7190f73fcc6874333d58521b
+END:VEVENT
+BEGIN:VEVENT
+UID:79c867b807931139@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250810
+DTEND;VALUE=DATE:20250811
+SUMMARY:科普作家邓昕分享会《熊猫航天员》
+LOCATION:龙岗文化中心
+DESCRIPTION:跟随熊猫星星了解中国航天员的选拔与训练、航天科技、太空生活。D区一楼学术报告厅 10:00-11:30，6岁以上亲子家庭。\n地点: 龙岗文化中心\n时间: 2025-08-10 至 2025-08-10\n详情: https://www.163.com/dy/article/K6CO1N8R0525CKB5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e6db06a42ffd3e14@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:南图双语故事会|Pete the Cat I Love My White Shoes
+LOCATION:南山图书馆
+DESCRIPTION:皮特猫的白鞋子踩到奇怪东西变色了，但它不哭。一楼少儿活动室 15:00-16:30，5-8岁。\n地点: 南山图书馆\n时间: 2025-08-11 至 2025-08-11\n详情: https://activity.nslib.cn/activity/info/11661
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8170abee4f8a42@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:手艺人图书馆——錾能图书馆（金属锻造）
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:亲手锻造东方金属护身符，体验錾刻工艺。负一楼文创区101 9:30-11:30，6-12岁。\n地点: 深圳少年儿童图书馆\n时间: 2025-08-16 至 2025-08-16\n详情: https://mp.weixin.qq.com/s/81zNm61v9NiNSeYVmRqbaA
+END:VEVENT
+BEGIN:VEVENT
+UID:c54421b894a07fbb@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:烽火岁月，胜利荣光——纪念抗战胜利80周年
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:回顾14年抗战史，解密摩尔斯密码，制作童心向党手工。文创区101 15:30-16:30，6-12岁，30人。\n地点: 深圳少年儿童图书馆\n时间: 2025-08-16 至 2025-08-16\n详情: https://mp.weixin.qq.com/s/ClpJ7RJxTngAWWMFkHhZXw
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8812990ba85a66@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:哈利·波特奇妙魔法之旅音乐会
+LOCATION:南山文体中心聚橙剧院
+DESCRIPTION:哈利·波特奇妙魔法之旅音乐会。南山文体中心聚橙剧院举办。收费。\n地点: 南山文体中心聚橙剧院\n时间: 2025-08-16 至 2025-08-16\n详情: http://wtl.sz.gov.cn/bsfw/mzwhhd/mzyc/content/post_12267693.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9880246748cf3a1a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250819
+SUMMARY:虎洲杯深圳女排精英赛
+LOCATION:宝安体育中心体育馆
+DESCRIPTION:塞尔维亚（世锦赛卫冕冠军）、荷兰、加拿大、保加利亚女排参赛。\n地点: 宝安体育中心体育馆\n时间: 2025-08-16 至 2025-08-18\n详情: https://new.qq.com/rain/a/20250809A03N9I00
+END:VEVENT
+BEGIN:VEVENT
+UID:892ab03eb9ef5744@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+SUMMARY:舒伯特的诗意花园——吉他大师与女高音七夕音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:阿根廷吉他名家帕布罗·马尔克斯与格莱美奖巴洛克女高音。演奏大厅 19:30，双人套票520元。\n地点: 深圳音乐厅\n时间: 2025-08-19 至 2025-08-19\n详情: https://szyyt.com/performance/show_100000959733198.html
+END:VEVENT
+BEGIN:VEVENT
+UID:54edea3c278f6211@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+SUMMARY:福田区图书馆×华强北博物馆：小小创客一日研学
+LOCATION:福田区图书馆
+DESCRIPTION:8-16岁，上午参观华强北博物馆+下午制作智能语音小台灯。\n地点: 福田区图书馆\n时间: 2025-08-20 至 2025-08-20\n详情: https://www.sohu.com/a/925327564_121119388
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6671c4473abce8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+SUMMARY:英文儿童音乐剧《阿里巴巴和四十大盗》
+LOCATION:坪山大剧院
+DESCRIPTION:英文儿童音乐剧，亲子友好。20:00。\n地点: 坪山大剧院\n时间: 2025-08-20 至 2025-08-20\n详情: https://www.sznews.com/news/content/2025-07/08/content_31623014.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4030f6851447e4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250825
+SUMMARY:意大利音乐剧《神曲》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:基于但丁同名诗作改编，70余个动态3D场景。歌剧厅，票价280-980元，公益票50元。\n地点: 深圳滨海艺术中心\n时间: 2025-08-22 至 2025-08-24\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:bf18e477f16bdba2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250825
+SUMMARY:鹿晗Season4亚洲巡演深圳站
+LOCATION:深圳市体育中心体育馆
+DESCRIPTION:8月22日和24日两场，看台377-2177元。\n地点: 深圳市体育中心体育馆\n时间: 2025-08-22 至 2025-08-24\n详情: https://news.qq.com/rain/a/20250723A09XRG00
+END:VEVENT
+BEGIN:VEVENT
+UID:523ff3938b041cdd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:手艺人图书馆——绣才图书馆（刺绣）
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:以针为笔以线为墨，体验桑蚕丝刺绣工艺。负一楼文创区101 9:30-11:30，6-12岁。\n地点: 深圳少年儿童图书馆\n时间: 2025-08-23 至 2025-08-23\n详情: https://mp.weixin.qq.com/s/33JbS91wr0IvBod8ecM0hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:dd485fada4f52cfe@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250825
+SUMMARY:数字图书馆·科学大冒险系列
+LOCATION:福田区图书馆
+DESCRIPTION:水中彩虹/明灭可见/会躲避的探测器/月球车的秘密武器，一楼绘本工厂。\n地点: 福田区图书馆\n时间: 2025-08-23 至 2025-08-24\n详情: https://www.sohu.com/a/925327564_121119388
+END:VEVENT
+BEGIN:VEVENT
+UID:929ae5faf4910b55@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250825
+SUMMARY:话剧《长安十二时辰》
+LOCATION:南山文体中心聚橙剧院
+DESCRIPTION:话剧《长安十二时辰》。南山文体中心聚橙剧院举办。收费。\n地点: 南山文体中心聚橙剧院\n时间: 2025-08-23 至 2025-08-24\n详情: http://wtl.sz.gov.cn/bsfw/mzwhhd/mzyc/content/post_12267693.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa5ea96ba9bf7d3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250829
+SUMMARY:魅之回响——远古与大地多民族童声合唱音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:多民族童声合唱团与非遗传承人同台，壮族、纳西族、哈萨克族文化。演奏大厅 20:00，票价80-380元。\n地点: 深圳音乐厅\n时间: 2025-08-28 至 2025-08-28\n详情: https://szyyt.com/performance/show_100001019264395.html
+END:VEVENT
+BEGIN:VEVENT
+UID:033228031e5f514f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250831
+SUMMARY:话剧《Skylight天色》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:谢君豪、王菀之主演，司徒慧焯导演，粤语演出普通话字幕。歌剧厅，票价180-680元，公益票50元。\n地点: 深圳滨海艺术中心\n时间: 2025-08-29 至 2025-08-30\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b4518f353577795c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20250801
+SUMMARY:骥跃升腾——三彩马的世界
+LOCATION:深圳博物馆同心路馆（古代艺术）
+DESCRIPTION:十五运会马术比赛配套文物展，借展陕西唐三彩艺术博物馆42套唐代文物珍品，5-6号展厅。\n地点: 深圳博物馆同心路馆（古代艺术）\n时间: 2025-11-05 至 2025-07-31\n详情: https://www.shenzhenmuseum.com/exhibitiondetail?clazzName=CmsExhibition&resId=2ea4edd71d85433b89bf9e68b0e4c68e&type=2
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e3b94e36d016a7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:吉金春秋——深圳博物馆铜器展
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:深圳博物馆藏铜器常设展，展出商周至明清铜器精品。同心路馆10号展厅。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e236c26d9ce2d0ed@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:问陶之旅——深圳博物馆陶瓷展
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:深圳博物馆藏陶瓷常设展，涵盖新石器时代到明清各时期陶瓷。同心路馆11号展厅。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:07fa4c0fa23dd1e7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:深圳改革开放史展览
+LOCATION:深圳博物馆（改革开放展览馆）
+DESCRIPTION:深圳改革开放主题常设展，展示深圳从边陲小镇到国际化大都市的发展历程。\n地点: 深圳博物馆（改革开放展览馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:99264feb21ef5495@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:古代深圳——深圳历史展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳古代历史常设展，展示深圳7000年人类活动史和1700年城市史。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:72546bfb4479ec65@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:近代深圳——深圳近代史展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳近代历史常设展，展示深圳从鸦片战争到解放战争时期的历史。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4f5cfb3a7b5ac07d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:深圳民俗文化展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳民俗文化常设展，展示广府、客家、海洋等多元民俗文化。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:500d9e88cbafc3ea@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:世界野生动物标本展
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:深圳博物馆世界野生动物标本常设展，展出非洲、美洲、澳洲等地的珍稀动物标本，亲子友好。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:5bb60ae2ead1172f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:南头古城常设历史展
+LOCATION:南头古城
+DESCRIPTION:南头古城历史陈列展，展示深圳1700年城市起源历史。免费参观。\n地点: 南头古城\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6c935843c853b559@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国版画博物馆常设展
+LOCATION:中国版画博物馆
+DESCRIPTION:中国版画博物馆常设展览，展示中国版画艺术发展历程及经典作品。免费参观。\n地点: 中国版画博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:669dde734ec4c79c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:龙岗客家民俗博物馆常设展（鹤湖新居）
+LOCATION:龙岗客家民俗博物馆
+DESCRIPTION:全国最大客家围屋鹤湖新居，展示客家民俗文化、农耕工具、婚俗服饰等。免费免预约，周二至周日10:00-17:00（周一闭馆）。地址：龙岗区龙岗街道南联社区罗瑞合北街1号。\n地点: 龙岗客家民俗博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.lg.gov.cn\n联系: 0755-84297960
+END:VEVENT
+BEGIN:VEVENT
+UID:f307bc90d18f5c48@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:宝安城市规划展览馆常设展
+LOCATION:宝安城市规划展览馆
+DESCRIPTION:宝安城市规划展览馆常设展，展示宝安城市发展历程与未来规划。裸眼3D影片、城市沙盘、产业介绍。周二至周日9:30-18:00（周一闭馆），免费免预约。周末定时讲解10:45及15:00。地址：宝安区宝兴路1号（宝安图书馆二楼）。\n地点: 宝安城市规划展览馆\n时间: 2026-01-01 至 2026-12-31\n详情: http://www.baoan.gov.cn/mlba/barw/cgfw/\n联系: 0755-23224727
+END:VEVENT
+BEGIN:VEVENT
+UID:fdbfa53cf6fac755@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:宝安1990文化馆常设展
+LOCATION:宝安1990文化馆
+DESCRIPTION:宝安1990（原宝安老三馆）由宝安图书馆少儿分馆、宝安文化馆、音乐厅组成，含展览、演出、阅读等文化活动。免费参观。\n地点: 宝安1990文化馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4a08b4b30f50837e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:蛇口海洋科普馆常设展
+LOCATION:蛇口海洋科普馆
+DESCRIPTION:蛇口海洋科普馆常设展，划分海洋生态与贝类生物区、贝类生物进化及应用区、海洋生态文明保护与建设区、海洋生态与鱼类区四大展区。免费参观。\n地点: 蛇口海洋科普馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8caf539fc3b9e7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:太空奥德赛——大型沉浸式科幻冒险体验
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:XR大空间内体验2099年科技加持下的太空探险之旅，8K效果的火星、土卫6、巨蟹座嵌合星、高维空间等宇宙奇观。二层。需购票。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab219e480449445@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260817
+SUMMARY:奔腾的印记——东西方马主题版画艺术特展
+LOCATION:中国版画博物馆
+DESCRIPTION:东西方马主题版画艺术特展，于观澜版画美术馆展出。免费参观。\n地点: 中国版画博物馆\n时间: 2026-03-28 至 2026-08-16\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5d287df85a51981d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20261102
+SUMMARY:探秘国宝萌友——中国濒危保护动物大展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:国家动物博物馆×深圳科学技术馆联合打造，集珍稀标本、沉浸式互动、权威科普于一体。二层临时展厅B。需购票。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-04-04 至 2026-11-01\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb6f564c7ab9f9f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260901
+SUMMARY:仙湖植物园生命科学大讲堂
+LOCATION:仙湖植物园
+DESCRIPTION:仙湖植物园在自然课堂举办“生命科学大讲堂”系列科普活动，邀请中国科学院院士等顶尖科学家做专题分享，涵盖植物化学、天然产物研究等领域。面向科研人员、师生及公众开放，旨在推动植物科学普及、科研创新与青少年科学素养培育深度融合。仙湖植物园持续办好自然课堂与生命科学大讲堂，后续将持续推出新一期活动。\n地点: 仙湖植物园\n时间: 2026-04-24 至 2026-08-31\n详情: http://cgj.sz.gov.cn/zwgk/gzdt/content/post_12765005.html
+END:VEVENT
+BEGIN:VEVENT
+UID:89f31528a0282e5e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260719
+SUMMARY:PONG！张达利艺术展
+LOCATION:深圳市当代艺术与城市规划馆
+DESCRIPTION:PONG！张达利艺术展，深圳市当代艺术与城市规划馆云中心3-5层。每张门票捆绑1枚球，可在球池内自主打捞。暑期延时至21:00。地铁3号线/4号线少年宫站。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2026-04-28 至 2026-07-18\n详情: https://m.sohu.com/a/1047164870_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:0971d94e3e84fade@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260910
+SUMMARY:载文蕴艺——中国历代金石碑拓大展
+LOCATION:深圳美术馆
+DESCRIPTION:载文蕴艺——中国历代金石碑拓大展，四层14-18号展厅。探源华夏文脉，汉代石刻的万千气象。免费免预约。\n地点: 深圳美术馆\n时间: 2026-04-30 至 2026-09-09\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:b09c4d5117bcd43d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260901
+SUMMARY:观澜河干流碧道全线开放
+LOCATION:观澜河湿地公园（观澜河干流碧道）
+DESCRIPTION:观澜河干流碧道全线14.2公里正式建成向市民开放，南起深圳市艺术高中东门跨河桥，北至企坪深莞交界处，贯穿龙华、观湖、福城、观澜4个街道。碧道串联运动、智慧、文化、古韵、生态五段主题特色，包含14.2公里骑行道、23公里慢跑道。特色节点包括绿洲回澜萤火虫科普教育基地（含约4000平方米人工湿地）、观澜古墟、历史公园等16处水文化特色节点。端午龙舟竞渡、麒麟起舞等客家民俗活动在廊桥驿节点举办。\n地点: 观澜河湿地公园（观澜河干流碧道）\n时间: 2026-05-09 至 2026-08-31\n详情: http://www.szlhq.gov.cn/jddt/content/post_12771119.html
+END:VEVENT
+BEGIN:VEVENT
+UID:04faf09dfab864d5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安城市规划展览馆志愿讲解活动
+LOCATION:宝安城市规划展览馆
+DESCRIPTION:第八届城市代言志愿讲解活动，80名中英文志愿者提供公益讲解，周末定时讲解10:45及15:00。免费。\n地点: 宝安城市规划展览馆\n时间: 2026-05-10 至 2026-08-31\n详情: http://www.baoan.gov.cn\n联系: 0755-23224727
+END:VEVENT
+BEGIN:VEVENT
+UID:5927de07dc3e8381@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260727
+SUMMARY:来处与归途：三燕百年
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:三燕历史文化特展，深圳博物馆金田路馆。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-05-18 至 2026-07-26\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:14d2e3e1d7ffebd3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260801
+SUMMARY:骥跃升腾——三彩马的世界
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:唐三彩马主题特展，深圳博物馆同心路馆。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-05-18 至 2026-07-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:862ef917879ae1df@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260629
+SUMMARY:深圳市户外运动系列活动——山海连城·骑乐无穷骑行深圳
+LOCATION:龙华环城绿道（及全市12条优质绿道）
+DESCRIPTION:由深圳市文化广电旅游体育局主办、深圳市城市管理和综合执法局协办的大型户外运动系列活动，涵盖骑行、徒步、定向越野、模型运动、帆船五大主题。骑行活动共设15个场次，串联全市12条优质绿道，包括龙华环城绿道在内的多条绿道。活动持续7个月，吸引两万余人次参与。定向越野赛事中，4月19日五园连通超级定向赛登陆莲花山公园，决赛赛道串联笔架山公园、中心公园、梅林山公园、莲花山公园、银湖山公园，全程约17公里。\n地点: 龙华环城绿道（及全市12条优质绿道）\n时间: 2026-05-25 至 2026-06-28\n详情: http://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12871835.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7aa58d763e14ad@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20261101
+SUMMARY:薪火相传 稚笔生花——2026深圳美术馆少儿艺术展
+LOCATION:深圳美术馆
+DESCRIPTION:从全市1400余件投稿中遴选出140幅少儿佳作，涵盖国画、油画、水彩、数字艺术等。免费免预约。\n地点: 深圳美术馆\n时间: 2026-05-29 至 2026-10-31\n详情: http://m.toutiao.com/group/7658324154139148850/
+END:VEVENT
+BEGIN:VEVENT
+UID:5d4add6d9f916dac@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳人才公园灯光秀
+LOCATION:深圳人才公园
+DESCRIPTION:深圳人才公园常规灯光秀表演，夏秋季（4-10月）每周五、周六及法定节假日及节假日前一晚19:30、20:30、21:30各一场，每场约15分钟。以华润、阿里、百度、腾讯等企业地标建筑为背景墙，表演风格唯美、抽象、浪漫。最佳观赏点：无忧广场、星光桥、π桥。\n地点: 深圳人才公园\n时间: 2026-06-01 至 2026-08-31\n详情: https://sz.bendibao.com/xiuxian/2024428/972781.shtm
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1509cf83fac8aa@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:欢乐港湾《鲲鹏之梦》主题水秀
+LOCATION:欢乐港湾
+DESCRIPTION:欢乐港湾庆典广场每天上演的灯光水秀，以「鲲鹏之梦」意象承载深圳城市主题。水秀平日20:00一场，周末及节假日20:00、21:00两场，每场15分钟。配套庆典广场音乐喷泉，平日19:30，周末及节假日19:30、20:30，每场15分钟。逢周一停演检修。\n地点: 欢乐港湾\n时间: 2026-06-01 至 2026-08-31\n详情: http://sz.bendibao.com/xiuxian/2024428/972846.shtm
+END:VEVENT
+BEGIN:VEVENT
+UID:49138b63672f6c56@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260727
+SUMMARY:闻香识云南——云南风土微观气味篇展览
+LOCATION:中山公园（深圳）
+DESCRIPTION:在南头古城中山南街83号（地铁12号线中山公园站D出口附近）举办的文化展览，通过感官体验了解云南独特的风土人情，从气味、作物、市集等多个维度解析彩云之南的魅力。\n地点: 中山公园（深圳）\n时间: 2026-06-01 至 2026-07-26\n详情: https://m.sohu.com/a/1048684047_121956422
+END:VEVENT
+BEGIN:VEVENT
+UID:6225892f7b57a59a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:红坳公园向日葵花海
+LOCATION:光明区红坳公园
+DESCRIPTION:红坳公园向日葵花海全面盛放，打造夏日金色花境打卡点，依托自然生态营造清雅氛围，适合亲子赏花拍照。\n地点: 光明区红坳公园\n时间: 2026-06-01 至 2026-08-31\n详情: http://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12854812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fc14e9ca7bec5905@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:大鹏所城禁毒历史文化游园打卡活动
+LOCATION:大鹏所城
+DESCRIPTION:2026年6月全民禁毒宣传月期间，大鹏新区禁毒办联合大鹏办事处在大鹏所城开展系列活动。古城集结号——我们是所城守门人志愿者培训率先启动，禁毒社工带领志愿者实地走访南门、食烟巷、赖恩爵将军第等点位。无毒旅程你我同行禁毒历史文化游园打卡活动，参与者手持通关文牒穿梭古城街巷，设置投壶、拼图、知识问答等六大趣味闯关游戏。5名青少年志愿者化身讲解员向游客讲述赖恩爵依法禁烟、率军取得九龙海战胜利的壮举。\n地点: 大鹏所城\n时间: 2026-06-01 至 2026-06-30\n详情: http://www.dpxq.gov.cn/dpgaj/gkmlpt/content/12/12878/post_12878871.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ec931006df30025b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:大鹏所城常态化古韵雅集与客家民俗体验
+LOCATION:大鹏所城
+DESCRIPTION:暑假期间大鹏所城依托630年古城文化底蕴，常态化开展古韵雅集、客家民俗体验、古风打卡活动。游客在街巷漫游中触摸城市文脉，沉浸式感受古今交融的国风美感。较场尾-大鹏所城片区端午主题市集热闹开市，古城文化与渔家非遗相得益彰。\n地点: 大鹏所城\n时间: 2026-06-01 至 2026-08-31\n详情: https://weibo.com/ttarticle/p/show?id=2309405319080000749703
+END:VEVENT
+BEGIN:VEVENT
+UID:6994cb882ee5f64b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:2026深圳夏日惊喜系列文体旅商活动
+LOCATION:深圳全城（含大鹏半岛、盐田海滨栈道、较场尾等）
+DESCRIPTION:深圳推出2026深圳夏日惊喜系列文体旅商活动，全城超200项文体旅活动轮番上线。依托260公里绝美海岸线打造差异化全龄适配夏日海景玩法。盐田海滨栈道依山临海，山海交融，是徒步散心、沉浸式拥抱海风的绝佳路线。较场尾民宿小镇一站式配齐民宿、美食、文创市集，解锁慢节奏海滨度假。各大滨海片区特色鲜明，适配多元出游需求。\n地点: 深圳全城（含大鹏半岛、盐田海滨栈道、较场尾等）\n时间: 2026-06-01 至 2026-08-31\n详情: https://weibo.com/ttarticle/p/show?id=2309405319080000749703
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a77ecd7f95eb6f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:光明欢乐田园四季花海与农耕体验
+LOCATION:光明小镇·欢乐田园
+DESCRIPTION:光明欢乐田园园区北部观景台可俯瞰稻田艺术景观、向日葵花海等四季特色农业景观。夏季可观荷花、向日葵花海，设有280处共享农场供市民体验农耕。采摘园内草莓、小番茄等应季鲜果可亲手采摘。乘观光小火车穿梭花海，坐生态游船泛舟湖上，丛林穿越挑战自我，家庭露营地坐享田园生活。适合亲子家庭体验农耕文化。\n地点: 光明小镇·欢乐田园\n时间: 2026-06-01 至 2026-08-31\n详情: https://baike.baidu.com/item/%E5%85%89%E6%98%8E%E6%AC%A2%E4%B9%90%E7%94%B0%E5%9B%AD/60655682
+END:VEVENT
+BEGIN:VEVENT
+UID:93ea277004f4eafd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:坪山中心公园坪山之声音乐喷泉
+LOCATION:坪山区中心公园
+DESCRIPTION:坪山中心公园坪山之声音乐喷泉逢周六、周日及节假日夜间演出，4-9月开放时间为20:00-20:30；每周一至周五17:30到18:00开放游玩模式。公园还设有自然艺术步道、树冠长廊和雕塑小径，毗邻自然教育中心，提供自然课程和艺术活动。适合亲子家庭休闲游玩。\n地点: 坪山区中心公园\n时间: 2026-06-01 至 2026-08-31\n详情: https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9D%AA%E5%B1%B1%E5%8C%BA%E4%B8%AD%E5%BF%83%E5%85%AC%E5%9B%AD/63700594
+END:VEVENT
+BEGIN:VEVENT
+UID:3399e1e7d6f49541@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260607
+SUMMARY:2026年深圳市观澜河龙舟赛
+LOCATION:观澜河（龙华区区委区政府大桥至人民桥段）
+DESCRIPTION:深圳市十大品牌赛事之一，由深圳市文化广电旅游体育局联合龙华区人民政府主办。赛事设置公开组、社区组、机关企事业组三大组别，共45支队伍约750名选手参赛，涵盖俄罗斯、新加坡、马来西亚等国际队伍及清华大学深圳研究院等高校队伍。现场配套舞龙、舞麒麟、机器人方阵、全运会同款鳌鱼装置等文艺展演及设有60个展位的龙舟市集。吸引约6万名观众现场观看。\n地点: 观澜河（龙华区区委区政府大桥至人民桥段）\n时间: 2026-06-05 至 2026-06-06\n详情: https://baike.baidu.com/item/2026%E5%B9%B4%E6%B7%B1%E5%9C%B3%E5%B8%82%E8%A7%82%E6%BE%9C%E6%B2%B3%E9%BE%99%E8%88%9F%E8%B5%9B/67916846
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4bcba8ef3214fc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山公园·音乐时光系列音乐会
+LOCATION:深圳湾公园
+DESCRIPTION:南山公园·音乐时光系列音乐会每周六晚7时在深圳湾滨海休闲带西段和大沙河长廊两处城市公共空间交替举行，让市民在欣赏音乐的同时享受自然环境。活动免费无须预约。夏季期间持续举办。\n地点: 深圳湾公园\n时间: 2026-06-06 至 2026-08-31\n详情: http://www.szns.gov.cn/ztzl/slh/jryw/content/post_12367112.html
+END:VEVENT
+BEGIN:VEVENT
+UID:28b3e80999842510@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260612
+SUMMARY:2026年全国自由式小轮车锦标赛暨全国青年自由式小轮车锦标赛
+LOCATION:光明区虹桥公园自由式小轮车场地
+DESCRIPTION:由中国自行车运动协会主办的全国性赛事，在光明区虹桥公园自由式小轮车场地举行。汇聚孙思蓓、孙佳琪、周惠敏等国内第一梯队选手，近百名国内顶尖高手上演飞驰对决。设精英组和青年组，除个人奖项外还设立精英团体荣誉榜单。\n地点: 光明区虹桥公园自由式小轮车场地\n时间: 2026-06-08 至 2026-06-11\n详情: https://www.sport.gov.cn/n20001280/n20067662/n20067613/c29689278/content.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee58acb064333ab@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20261008
+SUMMARY:沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展
+LOCATION:南山博物馆
+DESCRIPTION:精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。\n地点: 南山博物馆\n时间: 2026-06-12 至 2026-10-07\n详情: https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8c2308ecf62d12@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260713
+SUMMARY:2026深圳荷花赏
+LOCATION:洪湖公园
+DESCRIPTION:以“荷和之美，深圳之约”为主题的年度荷花花卉展览。百亩荷塘盛夏盛放，三大特色亮点：亚太荷韵（引入美国、印度、越南、泰国、新加坡等亚太地区珍稀荷花品种）、花艺无界（特邀深圳、香港、泰国三地花艺师打造大型荷花主题艺术装置展）、国潮雅集（汉服巡游、水上扁担秀、粤剧快闪等国潮演艺活动）。周末及端午假期每日11:45-12:00、17:45-18:00有水上扁带表演。同步开展“并蒂·寻影”征集活动。\n地点: 洪湖公园\n时间: 2026-06-12 至 2026-07-12\n详情: https://cgj.sz.gov.cn/xsmh/gysz/gyhd/content/post_12838633.html
+END:VEVENT
+BEGIN:VEVENT
+UID:f8d00dbcdb0ca0dc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:张远演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:张远巡回演唱会深圳站，在大运中心体育馆举办。看台380/580/780/980元，内场1380元。\n地点: 深圳大运中心体育馆\n时间: 2026-06-13 至 2026-06-13\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:c016c35ac76f2a61@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:恩上湿地公园非遗市集与非遗表演
+LOCATION:盐田区恩上湿地公园大草坪
+DESCRIPTION:文化和自然遗产日盐田非遗活动，现场有宋代NPC巡游——簪花郎与簪花侍女携手巡游，数十位身着宋服角色穿梭街巷互动。还有泉州南音、太极拳、麒麟舞和鱼灯表演；疍家鱼贴、彩绳编织、唐卡、盐田传统合香、女书文创等手作体验；现制疍家炸虾饼、五谷芳乳鸽等地道美食。活动时间16:00-17:30。\n地点: 盐田区恩上湿地公园大草坪\n时间: 2026-06-13 至 2026-06-13\n详情: https://baijiahao.baidu.com/s?id=1867802692178677495&wfr=spider&for=pc
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3ff6f0e395a0b7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260915
+SUMMARY:盐田非遗打卡路线活动
+LOCATION:盐田区恩上湿地公园（花知簪非遗小院起点）
+DESCRIPTION:花知簪非遗小院免费发放限量打卡框——海棠纹花窗卡片，覆青色海浪底纹，7个打卡点，7次举框取景，解锁专属盐田非遗画册。前50名完成打卡可领取非遗簪花体验券一张。\n地点: 盐田区恩上湿地公园（花知簪非遗小院起点）\n时间: 2026-06-13 至 2026-09-14\n详情: https://baijiahao.baidu.com/s?id=1867802692178677495&wfr=spider&for=pc
+END:VEVENT
+BEGIN:VEVENT
+UID:13886ea00efdfd11@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260907
+SUMMARY:建立新美术——20世纪上半叶粤港画坛的历史抉择
+LOCATION:何香凝美术馆
+DESCRIPTION:建立新美术——20世纪上半叶粤港画坛的历史抉择，何香凝美术馆1-6展厅。汇集127件珍贵原作及数十件历史文献，系统回溯20世纪上半叶粤港画坛变革历程。免费免预约。地铁1号线华侨城站C出口。\n地点: 何香凝美术馆\n时间: 2026-06-15 至 2026-09-06\n详情: https://m.sohu.com/a/1046113465_122091088/
+END:VEVENT
+BEGIN:VEVENT
+UID:b28922316b17440f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260622
+SUMMARY:2026年光明科学城杯全国国际象棋公开赛（深圳光明站）
+LOCATION:深圳光明虹桥公园希尔顿花园酒店
+DESCRIPTION:由国家体育总局棋牌运动管理中心与中国国际象棋协会主办的全国性国际象棋赛事，在光明虹桥公园希尔顿花园酒店举办。来自北京、天津、云南、湖南、重庆等地逾百名棋手齐聚光明，采用九轮瑞士制比赛。\n地点: 深圳光明虹桥公园希尔顿花园酒店\n时间: 2026-06-16 至 2026-06-21\n详情: https://baike.baidu.com/item/2026年%E2%80%9C%E5%85%89%E6%98%8E%E7%A7%91%E5%AD%A6%E5%9F%8E%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%85%AC%E5%BC%80%E8%B5%9B%28%E6%B7%B1%E5%9C%B3%E5%85%89%E6%98%8E%E7%AB%99%29/68061856
+END:VEVENT
+BEGIN:VEVENT
+UID:b189d98655f5f321@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260810
+SUMMARY:墨彩童年——王明明、方楚雄儿童画作品特展
+LOCATION:深圳美术馆
+DESCRIPTION:墨彩童年——王明明与方楚雄两位艺术大家在少年儿童时期的优秀作品特展，三层8号展厅。免费免预约。\n地点: 深圳美术馆\n时间: 2026-06-17 至 2026-08-09\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8aa260eb338a151@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260622
+SUMMARY:大沙河国际龙舟赛「岭南风趣」特色市集
+LOCATION:大沙河生态长廊
+DESCRIPTION:配合大沙河国际龙舟邀请赛举办的特色市集，汇聚非遗手作、节气美食、龙舟主题特色互动游戏等多元体验，融合传统文化底蕴与潮流新意的节庆体验。\n地点: 大沙河生态长廊\n时间: 2026-06-17 至 2026-06-21\n详情: http://sz.bendibao.com/news/202665/1004554.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:414ca65c4b21e9f0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳世界之窗·WoW潮音嘉年华+啤酒节
+LOCATION:深圳世界之窗
+DESCRIPTION:33天露天音乐节，集结焦迈奇、HIGH5、井胧等艺人，罗马假日广场冰镇啤酒+烧烤+音乐派对。\n地点: 深圳世界之窗\n时间: 2026-06-18 至 2026-08-30\n详情: https://m.sohu.com/a/1045463665_675420/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d76137f0ec04309@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260810
+SUMMARY:国门守护·丹青传承——深圳海关查获近现代书画文物珍品特展
+LOCATION:深圳美术馆
+DESCRIPTION:国门守护·丹青传承——深圳海关缉私局查获近现代书画文物珍品特展，三层9号展厅。吴冠中、齐白石、徐悲鸿等大师作品。免费免预约。\n地点: 深圳美术馆\n时间: 2026-06-18 至 2026-08-09\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:78fa1ab36f396d1e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260824
+SUMMARY:深情托付——深圳美术馆新馆捐赠作品展
+LOCATION:深圳美术馆
+DESCRIPTION:深情托付——深圳美术馆新馆捐赠作品展，三层12、13号展厅。分墨韵传新、彩绘当代、时光印迹、无界之思、潮起湾区五个板块。免费免预约。\n地点: 深圳美术馆\n时间: 2026-06-18 至 2026-08-23\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac399373cfe9c9ce@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260620
+SUMMARY:2026粤港澳大湾区（深圳南澳）海上龙舟赛
+LOCATION:大鹏半岛旅游度假区南澳月亮湾
+DESCRIPTION:深圳唯一海上龙舟赛，承袭百年渔家底蕴，集结湾区代表队、亚太联队、本土劲旅等30支队伍同场竞技。6月18日A组12支队伍（湾区十一城代表队与亚太联队），6月19日B组18支深圳各区及本土企业劲旅。比赛8:00-10:20，面向市民游客免费开放观赛。赛场沿岸龙舟嘉年华全天候开启：五洲风情秀、麒麟采青、童声合唱、传统腰鼓等非遗节目；无人艇、智能水翼装备水上巡游；6月18日19:00-21:00非遗草龙队伍从南澳天后宫出发沿街巡游至海边举行化龙入海仪式。荣耀闪电人形机器人现场互动，海洋科技主题展区，非遗市集。\n地点: 大鹏半岛旅游度假区南澳月亮湾\n时间: 2026-06-18 至 2026-06-19\n详情: https://www.sznews.com/news/content/2026-06/08/content_32082389.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab48922088161bb@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260901
+SUMMARY:大鹏半岛夏日趣大鹏暑期文旅活动
+LOCATION:大鹏半岛旅游度假区（含较场尾、大鹏所城等片区）
+DESCRIPTION:大鹏半岛以夏日趣大鹏为主题，构建赛事引流、美食赋能、民俗增色、全域度假的假日文旅格局。较场尾民宿小镇一站式配齐民宿、美食、文创市集，解锁慢节奏海滨度假。南澳海胆美食季以32道获奖创意菜品撩动味蕾。西涌暗夜星空消费季接棒端午热度，自然科普、山海美拍、海上运动、星空疗愈等精品线路覆盖亲子家庭全场景需求。7月西涌可观赏萤火虫，晴夜裸眼观星。\n地点: 大鹏半岛旅游度假区（含较场尾、大鹏所城等片区）\n时间: 2026-06-18 至 2026-08-31\n详情: https://www.sznews.com/news/content/2026-06/23/content_32100107.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:12f07da06a10c154@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260914
+SUMMARY:别开新径——春睡同人艺术研究展
+LOCATION:关山月美术馆
+DESCRIPTION:别开新径——春睡同人艺术研究展，关山月美术馆。展出岭南画派高剑父、关山月等宗师作品，梳理中西艺术脉络。免费参观。暑期周五周六延时至21:00。地铁3号线莲花村站。\n地点: 关山月美术馆\n时间: 2026-06-19 至 2026-09-13\n详情: http://www.gsyart.com/exhibition_detail.action?id=2215
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e3a65ff8ed9641@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:华为坤灵·2026年大沙河国际龙舟邀请赛
+LOCATION:大沙河生态长廊
+DESCRIPTION:端午节当天在大沙河生态长廊举办的国际龙舟赛事，20支队伍约500名选手参加标准龙舟500米直道竞速赛。赛事以「快舟逐浪·漫游山海」为主题，配套有龙舟点睛、咏春表演、岭南歌舞、非遗表演等文化演出，约8.1万人次到场观看。需预约抽签。\n地点: 大沙河生态长廊\n时间: 2026-06-19 至 2026-06-19\n详情: http://sz.bendibao.com/news/202665/1004554.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:040774cfafd85925@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:笔架山体育公园端午非遗市集
+LOCATION:笔架山体育公园
+DESCRIPTION:端午假期笔架山体育公园持续三天开设非遗市集，市民可现场体验糖画、香囊缝制、剪纸、古法编绳等传统手艺。每日下午轮番上演醒狮、传统武术、民乐汇演等非遗节目。园区设置20米百人粽子宴，鲜粽可供市民品尝。射五毒、钓粽子、捶丸、蹴鞠等传统小游戏同步开放，适合全家结伴游玩。\n地点: 笔架山体育公园\n时间: 2026-06-19 至 2026-06-21\n详情: https://www.sohu.com/a/1038523165_121010226
+END:VEVENT
+BEGIN:VEVENT
+UID:23960c0b48f8a3ae@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:莲花山公园紫陌书吧端午香囊手作课堂
+LOCATION:莲花山公园
+DESCRIPTION:端午假期莲花山公园紫陌书吧举办香囊手作课堂活动，现场备好艾草、薰衣草、薄荷等香料及缝制物料，手工自制香包可自行带走。适合亲子家庭参与，体验传统端午手工文化。\n地点: 莲花山公园\n时间: 2026-06-19 至 2026-06-21\n详情: https://www.sohu.com/a/1038523165_121010226
+END:VEVENT
+BEGIN:VEVENT
+UID:e9af8b2b4a227020@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:荔枝公园粽夏荔香游园会
+LOCATION:荔枝公园
+DESCRIPTION:端午假期荔枝公园举办“粽夏荔香”游园会，融合岭南品茶与包粽体验，让市民沉浸式感受岭南端午传统风情。适合全家游玩体验传统文化。\n地点: 荔枝公园\n时间: 2026-06-19 至 2026-06-21\n详情: https://www.sohu.com/a/1038523165_121010226
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3b039863d88bc0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:塘朗山郊野公园端午文明登山公益活动
+LOCATION:塘朗山郊野公园
+DESCRIPTION:端午假期塘朗山郊野公园推出文明登山公益活动，登山游客将随身垃圾带走，即可在朗山书咖兑换端午五彩绳，每日限量100份，领完即止。倡导环保登山理念，融合端午传统习俗。\n地点: 塘朗山郊野公园\n时间: 2026-06-19 至 2026-06-21\n详情: https://www.sohu.com/a/1038523165_121010226
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5f7f59ae3e62b6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
+SUMMARY:王翊恩演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:王翊恩巡回演唱会深圳站，6月19-20日连开两场。看台380/580/780/880元，内场980元。\n地点: 深圳大运中心体育馆\n时间: 2026-06-19 至 2026-06-20\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5f8eebcb9b9e4e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:光明农场大观园戏水纳凉粽情父爱主题活动
+LOCATION:光明农场大观园
+DESCRIPTION:端午假期光明农场大观园推出亲子互动主题活动，融合摸鱼、捞鸭、彩绘蒲扇等亲子互动项目，适合家庭亲子参与。\n地点: 光明农场大观园\n时间: 2026-06-19 至 2026-06-21\n详情: http://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12854812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3ae871cda6579f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:虹桥公园来虹桥趣嗨啤啤酒文化嘉年华
+LOCATION:光明区虹桥公园
+DESCRIPTION:端午假期虹桥公园上线啤酒文化嘉年华，设置多国特色啤酒体验区域，草坪巨幕实时转播粤超、世界杯赛事，搭配趣味集章互动游戏。日间草坪音乐会人气爆棚，主舞台同步承接演出、赛事转播双重功能，一旁啤酒市集集结十余款酒品与特色小吃，听歌、观赛、逛吃一站式体验。\n地点: 光明区虹桥公园\n时间: 2026-06-19 至 2026-06-21\n详情: http://sz.people.com.cn/BIG5/n2/2026/0621/c202846-41616499.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e788f3afcf32c6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:科学公园（北翼）端午粽趣大冒险户外研学活动
+LOCATION:光明区科学公园（北翼）
+DESCRIPTION:融合端午民俗、自然科普、团队闯关、手工戏水的户外研学活动，设置点朱砂、沐兰汤古法祈福环节，孩子可亲手制作竹筒粽带走，室内户外双场地保障，兼顾游玩趣味与文化科普。\n地点: 光明区科学公园（北翼）\n时间: 2026-06-19 至 2026-06-21\n详情: http://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12854812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4e0c46a98919aa@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:深圳市第二十三届幼儿武术交流赛
+LOCATION:光明区红花山体育中心
+DESCRIPTION:端午假期在红花山体育中心举行的全市幼儿武术交流赛，联动街道开展端午嘉年华、童乐主持表演颁奖典礼等多场文、体、艺主题活动。\n地点: 光明区红花山体育中心\n时间: 2026-06-19 至 2026-06-21\n详情: http://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12854812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7db8d1f3909e460b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:仲夏FUN光明端午乐集市集寻味公明街道端午嘉年华
+LOCATION:光明区红花山体育中心
+DESCRIPTION:红花山体育中心联动公明街道开展端午嘉年华市集活动，集合民俗体验、特色小吃、文创产品等，配合幼儿武术交流赛等活动，充分激活片区假日消费活力。\n地点: 光明区红花山体育中心\n时间: 2026-06-19 至 2026-06-21\n详情: http://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12854812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:93cd0310739617f2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20261009
+SUMMARY:国宝萌友展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:沉浸式体验+活体昆虫互动展，亲子友好。光明新馆特展。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-06-20 至 2026-10-08\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:dd972313efc602ad@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260810
+SUMMARY:笔墨同心·林墉、苏华作品展
+LOCATION:何香凝美术馆
+DESCRIPTION:全面呈现林墉'霸悍恣丽'的水墨人物风骨与苏华'豪迈雄放'的书画才情。免费免预约。\n地点: 何香凝美术馆\n时间: 2026-06-20 至 2026-08-09\n详情: http://m.toutiao.com/group/7658324154139148850/
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e9913f159c7f63@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:明湖城市公园鼓音疗心自然治愈系活动
+LOCATION:光明区明湖城市公园
+DESCRIPTION:明湖城市公园推出自然治愈系主题活动，40组家庭共60人走进荔枝林、蓝桥畔，沉浸式体验鼓圈疗愈。荷花池畔免费提供全套画具，开展荷塘全民写生共创。\n地点: 光明区明湖城市公园\n时间: 2026-06-21 至 2026-06-21\n详情: http://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12854812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fb0344b5fe62f2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260910
+SUMMARY:道登天门——萧娴书法艺术展
+LOCATION:深圳美术馆
+DESCRIPTION:道登天门——萧娴书法艺术展，深圳美术馆二层6、7号展厅。精选求雨山文化名人纪念馆50件/套萧娴馆藏精品。免费免预约。地铁3号线少年宫站。\n地点: 深圳美术馆\n时间: 2026-06-24 至 2026-09-09\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:39b0b3f3f59c414c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260628
+SUMMARY:当代舞《禾戏剧·大师之夜》| 第九届深圳舞蹈月优秀展演剧目
+LOCATION:欢乐港湾
+DESCRIPTION:第九届深圳舞蹈月优秀展演剧目，在深圳滨海艺术中心演出当代舞《禾戏剧·大师之夜》，6月26-27日每晚20:00。\n地点: 欢乐港湾\n时间: 2026-06-26 至 2026-06-27\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:31ccf61a9f781e85@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260901
+SUMMARY:湾区之眼2026暑期嗨学季
+LOCATION:湾区之眼
+DESCRIPTION:湾区之眼“一眼看世界·启程向未来”2026暑期嗨学季，集福利惠民、潮流体验、文化研学、艺术展演于一体。中高考毕业生凭准考证享8.8折优惠。含湾区绿茵嘉年华、露天电影、淘趣市集、《福尔摩斯的委托》沉浸式推理展等。免费参与。\n地点: 湾区之眼\n时间: 2026-06-27 至 2026-08-31\n详情: https://www.szbookmall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:a9516a5676cb85ea@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260901
+SUMMARY:福尔摩斯大型沉浸式主题展
+LOCATION:湾区之眼
+DESCRIPTION:《福尔摩斯的委托》沉浸式推理展，湾区之眼南区一楼。单人票68元起。与研学课堂、戏剧演绎相得益彰，打造沉浸式第二课堂。\n地点: 湾区之眼\n时间: 2026-06-27 至 2026-08-31\n详情: https://www.sznews.com/news/content/mb/2026-07/06/content_32112876.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:09cf2ba2db994c2a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260721
+SUMMARY:湾区绿茵嘉年华+世界杯直播
+LOCATION:湾区之眼
+DESCRIPTION:湾区绿茵嘉年华·世界杯赛事直播+足球互动嘉年华，湾区之眼南台阶。设置多元化足球主题游戏，电影轮播区、淘趣市集、露天观影。免费参与。\n地点: 湾区之眼\n时间: 2026-06-27 至 2026-07-20\n详情: https://m.weibo.cn/detail/5318809818760068
+END:VEVENT
+BEGIN:VEVENT
+UID:165e82582ee8c1d5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260901
+SUMMARY:湾区之眼2026暑期嗨学季
+LOCATION:宝安滨海文化公园
+DESCRIPTION:湾区之眼书城（位于宝安滨海文化公园片区）举办的暑期系列主题活动，集福利惠民、潮流体验、文化研学、艺术展演于一体。毕业生凭中高考准考证购书及文创享8.8折。配套青春·回响毕业歌会、露天电影放映、世界杯赛事直播、湾区绿茵嘉年华主题市集等活动。\n地点: 宝安滨海文化公园\n时间: 2026-06-27 至 2026-08-31\n详情: https://www.sznews.com/news/content/2026-07/06/content_32112876.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:47053e9dafd3de6e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:中国奥委会2026年第40届奥林匹克日活动（深圳站）
+LOCATION:光明区虹桥公园北广场
+DESCRIPTION:中国奥委会2026年第40届奥林匹克日活动全国12座城市同步联动，深圳分会场在光明区虹桥公园举办。以你已就绪动就一起为活动主题，打造5公里健康跑活动。奔跑在网红空中栈道，穿行山林绿意之间。活动规模900人，路线全程5公里：虹桥公园北广场（起点）到虹桥栈道到虹桥公园北广场（终点）。报名时间6月18日18:00至6月21日18:00。\n地点: 光明区虹桥公园北广场\n时间: 2026-06-27 至 2026-06-27\n详情: https://mp.weixin.qq.com/s?__biz=MzA3NTcxNDc2MQ==&mid=2650545521&idx=1&sn=0a3a9857d909dac0b12f817262161f59
+END:VEVENT
+BEGIN:VEVENT
+UID:f159accbbc79f760@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳博物馆暑期延时开放
+LOCATION:深圳博物馆
+DESCRIPTION:金田路馆与同心路馆延时开放至21:00（20:30停止入场），改革开放展览馆10:00-21:00。逢周一闭馆。\n地点: 深圳博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d9495f6a29503cd0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:太空奥德赛——宇宙探索展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:宇宙探索主题科普展，含航天器模型、太空体验区。光明新馆常设展。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-01 至 2026-12-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5c23e50b8f6727cf@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:一平米实验室
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:小型科学实验互动展，适合儿童动手探索。光明新馆互动区。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-01 至 2026-12-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d637e67de875a2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳图书馆暑期系列活动
+LOCATION:深圳图书馆
+DESCRIPTION:暑期公益培训课、AI训练营、经典故事奇遇之旅、走读深圳、少儿阅经典等系列活动。详见深圳图书馆官网活动日历。\n地点: 深圳图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szlib.org.cn\n联系: 0755-82841247
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1497fa5e9a00d5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙岗区博物馆暑期展览
+LOCATION:龙岗区博物馆
+DESCRIPTION:龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。\n地点: 龙岗区博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.lgmuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e85a704083009839@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳少年儿童图书馆暑期活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期系列活动，包含绘本故事会、科普讲座、手工制作等。免费参与。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3b4d403ed7ab13@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳市少年宫暑期科普活动
+LOCATION:深圳市少年宫
+DESCRIPTION:深圳市少年宫暑期科普活动，包含科技展览、科学实验、机器人体验等。免费参观。\n地点: 深圳市少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.szcp.com
+END:VEVENT
+BEGIN:VEVENT
+UID:baa83fe8bc9565c0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳科学技术馆暑期科普展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:深圳科学技术馆暑期科普活动，包含常设展厅参观、科学实验室、互动体验等。免费需预约。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:af9c2f6c78c71dc8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳音乐厅暑期音乐季
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳音乐厅暑期音乐季，包含美丽星期天系列公益音乐会、交响乐、室内乐、民乐等演出。详见官网排期。\n地点: 深圳音乐厅\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:96dfdda124d8ce2c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳滨海艺术中心暑期演出季
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:深圳滨海艺术中心暑期演出季，包含儿童剧、芭蕾舞、音乐会等演出。详见官网排期。\n地点: 深圳滨海艺术中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ec26513494e3ba98@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:红星闪闪耀童心——线上答题活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:庆祝中国共产党成立105周年线上答题活动，寓教于乐，适合青少年参与。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig
+END:VEVENT
+BEGIN:VEVENT
+UID:6652c40b9713812b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:巡天探海 舰载未来——科普展览
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期科普展览，展示中国航天航海科技成果，包含模型展示和互动体验。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s/1fWZCNRmmp-cO1gZ_ZA1Uw
+END:VEVENT
+BEGIN:VEVENT
+UID:6409c5e7bb5127b7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260713
+SUMMARY:心迹·万象——尹烨斌艺术作品展
+LOCATION:南头古城
+DESCRIPTION:艺术家尹烨斌个人作品展，于南头古城Mπ艺术空间展出。免费免预约。\n地点: 南头古城\n时间: 2026-07-01 至 2026-07-12\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:89fc1e7de8cc7e44@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260727
+SUMMARY:且陶陶，乐尽天真——中国民间玩具展
+LOCATION:南头古城
+DESCRIPTION:中国民间玩具主题展览，于南头古城南头新生场展出。免费免预约。\n地点: 南头古城\n时间: 2026-07-01 至 2026-07-26\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:7b592af2d6b7dea2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:南头古城「源野集」创意市集
+LOCATION:南头古城
+DESCRIPTION:南头古城暑期创意市集，汇集手作、文创、美食等摊位，每周五六日开放。免费入场。\n地点: 南头古城\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd5ed6852a4eaae@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:华侨城湿地公园日常开放
+LOCATION:华侨城湿地公园
+DESCRIPTION:广东深圳华侨城国家湿地公园，免费开放需预约入园。周二/四/五/六/日及法定节假日开放，9:30-16:30入园。候鸟季300人/天，非候鸟季400人/天。\n地点: 华侨城湿地公园\n时间: 2026-07-01 至 2026-08-31\n详情: http://shidi.octbay.com\n联系: 0755-86122899
+END:VEVENT
+BEGIN:VEVENT
+UID:f050e00ec1107628@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:寻迹华夏——中华文明溯源图片展
+LOCATION:宝安1990文化馆
+DESCRIPTION:中国文物交流中心引进，汇集20余家文博考古机构200余件文物图像，展现中华文明从起源到早期发展的脉络。免费参观。\n地点: 宝安1990文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e31336b2248395@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安科技馆4D动感影院与球幕影院
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆常设4D动感影院与球幕影院，沉浸式科普体验，将地理、天文等知识融入感官体验。免费。\n地点: 宝安科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a0cf64c8ce680f5b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:欢乐港湾FIFA世界杯主题夜游
+LOCATION:宝安滨海文化公园
+DESCRIPTION:欢乐港湾暑期世界杯主题夜游，湾区之光摩天轮化身全国首座世界杯主题痛轮，FIFA STORE官方快闪店落地摩天轮广场。免费入场。\n地点: 宝安滨海文化公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:cedc393041d9582b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:宠·爱——猫猫狗狗的世界
+LOCATION:深圳博物馆金田路馆（历史民俗）
+DESCRIPTION:汇集80件/套展品，梳理人与猫狗跨越万年的相伴羁绊。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科普可看、可玩、可体验。暑期延时开放至21:00。\n地点: 深圳博物馆金田路馆（历史民俗）\n时间: 2026-07-01 至 2026-07-31\n详情: http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:22a24af4b3947978@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:《海洋奇缘：启航》迪士尼电影主题展
+LOCATION:深圳人才公园潮汐广场
+DESCRIPTION:还原莫阿娜同款航海木舟、巨型毛伊鱼钩气模、寻路花环秋千等电影场景，拍照打卡。免费免预约。地铁13号线'人才公园站'B1出口。\n地点: 深圳人才公园潮汐广场\n时间: 2026-07-01 至 2026-07-31\n详情: http://m.toutiao.com/group/7658324154139148850/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b25148f61f85022@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳图书馆第十二届'暑期缤纷季'——近300场阅读活动
+LOCATION:深圳图书馆
+DESCRIPTION:含8大类69节免费公益培训课（语言朗诵、创意美术、魔方、棋艺、科创等）、人文通识课、走读深圳研学、AI训练营、成语小课堂等近300场活动。面向5-16岁青少年。\n地点: 深圳图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm\n联系: 0755-82841247
+END:VEVENT
+BEGIN:VEVENT
+UID:e0069883fd0b2065@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳图书馆党史长征主题文献展
+LOCATION:深圳图书馆
+DESCRIPTION:深圳图书馆党史长征主题文献展。免费参观，免预约，深圳图书馆开放时段可直接参观。地铁3号线/4号线少年宫站D口。\n地点: 深圳图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.szlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4dac0f836967cfb2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:第六届"馆长少年"暑期成长计划
+LOCATION:宝安图书馆
+DESCRIPTION:第六届"馆长少年"暑期成长计划，宝安图书馆总分馆。选拔→集训→行走→汇报，一站式成长体验，化身小小导览员。宝安文体通公众号报名。\n地点: 宝安图书馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1ddcddaa71ad4e5c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:7月文博工坊·环保点翠发簪手作活动
+LOCATION:宝安区博物馆
+DESCRIPTION:7月文博工坊·环保点翠发簪手作活动，采用环保仿羽材料，结合3D打印技术预制基底，重现点翠工艺匠心。宝安文体通公众号预约。\n地点: 宝安区博物馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://www.baoan.gov.cn/xxgk/xwzx/tpxw/content/post_12774553.html
+END:VEVENT
+BEGIN:VEVENT
+UID:d2cff81e5ff6c2f0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:暑期主题科学实验秀（五大主题轮换）
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆暑期五大主题科学实验秀轮番上演：空气探秘、电光探秘、气压小探员、液氮探长、探玩科学。周三至周五15:00一场，周六日11:00、15:00各一场。二楼学术报告厅，入馆免费，实验秀现场免费参与。需提前在宝安科技馆公众号预约入馆。\n地点: 宝安科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://m.toutiao.com/group/7658539359292932671/
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ec58aca7fafe13@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260721
+SUMMARY:第十一届深圳摄影作品年度展（宝安巡展）
+LOCATION:宝安1990文化馆
+DESCRIPTION:全民艺术季之2025第十一届深圳摄影作品年度展(宝安巡展)，宝安1990三楼展厅。100件摄影佳作，定格港珠澳大桥恢宏、渔民丰收喜悦。免费免预约。\n地点: 宝安1990文化馆\n时间: 2026-07-01 至 2026-07-20\n详情: http://m.toutiao.com/group/7660572501390541347/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb6b948a49752ff@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安非遗手绘展
+LOCATION:宝安1990文化馆
+DESCRIPTION:宝安非遗手绘展，宝安区文化馆总馆一楼非遗展厅。专题型常设展，用手绘作品生动展示宝安区67个非物质文化遗产代表性项目。到馆参观，免费免预约。\n地点: 宝安1990文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://m.toutiao.com/group/7660572501390541347/
+END:VEVENT
+BEGIN:VEVENT
+UID:24fddcc818df8831@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:"城市代言"公益定时讲解
+LOCATION:宝安城市规划展览馆
+DESCRIPTION:"城市代言"公益定时讲解，宝安城市规划展览馆。7-8月9:30-16:30，免费，到馆即可跟随讲解参观。\n地点: 宝安城市规划展览馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://m.toutiao.com/group/7660572501390541347/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2891790d6bb9c2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:大潮起珠江——广东改革开放40周年展览
+LOCATION:深圳市当代艺术与城市规划馆
+DESCRIPTION:大潮起珠江——广东改革开放40周年展览，深圳市当代艺术与城市规划馆。常设展，暑期延时开放至21:00。免费参观。地铁3号线/4号线少年宫站。\n地点: 深圳市当代艺术与城市规划馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://sz.cnr.cn/gstjsz/20260704/t20260704_527689111.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:17390b307512fb87@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260920
+SUMMARY:气泡王国——比利时国宝漫画百年巡礼
+LOCATION:光明文化艺术中心美术馆
+DESCRIPTION:汇聚《丁丁历险记》《蓝精灵》等九大比利时国宝级漫画IP，百余件珍贵手稿、版画、雕塑。免费开放，适合全年龄段。蓝精灵户外装置同步展出。\n地点: 光明文化艺术中心美术馆\n时间: 2026-07-02 至 2026-09-19\n详情: http://m.toutiao.com/group/7658235446731784744/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3097186bfed8ea5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳世界之窗夏日狂欢季——23°HI啤一夏
+LOCATION:深圳世界之窗
+DESCRIPTION:深圳世界之窗夏日狂欢季——23°HI啤一夏。WoW潮音嘉年华、世界风情演艺、狂欢大巡游、亲子玩水、铁塔科技烟花、无人机编队表演。景区门票购票入场。地铁1号线/2号线世界之窗站。\n地点: 深圳世界之窗\n时间: 2026-07-02 至 2026-08-30\n详情: https://wtl.sz.gov.cn/bsfw/mzwhhd/mzly/content/post_12876437.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3224c6714882c757@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳少年儿童图书馆国艺团暑期免费公益活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆国艺团2026暑期系列免费公益活动，包含传统艺术体验、国学课程等。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-03 至 2026-08-31\n详情: https://mp.weixin.qq.com/s/v8RvHOaMKlgmus7DyIBOjA
+END:VEVENT
+BEGIN:VEVENT
+UID:80dbb0fc4e9175d9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260719
+SUMMARY:艺起归来——中央美术学院深圳校友联展
+LOCATION:宝安图书馆
+DESCRIPTION:中央美术学院深圳校友联展，于宝安图书馆负一楼展览厅展出。周二至周日9:00-17:00。免费参观。\n地点: 宝安图书馆\n时间: 2026-07-03 至 2026-07-18\n详情: https://www.balib.cn/information/46735
+END:VEVENT
+BEGIN:VEVENT
+UID:6d921f29acd45036@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260901
+SUMMARY:2026年盐田区中小学生舞蹈节展演
+LOCATION:盐田区文化馆
+DESCRIPTION:2026年盐田区中小学生舞蹈节展演暨“灵性音乐教育”展演。公开场次免费观演。地铁8号线盐田港西站。\n地点: 盐田区文化馆\n时间: 2026-07-03 至 2026-08-31\n详情: https://www.yantian.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:29202dcb31de5b6e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260719
+SUMMARY:「艺起归来」中央美术学院深圳校友联展
+LOCATION:宝安图书馆
+DESCRIPTION:「艺起归来」中央美术学院深圳校友联展，宝安图书馆负一楼展览厅。周二到周日9:00-17:00，周一闭馆。免费免预约。\n地点: 宝安图书馆\n时间: 2026-07-03 至 2026-07-18\n详情: https://www.balib.cn/information/46735
+END:VEVENT
+BEGIN:VEVENT
+UID:687a59cc537cb504@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260705
+SUMMARY:杨丽萍作品·舞蹈剧场《十面埋伏》
+LOCATION:深圳保利剧院
+DESCRIPTION:杨丽萍巅峰力作——舞蹈剧场2026版《十面埋伏》，深圳保利剧院。票价180/280/480/680/880元。融合京剧、武术、民乐、行为艺术、装置艺术。地铁2号线后海站。\n地点: 深圳保利剧院\n时间: 2026-07-03 至 2026-07-04\n详情: https://m.sohu.com/a/1043746671_121124734/
+END:VEVENT
+BEGIN:VEVENT
+UID:027c31517754dba8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260713
+SUMMARY:2026龙岗大运天地精酿啤酒节
+LOCATION:深圳大运天地（大运公园）
+DESCRIPTION:第二届精酿啤酒节升级回归，60+全品类品牌集结，涵盖精酿厂牌、饮品特调、创意料理、潮流文创等多元业态，一站式吃喝玩乐，暑期黄金档期人气狂欢盛宴。营业时间每天11:00-22:00，大运天地北区坡道。\n地点: 深圳大运天地（大运公园）\n时间: 2026-07-03 至 2026-07-12\n详情: https://sz.bendibao.com/xiuxian/shiji/
+END:VEVENT
+BEGIN:VEVENT
+UID:b21db734750104d3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山博物馆暑期夜间延时开放
+LOCATION:南山博物馆
+DESCRIPTION:7月4日至8月31日，新增周五、周日夜间延时开放。周二至周日10:00-18:00，周五至周日夜间至21:00。免费免预约。\n地点: 南山博物馆\n时间: 2026-07-04 至 2026-08-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fcf0218a4bc89b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山博物馆暑期延时开放
+LOCATION:南山博物馆
+DESCRIPTION:7月4日至8月31日，新增周五、周日夜间延时开放。周二至周日10:00-18:00，周五至周日夜间至21:00。免费免预约。\n地点: 南山博物馆\n时间: 2026-07-04 至 2026-08-31\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:275713ddca9a8336@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260710
+SUMMARY:华侨城湿地生态导赏课程
+LOCATION:华侨城湿地公园
+DESCRIPTION:华侨城湿地自然学校志愿教师团队提供专业生态导赏课程，串联生态展厅、红树小径、月亮步道与观鸟屋。免费需团队预约。\n地点: 华侨城湿地公园\n时间: 2026-07-04 至 2026-07-09\n详情: https://mp.weixin.qq.com\n联系: 0755-86122899
+END:VEVENT
+BEGIN:VEVENT
+UID:fac98265fea587ce@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安科技馆暑期五大科学实验秀
+LOCATION:宝安科技馆
+DESCRIPTION:五大主题科学实验秀轮番上演：空气探秘、电光探秘、气压小探员、液氮探长、探玩科学。周三至周五15:00（各一场），周六日11:00及15:00（每日两场）。地点：2楼学术报告厅。免费。\n地点: 宝安科技馆\n时间: 2026-07-04 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c187f99dddcbecc3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260816
+SUMMARY:深圳欢乐谷·夏浪狂欢节
+LOCATION:深圳欢乐谷
+DESCRIPTION:全网爆火'大湾鸡天团'空降，夏浪音乐节周周有大咖，清凉水战+电音派对+明星演出。票价130-228元。\n地点: 深圳欢乐谷\n时间: 2026-07-04 至 2026-08-15\n详情: https://m.sohu.com/a/1045463665_675420/
+END:VEVENT
+BEGIN:VEVENT
+UID:20a9ab47b36ac315@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260816
+SUMMARY:锦绣中华民俗村·夏浪民族狂欢节
+LOCATION:锦绣中华民俗村
+DESCRIPTION:7位网红主理人每周轮值，全程带领游客沉浸式游玩互动。暑期亲子热门目的地。\n地点: 锦绣中华民俗村\n时间: 2026-07-04 至 2026-08-15\n详情: https://m.sohu.com/a/1045463665_675420/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ac0a566e543b1d7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安大仟里首届暑期儿童戏剧节
+LOCATION:宝安大仟里
+DESCRIPTION:联袂小橙堡儿童艺术剧团，连续8周30场活动。五大剧目轮番登场：《和风一起散步》《吹牛大王历险记》《小红帽》《丑小鸭》等。免费儿童用品、星空楼梯乐园、白鸽广场等亲子设施。\n地点: 宝安大仟里\n时间: 2026-07-04 至 2026-08-31\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f76a152003e64836@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260810
+SUMMARY:团结促发展 奋斗谱新篇——深圳市政协主题书画展
+LOCATION:深圳美术馆
+DESCRIPTION:深圳市政协主题书画展，深圳美术馆一层1、2号展厅。免费免预约。\n地点: 深圳美术馆\n时间: 2026-07-04 至 2026-08-09\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:82a2d1711034e1c0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:动力火车「一路向前」巡回演唱会
+LOCATION:深圳市体育中心体育馆
+DESCRIPTION:动力火车「一路向前」巡回演唱会深圳站，深圳市体育中心体育馆（主馆）。地铁3号线通新岭站。\n地点: 深圳市体育中心体育馆\n时间: 2026-07-04 至 2026-07-04\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:6c70821d9b8849a6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260811
+SUMMARY:和平精英夏日探险派对·深圳站
+LOCATION:前海石公园
+DESCRIPTION:腾讯热门游戏《和平精英》衍生IP线下打卡活动。8米高巨型冲浪萌鸡空降前海石公园，现场设有光子鸡刷新、章鱼领主现身、探险号、巨型舰长等打卡装置，适合周末亲子打卡。同步在海上世界明华轮设有展区。\n地点: 前海石公园\n时间: 2026-07-04 至 2026-08-10\n详情: https://www.sina.cn/news/detail/5317626583846819.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b24005d2167f074b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:东湖公园-梧桐绿道自然探索活动
+LOCATION:东湖公园
+DESCRIPTION:由罗湖区城市管理和综合执法局主办的自然探索活动，主题为“热浪下的生命脉动，遇见公园不一样的夏天”。活动内容包括主题观察讲解和物候记录，带领亲子家庭探索盛夏公园中的蝉蜕、蜻蜓、豆娘等生物。分两场进行（9:00-10:15、10:45-12:00），招募7-12岁亲子家庭，每场限12组。集合地点为东湖公园西门。\n地点: 东湖公园\n时间: 2026-07-04 至 2026-07-04\n详情: http://www.szlh.gov.cn/lhlh/zjlh/lhss/hdzx/content/post_12874111.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3cde8602591659dc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:东湖公园-梧桐绿道热浪下的生命脉动自然探索活动
+LOCATION:东湖公园-梧桐绿道
+DESCRIPTION:由罗湖区城市管理和综合执法局主办的自然探索活动，主题为热浪下的生命脉动，遇见公园不一样的夏天。观察榕树气根、蝉蜕、蜻蜓和豆娘等夏季生物，含主题观察讲解和物候记录。全程1km，分两场：9:00-10:15和10:45-12:00。招募7-12岁亲子家庭，每场限12组。集合地点：东湖公园西门。\n地点: 东湖公园-梧桐绿道\n时间: 2026-07-04 至 2026-07-04\n详情: http://www.szlh.gov.cn/lhlh/zjlh/lhss/hdzx/content/post_12874111.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aa094c55cc9a3bb8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:小奶牛故事绘
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆少儿绘本故事会，每周六上午10:00。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:3a89e7d7acb638cf@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳少年儿童图书馆暑期阅读挑战赛
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期阅读挑战赛，完成阅读任务可获得奖励。适合6-14岁儿童。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b7651a56e1f6ed@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:光明区图书馆暑期阅读活动
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆暑期阅读推广活动，包含小太阳i阅读故事会、小奶牛故事绘等。\n地点: 光明区图书馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c4ccab643fcf96@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:南山图书馆暑期阅读推广活动
+LOCATION:南山图书馆
+DESCRIPTION:南山图书馆暑期阅读推广活动，包含少儿阅读、读书分享会、科普讲座等。免费参与。\n地点: 南山图书馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://www.nsszlib.com
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea1789bcaea71b9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安区文化馆暑期公益培训
+LOCATION:宝安区文化馆
+DESCRIPTION:宝安区文化馆暑期公益艺术培训，包含舞蹈、声乐、器乐、书法、美术等课程。免费报名。\n地点: 宝安区文化馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9dada72fb7cb07b8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:岭动手作——暑期手工活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆「岭动手作」暑期手工系列活动，每周六举行，包含剪纸、折纸、黏土等手工制作。适合5-12岁儿童。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://mp.weixin.qq.com/s/lnibmBR9jlku1o3tO10z3g
+END:VEVENT
+BEGIN:VEVENT
+UID:4305fb87d376de54@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20261101
+SUMMARY:2026声无界·圳当潮LIVE嘉年华
+LOCATION:南头古城
+DESCRIPTION:南头古城持续数月的音乐嘉年华活动，每周周末举办，免费免预约。\n地点: 南头古城\n时间: 2026-07-05 至 2026-10-31\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:dca96c40bd177e90@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安科技馆3D打印创意工坊
+LOCATION:宝安科技馆
+DESCRIPTION:暑期周末实践课程，3D打印创意工坊指导学员完成从数字化建模到实体打印的全过程。免费。\n地点: 宝安科技馆\n时间: 2026-07-05 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c9694ae87cf743f6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260731
+SUMMARY:丹青联心——深澳两地书画艺术交流展
+LOCATION:福田美术馆
+DESCRIPTION:汇聚深澳两地书画名家精品力作140余幅，涵盖国画山水、书法、现代水墨、油画等。免费开放。\n地点: 福田美术馆\n时间: 2026-07-05 至 2026-07-30\n详情: http://m.toutiao.com/group/7659258111554961955/
+END:VEVENT
+BEGIN:VEVENT
+UID:440f1cf0201f280c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:郎朗·乐境音乐会
+LOCATION:宝安体育中心体育馆
+DESCRIPTION:郎朗·乐境音乐会深圳站，宝安体育中心体育馆。地铁11号线宝体站。\n地点: 宝安体育中心体育馆\n时间: 2026-07-05 至 2026-07-05\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:4104122ead239b8a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:2026声无界·圳当潮LIVE嘉年华——深圳中心公园露营民谣专场
+LOCATION:深圳中心公园
+DESCRIPTION:由深圳合纵文化有限公司主办的公益音乐嘉年华，贯穿7月至10月，每逢周末轮番上演八场主题音乐演出。深圳中心公园推出松弛感满满的露营民谣专场，适配城市休闲解压需求。活动版图覆盖福田、南山、龙华等核心城区。全程免票开放、无需预约。涵盖流行、摇滚、电音、民谣、国风等曲风，14组海内外音乐团体参演。\n地点: 深圳中心公园\n时间: 2026-07-05 至 2026-08-31\n详情: https://baijiahao.baidu.com/s?id=1869689502374989434&wfr=spider&for=pc
+END:VEVENT
+BEGIN:VEVENT
+UID:05577c8a3b886eea@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260901
+SUMMARY:小太阳i阅读故事会
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆少儿阅读推广活动，每周日上午。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-06 至 2026-08-31\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0f1be62409b0b50c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260901
+SUMMARY:宝安图书馆绘本故事会
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆少儿绘本故事会，每周六上午10:30。适合3-6岁儿童。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-06 至 2026-08-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0a084bf9760a2bd6@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260901
+SUMMARY:岭阅书香——暑期读书会
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆「岭阅书香」暑期读书会系列活动，每周六举行，包含亲子共读、阅读分享、好书推荐等。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-06 至 2026-08-31\n详情: https://mp.weixin.qq.com/s/ddyC0lKxVF5V1aY4n-Hl5w
+END:VEVENT
+BEGIN:VEVENT
+UID:337c20cb91c2b1b5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260822
+SUMMARY:宝安区青少年宫暑期小小科学家研学营
+LOCATION:宝安区青少年宫
+DESCRIPTION:共青团·伙伴计划，2026年暑假小小科学家科学探索研学营，涵盖人工智能、机器人编程、3D打印、科学实验秀等主题。每周一至周五9:00-18:00。收费：200元/期。\n地点: 宝安区青少年宫\n时间: 2026-07-06 至 2026-08-21\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c1fc1806f22b8aa5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260826
+SUMMARY:少儿国际象棋公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，少儿国际象棋入门。每周一上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-07 至 2026-08-25\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c124c12dc041047b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260831
+SUMMARY:盐田区图书馆暑期活动
+LOCATION:盐田区图书馆
+DESCRIPTION:盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。\n地点: 盐田区图书馆\n时间: 2026-07-07 至 2026-08-30\n详情: https://www.ytlib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1669d5d74badf0e1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市文化馆暑期公益培训班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑期公益培训班，包含少儿国际象棋、成人古典舞、读剧、朗诵艺术等课程。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-07 至 2026-08-25\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a076796fef699b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260711
+SUMMARY:新中式舞蹈秀《叹春风》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:新中式舞蹈秀《叹春风》，深圳滨海艺术中心歌剧厅。以经典历史典故为内核，融合古典舞雅致与十大雅事清韵。票价180/380/580/680元。深圳滨海艺术中心官网及大麦APP购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-07 至 2026-07-10\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:09dbef2258949f3e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260821
+SUMMARY:青年视界——2026深圳青年美术大展
+LOCATION:深圳美术馆
+DESCRIPTION:2026深圳青年美术大展，深圳美术馆三层10、11号展厅。80组作品覆盖国画、油画、版画、雕塑、装置、影像、新媒体、综合材料等形态。免费免预约。暑期周五周六延长至21:00。地铁3号线少年宫站。\n地点: 深圳美术馆\n时间: 2026-07-07 至 2026-08-20\n详情: https://m.sohu.com/a/1044744042_121106875/
+END:VEVENT
+BEGIN:VEVENT
+UID:1436c02a53ae667e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260827
+SUMMARY:成人古典舞公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，成人古典舞基础。每周二上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-08 至 2026-08-26\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:35ec137de771d3c0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:罗湖区图书馆暑期阅读活动
+LOCATION:罗湖区图书馆
+DESCRIPTION:罗湖区图书馆暑期少儿阅读活动，包含故事屋、手工坊、科普讲座等。免费参与。\n地点: 罗湖区图书馆\n时间: 2026-07-08 至 2026-08-30\n详情: https://szlhlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c74392db5ca7a8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安区青少年宫暑期活动
+LOCATION:宝安区青少年宫
+DESCRIPTION:宝安区青少年宫暑期系列活动，包含书法、绘画、科技制作、舞蹈等公益课程。免费报名。\n地点: 宝安区青少年宫\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9234f14111584ca8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳市青少年活动中心暑期活动
+LOCATION:深圳市青少年活动中心
+DESCRIPTION:深圳市青少年活动中心暑期系列活动，包含艺术培训、科技活动、体育锻炼等。免费报名。\n地点: 深圳市青少年活动中心\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.szaac.com
+END:VEVENT
+BEGIN:VEVENT
+UID:a65d4b2471b836ea@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260827
+SUMMARY:深圳市文化馆暑期美术培训班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆暑期美术公益培训班，包含素描、水彩、国画基础等课程。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-08 至 2026-08-26\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4442abedcf28be26@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260831
+SUMMARY:南山文体中心暑期少儿游泳班
+LOCATION:南山文体中心
+DESCRIPTION:南山文体中心暑期少儿游泳培训班，面向6-14岁儿童。收费课程。\n地点: 南山文体中心\n时间: 2026-07-08 至 2026-08-30\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc690f038d710ab@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260829
+SUMMARY:南山区青少年活动中心暑期艺术培训
+LOCATION:南山区青少年活动中心
+DESCRIPTION:南山区青少年活动中心暑期艺术培训，包含美术、书法、舞蹈、声乐等课程。免费报名。\n地点: 南山区青少年活动中心\n时间: 2026-07-08 至 2026-08-28\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6d52fee9cf355d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260829
+SUMMARY:燕罗街道分馆暑期阅读活动
+LOCATION:宝安区文化馆燕罗街道分馆
+DESCRIPTION:宝安区文化馆燕罗街道分馆暑期阅读活动，包含绘本故事、手工制作、亲子阅读等。免费参与。\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-08 至 2026-08-28\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9428bc2ca07bf15b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260828
+SUMMARY:读剧公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，读剧表演体验。每周三上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-09 至 2026-08-27\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e2bbe20cc4e9b207@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙华区图书馆暑期少儿活动
+LOCATION:龙华区图书馆
+DESCRIPTION:龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。\n地点: 龙华区图书馆\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.szlhlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:287ec7e04827748d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙华区青少年宫暑期活动
+LOCATION:龙华区青少年宫
+DESCRIPTION:龙华区青少年宫暑期系列活动，包含舞蹈、音乐、科技等公益课程。免费报名。\n地点: 龙华区青少年宫\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:60a359df95384ccc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260831
+SUMMARY:福田区图书馆少儿绘本课堂
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期少儿绘本课堂，每周二、周五上午10:00，适合3-8岁儿童。免费参与。\n地点: 福田区图书馆\n时间: 2026-07-09 至 2026-08-30\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e055c194dae2ddb8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260828
+SUMMARY:南山图书馆暑期亲子故事会
+LOCATION:南山图书馆
+DESCRIPTION:南山图书馆暑期亲子绘本故事会，每周四、周日上午10:00。适合3-8岁儿童。免费参与。\n地点: 南山图书馆\n时间: 2026-07-09 至 2026-08-27\n详情: https://www.nsszlib.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8e9bc6c4712dfd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260731
+SUMMARY:暑期公益艺术培训（少儿+成人）
+LOCATION:宝安1990文化馆
+DESCRIPTION:全民艺术普及培训（暑期班）第二期，宝安区文化馆总馆。少儿声乐/书法/舞蹈、成人芭蕾/民乐等多门课程，零基础入门。宝安文体通公众号报名。\n地点: 宝安1990文化馆\n时间: 2026-07-09 至 2026-07-30\n详情: http://m.toutiao.com/group/7660572501390541347/
+END:VEVENT
+BEGIN:VEVENT
+UID:e719141fb13a9654@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:2026德云社张鹤伦郎鹤炎相声专场
+LOCATION:深圳保利剧院
+DESCRIPTION:2026德云社成立三十周年——张鹤伦郎鹤炎相声专场，深圳保利剧院。票价280/380/580/780/980元。地铁2号线后海站。\n地点: 深圳保利剧院\n时间: 2026-07-09 至 2026-07-09\n详情: https://m.sohu.com/a/1043746671_121124734/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdae77bf7d23ee7d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:朗诵艺术公益班
+LOCATION:深圳市文化馆
+DESCRIPTION:深圳市文化馆2026暑假公益培训班，朗诵技巧入门。每周四上课。免费报名。\n地点: 深圳市文化馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.szmassart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:71d8cd07046eadc9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:福田区图书馆暑期读书分享会
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。\n地点: 福田区图书馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2ead44020ac83a22@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安科技馆暑期科普活动
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆暑期科普活动，包含科学实验、机器人体验、科普讲座等。免费参与。\n地点: 宝安科技馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:32104fc79a4db26f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳湾体育中心暑期青少年体育培训
+LOCATION:深圳湾体育中心
+DESCRIPTION:深圳湾体育中心暑期青少年体育培训，包含篮球、羽毛球、游泳等项目。收费课程。\n地点: 深圳湾体育中心\n时间: 2026-07-10 至 2026-08-30\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf53770e7259660@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:光明区文化馆暑期公益培训班
+LOCATION:光明区文化馆
+DESCRIPTION:光明区文化馆暑期公益艺术培训，包含书法、国画、舞蹈、声乐等课程。免费报名。\n地点: 光明区文化馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.szgm.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:af0f9e3391cdeead@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安图书馆创客空间暑期活动
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆创客空间暑期开放，3D打印、激光切割、编程体验等活动。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d6af682f0f94e4b3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:深圳少年儿童图书馆暑期电影展映
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆暑期经典儿童电影展映，每周五下午14:30。免费观影。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-10 至 2026-08-28\n详情: https://www.szclib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1abb21368c33e7b9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+SUMMARY:深圳科学技术馆科学小课堂
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:深圳科学技术馆暑期科学小课堂，包含物理、化学、生物趣味实验，每周六日举行。免费需预约。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-10 至 2026-08-30\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7f5705571b6541@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期篮球训练营
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期篮球训练营，面向8-16岁青少年。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-10 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:81d03e1a6eebd94d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:南山文体中心暑期公益培训
+LOCATION:南山文体中心
+DESCRIPTION:南山文体中心暑期公益培训，包含羽毛球、乒乓球、游泳、舞蹈等课程。免费报名。\n地点: 南山文体中心\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e51328ed68c1cf5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:桃源街道综合性文化服务中心暑期活动
+LOCATION:桃源街道综合性文化服务中心
+DESCRIPTION:桃源街道综合性文化服务中心暑期社区活动，包含亲子手工、读书分享、健康讲座等。免费参与。\n地点: 桃源街道综合性文化服务中心\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d38229d45bbb1356@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安区文化馆暑期少儿艺术团
+LOCATION:宝安区文化馆
+DESCRIPTION:宝安区文化馆暑期少儿艺术团招募和培训，包含合唱、舞蹈、戏剧表演等。免费报名。\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:3685aead574f4ac5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安科技馆巧手创客课程
+LOCATION:宝安科技馆
+DESCRIPTION:暑期巧手创客课程，学员动手组装与编程完成智能红绿灯、温度计、声控小灯等功能性电子制作。免费。\n地点: 宝安科技馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5b4518f5664016@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期青少年游泳培训
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心游泳馆暑期青少年游泳培训，面向6-16岁，分初级班和提高班。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-10 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:446203d2bbfb8381@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期足球训练营
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期青少年足球训练营，面向8-16岁。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-10 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:1653505e93048b59@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安区文化馆暑期非遗公益课
+LOCATION:宝安区文化馆
+DESCRIPTION:宝安区文化馆暑期非遗公益课，包含剪纸、面塑、粤剧等非遗体验课程。免费报名。\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdcfcceceb241e9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:北京人艺话剧《寻找春柳社》
+LOCATION:光明文化艺术中心·演艺中心·音乐厅
+DESCRIPTION:北京人艺倾情演出，以'戏中戏'结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。\n地点: 光明文化艺术中心·演艺中心·音乐厅\n时间: 2026-07-10 至 2026-07-10\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:5b5ec9de6c7c041b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:吴琼领衔主演经典黄梅戏《女驸马》
+LOCATION:深圳保利剧院
+DESCRIPTION:经典黄梅戏《女驸马》，著名黄梅戏表演艺术家吴琼领衔主演，深圳保利剧院。票价80/180/280/380/580元。地铁2号线后海站。\n地点: 深圳保利剧院\n时间: 2026-07-10 至 2026-07-10\n详情: https://m.sohu.com/a/1043746671_121124734/
+END:VEVENT
+BEGIN:VEVENT
+UID:56e8c4935109b83e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260720
+SUMMARY:湾区球迷嘉年华
+LOCATION:深圳湾公园
+DESCRIPTION:深圳湾万象城C区户外街区举办的世界杯主题嘉年华活动，设有九宫格射门、滚球沙盘、酒瓶套圈等互动游戏，世界杯主题打卡装置，分时段DJ现场打碟，以及美食市集（Holy Bagel、凉皮、凉面、卤味、茶饮、精酿等）。7月10-12日及7月17-19日两期。位于深圳湾公园周边商圈。\n地点: 深圳湾公园\n时间: 2026-07-10 至 2026-07-19\n详情: https://travel.sohu.com/a/1048607968_355768
+END:VEVENT
+BEGIN:VEVENT
+UID:aecda4eb70c0276a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:中超联赛 深圳新鹏城 vs 青岛西海岸
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间19:35。\n地点: 深圳市体育中心体育场\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e5ad78c00485e8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+SUMMARY:坪山区图书馆暑期阅读季
+LOCATION:坪山区图书馆
+DESCRIPTION:坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。\n地点: 坪山区图书馆\n时间: 2026-07-11 至 2026-08-29\n详情: https://www.szpslib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd12164b6695e17@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260829
+SUMMARY:龙岗区青少年宫暑期公益课
+LOCATION:龙岗区青少年宫
+DESCRIPTION:龙岗区青少年宫暑期公益课程，包含艺术、科技、体育等课程。免费报名。\n地点: 龙岗区青少年宫\n时间: 2026-07-11 至 2026-08-28\n详情: https://www.lg.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a6df89e2c5de17@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+SUMMARY:罗湖区图书馆暑期国学课堂
+LOCATION:罗湖区图书馆
+DESCRIPTION:罗湖区图书馆暑期国学课堂，包含书法、诗词诵读、传统礼仪体验等。免费参与。\n地点: 罗湖区图书馆\n时间: 2026-07-11 至 2026-08-29\n详情: https://szlhlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4bba4d16b43758c2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260901
+SUMMARY:深圳科学技术馆暑期延时开放
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:深圳科学技术馆暑期延时开放9:30-18:00（7月13日/27日/8月10日/24日闭馆）。950个互动展项，含小星探天文工作坊、光明顶天文台参观体验、一平米实验室等精选活动。需预约购票。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-11 至 2026-08-31\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4c596f67bf8a0f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+SUMMARY:儿童音乐皮影戏
+LOCATION:深圳戏院
+DESCRIPTION:深圳戏院'少儿演出季'系列，传统皮影戏融合音乐元素，适合亲子观看。地铁1/3号线老街站F出口。\n地点: 深圳戏院\n时间: 2026-07-11 至 2026-07-12\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7a05aec7cb9b3d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:罗湖一站式普惠托育集市
+LOCATION:翠湖文体公园拾光草坪
+DESCRIPTION:备案托育机构现场驻点、儿童保健义诊、童话游园（九宫格扔沙包、套大鹅、跳房子、投壶）、舞台汇演。适合0-3岁宝宝家庭。\n地点: 翠湖文体公园拾光草坪\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2a754b06b1de9b14@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260714
+SUMMARY:汪苏泷“十万伏特”巡回演唱会深圳站
+LOCATION:深圳湾体育中心
+DESCRIPTION:汪苏泷“十万伏特”2026巡回演唱会深圳站，三场连开。票价380-1280元多档位。大麦APP、猫眼APP购票。地铁2号线/11号线后海站H口。\n地点: 深圳湾体育中心\n时间: 2026-07-11 至 2026-07-13\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:cb271b78c4d78bb2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:汪峰“相信未来”巡回演唱会深圳站
+LOCATION:深圳湾体育中心
+DESCRIPTION:汪峰“相信未来”巡回演唱会深圳站。看台480/680/880元，内场1180元。大麦APP、猫眼APP购票。地铁2号线/11号线后海站。\n地点: 深圳湾体育中心\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:251bdec00dc89060@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:TizzyT“流行”巡回演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:TizzyT“流行”巡回演唱会深圳站。看台380/480/680/880元，内场1080元。大麦APP购票。地铁3号线/14号线/16号线大运站C口。\n地点: 深圳大运中心体育馆\n时间: 2026-07-11 至 2026-07-11\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:fe9d3b721925748a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+SUMMARY:T街创意市集“后浪一夏”
+LOCATION:华侨城创意文化园
+DESCRIPTION:T街创意市集“后浪一夏”主题市集，华侨城创意文化园北区。免费入场，免预约。地铁1号线侨城东站A口步行10分钟。\n地点: 华侨城创意文化园\n时间: 2026-07-11 至 2026-07-12\n详情: https://www.oct-loft.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc582c2d6a6d744@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260829
+SUMMARY:八家园集章打卡闯关活动
+LOCATION:深圳珠宝博物馆
+DESCRIPTION:深圳市消委会联合8家消费教育家园推出集章打卡闯关活动。参与8个家园打卡集章，集章达标可兑换鹏贝贝PP夹、反光板折叠扇等礼品。免费参与，到各点位服务台即可参与打卡。\n地点: 深圳珠宝博物馆\n时间: 2026-07-11 至 2026-08-28\n详情: https://www.sz.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:99e35c8d7b3f9ab0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260829
+SUMMARY:深圳珠宝博物馆常设展及集章打卡
+LOCATION:深圳珠宝博物馆
+DESCRIPTION:深圳珠宝博物馆，国内首家珠宝专题公共博物馆。常设展设自然之宝、物佩之美、设计之光、深圳之路、湾区之梦五大展区。免费参观，“深圳珠宝博物馆”公众号预约。罗湖区贝丽北路20号金展珠宝广场3-4楼。地铁3或7号线田贝站C或F出口。\n地点: 深圳珠宝博物馆\n时间: 2026-07-11 至 2026-08-28\n详情: https://www.sz.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:90014e606446b7f7@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260914
+SUMMARY:2026“夏日乐读季”
+LOCATION:深圳书城
+DESCRIPTION:2026“夏日乐读季”，深圳出版集团主办，在湾区之眼及深圳书城罗湖城、南山城、中心城、宝安城、龙岗城、龙华城七大文化阵地同步开展。十万余种图书低至5折，汇聚哈小浪、米吴等IP主题展，邀请六小龄童等名家亲临分享。活动免费参与，部分名家分享会需单独预约。\n地点: 深圳书城\n时间: 2026-07-11 至 2026-09-13\n详情: https://www.szbookmall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:6dca4e185e880690@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:R.E.D 演唱会深圳站
+LOCATION:宝安体育中心体育馆
+DESCRIPTION:R.E.D 演唱会深圳站，宝安体育中心体育馆。内场1280/980元，看台780/680元。大麦APP购票。\n地点: 宝安体育中心体育馆\n时间: 2026-07-11 至 2026-07-11\n详情: https://m.weibo.cn/detail/5319165336356734
+END:VEVENT
+BEGIN:VEVENT
+UID:71957a2d60b85cae@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:防溺水安全科普课
+LOCATION:宝安城市规划展览馆
+DESCRIPTION:防溺水安全科普课，宝安城市规划展览馆二楼多功能活动区。现场报名或宝安文体通预约。\n地点: 宝安城市规划展览馆\n时间: 2026-07-11 至 2026-07-11\n详情: http://m.toutiao.com/group/7660572501390541347/
+END:VEVENT
+BEGIN:VEVENT
+UID:723718d8458fa0af@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+SUMMARY:《宋美龄耳环丢了》民国悬疑行进式互动话剧
+LOCATION:OPOWER文化艺术中心
+DESCRIPTION:《宋美龄耳环丢了》民国悬疑行进式互动话剧，OPOWER文化艺术中心O空间（南山侨城东）。大麦评分9.7、豆瓣评分8.2，覆盖全国15+城市巡演超300场。票价196/218元。地铁1号线侨城东站。\n地点: OPOWER文化艺术中心\n时间: 2026-07-11 至 2026-07-12\n详情: https://m.sohu.com/a/1048651415_675420/
+END:VEVENT
+BEGIN:VEVENT
+UID:d397c4bbe850375b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+SUMMARY:湾区之眼书城 湾区绿茵嘉年华主题市集
+LOCATION:宝安滨海文化公园
+DESCRIPTION:在湾区之眼书城海天连廊举办的主题市集，配合世界杯期间活动，设有各色美食和文创摊位。10:00-20:00。\n地点: 宝安滨海文化公园\n时间: 2026-07-11 至 2026-07-12\n详情: https://travel.sohu.com/a/1048607968_355768
+END:VEVENT
+BEGIN:VEVENT
+UID:dae51551aacc691e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+SUMMARY:湾区之眼书城 青春·回响毕业歌会
+LOCATION:宝安滨海文化公园
+DESCRIPTION:在湾区之眼书城南台阶举办的毕业季歌会，7月11-12日每天16:00-16:30/17:00-17:30/18:00-18:30三场。同期还有露天电影《潜艇总动员2》亲子专场放映（7月11日19:00）及世界杯1/4决赛直播（7月12日9:00开始）。\n地点: 宝安滨海文化公园\n时间: 2026-07-11 至 2026-07-12\n详情: https://travel.sohu.com/a/1048607968_355768
+END:VEVENT
+BEGIN:VEVENT
+UID:51af5d0f5cba6969@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:罗湖夏日托育集市——嘉苗守护 育健同行
+LOCATION:翠湖文体公园
+DESCRIPTION:罗湖区一站式普惠托育集市活动，在翠湖文体公园拾光草坪举办。活动亮点包括：备案托育机构驻点提供普惠托育政策免费咨询、儿童保健与科学育儿义诊、国风养生中医药膳品鉴；以“仙境探险家·重绘成长星图”为主线的沉浸式童话游园（九宫格扔沙包、套大鹅、跳房子、投壶等亲子游戏）；小儿推拿亲子操、幼儿舞蹈、感统课程展示等精彩舞台汇演；以及网红童趣打卡场景。活动时间15:00-19:00。\n地点: 翠湖文体公园\n时间: 2026-07-11 至 2026-07-11\n详情: https://mp.weixin.qq.com/s?__biz=MzA4MDg5OTI5Nw==&mid=2649749328&idx=1&sn=a1be988d0f8ab2e8ffb7c2e4ca5cea1f
+END:VEVENT
+BEGIN:VEVENT
+UID:ba6b74bf358902a9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:TizzyT演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:TizzyT巡回演唱会深圳站。看台380/480/680/880元，内场1080元。\n地点: 深圳大运中心体育馆\n时间: 2026-07-11 至 2026-07-11\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:149691889bb84d17@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:山海之旅·走读盐田第五期：草木含情·辨识乡土芳华
+LOCATION:盐田区恩上湿地公园
+DESCRIPTION:由深圳市盐田区文化广电旅游体育局主办、盐田区图书馆承办的自然观察活动。跟随刘永金教授走进梧桐山麓葱郁林间，辨识朴树、藜蒴、变叶榕、高榕、黄牛木等乡土植物，亲手用纸拓印树杆感受生命纹理。活动时间9:30-11:00，招募6-60岁读者，开放15个名额，需报名。\n地点: 盐田区恩上湿地公园\n时间: 2026-07-11 至 2026-07-11\n详情: https://cul.sohu.com/a/1047618564_121106875
+END:VEVENT
+BEGIN:VEVENT
+UID:b52e21d9c5710103@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+SUMMARY:书香乐韵——音乐读书会
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆音乐主题读书分享会，隔周六下午。免费参与。\n地点: 光明区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:d11bbee7f2af627f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260827
+SUMMARY:龙岗区图书馆暑期夏令营
+LOCATION:龙岗区图书馆
+DESCRIPTION:龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。\n地点: 龙岗区图书馆\n时间: 2026-07-12 至 2026-08-26\n详情: https://www.szlglib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:7a34f79331715aca@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260827
+SUMMARY:大鹏地质公园博物馆科普活动
+LOCATION:大鹏地质公园博物馆
+DESCRIPTION:大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。\n地点: 大鹏地质公园博物馆\n时间: 2026-07-12 至 2026-08-26\n详情: https://www.dapeng.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:694acdd2cccb4cb1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+SUMMARY:福田区图书馆暑期电影放映
+LOCATION:福田区图书馆
+DESCRIPTION:福田区图书馆暑期少儿电影放映，每周日下午14:30。免费观影。\n地点: 福田区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.ftlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:78a947d94577287c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+SUMMARY:盐田区图书馆海洋文化讲座
+LOCATION:盐田区图书馆
+DESCRIPTION:盐田区图书馆暑期海洋文化系列讲座，结合盐田滨海特色，开展海洋知识科普。免费参与。\n地点: 盐田区图书馆\n时间: 2026-07-12 至 2026-08-23\n详情: https://www.ytlib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4757da358ccb99@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260829
+SUMMARY:深圳湾体育中心暑期网球培训班
+LOCATION:深圳湾体育中心
+DESCRIPTION:深圳湾体育中心暑期网球培训班，面向6-14岁儿童。收费课程。\n地点: 深圳湾体育中心\n时间: 2026-07-12 至 2026-08-28\n详情: https://www.szns.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:03c514d3ba2fa39f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260823
+SUMMARY:南山区青少年活动中心暑期科技营
+LOCATION:南山区青少年活动中心
+DESCRIPTION:南山区青少年活动中心暑期科技营，包含编程、机器人、3D打印等课程。免费报名。\n地点: 南山区青少年活动中心\n时间: 2026-07-12 至 2026-08-22\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffacabbb6d04d7ae@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:国艺团少儿文艺汇演——跃马新程·筑梦盛夏
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:深圳少年儿童图书馆国艺团少儿文艺汇演，包含传统乐器演奏、诗词朗诵、戏曲表演等。免票观赏，文明入座。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-12 至 2026-07-12\n详情: https://mp.weixin.qq.com/s/htzznWkkDd6IMZQsPPcMEQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b3dedf660577240b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝安1990·周末剧场皮影专场
+LOCATION:宝安1990文化馆
+DESCRIPTION:宝安1990（宝安文化馆）周末剧场，暑期皮影戏专场演出。免费观看。\n地点: 宝安1990文化馆\n时间: 2026-07-12 至 2026-08-30\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e19acc107869cda4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260829
+SUMMARY:宝安体育中心暑期羽毛球培训班
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期羽毛球培训班，面向7-15岁青少年。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-12 至 2026-08-28\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1495208e3eaf9c9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:国风儿童剧《少年诗词游之李白》
+LOCATION:茅洲河体育艺术中心剧场
+DESCRIPTION:诗词大会式的国风儿童剧，带孩子走进诗仙李白的世界，寓教于乐。\n地点: 茅洲河体育艺术中心剧场\n时间: 2026-07-12 至 2026-07-12\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:15dbd962872b7907@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:美术馆里的音乐会——弦乐快闪
+LOCATION:光明文化艺术中心美术馆
+DESCRIPTION:光明文化艺术中心携手深圳交响乐团联袂呈现美术馆里的音乐会首场快闪，以弦乐的优雅之声跨界联动比利时国宝漫画百年巡礼展。免费。地铁6号线光明站。\n地点: 光明文化艺术中心美术馆\n时间: 2026-07-12 至 2026-07-12\n详情: http://www.sznews.com/news/content/mb/2026-07/09/content_32115795.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:f42e235e66362b2a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:「声无界·圳当潮」LIVE嘉年华音乐会——毕业季青春歌会
+LOCATION:深圳湾公园
+DESCRIPTION:在欢乐海岸狂欢小舞台（临近深圳湾公园）举办的免费露天音乐会，炽热织梦乐队与任意门乐队带来以青春为主题的现场演出。「声无界·圳当潮」LIVE嘉年华将在7-10月带来8场免费音乐会。地铁9号线深圳湾公园站E出口。\n地点: 深圳湾公园\n时间: 2026-07-12 至 2026-07-12\n详情: https://m.sohu.com/a/1048684047_121956422
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed872e8d83c5ccd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:美丽星期天——暑期交响音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳交响乐团暑期公益音乐会，15:00演出。免费领票入场。\n地点: 深圳音乐厅\n时间: 2026-07-13 至 2026-07-13\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b3c651348bc7dc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260828
+SUMMARY:大鹏新区图书馆暑期活动
+LOCATION:大鹏新区图书馆
+DESCRIPTION:大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。\n地点: 大鹏新区图书馆\n时间: 2026-07-13 至 2026-08-27\n详情: https://www.dplib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f017d1635b9d8aa5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260825
+SUMMARY:光明区图书馆光明大讲堂
+LOCATION:光明区图书馆
+DESCRIPTION:光明区图书馆品牌讲座「光明大讲堂」暑期系列，邀请各界名家开讲。每周日下午举行。\n地点: 光明区图书馆\n时间: 2026-07-13 至 2026-08-24\n详情: https://www.szgmlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd785237b1bdddd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260825
+SUMMARY:南山博物馆暑期讲座系列
+LOCATION:南山博物馆
+DESCRIPTION:南山博物馆暑期学术讲座系列，邀请文博专家讲述展览背后的故事。每周六下午。免费参与。\n地点: 南山博物馆\n时间: 2026-07-13 至 2026-08-24\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:501900533434a754@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260822
+SUMMARY:宝安航城街道暑期公益非遗课
+LOCATION:宝安区文化馆燕罗街道分馆
+DESCRIPTION:宝安航城街道暑期免费公益艺术课：谢氏核雕、夏氏灯笼、黄麻布醒狮、青少年瑜伽、少儿打击乐、少儿口风琴、少儿古筝、少儿爵士舞、少儿动漫等。免费报名。\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-13 至 2026-08-21\n详情: https://www.baoan.gov.cn\n联系: 0755-85905112
+END:VEVENT
+BEGIN:VEVENT
+UID:db6414107ee07a79@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260724
+SUMMARY:盐田区文化馆“四季享艺”公益培训夏季班
+LOCATION:盐田区文化馆
+DESCRIPTION:2026盐田区文化馆“四季享艺”公益培训夏季班。开设古筝、声乐、舞蹈、书画等课程，面向4-18岁青少年。“盐田区文化馆”公众号报名，名额有限先到先得。公益免费。地铁8号线海山站B口。\n地点: 盐田区文化馆\n时间: 2026-07-13 至 2026-07-23\n详情: https://www.yantian.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:38d3c87eb6ceec86@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260716
+SUMMARY:"小小科学家"科创研学营（小学组）
+LOCATION:宝安区青少年宫
+DESCRIPTION:宝安区青少年宫"小小科学家"科创研学营小学组。公益免费，覆盖人工智能、机器人编程、3D打印、科学实验秀等主题。\n地点: 宝安区青少年宫\n时间: 2026-07-13 至 2026-07-15\n详情: https://appatt.sznews.com/baoan/files/szxw/News/202606/29/328561.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7bfb0b43133918@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260826
+SUMMARY:坪山区图书馆少儿暑期工坊
+LOCATION:坪山区图书馆
+DESCRIPTION:坪山区图书馆暑期少儿手工工坊，包含折纸、剪纸、模型制作等。每周三下午举行。免费参与。\n地点: 坪山区图书馆\n时间: 2026-07-14 至 2026-08-25\n详情: https://www.szpslib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e2d2a2a5117b3dd2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260720
+SUMMARY:炫彩青春——优秀青年京剧演员展演
+LOCATION:深圳戏院
+DESCRIPTION:中国京剧艺术基金会与深圳京剧院联合主办，剧目包括《满江红》《寻觅清照》《杨门女将》，张建国等名家领衔。\n地点: 深圳戏院\n时间: 2026-07-14 至 2026-07-19\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c1007851f3bac5@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20261016
+SUMMARY:中国科幻史里程碑展
+LOCATION:深圳科学技术馆（光明新馆）
+DESCRIPTION:中国科幻文学与影视发展历程展览，含经典科幻道具展示。\n地点: 深圳科学技术馆（光明新馆）\n时间: 2026-07-15 至 2026-10-15\n详情: https://www.szstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b459f84d6983767f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260824
+SUMMARY:宝安图书馆暑期阅读夏令营
+LOCATION:宝安图书馆
+DESCRIPTION:宝安图书馆暑期阅读夏令营，包含绘本故事、手工制作、科普讲座等活动。每周三、周五举行。免费参与。\n地点: 宝安图书馆\n时间: 2026-07-15 至 2026-08-23\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:8229e00ff1f1eb33@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝安体育中心暑期游泳培训班
+LOCATION:宝安体育中心
+DESCRIPTION:宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。\n地点: 宝安体育中心\n时间: 2026-07-15 至 2026-08-25\n详情: http://www.baoan.gov.cn/bawtlyj/
+END:VEVENT
+BEGIN:VEVENT
+UID:2951ed609ab0ce7e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260831
+SUMMARY:南山区文化馆暑期公益培训
+LOCATION:南山区文化馆
+DESCRIPTION:南山区文化馆暑期公益艺术培训，包含舞蹈、声乐、书法、国画、摄影等课程。免费报名。\n地点: 南山区文化馆\n时间: 2026-07-15 至 2026-08-30\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:a37f6dd58cd4abdc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:光明区文化馆少儿暑期营
+LOCATION:光明区文化馆
+DESCRIPTION:光明区文化馆少儿暑期活动营，包含手工制作、科普实验、绘本阅读等。免费参与。\n地点: 光明区文化馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.szgm.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c60ab36f43d1a095@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:龙岗区图书馆少儿编程体验课
+LOCATION:龙岗区图书馆
+DESCRIPTION:龙岗区图书馆暑期少儿编程体验课，Scratch和Python入门，适合7-14岁。免费参与。\n地点: 龙岗区图书馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.szlglib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8d4e23454fa227@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:宝安科技馆暑期创客工坊
+LOCATION:宝安科技馆
+DESCRIPTION:宝安科技馆暑期创客工坊，包含3D打印、电子制作、编程入门等动手实践课程。\n地点: 宝安科技馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7805315862ba1e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:龙岗区青少年宫暑期体育训练营
+LOCATION:龙岗区青少年宫
+DESCRIPTION:龙岗区青少年宫暑期体育训练营，包含篮球、羽毛球、跆拳道等课程。免费报名。\n地点: 龙岗区青少年宫\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.lg.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1233e4caf18eb3cb@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市少年宫暑期少儿剧场
+LOCATION:深圳市少年宫
+DESCRIPTION:深圳市少年宫暑期少儿剧场，包含儿童剧、木偶戏、魔术表演等。免费领票。\n地点: 深圳市少年宫\n时间: 2026-07-15 至 2026-08-25\n详情: http://www.szcp.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ae7bd9ef187a4176@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市体育中心暑期运动营
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。\n地点: 深圳市体育中心体育场\n时间: 2026-07-15 至 2026-08-25\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:17616933b9647d0c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:大鹏地质公园博物馆暑期探索营
+LOCATION:大鹏地质公园博物馆
+DESCRIPTION:大鹏地质公园博物馆暑期青少年探索营，包含火山地质考察、化石挖掘体验、海岸地貌观察。\n地点: 大鹏地质公园博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.dapeng.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f10e9d0bc4400748@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:南山博物馆暑期少儿工作坊
+LOCATION:南山博物馆
+DESCRIPTION:南山博物馆暑期少儿手工工作坊，结合展览内容开展陶艺、拓印、绘画等体验活动。免费需预约。\n地点: 南山博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.nanshanmuseum.com\n联系: 0755-86700071
+END:VEVENT
+BEGIN:VEVENT
+UID:262077065d572459@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:深圳市青少年活动中心暑期科技体验
+LOCATION:深圳市青少年活动中心
+DESCRIPTION:深圳市青少年活动中心暑期科技体验活动，包含VR体验、机器人编程、无人机飞行等。免费报名。\n地点: 深圳市青少年活动中心\n时间: 2026-07-15 至 2026-08-25\n详情: https://www.szaac.com
+END:VEVENT
+BEGIN:VEVENT
+UID:17ac956b438dfd98@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260828
+SUMMARY:龙华区图书馆暑期科普讲座
+LOCATION:龙华区图书馆
+DESCRIPTION:龙华区图书馆暑期科普讲座系列活动，包含天文、地理、生物等主题。每周六下午举行。免费参与。\n地点: 龙华区图书馆\n时间: 2026-07-16 至 2026-08-27\n详情: https://www.szlhlib.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:64814d9d308a35df@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260720
+SUMMARY:“大有可叙·灵感群岛”艺术市集
+LOCATION:华侨城创意文化园
+DESCRIPTION:“大有可叙·灵感群岛”艺术市集，华侨城创意文化园OCAT B10馆。免费入场，免预约。地铁1号线侨城东站A口。\n地点: 华侨城创意文化园\n时间: 2026-07-16 至 2026-07-19\n详情: https://www.oct-loft.com
+END:VEVENT
+BEGIN:VEVENT
+UID:91b696bde25ef203@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:第三届深圳乐队节
+LOCATION:宝安区青少年宫
+DESCRIPTION:2026第三届深圳乐队节，以'破界·共生·赋能·共赢'为主题，设键盘乐、民乐、西洋管弦乐、流行爵士乐、电吹管五大专场。地点：宝安青少年宫。免费观演。\n地点: 宝安区青少年宫\n时间: 2026-07-17 至 2026-07-18\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b8a95403f110e1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳交响乐团2025-2026音乐季闭幕音乐会，两大经典歌剧《乡村骑士》与《丑角》同台呈现。\n地点: 深圳音乐厅\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szyyt.com/performance/show_100000937342526.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd545975dd45783@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:“鑫”乐之旅——田佳鑫钢琴独奏音乐会
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:“鑫”乐之旅——田佳鑫钢琴独奏音乐会，深圳滨海艺术中心多功能厅。施坦威艺术家田佳鑫演绎中外钢琴经典作品。公益票50元，票价80/180/280元。深圳滨海艺术中心官网购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-17 至 2026-07-17\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1b338c0595864cb3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260807
+SUMMARY:星丛——青春心印十二年工笔画艺术生态展
+LOCATION:关山月美术馆
+DESCRIPTION:星丛：青春心印十二年工笔画艺术生态展，关山月美术馆。聚焦12位艺术家，汇集绘画、手稿与日常物件。免费免预约。\n地点: 关山月美术馆\n时间: 2026-07-17 至 2026-08-06\n详情: https://m.sohu.com/a/1043651578_121124668/
+END:VEVENT
+BEGIN:VEVENT
+UID:e65268bb2101684e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:「鑫」乐之旅——田佳鑫钢琴独奏音乐会
+LOCATION:欢乐港湾
+DESCRIPTION:在深圳滨海艺术中心多功能厅举办的钢琴独奏音乐会，7月17日20:00。票价50/180/280元。\n地点: 欢乐港湾\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:df4b0853695421cd@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260816
+SUMMARY:宝安区青少年宫暑期科技夏令营
+LOCATION:宝安区青少年宫
+DESCRIPTION:宝安区青少年宫暑期科技夏令营，包含机器人编程、无人机体验、科学实验等。免费报名。\n地点: 宝安区青少年宫\n时间: 2026-07-18 至 2026-08-15\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a447cbc5d438122e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026南山区自然艺术季——大师讲堂
+LOCATION:华侨城湿地公园
+DESCRIPTION:自然学者南兆旭主讲「自然万物教给我们的美育课」，地点：华侨城湿地生态展厅放映厅。免费需预约。\n地点: 华侨城湿地公园\n时间: 2026-07-18 至 2026-07-18\n详情: https://mp.weixin.qq.com\n联系: 0755-86122899
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7029846ee83d85@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:漫步古典夜系列音乐会，长笛与吉他二重奏，演绎时光的折痕经典曲目。\n地点: 深圳音乐厅\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szyyt.com/performance/show_100000954193225.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b7af3683374f7c1c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:北京舞蹈学院原创舞剧《巍巍正阳》
+LOCATION:光明文化艺术中心·演艺中心·大剧场
+DESCRIPTION:阿云嘎献唱主题曲《守望》，马蛟龙、孙科等实力舞者加盟。以正阳门下一家五代人命运流转，铺展中国近现代史长卷。\n地点: 光明文化艺术中心·演艺中心·大剧场\n时间: 2026-07-18 至 2026-07-19\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:a646782303b94ce2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:科普绘本剧《肚子里的火车站》
+LOCATION:茅洲河体育艺术中心剧场
+DESCRIPTION:根据德国经典科普绘本改编，让孩子了解消化系统的奥秘，趣味科普舞台剧。\n地点: 茅洲河体育艺术中心剧场\n时间: 2026-07-18 至 2026-07-18\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba12436d03b562b0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Jony J 2026“本命”巡回演唱会深圳站
+LOCATION:深圳湾体育中心
+DESCRIPTION:Jony J 2026“本命”巡回演唱会深圳站。票价398/598/798/998/1198元。桔子密码演出票务平台购票。地铁2号线/11号线后海站M口。\n地点: 深圳湾体育中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb91b7fdfb02283@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:蔡程昱“一程”2026音乐会深圳站
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:蔡程昱“一程”2026音乐会深圳站，深圳滨海艺术中心歌剧厅。票价180/280/480/680/880元。深圳滨海艺术中心官网及大麦APP购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-18 至 2026-07-18\n详情: http://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e520910a55319ef2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:新裤子巡回演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:新裤子巡回演唱会深圳站。看台380/580/780/980元。大麦APP购票。地铁3号线/14号线/16号线大运站C口。\n地点: 深圳大运中心体育馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a687a32f91db3a02@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:艺术阅读亲子创作活动
+LOCATION:宝安图书馆
+DESCRIPTION:当艺术与阅读相遇艺术阅读亲子创作活动，宝安区图书馆总馆多功能活动室。打破阅读与绘画的边界，亲子共同创作。宝安文体通公众号预约。\n地点: 宝安图书馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:07ecfdfbfee9a3c1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:欢子《我的青春有你》巡回演唱会深圳站
+LOCATION:宝安体育中心体育馆
+DESCRIPTION:秀域·欢子《我的青春有你》2026巡回演唱会深圳站，连开两场，梁汉文担任特邀嘉宾。票价180-880元。猫眼、大麦APP购票。\n地点: 宝安体育中心体育馆\n时间: 2026-07-18 至 2026-07-19\n详情: http://m.toutiao.com/group/7659436323362718242/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ebb2294a6c45553@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:于文文「边界」巡回演唱会
+LOCATION:深圳市体育中心体育馆
+DESCRIPTION:于文文「边界」巡回演唱会深圳站，深圳市体育中心体育馆（主馆）。地铁3号线通新岭站。\n地点: 深圳市体育中心体育馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:ece9a43df361f552@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:姜育恒「再回首·我心依旧」巡回演唱会
+LOCATION:深圳国际会展中心
+DESCRIPTION:姜育恒「再回首·我心依旧」巡回演唱会深圳站，宝安国际会展中心20号馆。地铁20号线国展站。\n地点: 深圳国际会展中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:887b967aa5ccfed8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:蔡程昱「一程」2026音乐会深圳站
+LOCATION:欢乐港湾
+DESCRIPTION:在深圳滨海艺术中心歌剧厅举办的蔡程昱「一程」2026音乐会深圳站，7月18日19:30。票价280-880元。\n地点: 欢乐港湾\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:08fbd56a1164f540@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:新裤子演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:新裤子乐队巡回演唱会深圳站。看台380/580/780/980元。\n地点: 深圳大运中心体育馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:7020ffe8a094831e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:百老汇儿童剧《原始人大冒险》
+LOCATION:玉塘文体中心
+DESCRIPTION:百老汇风格儿童剧，带领小朋友穿越原始时代展开冒险。\n地点: 玉塘文体中心\n时间: 2026-07-19 至 2026-07-19\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:c569ffe1faf873ca@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:王源巡回演唱会深圳站
+LOCATION:深圳大运中心体育场
+DESCRIPTION:王源巡回演唱会深圳站。大麦APP、猫眼APP购票。地铁3号线/14号线/16号线大运站，演出日周边交通管制，建议地铁出行。\n地点: 深圳大运中心体育场\n时间: 2026-07-19 至 2026-07-19\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:784961267a18b696@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:「仲夏梦·童话夜」春泥合唱团动漫金曲沉浸式音乐会
+LOCATION:深圳保利剧院
+DESCRIPTION:春泥合唱团动漫金曲沉浸式音乐会，深圳保利剧院。票价120/180/280/380/480/580元。从流行音乐到影视作品，用人声重新诠释大众熟悉的旋律。地铁2号线后海站。\n地点: 深圳保利剧院\n时间: 2026-07-19 至 2026-07-19\n详情: https://m.sohu.com/a/1043746671_121124734/
+END:VEVENT
+BEGIN:VEVENT
+UID:25e3296c4b632337@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:王源演唱会深圳站
+LOCATION:深圳大运中心体育场
+DESCRIPTION:王源巡回演唱会深圳站，在大运中心体育场举办。\n地点: 深圳大运中心体育场\n时间: 2026-07-19 至 2026-07-19\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:d9dc7647b0ef9ac4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:美丽星期天——室内乐之夜
+LOCATION:深圳音乐厅
+DESCRIPTION:弦乐四重奏室内乐公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-07-20 至 2026-07-20\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:eb432503ff2f63f9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260826
+SUMMARY:南山区文化馆暑期少儿艺术营
+LOCATION:南山区文化馆
+DESCRIPTION:南山区文化馆暑期少儿艺术营，包含儿童绘画、手工制作、音乐启蒙等课程。免费报名。\n地点: 南山区文化馆\n时间: 2026-07-20 至 2026-08-25\n详情: https://www.szns.gov.cn/nsqwhg/
+END:VEVENT
+BEGIN:VEVENT
+UID:c11d40c2115dad59@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260723
+SUMMARY:深圳原创大型主题交响曲《潮起山海间》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:【公益演出】深圳原创大型主题交响曲《潮起山海间》，歌剧厅演出。公益票50元。深圳滨海艺术中心官网购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-21 至 2026-07-22\n详情: http://ebook.szbo.com.cn/ticketlist.html
+END:VEVENT
+BEGIN:VEVENT
+UID:f1008531151eddb1@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260723
+SUMMARY:深圳原创大型主题交响曲《潮起山海间》公益演出
+LOCATION:欢乐港湾
+DESCRIPTION:在深圳滨海艺术中心歌剧厅举办公益演出，深圳原创大型主题交响曲《潮起山海间》，7月21-22日每晚20:00。公益票50元。\n地点: 欢乐港湾\n时间: 2026-07-21 至 2026-07-22\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0f1419edd7f0d3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260724
+SUMMARY:央华版·话剧《日出》
+LOCATION:深圳保利剧院
+DESCRIPTION:2026深圳文博会艺术季——央华版话剧《日出》，深圳保利剧院。何赛飞、赵文瑄、徐俐领衔主演，曹禺之女万方担任剧本总监，梅林茂操刀原创音乐。票价100/280/380/480/680/880元。\n地点: 深圳保利剧院\n时间: 2026-07-22 至 2026-07-23\n详情: https://m.sohu.com/a/1043746671_121124734/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f242b062950da7d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260725
+SUMMARY:西安话剧院《长安第二碗》
+LOCATION:南山文体中心大剧院
+DESCRIPTION:西安话剧院《长安第二碗》，南山文体中心大剧院。地铁1号线桃园站。\n地点: 南山文体中心大剧院\n时间: 2026-07-23 至 2026-07-24\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:d273f708a051b348@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会
+LOCATION:深圳音乐厅五楼小剧场
+DESCRIPTION:广州市同曲异工乐团演绎，以新世纪音乐风格呈现柴可夫斯基《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。\n地点: 深圳音乐厅五楼小剧场\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szyyt.com/performance/show_100000984262811.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4a04aa0d21d521@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:韦礼安巡回演唱会深圳站
+LOCATION:深圳湾体育中心
+DESCRIPTION:韦礼安巡回演唱会深圳站。票价380/580/780/980元。猫眼演出、大麦APP购票。地铁2号线/11号线后海站。\n地点: 深圳湾体育中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.damai.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:54c8eb43a53e6a0f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260826
+SUMMARY:宝博小小讲解员定点讲解
+LOCATION:宝安区博物馆
+DESCRIPTION:宝博小小讲解员定点讲解，宝安1990负一楼和一楼展厅。每天4场定点讲解，小小讲解员带你走进历史聆听文物故事。免费，直接到馆无需预约。\n地点: 宝安区博物馆\n时间: 2026-07-25 至 2026-08-25\n详情: https://www.baoan.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:936b97719802b125@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:陈洁仪 ATRIUM(心房) 巡回演唱会深圳站
+LOCATION:宝安体育中心体育馆
+DESCRIPTION:陈洁仪 ATRIUM(心房)巡回演唱会深圳站，宝安体育中心体育馆。陈洁仪Kit微博官宣。大麦、猫眼APP购票。\n地点: 宝安体育中心体育馆\n时间: 2026-07-25 至 2026-07-25\n详情: https://m.weibo.cn/detail/5302419857605992
+END:VEVENT
+BEGIN:VEVENT
+UID:d28d3098b36ddb00@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:科普小课堂·儿童科学防晒专题
+LOCATION:宝安城市规划展览馆
+DESCRIPTION:科普小课堂第126期《科学防晒——护理儿童健康皮肤》，宝安城市规划展览馆二楼多功能活动区。专业医生解答儿童防晒与皮肤护理问题。现场报名或宝安文体通预约。\n地点: 宝安城市规划展览馆\n时间: 2026-07-25 至 2026-07-25\n详情: http://m.toutiao.com/group/7660572501390541347/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f2e18e005b4d96@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:莫叫姐姐《不该用情》巡回演唱会
+LOCATION:南山文体中心大剧院
+DESCRIPTION:莫叫姐姐《不该用情》巡回演唱会，南山文体中心聚橙剧院大剧院。地铁1号线桃园站。\n地点: 南山文体中心大剧院\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:9d42e20bc7784452@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》
+LOCATION:光明文化艺术中心·演艺中心·大剧场
+DESCRIPTION:唯一包揽三大国际钢琴赛事大奖的中国钢琴家陈萨，指挥冠军孙一凡与国家大剧院管弦乐团室内乐团强强联袂。\n地点: 光明文化艺术中心·演艺中心·大剧场\n时间: 2026-07-26 至 2026-07-26\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f74669beb8f932@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:刘大壮「吉他不及她」巡回演唱会
+LOCATION:南山文体中心大剧院
+DESCRIPTION:刘大壮「吉他不及她」巡回演唱会，南山文体中心聚橙剧院大剧院。地铁1号线桃园站。\n地点: 南山文体中心大剧院\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.meipian.cn/5n819blh
+END:VEVENT
+BEGIN:VEVENT
+UID:c82d84a7df864bea@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:美丽星期天——民乐鉴赏
+LOCATION:深圳音乐厅
+DESCRIPTION:民族器乐鉴赏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-07-27 至 2026-07-27\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4a89dc13d7385085@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:《新时代的脉搏》国际管乐学院音乐节亚洲巡演专场音乐会
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:《新时代的脉搏》-国际管乐学院音乐节亚洲巡演专场音乐会，歌剧厅演出。公益票50元、99元。深圳滨海艺术中心官网购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-27 至 2026-07-27\n详情: http://ebook.szbo.com.cn/ticketlist.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d55f1246237327@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:《新时代的脉搏》国际管乐学院音乐节亚洲巡演专场音乐会
+LOCATION:欢乐港湾
+DESCRIPTION:在深圳滨海艺术中心歌剧厅举办的国际管乐学院音乐节亚洲巡演专场音乐会，7月27日20:00。公益票50元起。\n地点: 欢乐港湾\n时间: 2026-07-27 至 2026-07-27\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe5a1bdee58263a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260802
+SUMMARY:《在巴黎的星空下》芭蕾明星精品荟萃
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:2026 UNDER THE STARS OF PARIS 在巴黎的星空下 芭蕾明星精品荟萃，深圳文博会艺术季。歌剧厅演出。票价公益票50元，180/280/380/580/680/880元。深圳滨海艺术中心官网购票。地铁5号线宝华站D口。\n地点: 深圳滨海艺术中心\n时间: 2026-07-31 至 2026-08-01\n详情: http://ebook.szbo.com.cn/ticketlist.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4569022ffb86a566@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260802
+SUMMARY:UNDER THE STARS OF PARIS 在巴黎的星空下 芭蕾明星精品荟萃
+LOCATION:欢乐港湾
+DESCRIPTION:深圳文博会艺术季项目，在深圳滨海艺术中心歌剧厅演出。7月31日-8月1日每晚19:30。票价50-880元。\n地点: 欢乐港湾\n时间: 2026-07-31 至 2026-08-01\n详情: https://www.szbo.com.cn/piao/4/23862.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3e8027af463b0e@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:中超联赛 深圳新鹏城 vs 重庆铜梁龙
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。\n地点: 深圳市体育中心体育场\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4349521ec4868cbc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20261201
+SUMMARY:鹤湖新居MR互动展览体验
+LOCATION:龙岗客家民俗博物馆
+DESCRIPTION:龙岗客家民俗博物馆MR互动展览体验项目，融合科技与客家文化，包含AI语音导览、定制化互动游戏等。免费体验。\n地点: 龙岗客家民俗博物馆\n时间: 2026-08-01 至 2026-11-30\n详情: https://www.lg.gov.cn\n联系: 0755-84298800
+END:VEVENT
+BEGIN:VEVENT
+UID:89a0e19adca6ec87@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:舞剧《她的龟兹》
+LOCATION:光明文化艺术中心
+DESCRIPTION:青年舞蹈家古丽米娜领衔主演舞剧《她的龟兹》，光明文化艺术中心大剧场。以修复师的时空追寻为线，在斑驳壁画与丝路繁华间重现龟兹乐舞风华。地铁6号线光明站。\n地点: 光明文化艺术中心\n时间: 2026-08-01 至 2026-08-02\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ce1c85e819c047d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:大型大提琴室内乐作品《澳门意象》音乐会
+LOCATION:欢乐港湾
+DESCRIPTION:2026「艺述」湾区演出季项目，在深圳滨海艺术中心演出大型大提琴室内乐作品《澳门意象》音乐会，8月1日20:00。\n地点: 欢乐港湾\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc9db155df3e2dc@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:刘雨欣演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:刘雨欣巡回演唱会深圳站，在大运中心体育馆举办。\n地点: 深圳大运中心体育馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcfd04fc90cf159@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:美丽星期天——合唱音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳合唱团公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-03 至 2026-08-03\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:8b64518b836798c0@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:俄罗斯冰上芭蕾《胡桃夹子》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编。\n地点: 深圳滨海艺术中心\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:704bb42c8b6c9548@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260810
+SUMMARY:俄罗斯经典冰上芭蕾舞剧《天鹅湖》《胡桃夹子》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯经典冰上芭蕾舞剧，46名演员，7场演出。地点：深圳滨海艺术中心（宝安区欢乐港湾16号）。购票入场。\n地点: 深圳滨海艺术中心\n时间: 2026-08-05 至 2026-08-09\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:bb60bae9faa3b46c@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260808
+SUMMARY:2026俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》
+LOCATION:欢乐港湾
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团在深圳滨海艺术中心（位于欢乐港湾）演出经典芭蕾舞剧《胡桃夹子》，8月5-7日每晚20:00。\n地点: 欢乐港湾\n时间: 2026-08-05 至 2026-08-07\n详情: https://www.szbo.com.cn/piao/4/23860.html
+END:VEVENT
+BEGIN:VEVENT
+UID:810b399f4c902cef@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:俄罗斯冰上芭蕾《天鹅湖》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，冰上版天鹅湖。\n地点: 深圳滨海艺术中心\n时间: 2026-08-06 至 2026-08-06\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4377970a736d6bf4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:跟着音乐去旅行——暑期亲子音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:含《动物狂欢节》《狮子王》组曲等，专为亲子设计的互动音乐会。\n地点: 深圳音乐厅\n时间: 2026-08-07 至 2026-08-07\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4d8f262d555a4c06@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:俄罗斯冰上芭蕾《天鹅湖》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，冰上版天鹅湖（加演场）。\n地点: 深圳滨海艺术中心\n时间: 2026-08-08 至 2026-08-08\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:6992482ad7d0ae4a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:鼻涕虫教授的昆虫秀
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:英国原版互动音乐儿童偶剧，适合3岁以上儿童。\n地点: 深圳滨海艺术中心\n时间: 2026-08-08 至 2026-08-08\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:33d36224ff29b4ab@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:沉浸式互动亲子科学剧《数学秀》
+LOCATION:深圳龙岗国际艺术中心
+DESCRIPTION:不是数学课，是一场数学奇幻大冒险！激光三维坐标轴、莫比乌斯环过山车、π博士穿越古今，80分钟让孩子爱上数学。早鸟票99元起。\n地点: 深圳龙岗国际艺术中心\n时间: 2026-08-08 至 2026-08-08\n详情: https://m.sohu.com/a/1045463665_675420/
+END:VEVENT
+BEGIN:VEVENT
+UID:b38c6067ed3900c3@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:乔治·哈利奥诺钢琴独奏会《东方幻想》
+LOCATION:光明文化艺术中心
+DESCRIPTION:柴可夫斯基国际音乐比赛银奖得主乔治·哈利奥诺钢琴独奏会，光明文化艺术中心音乐厅。巴赫、贝多芬、李斯特经典及巴拉基列夫东方幻想曲。地铁6号线光明站。\n地点: 光明文化艺术中心\n时间: 2026-08-08 至 2026-08-08\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0ade664d858c0c4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260810
+SUMMARY:陕西人艺话剧《主角》
+LOCATION:光明文化艺术中心
+DESCRIPTION:陕西人艺茅奖系列话剧《主角》，光明文化艺术中心大剧场。根据陈彦同名小说改编，讲述秦腔名伶忆秦娥从11岁放羊娃到秦腔皇后的传奇人生。地铁6号线光明站。\n地点: 光明文化艺术中心\n时间: 2026-08-08 至 2026-08-09\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:48bab85ad9e076b8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260810
+SUMMARY:2026俄罗斯圣彼得堡国家冰上芭蕾舞团《天鹅湖》
+LOCATION:欢乐港湾
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团在深圳滨海艺术中心演出经典芭蕾舞剧《天鹅湖》，8月8-9日每天15:00及20:00各一场。\n地点: 欢乐港湾\n时间: 2026-08-08 至 2026-08-09\n详情: https://www.szbo.com.cn/piao/4/23861.html
+END:VEVENT
+BEGIN:VEVENT
+UID:050e079a01727a83@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:林子祥叶倩文演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:林子祥、叶倩文巡回演唱会深圳站。看台480/680/980/1380元，内场1680元。\n地点: 深圳大运中心体育馆\n时间: 2026-08-08 至 2026-08-08\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac81a86cf06cac4@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:俄罗斯冰上芭蕾《胡桃夹子》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编（加演场）。\n地点: 深圳滨海艺术中心\n时间: 2026-08-09 至 2026-08-09\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:44c43e8b65a24630@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:美丽星期天——钢琴独奏会
+LOCATION:深圳音乐厅
+DESCRIPTION:青年钢琴家独奏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-10 至 2026-08-10\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:282f8963fd96622d@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260821
+SUMMARY:龙华区青少年宫暑期艺术展演
+LOCATION:龙华区青少年宫
+DESCRIPTION:龙华区青少年宫暑期艺术展演，展示暑期培训成果，包含舞蹈、声乐、器乐等表演。免费观看。\n地点: 龙华区青少年宫\n时间: 2026-08-15 至 2026-08-20\n详情: https://www.szlh.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:8d9ca8a02f1fe22f@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Duo Perfetto意大利撒丁岛二重奏《弦系四季》
+LOCATION:光明文化艺术中心
+DESCRIPTION:Duo Perfetto意大利撒丁岛二重奏，光明文化艺术中心音乐厅。一次性演绎维瓦尔第、柴可夫斯基、皮亚佐拉三套《四季》。地铁6号线光明站。\n地点: 光明文化艺术中心\n时间: 2026-08-15 至 2026-08-15\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2c8a45cd5ad68a8@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:刘莉旻「下一站，嘉禾望岗」2026深圳特别专场
+LOCATION:光明文化艺术中心
+DESCRIPTION:刘莉旻携「下一站，嘉禾望岗」经典主题回归家乡深圳，光明文化艺术中心大剧场。不仅有经典曲目的全新现场，还将带来多首最新单曲的首发演绎。\n地点: 光明文化艺术中心\n时间: 2026-08-15 至 2026-08-15\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:49d68bb9336591ab@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:美丽星期天——弦乐鉴赏
+LOCATION:深圳音乐厅
+DESCRIPTION:弦乐鉴赏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-17 至 2026-08-17\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4c92ce6bb1b93a8b@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:中超联赛 深圳新鹏城 vs 浙江
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间19:35。\n地点: 深圳市体育中心体育场\n时间: 2026-08-22 至 2026-08-22\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:177a62e12a09c9f2@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+SUMMARY:中国国家话剧院话剧《青蛇》
+LOCATION:光明文化艺术中心
+DESCRIPTION:中国国家话剧院话剧《青蛇》，光明文化艺术中心大剧场。地铁6号线光明站。\n地点: 光明文化艺术中心\n时间: 2026-08-22 至 2026-08-23\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5fa5d4b4a2079a@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:艾志恒演唱会深圳站
+LOCATION:深圳大运中心体育馆
+DESCRIPTION:艾志恒巡回演唱会深圳站，在大运中心体育馆举办。\n地点: 深圳大运中心体育馆\n时间: 2026-08-22 至 2026-08-22\n详情: https://sz.bendibao.com/news/202389/924885.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:f484f7ef79df8f22@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:万象并臻·地音共声——万象管弦乐团世界首演音乐会
+LOCATION:欢乐港湾
+DESCRIPTION:在深圳滨海艺术中心举办的万象管弦乐团世界首演音乐会，8月23日20:00。\n地点: 欢乐港湾\n时间: 2026-08-23 至 2026-08-23\n详情: https://www.szbo.com.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec8d1195e4e16e75@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:美丽星期天——管乐音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:管乐重奏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-24 至 2026-08-24\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ef0f9156ba7b56b9@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:中超联赛 深圳新鹏城 vs 上海海港
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。\n地点: 深圳市体育中心体育场\n时间: 2026-08-28 至 2026-08-28\n详情: https://www.szsportscenter.com
+END:VEVENT
+BEGIN:VEVENT
+UID:af313f300f850f59@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:美丽星期天——童声合唱
+LOCATION:深圳音乐厅
+DESCRIPTION:童声合唱团公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-31 至 2026-08-31\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:471ab972bdd32c78@shenzhen-exhibitions
+DTSTAMP:20260711T200840Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270101
+SUMMARY:海阔天高——亚太版画作品邀请展
+LOCATION:中国版画博物馆
+DESCRIPTION:亚太地区版画作品邀请展，汇集各国优秀版画艺术家作品。免费参观。\n地点: 中国版画博物馆\n时间: 2026-11-01 至 2026-12-31\n详情: https://www.szlh.gov.cn
+END:VEVENT
+END:VCALENDAR
