@@ -100,7 +100,7 @@
             color: white;
             border-color: var(--sand-primary);
         }
-        .type-select {
+        .type-select, .district-select {
             padding: 7px 14px;
             border: 1.5px solid var(--border-strong);
             border-radius: 20px;
@@ -109,8 +109,8 @@
             color: var(--text-primary);
             outline: none;
             cursor: pointer;
-            margin-left: auto;
         }
+        .filter-right { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; }
         .search-box {
             padding: 7px 14px;
             border: 1.5px solid var(--border-strong);
@@ -228,7 +228,8 @@
         .type-count { font-size: 12px; color: var(--text-muted); font-weight: 400; }
         @media (max-width: 600px) {
             .venue-grid { grid-template-columns: 1fr; padding: 0 12px; }
-            .type-select, .search-box { margin-left: 0; width: 100%; }
+            .type-select, .district-select, .search-box { width: 100%; }
+            .filter-right { margin-left: 0; width: 100%; flex-direction: column; }
             .filters { padding: 0 12px; }
             .header h1 { font-size: 20px; padding: 0 12px; }
             .header-sub { padding: 0 12px; }
@@ -252,10 +253,15 @@
             <button class="city-tab" data-city="shanghai">上海</button>
             <button class="city-tab" data-city="beijing">北京</button>
         </div>
-        <input type="text" class="search-box" id="search-box" placeholder="搜索场馆名称/地址...">
-        <select class="type-select" id="type-filter">
-            <option value="all">全部类型</option>
-        </select>
+        <div class="filter-right">
+            <input type="text" class="search-box" id="search-box" placeholder="搜索场馆名称/地址...">
+            <select class="district-select" id="district-filter">
+                <option value="all">全部区县</option>
+            </select>
+            <select class="type-select" id="type-filter">
+                <option value="all">全部类型</option>
+            </select>
+        </div>
     </div>
 
     <div class="stats-bar" id="stats-bar"></div>
@@ -267,14 +273,25 @@
         let venueList = [];
         let currentCity = 'shenzhen';
         let currentType = 'all';
+        let currentDistrict = 'all';
         let currentSearch = '';
+
+        // 从地址提取区县（归并"光明区xxx片区"等到主区）
+        function extractDistrict(address) {
+            if (!address) return '';
+            const m = address.match(/([^\s市省]+?[区县])/);
+            if (!m) return '';
+            return m[1];
+        }
 
         async function loadData() {
             try {
                 const resp = await fetch('output/venue_info.json');
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
                 venueList = await resp.json();
+                venueList.forEach(v => { v._district = extractDistrict(v.address); });
                 initTypeFilter();
+                initDistrictFilter();
                 render();
             } catch(e) {
                 console.error('加载场馆数据失败:', e);
@@ -290,6 +307,21 @@
                 opt.value = t; opt.textContent = t;
                 sel.appendChild(opt);
             });
+        }
+
+        // 根据当前城市初始化区县筛选
+        function initDistrictFilter() {
+            const sel = document.getElementById('district-filter');
+            sel.innerHTML = '<option value="all">全部区县</option>';
+            const districts = [...new Set(
+                venueList.filter(v => v.city === currentCity).map(v => v._district).filter(Boolean)
+            )].sort((a, b) => a.localeCompare(b, 'zh'));
+            districts.forEach(d => {
+                const opt = document.createElement('option');
+                opt.value = d; opt.textContent = d;
+                sel.appendChild(opt);
+            });
+            currentDistrict = 'all';
         }
 
         function feeTagClass(fee) {
@@ -309,6 +341,7 @@
             const stats = document.getElementById('stats-bar');
 
             let venues = venueList.filter(v => v.city === currentCity);
+            if (currentDistrict !== 'all') venues = venues.filter(v => v._district === currentDistrict);
             if (currentType !== 'all') venues = venues.filter(v => v.type === currentType);
             if (currentSearch) {
                 const q = currentSearch.toLowerCase();
@@ -320,7 +353,11 @@
                 );
             }
 
-            stats.textContent = '共 ' + venues.length + ' 个场馆' + (currentType !== 'all' ? ' · ' + currentType : '') + (currentSearch ? ' · 搜索"' + currentSearch + '"' : '');
+            let statText = '共 ' + venues.length + ' 个场馆';
+            if (currentDistrict !== 'all') statText += ' · ' + currentDistrict;
+            if (currentType !== 'all') statText += ' · ' + currentType;
+            if (currentSearch) statText += ' · 搜索"' + currentSearch + '"';
+            stats.textContent = statText;
 
             if (venues.length === 0) {
                 grid.innerHTML = '<div class="empty-state">没有符合条件的场馆，换个筛选条件试试？</div>';
@@ -377,8 +414,13 @@
                 document.querySelectorAll('.city-tab').forEach(t => t.classList.remove('active'));
                 e.target.classList.add('active');
                 currentCity = e.target.dataset.city;
+                initDistrictFilter();
                 render();
             }
+        });
+        document.getElementById('district-filter').addEventListener('change', function(e) {
+            currentDistrict = e.target.value;
+            render();
         });
         document.getElementById('type-filter').addEventListener('change', function(e) {
             currentType = e.target.value;
