@@ -3,6 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        if (location.hostname === 'islon.github.io' && location.pathname.startsWith('/shenzhen-exhibitions')) {
+            location.replace(location.href.replace('/shenzhen-exhibitions', '/goout'));
+        }
+    </script>
     <title>活动数据审核</title>
     <style>
         * {
@@ -241,40 +246,52 @@
     <div class="header">
         <h1>📋 活动数据审核</h1>
         <p>查看所有活动数据，检查活动名称、场馆、时间是否合理</p>
+        <a href="https://islon.github.io/goout/venue-guide.html" target="_blank" style="display:inline-block;margin-top:10px;color:#667eea;text-decoration:none;font-size:14px;">🏛️ 场馆指南</a>
     </div>
 
     <div class="filter-bar">
-        <div class="filter-group">
-            <label>搜索：</label>
-            <input type="text" id="search-input" class="search-input" placeholder="搜索活动名称、场馆...">
+            <div class="filter-group">
+                <label>城市：</label>
+                <select id="city-filter">
+                    <option value="all">全部城市</option>
+                    <option value="shenzhen">深圳</option>
+                    <option value="guangzhou">广州</option>
+                    <option value="shanghai">上海</option>
+                    <option value="beijing">北京</option>
+                    <option value="hangzhou">杭州</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>搜索：</label>
+                <input type="text" id="search-input" class="search-input" placeholder="搜索活动名称、场馆...">
+            </div>
+            <div class="filter-group">
+                <label>场馆：</label>
+                <select id="venue-filter">
+                    <option value="all">全部场馆</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>类型：</label>
+                <select id="type-filter">
+                    <option value="all">全部类型</option>
+                    <option value="exhibition">展览</option>
+                    <option value="art">艺术</option>
+                    <option value="sport">体育</option>
+                    <option value="science">科技</option>
+                    <option value="education">教育</option>
+                    <option value="culture">文化</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>费用：</label>
+                <select id="fee-filter">
+                    <option value="all">全部费用</option>
+                    <option value="free">免费</option>
+                    <option value="paid">收费</option>
+                </select>
+            </div>
         </div>
-        <div class="filter-group">
-            <label>场馆：</label>
-            <select id="venue-filter">
-                <option value="all">全部场馆</option>
-            </select>
-        </div>
-        <div class="filter-group">
-            <label>类型：</label>
-            <select id="type-filter">
-                <option value="all">全部类型</option>
-                <option value="exhibition">展览</option>
-                <option value="art">艺术</option>
-                <option value="sport">体育</option>
-                <option value="science">科技</option>
-                <option value="education">教育</option>
-                <option value="culture">文化</option>
-            </select>
-        </div>
-        <div class="filter-group">
-            <label>费用：</label>
-            <select id="fee-filter">
-                <option value="all">全部费用</option>
-                <option value="free">免费</option>
-                <option value="paid">收费</option>
-            </select>
-        </div>
-    </div>
 
     <div class="stats" id="stats">
         <div class="stat-item">
@@ -285,66 +302,17 @@
             <span class="stat-value" id="filtered-count">0</span>
             <span class="stat-label">筛选后</span>
         </div>
-        <div class="stat-item">
-            <span class="stat-value" id="szcec-count">0</span>
-            <span class="stat-label">深圳会展中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="shenzhen_world-count">0</span>
-            <span class="stat-label">深圳国际会展中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="szlib-count">0</span>
-            <span class="stat-label">深圳图书馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="balib-count">0</span>
-            <span class="stat-label">宝安图书馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="bayarea_eye-count">0</span>
-            <span class="stat-label">湾区之眼</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_kjg-count">0</span>
-            <span class="stat-label">宝安科技馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_ty-count">0</span>
-            <span class="stat-label">宝安体育中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_guihua-count">0</span>
-            <span class="stat-label">城市规划展览馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_qingshaonian-count">0</span>
-            <span class="stat-label">宝安区青少年宫</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="shenzhen_binhai_art-count">0</span>
-            <span class="stat-label">深圳滨海艺术中心</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_zonghe-count">0</span>
-            <span class="stat-label">宝安综合训练馆</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="huanle_juchang-count">0</span>
-            <span class="stat-label">欢乐剧场</span>
-        </div>
-        <div class="stat-item">
-            <span class="stat-value" id="baoan_binhai_park-count">0</span>
-            <span class="stat-label">宝安滨海文化公园</span>
-        </div>
+        
     </div>
 
     <table>
         <thead>
             <tr>
                 <th>序号</th>
+                <th>城市</th>
                 <th>活动名称</th>
                 <th>场馆</th>
+                <th>场馆类型</th>
                 <th>开始日期</th>
                 <th>结束日期</th>
                 <th>类型</th>
@@ -355,7 +323,7 @@
         </thead>
         <tbody id="table-body">
             <tr>
-                <td colspan="9" style="text-align: center; padding: 40px;">加载中...</td>
+                <td colspan="11" style="text-align: center; padding: 40px;">加载中...</td>
             </tr>
         </tbody>
     </table>
@@ -371,77 +339,92 @@
         let currentPage = 1;
         const pageSize = 50;
 
-        const venueNames = {
-            'szcec': '深圳会展中心',
-            'shenzhen_world': '深圳国际会展中心',
-            'szlib': '深圳图书馆',
-            'balib': '宝安图书馆',
-            'bayarea_eye': '湾区之眼',
-            'baoan_kjg': '宝安科技馆',
-            'baoan_ty': '宝安体育中心',
-            'baoan_guihua': '宝安区城市规划展览馆',
-            'baoan_qingshaonian': '宝安区青少年宫',
-            'shenzhen_binhai_art': '深圳滨海艺术中心',
-            'baoan_zonghe': '宝安综合训练馆',
-            'huanle_juchang': '欢乐剧场',
-            'baoan_binhai_park': '宝安滨海文化公园'
+        // 使用数据中的实际 category 映射
+        const typeLabels = {
+            '展览': '展览',
+            '讲座阅读': '阅读',
+            '科普活动': '科技',
+            '演出': '艺术',
+            '体育赛事': '体育',
+            '亲子活动': '教育',
+            '影视放映': '文化',
+            '其他': '其他'
         };
 
-        const typeLabels = {
-            'exhibition': '展览',
-            'art': '艺术',
-            'sport': '体育',
-            'science': '科技',
-            'education': '教育',
-            'culture': '文化'
+        const typeClassMap = {
+            '展览': 'exhibition',
+            '讲座阅读': 'education',
+            '科普活动': 'science',
+            '演出': 'art',
+            '体育赛事': 'sport',
+            '亲子活动': 'education',
+            '影视放映': 'culture',
+            '其他': 'culture'
         };
 
         function getActivityType(exhibition) {
-            if (exhibition.types && exhibition.types.length > 0) {
-                const type = exhibition.types[0].toLowerCase();
-                if (typeLabels[type]) return type;
-            }
-            const name = exhibition.name.toLowerCase();
-            if (name.includes('展') || name.includes('博览') || name.includes('交易会')) return 'exhibition';
-            if (name.includes('艺术') || name.includes('画展') || name.includes('摄影') || name.includes('音乐')) return 'art';
-            if (name.includes('体育') || name.includes('比赛') || name.includes('足球') || name.includes('篮球') || name.includes('羽毛球') || name.includes('游泳')) return 'sport';
-            if (name.includes('科技') || name.includes('科学') || name.includes('机器人') || name.includes('编程')) return 'science';
-            if (name.includes('讲座') || name.includes('培训') || name.includes('读书') || name.includes('阅读')) return 'education';
-            if (name.includes('文化') || name.includes('非遗') || name.includes('民俗')) return 'culture';
-            return 'exhibition';
+            return exhibition.category || '展览';
         }
 
         function getFeeType(exhibition) {
-            if (exhibition.fee === '免费' || exhibition.fee === 'Free' || exhibition.price === '免费') return 'free';
-            if (exhibition.fee === '收费' || exhibition.price && exhibition.price !== '免费') return 'paid';
-            const name = exhibition.name.toLowerCase();
-            if (name.includes('免费')) return 'free';
+            const fee = exhibition.fee || '';
+            if (fee.includes('免费')) return 'free';
+            if (fee.includes('收费') || fee.includes('购票')) return 'paid';
             return 'free';
         }
 
-        function loadData() {
-            fetch('output/exhibitions.json')
-                .then(response => response.json())
-                .then(exhibitions => {
-                    allExhibitions = exhibitions;
-                    populateVenueFilter();
-                    updateStats();
-                    renderTable();
+        let venueInfoData = null;
+
+        async function loadData() {
+            // 先加载场馆信息
+            fetch('output/venue_info.json')
+                .then(r => r.ok ? r.json() : [])
+                .then(list => {
+                    venueInfoData = {};
+                    (list || []).forEach(v => {
+                        if (v.source) venueInfoData[v.source] = v;
+                        if (v.name) venueInfoData[v.name] = v;
+                    });
                 })
-                .catch(error => {
-                    document.getElementById('table-body').innerHTML = `
-                        <tr><td colspan="8" style="text-align: center; padding: 40px; color: red;">加载失败: ${error.message}</td></tr>
-                    `;
-                });
+                .catch(() => {});
+
+            // 加载所有城市数据
+            const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou'];
+            const cityNames = { 'shenzhen': '深圳', 'guangzhou': '广州', 'shanghai': '上海', 'beijing': '北京', 'hangzhou': '杭州' };
+            let allData = [];
+
+            for (const city of cities) {
+                try {
+                    const resp = await fetch(`output/exhibitions_${city}.json`);
+                    if (resp.ok) {
+                        const data = await resp.json();
+                        data.forEach(e => { e._city = city; e._cityName = cityNames[city]; });
+                        allData = allData.concat(data);
+                    }
+                } catch(e) {
+                    console.warn('加载', city, '数据失败:', e);
+                }
+            }
+
+            allExhibitions = allData;
+            populateVenueFilter();
+            updateStats();
+            renderTable();
         }
 
         function populateVenueFilter() {
-            const venues = [...new Set(allExhibitions.map(e => e.source))];
+            // 使用 venue 字段（实际场馆名称），按数量排序
+            const venueCounts = {};
+            allExhibitions.forEach(e => {
+                const v = e.venue || '未知';
+                venueCounts[v] = (venueCounts[v] || 0) + 1;
+            });
+            const sorted = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]);
             const select = document.getElementById('venue-filter');
-            venues.forEach(source => {
+            sorted.forEach(([venue, count]) => {
                 const option = document.createElement('option');
-                option.value = source;
-                option.textContent = venueNames[source] || source;
+                option.value = venue;
+                option.textContent = `${venue} (${count})`;
                 select.appendChild(option);
             });
         }
@@ -452,28 +435,53 @@
             const filtered = getFilteredExhibitions();
             document.getElementById('filtered-count').textContent = filtered.length;
             
-            Object.keys(venueNames).forEach(source => {
-                const count = allExhibitions.filter(e => e.source === source).length;
-                const el = document.getElementById(`${source}-count`);
-                if (el) el.textContent = count;
+            // 动态更新场馆统计（取前15个）
+            const venueCounts = {};
+            allExhibitions.forEach(e => {
+                const v = e.venue || '未知';
+                venueCounts[v] = (venueCounts[v] || 0) + 1;
+            });
+            const topVenues = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+            
+            const statsDiv = document.getElementById('stats');
+            // 保留前2个固定元素（总活动数、筛选后），移除其余动态项
+            const items = statsDiv.querySelectorAll('.stat-item');
+            for (let i = 2; i < items.length; i++) {
+                items[i].remove();
+            }
+            
+            topVenues.forEach(([venue, count]) => {
+                const div = document.createElement('div');
+                div.className = 'stat-item';
+                const shortName = venue.length > 10 ? venue.slice(0, 10) + '...' : venue;
+                div.innerHTML = `<span class="stat-value">${count}</span><span class="stat-label">${shortName}</span>`;
+                statsDiv.appendChild(div);
             });
         }
 
         function getFilteredExhibitions() {
             const searchQuery = document.getElementById('search-input').value.toLowerCase();
+            const cityFilter = document.getElementById('city-filter').value;
             const venueFilter = document.getElementById('venue-filter').value;
             const typeFilter = document.getElementById('type-filter').value;
             const feeFilter = document.getElementById('fee-filter').value;
 
             return allExhibitions.filter(e => {
-                if (searchQuery && !e.name.toLowerCase().includes(searchQuery) && !e.venue.toLowerCase().includes(searchQuery)) {
+                if (cityFilter !== 'all' && e._city !== cityFilter) {
                     return false;
                 }
-                if (venueFilter !== 'all' && e.source !== venueFilter) {
+                const title = (e.title || e.name || '').toLowerCase();
+                const venue = (e.venue || '').toLowerCase();
+                if (searchQuery && !title.includes(searchQuery) && !venue.includes(searchQuery)) {
                     return false;
                 }
-                if (typeFilter !== 'all' && getActivityType(e) !== typeFilter) {
+                if (venueFilter !== 'all' && e.venue !== venueFilter) {
                     return false;
+                }
+                if (typeFilter !== 'all') {
+                    const cat = e.category || '展览';
+                    const typeMap = { 'exhibition': '展览', 'art': '演出', 'sport': '体育赛事', 'science': '科普活动', 'education': '亲子活动', 'culture': '影视放映' };
+                    if (typeMap[typeFilter] && cat !== typeMap[typeFilter]) return false;
                 }
                 if (feeFilter !== 'all' && getFeeType(e) !== feeFilter) {
                     return false;
@@ -484,7 +492,7 @@
 
         function renderTable() {
             const filtered = getFilteredExhibitions();
-            const totalPages = Math.ceil(filtered.length / pageSize);
+            const totalPages = Math.ceil(filtered.length / pageSize) || 1;
             currentPage = Math.min(currentPage, totalPages);
             currentPage = Math.max(currentPage, 1);
 
@@ -495,24 +503,33 @@
             const tbody = document.getElementById('table-body');
             
             if (pageData.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="9" style="text-align: center; padding: 40px;">没有找到匹配的活动</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="11" style="text-align: center; padding: 40px;">没有找到匹配的活动</td></tr>`;
             } else {
                 let html = '';
                 pageData.forEach((e, i) => {
-                    const type = getActivityType(e);
+                    const cat = getActivityType(e);
+                    const typeClass = typeClassMap[cat] || 'exhibition';
                     const fee = getFeeType(e);
                     const family = e.family_friendly ? '✅' : '❌';
+                    const title = e.title || e.name || '';
+                    const desc = (e.description || '-').slice(0, 100);
+                    // 场馆信息
+                    const vinfo = venueInfoData ? (venueInfoData[e.source] || venueInfoData[e.venue]) : null;
+                    const vType = vinfo ? vinfo.type : '';
+                    const vTitle = vinfo ? (vinfo.description || '') : '';
                     html += `
                         <tr>
                             <td>${start + i + 1}</td>
-                            <td>${e.name}</td>
-                            <td>${venueNames[e.source] || e.source}</td>
-                            <td>${e.start_date}</td>
-                            <td>${e.end_date}</td>
-                            <td><span class="badge type-${type}">${typeLabels[type]}</span></td>
+                            <td><span style="font-size:12px;padding:2px 8px;background:#f0f7ff;color:#0891b2;border-radius:4px;">${e._cityName || ''}</span></td>
+                            <td><a href="${e.link || e.url || '#'}" target="_blank" style="color: #667eea; text-decoration: none;">${title}</a></td>
+                            <td title="${vTitle}">${e.venue || ''}</td>
+                            <td>${vType ? '<span style="font-size:11px;padding:2px 6px;background:#f0f7ff;color:#0891b2;border-radius:4px;">' + vType + '</span>' : ''}</td>
+                            <td>${e.start_date || ''}</td>
+                            <td>${e.end_date || ''}</td>
+                            <td><span class="badge type-${typeClass}">${cat}</span></td>
                             <td><span class="badge ${fee}">${fee === 'free' ? '免费' : '收费'}</span></td>
                             <td>${family}</td>
-                            <td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${e.description || ''}">${e.description || '-'}</td>
+                            <td style="max-width: 250px; font-size: 12px; color: #888;" title="${e.description || ''}">${desc}</td>
                         </tr>
                     `;
                 });
@@ -529,6 +546,11 @@
 
             updateStats();
         }
+
+        document.getElementById('city-filter').addEventListener('change', () => {
+            currentPage = 1;
+            renderTable();
+        });
 
         document.getElementById('search-input').addEventListener('input', () => {
             currentPage = 1;

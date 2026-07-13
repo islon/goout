@@ -55,12 +55,14 @@ def fetch_nswtzx_activities():
                 title = item.get('activityName', '')
                 venue_name = item.get('venueName', '')
                 location = item.get('activityLocationName', '')
-                
-                # 必须是南山区的活动
-                nanshan_keywords = ['南山', '南山区']
-                is_nanshan = any(kw in venue_name for kw in nanshan_keywords) or any(kw in location for kw in nanshan_keywords)
-                
-                if not is_nanshan:
+                venue_text = venue_name + location
+                nanshan_keywords = ['南山', 'nanshan', 'ns', '南山区', '南山文体中心', '南山区文化馆', '南山博物馆', '南山图书馆']
+                other_district_keywords = ['宝安', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏', '福田', '罗湖', '罗湖']
+                is_nanshan = any(kw in venue_text for kw in nanshan_keywords)
+                is_other_district = any(kw in venue_text for kw in other_district_keywords)
+                if not is_nanshan and is_other_district:
+                    continue
+                if not is_nanshan and not any(kw in venue_text for kw in ['文体中心', '文化馆']):
                     continue
 
                 start_date = item.get('activityStartTime', '')
@@ -72,17 +74,29 @@ def fetch_nswtzx_activities():
                 if end_date < today:
                     continue
 
-                description = item.get('activityProfile', '') or item.get('tagName', '')
+                description = item.get('activityProfile', '') or item.get('activityIntro', '') or item.get('tagName', '')
                 is_free = item.get('activityIsFree', 0)
                 reservation = item.get('activityIsReservation', 0)
 
-                desc_parts = []
                 if is_free == 1:
-                    desc_parts.append("免费")
-                if reservation == 2:
-                    desc_parts.append("需预约报名")
+                    if reservation == 2:
+                        fee = '免费需预约'
+                    else:
+                        fee = '免费'
+                else:
+                    fee = '收费'
+
+                desc_parts = []
                 if description:
                     desc_parts.append(description)
+                if is_free == 1:
+                    desc_parts.append("免费参与")
+                if reservation == 2:
+                    desc_parts.append("需提前预约报名")
+                full_desc = '。'.join([p for p in desc_parts if p])
+                if len(full_desc) < 10:
+                    full_desc = f"{title}活动，{full_desc}。详情请咨询场馆。"
+                full_desc = full_desc[:300]
 
                 activity_url = f"https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId={item.get('activityId', '')}"
 
@@ -96,7 +110,8 @@ def fetch_nswtzx_activities():
                     'end_date': end_date,
                     'url': activity_url,
                     'contact': '0755-86051111',
-                    'description': '。'.join([p for p in desc_parts if p])[:300],
+                    'description': full_desc,
+                    'fee': fee,
                     'source': 'nswtzx',
                     'family_friendly': family_friendly
                 })
