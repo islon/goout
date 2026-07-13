@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:766b0a3ae43c387d@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20261101
+SUMMARY:相无古今——石窟艺术超感沉浸体验
+LOCATION:浙江省博物馆之江馆
+DESCRIPTION:XR/AR/VR沉浸式石窟艺术展，利用数字技术还原石窟艺术之美。\n地点: 浙江省博物馆之江馆\n时间: 2026-01-01 至 2026-10-31\n详情: http://news.qq.com/rain/a/20250711A05A3P00
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3221933480cef9@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260801
+SUMMARY:古希腊的旅程——希腊31家博物馆文物展
+LOCATION:良渚博物院
+DESCRIPTION:希腊31家博物馆163件精品文物+9件复制品，跨文明对话大展。\n地点: 良渚博物院\n时间: 2026-01-30 至 2026-07-31\n详情: https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5e572cefaa59d090@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:万物始兴·寒武纪化石展
+LOCATION:浙江自然博物院
+DESCRIPTION:展出三叶虫、鱼龙、猛犸象化石骨架，配套化石挖掘体验、火山爆发科学实验秀、AR恐龙互动。\n地点: 浙江自然博物院\n时间: 2026-06-01 至 2026-08-31\n详情: https://m.weibo.cn/detail/5318191891881429
+END:VEVENT
+BEGIN:VEVENT
+UID:e50b058e35e19e20@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260902
+SUMMARY:月照银山：丝绸之路上的高昌与龟兹
+LOCATION:中国丝绸博物馆
+DESCRIPTION:2026丝绸之路周核心大展，200余件/组文物，展示丝绸之路上高昌与龟兹的文化交融。\n地点: 中国丝绸博物馆\n时间: 2026-06-24 至 2026-09-01\n详情: https://tidenews.com.cn/news.html?id=3475919
+END:VEVENT
+BEGIN:VEVENT
+UID:21d34de63fd8031f@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20261013
+SUMMARY:大道匠行——浙江工艺美术的历史经典与时代价值展
+LOCATION:杭州工艺美术博物馆
+DESCRIPTION:展示浙江工艺美术的历史经典与当代创新，手工体验区适合亲子参与。\n地点: 杭州工艺美术博物馆\n时间: 2026-06-26 至 2026-10-12\n详情: https://m.sohu.com/a/1046660218_121106994/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1137920b1d03b4@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:太平年·天下同宁——交互艺术大展
+LOCATION:浙江省博物馆之江馆
+DESCRIPTION:融合实物文物、数字展陈与沉浸式演出的交互艺术大展。\n地点: 浙江省博物馆之江馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+BEGIN:VEVENT
+UID:62c17bf8c1c8bd45@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:科学实验秀——浙江省科技馆暑期活动
+LOCATION:浙江省科技馆
+DESCRIPTION:每天2场科学实验秀，含《寻心记》《物体的倔脾气》《静电碰撞》等十几个主题轮番上演。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://m.sohu.com/a/1044289750_121106994/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdaaccda47458468@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261011
+SUMMARY:2026杭州奇妙夜——百日星悦游
+LOCATION:天目里
+DESCRIPTION:3大夜主场+10大主题产品+全域联动营销夜游格局。\n地点: 天目里\n时间: 2026-07-03 至 2026-10-10\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e9cfe9a7eba761@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:考古探险队——杭州博物馆青少年模拟考古活动
+LOCATION:杭州博物馆
+DESCRIPTION:沉浸式触摸历史、探索地层、动手创造的青少年模拟考古活动，面向8-17岁青少年。\n地点: 杭州博物馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://m.weibo.cn/detail/5317002210313637
+END:VEVENT
+BEGIN:VEVENT
+UID:2491646355e241ba@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260801
+SUMMARY:机器狗AI编程夏令营
+LOCATION:杭州图书馆
+DESCRIPTION:四期连开的机器狗AI编程夏令营，面向7岁以上少儿，通过编程控制机器狗完成任务。\n地点: 杭州图书馆\n时间: 2026-07-07 至 2026-07-31\n详情: https://www.zjhzlib.cn/hdyghz/8010.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6a1d6837236d7c@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:欢迎来到恐龙时代——知识视界科普讲座
+LOCATION:杭州图书馆少儿分馆
+DESCRIPTION:杭小图看世界系列科普讲座，带领少儿读者探索恐龙时代的奥秘。\n地点: 杭州图书馆少儿分馆\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.zjhzlib.cn/hdyghz/8010.htm\n联系: 86535086
+END:VEVENT
+BEGIN:VEVENT
+UID:393b26c4ebbf2e41@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260720
+SUMMARY:2026年茶人之家亲子公益培训（二期）
+LOCATION:中国茶叶博物馆
+DESCRIPTION:四天17节亲子课程，涵盖茶文化、茶叶冲泡、茶礼仪等，面向亲子家庭。\n地点: 中国茶叶博物馆\n时间: 2026-07-16 至 2026-07-19\n详情: https://m.sohu.com/a/1038933302_121107011/
+END:VEVENT
+BEGIN:VEVENT
+UID:93599564350ace9d@shenzhen-exhibitions
+DTSTAMP:20260713T013627Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260728
+SUMMARY:第34届全国书博会
+LOCATION:杭州国际博览中心
+DESCRIPTION:八大展厅、九大专题展览、十一项重点活动，发放300万元惠民购书券。\n地点: 杭州国际博览中心\n时间: 2026-07-24 至 2026-07-27\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+END:VCALENDAR
