@@ -3020,5 +3020,61 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京欢乐谷"
+  },
+  {
+    "title": "北京人艺话剧《寻找春柳社》",
+    "venue": "光明文化艺术中心·演艺中心·音乐厅",
+    "city": "shenzhen",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "北京人艺倾情演出，以'戏中戏'结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gmwhg"
+  },
+  {
+    "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
+    "venue": "光明文化艺术中心·演艺中心·大剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-19",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "阿云嘎献唱主题曲《守望》，马蛟龙、孙科等实力舞者加盟。以正阳门下一家五代人命运流转，铺展中国近现代史长卷。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gmwhg"
+  },
+  {
+    "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
+    "venue": "光明文化艺术中心·演艺中心·大剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "唯一包揽三大国际钢琴赛事大奖的中国钢琴家陈萨，指挥冠军孙一凡与国家大剧院管弦乐团室内乐团强强联袂。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gmwhg"
+  },
+  {
+    "title": "国风儿童剧《少年诗词游之李白》",
+    "venue": "茅洲河体育艺术中心剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "link": "https://m.sohu.com/a/1037850628_122892870/",
+    "description": "诗词大会式的国风儿童剧，带孩子走进诗仙李白的世界，寓教于乐。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gmwhg"
   }
 ]
