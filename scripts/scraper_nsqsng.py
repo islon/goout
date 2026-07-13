@@ -53,14 +53,22 @@ def fetch_nsqsng_activities():
 
             for item in items:
                 title = item.get('activityName', '')
+                venue_name = item.get('venueName', '')
+                location = item.get('activityLocationName', '')
+                
+                # 筛选南山区相关活动
+                nanshan_keywords = ['南山', '南山区']
+                is_nanshan = any(kw in venue_name for kw in nanshan_keywords) or any(kw in location for kw in nanshan_keywords)
+                
                 # 筛选青少年活动中心相关活动
                 youth_keywords = ['青少年', '少年', '少儿', '儿童', '亲子', '活动中心', '培训']
                 if not any(kw in title for kw in youth_keywords):
-                    # 也检查地点是否在青少年活动中心
-                    venue_name = item.get('venueName', '')
-                    location = item.get('activityLocationName', '')
                     if not any(kw in venue_name or kw in location for kw in ['青少年', '活动中心']):
                         continue
+                
+                # 必须是南山区的活动
+                if not is_nanshan:
+                    continue
 
                 start_date = item.get('activityStartTime', '')
                 end_date = item.get('activityEndTime', '')

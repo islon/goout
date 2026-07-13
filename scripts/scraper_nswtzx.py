@@ -53,11 +53,14 @@ def fetch_nswtzx_activities():
 
             for item in items:
                 title = item.get('activityName', '')
-                # 筛选文体中心相关活动
                 venue_name = item.get('venueName', '')
                 location = item.get('activityLocationName', '')
-                venue_keywords = ['文体中心', '南山文体', '文化馆']
-                if not any(kw in venue_name or kw in location for kw in venue_keywords):
+                
+                # 必须是南山区的活动
+                nanshan_keywords = ['南山', '南山区']
+                is_nanshan = any(kw in venue_name for kw in nanshan_keywords) or any(kw in location for kw in nanshan_keywords)
+                
+                if not is_nanshan:
                     continue
 
                 start_date = item.get('activityStartTime', '')

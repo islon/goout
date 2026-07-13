@@ -76,6 +76,8 @@ CATEGORY_KEYWORDS = {
 }
 
 
+VALID_FEES = ['免费', '免费需预约', '收费', '部分免费', '需购票']
+
 def normalize_activity(raw, venue_default=''):
     title = raw.get('title') or raw.get('name') or ''
     link = raw.get('link') or raw.get('url') or ''
@@ -95,6 +97,12 @@ def normalize_activity(raw, venue_default=''):
 
     if not family_friendly:
         family_friendly = is_family_friendly(title, description, category)
+
+    if fee not in VALID_FEES:
+        fee = '免费'
+
+    if len(description) < 10:
+        description = f"{title}活动，详情请查看官方链接。"
 
     result = {
         'title': title,
