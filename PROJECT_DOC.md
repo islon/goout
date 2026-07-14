@@ -100,6 +100,10 @@ goout/
 ├── .github/
 │   └── workflows/
 │       └── update.yml              # GitHub Actions 自动更新
+├── api/
+│   └── server.py                   # FastAPI RESTful API 服务
+├── data/
+│   └── goout.db                    # SQLite 数据库文件
 ├── output/
 │   ├── exhibitions.json            # 全量活动数据
 │   ├── exhibitions.ics             # 全量 ICS 文件
@@ -121,7 +125,9 @@ goout/
 │   ├── manual_data.json            # 手动整理活动数据
 │   ├── ics_generator.py            # ICS 文件生成器
 │   ├── rss_generator.py            # RSS 生成器
-│   └── scraper_*.py                # 各场馆爬虫脚本
+│   ├── scraper_*.py                # 各场馆爬虫脚本
+│   ├── db_init.py                  # 数据库初始化脚本
+│   └── db_import.py                # 数据导入脚本（从JSON导入）
 ├── PROJECT_DOC.md                  # 项目文档
 ├── README.md                       # 项目说明
 ├── SOP.md                          # 经验手册
@@ -140,6 +146,162 @@ goout/
 | localStorage | 前端筛选状态持久化 |
 | 不蒜子 | 页面访问量统计 |
 | 百度统计 | 匿名用户行为分析 |
+| SQLite | 标准化数据库存储 |
+| FastAPI | RESTful API 服务 |
+
+---
+
+### 3.4 数据库设计
+
+#### 数据库表结构
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│   cities    │     │  districts  │     │ venue_types │
+│─────────────│     │─────────────│     │─────────────│
+│ id (PK)     │     │ id (PK)     │     │ id (PK)     │
+│ code        │───┐ │ city_id(FK) │     │ name        │
+│ name        │   └─┤ name        │     │ icon        │
+│ province    │     │ code        │     │ color       │
+│ country     │     └─────────────┘     └─────────────┘
+│ timezone    │
+│ status      │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐     ┌──────────────────┐     ┌───────────────┐
+│   venues    │     │ activity_categories│   │ activity_fees │
+│─────────────│     │──────────────────│     │───────────────│
+│ id (PK)     │     │ id (PK)          │     │ id (PK)       │
+│ name        │     │ name             │     │ name          │
+│ source      │     │ icon             │     │ description   │
+│ city_id(FK) │     │ color            │     └───────────────┘
+│ district_id │     │ description      │
+│ type_id(FK) │     └──────────────────┘
+│ address     │
+│ transport   │
+│ fee         │
+│ description │
+│ official_url│
+│ latitude    │
+│ longitude   │
+│ highlights  │
+│ status      │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────────────┐
+│    activities       │
+│─────────────────────│
+│ id (PK)             │
+│ title               │
+│ venue_id (FK) ──────┘
+│ city_id (FK) ────────┐
+│ category_id (FK)    │
+│ fee_id (FK)         │
+│ start_date          │
+│ end_date            │
+│ link                │
+│ description         │
+│ contact             │
+│ family_friendly     │
+│ source              │
+│ status              │
+└─────────────────────┘
+```
+
+#### 核心表字段说明
+
+**cities 表**：存储城市基础信息
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| id | INTEGER | 主键 |
+| code | VARCHAR(20) | 城市代码（shenzhen/guangzhou/shanghai/beijing/hangzhou） |
+| name | VARCHAR(50) | 城市名称 |
+| province | VARCHAR(50) | 所属省份 |
+| timezone | VARCHAR(50) | 时区，默认 Asia/Shanghai |
+
+**venues 表**：存储场馆信息
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| id | INTEGER | 主键 |
+| name | VARCHAR(200) | 场馆名称 |
+| source | VARCHAR(100) | 数据来源 |
+| city_id | INTEGER | 所属城市（外键） |
+| district_id | INTEGER | 所属区县（外键） |
+| type_id | INTEGER | 场馆类型（外键） |
+| address | TEXT | 详细地址 |
+| transport | TEXT | 交通信息 |
+| fee | VARCHAR(50) | 门票信息 |
+| description | TEXT | 场馆介绍 |
+| official_url | VARCHAR(500) | 官方网站链接 |
+| latitude | DECIMAL(10,7) | 纬度 |
+| longitude | DECIMAL(10,7) | 经度 |
+| highlights | TEXT | 亮点标签（JSON数组） |
+
+**activities 表**：存储活动信息
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| id | INTEGER | 主键 |
+| title | VARCHAR(500) | 活动标题 |
+| venue_id | INTEGER | 所属场馆（外键） |
+| city_id | INTEGER | 所属城市（外键） |
+| category_id | INTEGER | 活动分类（外键） |
+| fee_id | INTEGER | 费用类型（外键） |
+| start_date | DATE | 开始日期 |
+| end_date | DATE | 结束日期 |
+| link | VARCHAR(1000) | 官方来源链接 |
+| description | TEXT | 活动描述 |
+| contact | VARCHAR(200) | 联系方式 |
+| family_friendly | BOOLEAN | 是否亲子友好 |
+| source | VARCHAR(100) | 数据来源 |
+
+---
+
+### 3.5 API 接口
+
+#### 接口列表
+
+| 接口 | 方法 | 说明 |
+|------|------|------|
+| `/api/cities` | GET | 获取所有城市列表 |
+| `/api/venues` | GET | 获取场馆列表（支持筛选） |
+| `/api/venues/{id}` | GET | 获取单个场馆详情 |
+| `/api/venues/{id}/activities` | GET | 获取场馆的活动列表 |
+| `/api/activities` | GET | 获取活动列表（支持筛选） |
+| `/api/activities/{id}` | GET | 获取单个活动详情 |
+| `/api/statistics` | GET | 获取统计数据 |
+| `/api/venue-types` | GET | 获取场馆类型列表 |
+| `/api/activity-categories` | GET | 获取活动分类列表 |
+| `/api/activity-fees` | GET | 获取费用类型列表 |
+
+#### 启动方式
+
+```bash
+cd api
+python3 server.py
+# 访问 http://localhost:8000
+# API文档 http://localhost:8000/docs
+```
+
+#### 请求示例
+
+```bash
+# 获取深圳所有展览活动
+curl "http://localhost:8000/api/activities?city=shenzhen&category=展览&limit=10"
+
+# 获取所有免费亲子活动
+curl "http://localhost:8000/api/activities?family_friendly=true&fee=免费"
+
+# 获取某个场馆的近期活动
+curl "http://localhost:8000/api/venues/1/activities"
+
+# 搜索场馆
+curl "http://localhost:8000/api/venues?keyword=博物馆&city=shenzhen"
+```
 
 ---
 
