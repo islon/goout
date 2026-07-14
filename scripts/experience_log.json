@@ -88,5 +88,15 @@
     "data_quality_issues_fixed": 0,
     "lessons_learned": "1. 本次数据管线改用并行+超时机制（ThreadPoolExecutor + 25秒超时），成功解决了之前 serial 执行时单个爬虫卡住导致整体超时的问题。2. 8个爬虫成功获取数据：深圳图书馆(242条)、深圳会展中心(87条)、深圳国际会展中心(88条)、南山图书馆(10条)、宝安图书馆(10条)、南山博物馆(5条)、南山区青少年活动中心(6条)、南山区文化馆(1条)。3. 18个爬虫因 gov.cn SSL BAD_ECPOINT 失败，问题依旧严重。4. GitHub token 再次失效(Bad credentials)，无法获取和处理 issues。5. 活动总数 443 条，数据质量 0 问题。6. 拉取远程代码后 manual_data.json 从 484 条降至 239 条，远程版本数据量较少。7. 当前环境代理 127.0.0.1:18080 配合 urllib3 SSL 补丁导致部分请求挂住，但 parallel execution with timeout 可避免阻塞。",
     "improvement_ideas": "1. 建议将 data_pipeline.py 改为并行执行模式（ThreadPoolExecutor + 单爬虫超时），避免单个爬虫卡住导致整体失败。2. 需要更新 GitHub token 恢复 issue 处理能力。3. 建议为 gov.cn 爬虫增加备用数据源（如直接解析场馆官网 HTML 而非依赖政府搜索接口）。4. 建议维护一份 manual_data.json 的备份，避免远程版本数据量较少时本地数据丢失。5. 可考虑在 SOP.md 中记录并行执行的最佳实践。6. 可考虑增加自动检测过期活动并清理的机制。7. 可考虑为深圳图书馆、会展中心等能跑通的爬虫增加重试逻辑，提高稳定性。"
+  },
+  {
+    "date": "2026-07-12",
+    "activities_total": 655,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 212,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 从git stash恢复了之前补充的348条manual_data活动，合并远程新增的84条，manual_data.json从239条恢复到568条。2. 并行运行爬虫获取448条数据（8个成功，19个失败），去重后exhibitions.json共655条有效活动。3. 数据质量0问题。4. gov.cn SSL BAD_ECPOINT问题依旧严重，19个爬虫全部失败。5. git push被拒时需先git pull --rebase再push。6. 远程仓库在数据更新期间有其他人提交，rebase成功无冲突。7. 多城市数据：深圳529条、北京45条、上海36条、广州32条、杭州13条。",
+    "improvement_ideas": "1. 建议将data_pipeline.py改为并行执行模式，避免单个爬虫卡住。2. 需要更新GitHub token恢复issue处理能力。3. 建议为gov.cn爬虫增加备用数据源。4. 建议维护manual_data.json备份机制。5. 可考虑增加自动检测过期活动并清理的机制。6. 可考虑为深圳图书馆、会展中心等能跑通的爬虫增加重试逻辑。7. 可考虑从更多非gov.cn来源补充数据。"
   }
 ]
