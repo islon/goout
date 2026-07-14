@@ -98,5 +98,25 @@
     "data_quality_issues_fixed": 0,
     "lessons_learned": "1. 从git stash恢复了之前补充的348条manual_data活动，合并远程新增的84条，manual_data.json从239条恢复到568条。2. 并行运行爬虫获取448条数据（8个成功，19个失败），去重后exhibitions.json共655条有效活动。3. 数据质量0问题。4. gov.cn SSL BAD_ECPOINT问题依旧严重，19个爬虫全部失败。5. git push被拒时需先git pull --rebase再push。6. 远程仓库在数据更新期间有其他人提交，rebase成功无冲突。7. 多城市数据：深圳529条、北京45条、上海36条、广州32条、杭州13条。",
     "improvement_ideas": "1. 建议将data_pipeline.py改为并行执行模式，避免单个爬虫卡住。2. 需要更新GitHub token恢复issue处理能力。3. 建议为gov.cn爬虫增加备用数据源。4. 建议维护manual_data.json备份机制。5. 可考虑增加自动检测过期活动并清理的机制。6. 可考虑为深圳图书馆、会展中心等能跑通的爬虫增加重试逻辑。7. 可考虑从更多非gov.cn来源补充数据。"
+  },
+  {
+    "date": "2026-07-14",
+    "activities_total": 1066,
+    "issues_closed": 4,
+    "issues_remaining": 0,
+    "new_activities_added": 5,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次处理4个新活动发现Issues：#76锦绣中华民俗村·泼水狂欢节(南山区)、#77儿童皮影戏(罗湖区/深圳戏院)、#78火红青春——优秀青年京剧演员展演(罗湖区/深圳戏院)、#79深圳图书馆第十二届暑期缤纷季(福田区/龙华区)。2. 深圳图书馆暑期缤纷季活动涉及两个场馆(中心馆+北馆)，分别位于福田区和龙华区，需要分别添加两条记录。3. fee判断：深圳图书馆公益培训课→免费需预约；深圳戏院演出→需购票；锦绣中华民俗村→需购票。4. family_friendly判断：儿童皮影戏→true；京剧展演→false；泼水狂欢节→true；暑期缤纷季亲子活动→true。5. gov.cn网站SSL证书问题(BAD_ECPOINT)依然严重，34个爬虫中有24个返回0条数据。6. 微信爬虫获取0篇文章，社交平台数据采集能力有待增强。7. check_data_quality.py检查通过，0个数据质量问题。8. manual_data.json从924条增至929条，是重要的数据补充来源。9. 数据管线运行正常，共抓取1066条有效活动。",
+    "improvement_ideas": "1. 可考虑新增深圳戏院scraper自动采集演出信息，该场馆已有多条手动数据。2. 可考虑新增锦绣中华民俗村scraper自动采集活动信息。3. 可考虑增加活动过期自动清理机制，减少手动维护工作量。4. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。5. 可考虑优化微信爬虫，增加更多公众号和文章获取方式。6. 可考虑为各区核心场馆建立爬虫优先级，优先维护数据量大的场馆。7. 可考虑为gov.cn爬虫增加备用数据源，如直接解析场馆官网HTML。"
+  },
+  {
+    "date": "2026-07-14",
+    "activities_total": 1159,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 93,
+    "data_quality_issues_fixed": 22,
+    "lessons_learned": "1. 核心问题：gov.cn网站SSL BAD_ECPOINT错误是TLS握手层问题，verify=False无法解决，需要用curl子进程绕过。2. 创建了http_utils.py模块，提供curl_get/curl_post函数作为requests的替代方案。3. 发现文化馆云平台API(whgy.szmassart.com)是全市统一的活动数据源，包含宝安/福田/龙岗/光明等所有区的活动，用curl可以正常访问。4. 创建了scraper_culture_cloud.py统一文化馆云平台爬虫，一次拉取全市72条文化活动。5. 为22个0活动场馆补充了常设展/暑期活动数据到manual_data.json，包括博物馆常设展、安全教育体验展、暑期公益课程等。6. 活动总数从1066增至1159(+93条)，所有之前0活动的场馆现在都有数据。7. 数据质量校验通过，0个问题。8. API的pageTotal字段是总条数不是总页数，第2页返回相同数据，通过dedup和early break避免无效请求。9. git push被拒时需先stash未提交变更，再pull --rebase，最后stash pop恢复。",
+    "improvement_ideas": "1. 可考虑修改其他gov.cn依赖的爬虫也使用http_utils的curl_get替代requests.get。2. 可考虑为文化馆云平台API增加更多区级端点（如ftqwhg/baqwtzx等），获取更多区级特色活动。3. 可考虑为博物馆类场馆编写专门的常设展维护脚本，定期更新展览信息。4. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。5. 可考虑增加数据去重逻辑，文化馆云平台和手动数据可能有重复活动。6. 可考虑为curl_get增加重试逻辑和超时配置。7. 可考虑在GitHub Actions环境中也安装curl并配置http_utils作为备用HTTP方案。"
   }
 ]
