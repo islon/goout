@@ -460,7 +460,21 @@ def fetch_wechat_activities(max_accounts=10, max_articles_per_account=5):
 def collect_all_activities():
     all_activities = []
 
-    print("=== 抓取真实场馆数据 ===\n")
+    print("=== 抓取文化馆云平台（全市统一）===\n")
+    try:
+        from scraper_culture_cloud import fetch_culture_cloud_activities
+        cloud_results = fetch_culture_cloud_activities()
+        cloud_normalized = []
+        for raw in cloud_results:
+            activity = normalize_activity(raw, venue_default='文化馆')
+            if activity and is_valid_activity(activity):
+                cloud_normalized.append(activity)
+        print(f"  文化馆云平台有效活动: {len(cloud_normalized)} 条\n")
+        all_activities.extend(cloud_normalized)
+    except Exception as e:
+        print(f"  文化馆云平台抓取失败: {e}\n")
+
+    print("=== 抓取场馆数据 ===\n")
 
     for i, (name, module_name, func_name) in enumerate(REAL_SCRAPERS, 1):
         print(f"{i}. 抓取{name}...")
