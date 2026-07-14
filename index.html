@@ -2118,7 +2118,7 @@
                     return filtered.filter(e => e.start_date <= weekLaterStr && e.end_date >= today);
 
                 case 'upcoming':
-                    return filtered.filter(e => e.start_date >= today);
+                    return filtered.filter(e => e.end_date >= today);
 
                 case 'month':
                     return filtered.filter(e => {
