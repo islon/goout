@@ -5305,5 +5305,1074 @@
       "攀爬体验",
       "小火车"
     ]
+  },
+  {
+    "name": "国家图书馆",
+    "source": "nlc",
+    "city": "beijing",
+    "type": "图书馆",
+    "address": "北京市海淀区中关村南大街33号",
+    "transport": "地铁4号线、9号线国家图书馆站，出站即达",
+    "fee": "免费",
+    "description": "国家总书库与典籍博物馆所在地，常年举办公益讲座、少儿阅读与典籍文化展，亲子与研学好去处。",
+    "official_url": "https://www.nlc.cn/",
+    "highlights": [
+      "国图讲坛与非遗讲座月",
+      "国家典籍博物馆"
+    ]
+  },
+  {
+    "name": "中国人民革命军事博物馆",
+    "source": "jb-mil",
+    "city": "beijing",
+    "type": "纪念馆",
+    "address": "北京市海淀区复兴路9号",
+    "transport": "地铁1号线军事博物馆站，出站即达",
+    "fee": "免费需预约",
+    "description": "我国第一个综合类军事博物馆，常设革命战争陈列，免费提供公益讲解与红色电影、军事互动社教活动。",
+    "official_url": "http://www.jb.mil.cn/",
+    "highlights": [
+      "革命战争历史陈列",
+      "红色电影与军事互动体验"
+    ]
+  },
+  {
+    "name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "source": "luxunmuseum",
+    "city": "beijing",
+    "type": "纪念馆",
+    "address": "北京市东城区五四大街29号（北大红楼）",
+    "transport": "地铁5号线、6号线东四站，步行约10分钟",
+    "fee": "免费需预约",
+    "description": "依托北大红楼建立的五四新文化运动专题纪念馆，常设“百年红楼历史文化展”，爱国主义教育重要基地。",
+    "official_url": "http://www.luxunmuseum.com.cn/",
+    "highlights": [
+      "北大红楼百年历史展",
+      "新文化运动与五四主题"
+    ]
+  },
+  {
+    "name": "北京动物园",
+    "source": "bjzoo",
+    "city": "beijing",
+    "type": "公园",
+    "address": "北京市西城区西直门外大街137号",
+    "transport": "地铁4号线动物园站，出站即达",
+    "fee": "收费",
+    "description": "历史悠久的城市动物园，2026年举办120周年纪念与朱鹮重新发现45周年文化交流活动，亲子游览热门地。",
+    "official_url": "https://www.bjzoo.com/",
+    "highlights": [
+      "大熊猫等珍稀动物",
+      "朱鹮文化交流活动"
+    ]
+  },
+  {
+    "name": "中山公园音乐堂",
+    "source": "fcchbj",
+    "city": "beijing",
+    "type": "演出场所",
+    "address": "北京市东城区中华路4号（中山公园内）",
+    "transport": "地铁1号线天安门西站，步行进入中山公园",
+    "fee": "需购票",
+    "description": "坐落在中山公园内的古典音乐演出场所，2026年举办第32届“打开艺术之门”暑期低票价亲子艺术节。",
+    "official_url": "https://fcchbj.polyt.cn/",
+    "highlights": [
+      "打开艺术之门暑期艺术节",
+      "亲子低票价音乐会"
+    ]
+  },
+  {
+    "name": "北京艺术博物馆（万寿寺）",
+    "source": "bjam",
+    "city": "beijing",
+    "type": "博物馆",
+    "address": "北京市海淀区万寿寺路121号",
+    "transport": "地铁16号线万寿寺站，步行约10分钟",
+    "fee": "收费",
+    "description": "坐落于明清古刹万寿寺内的综合性艺术博物馆，2026年推出“乾隆的审美”等宫廷文物主题展览。",
+    "official_url": "https://www.bjwx.com.cn/",
+    "highlights": [
+      "乾隆的审美展",
+      "万寿寺古建与园林"
+    ]
+  },
+  {
+    "name": "三山五园文化艺术中心",
+    "source": "sshwys",
+    "city": "beijing",
+    "type": "文化中心",
+    "address": "北京市海淀区海淀公园路（海淀公园西侧）",
+    "transport": "地铁西郊线、公交至海淀公园一带",
+    "fee": "收费",
+    "description": "聚焦科技与艺术融合的区属文化新地标，2026年举办“亚洲数字艺术展”等沉浸式数字艺术展览。",
+    "official_url": "https://www.bjhd.gov.cn/",
+    "highlights": [
+      "亚洲数字艺术展",
+      "科技艺术沉浸体验"
+    ]
+  },
+  {
+    "name": "广东民间工艺博物馆（陈家祠）",
+    "source": "chenjiaci",
+    "city": "guangzhou",
+    "type": "博物馆",
+    "address": "广州市荔湾区中山七路恩龙里34号",
+    "transport": "地铁1号线陈家祠站D口；公交85、104、109、128路等",
+    "fee": "收费",
+    "description": "以清代陈氏书院（陈家祠）为馆址，集岭南建筑装饰与民间工艺收藏、展示、研究于一体，砖雕、木雕、石雕、灰塑、陶塑精美绝伦，适合亲子感受传统工艺。",
+    "official_url": "https://gzcjc.com.cn",
+    "highlights": [
+      "陈家祠三雕两塑一铸",
+      "馆藏广绣与雕刻工艺精品"
+    ]
+  },
+  {
+    "name": "广东革命历史博物馆",
+    "source": "gdrevolution",
+    "city": "guangzhou",
+    "type": "博物馆",
+    "address": "广州市越秀区陵园西路2号（广州起义烈士陵园内），辖团一大纪念馆等多个分馆",
+    "transport": "地铁1号线烈士陵园站C口",
+    "fee": "免费需预约",
+    "description": "成立于1959年，广东建馆最早的革命历史专题博物馆，下辖广州近代史博物馆、团一大纪念馆等分馆，2026年承办“穗地撷珍”文物普查成果展等，适合红色研学。",
+    "official_url": "https://www.gemg1959.cn/gdgmls/",
+    "highlights": [
+      "广州近代史基本陈列",
+      "穗地撷珍文物普查成果展"
+    ]
+  },
+  {
+    "name": "中国科学院华南植物园",
+    "source": "scbg",
+    "city": "guangzhou",
+    "type": "公园",
+    "address": "广州市天河区天源路1190号",
+    "transport": "地铁6号线植物园站A口；公交28、30、39、83路等",
+    "fee": "收费",
+    "description": "国家AAAA级景区、华南国家植物园核心区，集科研、科普与游览于一体，园貌葱郁，夏季可见萤火虫等自然观察资源，适合亲子自然教育与夜观活动。",
+    "official_url": "https://www.scbg.ac.cn",
+    "highlights": [
+      "热带亚热带植物温室群",
+      "夏日萤火虫自然观察"
+    ]
+  },
+  {
+    "name": "广州动物园",
+    "source": "gzzoo",
+    "city": "guangzhou",
+    "type": "公园",
+    "address": "广州市越秀区先烈中路120号",
+    "transport": "地铁5号线动物园站C口；公交16、30、65、219路等",
+    "fee": "收费",
+    "description": "始建于1958年的全国十佳动物园，国家4A级景区，展出大熊猫、金丝猴、华南虎等珍稀动物，2026年暑期推出夜游与“广州科普之夏”科普活动，亲子遛娃热门地。",
+    "official_url": "https://www.gzzoo.cn",
+    "highlights": [
+      "大熊猫与华南虎",
+      "暑期夜游与科普之夏"
+    ]
+  },
+  {
+    "name": "越秀公园",
+    "source": "yuexiu-park",
+    "city": "guangzhou",
+    "type": "公园",
+    "address": "广州市越秀区解放北路988号",
+    "transport": "地铁2号线越秀公园站B1/C口；公交21、24、58、87路等",
+    "fee": "免费",
+    "description": "广州最大的综合性公园之一，园内镇海楼、五羊石像、古城墙等历史名胜荟萃，四季花木繁盛，常年举办灯会、花展等惠民活动，亲子休闲与城市文化地标。",
+    "official_url": "http://lyylj.gz.gov.cn/stly/gyjq/yxgy/lxwm/index.html",
+    "highlights": [
+      "五羊石像",
+      "镇海楼与明代古城墙"
+    ]
+  },
+  {
+    "name": "珠江公园",
+    "source": "zhujiang-park",
+    "city": "guangzhou",
+    "type": "公园",
+    "address": "广州市天河区珠江新城（花城大道南侧）",
+    "transport": "地铁5号线猎德站B口，或APM线妇儿中心站；公交194、777路等",
+    "fee": "免费",
+    "description": "位于珠江新城CBD核心的开放式城市公园，以岭南园林与现代景观融合见长，2026年承办“广州花朝节”，是市民亲子游憩、赏花与市集活动的好去处。",
+    "official_url": "http://lyylj.gz.gov.cn/stly/gyjq/zjgy/jqjj/index.html",
+    "highlights": [
+      "岭南园林景观",
+      "广州花朝节主办地"
+    ]
+  },
+  {
+    "name": "广州兰圃",
+    "source": "lanpu",
+    "city": "guangzhou",
+    "type": "公园",
+    "address": "广州市越秀区解放北路901号（兰圃路）",
+    "transport": "地铁2号线越秀公园站C口步行约5分钟；公交21、58、87路等",
+    "fee": "免费",
+    "description": "以兰花为主题的城市园林，环境清幽、亭台雅致，2026年获评广东省乡土植物园，曾举办“兰缘盛荟”文旅周与粤港澳大湾区兰花精品展，亲子赏兰与文化体验胜地。",
+    "official_url": "http://lyylj.gz.gov.cn/",
+    "highlights": [
+      "岭南兰花园林",
+      "粤港澳大湾区兰花精品展"
+    ]
+  },
+  {
+    "name": "毛泽东同志主办农民运动讲习所旧址纪念馆",
+    "source": "gznjs",
+    "city": "guangzhou",
+    "type": "纪念馆",
+    "address": "广州市越秀区中山四路42号",
+    "transport": "地铁1号线农讲所站C口；公交1、7、22、102路等",
+    "fee": "免费需预约",
+    "description": "依托番禺学宫旧址建立的革命纪念馆，2026年适逢毛泽东主办农讲所一百周年，推出“星火启程——从农讲所到天安门”原创文物展，亲子红色教育与历史课堂。",
+    "official_url": "https://www.gznjs.cn",
+    "highlights": [
+      "番禺学宫红墙大成殿",
+      "星火启程百年特展"
+    ]
+  },
+  {
+    "name": "中山纪念堂",
+    "source": "zs-hall",
+    "city": "guangzhou",
+    "type": "演出场所",
+    "address": "广州市越秀区东风中路299号",
+    "transport": "地铁2号线纪念堂站C口；公交2、56、62、204路等",
+    "fee": "需购票",
+    "description": "为纪念孙中山先生而建的宏伟会堂式建筑，吕彦直设计，红柱黄墙蓝瓦，常年举办大型演出与音乐会，也是市民亲子参观的广州地标。",
+    "official_url": "http://www.zs-hall.cn",
+    "highlights": [
+      "八角形宫殿式会堂",
+      "大型演出与音乐会"
+    ]
+  },
+  {
+    "name": "长隆旅游度假区",
+    "source": "chimelong-gz",
+    "city": "guangzhou",
+    "type": "主题乐园",
+    "address": "广州市番禺区汉溪大道东299号",
+    "transport": "地铁3号线/7号线汉溪长隆站E口；公交129、302A、304路等",
+    "fee": "收费",
+    "description": "广州标志性大型主题乐园集群，含野生动物世界、欢乐世界、水上乐园与国际大马戏，2026年暑期推出“全球动物科普嘉年华”，亲子度假人气之选。",
+    "official_url": "https://www.chimelong.com/gz/",
+    "highlights": [
+      "长隆野生动物世界",
+      "暑期全球动物科普嘉年华"
+    ]
+  },
+  {
+    "name": "广州市文化馆",
+    "source": "gzculture",
+    "city": "guangzhou",
+    "type": "文化中心",
+    "address": "广州市海珠区新滘中路288号（海珠湖东北侧）",
+    "transport": "地铁3号线大塘站B口转公交，或公交264、583、761路等",
+    "fee": "免费需预约",
+    "description": "广州重大文化设施与民生工程，新馆落于海珠湖畔，设非遗展厅与数字文化体验厅，常年举办公益惠民活动与“花城百花开”非遗展，亲子文化体验地。",
+    "official_url": "https://www.gz-arts.com",
+    "highlights": [
+      "花城百花开非遗展（长期）",
+      "岭南曲艺公益惠民活动"
+    ]
+  },
+  {
+    "name": "正佳大剧院",
+    "source": "grandview-theatre",
+    "city": "guangzhou",
+    "type": "演出场所",
+    "address": "广州市天河区天河路228号正佳广场7楼",
+    "transport": "地铁1号线/3号线体育中心站或APM线天河南站；公交BRT体育中心站",
+    "fee": "需购票",
+    "description": "位于正佳广场内的专业亲子剧院，常年引进百老汇授权与原创亲子音乐剧，2026年暑期档上演奇幻亲子音乐剧《绿野仙踪》，适合家庭观演。",
+    "official_url": "http://www.grandviewaquarium.com",
+    "highlights": [
+      "百老汇授权亲子音乐剧",
+      "奇幻亲子音乐剧《绿野仙踪》"
+    ]
+  },
+  {
+    "name": "浙江省博物馆",
+    "source": "zhejiangmuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市西湖区孤山路25号（孤山馆区）；杭州市西湖区之江文化中心（之江馆区）",
+    "transport": "地铁6号线枫桦西路站/之浦路站（之江馆区）；公交至孤山馆区",
+    "fee": "免费",
+    "description": "浙江省博物馆是国家一级博物馆，分孤山馆区与之江馆区，之江馆区以“浙江一万年”通史陈列展现地域文明，馆藏良渚玉器、河姆渡遗物等珍贵文物。",
+    "official_url": "https://www.zhejiangmuseum.com/",
+    "highlights": [
+      "之江馆区“浙江一万年”通史陈列",
+      "孤山馆区西湖美术馆与文澜阁"
+    ]
+  },
+  {
+    "name": "中国丝绸博物馆",
+    "source": "chinasilkmuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市西湖区玉皇山路73-1号",
+    "transport": "地铁4号线水澄桥站B口步行约10分钟；公交丝绸博物馆站",
+    "fee": "免费",
+    "description": "中国丝绸博物馆是以丝绸纺织服饰文化遗产为主题的国家级专题博物馆，设历史、非遗、时尚等展区，常年推出丝路主题特展。",
+    "official_url": "https://www.chinasilkmuseum.com/",
+    "highlights": [
+      "丝绸历史与时尚服饰展",
+      "2026丝绸之路周主题特展"
+    ]
+  },
+  {
+    "name": "良渚博物院",
+    "source": "liangzhumuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市余杭区良渚街道美丽洲路1号",
+    "transport": "公交372路、348路、313路至良渚博物院站",
+    "fee": "免费需预约",
+    "description": "良渚博物院系统展示良渚文化玉器、陶器等考古成果，是了解五千年中华文明实证的重要窗口，实行网络实名预约参观。",
+    "official_url": "https://www.lzmuseum.cn/",
+    "highlights": [
+      "良渚文化玉器与反山出土文物",
+      "常设展与中亚文明特展"
+    ]
+  },
+  {
+    "name": "杭州博物馆",
+    "source": "hangzhoumuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市上城区粮道山18号",
+    "transport": "地铁7号线吴山广场站；近河坊街、吴山",
+    "fee": "免费",
+    "description": "杭州博物馆是国家一级博物馆，坐落于吴山脚下，南馆北馆系统呈现杭州历史变迁与馆藏文物精品，毗邻清河坊历史街区。",
+    "official_url": "https://hz-museum.cn/",
+    "highlights": [
+      "珍藏杭州馆藏文物精品陈列",
+      "吴山历史空间专题展"
+    ]
+  },
+  {
+    "name": "西湖博物馆",
+    "source": "westlakemuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市上城区南山路89号（西博馆区）；南复路60号（官窑馆区）",
+    "transport": "地铁7号线吴山广场站C口步行约10分钟；公交钱王祠站",
+    "fee": "免费",
+    "description": "杭州西湖博物馆总馆管理西湖博物馆、南宋官窑博物馆、章太炎纪念馆等，是中国第一座湖泊类专题博物馆，系统展示西湖自然与人文价值。",
+    "official_url": "https://www.westlakemuseum.com/",
+    "highlights": [
+      "西湖世界文化遗产专题展",
+      "西湖美学系列展览"
+    ]
+  },
+  {
+    "name": "浙江自然博物院",
+    "source": "zhejiangnaturemuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市拱墅区西湖文化广场6号（杭州馆）",
+    "transport": "地铁1号线西湖文化广场站；公交至西湖文化广场",
+    "fee": "免费需预约",
+    "description": "浙江自然博物院是国家一级博物馆，杭州馆坐落于西湖文化广场，设恐龙、海洋、地球生命等展区，是亲子科普与自然教育的热门场馆。",
+    "official_url": "https://www.zmnh.cn/",
+    "highlights": [
+      "恐龙与海洋生物标本展区",
+      "寒武纪澄江生物群化石展"
+    ]
+  },
+  {
+    "name": "中国茶叶博物馆",
+    "source": "teamuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市西湖区龙井路88号（双峰馆区）",
+    "transport": "公交至中国茶叶博物馆站；近龙井茶园",
+    "fee": "免费需预约",
+    "description": "中国茶叶博物馆是我国唯一以茶和茶文化为主题的国家级专题博物馆，分双峰、龙井两馆区，展示茶文化历史、制茶技艺与茶具艺术。",
+    "official_url": "https://www.teamuseum.cn/",
+    "highlights": [
+      "中国茶文化通史陈列",
+      "茶和天下非遗主题展"
+    ]
+  },
+  {
+    "name": "南宋官窑博物馆",
+    "source": "nansongguanyao",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市上城区南复路60号",
+    "transport": "公交至南宋官窑博物馆站；近玉皇山",
+    "fee": "免费",
+    "description": "南宋官窑博物馆是中国首座依托古窑址建立的陶瓷专题博物馆，展示郊坛下官窑遗址与南宋官窑青瓷艺术，隶属杭州西湖博物馆总馆。",
+    "official_url": "https://www.westlakemuseum.com/",
+    "highlights": [
+      "郊坛下官窑遗址保护厅",
+      "南宋青瓷艺术陈列"
+    ]
+  },
+  {
+    "name": "杭州工艺美术博物馆",
+    "source": "hangzhouartsandcrafts",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市拱墅区小河路336号（桥西历史文化街区）",
+    "transport": "地铁5号线大运河站；公交至拱宸桥西",
+    "fee": "免费",
+    "description": "杭州工艺美术博物馆群由工艺美术、中国刀剪剑、中国扇、中国伞四大博物馆组成，展示非遗工艺与手作体验，位于京杭大运河桥西历史街区。",
+    "official_url": "https://www.hzacm.cn/",
+    "highlights": [
+      "中国刀剪剑/扇/伞专题展",
+      "手作体验与非遗工坊"
+    ]
+  },
+  {
+    "name": "中国湿地博物馆",
+    "source": "chinawetlandmuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市西湖区天目山路402号（西溪湿地东南入口）",
+    "transport": "公交至西溪湿地东门/紫金港服务区；近西溪湿地",
+    "fee": "免费",
+    "description": "中国湿地博物馆是由国家林业局批准建设的国家级湿地主题博物馆，以“绿丘”为意象，通过场景复原与互动展项普及湿地知识。",
+    "official_url": "https://wgly.hangzhou.gov.cn/art/2023/4/13/art_1229696394_58945776.html",
+    "highlights": [
+      "湿地生态场景复原展区",
+      "科普艺术季互动体验"
+    ]
+  },
+  {
+    "name": "中国京杭大运河博物馆",
+    "source": "grandcanalmuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市拱墅区金华路34号运河文化广场1号",
+    "transport": "地铁5号线拱宸桥东站B口；公交拱宸桥西站",
+    "fee": "免费",
+    "description": "中国京杭大运河博物馆是国内首座以运河文化为主题的大型专题博物馆，坐落于运河文化广场，2026年迎来开馆20周年并推出影像与故事展。",
+    "official_url": "http://www.canal-museum.cn/",
+    "highlights": [
+      "运河文化通史陈列",
+      "开馆20周年影像故事展"
+    ]
+  },
+  {
+    "name": "章太炎纪念馆",
+    "source": "zhangtaiyan",
+    "city": "hangzhou",
+    "type": "纪念馆",
+    "address": "杭州市西湖区南山路2-1号（南屏山北麓，苏堤南隅）",
+    "transport": "公交至苏堤站；近净慈寺、花港观鱼",
+    "fee": "免费",
+    "description": "章太炎纪念馆隶属杭州西湖博物馆总馆，展示国学大师章太炎生平事迹与手稿真迹，馆后为其墓，环境清幽，免费开放。",
+    "official_url": "https://www.westlakemuseum.com/index.php/bwggk/gqjs/961-hzztyjng.html",
+    "highlights": [
+      "章太炎生平与学术陈列",
+      "手稿真迹与墓园"
+    ]
+  },
+  {
+    "name": "胡庆余堂中药博物馆",
+    "source": "huqingyutang",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市上城区大井巷95号（清河坊历史街区）",
+    "transport": "地铁1号线定安路站；公交至清河坊",
+    "fee": "收费",
+    "description": "胡庆余堂中药博物馆依托1874年创办的“江南药府”胡庆余堂国药号建成，集中药起源、陈列、手工作坊与诊疗于一体，是国家级非遗展示窗口。",
+    "official_url": "https://wgly.hangzhou.gov.cn/art/2024/4/8/art_1229733843_58954923.html",
+    "highlights": [
+      "百年国药号古建筑群",
+      "中药传统制药器具陈列"
+    ]
+  },
+  {
+    "name": "浙江革命烈士纪念馆",
+    "source": "zjrevolutionmartyrs",
+    "city": "hangzhou",
+    "type": "纪念馆",
+    "address": "杭州市上城区万松岭路100-1号（云居山）",
+    "transport": "公交102路万松岭站步行上山",
+    "fee": "免费",
+    "description": "浙江革命烈士纪念馆位于西湖东南云居山上，由纪念碑、烈士纪念馆与浮雕壁组成，是爱国主义教育基地，免费向公众开放。",
+    "official_url": "https://www.zjgmls.net/",
+    "highlights": [
+      "革命烈士纪念碑与纪念馆",
+      "爱国主义教育基地"
+    ]
+  },
+  {
+    "name": "浙江美术馆",
+    "source": "zhejiangartmuseum",
+    "city": "hangzhou",
+    "type": "美术馆",
+    "address": "杭州市西湖区南山路138号",
+    "transport": "地铁7号线吴山广场站；公交至长桥公园",
+    "fee": "免费需预约",
+    "description": "浙江美术馆是浙江省标志性美术场馆，常年举办国画、油画、雕塑与当代艺术展览，2026年暑期推出“繁天录”动画英雄潮流特展。",
+    "official_url": "https://www.zjam.org.cn/",
+    "highlights": [
+      "国家级美术展览平台",
+      "繁天录中国动画英雄特展"
+    ]
+  },
+  {
+    "name": "西湖美术馆",
+    "source": "westlakeartmuseum",
+    "city": "hangzhou",
+    "type": "美术馆",
+    "address": "杭州市西湖区孤山路25号（浙江省博物馆孤山馆区东侧）",
+    "transport": "公交至孤山/浙江博物馆站；近平湖秋月",
+    "fee": "免费",
+    "description": "西湖美术馆位于浙江省博物馆孤山馆区东侧，紧邻平湖秋月，设黄宾虹书画馆与吕霞光艺术馆，常年举办书画与考古专题展览。",
+    "official_url": "https://www.zhejiangmuseum.com/",
+    "highlights": [
+      "黄宾虹书画专题陈列",
+      "西湖美术馆考古特展"
+    ]
+  },
+  {
+    "name": "浙江图书馆",
+    "source": "zhejianglibrary",
+    "city": "hangzhou",
+    "type": "图书馆",
+    "address": "杭州市西湖区文景路与枫桦路交叉口（之江馆区）；曙光路73号（总馆）",
+    "transport": "地铁6号线之浦路站（之江馆区）；公交至浙图之江馆",
+    "fee": "免费",
+    "description": "浙江图书馆是省级公共图书馆，之江馆区位于之江文化中心，以大开间阅读空间与数字化服务为特色，提供借阅、展览与阅读推广活动。",
+    "official_url": "https://www.zjlib.cn/",
+    "highlights": [
+      "之江文化中心新馆区",
+      "数字阅读与古籍服务"
+    ]
+  },
+  {
+    "name": "杭州图书馆",
+    "source": "hangzhoulibrary",
+    "city": "hangzhou",
+    "type": "图书馆",
+    "address": "杭州市上城区解放东路58号市民中心J楼",
+    "transport": "地铁4号线市民中心站；近钱江新城",
+    "fee": "免费",
+    "description": "杭州图书馆定位“平民图书馆 市民大书房”，设儿童借阅区与音乐、电影分馆，常年开展阅读推广与少儿活动。",
+    "official_url": "https://www.zjhzlib.cn/",
+    "highlights": [
+      "少儿借阅区与亲子阅读",
+      "音乐与电影主题分馆"
+    ]
+  },
+  {
+    "name": "浙江省科技馆",
+    "source": "zhejiangstm",
+    "city": "hangzhou",
+    "type": "科技馆",
+    "address": "杭州市拱墅区中山北路581号西湖文化广场A座",
+    "transport": "地铁1号线西湖文化广场站；公交至西湖文化广场",
+    "fee": "免费需预约",
+    "description": "浙江省科技馆是省内最大的省级综合性科技场馆，设探索与发明、地球生命等展区，开展科学奇妙秀与夏令营等亲子科普活动。",
+    "official_url": "https://www.zjstm.org/",
+    "highlights": [
+      "沉浸式科学互动展区",
+      "科学奇妙秀与科技夏令营"
+    ]
+  },
+  {
+    "name": "西湖",
+    "source": "westlake",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市西湖区龙井路1号（西湖风景名胜区管委会）",
+    "transport": "地铁1号线龙翔桥站；环湖公交与环湖电瓶车",
+    "fee": "免费",
+    "description": "西湖是世界文化遗产，环湖分布断桥、苏堤、雷峰塔等名胜，免费开放，是亲子散步、骑行与自然观赏的城市绿心。",
+    "official_url": "https://westlake.hangzhou.gov.cn/",
+    "highlights": [
+      "世界文化遗产湖山胜景",
+      "环湖亲子骑行与徒步"
+    ]
+  },
+  {
+    "name": "西溪国家湿地公园",
+    "source": "xixiwetland",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市西湖区天目山路518号（周家村主入口）",
+    "transport": "地铁3号线西溪湿地南站；公交至西溪湿地周家村",
+    "fee": "收费",
+    "description": "西溪国家湿地公园是集城市湿地、农耕湿地与文化湿地于一体的国家5A景区，可赏芦花、火柿，乘摇橹船，全年举办花朝节与火柿节。",
+    "official_url": "https://www.xixiwetland.com.cn/",
+    "highlights": [
+      "摇橹船与非遗夜游",
+      "西溪火柿节与花朝节"
+    ]
+  },
+  {
+    "name": "杭州动物园",
+    "source": "hangzhouzoo",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市西湖区虎跑路40号",
+    "transport": "公交至动物园站；近虎跑、少儿公园",
+    "fee": "收费",
+    "description": "杭州动物园是山林式动物园，饲养大熊猫、金丝猴等近千头（只）动物，设大象馆、金鱼馆等，适合亲子科普与自然观察。",
+    "official_url": "https://www.hzzoo.com/",
+    "highlights": [
+      "大熊猫与珍稀动物展区",
+      "与少儿公园萌宠乐园相连"
+    ]
+  },
+  {
+    "name": "杭州植物园",
+    "source": "hangzhoubotanical",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市西湖区桃源岭1号（玉古路）",
+    "transport": "公交至植物园（玉泉）站；近玉泉鱼跃",
+    "fee": "收费",
+    "description": "杭州植物园始建于1956年，集科研、科普与游览于一体，以灵峰探梅、玉泉鱼跃与韩美林艺术馆闻名，是亲子自然教育的城市绿洲。",
+    "official_url": "http://www.hzbg.cn/",
+    "highlights": [
+      "灵峰探梅与玉泉鱼跃",
+      "植物分类与科普展区"
+    ]
+  },
+  {
+    "name": "太子湾公园",
+    "source": "taiziwanpark",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市西湖区南山路1-1号",
+    "transport": "公交至苏堤站；近净慈寺、花港观鱼",
+    "fee": "免费需预约",
+    "description": "太子湾公园以春日郁金香花展闻名，免费开放（花展高峰需预约），配风车、草坪与溪流，是亲子野餐与赏花的城西绿地。",
+    "official_url": "https://www.hangzhou.gov.cn/col/col812268/art/2026/art_18bc55a178744118a32c135769e9df43.html",
+    "highlights": [
+      "春季郁金香花展",
+      "草坪溪流亲子露营"
+    ]
+  },
+  {
+    "name": "良渚古城遗址公园",
+    "source": "liangzhuruins",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市余杭区瓶窑镇凤都路与104国道交叉口西北",
+    "transport": "公交至良渚古城遗址公园；地铁2号线良渚站转公交",
+    "fee": "收费",
+    "description": "良渚古城遗址公园是世界文化遗产良渚古城核心区，可漫步古坝与宫殿区，观察鹿苑水田，是亲子探秘五千年文明的户外遗址公园。",
+    "official_url": "https://www.lzsite.cn/",
+    "highlights": [
+      "世界文化遗产古城格局",
+      "鹿苑与水田亲子体验"
+    ]
+  },
+  {
+    "name": "杭州少年儿童公园",
+    "source": "hangzhouchildpark",
+    "city": "hangzhou",
+    "type": "亲子乐园",
+    "address": "杭州市西湖区虎跑路61号",
+    "transport": "公交至动物园/少儿公园站；与杭州动物园相邻",
+    "fee": "收费",
+    "description": "杭州少年儿童公园以千年桂文化为底蕴，设萌宠乐园与游乐设施，与杭州动物园相邻，是市区的亲子游乐与自然观察目的地。",
+    "official_url": "https://www.hzzoo.com/segyjs.html",
+    "highlights": [
+      "萌宠乐园与小动物展区",
+      "桂花文化与游乐设施"
+    ]
+  },
+  {
+    "name": "杭州大剧院",
+    "source": "hangzhoudajuyuan",
+    "city": "hangzhou",
+    "type": "演出场所",
+    "address": "杭州市上城区新业路39号（钱江新城）",
+    "transport": "地铁4号线市民中心站/9号线新业路站；近钱江新城",
+    "fee": "需购票",
+    "description": "杭州大剧院是钱江新城标志性建筑，由歌剧院、音乐厅与可变剧场组成，2026年演出季涵盖话剧、音乐剧、舞剧与亲子剧等多元品类。",
+    "official_url": "https://hznews.hangzhou.com.cn/wenti/content/2026-01/28/content_9169614.htm",
+    "highlights": [
+      "歌剧院与音乐厅演出季",
+      "亲子剧与音乐会"
+    ]
+  },
+  {
+    "name": "杭州运河大剧院",
+    "source": "hangzhouyunhedajuyuan",
+    "city": "hangzhou",
+    "type": "演出场所",
+    "address": "杭州市拱墅区桥弄街399号（大运河中央公园）",
+    "transport": "地铁5号线大运河站C口步行约900米；公交至湖州街杭行路口",
+    "fee": "需购票",
+    "description": "杭州运河大剧院坐落于大运河中央公园，以回旋水波为设计意象，设歌剧厅与多功能厅，常年上演音乐会、舞剧与儿童剧。",
+    "official_url": "https://www.piaoniu.com/venue/43663",
+    "highlights": [
+      "歌剧厅与运河主题演出",
+      "儿童剧与亲子音乐会"
+    ]
+  },
+  {
+    "name": "西泠印社",
+    "source": "xilingyinshe",
+    "city": "hangzhou",
+    "type": "其他",
+    "address": "杭州市西湖区孤山路31号（孤山社址）",
+    "transport": "公交至中山公园/西泠桥；近孤山、白堤",
+    "fee": "免费",
+    "description": "西泠印社创立于1904年，是海内外研究金石篆刻的著名学术团体，孤山社址为全国重点文保单位与西湖世界文化遗产组成部分，湖山亭台佳胜。",
+    "official_url": "http://www.xlys.org.cn/",
+    "highlights": [
+      "孤山社址园林与摩崖石刻",
+      "百年印学学术圣地"
+    ]
+  },
+  {
+    "name": "杭州青少年活动中心",
+    "source": "hangzhouyouthcenter",
+    "city": "hangzhou",
+    "type": "文体中心",
+    "address": "杭州市西湖区昭庆寺里街22号",
+    "transport": "公交至少年宫站；近北山路、西湖",
+    "fee": "部分免费",
+    "description": "杭州青少年活动中心是面向青少年的校外教育基地，开设艺术、体育、科技与夏令营课程，暑期推出少年长成营等亲子活动。",
+    "official_url": "https://www.hzqsn.com/",
+    "highlights": [
+      "少儿艺术与科技培训",
+      "暑期夏令营与亲子活动"
+    ]
+  },
+  {
+    "name": "浙江省文化馆",
+    "source": "zhejiangculturehall",
+    "city": "hangzhou",
+    "type": "文化中心",
+    "address": "杭州市拱墅区西湖文化广场C区（武林路71号设址）",
+    "transport": "地铁1号线西湖文化广场站；公交至西湖文化广场",
+    "fee": "免费",
+    "description": "浙江省文化馆是省级群众文化机构，常年举办公益培训、惠民展演与“文艺赋美”全民艺术季，免费向公众提供文化服务。",
+    "official_url": "https://www.zjart.com/",
+    "highlights": [
+      "全民艺术季惠民展演",
+      "免费公益艺术培训"
+    ]
+  },
+  {
+    "name": "杭州宋城",
+    "source": "hangzhousongcheng",
+    "city": "hangzhou",
+    "type": "主题乐园",
+    "address": "杭州市西湖区之江路148号",
+    "transport": "公交至宋城站；近之江路",
+    "fee": "收费",
+    "description": "杭州宋城是以《宋城千古情》演艺为核心的穿越式主题公园，集市井街巷、民俗表演与互动体验于一体，适合全家出游。",
+    "official_url": "https://www.songcn.com/",
+    "highlights": [
+      "《宋城千古情》大型演艺",
+      "宋韵市井与互动体验"
+    ]
+  },
+  {
+    "name": "杭州长乔极地海洋公园",
+    "source": "hangzhoupolarocean",
+    "city": "hangzhou",
+    "type": "主题乐园",
+    "address": "杭州市萧山区湘湖路777号",
+    "transport": "公交至湘湖路/杨堤；近湘湖",
+    "fee": "收费",
+    "description": "杭州长乔极地海洋公园位于湘湖旅游度假区，设白鲸海、企鹅岛等19大主题展区与5大表演剧场，是亚洲动物种群领先的海洋亲子乐园。",
+    "official_url": "https://www.hz-polar.com/",
+    "highlights": [
+      "白鲸与极地动物展区",
+      "海洋动物表演剧场"
+    ]
+  },
+  {
+    "name": "杭州海底世界",
+    "source": "hangzhouunderwaterworld",
+    "city": "hangzhou",
+    "type": "亲子乐园",
+    "address": "杭州市上城区南山路49号（万松岭路口）",
+    "transport": "公交至万松岭路口站；近西湖南线",
+    "fee": "收费",
+    "description": "杭州海底世界位于西子湖畔，是浙江省最早的专业海洋水族馆，饲养数百种水生生物，设海底隧道与动物表演，适合亲子科普。",
+    "official_url": "https://hangzhou.cncn.com/jingdian/haidishijie/",
+    "highlights": [
+      "海底隧道与海洋生物展",
+      "少儿科普与水族表演"
+    ]
+  },
+  {
+    "name": "杭州乐园",
+    "source": "hangzhouleyuan",
+    "city": "hangzhou",
+    "type": "主题乐园",
+    "address": "杭州市萧山区风情大道2555号",
+    "transport": "公交至杭州乐园站；近湘湖",
+    "fee": "收费",
+    "description": "杭州乐园是长三角综合性主题公园，分玛雅部落、失落丛林、冒险岛等区域，配有游乐设施与演艺，适合家庭亲子游玩。",
+    "official_url": "https://wgly.hangzhou.gov.cn/art/2024/4/8/art_1229733829_58954880.html",
+    "highlights": [
+      "玛雅部落与冒险岛区",
+      "亲子游乐与主题演艺"
+    ]
+  },
+  {
+    "name": "湘湖",
+    "source": "xianghu",
+    "city": "hangzhou",
+    "type": "公园",
+    "address": "杭州市萧山区湘湖路112号",
+    "transport": "地铁1号线湘湖站；公交至湘湖景区",
+    "fee": "免费",
+    "description": "湘湖是杭州萧山的大型城市湖泊与国家级旅游度假区，风光秀丽的跨湖桥景区适合骑行散步，紧邻杭州极地海洋公园等亲子景点。",
+    "official_url": "http://www.chinaxianghu.com/",
+    "highlights": [
+      "跨湖桥遗址与湖光骑行",
+      "亲子度假与湿地漫步"
+    ]
+  },
+  {
+    "name": "韩美林艺术馆",
+    "source": "hanmeilinart",
+    "city": "hangzhou",
+    "type": "美术馆",
+    "address": "杭州市西湖区玉泉桃源岭3号（杭州植物园内）",
+    "transport": "公交至玉泉/植物园站；近杭州植物园",
+    "fee": "部分免费",
+    "description": "韩美林艺术馆坐落于杭州植物园内，集收藏、展览、研究与公共教育于一体，展示韩美林雕塑、绘画与紫砂等艺术作品（馆免费，植物园门票另购）。",
+    "official_url": "http://www.hanmeilin.com/museum_h.php",
+    "highlights": [
+      "韩美林雕塑与绘画陈列",
+      "植物园内的艺术空间"
+    ]
+  },
+  {
+    "name": "都锦生织锦博物馆",
+    "source": "dujinshengbrocade",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市西湖区凤起路（都锦生故居）",
+    "transport": "公交至凤起路站；近西湖大道",
+    "fee": "免费",
+    "description": "都锦生织锦博物馆是我国第一家专题织锦博物馆，依托都锦生故居建成，以近千件实物展示杭州织锦百年发展与国家级非遗技艺。",
+    "official_url": "https://hz.bendibao.com/jingdian/dujinshengzhijinbowuguan/",
+    "highlights": [
+      "杭州织锦百年发展史",
+      "老式手工织机与传世织锦"
+    ]
+  },
+  {
+    "name": "杭州少年儿童图书馆",
+    "source": "hangzhouchildlibrary",
+    "city": "hangzhou",
+    "type": "图书馆",
+    "address": "杭州市西湖区曙光路75号",
+    "transport": "公交至黄龙洞/曙光路站；近黄龙吐翠",
+    "fee": "免费",
+    "description": "杭州少年儿童图书馆成立于1982年，1999年迁址曙光路，是花园式少儿图书馆，秉持“平等、免费、无障碍”理念，提供少儿借阅与阅读辅导。",
+    "official_url": "https://hangzhou02384.11467.com/about.asp",
+    "highlights": [
+      "少儿借阅与阅读辅导",
+      "花园式亲子图书馆"
+    ]
+  },
+  {
+    "name": "中国印学博物馆",
+    "source": "chinasealmuseum",
+    "city": "hangzhou",
+    "type": "博物馆",
+    "address": "杭州市西湖区孤山后山路10号（西泠桥畔）",
+    "transport": "公交至西泠桥/中山公园站；近孤山",
+    "fee": "免费",
+    "description": "中国印学博物馆是国家级专业博物馆，由西泠印社创办，位于孤山西麓西泠桥畔，系统展示中国印学、篆刻艺术与历代玺印。",
+    "official_url": "http://www.xlys.org.cn/zgyxbwg/index.jhtml",
+    "highlights": [
+      "中国印学篆刻艺术陈列",
+      "孤山西麓园林式馆舍"
+    ]
+  },
+  {
+    "name": "中共一大纪念馆",
+    "source": "yida1921",
+    "city": "shanghai",
+    "type": "纪念馆",
+    "address": "上海市黄浦区兴业路76号",
+    "transport": "地铁10/13号线一大会址·新天地站",
+    "fee": "免费需预约",
+    "description": "由中共一大会址、宣誓大厅与新建展馆组成，基本陈列“伟大的开端”再现中国共产党创建历程，是重要红色地标与研学基地。",
+    "official_url": "https://www.zgyd1921.com",
+    "highlights": [
+      "中国共产党诞生地",
+      "数字一大·伟大征程VR沉浸式体验"
+    ]
+  },
+  {
+    "name": "中华艺术宫（上海美术馆）",
+    "source": "zhonghuayishugong",
+    "city": "shanghai",
+    "type": "美术馆",
+    "address": "上海市浦东新区上南路205号",
+    "transport": "地铁7/8号线耀华路站",
+    "fee": "部分免费",
+    "description": "由原世博中国馆改建，是上海美术馆的所在地，常年举办国家级美术大展与艺术设计展，兼具展示、美育与公共教育功能。",
+    "official_url": "https://www.artmuseumonline.org",
+    "highlights": [
+      "世博中国馆“东方之冠”建筑",
+      "2026年举办马王堆国宝艺术大展"
+    ]
+  },
+  {
+    "name": "上海迪士尼度假区",
+    "source": "shanghaidisney",
+    "city": "shanghai",
+    "type": "主题乐园",
+    "address": "上海市浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "中国大陆首座迪士尼主题乐园，含八大主题园区、两家主题酒店与迪士尼小镇，2026年迎来开园十周年夏日狂欢。",
+    "official_url": "https://www.shanghaidisneyresort.com/zh-cn/",
+    "highlights": [
+      "八大主题园区",
+      "2026年十周年庆典"
+    ]
+  },
+  {
+    "name": "乐高探索中心",
+    "source": "legolanddiscovery",
+    "city": "shanghai",
+    "type": "亲子乐园",
+    "address": "上海市普陀区大渡河路196号长风大悦城二楼",
+    "transport": "地铁13号线大渡河路站",
+    "fee": "收费",
+    "description": "专为2-12岁亲子家庭打造的室内乐高主题玩乐中心，含4D影院、赛车场、迷你天地与拼搭课程，2026年迎来入华十周年。",
+    "official_url": "https://www.legolanddiscoverycenter.com/zh-cn/shanghai/",
+    "highlights": [
+      "室内乐高主题玩乐",
+      "十周年“拼了！真功夫”暑期活动"
+    ]
+  },
+  {
+    "name": "上海乐高乐园度假区",
+    "source": "legolandshanghai",
+    "city": "shanghai",
+    "type": "主题乐园",
+    "address": "上海市金山区枫泾镇无际路1号",
+    "transport": "高铁金山北站或自驾前往",
+    "fee": "收费",
+    "description": "专为2-12岁亲子家庭打造的大型乐高主题乐园度假区，含八大主题区、超75个互动骑乘与由数千万块积木拼搭的景观。",
+    "official_url": "https://legolandshanghai.cn",
+    "highlights": [
+      "八大乐高主题区",
+      "超75个互动玩乐设施"
+    ]
+  },
+  {
+    "name": "浦东美术馆",
+    "source": "mapudong",
+    "city": "shanghai",
+    "type": "美术馆",
+    "address": "上海市浦东新区滨江大道2777号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "由让·努维尔设计、陆家嘴集团运营的滨江美术馆，以国际艺术展示交流为主，常年举办莫兰迪、奥赛等重磅大展。",
+    "official_url": "https://www.museumofartpd.org.cn",
+    "highlights": [
+      "外滩对岸滨江建筑",
+      "2026年乔治·莫兰迪：独白大展"
+    ]
+  },
+  {
+    "name": "上海玻璃博物馆",
+    "source": "shmog",
+    "city": "shanghai",
+    "type": "博物馆",
+    "address": "上海市宝山区长江西路685号",
+    "transport": "地铁1号线通河新村站转公交",
+    "fee": "收费",
+    "description": "以玻璃艺术为核心的当代博物馆园区，含热玻璃演示、玻璃迷宫、DIY手作与BRKN·破碎等长期展陈，兼具艺术与亲子体验。",
+    "official_url": "https://www.shmog.org",
+    "highlights": [
+      "玻璃吹制演示",
+      "玻璃迷宫与DIY手作"
+    ]
+  },
+  {
+    "name": "上海儿童博物馆",
+    "source": "shetbwg",
+    "city": "shanghai",
+    "type": "博物馆",
+    "address": "上海市长宁区宋园路61号（宋庆龄陵园东南部）",
+    "transport": "地铁10号线宋园路站",
+    "fee": "免费需预约",
+    "description": "面向少年儿童的专题博物馆，由航天馆、航海馆、玩具馆与球幕电影厅组成，1996年开放，2026年迎来开馆三十周年。",
+    "official_url": "https://www.shetbwg.cn",
+    "highlights": [
+      "航天与航海主题互动",
+      "亲子科普与球幕电影"
+    ]
+  },
+  {
+    "name": "海上世界文化艺术中心",
+    "source": "swcac",
+    "city": "shenzhen",
+    "type": "文化中心",
+    "address": "南山区蛇口望海路1187号",
+    "transport": "地铁2/12号线海上世界站A出口",
+    "fee": "部分免费",
+    "description": "招商蛇口运营的大型文化创意综合体，由设计互联运营，集展览、演出、教育与商业于一体，常设免费展与收费特展并存。",
+    "official_url": "https://swcac.cmsk1979.com",
+    "highlights": [
+      "设计互联运营",
+      "滨海展馆",
+      "展览+演出+教育"
+    ]
+  },
+  {
+    "name": "深圳大剧院",
+    "source": "szdjy",
+    "city": "shenzhen",
+    "type": "演出场所",
+    "address": "福田区深南东路5018号",
+    "transport": "地铁1/2号线大剧院站",
+    "fee": "需购票",
+    "description": "深圳老牌标志性演出场馆，设大剧场与音乐厅，常年举办歌剧、舞剧、话剧与艺术季演出，第三十届深圳大剧院艺术季正在进行。",
+    "official_url": "https://www.szdjy.net",
+    "highlights": [
+      "老牌演出场馆",
+      "大剧院艺术季",
+      "歌剧舞剧话剧"
+    ]
+  },
+  {
+    "name": "深圳工业展览馆",
+    "source": "szgyexpo",
+    "city": "shenzhen",
+    "type": "展览馆",
+    "address": "福田区福中三路市民中心B区黄色圆塔2-10层",
+    "transport": "地铁2/4号线市民中心站",
+    "fee": "免费",
+    "description": "1985年建馆的工业成果展示窗口，现于市民中心圆塔设常设工业科技展，展示深圳制造与科技创新，免费凭身份证参观（部分楼层升级暂停开放）。",
+    "official_url": "http://gxj.sz.gov.cn/ztfw/ztzl/szsgyzlg",
+    "highlights": [
+      "深圳工业成果",
+      "免费参观",
+      "市民中心圆塔"
+    ]
+  },
+  {
+    "name": "深圳革命烈士纪念馆",
+    "source": "martyrs",
+    "city": "shenzhen",
+    "type": "纪念馆",
+    "address": "福田区北环大道与彩田路交叉口（深圳革命烈士陵园内）",
+    "transport": "地铁9/10号线孖岭站",
+    "fee": "免费",
+    "description": "位于深圳革命烈士陵园内的纪念馆，缅怀深圳革命英烈，园区免费开放、纪念碑镌刻“革命烈士永垂不朽”，是爱国主义教育基地。",
+    "official_url": "http://tyjr.sz.gov.cn/szstyjrswjwzgkml/szstyjrswjwzgkml/ywzsk/gmlslygl/content/post_11271512.html",
+    "highlights": [
+      "国家级烈士纪念设施",
+      "免费爱国教育",
+      "纪念碑"
+    ]
   }
 ]
