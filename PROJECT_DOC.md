@@ -268,7 +268,7 @@ goout/
 | RSS 订阅 | https://islon.github.io/goout/output/exhibitions.rss |
 | 场馆数据 | https://islon.github.io/goout/output/venue_info.json |
 | GitHub 仓库 | https://github.com/islon/goout |
-| 反馈表单 | https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ |
+| 反馈表单 | https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg |
 
 ---
 

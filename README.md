@@ -102,7 +102,7 @@
 我们欢迎来自任何城市的贡献者：
 
 - **数据源贡献** — 添加你所在城市的图书馆、博物馆、科技馆等活动源
-- **Bug 反馈** — 通过 [反馈表单](https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ) 提交问题
+- **Bug 反馈** — 通过 [反馈表单](https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg) 提交问题
 - **代码改进** — Fork 本仓库，提交 Pull Request
 
 ---
