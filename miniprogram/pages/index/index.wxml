@@ -10,6 +10,18 @@
     </view>
   </view>
 
+  <!-- 搜索框 -->
+  <view class="search-bar">
+    <text class="search-icon">🔍</text>
+    <input
+      class="search-input"
+      placeholder="搜索活动名称或场馆"
+      value="{{keyword}}"
+      bindinput="onSearchInput"
+      confirm-type="search" />
+    <text wx:if="{{keyword}}" class="search-clear" bindtap="onClearSearch">✕</text>
+  </view>
+
   <!-- 筛选区 -->
   <view class="filter-bar">
 
@@ -40,12 +52,9 @@
     <!-- 快捷：免费 / 亲子 + 类型（横向滚动） -->
     <view class="filter-row filter-row-actions">
       <view class="quick-tags">
-        <view
-          class="action-btn {{activeFee === '免费' ? 'action-active' : ''}}"
-          bindtap="onFeeTap" data-value="{{activeFee === '免费' ? '全部' : '免费'}}">免费</view>
-        <view
-          class="action-btn {{activeFamily === 'family' ? 'action-active' : ''}}"
-          bindtap="onFamilyTap" data-value="{{activeFamily === 'family' ? 'all' : 'family'}}">亲子</view>
+        <view class="action-btn {{activeFee === '免费' ? 'action-active' : ''}}" bindtap="onFeeTap" data-type="免费">免费</view>
+        <view class="action-btn {{activeFee === '收费' ? 'action-active' : ''}}" bindtap="onFeeTap" data-type="收费">收费</view>
+        <view class="action-btn {{activeFamily === 'family' ? 'action-active' : ''}}" bindtap="onFamilyTap" data-type="family">亲子</view>
       </view>
       <scroll-view scroll-x class="filter-scroll flex-1" enhanced show-scrollbar="{{false}}">
         <view class="filter-chips">
@@ -57,8 +66,8 @@
       </scroll-view>
     </view>
 
-    <!-- 区县联动（仅选中具体城市时显示） -->
-    <view class="district-panel" wx:if="{{activeCity !== '全部'}}">
+    <!-- 区县联动（仅当选中具体城市且数据含区县时显示） -->
+    <view class="district-panel" wx:if="{{activeCity !== '全部' && districtOptions.length > 1}}">
       <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
         <view class="filter-chips">
           <view

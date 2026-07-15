@@ -1,0 +1,58 @@
+<!-- pages/venueDetail/venueDetail.wxml -->
+<view class="container" wx:if="{{venue}}">
+
+  <!-- 顶部信息卡 -->
+  <view class="hero-card">
+    <view class="hero-tags">
+      <text class="tag tag-category">{{venue.type}}</text>
+      <text class="tag {{venue._isFree ? 'tag-free' : 'tag-paid'}}">{{venue.fee}}</text>
+    </view>
+    <view class="hero-title">{{venue.name}}</view>
+    <view class="hero-sub">{{venue._cityName}}<text wx:if="{{venue.district}}"> · {{venue.district}}</text></view>
+  </view>
+
+  <!-- 详细信息 -->
+  <view class="info-card">
+    <view class="info-row" wx:if="{{venue.address}}" bindtap="onCopyAddress">
+      <view class="info-icon">📍</view>
+      <view class="info-content">
+        <view class="info-label">地址</view>
+        <view class="info-value">{{venue.address}}</view>
+      </view>
+      <view class="info-action">复制</view>
+    </view>
+
+    <view class="info-row" wx:if="{{venue.transport}}">
+      <view class="info-icon">🚇</view>
+      <view class="info-content">
+        <view class="info-label">交通</view>
+        <view class="info-value">{{venue.transport}}</view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 场馆介绍 -->
+  <view class="desc-card" wx:if="{{venue.description}}">
+    <view class="desc-title">场馆介绍</view>
+    <view class="desc-text">{{venue.description}}</view>
+  </view>
+
+  <!-- 特色 -->
+  <view class="desc-card" wx:if="{{venue._highlights.length}}">
+    <view class="desc-title">特色</view>
+    <view class="highlight-tags">
+      <text class="tag tag-family" wx:for="{{venue._highlights}}" wx:key="*this">{{item}}</text>
+    </view>
+  </view>
+
+  <!-- 官网链接 -->
+  <view class="link-card" wx:if="{{venue.official_url}}" bindtap="onCopyLink">
+    <view class="link-icon">🔗</view>
+    <view class="link-text">
+      <view class="link-label">官方网站</view>
+      <view class="link-url">{{venue.official_url}}</view>
+    </view>
+    <view class="link-action">复制</view>
+  </view>
+
+</view>

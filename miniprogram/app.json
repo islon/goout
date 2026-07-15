@@ -2,6 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/detail/detail",
+    "pages/venues/venues",
+    "pages/venueDetail/venueDetail",
     "pages/mine/mine"
   ],
   "window": {
@@ -22,6 +24,12 @@
         "text": "活动",
         "iconPath": "assets/tab-home.png",
         "selectedIconPath": "assets/tab-home-active.png"
+      },
+      {
+        "pagePath": "pages/venues/venues",
+        "text": "场馆",
+        "iconPath": "assets/tab-venue.png",
+        "selectedIconPath": "assets/tab-venue-active.png"
       },
       {
         "pagePath": "pages/mine/mine",

@@ -1,0 +1,87 @@
+<!-- pages/venues/venues.wxml -->
+<view class="container">
+
+  <!-- 顶部横幅 -->
+  <view class="header">
+    <view class="header-title">场馆指南</view>
+    <view class="header-subtitle">即使没有活动，也值得一去</view>
+    <view class="header-stats">
+      <text>共 {{filteredVenues.length}} 个场馆</text>
+    </view>
+  </view>
+
+  <!-- 搜索框 -->
+  <view class="search-bar">
+    <text class="search-icon">🔍</text>
+    <input
+      class="search-input"
+      placeholder="搜索场馆名称或地址"
+      value="{{keyword}}"
+      bindinput="onSearchInput"
+      confirm-type="search" />
+    <text wx:if="{{keyword}}" class="search-clear" bindtap="onClearSearch">✕</text>
+  </view>
+
+  <!-- 筛选区 -->
+  <view class="filter-bar">
+    <view class="filter-row">
+      <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="filter-chips">
+          <view
+            class="chip {{activeCity === item ? 'chip-active' : ''}}"
+            wx:for="{{cities}}" wx:key="*this"
+            bindtap="onCityTap" data-value="{{item}}">{{item}}</view>
+        </view>
+      </scroll-view>
+    </view>
+
+    <view class="filter-row">
+      <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="filter-chips">
+          <view
+            class="chip chip-sm {{activeType === item ? 'chip-active' : ''}}"
+            wx:for="{{types}}" wx:key="*this"
+            bindtap="onTypeTap" data-value="{{item}}">{{item}}</view>
+        </view>
+      </scroll-view>
+    </view>
+  </view>
+
+  <!-- 场馆列表 -->
+  <view class="venue-list" wx:if="{{filteredVenues.length > 0}}">
+    <view
+      class="venue-card"
+      wx:for="{{filteredVenues}}" wx:key="id"
+      bindtap="onVenueTap" data-id="{{item.id}}">
+
+      <view class="card-tags">
+        <text class="tag tag-category">{{item.type}}</text>
+        <text class="tag {{item._isFree ? 'tag-free' : 'tag-paid'}}">{{item.fee}}</text>
+      </view>
+
+      <view class="card-title">{{item.name}}</view>
+
+      <view class="card-row">
+        <text class="card-icon">📍</text>
+        <text class="card-text">{{item._cityName}}<text wx:if="{{item.district}}"> · {{item.district}}</text></text>
+      </view>
+
+      <view class="card-row" wx:if="{{item.address}}">
+        <text class="card-icon">🏠</text>
+        <text class="card-text">{{item.address}}</text>
+      </view>
+    </view>
+
+    <view class="list-footer">
+      <text>— 没有更多场馆了 —</text>
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty-state" wx:if="{{filteredVenues.length === 0 && !loading}}">
+    <view class="empty-icon">🔍</view>
+    <view class="empty-text">没有符合条件的场馆</view>
+    <view class="empty-hint">试试调整筛选条件</view>
+  </view>
+
+</view>

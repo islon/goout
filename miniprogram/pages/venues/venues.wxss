@@ -1,4 +1,4 @@
-/* pages/index/index.wxss */
+/* pages/venues/venues.wxss */
 
 .container {
   min-height: 100vh;
@@ -10,8 +10,6 @@
   background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
   padding: 40rpx 32rpx 48rpx;
   color: white;
-  position: relative;
-  overflow: hidden;
 }
 .header-title {
   font-size: 52rpx;
@@ -29,6 +27,31 @@
   opacity: 0.7;
 }
 
+/* 搜索框 */
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #FFFFFF;
+  margin: 20rpx 24rpx 0;
+  padding: 16rpx 24rpx;
+  border-radius: 40rpx;
+  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.06);
+}
+.search-icon {
+  font-size: 28rpx;
+  margin-right: 12rpx;
+}
+.search-input {
+  flex: 1;
+  font-size: 28rpx;
+  color: #292524;
+}
+.search-clear {
+  font-size: 30rpx;
+  color: #A8A29E;
+  padding: 0 8rpx;
+}
+
 /* 筛选栏 - 吸顶 */
 .filter-bar {
   background: #FFFFFF;
@@ -44,7 +67,6 @@
 .filter-row:last-child {
   margin-bottom: 4rpx;
 }
-
 .filter-scroll {
   white-space: nowrap;
 }
@@ -53,8 +75,6 @@
   gap: 14rpx;
   padding: 0 4rpx;
 }
-
-/* 通用 chip */
 .chip {
   display: inline-block;
   padding: 10rpx 28rpx;
@@ -70,60 +90,17 @@
   font-size: 24rpx;
   border-radius: 28rpx;
 }
-.chip-xs {
-  padding: 6rpx 20rpx;
-  font-size: 22rpx;
-  border-radius: 24rpx;
-}
 .chip-active {
   background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
   color: white;
   font-weight: 600;
 }
 
-/* 快捷 + 类型 同行 */
-.filter-row-actions {
-  display: flex;
-  align-items: center;
-  gap: 16rpx;
-}
-.quick-tags {
-  display: flex;
-  gap: 12rpx;
-  flex-shrink: 0;
-}
-.flex-1 {
-  flex: 1;
-  min-width: 0;
-}
-
-.action-btn {
-  padding: 8rpx 22rpx;
-  border-radius: 24rpx;
-  font-size: 24rpx;
-  background: #FDF6ED;
-  color: #78716C;
-  border: 2rpx solid #F5E6D3;
-  white-space: nowrap;
-}
-.action-active {
-  background: #E0F2F7;
-  color: #0891B2;
-  border-color: #0891B2;
-}
-
-/* 区县联动面板 */
-.district-panel {
-  margin-top: 4rpx;
-  padding-top: 12rpx;
-  border-top: 2rpx solid #F5F0E8;
-}
-
-/* 活动卡片 */
-.activity-list {
+/* 场馆卡片 */
+.venue-list {
   padding: 8rpx 0;
 }
-.activity-card {
+.venue-card {
   background: #FFFFFF;
   border-radius: 24rpx;
   padding: 32rpx;
@@ -132,10 +109,9 @@
   position: relative;
   transition: transform 0.15s;
 }
-.activity-card:active {
+.venue-card:active {
   transform: scale(0.98);
 }
-
 .card-tags {
   display: flex;
   flex-wrap: wrap;
@@ -163,16 +139,6 @@
   color: #78716C;
   flex: 1;
 }
-.card-city {
-  position: absolute;
-  top: 32rpx;
-  right: 32rpx;
-  font-size: 22rpx;
-  color: #A8A29E;
-  background: #FDF6ED;
-  padding: 4rpx 16rpx;
-  border-radius: 8rpx;
-}
 
 /* 列表底部 */
 .list-footer {
@@ -199,29 +165,4 @@
 .empty-hint {
   font-size: 26rpx;
   color: #A8A29E;
-}
-
-/* 搜索框 */
-.search-bar {
-  display: flex;
-  align-items: center;
-  background: #FFFFFF;
-  margin: 20rpx 24rpx 0;
-  padding: 16rpx 24rpx;
-  border-radius: 40rpx;
-  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.06);
-}
-.search-icon {
-  font-size: 28rpx;
-  margin-right: 12rpx;
-}
-.search-input {
-  flex: 1;
-  font-size: 28rpx;
-  color: #292524;
-}
-.search-clear {
-  font-size: 30rpx;
-  color: #A8A29E;
-  padding: 0 8rpx;
 }

@@ -27,6 +27,7 @@ Page({
       'shenzhen': '深圳', 'beijing': '北京', 'shanghai': '上海', 'guangzhou': '广州', 'hangzhou': '杭州'
     },
     districtOptions: ['全部区县'],
+    keyword: '',
     loading: true
   },
 
@@ -35,11 +36,13 @@ Page({
   },
 
   // 优先从云函数拉取实时数据，失败则降级本地 JSON
-  loadActivities() {
+  loadActivities(onComplete) {
+    const done = typeof onComplete === 'function' ? onComplete : () => {}
     const useLocal = () => {
       wx.setStorageSync('activitiesCache', localActivities)
       this.buildDistrictMap(localActivities)
       this.initData(localActivities)
+      done()
     }
 
     if (!wx.cloud || !wx.cloud.callFunction) {
@@ -60,6 +63,7 @@ Page({
           console.warn('云函数返回空，降级本地', r && r.hint)
           useLocal()
         }
+        done()
       },
       fail: (err) => {
         console.warn('云函数调用失败，降级本地', err)
@@ -147,9 +151,25 @@ Page({
   },
 
   onFeeTap(e) {
-    const v = e.currentTarget.dataset.value
-    this.setData({ activeFee: v === '免费' ? '免费' : (v === '收费' ? '收费' : '全部') })
+    const type = e.currentTarget.dataset.type
+    const current = this.data.activeFee
+    // 免费/收费 互斥切换：再次点击同一项则回到「全部」
+    this.setData({ activeFee: current === type ? '全部' : type })
     this.applyFilters()
+  },
+
+  onSearchInput(e) {
+    this.setData({ keyword: (e.detail.value || '').trim().toLowerCase() })
+    this.applyFilters()
+  },
+
+  onClearSearch() {
+    this.setData({ keyword: '' })
+    this.applyFilters()
+  },
+
+  onPullDownRefresh() {
+    this.loadActivities(() => wx.stopPullDownRefresh())
   },
 
   onFamilyTap(e) {
@@ -179,7 +199,7 @@ Page({
   },
 
   applyFilters() {
-    const { activeCategory, activeFee, activeFamily, activeCity, activeTime, activeDistrict, cityMap } = this.data
+    const { activeCategory, activeFee, activeFamily, activeCity, activeTime, activeDistrict, cityMap, keyword } = this.data
     const today = this.getTodayStr()
     let result = this._allActivities
 
@@ -200,6 +220,12 @@ Page({
     }
     if (activeFamily === 'family') {
       result = result.filter(a => a._isFamily)
+    }
+    if (keyword) {
+      result = result.filter(a =>
+        (a.title && a.title.toLowerCase().indexOf(keyword) > -1) ||
+        (a.venue && a.venue.toLowerCase().indexOf(keyword) > -1)
+      )
     }
     result = result.filter(a => this.matchTime(a, activeTime, today))
 

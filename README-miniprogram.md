@@ -4,27 +4,33 @@
 
 ## 功能
 
-- 📅 活动日历浏览（支持分类/城市/免费/亲子筛选）
-- 📋 活动详情查看
+- 🏛️ 场馆指南浏览（按城市 / 类型筛选、关键词搜索，即使没有活动也值得一去）
+- 📅 活动日历浏览（支持分类 / 城市 / 时间 / 免费 / 收费 / 亲子筛选 + 关键词搜索）
+- 📋 活动 / 场馆详情查看
 - 🔔 订阅提醒（微信订阅消息，活动开始前一天 9:00 推送）
 - 👤 我的订阅管理
+- 🔄 列表页支持下拉刷新，随时拉取最新数据
 
 ## 技术架构
 
 ```
 miniprogram/        # 小程序前端
 ├── app.js          # 应用入口，初始化云开发
-├── app.json        # 全局配置
+├── app.json        # 全局配置（含 活动 / 场馆 / 我的 三个 tab）
 ├── pages/
-│   ├── index/      # 活动列表页（首页，实时拉取）
+│   ├── index/      # 活动列表页（首页，实时拉取 + 搜索 + 下拉刷新）
 │   ├── detail/     # 活动详情页（含订阅按钮）
+│   ├── venues/     # 场馆指南列表页（城市/类型筛选 + 搜索）
+│   ├── venueDetail/# 场馆详情页
 │   └── mine/       # 我的订阅页
 ├── data/
-│   └── activities.json  # 兜底数据（云函数不可用时使用）
-└── utils/
+│   ├── activities.json  # 兜底数据（云函数不可用时使用）
+│   └── venues.json      # 场馆兜底数据
+└── assets/         # tabBar 图标
 
 cloudfunctions/     # 云函数
-├── getActivities/  # 实时拉取 Web 版数据（无需数据库）
+├── getActivities/  # 实时拉取 Web 版活动数据（无需数据库）
+├── getVenues/      # 实时拉取 Web 版场馆数据（无需数据库）
 ├── subscribe/      # 订阅/取消订阅
 └── sendReminder/   # 定时发送提醒（每天8:00触发）
 ```
@@ -32,13 +38,15 @@ cloudfunctions/     # 云函数
 ## 数据自动同步（核心特性）
 
 小程序**不打包活动数据**，而是运行时通过云函数 `getActivities` 实时拉取
-[童行 Web 版](https://islon.github.io/goout) 的 `output/exhibitions.json`。
+[童行 Web 版](https://islon.github.io/goout) 的 `output/exhibitions.json`；场馆指南同理，
+通过云函数 `getVenues` 实时拉取 `output/venue_info.json`。
 
 > **你在 GitHub 上更新网页数据并部署后，小程序自动跟随，无需改小程序代码、无需重新上传审核。**
 
 - 列表页打开时调用云函数拉取最新数据，并缓存到本地 storage
 - 详情页 / 我的订阅页从同一份缓存读取，保证按索引精确对应
-- 云函数不可用时自动降级到本地 `activities.json`，不白屏
+- 云函数不可用时自动降级到本地 `activities.json` / `venues.json`，不白屏
+- 下拉刷新可随时强制重新拉取最新数据
 
 ## 使用前需要做的
 
@@ -66,7 +74,7 @@ cloudfunctions/     # 云函数
 - 在微信开发者工具中，右键每个云函数文件夹
 - 选择「上传并部署：云端安装依赖」
 - 为 `sendReminder` 配置定时触发器（已在 `config.json` 中配置）
-- `getActivities` 必须部署，否则列表走本地兜底数据（非实时）
+- `getActivities` 与 `getVenues` 必须部署，否则活动 / 场馆列表走本地兜底数据（非实时）
 
 ### 6. 创建 tabBar 图标
 - 在 `miniprogram/assets/` 目录下放置以下图标（81×81px PNG）：
@@ -97,8 +105,15 @@ wx.requestSubscribeMessage 弹出授权弹窗
 ## 数据来源
 
 活动数据**实时来自** [童行 Web 版](https://islon.github.io/goout)（GitHub Pages 自动部署），
-当前约 1187 条活动：深圳 801、北京 156、上海 111、广州 71、杭州 48。
-本地 `miniprogram/data/activities.json` 仅作云函数不可用时的兜底。
+当前约 1138 条活动，覆盖深圳、广州、上海、北京、杭州五城。
+本地 `miniprogram/data/activities.json` 仅作云函数不可用时的兜底（已与线上格式保持一致）。
+
+场馆数据**实时来自** Web 版的 `output/venue_info.json`，当前约 146 个场馆（以深圳为主，
+另含广州 / 上海 / 北京 / 杭州）。本地 `miniprogram/data/venues.json` 为兜底。
+
+> **关于「区县筛选」**：Web 版导出的 `exhibitions.json` 当前不含 `district` / `venue_type`
+> 字段，因此小程序在走实时数据时区县联动筛选会自动隐藏（代码保留，待数据源补齐后自动生效）。
+> 详情页的场馆类型、区县信息也会在字段存在时才展示。
 
 ## License
 
