@@ -31,8 +31,9 @@ Page({
   },
 
   loadData() {
-    const allVenues = app.globalData.venues || [];
-    const allExhibitions = app.globalData.exhibitions || [];
+    // 防御：远程数据异常(如被拦截返回HTML字符串)时 globalData.venues 可能不是数组，强制规整避免 .filter 崩潰白屏
+    const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
+    const allExhibitions = Array.isArray(app.globalData.exhibitions) ? app.globalData.exhibitions : [];
 
     const citySet = {};
     const typeSet = {};
@@ -65,7 +66,7 @@ Page({
   },
 
   applyFilters() {
-    const allVenues = app.globalData.venues || [];
+    const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
     const cityFilter = this.data.cityFilter;
     const typeFilter = this.data.typeFilter;
     const query = this.data.searchQuery.toLowerCase().trim();

@@ -309,6 +309,7 @@ function findVenue(venueName, venueMap) {
 }
 
 function buildVenueActivityCounts(venues, exhibitions) {
+  if (!Array.isArray(venues) || !Array.isArray(exhibitions)) return {};
   const venueMap = buildVenueMap(venues);
   const counts = {};
   for (let i = 0; i < exhibitions.length; i++) {

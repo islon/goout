@@ -3,7 +3,7 @@
 
   <!-- 搜索栏 -->
   <view class="search-bar">
-    <view class="search-icon">🔍</view>
+    <image class="search-icon" src="/assets/search-icon.png" mode="aspectFit" />
     <input class="search-input" type="text" placeholder="搜索场馆名称、地址或关键词" value="{{searchQuery}}" bindinput="onSearchInput" confirm-type="search" />
   </view>
 

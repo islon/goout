@@ -17,6 +17,14 @@ function getFreshUrl(base) {
   return base + '?t=' + Date.now();
 }
 
+// 把远程/缓存数据统一规整为数组：数组原样返回；对象(按值)转数组；其余返回 null
+// 防止 GitHub raw 被拦截返回 HTML 字符串时，直接赋值字符串导致页面 .filter 崩溃白屏
+function toArray(data) {
+  if (Array.isArray(data)) return data;
+  if (data && typeof data === 'object') return Object.values(data);
+  return null;
+}
+
 App({
   globalData: {
     cityFilter: 'shenzhen',
@@ -89,8 +97,8 @@ App({
     var loadedAny = false;
 
     // 活动数据
-    var cached = wx.getStorageSync(CACHE_KEY);
-    if (cached && Array.isArray(cached) && cached.length > 0) {
+    var cached = toArray(wx.getStorageSync(CACHE_KEY));
+    if (cached && cached.length > 0) {
       this.globalData.exhibitions = cached;
       loadedAny = true;
       var ct = wx.getStorageSync(CACHE_TIME_KEY);
@@ -100,8 +108,8 @@ App({
     }
 
     // 场馆数据
-    var vCached = wx.getStorageSync(VENUE_CACHE_KEY);
-    if (vCached && Array.isArray(vCached) && vCached.length > 0) {
+    var vCached = toArray(wx.getStorageSync(VENUE_CACHE_KEY));
+    if (vCached && vCached.length > 0) {
       this.globalData.venues = vCached;
       this.buildVenueMap();
       loadedAny = true;
@@ -124,16 +132,17 @@ App({
       method: 'GET',
       timeout: 15000,
       success: function(res) {
-        if (res.statusCode === 200 && res.data && res.data.length > 0) {
-          self.globalData.exhibitions = res.data;
+        var arr = toArray(res.data);
+        if (res.statusCode === 200 && arr && arr.length > 0) {
+          self.globalData.exhibitions = arr;
           self.globalData.isRemoteData = true;
           var now = Date.now();
           self.globalData.lastUpdateTime = new Date(now).toLocaleString();
           try {
-            wx.setStorageSync(CACHE_KEY, res.data);
+            wx.setStorageSync(CACHE_KEY, arr);
             wx.setStorageSync(CACHE_TIME_KEY, now);
           } catch (e) {}
-          console.log('[童行] 活动数据已更新至最新，共', res.data.length, '条');
+          console.log('[童行] 活动数据已更新至最新，共', arr.length, '条');
 
           // 通知页面刷新（如果页面已经显示旧数据）
           self.notifyDataUpdated();
@@ -152,14 +161,17 @@ App({
       method: 'GET',
       timeout: 15000,
       success: function(res) {
-        if (res.statusCode === 200 && res.data && res.data.length > 0) {
-          self.globalData.venues = res.data;
+        var arr = toArray(res.data);
+        if (res.statusCode === 200 && arr && arr.length > 0) {
+          self.globalData.venues = arr;
           self.buildVenueMap();
           try {
-            wx.setStorageSync(VENUE_CACHE_KEY, res.data);
+            wx.setStorageSync(VENUE_CACHE_KEY, arr);
             wx.setStorageSync(VENUE_CACHE_TIME_KEY, Date.now());
           } catch (e) {}
-          console.log('[童行] 场馆数据已更新至最新，共', res.data.length, '条');
+          console.log('[童行] 场馆数据已更新至最新，共', arr.length, '条');
+        } else {
+          console.warn('[童行] 远程场馆数据异常(非数组或为空)，保持本地数据', res.statusCode);
         }
       },
       fail: function() {}
@@ -176,16 +188,17 @@ App({
       method: 'GET',
       timeout: 15000,
       success: function(res) {
-        if (res.statusCode === 200 && res.data && res.data.length > 0) {
-          self.globalData.exhibitions = res.data;
+        var arr = toArray(res.data);
+        if (res.statusCode === 200 && arr && arr.length > 0) {
+          self.globalData.exhibitions = arr;
           self.globalData.isRemoteData = true;
           var now = Date.now();
           self.globalData.lastUpdateTime = new Date(now).toLocaleString();
           try {
-            wx.setStorageSync(CACHE_KEY, res.data);
+            wx.setStorageSync(CACHE_KEY, arr);
             wx.setStorageSync(CACHE_TIME_KEY, now);
           } catch (e) {}
-          console.log('[童行] 强制刷新完成，共', res.data.length, '条');
+          console.log('[童行] 强制刷新完成，共', arr.length, '条');
         }
         if (callback) callback(true);
       },
@@ -201,11 +214,12 @@ App({
       method: 'GET',
       timeout: 15000,
       success: function(res) {
-        if (res.statusCode === 200 && res.data && res.data.length > 0) {
-          self.globalData.venues = res.data;
+        var arr = toArray(res.data);
+        if (res.statusCode === 200 && arr && arr.length > 0) {
+          self.globalData.venues = arr;
           self.buildVenueMap();
           try {
-            wx.setStorageSync(VENUE_CACHE_KEY, res.data);
+            wx.setStorageSync(VENUE_CACHE_KEY, arr);
             wx.setStorageSync(VENUE_CACHE_TIME_KEY, Date.now());
           } catch (e) {}
         }
