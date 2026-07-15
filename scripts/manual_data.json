@@ -13506,5 +13506,47 @@
     "family_friendly": true,
     "source": "坝光红树林湿地公园",
     "city": "shenzhen"
+  },
+  {
+    "title": "国风儿童剧《少年诗词游之李白》",
+    "venue": "茅洲河体育艺术中心剧场",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "link": "https://m.sohu.com/a/1037850628_122892870/",
+    "description": "诗词大会式的国风儿童剧，带孩子走进诗仙李白的世界，寓教于乐。光明区茅洲河体育艺术中心剧场演出。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "荣艺文化/搜狐",
+    "city": "shenzhen"
+  },
+  {
+    "title": "北京人艺话剧《寻找春柳社》",
+    "venue": "光明文化艺术中心·演艺中心·音乐厅",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "北京人艺倾情演出，以戏中戏结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。光明文化艺术中心演出。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明文化艺术中心",
+    "city": "shenzhen"
+  },
+  {
+    "title": "罗湖一站式普惠托育集市",
+    "venue": "翠湖文体公园拾光草坪",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "link": "http://m.toutiao.com/group/7660412037217993243/",
+    "description": "备案托育机构现场驻点、儿童保健义诊、童话游园（九宫格扔沙包、套大鹅、跳房子、投壶）、舞台汇演。适合0-3岁宝宝家庭。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "罗湖发布",
+    "city": "shenzhen"
   }
 ]
