@@ -1855,8 +1855,40 @@
             'nansha_coastal': '南沙区',
         };
 
-        function getDistrict(source) {
-            return districtMapping[source] || '其他';
+        const districtKeywords = {
+            '南山区': ['南山', 'nanshan', '蛇口', '南头', '粤海', '华侨城湿地', '滨海艺术中心', '前海'],
+            '福田区': ['福田', 'futian', '莲花', '市民中心', '华强北', '深圳图书馆'],
+            '罗湖区': ['罗湖', 'luohu', '东门', '黄贝', '翠竹', '地王', '大剧院', '深圳戏院', '古生物'],
+            '宝安区': ['宝安', 'baoan', '西乡', '福永', '沙井', '松岗', '湾区之眼', '滨海文化公园'],
+            '龙岗区': ['龙岗', 'longgang', '坂田', '布吉', '龙城', '横岗', '客家', '鹤湖新居'],
+            '龙华区': ['龙华', 'longhua', '民治', '观澜', '大浪', '版画', '生态文明'],
+            '光明区': ['光明', 'guangming', '公明', '玉塘', '马田', '光明文化艺术中心', '深圳科学技术馆（光明'],
+            '坪山区': ['坪山', 'pingshan', '聚龙', '马峦', '燕子湖', '石井', '深圳自然博物馆'],
+            '盐田区': ['盐田', 'yantian', '沙头角', '中英街', '梅沙', '盐田科技馆'],
+            '大鹏新区': ['大鹏', 'dapeng', '大亚湾', '葵涌', '南澳', '西涌', '杨梅坑', '七娘山', '官湖', '坝光', '金沙湾', '玫瑰海岸', '东涌', '较场尾', '地质公园', '核能科技'],
+        };
+
+        function getDistrictFromText(text) {
+            if (!text) return null;
+            for (const [district, keywords] of Object.entries(districtKeywords)) {
+                for (const kw of keywords) {
+                    if (text.includes(kw)) {
+                        return district;
+                    }
+                }
+            }
+            return null;
+        }
+
+        function getDistrict(source, venue) {
+            if (districtMapping[source]) {
+                return districtMapping[source];
+            }
+            const fromSource = getDistrictFromText(source);
+            if (fromSource) return fromSource;
+            const fromVenue = getDistrictFromText(venue);
+            if (fromVenue) return fromVenue;
+            return '其他';
         }
 
         // source key 到场馆名的映射（用于筛选匹配）
@@ -2078,7 +2110,7 @@
             }
 
             if (currentDistrictFilter !== 'all') {
-                filtered = filtered.filter(e => getDistrict(e.source) === currentDistrictFilter);
+                filtered = filtered.filter(e => getDistrict(e.source, e.venue) === currentDistrictFilter);
             }
 
             if (currentSourceFilter !== 'all') {
