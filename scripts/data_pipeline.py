@@ -20,9 +20,13 @@ def _patched_request(self, method, url, **kwargs):
 requests.Session.request = _patched_request
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from config import OUTPUT_DIR, JSON_FILE, ICS_FILE
 from ics_generator import create_ics
 from rss_generator import generate_rss
+from venue_registry import get_district as registry_get_district
+from venue_registry import resolve_source_code, lookup_venue_by_name, get_venue_type
+from venue_registry import generate_venue_info_json
 
 WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.json')
 
@@ -241,7 +245,13 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     if not title or not start_date:
         return None
 
-    category = categorize_activity(title, description)
+    # 保留原始 category（如已指定），否则自动分类
+    raw_category = raw.get('category') or ''
+    if raw_category and raw_category in {'展览', '讲座阅读', '科普活动', '演出', '体育赛事', '亲子活动', '影视放映', '其他', '户外活动'}:
+        category = raw_category if raw_category != '户外活动' else '其他'
+    else:
+        category = categorize_activity(title, description)
+
     fee = standardize_fee(fee_raw, title, description)
 
     if not description or len(description) < 10:
@@ -255,62 +265,34 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     if fee not in ALLOWED_FEE_VALUES:
         fee = '免费'
 
-    venue_district = get_district_from_text(venue)
-    source_district = get_district_from_text(source)
-    
-    if source and venue_district and source_district and venue_district != source_district:
-        city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布']
-        if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
-            pass
-        else:
-            source_map = {
-                'nsqsng': '南山区青少年活动中心',
-                'nswtzx': '南山文体中心',
-                'nslib': '南山图书馆',
-                'nsmuseum': '南山博物馆',
-                'nswhg': '南山区文化馆',
-                'balib': '宝安图书馆',
-                'szlib': '深圳图书馆',
-                'gm_lib': '光明区图书馆',
-                'gm_kjg': '光明区科技馆',
-                'yt_lib': '盐田区图书馆',
-                'dp_geopark': '大鹏地质公园博物馆',
-                'lg_hakka': '龙岗客家民俗博物馆',
-                'lh_printmaking': '中国版画博物馆',
-                'lh_ecology': '龙华生态文明展览馆',
-                'nsaqjy': '南山安全教育体验馆',
-                'skhykpg': '蛇口海洋科普馆',
-                'sarc': '深爱人才馆',
-                'baoan_1990': '宝安1990文化馆',
-                'oct_wetland': '华侨城湿地',
-                'ps_nature': '深圳自然博物馆',
-                'dp_nuclear': '大亚湾核能科技馆',
-                'nssxf': '南山书房',
-                'szwty': '深圳湾体育中心',
-                'baoan_kjg': '宝安科技馆',
-                'baoan_ty': '宝安体育中心',
-                'sz_safety': '深圳市安全教育基地',
-                'yt_history': '中英街历史博物馆',
-                'zsjbwg': '招商局历史博物馆',
-                'ntgc': '南头古城博物馆群',
-                'lh_paleo': '深圳古生物博物馆',
-                'bayarea_eye': '湾区之眼',
-                'sz_children_lib': '深圳少年儿童图书馆',
-            }
-            if source in source_map:
-                source = source_map[source]
+    # === 从 venue_registry 注入 district 和 venue_type ===
+    # 尝试解析标准 source_code
+    resolved_code = resolve_source_code(source, venue)
+    if resolved_code:
+        source = resolved_code
+    # 查区县（优先 registry，兜底关键词）
+    district = registry_get_district(source, venue)
+    if not district or district == '深圳':
+        # 用 venue 文本兜底
+        venue_dist = get_district_from_text(venue)
+        if venue_dist and venue_dist != '深圳':
+            district = venue_dist
+        elif not district:
+            district = get_district_from_text(source) or ''
+    # 查场馆类型
+    venue_type = get_venue_type(source, venue)
 
     description = fix_description(title, description, venue, category, fee)
 
     result = {
         'title': title,
-        'name': title,
         'venue': venue,
         'city': city_val,
+        'district': district or '',
+        'venue_type': venue_type,
         'start_date': start_date,
         'end_date': end_date,
         'link': link,
-        'url': link,
         'description': description,
         'category': category,
         'fee': fee,
@@ -569,13 +551,12 @@ def main():
             f.write(city_ics)
         print(f"  [{city_code}] ICS -> {city_ics_path}")
 
-    # 复制场馆信息文件到 output 目录
-    venue_info_src = os.path.join(os.path.dirname(__file__), 'venue_info.json')
-    if os.path.exists(venue_info_src):
-        import shutil
-        venue_info_dst = os.path.join(OUTPUT_DIR, 'venue_info.json')
-        shutil.copy2(venue_info_src, venue_info_dst)
-        print(f"场馆信息已复制到 {venue_info_dst}")
+    # 从 venue_registry 生成 venue_info.json（唯一真相源）
+    venue_info_path = os.path.join(OUTPUT_DIR, 'venue_info.json')
+    generate_venue_info_json(venue_info_path)
+    # 同步到 scripts 目录
+    scripts_venue_info = os.path.join(os.path.dirname(__file__), 'venue_info.json')
+    generate_venue_info_json(scripts_venue_info)
 
     try:
         generate_rss()
