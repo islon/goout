@@ -2,7 +2,6 @@
 // 共 146 条（来源：islon/goout/output/venue_info.json）
 module.exports = [
   {
-    "id": "深圳图书馆",
     "name": "深圳图书馆",
     "source": "szlib",
     "city": "shenzhen",
@@ -17,10 +16,10 @@ module.exports = [
       "阅读推广",
       "讲座展览",
       "暑期缤纷季"
-    ]
+    ],
+    "id": "深圳图书馆"
   },
   {
-    "id": "深圳少年儿童图书馆",
     "name": "深圳少年儿童图书馆",
     "source": "sz_children_lib",
     "city": "shenzhen",
@@ -35,10 +34,10 @@ module.exports = [
       "儿童阅读",
       "绘本故事",
       "暑期活动"
-    ]
+    ],
+    "id": "深圳少年儿童图书馆"
   },
   {
-    "id": "深圳博物馆",
     "name": "深圳博物馆",
     "source": "szmuseum",
     "city": "shenzhen",
@@ -53,10 +52,10 @@ module.exports = [
       "深圳历史",
       "古代深圳",
       "民俗文化"
-    ]
+    ],
+    "id": "深圳博物馆"
   },
   {
-    "id": "深圳科学技术馆",
     "name": "深圳科学技术馆",
     "source": "szstm",
     "city": "shenzhen",
@@ -71,10 +70,10 @@ module.exports = [
       "科学实验",
       "互动体验",
       "科普教育"
-    ]
+    ],
+    "id": "深圳科学技术馆"
   },
   {
-    "id": "深圳滨海艺术中心",
     "name": "深圳滨海艺术中心",
     "source": "szbo",
     "city": "shenzhen",
@@ -89,10 +88,10 @@ module.exports = [
       "滨海演艺",
       "音乐剧",
       "交响乐"
-    ]
+    ],
+    "id": "深圳滨海艺术中心"
   },
   {
-    "id": "深圳音乐厅",
     "name": "深圳音乐厅",
     "source": "szconcert",
     "city": "shenzhen",
@@ -106,10 +105,10 @@ module.exports = [
     "highlights": [
       "古典音乐",
       "交响乐"
-    ]
+    ],
+    "id": "深圳音乐厅"
   },
   {
-    "id": "深圳市当代艺术与城市规划馆",
     "name": "深圳市当代艺术与城市规划馆",
     "source": "szmocap",
     "city": "shenzhen",
@@ -123,10 +122,10 @@ module.exports = [
     "highlights": [
       "当代艺术",
       "城市规划"
-    ]
+    ],
+    "id": "深圳市当代艺术与城市规划馆"
   },
   {
-    "id": "深圳市体育中心",
     "name": "深圳市体育中心",
     "source": "szsports",
     "city": "shenzhen",
@@ -140,10 +139,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动健身"
-    ]
+    ],
+    "id": "深圳市体育中心"
   },
   {
-    "id": "深圳市文化馆",
     "name": "深圳市文化馆",
     "source": "szmassart",
     "city": "shenzhen",
@@ -157,10 +156,10 @@ module.exports = [
     "highlights": [
       "公益文化",
       "艺术培训"
-    ]
+    ],
+    "id": "深圳市文化馆"
   },
   {
-    "id": "深圳自然博物馆",
     "name": "深圳自然博物馆",
     "source": "sznm",
     "city": "shenzhen",
@@ -174,10 +173,10 @@ module.exports = [
     "highlights": [
       "自然科学",
       "生态环境"
-    ]
+    ],
+    "id": "深圳自然博物馆"
   },
   {
-    "id": "南山图书馆",
     "name": "南山图书馆",
     "source": "nslib",
     "city": "shenzhen",
@@ -191,10 +190,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "南山图书馆"
   },
   {
-    "id": "南山博物馆",
     "name": "南山博物馆",
     "source": "nsmuseum",
     "city": "shenzhen",
@@ -208,10 +207,10 @@ module.exports = [
     "highlights": [
       "南山历史",
       "特色特展"
-    ]
+    ],
+    "id": "南山博物馆"
   },
   {
-    "id": "南山区文化馆",
     "name": "南山区文化馆",
     "source": "nswhg",
     "city": "shenzhen",
@@ -225,10 +224,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "南山区文化馆"
   },
   {
-    "id": "南山区青少年活动中心",
     "name": "南山区青少年活动中心",
     "source": "nsqsng",
     "city": "shenzhen",
@@ -242,10 +241,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "南山区青少年活动中心"
   },
   {
-    "id": "南山文体中心",
     "name": "南山文体中心",
     "source": "nswtzx",
     "city": "shenzhen",
@@ -259,10 +258,10 @@ module.exports = [
     "highlights": [
       "演出",
       "体育"
-    ]
+    ],
+    "id": "南山文体中心"
   },
   {
-    "id": "南山安全教育体验馆",
     "name": "南山安全教育体验馆",
     "source": "nsaqjy",
     "city": "shenzhen",
@@ -276,10 +275,10 @@ module.exports = [
     "highlights": [
       "安全教育",
       "互动体验"
-    ]
+    ],
+    "id": "南山安全教育体验馆"
   },
   {
-    "id": "蛇口海洋科普馆",
     "name": "蛇口海洋科普馆",
     "source": "skhykpg",
     "city": "shenzhen",
@@ -293,10 +292,10 @@ module.exports = [
     "highlights": [
       "海洋生物",
       "标本展览"
-    ]
+    ],
+    "id": "蛇口海洋科普馆"
   },
   {
-    "id": "深爱人才馆",
     "name": "深爱人才馆",
     "source": "sarc",
     "city": "shenzhen",
@@ -310,10 +309,10 @@ module.exports = [
     "highlights": [
       "人才政策",
       "科技创新"
-    ]
+    ],
+    "id": "深爱人才馆"
   },
   {
-    "id": "南头古城博物馆群",
     "name": "南头古城博物馆群",
     "source": "ntgc",
     "city": "shenzhen",
@@ -327,10 +326,10 @@ module.exports = [
     "highlights": [
       "古城历史",
       "考古发现"
-    ]
+    ],
+    "id": "南头古城博物馆群"
   },
   {
-    "id": "招商局历史博物馆",
     "name": "招商局历史博物馆",
     "source": "zsjbwg",
     "city": "shenzhen",
@@ -344,10 +343,10 @@ module.exports = [
     "highlights": [
       "招商局历史",
       "航运史"
-    ]
+    ],
+    "id": "招商局历史博物馆"
   },
   {
-    "id": "南山书房",
     "name": "南山书房",
     "source": "nssxf",
     "city": "shenzhen",
@@ -361,10 +360,10 @@ module.exports = [
     "highlights": [
       "社区阅读",
       "自助阅览"
-    ]
+    ],
+    "id": "南山书房"
   },
   {
-    "id": "华侨城湿地",
     "name": "华侨城湿地",
     "source": "oct_wetland",
     "city": "shenzhen",
@@ -379,10 +378,10 @@ module.exports = [
       "湿地生态",
       "观鸟",
       "自然教育"
-    ]
+    ],
+    "id": "华侨城湿地"
   },
   {
-    "id": "深圳湾体育中心",
     "name": "深圳湾体育中心",
     "source": "szwty",
     "city": "shenzhen",
@@ -396,10 +395,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动培训"
-    ]
+    ],
+    "id": "深圳湾体育中心"
   },
   {
-    "id": "欢乐港湾",
     "name": "欢乐港湾",
     "source": "hlgw",
     "city": "shenzhen",
@@ -413,10 +412,10 @@ module.exports = [
     "highlights": [
       "滨海休闲",
       "摩天轮"
-    ]
+    ],
+    "id": "欢乐港湾"
   },
   {
-    "id": "福田区图书馆",
     "name": "福田区图书馆",
     "source": "ftlib",
     "city": "shenzhen",
@@ -430,10 +429,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "福田区图书馆"
   },
   {
-    "id": "福田区文化馆",
     "name": "福田区文化馆",
     "source": "ftwhg",
     "city": "shenzhen",
@@ -447,10 +446,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "福田区文化馆"
   },
   {
-    "id": "福田美术馆",
     "name": "福田美术馆",
     "source": "ftart",
     "city": "shenzhen",
@@ -464,10 +463,10 @@ module.exports = [
     "highlights": [
       "当代艺术",
       "本土艺术"
-    ]
+    ],
+    "id": "福田美术馆"
   },
   {
-    "id": "深圳古生物博物馆",
     "name": "深圳古生物博物馆",
     "source": "lh_paleo",
     "city": "shenzhen",
@@ -482,10 +481,10 @@ module.exports = [
       "古生物化石",
       "恐龙",
       "生命演化"
-    ]
+    ],
+    "id": "深圳古生物博物馆"
   },
   {
-    "id": "罗湖区图书馆",
     "name": "罗湖区图书馆",
     "source": "lhlib",
     "city": "shenzhen",
@@ -499,10 +498,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "罗湖区图书馆"
   },
   {
-    "id": "罗湖区文化馆",
     "name": "罗湖区文化馆",
     "source": "lhwhg2",
     "city": "shenzhen",
@@ -516,10 +515,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "罗湖区文化馆"
   },
   {
-    "id": "深圳戏院",
     "name": "深圳戏院",
     "source": "lhtheatre",
     "city": "shenzhen",
@@ -534,10 +533,10 @@ module.exports = [
       "京剧",
       "儿童剧",
       "少儿演出季"
-    ]
+    ],
+    "id": "深圳戏院"
   },
   {
-    "id": "深圳大剧院",
     "name": "深圳大剧院",
     "source": "szdjy",
     "city": "shenzhen",
@@ -552,10 +551,10 @@ module.exports = [
       "交响乐",
       "歌剧",
       "芭蕾"
-    ]
+    ],
+    "id": "深圳大剧院"
   },
   {
-    "id": "宝安图书馆",
     "name": "宝安图书馆",
     "source": "balib",
     "city": "shenzhen",
@@ -569,10 +568,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "宝安图书馆"
   },
   {
-    "id": "宝安区博物馆",
     "name": "宝安区博物馆",
     "source": "bamuseum",
     "city": "shenzhen",
@@ -586,10 +585,10 @@ module.exports = [
     "highlights": [
       "宝安历史",
       "地方文化"
-    ]
+    ],
+    "id": "宝安区博物馆"
   },
   {
-    "id": "宝安1990文化馆",
     "name": "宝安1990文化馆",
     "source": "baoan_1990",
     "city": "shenzhen",
@@ -603,10 +602,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "展览"
-    ]
+    ],
+    "id": "宝安1990文化馆"
   },
   {
-    "id": "宝安科技馆",
     "name": "宝安科技馆",
     "source": "baoan_kjg",
     "city": "shenzhen",
@@ -620,10 +619,10 @@ module.exports = [
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "id": "宝安科技馆"
   },
   {
-    "id": "宝安体育中心",
     "name": "宝安体育中心",
     "source": "baoan_ty",
     "city": "shenzhen",
@@ -637,10 +636,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动培训"
-    ]
+    ],
+    "id": "宝安体育中心"
   },
   {
-    "id": "宝安区青少年宫",
     "name": "宝安区青少年宫",
     "source": "baoan_qsng",
     "city": "shenzhen",
@@ -654,10 +653,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "宝安区青少年宫"
   },
   {
-    "id": "宝安城市规划展览馆",
     "name": "宝安城市规划展览馆",
     "source": "baoan_guihua",
     "city": "shenzhen",
@@ -671,10 +670,10 @@ module.exports = [
     "highlights": [
       "城市规划",
       "建设成就"
-    ]
+    ],
+    "id": "宝安城市规划展览馆"
   },
   {
-    "id": "湾区之眼",
     "name": "湾区之眼",
     "source": "bayarea_eye",
     "city": "shenzhen",
@@ -688,10 +687,10 @@ module.exports = [
     "highlights": [
       "文化综合体",
       "阅读空间"
-    ]
+    ],
+    "id": "湾区之眼"
   },
   {
-    "id": "龙岗区图书馆",
     "name": "龙岗区图书馆",
     "source": "lglib",
     "city": "shenzhen",
@@ -705,10 +704,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "龙岗区图书馆"
   },
   {
-    "id": "龙岗区博物馆",
     "name": "龙岗区博物馆",
     "source": "lgmuseum",
     "city": "shenzhen",
@@ -722,10 +721,10 @@ module.exports = [
     "highlights": [
       "龙岗历史",
       "地方文化"
-    ]
+    ],
+    "id": "龙岗区博物馆"
   },
   {
-    "id": "龙岗区文化馆",
     "name": "龙岗区文化馆",
     "source": "lgwhg",
     "city": "shenzhen",
@@ -739,10 +738,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "龙岗区文化馆"
   },
   {
-    "id": "龙岗区青少年宫",
     "name": "龙岗区青少年宫",
     "source": "lgqsng",
     "city": "shenzhen",
@@ -756,10 +755,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "龙岗区青少年宫"
   },
   {
-    "id": "龙岗客家民俗博物馆",
     "name": "龙岗客家民俗博物馆",
     "source": "lg_hakka",
     "city": "shenzhen",
@@ -774,10 +773,10 @@ module.exports = [
       "客家文化",
       "鹤湖新居",
       "民俗文物"
-    ]
+    ],
+    "id": "龙岗客家民俗博物馆"
   },
   {
-    "id": "龙岗体育中心",
     "name": "龙岗体育中心",
     "source": "lgtyzx",
     "city": "shenzhen",
@@ -791,10 +790,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动培训"
-    ]
+    ],
+    "id": "龙岗体育中心"
   },
   {
-    "id": "深圳龙岗国际艺术中心",
     "name": "深圳龙岗国际艺术中心",
     "source": "lg_arts",
     "city": "shenzhen",
@@ -808,10 +807,10 @@ module.exports = [
     "highlights": [
       "国际演出",
       "艺术交流"
-    ]
+    ],
+    "id": "深圳龙岗国际艺术中心"
   },
   {
-    "id": "龙岗区科技馆",
     "name": "龙岗区科技馆",
     "source": "lgkjg",
     "city": "shenzhen",
@@ -825,10 +824,10 @@ module.exports = [
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "id": "龙岗区科技馆"
   },
   {
-    "id": "龙岗儿童公园",
     "name": "龙岗儿童公园",
     "source": "lgpark",
     "city": "shenzhen",
@@ -842,10 +841,10 @@ module.exports = [
     "highlights": [
       "亲子游乐",
       "无动力乐园"
-    ]
+    ],
+    "id": "龙岗儿童公园"
   },
   {
-    "id": "龙华区图书馆",
     "name": "龙华区图书馆",
     "source": "lhxqlib",
     "city": "shenzhen",
@@ -859,10 +858,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "龙华区图书馆"
   },
   {
-    "id": "龙华区青少年宫",
     "name": "龙华区青少年宫",
     "source": "lhqsng",
     "city": "shenzhen",
@@ -876,10 +875,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "龙华区青少年宫"
   },
   {
-    "id": "龙华区文化馆",
     "name": "龙华区文化馆",
     "source": "lhwhg",
     "city": "shenzhen",
@@ -893,10 +892,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "龙华区文化馆"
   },
   {
-    "id": "中国版画博物馆",
     "name": "中国版画博物馆",
     "source": "lh_printmaking",
     "city": "shenzhen",
@@ -911,10 +910,10 @@ module.exports = [
       "版画艺术",
       "国际馆藏",
       "观澜版画村"
-    ]
+    ],
+    "id": "中国版画博物馆"
   },
   {
-    "id": "龙华生态文明展览馆",
     "name": "龙华生态文明展览馆",
     "source": "lh_ecology",
     "city": "shenzhen",
@@ -928,10 +927,10 @@ module.exports = [
     "highlights": [
       "生态文明",
       "环保科技"
-    ]
+    ],
+    "id": "龙华生态文明展览馆"
   },
   {
-    "id": "龙华区科技馆",
     "name": "龙华区科技馆",
     "source": "lhkjg",
     "city": "shenzhen",
@@ -945,10 +944,10 @@ module.exports = [
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "id": "龙华区科技馆"
   },
   {
-    "id": "龙华白石龙纪念馆",
     "name": "龙华白石龙纪念馆",
     "source": "lhbljng",
     "city": "shenzhen",
@@ -962,10 +961,10 @@ module.exports = [
     "highlights": [
       "红色文化",
       "历史纪念"
-    ]
+    ],
+    "id": "龙华白石龙纪念馆"
   },
   {
-    "id": "光明区图书馆",
     "name": "光明区图书馆",
     "source": "gmlib",
     "city": "shenzhen",
@@ -979,10 +978,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "社区文化"
-    ]
+    ],
+    "id": "光明区图书馆"
   },
   {
-    "id": "光明区科技馆",
     "name": "光明区科技馆",
     "source": "gm_kjg",
     "city": "shenzhen",
@@ -996,10 +995,10 @@ module.exports = [
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "id": "光明区科技馆"
   },
   {
-    "id": "光明区文化馆",
     "name": "光明区文化馆",
     "source": "gmwhg",
     "city": "shenzhen",
@@ -1013,10 +1012,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "光明区文化馆"
   },
   {
-    "id": "光明文化艺术中心",
     "name": "光明文化艺术中心",
     "source": "gmarts",
     "city": "shenzhen",
@@ -1031,10 +1030,10 @@ module.exports = [
       "演出",
       "展览",
       "艺术"
-    ]
+    ],
+    "id": "光明文化艺术中心"
   },
   {
-    "id": "光明区青少年活动中心",
     "name": "光明区青少年活动中心",
     "source": "gmqsng",
     "city": "shenzhen",
@@ -1048,10 +1047,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "光明区青少年活动中心"
   },
   {
-    "id": "光明区群众体育中心",
     "name": "光明区群众体育中心",
     "source": "gmtyzx",
     "city": "shenzhen",
@@ -1065,10 +1064,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动培训"
-    ]
+    ],
+    "id": "光明区群众体育中心"
   },
   {
-    "id": "光明虹桥公园",
     "name": "光明虹桥公园",
     "source": "gmhbgy",
     "city": "shenzhen",
@@ -1082,10 +1081,10 @@ module.exports = [
     "highlights": [
       "虹桥步道",
       "休闲健身"
-    ]
+    ],
+    "id": "光明虹桥公园"
   },
   {
-    "id": "玉塘文体中心",
     "name": "玉塘文体中心",
     "source": "gmtysq",
     "city": "shenzhen",
@@ -1099,10 +1098,10 @@ module.exports = [
     "highlights": [
       "社区文化",
       "体育"
-    ]
+    ],
+    "id": "玉塘文体中心"
   },
   {
-    "id": "坪山区图书馆",
     "name": "坪山区图书馆",
     "source": "pslib",
     "city": "shenzhen",
@@ -1117,10 +1116,10 @@ module.exports = [
       "阅读推广",
       "暑期活动",
       "亲子活动"
-    ]
+    ],
+    "id": "坪山区图书馆"
   },
   {
-    "id": "坪山美术馆",
     "name": "坪山美术馆",
     "source": "psart",
     "city": "shenzhen",
@@ -1134,10 +1133,10 @@ module.exports = [
     "highlights": [
       "当代艺术",
       "湾区艺术"
-    ]
+    ],
+    "id": "坪山美术馆"
   },
   {
-    "id": "坪山大剧院",
     "name": "坪山大剧院",
     "source": "psthtr",
     "city": "shenzhen",
@@ -1152,10 +1151,10 @@ module.exports = [
       "舞剧",
       "音乐剧",
       "儿童剧"
-    ]
+    ],
+    "id": "坪山大剧院"
   },
   {
-    "id": "坪山区科技馆",
     "name": "坪山区科技馆",
     "source": "pskjg",
     "city": "shenzhen",
@@ -1169,10 +1168,10 @@ module.exports = [
     "highlights": [
       "科普教育",
       "互动体验"
-    ]
+    ],
+    "id": "坪山区科技馆"
   },
   {
-    "id": "坪山体育中心",
     "name": "坪山体育中心",
     "source": "pstyzx",
     "city": "shenzhen",
@@ -1186,10 +1185,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动培训"
-    ]
+    ],
+    "id": "坪山体育中心"
   },
   {
-    "id": "坪山东江纵队纪念馆",
     "name": "坪山东江纵队纪念馆",
     "source": "psdjng",
     "city": "shenzhen",
@@ -1203,10 +1202,10 @@ module.exports = [
     "highlights": [
       "红色文化",
       "抗战历史"
-    ]
+    ],
+    "id": "坪山东江纵队纪念馆"
   },
   {
-    "id": "坪山中心公园",
     "name": "坪山中心公园",
     "source": "pszxgy",
     "city": "shenzhen",
@@ -1221,10 +1220,10 @@ module.exports = [
       "环湖步道",
       "无动力乐园",
       "亲子"
-    ]
+    ],
+    "id": "坪山中心公园"
   },
   {
-    "id": "马峦山郊野公园",
     "name": "马峦山郊野公园",
     "source": "mlsgy",
     "city": "shenzhen",
@@ -1239,10 +1238,10 @@ module.exports = [
       "徒步",
       "瀑布",
       "客家村落"
-    ]
+    ],
+    "id": "马峦山郊野公园"
   },
   {
-    "id": "聚龙山生态公园",
     "name": "聚龙山生态公园",
     "source": "jlsgy",
     "city": "shenzhen",
@@ -1257,10 +1256,10 @@ module.exports = [
       "自然教育",
       "植物识别",
       "昆虫观察"
-    ]
+    ],
+    "id": "聚龙山生态公园"
   },
   {
-    "id": "燕子湖国际会展中心",
     "name": "燕子湖国际会展中心",
     "source": "yhzgz",
     "city": "shenzhen",
@@ -1274,10 +1273,10 @@ module.exports = [
     "highlights": [
       "会展",
       "博览"
-    ]
+    ],
+    "id": "燕子湖国际会展中心"
   },
   {
-    "id": "盐田区图书馆",
     "name": "盐田区图书馆",
     "source": "ytlib",
     "city": "shenzhen",
@@ -1291,10 +1290,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "海洋主题"
-    ]
+    ],
+    "id": "盐田区图书馆"
   },
   {
-    "id": "盐田区文化馆",
     "name": "盐田区文化馆",
     "source": "ytwhg",
     "city": "shenzhen",
@@ -1308,10 +1307,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "盐田区文化馆"
   },
   {
-    "id": "中英街历史博物馆",
     "name": "中英街历史博物馆",
     "source": "yt_history",
     "city": "shenzhen",
@@ -1325,10 +1324,10 @@ module.exports = [
     "highlights": [
       "中英街历史",
       "深港文化"
-    ]
+    ],
+    "id": "中英街历史博物馆"
   },
   {
-    "id": "盐田科技馆",
     "name": "盐田科技馆",
     "source": "ytkjg",
     "city": "shenzhen",
@@ -1342,10 +1341,10 @@ module.exports = [
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "id": "盐田科技馆"
   },
   {
-    "id": "盐田体育中心",
     "name": "盐田体育中心",
     "source": "yttyzx",
     "city": "shenzhen",
@@ -1359,10 +1358,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "运动培训"
-    ]
+    ],
+    "id": "盐田体育中心"
   },
   {
-    "id": "盐田中央公园",
     "name": "盐田中央公园",
     "source": "ytzgy",
     "city": "shenzhen",
@@ -1375,10 +1374,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "休闲散步"
-    ]
+    ],
+    "id": "盐田中央公园"
   },
   {
-    "id": "大鹏地质公园博物馆",
     "name": "大鹏地质公园博物馆",
     "source": "dpgeopark",
     "city": "shenzhen",
@@ -1393,10 +1392,10 @@ module.exports = [
       "地质科普",
       "古生物化石",
       "火山岩"
-    ]
+    ],
+    "id": "大鹏地质公园博物馆"
   },
   {
-    "id": "大亚湾核能科技馆",
     "name": "大亚湾核能科技馆",
     "source": "dp_nuclear",
     "city": "shenzhen",
@@ -1411,10 +1410,10 @@ module.exports = [
       "核能科普",
       "清洁能源",
       "核安全"
-    ]
+    ],
+    "id": "大亚湾核能科技馆"
   },
   {
-    "id": "大鹏新区图书馆",
     "name": "大鹏新区图书馆",
     "source": "dplib",
     "city": "shenzhen",
@@ -1428,10 +1427,10 @@ module.exports = [
     "highlights": [
       "阅读推广",
       "海洋主题"
-    ]
+    ],
+    "id": "大鹏新区图书馆"
   },
   {
-    "id": "大鹏古城博物馆",
     "name": "大鹏古城博物馆",
     "source": "dpgcbwg",
     "city": "shenzhen",
@@ -1445,10 +1444,10 @@ module.exports = [
     "highlights": [
       "古城历史",
       "海防文化"
-    ]
+    ],
+    "id": "大鹏古城博物馆"
   },
   {
-    "id": "大鹏新区文化馆",
     "name": "大鹏新区文化馆",
     "source": "dpwhg",
     "city": "shenzhen",
@@ -1462,10 +1461,10 @@ module.exports = [
     "highlights": [
       "公益培训",
       "群众文化"
-    ]
+    ],
+    "id": "大鹏新区文化馆"
   },
   {
-    "id": "深圳西涌天文台",
     "name": "深圳西涌天文台",
     "source": "xcart",
     "city": "shenzhen",
@@ -1480,10 +1479,10 @@ module.exports = [
       "天文观测",
       "科普教育",
       "观星"
-    ]
+    ],
+    "id": "深圳西涌天文台"
   },
   {
-    "id": "东涌红树林湿地公园",
     "name": "东涌红树林湿地公园",
     "source": "dchss",
     "city": "shenzhen",
@@ -1498,10 +1497,10 @@ module.exports = [
       "红树林",
       "观鸟",
       "自然教育"
-    ]
+    ],
+    "id": "东涌红树林湿地公园"
   },
   {
-    "id": "坝光红树林湿地公园",
     "name": "坝光红树林湿地公园",
     "source": "bghsl",
     "city": "shenzhen",
@@ -1516,10 +1515,10 @@ module.exports = [
       "红树林",
       "观鸟",
       "生态保护"
-    ]
+    ],
+    "id": "坝光红树林湿地公园"
   },
   {
-    "id": "玫瑰海岸",
     "name": "玫瑰海岸",
     "source": "mgha",
     "city": "shenzhen",
@@ -1534,10 +1533,10 @@ module.exports = [
       "沙滩",
       "水上运动",
       "滨海度假"
-    ]
+    ],
+    "id": "玫瑰海岸"
   },
   {
-    "id": "杨梅坑",
     "name": "杨梅坑",
     "source": "ymk",
     "city": "shenzhen",
@@ -1552,10 +1551,10 @@ module.exports = [
       "滨海徒步",
       "骑行",
       "海景"
-    ]
+    ],
+    "id": "杨梅坑"
   },
   {
-    "id": "七娘山",
     "name": "七娘山",
     "source": "qns",
     "city": "shenzhen",
@@ -1570,10 +1569,10 @@ module.exports = [
       "登山",
       "地质科普",
       "海景"
-    ]
+    ],
+    "id": "七娘山"
   },
   {
-    "id": "官湖村艺象艺术区",
     "name": "官湖村艺象艺术区",
     "source": "ghysq",
     "city": "shenzhen",
@@ -1588,10 +1587,10 @@ module.exports = [
       "艺术园区",
       "海边画廊",
       "亲子工坊"
-    ]
+    ],
+    "id": "官湖村艺象艺术区"
   },
   {
-    "id": "金沙湾国际乐园",
     "name": "金沙湾国际乐园",
     "source": "jsgjly",
     "city": "shenzhen",
@@ -1606,10 +1605,10 @@ module.exports = [
       "水世界",
       "冰雪世界",
       "亲子乐园"
-    ]
+    ],
+    "id": "金沙湾国际乐园"
   },
   {
-    "id": "大鹏新区科学馆",
     "name": "大鹏新区科学馆",
     "source": "dpkjg",
     "city": "shenzhen",
@@ -1624,10 +1623,10 @@ module.exports = [
       "海洋科学",
       "天文观测",
       "科普"
-    ]
+    ],
+    "id": "大鹏新区科学馆"
   },
   {
-    "id": "大鹏较场尾沙滩",
     "name": "大鹏较场尾沙滩",
     "source": "jcw",
     "city": "shenzhen",
@@ -1642,10 +1641,10 @@ module.exports = [
       "沙滩",
       "民宿",
       "滨海度假"
-    ]
+    ],
+    "id": "大鹏较场尾沙滩"
   },
   {
-    "id": "葵涌生态公园",
     "name": "葵涌生态公园",
     "source": "kcsigy",
     "city": "shenzhen",
@@ -1659,10 +1658,10 @@ module.exports = [
     "highlights": [
       "生态",
       "休闲"
-    ]
+    ],
+    "id": "葵涌生态公园"
   },
   {
-    "id": "深圳市安全教育基地",
     "name": "深圳市安全教育基地",
     "source": "sz_safety",
     "city": "shenzhen",
@@ -1676,10 +1675,10 @@ module.exports = [
     "highlights": [
       "安全教育",
       "互动体验"
-    ]
+    ],
+    "id": "深圳市安全教育基地"
   },
   {
-    "id": "OPOWER文化艺术中心",
     "name": "OPOWER文化艺术中心",
     "source": "opower",
     "city": "shenzhen",
@@ -1693,10 +1692,10 @@ module.exports = [
     "highlights": [
       "文艺市集",
       "创意展览"
-    ]
+    ],
+    "id": "OPOWER文化艺术中心"
   },
   {
-    "id": "坪山区青少年宫",
     "name": "坪山区青少年宫",
     "source": "psqsng",
     "city": "shenzhen",
@@ -1710,10 +1709,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "坪山区青少年宫"
   },
   {
-    "id": "广东省博物馆",
     "name": "广东省博物馆",
     "source": "gdmuseum",
     "city": "guangzhou",
@@ -1727,10 +1726,10 @@ module.exports = [
     "highlights": [
       "广东历史",
       "自然资源"
-    ]
+    ],
+    "id": "广东省博物馆"
   },
   {
-    "id": "广州博物馆",
     "name": "广州博物馆",
     "source": "gzmuseum",
     "city": "guangzhou",
@@ -1743,10 +1742,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "广州历史"
-    ]
+    ],
+    "id": "广州博物馆"
   },
   {
-    "id": "广州图书馆",
     "name": "广州图书馆",
     "source": "gzlib",
     "city": "guangzhou",
@@ -1759,10 +1758,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "阅读推广"
-    ]
+    ],
+    "id": "广州图书馆"
   },
   {
-    "id": "上海博物馆",
     "name": "上海博物馆",
     "source": "shanghaimuseum",
     "city": "shanghai",
@@ -1775,10 +1774,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "中国古代艺术"
-    ]
+    ],
+    "id": "上海博物馆"
   },
   {
-    "id": "上海科技馆",
     "name": "上海科技馆",
     "source": "shstm",
     "city": "shanghai",
@@ -1792,10 +1791,10 @@ module.exports = [
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "id": "上海科技馆"
   },
   {
-    "id": "中国国家博物馆",
     "name": "中国国家博物馆",
     "source": "chnmuseum",
     "city": "beijing",
@@ -1809,10 +1808,10 @@ module.exports = [
     "highlights": [
       "国家历史",
       "古代文物"
-    ]
+    ],
+    "id": "中国国家博物馆"
   },
   {
-    "id": "故宫博物院",
     "name": "故宫博物院",
     "source": "gugong",
     "city": "beijing",
@@ -1826,10 +1825,10 @@ module.exports = [
     "highlights": [
       "明清宫廷",
       "古代文物"
-    ]
+    ],
+    "id": "故宫博物院"
   },
   {
-    "id": "何香凝美术馆",
     "name": "何香凝美术馆",
     "source": "hxngallery",
     "city": "shenzhen",
@@ -1843,10 +1842,10 @@ module.exports = [
     "highlights": [
       "何香凝书画",
       "当代艺术"
-    ]
+    ],
+    "id": "何香凝美术馆"
   },
   {
-    "id": "关山月美术馆",
     "name": "关山月美术馆",
     "source": "gsyart",
     "city": "shenzhen",
@@ -1860,10 +1859,10 @@ module.exports = [
     "highlights": [
       "关山月画作",
       "当代美术"
-    ]
+    ],
+    "id": "关山月美术馆"
   },
   {
-    "id": "深圳美术馆",
     "name": "深圳美术馆",
     "source": "szartm",
     "city": "shenzhen",
@@ -1877,10 +1876,10 @@ module.exports = [
     "highlights": [
       "当代艺术",
       "本土艺术"
-    ]
+    ],
+    "id": "深圳美术馆"
   },
   {
-    "id": "深圳保利剧院",
     "name": "深圳保利剧院",
     "source": "polytheatre",
     "city": "shenzhen",
@@ -1894,10 +1893,10 @@ module.exports = [
     "highlights": [
       "音乐会",
       "音乐剧"
-    ]
+    ],
+    "id": "深圳保利剧院"
   },
   {
-    "id": "深圳会展中心",
     "name": "深圳会展中心",
     "source": "szcec",
     "city": "shenzhen",
@@ -1911,10 +1910,10 @@ module.exports = [
     "highlights": [
       "展览",
       "博览"
-    ]
+    ],
+    "id": "深圳会展中心"
   },
   {
-    "id": "深圳国际会展中心",
     "name": "深圳国际会展中心",
     "source": "shenzhen_world",
     "city": "shenzhen",
@@ -1928,10 +1927,10 @@ module.exports = [
     "highlights": [
       "国际展览",
       "博览"
-    ]
+    ],
+    "id": "深圳国际会展中心"
   },
   {
-    "id": "锦绣中华民俗村",
     "name": "锦绣中华民俗村",
     "source": "theme_park",
     "city": "shenzhen",
@@ -1946,10 +1945,10 @@ module.exports = [
       "微缩景观",
       "民俗文化",
       "泼水节"
-    ]
+    ],
+    "id": "锦绣中华民俗村"
   },
   {
-    "id": "深圳市少年宫",
     "name": "深圳市少年宫",
     "source": "szcp",
     "city": "shenzhen",
@@ -1963,10 +1962,10 @@ module.exports = [
     "highlights": [
       "科技展馆",
       "青少年培训"
-    ]
+    ],
+    "id": "深圳市少年宫"
   },
   {
-    "id": "深圳市青少年活动中心",
     "name": "深圳市青少年活动中心",
     "source": "szaac",
     "city": "shenzhen",
@@ -1980,10 +1979,10 @@ module.exports = [
     "highlights": [
       "青少年培训",
       "兴趣课程"
-    ]
+    ],
+    "id": "深圳市青少年活动中心"
   },
   {
-    "id": "深圳书城",
     "name": "深圳书城",
     "source": "szbook",
     "city": "shenzhen",
@@ -1997,10 +1996,10 @@ module.exports = [
     "highlights": [
       "图书",
       "文化活动"
-    ]
+    ],
+    "id": "深圳书城"
   },
   {
-    "id": "深圳湾公园",
     "name": "深圳湾公园",
     "source": "szhbgy",
     "city": "shenzhen",
@@ -2014,10 +2013,10 @@ module.exports = [
     "highlights": [
       "滨海休闲",
       "骑行"
-    ]
+    ],
+    "id": "深圳湾公园"
   },
   {
-    "id": "海上世界文化艺术中心",
     "name": "海上世界文化艺术中心",
     "source": "hssjwh",
     "city": "shenzhen",
@@ -2031,10 +2030,10 @@ module.exports = [
     "highlights": [
       "当代艺术",
       "滨海文化"
-    ]
+    ],
+    "id": "海上世界文化艺术中心"
   },
   {
-    "id": "深圳中医药博物馆",
     "name": "深圳中医药博物馆",
     "source": "szzybwg",
     "city": "shenzhen",
@@ -2048,10 +2047,10 @@ module.exports = [
     "highlights": [
       "中医药文化",
       "健康科普"
-    ]
+    ],
+    "id": "深圳中医药博物馆"
   },
   {
-    "id": "深圳珠宝博物馆",
     "name": "深圳珠宝博物馆",
     "source": "szjewg",
     "city": "shenzhen",
@@ -2065,10 +2064,10 @@ module.exports = [
     "highlights": [
       "珠宝",
       "工艺"
-    ]
+    ],
+    "id": "深圳珠宝博物馆"
   },
   {
-    "id": "深圳欢乐谷",
     "name": "深圳欢乐谷",
     "source": "hlgj",
     "city": "shenzhen",
@@ -2082,10 +2081,10 @@ module.exports = [
     "highlights": [
       "主题游乐",
       "刺激项目"
-    ]
+    ],
+    "id": "深圳欢乐谷"
   },
   {
-    "id": "深圳欢乐海岸",
     "name": "深圳欢乐海岸",
     "source": "hoha",
     "city": "shenzhen",
@@ -2099,10 +2098,10 @@ module.exports = [
     "highlights": [
       "滨海休闲",
       "商业文化"
-    ]
+    ],
+    "id": "深圳欢乐海岸"
   },
   {
-    "id": "深圳世界之窗",
     "name": "深圳世界之窗",
     "source": "szworld",
     "city": "shenzhen",
@@ -2116,10 +2115,10 @@ module.exports = [
     "highlights": [
       "微缩景观",
       "世界文化"
-    ]
+    ],
+    "id": "深圳世界之窗"
   },
   {
-    "id": "洪湖公园",
     "name": "洪湖公园",
     "source": "hhgy",
     "city": "shenzhen",
@@ -2133,10 +2132,10 @@ module.exports = [
     "highlights": [
       "荷花",
       "观鸟"
-    ]
+    ],
+    "id": "洪湖公园"
   },
   {
-    "id": "大沙河生态长廊",
     "name": "大沙河生态长廊",
     "source": "dshslc",
     "city": "shenzhen",
@@ -2150,10 +2149,10 @@ module.exports = [
     "highlights": [
       "生态绿道",
       "骑行"
-    ]
+    ],
+    "id": "大沙河生态长廊"
   },
   {
-    "id": "淘金山绿道",
     "name": "淘金山绿道",
     "source": "tjsgd",
     "city": "shenzhen",
@@ -2167,10 +2166,10 @@ module.exports = [
     "highlights": [
       "徒步",
       "山林"
-    ]
+    ],
+    "id": "淘金山绿道"
   },
   {
-    "id": "西湾红树林公园",
     "name": "西湾红树林公园",
     "source": "xwhsl",
     "city": "shenzhen",
@@ -2184,10 +2183,10 @@ module.exports = [
     "highlights": [
       "红树林",
       "观鸟"
-    ]
+    ],
+    "id": "西湾红树林公园"
   },
   {
-    "id": "茅洲河碧道",
     "name": "茅洲河碧道",
     "source": "mzohbd",
     "city": "shenzhen",
@@ -2201,10 +2200,10 @@ module.exports = [
     "highlights": [
       "碧道",
       "生态"
-    ]
+    ],
+    "id": "茅洲河碧道"
   },
   {
-    "id": "石岩湖湿地公园",
     "name": "石岩湖湿地公园",
     "source": "sysgy",
     "city": "shenzhen",
@@ -2218,10 +2217,10 @@ module.exports = [
     "highlights": [
       "湿地",
       "观鸟"
-    ]
+    ],
+    "id": "石岩湖湿地公园"
   },
   {
-    "id": "石岩文化艺术中心",
     "name": "石岩文化艺术中心",
     "source": "sywhzx",
     "city": "shenzhen",
@@ -2234,10 +2233,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "石岩文化艺术中心"
   },
   {
-    "id": "红花山公园",
     "name": "红花山公园",
     "source": "hhsgy",
     "city": "shenzhen",
@@ -2251,10 +2250,10 @@ module.exports = [
     "highlights": [
       "休闲",
       "登高"
-    ]
+    ],
+    "id": "红花山公园"
   },
   {
-    "id": "深圳大运中心",
     "name": "深圳大运中心",
     "source": "dyzx",
     "city": "shenzhen",
@@ -2268,10 +2267,10 @@ module.exports = [
     "highlights": [
       "体育赛事",
       "大型活动"
-    ]
+    ],
+    "id": "深圳大运中心"
   },
   {
-    "id": "大运中心公园",
     "name": "大运中心公园",
     "source": "dzxgy",
     "city": "shenzhen",
@@ -2285,10 +2284,10 @@ module.exports = [
     "highlights": [
       "休闲",
       "运动"
-    ]
+    ],
+    "id": "大运中心公园"
   },
   {
-    "id": "安托山公共文化中心",
     "name": "安托山公共文化中心",
     "source": "atszx",
     "city": "shenzhen",
@@ -2301,10 +2300,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "安托山公共文化中心"
   },
   {
-    "id": "北站中心公园",
     "name": "北站中心公园",
     "source": "bzgx",
     "city": "shenzhen",
@@ -2318,10 +2317,10 @@ module.exports = [
     "highlights": [
       "休闲",
       "城市公园"
-    ]
+    ],
+    "id": "北站中心公园"
   },
   {
-    "id": "深圳科学公园（南翼）",
     "name": "深圳科学公园（南翼）",
     "source": "kxgny",
     "city": "shenzhen",
@@ -2335,10 +2334,10 @@ module.exports = [
     "highlights": [
       "科学",
       "休闲"
-    ]
+    ],
+    "id": "深圳科学公园（南翼）"
   },
   {
-    "id": "人才公园",
     "name": "人才公园",
     "source": "rcgy",
     "city": "shenzhen",
@@ -2352,10 +2351,10 @@ module.exports = [
     "highlights": [
       "人才主题",
       "滨海休闲"
-    ]
+    ],
+    "id": "人才公园"
   },
   {
-    "id": "吉华街道文化站",
     "name": "吉华街道文化站",
     "source": "jhwtz",
     "city": "shenzhen",
@@ -2368,10 +2367,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "吉华街道文化站"
   },
   {
-    "id": "南湾街道文化站",
     "name": "南湾街道文化站",
     "source": "nwwtz",
     "city": "shenzhen",
@@ -2384,10 +2383,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "南湾街道文化站"
   },
   {
-    "id": "坪地街道文化站",
     "name": "坪地街道文化站",
     "source": "pdwtz",
     "city": "shenzhen",
@@ -2400,10 +2399,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "坪地街道文化站"
   },
   {
-    "id": "园岭街道综合性文化服务中心",
     "name": "园岭街道综合性文化服务中心",
     "source": "ylwh",
     "city": "shenzhen",
@@ -2416,10 +2415,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "园岭街道综合性文化服务中心"
   },
   {
-    "id": "桃源街道综合性文化服务中心",
     "name": "桃源街道综合性文化服务中心",
     "source": "tywh",
     "city": "shenzhen",
@@ -2432,10 +2431,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "桃源街道综合性文化服务中心"
   },
   {
-    "id": "凤凰街道综合性文化服务中心",
     "name": "凤凰街道综合性文化服务中心",
     "source": "fhwh",
     "city": "shenzhen",
@@ -2448,10 +2447,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "凤凰街道综合性文化服务中心"
   },
   {
-    "id": "江岭社区公共文化服务中心",
     "name": "江岭社区公共文化服务中心",
     "source": "jlwh",
     "city": "shenzhen",
@@ -2464,10 +2463,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "江岭社区公共文化服务中心"
   },
   {
-    "id": "迳口社区综合性文化服务中心",
     "name": "迳口社区综合性文化服务中心",
     "source": "jkwh",
     "city": "shenzhen",
@@ -2480,10 +2479,10 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "社区文化"
-    ]
+    ],
+    "id": "迳口社区综合性文化服务中心"
   },
   {
-    "id": "浙江省博物馆",
     "name": "浙江省博物馆",
     "source": "zjam",
     "city": "hangzhou",
@@ -2496,6 +2495,7 @@ module.exports = [
     "official_url": "",
     "highlights": [
       "浙江历史"
-    ]
+    ],
+    "id": "浙江省博物馆"
   }
 ];

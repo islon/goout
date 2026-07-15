@@ -23,12 +23,15 @@ jobs:
       - name: Run scraper
         run: python scripts/main.py
 
+      - name: Sync mini-program fallback data
+        run: python scripts/sync_miniprogram_data.py
+
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
-          git add output/
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update exhibition data"
+          git add output/ miniprogram/data/exhibitions.js miniprogram/data/venues.js
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update exhibition data & sync miniprogram"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
