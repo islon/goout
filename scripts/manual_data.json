@@ -4981,7 +4981,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "gdmuseum",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "虫友：寻访甲虫世界",
@@ -4995,7 +4996,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "gdmuseum",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "互利天下：广东外贸一千年",
@@ -5009,7 +5011,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gdmuseum",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "由来是广州——广州建城2240年暨得名1800年文物精品展",
@@ -5023,7 +5026,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzam",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "一念敦煌——石窟艺术大展",
@@ -5037,7 +5041,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzam",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "青州微笑——中国古青州佛造像艺术展",
@@ -5051,7 +5056,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzam",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "深度自然——2026广东美术馆儿童公共艺术季",
@@ -5065,7 +5071,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "gdartmuseum",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "海丝门户——文物里的清代广州",
@@ -5079,7 +5086,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzmuseum",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "第三期广州之宝特展——羊城之夏",
@@ -5093,7 +5101,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzmuseum",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
@@ -5107,7 +5116,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "nanyuewang",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
@@ -5121,7 +5131,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzdjy",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
@@ -5135,7 +5146,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "gzdjy",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "陕西人艺茅奖系列话剧《主角》",
@@ -5149,7 +5161,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzdjy",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "杨丽萍作品舞蹈剧场2026版《十面埋伏》",
@@ -5163,7 +5176,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gzdjy",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "余隆演绎拉赫玛尼诺夫第二交响曲",
@@ -5177,7 +5191,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "xinghai",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "理查德·克莱德曼钢琴音乐会《爱永恒》",
@@ -5191,7 +5206,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "zsauditorium",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -5205,7 +5221,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "shanghaimuseum",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -5219,7 +5236,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shanghaimuseum",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -5233,7 +5251,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chinaartmuseum",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "国采——故宫藏清代帝后服饰展",
@@ -5247,7 +5266,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "expomuseum",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "天地星语——中国诗文里的天文",
@@ -5261,7 +5281,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "shanghai-astronomy",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -5275,7 +5296,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shhistorymuseum",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "音乐剧《基督山伯爵》中文版",
@@ -5289,7 +5311,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shcstheatre",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "龙马社原创话剧《断金》",
@@ -5303,7 +5326,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shcstheatre",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "音乐剧《粉丝来信》中文版",
@@ -5317,7 +5341,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shcstheatre",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
@@ -5331,7 +5356,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shgtheatre",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "话剧《无墙》",
@@ -5345,7 +5371,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "shgtheatre",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "2026上海夏季音乐节（MISA）",
@@ -5359,7 +5386,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "misa",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -5373,7 +5401,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "haichang",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园开园一周年暑期活动",
@@ -5387,7 +5416,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "legoland",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "金山区"
   },
   {
     "title": "双星耀世——三星堆—金沙遗址古蜀文明展",
@@ -5401,7 +5431,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "叩问永恒——庞贝的探索与发掘",
@@ -5415,7 +5446,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "巴西魂——波尔蒂纳里艺术展",
@@ -5429,7 +5461,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "行·迹——卡塔尔游牧生活与文化展",
@@ -5443,7 +5476,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "看·见——中国国家博物馆藏海外中国图像展",
@@ -5457,7 +5491,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "李静训和她的时代",
@@ -5471,7 +5506,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "心游万仞——蒲松龄与《聊斋志异》",
@@ -5485,7 +5521,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "chnmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "归心一园——故宫乾隆花园沉浸式光影展",
@@ -5499,7 +5536,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "gugong",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -5513,7 +5551,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "namoc",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "墨韵文脉——八大山人与17世纪以来中国写意艺术展",
@@ -5527,7 +5566,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "namoc",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "吉金耀山川——鄂尔多斯青铜文化展",
@@ -5541,7 +5581,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "bjmuseum",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "苍穹记忆——南天门计划科幻科普主题展",
@@ -5555,7 +5596,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "centuryaltar",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "国家大剧院原创喜歌剧《三打白骨精》",
@@ -5569,7 +5611,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "ncpa",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "2026漫步经典系列音乐会",
@@ -5583,7 +5626,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "ncpa",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "柏林爱乐十二把大提琴音乐会",
@@ -5597,7 +5641,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "ncpa",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "话剧《杜甫》",
@@ -5611,7 +5656,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "bjry",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "话剧《罗密欧与朱丽叶》",
@@ -5625,7 +5671,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "bjry",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "话剧《沈钧儒》",
@@ -5639,7 +5686,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "cntheatre",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "舞台剧《看不见的客人》",
@@ -5653,7 +5701,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "ncpa",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "穗地撷珍——广州市第四次全国文物普查成果展",
@@ -5667,7 +5716,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南汉二陵博物馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "星火启程——从农讲所到天安门",
@@ -5681,7 +5731,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "农讲所纪念馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "珠归海上：庄万里家族捐赠两塗轩书画展（第二期）",
@@ -5695,7 +5746,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "暂得之乐：暂得楼捐赠明清瓷器展",
@@ -5709,7 +5761,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展",
@@ -5723,7 +5776,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "雨林探秘：玛雅大冒险（沉浸式体验展）",
@@ -5737,7 +5791,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "飞越马丘比丘：云端印加之旅（沉浸式体验展）",
@@ -5751,7 +5806,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "探秘·国宝萌友——大熊猫特展",
@@ -6701,7 +6757,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东省文旅厅湾区展讯",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "肠道小宇宙——肠道的奇妙冒险互动体验科学展",
@@ -6715,7 +6772,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南方网",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "请到粤图过暑假——300余场暑期阅读推广活动",
@@ -6729,7 +6787,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "羊城晚报",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "巴斯夫小小化学家——上海科技馆暑期科普活动",
@@ -6743,7 +6802,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "搜狐新闻",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "科好玩了——2026上海科技馆暑假营",
@@ -6757,7 +6817,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上观新闻",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -6771,7 +6832,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "人民网",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "静安区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -6785,7 +6847,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上观新闻",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "星辰足迹——月背之约航天主题展",
@@ -6799,7 +6862,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国科学技术馆官网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "哦吼！火星——火星探测与未来生活体验展",
@@ -6813,7 +6877,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京天文馆官网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -6827,7 +6892,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都之窗",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "植物庞贝城——乌达二叠纪化石精品展",
@@ -6841,7 +6907,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "京报网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动",
@@ -6855,7 +6922,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "新华网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "太平年·天下同宁——交互艺术大展",
@@ -6869,7 +6937,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -6883,7 +6952,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "良渚博物院官网",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "余杭区"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -6897,7 +6967,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "潮新闻",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
@@ -6911,7 +6982,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文旅局",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "拱墅区"
   },
   {
     "title": "第34届全国书博会",
@@ -6925,7 +6997,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -6939,7 +7012,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州博物馆官方微博",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "上城区"
   },
   {
     "title": "万物始兴·寒武纪化石展",
@@ -6953,7 +7027,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江自然博物院",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -6967,7 +7042,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江省科技馆",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "欢迎来到恐龙时代——知识视界科普讲座",
@@ -6981,7 +7057,8 @@
     "contact": "86535086",
     "family_friendly": true,
     "source": "杭州图书馆官网",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "上城区"
   },
   {
     "title": "相无古今——石窟艺术超感沉浸体验",
@@ -6995,7 +7072,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "腾讯新闻",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -7009,7 +7087,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "机器狗AI编程夏令营",
@@ -7023,7 +7102,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州图书馆官网",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "上城区"
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -7037,7 +7117,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国茶叶博物馆",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "广东科学中心暑期假日科学派",
@@ -7051,7 +7132,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东科学中心",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术展",
@@ -7065,7 +7147,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "广州图书馆暑期系列活动",
@@ -7079,7 +7162,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "广州青少年科技馆暑期互动体验",
@@ -7093,7 +7177,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "广州地铁博物馆暑期体验",
@@ -7107,7 +7192,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "广州市文化馆新馆暑期文化体验",
@@ -7121,7 +7207,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -7135,7 +7222,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海科技馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "巴斯夫'小小化学家'暑期活动",
@@ -7149,7 +7237,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海科技馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -7163,7 +7252,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海自然博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "静安区"
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -7177,7 +7267,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海自然博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "静安区"
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -7191,7 +7282,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -7205,7 +7297,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "静安区"
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -7219,7 +7312,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "杨浦区"
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -7233,7 +7327,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "徐汇区"
   },
   {
     "title": "快乐暑期，科海扬帆——北京科学中心暑期活动",
@@ -7247,7 +7342,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京科学中心",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "北科展教坊专题课程",
@@ -7261,7 +7357,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京科学中心",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "北科剧院科学剧场",
@@ -7275,7 +7372,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京科学中心",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -7289,7 +7387,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国科技馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -7303,7 +7402,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国科技馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "北京天文馆暑期夜场",
@@ -7317,7 +7417,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京天文馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "中国妇女儿童博物馆暑期展览",
@@ -7331,7 +7432,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "中国消防博物馆暑期安全教育",
@@ -7345,7 +7447,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京旅游网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "丰台区"
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -7359,7 +7462,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京旅游网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -7373,7 +7477,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京旅游网",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "丰台区"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -7387,7 +7492,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都图书馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -7401,7 +7507,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家图书馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "广州博物馆暑期十大主题研学活动",
@@ -7415,7 +7522,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆"
+    "source": "广州博物馆",
+    "district": "越秀区"
   },
   {
     "title": "广东省博物馆暑期延时开放",
@@ -7429,7 +7537,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆"
+    "source": "广东省博物馆",
+    "district": "天河区"
   },
   {
     "title": "南越王博物院王宫展区暑期延长开放",
@@ -7443,7 +7552,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院"
+    "source": "南越王博物院",
+    "district": "越秀区"
   },
   {
     "title": "孙中山大元帅府纪念馆暑期延时开放",
@@ -7457,7 +7567,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆"
+    "source": "孙中山大元帅府纪念馆",
+    "district": "海珠区"
   },
   {
     "title": "广东美术馆新馆暑期延时开放",
@@ -7471,7 +7582,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东美术馆"
+    "source": "广东美术馆",
+    "district": "越秀区"
   },
   {
     "title": "广州动物园暑期研学活动",
@@ -7485,7 +7597,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园"
+    "source": "广州动物园",
+    "district": "越秀区"
   },
   {
     "title": "广州海洋馆暑期活动",
@@ -7499,7 +7612,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆"
+    "source": "广州海洋馆",
+    "district": "越秀区"
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -7513,7 +7627,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -7527,7 +7642,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "上海天文馆暑期活动",
@@ -7541,7 +7657,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆"
+    "source": "上海天文馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -7555,7 +7672,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆"
+    "source": "上海世博会博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -7569,7 +7687,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆"
+    "source": "上海美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -7583,7 +7702,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园"
+    "source": "上海乐高乐园",
+    "district": "金山区"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -7597,7 +7717,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆"
+    "source": "上海海洋水族馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -7611,7 +7732,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园"
+    "source": "上海迪士尼乐园",
+    "district": "浦东新区"
   },
   {
     "title": "故宫博物院暑期未成年人团队预约",
@@ -7625,7 +7747,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "故宫博物院"
+    "source": "故宫博物院",
+    "district": "东城区"
   },
   {
     "title": "北京海洋馆智慧海洋·生存大师季",
@@ -7639,7 +7762,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京海洋馆"
+    "source": "北京海洋馆",
+    "district": "海淀区"
   },
   {
     "title": "中国国家博物馆暑期展览",
@@ -7653,7 +7777,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "北京动物园暑期活动",
@@ -7667,7 +7792,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京动物园"
+    "source": "北京动物园",
+    "district": "西城区"
   },
   {
     "title": "天坛公园暑期亲子研学",
@@ -7681,7 +7807,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "天坛公园"
+    "source": "天坛公园",
+    "district": "东城区"
   },
   {
     "title": "颐和园暑期活动",
@@ -7695,7 +7822,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "颐和园"
+    "source": "颐和园",
+    "district": "海淀区"
   },
   {
     "title": "圆明园考古·少年行",
@@ -7709,7 +7837,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明园"
+    "source": "圆明园",
+    "district": "海淀区"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -7723,7 +7852,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -7737,7 +7867,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆"
+    "source": "国家自然博物馆",
+    "district": "东城区"
   },
   {
     "title": "首都博物馆暑期展览",
@@ -7751,7 +7882,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "北京环球度假区暑期活动",
@@ -7765,7 +7897,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京环球度假区"
+    "source": "北京环球度假区",
+    "district": "通州区"
   },
   {
     "title": "北京欢乐谷暑期活动",
@@ -7779,7 +7912,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京欢乐谷"
+    "source": "北京欢乐谷",
+    "district": "朝阳区"
   },
   {
     "title": "深圳世界之窗·WoW狂欢节+啤酒节",
@@ -8353,7 +8487,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国国家博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯文明大展",
@@ -8367,7 +8502,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "疆壤益广开郡县——战国秦汉时期的云南",
@@ -8381,7 +8517,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "通州区"
   },
   {
     "title": "鄂尔多斯青铜器展",
@@ -8395,7 +8532,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "通州区"
   },
   {
     "title": "世界文明互鉴系列——莫斯科市博物馆茶文化展（万里茶道）",
@@ -8409,7 +8547,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "通州区"
   },
   {
     "title": "霸王龙T-REX——恐龙之王特展",
@@ -8423,7 +8562,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家自然博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "恐龙公园：龙口脱险",
@@ -8437,7 +8577,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家自然博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "致敬巨匠：从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -8451,7 +8592,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国美术馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "大匠之道——熊松涛掐丝珐琅艺术展",
@@ -8465,7 +8607,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国美术馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "文心墨韵——中央文史研究馆成立75周年成果展",
@@ -8479,7 +8622,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国美术馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "国图讲坛2026年“非遗讲座月”",
@@ -8493,7 +8637,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家图书馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "文津阅新2026年第四期：《中国兵学二十讲》新书分享会",
@@ -8507,7 +8652,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家图书馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "中国典籍与文化系列讲座：丝绸之路上的“口袋书”",
@@ -8521,7 +8667,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家图书馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "“奇趣书海 夏梦成荫”首都图书馆2026暑期系列文化活动",
@@ -8535,7 +8682,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "首都图书馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "中国科学技术馆2026年暑期系列活动",
@@ -8549,7 +8697,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国科学技术馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "中国电影博物馆2026年暑期错时开放",
@@ -8563,7 +8712,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国电影博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "朝阳区"
   },
   {
     "title": "“红楼探园”展",
@@ -8577,7 +8727,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国园林博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "丰台区"
   },
   {
     "title": "追光逐影——银幕中的汽车主题展",
@@ -8591,7 +8742,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京汽车博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "丰台区"
   },
   {
     "title": "“星际奇观：太阳系”VR大空间沉浸式展览",
@@ -8605,7 +8757,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京天文馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "军事博物馆基本陈列（革命战争陈列等）",
@@ -8619,7 +8772,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国人民革命军事博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "军博红色电影展映与军事互动社教活动",
@@ -8633,7 +8787,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国人民革命军事博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "百年红楼历史文化展",
@@ -8647,7 +8802,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京鲁迅博物馆（北京新文化运动纪念馆）",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "2026颐和园荷花文化节",
@@ -8661,7 +8817,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "颐和园",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "花染风华 共叙文脉——天坛双展迎盛夏",
@@ -8675,7 +8832,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京市公园管理中心",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "“北海菊韵”传统插花雅集",
@@ -8689,7 +8847,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北海公园",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "第三十一届圆明园荷花节暨“荷你有约”荷花主题中国画名家邀请展",
@@ -8703,7 +8862,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "圆明园",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "2026国家大剧院国际戏剧季",
@@ -8717,7 +8877,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家大剧院",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "八喜·打开艺术之门—2026暑期艺术节",
@@ -8731,7 +8892,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中山公园音乐堂",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "第十九届“良辰美景·恭王府非遗演出季”",
@@ -8745,7 +8907,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "恭王府博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "“童画恭王府”——恭王府博物馆青少年美育成果展",
@@ -8759,7 +8922,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "恭王府博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "西城区"
   },
   {
     "title": "“用爱守护儿童生命安全教育展”（博物馆里过大年）",
@@ -8773,7 +8937,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国妇女儿童博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "东城区"
   },
   {
     "title": "“乾隆的审美”展",
@@ -8787,7 +8952,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京艺术博物馆（万寿寺）",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "亚洲数字艺术展（人有人的用处）",
@@ -8801,7 +8967,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "三山五园文化艺术中心",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "以丝造境：清华大学艺术博物馆藏织绣书画展",
@@ -8815,7 +8982,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "清华大学艺术博物馆",
-    "city": "beijing"
+    "city": "beijing",
+    "district": "海淀区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
@@ -8829,7 +8997,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南越王博物院",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "一念敦煌——石窟艺术大展",
@@ -8843,7 +9012,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东省文化和旅游厅",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "青州微笑——中国古青州佛造像艺术展",
@@ -8857,7 +9027,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东省文化和旅游厅",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "由来是广州——广州建城2240年暨得名1800年文物精品展",
@@ -8871,7 +9042,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东省文化和旅游厅",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "海珠区"
   },
   {
     "title": "海丝门户——文物里的清代广州",
@@ -8885,7 +9057,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州广播电视台（花城+）",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "第二期“广州之宝”特展",
@@ -8899,7 +9072,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州博物馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "馆藏竹牙角玉雕展",
@@ -8913,7 +9087,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东省文化和旅游厅",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "荔湾区"
   },
   {
     "title": "穗地撷珍——广州市第四次全国文物普查成果展",
@@ -8927,7 +9102,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东省文化和旅游厅",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "花城百花开——广州非物质文化遗产展",
@@ -8941,7 +9117,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州市文化馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "救民水火——纪念国民革命军北伐一百周年展",
@@ -8955,7 +9132,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "黄埔军校旧址纪念馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "黄埔区"
   },
   {
     "title": "肠道小宇宙——肠道的奇妙冒险互动科学展",
@@ -8969,7 +9147,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东科学中心",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "迴响·Beyond Sound 声音特展",
@@ -8983,7 +9162,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东科学中心",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "第47届“羊城之夏”青少年暑期系列活动",
@@ -8997,7 +9177,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州市政府门户",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "悦读童行——广州图书馆儿童与青少年阅读攀登计划",
@@ -9011,7 +9192,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州图书馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "科普广图·2026“探海无疆”系列科普活动",
@@ -9025,7 +9207,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州图书馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "广州动物园暑假夜游（盘龙苑·广州海洋馆）",
@@ -9039,7 +9222,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州动物园",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "2026“广州科普之夏”主题活动",
@@ -9053,7 +9237,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "羊城晚报",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "华南国家植物园夏日萤火虫夜观与自然观察",
@@ -9067,7 +9252,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "百度百家号（广州科普Citywalk）",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "2026夏日美乐——维也纳圆舞曲交响音乐会",
@@ -9081,7 +9267,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "羊城晚报",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "国风亲子音乐会（二沙岛音乐夏日）",
@@ -9095,7 +9282,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "腾讯新闻",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "奇幻亲子音乐剧《绿野仙踪》暑期档",
@@ -9109,7 +9297,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "新瑞金票",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "长隆野生动物世界“全球动物科普嘉年华”暑期活动",
@@ -9123,7 +9312,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "长隆官方",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "岭南曲艺大舞台——2026广州市文化馆公益惠民系列活动",
@@ -9137,7 +9327,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州市文化广电旅游局",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "正佳极地海洋世界暑期海洋科普展演",
@@ -9151,7 +9342,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "正佳极地海洋世界",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "广东科学中心巨幕影院科普电影《四渡》",
@@ -9165,7 +9357,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广东科学中心",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "番禺区"
   },
   {
     "title": "广州少年儿童图书馆2026年7月活动月历",
@@ -9179,7 +9372,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州少年儿童图书馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "越秀区"
   },
   {
     "title": "广州图书馆8月科普开放日",
@@ -9193,7 +9387,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州图书馆",
-    "city": "guangzhou"
+    "city": "guangzhou",
+    "district": "天河区"
   },
   {
     "title": "繁天录——中国动画英雄潮流特展",
@@ -9207,7 +9402,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江美术馆",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "撒马尔罕：中亚之心的千年古城特展",
@@ -9221,7 +9417,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "良渚博物院",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "余杭区"
   },
   {
     "title": "光影对话：新中国海报设计作品巡展",
@@ -9235,7 +9432,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江省博物馆（官方微信公众号）",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "未命名的房间",
@@ -9249,7 +9447,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江省博物馆（官方微信公众号）",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "杭州青少年活动中心2026夏令营·少年长成营",
@@ -9263,7 +9462,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州青少年活动中心",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "浙江省科技馆2026夏令营·科技馆科学院",
@@ -9277,7 +9477,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江省科技馆",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "《宋城千古情》大型演艺",
@@ -9291,7 +9492,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "宋城演艺",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "2026西溪火柿节",
@@ -9305,7 +9507,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "2026浙江省全民艺术季·文艺赋美",
@@ -9319,7 +9522,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江省文化馆",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "中国湿地博物馆科普艺术季·博物馆临时展览推介案例展",
@@ -9333,7 +9537,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "潮新闻",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "叩石问印·浦东篆刻会十周年特展",
@@ -9347,7 +9552,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "西泠印社",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "运博20年·何以动人影像与故事展",
@@ -9361,7 +9567,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州网",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "拱墅区"
   },
   {
     "title": "2026杭州良渚日暨良渚文化周",
@@ -9375,7 +9582,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州网",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "余杭区"
   },
   {
     "title": "浙江自然博物院2026暑期科普之旅（线上预约开放）",
@@ -9389,7 +9597,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江自然博物院（官方微信公众号）",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "印鉴西湖·西湖美学系列展",
@@ -9403,7 +9612,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州网",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "茶和天下 芳传古今——中国传统制茶技艺非遗展",
@@ -9417,7 +9627,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中国茶叶博物馆",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "西湖区"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",
@@ -9431,7 +9642,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江交响乐团",
-    "city": "hangzhou"
+    "city": "hangzhou",
+    "district": "拱墅区"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -9445,7 +9657,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -9459,7 +9672,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "金冠之下：新罗文物精华展",
@@ -9473,7 +9687,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "环宇璀璨：大都会艺术博物馆珠宝珍藏展",
@@ -9487,7 +9702,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "来自喜马拉雅的瑰宝：西藏萨迦文物精品展",
@@ -9501,7 +9717,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "大音希声：八大山人诞辰400周年书画艺术大展",
@@ -9515,7 +9732,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成",
@@ -9529,7 +9747,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中华艺术宫（上海美术馆）",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "素心相映·邱瑞敏吴慧明艺术展",
@@ -9543,7 +9762,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中华艺术宫（上海美术馆）",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "只有树知道",
@@ -9557,7 +9777,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海自然博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "静安区"
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -9571,7 +9792,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海科技馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "书房中的文艺复兴——10至17世纪的西方抄写、印刷与装帧艺术特展",
@@ -9585,7 +9807,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海图书馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "徐汇区"
   },
   {
     "title": "少年述史·馆员论典——地方文献与馆藏精品暑期定时导览",
@@ -9599,7 +9822,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海图书馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "徐汇区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -9613,7 +9837,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海市历史博物馆（上海革命历史博物馆）",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "乔治·莫兰迪：独白",
@@ -9627,7 +9852,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浦东美术馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "让·努维尔：建筑在不朽中消失",
@@ -9641,7 +9867,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "浦东美术馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "音乐剧《大状王》",
@@ -9655,7 +9882,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海文化广场",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "《来自三伯爵的请柬》音乐会",
@@ -9669,7 +9897,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海文化广场",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "2026《华人之光·芭蕾明星GALA》",
@@ -9683,7 +9912,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海大剧院",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "上海迪士尼度假区10周年夏日狂欢",
@@ -9697,7 +9927,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海迪士尼度假区",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "浦东新区"
   },
   {
     "title": "“拼了！真功夫”乐高探索中心十周年暑期活动",
@@ -9711,7 +9942,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "乐高探索中心",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "普陀区"
   },
   {
     "title": "2026上海书展暨“书香中国”上海周",
@@ -9725,7 +9957,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海展览中心",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "静安区"
   },
   {
     "title": "上海植物园国际新优展区",
@@ -9739,7 +9972,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海植物园",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "徐汇区"
   },
   {
     "title": "夏日山茶惊艳盛放——杜鹃红山茶花事",
@@ -9753,7 +9987,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海植物园",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "徐汇区"
   },
   {
     "title": "BRKN·破碎 年度特展",
@@ -9767,7 +10002,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海玻璃博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "宝山区"
   },
   {
     "title": "书之奇遇：艺术家手作书（PSA等等图书馆特别项目）",
@@ -9781,7 +10017,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海当代艺术博物馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "上海动物园暑期动物主题科普活动",
@@ -9795,7 +10032,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海动物园",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "长宁区"
   },
   {
     "title": "“数字一大·伟大征程”VR沉浸式体验项目",
@@ -9809,7 +10047,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "中共一大纪念馆",
-    "city": "shanghai"
+    "city": "shanghai",
+    "district": "黄浦区"
   },
   {
     "title": "“团结促发展，奋斗谱新篇”深圳市政协主题书画展",

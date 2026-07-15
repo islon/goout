@@ -2301,7 +2301,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "sz_children_lib"
+    "source": "manual"
   },
   {
     "title": "科学实验秀与航天互动展",
@@ -2317,7 +2317,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "szstm"
+    "source": "manual"
   },
   {
     "title": "文物亲子导览与节气拓印",
@@ -2333,7 +2333,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "szmuseum"
+    "source": "manual"
   },
   {
     "title": "周末亲子手作与免费少儿观影",
@@ -2349,7 +2349,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "manual"
   },
   {
     "title": "免费美术舞蹈编程公益课",
@@ -2365,7 +2365,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_qsng"
+    "source": "manual"
   },
   {
     "title": "亲子趣味运动会与少儿篮球体验",
@@ -2381,7 +2381,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_ty"
+    "source": "manual"
   },
   {
     "title": "周末露天公益音乐会与亲子市集",
@@ -2397,7 +2397,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "hlgw"
+    "source": "manual"
   },
   {
     "title": "湿地自然科普与观鸟亲子课堂",
@@ -2413,7 +2413,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "xwhsl"
+    "source": "manual"
   },
   {
     "title": "无动力滑梯绳网乐园与公益手工",
@@ -2429,7 +2429,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lgpark"
+    "source": "manual"
   },
   {
     "title": "3岁爬爬区与绘本故事会",
@@ -2445,7 +2445,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "sz_children_lib"
+    "source": "manual"
   },
   {
     "title": "阅读沙龙与科普讲座",
@@ -2461,7 +2461,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "manual"
   },
   {
     "title": "节气手作与海洋读书会",
@@ -2477,7 +2477,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "nslib"
+    "source": "manual"
   },
   {
     "title": "周末亲子手作与阅读公益营",
@@ -2493,7 +2493,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "manual"
   },
   {
     "title": "分龄绘本共读与编程公益体验",
@@ -2509,7 +2509,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ftlib"
+    "source": "manual"
   },
   {
     "title": "非遗手工与诗词课堂",
@@ -2525,7 +2525,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhlib"
+    "source": "manual"
   },
   {
     "title": "亲子阅读与客家民俗研学",
@@ -2541,7 +2541,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lglib"
+    "source": "manual"
   },
   {
     "title": "海洋科普与海边亲子读书会",
@@ -2557,7 +2557,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ytlib"
+    "source": "manual"
   },
   {
     "title": "自然观察与植物手工",
@@ -2573,7 +2573,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "gmlib"
+    "source": "manual"
   },
   {
     "title": "少儿美育与红色研学",
@@ -2589,7 +2589,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "pslib"
+    "source": "manual"
   },
   {
     "title": "地质科普与渔村文化课",
@@ -2605,7 +2605,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "dplib"
+    "source": "manual"
   },
   {
     "title": "文物亲子导览与拓印DIY",
@@ -2621,7 +2621,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "szmuseum"
+    "source": "manual"
   },
   {
     "title": "古书画临摹与青铜器手工",
@@ -2637,7 +2637,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "szmuseum"
+    "source": "manual"
   },
   {
     "title": "文物科普与少儿绘画展",
@@ -2653,7 +2653,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "nsmuseum"
+    "source": "manual"
   },
   {
     "title": "宝安历史展与陶艺体验",
@@ -2669,7 +2669,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "bamuseum"
+    "source": "manual"
   },
   {
     "title": "客家农耕手工与古民居导览",
@@ -2685,7 +2685,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lg_hakka"
+    "source": "manual"
   },
   {
     "title": "红色研学与革命故事课堂",
@@ -2701,7 +2701,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhbljng"
+    "source": "manual"
   },
   {
     "title": "红色亲子研学与历史情景剧",
@@ -2717,7 +2717,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "psdjng"
+    "source": "manual"
   },
   {
     "title": "海防文化与古城寻宝",
@@ -2733,7 +2733,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "dpgcbwg"
+    "source": "manual"
   },
   {
     "title": "版画体验DIY与美术公益展",
@@ -2749,7 +2749,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lh_printmaking"
+    "source": "manual"
   },
   {
     "title": "自然观察与动植物标本手工",
@@ -2765,7 +2765,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "sznm"
+    "source": "manual"
   },
   {
     "title": "地质科普与地质实验",
@@ -2781,13 +2781,13 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "dpgeopark"
+    "source": "manual"
   },
   {
     "title": "中草药辨识与中药香囊DIY",
     "venue": "深圳中医药博物馆",
     "city": "shenzhen",
-    "district": "福田区",
+    "district": "龙岗区",
     "venue_type": "博物馆",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
@@ -2797,7 +2797,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szzybwg"
+    "source": "manual"
   },
   {
     "title": "城市手绘与湾区科普",
@@ -2813,7 +2813,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_guihua"
+    "source": "manual"
   },
   {
     "title": "建筑手工与少儿设计展",
@@ -2829,7 +2829,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szmocap"
+    "source": "manual"
   },
   {
     "title": "科学实验秀与航天互动",
@@ -2845,7 +2845,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "szstm"
+    "source": "manual"
   },
   {
     "title": "水科学与逻辑思维实验",
@@ -2877,7 +2877,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_kjg"
+    "source": "manual"
   },
   {
     "title": "工业科创与VR科普",
@@ -2893,7 +2893,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lgkjg"
+    "source": "manual"
   },
   {
     "title": "海洋科技与航海模型手工",
@@ -2909,7 +2909,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ytkjg"
+    "source": "manual"
   },
   {
     "title": "AI科普与太空主题课堂",
@@ -2925,7 +2925,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhkjg"
+    "source": "manual"
   },
   {
     "title": "免费美术编程舞蹈公益课",
@@ -2941,7 +2941,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szcp"
+    "source": "manual"
   },
   {
     "title": "非遗手工与少儿文艺汇演",
@@ -2957,7 +2957,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_qsng"
+    "source": "manual"
   },
   {
     "title": "体育艺术免费体验课",
@@ -2973,7 +2973,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "nsqsng"
+    "source": "manual"
   },
   {
     "title": "乐器体验与户外自然课堂",
@@ -2989,7 +2989,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lgqsng"
+    "source": "manual"
   },
   {
     "title": "绘画科创轮滑公益课",
@@ -3005,7 +3005,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhqsng"
+    "source": "manual"
   },
   {
     "title": "亲子趣味运动会与球类免费体验",
@@ -3021,7 +3021,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_ty"
+    "source": "manual"
   },
   {
     "title": "少儿足球羽毛球公益课堂",
@@ -3037,7 +3037,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szwty"
+    "source": "manual"
   },
   {
     "title": "公益舞台剧与亲子瑜伽",
@@ -3053,7 +3053,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "nswtzx"
+    "source": "manual"
   },
   {
     "title": "骑行与户外体能公益课",
@@ -3069,7 +3069,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lgtyzx"
+    "source": "manual"
   },
   {
     "title": "少儿田径与国风文艺活动",
@@ -3085,7 +3085,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhwhg"
+    "source": "manual"
   },
   {
     "title": "消防交通安全模拟体验",
@@ -3101,7 +3101,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "nsaqjy"
+    "source": "manual"
   },
   {
     "title": "露天音乐会与亲子市集",
@@ -3117,7 +3117,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "hlgw"
+    "source": "manual"
   },
   {
     "title": "湿地观鸟与海边写生",
@@ -3133,7 +3133,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "xwhsl"
+    "source": "manual"
   },
   {
     "title": "无动力乐园与植物研学",
@@ -3149,7 +3149,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lgpark"
+    "source": "manual"
   },
   {
     "title": "星空沙池与机器人滑梯",
@@ -3165,7 +3165,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "kxgny"
+    "source": "manual"
   },
   {
     "title": "草坪露营与江景写生",
@@ -3197,7 +3197,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "rcgy"
+    "source": "manual"
   },
   {
     "title": "河流科普与植物手工",
@@ -3213,7 +3213,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "dshslc"
+    "source": "manual"
   },
   {
     "title": "免费艺术展与亲子写生",
@@ -3229,7 +3229,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "hssjwh"
+    "source": "manual"
   },
   {
     "title": "蚂蚁滑梯与细沙沙池",
@@ -3261,13 +3261,13 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "sysgy"
+    "source": "manual"
   },
   {
     "title": "河道自然研学与户外亲子游戏",
     "venue": "茅洲河碧道",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "宝安区",
     "venue_type": "公园",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
@@ -3277,13 +3277,13 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "mzohbd"
+    "source": "manual"
   },
   {
     "title": "草坪游乐与绘本户外共读",
     "venue": "中心公园",
     "city": "shenzhen",
-    "district": "坪山区",
+    "district": "福田区",
     "venue_type": "公园",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
@@ -3293,7 +3293,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "pszxgy"
+    "source": "manual"
   },
   {
     "title": "风筝广场与植物科普",
@@ -3325,7 +3325,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "hhgy"
+    "source": "manual"
   },
   {
     "title": "观鸟课堂与沙滩玩耍",
@@ -3341,7 +3341,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szhbgy"
+    "source": "manual"
   },
   {
     "title": "免费轮滑场地与亲子运动市集",
@@ -3357,7 +3357,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "dzxgy"
+    "source": "manual"
   },
   {
     "title": "客家非遗免费展与亲子拓印",
@@ -3389,13 +3389,13 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "gmhbgy"
+    "source": "manual"
   },
   {
     "title": "儿童游乐区与国学诵读",
     "venue": "红花山公园",
     "city": "shenzhen",
-    "district": "坪山区",
+    "district": "光明区",
     "venue_type": "公园",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
@@ -3405,7 +3405,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "hhsgy"
+    "source": "manual"
   },
   {
     "title": "环湖步道与无动力乐园",
@@ -3421,7 +3421,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "pszxgy"
+    "source": "manual"
   },
   {
     "title": "海洋科普与沙滩亲子游戏",
@@ -3437,7 +3437,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "jcw"
+    "source": "manual"
   },
   {
     "title": "山林徒步与昆虫观察公益课",
@@ -3453,7 +3453,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "kcsigy"
+    "source": "manual"
   },
   {
     "title": "滨江沙池与自然科普",
@@ -3469,7 +3469,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ytzgy"
+    "source": "manual"
   },
   {
     "title": "山林徒步与植物辨识",
@@ -3485,7 +3485,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "tjsgd"
+    "source": "manual"
   },
   {
     "title": "湿地鸟类科普与自然手工",
@@ -3517,7 +3517,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "bzgx"
+    "source": "manual"
   },
   {
     "title": "湿地生态科普与鸟类观察",
@@ -3533,7 +3533,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "oct_wetland"
+    "source": "manual"
   },
   {
     "title": "深圳图书馆第十二届'暑期缤纷季'——近300场阅读活动",
@@ -6480,6 +6480,22 @@
     "source": "jlwh"
   },
   {
+    "title": "沙河街道成人手机摄影班（二）",
+    "venue": "沙河街道综合文化服务中心",
+    "city": "shenzhen",
+    "district": "南山",
+    "venue_type": "其他",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bad0e3a5c1b149758b0ef5e214878099",
+    "description": "培训，深圳市南山区文化广电旅游体育局，在沙河街道综合文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "沙河街道综合文化服务中心"
+  },
+  {
     "title": "2026年7月龙岗区文化馆坪地街道分馆文化志愿服务活动之中心社区“本草绘香·耆乐非遗”长者中草药香画体验活动",
     "venue": "坪地街道文化站",
     "city": "shenzhen",
@@ -6638,6 +6654,22 @@
     "contact": "0755-86700071",
     "family_friendly": true,
     "source": "nsmuseum"
+  },
+  {
+    "title": "沙河街道成人手机摄影班（二）",
+    "venue": "沙河街道综合文化服务中心",
+    "city": "shenzhen",
+    "district": "南山区",
+    "venue_type": "文化馆",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bad0e3a5c1b149758b0ef5e214878099",
+    "description": "沙河街道成人手机摄影班（二）。免费参与。直接前往。可直接前往",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "nswhg"
   },
   {
     "title": "“燃舞逐光”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -7824,22 +7856,6 @@
     "source": "nslib"
   },
   {
-    "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "district": "南山区",
-    "venue_type": "图书馆",
-    "start_date": "2026-07-18",
-    "end_date": "2026-07-18",
-    "link": "https://activity.nslib.cn/activity/info/11663",
-    "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib"
-  },
-  {
     "title": "百姓健康讲堂|​八段锦养身，中医护安康",
     "venue": "南山图书馆",
     "city": "shenzhen",
@@ -7849,6 +7865,22 @@
     "end_date": "2026-07-18",
     "link": "https://activity.nslib.cn/activity/info/11666",
     "description": "需预约报名。百姓健康讲堂|​八段锦养身，中医护安康",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
+  },
+  {
+    "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "venue_type": "图书馆",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://activity.nslib.cn/activity/info/11663",
+    "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -8384,15 +8416,15 @@
     "source": "szlib"
   },
   {
-    "title": "法律咨询",
+    "title": "科普小讲堂丨高楼不倒的秘密",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "district": "南山区",
     "venue_type": "图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11640",
-    "description": "法律咨询。南山图书馆举办。",
+    "link": "https://activity.nslib.cn/activity/info/11665",
+    "description": "需预约报名。科普小讲堂丨高楼不倒的秘密",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -8416,36 +8448,20 @@
     "source": "nslib"
   },
   {
-    "title": "科普小讲堂丨高楼不倒的秘密",
+    "title": "法律咨询",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "district": "南山区",
     "venue_type": "图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11665",
-    "description": "需预约报名。科普小讲堂丨高楼不倒的秘密",
+    "link": "https://activity.nslib.cn/activity/info/11640",
+    "description": "法律咨询。南山图书馆举办。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib"
-  },
-  {
-    "title": "世界先进军事装备模型展暨GAIA嘉年华",
-    "venue": "深圳国际会展中心",
-    "city": "shenzhen",
-    "district": "宝安区",
-    "venue_type": "会展中心",
-    "start_date": "2026-07-19",
-    "end_date": "2026-08-09",
-    "link": "https://www.shenzhen-world.com",
-    "description": "世界先进军事装备模型展暨GAIA嘉年华，2026-07-19至2026-08-09，深圳国际会展中心。主办方：广东省粤造粤好展览有限公司。联系方式：廖小姐  138 7439 4113。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "廖小姐  138 7439 4113",
-    "family_friendly": false,
-    "source": "shenzhen_world"
   },
   {
     "title": "阖家欢电影展映：《雄狮少年2》",
@@ -9646,6 +9662,22 @@
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
     "source": "szcec"
+  },
+  {
+    "title": "世界先进军事装备模型展暨GAIA嘉年华",
+    "venue": "深圳国际会展中心",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "venue_type": "会展中心",
+    "start_date": "2026-07-24",
+    "end_date": "2026-08-16",
+    "link": "https://www.shenzhen-world.com",
+    "description": "世界先进军事装备模型展暨GAIA嘉年华，2026-07-24至2026-08-16，深圳国际会展中心。主办方：广东省粤造粤好展览有限公司。联系方式：廖小姐  138 7439 4113。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "廖小姐  138 7439 4113",
+    "family_friendly": false,
+    "source": "shenzhen_world"
   },
   {
     "title": "绘本半小时：《阿兔的小瓷碗》",
