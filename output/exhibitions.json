@@ -29,7 +29,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum"
+    "source": "南山博物馆"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -157,7 +157,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "南头古城博物馆群"
   },
   {
     "title": "中国版画博物馆常设展",
@@ -173,7 +173,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lh_printmaking"
+    "source": "中国版画博物馆"
   },
   {
     "title": "龙岗客家民俗博物馆常设展（鹤湖新居）",
@@ -189,7 +189,7 @@
     "fee": "免费",
     "contact": "0755-84297960",
     "family_friendly": true,
-    "source": "lg_hakka"
+    "source": "龙岗客家民俗博物馆"
   },
   {
     "title": "宝安城市规划展览馆常设展",
@@ -221,7 +221,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "蛇口海洋科普馆常设展",
@@ -237,7 +237,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "skhykpg"
+    "source": "蛇口海洋科普馆"
   },
   {
     "title": "太空奥德赛——大型沉浸式科幻冒险体验",
@@ -461,7 +461,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -493,7 +493,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
@@ -573,7 +573,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum"
+    "source": "南山博物馆"
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -589,7 +589,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum"
+    "source": "南山博物馆"
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -653,7 +653,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lh_printmaking"
+    "source": "中国版画博物馆"
   },
   {
     "title": "从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展",
@@ -685,7 +685,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "第二期“广州之宝”特展",
@@ -909,7 +909,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "“北海菊韵”传统插花雅集",
@@ -1037,231 +1037,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-05-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652437&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、教育大事全媒体\n备注：参与方式：1.提交个人短视频1条，选题不限（展现自我风采的个人介绍或一小段脱口秀皆可），视频时长不超过3分钟，要求横屏录制，保证画面平稳清晰；2.个人报名表1份，须写明个人基本信息，并由家长或老师签名确认。以上两项资料完成后，发送至邮箱：zsnyhs2024@163.com。\n咨询电话：0755-82841335",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "疆壤益广开郡县——战国秦汉时期的云南",
@@ -1501,7 +1277,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "薪火相传 稚笔生花——2026深圳美术馆少儿艺术展",
@@ -1533,7 +1309,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "龙华区生态文明建设成果展",
@@ -1629,7 +1405,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "恐龙公园：龙口脱险",
@@ -1661,7 +1437,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "chnmuseum"
+    "source": "中国国家博物馆"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -1677,7 +1453,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum"
+    "source": "南山博物馆"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -1837,7 +1613,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "墨彩童年——王明明方楚雄儿童画作品特展",
@@ -1933,7 +1709,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "深情托付——深圳美术馆新馆捐赠作品展",
@@ -1949,7 +1725,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "夏天的五感：潮汐渔物展览",
@@ -2205,7 +1981,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -2301,7 +2077,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "bayarea_eye"
+    "source": "湾区之眼"
   },
   {
     "title": "福尔摩斯大型沉浸式主题展",
@@ -2317,7 +2093,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "bayarea_eye"
+    "source": "湾区之眼"
   },
   {
     "title": "湾区绿茵嘉年华+世界杯直播",
@@ -2333,7 +2109,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "bayarea_eye"
+    "source": "湾区之眼"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -2893,7 +2669,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "南头古城博物馆群"
   },
   {
     "title": "南头古城「源野集」创意市集",
@@ -2909,7 +2685,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "南头古城博物馆群"
   },
   {
     "title": "华侨城湿地公园日常开放",
@@ -2925,7 +2701,7 @@
     "fee": "免费需预约",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "oct_wetland"
+    "source": "华侨城湿地"
   },
   {
     "title": "寻迹华夏——中华文明溯源图片展",
@@ -2941,7 +2717,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "宝安科技馆4D动感影院与球幕影院",
@@ -3037,7 +2813,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "第六届\"馆长少年\"暑期成长计划",
@@ -3053,7 +2829,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "7月文博工坊·环保点翠发簪手作活动",
@@ -3069,7 +2845,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "暑期主题科学实验秀（五大主题轮换）",
@@ -3085,7 +2861,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_kjg"
+    "source": "宝安科技馆"
   },
   {
     "title": "第十一届深圳摄影作品年度展（宝安巡展）",
@@ -3101,7 +2877,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "宝安非遗手绘展",
@@ -3117,7 +2893,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "\"城市代言\"公益定时讲解",
@@ -3133,7 +2909,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "大潮起珠江——广东改革开放40周年展览",
@@ -8685,7 +8461,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "2026年盐田区中小学生舞蹈节展演",
@@ -8717,7 +8493,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -8957,7 +8733,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "深圳欢乐谷夏浪狂欢节",
@@ -9197,7 +8973,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ntgc"
+    "source": "南头古城博物馆群"
   },
   {
     "title": "宝安科技馆3D打印创意工坊",
@@ -9629,7 +9405,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szartm"
+    "source": "深圳美术馆"
   },
   {
     "title": "国采——故宫藏清代帝后服饰展",
@@ -10029,7 +9805,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "读剧公益班",
@@ -10125,7 +9901,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -10797,7 +10573,7 @@
     "fee": "免费",
     "contact": "赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -10909,7 +10685,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "话剧《罗密欧与朱丽叶》",
@@ -11213,7 +10989,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "宝安体育中心暑期羽毛球培训班",
@@ -11390,22 +11166,6 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆"
-  },
-  {
-    "title": "少儿朗诵（3节课程）",
-    "name": "少儿朗诵（3节课程）",
-    "venue": "宝安区文化馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-13",
-    "end_date": "2026-07-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7c1a6802e201441593f1366949ba0865",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7c1a6802e201441593f1366949ba0865",
-    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
-    "category": "讲座阅读",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安区文化馆"
   },
   {
     "title": "YUE航城暑期公益艺术培训——打击乐（第二天）",
@@ -12029,7 +11789,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“卸下重担，拥抱自己”身心放松团体辅导",
@@ -12045,7 +11805,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -12061,7 +11821,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -12077,7 +11837,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "南图创客空间丨自动往返车",
@@ -12093,7 +11853,7 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
+    "source": "南山图书馆"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -12109,39 +11869,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum"
-  },
-  {
-    "title": "“燃舞逐光”·2026凤凰街道青少年爵士舞暑假训练营活动",
-    "name": "“燃舞逐光”·2026凤凰街道青少年爵士舞暑假训练营活动",
-    "venue": "凤凰街道综合性文化服务中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0ecd5590277c4279a61115ec3cd2c466",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0ecd5590277c4279a61115ec3cd2c466",
-    "description": "“燃舞逐光”·2026凤凰街道青少年爵士舞暑假训练营活动活动，培训。免费参与。详情请咨询场馆。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26661612",
-    "family_friendly": true,
-    "source": "nsqsng"
-  },
-  {
-    "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
-    "name": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
-    "venue": "石岩文化艺术中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=393c53003d0649db902c91e4083a5716",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=393c53003d0649db902c91e4083a5716",
-    "description": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班活动，培训。免费参与。详情请咨询场馆。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26661612",
-    "family_friendly": true,
-    "source": "nsqsng"
+    "source": "南山博物馆"
   },
   {
     "title": "“童心”领读：和孩子一起读童书（暑假版）",
@@ -12157,23 +11885,7 @@
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
     "family_friendly": true,
-    "source": "balib"
-  },
-  {
-    "title": "“童心”领读：和孩子一起读童书（暑假版）",
-    "name": "“童心”领读：和孩子一起读童书（暑假版）",
-    "venue": "宝安图书馆 (宝安区图书馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
-    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-27783514（活动咨询及预约电话）",
-    "family_friendly": true,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "“童心”领读：婴幼儿故事会（暑假版）",
@@ -12189,7 +11901,7 @@
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
     "family_friendly": true,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "启阅90｜图图姐姐讲故事·婴幼儿版：《洛洛哒太太》",
@@ -12205,7 +11917,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "启阅90｜启映拾光·快乐暑假主题《​小黄人大眼萌​》",
@@ -12221,23 +11933,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
-  },
-  {
-    "title": "启阅90｜图图姐姐讲故事：《花园里有一只大老虎》",
-    "name": "启阅90｜图图姐姐讲故事：《花园里有一只大老虎》",
-    "venue": "宝安图书馆 (宝安1990分馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-15",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
-    "description": "活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -12640,6 +12336,38 @@
     "source": "龙城街道文化站"
   },
   {
+    "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
+    "name": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
+    "venue": "石岩文化艺术中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3f990f072a7c4b2ebe755b7263791067",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3f990f072a7c4b2ebe755b7263791067",
+    "description": "培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "石岩文化艺术中心"
+  },
+  {
+    "title": "【龙城街道分馆】趣味少儿软笔文化志愿活动（龙岗区龙城街道愉园社区）",
+    "name": "【龙城街道分馆】趣味少儿软笔文化志愿活动（龙岗区龙城街道愉园社区）",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=52653e03cdb94b76819aefb3193e4f68",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=52653e03cdb94b76819aefb3193e4f68",
+    "description": "公益，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "龙城街道文化站"
+  },
+  {
     "title": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动",
     "name": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动",
     "venue": "凤凰街道综合性文化服务中心",
@@ -12704,6 +12432,22 @@
     "source": "宝安区文化馆燕罗街道分馆"
   },
   {
+    "title": "2026年“石岩街道官田社区居民”——古筝特色班",
+    "name": "2026年“石岩街道官田社区居民”——古筝特色班",
+    "venue": "石岩文化艺术中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e829052d54e64305a215946a091b28d3",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e829052d54e64305a215946a091b28d3",
+    "description": "培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "石岩文化艺术中心"
+  },
+  {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
     "name": "音乐赏析之《音乐之声》原声带【下午场】",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -12717,7 +12461,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -12733,7 +12477,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "馆员故事会《小壁虎借尾巴》",
@@ -12749,23 +12493,7 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
-  },
-  {
-    "title": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动",
-    "name": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动",
-    "venue": "凤凰街道综合性文化服务中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-16",
-    "end_date": "2026-07-16",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=848e8a43b50748a992b2159f8f4f1949",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=848e8a43b50748a992b2159f8f4f1949",
-    "description": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动活动，培训。免费参与。详情请咨询场馆。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26661612",
-    "family_friendly": true,
-    "source": "nsqsng"
+    "source": "南山图书馆"
   },
   {
     "title": "第二十七届深圳国际医疗旅游展览会",
@@ -12781,7 +12509,7 @@
     "fee": "免费",
     "contact": "深圳正和会展服务有限公司 020-84138131/15820700062",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -12813,7 +12541,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "南山文体中心"
   },
   {
     "title": "龙马社原创话剧《断金》",
@@ -12912,6 +12640,22 @@
     "source": "深圳大剧院"
   },
   {
+    "title": "2026年石岩街道“来深青工技能——古筝公益课”",
+    "name": "2026年石岩街道“来深青工技能——古筝公益课”",
+    "venue": "石岩文化艺术中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-17",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b3fbda99dab49b7918da067d7acd03a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b3fbda99dab49b7918da067d7acd03a",
+    "description": "培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "石岩文化艺术中心"
+  },
+  {
     "title": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动",
     "name": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动",
     "venue": "凤凰街道综合性文化服务中心",
@@ -12973,7 +12717,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "东方幻境之旅：《妖猫传》",
@@ -12989,7 +12733,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“非遗体验”走进观澜手工创作营",
@@ -13005,7 +12749,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -13021,7 +12765,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《潜艇总动员：海底两万里》",
@@ -13037,7 +12781,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -13053,7 +12797,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "沙里淘晶-经典民乐赏析丨国乐文脉巡礼.弦歌唐韵 ",
@@ -13069,7 +12813,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "心理咨询",
@@ -13085,23 +12829,7 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
-  },
-  {
-    "title": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动",
-    "name": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动",
-    "venue": "凤凰街道综合性文化服务中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-17",
-    "end_date": "2026-07-17",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8052d7b94c9b41e39b09d133a748cdd4",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8052d7b94c9b41e39b09d133a748cdd4",
-    "description": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动活动，培训。免费参与。详情请咨询场馆。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26661612",
-    "family_friendly": true,
-    "source": "nsqsng"
+    "source": "南山图书馆"
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -13117,7 +12845,7 @@
     "fee": "免费",
     "contact": "紫亚兰国际会展（深圳）有限公司 杨先生&nbsp; 18926034908",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "第三届深圳乐队节",
@@ -13328,6 +13056,22 @@
     "source": "深圳大剧院"
   },
   {
+    "title": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
+    "name": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
+    "venue": "中轴云廊·顶上空间",
+    "city": "shenzhen",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4",
+    "description": "讲座，福田区公共文化体育发展中心、公园之友，在中轴云廊·顶上空间举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "中轴云廊·顶上空间"
+  },
+  {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
     "name": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
     "venue": "坂田街道文化站",
@@ -13405,7 +13149,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "绘本半小时：《阿圆的家》",
@@ -13421,7 +13165,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第638场",
@@ -13437,7 +13181,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第86场",
@@ -13453,7 +13197,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "律师公益咨询活动",
@@ -13469,7 +13213,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "故事小讲堂第150期：“感知四季”自然主题读书会",
@@ -13485,7 +13229,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "艺术疗愈工作坊第4期：边界与共生——在关系中建立健康自我",
@@ -13501,7 +13245,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第639场",
@@ -13517,7 +13261,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "海上花",
@@ -13533,7 +13277,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第87场",
@@ -13549,23 +13293,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
-    "name": "南图沙龙·摄视觉 | 培养你的摄影眼",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-18",
-    "end_date": "2026-07-18",
-    "link": "https://activity.nslib.cn/activity/info/11663",
-    "url": "https://activity.nslib.cn/activity/info/11663",
-    "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib"
+    "source": "深圳图书馆"
   },
   {
     "title": "百姓健康讲堂|​八段锦养身，中医护安康",
@@ -13581,7 +13309,7 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
+    "source": "南山图书馆"
   },
   {
     "title": "跟名师读名著系列丨《古灵精怪动物园》",
@@ -13597,23 +13325,23 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
+    "source": "南山图书馆"
   },
   {
-    "title": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动",
-    "name": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动",
-    "venue": "江岭社区公共文化服务中心",
+    "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
+    "name": "南图沙龙·摄视觉 | 培养你的摄影眼",
+    "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5",
-    "description": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动活动，综合。免费参与。详情请咨询场馆。",
+    "link": "https://activity.nslib.cn/activity/info/11663",
+    "url": "https://activity.nslib.cn/activity/info/11663",
+    "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
     "category": "讲座阅读",
     "fee": "免费",
-    "contact": "0755-26661612",
+    "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nsqsng"
+    "source": "南山图书馆"
   },
   {
     "title": "松弛又成长的假期带娃指南——家长如何用假期赋能孩子成长?",
@@ -13629,7 +13357,23 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib"
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "“童心”领读：宝读书话--小鼻子大友谊，解码《狗鼻子莫里茨》中的友谊哲学",
+    "name": "“童心”领读：宝读书话--小鼻子大友谊，解码《狗鼻子莫里茨》中的友谊哲学",
+    "venue": "宝安图书馆 (宝安区图书馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "description": "读经典，品百味人生。活动根据中小学生阅读需求，邀请作家分享写作背后的故事；邀请老师通过内容精读、文字游戏、朗读、思维导图、互动问答等形式，带领青少年读者沉浸式阅读一本书，提升“听说读写”能力，让青少年读者学会高效阅，在阅读的过程中养成思考的好习惯。本期活动主题：小鼻子大友谊，解码《狗鼻子莫里茨》中的友谊哲学；主讲人：钟瑞媚；地点：宝安区图书馆培训室1；地址：宝安区宝兴路1号宝安图书馆负一楼培训室1；方式：线下；咨询：0755-27783514（活动咨询及预约电话），活动参与对象：8岁以上（三年级以上孩子）；主办：宝安区公共文化体育服务中心",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-27783514（活动咨询及预约电话），活动参与对象：8岁以上（三年级以上孩子）",
+    "family_friendly": false,
+    "source": "宝安图书馆"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -13661,7 +13405,7 @@
     "fee": "免费",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "oct_wetland"
+    "source": "华侨城湿地"
   },
   {
     "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
@@ -13725,7 +13469,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szwty"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "蔡程昱“一程”2026音乐会深圳站",
@@ -13773,7 +13517,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "欢子《我的青春有你》巡回演唱会深圳站",
@@ -13789,7 +13533,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_ty"
+    "source": "宝安体育中心"
   },
   {
     "title": "于文文「边界」巡回演唱会",
@@ -13933,7 +13677,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第88场",
@@ -13949,7 +13693,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "家长课堂：读懂孩子行为背后的“无声语言”",
@@ -13965,7 +13709,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第640场",
@@ -13981,7 +13725,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -13997,7 +13741,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -14013,7 +13757,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第89场",
@@ -14029,7 +13773,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "她影：《女人世界》",
@@ -14045,7 +13789,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "苏格拉底思辨荟第二季第1期：从“虚拟陪伴”到“物理在场”：当机器人走进家门",
@@ -14061,7 +13805,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“走进何宇鹏的拓绘世界”——拓绘艺术分享与现场体验活动",
@@ -14077,7 +13821,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "寻找智美更登",
@@ -14093,7 +13837,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第641场",
@@ -14109,7 +13853,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第90场",
@@ -14125,7 +13869,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“深读”读书沙龙 | AI时代，普通人如何让自己被看见？ ——打造属于你的个人IP",
@@ -14141,39 +13885,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "践书+|《认知驱动》",
-    "name": "践书+|《认知驱动》",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-19",
-    "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11662",
-    "url": "https://activity.nslib.cn/activity/info/11662",
-    "description": "践书+|《认知驱动》。南山图书馆举办。",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib"
-  },
-  {
-    "title": "科普小讲堂丨高楼不倒的秘密",
-    "name": "科普小讲堂丨高楼不倒的秘密",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-19",
-    "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11665",
-    "url": "https://activity.nslib.cn/activity/info/11665",
-    "description": "需预约报名。科普小讲堂丨高楼不倒的秘密",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib"
+    "source": "深圳图书馆"
   },
   {
     "title": "法律咨询",
@@ -14189,23 +13901,39 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
+    "source": "南山图书馆"
   },
   {
-    "title": "世界先进军事装备模型展暨GAIA嘉年华",
-    "name": "世界先进军事装备模型展暨GAIA嘉年华",
-    "venue": "深圳国际会展中心",
+    "title": "践书+|《认知驱动》",
+    "name": "践书+|《认知驱动》",
+    "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-07-19",
-    "end_date": "2026-08-09",
-    "link": "https://www.shenzhen-world.com",
-    "url": "https://www.shenzhen-world.com",
-    "description": "世界先进军事装备模型展暨GAIA嘉年华，2026-07-19至2026-08-09，深圳国际会展中心。主办方：广东省粤造粤好展览有限公司。联系方式：廖小姐  138 7439 4113。",
-    "category": "展览",
+    "end_date": "2026-07-19",
+    "link": "https://activity.nslib.cn/activity/info/11662",
+    "url": "https://activity.nslib.cn/activity/info/11662",
+    "description": "践书+|《认知驱动》。南山图书馆举办。",
+    "category": "其他",
     "fee": "免费",
-    "contact": "廖小姐  138 7439 4113",
-    "family_friendly": false,
-    "source": "shenzhen_world"
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "科普小讲堂丨高楼不倒的秘密",
+    "name": "科普小讲堂丨高楼不倒的秘密",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "link": "https://activity.nslib.cn/activity/info/11665",
+    "url": "https://activity.nslib.cn/activity/info/11665",
+    "description": "需预约报名。科普小讲堂丨高楼不倒的秘密",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
   },
   {
     "title": "阖家欢电影展映：《雄狮少年2》",
@@ -14221,7 +13949,7 @@
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "百老汇儿童剧《原始人大冒险》",
@@ -14493,7 +14221,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -14509,7 +14237,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "深圳原创大型主题交响曲《潮起山海间》",
@@ -14557,7 +14285,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -14573,7 +14301,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -14589,7 +14317,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "央华版·话剧《日出》",
@@ -14621,7 +14349,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -14637,23 +14365,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -14669,7 +14381,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -14685,583 +14397,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-29",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654152&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "国学小讲堂丨大暑，跟着狐狸读七月岁时",
@@ -15277,7 +14413,7 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib"
+    "source": "南山图书馆"
   },
   {
     "title": "西安话剧院《长安第二碗》",
@@ -15293,7 +14429,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "南山文体中心"
   },
   {
     "title": "寻找智美更登",
@@ -15309,7 +14445,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "东方幻境之旅：《照明商店》",
@@ -15325,7 +14461,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -15341,7 +14477,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《卑鄙的我》",
@@ -15357,7 +14493,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -15373,7 +14509,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -15389,7 +14525,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "读剧：中华少儿经典故事",
@@ -15405,7 +14541,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "第十五届深圳动漫节",
@@ -15421,7 +14557,7 @@
     "fee": "免费",
     "contact": "深圳市设计之都运营发展有限公司 罗女士 13691919789",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展",
@@ -15437,7 +14573,7 @@
     "fee": "免费",
     "contact": "深圳钦诺展览有限公司 潘女士 18025471745",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季）",
@@ -15453,7 +14589,23 @@
     "fee": "免费",
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
+  },
+  {
+    "title": "世界先进军事装备模型展暨GAIA嘉年华",
+    "name": "世界先进军事装备模型展暨GAIA嘉年华",
+    "venue": "深圳国际会展中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-08-16",
+    "link": "https://www.shenzhen-world.com",
+    "url": "https://www.shenzhen-world.com",
+    "description": "世界先进军事装备模型展暨GAIA嘉年华，2026-07-24至2026-08-16，深圳国际会展中心。主办方：广东省粤造粤好展览有限公司。联系方式：廖小姐  138 7439 4113。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "廖小姐  138 7439 4113",
+    "family_friendly": false,
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第34届全国书博会",
@@ -15501,7 +14653,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第642场",
@@ -15517,7 +14669,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "律师公益咨询活动",
@@ -15533,7 +14685,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "原版BOOK快乐读：乐于助人的Bella",
@@ -15549,7 +14701,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "胭脂扣",
@@ -15565,7 +14717,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第643场",
@@ -15581,7 +14733,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "故事小讲堂第151期：“不一样，也很好”创意主题读书会",
@@ -15597,7 +14749,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“圳作一夏”主题系列活动 |  企业实地参访之斯达高瓷艺",
@@ -15613,7 +14765,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -15629,7 +14781,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "2026粤港澳大湾区（深圳）婚博会（夏季）",
@@ -15645,7 +14797,7 @@
     "fee": "免费",
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
@@ -15677,7 +14829,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szwty"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "宝博小小讲解员定点讲解",
@@ -15693,7 +14845,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "陈洁仪 ATRIUM(心房) 巡回演唱会深圳站",
@@ -15709,7 +14861,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "baoan_ty"
+    "source": "宝安体育中心"
   },
   {
     "title": "科普小课堂·儿童科学防晒专题",
@@ -15725,7 +14877,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_1990"
+    "source": "宝安1990文化馆"
   },
   {
     "title": "莫叫姐姐《不该用情》巡回演唱会",
@@ -15741,7 +14893,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "南山文体中心"
   },
   {
     "title": "经典大奖绘本精读分享会",
@@ -15805,7 +14957,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "巫婆读书会 | 追逐候鸟的人：在旷野与书页间重拾好奇",
@@ -15821,7 +14973,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第644场",
@@ -15837,7 +14989,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -15853,7 +15005,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "她影：《七月与安生》",
@@ -15869,7 +15021,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "故事小讲堂第152期：“夏天的故事”陈伯吹获奖图书读书会",
@@ -15885,7 +15037,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "像鸡毛一样飞",
@@ -15901,7 +15053,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第645场",
@@ -15917,7 +15069,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "“深读”读书沙龙 | 在文学中疗愈和成长自己",
@@ -15933,7 +15085,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "阖家欢电影展映：《飞驰人生2》",
@@ -15949,7 +15101,7 @@
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "balib"
+    "source": "宝安图书馆"
   },
   {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
@@ -15981,7 +15133,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "nswtzx"
+    "source": "南山文体中心"
   },
   {
     "title": "弗里达：伟大的隐藏者",
@@ -16061,7 +15213,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16077,7 +15229,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -16093,7 +15245,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "深圳自然博物馆开馆特展——自然之美",
@@ -16173,7 +15325,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16189,7 +15341,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -16205,39 +15357,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
-  },
-  {
-    "title": "2025年桃源公益形体培训活动",
-    "name": "2025年桃源公益形体培训活动",
-    "venue": "桃源街道综合性文化服务中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-29",
-    "end_date": "2026-07-29",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
-    "description": "2025年桃源公益形体培训活动。免费参与。直接前往。可直接前往",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "nswhg"
-  },
-  {
-    "title": "2025年桃源公益形体培训活动",
-    "name": "2025年桃源公益形体培训活动",
-    "venue": "桃源街道综合性文化服务中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-29",
-    "end_date": "2026-07-29",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
-    "description": "2025年桃源公益形体培训活动。免费参与",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26661612",
-    "family_friendly": true,
-    "source": "nsqsng"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -16253,7 +15373,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16269,7 +15389,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -16285,7 +15405,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
@@ -16349,7 +15469,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "东方幻境之旅：《侍神令》",
@@ -16365,7 +15485,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -16381,7 +15501,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "艺术疗愈人生",
@@ -16397,7 +15517,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《哪吒之魔童闹海》",
@@ -16413,7 +15533,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -16429,7 +15549,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16445,7 +15565,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -16461,7 +15581,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "《在巴黎的星空下》芭蕾明星精品荟萃",
@@ -16478,6 +15598,22 @@
     "contact": "",
     "family_friendly": false,
     "source": "szbo"
+  },
+  {
+    "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
+    "name": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=baae9c750cca41e58f5ebe33c80a474a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=baae9c750cca41e58f5ebe33c80a474a",
+    "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "坂田街道文化站"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
@@ -16509,7 +15645,7 @@
     "fee": "免费",
     "contact": "0755-84298800",
     "family_friendly": true,
-    "source": "lg_hakka"
+    "source": "龙岗客家民俗博物馆"
   },
   {
     "title": "舞剧《她的龟兹》",
@@ -16525,7 +15661,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "光明文化艺术中心"
   },
   {
     "title": "科普广图·2026“探海无疆”系列科普活动",
@@ -16573,7 +15709,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "夏日科幻季——《沙丘》",
@@ -16589,7 +15725,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
@@ -16637,7 +15773,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "KACE 2026 AI赋能跨境电商与海外达人合作展览会",
@@ -16653,7 +15789,7 @@
     "fee": "免费",
     "contact": "高帆破浪科技（浙江）有限责任公司 唐炜&nbsp; &nbsp; &nbsp;15819327125&nbsp;&nbsp;",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16669,7 +15805,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -16717,7 +15853,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -16765,7 +15901,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16781,7 +15917,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《龙猫》",
@@ -16797,7 +15933,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《妈妈咪鸭》",
@@ -16813,7 +15949,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "2026（秋）深圳国际家居软装博览会",
@@ -16829,7 +15965,7 @@
     "fee": "免费",
     "contact": "深圳市博奥展览有限公司 何女士 0757-82363293",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -16877,7 +16013,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -16941,7 +16077,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "光明文化艺术中心"
   },
   {
     "title": "陕西人艺话剧《主角》",
@@ -16957,7 +16093,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "光明文化艺术中心"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -16973,7 +16109,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "夏日科幻季——《明日之战》",
@@ -16989,7 +16125,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -17069,7 +16205,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《愤怒的小鸟大电影》",
@@ -17085,7 +16221,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《星际宝贝》",
@@ -17101,7 +16237,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "第五十五届深圳家装节",
@@ -17117,7 +16253,7 @@
     "fee": "免费",
     "contact": "深圳市点耐特网络信息有限公司 张先生 4008222160",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "IWF2026深圳国际健身展暨运动用品外贸出口与跨境选品展",
@@ -17133,7 +16269,7 @@
     "fee": "免费",
     "contact": "上海德纳展览有限公司 张女士 021-66102038/18918849010",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "第二十届 SIAS 深圳国际音频展",
@@ -17149,7 +16285,7 @@
     "fee": "免费",
     "contact": "深圳千音国际展览有限公司 李女士&nbsp; 17775791203",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "杨丽萍作品舞蹈剧场2026版《十面埋伏》",
@@ -17213,7 +16349,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "26|27赛季HYROX健身跑深圳站",
@@ -17229,7 +16365,7 @@
     "fee": "免费",
     "contact": "嗨炼体育文化（上海）有限公司&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 袁放&nbsp; &nbsp; 15901448102",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -17261,7 +16397,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "光明文化艺术中心"
   },
   {
     "title": "刘莉旻「下一站，嘉禾望岗」2026深圳特别专场",
@@ -17277,7 +16413,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "光明文化艺术中心"
   },
   {
     "title": "马安堂社区幸福陪伴·父母成长公益课堂",
@@ -17309,7 +16445,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "夏日科幻季——《月球陨落》",
@@ -17325,7 +16461,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -17357,7 +16493,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《萤火奇兵》",
@@ -17373,7 +16509,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《星际宝贝2》",
@@ -17389,7 +16525,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
@@ -17405,7 +16541,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
@@ -17437,7 +16573,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gmarts"
+    "source": "光明文化艺术中心"
   },
   {
     "title": "原创话剧《莫比乌斯环》",
@@ -17469,7 +16605,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "夏日科幻季——《流浪地球2》",
@@ -17485,7 +16621,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "故事小讲堂第156期：“泥巴会唱歌”陈伯吹获奖图书读书会",
@@ -17501,7 +16637,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -17533,7 +16669,7 @@
     "fee": "免费",
     "contact": "龙璇  18318676293",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际新能源连接器及线束加工技术展览会",
@@ -17549,7 +16685,7 @@
     "fee": "免费",
     "contact": "高雅  13918474775  ",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第5届国际文创新品及潮玩（深圳）展览会",
@@ -17565,7 +16701,7 @@
     "fee": "免费",
     "contact": "陈晓钰  0755-83350303",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第14届国际IP授权产业(深圳)博览会",
@@ -17581,7 +16717,7 @@
     "fee": "免费",
     "contact": "陈晓钰  0755-83350303",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "AGIC 2026深圳国际通用人工智能大会暨深圳国际通用人工智能产业博览会",
@@ -17597,7 +16733,7 @@
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "IOTE®2026 第二十五届国际物联网展•深圳站",
@@ -17613,7 +16749,7 @@
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "IOTE®2026国际物联网展·智能传感器与嵌入式展",
@@ -17629,7 +16765,7 @@
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "IOTE®2026国际物联网展·通信定位展",
@@ -17645,7 +16781,7 @@
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "IOTE®2026国际物联网展·RFID自动识别展",
@@ -17661,7 +16797,7 @@
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "PCIM Asia Shenzhen — 深圳国际电力元件、可再生能源管理展览会暨研讨会",
@@ -17677,7 +16813,7 @@
     "fee": "免费",
     "contact": "020-38251558",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "SETE深圳国际储能技术展览会",
@@ -17693,7 +16829,7 @@
     "fee": "免费",
     "contact": "高雅  13918474775",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "ARE第18届深圳国际工业自动化及机器人展览会",
@@ -17709,7 +16845,7 @@
     "fee": "免费",
     "contact": "张先生  18621271618",
     "family_friendly": true,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "ICH第18届深圳国际连接器、线缆线束及加工设备展览会",
@@ -17725,7 +16861,7 @@
     "fee": "免费",
     "contact": "杨国  13661626920",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第十届深圳国际智能装备产业博览会<br/>第十三届深圳国际电子装备产业博览会",
@@ -17741,7 +16877,7 @@
     "fee": "免费",
     "contact": "张生  13632577866",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "深圳国际3D打印、增材制造及精密成型展览会",
@@ -17757,7 +16893,7 @@
     "fee": "免费",
     "contact": "+86 20 3825 1558",
     "family_friendly": true,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "夏日科幻季——《蜘蛛侠》",
@@ -17773,7 +16909,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《黑猫警长之翡翠之星》",
@@ -17789,7 +16925,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "观影《借物少女艾莉缇》",
@@ -17805,7 +16941,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
@@ -17837,7 +16973,7 @@
     "fee": "免费",
     "contact": "深圳市律师协会 江女士，0755-83025737、18823349360&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "陕西人艺茅奖系列话剧《主角》",
@@ -17869,7 +17005,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "夏日科幻季——《星际探索》",
@@ -17885,7 +17021,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -17965,7 +17101,7 @@
     "fee": "免费",
     "contact": "出海网跨境电商（广州）有限公司 刘女士 13570552478",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "深圳国际消费类电子及家用电器展（秋季）",
@@ -17981,7 +17117,7 @@
     "fee": "免费",
     "contact": "广东潮域展览有限公司 蔡先生 13602600703",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026深圳国际珠宝展",
@@ -17997,7 +17133,7 @@
     "fee": "免费",
     "contact": "深圳邦友展览有限公司 李女士 0755-25616558",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "elexcon 2026 第23届深圳国际电子展暨嵌入式展",
@@ -18013,7 +17149,7 @@
     "fee": "免费",
     "contact": "刘女士  0755-88311535",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026 IICIE国际集成电路创新博览会（简称：IC创新博览会）",
@@ -18029,7 +17165,7 @@
     "fee": "免费",
     "contact": "王女士  0755-88242545",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第二十七届中国国际光电博览会（简称：CIOE中国光博会）",
@@ -18045,7 +17181,7 @@
     "fee": "免费",
     "contact": "汪女士  86290901",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳华夏家博会秋季展",
@@ -18061,7 +17197,7 @@
     "fee": "免费",
     "contact": "深圳华墨展览有限公司 刘先生&nbsp; &nbsp; 0755-23915315 上海总部售后：4006188555",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026国际数字能源展",
@@ -18077,7 +17213,7 @@
     "fee": "免费",
     "contact": "深圳会展中心管理有限责任公司&nbsp; &nbsp; 李梦婷&nbsp; &nbsp;13418493243",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "CPHI &amp; PMEC制药工业展（深圳）(CPHI &amp; PMEC Shenzhen)",
@@ -18093,7 +17229,7 @@
     "fee": "免费",
     "contact": "上海博华国际展览有限公司 CPHI＆PMEC项目组 021－33392222",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026第四届深圳eVTOL产业发展大会暨低空经济展览会（简称：深圳eVTOL展）",
@@ -18109,7 +17245,7 @@
     "fee": "免费",
     "contact": "芬恩Fern  18116132595",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026年深圳跨境电商展览会（CCBEC）",
@@ -18125,7 +17261,7 @@
     "fee": "免费",
     "contact": "CCBEC组委会  +86 755 8299 4989 / +86 755 8590 3104 / +86 10 5129 8656",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "深圳国际成人健康保健用品展览会",
@@ -18141,7 +17277,7 @@
     "fee": "免费",
     "contact": "林女士  Mary  0592-6535115 / 18206063261",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026西溪火柿节",
@@ -18173,7 +17309,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "第十六届深圳国际宠物用品展览会暨全球宠业跨境电商交易会",
@@ -18189,7 +17325,7 @@
     "fee": "免费",
     "contact": "深圳市华艺时代文化展览有限公司 宋先生&nbsp; 0755-33654238",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "第五十六届深圳家装节",
@@ -18205,7 +17341,7 @@
     "fee": "免费",
     "contact": "深圳市点耐特网络信息有限公司&nbsp; &nbsp; &nbsp; 张先生 4008222160&nbsp;",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "WESEMIBAY湾区半导体产业生态博览会（深圳）",
@@ -18221,7 +17357,7 @@
     "fee": "免费",
     "contact": "深圳市芯盟会展有限公司 刘女士 0755-36868521、17640259285",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026华南国际粉末冶金与先进陶瓷展览会",
@@ -18237,7 +17373,7 @@
     "fee": "免费",
     "contact": "赵女士  021-5988 1253",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "华南3D打印、增材制造展览会",
@@ -18253,7 +17389,7 @@
     "fee": "免费",
     "contact": "房女士  021-6195 6071",
     "family_friendly": true,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第18届深圳国际移动电子展",
@@ -18269,7 +17405,7 @@
     "fee": "免费",
     "contact": "400-680-7088",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第34届中国（深圳）国际礼品及家居用品展览会",
@@ -18285,7 +17421,7 @@
     "fee": "免费",
     "contact": "400-680-7088",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",
@@ -18317,7 +17453,7 @@
     "fee": "免费",
     "contact": "参展咨询：吴继钰女士  +86 0755-2383 4527 / aster.wu@rxglobal.com   参观咨询：孙梅女士  400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": true,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026智能工厂及自动化技术展览会",
@@ -18333,7 +17469,7 @@
     "fee": "免费",
     "contact": "参展咨询：吴继钰女士 +86 0755-2383 4527 / aster.wu@rxglobal.com   参观咨询：孙梅女士 400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳商用显示技术展",
@@ -18349,7 +17485,7 @@
     "fee": "免费",
     "contact": "李翔  +86 21- 2231 7018",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际全触与显示展",
@@ -18365,7 +17501,7 @@
     "fee": "免费",
     "contact": "李翔  +86 21- 2231 7018",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际薄膜与胶带展",
@@ -18381,7 +17517,7 @@
     "fee": "免费",
     "contact": "叶绪武先生（Mr. Aaron Ye）  021-2231 7259",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际胶粘剂及化工原料展",
@@ -18397,7 +17533,7 @@
     "fee": "免费",
     "contact": "叶绪武先生（Mr. Aaron Ye）  021-2231 7259",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第十届国际新材料新工艺及色彩(简称CMF)展览会",
@@ -18413,7 +17549,7 @@
     "fee": "免费",
     "contact": "井开元  0755-86060912",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际AI+AR智能眼镜产业展",
@@ -18429,7 +17565,7 @@
     "fee": "免费",
     "contact": "李翔先生 021-2231 7018 / edison.li@rxglobal.com",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际智能网联汽车产业展览会",
@@ -18445,7 +17581,7 @@
     "fee": "免费",
     "contact": "参展咨询：彭女士 0755 2383 4576 / fergie.peng@rxglobal.com   参观咨询：孙梅女士 400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "深圳国际半导体及电子元器件展览会暨深圳国际未来电子产业展览会",
@@ -18461,7 +17597,7 @@
     "fee": "免费",
     "contact": "张女士  +86 139 2463 3103",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "中国（深圳）机器视觉展暨机器视觉技术及工业应用研讨会",
@@ -18477,7 +17613,7 @@
     "fee": "免费",
     "contact": "尹先生  010-62650570",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026亚洲电子生产设备暨微电子工业展览会",
@@ -18493,7 +17629,7 @@
     "fee": "免费",
     "contact": "参展咨询：谷冰蓉女士  +86 21 2231 7010 / julia.gu@rxglobal.com   参观咨询：孙梅女士 400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026电子半导体产业创新发展大会暨国际电子电路（大湾区）展览会",
@@ -18509,7 +17645,7 @@
     "fee": "免费",
     "contact": "+86-21-5417 9011 / +86-135 6462 0386",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "ICBE 2026深圳国际跨境电商交易博览会",
@@ -18525,7 +17661,7 @@
     "fee": "免费",
     "contact": "深圳扩展展览服务有限公司 张先生18516075888",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "海阔天高——亚太版画作品邀请展",
@@ -18541,7 +17677,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "lh_printmaking"
+    "source": "中国版画博物馆"
   },
   {
     "title": "世界文明互鉴系列——莫斯科市博物馆茶文化展（万里茶道）",
@@ -18589,7 +17725,7 @@
     "fee": "免费",
     "contact": "杭州趋瀛新媒体科技有限公司&nbsp; &nbsp; 谢先生 18685105745",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026第九届深圳国际充换电、光储充、储能、氢能展暨电池技术展览会",
@@ -18605,7 +17741,7 @@
     "fee": "免费",
     "contact": "上海贺励商务咨询有限公司 费先生 15921091892",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "第二十八届中国国际高新技术成果交易会",
@@ -18621,7 +17757,7 @@
     "fee": "免费",
     "contact": "侯先生  13623815893",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "第六届疗愈博览会（深圳）",
@@ -18637,7 +17773,7 @@
     "fee": "免费",
     "contact": "愈到（上海）展览有限公司&nbsp; 周女士&nbsp; 13761260618",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -18653,7 +17789,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib"
+    "source": "深圳图书馆"
   },
   {
     "title": "大音希声：八大山人诞辰400周年书画艺术大展",
@@ -18685,7 +17821,7 @@
     "fee": "免费",
     "contact": "深圳大世界会展服务有限公司 窦先生 0755-83581352",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026国际电子电路（深圳）展览会",
@@ -18701,7 +17837,7 @@
     "fee": "免费",
     "contact": "李女士  0755-86240033  /  靳女士  18124056937",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026华南国际标签与包装印刷展览会",
@@ -18717,7 +17853,7 @@
     "fee": "免费",
     "contact": "张艳 18616787429",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "DMP大湾区工业博览会",
@@ -18733,7 +17869,7 @@
     "fee": "免费",
     "contact": "翁先生  13560369448",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "核能高质量发展大会暨深圳国际核能产业创新博览会",
@@ -18749,7 +17885,7 @@
     "fee": "免费",
     "contact": "核博会组委会 韩先生 18611121551",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026深圳国际心血管病技术展览会",
@@ -18765,7 +17901,7 @@
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "SDHE 深圳国际口腔医学高新技术博览会",
@@ -18781,7 +17917,7 @@
     "fee": "免费",
     "contact": "郭雪娇  18028626920",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际健康产业博览会",
@@ -18797,7 +17933,7 @@
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际家庭医疗健康用品展览会",
@@ -18813,7 +17949,7 @@
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": true,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际养老产业及康复博览会",
@@ -18829,7 +17965,7 @@
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026深圳国际医疗器械展览会",
@@ -18845,7 +17981,7 @@
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "深圳国际会展中心"
   },
   {
     "title": "2026中国(深圳)国际秋季茶产业博览会",
@@ -18861,7 +17997,7 @@
     "fee": "免费",
     "contact": "深圳市华巨臣国际会展集团有限公司 0755-82222201 陈经理 18938977739",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026第15届深圳生态农业暨食材、营养与健康产业博览会",
@@ -18877,7 +18013,7 @@
     "fee": "免费",
     "contact": "丽扬传媒（广东横琴粤澳深度合作区）有限公司&nbsp; 杨小姐 0755-83184496",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   },
   {
     "title": "2026深圳国际珠宝玉石首饰展暨大湾区时尚珠宝消费季",
@@ -18893,6 +18029,6 @@
     "fee": "免费",
     "contact": "中禹展览(上海)有限公司 张先生 13788942888",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "深圳会展中心"
   }
 ]

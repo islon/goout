@@ -180,6 +180,47 @@ DISTRICT_MAPPING = {
     '大鹏': ['大鹏', '大鹏新区'],
 }
 
+# source 代码到可读名称的映射（始终应用）
+SOURCE_CODE_MAP = {
+    'nsqsng': '南山区青少年活动中心',
+    'nswtzx': '南山文体中心',
+    'nslib': '南山图书馆',
+    'nsmuseum': '南山博物馆',
+    'nswhg': '南山区文化馆',
+    'balib': '宝安图书馆',
+    'szlib': '深圳图书馆',
+    'gm_lib': '光明区图书馆',
+    'gm_kjg': '光明区科技馆',
+    'yt_lib': '盐田区图书馆',
+    'dp_geopark': '大鹏地质公园博物馆',
+    'lg_hakka': '龙岗客家民俗博物馆',
+    'lh_printmaking': '中国版画博物馆',
+    'lh_ecology': '龙华生态文明展览馆',
+    'nsaqjy': '南山安全教育体验馆',
+    'skhykpg': '蛇口海洋科普馆',
+    'sarc': '深爱人才馆',
+    'baoan_1990': '宝安1990文化馆',
+    'oct_wetland': '华侨城湿地',
+    'ps_nature': '深圳自然博物馆',
+    'dp_nuclear': '大亚湾核能科技馆',
+    'nssxf': '南山书房',
+    'szwty': '深圳湾体育中心',
+    'baoan_kjg': '宝安科技馆',
+    'baoan_ty': '宝安体育中心',
+    'sz_safety': '深圳市安全教育基地',
+    'yt_history': '中英街历史博物馆',
+    'zsjbwg': '招商局历史博物馆',
+    'ntgc': '南头古城博物馆群',
+    'lh_paleo': '深圳古生物博物馆',
+    'bayarea_eye': '湾区之眼',
+    'sz_children_lib': '深圳少年儿童图书馆',
+    'szcec': '深圳会展中心',
+    'shenzhen_world': '深圳国际会展中心',
+    'chnmuseum': '中国国家博物馆',
+    'szartm': '深圳美术馆',
+    'gmarts': '光明文化艺术中心',
+}
+
 
 def get_district_from_text(text):
     if not text:
@@ -255,50 +296,20 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     if fee not in ALLOWED_FEE_VALUES:
         fee = '免费'
 
+    # 始终将 source 代码映射为可读名称
+    if source in SOURCE_CODE_MAP:
+        source = SOURCE_CODE_MAP[source]
+
     venue_district = get_district_from_text(venue)
     source_district = get_district_from_text(source)
-    
+
     if source and venue_district and source_district and venue_district != source_district:
         city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布']
         if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
             pass
         else:
-            source_map = {
-                'nsqsng': '南山区青少年活动中心',
-                'nswtzx': '南山文体中心',
-                'nslib': '南山图书馆',
-                'nsmuseum': '南山博物馆',
-                'nswhg': '南山区文化馆',
-                'balib': '宝安图书馆',
-                'szlib': '深圳图书馆',
-                'gm_lib': '光明区图书馆',
-                'gm_kjg': '光明区科技馆',
-                'yt_lib': '盐田区图书馆',
-                'dp_geopark': '大鹏地质公园博物馆',
-                'lg_hakka': '龙岗客家民俗博物馆',
-                'lh_printmaking': '中国版画博物馆',
-                'lh_ecology': '龙华生态文明展览馆',
-                'nsaqjy': '南山安全教育体验馆',
-                'skhykpg': '蛇口海洋科普馆',
-                'sarc': '深爱人才馆',
-                'baoan_1990': '宝安1990文化馆',
-                'oct_wetland': '华侨城湿地',
-                'ps_nature': '深圳自然博物馆',
-                'dp_nuclear': '大亚湾核能科技馆',
-                'nssxf': '南山书房',
-                'szwty': '深圳湾体育中心',
-                'baoan_kjg': '宝安科技馆',
-                'baoan_ty': '宝安体育中心',
-                'sz_safety': '深圳市安全教育基地',
-                'yt_history': '中英街历史博物馆',
-                'zsjbwg': '招商局历史博物馆',
-                'ntgc': '南头古城博物馆群',
-                'lh_paleo': '深圳古生物博物馆',
-                'bayarea_eye': '湾区之眼',
-                'sz_children_lib': '深圳少年儿童图书馆',
-            }
-            if source in source_map:
-                source = source_map[source]
+            # source 区县与 venue 区县不匹配时，用 venue 名称作为 source
+            source = venue
 
     description = fix_description(title, description, venue, category, fee)
 
@@ -511,6 +522,19 @@ def collect_all_activities():
             wechat_valid.append(activity)
     print(f"有效活动: {len(wechat_valid)} 条")
     all_activities.extend(wechat_valid)
+
+    # 去重：按 (title, venue, start_date) 去重，保留首次出现的条目
+    seen = set()
+    unique_activities = []
+    for a in all_activities:
+        key = (a.get('title', ''), a.get('venue', ''), a.get('start_date', ''))
+        if key not in seen:
+            seen.add(key)
+            unique_activities.append(a)
+    dup_count = len(all_activities) - len(unique_activities)
+    if dup_count > 0:
+        print(f"\n去重: 移除 {dup_count} 条重复条目")
+    all_activities = unique_activities
 
     all_activities.sort(key=lambda x: x['start_date'])
 
