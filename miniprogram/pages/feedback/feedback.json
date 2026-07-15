@@ -1,8 +1,7 @@
 {
   "usingComponents": {},
-  "navigationBarTitleText": "场馆指南",
+  "navigationBarTitleText": "意见反馈",
   "navigationBarBackgroundColor": "#D4A373",
   "navigationBarTextStyle": "white",
-  "backgroundColor": "#FFFDF7",
-  "enablePullDownRefresh": false
+  "backgroundColor": "#FFFDF7"
 }

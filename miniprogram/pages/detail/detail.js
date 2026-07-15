@@ -1,169 +1,172 @@
-// pages/detail/detail.js
-const localActivities = require('../../data/activities.json')
+const { venueAddressMap } = require('../../data/filters.js');
+const { getActivityType, getFeeType, formatDate, getDuration, normalizeCity, findVenue } = require('../../utils/helpers.js');
 
-// 订阅消息模板ID
-// 在小程序后台 → 功能 → 订阅消息 → 公共模板库中申请
-// 推荐模板：活动开始提醒（含活动名称、时间、地点）
-const SUBSCRIBE_TMPL_ID = '替换为你的订阅消息模板ID'
+const app = getApp();
 
 Page({
   data: {
     activity: null,
-    subscribed: false,
-    subscribeLoading: false
+    activityType: '',
+    feeType: '',
+    dateDisplay: '',
+    duration: '',
+    venueAddress: '',
+    showLink: false,
+    hasReminded: false,
+    remindId: '',
+    venue: null,
+    hasVenue: false
   },
 
   onLoad(options) {
-    const id = parseInt(options.id)
-    // 优先从首页写入的缓存读取（与列表同源，id 索引一致），兜底本地 JSON
-    const cache = wx.getStorageSync('activitiesCache') || localActivities
-    const activity = cache[id]
-    if (!activity) {
-      wx.showToast({ title: '活动不存在', icon: 'error' })
-      setTimeout(() => wx.navigateBack(), 1500)
-      return
-    }
+    const self = this;
+    const id = decodeURIComponent(options.id || '');
 
-    const today = new Date()
-    today.setHours(0, 0, 0, 0)
-    const startDate = new Date(activity.start_date)
-    const daysUntil = Math.ceil((startDate - today) / (1000 * 60 * 60 * 24))
-
-    this.setData({
-      activity: {
-        ...activity,
-        _id: id,
-        _dateRange: activity.start_date === activity.end_date 
-          ? activity.start_date 
-          : `${activity.start_date} ~ ${activity.end_date}`,
-        _isFree: activity.fee === '免费' || activity.fee === '免费需预约',
-        _daysUntil: daysUntil,
-        _daysUntilText: daysUntil > 0 ? `${daysUntil} 天后开始` : daysUntil === 0 ? '今天开始' : '进行中'
+    function findActivity() {
+      const allExhibitions = app.globalData.exhibitions || [];
+      // 通过 ID 查找活动
+      let activity = null;
+      for (let i = 0; i < allExhibitions.length; i++) {
+        const e = allExhibitions[i];
+        const cardId = e.id || (e.source + '-' + e.name + '-' + e.start_date);
+        if (cardId === id) {
+          activity = e;
+          break;
+        }
       }
-    })
 
-    this.checkSubscription(id)
-  },
-
-  checkSubscription(activityId) {
-    const subs = wx.getStorageSync('subscriptions') || []
-    this.setData({ subscribed: subs.includes(activityId) })
-  },
-
-  onSubscribeTap() {
-    if (this.data.subscribed) {
-      this.unsubscribe()
-      return
-    }
-
-    this.setData({ subscribeLoading: true })
-
-    // 如果模板ID未配置，先保存本地订阅，提示用户
-    if (SUBSCRIBE_TMPL_ID.startsWith('替换为')) {
-      this.saveSubscriptionLocal()
-      this.setData({ subscribeLoading: false })
-      wx.showToast({ title: '已收藏（订阅消息模板待配置）', icon: 'none', duration: 2500 })
-      return
-    }
-
-    // 调用微信订阅消息授权
-    wx.requestSubscribeMessage({
-      tmplIds: [SUBSCRIBE_TMPL_ID],
-      success: (res) => {
-        if (res[SUBSCRIBE_TMPL_ID] === 'accept') {
-          this.saveSubscription()
-        } else {
-          wx.showToast({ title: '需要授权才能发送提醒', icon: 'none' })
-        }
-      },
-      fail: (err) => {
-        console.error('订阅失败', err)
-        // 降级：仍然保存本地订阅
-        this.saveSubscriptionLocal()
-        wx.showToast({ title: '已收藏，提醒功能待配置', icon: 'none' })
-      },
-      complete: () => {
-        this.setData({ subscribeLoading: false })
+      if (!activity) {
+        wx.showToast({ title: '活动不存在', icon: 'none' });
+        setTimeout(function() { wx.navigateBack(); }, 1500);
+        return;
       }
-    })
+
+      const startDate = activity.start_date;
+      const endDate = activity.end_date;
+      const dateDisplay = startDate === endDate
+        ? formatDate(startDate)
+        : formatDate(startDate) + ' ~ ' + formatDate(endDate);
+      const duration = getDuration(startDate, endDate);
+      const activityType = getActivityType(activity);
+      const feeType = getFeeType(activity);
+      const venueAddress = venueAddressMap[activity.source] || '';
+      const venue = findVenue(activity.venue, app.globalData.venueMap || {});
+
+      self.setData({
+        activity: activity,
+        activityType: activityType,
+        feeType: feeType,
+        dateDisplay: dateDisplay,
+        duration: duration,
+        venueAddress: venueAddress,
+        showLink: !!activity.url,
+        venue: venue,
+        hasVenue: !!venue
+      });
+
+      wx.setNavigationBarTitle({ title: activity.name || '活动详情' });
+
+      // 检查是否已设置提醒
+      const remindId = activity.id || (activity.source + '-' + activity.name + '-' + startDate);
+      const remindedIds = wx.getStorageSync('remindedIds') || [];
+      const hasReminded = remindedIds.indexOf(remindId) >= 0;
+      self.setData({ remindId: remindId, hasReminded: hasReminded });
+    }
+
+    // 等待数据准备完成
+    app.onReady(function() {
+      findActivity();
+    });
   },
 
-  // 保存订阅到本地 + 云端
-  saveSubscription() {
-    const activityId = this.data.activity._id
-    const subs = wx.getStorageSync('subscriptions') || []
-    if (!subs.includes(activityId)) {
-      subs.push(activityId)
-      wx.setStorageSync('subscriptions', subs)
-    }
-
-    // 调用云函数记录订阅（如果云开发已初始化）
-    if (wx.cloud && wx.cloud.callFunction) {
-      wx.cloud.callFunction({
-        name: 'subscribe',
-        data: {
-          activityId: activityId,
-          activityTitle: this.data.activity.title,
-          startDate: this.data.activity.start_date,
-          venue: this.data.activity.venue
-        },
-        success: (res) => {
-          console.log('订阅记录成功', res)
-        },
-        fail: (err) => {
-          console.error('云端订阅记录失败', err)
-        }
-      })
-    }
-
-    this.setData({ subscribed: true })
-    wx.showToast({ title: '订阅成功，将提前提醒你', icon: 'success' })
+  onVenueTap() {
+    if (!this.data.venue || !this.data.venue.name) return;
+    wx.navigateTo({
+      url: '/pages/venue/venue?id=' + encodeURIComponent(this.data.venue.name)
+    });
   },
 
-  // 仅保存到本地（云开发未就绪时的降级方案）
-  saveSubscriptionLocal() {
-    const activityId = this.data.activity._id
-    const subs = wx.getStorageSync('subscriptions') || []
-    if (!subs.includes(activityId)) {
-      subs.push(activityId)
-      wx.setStorageSync('subscriptions', subs)
-    }
-    this.setData({ subscribed: true })
-  },
-
-  unsubscribe() {
-    const activityId = this.data.activity._id
-    const subs = wx.getStorageSync('subscriptions') || []
-    const newSubs = subs.filter(id => id !== activityId)
-    wx.setStorageSync('subscriptions', newSubs)
-
-    if (wx.cloud && wx.cloud.callFunction) {
-      wx.cloud.callFunction({
-        name: 'subscribe',
-        data: {
-          action: 'cancel',
-          activityId: activityId
-        }
-      })
-    }
-
-    this.setData({ subscribed: false })
-    wx.showToast({ title: '已取消订阅', icon: 'none' })
+  onGoVenues() {
+    wx.switchTab({
+      url: '/pages/venues/venues'
+    });
   },
 
   onCopyLink() {
+    if (!this.data.activity || !this.data.activity.url) return;
     wx.setClipboardData({
-      data: this.data.activity.link || '',
-      success: () => {
-        wx.showToast({ title: '链接已复制', icon: 'success' })
+      data: this.data.activity.url,
+      success: function() {
+        wx.showToast({ title: '链接已复制', icon: 'success' });
       }
-    })
+    });
+  },
+
+  onRemindTap() {
+    if (this.data.hasReminded) {
+      // 已设置提醒，取消提醒
+      const remindedIds = wx.getStorageSync('remindedIds') || [];
+      const idx = remindedIds.indexOf(this.data.remindId);
+      if (idx >= 0) remindedIds.splice(idx, 1);
+      wx.setStorageSync('remindedIds', remindedIds);
+      this.setData({ hasReminded: false });
+      wx.showToast({ title: '已取消提醒', icon: 'none' });
+      return;
+    }
+
+    // 请求订阅消息权限
+    // 注意：templateId 需要在微信公众平台后台配置订阅消息模板后获取
+    // 当前为占位ID，实际使用时请替换为真实的模板ID
+    const templateId = 'REPLACE_WITH_YOUR_TEMPLATE_ID';
+    
+    wx.requestSubscribeMessage({
+      tmplIds: [templateId],
+      success: (res) => {
+        if (res[templateId] === 'accept') {
+          // 用户同意，保存提醒状态
+          const remindedIds = wx.getStorageSync('remindedIds') || [];
+          if (remindedIds.indexOf(this.data.remindId) < 0) {
+            remindedIds.push(this.data.remindId);
+          }
+          wx.setStorageSync('remindedIds', remindedIds);
+          this.setData({ hasReminded: true });
+
+          // TODO: 在实际部署时，这里需要调用后端API记录提醒
+          // wx.cloud.callFunction 或 wx.request 发送活动ID和用户openid到服务器
+          // 服务器在活动开始前1天通过 subscribeMessage.send API 推送提醒
+
+          wx.showToast({ title: '提醒设置成功', icon: 'success' });
+        } else {
+          wx.showToast({ title: '需要授权才能提醒哦', icon: 'none' });
+        }
+      },
+      fail: (err) => {
+        // 测试号或未配置模板时的降级处理
+        if (err.errCode === 20002 || err.errMsg.indexOf('tmplId') >= 0 || templateId === 'REPLACE_WITH_YOUR_TEMPLATE_ID') {
+          // 降级方案：仅本地记录，提示用户
+          const remindedIds = wx.getStorageSync('remindedIds') || [];
+          if (remindedIds.indexOf(this.data.remindId) < 0) {
+            remindedIds.push(this.data.remindId);
+          }
+          wx.setStorageSync('remindedIds', remindedIds);
+          this.setData({ hasReminded: true });
+          wx.showModal({
+            title: '提醒已设置',
+            content: '微信提醒功能需要在正式发布后配置。目前已在本地记录，你也可以在「订阅日程」页面使用日历订阅功能。',
+            showCancel: false,
+            confirmText: '知道了'
+          });
+        } else {
+          wx.showToast({ title: '设置失败，请重试', icon: 'none' });
+        }
+      }
+    });
   },
 
   onShareAppMessage() {
     return {
-      title: this.data.activity.title,
-      path: `/pages/detail/detail?id=${this.data.activity._id}`
-    }
+      title: this.data.activity ? this.data.activity.name : '童行 - 亲子活动日历',
+      path: '/pages/index/index'
+    };
   }
-})
+});

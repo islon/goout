@@ -1,244 +1,352 @@
-// pages/index/index.js
-// 数据来源：运行时通过云函数 getActivities 实时拉取网页（GitHub Pages）数据，
-// 从而自动跟随 Web 版更新，无需重新上传小程序代码。
-// 本地 data/activities.json 仅作云函数不可用时的兜底。
+const { cities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity } = require('../../data/filters.js');
+const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, matchSource, normalizeCity } = require('../../utils/helpers.js');
 
-const localActivities = require('../../data/activities.json')
+const PAGE_SIZE = 20;
+const app = getApp();
 
 Page({
   data: {
-    activities: [],
-    filteredActivities: [],
-    activeCategory: '全部',
-    activeFee: '全部',
-    activeFamily: 'all',
-    activeCity: '全部',
-    activeTime: 'upcoming',
-    activeDistrict: 'all',
-    categories: ['全部', '展览', '讲座阅读', '科普活动', '演出', '影视放映', '体育赛事', '亲子活动'],
-    fees: ['全部', '免费', '收费'],
-    times: ['upcoming', 'today', 'tomorrow', 'week', 'month'],
-    timeLabels: { upcoming: '最近', today: '今天', tomorrow: '明天', week: '本周', month: '本月' },
-    cities: ['全部', '深圳', '北京', '上海', '广州', '杭州'],
-    cityMap: {
-      '深圳': 'shenzhen', '北京': 'beijing', '上海': 'shanghai', '广州': 'guangzhou', '杭州': 'hangzhou'
-    },
-    cityReverseMap: {
-      'shenzhen': '深圳', 'beijing': '北京', 'shanghai': '上海', 'guangzhou': '广州', 'hangzhou': '杭州'
-    },
-    districtOptions: ['全部区县'],
-    keyword: '',
-    loading: true
+    cities,
+    timeFilters,
+    familyFilters,
+    typeFilters,
+    feeFilters,
+    districts: [],
+    venues: [],
+    displayVenues: [],
+
+    // 当前筛选状态
+    cityFilter: 'shenzhen',
+    timeFilter: 'upcoming',
+    familyFilter: 'family',
+    typeFilter: 'all',
+    districtFilter: 'all',
+    sourceFilter: 'all',
+    feeFilter: 'all',
+    searchQuery: '',
+
+    // 展示数据
+    displayItems: [],
+    totalCount: 0,
+    currentPage: 1,
+    totalPages: 1,
+    pageItems: [],
+    pageSize: PAGE_SIZE,
+
+    // 筛选可用性
+    showAllSources: false,
+    loading: true,
+    refreshing: false,
+    lastUpdateText: ''
   },
 
   onLoad() {
-    this.loadActivities()
+    const self = this;
+    this.updateDistrictsAndVenues();
+    this.updateLastUpdateText();
+    // 等待数据准备完成后加载
+    app.onReady(function() {
+      self.loadData();
+      self.updateLastUpdateText();
+    });
   },
 
-  // 优先从云函数拉取实时数据，失败则降级本地 JSON
-  loadActivities(onComplete) {
-    const done = typeof onComplete === 'function' ? onComplete : () => {}
-    const useLocal = () => {
-      wx.setStorageSync('activitiesCache', localActivities)
-      this.buildDistrictMap(localActivities)
-      this.initData(localActivities)
-      done()
-    }
-
-    if (!wx.cloud || !wx.cloud.callFunction) {
-      useLocal()
-      return
-    }
-
-    wx.cloud.callFunction({
-      name: 'getActivities',
-      data: {},
-      success: (res) => {
-        const r = res.result
-        if (r && r.success && Array.isArray(r.data) && r.data.length > 0) {
-          wx.setStorageSync('activitiesCache', r.data)
-          this.buildDistrictMap(r.data)
-          this.initData(r.data)
-        } else {
-          console.warn('云函数返回空，降级本地', r && r.hint)
-          useLocal()
-        }
-        done()
-      },
-      fail: (err) => {
-        console.warn('云函数调用失败，降级本地', err)
-        useLocal()
-      }
-    })
-  },
-
-  // 从数据源动态提取"城市→区县"映射，供联动筛选
-  buildDistrictMap(source) {
-    const map = {}
-    source.forEach(a => {
-      if (!a.city || !a.district) return
-      if (!map[a.city]) map[a.city] = new Set()
-      map[a.city].add(a.district)
-    })
-    this._districtMap = {}
-    Object.keys(map).forEach(city => {
-      this._districtMap[city] = ['全部区县', ...Array.from(map[city]).sort()]
-    })
-  },
-
-  initData(source) {
-    const enriched = source.map((a, idx) => ({
-      ...a,
-      _id: idx,
-      _cityName: this.data.cityReverseMap[a.city] || a.city,
-      _dateRange: this.formatDateRange(a.start_date, a.end_date),
-      _isFree: a.fee === '免费' || a.fee === '免费需预约',
-      _isFamily: a.family_friendly === true
-    }))
-    this._allActivities = enriched
-    this.setData({ activities: enriched, loading: false })
-    this.applyFilters()
-  },
-
-  getTodayStr() {
-    const d = new Date()
-    const y = d.getFullYear()
-    const m = String(d.getMonth() + 1).padStart(2, '0')
-    const day = String(d.getDate()).padStart(2, '0')
-    return `${y}-${m}-${day}`
-  },
-
-  formatDateRange(start, end) {
-    if (start === end) return start
-    return `${start} ~ ${end}`
-  },
-
-  // 时间筛选算法，与 Web 版保持一致
-  matchTime(a, timeFilter, today) {
-    if (timeFilter === 'all' || !timeFilter) return true
-    if (timeFilter === 'upcoming') return a.end_date >= today
-    if (timeFilter === 'today') {
-      return a.start_date === today || (a.start_date <= today && a.end_date >= today)
-    }
-    if (timeFilter === 'tomorrow') {
-      const t = new Date(); t.setDate(t.getDate() + 1)
-      const ts = this.fmt(t)
-      return a.start_date === ts || (a.start_date <= ts && a.end_date >= ts)
-    }
-    if (timeFilter === 'week') {
-      const t = new Date(); t.setDate(t.getDate() + 7)
-      const ts = this.fmt(t)
-      return a.start_date <= ts && a.end_date >= today
-    }
-    if (timeFilter === 'month') {
-      const d = new Date(a.start_date)
-      const now = new Date()
-      return d.getFullYear() === now.getFullYear() && d.getMonth() === now.getMonth()
-    }
-    return true
-  },
-
-  fmt(d) {
-    const y = d.getFullYear()
-    const m = String(d.getMonth() + 1).padStart(2, '0')
-    const day = String(d.getDate()).padStart(2, '0')
-    return `${y}-${m}-${day}`
-  },
-
-  onCategoryTap(e) {
-    this.setData({ activeCategory: e.currentTarget.dataset.value })
-    this.applyFilters()
-  },
-
-  onFeeTap(e) {
-    const type = e.currentTarget.dataset.type
-    const current = this.data.activeFee
-    // 免费/收费 互斥切换：再次点击同一项则回到「全部」
-    this.setData({ activeFee: current === type ? '全部' : type })
-    this.applyFilters()
-  },
-
-  onSearchInput(e) {
-    this.setData({ keyword: (e.detail.value || '').trim().toLowerCase() })
-    this.applyFilters()
-  },
-
-  onClearSearch() {
-    this.setData({ keyword: '' })
-    this.applyFilters()
+  onShow() {
+    // 如果从详情页返回，不需要重新加载
   },
 
   onPullDownRefresh() {
-    this.loadActivities(() => wx.stopPullDownRefresh())
+    this.doRefresh(true);
   },
 
-  onFamilyTap(e) {
-    this.setData({ activeFamily: this.data.activeFamily === 'family' ? 'all' : 'family' })
-    this.applyFilters()
+  // 点击刷新按钮
+  onRefreshTap() {
+    if (this.data.refreshing) return;
+    this.doRefresh(false);
   },
 
-  onCityTap(e) {
-    const city = e.currentTarget.dataset.value
-    const cityCode = this.data.cityMap[city]
-    let districtOptions = ['全部区县']
-    if (cityCode && this._districtMap && this._districtMap[cityCode]) {
-      districtOptions = this._districtMap[cityCode]
+  // 统一刷新逻辑：直接从 GitHub raw 拉取最新数据
+  doRefresh(isPullDown) {
+    const self = this;
+    this.setData({ refreshing: true });
+
+    wx.request({
+      url: 'https://raw.githubusercontent.com/islon/goout/main/output/exhibitions.json?t=' + Date.now(),
+      method: 'GET',
+      timeout: 15000,
+      success: function(res) {
+        if (res.statusCode === 200 && res.data && res.data.length > 0) {
+          app.globalData.exhibitions = res.data;
+          app.globalData.isRemoteData = true;
+          try {
+            wx.setStorageSync('goout_exhibitions_cache', res.data);
+            wx.setStorageSync('goout_exhibitions_cache_time', Date.now());
+          } catch (e) {}
+          self.loadData();
+          self.updateLastUpdateText();
+          wx.showToast({ title: '数据已更新', icon: 'success' });
+        } else {
+          wx.showToast({ title: '更新失败，稍后重试', icon: 'none' });
+        }
+      },
+      fail: function() {
+        wx.showToast({ title: '网络不给力', icon: 'none' });
+      },
+      complete: function() {
+        self.setData({ refreshing: false });
+        if (isPullDown) wx.stopPullDownRefresh();
+      }
+    });
+  },
+
+  // 显示数据更新时间
+  updateLastUpdateText() {
+    const cacheTime = wx.getStorageSync('goout_exhibitions_cache_time') || 0;
+    if (!cacheTime) {
+      this.setData({ lastUpdateText: '' });
+      return;
     }
-    this.setData({ activeCity: city, activeDistrict: 'all', districtOptions })
-    this.applyFilters()
+    const now = Date.now();
+    const diff = now - cacheTime;
+    let text = '';
+    if (diff < 60000) {
+      text = '刚刚更新';
+    } else if (diff < 3600000) {
+      text = Math.floor(diff / 60000) + '分钟前更新';
+    } else if (diff < 86400000) {
+      text = Math.floor(diff / 3600000) + '小时前更新';
+    } else {
+      text = Math.floor(diff / 86400000) + '天前更新';
+    }
+    this.setData({ lastUpdateText: '📋 ' + text + ' · 共 ' + (app.globalData.exhibitions || []).length + ' 条活动' });
+  },
+
+  // 更新区县和场馆列表
+  updateDistrictsAndVenues() {
+    const city = this.data.cityFilter;
+    const allVenues = venuesByCity[city] || [];
+    const displayVenues = this.data.showAllSources
+      ? allVenues
+      : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
+    const rawDistricts = districtsByCity[city] || [];
+    const districts = rawDistricts.map(function(d) {
+      return { name: d, disabled: false };
+    });
+    this.setData({
+      districts: districts,
+      venues: allVenues,
+      displayVenues: displayVenues
+    });
+  },
+
+  loadData() {
+    const filters = {
+      city: this.data.cityFilter,
+      time: this.data.timeFilter,
+      family: this.data.familyFilter,
+      type: this.data.typeFilter,
+      district: this.data.districtFilter,
+      source: this.data.sourceFilter,
+      fee: this.data.feeFilter,
+      search: this.data.searchQuery
+    };
+
+    const allExhibitions = app.globalData.exhibitions || [];
+    const filtered = getFilteredExhibitions(allExhibitions, filters);
+    filtered.sort(function(a, b) { return a.start_date.localeCompare(b.start_date); });
+
+    const displayItems = buildDisplayItems(filtered);
+    const totalPages = Math.ceil(displayItems.length / PAGE_SIZE) || 1;
+
+    this.setData({
+      displayItems: displayItems,
+      totalCount: displayItems.length,
+      totalPages: totalPages,
+      currentPage: 1,
+      pageItems: displayItems.slice(0, PAGE_SIZE),
+      loading: false
+    });
+
+    this.updateFilterAvailability(filtered);
+  },
+
+  // 检查筛选器是否有结果
+  updateFilterAvailability(filtered) {
+    const self = this;
+    const baseFilters = {
+      city: this.data.cityFilter,
+      time: this.data.timeFilter,
+      family: this.data.familyFilter,
+      type: this.data.typeFilter,
+      district: this.data.districtFilter,
+      source: this.data.sourceFilter,
+      fee: this.data.feeFilter,
+      search: this.data.searchQuery
+    };
+
+    function checkResult(type, testValue) {
+      const testFilters = Object.assign({}, baseFilters);
+      if (type === 'city') {
+        testFilters.city = testValue;
+        testFilters.district = 'all';
+        testFilters.source = 'all';
+      } else {
+        testFilters[type] = testValue;
+      }
+      const allExhibitions = app.globalData.exhibitions || [];
+      return getFilteredExhibitions(allExhibitions, testFilters).length > 0;
+    }
+
+    const citiesAvail = this.data.cities.map(function(c) {
+      return Object.assign({}, c, { disabled: !checkResult('city', c.key) && c.key !== self.data.cityFilter });
+    });
+
+    const timeAvail = this.data.timeFilters.map(function(t) {
+      return Object.assign({}, t, { disabled: !checkResult('time', t.key) && t.key !== self.data.timeFilter });
+    });
+
+    const typeAvail = this.data.typeFilters.map(function(t) {
+      return Object.assign({}, t, { disabled: !checkResult('type', t.key) && t.key !== self.data.typeFilter });
+    });
+
+    const feeAvail = this.data.feeFilters.map(function(f) {
+      return Object.assign({}, f, { disabled: !checkResult('fee', f.key) && f.key !== self.data.feeFilter });
+    });
+
+    const familyAvail = this.data.familyFilters.map(function(f) {
+      return Object.assign({}, f, { disabled: !checkResult('family', f.key) && f.key !== self.data.familyFilter });
+    });
+
+    const districtsAvail = (this.data.districts || []).map(function(d) {
+      const name = d.name || d;
+      return { name: name, disabled: name !== '全部区县' && !checkResult('district', name) && name !== self.data.districtFilter };
+    });
+
+    this.setData({
+      cities: citiesAvail,
+      timeFilters: timeAvail,
+      typeFilters: typeAvail,
+      feeFilters: feeAvail,
+      familyFilters: familyAvail,
+      districts: districtsAvail
+    });
+  },
+
+  // 事件处理
+  onCityTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const city = e.currentTarget.dataset.key;
+    if (city === this.data.cityFilter) return;
+
+    this.setData({
+      cityFilter: city,
+      districtFilter: 'all',
+      sourceFilter: 'all',
+      currentPage: 1
+    });
+    this.updateDistrictsAndVenues();
+    this.loadData();
   },
 
   onTimeTap(e) {
-    this.setData({ activeTime: e.currentTarget.dataset.value })
-    this.applyFilters()
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.timeFilter) return;
+    this.setData({ timeFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onFamilyTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.familyFilter) return;
+    this.setData({ familyFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onTypeTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.typeFilter) return;
+    this.setData({ typeFilter: key, currentPage: 1 });
+    this.loadData();
   },
 
   onDistrictTap(e) {
-    this.setData({ activeDistrict: e.currentTarget.dataset.value })
-    this.applyFilters()
+    if (e.currentTarget.dataset.disabled) return;
+    const name = e.currentTarget.dataset.name;
+    const district = name === '全部区县' ? 'all' : name;
+    if (district === this.data.districtFilter) return;
+    this.setData({ districtFilter: district, sourceFilter: 'all', currentPage: 1 });
+    this.loadData();
   },
 
-  applyFilters() {
-    const { activeCategory, activeFee, activeFamily, activeCity, activeTime, activeDistrict, cityMap, keyword } = this.data
-    const today = this.getTodayStr()
-    let result = this._allActivities
-
-    if (activeCity !== '全部') {
-      const cityCode = cityMap[activeCity]
-      result = result.filter(a => a.city === cityCode)
-    }
-    if (activeCity !== '全部' && activeDistrict !== 'all') {
-      result = result.filter(a => a.district === activeDistrict)
-    }
-    if (activeCategory !== '全部') {
-      result = result.filter(a => a.category === activeCategory)
-    }
-    if (activeFee === '免费') {
-      result = result.filter(a => a._isFree)
-    } else if (activeFee === '收费') {
-      result = result.filter(a => !a._isFree)
-    }
-    if (activeFamily === 'family') {
-      result = result.filter(a => a._isFamily)
-    }
-    if (keyword) {
-      result = result.filter(a =>
-        (a.title && a.title.toLowerCase().indexOf(keyword) > -1) ||
-        (a.venue && a.venue.toLowerCase().indexOf(keyword) > -1)
-      )
-    }
-    result = result.filter(a => this.matchTime(a, activeTime, today))
-
-    result = result.slice().sort((a, b) => a.start_date.localeCompare(b.start_date))
-    this.setData({ filteredActivities: result })
+  onSourceTap(e) {
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.sourceFilter) return;
+    this.setData({ sourceFilter: key, currentPage: 1 });
+    this.loadData();
   },
 
-  onActivityTap(e) {
-    const id = e.currentTarget.dataset.id
-    wx.navigateTo({ url: `/pages/detail/detail?id=${id}` })
+  onFeeTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.feeFilter) return;
+    this.setData({ feeFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onSearchInput(e) {
+    this.setData({ searchQuery: e.detail.value, currentPage: 1 });
+    if (this._searchTimer) clearTimeout(this._searchTimer);
+    this._searchTimer = setTimeout(this.loadData.bind(this), 300);
+  },
+
+  onClearSearch() {
+    this.setData({ searchQuery: '', currentPage: 1 });
+    this.loadData();
+  },
+
+  toggleSourceList() {
+    const showAll = !this.data.showAllSources;
+    const allVenues = this.data.venues;
+    const displayVenues = showAll
+      ? allVenues
+      : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
+    this.setData({ showAllSources: showAll, displayVenues: displayVenues });
+  },
+
+  onPrevPage() {
+    if (this.data.currentPage <= 1) return;
+    const page = this.data.currentPage - 1;
+    this.setData({
+      currentPage: page,
+      pageItems: this.data.displayItems.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+    });
+    wx.pageScrollTo({ scrollTop: 0, duration: 200 });
+  },
+
+  onNextPage() {
+    if (this.data.currentPage >= this.data.totalPages) return;
+    const page = this.data.currentPage + 1;
+    this.setData({
+      currentPage: page,
+      pageItems: this.data.displayItems.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+    });
+    wx.pageScrollTo({ scrollTop: 0, duration: 200 });
+  },
+
+  onCardTap(e) {
+    const id = e.currentTarget.dataset.id;
+    wx.navigateTo({
+      url: '/pages/detail/detail?id=' + encodeURIComponent(id)
+    });
   },
 
   onShareAppMessage() {
-    return { title: '童行 - 全国亲子活动日历', path: '/pages/index/index' }
+    return {
+      title: '童行 - 全国亲子活动日历',
+      path: '/pages/index/index'
+    };
   }
-})
+});

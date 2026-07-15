@@ -1,0 +1,2501 @@
+// 童行小程序 - 场馆信息本地兜底
+// 共 146 条（来源：islon/goout/output/venue_info.json）
+module.exports = [
+  {
+    "id": "深圳图书馆",
+    "name": "深圳图书馆",
+    "source": "szlib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区福中一路2001号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳中心图书馆，含中心馆和北馆，常设阅览、展览、讲座等活动。",
+    "official_url": "https://www.szlib.org.cn",
+    "highlights": [
+      "阅读推广",
+      "讲座展览",
+      "暑期缤纷季"
+    ]
+  },
+  {
+    "id": "深圳少年儿童图书馆",
+    "name": "深圳少年儿童图书馆",
+    "source": "sz_children_lib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区红荔路1011号",
+    "transport": "地铁3号线通新岭站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，定期举办绘本故事会、阅读推广等活动。",
+    "official_url": "",
+    "highlights": [
+      "儿童阅读",
+      "绘本故事",
+      "暑期活动"
+    ]
+  },
+  {
+    "id": "深圳博物馆",
+    "name": "深圳博物馆",
+    "source": "szmuseum",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "福田区福中路市民中心A区",
+    "transport": "地铁2/4号线市民中心站",
+    "fee": "免费",
+    "description": "深圳综合性博物馆，常设古代深圳、近代深圳、深圳民俗等展览。",
+    "official_url": "https://www.shenzhenmuseum.com",
+    "highlights": [
+      "深圳历史",
+      "古代深圳",
+      "民俗文化"
+    ]
+  },
+  {
+    "id": "深圳科学技术馆",
+    "name": "深圳科学技术馆",
+    "source": "szstm",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "光明区光明街道",
+    "transport": "地铁6号线光明站",
+    "fee": "免费",
+    "description": "深圳新建科技馆，含互动体验展区、科学实验区等。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验",
+      "科普教育"
+    ]
+  },
+  {
+    "id": "深圳滨海艺术中心",
+    "name": "深圳滨海艺术中心",
+    "source": "szbo",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "演出场馆",
+    "address": "宝安区宝兴路8号",
+    "transport": "地铁5号线宝华站",
+    "fee": "收费",
+    "description": "宝安滨海文化公园内的大型演艺中心，定期举办音乐会、音乐剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "滨海演艺",
+      "音乐剧",
+      "交响乐"
+    ]
+  },
+  {
+    "id": "深圳音乐厅",
+    "name": "深圳音乐厅",
+    "source": "szconcert",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "演出场馆",
+    "address": "福田区福中一路2016号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "收费",
+    "description": "深圳专业音乐演出场馆，定期举办交响乐、室内乐等音乐会。",
+    "official_url": "",
+    "highlights": [
+      "古典音乐",
+      "交响乐"
+    ]
+  },
+  {
+    "id": "深圳市当代艺术与城市规划馆",
+    "name": "深圳市当代艺术与城市规划馆",
+    "source": "szmocap",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区福中路184号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "集当代艺术展览与城市规划展示于一体的综合性场馆。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "城市规划"
+    ]
+  },
+  {
+    "id": "深圳市体育中心",
+    "name": "深圳市体育中心",
+    "source": "szsports",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "体育中心",
+    "address": "福田区笋岗西路",
+    "transport": "地铁7号线黄木岗站",
+    "fee": "收费",
+    "description": "深圳市级体育中心，含体育馆、游泳馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动健身"
+    ]
+  },
+  {
+    "id": "深圳市文化馆",
+    "name": "深圳市文化馆",
+    "source": "szmassart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区燕南路",
+    "transport": "地铁2号线燕南站",
+    "fee": "免费",
+    "description": "深圳市级文化馆，举办各类公益文化活动。",
+    "official_url": "",
+    "highlights": [
+      "公益文化",
+      "艺术培训"
+    ]
+  },
+  {
+    "id": "深圳自然博物馆",
+    "name": "深圳自然博物馆",
+    "source": "sznm",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "坪山区石井街道",
+    "transport": "地铁16号线",
+    "fee": "免费",
+    "description": "深圳新建自然博物馆，展示自然历史、生态环境等内容。",
+    "official_url": "",
+    "highlights": [
+      "自然科学",
+      "生态环境"
+    ]
+  },
+  {
+    "id": "南山图书馆",
+    "name": "南山图书馆",
+    "source": "nslib",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "南山区常兴路176号",
+    "transport": "地铁1号线桃园站",
+    "fee": "免费",
+    "description": "南山区公共图书馆，定期举办阅读推广、讲座等活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "南山博物馆",
+    "name": "南山博物馆",
+    "source": "nsmuseum",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区南山大道2093号",
+    "transport": "地铁12号线南头古城站",
+    "fee": "免费",
+    "description": "南山区综合性博物馆，常设古代南山、近代南山展览，定期举办特展。",
+    "official_url": "",
+    "highlights": [
+      "南山历史",
+      "特色特展"
+    ]
+  },
+  {
+    "id": "南山区文化馆",
+    "name": "南山区文化馆",
+    "source": "nswhg",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "南山区青少年活动中心",
+    "name": "南山区青少年活动中心",
+    "source": "nsqsng",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "青少年宫",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区青少年校外活动场所，开展各类兴趣培训。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "南山文体中心",
+    "name": "南山文体中心",
+    "source": "nswtzx",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区南山大道",
+    "transport": "地铁1号线桃园站",
+    "fee": "收费",
+    "description": "南山文体中心，含大剧院、聚橙剧院等演出场馆。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "体育"
+    ]
+  },
+  {
+    "id": "南山安全教育体验馆",
+    "name": "南山安全教育体验馆",
+    "source": "nsaqjy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "科普馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "安全主题沉浸式体验展，含消防、交通、自然灾害等互动体验区。",
+    "official_url": "",
+    "highlights": [
+      "安全教育",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "蛇口海洋科普馆",
+    "name": "蛇口海洋科普馆",
+    "source": "skhykpg",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "科普馆",
+    "address": "南山区蛇口",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "蛇口海洋科普馆，展示海洋生物标本、珊瑚等。",
+    "official_url": "",
+    "highlights": [
+      "海洋生物",
+      "标本展览"
+    ]
+  },
+  {
+    "id": "深爱人才馆",
+    "name": "深爱人才馆",
+    "source": "sarc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示深圳人才政策和科技创新成果。",
+    "official_url": "",
+    "highlights": [
+      "人才政策",
+      "科技创新"
+    ]
+  },
+  {
+    "id": "南头古城博物馆群",
+    "name": "南头古城博物馆群",
+    "source": "ntgc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区南山大道3109号",
+    "transport": "地铁12号线南头古城站",
+    "fee": "免费",
+    "description": "南头古城内多个主题博物馆群，展示深圳1700年城市历史。",
+    "official_url": "",
+    "highlights": [
+      "古城历史",
+      "考古发现"
+    ]
+  },
+  {
+    "id": "招商局历史博物馆",
+    "name": "招商局历史博物馆",
+    "source": "zsjbwg",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区蛇口",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "展示招商局150年发展历程和中国近代航运史。",
+    "official_url": "",
+    "highlights": [
+      "招商局历史",
+      "航运史"
+    ]
+  },
+  {
+    "id": "南山书房",
+    "name": "南山书房",
+    "source": "nssxf",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区社区阅读空间，提供自助阅览服务。",
+    "official_url": "",
+    "highlights": [
+      "社区阅读",
+      "自助阅览"
+    ]
+  },
+  {
+    "id": "华侨城湿地",
+    "name": "华侨城湿地",
+    "source": "oct_wetland",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区白石路",
+    "transport": "地铁1号线侨城东站",
+    "fee": "免费需预约",
+    "description": "华侨城湿地公园，开展自然教育、观鸟等亲子活动。",
+    "official_url": "",
+    "highlights": [
+      "湿地生态",
+      "观鸟",
+      "自然教育"
+    ]
+  },
+  {
+    "id": "深圳湾体育中心",
+    "name": "深圳湾体育中心",
+    "source": "szwty",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "体育中心",
+    "address": "南山区滨海大道",
+    "transport": "地铁2号线后海站",
+    "fee": "收费",
+    "description": "深圳湾体育中心（春茧），含体育馆、游泳馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "id": "欢乐港湾",
+    "name": "欢乐港湾",
+    "source": "hlgw",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区海天路",
+    "transport": "地铁5号线临海站",
+    "fee": "免费",
+    "description": "宝安滨海文化公园，含摩天轮、商业综合体等。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "摩天轮"
+    ]
+  },
+  {
+    "id": "福田区图书馆",
+    "name": "福田区图书馆",
+    "source": "ftlib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区景田路70号",
+    "transport": "地铁2号线景田站",
+    "fee": "免费",
+    "description": "福田区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "福田区文化馆",
+    "name": "福田区文化馆",
+    "source": "ftwhg",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "福田美术馆",
+    "name": "福田美术馆",
+    "source": "ftart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区美术馆，展示当代艺术和本土艺术家作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土艺术"
+    ]
+  },
+  {
+    "id": "深圳古生物博物馆",
+    "name": "深圳古生物博物馆",
+    "source": "lh_paleo",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "博物馆",
+    "address": "罗湖区仙湖植物园内",
+    "transport": "地铁2号线仙湖路站",
+    "fee": "免费",
+    "description": "展示恐龙化石、三叶虫等古生物标本，介绍地球生命演化历程。",
+    "official_url": "",
+    "highlights": [
+      "古生物化石",
+      "恐龙",
+      "生命演化"
+    ]
+  },
+  {
+    "id": "罗湖区图书馆",
+    "name": "罗湖区图书馆",
+    "source": "lhlib",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "图书馆",
+    "address": "罗湖区怡景路1014号",
+    "transport": "地铁5号线怡景站",
+    "fee": "免费",
+    "description": "罗湖区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "罗湖区文化馆",
+    "name": "罗湖区文化馆",
+    "source": "lhwhg2",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "文化馆",
+    "address": "罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "罗湖区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "深圳戏院",
+    "name": "深圳戏院",
+    "source": "lhtheatre",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "演出场馆",
+    "address": "罗湖区新园路1号",
+    "transport": "地铁1/3号线老街站F出口",
+    "fee": "需购票",
+    "description": "深圳老牌演出场馆，定期举办京剧、儿童剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "京剧",
+      "儿童剧",
+      "少儿演出季"
+    ]
+  },
+  {
+    "id": "深圳大剧院",
+    "name": "深圳大剧院",
+    "source": "szdjy",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "演出场馆",
+    "address": "罗湖区深南东路5018号",
+    "transport": "地铁1/2号线大剧院站",
+    "fee": "需购票",
+    "description": "深圳大剧院，举办音乐会、歌剧、芭蕾等高端演出。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "歌剧",
+      "芭蕾"
+    ]
+  },
+  {
+    "id": "宝安图书馆",
+    "name": "宝安图书馆",
+    "source": "balib",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区宝兴路1号",
+    "transport": "地铁5号线宝华站",
+    "fee": "免费",
+    "description": "宝安区公共图书馆，含总馆和多个街道分馆。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "宝安区博物馆",
+    "name": "宝安区博物馆",
+    "source": "bamuseum",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区博物馆，展示宝安历史文化。",
+    "official_url": "",
+    "highlights": [
+      "宝安历史",
+      "地方文化"
+    ]
+  },
+  {
+    "id": "宝安1990文化馆",
+    "name": "宝安1990文化馆",
+    "source": "baoan_1990",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安1990文化馆，含文化馆、博物馆、美术馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "展览"
+    ]
+  },
+  {
+    "id": "宝安科技馆",
+    "name": "宝安科技馆",
+    "source": "baoan_kjg",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "科技馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区科技馆，含互动体验展区。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "宝安体育中心",
+    "name": "宝安体育中心",
+    "source": "baoan_ty",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "体育中心",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "宝安区体育中心，含体育馆、游泳馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "id": "宝安区青少年宫",
+    "name": "宝安区青少年宫",
+    "source": "baoan_qsng",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "青少年宫",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "宝安城市规划展览馆",
+    "name": "宝安城市规划展览馆",
+    "source": "baoan_guihua",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示宝安区城市规划建设成就。",
+    "official_url": "",
+    "highlights": [
+      "城市规划",
+      "建设成就"
+    ]
+  },
+  {
+    "id": "湾区之眼",
+    "name": "湾区之眼",
+    "source": "bayarea_eye",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "湾区文化综合体，含图书馆、展览等。",
+    "official_url": "",
+    "highlights": [
+      "文化综合体",
+      "阅读空间"
+    ]
+  },
+  {
+    "id": "龙岗区图书馆",
+    "name": "龙岗区图书馆",
+    "source": "lglib",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "图书馆",
+    "address": "龙岗区中心城",
+    "transport": "地铁3号线龙城广场站",
+    "fee": "免费",
+    "description": "龙岗区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "龙岗区博物馆",
+    "name": "龙岗区博物馆",
+    "source": "lgmuseum",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区博物馆，展示龙岗历史文化。",
+    "official_url": "",
+    "highlights": [
+      "龙岗历史",
+      "地方文化"
+    ]
+  },
+  {
+    "id": "龙岗区文化馆",
+    "name": "龙岗区文化馆",
+    "source": "lgwhg",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "龙岗区青少年宫",
+    "name": "龙岗区青少年宫",
+    "source": "lgqsng",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "青少年宫",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "龙岗客家民俗博物馆",
+    "name": "龙岗客家民俗博物馆",
+    "source": "lg_hakka",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "龙岗区龙岗街道鹤湖新居",
+    "transport": "地铁3号线南联站",
+    "fee": "免费",
+    "description": "全国最大的客家围屋之一，展示客家迁徙历史和民俗文化。",
+    "official_url": "",
+    "highlights": [
+      "客家文化",
+      "鹤湖新居",
+      "民俗文物"
+    ]
+  },
+  {
+    "id": "龙岗体育中心",
+    "name": "龙岗体育中心",
+    "source": "lgtyzx",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育中心",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "龙岗区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "id": "深圳龙岗国际艺术中心",
+    "name": "深圳龙岗国际艺术中心",
+    "source": "lg_arts",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "演出场馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "龙岗区国际艺术中心，举办高端演出。",
+    "official_url": "",
+    "highlights": [
+      "国际演出",
+      "艺术交流"
+    ]
+  },
+  {
+    "id": "龙岗区科技馆",
+    "name": "龙岗区科技馆",
+    "source": "lgkjg",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "科技馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区科技馆（红立方）。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "龙岗儿童公园",
+    "name": "龙岗儿童公园",
+    "source": "lgpark",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区儿童主题公园，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "亲子游乐",
+      "无动力乐园"
+    ]
+  },
+  {
+    "id": "龙华区图书馆",
+    "name": "龙华区图书馆",
+    "source": "lhxqlib",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "图书馆",
+    "address": "龙华区",
+    "transport": "地铁4号线",
+    "fee": "免费",
+    "description": "龙华区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "龙华区青少年宫",
+    "name": "龙华区青少年宫",
+    "source": "lhqsng",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "青少年宫",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "龙华区文化馆",
+    "name": "龙华区文化馆",
+    "source": "lhwhg",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "文化馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "中国版画博物馆",
+    "name": "中国版画博物馆",
+    "source": "lh_printmaking",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "美术馆",
+    "address": "龙华区观澜街道",
+    "transport": "地铁4号线牛湖站",
+    "fee": "免费需预约",
+    "description": "全国首个专业版画博物馆，紧邻观澜版画村。",
+    "official_url": "",
+    "highlights": [
+      "版画艺术",
+      "国际馆藏",
+      "观澜版画村"
+    ]
+  },
+  {
+    "id": "龙华生态文明展览馆",
+    "name": "龙华生态文明展览馆",
+    "source": "lh_ecology",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科普馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示龙华区生态文明建设成果。",
+    "official_url": "",
+    "highlights": [
+      "生态文明",
+      "环保科技"
+    ]
+  },
+  {
+    "id": "龙华区科技馆",
+    "name": "龙华区科技馆",
+    "source": "lhkjg",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科技馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "龙华白石龙纪念馆",
+    "name": "龙华白石龙纪念馆",
+    "source": "lhbljng",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "博物馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华白石龙中国文化名人大营救纪念馆。",
+    "official_url": "",
+    "highlights": [
+      "红色文化",
+      "历史纪念"
+    ]
+  },
+  {
+    "id": "光明区图书馆",
+    "name": "光明区图书馆",
+    "source": "gmlib",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "图书馆",
+    "address": "光明区",
+    "transport": "地铁6号线",
+    "fee": "免费",
+    "description": "光明区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "id": "光明区科技馆",
+    "name": "光明区科技馆",
+    "source": "gm_kjg",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "光明区科技馆，含互动科技体验展。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "光明区文化馆",
+    "name": "光明区文化馆",
+    "source": "gmwhg",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "光明文化艺术中心",
+    "name": "光明文化艺术中心",
+    "source": "gmarts",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化中心",
+    "address": "光明区",
+    "transport": "地铁6号线",
+    "fee": "收费",
+    "description": "光明文化艺术中心，含大剧场、音乐厅、美术馆。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "展览",
+      "艺术"
+    ]
+  },
+  {
+    "id": "光明区青少年活动中心",
+    "name": "光明区青少年活动中心",
+    "source": "gmqsng",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "青少年宫",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "光明区群众体育中心",
+    "name": "光明区群众体育中心",
+    "source": "gmtyzx",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "体育中心",
+    "address": "光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "光明区群众体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "id": "光明虹桥公园",
+    "name": "光明虹桥公园",
+    "source": "gmhbgy",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区虹桥公园，以红色空中廊桥著称。",
+    "official_url": "",
+    "highlights": [
+      "虹桥步道",
+      "休闲健身"
+    ]
+  },
+  {
+    "id": "玉塘文体中心",
+    "name": "玉塘文体中心",
+    "source": "gmtysq",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化中心",
+    "address": "光明区玉塘街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区玉塘街道文体中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化",
+      "体育"
+    ]
+  },
+  {
+    "id": "坪山区图书馆",
+    "name": "坪山区图书馆",
+    "source": "pslib",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "图书馆",
+    "address": "坪山区坪山街道",
+    "transport": "地铁16号线",
+    "fee": "免费",
+    "description": "坪山区公共图书馆，定期举办阅读推广、暑期活动等。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "暑期活动",
+      "亲子活动"
+    ]
+  },
+  {
+    "id": "坪山美术馆",
+    "name": "坪山美术馆",
+    "source": "psart",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "美术馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山美术馆，展示当代艺术作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "湾区艺术"
+    ]
+  },
+  {
+    "id": "坪山大剧院",
+    "name": "坪山大剧院",
+    "source": "psthtr",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "演出场馆",
+    "address": "坪山区",
+    "transport": "地铁16号线",
+    "fee": "收费",
+    "description": "坪山大剧院，举办舞剧、音乐剧、儿童剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "舞剧",
+      "音乐剧",
+      "儿童剧"
+    ]
+  },
+  {
+    "id": "坪山区科技馆",
+    "name": "坪山区科技馆",
+    "source": "pskjg",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "科技馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "坪山区科技馆，含科普体验区。",
+    "official_url": "",
+    "highlights": [
+      "科普教育",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "坪山体育中心",
+    "name": "坪山体育中心",
+    "source": "pstyzx",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "体育中心",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "坪山区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "id": "坪山东江纵队纪念馆",
+    "name": "坪山东江纵队纪念馆",
+    "source": "psdjng",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示东江纵队抗战历史。",
+    "official_url": "",
+    "highlights": [
+      "红色文化",
+      "抗战历史"
+    ]
+  },
+  {
+    "id": "坪山中心公园",
+    "name": "坪山中心公园",
+    "source": "pszxgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山中心公园，含环湖步道、无动力乐园。",
+    "official_url": "",
+    "highlights": [
+      "环湖步道",
+      "无动力乐园",
+      "亲子"
+    ]
+  },
+  {
+    "id": "马峦山郊野公园",
+    "name": "马峦山郊野公园",
+    "source": "mlsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区马峦山",
+    "transport": "",
+    "fee": "免费",
+    "description": "马峦山郊野公园，可观瀑布、探访客家古村落。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "瀑布",
+      "客家村落"
+    ]
+  },
+  {
+    "id": "聚龙山生态公园",
+    "name": "聚龙山生态公园",
+    "source": "jlsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区聚龙山",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "聚龙山生态公园，定期开展自然课堂。",
+    "official_url": "",
+    "highlights": [
+      "自然教育",
+      "植物识别",
+      "昆虫观察"
+    ]
+  },
+  {
+    "id": "燕子湖国际会展中心",
+    "name": "燕子湖国际会展中心",
+    "source": "yhzgz",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "会展中心",
+    "address": "坪山区燕子湖",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山燕子湖国际会展中心，承办各类博览会。",
+    "official_url": "",
+    "highlights": [
+      "会展",
+      "博览"
+    ]
+  },
+  {
+    "id": "盐田区图书馆",
+    "name": "盐田区图书馆",
+    "source": "ytlib",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "图书馆",
+    "address": "盐田区",
+    "transport": "地铁8号线",
+    "fee": "免费",
+    "description": "盐田区公共图书馆，定期举办海洋主题阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "海洋主题"
+    ]
+  },
+  {
+    "id": "盐田区文化馆",
+    "name": "盐田区文化馆",
+    "source": "ytwhg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "文化馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "中英街历史博物馆",
+    "name": "中英街历史博物馆",
+    "source": "yt_history",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区沙头角中英街",
+    "transport": "地铁8号线沙头角站",
+    "fee": "免费",
+    "description": "展示中英街百年沧桑历史和深港边境文化。",
+    "official_url": "",
+    "highlights": [
+      "中英街历史",
+      "深港文化"
+    ]
+  },
+  {
+    "id": "盐田科技馆",
+    "name": "盐田科技馆",
+    "source": "ytkjg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "科技馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田区科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "盐田体育中心",
+    "name": "盐田体育中心",
+    "source": "yttyzx",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "体育中心",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "盐田区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "id": "盐田中央公园",
+    "name": "盐田中央公园",
+    "source": "ytzgy",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "公园",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田中央公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲散步"
+    ]
+  },
+  {
+    "id": "大鹏地质公园博物馆",
+    "name": "大鹏地质公园博物馆",
+    "source": "dpgeopark",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "大鹏新区南澳街道地质公园路7号",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏半岛国家地质公园博物馆，展示地质演化和古生物化石。",
+    "official_url": "",
+    "highlights": [
+      "地质科普",
+      "古生物化石",
+      "火山岩"
+    ]
+  },
+  {
+    "id": "大亚湾核能科技馆",
+    "name": "大亚湾核能科技馆",
+    "source": "dp_nuclear",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科普馆",
+    "address": "大鹏新区大亚湾核电基地",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "大亚湾核能科技馆，展示核能发电原理和核安全知识。",
+    "official_url": "",
+    "highlights": [
+      "核能科普",
+      "清洁能源",
+      "核安全"
+    ]
+  },
+  {
+    "id": "大鹏新区图书馆",
+    "name": "大鹏新区图书馆",
+    "source": "dplib",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "图书馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏新区公共图书馆，定期举办海洋主题阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "海洋主题"
+    ]
+  },
+  {
+    "id": "大鹏古城博物馆",
+    "name": "大鹏古城博物馆",
+    "source": "dpgcbwg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏所城历史博物馆，展示海防文化。",
+    "official_url": "",
+    "highlights": [
+      "古城历史",
+      "海防文化"
+    ]
+  },
+  {
+    "id": "大鹏新区文化馆",
+    "name": "大鹏新区文化馆",
+    "source": "dpwhg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏新区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "id": "深圳西涌天文台",
+    "name": "深圳西涌天文台",
+    "source": "xcart",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科普馆",
+    "address": "大鹏新区南澳西涌",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "深圳西涌天文台，定期对公众开放，可观星。",
+    "official_url": "",
+    "highlights": [
+      "天文观测",
+      "科普教育",
+      "观星"
+    ]
+  },
+  {
+    "id": "东涌红树林湿地公园",
+    "name": "东涌红树林湿地公园",
+    "source": "dchss",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳东涌",
+    "transport": "",
+    "fee": "免费",
+    "description": "东涌红树林湿地公园，开展红树林生态科普、观鸟等自然教育。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "自然教育"
+    ]
+  },
+  {
+    "id": "坝光红树林湿地公园",
+    "name": "坝光红树林湿地公园",
+    "source": "bghsl",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区葵涌坝光",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳面积最大的红树林保护区，有观鸟平台和科普栈道。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "生态保护"
+    ]
+  },
+  {
+    "id": "玫瑰海岸",
+    "name": "玫瑰海岸",
+    "source": "mgha",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区溪涌玫瑰海岸",
+    "transport": "",
+    "fee": "收费",
+    "description": "玫瑰海岸滨海度假区，举办沙滩嘉年华等活动。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "水上运动",
+      "滨海度假"
+    ]
+  },
+  {
+    "id": "杨梅坑",
+    "name": "杨梅坑",
+    "source": "ymk",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳杨梅坑",
+    "transport": "",
+    "fee": "免费",
+    "description": "杨梅坑海滨栈道，可徒步、骑行、探访鹿嘴山庄。",
+    "official_url": "",
+    "highlights": [
+      "滨海徒步",
+      "骑行",
+      "海景"
+    ]
+  },
+  {
+    "id": "七娘山",
+    "name": "七娘山",
+    "source": "qns",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳七娘山",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳第二高峰，登山步道沿途有地质科普解说牌。",
+    "official_url": "",
+    "highlights": [
+      "登山",
+      "地质科普",
+      "海景"
+    ]
+  },
+  {
+    "id": "官湖村艺象艺术区",
+    "name": "官湖村艺象艺术区",
+    "source": "ghysq",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化中心",
+    "address": "大鹏新区葵涌官湖村",
+    "transport": "",
+    "fee": "免费",
+    "description": "官湖村国际艺术园区，含海边画廊、儿童艺术工坊。",
+    "official_url": "",
+    "highlights": [
+      "艺术园区",
+      "海边画廊",
+      "亲子工坊"
+    ]
+  },
+  {
+    "id": "金沙湾国际乐园",
+    "name": "金沙湾国际乐园",
+    "source": "jsgjly",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区金沙湾",
+    "transport": "",
+    "fee": "收费",
+    "description": "金沙湾国际乐园，含水世界、冰雪世界等多个主题园区。",
+    "official_url": "",
+    "highlights": [
+      "水世界",
+      "冰雪世界",
+      "亲子乐园"
+    ]
+  },
+  {
+    "id": "大鹏新区科学馆",
+    "name": "大鹏新区科学馆",
+    "source": "dpkjg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科技馆",
+    "address": "大鹏新区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "大鹏新区科学馆，开展海洋科学、天文观测等科普活动。",
+    "official_url": "",
+    "highlights": [
+      "海洋科学",
+      "天文观测",
+      "科普"
+    ]
+  },
+  {
+    "id": "大鹏较场尾沙滩",
+    "name": "大鹏较场尾沙滩",
+    "source": "jcw",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区大鹏街道较场尾",
+    "transport": "",
+    "fee": "免费",
+    "description": "较场尾滨海度假村，有沙滩、民宿、海鲜等。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "民宿",
+      "滨海度假"
+    ]
+  },
+  {
+    "id": "葵涌生态公园",
+    "name": "葵涌生态公园",
+    "source": "kcsigy",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区葵涌",
+    "transport": "",
+    "fee": "免费",
+    "description": "葵涌生态公园。",
+    "official_url": "",
+    "highlights": [
+      "生态",
+      "休闲"
+    ]
+  },
+  {
+    "id": "深圳市安全教育基地",
+    "name": "深圳市安全教育基地",
+    "source": "sz_safety",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "科普馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "深圳市安全教育基地，含交通安全、消防安全等主题体验区。",
+    "official_url": "",
+    "highlights": [
+      "安全教育",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "OPOWER文化艺术中心",
+    "name": "OPOWER文化艺术中心",
+    "source": "opower",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区华侨城",
+    "transport": "地铁1号线侨城东站",
+    "fee": "免费",
+    "description": "华侨城片区文化艺术综合体，集展览、市集、创意零售于一体。",
+    "official_url": "",
+    "highlights": [
+      "文艺市集",
+      "创意展览"
+    ]
+  },
+  {
+    "id": "坪山区青少年宫",
+    "name": "坪山区青少年宫",
+    "source": "psqsng",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "青少年宫",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "广东省博物馆",
+    "name": "广东省博物馆",
+    "source": "gdmuseum",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "博物馆",
+    "address": "天河区珠江东路2号",
+    "transport": "地铁3/APM线大剧院站",
+    "fee": "免费",
+    "description": "广东省综合性博物馆。",
+    "official_url": "",
+    "highlights": [
+      "广东历史",
+      "自然资源"
+    ]
+  },
+  {
+    "id": "广州博物馆",
+    "name": "广州博物馆",
+    "source": "gzmuseum",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区镇海路",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "收费",
+    "description": "广州博物馆（镇海楼）。",
+    "official_url": "",
+    "highlights": [
+      "广州历史"
+    ]
+  },
+  {
+    "id": "广州图书馆",
+    "name": "广州图书馆",
+    "source": "gzlib",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "图书馆",
+    "address": "天河区珠江东路4号",
+    "transport": "地铁3/APM线大剧院站",
+    "fee": "免费",
+    "description": "广州图书馆。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广"
+    ]
+  },
+  {
+    "id": "上海博物馆",
+    "name": "上海博物馆",
+    "source": "shanghaimuseum",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "黄浦区人民大道201号",
+    "transport": "地铁1/2/8号线人民广场站",
+    "fee": "免费",
+    "description": "上海博物馆。",
+    "official_url": "",
+    "highlights": [
+      "中国古代艺术"
+    ]
+  },
+  {
+    "id": "上海科技馆",
+    "name": "上海科技馆",
+    "source": "shstm",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科技馆",
+    "address": "浦东新区世纪大道2000号",
+    "transport": "地铁2号线上海科技馆站",
+    "fee": "收费",
+    "description": "上海科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "id": "中国国家博物馆",
+    "name": "中国国家博物馆",
+    "source": "chnmuseum",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "东城区东长安街16号",
+    "transport": "地铁1号线天安门东站",
+    "fee": "免费",
+    "description": "中国国家博物馆。",
+    "official_url": "",
+    "highlights": [
+      "国家历史",
+      "古代文物"
+    ]
+  },
+  {
+    "id": "故宫博物院",
+    "name": "故宫博物院",
+    "source": "gugong",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "东城区景山前街4号",
+    "transport": "地铁1号线天安门东站",
+    "fee": "收费",
+    "description": "故宫博物院。",
+    "official_url": "",
+    "highlights": [
+      "明清宫廷",
+      "古代文物"
+    ]
+  },
+  {
+    "id": "何香凝美术馆",
+    "name": "何香凝美术馆",
+    "source": "hxngallery",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "南山区深南大道9013号",
+    "transport": "地铁1号线华侨城站",
+    "fee": "免费",
+    "description": "何香凝美术馆，展示何香凝书画作品及当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "何香凝书画",
+      "当代艺术"
+    ]
+  },
+  {
+    "id": "关山月美术馆",
+    "name": "关山月美术馆",
+    "source": "gsyart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区红荔路6026号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "关山月美术馆，展示关山月画作及当代美术。",
+    "official_url": "",
+    "highlights": [
+      "关山月画作",
+      "当代美术"
+    ]
+  },
+  {
+    "id": "深圳美术馆",
+    "name": "深圳美术馆",
+    "source": "szartm",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "美术馆",
+    "address": "罗湖区爱国路东湖公园内",
+    "transport": "地铁5号线太安站",
+    "fee": "免费",
+    "description": "深圳美术馆，展示当代艺术和本土艺术家作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土艺术"
+    ]
+  },
+  {
+    "id": "深圳保利剧院",
+    "name": "深圳保利剧院",
+    "source": "polytheatre",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "演出场馆",
+    "address": "南山区后海滨路",
+    "transport": "地铁2号线后海站",
+    "fee": "需购票",
+    "description": "深圳保利剧院，举办音乐会、音乐剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "音乐会",
+      "音乐剧"
+    ]
+  },
+  {
+    "id": "深圳会展中心",
+    "name": "深圳会展中心",
+    "source": "szcec",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "会展中心",
+    "address": "福田区福华三路",
+    "transport": "地铁1/4号线会展中心站",
+    "fee": "免费",
+    "description": "深圳会展中心，承办各类大型展览和博览会。",
+    "official_url": "",
+    "highlights": [
+      "展览",
+      "博览"
+    ]
+  },
+  {
+    "id": "深圳国际会展中心",
+    "name": "深圳国际会展中心",
+    "source": "shenzhen_world",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "会展中心",
+    "address": "宝安区福海街道",
+    "transport": "地铁12号线国展站",
+    "fee": "免费",
+    "description": "深圳国际会展中心（新馆），承办大型国际展览。",
+    "official_url": "",
+    "highlights": [
+      "国际展览",
+      "博览"
+    ]
+  },
+  {
+    "id": "锦绣中华民俗村",
+    "name": "锦绣中华民俗村",
+    "source": "theme_park",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区深南大道9003号",
+    "transport": "地铁1号线华侨城站",
+    "fee": "收费",
+    "description": "锦绣中华民俗村，含微缩景区和少数民族村寨。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "民俗文化",
+      "泼水节"
+    ]
+  },
+  {
+    "id": "深圳市少年宫",
+    "name": "深圳市少年宫",
+    "source": "szcp",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "青少年宫",
+    "address": "福田区福中一路2006号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳市少年宫，含科技展馆和培训课程。",
+    "official_url": "",
+    "highlights": [
+      "科技展馆",
+      "青少年培训"
+    ]
+  },
+  {
+    "id": "深圳市青少年活动中心",
+    "name": "深圳市青少年活动中心",
+    "source": "szaac",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "青少年宫",
+    "address": "福田区红荔路",
+    "transport": "地铁3号线通新岭站",
+    "fee": "免费",
+    "description": "深圳市青少年活动中心。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "id": "深圳书城",
+    "name": "深圳书城",
+    "source": "szbook",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化中心",
+    "address": "福田区福中一路",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳书城中心城，大型图书零售和文化活动空间。",
+    "official_url": "",
+    "highlights": [
+      "图书",
+      "文化活动"
+    ]
+  },
+  {
+    "id": "深圳湾公园",
+    "name": "深圳湾公园",
+    "source": "szhbgy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区滨海大道",
+    "transport": "地铁2号线湾厦站",
+    "fee": "免费",
+    "description": "深圳湾滨海休闲带，适合散步骑行。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "骑行"
+    ]
+  },
+  {
+    "id": "海上世界文化艺术中心",
+    "name": "海上世界文化艺术中心",
+    "source": "hssjwh",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "南山区蛇口海上世界",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "海上世界文化艺术中心，展示当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "滨海文化"
+    ]
+  },
+  {
+    "id": "深圳中医药博物馆",
+    "name": "深圳中医药博物馆",
+    "source": "szzybwg",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示中医药文化和历史。",
+    "official_url": "",
+    "highlights": [
+      "中医药文化",
+      "健康科普"
+    ]
+  },
+  {
+    "id": "深圳珠宝博物馆",
+    "name": "深圳珠宝博物馆",
+    "source": "szjewg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示珠宝首饰文化和工艺。",
+    "official_url": "",
+    "highlights": [
+      "珠宝",
+      "工艺"
+    ]
+  },
+  {
+    "id": "深圳欢乐谷",
+    "name": "深圳欢乐谷",
+    "source": "hlgj",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区华侨城",
+    "transport": "地铁1/2号线世界之窗站",
+    "fee": "收费",
+    "description": "大型主题游乐园。",
+    "official_url": "",
+    "highlights": [
+      "主题游乐",
+      "刺激项目"
+    ]
+  },
+  {
+    "id": "深圳欢乐海岸",
+    "name": "深圳欢乐海岸",
+    "source": "hoha",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区白石路",
+    "transport": "地铁9号线深圳湾公园站",
+    "fee": "免费",
+    "description": "华侨城欢乐海岸，集文化、商业、休闲于一体。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "商业文化"
+    ]
+  },
+  {
+    "id": "深圳世界之窗",
+    "name": "深圳世界之窗",
+    "source": "szworld",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区深南大道9003号",
+    "transport": "地铁1/2号线世界之窗站",
+    "fee": "收费",
+    "description": "世界微缩景观主题公园。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "世界文化"
+    ]
+  },
+  {
+    "id": "洪湖公园",
+    "name": "洪湖公园",
+    "source": "hhgy",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "罗湖区文锦北路",
+    "transport": "地铁3号线草埔站",
+    "fee": "免费",
+    "description": "以荷花著称的公园。",
+    "official_url": "",
+    "highlights": [
+      "荷花",
+      "观鸟"
+    ]
+  },
+  {
+    "id": "大沙河生态长廊",
+    "name": "大沙河生态长廊",
+    "source": "dshslc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区大沙河",
+    "transport": "",
+    "fee": "免费",
+    "description": "大沙河沿河生态绿道。",
+    "official_url": "",
+    "highlights": [
+      "生态绿道",
+      "骑行"
+    ]
+  },
+  {
+    "id": "淘金山绿道",
+    "name": "淘金山绿道",
+    "source": "tjsgd",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "罗湖区淘金山",
+    "transport": "",
+    "fee": "免费",
+    "description": "淘金山绿道，适合徒步。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "山林"
+    ]
+  },
+  {
+    "id": "西湾红树林公园",
+    "name": "西湾红树林公园",
+    "source": "xwhsl",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区西乡",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湾红树林湿地公园。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟"
+    ]
+  },
+  {
+    "id": "茅洲河碧道",
+    "name": "茅洲河碧道",
+    "source": "mzohbd",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区茅洲河",
+    "transport": "",
+    "fee": "免费",
+    "description": "茅洲河碧道，适合散步骑行。",
+    "official_url": "",
+    "highlights": [
+      "碧道",
+      "生态"
+    ]
+  },
+  {
+    "id": "石岩湖湿地公园",
+    "name": "石岩湖湿地公园",
+    "source": "sysgy",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区石岩",
+    "transport": "",
+    "fee": "免费",
+    "description": "石岩湖湿地公园。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "观鸟"
+    ]
+  },
+  {
+    "id": "石岩文化艺术中心",
+    "name": "石岩文化艺术中心",
+    "source": "sywhzx",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区石岩",
+    "transport": "",
+    "fee": "免费",
+    "description": "石岩街道文化艺术中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "红花山公园",
+    "name": "红花山公园",
+    "source": "hhsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区红花山公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "登高"
+    ]
+  },
+  {
+    "id": "深圳大运中心",
+    "name": "深圳大运中心",
+    "source": "dyzx",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育中心",
+    "address": "龙岗区龙城街道",
+    "transport": "地铁3号线大运站",
+    "fee": "收费",
+    "description": "深圳大运中心体育场和体育馆。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "大型活动"
+    ]
+  },
+  {
+    "id": "大运中心公园",
+    "name": "大运中心公园",
+    "source": "dzxgy",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "龙岗区大运中心",
+    "transport": "地铁3号线大运站",
+    "fee": "免费",
+    "description": "大运中心公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "运动"
+    ]
+  },
+  {
+    "id": "安托山公共文化中心",
+    "name": "安托山公共文化中心",
+    "source": "atszx",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化中心",
+    "address": "福田区安托山",
+    "transport": "地铁2号线安托山站",
+    "fee": "免费",
+    "description": "安托山公共文化中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "北站中心公园",
+    "name": "北站中心公园",
+    "source": "bzgx",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "龙华区深圳北站",
+    "transport": "地铁4/5号线深圳北站",
+    "fee": "免费",
+    "description": "深圳北站中心公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "城市公园"
+    ]
+  },
+  {
+    "id": "深圳科学公园（南翼）",
+    "name": "深圳科学公园（南翼）",
+    "source": "kxgny",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳科学公园南翼。",
+    "official_url": "",
+    "highlights": [
+      "科学",
+      "休闲"
+    ]
+  },
+  {
+    "id": "人才公园",
+    "name": "人才公园",
+    "source": "rcgy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区科苑南路",
+    "transport": "地铁2号线后海站",
+    "fee": "免费",
+    "description": "深圳人才公园。",
+    "official_url": "",
+    "highlights": [
+      "人才主题",
+      "滨海休闲"
+    ]
+  },
+  {
+    "id": "吉华街道文化站",
+    "name": "吉华街道文化站",
+    "source": "jhwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区吉华街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区吉华街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "南湾街道文化站",
+    "name": "南湾街道文化站",
+    "source": "nwwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区南湾街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区南湾街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "坪地街道文化站",
+    "name": "坪地街道文化站",
+    "source": "pdwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区坪地街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区坪地街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "园岭街道综合性文化服务中心",
+    "name": "园岭街道综合性文化服务中心",
+    "source": "ylwh",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区园岭街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区园岭街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "桃源街道综合性文化服务中心",
+    "name": "桃源街道综合性文化服务中心",
+    "source": "tywh",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化馆",
+    "address": "南山区桃源街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区桃源街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "凤凰街道综合性文化服务中心",
+    "name": "凤凰街道综合性文化服务中心",
+    "source": "fhwh",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区凤凰街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区凤凰街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "江岭社区公共文化服务中心",
+    "name": "江岭社区公共文化服务中心",
+    "source": "jlwh",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "文化馆",
+    "address": "坪山区江岭社区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区江岭社区公共文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "迳口社区综合性文化服务中心",
+    "name": "迳口社区综合性文化服务中心",
+    "source": "jkwh",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区迳口社区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区迳口社区综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "id": "浙江省博物馆",
+    "name": "浙江省博物馆",
+    "source": "zjam",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区孤山路",
+    "transport": "",
+    "fee": "免费",
+    "description": "浙江省博物馆。",
+    "official_url": "",
+    "highlights": [
+      "浙江历史"
+    ]
+  }
+];

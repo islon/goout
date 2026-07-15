@@ -1,0 +1,289 @@
+// 童行小程序 - 筛选器配置
+// 从原网页 index.html 提取的所有映射表
+
+// 城市列表
+const cities = [
+  { key: 'shenzhen', name: '深圳' },
+  { key: 'guangzhou', name: '广州' },
+  { key: 'shanghai', name: '上海' },
+  { key: 'beijing', name: '北京' },
+  { key: 'hangzhou', name: '杭州' }
+];
+
+// 时间筛选
+const timeFilters = [
+  { key: 'upcoming', name: '最近活动' },
+  { key: 'today', name: '今天' },
+  { key: 'tomorrow', name: '明天' },
+  { key: 'week', name: '本周' },
+  { key: 'month', name: '本月' },
+  { key: 'next_month', name: '下月' },
+  { key: 'all', name: '全部活动' }
+];
+
+// 亲子筛选
+const familyFilters = [
+  { key: 'all', name: '全部活动' },
+  { key: 'family', name: '适合亲子' },
+  { key: 'other', name: '其他活动' }
+];
+
+// 类型筛选
+const typeFilters = [
+  { key: 'all', name: '全部类型' },
+  { key: '展览', name: '展览' },
+  { key: '讲座阅读', name: '讲座阅读' },
+  { key: '科普活动', name: '科普活动' },
+  { key: '演出', name: '演出' },
+  { key: '影视放映', name: '影视放映' },
+  { key: '体育赛事', name: '体育赛事' },
+  { key: '亲子活动', name: '亲子活动' }
+];
+
+// 费用筛选
+const feeFilters = [
+  { key: 'all', name: '全部' },
+  { key: 'free', name: '免费' },
+  { key: 'paid', name: '收费' }
+];
+
+// 区县映射
+const districtMapping = {
+  'szlib': '福田区', 'sz_children_lib': '福田区', 'szbwg': '福田区',
+  'szstm': '光明区', 'szcp': '福田区', 'szaac': '福田区',
+  'sznm': '福田区', 'szbo': '宝安区', 'szconcert': '福田区',
+  'szmocap': '福田区', 'szsports': '福田区', 'szmassart': '福田区',
+  'nslib': '南山区', 'balib': '宝安区', 'ftlib': '福田区',
+  'lhlib': '罗湖区', 'lglib': '龙岗区', 'lhxqlib': '龙华区',
+  'gmlib': '光明区', 'pslib': '坪山区', 'ytlib': '盐田区',
+  'dplib': '大鹏新区', 'nsmuseum': '南山区', 'lgmuseum': '龙岗区',
+  'bamuseum': '宝安区', 'lhmuseum': '龙华区', 'lhmuseum2': '罗湖区',
+  'dpgeopark': '大鹏新区', 'baoan_kjg': '宝安区', 'lgkjg': '龙岗区',
+  'lhkjg': '龙华区', 'ytkjg': '盐田区', 'gm_kjg': '光明区',
+  'baoan_qsng': '宝安区', 'nsqsng': '南山区', 'lgqsng': '龙岗区',
+  'lhqsng': '龙华区', 'lhqsng2': '罗湖区', 'gmqsng': '光明区',
+  'psqsng': '坪山区', 'baoan_ty': '宝安区', 'nswtzx': '南山区',
+  'szwty': '南山区', 'lhtyzx': '龙岗区', 'lhwtx': '龙华区',
+  'gmtyzx': '光明区', 'lhtyzx2': '罗湖区', 'pstyzx': '坪山区',
+  'yttyzx': '盐田区', 'nswhg': '南山区', 'baoan_1990': '宝安区',
+  'bayarea_eye': '宝安区', 'baoan_guihua': '宝安区', 'lgguihua': '龙岗区',
+  'nsguihua': '南山区', 'lh_printmaking': '龙华区', 'nsaqjy': '南山区',
+  'skhykpg': '南山区', 'gmwhg': '光明区', 'lgwhg': '龙岗区',
+  'lhwhg': '龙华区', 'lhwhg2': '罗湖区', 'ftwhg': '福田区',
+  'ytwhg': '盐田区', 'pswhg': '坪山区', 'dpwhg': '大鹏新区',
+  'szartm': '福田区', 'hxngallery': '南山区', 'polytheatre': '南山区',
+  'gmarts': '光明区', 'moacup': '福田区', 'gsyart': '福田区',
+  'szmuseum': '福田区', 'theme_park': '南山区', 'lg_arts': '龙岗区',
+  'opower': '南山区', 'sztyzx': '福田区',
+  'gdmuseum': '天河区', 'gzam': '越秀区', 'gdartmuseum': '越秀区',
+  'gzmuseum': '越秀区', 'nanyuewang': '越秀区', 'nanhanerling': '番禺区',
+  'nongjiangsuo': '越秀区', 'gzdjy': '天河区', 'xinghai': '越秀区',
+  'zsauditorium': '越秀区', 'gdsc': '番禺区', 'gdsci': '越秀区',
+  'gzartmuseum': '海珠区', 'gzcec': '海珠区',
+  'shanghaimuseum': '黄浦区', 'chinaartmuseum': '浦东新区',
+  'expomuseum': '黄浦区', 'shanghai-astronomy': '浦东新区',
+  'shhistorymuseum': '黄浦区', 'shcstheatre': '黄浦区',
+  'shgtheatre': '黄浦区', 'misa': '徐汇区', 'haichang': '浦东新区',
+  'legoland': '金山区', 'shstm': '浦东新区', 'shnm': '静安区',
+  'shpsa': '黄浦区', 'shexpocenter': '浦东新区', 'shceec': '静安区',
+  'chnmuseum': '东城区', 'gugong': '东城区', 'namoc': '东城区',
+  'bjmuseum': '通州区', 'centuryaltar': '海淀区', 'ncpa': '西城区',
+  'bjry': '东城区', 'cntheatre': '西城区', 'cntstm': '朝阳区',
+  'bjsc': '西城区', 'bjplanet': '西城区', 'bjnm': '东城区',
+  'sdmuseum': '西城区', 'bjlz': '西城区'
+};
+
+// source key 到场馆名映射
+const sourceToVenue = {
+  'szlib': '深圳图书馆', 'sz_children_lib': '深圳少儿图书馆', 'szbwg': '深圳博物馆',
+  'szstm': '深圳科学技术馆', 'szcp': '深圳市少年宫', 'szaac': '深圳市青少年活动中心',
+  'sznm': '深圳自然博物馆', 'szbo': '深圳滨海艺术中心', 'szconcert': '深圳音乐厅',
+  'szmocap': '当代艺术与城市规划馆', 'szsports': '深圳市体育中心', 'szmassart': '深圳市文化馆',
+  'nslib': '南山图书馆', 'balib': '宝安图书馆', 'ftlib': '福田区图书馆',
+  'lhlib': '罗湖区图书馆', 'lglib': '龙岗区图书馆', 'lhxqlib': '龙华区图书馆',
+  'gmlib': '光明区图书馆', 'pslib': '坪山区图书馆', 'ytlib': '盐田区图书馆',
+  'dplib': '大鹏新区图书馆', 'nsmuseum': '南山博物馆', 'lgmuseum': '龙岗区博物馆',
+  'bamuseum': '宝安区博物馆', 'lhmuseum': '龙华区博物馆', 'lhmuseum2': '罗湖区博物馆',
+  'dpgeopark': '大鹏地质公园博物馆', 'baoan_kjg': '宝安科技馆', 'lgkjg': '龙岗区科技馆',
+  'lhkjg': '龙华区科技馆', 'ytkjg': '盐田区科技馆', 'gm_kjg': '光明区科技馆',
+  'baoan_qsng': '宝安区青少年宫', 'nsqsng': '南山区青少年活动中心',
+  'lgqsng': '龙岗区青少年宫', 'lhqsng': '龙华区青少年宫',
+  'lhqsng2': '罗湖区青少年活动中心', 'gmqsng': '光明区青少年活动中心',
+  'psqsng': '坪山区青少年宫', 'baoan_ty': '宝安体育中心', 'nswtzx': '南山文体中心',
+  'szwty': '深圳湾体育中心', 'lhtyzx': '龙岗体育中心', 'lhwtx': '龙华文体中心',
+  'gmtyzx': '光明区群众体育中心', 'lhtyzx2': '罗湖区体育中心',
+  'pstyzx': '坪山体育中心', 'yttyzx': '盐田体育中心',
+  'nswhg': '南山区文化馆', 'baoan_1990': '宝安1990文化馆',
+  'bayarea_eye': '湾区之眼', 'baoan_guihua': '宝安城市规划展览馆',
+  'lgguihua': '龙岗城市规划展览馆', 'nsguihua': '南山城市规划展览馆',
+  'lh_printmaking': '中国版画博物馆', 'nsaqjy': '南山安全教育体验馆',
+  'skhykpg': '蛇口海洋科普馆',
+  'szartm': '深圳美术馆', 'hxngallery': '何香凝美术馆',
+  'polytheatre': '深圳保利剧院', 'gmarts': '光明文化艺术中心',
+  'moacup': '深圳市当代艺术与城市规划馆', 'gsyart': '关山月美术馆',
+  'szmuseum': '深圳博物馆', 'lg_arts': '深圳龙岗国际艺术中心',
+  'opower': 'OPOWER文化艺术中心', 'sztyzx': '深圳市体育中心体育馆',
+  'gdmuseum': '广东省博物馆', 'gzam': '广州艺术博物院',
+  'gdartmuseum': '广东美术馆', 'gzmuseum': '广州博物馆',
+  'nanyuewang': '南越王博物院', 'nanhanerling': '南汉二陵博物馆',
+  'nongjiangsuo': '农讲所纪念馆', 'gzdjy': '广州大剧院',
+  'xinghai': '星海音乐厅', 'zsauditorium': '广州中山纪念堂',
+  'shanghaimuseum': '上海博物馆', 'chinaartmuseum': '上海美术馆',
+  'expomuseum': '上海世博会博物馆', 'shanghai-astronomy': '上海天文馆',
+  'shhistorymuseum': '上海市历史博物馆', 'shcstheatre': '上海文化广场',
+  'shgtheatre': '上海大剧院', 'misa': '捷豹上海交响音乐厅',
+  'haichang': '上海海昌海洋公园', 'legoland': '上海乐高乐园',
+  'chnmuseum': '中国国家博物馆', 'gugong': '故宫博物院',
+  'namoc': '中国美术馆', 'bjmuseum': '北京大运河博物馆',
+  'centuryaltar': '中华世纪坛', 'ncpa': '国家大剧院',
+  'bjry': '首都剧场', 'cntheatre': '国家话剧院剧场',
+  'cntstm': '中国科学技术馆', 'bjsc': '北京科学中心',
+  'bjplanet': '北京天文馆', 'bjnm': '国家自然博物馆',
+  'sdmuseum': '首都博物馆', 'bjlz': '北京展览馆',
+  'shstm': '上海科技馆', 'shnm': '上海自然博物馆',
+  'shpsa': '上海当代艺术博物馆', 'shexpocenter': '上海世博展览馆',
+  'shceec': '上海展览中心', 'gdsc': '广东科学中心',
+  'gdsci': '广东科学馆', 'gzartmuseum': '广州美术馆', 'gzcec': '广交会展馆'
+};
+
+// 场馆地址映射
+const venueAddressMap = {
+  'szlib': '福田区福中一路2001号', 'balib': '宝安区宝兴路1号',
+  'bayarea_eye': '宝安区宝兴路与海滨广场路交汇处', 'baoan_kjg': '宝安区新安街道龙井路123号',
+  'baoan_ty': '宝安区新安街道体育中心', 'baoan_guihua': '宝安区宝华路宝安图书馆旁',
+  'nslib': '南山区南山大道2093号', 'nsmuseum': '南山区南山大道2093号',
+  'nswhg': '南山区艺园路与正风路交汇处', 'skhykpg': '南山区南水路18号蛇口大厦副楼2层',
+  'nsqsng': '南山区后海大道2551号', 'nswtzx': '南山区南山大道',
+  'szwty': '南山区滨海大道3001号', 'nsaqjy': '南山区南山大道3109号中山公园内',
+  'dpgeopark': '大鹏新区南澳街道地质公园路7号',
+  'sz_children_lib': '福田区莲花街道（地铁3号线莲花村站D出口）',
+  'szmassart': '福田区莲花街道', 'gmwhg': '光明区光明街道',
+  'lgwhg': '龙岗区龙城街道', 'lhwhg': '龙华区观澜街道',
+  'lhwhg2': '罗湖区文锦南路', 'ftwhg': '福田区景田路',
+  'lh_printmaking': '龙华区观澜街道（地铁4号线牛湖站观澜版画村）',
+  'szartm': '福田区红荔路6026号（地铁3号线少年宫站A出口）',
+  'hxngallery': '南山区深南大道9013号（地铁1号线华侨城站C出口）',
+  'polytheatre': '南山区后海滨路3013号（地铁2号线后海站）',
+  'gmarts': '光明区光明街道（地铁6号线光明站）',
+  'moacup': '福田区福中路184号（地铁3/4号线少年宫站）',
+  'gsyart': '福田区红荔路6026号（地铁3号线莲花村站）',
+  'szmuseum': '福田区金田路4001号（地铁2/4号线市民中心站）',
+  'opower': '南山区华侨城（地铁1号线侨城东站）',
+  'sztyzx': '福田区笋岗西路2006号（地铁3号线通新岭站）',
+  'gdmuseum': '天河区珠江新城珠江东路2号', 'gzam': '越秀区麓湖路13号',
+  'gdartmuseum': '越秀区二沙岛烟雨路38号', 'gzmuseum': '越秀区越秀公园内镇海楼',
+  'nanyuewang': '越秀区解放北路867号', 'nanhanerling': '番禺区大学城华师一路8号',
+  'nongjiangsuo': '越秀区中山四路42号', 'gzdjy': '天河区珠江新城华夏路',
+  'xinghai': '越秀区二沙岛晴波路33号', 'zsauditorium': '越秀区东风中路259号',
+  'shanghaimuseum': '黄浦区人民大道201号', 'chinaartmuseum': '浦东新区上南路205号',
+  'expomuseum': '黄浦区龙华东路18号', 'shanghai-astronomy': '浦东新区临港大道380号',
+  'shhistorymuseum': '黄浦区南京西路325号', 'shcstheatre': '黄浦区永嘉路36号',
+  'shgtheatre': '黄浦区人民大道300号', 'misa': '徐汇区复兴中路1380号',
+  'haichang': '浦东新区南汇新城镇临港大道333号', 'legoland': '金山区枫泾镇',
+  'chnmuseum': '东城区东长安街16号', 'gugong': '东城区景山前街4号',
+  'namoc': '东城区五四大街1号', 'bjmuseum': '通州区绿心路1号',
+  'centuryaltar': '海淀区复兴路甲9号', 'ncpa': '西城区西长安街2号',
+  'bjry': '东城区王府井大街22号', 'cntheatre': '西城区广安门外大街277号',
+  'cntstm': '朝阳区北辰东路5号', 'bjsc': '西城区北辰路9号院',
+  'bjplanet': '西城区西直门外大街138号', 'bjnm': '东城区天桥南大街126号',
+  'sdmuseum': '西城区复兴门外大街16号', 'bjlz': '西城区西直门外大街135号',
+  'shstm': '浦东新区世纪大道2000号', 'shnm': '静安区北京西路510号',
+  'shpsa': '黄浦区花园港路200号', 'shexpocenter': '浦东新区国展路1099号',
+  'shceec': '静安区南京西路1333号', 'gdsc': '番禺区大学城科普路168号',
+  'gdsci': '越秀区连新路171号', 'gzartmuseum': '海珠区艺苑路198号',
+  'gzcec': '海珠区阅江中路380号', 'szbwg': '福田区金田路4001号',
+  'szconcert': '福田区福中一路2016号', 'szsports': '福田区笋岗西路2006号',
+  'baoan_1990': '宝安区新安街道（地铁5号线洪浪北站）',
+  'lgguihua': '龙岗区龙城街道', 'nsguihua': '南山区',
+  'gmtyzx': '光明区光明街道', 'pslib': '坪山区坪山街道',
+  'lhlib': '罗湖区怡景路1012号', 'lglib': '龙岗区龙城街道',
+  'gmlib': '光明区光明街道', 'ytlib': '盐田区海山街道（地铁8号线海山站）',
+  'dplib': '大鹏新区大鹏街道', 'ftlib': '福田区景田路70号'
+};
+
+// 按城市分组区县
+const districtsByCity = {
+  shenzhen: ['全部区县', '宝安区', '福田区', '南山区', '坪山区', '光明区', '盐田区', '大鹏新区', '龙岗区', '龙华区', '罗湖区'],
+  guangzhou: ['全部区县', '越秀区', '天河区', '海珠区', '荔湾区', '白云区', '黄埔区', '番禺区'],
+  shanghai: ['全部区县', '黄浦区', '徐汇区', '浦东新区', '静安区', '杨浦区', '虹口区', '闵行区', '金山区'],
+  beijing: ['全部区县', '东城区', '西城区', '朝阳区', '海淀区', '丰台区', '通州区', '石景山区'],
+  hangzhou: ['全部区县', '上城区', '拱墅区', '西湖区', '滨江区', '萧山区', '余杭区', '临平区', '钱塘区', '富阳区', '临安区']
+};
+
+// 按城市分组场馆
+const venuesByCity = {
+  shenzhen: [
+    { key: 'all', name: '全部地点' },
+    { key: 'szlib', name: '深圳图书馆' }, { key: 'sz_children_lib', name: '深圳少儿图书馆' },
+    { key: 'szbwg', name: '深圳博物馆' }, { key: 'szstm', name: '深圳科学技术馆' },
+    { key: 'szcp', name: '深圳市少年宫' }, { key: 'szaac', name: '深圳市青少年活动中心' },
+    { key: 'sznm', name: '深圳自然博物馆' }, { key: 'szbo', name: '深圳滨海艺术中心' },
+    { key: 'szconcert', name: '深圳音乐厅' }, { key: 'szmocap', name: '当代艺术与城市规划馆' },
+    { key: 'szsports', name: '深圳市体育中心' }, { key: 'szmassart', name: '深圳市文化馆' },
+    { key: 'nslib', name: '南山图书馆' }, { key: 'balib', name: '宝安图书馆' },
+    { key: 'ftlib', name: '福田区图书馆' }, { key: 'lhlib', name: '罗湖区图书馆' },
+    { key: 'lglib', name: '龙岗区图书馆' }, { key: 'lhxqlib', name: '龙华区图书馆' },
+    { key: 'gmlib', name: '光明区图书馆' }, { key: 'pslib', name: '坪山区图书馆' },
+    { key: 'ytlib', name: '盐田区图书馆' }, { key: 'dplib', name: '大鹏新区图书馆' },
+    { key: 'nsmuseum', name: '南山博物馆' }, { key: 'dpgeopark', name: '大鹏地质公园博物馆' },
+    { key: 'baoan_kjg', name: '宝安科技馆' }, { key: 'gm_kjg', name: '光明区科技馆' },
+    { key: 'baoan_qsng', name: '宝安区青少年宫' }, { key: 'nsqsng', name: '南山区青少年活动中心' },
+    { key: 'lgqsng', name: '龙岗区青少年宫' }, { key: 'lhqsng', name: '龙华区青少年宫' },
+    { key: 'gmqsng', name: '光明区青少年活动中心' }, { key: 'psqsng', name: '坪山区青少年宫' },
+    { key: 'baoan_ty', name: '宝安体育中心' }, { key: 'nswtzx', name: '南山文体中心' },
+    { key: 'szwty', name: '深圳湾体育中心' }, { key: 'baoan_1990', name: '宝安1990文化馆' },
+    { key: 'bayarea_eye', name: '湾区之眼' }, { key: 'opower', name: 'OPOWER文化艺术中心' },
+    { key: 'gmarts', name: '光明文化艺术中心' }, { key: 'nswhg', name: '南山区文化馆' },
+    { key: 'lh_printmaking', name: '中国版画博物馆' }, { key: 'nsaqjy', name: '南山安全教育体验馆' },
+    { key: 'skhykpg', name: '蛇口海洋科普馆' }, { key: 'szartm', name: '深圳美术馆' },
+    { key: 'hxngallery', name: '何香凝美术馆' }, { key: 'polytheatre', name: '深圳保利剧院' },
+    { key: 'gsyart', name: '关山月美术馆' }, { key: 'moacup', name: '当代艺术与城市规划馆' }
+  ],
+  guangzhou: [
+    { key: 'all', name: '全部地点' },
+    { key: 'gdmuseum', name: '广东省博物馆' }, { key: 'gzam', name: '广州艺术博物院' },
+    { key: 'gdartmuseum', name: '广东美术馆' }, { key: 'gzmuseum', name: '广州博物馆' },
+    { key: 'nanyuewang', name: '南越王博物院' }, { key: 'nanhanerling', name: '南汉二陵博物馆' },
+    { key: 'nongjiangsuo', name: '农讲所纪念馆' }, { key: 'gzdjy', name: '广州大剧院' },
+    { key: 'xinghai', name: '星海音乐厅' }, { key: 'zsauditorium', name: '广州中山纪念堂' },
+    { key: 'gdsc', name: '广东科学中心' }, { key: 'gdsci', name: '广东科学馆' },
+    { key: 'gzartmuseum', name: '广州美术馆' }, { key: 'gzcec', name: '广交会展馆' }
+  ],
+  shanghai: [
+    { key: 'all', name: '全部地点' },
+    { key: 'shanghaimuseum', name: '上海博物馆' }, { key: 'chinaartmuseum', name: '上海美术馆' },
+    { key: 'expomuseum', name: '上海世博会博物馆' }, { key: 'shanghai-astronomy', name: '上海天文馆' },
+    { key: 'shhistorymuseum', name: '上海市历史博物馆' }, { key: 'shcstheatre', name: '上海文化广场' },
+    { key: 'shgtheatre', name: '上海大剧院' }, { key: 'misa', name: '捷豹上海交响音乐厅' },
+    { key: 'haichang', name: '上海海昌海洋公园' }, { key: 'legoland', name: '上海乐高乐园' },
+    { key: 'shstm', name: '上海科技馆' }, { key: 'shnm', name: '上海自然博物馆' },
+    { key: 'shpsa', name: '上海当代艺术博物馆' }, { key: 'shexpocenter', name: '上海世博展览馆' },
+    { key: 'shceec', name: '上海展览中心' }
+  ],
+  beijing: [
+    { key: 'all', name: '全部地点' },
+    { key: 'chnmuseum', name: '中国国家博物馆' }, { key: 'namoc', name: '中国美术馆' },
+    { key: 'bjmuseum', name: '北京大运河博物馆' }, { key: 'centuryaltar', name: '中华世纪坛' },
+    { key: 'ncpa', name: '国家大剧院' }, { key: 'bjry', name: '首都剧场' },
+    { key: 'cntheatre', name: '国家话剧院剧场' }, { key: 'cntstm', name: '中国科学技术馆' },
+    { key: 'bjsc', name: '北京科学中心' }, { key: 'bjplanet', name: '北京天文馆' },
+    { key: 'bjnm', name: '国家自然博物馆' }, { key: 'gugong', name: '故宫博物院' },
+    { key: 'sdmuseum', name: '首都博物馆' }, { key: 'bjlz', name: '北京展览馆' }
+  ],
+  hangzhou: [
+    { key: 'all', name: '全部地点' }
+  ]
+};
+
+module.exports = {
+  cities,
+  timeFilters,
+  familyFilters,
+  typeFilters,
+  feeFilters,
+  districtMapping,
+  sourceToVenue,
+  venueAddressMap,
+  districtsByCity,
+  venuesByCity
+};

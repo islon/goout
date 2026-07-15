@@ -2,7 +2,7 @@
   "miniprogramRoot": "miniprogram/",
   "cloudfunctionRoot": "cloudfunctions/",
   "setting": {
-    "urlCheck": true,
+    "urlCheck": false,
     "es6": true,
     "enhance": true,
     "postcss": true,
@@ -44,8 +44,8 @@
     "disableSWC": true
   },
   "appid": "wx3ef2769146f9e3bd",
-  "projectname": "goout-miniprogram",
-  "libVersion": "3.3.4",
+  "projectname": "goout",
+  "libVersion": "3.5.5",
   "cloudfunctionTemplateRoot": "",
   "condition": {},
   "compileType": "miniprogram",

@@ -1,145 +1,124 @@
-// pages/venues/venues.js
-// 数据来源：运行时通过云函数 getVenues 实时拉取网页（GitHub Pages）场馆数据，
-// 从而自动跟随 Web 版更新。本地 data/venues.json 仅作云函数不可用时的兜底。
+// 童行小程序 - 场馆指南列表页
+const { findVenue, buildVenueActivityCounts } = require('../../utils/helpers.js');
+const app = getApp();
 
-const localVenues = require('../../data/venues.json')
-
-const CITY_MAP = {
-  '深圳': 'shenzhen', '北京': 'beijing', '上海': 'shanghai', '广州': 'guangzhou', '杭州': 'hangzhou'
-}
-const CITY_REVERSE = {
-  'shenzhen': '深圳', 'beijing': '北京', 'shanghai': '上海', 'guangzhou': '广州', 'hangzhou': '杭州'
-}
+const cityNames = {
+  shenzhen: '深圳',
+  guangzhou: '广州',
+  shanghai: '上海',
+  beijing: '北京',
+  hangzhou: '杭州'
+};
 
 Page({
   data: {
+    cityFilter: 'all',
+    typeFilter: 'all',
+    searchQuery: '',
+    cities: [],
+    types: [],
     venues: [],
-    filteredVenues: [],
-    activeCity: '全部',
-    activeType: '全部',
-    keyword: '',
-    cities: ['全部'],
-    types: ['全部'],
+    activityCounts: {},
     loading: true
   },
 
   onLoad() {
-    this.loadVenues()
+    this.loadData();
   },
 
-  // 优先从云函数拉取实时数据，失败则降级本地 JSON
-  loadVenues() {
-    const useLocal = () => {
-      wx.setStorageSync('venuesCache', localVenues)
-      this.initData(localVenues)
-    }
-
-    if (!wx.cloud || !wx.cloud.callFunction) {
-      useLocal()
-      return
-    }
-
-    wx.cloud.callFunction({
-      name: 'getVenues',
-      data: {},
-      success: (res) => {
-        const r = res.result
-        if (r && r.success && Array.isArray(r.data) && r.data.length > 0) {
-          wx.setStorageSync('venuesCache', r.data)
-          this.initData(r.data)
-        } else {
-          console.warn('云函数返回空，降级本地', r && r.hint)
-          useLocal()
-        }
-      },
-      fail: (err) => {
-        console.warn('云函数调用失败，降级本地', err)
-        useLocal()
-      }
-    })
+  onShow() {
+    this.loadData();
   },
 
-  initData(source) {
-    const enriched = source.map(v => ({
-      ...v,
-      _cityName: CITY_REVERSE[v.city] || v.city,
-      _isFree: v.fee === '免费' || v.fee === '免费需预约'
-    }))
+  loadData() {
+    const allVenues = app.globalData.venues || [];
+    const allExhibitions = app.globalData.exhibitions || [];
 
-    // 动态构建城市 / 类型选项
-    const citySet = new Set()
-    const typeSet = new Set()
-    enriched.forEach(v => {
-      if (v.city && CITY_REVERSE[v.city]) citySet.add(CITY_REVERSE[v.city])
-      if (v.type) typeSet.add(v.type)
-    })
+    const citySet = {};
+    const typeSet = {};
+    for (let i = 0; i < allVenues.length; i++) {
+      const v = allVenues[i];
+      if (v.city) citySet[v.city] = true;
+      if (v.type) typeSet[v.type] = true;
+    }
 
-    this._allVenues = enriched
+    const cities = [{ key: 'all', name: '全部' }];
+    Object.keys(citySet).sort().forEach(function(c) {
+      cities.push({ key: c, name: cityNames[c] || c });
+    });
+
+    const types = [{ key: 'all', name: '全部类型' }];
+    Object.keys(typeSet).sort().forEach(function(t) {
+      types.push({ key: t, name: t });
+    });
+
+    const activityCounts = buildVenueActivityCounts(allVenues, allExhibitions);
+
     this.setData({
-      venues: enriched,
-      cities: ['全部', ...Array.from(citySet)],
-      types: ['全部', ...Array.from(typeSet).sort()],
+      cities: cities,
+      types: types,
+      activityCounts: activityCounts,
       loading: false
-    })
-    this.applyFilters()
-  },
-
-  onCityTap(e) {
-    this.setData({ activeCity: e.currentTarget.dataset.value })
-    this.applyFilters()
-  },
-
-  onTypeTap(e) {
-    this.setData({ activeType: e.currentTarget.dataset.value })
-    this.applyFilters()
-  },
-
-  onSearchInput(e) {
-    this.setData({ keyword: (e.detail.value || '').trim().toLowerCase() })
-    this.applyFilters()
-  },
-
-  onClearSearch() {
-    this.setData({ keyword: '' })
-    this.applyFilters()
-  },
-
-  onPullDownRefresh() {
-    this.loadVenues()
-    wx.stopPullDownRefresh()
+    }, () => {
+      this.applyFilters();
+    });
   },
 
   applyFilters() {
-    const { activeCity, activeType, keyword } = this.data
-    const cityCode = CITY_MAP[activeCity]
-    let result = this._allVenues
+    const allVenues = app.globalData.venues || [];
+    const cityFilter = this.data.cityFilter;
+    const typeFilter = this.data.typeFilter;
+    const query = this.data.searchQuery.toLowerCase().trim();
 
-    if (activeCity !== '全部') {
-      result = result.filter(v => v.city === cityCode)
-    }
-    if (activeType !== '全部') {
-      result = result.filter(v => v.type === activeType)
-    }
-    if (keyword) {
-      result = result.filter(v =>
-        (v.name && v.name.toLowerCase().indexOf(keyword) > -1) ||
-        (v.address && v.address.toLowerCase().indexOf(keyword) > -1)
-      )
-    }
+    const filtered = allVenues.filter(v => {
+      if (cityFilter !== 'all' && v.city !== cityFilter) return false;
+      if (typeFilter !== 'all' && v.type !== typeFilter) return false;
+      if (query) {
+        const name = (v.name || '').toLowerCase();
+        const address = (v.address || '').toLowerCase();
+        const description = (v.description || '').toLowerCase();
+        if (name.indexOf(query) < 0 && address.indexOf(query) < 0 && description.indexOf(query) < 0) {
+          return false;
+        }
+      }
+      return true;
+    });
 
-    result = result.slice().sort((a, b) =>
-      (a._cityName || '').localeCompare(b._cityName || '') ||
-      (a.name || '').localeCompare(b.name || '')
-    )
-    this.setData({ filteredVenues: result })
+    this.setData({
+      venues: filtered.map(v => {
+        const count = this.data.activityCounts[v.name] || 0;
+        return Object.assign({}, v, {
+          cityName: cityNames[v.city] || v.city,
+          activityCount: count,
+          hasActivity: count > 0
+        });
+      })
+    });
+  },
+
+  onCityTap(e) {
+    this.setData({ cityFilter: e.currentTarget.dataset.key }, () => this.applyFilters());
+  },
+
+  onTypeTap(e) {
+    this.setData({ typeFilter: e.currentTarget.dataset.key }, () => this.applyFilters());
+  },
+
+  onSearchInput(e) {
+    this.setData({ searchQuery: e.detail.value }, () => this.applyFilters());
   },
 
   onVenueTap(e) {
-    const id = e.currentTarget.dataset.id
-    wx.navigateTo({ url: `/pages/venueDetail/venueDetail?id=${encodeURIComponent(id)}` })
+    const name = e.currentTarget.dataset.name;
+    wx.navigateTo({
+      url: '/pages/venue/venue?id=' + encodeURIComponent(name)
+    });
   },
 
   onShareAppMessage() {
-    return { title: '童行 · 场馆指南', path: '/pages/venues/venues' }
+    return {
+      title: '童行 - 场馆指南',
+      path: '/pages/venues/venues'
+    };
   }
-})
+});
