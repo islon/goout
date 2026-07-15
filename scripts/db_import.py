@@ -4,11 +4,66 @@ import json
 import sqlite3
 import os
 import sys
+import re
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from db_init import DB_PATH, CITY_DATA, VENUE_TYPES, ACTIVITY_CATEGORIES, ACTIVITY_FEES
+
+# ============================================================================
+# 合规检测 - 导入前过滤敏感内容
+# ============================================================================
+
+SENSITIVE_WORDS = [
+    # 政治敏感词
+    '台独', '藏独', '疆独', '港独', '蒙独',
+    '法轮功', '法轮', 'FLG', 'flg',
+    '六四', '6.4', '64事件',
+    '反共', '灭共', '推翻共产党',
+    '邪教', '呼喊派', '全能神', '实际神',
+    # 暴力恐怖
+    '恐怖袭击', '爆炸袭击', 'ISIS', '伊斯兰国', '基地组织', '塔利班',
+    # 色情低俗
+    '嫖娼', '卖淫', '招嫖', '约炮', '一夜情', '淫秽', '强奸',
+    # 毒品
+    '毒品购买', '冰毒', '海洛因', '摇头丸', 'K粉',
+    # 赌博
+    '网络赌博', '在线博彩', '百家乐', '六合彩',
+    # 地区主权
+    '中华民国', '台湾共和国', '西藏国', '东突厥斯坦',
+]
+
+WHITELIST = [
+    '天安门东站', '天安门西站', '天安门东', '天安门西',
+    '国家博物馆', '故宫博物院', '天安门广场',
+    '农民运动讲习所', '农讲所',
+]
+
+def is_compliant(text):
+    """检测文本是否合规"""
+    if not text or not isinstance(text, str):
+        return True
+
+    # 白名单优先
+    for w in WHITELIST:
+        if w in text:
+            return True
+
+    # 检测敏感词
+    lower = text.lower()
+    for w in SENSITIVE_WORDS:
+        if w.lower() in lower:
+            return False
+    return True
+
+def check_record(record, text_fields):
+    """检测记录是否合规"""
+    for field in text_fields:
+        if field in record and record[field]:
+            if not is_compliant(str(record[field])):
+                return False
+    return True
 
 VENUE_INFO_FILE = os.path.join(PROJECT_ROOT, 'output', 'venue_info.json')
 EXHIBITIONS_FILE = os.path.join(PROJECT_ROOT, 'output', 'exhibitions.json')
@@ -115,6 +170,14 @@ def import_data():
     with open(VENUE_INFO_FILE, 'r', encoding='utf-8') as f:
         venues = json.load(f)
 
+    # 合规检测
+    venue_fields = ['name', 'address', 'transport', 'fee', 'description', 'highlights']
+    original_venue_count = len(venues)
+    venues = [v for v in venues if check_record(v, venue_fields)]
+    filtered_venue_count = original_venue_count - len(venues)
+    if filtered_venue_count > 0:
+        print(f'合规过滤: 移除 {filtered_venue_count} 条不合规场馆')
+
     venue_name_map = {}  # name → venue_id
     for v in venues:
         city_code = v.get('city', 'shenzhen')
@@ -153,6 +216,14 @@ def import_data():
     print('=== 导入活动数据 ===')
     with open(EXHIBITIONS_FILE, 'r', encoding='utf-8') as f:
         exhibitions = json.load(f)
+
+    # 合规检测
+    activity_fields = ['title', 'venue', 'description', 'fee', 'contact']
+    original_activity_count = len(exhibitions)
+    exhibitions = [e for e in exhibitions if check_record(e, activity_fields)]
+    filtered_activity_count = original_activity_count - len(exhibitions)
+    if filtered_activity_count > 0:
+        print(f'合规过滤: 移除 {filtered_activity_count} 条不合规活动')
 
     imported_count = 0
     skipped_count = 0

@@ -115,6 +115,46 @@ wx.requestSubscribeMessage 弹出授权弹窗
 > 字段，因此小程序在走实时数据时区县联动筛选会自动隐藏（代码保留，待数据源补齐后自动生效）。
 > 详情页的场馆类型、区县信息也会在字段存在时才展示。
 
+## 合规检测机制（中国大陆）
+
+为确保内容符合中国法律法规，系统在以下环节进行合规检测：
+
+### 检测环节
+
+| 环节 | 文件 | 说明 |
+|------|------|------|
+| 数据导入 | `scripts/db_import.py` | 导入 SQLite 前过滤 |
+| 数据文件 | `scripts/compliance_check.py` | 独立检测脚本 |
+| 云函数返回 | `cloudfunctions/getActivities/index.js` | 返回前端前过滤 |
+| 小程序前端 | `miniprogram/utils/compliance.js` | 可选，二次检测 |
+
+### 敏感词类别
+
+- **政治敏感词**：台独、藏独、疆独、法轮功等
+- **暴力恐怖**：恐怖袭击、ISIS、基地组织等
+- **色情低俗**：嫖娼、卖淫、淫秽等
+- **毒品相关**：冰毒、海洛因等
+- **赌博相关**：网络赌博、六合彩等
+- **地区主权**：中华民国、台湾共和国等
+
+### 白名单
+
+以下正常词汇不会误判：
+- 北京地铁站名：天安门东站、天安门西站等
+- 革命历史场馆：农民运动讲习所、农讲所等
+
+### 使用方法
+
+```bash
+# 检测活动数据
+python3 scripts/compliance_check.py output/exhibitions.json
+
+# 检测场馆数据
+python3 scripts/compliance_check.py output/venue_info.json
+```
+
+检测通过会返回 `✅ 所有内容合规`，不通过会列出具体违规记录。
+
 ## License
 
 MIT

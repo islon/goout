@@ -8,6 +8,61 @@ cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })
 
 const https = require('https')
 
+// ============================================================================
+// 合规检测 - 过滤敏感内容
+// ============================================================================
+
+const SENSITIVE_WORDS = [
+  // 政治敏感词
+  '台独', '藏独', '疆独', '港独', '蒙独',
+  '法轮功', '法轮', 'FLG', 'flg',
+  '六四', '6.4', '64事件',
+  '反共', '灭共', '推翻共产党',
+  '邪教', '呼喊派', '全能神', '实际神',
+  // 暴力恐怖
+  '恐怖袭击', '爆炸袭击', 'ISIS', '伊斯兰国', '基地组织', '塔利班',
+  // 色情低俗
+  '嫖娼', '卖淫', '招嫖', '约炮', '一夜情', '淫秽', '强奸',
+  // 毒品
+  '毒品购买', '冰毒', '海洛因', '摇头丸', 'K粉',
+  // 赌博
+  '网络赌博', '在线博彩', '百家乐', '六合彩',
+  // 地区主权
+  '中华民国', '台湾共和国', '西藏国', '东突厥斯坦',
+]
+
+const WHITELIST = [
+  '天安门东站', '天安门西站', '天安门东', '天安门西',
+  '国家博物馆', '故宫博物院', '天安门广场',
+  '农民运动讲习所', '农讲所',
+]
+
+function isCompliant(text) {
+  if (!text || typeof text !== 'string') return true
+
+  // 白名单优先
+  for (const w of WHITELIST) {
+    if (text.includes(w)) return true
+  }
+
+  // 检测敏感词
+  const lower = text.toLowerCase()
+  for (const w of SENSITIVE_WORDS) {
+    if (lower.includes(w.toLowerCase())) return false
+  }
+  return true
+}
+
+function filterRecord(record) {
+  const fields = ['title', 'description', 'venue', 'address', 'transport', 'fee', 'contact']
+  for (const f of fields) {
+    if (record[f] && !isCompliant(String(record[f]))) {
+      return false
+    }
+  }
+  return true
+}
+
 // 网页数据地址（与 Web 版同源）
 const DATA_URL = 'https://islon.github.io/goout/output/exhibitions.json'
 
@@ -53,6 +108,14 @@ exports.main = async (event, context) => {
     }
   }
 
+  // 合规过滤（必须步骤）
+  const originalCount = list.length
+  list = list.filter(filterRecord)
+  const filteredCount = originalCount - list.length
+  if (filteredCount > 0) {
+    console.log(`合规过滤: 移除 ${filteredCount} 条不合规记录`)
+  }
+
   // 服务端预筛（减少回包体积）；精细筛选仍在前端做
   let result = list
   const _ = (city && city !== '全部') ? city : null
@@ -67,6 +130,10 @@ exports.main = async (event, context) => {
     success: true,
     total: result.length,
     data: result,
-    updatedAt: new Date().toISOString()
+    updatedAt: new Date().toISOString(),
+    compliance: {
+      checked: true,
+      filtered: filteredCount
+    }
   }
 }
