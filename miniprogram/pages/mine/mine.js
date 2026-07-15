@@ -1,5 +1,5 @@
 // pages/mine/mine.js
-const activitiesData = require('../../data/activities.json')
+const localActivities = require('../../data/activities.json')
 
 Page({
   data: {
@@ -13,8 +13,10 @@ Page({
 
   loadSubscriptions() {
     const subs = wx.getStorageSync('subscriptions') || []
+    // 与列表同源：优先用缓存，兜底本地 JSON
+    const source = wx.getStorageSync('activitiesCache') || localActivities
     const subActivities = subs.map(id => {
-      const a = activitiesData[id]
+      const a = source[id]
       if (!a) return null
       return {
         ...a,

@@ -1,5 +1,5 @@
 // pages/detail/detail.js
-const activitiesData = require('../../data/activities.json')
+const localActivities = require('../../data/activities.json')
 
 // 订阅消息模板ID
 // 在小程序后台 → 功能 → 订阅消息 → 公共模板库中申请
@@ -15,7 +15,9 @@ Page({
 
   onLoad(options) {
     const id = parseInt(options.id)
-    const activity = activitiesData[id]
+    // 优先从首页写入的缓存读取（与列表同源，id 索引一致），兜底本地 JSON
+    const cache = wx.getStorageSync('activitiesCache') || localActivities
+    const activity = cache[id]
     if (!activity) {
       wx.showToast({ title: '活动不存在', icon: 'error' })
       setTimeout(() => wx.navigateBack(), 1500)
