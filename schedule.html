@@ -1039,14 +1039,14 @@
                         const venueAddr = vinfo && vinfo.address && vinfo.address !== '待补充' ? ` · ${vinfo.address}` : '';
 
                         card.innerHTML = `
-                            <div class="exhibition-title">${exhibition.name}${feeBadge}${typeTag}</div>
+                            <div class="exhibition-title">${exhibition.title || exhibition.name || ''}${feeBadge}${typeTag}</div>
                             <div class="exhibition-meta">
                                 <span>📅 ${dateDisplay}</span>
                                 <span>📍 ${exhibition.venue}${venueAddr ? '<br><span style="font-size:11px;color:#a8a29e;">' + venueAddr + '</span>' : ''}</span>
                             </div>
                             ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
                             ${venueDesc}
-                            ${exhibition.url ? `<a href="${exhibition.url}" target="_blank" class="exhibition-link">🔗 查看详情</a>` : ''}
+                            ${(exhibition.link || exhibition.url) ? `<a href="${exhibition.link || exhibition.url}" target="_blank" class="exhibition-link">🔗 查看详情</a>` : ''}
                         `;
 
                         listContainer.appendChild(card);

@@ -279,6 +279,7 @@
             <button class="city-tab" data-city="guangzhou">广州</button>
             <button class="city-tab" data-city="shanghai">上海</button>
             <button class="city-tab" data-city="beijing">北京</button>
+            <button class="city-tab" data-city="hangzhou">杭州</button>
         </div>
         <div class="filter-right">
             <input type="text" class="search-box" id="search-box" placeholder="搜索场馆名称/地址...">
@@ -303,7 +304,7 @@
         let currentDistrict = 'all';
         let currentSearch = '';
 
-        // 从地址提取区县（归并"光明区xxx片区"等到主区）
+        // 从 venue_info.json 的 district 字段获取区县（数据层已注入）
         function extractDistrict(address) {
             if (!address) return '';
             const m = address.match(/([^\s市省]+?[区县])/);
@@ -316,7 +317,7 @@
                 const resp = await fetch('output/venue_info.json');
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
                 venueList = await resp.json();
-                venueList.forEach(v => { v._district = extractDistrict(v.address); });
+                venueList.forEach(v => { v._district = v.district || extractDistrict(v.address); });
                 initTypeFilter();
                 initDistrictFilter();
                 render();
