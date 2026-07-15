@@ -1,5 +1,5 @@
 // 童行小程序 - 工具函数
-const { districtMapping, sourceToVenue } = require('../data/filters.js');
+const { districtMapping, sourceToVenue, sourceChineseToDistrict } = require('../data/filters.js');
 
 function normalizeCity(city) {
   if (!city) return 'shenzhen';
@@ -13,7 +13,16 @@ function normalizeCity(city) {
 }
 
 function getDistrict(source) {
-  return districtMapping[source] || '其他';
+  // 优先用英文 key 匹配（原始 districtMapping）
+  var d = districtMapping[source];
+  if (d) return d;
+  // fallback：中文 source 名匹配（覆盖 exhibitions.json 里实际的中文名 source）
+  if (sourceChineseToDistrict) {
+    d = sourceChineseToDistrict[source];
+    if (d) return d;
+  }
+  // 再 fallback：按 venue 名称模糊匹配
+  return '其他';
 }
 
 function matchSource(exhibition, sourceKey) {

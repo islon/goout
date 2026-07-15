@@ -10,12 +10,12 @@
   <!-- 搜索框 -->
   <view class="search-bar">
     <view class="search-wrapper">
-      <text class="search-icon">🔍</text>
+      <image class="search-icon" src="/assets/search-icon.png" mode="aspectFit" />
       <input class="search-input" type="text" placeholder="搜索活动名称、地点..." value="{{searchQuery}}" bindinput="onSearchInput" confirm-type="search" />
-      <text wx:if="{{searchQuery}}" class="search-clear" bindtap="onClearSearch">✕</text>
+      <image wx:if="{{searchQuery}}" class="search-clear-img" src="/assets/search-clear.png" mode="aspectFit" bindtap="onClearSearch" />
     </view>
     <view class="refresh-btn {{refreshing ? 'spinning' : ''}}" bindtap="onRefreshTap">
-      <text class="refresh-icon">⟳</text>
+      <image class="refresh-icon-img" src="/assets/refresh-icon.png" mode="aspectFit" />
     </view>
   </view>
 
