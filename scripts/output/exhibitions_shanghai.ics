@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1e3ac8ae4fdaf94d@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260901
+SUMMARY:科好玩了——2026上海科技馆暑假营
+LOCATION:上海科技馆
+DESCRIPTION:15大科普品牌活动，包括球幕沉浸式多媒体互动秀、VR数字剧场、科创实践营等。\n地点: 上海科技馆\n时间: 2026-06-25 至 2026-08-31\n详情: https://www.jfdaily.com/sgh/detail?id=4015623
+END:VEVENT
+BEGIN:VEVENT
+UID:82d4d59087589212@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260901
+SUMMARY:'科'好玩了——2026暑假营
+LOCATION:上海科技馆
+DESCRIPTION:集结15大特色科普品牌，覆盖球幕沉浸式多媒体互动秀、科创实践营、VR数字剧场等多元内容，为市民打造沉浸式夏日科学体验营。\n地点: 上海科技馆\n时间: 2026-06-27 至 2026-08-31\n详情: https://www.sstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a683c7e03d00f8ad@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260902
+SUMMARY:上海童话·2026暑期少儿阅读季
+LOCATION:上海少年儿童图书馆
+DESCRIPTION:全市联动的暑期少儿阅读活动，含童书π讲座、小种子故事会、皮影剧场等40余场活动。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-09-01\n详情: http://sh.people.com.cn/n2/2026/0702/c350122-41627961.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dc231489c3dcb2df@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:《只有树知道》临展暑期限时活动
+LOCATION:上海自然博物馆
+DESCRIPTION:自然艺术研学系列活动，包含自然造物探险家、野感艺术社、FUN野星球三个主题，带领孩子观察自然、学习艺术表达、完成自己的自然艺术作品。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.snhm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:8a4458dc0f511fe8@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海少年儿童图书馆暑期活动
+LOCATION:上海少年儿童图书馆
+DESCRIPTION:分龄绘本专区、亲子阅读教室、定期公益手工故事会，暑期推出阅读挑战赛、经典儿童电影展映等活动，适合各年龄段儿童。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstclib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:514d450463920319@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:世界技能博物馆暑期体验
+LOCATION:世界技能博物馆
+DESCRIPTION:国内唯一世界级技能主题博物馆，涵盖科技、工程、美妆等互动区，4楼趣味生活技能展适合小朋友动手体验，常规参观无需预约。\n地点: 世界技能博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.wsmuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:8800e101013bc73c@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:徐家汇书院暑期阅读
+LOCATION:徐家汇书院
+DESCRIPTION:巨型光启之门艺术装置、专属分龄少儿阅读区，藏书丰富，落地窗海派氛围浓厚，适合低龄阅读启蒙和大孩子打卡，周末节假日可能限流登记。\n地点: 徐家汇书院\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.xjhshuyuan.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b467f46d8b5deb8e@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海动物园动物奇妙夜
+LOCATION:上海动物园
+DESCRIPTION:暑期推出夜间动物园探秘活动，增设夜猫子和森林课夜观活动，展示夜行性动物的自然行为，让孩子们体验不一样的动物世界。\n地点: 上海动物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b236cb394f8498d5@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海海昌海洋公园虎鲸造浪节
+LOCATION:上海海昌海洋公园
+DESCRIPTION:连续66天夜场开放，围绕4大戏水、7大剧目升级、奥特曼60周年庆、烟花盛典等特色活动，7月11日-8月23日更有虎鲸造浪音乐节嗨翻全场。\n地点: 上海海昌海洋公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5567b1d6d979e633@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海天文馆暑期活动
+LOCATION:上海天文馆
+DESCRIPTION:国内规模最大天文主题馆，暑期推出星空观测、天体摄影、宇宙探索等科普活动，全室内密闭恒温，适合亲子暑期避暑。\n地点: 上海天文馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0610f7e1ea0000@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海海洋水族馆暑期探秘
+LOCATION:上海海洋水族馆
+DESCRIPTION:暑期推出海洋生物探秘活动，包括鲨鱼喂食体验、海底隧道讲解、海洋保护科普讲座等，让孩子们近距离了解海洋生态。\n地点: 上海海洋水族馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:97dcfb8ec12485ab@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海迪士尼度假区十周年庆典
+LOCATION:上海迪士尼乐园
+DESCRIPTION:十周年庆典持续进行，暑期推出特别演出、夜间烟花秀、主题活动等，为游客打造梦幻的童话世界体验。\n地点: 上海迪士尼乐园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:edada5c0ddb477d5@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261008
+SUMMARY:千金之家——马王堆汉墓的生活美学大展
+LOCATION:中华艺术宫
+DESCRIPTION:马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。\n地点: 中华艺术宫\n时间: 2026-07-03 至 2026-10-07\n详情: https://www.jfdaily.com/sgh/detail?id=4015071
+END:VEVENT
+BEGIN:VEVENT
+UID:89417e181faa13f4@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261008
+SUMMARY:上海美术馆马王堆汉墓大展
+LOCATION:上海美术馆
+DESCRIPTION:'千金之家——马王堆汉墓的生活美学及养成'国宝艺术大展，荟萃马王堆出土珍宝，数件限制出境国宝同台亮相，回溯辛追侯府日常起居。\n地点: 上海美术馆\n时间: 2026-07-03 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:f856d4d8f28db44f@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海乐高乐园一周年庆典
+LOCATION:上海乐高乐园
+DESCRIPTION:一周年庆典推出乐高玩乐节，开辟约4000㎡全新区域，携手FIFA世界杯和F1两大IP，无人机互动夜光大派对贯穿周五六日。\n地点: 上海乐高乐园\n时间: 2026-07-05 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbd760588b7f29e@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20261008
+SUMMARY:上海世博会博物馆国采展
+LOCATION:上海世博会博物馆
+DESCRIPTION:携手故宫博物院推出'国采：故宫藏清代帝后服饰展'，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等最高等级帝后服装，九成从未出京，超三成首次面世。\n地点: 上海世博会博物馆\n时间: 2026-07-07 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:56535a1658c8c1c9@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20271115
+SUMMARY:世界树之巅：美洲古代文明大展
+LOCATION:上海博物馆
+DESCRIPTION:玛雅、阿兹特克、印加等美洲古代文明文物大展，含VR沉浸体验。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-11-14\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00005037
+END:VEVENT
+BEGIN:VEVENT
+UID:4b6b5842b671c59c@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:世界树之巅——美洲古代文明大展
+LOCATION:上海博物馆
+DESCRIPTION:上海博物馆'博物馆奇妙夜'系列活动，每周二至周五17:00-21:00夜场开放，展出美洲古代文明珍贵文物，感受神秘的美洲文明魅力。\n地点: 上海博物馆\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.shanghaimuseum.net
+END:VEVENT
+BEGIN:VEVENT
+UID:fb020a5eb5bbe06a@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260823
+SUMMARY:夜宿上海自然博物馆
+LOCATION:上海自然博物馆
+DESCRIPTION:博物馆奇妙夜暑期专场，夜宿活动时间为7月11日、7月25日、8月8日、8月22日，17:00至次日7:00，需提前预约购票。\n地点: 上海自然博物馆\n时间: 2026-07-11 至 2026-08-22\n详情: https://www.snhm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9d67bba95ae8212d@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海博物馆世界树之巅夜场活动
+LOCATION:上海博物馆
+DESCRIPTION:每周六18:30-21:30举办'世界树之巅：美洲古代文明大展'夜场活动，上海动物园带来水豚、羊驼等美洲动物，结合沉浸式活动和创新表演，感受美洲文化。\n地点: 上海博物馆\n时间: 2026-07-11 至 2026-08-31\n详情: https://www.shanghaimuseum.net
+END:VEVENT
+END:VCALENDAR

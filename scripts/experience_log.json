@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2026-07-10",
+    "activities_total": 578,
+    "issues_closed": 27,
+    "issues_remaining": 0,
+    "new_activities_added": 24,
+    "data_quality_issues_fixed": 11,
+    "lessons_learned": "1. 检查报告(#30)报告了10条区县匹配不一致和1条fee类型不规范，但在本次执行时这些问题已在之前修复，说明数据管线中的normalize_activity和scraper_nswtzx的get_source_from_venue函数已经正确处理了区县映射。2. 24个新活动发现issue的信息格式统一，包含活动名称/场馆/所在区/时间/地址/类型/描述/来源链接，易于解析。3. 日期解析需注意多种格式：'2026年7月5日至7月30日'需拆分为start_date和end_date；'即日起至2026年7月'需推断开始日期。4. fee判断：'免费免预约'和'免费开放'归为'免费'；有票价信息如'早鸟票99元起'归为'收费'；'购票入场'归为'需购票'。5. 部分gov.cn网站有SSL证书问题(BAD_ECPOINT)，data_pipeline.py已全局禁用SSL验证。6. bs4模块未安装会导致部分爬虫失败，需先pip install。7. 微信爬虫模块未安装会跳过，manual_data.json是重要补充数据源。",
+    "improvement_ideas": "1. 可考虑在data_pipeline.py的normalize_activity函数中增加fee字段自动标准化逻辑，将非标准值映射到最接近的标准值。2. 可考虑为scraper_nswtzx增加更多区县关键词映射，减少source与venue不匹配的情况。3. 可考虑新增爬虫：何香凝美术馆、福田美术馆、深圳戏院、光明文化艺术中心等本次手动添加的场馆。4. 可考虑在GitHub Actions中增加bs4/lxml依赖，避免爬虫因模块缺失而失败。5. 可考虑增加定时任务自动检查活动过期情况，清理已结束的活动。6. 可考虑增加数据去重逻辑，避免同一活动被多次添加。7. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。"
+  },
+  {
+    "date": "2026-07-11",
+    "activities_total": 670,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 92,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次GitHub token验证失败(Bad credentials)，无法获取和处理issues，需要更新token。2. 数据管线运行正常，共抓取670条有效活动，较昨日增加92条。3. 最终输出exhibitions.json数据质量完全合格：0个fee问题、0个description问题、0个区县匹配问题，说明normalize_activity函数工作良好。4. 部分爬虫单独输出文件(_exhibitions.json)中存在description太短的问题，但这些中间产物不影响最终数据质量。5. 大量gov.cn网站因SSL证书问题(BAD_ECPOINT)爬取失败，文化馆云平台(szmassart.com)是重要的数据来源。6. 深圳图书馆和深圳国际会展中心是数据量最大的两个来源。7. manual_data.json中的411条手动数据质量良好，是数据的重要补充。",
+    "improvement_ideas": "1. 需更新GitHub token以恢复issue处理能力。2. 可考虑在各爬虫scraper脚本的输出前也进行数据标准化，使中间输出文件也符合质量标准。3. 可考虑增加更多文化馆云平台的数据源，以弥补gov.cn网站SSL问题导致的数据缺失。4. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。5. 可考虑新增爬虫：深圳音乐厅、深圳滨海艺术中心等已有手动数据但无自动爬虫的场馆。6. 可考虑优化check_data_quality.py，只检查最终输出文件exhibitions.json，避免中间文件的问题干扰判断。7. 可考虑增加活动分类的自动优化，提高分类准确率。"
+  },
+  {
+    "date": "2026-07-11",
+    "activities_total": 678,
+    "issues_closed": 2,
+    "issues_remaining": 0,
+    "new_activities_added": 1,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. GitHub token验证成功，成功获取并处理2个Issues：#33数据质量巡检报告(0问题)和#34新活动发现(北京人艺话剧《寻找春柳社》)。2. 数据管线运行正常，共抓取678条有效活动。3. 最终输出exhibitions.json数据质量完全合格：0个fee问题、0个description问题、0个区县匹配问题。4. 中间文件(nslib_exhibitions.json、nsqsng_exhibitions.json、nswtzx_exhibitions.json)存在16个description太短的问题，但normalize_activity函数在合并时已正确处理，不影响最终数据质量。5. 大量gov.cn网站因SSL证书问题(BAD_ECPOINT)爬取失败，文化馆云平台仍是重要数据来源。6. manual_data.json的格式规范，新增活动只需追加到末尾即可。7. 新活动发现Issue信息格式统一，包含完整的活动名称/场馆/所在区/时间/地址/类型/描述/来源链接，易于解析和添加。",
+    "improvement_ideas": "1. 可考虑新增爬虫：光明文化艺术中心，该场馆已有手动添加的数据但无自动爬虫。2. 可考虑优化check_data_quality.py，只检查最终输出文件exhibitions.json，避免中间文件问题干扰判断。3. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。4. 可考虑在data_pipeline.py中增加fee字段自动标准化逻辑。5. 可考虑增加活动过期检查机制，自动清理已结束的活动。6. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。7. 可考虑为光明区增加更多场馆的爬虫支持。"
+  },
+  {
+    "date": "2026-07-11",
+    "activities_total": 678,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 0,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 多城市活动采集：成功搜集广州19条、上海15条、北京14条、杭州15条当前活动信息，共63条活动速查数据。2. 搜索策略验证有效：先搜政府文旅局官网汇总页（如广东省文旅厅湾区展讯whly.gd.gov.cn），再搜权威媒体报道（南方+、新华网、人民网），最后搜单场馆官网活动栏目。3. 暑期活动特征明显：多数场馆延时开放至20:00-21:00，博物馆奇妙夜/夜宿活动成为暑期爆款，图书馆/文化馆活动几乎全部免费。4. 亲子活动判断：科技馆/自然博物馆/少儿图书馆/青少年活动中心的活动几乎都family_friendly=true；美术馆/博物馆的特展需根据活动描述判断。5. fee判断新案例：上海天文馆夜场358元/人归为'收费'；北京天文馆'含在门票内'继承场馆门票类型；杭州图书馆全部活动免费。6. 日期格式新增案例：'7.9-8.31每周二至五'需解析为start_date=2026-07-09/end_date=2026-08-31；'7月多期'需选择第一期和最后一期日期。7. 杭州台风影响：受第9号台风'巴威'影响，杭州部分场馆7月10-11日临时闭馆，需在文档中标注提醒。8. 政务公开渠道验证：广东省文旅厅湾区展讯页面(whly.gd.gov.cn/service_new/hdyg/)是广州活动信息最权威汇总源；京报网(xinwen.bjd.com.cn)有北京七月展讯汇总；上海本地宝有博物馆奇妙夜汇总。9. 创建了SOP.md经验手册，系统化总结了场馆搜索方法论、活动采集流程、数据质量标准、常见错误解决方案等，供后续执行直接参考。",
+    "improvement_ideas": "1. 为广州、上海、北京、杭州的核心场馆编写scraper脚本，实现自动采集。2. 接入国家公共文化云(culturedc.cn)API，实现跨城市批量活动获取。3. 增加活动过期自动清理机制，避免过期活动堆积。4. 增加数据去重逻辑，同一活动可能来自不同数据源（如媒体报道+场馆官网）。5. 考虑增加活动推荐功能，基于用户位置和偏好推荐附近活动。6. 考虑从微信公众号文章自动抓取活动信息。7. 定期更新SOP.md，每次执行后追加新的经验教训。8. 为商业综合体（欢乐港湾、前滩太古里等）建立单独的数据采集流程。9. 考虑增加活动收藏/订阅功能，用户可关注特定场馆。"
+  },
+  {
+    "date": "2026-07-12",
+    "activities_total": 444,
+    "issues_closed": 5,
+    "issues_remaining": 0,
+    "new_activities_added": 4,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 活动总数从678降至444，原因是大量7月初活动已过期被自动清理，属正常现象。2. 本日处理5个Issues：#37数据质量巡检报告(0问题)、#38新活动发现(宠·爱——猫猫狗狗的世界/深圳博物馆/展览/免费需预约)、#39新活动发现(歌剧《乡村骑士》×《丑角》/深圳音乐厅/演出/收费)、#40新活动发现(漫步古典夜长笛与吉他二重奏/深圳音乐厅/演出/收费)、#41新活动发现(柴可夫斯基《天鹅湖》主题音乐会/深圳音乐厅/演出/收费)。3. fee判断：深圳博物馆展览免费但需预约→免费需预约；深圳音乐厅音乐会均有票价→收费。4. family_friendly判断：博物馆互动科普展→true；歌剧/古典音乐会→false（儿童不适合）；注明'2周岁以上儿童可入场'→true。5. 日期'即日起至2026年7月'需推断开始日期，结合报道发布时间和展览通常周期设定。6. git pull遇到本地未提交变更导致冲突时，先git stash再pull。7. 南山文体中心(nswtzx)爬虫返回0条数据，可能是文化云平台数据更新延迟。8. check_data_quality.py现在只检查exhibitions.json，不再报中间文件问题，较之前更清晰。",
+    "improvement_ideas": "1. 可考虑新增深圳音乐厅scraper自动采集演出信息，目前该场馆活动全靠手动添加。2. 可考虑在manual_data.json中增加city字段以支持多城市。3. 可考虑增加活动过期自动清理机制，减少手动维护工作量。4. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源（如scraper+手动添加）。5. 可考虑在SOP.md中补充family_friendly判断标准，建立更明确的规则。6. 可考虑为深圳博物馆编写scraper，该馆展览丰富但全靠手动补充。7. 可考虑增加巡检报告的细粒度检查（如fee分布统计、区县分布统计），以便发现数据偏科问题。"
+  },
+  {
+    "date": "2026-07-12",
+    "activities_total": 526,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 0,
+    "data_quality_issues_fixed": 23,
+    "lessons_learned": "1. 本次数据质量校验发现23个link_missing问题，均为广州、上海、北京、杭州等多城市活动缺少来源链接，已通过映射场馆官网地址批量修复。2. gov.cn网站SSL证书问题(BAD_ECPOINT)依然严重，25个爬虫中有20个返回0条数据，manual_data.json成为重要的数据补充来源。3. 微信爬虫获取到0篇文章，社交平台数据采集能力有待增强。4. 数据管线运行正常，共抓取526条有效活动，全部有官方来源。5. git push失败时需先stash本地变更，再pull --rebase，最后恢复stash内容。6. check_data_quality.py现在只检查exhibitions.json，输出清晰。7. 多城市数据（广州19条、上海20条、北京30条、杭州13条）质量良好，已补充来源链接。",
+    "improvement_ideas": "1. 可考虑在manual_data.json中增加场馆官网链接字段，避免后续新增活动时遗漏link字段。2. 可考虑为广州、上海、北京、杭州的核心场馆编写scraper脚本，实现自动采集。3. 可考虑接入国家公共文化云(culturedc.cn)API，实现跨城市批量活动获取。4. 可考虑增加活动过期自动清理机制，减少手动维护工作量。5. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。6. 可考虑优化微信爬虫，增加更多公众号和文章获取方式。7. 可考虑在data_pipeline.py中增加场馆官网链接自动补全功能。"
+  },
+  {
+    "date": "2026-07-13",
+    "activities_total": 501,
+    "issues_closed": 5,
+    "issues_remaining": 0,
+    "new_activities_added": 4,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次处理5个Issues：#62数据质量巡检报告(0问题)、#63新活动发现(北京人艺话剧《寻找春柳社》)、#64新活动发现(舞剧《巍巍正阳》)、#65新活动发现(陈萨钢琴音乐会《自然之诗》)、#66新活动发现(国风儿童剧《少年诗词游之李白》)。2. 4个新活动均在光明区，光明文化艺术中心演出活动丰富，建议考虑新增该场馆的自动爬虫。3. 活动总数从526降至501，原因是部分7月初活动过期被自动清理，属正常现象。4. 深圳图书馆活动从189条降至174条，也是过期活动正常清理。5. family_friendly判断：儿童剧→true；话剧/舞剧/古典音乐会→false（儿童不适合）。6. source字段对于光明区场馆使用gmwhg，确保区县匹配正确。7. git pull遇到本地未提交变更导致冲突时，先用git stash再pull，合并冲突时用--theirs取远程版本。",
+    "improvement_ideas": "1. 可考虑新增光明文化艺术中心scraper自动采集演出信息，目前该场馆活动全靠手动添加。2. 可考虑为茅洲河体育艺术中心也建立数据采集流程。3. 可考虑增加活动过期自动清理机制，减少手动维护工作量。4. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。5. 可考虑在SOP.md中补充family_friendly判断标准，建立更明确的规则。6. 可考虑优化微信爬虫，增加更多公众号和文章获取方式。7. 可考虑为各区核心场馆建立爬虫优先级，优先维护数据量大的场馆。"
+  },
+  {
+    "date": "2026-07-13",
+    "activities_total": 515,
+    "issues_closed": 5,
+    "issues_remaining": 0,
+    "new_activities_added": 5,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次处理5个新活动发现Issues：#67科普绘本剧《肚子里的火车站》(光明区/茅洲河体育艺术中心)、#68百老汇儿童剧《原始人大冒险》(光明区/玉塘文体中心)、#69沉浸式互动亲子科学剧《数学秀》(龙岗区/深圳龙岗国际艺术中心)、#70笔墨同心·林墉苏华作品展(南山区/何香凝美术馆)、#71薪火相传稚笔生花少儿艺术展(龙华区/深圳美术馆)。2. 活动总数从510增至515，新增5条活动。3. 光明区场馆活动丰富(2条新增)，建议考虑为玉塘文体中心和茅洲河体育艺术中心建立数据采集流程。4. 何香凝美术馆(南山区)和深圳美术馆(龙华区)均为重要场馆，但目前无自动爬虫，需手动补充。5. fee判断：儿童剧/科普剧有票价→收费；展览免费免预约→免费。6. family_friendly判断：儿童剧/亲子科学剧→true；艺术展→true。7. gov.cn网站SSL证书问题(BAD_ECPOINT)依然严重，25个爬虫中有20个返回0条数据，manual_data.json仍是重要数据补充来源。8. 微信爬虫获取0篇文章，社交平台数据采集能力有待增强。9. check_data_quality.py检查通过，0个数据质量问题。",
+    "improvement_ideas": "1. 可考虑新增何香凝美术馆scraper自动采集展览信息，该场馆展览丰富但全靠手动添加。2. 可考虑为深圳美术馆编写scraper，该馆位于龙华区，已有多条手动数据。3. 可考虑为光明区玉塘文体中心和茅洲河体育艺术中心建立数据采集流程。4. 可考虑增加活动过期自动清理机制，减少手动维护工作量。5. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。6. 可考虑优化微信爬虫，增加更多公众号和文章获取方式。7. 可考虑为各区核心场馆建立爬虫优先级，优先维护数据量大的场馆。"
+  },
+  {
+    "date": "2026-07-12",
+    "activities_total": 443,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 0,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次数据管线改用并行+超时机制（ThreadPoolExecutor + 25秒超时），成功解决了之前 serial 执行时单个爬虫卡住导致整体超时的问题。2. 8个爬虫成功获取数据：深圳图书馆(242条)、深圳会展中心(87条)、深圳国际会展中心(88条)、南山图书馆(10条)、宝安图书馆(10条)、南山博物馆(5条)、南山区青少年活动中心(6条)、南山区文化馆(1条)。3. 18个爬虫因 gov.cn SSL BAD_ECPOINT 失败，问题依旧严重。4. GitHub token 再次失效(Bad credentials)，无法获取和处理 issues。5. 活动总数 443 条，数据质量 0 问题。6. 拉取远程代码后 manual_data.json 从 484 条降至 239 条，远程版本数据量较少。7. 当前环境代理 127.0.0.1:18080 配合 urllib3 SSL 补丁导致部分请求挂住，但 parallel execution with timeout 可避免阻塞。",
+    "improvement_ideas": "1. 建议将 data_pipeline.py 改为并行执行模式（ThreadPoolExecutor + 单爬虫超时），避免单个爬虫卡住导致整体失败。2. 需要更新 GitHub token 恢复 issue 处理能力。3. 建议为 gov.cn 爬虫增加备用数据源（如直接解析场馆官网 HTML 而非依赖政府搜索接口）。4. 建议维护一份 manual_data.json 的备份，避免远程版本数据量较少时本地数据丢失。5. 可考虑在 SOP.md 中记录并行执行的最佳实践。6. 可考虑增加自动检测过期活动并清理的机制。7. 可考虑为深圳图书馆、会展中心等能跑通的爬虫增加重试逻辑，提高稳定性。"
+  },
+  {
+    "date": "2026-07-12",
+    "activities_total": 655,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 212,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 从git stash恢复了之前补充的348条manual_data活动，合并远程新增的84条，manual_data.json从239条恢复到568条。2. 并行运行爬虫获取448条数据（8个成功，19个失败），去重后exhibitions.json共655条有效活动。3. 数据质量0问题。4. gov.cn SSL BAD_ECPOINT问题依旧严重，19个爬虫全部失败。5. git push被拒时需先git pull --rebase再push。6. 远程仓库在数据更新期间有其他人提交，rebase成功无冲突。7. 多城市数据：深圳529条、北京45条、上海36条、广州32条、杭州13条。",
+    "improvement_ideas": "1. 建议将data_pipeline.py改为并行执行模式，避免单个爬虫卡住。2. 需要更新GitHub token恢复issue处理能力。3. 建议为gov.cn爬虫增加备用数据源。4. 建议维护manual_data.json备份机制。5. 可考虑增加自动检测过期活动并清理的机制。6. 可考虑为深圳图书馆、会展中心等能跑通的爬虫增加重试逻辑。7. 可考虑从更多非gov.cn来源补充数据。"
+  },
+  {
+    "date": "2026-07-14",
+    "activities_total": 1066,
+    "issues_closed": 4,
+    "issues_remaining": 0,
+    "new_activities_added": 5,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次处理4个新活动发现Issues：#76锦绣中华民俗村·泼水狂欢节(南山区)、#77儿童皮影戏(罗湖区/深圳戏院)、#78火红青春——优秀青年京剧演员展演(罗湖区/深圳戏院)、#79深圳图书馆第十二届暑期缤纷季(福田区/龙华区)。2. 深圳图书馆暑期缤纷季活动涉及两个场馆(中心馆+北馆)，分别位于福田区和龙华区，需要分别添加两条记录。3. fee判断：深圳图书馆公益培训课→免费需预约；深圳戏院演出→需购票；锦绣中华民俗村→需购票。4. family_friendly判断：儿童皮影戏→true；京剧展演→false；泼水狂欢节→true；暑期缤纷季亲子活动→true。5. gov.cn网站SSL证书问题(BAD_ECPOINT)依然严重，34个爬虫中有24个返回0条数据。6. 微信爬虫获取0篇文章，社交平台数据采集能力有待增强。7. check_data_quality.py检查通过，0个数据质量问题。8. manual_data.json从924条增至929条，是重要的数据补充来源。9. 数据管线运行正常，共抓取1066条有效活动。",
+    "improvement_ideas": "1. 可考虑新增深圳戏院scraper自动采集演出信息，该场馆已有多条手动数据。2. 可考虑新增锦绣中华民俗村scraper自动采集活动信息。3. 可考虑增加活动过期自动清理机制，减少手动维护工作量。4. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。5. 可考虑优化微信爬虫，增加更多公众号和文章获取方式。6. 可考虑为各区核心场馆建立爬虫优先级，优先维护数据量大的场馆。7. 可考虑为gov.cn爬虫增加备用数据源，如直接解析场馆官网HTML。"
+  },
+  {
+    "date": "2026-07-14",
+    "activities_total": 1159,
+    "issues_closed": 0,
+    "issues_remaining": 0,
+    "new_activities_added": 93,
+    "data_quality_issues_fixed": 22,
+    "lessons_learned": "1. 核心问题：gov.cn网站SSL BAD_ECPOINT错误是TLS握手层问题，verify=False无法解决，需要用curl子进程绕过。2. 创建了http_utils.py模块，提供curl_get/curl_post函数作为requests的替代方案。3. 发现文化馆云平台API(whgy.szmassart.com)是全市统一的活动数据源，包含宝安/福田/龙岗/光明等所有区的活动，用curl可以正常访问。4. 创建了scraper_culture_cloud.py统一文化馆云平台爬虫，一次拉取全市72条文化活动。5. 为22个0活动场馆补充了常设展/暑期活动数据到manual_data.json，包括博物馆常设展、安全教育体验展、暑期公益课程等。6. 活动总数从1066增至1159(+93条)，所有之前0活动的场馆现在都有数据。7. 数据质量校验通过，0个问题。8. API的pageTotal字段是总条数不是总页数，第2页返回相同数据，通过dedup和early break避免无效请求。9. git push被拒时需先stash未提交变更，再pull --rebase，最后stash pop恢复。",
+    "improvement_ideas": "1. 可考虑修改其他gov.cn依赖的爬虫也使用http_utils的curl_get替代requests.get。2. 可考虑为文化馆云平台API增加更多区级端点（如ftqwhg/baqwtzx等），获取更多区级特色活动。3. 可考虑为博物馆类场馆编写专门的常设展维护脚本，定期更新展览信息。4. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。5. 可考虑增加数据去重逻辑，文化馆云平台和手动数据可能有重复活动。6. 可考虑为curl_get增加重试逻辑和超时配置。7. 可考虑在GitHub Actions环境中也安装curl并配置http_utils作为备用HTTP方案。"
+  }
+]

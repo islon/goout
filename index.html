@@ -1,0 +1,2597 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        if (location.hostname === 'islon.github.io' && location.pathname.startsWith('/shenzhen-exhibitions')) {
+            location.replace(location.href.replace('/shenzhen-exhibitions', '/goout'));
+        }
+    </script>
+    <meta http-equiv="Cache-Control" content="public, max-age=86400">
+    <title>童行 (全国亲子活动日历)</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <style>
+        :root {
+            --sand-primary: #D4A373;
+            --sand-light: #E8D5BC;
+            --sand-dark: #B8895A;
+            --sand-bg: #FDF6ED;
+            --sand-50: #FFFBF5;
+            --sand-100: #FDF6ED;
+            --sand-200: #F5E6D3;
+            --ocean: #0891B2;
+            --ocean-light: #E0F2F7;
+            --forest: #166534;
+            --forest-light: #DCFCE7;
+            --bg-warm: #FFFDF7;
+            --surface: #FFFFFF;
+            --text-primary: #292524;
+            --text-secondary: #78716C;
+            --text-muted: #A8A29E;
+            --border: #F5F0E8;
+            --border-strong: #E7DFD3;
+            --success: #166534;
+            --warning: #CA8A04;
+            --error: #DC2626;
+            --info: #0891B2;
+            --shadow-sm: 0 1px 2px rgba(212, 163, 115, 0.05);
+            --shadow-md: 0 4px 12px rgba(212, 163, 115, 0.08);
+            --shadow-lg: 0 12px 24px rgba(212, 163, 115, 0.12);
+            --shadow-xl: 0 20px 40px rgba(212, 163, 115, 0.15);
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 20px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: var(--bg-warm);
+            min-height: 100vh;
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            padding: 16px 20px 20px;
+            border-bottom: none;
+            position: relative;
+            box-shadow: var(--shadow-md);
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: -30%;
+            left: -5%;
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .subscribe-link {
+            padding: 6px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            color: white;
+            border-radius: 20px;
+            font-size: 12px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s;
+            backdrop-filter: blur(10px);
+        }
+
+        .subscribe-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+
+        .feedback-link {
+            padding: 6px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            color: white;
+            border-radius: 20px;
+            font-size: 12px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s;
+            backdrop-filter: blur(10px);
+        }
+
+        .feedback-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+
+        .header h1 {
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            margin: 0;
+            letter-spacing: -0.3px;
+        }
+
+        .header-subtitle {
+            text-align: center;
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.85);
+            margin-top: 4px;
+            font-weight: 400;
+        }
+
+        .main-wrapper {
+            display: flex;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 16px;
+            gap: 20px;
+        }
+
+        .sidebar {
+            width: 260px;
+            flex-shrink: 0;
+            display: none;
+        }
+
+        .sidebar-card {
+            background: var(--surface);
+            border-radius: 14px;
+            padding: 16px;
+            margin-bottom: 12px;
+            box-shadow: 0 1px 3px rgba(212, 163, 115, 0.08);
+            border: 1px solid var(--border);
+        }
+
+        .sidebar-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            letter-spacing: -0.2px;
+        }
+
+        .filter-section-mobile {
+            background: var(--surface);
+            padding: 14px 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .filter-section-mobile--right-align {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .filter-section-mobile--right-align .filter-bar {
+            align-self: flex-start;
+        }
+
+        .filter-label {
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-bottom: 10px;
+            padding-left: 4px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .filter-bar {
+            display: flex;
+            gap: 6px;
+            overflow-x: auto;
+            padding-bottom: 2px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 7px 14px;
+            background: var(--surface);
+            border: 1.5px solid var(--border-strong);
+            border-radius: 24px;
+            font-size: 12px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            flex-shrink: 0;
+            font-weight: 500;
+        }
+
+        .filter-btn.active {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-color: var(--sand-primary);
+            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
+            font-weight: 600;
+        }
+
+        .filter-btn:hover:not(.active) {
+            background: var(--sand-50);
+            color: var(--sand-dark);
+            border-color: var(--sand-light);
+            transform: translateY(-1px);
+        }
+
+        .filter-btn:active {
+            transform: scale(0.97);
+        }
+
+        .filter-btn.disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+
+        .search-container {
+            position: relative;
+            margin-bottom: 12px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px 40px 12px 16px;
+            border: 1.5px solid var(--border-strong);
+            border-radius: var(--radius-xl);
+            font-size: 14px;
+            background: var(--surface);
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            color: var(--text-primary);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--sand-primary);
+            background: var(--surface);
+            box-shadow: 0 0 0 4px rgba(212, 163, 115, 0.12), var(--shadow-sm);
+        }
+
+        .search-input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 16px;
+            pointer-events: none;
+            transition: color 0.2s;
+        }
+
+        .search-input:focus + .search-icon {
+            color: var(--sand-primary);
+        }
+
+        .content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .count-info {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+            text-align: right;
+        }
+
+        .exhibition-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 10px;
+        }
+
+        .exhibition-card {
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            padding: 16px;
+            box-shadow: var(--shadow-sm);
+            border-left: 3px solid var(--border-strong);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--border-strong);
+            opacity: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .exhibition-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--sand-light), transparent);
+            opacity: 0.5;
+        }
+
+        .exhibition-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 80px;
+            height: 80px;
+            background: radial-gradient(circle at top right, rgba(212, 163, 115, 0.06), transparent 70%);
+            pointer-events: none;
+        }
+
+        .exhibition-card:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--sand-light);
+        }
+
+        .exhibition-card:active {
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* 按分类着色 */
+        .exhibition-card.cat-展览 { border-left-color: var(--ocean); }
+        .exhibition-card.cat-讲座阅读 { border-left-color: #8B5CF6; }
+        .exhibition-card.cat-科普活动 { border-left-color: var(--forest); }
+        .exhibition-card.cat-演出 { border-left-color: var(--warning); }
+        .exhibition-card.cat-影视放映 { border-left-color: #DB2777; }
+        .exhibition-card.cat-体育赛事 { border-left-color: var(--error); }
+        .exhibition-card.cat-亲子活动 { border-left-color: var(--sand-primary); }
+        .exhibition-card.cat-其他 { border-left-color: var(--text-muted); }
+
+        .exhibition-header {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+
+        .exhibition-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1.4;
+            letter-spacing: -0.2px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .exhibition-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            flex-shrink: 0;
+        }
+
+        .badge {
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            line-height: 1.2;
+        }
+
+        .badge.free {
+            background: var(--forest-light);
+            color: var(--forest);
+            border: 1px solid rgba(22, 101, 52, 0.2);
+        }
+
+        .badge.free::before {
+            content: '✓';
+            font-weight: 700;
+        }
+
+        .badge.paid {
+            background: #FEF3C7;
+            color: var(--warning);
+            border: 1px solid rgba(202, 138, 4, 0.2);
+        }
+
+        .badge.paid::before {
+            content: '💰';
+            font-size: 10px;
+        }
+
+        .badge.family {
+            background: #FFE4E6;
+            color: #BE123C;
+            border: 1px solid rgba(190, 18, 60, 0.2);
+        }
+
+        .badge.family::before {
+            content: '👨‍👩‍👧';
+            font-size: 10px;
+        }
+
+        .badge.type-展览 { background: var(--ocean-light); color: var(--ocean); border: 1px solid rgba(8, 145, 178, 0.15); }
+        .badge.type-讲座阅读 { background: #EDE9FE; color: #7C3AED; border: 1px solid rgba(124, 58, 237, 0.15); }
+        .badge.type-科普活动 { background: var(--forest-light); color: var(--forest); border: 1px solid rgba(22, 101, 52, 0.15); }
+        .badge.type-演出 { background: #FEF3C7; color: var(--warning); border: 1px solid rgba(202, 138, 4, 0.15); }
+        .badge.type-影视放映 { background: #FCE7F3; color: #BE185D; border: 1px solid rgba(190, 24, 93, 0.15); }
+        .badge.type-体育赛事 { background: #FEE2E2; color: var(--error); border: 1px solid rgba(220, 38, 38, 0.15); }
+        .badge.type-亲子活动 { background: var(--sand-bg); color: var(--sand-dark); border: 1px solid rgba(212, 163, 115, 0.25); }
+        .badge.type-其他 { background: #F1F5F9; color: #64748B; border: 1px solid rgba(100, 116, 139, 0.15); }
+
+        .exhibition-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            font-size: 12px;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+            margin-top: 6px;
+        }
+
+        .exhibition-meta span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .exhibition-desc {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 10px;
+        }
+
+        .exhibition-desc.empty {
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        .exhibition-link {
+            display: inline-block;
+            padding: 5px 12px;
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-radius: 8px;
+            font-size: 11px;
+            text-decoration: none;
+            font-weight: 600;
+            text-align: left;
+            transition: all 0.15s;
+            box-shadow: 0 1px 3px rgba(212, 163, 115, 0.2);
+            margin-top: auto;
+            align-self: flex-start;
+        }
+
+        .exhibition-link:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(212, 163, 115, 0.3);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+
+        .source-filter-collapsed {
+            max-height: 130px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .source-filter-collapsed::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 40px;
+            background: linear-gradient(to bottom, rgba(255,255,255,0), var(--surface));
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .expand-toggle-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            padding: 8px 16px;
+            font-size: 13px;
+            color: var(--sand-dark);
+            background: var(--surface);
+            border: 1px solid var(--sand-light);
+            border-radius: 20px;
+            cursor: pointer;
+            margin-top: 8px;
+            margin-left: auto;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .expand-toggle-btn:hover {
+            background: var(--sand-bg);
+            border-color: var(--sand-primary);
+        }
+
+        .sidebar-source-filter-collapsed {
+            max-height: 120px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .sidebar-source-filter-collapsed::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 40px;
+            background: linear-gradient(to bottom, rgba(255,255,255,0), var(--surface));
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .sidebar-expand-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            padding: 6px 12px;
+            font-size: 12px;
+            color: var(--sand-dark);
+            background: var(--sand-bg);
+            border: 1px solid var(--sand-light);
+            border-radius: 16px;
+            cursor: pointer;
+            margin-top: 8px;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .sidebar-expand-btn:hover {
+            background: var(--sand-light);
+        }
+
+        .page-btn {
+            padding: 6px 12px;
+            border: 1px solid var(--border-strong);
+            border-radius: 8px;
+            background: var(--surface);
+            font-size: 13px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .page-btn:hover:not(:disabled) {
+            border-color: var(--sand-primary);
+            color: var(--sand-dark);
+            background: var(--sand-bg);
+        }
+
+        .page-btn.active {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: #fff;
+            border-color: transparent;
+            box-shadow: 0 2px 6px rgba(212, 163, 115, 0.3);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .empty-state .icon {
+            font-size: 48px;
+            margin-bottom: 12px;
+        }
+
+        .date-badge {
+            display: inline-block;
+            padding: 2px 7px;
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 700;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        .date-badge.upcoming {
+            background: #FEF3C7;
+            color: var(--warning);
+        }
+
+        .date-badge.today {
+            background: #FEE2E2;
+            color: var(--error);
+        }
+
+        .date-badge.tomorrow {
+            background: var(--ocean-light);
+            color: var(--ocean);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        /* 骨架屏 - 离线优先设计 */
+        .skeleton-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 10px;
+        }
+
+        .skeleton-card {
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            padding: 16px;
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--border-strong);
+        }
+
+        .skeleton-line {
+            background: linear-gradient(
+                90deg,
+                var(--sand-100) 25%,
+                var(--sand-200) 50%,
+                var(--sand-100) 75%
+            );
+            background-size: 200% 100%;
+            animation: skeleton-shimmer 1.5s infinite;
+            border-radius: 4px;
+        }
+
+        .skeleton-line.title {
+            height: 18px;
+            width: 70%;
+            margin-bottom: 10px;
+        }
+
+        .skeleton-line.meta {
+            height: 12px;
+            width: 50%;
+            margin-bottom: 8px;
+        }
+
+        .skeleton-line.desc {
+            height: 12px;
+            width: 90%;
+            margin-bottom: 6px;
+        }
+
+        .skeleton-line.desc.short {
+            width: 60%;
+        }
+
+        .skeleton-line.badge {
+            height: 20px;
+            width: 48px;
+            display: inline-block;
+            margin-right: 6px;
+            border-radius: 6px;
+        }
+
+        @keyframes skeleton-shimmer {
+            0% {
+                background-position: 200% 0;
+            }
+            100% {
+                background-position: -200% 0;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .skeleton-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 16px;
+            }
+            .skeleton-card {
+                padding: 20px;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            .skeleton-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        /* 入场动画 */
+        @keyframes fade-in-up {
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .exhibition-card {
+            animation: fade-in-up 0.3s ease-out forwards;
+        }
+
+        .exhibition-card:nth-child(1) { animation-delay: 0.02s; }
+        .exhibition-card:nth-child(2) { animation-delay: 0.04s; }
+        .exhibition-card:nth-child(3) { animation-delay: 0.06s; }
+        .exhibition-card:nth-child(4) { animation-delay: 0.08s; }
+        .exhibition-card:nth-child(5) { animation-delay: 0.10s; }
+        .exhibition-card:nth-child(6) { animation-delay: 0.12s; }
+        .exhibition-card:nth-child(7) { animation-delay: 0.14s; }
+        .exhibition-card:nth-child(8) { animation-delay: 0.16s; }
+        .exhibition-card:nth-child(9) { animation-delay: 0.18s; }
+
+        .clear-filters-btn {
+            width: 100%;
+            padding: 10px;
+            background: var(--bg-warm);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 12px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .clear-filters-btn:hover {
+            background: var(--sand-bg);
+            color: var(--sand-dark);
+            border-color: var(--sand-light);
+        }
+
+        @media (min-width: 768px) {
+            .header h1 {
+                font-size: 28px;
+            }
+
+            .header-top {
+                padding: 0 20px;
+            }
+
+            .exhibition-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 16px;
+            }
+
+            .exhibition-card {
+                padding: 20px;
+            }
+
+            .exhibition-title {
+                font-size: 17px;
+            }
+
+            .exhibition-meta {
+                font-size: 13px;
+            }
+
+            .exhibition-desc {
+                font-size: 13px;
+            }
+
+            .content {
+                padding: 0;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .sidebar {
+                display: block;
+            }
+
+            .filter-section-mobile {
+                display: none;
+            }
+
+            .exhibition-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .main-wrapper {
+                padding: 16px;
+            }
+
+            .content {
+                margin-top: 0;
+            }
+
+            .header {
+                padding: 12px 20px 16px;
+            }
+
+            .header h1 {
+                font-size: 24px;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            .exhibition-grid {
+                grid-template-columns: repeat(3, 1fr);
+                grid-auto-rows: auto;
+                align-items: stretch;
+            }
+        }
+
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.4);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            backdrop-filter: blur(4px);
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal {
+            background: var(--surface);
+            border-radius: 18px;
+            max-width: 560px;
+            width: 100%;
+            max-height: 85vh;
+            overflow-y: auto;
+            position: relative;
+            box-shadow: 0 20px 60px rgba(212, 163, 115, 0.2);
+            border: 1px solid var(--border);
+        }
+
+        .modal-header {
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            padding: 20px 24px;
+            border-radius: 18px 18px 0 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .modal-title {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            line-height: 1.4;
+            letter-spacing: -0.2px;
+        }
+
+        .modal-close {
+            background: rgba(255, 255, 255, 0.15);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            font-size: 20px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            flex-shrink: 0;
+            margin-left: 12px;
+        }
+
+        .modal-close:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: rotate(90deg);
+        }
+
+        .modal-body {
+            padding: 24px;
+        }
+
+        .modal-info-row {
+            display: flex;
+            margin-bottom: 14px;
+            align-items: flex-start;
+        }
+
+        .modal-info-label {
+            width: 70px;
+            font-weight: 600;
+            color: var(--text-muted);
+            flex-shrink: 0;
+            font-size: 13px;
+        }
+
+        .modal-info-value {
+            flex: 1;
+            color: var(--text-primary);
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .modal-description {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
+        }
+
+        .modal-desc-title {
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: var(--text-primary);
+            font-size: 14px;
+        }
+
+        .modal-desc-content {
+            line-height: 1.8;
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        .modal-venue-info {
+            margin-top: 16px;
+            padding: 14px;
+            background: var(--sand-50);
+            border-radius: 10px;
+            border: 1px solid var(--border);
+        }
+
+        .modal-contact {
+            margin-top: 16px;
+            padding: 14px;
+            background: var(--bg-warm);
+            border-radius: 10px;
+            border: 1px solid var(--border);
+        }
+
+        .modal-contact-title {
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--text-primary);
+            font-size: 13px;
+        }
+
+        .modal-contact-info {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        .modal-url {
+            color: var(--ocean);
+            text-decoration: none;
+            word-break: break-all;
+            font-weight: 500;
+        }
+
+        .modal-url:hover {
+            text-decoration: underline;
+        }
+
+        .modal-badges {
+            display: flex;
+            gap: 6px;
+            margin-top: 8px;
+            flex-wrap: wrap;
+        }
+
+        .modal-original-link {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .original-link-btn {
+            display: inline-block;
+            padding: 12px 28px;
+            background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+            color: white;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.2s;
+            box-shadow: 0 2px 8px rgba(212, 163, 115, 0.3);
+        }
+
+        .original-link-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(212, 163, 115, 0.4);
+        }
+    </style>
+    <!-- 不蒜子统计 -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <!-- 百度统计（匿名模式，不收集个人信息） -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?2b4500f063cc3deffe5b1cc07e5d21b8";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+
+    _hmt.push(['_setCustomVar', 1, 'UserType', 'Anonymous', 3]);
+    _hmt.push(['_setCustomVar', 2, 'Privacy', 'NoPersonalInfo', 3]);
+
+    function trackEvent(category, action, label) {
+        if (window._hmt) {
+            _hmt.push(['_trackEvent', category, action, label]);
+        }
+        console.log('统计事件: ' + category + ' - ' + action + ' - ' + label);
+    }
+    </script>
+</head>
+<body>
+    <div class="header">
+        <div class="header-top">
+            <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
+            <a href="venue-guide.html" class="subscribe-link">🏛️ 场馆指南</a>
+            <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
+        </div>
+        <h1>👨‍👩‍👧‍👦 童行</h1>
+        <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div>
+        <div class="visit-stats" style="font-size: 12px; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,0.2); margin-top: 10px; text-align: center; font-weight: 500;">
+            <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
+            <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
+        </div>
+        <div style="font-size: 11px; color: rgba(255,255,255,0.85); text-align: center; margin-top: 4px;">
+            📊 本站使用匿名统计，不收集任何个人信息
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" class="search-input" id="search-input" placeholder="搜索活动名称、地点..." oninput="handleSearch()">
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">城市</div>
+        <div class="filter-bar" id="city-filter-bar">
+            <button class="filter-btn active" data-city="shenzhen">深圳</button>
+            <button class="filter-btn" data-city="guangzhou">广州</button>
+            <button class="filter-btn" data-city="shanghai">上海</button>
+            <button class="filter-btn" data-city="beijing">北京</button>
+            <button class="filter-btn" data-city="hangzhou">杭州</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">时间筛选</div>
+        <div class="filter-bar" id="time-filter-bar">
+            <button class="filter-btn" data-filter="upcoming">最近活动</button>
+            <button class="filter-btn" data-filter="today">今天</button>
+            <button class="filter-btn" data-filter="tomorrow">明天</button>
+            <button class="filter-btn" data-filter="week">本周</button>
+            <button class="filter-btn" data-filter="month">本月</button>
+            <button class="filter-btn" data-filter="next_month">下月</button>
+            <button class="filter-btn" data-filter="all">全部活动</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">亲子筛选</div>
+        <div class="filter-bar" id="family-filter-bar">
+            <button class="filter-btn" data-family="all">全部活动</button>
+            <button class="filter-btn" data-family="family">适合亲子</button>
+            <button class="filter-btn" data-family="other">其他活动</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">类型筛选</div>
+        <div class="filter-bar" id="type-filter-bar">
+            <button class="filter-btn" data-type="all">全部类型</button>
+            <button class="filter-btn" data-type="展览">展览</button>
+            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
+            <button class="filter-btn" data-type="科普活动">科普活动</button>
+            <button class="filter-btn" data-type="演出">演出</button>
+            <button class="filter-btn" data-type="影视放映">影视放映</button>
+            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
+            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">区县</div>
+        <div class="filter-bar" id="district-filter-bar">
+            <button class="filter-btn" data-district="all">全部区县</button>
+            <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
+            <button class="filter-btn" data-district="福田区" data-city="shenzhen">福田区</button>
+            <button class="filter-btn" data-district="南山区" data-city="shenzhen">南山区</button>
+            <button class="filter-btn" data-district="坪山区" data-city="shenzhen">坪山区</button>
+            <button class="filter-btn" data-district="光明区" data-city="shenzhen">光明区</button>
+            <button class="filter-btn" data-district="盐田区" data-city="shenzhen">盐田区</button>
+            <button class="filter-btn" data-district="大鹏新区" data-city="shenzhen">大鹏新区</button>
+            <button class="filter-btn" data-district="龙岗区" data-city="shenzhen">龙岗区</button>
+            <button class="filter-btn" data-district="龙华区" data-city="shenzhen">龙华区</button>
+            <button class="filter-btn" data-district="罗湖区" data-city="shenzhen">罗湖区</button>
+            <button class="filter-btn" data-district="越秀区" data-city="guangzhou" style="display:none;">越秀区</button>
+            <button class="filter-btn" data-district="天河区" data-city="guangzhou" style="display:none;">天河区</button>
+            <button class="filter-btn" data-district="海珠区" data-city="guangzhou" style="display:none;">海珠区</button>
+            <button class="filter-btn" data-district="荔湾区" data-city="guangzhou" style="display:none;">荔湾区</button>
+            <button class="filter-btn" data-district="白云区" data-city="guangzhou" style="display:none;">白云区</button>
+            <button class="filter-btn" data-district="黄埔区" data-city="guangzhou" style="display:none;">黄埔区</button>
+            <button class="filter-btn" data-district="番禺区" data-city="guangzhou" style="display:none;">番禺区</button>
+            <button class="filter-btn" data-district="南沙区" data-city="guangzhou" style="display:none;">南沙区</button>
+            <button class="filter-btn" data-district="黄浦区" data-city="shanghai" style="display:none;">黄浦区</button>
+            <button class="filter-btn" data-district="徐汇区" data-city="shanghai" style="display:none;">徐汇区</button>
+            <button class="filter-btn" data-district="浦东新区" data-city="shanghai" style="display:none;">浦东新区</button>
+            <button class="filter-btn" data-district="静安区" data-city="shanghai" style="display:none;">静安区</button>
+            <button class="filter-btn" data-district="杨浦区" data-city="shanghai" style="display:none;">杨浦区</button>
+            <button class="filter-btn" data-district="虹口区" data-city="shanghai" style="display:none;">虹口区</button>
+            <button class="filter-btn" data-district="闵行区" data-city="shanghai" style="display:none;">闵行区</button>
+            <button class="filter-btn" data-district="金山区" data-city="shanghai" style="display:none;">金山区</button>
+            <button class="filter-btn" data-district="长宁区" data-city="shanghai" style="display:none;">长宁区</button>
+            <button class="filter-btn" data-district="东城区" data-city="beijing" style="display:none;">东城区</button>
+            <button class="filter-btn" data-district="西城区" data-city="beijing" style="display:none;">西城区</button>
+            <button class="filter-btn" data-district="朝阳区" data-city="beijing" style="display:none;">朝阳区</button>
+            <button class="filter-btn" data-district="海淀区" data-city="beijing" style="display:none;">海淀区</button>
+            <button class="filter-btn" data-district="丰台区" data-city="beijing" style="display:none;">丰台区</button>
+            <button class="filter-btn" data-district="通州区" data-city="beijing" style="display:none;">通州区</button>
+            <button class="filter-btn" data-district="石景山区" data-city="beijing" style="display:none;">石景山区</button>
+            <button class="filter-btn" data-district="上城区" data-city="hangzhou" style="display:none;">上城区</button>
+            <button class="filter-btn" data-district="拱墅区" data-city="hangzhou" style="display:none;">拱墅区</button>
+            <button class="filter-btn" data-district="西湖区" data-city="hangzhou" style="display:none;">西湖区</button>
+            <button class="filter-btn" data-district="滨江区" data-city="hangzhou" style="display:none;">滨江区</button>
+            <button class="filter-btn" data-district="萧山区" data-city="hangzhou" style="display:none;">萧山区</button>
+            <button class="filter-btn" data-district="余杭区" data-city="hangzhou" style="display:none;">余杭区</button>
+            <button class="filter-btn" data-district="临平区" data-city="hangzhou" style="display:none;">临平区</button>
+            <button class="filter-btn" data-district="钱塘区" data-city="hangzhou" style="display:none;">钱塘区</button>
+            <button class="filter-btn" data-district="富阳区" data-city="hangzhou" style="display:none;">富阳区</button>
+            <button class="filter-btn" data-district="临安区" data-city="hangzhou" style="display:none;">临安区</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile filter-section-mobile--right-align">
+        <div class="filter-label">地点</div>
+        <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
+            <button class="filter-btn" data-source="all">全部地点</button>
+            <!-- 深圳市级核心场馆 -->
+            <button class="filter-btn" data-source="szlib" data-city="shenzhen">深圳图书馆</button>
+            <button class="filter-btn" data-source="sz_children_lib" data-city="shenzhen">深圳少儿图书馆</button>
+            <button class="filter-btn" data-source="szbwg" data-city="shenzhen">深圳博物馆</button>
+            <button class="filter-btn" data-source="szstm" data-city="shenzhen">深圳科学技术馆</button>
+            <button class="filter-btn" data-source="szcp" data-city="shenzhen">深圳市少年宫</button>
+            <button class="filter-btn" data-source="szaac" data-city="shenzhen">深圳市青少年活动中心</button>
+            <button class="filter-btn" data-source="sznm" data-city="shenzhen">深圳自然博物馆</button>
+            <button class="filter-btn" data-source="szbo" data-city="shenzhen">深圳滨海艺术中心</button>
+            <button class="filter-btn" data-source="szconcert" data-city="shenzhen">深圳音乐厅</button>
+            <button class="filter-btn" data-source="szmocap" data-city="shenzhen">当代艺术与城市规划馆</button>
+            <button class="filter-btn" data-source="szsports" data-city="shenzhen">深圳市体育中心</button>
+            <button class="filter-btn" data-source="szmassart" data-city="shenzhen">深圳市文化馆</button>
+            <!-- 深圳区级图书馆 -->
+            <button class="filter-btn" data-source="nslib" data-city="shenzhen">南山图书馆</button>
+            <button class="filter-btn" data-source="balib" data-city="shenzhen">宝安图书馆</button>
+            <button class="filter-btn" data-source="ftlib" data-city="shenzhen">福田区图书馆</button>
+            <button class="filter-btn" data-source="lhlib" data-city="shenzhen">罗湖区图书馆</button>
+            <button class="filter-btn" data-source="lglib" data-city="shenzhen">龙岗区图书馆</button>
+            <button class="filter-btn" data-source="lhxqlib" data-city="shenzhen">龙华区图书馆</button>
+            <button class="filter-btn" data-source="gmlib" data-city="shenzhen">光明区图书馆</button>
+            <button class="filter-btn" data-source="pslib" data-city="shenzhen">坪山区图书馆</button>
+            <button class="filter-btn" data-source="ytlib" data-city="shenzhen">盐田区图书馆</button>
+            <button class="filter-btn" data-source="dplib" data-city="shenzhen">大鹏新区图书馆</button>
+            <!-- 深圳区级博物馆与科普馆 -->
+            <button class="filter-btn" data-source="nsmuseum" data-city="shenzhen">南山博物馆</button>
+            <button class="filter-btn" data-source="lgmuseum" data-city="shenzhen">龙岗区博物馆</button>
+            <button class="filter-btn" data-source="bamuseum" data-city="shenzhen">宝安区博物馆</button>
+            <button class="filter-btn" data-source="lhmuseum" data-city="shenzhen">龙华区博物馆</button>
+            <button class="filter-btn" data-source="lhmuseum2" data-city="shenzhen">罗湖区博物馆</button>
+            <button class="filter-btn" data-source="dpgeopark" data-city="shenzhen">大鹏地质公园博物馆</button>
+            <button class="filter-btn" data-source="baoan_kjg" data-city="shenzhen">宝安科技馆</button>
+            <button class="filter-btn" data-source="lgkjg" data-city="shenzhen">龙岗区科技馆</button>
+            <button class="filter-btn" data-source="lhkjg" data-city="shenzhen">龙华区科技馆</button>
+            <button class="filter-btn" data-source="ytkjg" data-city="shenzhen">盐田区科技馆</button>
+            <button class="filter-btn" data-source="gm_kjg" data-city="shenzhen">光明区科技馆</button>
+            <!-- 深圳青少年宫 -->
+            <button class="filter-btn" data-source="baoan_qsng" data-city="shenzhen">宝安区青少年宫</button>
+            <button class="filter-btn" data-source="nsqsng" data-city="shenzhen">南山区青少年活动中心</button>
+            <button class="filter-btn" data-source="lgqsng" data-city="shenzhen">龙岗区青少年宫</button>
+            <button class="filter-btn" data-source="lhqsng" data-city="shenzhen">龙华区青少年宫</button>
+            <button class="filter-btn" data-source="lhqsng2" data-city="shenzhen">罗湖区青少年活动中心</button>
+            <button class="filter-btn" data-source="gmqsng" data-city="shenzhen">光明区青少年活动中心</button>
+            <button class="filter-btn" data-source="psqsng" data-city="shenzhen">坪山区青少年宫</button>
+            <!-- 深圳区级体育中心 -->
+            <button class="filter-btn" data-source="baoan_ty" data-city="shenzhen">宝安体育中心</button>
+            <button class="filter-btn" data-source="nswtzx" data-city="shenzhen">南山文体中心</button>
+            <button class="filter-btn" data-source="szwty" data-city="shenzhen">深圳湾体育中心</button>
+            <button class="filter-btn" data-source="lhtyzx" data-city="shenzhen">龙岗体育中心</button>
+            <button class="filter-btn" data-source="lhwtx" data-city="shenzhen">龙华文体中心</button>
+            <button class="filter-btn" data-source="gmtyzx" data-city="shenzhen">光明区群众体育中心</button>
+            <button class="filter-btn" data-source="lhtyzx2" data-city="shenzhen">罗湖区体育中心</button>
+            <button class="filter-btn" data-source="pstyzx" data-city="shenzhen">坪山体育中心</button>
+            <button class="filter-btn" data-source="yttyzx" data-city="shenzhen">盐田体育中心</button>
+            <!-- 深圳其他公立场馆 -->
+            <button class="filter-btn" data-source="nswhg" data-city="shenzhen">南山区文化馆</button>
+            <button class="filter-btn" data-source="baoan_1990" data-city="shenzhen">宝安1990文化馆</button>
+            <button class="filter-btn" data-source="bayarea_eye" data-city="shenzhen">湾区之眼</button>
+            <button class="filter-btn" data-source="baoan_guihua" data-city="shenzhen">宝安城市规划展览馆</button>
+            <button class="filter-btn" data-source="lgguihua" data-city="shenzhen">龙岗城市规划展览馆</button>
+            <button class="filter-btn" data-source="nsguihua" data-city="shenzhen">南山城市规划展览馆</button>
+            <button class="filter-btn" data-source="lh_printmaking" data-city="shenzhen">中国版画博物馆</button>
+            <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
+            <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
+            <button class="filter-btn" data-source="hlgw" data-city="shenzhen">欢乐港湾</button>
+            <!-- 上海其他场馆 -->
+            <button class="filter-btn" data-source="sh_children_lib" data-city="shanghai" style="display:none;">上海少年儿童图书馆</button>
+            <button class="filter-btn" data-source="shsng" data-city="shanghai" style="display:none;">上海市少年宫</button>
+            <button class="filter-btn" data-source="shqyg" data-city="shanghai" style="display:none;">上海市群众艺术馆</button>
+            <button class="filter-btn" data-source="qiantan_taikooli" data-city="shanghai" style="display:none;">前滩太古里</button>
+            <button class="filter-btn" data-source="xuhui_riverside" data-city="shanghai" style="display:none;">徐汇西岸滨江</button>
+            <button class="filter-btn" data-source="beitang_raffles" data-city="shanghai" style="display:none;">北外滩来福士广场</button>
+            <!-- 广州场馆 -->
+            <button class="filter-btn" data-source="gzlib" data-city="guangzhou" style="display:none;">广州图书馆</button>
+            <button class="filter-btn" data-source="gz_children_lib" data-city="guangzhou" style="display:none;">广州少年儿童图书馆</button>
+            <button class="filter-btn" data-source="gzsng" data-city="guangzhou" style="display:none;">广州市少年宫</button>
+            <button class="filter-btn" data-source="gzwhg" data-city="guangzhou" style="display:none;">广州市文化馆</button>
+            <button class="filter-btn" data-source="yongqingfang" data-city="guangzhou" style="display:none;">永庆坊</button>
+            <button class="filter-btn" data-source="canton_tower_riverside" data-city="guangzhou" style="display:none;">广州塔珠江滨水步道</button>
+            <button class="filter-btn" data-source="nansha_coastal" data-city="guangzhou" style="display:none;">南沙滨海公园</button>
+            <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
+            <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
+            <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
+            <button class="filter-btn" data-source="gzmuseum" data-city="guangzhou" style="display:none;">广州博物馆</button>
+            <button class="filter-btn" data-source="nanyuewang" data-city="guangzhou" style="display:none;">南越王博物院</button>
+            <button class="filter-btn" data-source="nanhanerling" data-city="guangzhou" style="display:none;">南汉二陵博物馆</button>
+            <button class="filter-btn" data-source="nongjiangsuo" data-city="guangzhou" style="display:none;">农讲所纪念馆</button>
+            <button class="filter-btn" data-source="gzdjy" data-city="guangzhou" style="display:none;">广州大剧院</button>
+            <button class="filter-btn" data-source="xinghai" data-city="guangzhou" style="display:none;">星海音乐厅</button>
+            <button class="filter-btn" data-source="zsauditorium" data-city="guangzhou" style="display:none;">广州中山纪念堂</button>
+            <button class="filter-btn" data-source="gdsc" data-city="guangzhou" style="display:none;">广东科学中心</button>
+            <button class="filter-btn" data-source="gdsci" data-city="guangzhou" style="display:none;">广东科学馆</button>
+            <button class="filter-btn" data-source="gzartmuseum" data-city="guangzhou" style="display:none;">广州美术馆</button>
+            <button class="filter-btn" data-source="gzcec" data-city="guangzhou" style="display:none;">广交会展馆</button>
+            <!-- 上海场馆 -->
+            <button class="filter-btn" data-source="shanghaimuseum" data-city="shanghai" style="display:none;">上海博物馆</button>
+            <button class="filter-btn" data-source="chinaartmuseum" data-city="shanghai" style="display:none;">上海美术馆</button>
+            <button class="filter-btn" data-source="expomuseum" data-city="shanghai" style="display:none;">上海世博会博物馆</button>
+            <button class="filter-btn" data-source="shanghai-astronomy" data-city="shanghai" style="display:none;">上海天文馆</button>
+            <button class="filter-btn" data-source="shhistorymuseum" data-city="shanghai" style="display:none;">上海市历史博物馆</button>
+            <button class="filter-btn" data-source="shcstheatre" data-city="shanghai" style="display:none;">上海文化广场</button>
+            <button class="filter-btn" data-source="shgtheatre" data-city="shanghai" style="display:none;">上海大剧院</button>
+            <button class="filter-btn" data-source="misa" data-city="shanghai" style="display:none;">捷豹上海交响音乐厅</button>
+            <button class="filter-btn" data-source="haichang" data-city="shanghai" style="display:none;">上海海昌海洋公园</button>
+            <button class="filter-btn" data-source="legoland" data-city="shanghai" style="display:none;">上海乐高乐园</button>
+            <button class="filter-btn" data-source="shstm" data-city="shanghai" style="display:none;">上海科技馆</button>
+            <button class="filter-btn" data-source="shnm" data-city="shanghai" style="display:none;">上海自然博物馆</button>
+            <button class="filter-btn" data-source="shpsa" data-city="shanghai" style="display:none;">上海当代艺术博物馆</button>
+            <button class="filter-btn" data-source="shexpocenter" data-city="shanghai" style="display:none;">上海世博展览馆</button>
+            <button class="filter-btn" data-source="shceec" data-city="shanghai" style="display:none;">上海展览中心</button>
+            <!-- 北京场馆 -->
+            <button class="filter-btn" data-source="chnmuseum" data-city="beijing" style="display:none;">中国国家博物馆</button>
+            <button class="filter-btn" data-source="namoc" data-city="beijing" style="display:none;">中国美术馆</button>
+            <button class="filter-btn" data-source="bjmuseum" data-city="beijing" style="display:none;">北京大运河博物馆</button>
+            <button class="filter-btn" data-source="centuryaltar" data-city="beijing" style="display:none;">中华世纪坛</button>
+            <button class="filter-btn" data-source="ncpa" data-city="beijing" style="display:none;">国家大剧院</button>
+            <button class="filter-btn" data-source="bjry" data-city="beijing" style="display:none;">首都剧场</button>
+            <button class="filter-btn" data-source="cntheatre" data-city="beijing" style="display:none;">国家话剧院剧场</button>
+            <button class="filter-btn" data-source="cntstm" data-city="beijing" style="display:none;">中国科学技术馆</button>
+            <button class="filter-btn" data-source="bjsc" data-city="beijing" style="display:none;">北京科学中心</button>
+            <button class="filter-btn" data-source="bjplanet" data-city="beijing" style="display:none;">北京天文馆</button>
+            <button class="filter-btn" data-source="bjnm" data-city="beijing" style="display:none;">国家自然博物馆</button>
+            <button class="filter-btn" data-source="gugong" data-city="beijing" style="display:none;">故宫博物院</button>
+            <button class="filter-btn" data-source="sdmuseum" data-city="beijing" style="display:none;">首都博物馆</button>
+            <button class="filter-btn" data-source="bjlz" data-city="beijing" style="display:none;">北京展览馆</button>
+            <button class="filter-btn" data-source="clib" data-city="beijing" style="display:none;">首都图书馆</button>
+            <button class="filter-btn" data-source="bjsng" data-city="beijing" style="display:none;">北京市少年宫</button>
+            <button class="filter-btn" data-source="bjguihua" data-city="beijing" style="display:none;">北京城市规划展览馆</button>
+            <button class="filter-btn" data-source="bjwhg" data-city="beijing" style="display:none;">北京市文化馆</button>
+            <button class="filter-btn" data-source="dcLib" data-city="beijing" style="display:none;">东城区图书馆</button>
+            <button class="filter-btn" data-source="xcLib" data-city="beijing" style="display:none;">西城区图书馆</button>
+            <button class="filter-btn" data-source="cyLib" data-city="beijing" style="display:none;">朝阳区图书馆</button>
+            <button class="filter-btn" data-source="hdLib" data-city="beijing" style="display:none;">海淀区图书馆</button>
+            <button class="filter-btn" data-source="kaogu" data-city="beijing" style="display:none;">中国考古博物馆</button>
+            <button class="filter-btn" data-source="bjgjz" data-city="beijing" style="display:none;">北京古代建筑博物馆</button>
+            <button class="filter-btn" data-source="cykjg" data-city="beijing" style="display:none;">朝阳区科技馆</button>
+            <button class="filter-btn" data-source="bjqsng" data-city="beijing" style="display:none;">北京市青少年活动中心</button>
+            <button class="filter-btn" data-source="cyqsng" data-city="beijing" style="display:none;">朝阳区青少年活动中心</button>
+            <button class="filter-btn" data-source="shougang" data-city="beijing" style="display:none;">首钢园·六工汇</button>
+            <button class="filter-btn" data-source="tongzhou_canal" data-city="beijing" style="display:none;">通州运河文化广场</button>
+            <button class="filter-btn" data-source="aosen" data-city="beijing" style="display:none;">奥林匹克森林公园</button>
+        </div>
+        <button class="expand-toggle-btn" id="source-expand-btn" onclick="toggleSourceFilter()">展开更多 ▼</button>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-label">收费筛选</div>
+        <div class="filter-bar" id="fee-filter-bar">
+            <button class="filter-btn" data-fee="all">全部</button>
+            <button class="filter-btn" data-fee="free">免费</button>
+            <button class="filter-btn" data-fee="paid">收费</button>
+        </div>
+    </div>
+
+    <div class="main-wrapper" id="main-wrapper">
+        <aside class="sidebar">
+            <div class="sidebar-card">
+                <div class="sidebar-title">🔍 搜索</div>
+                <div class="search-container">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" class="search-input" id="search-input-desktop" placeholder="搜索活动..." oninput="handleSearch()">
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">📍 城市</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn active" data-city="shenzhen">深圳</button>
+                    <button class="filter-btn" data-city="guangzhou">广州</button>
+                    <button class="filter-btn" data-city="shanghai">上海</button>
+                    <button class="filter-btn" data-city="beijing">北京</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">📅 时间筛选</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-filter="upcoming">最近活动</button>
+                    <button class="filter-btn" data-filter="today">今天</button>
+                    <button class="filter-btn" data-filter="tomorrow">明天</button>
+                    <button class="filter-btn" data-filter="week">本周</button>
+                    <button class="filter-btn" data-filter="month">本月</button>
+                    <button class="filter-btn" data-filter="next_month">下月</button>
+                    <button class="filter-btn" data-filter="all">全部活动</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">🏷️ 类型筛选</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-type="all">全部类型</button>
+            <button class="filter-btn" data-type="展览">展览</button>
+            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
+            <button class="filter-btn" data-type="科普活动">科普活动</button>
+            <button class="filter-btn" data-type="演出">演出</button>
+            <button class="filter-btn" data-type="影视放映">影视放映</button>
+            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
+            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">🌆 区县</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-district="all">全部区县</button>
+                    <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
+                    <button class="filter-btn" data-district="福田区" data-city="shenzhen">福田区</button>
+                    <button class="filter-btn" data-district="南山区" data-city="shenzhen">南山区</button>
+                    <button class="filter-btn" data-district="坪山区" data-city="shenzhen">坪山区</button>
+                    <button class="filter-btn" data-district="光明区" data-city="shenzhen">光明区</button>
+                    <button class="filter-btn" data-district="盐田区" data-city="shenzhen">盐田区</button>
+                    <button class="filter-btn" data-district="大鹏新区" data-city="shenzhen">大鹏新区</button>
+                    <button class="filter-btn" data-district="龙岗区" data-city="shenzhen">龙岗区</button>
+                    <button class="filter-btn" data-district="龙华区" data-city="shenzhen">龙华区</button>
+                    <button class="filter-btn" data-district="罗湖区" data-city="shenzhen">罗湖区</button>
+                    <button class="filter-btn" data-district="越秀区" data-city="guangzhou" style="display:none;">越秀区</button>
+                    <button class="filter-btn" data-district="天河区" data-city="guangzhou" style="display:none;">天河区</button>
+                    <button class="filter-btn" data-district="海珠区" data-city="guangzhou" style="display:none;">海珠区</button>
+                    <button class="filter-btn" data-district="荔湾区" data-city="guangzhou" style="display:none;">荔湾区</button>
+                    <button class="filter-btn" data-district="白云区" data-city="guangzhou" style="display:none;">白云区</button>
+                    <button class="filter-btn" data-district="黄埔区" data-city="guangzhou" style="display:none;">黄埔区</button>
+                    <button class="filter-btn" data-district="番禺区" data-city="guangzhou" style="display:none;">番禺区</button>
+                    <button class="filter-btn" data-district="南沙区" data-city="guangzhou" style="display:none;">南沙区</button>
+                    <button class="filter-btn" data-district="黄浦区" data-city="shanghai" style="display:none;">黄浦区</button>
+                    <button class="filter-btn" data-district="徐汇区" data-city="shanghai" style="display:none;">徐汇区</button>
+                    <button class="filter-btn" data-district="浦东新区" data-city="shanghai" style="display:none;">浦东新区</button>
+                    <button class="filter-btn" data-district="静安区" data-city="shanghai" style="display:none;">静安区</button>
+                    <button class="filter-btn" data-district="杨浦区" data-city="shanghai" style="display:none;">杨浦区</button>
+                    <button class="filter-btn" data-district="虹口区" data-city="shanghai" style="display:none;">虹口区</button>
+                    <button class="filter-btn" data-district="闵行区" data-city="shanghai" style="display:none;">闵行区</button>
+                    <button class="filter-btn" data-district="金山区" data-city="shanghai" style="display:none;">金山区</button>
+                    <button class="filter-btn" data-district="长宁区" data-city="shanghai" style="display:none;">长宁区</button>
+                    <button class="filter-btn" data-district="东城区" data-city="beijing" style="display:none;">东城区</button>
+                    <button class="filter-btn" data-district="西城区" data-city="beijing" style="display:none;">西城区</button>
+                    <button class="filter-btn" data-district="朝阳区" data-city="beijing" style="display:none;">朝阳区</button>
+                    <button class="filter-btn" data-district="海淀区" data-city="beijing" style="display:none;">海淀区</button>
+                    <button class="filter-btn" data-district="丰台区" data-city="beijing" style="display:none;">丰台区</button>
+                    <button class="filter-btn" data-district="通州区" data-city="beijing" style="display:none;">通州区</button>
+                    <button class="filter-btn" data-district="石景山区" data-city="beijing" style="display:none;">石景山区</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">📍 地点</div>
+                <div class="filter-bar sidebar-source-filter-collapsed" id="sidebar-source-filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-source="all">全部地点</button>
+                    <!-- 深圳市级核心场馆 -->
+                    <button class="filter-btn" data-source="szlib" data-city="shenzhen">深圳图书馆</button>
+                    <button class="filter-btn" data-source="sz_children_lib" data-city="shenzhen">深圳少儿图书馆</button>
+                    <button class="filter-btn" data-source="szbwg" data-city="shenzhen">深圳博物馆</button>
+                    <button class="filter-btn" data-source="szstm" data-city="shenzhen">深圳科学技术馆</button>
+                    <button class="filter-btn" data-source="szcp" data-city="shenzhen">深圳市少年宫</button>
+                    <button class="filter-btn" data-source="szaac" data-city="shenzhen">深圳市青少年活动中心</button>
+                    <button class="filter-btn" data-source="sznm" data-city="shenzhen">深圳自然博物馆</button>
+                    <button class="filter-btn" data-source="szbo" data-city="shenzhen">深圳滨海艺术中心</button>
+                    <button class="filter-btn" data-source="szconcert" data-city="shenzhen">深圳音乐厅</button>
+                    <button class="filter-btn" data-source="szmocap" data-city="shenzhen">当代艺术与城市规划馆</button>
+                    <button class="filter-btn" data-source="szsports" data-city="shenzhen">深圳市体育中心</button>
+                    <button class="filter-btn" data-source="szmassart" data-city="shenzhen">深圳市文化馆</button>
+                    <!-- 深圳区级图书馆 -->
+                    <button class="filter-btn" data-source="nslib" data-city="shenzhen">南山图书馆</button>
+                    <button class="filter-btn" data-source="balib" data-city="shenzhen">宝安图书馆</button>
+                    <button class="filter-btn" data-source="ftlib" data-city="shenzhen">福田区图书馆</button>
+                    <button class="filter-btn" data-source="lhlib" data-city="shenzhen">罗湖区图书馆</button>
+                    <button class="filter-btn" data-source="lglib" data-city="shenzhen">龙岗区图书馆</button>
+                    <button class="filter-btn" data-source="lhxqlib" data-city="shenzhen">龙华区图书馆</button>
+                    <button class="filter-btn" data-source="gmlib" data-city="shenzhen">光明区图书馆</button>
+                    <button class="filter-btn" data-source="pslib" data-city="shenzhen">坪山区图书馆</button>
+                    <button class="filter-btn" data-source="ytlib" data-city="shenzhen">盐田区图书馆</button>
+                    <button class="filter-btn" data-source="dplib" data-city="shenzhen">大鹏新区图书馆</button>
+                    <!-- 深圳区级博物馆与科普馆 -->
+                    <button class="filter-btn" data-source="nsmuseum" data-city="shenzhen">南山博物馆</button>
+                    <button class="filter-btn" data-source="lgmuseum" data-city="shenzhen">龙岗区博物馆</button>
+                    <button class="filter-btn" data-source="bamuseum" data-city="shenzhen">宝安区博物馆</button>
+                    <button class="filter-btn" data-source="lhmuseum" data-city="shenzhen">龙华区博物馆</button>
+                    <button class="filter-btn" data-source="lhmuseum2" data-city="shenzhen">罗湖区博物馆</button>
+                    <button class="filter-btn" data-source="dpgeopark" data-city="shenzhen">大鹏地质公园博物馆</button>
+                    <button class="filter-btn" data-source="baoan_kjg" data-city="shenzhen">宝安科技馆</button>
+                    <button class="filter-btn" data-source="lgkjg" data-city="shenzhen">龙岗区科技馆</button>
+                    <button class="filter-btn" data-source="lhkjg" data-city="shenzhen">龙华区科技馆</button>
+                    <button class="filter-btn" data-source="ytkjg" data-city="shenzhen">盐田区科技馆</button>
+                    <button class="filter-btn" data-source="gm_kjg" data-city="shenzhen">光明区科技馆</button>
+                    <!-- 深圳青少年宫 -->
+                    <button class="filter-btn" data-source="baoan_qsng" data-city="shenzhen">宝安区青少年宫</button>
+                    <button class="filter-btn" data-source="nsqsng" data-city="shenzhen">南山区青少年活动中心</button>
+                    <button class="filter-btn" data-source="lgqsng" data-city="shenzhen">龙岗区青少年宫</button>
+                    <button class="filter-btn" data-source="lhqsng" data-city="shenzhen">龙华区青少年宫</button>
+                    <button class="filter-btn" data-source="lhqsng2" data-city="shenzhen">罗湖区青少年活动中心</button>
+                    <button class="filter-btn" data-source="gmqsng" data-city="shenzhen">光明区青少年活动中心</button>
+                    <button class="filter-btn" data-source="psqsng" data-city="shenzhen">坪山区青少年宫</button>
+                    <!-- 深圳区级体育中心 -->
+                    <button class="filter-btn" data-source="baoan_ty" data-city="shenzhen">宝安体育中心</button>
+                    <button class="filter-btn" data-source="nswtzx" data-city="shenzhen">南山文体中心</button>
+                    <button class="filter-btn" data-source="szwty" data-city="shenzhen">深圳湾体育中心</button>
+                    <button class="filter-btn" data-source="lhtyzx" data-city="shenzhen">龙岗体育中心</button>
+                    <button class="filter-btn" data-source="lhwtx" data-city="shenzhen">龙华文体中心</button>
+                    <button class="filter-btn" data-source="gmtyzx" data-city="shenzhen">光明区群众体育中心</button>
+                    <button class="filter-btn" data-source="lhtyzx2" data-city="shenzhen">罗湖区体育中心</button>
+                    <button class="filter-btn" data-source="pstyzx" data-city="shenzhen">坪山体育中心</button>
+                    <button class="filter-btn" data-source="yttyzx" data-city="shenzhen">盐田体育中心</button>
+                    <!-- 深圳其他公立场馆 -->
+                    <button class="filter-btn" data-source="nswhg" data-city="shenzhen">南山区文化馆</button>
+                    <button class="filter-btn" data-source="baoan_1990" data-city="shenzhen">宝安1990文化馆</button>
+                    <button class="filter-btn" data-source="bayarea_eye" data-city="shenzhen">湾区之眼</button>
+                    <button class="filter-btn" data-source="baoan_guihua" data-city="shenzhen">宝安城市规划展览馆</button>
+                    <button class="filter-btn" data-source="lgguihua" data-city="shenzhen">龙岗城市规划展览馆</button>
+                    <button class="filter-btn" data-source="nsguihua" data-city="shenzhen">南山城市规划展览馆</button>
+                    <button class="filter-btn" data-source="lh_printmaking" data-city="shenzhen">中国版画博物馆</button>
+                    <button class="filter-btn" data-source="nsaqjy" data-city="shenzhen">南山安全教育体验馆</button>
+                    <button class="filter-btn" data-source="skhykpg" data-city="shenzhen">蛇口海洋科普馆</button>
+                    <button class="filter-btn" data-source="hlgw" data-city="shenzhen">欢乐港湾</button>
+                    <!-- 上海其他场馆 -->
+                    <button class="filter-btn" data-source="sh_children_lib" data-city="shanghai" style="display:none;">上海少年儿童图书馆</button>
+                    <button class="filter-btn" data-source="shsng" data-city="shanghai" style="display:none;">上海市少年宫</button>
+                    <button class="filter-btn" data-source="shqyg" data-city="shanghai" style="display:none;">上海市群众艺术馆</button>
+                    <button class="filter-btn" data-source="qiantan_taikooli" data-city="shanghai" style="display:none;">前滩太古里</button>
+                    <button class="filter-btn" data-source="xuhui_riverside" data-city="shanghai" style="display:none;">徐汇西岸滨江</button>
+                    <button class="filter-btn" data-source="beitang_raffles" data-city="shanghai" style="display:none;">北外滩来福士广场</button>
+                    <!-- 广州场馆 -->
+                    <button class="filter-btn" data-source="gzlib" data-city="guangzhou" style="display:none;">广州图书馆</button>
+                    <button class="filter-btn" data-source="gz_children_lib" data-city="guangzhou" style="display:none;">广州少年儿童图书馆</button>
+                    <button class="filter-btn" data-source="gzsng" data-city="guangzhou" style="display:none;">广州市少年宫</button>
+                    <button class="filter-btn" data-source="gzwhg" data-city="guangzhou" style="display:none;">广州市文化馆</button>
+                    <button class="filter-btn" data-source="yongqingfang" data-city="guangzhou" style="display:none;">永庆坊</button>
+                    <button class="filter-btn" data-source="canton_tower_riverside" data-city="guangzhou" style="display:none;">广州塔珠江滨水步道</button>
+                    <button class="filter-btn" data-source="nansha_coastal" data-city="guangzhou" style="display:none;">南沙滨海公园</button>
+                    <button class="filter-btn" data-source="gdmuseum" data-city="guangzhou" style="display:none;">广东省博物馆</button>
+                    <button class="filter-btn" data-source="gzam" data-city="guangzhou" style="display:none;">广州艺术博物院</button>
+                    <button class="filter-btn" data-source="gdartmuseum" data-city="guangzhou" style="display:none;">广东美术馆</button>
+                    <button class="filter-btn" data-source="gzmuseum" data-city="guangzhou" style="display:none;">广州博物馆</button>
+                    <button class="filter-btn" data-source="nanyuewang" data-city="guangzhou" style="display:none;">南越王博物院</button>
+                    <button class="filter-btn" data-source="nanhanerling" data-city="guangzhou" style="display:none;">南汉二陵博物馆</button>
+                    <button class="filter-btn" data-source="nongjiangsuo" data-city="guangzhou" style="display:none;">农讲所纪念馆</button>
+                    <button class="filter-btn" data-source="gzdjy" data-city="guangzhou" style="display:none;">广州大剧院</button>
+                    <button class="filter-btn" data-source="xinghai" data-city="guangzhou" style="display:none;">星海音乐厅</button>
+                    <button class="filter-btn" data-source="zsauditorium" data-city="guangzhou" style="display:none;">广州中山纪念堂</button>
+                    <button class="filter-btn" data-source="gdsc" data-city="guangzhou" style="display:none;">广东科学中心</button>
+                    <button class="filter-btn" data-source="gdsci" data-city="guangzhou" style="display:none;">广东科学馆</button>
+                    <button class="filter-btn" data-source="gzartmuseum" data-city="guangzhou" style="display:none;">广州美术馆</button>
+                    <button class="filter-btn" data-source="gzcec" data-city="guangzhou" style="display:none;">广交会展馆</button>
+                    <!-- 上海场馆 -->
+                    <button class="filter-btn" data-source="shanghaimuseum" data-city="shanghai" style="display:none;">上海博物馆</button>
+                    <button class="filter-btn" data-source="chinaartmuseum" data-city="shanghai" style="display:none;">上海美术馆</button>
+                    <button class="filter-btn" data-source="expomuseum" data-city="shanghai" style="display:none;">上海世博会博物馆</button>
+                    <button class="filter-btn" data-source="shanghai-astronomy" data-city="shanghai" style="display:none;">上海天文馆</button>
+                    <button class="filter-btn" data-source="shhistorymuseum" data-city="shanghai" style="display:none;">上海市历史博物馆</button>
+                    <button class="filter-btn" data-source="shcstheatre" data-city="shanghai" style="display:none;">上海文化广场</button>
+                    <button class="filter-btn" data-source="shgtheatre" data-city="shanghai" style="display:none;">上海大剧院</button>
+                    <button class="filter-btn" data-source="misa" data-city="shanghai" style="display:none;">捷豹上海交响音乐厅</button>
+                    <button class="filter-btn" data-source="haichang" data-city="shanghai" style="display:none;">上海海昌海洋公园</button>
+                    <button class="filter-btn" data-source="legoland" data-city="shanghai" style="display:none;">上海乐高乐园</button>
+                    <button class="filter-btn" data-source="shstm" data-city="shanghai" style="display:none;">上海科技馆</button>
+                    <button class="filter-btn" data-source="shnm" data-city="shanghai" style="display:none;">上海自然博物馆</button>
+                    <button class="filter-btn" data-source="shpsa" data-city="shanghai" style="display:none;">上海当代艺术博物馆</button>
+                    <button class="filter-btn" data-source="shexpocenter" data-city="shanghai" style="display:none;">上海世博展览馆</button>
+                    <button class="filter-btn" data-source="shceec" data-city="shanghai" style="display:none;">上海展览中心</button>
+                    <!-- 北京场馆 -->
+                    <button class="filter-btn" data-source="chnmuseum" data-city="beijing" style="display:none;">中国国家博物馆</button>
+                    <button class="filter-btn" data-source="namoc" data-city="beijing" style="display:none;">中国美术馆</button>
+                    <button class="filter-btn" data-source="bjmuseum" data-city="beijing" style="display:none;">北京大运河博物馆</button>
+                    <button class="filter-btn" data-source="centuryaltar" data-city="beijing" style="display:none;">中华世纪坛</button>
+                    <button class="filter-btn" data-source="ncpa" data-city="beijing" style="display:none;">国家大剧院</button>
+                    <button class="filter-btn" data-source="bjry" data-city="beijing" style="display:none;">首都剧场</button>
+                    <button class="filter-btn" data-source="cntheatre" data-city="beijing" style="display:none;">国家话剧院剧场</button>
+                    <button class="filter-btn" data-source="cntstm" data-city="beijing" style="display:none;">中国科学技术馆</button>
+                    <button class="filter-btn" data-source="bjsc" data-city="beijing" style="display:none;">北京科学中心</button>
+                    <button class="filter-btn" data-source="bjplanet" data-city="beijing" style="display:none;">北京天文馆</button>
+                    <button class="filter-btn" data-source="bjnm" data-city="beijing" style="display:none;">国家自然博物馆</button>
+                    <button class="filter-btn" data-source="gugong" data-city="beijing" style="display:none;">故宫博物院</button>
+                    <button class="filter-btn" data-source="sdmuseum" data-city="beijing" style="display:none;">首都博物馆</button>
+                    <button class="filter-btn" data-source="bjlz" data-city="beijing" style="display:none;">北京展览馆</button>
+                    <button class="filter-btn" data-source="cykjg" data-city="beijing" style="display:none;">朝阳区科技馆</button>
+                    <button class="filter-btn" data-source="bjqsng" data-city="beijing" style="display:none;">北京市青少年活动中心</button>
+                    <button class="filter-btn" data-source="cyqsng" data-city="beijing" style="display:none;">朝阳区青少年活动中心</button>
+                    <button class="filter-btn" data-source="shougang" data-city="beijing" style="display:none;">首钢园·六工汇</button>
+                    <button class="filter-btn" data-source="tongzhou_canal" data-city="beijing" style="display:none;">通州运河文化广场</button>
+                    <button class="filter-btn" data-source="aosen" data-city="beijing" style="display:none;">奥林匹克森林公园</button>
+                </div>
+                <button class="sidebar-expand-btn" id="sidebar-source-expand-btn" onclick="toggleSidebarSourceFilter()">展开更多 ▼</button>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">💰 收费类型</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-fee="all">全部</button>
+                    <button class="filter-btn" data-fee="free">免费</button>
+                    <button class="filter-btn" data-fee="paid">收费</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">👨‍👩‍👧‍👦 亲子筛选</div>
+                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-family="all">全部活动</button>
+                    <button class="filter-btn" data-family="family">适合亲子</button>
+                    <button class="filter-btn" data-family="other">其他活动</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <button class="clear-filters-btn" onclick="clearAllFilters()">🗑️ 清除所有筛选</button>
+            </div>
+        </aside>
+
+        <main class="content">
+            <div class="count-info" id="count-info">加载中...</div>
+            <div class="exhibition-grid" id="exhibition-list">
+                <div class="loading">加载中...</div>
+            </div>
+        </main>
+    </div>
+
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal">
+            <div class="modal-header">
+                <div>
+                    <div class="modal-title" id="modal-title"></div>
+                    <div class="modal-badges" id="modal-badges"></div>
+                </div>
+                <button class="modal-close" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body" id="modal-body"></div>
+        </div>
+    </div>
+
+    <script>
+        // 兼容隐私模式/受限环境：localStorage 不可用时用内存替代，避免抛 SecurityError 中断脚本
+        (function() {
+            try {
+                window.localStorage.setItem('__ls_test__', '1');
+                window.localStorage.removeItem('__ls_test__');
+            } catch(e) {
+                var _mem = {};
+                try {
+                    Object.defineProperty(window, 'localStorage', {
+                        value: {
+                            getItem: function(k) { return k in _mem ? _mem[k] : null; },
+                            setItem: function(k, v) { _mem[k] = String(v); },
+                            removeItem: function(k) { delete _mem[k]; },
+                            clear: function() { _mem = {}; }
+                        },
+                        configurable: true
+                    });
+                } catch(e2) {}
+            }
+        })();
+
+        const cityNameToCode = {
+            '深圳': 'shenzhen',
+            '广州': 'guangzhou',
+            '上海': 'shanghai',
+            '北京': 'beijing',
+            'shenzhen': 'shenzhen',
+            'guangzhou': 'guangzhou',
+            'shanghai': 'shanghai',
+            'beijing': 'beijing',
+        };
+
+        function normalizeCity(city) {
+            return cityNameToCode[city] || city || 'shenzhen';
+        }
+
+        let allExhibitions = [];
+        let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'shenzhen';
+        let currentTimeFilter = localStorage.getItem('schedule_time_filter') || 'upcoming';
+        let currentSourceFilter = localStorage.getItem('schedule_source_filter') || 'all';
+        let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
+        let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
+        let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
+        let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'all';
+        let currentSearchQuery = '';
+        let currentPage = 1;
+        const PAGE_SIZE = 50;
+        let filteredExhibitions = [];
+
+        // ========== 数据驱动的场馆映射（从 venue_info.json 加载）==========
+        let _venueInfoMap = null;  // source/name → venue info
+        let _venueInfoList = null;
+
+        async function ensureVenueInfoLoaded() {
+            if (_venueInfoMap) return _venueInfoMap;
+            try {
+                const resp = await fetch('output/venue_info.json');
+                if (!resp.ok) return null;
+                const list = await resp.json();
+                _venueInfoList = list;
+                _venueInfoMap = {};
+                list.forEach(v => {
+                    if (v.source) _venueInfoMap[v.source] = v;
+                    if (v.name) _venueInfoMap[v.name] = v;
+                    // 确保别名也能匹配
+                    if (v.aliases) {
+                        v.aliases.forEach(a => { _venueInfoMap[a] = v; });
+                    }
+                });
+                return _venueInfoMap;
+            } catch(e) {
+                console.warn('场馆信息加载失败', e);
+                return null;
+            }
+        }
+
+        // 从活动自带 district 字段获取区县（数据层已注入，不再前端推导）
+        function getDistrict(source, venue) {
+            // 优先从 venue_info 查
+            const info = _venueInfoMap;
+            if (info) {
+                const v = info[source] || info[venue];
+                if (v && v.district) return v.district;
+            }
+            return '其他';
+        }
+
+        // 从活动自带 district 字段直接获取（数据层已注入）
+        function getActivityDistrict(exhibition) {
+            return exhibition.district || getDistrict(exhibition.source, exhibition.venue);
+        }
+
+        function matchSource(exhibition, sourceKey) {
+            if (exhibition.source === sourceKey) return true;
+            // 用 venue_info 查场馆名
+            const info = _venueInfoMap;
+            if (info && info[sourceKey]) {
+                const venueName = info[sourceKey].name;
+                if (venueName && exhibition.venue && exhibition.venue.includes(venueName)) return true;
+            }
+            return false;
+        }
+
+        // 从活动自带 fee 字段获取费用类型（不再前端重新推导）
+        function getFeeType(exhibition) {
+            const fee = exhibition.fee || '';
+            if (['免费', '免费需预约'].includes(fee)) return 'free';
+            if (['收费', '需购票'].includes(fee)) return 'paid';
+            if (fee === '部分免费') return 'partial';
+            return 'unknown';
+        }
+
+        // 从活动自带 category 字段获取类型（不再前端重新推导）
+        function getActivityType(exhibition) {
+            return exhibition.category || '其他';
+        }
+
+        function getTypeLabel(type) {
+            return type || '其他';
+        }
+
+        function getFilteredExhibitions() {
+            const now = new Date();
+            const currentYear = now.getFullYear();
+            const currentMonth = now.getMonth();
+            const currentDay = now.getDate();
+            const today = now.toISOString().split('T')[0];
+
+            let filtered = allExhibitions;
+
+            filtered = filtered.filter(e => normalizeCity(e.city) === currentCityFilter);
+
+            if (currentSearchQuery) {
+                const query = currentSearchQuery.toLowerCase();
+                filtered = filtered.filter(e => 
+                    (e.title || e.name || '').toLowerCase().includes(query) ||
+                    (e.venue || '').toLowerCase().includes(query) ||
+                    (e.description || '').toLowerCase().includes(query)
+                );
+            }
+
+            if (currentDistrictFilter !== 'all') {
+                filtered = filtered.filter(e => getActivityDistrict(e) === currentDistrictFilter);
+            }
+
+            if (currentSourceFilter !== 'all') {
+                filtered = filtered.filter(e => matchSource(e, currentSourceFilter));
+            }
+
+            if (currentFeeFilter !== 'all') {
+                filtered = filtered.filter(e => getFeeType(e) === currentFeeFilter);
+            }
+
+            if (currentTypeFilter !== 'all') {
+                filtered = filtered.filter(e => getActivityType(e) === currentTypeFilter);
+            }
+
+            if (currentFamilyFriendlyFilter === 'family') {
+                filtered = filtered.filter(e => e.family_friendly === true);
+            } else if (currentFamilyFriendlyFilter === 'other') {
+                filtered = filtered.filter(e => e.family_friendly !== true);
+            }
+
+            switch (currentTimeFilter) {
+                case 'today':
+                    return filtered.filter(e => e.start_date === today || 
+                        (e.start_date <= today && e.end_date >= today));
+
+                case 'tomorrow':
+                    const tomorrow = new Date(now);
+                    tomorrow.setDate(currentDay + 1);
+                    const tomorrowStr = tomorrow.toISOString().split('T')[0];
+                    return filtered.filter(e => e.start_date === tomorrowStr ||
+                        (e.start_date <= tomorrowStr && e.end_date >= tomorrowStr));
+
+                case 'week':
+                    const weekLater = new Date(now);
+                    weekLater.setDate(currentDay + 7);
+                    const weekLaterStr = weekLater.toISOString().split('T')[0];
+                    return filtered.filter(e => e.start_date <= weekLaterStr && e.end_date >= today);
+
+                case 'upcoming':
+                    return filtered.filter(e => e.end_date >= today);
+
+                case 'month':
+                    return filtered.filter(e => {
+                        const date = new Date(e.start_date);
+                        return date.getFullYear() === currentYear && date.getMonth() === currentMonth;
+                    });
+
+                case 'next_month':
+                    let nextMonth = currentMonth + 1;
+                    let nextYear = currentYear;
+                    if (nextMonth > 11) {
+                        nextMonth = 0;
+                        nextYear++;
+                    }
+                    return filtered.filter(e => {
+                        const date = new Date(e.start_date);
+                        return date.getFullYear() === nextYear && date.getMonth() === nextMonth;
+                    });
+
+                case 'all':
+                default:
+                    return filtered;
+            }
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            const year = date.getFullYear();
+            const month = date.getMonth() + 1;
+            const day = date.getDate();
+            const weekDays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+            const weekDay = weekDays[date.getDay()];
+            return `${month}月${day}日 ${weekDay}`;
+        }
+
+        function getDuration(startDate, endDate) {
+            if (startDate === endDate) return '1天';
+            const start = new Date(startDate);
+            const end = new Date(endDate);
+            const days = Math.floor((end - start) / (1000 * 60 * 60 * 24)) + 1;
+            return `${days}天`;
+        }
+
+        function getDateBadge(startDate) {
+            const now = new Date();
+            const today = now.toISOString().split('T')[0];
+            const tomorrow = new Date(now);
+            tomorrow.setDate(now.getDate() + 1);
+            const tomorrowStr = tomorrow.toISOString().split('T')[0];
+
+            if (startDate === today) return '<div class="date-badge today">今天</div>';
+            if (startDate === tomorrowStr) return '<div class="date-badge tomorrow">明天</div>';
+            
+            const diffDays = Math.floor((new Date(startDate) - now) / (1000 * 60 * 60 * 24));
+            if (diffDays >= 0 && diffDays <= 7) return '<div class="date-badge upcoming">即将开始</div>';
+            
+            return '';
+        }
+
+        // 检查：在当前其他筛选条件下，如果把某个筛选器换成指定值，是否有结果
+        function checkFilterHasResult(filterType, testValue) {
+            const savedCity = currentCityFilter;
+            const savedTime = currentTimeFilter;
+            const savedSource = currentSourceFilter;
+            const savedFee = currentFeeFilter;
+            const savedType = currentTypeFilter;
+            const savedDistrict = currentDistrictFilter;
+            const savedFamily = currentFamilyFriendlyFilter;
+
+            switch (filterType) {
+                case 'city': currentCityFilter = testValue; currentDistrictFilter = 'all'; currentSourceFilter = 'all'; break;
+                case 'time': currentTimeFilter = testValue; break;
+                case 'type': currentTypeFilter = testValue; break;
+                case 'district': currentDistrictFilter = testValue; break;
+                case 'source': currentSourceFilter = testValue; break;
+                case 'fee': currentFeeFilter = testValue; break;
+                case 'family': currentFamilyFriendlyFilter = testValue; break;
+            }
+
+            const result = getFilteredExhibitions().length > 0;
+
+            currentCityFilter = savedCity;
+            currentTimeFilter = savedTime;
+            currentSourceFilter = savedSource;
+            currentFeeFilter = savedFee;
+            currentTypeFilter = savedType;
+            currentDistrictFilter = savedDistrict;
+            currentFamilyFriendlyFilter = savedFamily;
+
+            return result;
+        }
+
+        function updateFilterAvailability() {
+            // 城市
+            document.querySelectorAll('[data-city]:not([data-district]):not([data-source])').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('city', btn.dataset.city));
+            });
+
+            // 时间
+            document.querySelectorAll('[data-filter]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('time', btn.dataset.filter));
+            });
+
+            // 类型
+            document.querySelectorAll('[data-type]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('type', btn.dataset.type));
+            });
+
+            // 区县（只检查可见的）
+            document.querySelectorAll('[data-district]').forEach(btn => {
+                if (btn.style.display === 'none') return;
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('district', btn.dataset.district));
+            });
+
+            // 地点（只检查可见的）
+            document.querySelectorAll('[data-source]').forEach(btn => {
+                if (btn.style.display === 'none') return;
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('source', btn.dataset.source));
+            });
+
+            // 费用
+            document.querySelectorAll('[data-fee]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('fee', btn.dataset.fee));
+            });
+
+            // 亲子
+            document.querySelectorAll('[data-family]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('family', btn.dataset.family));
+            });
+        }
+
+        function renderExhibitions() {
+            const listContainer = document.getElementById('exhibition-list');
+            const countInfo = document.getElementById('count-info');
+
+            const filtered = getFilteredExhibitions();
+            filtered.sort((a, b) => a.start_date.localeCompare(b.start_date));
+            filteredExhibitions = filtered;
+
+            updateFilterAvailability();
+
+            if (currentPage > Math.ceil(filtered.length / PAGE_SIZE)) {
+                currentPage = 1;
+            }
+
+            const startIdx = (currentPage - 1) * PAGE_SIZE;
+            const endIdx = Math.min(startIdx + PAGE_SIZE, filtered.length);
+            const pageItems = filtered.slice(startIdx, endIdx);
+            const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+
+            countInfo.textContent = `共 ${filtered.length} 个活动（第 ${currentPage}/${totalPages || 1} 页）`;
+
+            if (filtered.length === 0) {
+                listContainer.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">📭</div>
+                        <div>该筛选条件下暂无活动</div>
+                        <div style="font-size: 13px; margin-top: 8px; color: #bbb;">试试其他筛选条件</div>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            let currentMonth = '';
+
+            pageItems.forEach((exhibition, localIdx) => {
+                const globalIdx = startIdx + localIdx;
+                const startDate = exhibition.start_date;
+                const endDate = exhibition.end_date;
+                const monthKey = startDate.substring(0, 7);
+
+                if (monthKey !== currentMonth) {
+                    currentMonth = monthKey;
+                    const [year, month] = monthKey.split('-');
+                    html += `<div style="font-size: 16px; font-weight: 600; color: #333; margin: 20px 0 12px; padding-left: 4px; grid-column: 1 / -1; height: fit-content;">${year}年${parseInt(month)}月</div>`;
+                }
+
+                const dateBadge = getDateBadge(startDate);
+                const feeType = getFeeType(exhibition);
+                const activityType = getActivityType(exhibition);
+                
+                const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
+                                feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
+                const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
+                const familyBadge = (exhibition.family_friendly === true && activityType !== 'family') ? `<span class="badge family">👶 适合亲子</span>` : '';
+                
+                const dateDisplay = startDate === endDate 
+                    ? formatDate(startDate) 
+                    : `${startDate.substring(5)} ~ ${endDate.substring(5)}`;
+
+                const cardId = exhibition.id || `${exhibition.source}-${exhibition.title || exhibition.name || ''}-${startDate}`;
+                html += `
+                    <div class="exhibition-card cat-${activityType}" data-id="${cardId}" data-idx="${globalIdx}">
+                        ${dateBadge}
+                        <div class="exhibition-header">
+                            <div class="exhibition-title">${exhibition.title || exhibition.name || ''}</div>
+                            <div class="exhibition-badges">
+                                ${typeBadge}
+                                ${feeBadge}
+                                ${familyBadge}
+                            </div>
+                        </div>
+                        <div class="exhibition-meta">
+                            <span>📅 ${dateDisplay}</span>
+                            <span>⏱️ ${getDuration(startDate, endDate)}</span>
+                            <span>📍 ${exhibition.venue}</span>
+                        </div>
+                        ${exhibition.description
+                            ? `<div class="exhibition-desc">${exhibition.description}</div>`
+                            : `<div class="exhibition-desc empty">暂无详细介绍</div>`}
+                        <div class="exhibition-link">点击查看详情 →</div>
+                    </div>
+                `;
+            });
+
+            if (totalPages > 1) {
+                html += '<div class="pagination" style="grid-column: 1 / -1; display: flex; justify-content: center; align-items: center; gap: 8px; margin: 24px 0 12px; flex-wrap: wrap;">';
+                
+                html += `<button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="goToPage(${currentPage - 1})">上一页</button>`;
+                
+                let startPage = Math.max(1, currentPage - 2);
+                let endPage = Math.min(totalPages, currentPage + 2);
+                if (startPage > 1) {
+                    html += `<button class="page-btn" onclick="goToPage(1)">1</button>`;
+                    if (startPage > 2) html += '<span style="color: #999;">...</span>';
+                }
+                for (let p = startPage; p <= endPage; p++) {
+                    html += `<button class="page-btn ${p === currentPage ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`;
+                }
+                if (endPage < totalPages) {
+                    if (endPage < totalPages - 1) html += '<span style="color: #999;">...</span>';
+                    html += `<button class="page-btn" onclick="goToPage(${totalPages})">${totalPages}</button>`;
+                }
+                
+                html += `<button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="goToPage(${currentPage + 1})">下一页</button>`;
+                html += '</div>';
+            }
+
+            listContainer.innerHTML = html;
+            
+            document.querySelectorAll('.exhibition-card').forEach(card => {
+                card.addEventListener('click', function() {
+                    const idx = parseInt(this.dataset.idx);
+                    openModal(idx);
+                    
+                    if (typeof trackEvent === 'function') {
+                        trackEvent('活动详情', '打开弹窗', filtered[idx].source);
+                    }
+                });
+            });
+
+        }
+
+        function goToPage(page) {
+            const totalPages = Math.ceil(filteredExhibitions.length / PAGE_SIZE);
+            if (page < 1 || page > totalPages || page === currentPage) return;
+            currentPage = page;
+            renderExhibitions();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // 地址从 venue_info.json 获取（数据驱动，不再硬编码）
+        function getVenueAddress(source) {
+            if (_venueInfoMap) {
+                const info = _venueInfoMap[source];
+                if (info && info.address) return info.address;
+            }
+            return '';
+        }
+
+        // ========== 场馆信息功能 ==========
+        // 使用上面定义的 _venueInfoMap / _venueInfoList，不再重复加载
+
+        async function loadVenueInfo() {
+            return await ensureVenueInfoLoaded();
+        }
+
+        function getVenueInfoHTML(exhibition) {
+            if (!_venueInfoMap) return '';
+            const info = _venueInfoMap[exhibition.source] || _venueInfoMap[exhibition.venue] || '';
+            if (!info) return '';
+            let html = '<div class="modal-info-row"><div class="modal-info-label">🏷️ 类型</div><div class="modal-info-value">' + (info.type || '') + '</div></div>';
+            if (info.address && info.address !== '待补充')
+                html += '<div class="modal-info-row"><div class="modal-info-label">🏠 地址</div><div class="modal-info-value">' + info.address + '</div></div>';
+            if (info.transport && info.transport !== '待补充')
+                html += '<div class="modal-info-row"><div class="modal-info-label">🚇 交通</div><div class="modal-info-value">' + info.transport + '</div></div>';
+            if (info.fee)
+                html += '<div class="modal-info-row"><div class="modal-info-label">🎫 门票</div><div class="modal-info-value">' + info.fee + '</div></div>';
+            if (info.description)
+                html += '<div class="modal-info-row" style="flex-direction:column;align-items:flex-start;"><div class="modal-info-label">💡 介绍</div><div class="modal-info-value" style="margin-top:4px;line-height:1.6;">' + info.description + '</div></div>';
+            if (info.highlights && info.highlights.length)
+                html += '<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:6px;">' + info.highlights.map(h => '<span style="font-size:12px;padding:2px 8px;background:var(--sand-100);border-radius:10px;color:var(--sand-dark);">' + h + '</span>').join('') + '</div>';
+            if (info.official_url)
+                html += '<div style="margin-top:8px;"><a href="' + info.official_url + '" target="_blank" rel="noopener" style="font-size:13px;color:var(--ocean);text-decoration:none;">🔗 场馆官网 →</a></div>';
+            return html;
+        }
+
+        // ========== 场馆信息功能 END ==========
+
+        function openModal(filteredIndex) {
+            const filtered = getFilteredExhibitions();
+            const exhibition = filtered[filteredIndex];
+            const overlay = document.getElementById('modal-overlay');
+            const title = document.getElementById('modal-title');
+            const badges = document.getElementById('modal-badges');
+            const body = document.getElementById('modal-body');
+
+            title.textContent = exhibition.title || exhibition.name || '';
+
+            const feeType = getFeeType(exhibition);
+            const activityType = getActivityType(exhibition);
+            const feeBadge = feeType === 'free' ? `<span class="badge free">免费</span>` : 
+                            feeType === 'paid' ? `<span class="badge paid">收费</span>` : '';
+            const typeBadge = `<span class="badge type-${activityType}">${getTypeLabel(activityType)}</span>`;
+            const familyBadge = (exhibition.family_friendly === true && activityType !== 'family') ? `<span class="badge family">👶 适合亲子</span>` : '';
+            badges.innerHTML = `${typeBadge} ${feeBadge} ${familyBadge}`;
+
+            const startDate = exhibition.start_date;
+            const endDate = exhibition.end_date;
+            const dateDisplay = startDate === endDate 
+                ? formatDate(startDate) 
+                : `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
+
+            body.innerHTML = `
+                <div class="modal-info-row">
+                    <div class="modal-info-label">📅 时间</div>
+                    <div class="modal-info-value">${dateDisplay}</div>
+                </div>
+                <div class="modal-info-row">
+                    <div class="modal-info-label">📍 地点</div>
+                    <div class="modal-info-value">${exhibition.venue}</div>
+                </div>
+                ${getVenueAddress(exhibition.source) ? `
+                <div class="modal-info-row">
+                    <div class="modal-info-label">🏠 地址</div>
+                    <div class="modal-info-value">${getVenueAddress(exhibition.source)}</div>
+                </div>
+                ` : ''}
+                <div class="modal-info-row">
+                    <div class="modal-info-label">⏱️ 时长</div>
+                    <div class="modal-info-value">${getDuration(startDate, endDate)}</div>
+                </div>
+                ${exhibition.description ? `
+                <div class="modal-description">
+                    <div class="modal-desc-title">📝 活动介绍</div>
+                    <div class="modal-desc-content">${exhibition.description}</div>
+                </div>
+                ` : ''}
+                ${getVenueInfoHTML(exhibition) ? `
+                <div class="modal-venue-info">
+                    <div class="modal-desc-title">🏛️ 场馆信息</div>
+                    ${getVenueInfoHTML(exhibition)}
+                </div>
+                ` : ''}
+                ${(exhibition.link || exhibition.url) ? `
+                <div class="modal-original-link">
+                    <a href="${exhibition.link || exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
+                        🔗 查看原始活动详情
+                    </a>
+                    <div style="font-size: 11px; color: #999; margin-top: 6px;" id="click-stats-display"></div>
+                </div>
+                ` : ''}
+                <div class="modal-contact">
+                    <div class="modal-contact-title">📞 联系信息</div>
+                    <div class="modal-contact-info">
+                        ${exhibition.contact ? `<div>电话：${exhibition.contact}</div>` : ''}
+                        ${!(exhibition.link || exhibition.url) && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
+                    </div>
+                </div>
+            `;
+
+            overlay.classList.add('active');
+
+            // 绑定点击统计
+            const linkBtn = document.getElementById('original-link-btn');
+            const statsDisplay = document.getElementById('click-stats-display');
+            if (linkBtn && (exhibition.link || exhibition.url)) {
+                const currentSource = exhibition.source;
+                const stats = getClickStats();
+                const count = stats[currentSource] || 0;
+                if (statsDisplay) {
+                    statsDisplay.textContent = `已点击查看: ${count} 次`;
+                }
+
+                linkBtn.addEventListener('click', function() {
+                    trackClick(currentSource, exhibition.title || exhibition.name || '');
+                    if (statsDisplay) {
+                        statsDisplay.textContent = `已点击查看: ${stats[currentSource] || 1} 次`;
+                    }
+                }, { once: true });
+            }
+        }
+
+        function closeModal() {
+            const overlay = document.getElementById('modal-overlay');
+            overlay.classList.remove('active');
+        }
+
+        // 点击统计功能
+        function getClickStats() {
+            const stats = localStorage.getItem('click_stats');
+            return stats ? JSON.parse(stats) : {};
+        }
+
+        function getClickCount(source) {
+            const stats = getClickStats();
+            return stats[source] || 0;
+        }
+
+        function trackClick(source, activityName) {
+            const stats = getClickStats();
+            stats[source] = (stats[source] || 0) + 1;
+            localStorage.setItem('click_stats', JSON.stringify(stats));
+
+            // 更新显示
+            const countEl = document.getElementById(`click-count-${source}`);
+            if (countEl) {
+                countEl.textContent = stats[source];
+            }
+
+            // 百度统计事件追踪
+            if (typeof trackEvent === 'function') {
+                trackEvent('活动详情', '点击原始链接', source);
+            }
+
+            console.log(`点击记录: ${source} - ${activityName} (累计: ${stats[source]}次)`);
+        }
+
+        let sourceFilterExpanded = false;
+        function toggleSourceFilter() {
+            const bar = document.getElementById('source-filter-bar');
+            const btn = document.getElementById('source-expand-btn');
+            sourceFilterExpanded = !sourceFilterExpanded;
+            if (sourceFilterExpanded) {
+                bar.classList.remove('source-filter-collapsed');
+                btn.textContent = '收起 ↑';
+            } else {
+                bar.classList.add('source-filter-collapsed');
+                btn.textContent = '展开更多 ▼';
+            }
+        }
+
+        let sidebarSourceExpanded = false;
+        function toggleSidebarSourceFilter() {
+            const bar = document.getElementById('sidebar-source-filter-bar');
+            const btn = document.getElementById('sidebar-source-expand-btn');
+            sidebarSourceExpanded = !sidebarSourceExpanded;
+            if (sidebarSourceExpanded) {
+                bar.classList.remove('sidebar-source-filter-collapsed');
+                btn.textContent = '收起 ↑';
+            } else {
+                bar.classList.add('sidebar-source-filter-collapsed');
+                btn.textContent = '展开更多 ▼';
+            }
+        }
+
+        document.getElementById('modal-overlay').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        function handleSearch() {
+            const mobileInput = document.getElementById('search-input');
+            const desktopInput = document.getElementById('search-input-desktop');
+            currentSearchQuery = (mobileInput ? mobileInput.value : '') || (desktopInput ? desktopInput.value : '') || '';
+            currentPage = 1;
+            renderExhibitions();
+        }
+
+        function clearAllFilters() {
+            currentTimeFilter = 'upcoming';
+            currentSourceFilter = 'all';
+            currentFeeFilter = 'all';
+            currentTypeFilter = 'all';
+            currentDistrictFilter = 'all';
+            currentFamilyFriendlyFilter = 'all';
+            currentSearchQuery = '';
+            
+            localStorage.setItem('schedule_time_filter', 'upcoming');
+            localStorage.setItem('schedule_source_filter', 'all');
+            localStorage.setItem('schedule_fee_filter', 'all');
+            localStorage.setItem('schedule_type_filter', 'all');
+            localStorage.setItem('schedule_district_filter', 'all');
+            localStorage.setItem('schedule_family_filter', 'family');
+            
+            document.getElementById('search-input').value = '';
+            document.getElementById('search-input-desktop').value = '';
+            
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            
+            document.querySelectorAll('[data-filter="upcoming"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-type="all"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-district="all"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-source="all"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
+            document.querySelectorAll('[data-family="family"]').forEach(btn => btn.classList.add('active'));
+            
+            currentPage = 1;
+            renderExhibitions();
+        }
+
+        function initFilters() {
+            const cityButtons = document.querySelectorAll('[data-city]:not([data-district]):not([data-source])');
+            cityButtons.forEach(btn => {
+                if (btn.dataset.city === currentCityFilter) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+                btn.addEventListener('click', () => {
+                    cityButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentCityFilter = btn.dataset.city;
+                    localStorage.setItem('schedule_city_filter', currentCityFilter);
+                    currentDistrictFilter = 'all';
+                    localStorage.setItem('schedule_district_filter', 'all');
+                    currentSourceFilter = 'all';
+                    localStorage.setItem('schedule_source_filter', 'all');
+
+                    const districtButtons = document.querySelectorAll('[data-district]');
+                    districtButtons.forEach(b => b.classList.remove('active'));
+                    districtButtons.forEach(b => {
+                        if (b.dataset.district === 'all') b.classList.add('active');
+                    });
+
+                    const sourceButtons = document.querySelectorAll('[data-source]');
+                    sourceButtons.forEach(b => b.classList.remove('active'));
+                    sourceButtons.forEach(b => {
+                        if (b.dataset.source === 'all') b.classList.add('active');
+                    });
+
+                    currentPage = 1;
+                    updateDistrictButtons();
+                    updateSourceButtonVisibility();
+                    renderExhibitions();
+                });
+            });
+
+            function updateDistrictButtons() {
+                const districtButtons = document.querySelectorAll('[data-district]');
+                districtButtons.forEach(btn => {
+                    if (btn.dataset.district === 'all') {
+                        btn.style.display = 'block';
+                    } else {
+                        const btnCity = btn.dataset.city || 'shenzhen';
+                        if (btnCity === currentCityFilter) {
+                            btn.style.display = 'block';
+                        } else {
+                            btn.style.display = 'none';
+                        }
+                    }
+                });
+            }
+
+            const timeButtons = document.querySelectorAll('[data-filter]');
+            timeButtons.forEach(btn => {
+                if (btn.dataset.filter === currentTimeFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    timeButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentTimeFilter = btn.dataset.filter;
+                    localStorage.setItem('schedule_time_filter', currentTimeFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            const typeButtons = document.querySelectorAll('[data-type]');
+            typeButtons.forEach(btn => {
+                if (btn.dataset.type === currentTypeFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    typeButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentTypeFilter = btn.dataset.type;
+                    localStorage.setItem('schedule_type_filter', currentTypeFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            const districtButtons = document.querySelectorAll('[data-district]');
+            districtButtons.forEach(btn => {
+                if (btn.dataset.district === currentDistrictFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    districtButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentDistrictFilter = btn.dataset.district;
+                    localStorage.setItem('schedule_district_filter', currentDistrictFilter);
+                    currentPage = 1;
+                    updateSourceButtonVisibility();
+                    renderExhibitions();
+                });
+            });
+
+            function updateSourceButtonVisibility() {
+                const sourceButtons = document.querySelectorAll('[data-source]');
+                sourceButtons.forEach(btn => {
+                    const source = btn.dataset.source;
+                    if (source === 'all') {
+                        btn.style.display = 'block';
+                    } else {
+                        const btnCity = btn.dataset.city || 'shenzhen';
+                        const district = getDistrict(source);
+                        const cityMatch = btnCity === currentCityFilter;
+                        const districtMatch = currentDistrictFilter === 'all' || district === currentDistrictFilter;
+                        if (cityMatch && districtMatch) {
+                            btn.style.display = 'block';
+                        } else {
+                            btn.style.display = 'none';
+                        }
+                    }
+                });
+                
+                if (currentSourceFilter !== 'all') {
+                    const activeBtn = document.querySelector(`[data-source="${currentSourceFilter}"]`);
+                    if (!activeBtn || activeBtn.style.display === 'none') {
+                        currentSourceFilter = 'all';
+                        localStorage.setItem('schedule_source_filter', 'all');
+                        sourceButtons.forEach(b => b.classList.remove('active'));
+                        sourceButtons.forEach(b => {
+                            if (b.dataset.source === 'all') b.classList.add('active');
+                        });
+                    }
+                }
+            }
+
+            const sourceButtons = document.querySelectorAll('[data-source]');
+            sourceButtons.forEach(btn => {
+                if (btn.dataset.source === currentSourceFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    sourceButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentSourceFilter = btn.dataset.source;
+                    localStorage.setItem('schedule_source_filter', currentSourceFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            const feeButtons = document.querySelectorAll('[data-fee]');
+            feeButtons.forEach(btn => {
+                if (btn.dataset.fee === currentFeeFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    feeButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentFeeFilter = btn.dataset.fee;
+                    localStorage.setItem('schedule_fee_filter', currentFeeFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            const familyButtons = document.querySelectorAll('[data-family]');
+            familyButtons.forEach(btn => {
+                if (btn.dataset.family === currentFamilyFriendlyFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    familyButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentFamilyFriendlyFilter = btn.dataset.family;
+                    localStorage.setItem('schedule_family_filter', currentFamilyFriendlyFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            updateDistrictButtons();
+            updateSourceButtonVisibility();
+        }
+
+        function loadExhibitions() {
+            const cacheKey = 'exhibitions_cache';
+            const versionKey = 'exhibitions_version';
+            const lastCheckKey = 'exhibitions_last_check';
+            
+            const cachedData = localStorage.getItem(cacheKey);
+            const cachedVersion = localStorage.getItem(versionKey);
+            
+            const now = Date.now();
+            const lastCheck = parseInt(localStorage.getItem(lastCheckKey) || '0');
+            const checkInterval = 30 * 60 * 1000;
+            
+            if (cachedData && cachedVersion && (now - lastCheck < checkInterval)) {
+                try {
+                    allExhibitions = JSON.parse(cachedData);
+                    allExhibitions.forEach(e => e.city = normalizeCity(e.city));
+                    initFilters();
+                    renderExhibitions();
+                    console.log('使用缓存数据，版本:', cachedVersion);
+                } catch (e) {
+                    console.error('缓存数据解析失败:', e);
+                    fetchAndCache();
+                    return;
+                }
+            }
+            
+            fetchAndCache();
+            
+            async function fetchAndCache() {
+                const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou'];
+                let allData = [];
+                let latestVersion = '';
+                let anySuccess = false;
+                let firstError = null;
+
+                for (const city of cities) {
+                    try {
+                        const resp = await fetch('output/exhibitions_' + city + '.json', { cache: 'no-cache' });
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        const ver = resp.headers.get('etag') || resp.headers.get('last-modified') || '';
+                        if (ver > latestVersion) latestVersion = ver;
+                        const data = await resp.json();
+                        data.forEach(e => {
+                            e.city = normalizeCity(e.city || city);
+                        });
+                        allData = allData.concat(data);
+                        anySuccess = true;
+                    } catch(e) {
+                        console.warn('加载', city, '数据失败:', e);
+                        if (!firstError) firstError = e;
+                    }
+                }
+
+                if (anySuccess) {
+                    if (latestVersion !== cachedVersion || !cachedData) {
+                        try {
+                            localStorage.setItem(cacheKey, JSON.stringify(allData));
+                            localStorage.setItem(versionKey, latestVersion);
+                        } catch(e) { console.warn('缓存写入失败', e); }
+                        allExhibitions = allData;
+                        initFilters();
+                        renderExhibitions();
+                        console.log('数据已更新，总条数:', allData.length, '版本:', latestVersion);
+                    } else {
+                        console.log('数据未变化，跳过更新');
+                    }
+                    try { localStorage.setItem(lastCheckKey, String(Date.now())); } catch(e) {}
+                } else {
+                    if (!cachedData) {
+                        document.getElementById('exhibition-list').innerHTML = `
+                            <div class="empty-state">
+                                <div class="icon">⚠️</div>
+                                <div>加载失败</div>
+                                <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
+                            </div>
+                        `;
+                        console.error('所有城市数据加载失败:', firstError);
+                    } else {
+                        console.log('网络错误，继续使用缓存数据');
+                    }
+                }
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', function() {
+            loadExhibitions();
+            loadVenueInfo();
+        });
+    </script>
+</body>
+</html>

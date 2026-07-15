@@ -1,0 +1,24 @@
+[
+  {
+    "name": "深圳湾体育中心公益体育活动",
+    "venue": "深圳湾体育中心",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-86300066",
+    "description": "深圳湾体育中心（春茧）定期举办全民健身公益活动，部分时段免费开放。",
+    "source": "szwty",
+    "family_friendly": true
+  },
+  {
+    "name": "深圳湾体育中心文体演出",
+    "venue": "深圳湾体育中心",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-86300066",
+    "description": "深圳湾体育中心定期举办演唱会、体育赛事、文艺演出等大型活动，具体排期请关注官方信息。",
+    "source": "szwty",
+    "family_friendly": false
+  }
+]

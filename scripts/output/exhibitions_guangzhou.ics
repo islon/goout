@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f680186e96f147ce@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20261012
+SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术体验展
+LOCATION:南越王博物院
+DESCRIPTION:180余件古埃及文物，近95%首次来华，含AR、全息投影等数字互动技术。\n地点: 南越王博物院\n时间: 2026-02-06 至 2026-10-11\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:f913b40dbae53236@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20261012
+SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术展
+LOCATION:南越王博物院
+DESCRIPTION:180件/套古埃及文物亮相，167件/套首次在亚洲展出，将古埃及珍贵文物与南越文王墓出土珍品并置，展现两地文明交流互鉴。\n地点: 南越王博物院\n时间: 2026-02-06 至 2026-10-11\n详情: https://www.nanyuewang.org
+END:VEVENT
+BEGIN:VEVENT
+UID:513d5a974a814a75@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20261101
+SUMMARY:一念敦煌——石窟艺术大展
+LOCATION:广州艺术博物院
+DESCRIPTION:沉浸式石窟艺术大展，复原敦煌石窟场景，夜场开放至20:30。\n地点: 广州艺术博物院\n时间: 2026-05-01 至 2026-10-31\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:d16fa5a962a44030@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261019
+SUMMARY:文艺复兴的交响：格拉斯哥博物馆藏大师作品展
+LOCATION:广东省博物馆
+DESCRIPTION:汇集格拉斯哥博物馆藏文艺复兴时期大师作品，包括意大利、佛兰德斯、荷兰等画派名家真迹。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-10-18\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:50b18c3f362622ad@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:肠道小宇宙——肠道的奇妙冒险互动体验科学展
+LOCATION:广东科学中心
+DESCRIPTION:法国引进的现象级互动展，通过沉浸式体验和科学互动装置，探索人体肠道的奥秘。\n地点: 广东科学中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://m.sohu.com/a/1048387246_222493/
+END:VEVENT
+BEGIN:VEVENT
+UID:d0247dbc367940a8@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州图书馆暑期系列活动
+LOCATION:广州图书馆
+DESCRIPTION:暑期公益讲座、绘本故事会、手工制作、科普课堂等系列活动，周三全天闭馆，周一至周二、周四至周日09:00-21:00开放。\n地点: 广州图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.gzlib.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5ef23003bd4c5c@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州青少年科技馆暑期互动体验
+LOCATION:广州青少年科技馆
+DESCRIPTION:虚拟现实、物理原理到生命科学互动展项，二楼机器人工作室和手工技能室开放，周一闭馆，需在科普广州公众号预约。\n地点: 广州青少年科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.gzstm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:2a9f52830de981a2@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州地铁博物馆暑期体验
+LOCATION:广州地铁博物馆
+DESCRIPTION:沉浸式隧道、地铁模拟驾驶操作台、轨道科普展区，互动游戏丰富，周二至周五10:00-16:00，周六至周日09:00-17:00，周一闭馆。\n地点: 广州地铁博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.gzmtrmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:401a686c44a504dd@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州市文化馆新馆暑期文化体验
+LOCATION:广州市文化馆新馆
+DESCRIPTION:汉唐风格与岭南风情融合的文化园区，含翰墨园、广绣园等主题园区，暑期举办各类文化体验活动和展览，需公众号预约。\n地点: 广州市文化馆新馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.gzwhg.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:eed2f34bb5320c85@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州博物馆暑期十大主题研学活动
+LOCATION:广州博物馆
+DESCRIPTION:暑期推出十大主题研学活动，包括越秀木棉红红色史迹研学、'决战观音山'剧本杀、'清代广州人的一天'主题研学、鳌鱼挂饰制作、陨石坑小夜灯DIY等，聚焦广州红色文化、岭南文化、海丝文化。\n地点: 广州博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6f5e2989acb6ac@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260831
+SUMMARY:广东省博物馆暑期延时开放
+LOCATION:广东省博物馆
+DESCRIPTION:暑期延长开放至21:00（20:00停止入馆），推出'粤博之夜'系列活动，包括文艺复兴主题展、红棉之夜、自然科普之夜、创新体验之夜四大主题活动。\n地点: 广东省博物馆\n时间: 2026-07-01 至 2026-08-30\n详情: https://www.gdmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:70484a7660e66045@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州动物园暑期研学活动
+LOCATION:广州动物园
+DESCRIPTION:暑期推出动物科普研学活动，包括熊猫饲养员体验、珍稀动物保护讲座、夜间动物园探秘等，2026届高考生凭准考证享门票半价优惠。\n地点: 广州动物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ad4368ab602ae7@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:广州海洋馆暑期活动
+LOCATION:广州海洋馆
+DESCRIPTION:暑期推出海底探秘研学活动，包括潜水体验、海洋生物知识讲座、海底隧道夜宿等，2026届考生享专属门票优惠。\n地点: 广州海洋馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c178f2dd1a96b7df@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260901
+SUMMARY:请到粤图过暑假——300余场暑期阅读推广活动
+LOCATION:广东省立中山图书馆
+DESCRIPTION:近200场少儿专属活动，含绘本阅读、手工制作、文化讲座等。\n地点: 广东省立中山图书馆\n时间: 2026-07-10 至 2026-08-31\n详情: http://culture.ycwb.com/ikimvkltjj/content_54223794.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:62a05b4f092a646a@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260901
+SUMMARY:广东科学中心暑期假日科学派
+LOCATION:广东科学中心
+DESCRIPTION:涵盖科学挑战赛、科普摊位、创意工坊及科普表演秀等板块，含极速三子棋、太阳能风扇拼装、科学盲盒等互动项目，还有机器人及机器狗表演。\n地点: 广东科学中心\n时间: 2026-07-10 至 2026-08-31\n详情: https://www.gdsc.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:17b90d65b367594b@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+SUMMARY:广东美术馆新馆暑期延时开放
+LOCATION:广东美术馆
+DESCRIPTION:白鹅潭馆区暑期延长开放至21:00（20:30停止入场），推出多场人工导览和'馆长带你看展览'夜间专场活动，可沉浸式逛赏美术馆文创空间。\n地点: 广东美术馆\n时间: 2026-07-10 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:45ffc8c5accfad45@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260901
+SUMMARY:南越王博物院王宫展区暑期延长开放
+LOCATION:南越王博物院
+DESCRIPTION:王宫展区暑期延长开放至18:00（17:00停止入场），免费开放。暑期推出文物修复、青铜器拓印等研学活动，可漫步'千年前的御花园'，读懂广州2200年变迁。\n地点: 南越王博物院\n时间: 2026-07-11 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:970c36c5db567342@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260831
+SUMMARY:孙中山大元帅府纪念馆暑期延时开放
+LOCATION:孙中山大元帅府纪念馆
+DESCRIPTION:暑期延时开放至18:00（17:30停止入馆），免预约入馆。展出《帅府百年》复原陈列、《大元帅府的前世今生》等展览，开展红剧场戏剧工作坊、帅府拾艺、帅真童乐等特色活动。\n地点: 孙中山大元帅府纪念馆\n时间: 2026-07-11 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:fd990144e17e1270@shenzhen-exhibitions
+DTSTAMP:20260712T145559Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260831
+SUMMARY:虫友：寻访甲虫世界
+LOCATION:广东省博物馆
+DESCRIPTION:汇聚1000余件自然标本，展示甲虫世界的多样性与奇妙。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
+END:VEVENT
+END:VCALENDAR

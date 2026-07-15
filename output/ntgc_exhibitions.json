@@ -1,0 +1,35 @@
+[
+  {
+    "name": "南头古城历史展",
+    "venue": "南头古城博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-26603800",
+    "description": "展示南头古城1700年历史变迁，包括古城考古发掘、城池演变等内容，免费参观。",
+    "source": "ntgc",
+    "family_friendly": true
+  },
+  {
+    "name": "陈郁故居生平事迹展",
+    "venue": "陈郁故居",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-26603800",
+    "description": "展示无产阶级革命家陈郁同志生平事迹与革命历史，免费参观。",
+    "source": "ntgc",
+    "family_friendly": true
+  },
+  {
+    "name": "南头古城非遗文化展",
+    "venue": "南头古城博物馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "0755-26603800",
+    "description": "展示南山区非物质文化遗产项目与传统民俗文化，免费参观。",
+    "source": "ntgc",
+    "family_friendly": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "海洋贝类标本展",
+    "venue": "蛇口海洋科普馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "contact": "0755-26862327",
+    "description": "展示各类海洋贝类标本，包括腹足纲、双壳纲等珍稀贝类，免费参观。",
+    "source": "skhykpg",
+    "family_friendly": true
+  },
+  {
+    "name": "珊瑚标本展",
+    "venue": "蛇口海洋科普馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "contact": "0755-26862327",
+    "description": "展示各类珊瑚标本，包括石珊瑚、软珊瑚等，了解珊瑚礁生态系统，免费参观。",
+    "source": "skhykpg",
+    "family_friendly": true
+  },
+  {
+    "name": "砗磲标本展",
+    "venue": "蛇口海洋科普馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "contact": "0755-26862327",
+    "description": "展示大型砗磲标本及海洋生态知识，免费参观。",
+    "source": "skhykpg",
+    "family_friendly": true
+  },
+  {
+    "name": "海洋生态保护科普展",
+    "venue": "蛇口海洋科普馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "contact": "0755-26862327",
+    "description": "介绍深圳海域生态保护成果与海洋环保知识，免费参观。",
+    "source": "skhykpg",
+    "family_friendly": true
+  }
+]

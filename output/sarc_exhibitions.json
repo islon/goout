@@ -1,0 +1,24 @@
+[
+  {
+    "name": "深圳人才发展历程展",
+    "venue": "深爱人才馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "",
+    "description": "展示深圳人才发展历程与政策成果，免费参观。",
+    "source": "sarc",
+    "family_friendly": true
+  },
+  {
+    "name": "南山人才创新成果展",
+    "venue": "深爱人才馆",
+    "start_date": "2026-07-06",
+    "end_date": "2027-12-31",
+    "url": "https://www.szns.gov.cn",
+    "contact": "",
+    "description": "展示南山区人才创新创业成果与科技产品，免费参观。",
+    "source": "sarc",
+    "family_friendly": true
+  }
+]

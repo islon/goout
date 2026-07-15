@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:766b0a3ae43c387d@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20261101
+SUMMARY:相无古今——石窟艺术超感沉浸体验
+LOCATION:浙江省博物馆之江馆
+DESCRIPTION:XR/AR/VR沉浸式石窟艺术展，利用数字技术还原石窟艺术之美。\n地点: 浙江省博物馆之江馆\n时间: 2026-01-01 至 2026-10-31\n详情: http://news.qq.com/rain/a/20250711A05A3P00
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc76061f1823e39@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:茶和天下 芳传古今——中国传统制茶技艺非遗展
+LOCATION:中国茶叶博物馆
+DESCRIPTION:中国茶叶博物馆常态特展，展示中国传统制茶技艺及其相关习俗世界级非遗，配套茶样捐赠与茶文化体验，免费需预约。\n地点: 中国茶叶博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.teamuseum.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3221933480cef9@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260801
+SUMMARY:古希腊的旅程——希腊31家博物馆文物展
+LOCATION:良渚博物院
+DESCRIPTION:希腊31家博物馆163件精品文物+9件复制品，跨文明对话大展。\n地点: 良渚博物院\n时间: 2026-01-30 至 2026-07-31\n详情: https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html
+END:VEVENT
+BEGIN:VEVENT
+UID:d64a0964452288ad@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20270101
+SUMMARY:印鉴西湖·西湖美学系列展
+LOCATION:西湖博物馆
+DESCRIPTION:杭州西湖博物馆总馆2026西湖美学系列展览开篇，将西湖美学与印学传承结合，融金石篆刻与世界多元文化符号，免费开放。\n地点: 西湖博物馆\n时间: 2026-05-01 至 2026-12-31\n详情: https://ori.hangzhou.com.cn/ornews/content/2026-05/01/content_9215636.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae79315bb2ee77e@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20261016
+SUMMARY:中国湿地博物馆科普艺术季·博物馆临时展览推介案例展
+LOCATION:中国湿地博物馆
+DESCRIPTION:湿地博物馆同步开启科普艺术季，展出杭州“博物馆之城”临展推介案例，并设折纸体验课等童趣活动，免费开放。\n地点: 中国湿地博物馆\n时间: 2026-05-09 至 2026-10-15\n详情: https://tidenews.com.cn/news.html?id=3440590
+END:VEVENT
+BEGIN:VEVENT
+UID:9a486c5d6c6307fa@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20270101
+SUMMARY:2026浙江省全民艺术季·文艺赋美
+LOCATION:浙江省文化馆
+DESCRIPTION:浙江省文化馆发起的全民艺术惠民活动，遍布各地的公益展演、艺术培训与“文艺赋美”演出，免费参与，适合亲子家庭。\n地点: 浙江省文化馆\n时间: 2026-05-17 至 2026-12-31\n详情: https://www.zjart.com/wx/index
+END:VEVENT
+BEGIN:VEVENT
+UID:e880cdc503749dd7@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20270101
+SUMMARY:运博20年·何以动人影像与故事展
+LOCATION:中国京杭大运河博物馆
+DESCRIPTION:中国京杭大运河博物馆开馆20周年，面向全民征集照片影像与故事共同办展，回顾运河记忆，免费开放，适合亲子了解运河文化。\n地点: 中国京杭大运河博物馆\n时间: 2026-05-18 至 2026-12-31\n详情: https://travel.hangzhou.com.cn/lyzx/content/2026-05/18/content_9224586.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5e572cefaa59d090@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260901
+SUMMARY:万物始兴·寒武纪化石展
+LOCATION:浙江自然博物院
+DESCRIPTION:展出三叶虫、鱼龙、猛犸象化石骨架，配套化石挖掘体验、火山爆发科学实验秀、AR恐龙互动。\n地点: 浙江自然博物院\n时间: 2026-06-01 至 2026-08-31\n详情: https://m.weibo.cn/detail/5318191891881429
+END:VEVENT
+BEGIN:VEVENT
+UID:e50b058e35e19e20@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260902
+SUMMARY:月照银山：丝绸之路上的高昌与龟兹
+LOCATION:中国丝绸博物馆
+DESCRIPTION:2026丝绸之路周核心大展，200余件/组文物，展示丝绸之路上高昌与龟兹的文化交融。\n地点: 中国丝绸博物馆\n时间: 2026-06-24 至 2026-09-01\n详情: https://tidenews.com.cn/news.html?id=3475919
+END:VEVENT
+BEGIN:VEVENT
+UID:0be25916530fc911@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20261001
+SUMMARY:叩石问印·浦东篆刻会十周年特展
+LOCATION:中国印学博物馆
+DESCRIPTION:由中国印学博物馆与浦东篆刻会主办的篆刻特展，展出99件篆刻作品，于孤山西泠印社开幕，免费开放，适合书法篆刻爱好者。（结束日期估算）\n地点: 中国印学博物馆\n时间: 2026-06-25 至 2026-09-30\n详情: http://www.xlys.org.cn/xxgg/index.jhtml
+END:VEVENT
+BEGIN:VEVENT
+UID:21d34de63fd8031f@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20261013
+SUMMARY:大道匠行——浙江工艺美术的历史经典与时代价值展
+LOCATION:杭州工艺美术博物馆
+DESCRIPTION:展示浙江工艺美术的历史经典与当代创新，手工体验区适合亲子参与。\n地点: 杭州工艺美术博物馆\n时间: 2026-06-26 至 2026-10-12\n详情: https://m.sohu.com/a/1046660218_121106994/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1137920b1d03b4@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:太平年·天下同宁——交互艺术大展
+LOCATION:浙江省博物馆之江馆
+DESCRIPTION:融合实物文物、数字展陈与沉浸式演出的交互艺术大展。\n地点: 浙江省博物馆之江馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+BEGIN:VEVENT
+UID:62c17bf8c1c8bd45@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:科学实验秀——浙江省科技馆暑期活动
+LOCATION:浙江省科技馆
+DESCRIPTION:每天2场科学实验秀，含《寻心记》《物体的倔脾气》《静电碰撞》等十几个主题轮番上演。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://m.sohu.com/a/1044289750_121106994/
+END:VEVENT
+BEGIN:VEVENT
+UID:92533a2d47186d39@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:杭州科技馆暑期科学营
+LOCATION:浙江省科技馆
+DESCRIPTION:科学实验、机器人编程、天文观测等课程。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.zjstm.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:fed367720034a156@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:杭州图书馆亲子阅读季
+LOCATION:杭州图书馆
+DESCRIPTION:亲子故事会、绘本创作工作坊、儿童文学讲座。\n地点: 杭州图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.hzlib.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:065e3e3c702267b4@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:杭州动物园熊猫主题日
+LOCATION:杭州动物园
+DESCRIPTION:熊猫知识讲座、熊猫绘画比赛、亲子互动游戏。\n地点: 杭州动物园\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.hzzoo.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7021f77be26cf5@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:AI科学工坊
+LOCATION:浙江省科技馆
+DESCRIPTION:机器人编程挑战，每日10:00/14:00，8岁以上可独立参加。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.zjstm.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae430e68c58e9b6e@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261009
+SUMMARY:重逢之约主题展
+LOCATION:浙江省科技馆
+DESCRIPTION:稻米文化打卡+非遗手作，每日限流2000人。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-10-08\n详情: https://www.zjstm.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:9b03231c7b19025b@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:手工艺体验
+LOCATION:杭州工艺美术博物馆
+DESCRIPTION:手工艺体验活动，具体时间待馆方公告。\n地点: 杭州工艺美术博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.hzgybwg.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:581e6e160673ade7@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:茶文化研学
+LOCATION:中国茶叶博物馆
+DESCRIPTION:茶文化研学活动，暑期定期开放。\n地点: 中国茶叶博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.teaworld.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e04f4469b0b680@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:夜观昆虫自然活动
+LOCATION:杭州植物园
+DESCRIPTION:夜观昆虫自然活动，时间以公众号通知为准。\n地点: 杭州植物园\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.hz植物园.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb541cb06a1f410@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:自然导览课程
+LOCATION:西溪湿地公园
+DESCRIPTION:自然导览课程，暑期每周末。\n地点: 西溪湿地公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.xixiwetland.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:46ad345e01af361a@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:杭州青少年活动中心2026夏令营·少年长成营
+LOCATION:杭州青少年活动中心
+DESCRIPTION:面向少年儿童的暑期夏令营，含军事技能、户外实践与手工创作等主题营，锻炼意志与协作能力，需报名缴费。\n地点: 杭州青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://5scamp.hzqsn.com/article/detail/id287935291562424167049.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:761748ce87f3aa4c@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:浙江省科技馆2026夏令营·科技馆科学院
+LOCATION:浙江省科技馆
+DESCRIPTION:浙江省科技馆品牌科学教育活动，16大硬核主题融合实验与探究，让孩子在展厅之外体验科学乐趣，暑期开营，需报名缴费。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.zjstm.org/edu/science-activity-list.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:da866d6a448dd166@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:浙江自然博物院2026暑期科普之旅（线上预约开放）
+LOCATION:浙江自然博物院
+DESCRIPTION:浙江自然博物院杭州馆、安吉馆暑期实行线上预约参观，馆内恐龙、海洋与地球生命展区适合亲子科普，免费但需提前预约。\n地点: 浙江自然博物院\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=MzA5NjY5OTMzNQ==&mid=2650588611&idx=2&sn=3a5c1bd89ea7e493fc8b4e188eb74ace&chksm=89d81dd6304ac2b11d382ec2e64962afe5840c42da6f368c31b440a19d0606e075484173a81f&scene=27
+END:VEVENT
+BEGIN:VEVENT
+UID:4d338eced45f78d2@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260831
+SUMMARY:光影对话：新中国海报设计作品巡展
+LOCATION:浙江省博物馆
+DESCRIPTION:浙江省博物馆之江馆区四楼书画厅B展出新中国海报设计精品，回顾时代视觉记忆，免费开放，适合设计爱好者与亲子观展。\n地点: 浙江省博物馆\n时间: 2026-07-02 至 2026-08-30\n详情: https://mp.weixin.qq.com/s?__biz=MjM5ODg1MTAxMg==&mid=2652910968&idx=2&sn=a67afde893540f52260bdf4f668d8b2d&chksm=bc149b7549569bc1abd055663777fbc6a8990f52d824786e1ad70bf66c2bd7b7871b4b923e29&scene=27
+END:VEVENT
+BEGIN:VEVENT
+UID:bdaaccda47458468@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261011
+SUMMARY:2026杭州奇妙夜——百日星悦游
+LOCATION:天目里
+DESCRIPTION:3大夜主场+10大主题产品+全域联动营销夜游格局。\n地点: 天目里\n时间: 2026-07-03 至 2026-10-10\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e9cfe9a7eba761@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:考古探险队——杭州博物馆青少年模拟考古活动
+LOCATION:杭州博物馆
+DESCRIPTION:沉浸式触摸历史、探索地层、动手创造的青少年模拟考古活动，面向8-17岁青少年。\n地点: 杭州博物馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://m.weibo.cn/detail/5317002210313637
+END:VEVENT
+BEGIN:VEVENT
+UID:7d0effcf62a28d17@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260826
+SUMMARY:自然探秘公益课
+LOCATION:杭州青少年活动中心
+DESCRIPTION:湿地观察/昆虫标本制作，120余门课程免费预约。\n地点: 杭州青少年活动中心\n时间: 2026-07-05 至 2026-08-25\n详情: https://www.hzqs.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:804da7bc8575c228@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260801
+SUMMARY:撒马尔罕：中亚之心的千年古城特展
+LOCATION:良渚博物院
+DESCRIPTION:作为2026杭州良渚日暨良渚文化周系列活动，集中展出撒马尔罕遗址照片与非遗手作，免费向公众开放，足不出户看中亚文明。\n地点: 良渚博物院\n时间: 2026-07-05 至 2026-07-31\n详情: https://www.lzmuseum.cn/LiangBoXinWen/2026385131382.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2b817952301de226@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:未命名的房间
+LOCATION:浙江省博物馆
+DESCRIPTION:浙江省博物馆之江馆区推出的当代艺术特展，以空间与装置探讨人与环境的关系，免费开放，适合艺术启蒙与亲子参观。\n地点: 浙江省博物馆\n时间: 2026-07-05 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=MjM5ODg1MTAxMg==&mid=2652910968&idx=2&sn=a67afde893540f52260bdf4f668d8b2d&chksm=bc149b7549569bc1abd055663777fbc6a8990f52d824786e1ad70bf66c2bd7b7871b4b923e29&scene=27
+END:VEVENT
+BEGIN:VEVENT
+UID:2491646355e241ba@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260801
+SUMMARY:机器狗AI编程夏令营
+LOCATION:杭州图书馆
+DESCRIPTION:四期连开的机器狗AI编程夏令营，面向7岁以上少儿，通过编程控制机器狗完成任务。\n地点: 杭州图书馆\n时间: 2026-07-07 至 2026-07-31\n详情: https://www.zjhzlib.cn/hdyghz/8010.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:e269b324b1a8fb5f@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260827
+SUMMARY:宋韵故事会
+LOCATION:上城区图书馆（青少年分馆）
+DESCRIPTION:每周六10:00，南宋历史情景剧，免费参与。\n地点: 上城区图书馆（青少年分馆）\n时间: 2026-07-08 至 2026-08-26\n详情: https://www.sctl.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd40c7fc3f684c0@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:良渚博物院文明探索之旅
+LOCATION:良渚博物院
+DESCRIPTION:探索良渚古城遗址，参与考古模拟挖掘。\n地点: 良渚博物院\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.liangzhubowuguan.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:b55207874c0b605a@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260726
+SUMMARY:小小考古家体验营
+LOCATION:良渚博物院
+DESCRIPTION:每周三14:00，模拟挖掘+文物修复，限8-12岁。\n地点: 良渚博物院\n时间: 2026-07-10 至 2026-07-25\n详情: https://www.lzmo.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:42fb4deee5a080b7@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260826
+SUMMARY:良渚文化探索营
+LOCATION:余杭区青少年宫
+DESCRIPTION:玉器纹样拓印+陶器制作，分龄段教学。\n地点: 余杭区青少年宫\n时间: 2026-07-10 至 2026-08-25\n详情: https://www.yhqsg.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:577da06e3d9cbb44@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260907
+SUMMARY:繁天录——中国动画英雄潮流特展
+LOCATION:浙江美术馆
+DESCRIPTION:浙江美术馆暑期重磅特展，集结中国经典动画英雄IP，以潮流艺术与互动装置呈现国漫美学，适合亲子共赏与动漫爱好者。\n地点: 浙江美术馆\n时间: 2026-07-10 至 2026-09-06\n详情: https://www.zjam.org.cn/Site/Exbition/ExbitionList.aspx?type=1
+END:VEVENT
+BEGIN:VEVENT
+UID:570097b55534e13c@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260821
+SUMMARY:非遗手作营
+LOCATION:杭州青少年活动中心
+DESCRIPTION:西湖绸伞/蓝印花布体验，材料包免费领。\n地点: 杭州青少年活动中心\n时间: 2026-07-12 至 2026-08-20\n详情: https://www.hzqs.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:11630a3063a6639d@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20270101
+SUMMARY:《宋城千古情》大型演艺
+LOCATION:杭州宋城
+DESCRIPTION:宋城演艺王牌演出《宋城千古情》，以杭州历史为脉络的视听盛宴，每日多场，适合全家观看，需购票入园。\n地点: 杭州宋城\n时间: 2026-07-14 至 2026-12-31\n详情: https://www.songcn.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:a646e7da1d966ade@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:杭州西湖博物馆奇妙夜
+LOCATION:西湖博物馆
+DESCRIPTION:夜探西湖文化，参与非遗手工艺体验。\n地点: 西湖博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.xhmuseum.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:f49955c12d3a557e@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260821
+SUMMARY:中国丝绸博物馆丝路文化体验
+LOCATION:中国丝绸博物馆
+DESCRIPTION:丝绸文化展览、古代服饰体验、丝织工艺工作坊。\n地点: 中国丝绸博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.silkmuseum.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a7518d29e8e7dc@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260901
+SUMMARY:良夜寻踪夜游
+LOCATION:良渚博物院
+DESCRIPTION:每周五、六18:30-21:00，考古导览+陶器拓印。\n地点: 良渚博物院\n时间: 2026-07-15 至 2026-08-31\n详情: https://www.lzmo.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:4214996e969ce976@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260723
+SUMMARY:西湖非遗体验周
+LOCATION:西湖区文化馆
+DESCRIPTION:龙井茶艺/丝绸刺绣，需提前预约。\n地点: 西湖区文化馆\n时间: 2026-07-15 至 2026-07-22\n详情: https://www.xhwhg.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6a1d6837236d7c@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:欢迎来到恐龙时代——知识视界科普讲座
+LOCATION:杭州图书馆少儿分馆
+DESCRIPTION:杭小图看世界系列科普讲座，带领少儿读者探索恐龙时代的奥秘。\n地点: 杭州图书馆少儿分馆\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.zjhzlib.cn/hdyghz/8010.htm\n联系: 86535086
+END:VEVENT
+BEGIN:VEVENT
+UID:393b26c4ebbf2e41@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260720
+SUMMARY:2026年茶人之家亲子公益培训（二期）
+LOCATION:中国茶叶博物馆
+DESCRIPTION:四天17节亲子课程，涵盖茶文化、茶叶冲泡、茶礼仪等，面向亲子家庭。\n地点: 中国茶叶博物馆\n时间: 2026-07-16 至 2026-07-19\n详情: https://m.sohu.com/a/1038933302_121107011/
+END:VEVENT
+BEGIN:VEVENT
+UID:93599564350ace9d@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260728
+SUMMARY:第34届全国书博会
+LOCATION:杭州国际博览中心
+DESCRIPTION:八大展厅、九大专题展览、十一项重点活动，发放300万元惠民购书券。\n地点: 杭州国际博览中心\n时间: 2026-07-24 至 2026-07-27\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bbd8c4bd32feebcb@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20261016
+SUMMARY:2026西溪火柿节
+LOCATION:西溪国家湿地公园
+DESCRIPTION:西溪湿地金秋生态文化节，可参与柿子采摘、认购柿树与宋韵非遗体验，乘摇橹船赏“火柿映波”，需购景区门票。（日期依往年规律估算）\n地点: 西溪国家湿地公园\n时间: 2026-09-20 至 2026-10-15\n详情: https://m.hz.bendibao.com/mip/ly82453.shtm
+END:VEVENT
+BEGIN:VEVENT
+UID:e56a08f7d3db5748@shenzhen-exhibitions
+DTSTAMP:20260715T024803Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:浙江交响乐团2026音乐季·英雄的诗篇
+LOCATION:杭州运河大剧院
+DESCRIPTION:浙江交响乐团2026音乐季音乐会，10月23日登陆杭州运河大剧院歌剧厅，演绎“英雄的诗篇”等交响作品，需购票观看。\n地点: 杭州运河大剧院\n时间: 2026-10-23 至 2026-10-23\n详情: https://www.zjso.org/
+END:VEVENT
+END:VCALENDAR

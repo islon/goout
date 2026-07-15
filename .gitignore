@@ -1,18 +1,28 @@
+# ===== 小程序（miniprogram）=====
 # 依赖
 node_modules/
-
-# 微信开发者工具
+# 微信开发者工具本地配置
 project.private.config.json
+# 打包产物
+miniprogram/miniprogram.zip
 
+# ===== Web 版（Python 抓取脚本）=====
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+test.html
+data/*.db
+
+# ===== 通用 =====
 # 系统文件
 .DS_Store
 Thumbs.db
-
 # 编辑器
 .vscode/
 .idea/
 *.swp
 *.swo
-
 # 日志
 *.log
