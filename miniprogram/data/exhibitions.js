@@ -15,7 +15,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "gdmuseum"
+    "source": "gdmuseum",
+    "district": "天河区"
   },
   {
     "title": "壁上万千——山西宋金壁画中的众生气象",
@@ -31,7 +32,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -47,7 +49,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -63,7 +66,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "深圳改革开放史展览",
@@ -79,7 +83,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -95,7 +100,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -111,7 +117,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "深圳民俗文化展",
@@ -127,7 +134,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "世界野生动物标本展",
@@ -143,7 +151,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "南头古城常设历史展",
@@ -159,7 +168,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "中国版画博物馆常设展",
@@ -175,7 +185,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国版画博物馆"
+    "source": "中国版画博物馆",
+    "district": "龙华区"
   },
   {
     "title": "龙岗客家民俗博物馆常设展（鹤湖新居）",
@@ -191,7 +202,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-84297960",
     "family_friendly": true,
-    "source": "龙岗客家民俗博物馆"
+    "source": "龙岗客家民俗博物馆",
+    "district": "龙岗区"
   },
   {
     "title": "宝安城市规划展览馆常设展",
@@ -207,7 +219,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-23224727",
     "family_friendly": true,
-    "source": "baoan_guihua"
+    "source": "baoan_guihua",
+    "district": "宝安区"
   },
   {
     "title": "宝安1990文化馆常设展",
@@ -223,7 +236,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "蛇口海洋科普馆常设展",
@@ -239,7 +253,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "蛇口海洋科普馆"
+    "source": "蛇口海洋科普馆",
+    "district": "南山区"
   },
   {
     "title": "太空奥德赛——大型沉浸式科幻冒险体验",
@@ -255,7 +270,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "中英街历史博物馆常设展——百年中英街",
@@ -271,7 +287,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中英街历史博物馆"
+    "source": "中英街历史博物馆",
+    "district": "盐田区"
   },
   {
     "title": "招商局历史博物馆常设展——百年招商",
@@ -287,7 +304,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "招商局历史博物馆"
+    "source": "招商局历史博物馆",
+    "district": "南山区"
   },
   {
     "title": "深圳古生物博物馆——远古生命特展",
@@ -303,7 +321,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳古生物博物馆"
+    "source": "深圳古生物博物馆",
+    "district": "罗湖区"
   },
   {
     "title": "陶上星河 炫彩手作——深圳博物馆藏彩陶艺术展",
@@ -319,7 +338,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "契斋藏印——深圳博物馆藏商承祚捐赠印章展",
@@ -335,7 +355,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "牌匾故事馆常设展览",
@@ -351,7 +372,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南头古城"
+    "source": "南头古城",
+    "district": "南山区"
   },
   {
     "title": "大鹏半岛国家地质公园博物馆常设展",
@@ -367,7 +389,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "大鹏地质公园博物馆"
+    "source": "大鹏地质公园博物馆",
+    "district": "大鹏新区"
   },
   {
     "title": "招商局历史博物馆常设展览",
@@ -383,7 +406,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "招商局历史博物馆"
+    "source": "招商局历史博物馆",
+    "district": "南山区"
   },
   {
     "title": "相无古今——石窟艺术超感沉浸体验",
@@ -399,7 +423,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "district": "西湖区"
   },
   {
     "title": "花城百花开——广州非物质文化遗产展",
@@ -415,7 +440,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州市文化馆"
+    "source": "广州市文化馆",
+    "district": "海珠区"
   },
   {
     "title": "茶和天下 芳传古今——中国传统制茶技艺非遗展",
@@ -431,7 +457,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国茶叶博物馆"
+    "source": "中国茶叶博物馆",
+    "district": "西湖区"
   },
   {
     "title": "BRKN·破碎 年度特展",
@@ -447,7 +474,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海玻璃博物馆"
+    "source": "上海玻璃博物馆",
+    "district": "宝山区"
   },
   {
     "title": "广州民俗博物馆常设展",
@@ -463,7 +491,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州民俗博物馆（花都）"
+    "source": "广州民俗博物馆（花都）",
+    "district": "花都区"
   },
   {
     "title": "双星耀世——三星堆—金沙遗址古蜀文明展",
@@ -479,7 +508,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -495,7 +525,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "良渚博物院官网"
+    "source": "良渚博物院官网",
+    "district": "余杭区"
   },
   {
     "title": "叩问永恒——庞贝的探索与发掘",
@@ -511,7 +542,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
@@ -527,7 +559,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "nanyuewang"
+    "source": "nanyuewang",
+    "district": "越秀区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术展",
@@ -543,7 +576,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "越秀区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
@@ -559,7 +593,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院"
+    "source": "南越王博物院",
+    "district": "越秀区"
   },
   {
     "title": "迴响·Beyond Sound 声音特展",
@@ -575,7 +610,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心"
+    "source": "广东科学中心",
+    "district": "番禺区"
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -591,7 +627,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -607,7 +644,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -623,7 +661,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆"
+    "source": "上海科技馆",
+    "district": "浦东新区"
   },
   {
     "title": "2026年光明区群众文艺团队培育提升系列活动",
@@ -639,7 +678,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "district": "光明区"
   },
   {
     "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
@@ -655,7 +695,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "district": "光明区"
   },
   {
     "title": "奔腾的印记——东西方马主题版画艺术特展",
@@ -671,7 +712,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国版画博物馆"
+    "source": "中国版画博物馆",
+    "district": "龙华区"
   },
   {
     "title": "从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展",
@@ -687,7 +729,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "李静训和她的时代",
@@ -703,7 +746,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "第二期“广州之宝”特展",
@@ -719,7 +763,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆"
+    "source": "广州博物馆",
+    "district": "越秀区"
   },
   {
     "title": "探秘国宝萌友——中国濒危保护动物大展",
@@ -735,7 +780,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "“红楼探园”展",
@@ -751,7 +797,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国园林博物馆"
+    "source": "中国园林博物馆",
+    "district": "丰台区"
   },
   {
     "title": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
@@ -767,7 +814,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明区马田街道综合性文化服务中心"
+    "source": "光明区马田街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "星辰足迹——月背之约航天主题展",
@@ -783,7 +831,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科学技术馆官网"
+    "source": "中国科学技术馆官网",
+    "district": "朝阳区"
   },
   {
     "title": "“数字一大·伟大征程”VR沉浸式体验项目",
@@ -799,7 +848,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中共一大纪念馆"
+    "source": "中共一大纪念馆",
+    "district": "黄浦区"
   },
   {
     "title": "海丝门户——文物里的清代广州",
@@ -815,7 +865,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzmuseum"
+    "source": "gzmuseum",
+    "district": "越秀区"
   },
   {
     "title": "海丝门户——文物里的清代广州",
@@ -831,7 +882,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州广播电视台（花城+）"
+    "source": "广州广播电视台（花城+）",
+    "district": "越秀区"
   },
   {
     "title": "PONG！张达利艺术展",
@@ -847,7 +899,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "moacup"
+    "source": "moacup",
+    "district": "福田区"
   },
   {
     "title": "从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -863,7 +916,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "namoc"
+    "source": "namoc",
+    "district": "东城区"
   },
   {
     "title": "霸王龙T-REX——恐龙之王特展",
@@ -879,7 +933,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆"
+    "source": "国家自然博物馆",
+    "district": "东城区"
   },
   {
     "title": "致敬巨匠：从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -895,7 +950,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国美术馆"
+    "source": "中国美术馆",
+    "district": "东城区"
   },
   {
     "title": "上海植物园国际新优展区",
@@ -911,7 +967,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海植物园"
+    "source": "上海植物园",
+    "district": "徐汇区"
   },
   {
     "title": "载文蕴艺——中国历代金石碑拓大展",
@@ -927,7 +984,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "“北海菊韵”传统插花雅集",
@@ -943,7 +1001,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北海公园"
+    "source": "北海公园",
+    "district": "西城区"
   },
   {
     "title": "一念敦煌——石窟艺术大展",
@@ -959,7 +1018,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzam"
+    "source": "gzam",
+    "district": "越秀区"
   },
   {
     "title": "一念敦煌——石窟艺术大展",
@@ -975,7 +1035,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文化和旅游厅"
+    "source": "广东省文化和旅游厅",
+    "district": "海珠区"
   },
   {
     "title": "印鉴西湖·西湖美学系列展",
@@ -991,7 +1052,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州网"
+    "source": "杭州网",
+    "district": "上城区"
   },
   {
     "title": "只有树知道",
@@ -1007,7 +1069,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "中国湿地博物馆科普艺术季·博物馆临时展览推介案例展",
@@ -1023,7 +1086,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻"
+    "source": "潮新闻",
+    "district": "西湖区"
   },
   {
     "title": "宝安城市规划展览馆志愿讲解活动",
@@ -1039,7 +1103,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-23224727",
     "family_friendly": true,
-    "source": "baoan_guihua"
+    "source": "baoan_guihua",
+    "district": "宝安区"
   },
   {
     "title": "“圳少年·有话说”——中学生脱口秀（第三季）线上海选",
@@ -1055,7 +1120,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "疆壤益广开郡县——战国秦汉时期的云南",
@@ -1071,7 +1137,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "追光逐影——银幕中的汽车主题展",
@@ -1087,7 +1154,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京汽车博物馆"
+    "source": "北京汽车博物馆",
+    "district": "丰台区"
   },
   {
     "title": "2026浙江省全民艺术季·文艺赋美",
@@ -1103,7 +1171,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省文化馆"
+    "source": "浙江省文化馆",
+    "district": "西湖区"
   },
   {
     "title": "来处与归途：三燕百年",
@@ -1119,7 +1188,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -1135,7 +1205,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "星河印迹——古代珠饰文化特展",
@@ -1151,7 +1222,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳珠宝博物馆官网"
+    "source": "深圳珠宝博物馆官网",
+    "district": "盐田区"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -1167,7 +1239,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都之窗"
+    "source": "首都之窗",
+    "district": "西城区"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯文明大展",
@@ -1183,7 +1256,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "“乾隆的审美”展",
@@ -1199,7 +1273,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京艺术博物馆（万寿寺）"
+    "source": "北京艺术博物馆（万寿寺）",
+    "district": "海淀区"
   },
   {
     "title": "运博20年·何以动人影像与故事展",
@@ -1215,7 +1290,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州网"
+    "source": "杭州网",
+    "district": "拱墅区"
   },
   {
     "title": "墨韵文脉——八大山人与17世纪以来中国写意艺术展",
@@ -1231,7 +1307,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "namoc"
+    "source": "namoc",
+    "district": "东城区"
   },
   {
     "title": "素心相映·邱瑞敏吴慧明艺术展",
@@ -1247,7 +1324,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中华艺术宫（上海美术馆）"
+    "source": "中华艺术宫（上海美术馆）",
+    "district": "浦东新区"
   },
   {
     "title": "狮舞岭南——醒狮文化专题展",
@@ -1263,7 +1341,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安区博物馆"
+    "source": "宝安区博物馆",
+    "district": "宝安区"
   },
   {
     "title": "“童画恭王府”——恭王府博物馆青少年美育成果展",
@@ -1279,7 +1358,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "恭王府博物馆"
+    "source": "恭王府博物馆",
+    "district": "西城区"
   },
   {
     "title": "心游万仞——蒲松龄与《聊斋志异》",
@@ -1295,7 +1375,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "薪火相传 稚笔生花——2026深圳美术馆少儿艺术展",
@@ -1311,7 +1392,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "看·见——中国国家博物馆藏海外中国图像展",
@@ -1327,7 +1409,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "龙华区生态文明建设成果展",
@@ -1343,7 +1426,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区政府官网"
+    "source": "龙华区政府官网",
+    "district": "龙华区"
   },
   {
     "title": "万物始兴·寒武纪化石展",
@@ -1359,7 +1443,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江自然博物院"
+    "source": "浙江自然博物院",
+    "district": "拱墅区"
   },
   {
     "title": "第47届“羊城之夏”青少年暑期系列活动",
@@ -1375,7 +1460,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州市政府门户"
+    "source": "广州市政府门户",
+    "district": "越秀区"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -1391,7 +1477,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "植物庞贝城——乌达二叠纪化石精品展",
@@ -1407,7 +1494,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网"
+    "source": "京报网",
+    "district": "东城区"
   },
   {
     "title": "行·迹——卡塔尔游牧生活与文化展",
@@ -1423,7 +1511,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "恐龙公园：龙口脱险",
@@ -1439,7 +1528,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆"
+    "source": "国家自然博物馆",
+    "district": "东城区"
   },
   {
     "title": "巴西魂——波尔蒂纳里艺术展",
@@ -1455,7 +1545,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -1471,7 +1562,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -1487,7 +1579,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "district": "南山区"
   },
   {
     "title": "穗地撷珍——广州市第四次全国文物普查成果展",
@@ -1503,7 +1596,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南汉二陵博物馆"
+    "source": "南汉二陵博物馆",
+    "district": "番禺区"
   },
   {
     "title": "穗地撷珍——广州市第四次全国文物普查成果展",
@@ -1519,7 +1613,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文化和旅游厅"
+    "source": "广东省文化和旅游厅",
+    "district": "黄埔区"
   },
   {
     "title": "建立新美术：20世纪上半叶粤港画坛的历史抉择",
@@ -1535,7 +1630,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "何香凝美术馆"
+    "source": "何香凝美术馆",
+    "district": "南山区"
   },
   {
     "title": "建立新美术——20世纪上半叶粤港画坛的历史抉择",
@@ -1551,7 +1647,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "hxngallery"
+    "source": "hxngallery",
+    "district": "南山区"
   },
   {
     "title": "探秘·国宝萌友——大熊猫特展",
@@ -1567,7 +1664,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-88651616",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "南头古城微型展——古城记忆",
@@ -1583,7 +1681,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "吉金耀山川——鄂尔多斯青铜文化展",
@@ -1599,7 +1698,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "bjmuseum"
+    "source": "bjmuseum",
+    "district": "通州区"
   },
   {
     "title": "你好海洋——MR沉浸式海洋科普展",
@@ -1615,7 +1715,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆"
+    "source": "龙岗区博物馆",
+    "district": "龙岗区"
   },
   {
     "title": "墨彩童年——王明明、方楚雄儿童画作品特展",
@@ -1631,7 +1732,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "墨彩童年——王明明方楚雄儿童画作品特展",
@@ -1647,7 +1749,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆官网"
+    "source": "深圳美术馆官网",
+    "district": "福田区"
   },
   {
     "title": "乔治·莫兰迪：独白",
@@ -1663,7 +1766,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浦东美术馆"
+    "source": "浦东美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区10周年夏日狂欢",
@@ -1679,7 +1783,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼度假区"
+    "source": "上海迪士尼度假区",
+    "district": "浦东新区"
   },
   {
     "title": "2026光明街道迳口社区笔墨光影-迳口古村书法摄影展",
@@ -1695,7 +1800,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "迳口社区综合性文化服务中心"
+    "source": "迳口社区综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "深圳世界之窗·WoW潮音嘉年华+啤酒节",
@@ -1711,7 +1817,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳世界之窗"
+    "source": "深圳世界之窗",
+    "district": "南山区"
   },
   {
     "title": "国门守护·丹青传承——深圳海关查获近现代书画文物珍品特展",
@@ -1727,7 +1834,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "深情托付——深圳美术馆新馆捐赠作品展",
@@ -1743,7 +1851,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "夏天的五感：潮汐渔物展览",
@@ -1759,7 +1868,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "且陶陶·乐尽天真·民间玩具展览",
@@ -1775,7 +1885,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "闻香识云南·气味微观展",
@@ -1791,7 +1902,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "深圳世界之窗·WoW狂欢节+啤酒节",
@@ -1807,7 +1919,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳世界之窗"
+    "source": "深圳世界之窗",
+    "district": "南山区"
   },
   {
     "title": "国门守护·丹青传承——深圳海关缉私局查获近现代书画文物珍品特展",
@@ -1823,7 +1936,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "世界之窗2026“夏日狂欢季——23°HI啤一夏”（第31届啤酒节）",
@@ -1839,7 +1953,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳世界之窗"
+    "source": "深圳世界之窗",
+    "district": "南山区"
   },
   {
     "title": "别开新径——春睡同人艺术研究展",
@@ -1855,7 +1970,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gsyart"
+    "source": "gsyart",
+    "district": "福田区"
   },
   {
     "title": "国宝萌友展",
@@ -1871,7 +1987,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "笔墨同心·林墉、苏华作品展",
@@ -1887,7 +2004,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "district": "南山区"
   },
   {
     "title": "青州微笑——中国古青州佛造像艺术展",
@@ -1903,7 +2021,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzam"
+    "source": "gzam",
+    "district": "越秀区"
   },
   {
     "title": "深圳人才发展成果展",
@@ -1919,7 +2038,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深爱人才馆"
+    "source": "深爱人才馆",
+    "district": "南山区"
   },
   {
     "title": "南头古城非遗文化体验展",
@@ -1935,7 +2055,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "青州微笑——中国古青州佛造像艺术展",
@@ -1951,7 +2072,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文化和旅游厅"
+    "source": "广东省文化和旅游厅",
+    "district": "海珠区"
   },
   {
     "title": "第十九届“良辰美景·恭王府非遗演出季”",
@@ -1967,7 +2089,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "恭王府博物馆"
+    "source": "恭王府博物馆",
+    "district": "西城区"
   },
   {
     "title": "龙华区青少年宫青年夜校",
@@ -1983,7 +2106,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "district": "龙华区"
   },
   {
     "title": "道登天门——萧娴书法艺术展",
@@ -1999,7 +2123,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -2015,7 +2140,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻"
+    "source": "潮新闻",
+    "district": "上城区"
   },
   {
     "title": "科好玩了——2026上海科技馆暑假营",
@@ -2031,7 +2157,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "叩石问印·浦东篆刻会十周年特展",
@@ -2047,7 +2174,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "西泠印社"
+    "source": "西泠印社",
+    "district": "西湖区"
   },
   {
     "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
@@ -2063,7 +2191,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文旅局"
+    "source": "杭州市文旅局",
+    "district": "拱墅区"
   },
   {
     "title": "广东科学中心巨幕影院科普电影《四渡》",
@@ -2079,7 +2208,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心"
+    "source": "广东科学中心",
+    "district": "番禺区"
   },
   {
     "title": "湾区之眼2026暑期嗨学季",
@@ -2095,7 +2225,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "district": "宝安区"
   },
   {
     "title": "福尔摩斯大型沉浸式主题展",
@@ -2111,7 +2242,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "district": "宝安区"
   },
   {
     "title": "湾区绿茵嘉年华+世界杯直播",
@@ -2127,7 +2259,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "district": "宝安区"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -2143,7 +2276,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆"
+    "source": "上海科技馆",
+    "district": "浦东新区"
   },
   {
     "title": "书房中的文艺复兴——10至17世纪的西方抄写、印刷与装帧艺术特展",
@@ -2159,7 +2293,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海图书馆"
+    "source": "上海图书馆",
+    "district": "徐汇区"
   },
   {
     "title": "让·努维尔：建筑在不朽中消失",
@@ -2175,7 +2310,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浦东美术馆"
+    "source": "浦东美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "深度自然——2026广东美术馆儿童公共艺术季",
@@ -2191,7 +2327,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "gdartmuseum"
+    "source": "gdartmuseum",
+    "district": "越秀区"
   },
   {
     "title": "星火启程——从农讲所到天安门",
@@ -2207,7 +2344,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "农讲所纪念馆"
+    "source": "农讲所纪念馆",
+    "district": "越秀区"
   },
   {
     "title": "深圳博物馆2026暑假狂欢（延时开放+多彩活动）",
@@ -2223,7 +2361,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆"
+    "source": "深圳博物馆",
+    "district": "福田区"
   },
   {
     "title": "花染风华 共叙文脉——天坛双展迎盛夏",
@@ -2239,7 +2378,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京市公园管理中心"
+    "source": "北京市公园管理中心",
+    "district": "东城区"
   },
   {
     "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”水粉画巡展",
@@ -2255,7 +2395,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "龙岗区文化馆吉华街道中海怡翠社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -2271,7 +2412,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "吉华街道文化站"
+    "source": "吉华街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）",
@@ -2287,7 +2429,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "公明街道 “活力专场  舞动青春”文化活动暨文化馆总分馆联动活动",
@@ -2303,7 +2446,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区公明街道综合性文化服务中心"
+    "source": "光明区公明街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区7月艺术微展厅钩织展",
@@ -2319,7 +2463,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆六约北社区服务点饶常明速写展（一）",
@@ -2335,7 +2480,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "横岗街道文化站"
+    "source": "横岗街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"山水风景水彩画巡展",
@@ -2351,7 +2497,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "笔墨颂党恩・奋进新征程 —— 庆祝建党 105 周年主题书画展",
@@ -2367,7 +2514,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园岭街道综合性文化服务中心"
+    "source": "园岭街道综合性文化服务中心",
+    "district": "福田区"
   },
   {
     "title": "公明街道“军鼓与戏曲的邂逅，邀您同行，共赴艺术盛宴”",
@@ -2383,7 +2531,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明区公明街道综合性文化服务中心"
+    "source": "光明区公明街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展",
@@ -2399,7 +2548,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展",
@@ -2415,7 +2565,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "吉华街道文化站"
+    "source": "吉华街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026年龙岗区“艺术微展厅”吉华街道分馆摄影展览——城市棱镜",
@@ -2431,7 +2582,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "吉华街道文化站"
+    "source": "吉华街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展",
@@ -2447,7 +2599,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你 共赏龙城”街景速写巡展",
@@ -2463,7 +2616,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
@@ -2479,7 +2633,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明区公明街道综合性文化服务中心"
+    "source": "光明区公明街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -2495,7 +2650,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -2511,7 +2667,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "一平米实验室",
@@ -2527,7 +2684,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -2543,7 +2701,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -2559,7 +2718,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆"
+    "source": "龙岗区博物馆",
+    "district": "龙岗区"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -2575,7 +2735,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -2591,7 +2752,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "district": "福田区"
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -2607,7 +2769,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -2623,7 +2786,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -2639,7 +2803,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
   },
   {
     "title": "红星闪闪耀童心——线上答题活动",
@@ -2655,7 +2820,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "district": "福田区"
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -2671,7 +2837,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "district": "福田区"
   },
   {
     "title": "且陶陶，乐尽天真——中国民间玩具展",
@@ -2687,7 +2854,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "南头古城「源野集」创意市集",
@@ -2703,7 +2871,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "华侨城湿地公园日常开放",
@@ -2719,7 +2888,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "华侨城湿地"
+    "source": "华侨城湿地",
+    "district": "南山区"
   },
   {
     "title": "寻迹华夏——中华文明溯源图片展",
@@ -2735,7 +2905,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "宝安科技馆4D动感影院与球幕影院",
@@ -2751,7 +2922,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "欢乐港湾FIFA世界杯主题夜游",
@@ -2767,7 +2939,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_binhai_park"
+    "source": "baoan_binhai_park",
+    "district": "宝安区"
   },
   {
     "title": "宠·爱——猫猫狗狗的世界",
@@ -2783,7 +2956,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "《海洋奇缘：启航》迪士尼电影主题展",
@@ -2799,7 +2973,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "district": "南山区"
   },
   {
     "title": "深圳图书馆第十二届'暑期缤纷季'——近300场阅读活动",
@@ -2815,7 +2990,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "深圳图书馆党史长征主题文献展",
@@ -2831,7 +3007,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "第六届\"馆长少年\"暑期成长计划",
@@ -2847,7 +3024,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "7月文博工坊·环保点翠发簪手作活动",
@@ -2863,7 +3041,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "暑期主题科学实验秀（五大主题轮换）",
@@ -2879,7 +3058,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "第十一届深圳摄影作品年度展（宝安巡展）",
@@ -2895,7 +3075,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "宝安非遗手绘展",
@@ -2911,7 +3092,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "\"城市代言\"公益定时讲解",
@@ -2927,7 +3109,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "大潮起珠江——广东改革开放40周年展览",
@@ -2943,7 +3126,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "moacup"
+    "source": "moacup",
+    "district": "福田区"
   },
   {
     "title": "文艺复兴的交响——格拉斯哥博物馆藏大师作品展",
@@ -2959,7 +3143,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gdmuseum"
+    "source": "gdmuseum",
+    "district": "天河区"
   },
   {
     "title": "由来是广州——广州建城2240年暨得名1800年文物精品展",
@@ -2975,7 +3160,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzam"
+    "source": "gzam",
+    "district": "越秀区"
   },
   {
     "title": "天地星语——中国诗文里的天文",
@@ -2991,7 +3177,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "shanghai-astronomy"
+    "source": "shanghai-astronomy",
+    "district": "浦东新区"
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -3007,7 +3194,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "haichang"
+    "source": "haichang",
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园开园一周年暑期活动",
@@ -3023,7 +3211,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "legoland"
+    "source": "legoland",
+    "district": "金山区"
   },
   {
     "title": "珠归海上：庄万里家族捐赠两塗轩书画展（第二期）",
@@ -3039,7 +3228,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "暂得之乐：暂得楼捐赠明清瓷器展",
@@ -3055,7 +3245,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "深圳科学技术馆暑期延时开放",
@@ -3071,7 +3262,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-88651616",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "南山安全教育体验馆暑期安全体验活动",
@@ -3087,7 +3279,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-26738119",
     "family_friendly": true,
-    "source": "南山安全教育体验馆"
+    "source": "南山安全教育体验馆",
+    "district": "南山区"
   },
   {
     "title": "南山书房暑期阅读季——好书分享会",
@@ -3103,7 +3296,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山书房"
+    "source": "南山书房",
+    "district": "南山区"
   },
   {
     "title": "深圳市安全教育基地暑期安全教育活动",
@@ -3119,7 +3313,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市安全教育基地"
+    "source": "深圳市安全教育基地",
+    "district": "福田区"
   },
   {
     "title": "龙岗区文化馆MR海洋科普互动展",
@@ -3135,7 +3330,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区文化馆"
+    "source": "龙岗区文化馆",
+    "district": "龙岗区"
   },
   {
     "title": "2026经典绘本奇遇展——跳进故事海",
@@ -3151,7 +3347,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆"
+    "source": "龙岗区图书馆",
+    "district": "龙岗区"
   },
   {
     "title": "龙岗图书馆少儿馆经典阅读季·书海奇遇",
@@ -3167,7 +3364,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆"
+    "source": "龙岗区图书馆",
+    "district": "龙岗区"
   },
   {
     "title": "第九届海洋奇妙夜",
@@ -3183,7 +3381,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "盐田区图书馆"
+    "source": "盐田区图书馆",
+    "district": "盐田区"
   },
   {
     "title": "光影日播客——燃动盛夏好戏连台电影主题放映周",
@@ -3199,7 +3398,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "盐田区图书馆"
+    "source": "盐田区图书馆",
+    "district": "盐田区"
   },
   {
     "title": "T街创意市集",
@@ -3215,7 +3415,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "华侨城创意文化园"
+    "source": "华侨城创意文化园",
+    "district": "南山区"
   },
   {
     "title": "中英街历史博物馆AR实景剧本体验",
@@ -3231,7 +3432,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "中英街历史博物馆"
+    "source": "中英街历史博物馆",
+    "district": "盐田区"
   },
   {
     "title": "大亚湾核能科技馆华龙一号科普展",
@@ -3247,7 +3449,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "大亚湾核能科技馆"
+    "source": "大亚湾核能科技馆",
+    "district": "大鹏新区"
   },
   {
     "title": "文艺复兴的交响：格拉斯哥博物馆藏大师作品展",
@@ -3263,7 +3466,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "天河区"
   },
   {
     "title": "肠道小宇宙——肠道的奇妙冒险互动体验科学展",
@@ -3279,7 +3483,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方网"
+    "source": "南方网",
+    "district": "番禺区"
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -3295,7 +3500,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网"
+    "source": "人民网",
+    "district": "静安区"
   },
   {
     "title": "哦吼！火星——火星探测与未来生活体验展",
@@ -3311,7 +3517,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆官网"
+    "source": "北京天文馆官网",
+    "district": "西城区"
   },
   {
     "title": "奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动",
@@ -3327,7 +3534,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "新华网"
+    "source": "新华网",
+    "district": "通州区"
   },
   {
     "title": "太平年·天下同宁——交互艺术大展",
@@ -3343,7 +3551,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -3359,7 +3568,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省科技馆"
+    "source": "浙江省科技馆",
+    "district": "拱墅区"
   },
   {
     "title": "广州图书馆暑期系列活动",
@@ -3375,7 +3585,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "天河区"
   },
   {
     "title": "广州青少年科技馆暑期互动体验",
@@ -3391,7 +3602,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "越秀区"
   },
   {
     "title": "广州地铁博物馆暑期体验",
@@ -3407,7 +3619,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "海珠区"
   },
   {
     "title": "广州市文化馆新馆暑期文化体验",
@@ -3423,7 +3636,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "海珠区"
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -3439,7 +3653,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -3455,7 +3670,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "静安区"
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -3471,7 +3687,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "黄浦区"
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -3487,7 +3704,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "徐汇区"
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -3503,7 +3721,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -3519,7 +3738,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "北京天文馆暑期夜场",
@@ -3535,7 +3755,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆"
+    "source": "北京天文馆",
+    "district": "西城区"
   },
   {
     "title": "中国妇女儿童博物馆暑期展览",
@@ -3551,7 +3772,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "district": "东城区"
   },
   {
     "title": "中国消防博物馆暑期安全教育",
@@ -3567,7 +3789,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "朝阳区"
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -3583,7 +3806,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "西城区"
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -3599,7 +3823,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "丰台区"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -3615,7 +3840,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都图书馆"
+    "source": "首都图书馆",
+    "district": "通州区"
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -3631,7 +3857,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "district": "海淀区"
   },
   {
     "title": "广州博物馆暑期十大主题研学活动",
@@ -3647,7 +3874,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆"
+    "source": "广州博物馆",
+    "district": "越秀区"
   },
   {
     "title": "广东省博物馆暑期延时开放",
@@ -3663,7 +3891,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆"
+    "source": "广东省博物馆",
+    "district": "天河区"
   },
   {
     "title": "广州动物园暑期研学活动",
@@ -3679,7 +3908,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园"
+    "source": "广州动物园",
+    "district": "越秀区"
   },
   {
     "title": "广州海洋馆暑期活动",
@@ -3695,7 +3925,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆"
+    "source": "广州海洋馆",
+    "district": "越秀区"
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -3711,7 +3942,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "上海天文馆暑期活动",
@@ -3727,7 +3959,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆"
+    "source": "上海天文馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -3743,7 +3976,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆"
+    "source": "上海海洋水族馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -3759,7 +3993,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园"
+    "source": "上海迪士尼乐园",
+    "district": "浦东新区"
   },
   {
     "title": "北京海洋馆智慧海洋·生存大师季",
@@ -3775,7 +4010,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京海洋馆"
+    "source": "北京海洋馆",
+    "district": "西城区"
   },
   {
     "title": "中国国家博物馆暑期展览",
@@ -3791,7 +4027,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "北京动物园暑期活动",
@@ -3807,7 +4044,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京动物园"
+    "source": "北京动物园",
+    "district": "西城区"
   },
   {
     "title": "天坛公园暑期亲子研学",
@@ -3823,7 +4061,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "天坛公园"
+    "source": "天坛公园",
+    "district": "东城区"
   },
   {
     "title": "颐和园暑期活动",
@@ -3839,7 +4078,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "颐和园"
+    "source": "颐和园",
+    "district": "海淀区"
   },
   {
     "title": "圆明园考古·少年行",
@@ -3855,7 +4095,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明园"
+    "source": "圆明园",
+    "district": "海淀区"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -3871,7 +4112,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -3887,7 +4129,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆"
+    "source": "国家自然博物馆",
+    "district": "东城区"
   },
   {
     "title": "首都博物馆暑期展览",
@@ -3903,7 +4146,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "北京环球度假区暑期活动",
@@ -3919,7 +4163,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京环球度假区"
+    "source": "北京环球度假区",
+    "district": "通州区"
   },
   {
     "title": "北京欢乐谷暑期活动",
@@ -3935,7 +4180,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京欢乐谷"
+    "source": "北京欢乐谷",
+    "district": "朝阳区"
   },
   {
     "title": "《海洋奇旅：起航》迪士尼电影主题展",
@@ -3951,7 +4197,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "district": "南山区"
   },
   {
     "title": "北京自然博物馆恐龙探秘之旅",
@@ -3967,7 +4214,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "北京动物园熊猫科学探秘",
@@ -3983,7 +4231,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "上海迪士尼夏日狂欢节",
@@ -3999,7 +4248,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "上海海洋水族馆暑期探险",
@@ -4015,7 +4265,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "广东科学中心科学嘉年华",
@@ -4031,7 +4282,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "番禺区"
   },
   {
     "title": "广州图书馆暑期阅读嘉年华",
@@ -4047,7 +4299,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "天河区"
   },
   {
     "title": "杭州科技馆暑期科学营",
@@ -4063,7 +4316,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "拱墅区"
   },
   {
     "title": "杭州图书馆亲子阅读季",
@@ -4079,7 +4333,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "上城区"
   },
   {
     "title": "杭州动物园熊猫主题日",
@@ -4095,7 +4350,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "AI科学工坊",
@@ -4111,7 +4367,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "拱墅区"
   },
   {
     "title": "重逢之约主题展",
@@ -4127,7 +4384,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "拱墅区"
   },
   {
     "title": "手工艺体验",
@@ -4143,7 +4401,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "拱墅区"
   },
   {
     "title": "茶文化研学",
@@ -4159,7 +4418,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "夜观昆虫自然活动",
@@ -4175,7 +4435,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "自然导览课程",
@@ -4191,7 +4452,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "鄂尔多斯青铜器展",
@@ -4207,7 +4469,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "国图讲坛2026年“非遗讲座月”",
@@ -4223,7 +4486,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "district": "海淀区"
   },
   {
     "title": "“奇趣书海 夏梦成荫”首都图书馆2026暑期系列文化活动",
@@ -4239,7 +4503,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都图书馆"
+    "source": "首都图书馆",
+    "district": "通州区"
   },
   {
     "title": "2026国家大剧院国际戏剧季",
@@ -4255,7 +4520,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "国家大剧院"
+    "source": "国家大剧院",
+    "district": "西城区"
   },
   {
     "title": "由来是广州——广州建城2240年暨得名1800年文物精品展",
@@ -4271,7 +4537,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文化和旅游厅"
+    "source": "广东省文化和旅游厅",
+    "district": "海珠区"
   },
   {
     "title": "肠道小宇宙——肠道的奇妙冒险互动科学展",
@@ -4287,7 +4554,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心"
+    "source": "广东科学中心",
+    "district": "番禺区"
   },
   {
     "title": "悦读童行——广州图书馆儿童与青少年阅读攀登计划",
@@ -4303,7 +4571,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州图书馆"
+    "source": "广州图书馆",
+    "district": "天河区"
   },
   {
     "title": "华南国家植物园夏日萤火虫夜观与自然观察",
@@ -4319,7 +4588,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "百度百家号（广州科普Citywalk）"
+    "source": "百度百家号（广州科普Citywalk）",
+    "district": "天河区"
   },
   {
     "title": "奇幻亲子音乐剧《绿野仙踪》暑期档",
@@ -4335,7 +4605,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "新瑞金票"
+    "source": "新瑞金票",
+    "district": "天河区"
   },
   {
     "title": "长隆野生动物世界“全球动物科普嘉年华”暑期活动",
@@ -4351,7 +4622,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "长隆官方"
+    "source": "长隆官方",
+    "district": "番禺区"
   },
   {
     "title": "岭南曲艺大舞台——2026广州市文化馆公益惠民系列活动",
@@ -4367,7 +4639,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州市文化广电旅游局"
+    "source": "广州市文化广电旅游局",
+    "district": "海珠区"
   },
   {
     "title": "正佳极地海洋世界暑期海洋科普展演",
@@ -4383,7 +4656,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "正佳极地海洋世界"
+    "source": "正佳极地海洋世界",
+    "district": "天河区"
   },
   {
     "title": "广州少年儿童图书馆2026年7月活动月历",
@@ -4399,7 +4673,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州少年儿童图书馆"
+    "source": "广州少年儿童图书馆",
+    "district": "越秀区"
   },
   {
     "title": "杭州青少年活动中心2026夏令营·少年长成营",
@@ -4415,7 +4690,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州青少年活动中心"
+    "source": "杭州青少年活动中心",
+    "district": "西湖区"
   },
   {
     "title": "浙江省科技馆2026夏令营·科技馆科学院",
@@ -4431,7 +4707,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省科技馆"
+    "source": "浙江省科技馆",
+    "district": "拱墅区"
   },
   {
     "title": "浙江自然博物院2026暑期科普之旅（线上预约开放）",
@@ -4447,7 +4724,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江自然博物院（官方微信公众号）"
+    "source": "浙江自然博物院（官方微信公众号）",
+    "district": "拱墅区"
   },
   {
     "title": "书之奇遇：艺术家手作书（PSA等等图书馆特别项目）",
@@ -4463,7 +4741,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海当代艺术博物馆"
+    "source": "上海当代艺术博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海动物园暑期动物主题科普活动",
@@ -4479,7 +4758,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "深圳欢乐谷2026暑期玛雅水公园暨夏浪音乐节",
@@ -4495,7 +4775,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳欢乐谷"
+    "source": "深圳欢乐谷",
+    "district": "南山区"
   },
   {
     "title": "深圳市青少年活动中心2026暑期公益课（舞蹈等）",
@@ -4511,7 +4792,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心"
+    "source": "深圳市青少年活动中心",
+    "district": "福田区"
   },
   {
     "title": "每日绘本故事会",
@@ -4527,7 +4809,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "科学实验秀与航天互动展",
@@ -4543,7 +4826,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "光明区"
   },
   {
     "title": "文物亲子导览与节气拓印",
@@ -4559,7 +4843,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "周末亲子手作与免费少儿观影",
@@ -4575,7 +4860,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "免费美术舞蹈编程公益课",
@@ -4591,7 +4877,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "亲子趣味运动会与少儿篮球体验",
@@ -4607,7 +4894,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "周末露天公益音乐会与亲子市集",
@@ -4623,7 +4911,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "湿地自然科普与观鸟亲子课堂",
@@ -4639,7 +4928,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "无动力滑梯绳网乐园与公益手工",
@@ -4655,7 +4945,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "儿童科学乐园与航天科普实验",
@@ -4671,7 +4962,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "文物拓印DIY与古代历史亲子寻宝",
@@ -4687,7 +4979,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "非遗剪纸皮影手工与少儿合唱公益课",
@@ -4703,7 +4996,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "星空穹顶科普课与陨石标本观察",
@@ -4719,7 +5013,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "低龄绘本共读与暑期自然研学",
@@ -4735,7 +5030,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "工业风户外儿童乐园与非遗亲子市集",
@@ -4751,7 +5047,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "石景山区"
   },
   {
     "title": "四季植物科普与鸟类观察公益课",
@@ -4767,7 +5064,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "大运河文化公益展与非遗手工体验",
@@ -4783,7 +5081,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "分龄绘本馆与艺术亲子公益课",
@@ -4799,7 +5098,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "机器人世界互动与水力搭建手工",
@@ -4815,7 +5115,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "非遗手作市集与少儿国风绘画",
@@ -4831,7 +5132,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "周末亲子读书会与自然写生",
@@ -4847,7 +5149,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "屋顶免费儿童乐园与儿童艺术公益展",
@@ -4863,7 +5166,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "流动艺术科普展与户外攀爬场地",
@@ -4879,7 +5183,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "复古里弄免费打卡与少儿国风公益展",
@@ -4895,7 +5200,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "虹口区"
   },
   {
     "title": "广府民俗手工与低龄绘本故事会",
@@ -4911,7 +5217,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "越秀区"
   },
   {
     "title": "岭南文物亲子导览与广彩剪纸非遗体验",
@@ -4927,7 +5234,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "天河区"
   },
   {
     "title": "免费少儿艺术培训与非遗市集",
@@ -4943,7 +5251,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海珠区"
   },
   {
     "title": "机器人创客与数学嘉年华",
@@ -4959,7 +5268,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "越秀区"
   },
   {
     "title": "岭南民俗免费展览与周末剪纸广彩公益体验",
@@ -4975,7 +5285,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "荔湾区"
   },
   {
     "title": "江边非遗亲子市集与少儿写生公益活动",
@@ -4991,7 +5302,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海珠区"
   },
   {
     "title": "沙滩乐园与戏水区域及消防科普体验",
@@ -5007,7 +5319,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "白云区"
   },
   {
     "title": "3岁爬爬区与绘本故事会",
@@ -5023,7 +5336,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "阅读沙龙与科普讲座",
@@ -5039,7 +5353,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "节气手作与海洋读书会",
@@ -5055,7 +5370,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "周末亲子手作与阅读公益营",
@@ -5071,7 +5387,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "分龄绘本共读与编程公益体验",
@@ -5087,7 +5404,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "非遗手工与诗词课堂",
@@ -5103,7 +5421,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "罗湖区"
   },
   {
     "title": "亲子阅读与客家民俗研学",
@@ -5119,7 +5438,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "海洋科普与海边亲子读书会",
@@ -5135,7 +5455,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "盐田区"
   },
   {
     "title": "自然观察与植物手工",
@@ -5151,7 +5472,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "光明区"
   },
   {
     "title": "少儿美育与红色研学",
@@ -5167,7 +5489,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "坪山区"
   },
   {
     "title": "地质科普与渔村文化课",
@@ -5183,7 +5506,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大鹏新区"
   },
   {
     "title": "文物亲子导览与拓印DIY",
@@ -5199,7 +5523,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "古书画临摹与青铜器手工",
@@ -5215,7 +5540,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "文物科普与少儿绘画展",
@@ -5231,7 +5557,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "宝安历史展与陶艺体验",
@@ -5247,7 +5574,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "客家农耕手工与古民居导览",
@@ -5263,7 +5591,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "红色研学与革命故事课堂",
@@ -5279,7 +5608,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "红色亲子研学与历史情景剧",
@@ -5295,7 +5625,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "坪山区"
   },
   {
     "title": "海防文化与古城寻宝",
@@ -5311,7 +5642,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大鹏新区"
   },
   {
     "title": "版画体验DIY与美术公益展",
@@ -5327,7 +5659,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "自然观察与动植物标本手工",
@@ -5343,7 +5676,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "坪山区"
   },
   {
     "title": "地质科普与地质实验",
@@ -5359,7 +5693,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大鹏新区"
   },
   {
     "title": "中草药辨识与中药香囊DIY",
@@ -5375,7 +5710,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "城市手绘与湾区科普",
@@ -5391,7 +5727,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "建筑手工与少儿设计展",
@@ -5407,7 +5744,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "科学实验秀与航天互动",
@@ -5423,7 +5761,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "光明区"
   },
   {
     "title": "水科学与逻辑思维实验",
@@ -5439,7 +5778,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "物理实验与光影实验",
@@ -5455,7 +5795,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "工业科创与VR科普",
@@ -5471,7 +5812,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "海洋科技与航海模型手工",
@@ -5487,7 +5829,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "盐田区"
   },
   {
     "title": "AI科普与太空主题课堂",
@@ -5503,7 +5846,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "免费美术编程舞蹈公益课",
@@ -5519,7 +5863,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "非遗手工与少儿文艺汇演",
@@ -5535,7 +5880,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "体育艺术免费体验课",
@@ -5551,7 +5897,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "乐器体验与户外自然课堂",
@@ -5567,7 +5914,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "绘画科创轮滑公益课",
@@ -5583,7 +5931,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "亲子趣味运动会与球类免费体验",
@@ -5599,7 +5948,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "少儿足球羽毛球公益课堂",
@@ -5615,7 +5965,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "公益舞台剧与亲子瑜伽",
@@ -5631,7 +5982,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "骑行与户外体能公益课",
@@ -5647,7 +5999,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "少儿田径与国风文艺活动",
@@ -5663,7 +6016,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "消防交通安全模拟体验",
@@ -5679,7 +6033,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "露天音乐会与亲子市集",
@@ -5695,7 +6050,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "湿地观鸟与海边写生",
@@ -5711,7 +6067,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "无动力乐园与植物研学",
@@ -5727,7 +6084,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "星空沙池与机器人滑梯",
@@ -5743,7 +6101,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "光明区"
   },
   {
     "title": "草坪露营与江景写生",
@@ -5759,7 +6118,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "环湖徒步与自然观察",
@@ -5775,7 +6135,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "河流科普与植物手工",
@@ -5791,7 +6152,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "免费艺术展与亲子写生",
@@ -5807,7 +6169,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "蚂蚁滑梯与细沙沙池",
@@ -5823,7 +6186,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "湖泊生态科普与露营野餐",
@@ -5839,7 +6203,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝安区"
   },
   {
     "title": "河道自然研学与户外亲子游戏",
@@ -5855,7 +6220,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "光明区"
   },
   {
     "title": "草坪游乐与绘本户外共读",
@@ -5871,7 +6237,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "风筝广场与植物科普",
@@ -5887,7 +6254,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "福田区"
   },
   {
     "title": "荷花科普与湖边沙池",
@@ -5903,7 +6271,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "罗湖区"
   },
   {
     "title": "观鸟课堂与沙滩玩耍",
@@ -5919,7 +6288,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "免费轮滑场地与亲子运动市集",
@@ -5935,7 +6305,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "客家非遗免费展与亲子拓印",
@@ -5951,7 +6322,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙岗区"
   },
   {
     "title": "森林徒步与自然植物观察",
@@ -5967,7 +6339,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "光明区"
   },
   {
     "title": "儿童游乐区与国学诵读",
@@ -5983,7 +6356,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "坪山区"
   },
   {
     "title": "环湖步道与无动力乐园",
@@ -5999,7 +6373,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "坪山区"
   },
   {
     "title": "海洋科普与沙滩亲子游戏",
@@ -6015,7 +6390,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大鹏新区"
   },
   {
     "title": "山林徒步与昆虫观察公益课",
@@ -6031,7 +6407,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大鹏新区"
   },
   {
     "title": "滨江沙池与自然科普",
@@ -6047,7 +6424,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "盐田区"
   },
   {
     "title": "山林徒步与植物辨识",
@@ -6063,7 +6441,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "罗湖区"
   },
   {
     "title": "湿地鸟类科普与自然手工",
@@ -6079,7 +6458,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "超大草坪与周末公益市集",
@@ -6095,7 +6475,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "龙华区"
   },
   {
     "title": "阅读绘本与暑期研学",
@@ -6111,7 +6492,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "绘本共读与诗词手工",
@@ -6127,7 +6509,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "亲子阅读与少儿书画",
@@ -6143,7 +6526,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "亲子阅读与自然研学",
@@ -6159,7 +6543,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "科学工坊与外文绘本",
@@ -6175,7 +6560,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海淀区"
   },
   {
     "title": "节气手工与亲子观影",
@@ -6191,7 +6577,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "丰台区"
   },
   {
     "title": "工业科普与绘本剧",
@@ -6207,7 +6594,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "石景山区"
   },
   {
     "title": "大运河文化与亲子风筝手工",
@@ -6223,7 +6611,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "文物拓印与历史寻宝",
@@ -6239,7 +6628,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "儿童科学乐园与航天实验",
@@ -6255,7 +6645,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "北京手工与文物临摹",
@@ -6271,7 +6662,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "古生物标本与化石DIY",
@@ -6287,7 +6679,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "星空穹顶与陨石观察",
@@ -6303,7 +6696,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "考古探秘与文物修复体验",
@@ -6319,7 +6713,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "儿童乐园与绘本故事会",
@@ -6335,7 +6730,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "力学装置与科创实验",
@@ -6351,7 +6747,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "园林科普与植物手工",
@@ -6367,7 +6764,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "丰台区"
   },
   {
     "title": "古建模型与斗拱手工",
@@ -6383,7 +6781,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "矿石标本与地质科普",
@@ -6399,7 +6798,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "汽车模型手工与机械科普",
@@ -6415,7 +6815,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "丰台区"
   },
   {
     "title": "城市手绘与北京历史导览",
@@ -6431,7 +6832,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "消防模拟与逃生演练",
@@ -6447,7 +6849,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "免费美术舞蹈科创公益课",
@@ -6463,7 +6866,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "非遗与户外研学",
@@ -6479,7 +6883,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "绘画乐器体能免费体验",
@@ -6495,7 +6900,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "编程机器人国风手工",
@@ -6511,7 +6917,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海淀区"
   },
   {
     "title": "自然科普与陶艺",
@@ -6527,7 +6934,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "丰台区"
   },
   {
     "title": "大运河研学与风筝手工",
@@ -6543,7 +6951,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "皮影与剪纸",
@@ -6559,7 +6968,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "非遗市集与国风绘画",
@@ -6575,7 +6985,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "街头艺术与手工市集",
@@ -6591,7 +7002,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "非遗活动与免费艺术培训",
@@ -6607,7 +7019,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "亲子球类与体能公益课",
@@ -6623,7 +7036,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "轮滑与乒乓球免费体验",
@@ -6639,7 +7053,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海淀区"
   },
   {
     "title": "滨河亲子运动与户外健身课堂",
@@ -6655,7 +7070,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "儿童活动区与绘本公益课",
@@ -6671,7 +7087,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "工业儿童乐园与非遗市集",
@@ -6687,7 +7104,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "石景山区"
   },
   {
     "title": "四季植物课与观鸟",
@@ -6703,7 +7121,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "大运河展览与风筝",
@@ -6719,7 +7138,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "超大草坪与森林徒步",
@@ -6735,7 +7155,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "免费球场与儿童沙坑",
@@ -6751,7 +7172,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "昌平区"
   },
   {
     "title": "草坪露营与节气市集",
@@ -6767,7 +7189,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "儿童艺术展与亲子手作",
@@ -6783,7 +7206,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "河边写生与亲子骑行",
@@ -6799,7 +7223,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "山林徒步与湿地科普",
@@ -6815,7 +7240,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "石景山区"
   },
   {
     "title": "麋鹿科普与环湖步道",
@@ -6831,7 +7257,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大兴区"
   },
   {
     "title": "湖泊生态课与风筝",
@@ -6847,7 +7274,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大兴区"
   },
   {
     "title": "森林研学与无动力乐园",
@@ -6863,7 +7291,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "河道科普与沙池",
@@ -6879,7 +7308,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "昌平区"
   },
   {
     "title": "儿童游乐区与花海写生",
@@ -6895,7 +7325,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "湿地鸟类观察与植物手工",
@@ -6911,7 +7342,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "春日植物科普与湖边写生",
@@ -6927,7 +7359,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海淀区"
   },
   {
     "title": "竹文化科普与划船",
@@ -6943,7 +7376,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "海淀区"
   },
   {
     "title": "运河历史科普与湖边游乐区",
@@ -6959,7 +7393,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "通州区"
   },
   {
     "title": "河滩沙池与自然研学",
@@ -6975,7 +7410,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "石景山区"
   },
   {
     "title": "森林骑行与昆虫观察",
@@ -6991,7 +7427,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大兴区"
   },
   {
     "title": "草坪游乐与户外亲子运动会",
@@ -7007,7 +7444,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "大兴区"
   },
   {
     "title": "森林徒步与风筝活动",
@@ -7023,7 +7461,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "河滩玩水与观鸟",
@@ -7039,7 +7478,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "顺义区"
   },
   {
     "title": "湖泊科普与儿童游乐区",
@@ -7055,7 +7495,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "顺义区"
   },
   {
     "title": "湿地生态研学与荷花写生",
@@ -7071,7 +7512,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "房山区"
   },
   {
     "title": "无动力乐园与自然手工",
@@ -7087,7 +7529,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "房山区"
   },
   {
     "title": "亲子共读与科创手工",
@@ -7103,7 +7546,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "阅读沙龙与童话舞台剧",
@@ -7119,7 +7563,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "亲子读书会与自然写生",
@@ -7135,7 +7580,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "航天科普与少儿编程",
@@ -7151,7 +7597,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "民国建筑导览与绘本剧",
@@ -7167,7 +7614,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "杨浦区"
   },
   {
     "title": "水主题科普与诗词手工",
@@ -7183,7 +7631,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "普陀区"
   },
   {
     "title": "海洋绘本与植物手工",
@@ -7199,7 +7648,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "矿石科普与红色研学",
@@ -7215,7 +7665,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "文物导览与非遗拓印",
@@ -7231,7 +7682,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "机器人互动与动物标本",
@@ -7247,7 +7699,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "恐龙化石与生物观察",
@@ -7263,7 +7716,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "消防模拟与逃生演练",
@@ -7279,7 +7733,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "净水实验与水科学探究",
@@ -7295,7 +7750,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "普陀区"
   },
   {
     "title": "火车模型与机械科普",
@@ -7311,7 +7767,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "航天航海与互动科学装置",
@@ -7327,7 +7784,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "长宁区"
   },
   {
     "title": "马桥文化手工与古陶临摹",
@@ -7343,7 +7801,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "海洋文化与航海科普",
@@ -7359,7 +7818,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "江南民俗与陶艺DIY",
@@ -7375,7 +7835,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "科举文化与古建筑手工",
@@ -7391,7 +7852,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "嘉定区"
   },
   {
     "title": "广富林文化与考古模拟",
@@ -7407,7 +7869,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "松江区"
   },
   {
     "title": "城市建筑手工与上海历史亲子导览",
@@ -7423,7 +7886,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "艺术科技舞蹈公益课程",
@@ -7439,7 +7903,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "非遗市集与国风绘画",
@@ -7455,7 +7920,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "科创美术轮滑免费体验课",
@@ -7471,7 +7937,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "机器人与陶艺",
@@ -7487,7 +7954,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "杨浦区"
   },
   {
     "title": "水科学与绘画",
@@ -7503,7 +7971,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "普陀区"
   },
   {
     "title": "海洋科普与手工",
@@ -7519,7 +7988,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "剪纸与皮影",
@@ -7535,7 +8005,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "国风手工与露天音乐会",
@@ -7551,7 +8022,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "嘉定区"
   },
   {
     "title": "农耕科普与民俗手工",
@@ -7567,7 +8039,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "松江区"
   },
   {
     "title": "亲子球类与体能公益课",
@@ -7583,7 +8056,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "轮滑与滑板",
@@ -7599,7 +8073,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "乒乓球与羽毛球免费体验",
@@ -7615,7 +8090,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "杨浦区"
   },
   {
     "title": "环湖徒步与球类公益课",
@@ -7631,7 +8107,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "少儿篮球与体能训练",
@@ -7647,7 +8124,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "屋顶免费儿童乐园与艺术公益展",
@@ -7663,7 +8141,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "湿地生态科普与鸟类观察",
@@ -7679,7 +8158,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "南山区"
   },
   {
     "title": "深圳图书馆第十二届'暑期缤纷季'——近300场阅读活动",
@@ -7695,7 +8175,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳特区报"
+    "source": "深圳特区报",
+    "district": "福田区"
   },
   {
     "title": "深圳图书馆第十二届'暑期缤纷季'——近300场阅读活动",
@@ -7711,7 +8192,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳特区报"
+    "source": "深圳特区报",
+    "district": "福田区"
   },
   {
     "title": "安全主题沉浸式体验展",
@@ -7727,7 +8209,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-26738119",
     "family_friendly": true,
-    "source": "南山安全教育体验馆"
+    "source": "南山安全教育体验馆",
+    "district": "南山区"
   },
   {
     "title": "海洋生物标本常设展",
@@ -7743,7 +8226,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "蛇口海洋科普馆"
+    "source": "蛇口海洋科普馆",
+    "district": "南山区"
   },
   {
     "title": "大鹏半岛地质遗迹常设展",
@@ -7759,7 +8243,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏半岛国家地质公园博物馆"
+    "source": "大鹏半岛国家地质公园博物馆",
+    "district": "大鹏新区"
   },
   {
     "title": "客家民俗文化常设展",
@@ -7775,7 +8260,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗客家民俗博物馆"
+    "source": "龙岗客家民俗博物馆",
+    "district": "龙岗区"
   },
   {
     "title": "中国版画艺术常设展",
@@ -7791,7 +8277,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国版画博物馆"
+    "source": "中国版画博物馆",
+    "district": "龙华区"
   },
   {
     "title": "龙华生态文明建设成果展",
@@ -7807,7 +8294,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华生态文明展览馆"
+    "source": "龙华生态文明展览馆",
+    "district": "龙华区"
   },
   {
     "title": "南山文体中心暑期公益课程",
@@ -7823,7 +8311,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-86051111",
     "family_friendly": true,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "宝安1990文化馆暑期公益培训",
@@ -7839,7 +8328,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "华侨城湿地自然教育导览",
@@ -7855,7 +8345,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "华侨城湿地"
+    "source": "华侨城湿地",
+    "district": "南山区"
   },
   {
     "title": "核能科普常设展",
@@ -7871,7 +8362,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "大亚湾核能科技馆"
+    "source": "大亚湾核能科技馆",
+    "district": "大鹏新区"
   },
   {
     "title": "中英街百年历史常设展",
@@ -7887,7 +8379,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中英街历史博物馆"
+    "source": "中英街历史博物馆",
+    "district": "盐田区"
   },
   {
     "title": "招商局百年历史常设展",
@@ -7903,7 +8396,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "招商局历史博物馆"
+    "source": "招商局历史博物馆",
+    "district": "南山区"
   },
   {
     "title": "南头古城历史常设展",
@@ -7919,7 +8413,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "古生物化石常设展",
@@ -7935,7 +8430,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳古生物博物馆"
+    "source": "深圳古生物博物馆",
+    "district": "罗湖区"
   },
   {
     "title": "光明区科技馆互动体验展",
@@ -7951,7 +8447,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区科技馆"
+    "source": "光明区科技馆",
+    "district": "光明区"
   },
   {
     "title": "安全教育沉浸式体验展",
@@ -7967,7 +8464,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市安全教育基地"
+    "source": "深圳市安全教育基地",
+    "district": "福田区"
   },
   {
     "title": "深圳人才发展成果展",
@@ -7983,7 +8481,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深爱人才馆"
+    "source": "深爱人才馆",
+    "district": "南山区"
   },
   {
     "title": "深圳湾体育中心暑期运动营",
@@ -7999,7 +8498,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "district": "南山区"
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读活动",
@@ -8015,7 +8515,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆"
+    "source": "深圳少年儿童图书馆",
+    "district": "福田区"
   },
   {
     "title": "光明区图书馆暑期公益活动",
@@ -8031,7 +8532,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆"
+    "source": "光明区图书馆",
+    "district": "光明区"
   },
   {
     "title": "盐田区图书馆暑期阅读推广",
@@ -8047,7 +8549,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆"
+    "source": "盐田区图书馆",
+    "district": "盐田区"
   },
   {
     "title": "坪山大剧院2026暑期演出季",
@@ -8063,7 +8566,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山大剧院"
+    "source": "坪山大剧院",
+    "district": "坪山区"
   },
   {
     "title": "坪山美术馆当代艺术常设展",
@@ -8079,7 +8583,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山美术馆"
+    "source": "坪山美术馆",
+    "district": "坪山区"
   },
   {
     "title": "坪山中心公园暑期亲子嘉年华",
@@ -8095,7 +8600,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山中心公园"
+    "source": "坪山中心公园",
+    "district": "坪山区"
   },
   {
     "title": "马峦山郊野公园徒步与自然观察",
@@ -8111,7 +8617,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "马峦山郊野公园"
+    "source": "马峦山郊野公园",
+    "district": "坪山区"
   },
   {
     "title": "坪山城市书房暑期阅读推广",
@@ -8127,7 +8634,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山城市书房"
+    "source": "坪山城市书房",
+    "district": "坪山区"
   },
   {
     "title": "聚龙山生态公园自然课堂",
@@ -8143,7 +8651,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "聚龙山生态公园"
+    "source": "聚龙山生态公园",
+    "district": "坪山区"
   },
   {
     "title": "深圳西涌天文台公众开放日",
@@ -8159,7 +8668,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳西涌天文台"
+    "source": "深圳西涌天文台",
+    "district": "大鹏新区"
   },
   {
     "title": "较场尾滨海暑期亲子季",
@@ -8175,7 +8685,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏较场尾"
+    "source": "大鹏较场尾",
+    "district": "大鹏新区"
   },
   {
     "title": "东涌红树林湿地自然教育",
@@ -8191,7 +8702,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "东涌红树林湿地公园"
+    "source": "东涌红树林湿地公园",
+    "district": "大鹏新区"
   },
   {
     "title": "玫瑰海岸暑期滨海嘉年华",
@@ -8207,7 +8719,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "玫瑰海岸"
+    "source": "玫瑰海岸",
+    "district": "大鹏新区"
   },
   {
     "title": "大鹏所城海防文化体验季",
@@ -8223,7 +8736,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏古城博物馆"
+    "source": "大鹏古城博物馆",
+    "district": "大鹏新区"
   },
   {
     "title": "杨梅坑滨海生态徒步",
@@ -8239,7 +8753,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杨梅坑"
+    "source": "杨梅坑",
+    "district": "大鹏新区"
   },
   {
     "title": "官湖村艺象艺术区亲子艺术之旅",
@@ -8255,7 +8770,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "官湖村艺象艺术区"
+    "source": "官湖村艺象艺术区",
+    "district": "大鹏新区"
   },
   {
     "title": "七娘山地质科考徒步",
@@ -8271,7 +8787,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "七娘山"
+    "source": "七娘山",
+    "district": "大鹏新区"
   },
   {
     "title": "金沙湾国际乐园暑期亲子游",
@@ -8287,7 +8804,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "金沙湾国际乐园"
+    "source": "金沙湾国际乐园",
+    "district": "大鹏新区"
   },
   {
     "title": "大鹏新区图书馆海洋阅读季",
@@ -8303,7 +8821,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆"
+    "source": "大鹏新区图书馆",
+    "district": "大鹏新区"
   },
   {
     "title": "坝光红树林湿地生态观察",
@@ -8319,7 +8838,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坝光红树林湿地公园"
+    "source": "坝光红树林湿地公园",
+    "district": "大鹏新区"
   },
   {
     "title": "花都区图书馆暑期阅读节",
@@ -8335,7 +8855,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "花都区图书馆"
+    "source": "花都区图书馆",
+    "district": "花都区"
   },
   {
     "title": "南沙湿地候鸟观察季",
@@ -8351,7 +8872,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南沙湿地景区"
+    "source": "南沙湿地景区",
+    "district": "南沙区"
   },
   {
     "title": "从化区图书馆暑期阅读打卡",
@@ -8367,7 +8889,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "从化区图书馆"
+    "source": "从化区图书馆",
+    "district": "从化区"
   },
   {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
@@ -8383,7 +8906,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南湾街道文化站"
+    "source": "南湾街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "气泡王国——比利时国宝漫画百年巡礼",
@@ -8399,7 +8923,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "深圳世界之窗夏日狂欢季——23°HI啤一夏",
@@ -8415,7 +8940,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "theme_park"
+    "source": "theme_park",
+    "district": "南山区"
   },
   {
     "title": "第三期广州之宝特展——羊城之夏",
@@ -8431,7 +8957,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzmuseum"
+    "source": "gzmuseum",
+    "district": "越秀区"
   },
   {
     "title": "深圳世界之窗夏日狂欢季——23度HI啤一夏",
@@ -8447,7 +8974,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳世界之窗"
+    "source": "深圳世界之窗",
+    "district": "南山区"
   },
   {
     "title": "WoW潮音嘉年华",
@@ -8463,7 +8991,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳世界之窗"
+    "source": "深圳世界之窗",
+    "district": "南山区"
   },
   {
     "title": "大匠之道——熊松涛掐丝珐琅艺术展",
@@ -8479,7 +9008,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国美术馆"
+    "source": "中国美术馆",
+    "district": "东城区"
   },
   {
     "title": "光影对话：新中国海报设计作品巡展",
@@ -8495,7 +9025,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省博物馆（官方微信公众号）"
+    "source": "浙江省博物馆（官方微信公众号）",
+    "district": "西湖区"
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -8511,7 +9042,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "district": "福田区"
   },
   {
     "title": "艺起归来——中央美术学院深圳校友联展",
@@ -8527,7 +9059,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "2026年盐田区中小学生舞蹈节展演",
@@ -8543,7 +9076,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "ytwhg"
+    "source": "ytwhg",
+    "district": "盐田区"
   },
   {
     "title": "「艺起归来」中央美术学院深圳校友联展",
@@ -8559,7 +9093,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -8575,7 +9110,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "chinaartmuseum"
+    "source": "chinaartmuseum",
+    "district": "浦东新区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -8591,7 +9127,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "shhistorymuseum"
+    "source": "shhistorymuseum",
+    "district": "黄浦区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -8607,7 +9144,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -8623,7 +9161,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -8639,7 +9178,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆"
+    "source": "上海美术馆",
+    "district": "黄浦区"
   },
   {
     "title": "八喜·打开艺术之门—2026暑期艺术节",
@@ -8655,7 +9195,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "中山公园音乐堂"
+    "source": "中山公园音乐堂",
+    "district": "西城区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成",
@@ -8671,7 +9212,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中华艺术宫（上海美术馆）"
+    "source": "中华艺术宫（上海美术馆）",
+    "district": "浦东新区"
   },
   {
     "title": "夏日山茶惊艳盛放——杜鹃红山茶花事",
@@ -8687,7 +9229,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海植物园"
+    "source": "上海植物园",
+    "district": "徐汇区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -8703,7 +9246,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -8719,7 +9263,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "district": "南山区"
   },
   {
     "title": "宝安科技馆暑期五大科学实验秀",
@@ -8735,7 +9280,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "深圳欢乐谷·夏浪狂欢节",
@@ -8751,7 +9297,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳欢乐谷"
+    "source": "深圳欢乐谷",
+    "district": "南山区"
   },
   {
     "title": "锦绣中华民俗村·夏浪民族狂欢节",
@@ -8767,7 +9314,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "锦绣中华民俗村"
+    "source": "锦绣中华民俗村",
+    "district": "南山区"
   },
   {
     "title": "宝安大仟里首届暑期儿童戏剧节",
@@ -8783,7 +9331,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安大仟里"
+    "source": "宝安大仟里",
+    "district": "宝安区"
   },
   {
     "title": "团结促发展 奋斗谱新篇——深圳市政协主题书画展",
@@ -8799,7 +9348,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "深圳欢乐谷夏浪狂欢节",
@@ -8815,7 +9365,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳欢乐谷"
+    "source": "深圳欢乐谷",
+    "district": "南山区"
   },
   {
     "title": "锦绣中华夏浪民族狂欢节",
@@ -8831,7 +9382,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "锦绣中华民俗村"
+    "source": "锦绣中华民俗村",
+    "district": "南山区"
   },
   {
     "title": "锦绣天团AI数字人互动",
@@ -8847,7 +9399,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "锦绣中华民俗村"
+    "source": "锦绣中华民俗村",
+    "district": "南山区"
   },
   {
     "title": "深圳欢乐海岸·夏日狂欢节",
@@ -8863,7 +9416,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳欢乐海岸"
+    "source": "深圳欢乐海岸",
+    "district": "南山区"
   },
   {
     "title": "“团结促发展，奋斗谱新篇”深圳市政协主题书画展",
@@ -8879,7 +9433,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "锦绣中华2026夏浪民族狂欢节",
@@ -8895,7 +9450,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "锦绣中华民俗村"
+    "source": "锦绣中华民俗村",
+    "district": "南山区"
   },
   {
     "title": "锦绣中华民俗村·泼水狂欢节",
@@ -8911,7 +9467,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦"
+    "source": "深圳梦",
+    "district": "南山区"
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -8927,7 +9484,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪地街道文化站"
+    "source": "坪地街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "小奶牛故事绘",
@@ -8943,7 +9501,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "district": "光明区"
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -8959,7 +9518,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -8975,7 +9535,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "district": "光明区"
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
@@ -8991,7 +9552,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -9007,7 +9569,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -9023,7 +9586,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "district": "福田区"
   },
   {
     "title": "2026声无界·圳当潮LIVE嘉年华",
@@ -9039,7 +9603,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城博物馆群"
+    "source": "南头古城博物馆群",
+    "district": "南山区"
   },
   {
     "title": "宝安科技馆3D打印创意工坊",
@@ -9055,7 +9620,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "丹青联心——深澳两地书画艺术交流展",
@@ -9071,7 +9637,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "福田美术馆"
+    "source": "福田美术馆",
+    "district": "福田区"
   },
   {
     "title": "2026上海夏季音乐节（MISA）",
@@ -9087,7 +9654,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "misa"
+    "source": "misa",
+    "district": "徐汇区"
   },
   {
     "title": "核电科普开放日——探秘清洁能源",
@@ -9103,7 +9671,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "大亚湾核能科技馆"
+    "source": "大亚湾核能科技馆",
+    "district": "大鹏新区"
   },
   {
     "title": "龙岗区文化馆经典阅读季——名著读书会",
@@ -9119,7 +9688,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区文化馆"
+    "source": "龙岗区文化馆",
+    "district": "龙岗区"
   },
   {
     "title": "龙华区青少年成长夏令营",
@@ -9135,7 +9705,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "district": "龙华区"
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -9151,7 +9722,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州博物馆官方微博"
+    "source": "杭州博物馆官方微博",
+    "district": "上城区"
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -9167,7 +9739,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园"
+    "source": "上海乐高乐园",
+    "district": "金山区"
   },
   {
     "title": "青绿同心——深港两地书画艺术交流展",
@@ -9183,7 +9756,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方都市报"
+    "source": "南方都市报",
+    "district": "福田区"
   },
   {
     "title": "自然探秘公益课",
@@ -9199,7 +9773,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "撒马尔罕：中亚之心的千年古城特展",
@@ -9215,7 +9790,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "良渚博物院"
+    "source": "良渚博物院",
+    "district": "余杭区"
   },
   {
     "title": "未命名的房间",
@@ -9231,7 +9807,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省博物馆（官方微信公众号）"
+    "source": "浙江省博物馆（官方微信公众号）",
+    "district": "西湖区"
   },
   {
     "title": "坪山图书馆绘本馆暑期故事屋",
@@ -9247,7 +9824,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆"
+    "source": "坪山区图书馆",
+    "district": "坪山区"
   },
   {
     "title": "南沙图书馆暑期绘本工坊",
@@ -9263,7 +9841,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南沙区图书馆"
+    "source": "南沙区图书馆",
+    "district": "南沙区"
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
@@ -9279,7 +9858,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪地街道文化站"
+    "source": "坪地街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026年坪地街道分馆“艺术微展厅”巡展——高桥社区服务点“童心造境·彩绘青春”创意绘画作品展",
@@ -9295,7 +9875,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "坪地街道文化站"
+    "source": "坪地街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "新桥街道“文化春雨行动”新桥新梦公益课堂.",
@@ -9311,7 +9892,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安区文化馆新桥街道分馆"
+    "source": "宝安区文化馆新桥街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "小太阳i阅读故事会",
@@ -9327,7 +9909,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "district": "光明区"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -9343,7 +9926,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "district": "宝安区"
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -9359,7 +9943,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "district": "福田区"
   },
   {
     "title": "宝安区青少年宫暑期小小科学家研学营",
@@ -9375,7 +9960,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "district": "宝安区"
   },
   {
     "title": "话剧《杜甫》",
@@ -9391,7 +9977,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "bjry"
+    "source": "bjry",
+    "district": "东城区"
   },
   {
     "title": "探索坪山暑托3.0——公益托管+特色研学",
@@ -9407,7 +9994,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆"
+    "source": "坪山区图书馆",
+    "district": "坪山区"
   },
   {
     "title": "中国电影博物馆2026年暑期错时开放",
@@ -9423,7 +10011,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国电影博物馆"
+    "source": "中国电影博物馆",
+    "district": "朝阳区"
   },
   {
     "title": "少儿国际象棋公益班",
@@ -9439,7 +10028,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "district": "福田区"
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -9455,7 +10045,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网"
+    "source": "盐田区图书馆官网",
+    "district": "盐田区"
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -9471,7 +10062,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "district": "福田区"
   },
   {
     "title": "青年视界——2026深圳青年美术大展",
@@ -9487,7 +10079,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆",
+    "district": "罗湖区"
   },
   {
     "title": "国采——故宫藏清代帝后服饰展",
@@ -9503,7 +10096,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "expomuseum"
+    "source": "expomuseum",
+    "district": "黄浦区"
   },
   {
     "title": "机器狗AI编程夏令营",
@@ -9519,7 +10113,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州图书馆官网"
+    "source": "杭州图书馆官网",
+    "district": "上城区"
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -9535,7 +10130,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆"
+    "source": "上海世博会博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "文心墨韵——中央文史研究馆成立75周年成果展",
@@ -9551,7 +10147,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国美术馆"
+    "source": "中国美术馆",
+    "district": "东城区"
   },
   {
     "title": "【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展",
@@ -9567,7 +10164,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "成人古典舞公益班",
@@ -9583,7 +10181,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "district": "福田区"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -9599,7 +10198,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "district": "罗湖区"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -9615,7 +10215,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "district": "宝安区"
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -9631,7 +10232,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网"
+    "source": "深圳市青少年活动中心官网",
+    "district": "福田区"
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -9647,7 +10249,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "district": "福田区"
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
@@ -9663,7 +10266,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
@@ -9679,7 +10283,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心"
+    "source": "南山区青少年活动中心",
+    "district": "南山区"
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -9695,7 +10300,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆"
+    "source": "宝安区文化馆燕罗分馆",
+    "district": "宝安区"
   },
   {
     "title": "苍穹记忆——南天门计划科幻科普主题展",
@@ -9711,7 +10317,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "centuryaltar"
+    "source": "centuryaltar",
+    "district": "海淀区"
   },
   {
     "title": "2026漫步经典系列音乐会",
@@ -9727,7 +10334,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "ncpa"
+    "source": "ncpa",
+    "district": "西城区"
   },
   {
     "title": "快乐暑期，科海扬帆——北京科学中心暑期活动",
@@ -9743,7 +10351,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "北科展教坊专题课程",
@@ -9759,7 +10368,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "北科剧院科学剧场",
@@ -9775,7 +10385,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "宋韵故事会",
@@ -9791,7 +10402,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "上城区"
   },
   {
     "title": "2026颐和园荷花文化节",
@@ -9807,7 +10419,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "颐和园"
+    "source": "颐和园",
+    "district": "海淀区"
   },
   {
     "title": "“拼了！真功夫”乐高探索中心十周年暑期活动",
@@ -9823,7 +10436,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "乐高探索中心"
+    "source": "乐高探索中心",
+    "district": "浦东新区"
   },
   {
     "title": "少儿民族打击乐A班（面向7-9岁少年招募）",
@@ -9839,7 +10453,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -9855,7 +10470,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "成人零基础芭蕾形体（10节课程，自备舞蹈练功服）",
@@ -9871,7 +10487,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "“宝”读诗书，诗词挑战",
@@ -9887,7 +10504,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "读剧公益班",
@@ -9903,7 +10521,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "district": "福田区"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -9919,7 +10538,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网"
+    "source": "龙华区图书馆官网",
+    "district": "龙华区"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -9935,7 +10555,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "district": "龙华区"
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
@@ -9951,7 +10572,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网"
+    "source": "福田区图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "南山图书馆暑期亲子故事会",
@@ -9967,7 +10589,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "暑期公益艺术培训（少儿+成人）",
@@ -9983,7 +10606,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -9999,7 +10623,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "shanghaimuseum"
+    "source": "shanghaimuseum",
+    "district": "黄浦区"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -10015,7 +10640,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "shanghaimuseum"
+    "source": "shanghaimuseum",
+    "district": "黄浦区"
   },
   {
     "title": "归心一园——故宫乾隆花园沉浸式光影展",
@@ -10031,7 +10657,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gugong"
+    "source": "gugong",
+    "district": "东城区"
   },
   {
     "title": "雨林探秘：玛雅大冒险（沉浸式体验展）",
@@ -10047,7 +10674,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "飞越马丘比丘：云端印加之旅（沉浸式体验展）",
@@ -10063,7 +10691,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -10079,7 +10708,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "救民水火——纪念国民革命军北伐一百周年展",
@@ -10095,7 +10725,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "黄埔军校旧址纪念馆"
+    "source": "黄埔军校旧址纪念馆",
+    "district": "黄埔区"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -10111,7 +10742,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "成人书法（6节课程，需自备材料）",
@@ -10127,7 +10759,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
@@ -10143,7 +10776,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "少儿声乐（3节课程）",
@@ -10159,7 +10793,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "朗诵艺术公益班",
@@ -10175,7 +10810,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "district": "福田区"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -10191,7 +10827,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网"
+    "source": "福田区图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -10207,7 +10844,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -10223,7 +10861,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "district": "南山区"
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -10239,7 +10878,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "district": "光明区"
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -10255,7 +10895,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "district": "宝安区"
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -10271,7 +10912,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -10287,7 +10929,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -10303,7 +10946,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -10319,7 +10963,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "桃源街道综合性文化服务中心暑期活动",
@@ -10335,7 +10980,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桃源街道文化服务中心"
+    "source": "桃源街道文化服务中心",
+    "district": "南山区"
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -10351,7 +10997,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "宝安科技馆巧手创客课程",
@@ -10367,7 +11014,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "宝安体育中心暑期青少年游泳培训",
@@ -10383,7 +11031,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "宝安体育中心暑期足球训练营",
@@ -10399,7 +11048,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "宝安区文化馆暑期非遗公益课",
@@ -10415,7 +11065,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "时代回应笔墨——中国笔墨精神的当代转译与时空对话",
@@ -10431,7 +11082,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "关山月美术馆官网"
+    "source": "关山月美术馆官网",
+    "district": "福田区"
   },
   {
     "title": "请到粤图过暑假——300余场暑期阅读推广活动",
@@ -10447,7 +11099,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "羊城晚报"
+    "source": "羊城晚报",
+    "district": "越秀区"
   },
   {
     "title": "广东科学中心暑期假日科学派",
@@ -10463,7 +11116,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心"
+    "source": "广东科学中心",
+    "district": "番禺区"
   },
   {
     "title": "广东美术馆新馆暑期延时开放",
@@ -10479,7 +11133,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东美术馆"
+    "source": "广东美术馆",
+    "district": "越秀区"
   },
   {
     "title": "北京天文馆暑期星空探索营",
@@ -10495,7 +11150,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "上海科技馆机器人总动员",
@@ -10511,7 +11167,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "广州动物园奇妙动物夜",
@@ -10527,7 +11184,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "越秀区"
   },
   {
     "title": "广州艺术博物院艺术夏令营",
@@ -10543,7 +11201,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "越秀区"
   },
   {
     "title": "良渚博物院文明探索之旅",
@@ -10559,7 +11218,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "余杭区"
   },
   {
     "title": "小小考古家体验营",
@@ -10575,7 +11235,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "余杭区"
   },
   {
     "title": "良渚文化探索营",
@@ -10591,7 +11252,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "余杭区"
   },
   {
     "title": "繁天录——中国动画英雄潮流特展",
@@ -10607,7 +11269,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江美术馆"
+    "source": "浙江美术馆",
+    "district": "上城区"
   },
   {
     "title": "坪山区体育中心暑期运动培训",
@@ -10623,7 +11286,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区体育中心"
+    "source": "坪山区体育中心",
+    "district": "坪山区"
   },
   {
     "title": "大鹏新区科学馆暑期科普季",
@@ -10639,7 +11303,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区科学馆"
+    "source": "大鹏新区科学馆",
+    "district": "大鹏新区"
   },
   {
     "title": "增城区图书馆暑期科学实验课",
@@ -10655,7 +11320,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "增城区图书馆"
+    "source": "增城区图书馆",
+    "district": "增城区"
   },
   {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
@@ -10671,7 +11337,8 @@ module.exports = [
     "fee": "免费",
     "contact": "赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -10687,7 +11354,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网"
+    "source": "坪山区图书馆官网",
+    "district": "坪山区"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -10703,7 +11371,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "district": "龙岗区"
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -10719,7 +11388,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "district": "罗湖区"
   },
   {
     "title": "深圳科学技术馆暑期延时开放",
@@ -10735,7 +11405,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "八家园集章打卡闯关活动",
@@ -10751,7 +11422,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "lhwhg2"
+    "source": "lhwhg2",
+    "district": "盐田区"
   },
   {
     "title": "深圳珠宝博物馆常设展及集章打卡",
@@ -10767,7 +11439,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "lhwhg2"
+    "source": "lhwhg2",
+    "district": "盐田区"
   },
   {
     "title": "2026“夏日乐读季”",
@@ -10783,7 +11456,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "话剧《罗密欧与朱丽叶》",
@@ -10799,7 +11473,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "bjry"
+    "source": "bjry",
+    "district": "东城区"
   },
   {
     "title": "2026夏日乐读季——百场活动齐发",
@@ -10815,7 +11490,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳书城"
+    "source": "深圳书城",
+    "district": "福田区"
   },
   {
     "title": "哈小浪奇幻屋主题快闪空间",
@@ -10831,7 +11507,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳书城"
+    "source": "深圳书城",
+    "district": "福田区"
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -10847,7 +11524,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "南越王博物院王宫展区暑期延长开放",
@@ -10863,7 +11541,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院"
+    "source": "南越王博物院",
+    "district": "越秀区"
   },
   {
     "title": "孙中山大元帅府纪念馆暑期延时开放",
@@ -10879,7 +11558,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆"
+    "source": "孙中山大元帅府纪念馆",
+    "district": "海珠区"
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -10895,7 +11575,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "广州动物园暑假夜游（盘龙苑·广州海洋馆）",
@@ -10911,7 +11592,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园"
+    "source": "广州动物园",
+    "district": "越秀区"
   },
   {
     "title": "2026“广州科普之夏”主题活动",
@@ -10927,7 +11609,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "羊城晚报"
+    "source": "羊城晚报",
+    "district": "越秀区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -10943,7 +11626,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海市历史博物馆（上海革命历史博物馆）"
+    "source": "上海市历史博物馆（上海革命历史博物馆）",
+    "district": "黄浦区"
   },
   {
     "title": "深圳科学技术馆2026暑期延时开放暨常设科普展",
@@ -10959,7 +11643,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆"
+    "source": "深圳科学技术馆",
+    "district": "光明区"
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -10975,7 +11660,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "district": "光明区"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -10991,7 +11677,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "district": "龙岗区"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -11007,7 +11694,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆"
+    "source": "大鹏地质公园博物馆",
+    "district": "大鹏新区"
   },
   {
     "title": "福田区图书馆暑期电影放映",
@@ -11023,7 +11711,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网"
+    "source": "福田区图书馆官网",
+    "district": "福田区"
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
@@ -11039,7 +11728,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网"
+    "source": "盐田区图书馆官网",
+    "district": "盐田区"
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -11055,7 +11745,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "district": "南山区"
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -11071,7 +11762,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心"
+    "source": "南山区青少年活动中心",
+    "district": "南山区"
   },
   {
     "title": "宝安1990·周末剧场皮影专场",
@@ -11087,7 +11779,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "宝安体育中心暑期羽毛球培训班",
@@ -11103,7 +11796,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "深圳欢乐谷夏浪音乐节",
@@ -11119,7 +11813,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳欢乐谷"
+    "source": "深圳欢乐谷",
+    "district": "南山区"
   },
   {
     "title": "非遗手作营",
@@ -11135,7 +11830,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "第三十一届圆明园荷花节暨“荷你有约”荷花主题中国画名家邀请展",
@@ -11151,7 +11847,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明园"
+    "source": "圆明园",
+    "district": "海淀区"
   },
   {
     "title": "YUE航城公益艺术培训——青少年瑜伽（第五天）",
@@ -11167,7 +11864,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——口风琴（第一天）",
@@ -11183,7 +11881,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城公益艺术培训——青少年瑜伽（第三天）",
@@ -11199,7 +11898,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆杨美社区服务点7月“童心奇境”儿童绘画作品展",
@@ -11215,7 +11915,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "YUE航城公益艺术培训——青少年瑜伽（第四天）",
@@ -11231,7 +11932,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——口风琴（第二天）",
@@ -11247,7 +11949,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城公益艺术培训——青少年瑜伽",
@@ -11263,7 +11966,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——打击乐（第二天）",
@@ -11279,7 +11983,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——口风琴（第五天）",
@@ -11295,7 +12000,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——打击乐（第一天）",
@@ -11311,7 +12017,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——口风琴（第三天）",
@@ -11327,7 +12034,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城公益艺术培训——青少年瑜伽（第二天）",
@@ -11343,7 +12051,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——口风琴（第四天）",
@@ -11359,7 +12068,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
+    "source": "宝安区文化馆航城街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -11375,7 +12085,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆官网"
+    "source": "大鹏新区图书馆官网",
+    "district": "大鹏新区"
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -11391,7 +12102,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "district": "光明区"
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -11407,7 +12119,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "district": "南山区"
   },
   {
     "title": "宝安航城街道暑期公益非遗课",
@@ -11423,7 +12136,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-85905112",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆"
+    "source": "宝安区文化馆燕罗分馆",
+    "district": "宝安区"
   },
   {
     "title": "盐田区文化馆“四季享艺”公益培训夏季班",
@@ -11439,7 +12153,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "ytwhg"
+    "source": "ytwhg",
+    "district": "盐田区"
   },
   {
     "title": "\"小小科学家\"科创研学营（小学组）",
@@ -11455,7 +12170,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "baoan_qsng"
+    "source": "baoan_qsng",
+    "district": "宝安区"
   },
   {
     "title": "龙图思辨课（初段：一、二年级）",
@@ -11471,7 +12187,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "龙岗区图书馆"
+    "source": "龙岗区图书馆",
+    "district": "龙岗区"
   },
   {
     "title": "灯塔诗话：童诗读写创作课",
@@ -11487,7 +12204,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆"
+    "source": "盐田区图书馆",
+    "district": "盐田区"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -11503,7 +12221,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网"
+    "source": "坪山区图书馆官网",
+    "district": "坪山区"
   },
   {
     "title": "炫彩青春——优秀青年京剧演员展演",
@@ -11519,7 +12238,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳戏院"
+    "source": "深圳戏院",
+    "district": "罗湖区"
   },
   {
     "title": "炫彩青春中国京剧艺术基金会优秀青年演员展演",
@@ -11535,7 +12255,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳戏院"
+    "source": "深圳戏院",
+    "district": "罗湖区"
   },
   {
     "title": "故宫博物院暑期未成年人团队预约",
@@ -11551,7 +12272,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "故宫博物院"
+    "source": "故宫博物院",
+    "district": "东城区"
   },
   {
     "title": "古代中国（基本陈列）",
@@ -11567,7 +12289,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "中国科学技术馆2026年暑期系列活动",
@@ -11583,7 +12306,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科学技术馆"
+    "source": "中国科学技术馆",
+    "district": "朝阳区"
   },
   {
     "title": "“星际奇观：太阳系”VR大空间沉浸式展览",
@@ -11599,7 +12323,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆"
+    "source": "北京天文馆",
+    "district": "西城区"
   },
   {
     "title": "军事博物馆基本陈列（革命战争陈列等）",
@@ -11615,7 +12340,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国人民革命军事博物馆"
+    "source": "中国人民革命军事博物馆",
+    "district": "海淀区"
   },
   {
     "title": "军博红色电影展映与军事互动社教活动",
@@ -11631,7 +12357,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国人民革命军事博物馆"
+    "source": "中国人民革命军事博物馆",
+    "district": "海淀区"
   },
   {
     "title": "百年红楼历史文化展",
@@ -11647,7 +12374,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "北京鲁迅博物馆（北京新文化运动纪念馆）"
+    "source": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "district": "西城区"
   },
   {
     "title": "“用爱守护儿童生命安全教育展”（博物馆里过大年）",
@@ -11663,7 +12391,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国妇女儿童博物馆"
+    "source": "中国妇女儿童博物馆",
+    "district": "东城区"
   },
   {
     "title": "亚洲数字艺术展（人有人的用处）",
@@ -11679,7 +12408,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "三山五园文化艺术中心"
+    "source": "三山五园文化艺术中心",
+    "district": "海淀区"
   },
   {
     "title": "以丝造境：清华大学艺术博物馆藏织绣书画展",
@@ -11695,7 +12425,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "清华大学艺术博物馆"
+    "source": "清华大学艺术博物馆",
+    "district": "海淀区"
   },
   {
     "title": "《宋城千古情》大型演艺",
@@ -11711,7 +12442,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宋城演艺"
+    "source": "宋城演艺",
+    "district": "西湖区"
   },
   {
     "title": "深圳博物馆学习体验中心暑期开放",
@@ -11727,7 +12459,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆"
+    "source": "深圳博物馆",
+    "district": "福田区"
   },
   {
     "title": "深圳市少年宫少儿科技馆常设科普展",
@@ -11743,7 +12476,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫"
+    "source": "深圳市少年宫",
+    "district": "福田区"
   },
   {
     "title": "火红青春——优秀青年京剧演员展演",
@@ -11759,7 +12493,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "搜狐娱乐"
+    "source": "搜狐娱乐",
+    "district": "罗湖区"
   },
   {
     "title": "“燃舞逐光”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -11775,7 +12510,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰街道综合性文化服务中心"
+    "source": "凤凰街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“端正书写，笃学向上”书法交流活动",
@@ -11791,7 +12527,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "凤凰街道综合性文化服务中心"
+    "source": "凤凰街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "“掌绘自我” 心理绘画活动",
@@ -11807,7 +12544,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "江岭社区公共文化服务中心"
+    "source": "江岭社区公共文化服务中心",
+    "district": "坪山区"
   },
   {
     "title": "2026年7月龙岗区文化馆坪地街道分馆文化志愿服务活动之中心社区“本草绘香·耆乐非遗”长者中草药香画体验活动",
@@ -11823,7 +12561,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪地街道文化站"
+    "source": "坪地街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026年西乡街道“快乐假期”系列活动 声声不息·语你同行 雨露艺术2026年暑期汇报演出",
@@ -11839,7 +12578,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆西乡街道分馆"
+    "source": "宝安区文化馆西乡街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "2026年再芬黄梅·深圳演出季 《延年和乔年》",
@@ -11855,7 +12595,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "安托山公共文化中心"
+    "source": "安托山公共文化中心",
+    "district": "福田区"
   },
   {
     "title": "【龙城街道分馆】掌心温度·亲子共创—手工黏土文化志愿活动（第二场）（龙岗区龙城街道尚景社区）",
@@ -11871,7 +12612,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "“狮爱筑善•阅启未来”和平海报长卷创作及展览",
@@ -11887,7 +12629,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“卸下重担，拥抱自己”身心放松团体辅导",
@@ -11903,7 +12646,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -11919,7 +12663,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -11935,7 +12680,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "南图创客空间丨自动往返车",
@@ -11951,7 +12697,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -11967,7 +12714,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "“童心”领读：和孩子一起读童书（暑假版）",
@@ -11983,7 +12731,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
     "family_friendly": true,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "“童心”领读：婴幼儿故事会（暑假版）",
@@ -11999,7 +12748,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
     "family_friendly": true,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "启阅90｜图图姐姐讲故事·婴幼儿版：《洛洛哒太太》",
@@ -12015,7 +12765,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "启阅90｜启映拾光·快乐暑假主题《​小黄人大眼萌​》",
@@ -12031,7 +12782,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -12047,7 +12799,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "district": "光明区"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -12063,7 +12816,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "district": "宝安区"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -12079,7 +12833,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -12095,7 +12850,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网"
+    "source": "南山区文化馆官网",
+    "district": "南山区"
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -12111,7 +12867,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "district": "光明区"
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
@@ -12127,7 +12884,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网"
+    "source": "龙岗区图书馆官网",
+    "district": "龙岗区"
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -12143,7 +12901,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "district": "宝安区"
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -12159,7 +12918,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "district": "龙岗区"
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -12175,7 +12935,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "district": "福田区"
   },
   {
     "title": "深圳市体育中心暑期运动营",
@@ -12191,7 +12952,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "district": "福田区"
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
@@ -12207,7 +12969,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆"
+    "source": "大鹏地质公园博物馆",
+    "district": "大鹏新区"
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -12223,7 +12986,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "district": "南山区"
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -12239,7 +13003,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网"
+    "source": "深圳市青少年活动中心官网",
+    "district": "福田区"
   },
   {
     "title": "话剧《无墙》",
@@ -12255,7 +13020,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shgtheatre"
+    "source": "shgtheatre",
+    "district": "黄浦区"
   },
   {
     "title": "敦煌艺术大展——从藏经洞到数字敦煌",
@@ -12271,7 +13037,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "首都博物馆小小讲解员训练营",
@@ -12287,7 +13054,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西城区"
   },
   {
     "title": "上海博物馆青铜器探索营",
@@ -12303,7 +13071,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "南越王博物院考古小探险家",
@@ -12319,7 +13088,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "越秀区"
   },
   {
     "title": "杭州西湖博物馆奇妙夜",
@@ -12335,7 +13105,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "上城区"
   },
   {
     "title": "中国丝绸博物馆丝路文化体验",
@@ -12351,7 +13122,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "上城区"
   },
   {
     "title": "良夜寻踪夜游",
@@ -12367,7 +13139,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "余杭区"
   },
   {
     "title": "西湖非遗体验周",
@@ -12383,7 +13156,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "西湖区"
   },
   {
     "title": "坪山区科技馆暑期科普体验营",
@@ -12399,7 +13173,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区科技馆"
+    "source": "坪山区科技馆",
+    "district": "坪山区"
   },
   {
     "title": "跨界共生——湾区青年艺术家联展",
@@ -12415,7 +13190,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山美术馆"
+    "source": "坪山美术馆",
+    "district": "坪山区"
   },
   {
     "title": "花都湖公园暑期灯光秀",
@@ -12431,7 +13207,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "花都湖公园"
+    "source": "花都湖公园",
+    "district": "花都区"
   },
   {
     "title": "增城白水寨瀑布节",
@@ -12447,7 +13224,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "白水寨风景名胜区"
+    "source": "白水寨风景名胜区",
+    "district": "增城区"
   },
   {
     "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展",
@@ -12463,7 +13241,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
@@ -12479,7 +13258,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "石岩文化艺术中心"
+    "source": "石岩文化艺术中心",
+    "district": "宝安区"
   },
   {
     "title": "【龙城街道分馆】趣味少儿软笔文化志愿活动（龙岗区龙城街道愉园社区）",
@@ -12495,7 +13275,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -12511,7 +13292,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰街道综合性文化服务中心"
+    "source": "凤凰街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "2026年再芬黄梅·深圳演出季《女驸马》",
@@ -12527,7 +13309,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "安托山公共文化中心"
+    "source": "安托山公共文化中心",
+    "district": "福田区"
   },
   {
     "title": "“总有美好在路上”音乐会",
@@ -12543,7 +13326,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "安托山公共文化中心"
+    "source": "安托山公共文化中心",
+    "district": "福田区"
   },
   {
     "title": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十八期）",
@@ -12559,7 +13343,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安区文化馆燕罗街道分馆"
+    "source": "宝安区文化馆燕罗街道分馆",
+    "district": "宝安区"
   },
   {
     "title": "2026年“石岩街道官田社区居民”——古筝特色班",
@@ -12575,7 +13360,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "石岩文化艺术中心"
+    "source": "石岩文化艺术中心",
+    "district": "宝安区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -12591,7 +13377,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -12607,7 +13394,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "馆员故事会《小壁虎借尾巴》",
@@ -12623,7 +13411,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "第二十七届深圳国际医疗旅游展览会",
@@ -12639,7 +13428,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳正和会展服务有限公司 020-84138131/15820700062",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -12655,7 +13445,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网"
+    "source": "龙华区图书馆官网",
+    "district": "龙华区"
   },
   {
     "title": "“大有可叙·灵感群岛”艺术市集",
@@ -12671,7 +13462,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "龙马社原创话剧《断金》",
@@ -12687,7 +13479,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shcstheatre"
+    "source": "shcstheatre",
+    "district": "黄浦区"
   },
   {
     "title": "欢迎来到恐龙时代——知识视界科普讲座",
@@ -12703,7 +13496,8 @@ module.exports = [
     "fee": "免费",
     "contact": "86535086",
     "family_friendly": true,
-    "source": "杭州图书馆官网"
+    "source": "杭州图书馆官网",
+    "district": "上城区"
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -12719,7 +13513,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国茶叶博物馆"
+    "source": "中国茶叶博物馆",
+    "district": "西湖区"
   },
   {
     "title": "国家博物馆奇妙夜——探秘古代文明",
@@ -12735,7 +13530,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "东城区"
   },
   {
     "title": "少年述史·馆员论典——地方文献与馆藏精品暑期定时导览",
@@ -12751,7 +13547,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海图书馆"
+    "source": "上海图书馆",
+    "district": "徐汇区"
   },
   {
     "title": "乐动湾区：音“粤”剧嘉年华",
@@ -12767,7 +13564,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳大剧院"
+    "source": "深圳大剧院",
+    "district": "罗湖区"
   },
   {
     "title": "2026年石岩街道“来深青工技能——古筝公益课”",
@@ -12783,7 +13581,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "石岩文化艺术中心"
+    "source": "石岩文化艺术中心",
+    "district": "宝安区"
   },
   {
     "title": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -12799,7 +13598,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰街道综合性文化服务中心"
+    "source": "凤凰街道综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "世界很小，歌声很大——飞越彩虹童声合唱音乐会",
@@ -12815,7 +13615,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "福田梦工场"
+    "source": "福田梦工场",
+    "district": "福田区"
   },
   {
     "title": "2026年龙岗区文化馆坂田街道分馆文化志愿系列活动-马安堂社区服务点合唱排练（二十一）",
@@ -12831,7 +13632,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "海上花",
@@ -12847,7 +13649,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "东方幻境之旅：《妖猫传》",
@@ -12863,7 +13666,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“非遗体验”走进观澜手工创作营",
@@ -12879,7 +13683,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -12895,7 +13700,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《潜艇总动员：海底两万里》",
@@ -12911,7 +13717,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -12927,7 +13734,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "沙里淘晶-经典民乐赏析丨国乐文脉巡礼.弦歌唐韵 ",
@@ -12943,7 +13751,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "心理咨询",
@@ -12959,7 +13768,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -12975,7 +13785,8 @@ module.exports = [
     "fee": "免费",
     "contact": "紫亚兰国际会展（深圳）有限公司 杨先生&nbsp; 18926034908",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "第三届深圳乐队节",
@@ -12991,7 +13802,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "district": "宝安区"
   },
   {
     "title": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会",
@@ -13007,7 +13819,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "“鑫”乐之旅——田佳鑫钢琴独奏音乐会",
@@ -13023,7 +13836,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "district": "宝安区"
   },
   {
     "title": "星丛——青春心印十二年工笔画艺术生态展",
@@ -13039,7 +13853,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gsyart"
+    "source": "gsyart",
+    "district": "福田区"
   },
   {
     "title": "虫友：寻访甲虫世界",
@@ -13055,7 +13870,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gdmuseum"
+    "source": "gdmuseum",
+    "district": "天河区"
   },
   {
     "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
@@ -13071,7 +13887,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzdjy"
+    "source": "gzdjy",
+    "district": "天河区"
   },
   {
     "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
@@ -13087,7 +13904,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shgtheatre"
+    "source": "shgtheatre",
+    "district": "黄浦区"
   },
   {
     "title": "国家大剧院原创喜歌剧《三打白骨精》",
@@ -13103,7 +13921,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "ncpa"
+    "source": "ncpa",
+    "district": "西城区"
   },
   {
     "title": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧",
@@ -13119,7 +13938,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅"
+    "source": "深圳音乐厅",
+    "district": "福田区"
   },
   {
     "title": "文津阅新2026年第四期：《中国兵学二十讲》新书分享会",
@@ -13135,7 +13955,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "district": "海淀区"
   },
   {
     "title": "中国典籍与文化系列讲座：丝绸之路上的“口袋书”",
@@ -13151,7 +13972,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "district": "海淀区"
   },
   {
     "title": "歌剧《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会",
@@ -13167,7 +13989,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅"
+    "source": "深圳音乐厅",
+    "district": "福田区"
   },
   {
     "title": "“梦开始的地方”深圳大剧院青少年爱乐乐团专场音乐会",
@@ -13183,7 +14006,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳大剧院"
+    "source": "深圳大剧院",
+    "district": "罗湖区"
   },
   {
     "title": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
@@ -13199,7 +14023,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "中轴云廊·顶上空间"
+    "source": "中轴云廊·顶上空间",
+    "district": "福田区"
   },
   {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -13215,7 +14040,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——潮彩拾光・匠造美好",
@@ -13231,7 +14057,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "龙岗街道文化站"
+    "source": "龙岗街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "“无米也有粿，巧手暖心房”--江岭社区慢飞工作室潮汕美食制作工作坊",
@@ -13247,7 +14074,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "江岭社区公共文化服务中心"
+    "source": "江岭社区公共文化服务中心",
+    "district": "坪山区"
   },
   {
     "title": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动",
@@ -13263,7 +14091,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "江岭社区公共文化服务中心"
+    "source": "江岭社区公共文化服务中心",
+    "district": "坪山区"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第85场",
@@ -13279,7 +14108,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "绘本半小时：《阿圆的家》",
@@ -13295,7 +14125,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第638场",
@@ -13311,7 +14142,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第86场",
@@ -13327,7 +14159,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "律师公益咨询活动",
@@ -13343,7 +14176,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "故事小讲堂第150期：“感知四季”自然主题读书会",
@@ -13359,7 +14193,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "艺术疗愈工作坊第4期：边界与共生——在关系中建立健康自我",
@@ -13375,7 +14210,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第639场",
@@ -13391,7 +14227,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "海上花",
@@ -13407,7 +14244,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第87场",
@@ -13423,7 +14261,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "跟名师读名著系列丨《古灵精怪动物园》",
@@ -13439,7 +14278,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "百姓健康讲堂|​八段锦养身，中医护安康",
@@ -13455,7 +14295,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
@@ -13471,7 +14312,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "松弛又成长的假期带娃指南——家长如何用假期赋能孩子成长?",
@@ -13487,7 +14329,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "“童心”领读：宝读书话--小鼻子大友谊，解码《狗鼻子莫里茨》中的友谊哲学",
@@ -13503,7 +14346,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话），活动参与对象：8岁以上（三年级以上孩子）",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -13519,7 +14363,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "district": "宝安区"
   },
   {
     "title": "2026南山区自然艺术季——大师讲堂",
@@ -13535,7 +14380,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86122899",
     "family_friendly": true,
-    "source": "华侨城湿地"
+    "source": "华侨城湿地",
+    "district": "南山区"
   },
   {
     "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
@@ -13551,7 +14397,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
@@ -13567,7 +14414,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "科普绘本剧《肚子里的火车站》",
@@ -13583,7 +14431,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区茅洲河体育艺术中心"
+    "source": "光明区茅洲河体育艺术中心",
+    "district": "光明区"
   },
   {
     "title": "Jony J 2026“本命”巡回演唱会深圳站",
@@ -13599,7 +14448,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "district": "南山区"
   },
   {
     "title": "蔡程昱“一程”2026音乐会深圳站",
@@ -13615,7 +14465,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "district": "宝安区"
   },
   {
     "title": "新裤子巡回演唱会深圳站",
@@ -13631,7 +14482,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "lgwhg"
+    "source": "lgwhg",
+    "district": "龙岗区"
   },
   {
     "title": "艺术阅读亲子创作活动",
@@ -13647,7 +14499,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "欢子《我的青春有你》巡回演唱会深圳站",
@@ -13663,7 +14516,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "于文文「边界」巡回演唱会",
@@ -13679,7 +14533,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "sztyzx"
+    "source": "sztyzx",
+    "district": "福田区"
   },
   {
     "title": "姜育恒「再回首·我心依旧」巡回演唱会",
@@ -13695,7 +14550,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "szicec"
+    "source": "szicec",
+    "district": "宝安区"
   },
   {
     "title": "创阅汇科学探索系列：气压机械钳",
@@ -13711,7 +14567,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆"
+    "source": "罗湖区图书馆",
+    "district": "罗湖区"
   },
   {
     "title": "新裤子乐队深圳演唱会",
@@ -13727,7 +14584,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳大运中心"
+    "source": "深圳大运中心",
+    "district": "龙岗区"
   },
   {
     "title": "邓紫棋I AM GLORIA世界巡回演唱会深圳站",
@@ -13743,7 +14601,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳大运中心"
+    "source": "深圳大运中心",
+    "district": "龙岗区"
   },
   {
     "title": "2026南山区自然艺术季大师讲堂",
@@ -13759,7 +14618,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "华侨城湿地公园"
+    "source": "华侨城湿地公园",
+    "district": "南山区"
   },
   {
     "title": "北京舞蹈学院舞剧《巍巍正阳》",
@@ -13775,7 +14635,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "国风亲子音乐会（二沙岛音乐夏日）",
@@ -13791,7 +14652,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "district": "越秀区"
   },
   {
     "title": "2026 不止于攀登·深圳珠峰登顶者分享会",
@@ -13807,7 +14669,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第88场",
@@ -13823,7 +14686,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "家长课堂：读懂孩子行为背后的“无声语言”",
@@ -13839,7 +14703,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第640场",
@@ -13855,7 +14720,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -13871,7 +14737,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -13887,7 +14754,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第89场",
@@ -13903,7 +14771,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "她影：《女人世界》",
@@ -13919,7 +14788,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "苏格拉底思辨荟第二季第1期：从“虚拟陪伴”到“物理在场”：当机器人走进家门",
@@ -13935,7 +14805,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“走进何宇鹏的拓绘世界”——拓绘艺术分享与现场体验活动",
@@ -13951,7 +14822,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "寻找智美更登",
@@ -13967,7 +14839,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第641场",
@@ -13983,7 +14856,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第90场",
@@ -13999,7 +14873,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“深读”读书沙龙 | AI时代，普通人如何让自己被看见？ ——打造属于你的个人IP",
@@ -14015,7 +14890,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "法律咨询",
@@ -14031,7 +14907,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "践书+|《认知驱动》",
@@ -14047,7 +14924,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "科普小讲堂丨高楼不倒的秘密",
@@ -14063,7 +14941,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "阖家欢电影展映：《雄狮少年2》",
@@ -14079,7 +14958,8 @@ module.exports = [
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "百老汇儿童剧《原始人大冒险》",
@@ -14095,7 +14975,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区玉塘文体中心"
+    "source": "光明区玉塘文体中心",
+    "district": "光明区"
   },
   {
     "title": "王源巡回演唱会深圳站",
@@ -14111,7 +14992,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "lgwhg"
+    "source": "lgwhg",
+    "district": "龙岗区"
   },
   {
     "title": "「仲夏梦·童话夜」春泥合唱团动漫金曲沉浸式音乐会",
@@ -14127,7 +15009,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "district": "南山区"
   },
   {
     "title": "梦幻星海瓶DIY海洋主题手作活动",
@@ -14143,7 +15026,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区文化馆"
+    "source": "龙岗区文化馆",
+    "district": "龙岗区"
   },
   {
     "title": "仲夏梦·童话夜春泥合唱团动漫金曲沉浸式音乐会",
@@ -14159,7 +15043,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳保利剧院"
+    "source": "深圳保利剧院",
+    "district": "南山区"
   },
   {
     "title": "王源2026宇宙超级无敌大大狂欢巡回演唱会深圳站",
@@ -14175,7 +15060,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳大运中心"
+    "source": "深圳大运中心",
+    "district": "龙岗区"
   },
   {
     "title": "2026夏日美乐——维也纳圆舞曲交响音乐会",
@@ -14191,7 +15077,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "羊城晚报"
+    "source": "羊城晚报",
+    "district": "越秀区"
   },
   {
     "title": "从化温泉文化节",
@@ -14207,7 +15094,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "从化温泉旅游度假区"
+    "source": "从化温泉旅游度假区",
+    "district": "从化区"
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -14223,7 +15111,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
@@ -14239,7 +15128,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网"
+    "source": "南山区文化馆官网",
+    "district": "南山区"
   },
   {
     "title": "龙图思辨课（中段：三、四年级）",
@@ -14255,7 +15145,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "龙岗区图书馆"
+    "source": "龙岗区图书馆",
+    "district": "龙岗区"
   },
   {
     "title": "龙岗团区委青少年公益暑托班",
@@ -14271,7 +15162,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "district": "龙岗区"
   },
   {
     "title": "AI+鸿蒙+无人机青少年科技公益体验营",
@@ -14287,7 +15179,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "district": "龙岗区"
   },
   {
     "title": "经典豫剧《穆桂英挂帅》深圳站",
@@ -14303,7 +15196,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳戏院"
+    "source": "深圳戏院",
+    "district": "罗湖区"
   },
   {
     "title": "中国科技馆科学之夜",
@@ -14319,7 +15213,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "朝阳区"
   },
   {
     "title": "上海自然博物馆夜宿奇妙夜",
@@ -14335,7 +15230,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "2026深圳国际生物医药产业博览会",
@@ -14351,7 +15247,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "燕子湖国际会展中心"
+    "source": "燕子湖国际会展中心",
+    "district": "坪山区"
   },
   {
     "title": "南沙天后宫妈祖文化节",
@@ -14367,7 +15264,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南沙天后宫"
+    "source": "南沙天后宫",
+    "district": "南沙区"
   },
   {
     "title": "增城1978文化创意园暑期市集",
@@ -14383,7 +15281,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "增城1978文化创意园"
+    "source": "增城1978文化创意园",
+    "district": "增城区"
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -14399,7 +15298,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -14415,7 +15315,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "深圳原创大型主题交响曲《潮起山海间》",
@@ -14431,7 +15332,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "district": "宝安区"
   },
   {
     "title": "成人汉唐舞（4节课程，自备舞蹈练功服）",
@@ -14447,7 +15349,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "视障儿童夏令营南科大校园科普实验",
@@ -14463,7 +15366,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -14479,7 +15383,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -14495,7 +15400,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "央华版·话剧《日出》",
@@ -14511,7 +15417,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "polytheatre"
+    "source": "polytheatre",
+    "district": "南山区"
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -14527,7 +15434,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -14543,7 +15451,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -14559,7 +15468,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -14575,7 +15485,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "国学小讲堂丨大暑，跟着狐狸读七月岁时",
@@ -14591,7 +15502,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "西安话剧院《长安第二碗》",
@@ -14607,7 +15519,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "寻找智美更登",
@@ -14623,7 +15536,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "东方幻境之旅：《照明商店》",
@@ -14639,7 +15553,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -14655,7 +15570,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《卑鄙的我》",
@@ -14671,7 +15587,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -14687,7 +15604,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -14703,7 +15621,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "读剧：中华少儿经典故事",
@@ -14719,7 +15638,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "第十五届深圳动漫节",
@@ -14735,7 +15655,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市设计之都运营发展有限公司 罗女士 13691919789",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展",
@@ -14751,7 +15672,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳钦诺展览有限公司 潘女士 18025471745",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季）",
@@ -14767,7 +15689,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "世界先进军事装备模型展暨GAIA嘉年华",
@@ -14783,7 +15706,8 @@ module.exports = [
     "fee": "免费",
     "contact": "廖小姐  138 7439 4113",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第34届全国书博会",
@@ -14799,7 +15723,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "萧山区"
   },
   {
     "title": "馆藏竹牙角玉雕展",
@@ -14815,7 +15740,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文化和旅游厅"
+    "source": "广东省文化和旅游厅",
+    "district": "荔湾区"
   },
   {
     "title": "绘本半小时：《阿兔的小瓷碗》",
@@ -14831,7 +15757,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第642场",
@@ -14847,7 +15774,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "律师公益咨询活动",
@@ -14863,7 +15791,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "原版BOOK快乐读：乐于助人的Bella",
@@ -14879,7 +15808,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "胭脂扣",
@@ -14895,7 +15825,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第643场",
@@ -14911,7 +15842,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "故事小讲堂第151期：“不一样，也很好”创意主题读书会",
@@ -14927,7 +15859,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“圳作一夏”主题系列活动 |  企业实地参访之斯达高瓷艺",
@@ -14943,7 +15876,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -14959,7 +15893,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "2026粤港澳大湾区（深圳）婚博会（夏季）",
@@ -14975,7 +15910,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
@@ -14991,7 +15927,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "韦礼安巡回演唱会深圳站",
@@ -15007,7 +15944,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "district": "南山区"
   },
   {
     "title": "宝博小小讲解员定点讲解",
@@ -15023,7 +15961,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "陈洁仪 ATRIUM(心房) 巡回演唱会深圳站",
@@ -15039,7 +15978,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安体育中心"
+    "source": "宝安体育中心",
+    "district": "宝安区"
   },
   {
     "title": "科普小课堂·儿童科学防晒专题",
@@ -15055,7 +15995,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安1990文化馆"
+    "source": "宝安1990文化馆",
+    "district": "宝安区"
   },
   {
     "title": "莫叫姐姐《不该用情》巡回演唱会",
@@ -15071,7 +16012,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "经典大奖绘本精读分享会",
@@ -15087,7 +16029,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆"
+    "source": "深圳少年儿童图书馆",
+    "district": "福田区"
   },
   {
     "title": "与书为伴共赴海洋之约——阅读分享会",
@@ -15103,7 +16046,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区文化馆"
+    "source": "龙岗区文化馆",
+    "district": "龙岗区"
   },
   {
     "title": "2026《华人之光·芭蕾明星GALA》",
@@ -15119,7 +16063,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海大剧院"
+    "source": "上海大剧院",
+    "district": "黄浦区"
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -15135,7 +16080,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "巫婆读书会 | 追逐候鸟的人：在旷野与书页间重拾好奇",
@@ -15151,7 +16097,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第644场",
@@ -15167,7 +16114,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -15183,7 +16131,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "她影：《七月与安生》",
@@ -15199,7 +16148,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "故事小讲堂第152期：“夏天的故事”陈伯吹获奖图书读书会",
@@ -15215,7 +16165,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "像鸡毛一样飞",
@@ -15231,7 +16182,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第645场",
@@ -15247,7 +16199,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "“深读”读书沙龙 | 在文学中疗愈和成长自己",
@@ -15263,7 +16216,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "阖家欢电影展映：《飞驰人生2》",
@@ -15279,7 +16233,8 @@ module.exports = [
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
@@ -15295,7 +16250,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "刘大壮「吉他不及她」巡回演唱会",
@@ -15311,7 +16267,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山文体中心"
+    "source": "南山文体中心",
+    "district": "南山区"
   },
   {
     "title": "弗里达：伟大的隐藏者",
@@ -15327,7 +16284,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "district": "南山区"
   },
   {
     "title": "美丽星期天——民乐鉴赏",
@@ -15343,7 +16301,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "《新时代的脉搏》国际管乐学院音乐节亚洲巡演专场音乐会",
@@ -15359,7 +16318,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "district": "宝安区"
   },
   {
     "title": "龙图思辨课（高段：五、六年级）",
@@ -15375,7 +16335,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "龙岗区图书馆"
+    "source": "龙岗区图书馆",
+    "district": "龙岗区"
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -15391,7 +16352,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -15407,7 +16369,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -15423,7 +16386,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "深圳自然博物馆开馆特展——自然之美",
@@ -15439,7 +16403,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳自然博物馆官网"
+    "source": "深圳自然博物馆官网",
+    "district": "坪山区"
   },
   {
     "title": "在一起，再出发——2026珠宝首饰设计展深圳",
@@ -15455,7 +16420,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳珠宝博物馆官网"
+    "source": "深圳珠宝博物馆官网",
+    "district": "盐田区"
   },
   {
     "title": "深圳自然博物馆恐龙厅与贝林标本展",
@@ -15471,7 +16437,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳自然博物馆"
+    "source": "深圳自然博物馆",
+    "district": "坪山区"
   },
   {
     "title": "2025年桃源公益形体培训活动",
@@ -15487,7 +16454,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "桃源街道综合性文化服务中心"
+    "source": "桃源街道综合性文化服务中心",
+    "district": "南山区"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -15503,7 +16471,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -15519,7 +16488,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -15535,7 +16505,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -15551,7 +16522,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -15567,7 +16539,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -15583,7 +16556,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
@@ -15599,7 +16573,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "gzdjy"
+    "source": "gzdjy",
+    "district": "天河区"
   },
   {
     "title": "音乐剧《粉丝来信》中文版",
@@ -15615,7 +16590,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shcstheatre"
+    "source": "shcstheatre",
+    "district": "黄浦区"
   },
   {
     "title": "深圳图书馆少儿服务区7月阅读推广活动",
@@ -15631,7 +16607,8 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "胭脂扣",
@@ -15647,7 +16624,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "东方幻境之旅：《侍神令》",
@@ -15663,7 +16641,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -15679,7 +16658,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "艺术疗愈人生",
@@ -15695,7 +16675,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《哪吒之魔童闹海》",
@@ -15711,7 +16692,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -15727,7 +16709,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -15743,7 +16726,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -15759,7 +16743,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "《在巴黎的星空下》芭蕾明星精品荟萃",
@@ -15775,7 +16760,8 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szbo"
+    "source": "szbo",
+    "district": "宝安区"
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
@@ -15791,7 +16777,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
@@ -15807,7 +16794,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "district": "福田区"
   },
   {
     "title": "鹤湖新居MR互动展览体验",
@@ -15823,7 +16811,8 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-84298800",
     "family_friendly": true,
-    "source": "龙岗客家民俗博物馆"
+    "source": "龙岗客家民俗博物馆",
+    "district": "龙岗区"
   },
   {
     "title": "舞剧《她的龟兹》",
@@ -15839,7 +16828,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "科普广图·2026“探海无疆”系列科普活动",
@@ -15855,7 +16845,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州图书馆"
+    "source": "广州图书馆",
+    "district": "天河区"
   },
   {
     "title": "广州图书馆8月科普开放日",
@@ -15871,7 +16862,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州图书馆"
+    "source": "广州图书馆",
+    "district": "天河区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -15887,7 +16879,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "夏日科幻季——《沙丘》",
@@ -15903,7 +16896,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
@@ -15919,7 +16913,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "美丽星期天——合唱音乐会",
@@ -15935,7 +16930,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -15951,7 +16947,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "KACE 2026 AI赋能跨境电商与海外达人合作展览会",
@@ -15967,7 +16964,8 @@ module.exports = [
     "fee": "免费",
     "contact": "高帆破浪科技（浙江）有限责任公司 唐炜&nbsp; &nbsp; &nbsp;15819327125&nbsp;&nbsp;",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -15983,7 +16981,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -15999,7 +16998,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
   },
   {
     "title": "俄罗斯经典冰上芭蕾舞剧《天鹅湖》《胡桃夹子》",
@@ -16015,7 +17015,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "shenzhen_binhai_art"
+    "source": "shenzhen_binhai_art",
+    "district": "宝安区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16031,7 +17032,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -16047,7 +17049,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
   },
   {
     "title": "马安堂社区暑期夏令营--“财富流沙盘推演”儿童财商启导与生涯规划体验",
@@ -16063,7 +17066,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "夏日科幻季——《明日战纪》",
@@ -16079,7 +17083,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -16095,7 +17100,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《龙猫》",
@@ -16111,7 +17117,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《妈妈咪鸭》",
@@ -16127,7 +17134,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "2026（秋）深圳国际家居软装博览会",
@@ -16143,7 +17151,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市博奥展览有限公司 何女士 0757-82363293",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -16159,7 +17168,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "杨丽萍作品2026版《平潭映象》",
@@ -16175,7 +17185,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳大剧院"
+    "source": "深圳大剧院",
+    "district": "罗湖区"
   },
   {
     "title": "故事小讲堂第153期：“神奇魔法”想象力主题图书会",
@@ -16191,7 +17202,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -16207,7 +17219,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
   },
   {
     "title": "鼻涕虫教授的昆虫秀",
@@ -16223,7 +17236,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
   },
   {
     "title": "沉浸式互动亲子科学剧《数学秀》",
@@ -16239,7 +17253,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗国际艺术中心"
+    "source": "龙岗国际艺术中心",
+    "district": "龙岗区"
   },
   {
     "title": "乔治·哈利奥诺钢琴独奏会《东方幻想》",
@@ -16255,7 +17270,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "陕西人艺话剧《主角》",
@@ -16271,7 +17287,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -16287,7 +17304,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "夏日科幻季——《明日之战》",
@@ -16303,7 +17321,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -16319,7 +17338,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
   },
   {
     "title": "美丽星期天——钢琴独奏会",
@@ -16335,7 +17355,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "马安堂社区暑期夏令营--小记者议事团培育活动",
@@ -16351,7 +17372,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026上海书展暨“书香中国”上海周",
@@ -16367,7 +17389,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海展览中心"
+    "source": "上海展览中心",
+    "district": "静安区"
   },
   {
     "title": "夏日科幻季——《749局》",
@@ -16383,7 +17406,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《愤怒的小鸟大电影》",
@@ -16399,7 +17423,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《星际宝贝》",
@@ -16415,7 +17440,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "第五十五届深圳家装节",
@@ -16431,7 +17457,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市点耐特网络信息有限公司 张先生 4008222160",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "IWF2026深圳国际健身展暨运动用品外贸出口与跨境选品展",
@@ -16447,7 +17474,8 @@ module.exports = [
     "fee": "免费",
     "contact": "上海德纳展览有限公司 张女士 021-66102038/18918849010",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "第二十届 SIAS 深圳国际音频展",
@@ -16463,7 +17491,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳千音国际展览有限公司 李女士&nbsp; 17775791203",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "杨丽萍作品舞蹈剧场2026版《十面埋伏》",
@@ -16479,7 +17508,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzdjy"
+    "source": "gzdjy",
+    "district": "天河区"
   },
   {
     "title": "音乐剧《大状王》",
@@ -16495,7 +17525,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海文化广场"
+    "source": "上海文化广场",
+    "district": "黄浦区"
   },
   {
     "title": "马安堂社区荷美书社公益读书会",
@@ -16511,7 +17542,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "故事小讲堂第154期：“勇敢做自己”入学准备主题图书会",
@@ -16527,7 +17559,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "26|27赛季HYROX健身跑深圳站",
@@ -16543,7 +17576,8 @@ module.exports = [
     "fee": "免费",
     "contact": "嗨炼体育文化（上海）有限公司&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 袁放&nbsp; &nbsp; 15901448102",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -16559,7 +17593,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "district": "龙华区"
   },
   {
     "title": "Duo Perfetto意大利撒丁岛二重奏《弦系四季》",
@@ -16575,7 +17610,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "刘莉旻「下一站，嘉禾望岗」2026深圳特别专场",
@@ -16591,7 +17627,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "马安堂社区幸福陪伴·父母成长公益课堂",
@@ -16607,7 +17644,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -16623,7 +17661,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "夏日科幻季——《月球陨落》",
@@ -16639,7 +17678,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -16655,7 +17695,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "夏日科幻季——《流浪地球》",
@@ -16671,7 +17712,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《萤火奇兵》",
@@ -16687,7 +17729,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《星际宝贝2》",
@@ -16703,7 +17746,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
@@ -16719,7 +17763,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
@@ -16735,7 +17780,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "district": "福田区"
   },
   {
     "title": "中国国家话剧院话剧《青蛇》",
@@ -16751,7 +17797,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "原创话剧《莫比乌斯环》",
@@ -16767,7 +17814,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳大剧院"
+    "source": "深圳大剧院",
+    "district": "罗湖区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -16783,7 +17831,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "夏日科幻季——《流浪地球2》",
@@ -16799,7 +17848,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "故事小讲堂第156期：“泥巴会唱歌”陈伯吹获奖图书读书会",
@@ -16815,7 +17865,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -16831,7 +17882,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "第八届精密陶瓷产业链展览会",
@@ -16847,7 +17899,8 @@ module.exports = [
     "fee": "免费",
     "contact": "龙璇  18318676293",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际新能源连接器及线束加工技术展览会",
@@ -16863,7 +17916,8 @@ module.exports = [
     "fee": "免费",
     "contact": "高雅  13918474775  ",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第5届国际文创新品及潮玩（深圳）展览会",
@@ -16879,7 +17933,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈晓钰  0755-83350303",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第14届国际IP授权产业(深圳)博览会",
@@ -16895,7 +17950,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈晓钰  0755-83350303",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "AGIC 2026深圳国际通用人工智能大会暨深圳国际通用人工智能产业博览会",
@@ -16911,7 +17967,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "IOTE®2026 第二十五届国际物联网展•深圳站",
@@ -16927,7 +17984,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "IOTE®2026国际物联网展·智能传感器与嵌入式展",
@@ -16943,7 +18001,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "IOTE®2026国际物联网展·通信定位展",
@@ -16959,7 +18018,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "IOTE®2026国际物联网展·RFID自动识别展",
@@ -16975,7 +18035,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈先生  +86-18676385933",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "PCIM Asia Shenzhen — 深圳国际电力元件、可再生能源管理展览会暨研讨会",
@@ -16991,7 +18052,8 @@ module.exports = [
     "fee": "免费",
     "contact": "020-38251558",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "SETE深圳国际储能技术展览会",
@@ -17007,7 +18069,8 @@ module.exports = [
     "fee": "免费",
     "contact": "高雅  13918474775",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "ARE第18届深圳国际工业自动化及机器人展览会",
@@ -17023,7 +18086,8 @@ module.exports = [
     "fee": "免费",
     "contact": "张先生  18621271618",
     "family_friendly": true,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "ICH第18届深圳国际连接器、线缆线束及加工设备展览会",
@@ -17039,7 +18103,8 @@ module.exports = [
     "fee": "免费",
     "contact": "杨国  13661626920",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第十届深圳国际智能装备产业博览会<br/>第十三届深圳国际电子装备产业博览会",
@@ -17055,7 +18120,8 @@ module.exports = [
     "fee": "免费",
     "contact": "张生  13632577866",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "深圳国际3D打印、增材制造及精密成型展览会",
@@ -17071,7 +18137,8 @@ module.exports = [
     "fee": "免费",
     "contact": "+86 20 3825 1558",
     "family_friendly": true,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "夏日科幻季——《蜘蛛侠》",
@@ -17087,7 +18154,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《黑猫警长之翡翠之星》",
@@ -17103,7 +18171,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "观影《借物少女艾莉缇》",
@@ -17119,7 +18188,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
@@ -17135,7 +18205,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "district": "福田区"
   },
   {
     "title": "深圳法律服务博览会（2026）",
@@ -17151,7 +18222,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市律师协会 江女士，0755-83025737、18823349360&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "陕西人艺茅奖系列话剧《主角》",
@@ -17167,7 +18239,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzdjy"
+    "source": "gzdjy",
+    "district": "天河区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -17183,7 +18256,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "夏日科幻季——《星际探索》",
@@ -17199,7 +18273,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -17215,7 +18290,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
   },
   {
     "title": "金冠之下：新罗文物精华展",
@@ -17231,7 +18307,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "来自喜马拉雅的瑰宝：西藏萨迦文物精品展",
@@ -17247,7 +18324,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "《来自三伯爵的请柬》音乐会",
@@ -17263,7 +18341,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海文化广场"
+    "source": "上海文化广场",
+    "district": "黄浦区"
   },
   {
     "title": "第七届CHWE出海网全球跨境电商展（深圳）",
@@ -17279,7 +18358,8 @@ module.exports = [
     "fee": "免费",
     "contact": "出海网跨境电商（广州）有限公司 刘女士 13570552478",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "深圳国际消费类电子及家用电器展（秋季）",
@@ -17295,7 +18375,8 @@ module.exports = [
     "fee": "免费",
     "contact": "广东潮域展览有限公司 蔡先生 13602600703",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026深圳国际珠宝展",
@@ -17311,7 +18392,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳邦友展览有限公司 李女士 0755-25616558",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "elexcon 2026 第23届深圳国际电子展暨嵌入式展",
@@ -17327,7 +18409,8 @@ module.exports = [
     "fee": "免费",
     "contact": "刘女士  0755-88311535",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026 IICIE国际集成电路创新博览会（简称：IC创新博览会）",
@@ -17343,7 +18426,8 @@ module.exports = [
     "fee": "免费",
     "contact": "王女士  0755-88242545",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第二十七届中国国际光电博览会（简称：CIOE中国光博会）",
@@ -17359,7 +18443,8 @@ module.exports = [
     "fee": "免费",
     "contact": "汪女士  86290901",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳华夏家博会秋季展",
@@ -17375,7 +18460,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳华墨展览有限公司 刘先生&nbsp; &nbsp; 0755-23915315 上海总部售后：4006188555",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026国际数字能源展",
@@ -17391,7 +18477,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳会展中心管理有限责任公司&nbsp; &nbsp; 李梦婷&nbsp; &nbsp;13418493243",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "CPHI &amp; PMEC制药工业展（深圳）(CPHI &amp; PMEC Shenzhen)",
@@ -17407,7 +18494,8 @@ module.exports = [
     "fee": "免费",
     "contact": "上海博华国际展览有限公司 CPHI＆PMEC项目组 021－33392222",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026第四届深圳eVTOL产业发展大会暨低空经济展览会（简称：深圳eVTOL展）",
@@ -17423,7 +18511,8 @@ module.exports = [
     "fee": "免费",
     "contact": "芬恩Fern  18116132595",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026年深圳跨境电商展览会（CCBEC）",
@@ -17439,7 +18528,8 @@ module.exports = [
     "fee": "免费",
     "contact": "CCBEC组委会  +86 755 8299 4989 / +86 755 8590 3104 / +86 10 5129 8656",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "深圳国际成人健康保健用品展览会",
@@ -17455,7 +18545,8 @@ module.exports = [
     "fee": "免费",
     "contact": "林女士  Mary  0592-6535115 / 18206063261",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026西溪火柿节",
@@ -17471,7 +18562,8 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州本地宝"
+    "source": "杭州本地宝",
+    "district": "西湖区"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -17487,7 +18579,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "第十六届深圳国际宠物用品展览会暨全球宠业跨境电商交易会",
@@ -17503,7 +18596,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市华艺时代文化展览有限公司 宋先生&nbsp; 0755-33654238",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "第五十六届深圳家装节",
@@ -17519,7 +18613,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市点耐特网络信息有限公司&nbsp; &nbsp; &nbsp; 张先生 4008222160&nbsp;",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "WESEMIBAY湾区半导体产业生态博览会（深圳）",
@@ -17535,7 +18630,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市芯盟会展有限公司 刘女士 0755-36868521、17640259285",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026华南国际粉末冶金与先进陶瓷展览会",
@@ -17551,7 +18647,8 @@ module.exports = [
     "fee": "免费",
     "contact": "赵女士  021-5988 1253",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "华南3D打印、增材制造展览会",
@@ -17567,7 +18664,8 @@ module.exports = [
     "fee": "免费",
     "contact": "房女士  021-6195 6071",
     "family_friendly": true,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第18届深圳国际移动电子展",
@@ -17583,7 +18681,8 @@ module.exports = [
     "fee": "免费",
     "contact": "400-680-7088",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第34届中国（深圳）国际礼品及家居用品展览会",
@@ -17599,7 +18698,8 @@ module.exports = [
     "fee": "免费",
     "contact": "400-680-7088",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",
@@ -17615,7 +18715,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江交响乐团"
+    "source": "浙江交响乐团",
+    "district": "拱墅区"
   },
   {
     "title": "2026亚洲具身机器人应用及供应链展",
@@ -17631,7 +18732,8 @@ module.exports = [
     "fee": "免费",
     "contact": "参展咨询：吴继钰女士  +86 0755-2383 4527 / aster.wu@rxglobal.com   参观咨询：孙梅女士  400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": true,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026智能工厂及自动化技术展览会",
@@ -17647,7 +18749,8 @@ module.exports = [
     "fee": "免费",
     "contact": "参展咨询：吴继钰女士 +86 0755-2383 4527 / aster.wu@rxglobal.com   参观咨询：孙梅女士 400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳商用显示技术展",
@@ -17663,7 +18766,8 @@ module.exports = [
     "fee": "免费",
     "contact": "李翔  +86 21- 2231 7018",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际全触与显示展",
@@ -17679,7 +18783,8 @@ module.exports = [
     "fee": "免费",
     "contact": "李翔  +86 21- 2231 7018",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际薄膜与胶带展",
@@ -17695,7 +18800,8 @@ module.exports = [
     "fee": "免费",
     "contact": "叶绪武先生（Mr. Aaron Ye）  021-2231 7259",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际胶粘剂及化工原料展",
@@ -17711,7 +18817,8 @@ module.exports = [
     "fee": "免费",
     "contact": "叶绪武先生（Mr. Aaron Ye）  021-2231 7259",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第十届国际新材料新工艺及色彩(简称CMF)展览会",
@@ -17727,7 +18834,8 @@ module.exports = [
     "fee": "免费",
     "contact": "井开元  0755-86060912",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际AI+AR智能眼镜产业展",
@@ -17743,7 +18851,8 @@ module.exports = [
     "fee": "免费",
     "contact": "李翔先生 021-2231 7018 / edison.li@rxglobal.com",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际智能网联汽车产业展览会",
@@ -17759,7 +18868,8 @@ module.exports = [
     "fee": "免费",
     "contact": "参展咨询：彭女士 0755 2383 4576 / fergie.peng@rxglobal.com   参观咨询：孙梅女士 400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "深圳国际半导体及电子元器件展览会暨深圳国际未来电子产业展览会",
@@ -17775,7 +18885,8 @@ module.exports = [
     "fee": "免费",
     "contact": "张女士  +86 139 2463 3103",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "中国（深圳）机器视觉展暨机器视觉技术及工业应用研讨会",
@@ -17791,7 +18902,8 @@ module.exports = [
     "fee": "免费",
     "contact": "尹先生  010-62650570",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026亚洲电子生产设备暨微电子工业展览会",
@@ -17807,7 +18919,8 @@ module.exports = [
     "fee": "免费",
     "contact": "参展咨询：谷冰蓉女士  +86 21 2231 7010 / julia.gu@rxglobal.com   参观咨询：孙梅女士 400 650 5611 / mei.sun@rxglobal.com",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026电子半导体产业创新发展大会暨国际电子电路（大湾区）展览会",
@@ -17823,7 +18936,8 @@ module.exports = [
     "fee": "免费",
     "contact": "+86-21-5417 9011 / +86-135 6462 0386",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "ICBE 2026深圳国际跨境电商交易博览会",
@@ -17839,7 +18953,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳扩展展览服务有限公司 张先生18516075888",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "海阔天高——亚太版画作品邀请展",
@@ -17855,7 +18970,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "中国版画博物馆"
+    "source": "中国版画博物馆",
+    "district": "龙华区"
   },
   {
     "title": "世界文明互鉴系列——莫斯科市博物馆茶文化展（万里茶道）",
@@ -17871,7 +18987,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "环宇璀璨：大都会艺术博物馆珠宝珍藏展",
@@ -17887,7 +19004,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "2026全球品牌创新峰会",
@@ -17903,7 +19021,8 @@ module.exports = [
     "fee": "免费",
     "contact": "杭州趋瀛新媒体科技有限公司&nbsp; &nbsp; 谢先生 18685105745",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026第九届深圳国际充换电、光储充、储能、氢能展暨电池技术展览会",
@@ -17919,7 +19038,8 @@ module.exports = [
     "fee": "免费",
     "contact": "上海贺励商务咨询有限公司 费先生 15921091892",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "第二十八届中国国际高新技术成果交易会",
@@ -17935,7 +19055,8 @@ module.exports = [
     "fee": "免费",
     "contact": "侯先生  13623815893",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "第六届疗愈博览会（深圳）",
@@ -17951,7 +19072,8 @@ module.exports = [
     "fee": "免费",
     "contact": "愈到（上海）展览有限公司&nbsp; 周女士&nbsp; 13761260618",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -17967,7 +19089,8 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "大音希声：八大山人诞辰400周年书画艺术大展",
@@ -17983,7 +19106,8 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "2026第二十届中国（深圳）国际物流与供应链博览会",
@@ -17999,7 +19123,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳大世界会展服务有限公司 窦先生 0755-83581352",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026国际电子电路（深圳）展览会",
@@ -18015,7 +19140,8 @@ module.exports = [
     "fee": "免费",
     "contact": "李女士  0755-86240033  /  靳女士  18124056937",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026华南国际标签与包装印刷展览会",
@@ -18031,7 +19157,8 @@ module.exports = [
     "fee": "免费",
     "contact": "张艳 18616787429",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "DMP大湾区工业博览会",
@@ -18047,7 +19174,8 @@ module.exports = [
     "fee": "免费",
     "contact": "翁先生  13560369448",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "核能高质量发展大会暨深圳国际核能产业创新博览会",
@@ -18063,7 +19191,8 @@ module.exports = [
     "fee": "免费",
     "contact": "核博会组委会 韩先生 18611121551",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026深圳国际心血管病技术展览会",
@@ -18079,7 +19208,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "SDHE 深圳国际口腔医学高新技术博览会",
@@ -18095,7 +19225,8 @@ module.exports = [
     "fee": "免费",
     "contact": "郭雪娇  18028626920",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际健康产业博览会",
@@ -18111,7 +19242,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际家庭医疗健康用品展览会",
@@ -18127,7 +19259,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": true,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际养老产业及康复博览会",
@@ -18143,7 +19276,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026深圳国际医疗器械展览会",
@@ -18159,7 +19293,8 @@ module.exports = [
     "fee": "免费",
     "contact": "陈玉虎  13671851591",
     "family_friendly": false,
-    "source": "深圳国际会展中心"
+    "source": "深圳国际会展中心",
+    "district": "宝安区"
   },
   {
     "title": "2026中国(深圳)国际秋季茶产业博览会",
@@ -18175,7 +19310,8 @@ module.exports = [
     "fee": "免费",
     "contact": "深圳市华巨臣国际会展集团有限公司 0755-82222201 陈经理 18938977739",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026第15届深圳生态农业暨食材、营养与健康产业博览会",
@@ -18191,7 +19327,8 @@ module.exports = [
     "fee": "免费",
     "contact": "丽扬传媒（广东横琴粤澳深度合作区）有限公司&nbsp; 杨小姐 0755-83184496",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026深圳国际珠宝玉石首饰展暨大湾区时尚珠宝消费季",
@@ -18207,6 +19344,7 @@ module.exports = [
     "fee": "免费",
     "contact": "中禹展览(上海)有限公司 张先生 13788942888",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   }
 ];

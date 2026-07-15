@@ -12,20 +12,27 @@ function normalizeCity(city) {
   return c;
 }
 
-function getDistrict(source) {
-  if (!source) return '其他';
-  // 优先用英文 key 匹配（原始 districtMapping）
-  var d = districtMapping[source];
-  if (d) return d;
-  // fallback：中文 source 名精确匹配
-  if (sourceChineseToDistrict) {
-    d = sourceChineseToDistrict[source];
-    if (d) return d;
+function getDistrict(input) {
+  // input 可为活动对象或老的 source 字符串，统一处理
+  var source = null, venue = null, dataDistrict = null;
+  if (input && typeof input === 'object') {
+    dataDistrict = input.district;
+    source = input.source;
+    venue = input.venue;
+  } else {
+    source = input;
   }
-  // 再 fallback：源名里含区县关键字则直接归该区（兜底，覆盖未逐一登记的场馆）
+  // 1) 优先使用数据层已算好的 district 字段（exhibitions.json / exhibitions.js 均已含 district）
+  if (dataDistrict && dataDistrict !== '其他') return dataDistrict;
+  // 2) 回退：原映射（兼容老数据 / 客户端兜底）
+  if (source && districtMapping[source]) return districtMapping[source];
+  if (source && sourceChineseToDistrict && sourceChineseToDistrict[source]) return sourceChineseToDistrict[source];
+  if (venue && sourceChineseToDistrict && sourceChineseToDistrict[venue]) return sourceChineseToDistrict[venue];
+  // 3) 关键字兜底：源名/场馆名里含区县关键字直接归该区
   if (districtKeywords) {
+    var text = [source, venue].filter(Boolean).join(' ');
     for (var i = 0; i < districtKeywords.length; i++) {
-      if (source.indexOf(districtKeywords[i][0]) >= 0) {
+      if (text.indexOf(districtKeywords[i][0]) >= 0) {
         return districtKeywords[i][1];
       }
     }
@@ -40,7 +47,7 @@ function getPresentDistricts(city, exhibitions) {
   const found = {};
   (exhibitions || []).forEach(function(e) {
     if (normalizeCity(e.city) !== city) return;
-    const d = getDistrict(e.source);
+    const d = getDistrict(e);
     if (d && d !== '其他') found[d] = true;
   });
   return all.filter(function(d) { return d === '全部区县' || found[d]; });
@@ -180,7 +187,7 @@ function getFilteredExhibitions(allExhibitions, filters) {
   }
 
   if (filters.district !== 'all') {
-    filtered = filtered.filter(function(e) { return getDistrict(e.source) === filters.district; });
+    filtered = filtered.filter(function(e) { return getDistrict(e) === filters.district; });
   }
 
   if (filters.source !== 'all') {
@@ -260,7 +267,7 @@ function buildDisplayItems(exhibitions) {
       dateBadge: dateBadge,
       dateDisplay: dateDisplay,
       duration: duration,
-      district: getDistrict(e.source),
+      district: getDistrict(e),
       monthLabel: monthLabel,
       cardId: cardId
     });

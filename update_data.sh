@@ -16,6 +16,10 @@ echo ""
 # 1. 运行爬虫主脚本 → 更新 output/
 python3 scripts/main.py
 
+# 1.5 区县映射补齐：给每条活动写入 district 字段，固化到数据层
+#     避免下次爬虫覆盖（exhibitions.json 历史上无 district 字段，区县靠端上临时算）
+python3 scripts/enrich_districts.py
+
 # 2. 检查活动数据是否有效
 if python3 -c "import json; json.load(open('output/exhibitions.json'))" 2>/dev/null; then
     echo "✅ 网页数据验证通过"
