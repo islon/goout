@@ -1,5 +1,5 @@
 // 童行小程序 - 工具函数
-const { districtMapping, sourceToVenue, sourceChineseToDistrict } = require('../data/filters.js');
+const { districtMapping, sourceToVenue, sourceChineseToDistrict, districtKeywords, districtsByCity } = require('../data/filters.js');
 
 function normalizeCity(city) {
   if (!city) return 'shenzhen';
@@ -13,16 +13,37 @@ function normalizeCity(city) {
 }
 
 function getDistrict(source) {
+  if (!source) return '其他';
   // 优先用英文 key 匹配（原始 districtMapping）
   var d = districtMapping[source];
   if (d) return d;
-  // fallback：中文 source 名匹配（覆盖 exhibitions.json 里实际的中文名 source）
+  // fallback：中文 source 名精确匹配
   if (sourceChineseToDistrict) {
     d = sourceChineseToDistrict[source];
     if (d) return d;
   }
-  // 再 fallback：按 venue 名称模糊匹配
+  // 再 fallback：源名里含区县关键字则直接归该区（兜底，覆盖未逐一登记的场馆）
+  if (districtKeywords) {
+    for (var i = 0; i < districtKeywords.length; i++) {
+      if (source.indexOf(districtKeywords[i][0]) >= 0) {
+        return districtKeywords[i][1];
+      }
+    }
+  }
   return '其他';
+}
+
+// 返回某城市当前数据中"实际有活动"的区县列表（'全部区县' 始终在前）
+// 这样区县筛选里不会出现一堆 0 活动的空区县
+function getPresentDistricts(city, exhibitions) {
+  const all = districtsByCity[city] || [];
+  const found = {};
+  (exhibitions || []).forEach(function(e) {
+    if (normalizeCity(e.city) !== city) return;
+    const d = getDistrict(e.source);
+    if (d && d !== '其他') found[d] = true;
+  });
+  return all.filter(function(d) { return d === '全部区县' || found[d]; });
 }
 
 function matchSource(exhibition, sourceKey) {
@@ -296,6 +317,7 @@ function buildVenueActivityCounts(venues, exhibitions) {
 module.exports = {
   normalizeCity,
   getDistrict,
+  getPresentDistricts,
   matchSource,
   getFeeType,
   getActivityType,

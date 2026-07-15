@@ -1,5 +1,5 @@
 const { cities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity } = require('../../data/filters.js');
-const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, matchSource, normalizeCity } = require('../../utils/helpers.js');
+const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, getPresentDistricts, matchSource, normalizeCity } = require('../../utils/helpers.js');
 
 const PAGE_SIZE = 20;
 const app = getApp();
@@ -35,7 +35,7 @@ Page({
 
     // 筛选可用性
     showAllSources: false,
-    loading: true,
+    loading: false,
     refreshing: false,
     lastUpdateText: ''
   },
@@ -47,6 +47,12 @@ Page({
     // 等待数据准备完成后加载
     app.onReady(function() {
       self.loadData();
+      self.updateLastUpdateText();
+    });
+    // 后台静默更新到最新数据后，自动刷新列表（用户无感）
+    app.onDataUpdated(function() {
+      self.loadData();
+      self.updateDistrictsAndVenues();
       self.updateLastUpdateText();
     });
   },
@@ -65,37 +71,22 @@ Page({
     this.doRefresh(false);
   },
 
-  // 统一刷新逻辑：直接从 GitHub raw 拉取最新数据
+  // 统一刷新逻辑：委托 app.js 拉取最新数据并写缓存
   doRefresh(isPullDown) {
     const self = this;
+    if (this.data.refreshing) return;
     this.setData({ refreshing: true });
 
-    wx.request({
-      url: 'https://raw.githubusercontent.com/islon/goout/main/output/exhibitions.json?t=' + Date.now(),
-      method: 'GET',
-      timeout: 15000,
-      success: function(res) {
-        if (res.statusCode === 200 && res.data && res.data.length > 0) {
-          app.globalData.exhibitions = res.data;
-          app.globalData.isRemoteData = true;
-          try {
-            wx.setStorageSync('goout_exhibitions_cache', res.data);
-            wx.setStorageSync('goout_exhibitions_cache_time', Date.now());
-          } catch (e) {}
-          self.loadData();
-          self.updateLastUpdateText();
-          wx.showToast({ title: '数据已更新', icon: 'success' });
-        } else {
-          wx.showToast({ title: '更新失败，稍后重试', icon: 'none' });
-        }
-      },
-      fail: function() {
-        wx.showToast({ title: '网络不给力', icon: 'none' });
-      },
-      complete: function() {
-        self.setData({ refreshing: false });
-        if (isPullDown) wx.stopPullDownRefresh();
-      }
+    app.forceRefresh(function(success) {
+      self.loadData();
+      self.updateDistrictsAndVenues();
+      self.updateLastUpdateText();
+      self.setData({ refreshing: false });
+      if (isPullDown) wx.stopPullDownRefresh();
+      wx.showToast({
+        title: success ? '数据已更新' : '网络不给力',
+        icon: success ? 'success' : 'none'
+      });
     });
   },
 
@@ -128,7 +119,7 @@ Page({
     const displayVenues = this.data.showAllSources
       ? allVenues
       : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
-    const rawDistricts = districtsByCity[city] || [];
+    const rawDistricts = getPresentDistricts(city, app.globalData.exhibitions || []);
     const districts = rawDistricts.map(function(d) {
       return { name: d, disabled: false };
     });
