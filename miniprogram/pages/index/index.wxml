@@ -10,50 +10,70 @@
     </view>
   </view>
 
-  <!-- 筛选栏 -->
+  <!-- 筛选区 -->
   <view class="filter-bar">
-    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
-      <view class="filter-chips">
-        <view 
-          class="chip {{activeCategory === '全部' ? 'chip-active' : ''}}" 
-          bindtap="onCategoryTap" data-value="全部">全部</view>
-        <view 
-          class="chip {{activeCategory === item ? 'chip-active' : ''}}" 
-          wx:for="{{categories}}" wx:key="*this" wx:if="{{item !== '全部'}}"
-          bindtap="onCategoryTap" data-value="{{item}}">{{item}}</view>
-      </view>
-    </scroll-view>
 
-    <view class="filter-actions">
-      <view 
-        class="action-btn {{activeFee === '免费' ? 'action-active' : ''}}"
-        bindtap="onFeeTap" data-value="{{activeFee === '免费' ? '全部' : '免费'}}">
-        <text>免费</text>
-      </view>
-      <view 
-        class="action-btn {{activeFamily === 'family' ? 'action-active' : ''}}"
-        bindtap="onFamilyTap" data-value="{{activeFamily === 'family' ? 'all' : 'family'}}">
-        <text>亲子</text>
-      </view>
-      <view 
-        class="action-btn {{activeCity !== '全部' ? 'action-active' : ''}}"
-        bindtap="toggleFilter">
-        <text>{{activeCity === '全部' ? '城市' : activeCity}} ▾</text>
-      </view>
+    <!-- 城市（含杭州，与 Web 版一致） -->
+    <view class="filter-row">
+      <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="filter-chips">
+          <view
+            class="chip {{activeCity === item ? 'chip-active' : ''}}"
+            wx:for="{{cities}}" wx:key="*this"
+            bindtap="onCityTap" data-value="{{item}}">{{item}}</view>
+        </view>
+      </scroll-view>
     </view>
-  </view>
 
-  <!-- 城市展开选择 -->
-  <view class="city-panel" wx:if="{{showFilter}}">
-    <view 
-      class="city-chip {{activeCity === item ? 'city-active' : ''}}"
-      wx:for="{{cities}}" wx:key="*this"
-      bindtap="onCityTap" data-value="{{item}}">{{item}}</view>
+    <!-- 时间维度（新增，对齐 Web 版） -->
+    <view class="filter-row">
+      <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="filter-chips">
+          <view
+            class="chip chip-sm {{activeTime === item ? 'chip-active' : ''}}"
+            wx:for="{{times}}" wx:key="*this"
+            bindtap="onTimeTap" data-value="{{item}}">{{timeLabels[item]}}</view>
+        </view>
+      </scroll-view>
+    </view>
+
+    <!-- 快捷：免费 / 亲子 + 类型（横向滚动） -->
+    <view class="filter-row filter-row-actions">
+      <view class="quick-tags">
+        <view
+          class="action-btn {{activeFee === '免费' ? 'action-active' : ''}}"
+          bindtap="onFeeTap" data-value="{{activeFee === '免费' ? '全部' : '免费'}}">免费</view>
+        <view
+          class="action-btn {{activeFamily === 'family' ? 'action-active' : ''}}"
+          bindtap="onFamilyTap" data-value="{{activeFamily === 'family' ? 'all' : 'family'}}">亲子</view>
+      </view>
+      <scroll-view scroll-x class="filter-scroll flex-1" enhanced show-scrollbar="{{false}}">
+        <view class="filter-chips">
+          <view
+            class="chip chip-sm {{activeCategory === item ? 'chip-active' : ''}}"
+            wx:for="{{categories}}" wx:key="*this"
+            bindtap="onCategoryTap" data-value="{{item}}">{{item}}</view>
+        </view>
+      </scroll-view>
+    </view>
+
+    <!-- 区县联动（仅选中具体城市时显示） -->
+    <view class="district-panel" wx:if="{{activeCity !== '全部'}}">
+      <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="filter-chips">
+          <view
+            class="chip chip-xs {{activeDistrict === item ? 'chip-active' : ''}}"
+            wx:for="{{districtOptions}}" wx:key="*this"
+            bindtap="onDistrictTap" data-value="{{item}}">{{item}}</view>
+        </view>
+      </scroll-view>
+    </view>
+
   </view>
 
   <!-- 活动列表 -->
   <view class="activity-list" wx:if="{{filteredActivities.length > 0}}">
-    <view 
+    <view
       class="activity-card"
       wx:for="{{filteredActivities}}" wx:key="_id"
       bindtap="onActivityTap" data-id="{{item._id}}">
@@ -80,8 +100,8 @@
         <text class="card-text">{{item.venue}}</text>
       </view>
 
-      <!-- 城市标记 -->
-      <view class="card-city">{{item._cityName}}</view>
+      <!-- 城市+区县标记 -->
+      <view class="card-city">{{item._cityName}}<text wx:if="{{item.district}}"> · {{item.district}}</text></view>
     </view>
 
     <!-- 列表底部 -->

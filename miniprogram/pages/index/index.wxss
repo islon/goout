@@ -29,24 +29,32 @@
   opacity: 0.7;
 }
 
-/* 筛选栏 */
+/* 筛选栏 - 吸顶 */
 .filter-bar {
   background: #FFFFFF;
-  padding: 20rpx 24rpx 16rpx;
+  padding: 16rpx 24rpx 12rpx;
   position: sticky;
   top: 0;
   z-index: 100;
   box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.06);
 }
+.filter-row {
+  margin-bottom: 14rpx;
+}
+.filter-row:last-child {
+  margin-bottom: 4rpx;
+}
+
 .filter-scroll {
   white-space: nowrap;
-  margin-bottom: 16rpx;
 }
 .filter-chips {
   display: inline-flex;
-  gap: 16rpx;
-  padding: 0 8rpx;
+  gap: 14rpx;
+  padding: 0 4rpx;
 }
+
+/* 通用 chip */
 .chip {
   display: inline-block;
   padding: 10rpx 28rpx;
@@ -57,24 +65,46 @@
   white-space: nowrap;
   transition: all 0.2s;
 }
+.chip-sm {
+  padding: 8rpx 24rpx;
+  font-size: 24rpx;
+  border-radius: 28rpx;
+}
+.chip-xs {
+  padding: 6rpx 20rpx;
+  font-size: 22rpx;
+  border-radius: 24rpx;
+}
 .chip-active {
   background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
   color: white;
   font-weight: 600;
 }
 
-.filter-actions {
+/* 快捷 + 类型 同行 */
+.filter-row-actions {
   display: flex;
-  gap: 20rpx;
   align-items: center;
+  gap: 16rpx;
 }
+.quick-tags {
+  display: flex;
+  gap: 12rpx;
+  flex-shrink: 0;
+}
+.flex-1 {
+  flex: 1;
+  min-width: 0;
+}
+
 .action-btn {
-  padding: 8rpx 24rpx;
+  padding: 8rpx 22rpx;
   border-radius: 24rpx;
   font-size: 24rpx;
   background: #FDF6ED;
   color: #78716C;
   border: 2rpx solid #F5E6D3;
+  white-space: nowrap;
 }
 .action-active {
   background: #E0F2F7;
@@ -82,27 +112,11 @@
   border-color: #0891B2;
 }
 
-/* 城市面板 */
-.city-panel {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16rpx;
-  padding: 24rpx;
-  background: #FFFFFF;
-  border-bottom: 2rpx solid #F5F0E8;
-}
-.city-chip {
-  padding: 12rpx 32rpx;
-  border-radius: 28rpx;
-  font-size: 26rpx;
-  background: #FDF6ED;
-  color: #78716C;
-  border: 2rpx solid #F5E6D3;
-}
-.city-active {
-  background: #D4A373;
-  color: white;
-  border-color: #D4A373;
+/* 区县联动面板 */
+.district-panel {
+  margin-top: 4rpx;
+  padding-top: 12rpx;
+  border-top: 2rpx solid #F5F0E8;
 }
 
 /* 活动卡片 */

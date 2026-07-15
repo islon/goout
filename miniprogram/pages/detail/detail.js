@@ -151,7 +151,7 @@ Page({
 
   onCopyLink() {
     wx.setClipboardData({
-      data: this.data.activity.link || this.data.activity.url || '',
+      data: this.data.activity.link || '',
       success: () => {
         wx.showToast({ title: '链接已复制', icon: 'success' })
       }

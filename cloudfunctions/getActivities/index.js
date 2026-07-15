@@ -8,23 +8,27 @@ cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })
 const db = cloud.database()
 
 exports.main = async (event, context) => {
-  const { category, city, fee, familyOnly, page = 1, pageSize = 50 } = event
+  const { category, city, fee, familyOnly, district, time, page = 1, pageSize = 50 } = event
 
   // 构建查询条件
   const where = {}
   
-  // 只查今天及以后的活动
+  // 只查今天及以后的活动（默认 upcoming）
   const today = new Date()
   today.setHours(0, 0, 0, 0)
-  // 注意：云数据库日期查询需要用 db.command
   const _ = db.command
-  where.end_date = _.gte(today)
+  if (!time || time === 'upcoming' || time === 'all') {
+    where.end_date = _.gte(today)
+  }
 
   if (category && category !== '全部') {
     where.category = category
   }
   if (city && city !== '全部') {
     where.city = city
+  }
+  if (district && district !== 'all') {
+    where.district = district
   }
   if (fee === '免费') {
     where.fee = _.in(['免费', '免费需预约'])
