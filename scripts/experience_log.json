@@ -118,5 +118,15 @@
     "data_quality_issues_fixed": 22,
     "lessons_learned": "1. 核心问题：gov.cn网站SSL BAD_ECPOINT错误是TLS握手层问题，verify=False无法解决，需要用curl子进程绕过。2. 创建了http_utils.py模块，提供curl_get/curl_post函数作为requests的替代方案。3. 发现文化馆云平台API(whgy.szmassart.com)是全市统一的活动数据源，包含宝安/福田/龙岗/光明等所有区的活动，用curl可以正常访问。4. 创建了scraper_culture_cloud.py统一文化馆云平台爬虫，一次拉取全市72条文化活动。5. 为22个0活动场馆补充了常设展/暑期活动数据到manual_data.json，包括博物馆常设展、安全教育体验展、暑期公益课程等。6. 活动总数从1066增至1159(+93条)，所有之前0活动的场馆现在都有数据。7. 数据质量校验通过，0个问题。8. API的pageTotal字段是总条数不是总页数，第2页返回相同数据，通过dedup和early break避免无效请求。9. git push被拒时需先stash未提交变更，再pull --rebase，最后stash pop恢复。",
     "improvement_ideas": "1. 可考虑修改其他gov.cn依赖的爬虫也使用http_utils的curl_get替代requests.get。2. 可考虑为文化馆云平台API增加更多区级端点（如ftqwhg/baqwtzx等），获取更多区级特色活动。3. 可考虑为博物馆类场馆编写专门的常设展维护脚本，定期更新展览信息。4. 可考虑从微信公众号、小红书等社交平台自动收集活动信息作为补充数据源。5. 可考虑增加数据去重逻辑，文化馆云平台和手动数据可能有重复活动。6. 可考虑为curl_get增加重试逻辑和超时配置。7. 可考虑在GitHub Actions环境中也安装curl并配置http_utils作为备用HTTP方案。"
+  },
+  {
+    "date": "2026-07-15",
+    "activities_total": 1156,
+    "issues_closed": 4,
+    "issues_remaining": 0,
+    "new_activities_added": 4,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本次处理4个新活动发现Issues：#85青春共鸣——深港两地书画艺术交流展(福田区/福田美术馆)、#86《海洋奇缘：起航》迪士尼电影主题展(南山区/深圳人才公园)、#87深圳欢乐谷·夏浪狂欢节(南山区/深圳欢乐谷)、#88深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节(南山区/深圳世界之窗)。2. fee判断：展览免费开放→免费；主题展免费免预约→免费；有票价信息(130-228元)→收费。3. family_friendly判断：展览和户外主题活动→true；演出活动→true。4. gov.cn网站SSL证书问题(BAD_ECPOINT)依然严重，34个爬虫中有24个返回0条数据，文化馆云平台是重要数据来源。5. 微信爬虫获取0篇文章，社交平台数据采集能力有待增强。6. check_data_quality.py检查通过，0个数据质量问题。7. manual_data.json从981条增至985条，新增4条活动。8. 数据管线运行正常，共抓取1156条有效活动，全部有官方来源。9. 新增活动均包含完整来源链接，确保信息可溯源。",
+    "improvement_ideas": "1. 可考虑新增福田美术馆scraper自动采集展览信息，该场馆已有多条手动数据。2. 可考虑新增深圳人才公园scraper自动采集户外主题活动信息。3. 可考虑新增深圳欢乐谷和深圳世界之窗scraper自动采集暑期活动信息。4. 可考虑增加活动过期自动清理机制，减少手动维护工作量。5. 可考虑增加数据去重逻辑，同一活动可能来自不同数据源。6. 可考虑优化微信爬虫，增加更多公众号和文章获取方式。7. 可考虑为gov.cn爬虫增加curl替代方案，绕过SSL问题。"
   }
 ]
