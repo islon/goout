@@ -79,6 +79,27 @@ def enrich_exhibitions():
         print('  "其他" 来源：无')
 
 
+# 网页版只读分城市文件 output/exhibitions_{city}.json，必须同步补齐 district，否则网页区县筛选与小程序不一致
+CITY_CODES = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou']
+
+
+def enrich_city_files():
+    for city in CITY_CODES:
+        path = os.path.join(PROJECT_ROOT, 'output', f'exhibitions_{city}.json')
+        if not os.path.exists(path):
+            continue
+        arr = load_json(path)
+        changed = 0
+        for e in arr:
+            d = resolve_district(city, e.get('source'), e.get('venue'),
+                                 e.get('address'), e.get('description'))
+            if e.get('district') != d:
+                e['district'] = d
+                changed += 1
+        save_json(path, arr)
+        print(f'[分城市] {city}: 补齐 district {changed} 条')
+
+
 def enrich_venues():
     if not os.path.exists(VENUE_INFO_FILE):
         print(f'跳过场馆富集：文件不存在 {VENUE_INFO_FILE}')
@@ -102,5 +123,6 @@ def enrich_venues():
 if __name__ == '__main__':
     print('=== 开始数据富集（区县映射补齐）===')
     enrich_exhibitions()
+    enrich_city_files()
     enrich_venues()
     print('=== 完成 ===')

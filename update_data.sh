@@ -33,7 +33,9 @@ if python3 -c "import json; json.load(open('output/exhibitions.json'))" 2>/dev/n
     fi
     
     # 4. 提交并推送（网页数据 + 小程序打包数据）
-    git add output/exhibitions.json output/exhibitions.ics output/exhibitions.rss
+    #    注意：网页版只读 output/exhibitions_{城市}.json 分城市文件，必须整体提交 output/，
+    #    否则只提交主文件会导致网页刷新不到最新数据
+    git add output/
     git add miniprogram/data/exhibitions.js miniprogram/data/venues.js 2>/dev/null || true
     git commit -m "chore: 自动更新活动数据 & 同步小程序兜底 $(date '+%Y-%m-%d %H:%M')"
     git push

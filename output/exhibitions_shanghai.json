@@ -13,7 +13,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海玻璃博物馆"
+    "source": "上海玻璃博物馆",
+    "district": "宝山区"
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -29,7 +30,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆"
+    "source": "上海科技馆",
+    "district": "浦东新区"
   },
   {
     "title": "从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展",
@@ -45,7 +47,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "“数字一大·伟大征程”VR沉浸式体验项目",
@@ -61,7 +64,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中共一大纪念馆"
+    "source": "中共一大纪念馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海植物园国际新优展区",
@@ -77,7 +81,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海植物园"
+    "source": "上海植物园",
+    "district": "徐汇区"
   },
   {
     "title": "只有树知道",
@@ -93,7 +98,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "素心相映·邱瑞敏吴慧明艺术展",
@@ -109,7 +115,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中华艺术宫（上海美术馆）"
+    "source": "中华艺术宫（上海美术馆）",
+    "district": "浦东新区"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -125,7 +132,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "乔治·莫兰迪：独白",
@@ -141,7 +149,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浦东美术馆"
+    "source": "浦东美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区10周年夏日狂欢",
@@ -157,7 +166,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼度假区"
+    "source": "上海迪士尼度假区",
+    "district": "浦东新区"
   },
   {
     "title": "科好玩了——2026上海科技馆暑假营",
@@ -173,7 +183,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -189,7 +200,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆"
+    "source": "上海科技馆",
+    "district": "浦东新区"
   },
   {
     "title": "书房中的文艺复兴——10至17世纪的西方抄写、印刷与装帧艺术特展",
@@ -205,7 +217,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海图书馆"
+    "source": "上海图书馆",
+    "district": "徐汇区"
   },
   {
     "title": "让·努维尔：建筑在不朽中消失",
@@ -221,7 +234,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浦东美术馆"
+    "source": "浦东美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "天地星语——中国诗文里的天文",
@@ -237,7 +251,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "shanghai-astronomy"
+    "source": "shanghai-astronomy",
+    "district": "浦东新区"
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -253,7 +268,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "haichang"
+    "source": "haichang",
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园开园一周年暑期活动",
@@ -269,7 +285,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "legoland"
+    "source": "legoland",
+    "district": "金山区"
   },
   {
     "title": "珠归海上：庄万里家族捐赠两塗轩书画展（第二期）",
@@ -285,7 +302,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "暂得之乐：暂得楼捐赠明清瓷器展",
@@ -301,7 +319,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -317,7 +336,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网"
+    "source": "人民网",
+    "district": "静安区"
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -333,7 +353,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -349,7 +370,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "静安区"
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -365,7 +387,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "黄浦区"
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -381,7 +404,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "徐汇区"
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -397,7 +421,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "上海天文馆暑期活动",
@@ -413,7 +438,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆"
+    "source": "上海天文馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -429,7 +455,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆"
+    "source": "上海海洋水族馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -445,7 +472,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园"
+    "source": "上海迪士尼乐园",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼夏日狂欢节",
@@ -461,7 +489,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "上海海洋水族馆暑期探险",
@@ -477,7 +506,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "书之奇遇：艺术家手作书（PSA等等图书馆特别项目）",
@@ -493,7 +523,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海当代艺术博物馆"
+    "source": "上海当代艺术博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海动物园暑期动物主题科普活动",
@@ -509,7 +540,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "分龄绘本馆与艺术亲子公益课",
@@ -525,7 +557,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "机器人世界互动与水力搭建手工",
@@ -541,7 +574,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "非遗手作市集与少儿国风绘画",
@@ -557,7 +591,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "周末亲子读书会与自然写生",
@@ -573,7 +608,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "屋顶免费儿童乐园与儿童艺术公益展",
@@ -589,7 +625,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "流动艺术科普展与户外攀爬场地",
@@ -605,7 +642,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "复古里弄免费打卡与少儿国风公益展",
@@ -621,7 +659,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "虹口区"
   },
   {
     "title": "亲子共读与科创手工",
@@ -637,7 +676,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "阅读沙龙与童话舞台剧",
@@ -653,7 +693,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "亲子读书会与自然写生",
@@ -669,7 +710,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "航天科普与少儿编程",
@@ -685,7 +727,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "民国建筑导览与绘本剧",
@@ -701,7 +744,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "杨浦区"
   },
   {
     "title": "水主题科普与诗词手工",
@@ -717,7 +761,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "普陀区"
   },
   {
     "title": "海洋绘本与植物手工",
@@ -733,7 +778,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "矿石科普与红色研学",
@@ -749,7 +795,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "文物导览与非遗拓印",
@@ -765,7 +812,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "机器人互动与动物标本",
@@ -781,7 +829,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "恐龙化石与生物观察",
@@ -797,7 +846,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "消防模拟与逃生演练",
@@ -813,7 +863,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "净水实验与水科学探究",
@@ -829,7 +880,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "普陀区"
   },
   {
     "title": "火车模型与机械科普",
@@ -845,7 +897,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "航天航海与互动科学装置",
@@ -861,7 +914,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "长宁区"
   },
   {
     "title": "马桥文化手工与古陶临摹",
@@ -877,7 +931,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "海洋文化与航海科普",
@@ -893,7 +948,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "江南民俗与陶艺DIY",
@@ -909,7 +965,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "科举文化与古建筑手工",
@@ -925,7 +982,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "嘉定区"
   },
   {
     "title": "广富林文化与考古模拟",
@@ -941,7 +999,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "松江区"
   },
   {
     "title": "城市建筑手工与上海历史亲子导览",
@@ -957,7 +1016,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "艺术科技舞蹈公益课程",
@@ -973,7 +1033,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "非遗市集与国风绘画",
@@ -989,7 +1050,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "科创美术轮滑免费体验课",
@@ -1005,7 +1067,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "机器人与陶艺",
@@ -1021,7 +1084,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "杨浦区"
   },
   {
     "title": "水科学与绘画",
@@ -1037,7 +1101,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "普陀区"
   },
   {
     "title": "海洋科普与手工",
@@ -1053,7 +1118,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "剪纸与皮影",
@@ -1069,7 +1135,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "国风手工与露天音乐会",
@@ -1085,7 +1152,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "嘉定区"
   },
   {
     "title": "农耕科普与民俗手工",
@@ -1101,7 +1169,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "松江区"
   },
   {
     "title": "亲子球类与体能公益课",
@@ -1117,7 +1186,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "徐汇区"
   },
   {
     "title": "轮滑与滑板",
@@ -1133,7 +1203,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "乒乓球与羽毛球免费体验",
@@ -1149,7 +1220,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "杨浦区"
   },
   {
     "title": "环湖徒步与球类公益课",
@@ -1165,7 +1237,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "闵行区"
   },
   {
     "title": "少儿篮球与体能训练",
@@ -1181,7 +1254,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "宝山区"
   },
   {
     "title": "屋顶免费儿童乐园与艺术公益展",
@@ -1197,7 +1271,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -1213,7 +1288,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "chinaartmuseum"
+    "source": "chinaartmuseum",
+    "district": "浦东新区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -1229,7 +1305,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "shhistorymuseum"
+    "source": "shhistorymuseum",
+    "district": "黄浦区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -1245,7 +1322,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -1261,7 +1339,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆"
+    "source": "上海美术馆",
+    "district": "黄浦区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成",
@@ -1277,7 +1356,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中华艺术宫（上海美术馆）"
+    "source": "中华艺术宫（上海美术馆）",
+    "district": "浦东新区"
   },
   {
     "title": "夏日山茶惊艳盛放——杜鹃红山茶花事",
@@ -1293,7 +1373,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海植物园"
+    "source": "上海植物园",
+    "district": "徐汇区"
   },
   {
     "title": "2026上海夏季音乐节（MISA）",
@@ -1309,7 +1390,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "misa"
+    "source": "misa",
+    "district": "徐汇区"
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -1325,7 +1407,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园"
+    "source": "上海乐高乐园",
+    "district": "金山区"
   },
   {
     "title": "国采——故宫藏清代帝后服饰展",
@@ -1341,7 +1424,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "expomuseum"
+    "source": "expomuseum",
+    "district": "黄浦区"
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -1357,7 +1441,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆"
+    "source": "上海世博会博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "“拼了！真功夫”乐高探索中心十周年暑期活动",
@@ -1373,7 +1458,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "乐高探索中心"
+    "source": "乐高探索中心",
+    "district": "浦东新区"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -1389,7 +1475,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "shanghaimuseum"
+    "source": "shanghaimuseum",
+    "district": "黄浦区"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -1405,7 +1492,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "shanghaimuseum"
+    "source": "shanghaimuseum",
+    "district": "黄浦区"
   },
   {
     "title": "雨林探秘：玛雅大冒险（沉浸式体验展）",
@@ -1421,7 +1509,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "飞越马丘比丘：云端印加之旅（沉浸式体验展）",
@@ -1437,7 +1526,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -1453,7 +1543,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -1469,7 +1560,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海科技馆机器人总动员",
@@ -1485,7 +1577,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "浦东新区"
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -1501,7 +1594,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -1517,7 +1611,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -1533,7 +1628,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海市历史博物馆（上海革命历史博物馆）"
+    "source": "上海市历史博物馆（上海革命历史博物馆）",
+    "district": "黄浦区"
   },
   {
     "title": "话剧《无墙》",
@@ -1549,7 +1645,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shgtheatre"
+    "source": "shgtheatre",
+    "district": "黄浦区"
   },
   {
     "title": "上海博物馆青铜器探索营",
@@ -1565,7 +1662,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "黄浦区"
   },
   {
     "title": "龙马社原创话剧《断金》",
@@ -1581,7 +1679,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shcstheatre"
+    "source": "shcstheatre",
+    "district": "黄浦区"
   },
   {
     "title": "少年述史·馆员论典——地方文献与馆藏精品暑期定时导览",
@@ -1597,7 +1696,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海图书馆"
+    "source": "上海图书馆",
+    "district": "徐汇区"
   },
   {
     "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
@@ -1613,7 +1713,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shgtheatre"
+    "source": "shgtheatre",
+    "district": "黄浦区"
   },
   {
     "title": "上海自然博物馆夜宿奇妙夜",
@@ -1629,7 +1730,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual"
+    "source": "manual",
+    "district": "静安区"
   },
   {
     "title": "2026《华人之光·芭蕾明星GALA》",
@@ -1645,7 +1747,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海大剧院"
+    "source": "上海大剧院",
+    "district": "黄浦区"
   },
   {
     "title": "音乐剧《粉丝来信》中文版",
@@ -1661,7 +1764,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shcstheatre"
+    "source": "shcstheatre",
+    "district": "黄浦区"
   },
   {
     "title": "2026上海书展暨“书香中国”上海周",
@@ -1677,7 +1781,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海展览中心"
+    "source": "上海展览中心",
+    "district": "静安区"
   },
   {
     "title": "音乐剧《大状王》",
@@ -1693,7 +1798,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海文化广场"
+    "source": "上海文化广场",
+    "district": "黄浦区"
   },
   {
     "title": "金冠之下：新罗文物精华展",
@@ -1709,7 +1815,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "来自喜马拉雅的瑰宝：西藏萨迦文物精品展",
@@ -1725,7 +1832,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "《来自三伯爵的请柬》音乐会",
@@ -1741,7 +1849,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海文化广场"
+    "source": "上海文化广场",
+    "district": "黄浦区"
   },
   {
     "title": "环宇璀璨：大都会艺术博物馆珠宝珍藏展",
@@ -1757,7 +1866,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "大音希声：八大山人诞辰400周年书画艺术大展",
@@ -1773,6 +1883,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   }
 ]
