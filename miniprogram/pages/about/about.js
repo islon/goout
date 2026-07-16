@@ -1,36 +1,66 @@
+const { cities } = require('../../data/filters.js');
+
+// 从运行时全局数据动态统计各城市活动数 / 场馆数
+function buildCityLists(exhibitions, venues) {
+  const actCount = {};
+  (exhibitions || []).forEach(function(e) {
+    const c = e.city;
+    if (c) actCount[c] = (actCount[c] || 0) + 1;
+  });
+  const venCount = {};
+  (venues || []).forEach(function(v) {
+    const c = v.city;
+    if (c) venCount[c] = (venCount[c] || 0) + 1;
+  });
+
+  const cityList = cities.map(function(c) {
+    return {
+      name: c.name,
+      count: (actCount[c.key] || 0) + '条',
+      venues: (venCount[c.key] || 0) + '个场馆',
+      status: '已上线',
+      color: '#166534'
+    };
+  });
+
+  const links = cities.map(function(c) {
+    return {
+      city: c.name,
+      count: (actCount[c.key] || 0) + '条活动',
+      url: 'webcal://islon.github.io/goout/output/exhibitions_' + c.key + '.ics'
+    };
+  });
+
+  return { cityList: cityList, links: links };
+}
+
 Page({
   data: {
-    cities: [
-      { name: '深圳', count: '741条', venues: '138个场馆', status: '已上线', color: '#166534' },
-      { name: '杭州', count: '306条', venues: '135个场馆', status: '已上线', color: '#166534' },
-      { name: '广州', count: '304条', venues: '104个场馆', status: '已上线', color: '#166534' },
-      { name: '北京', count: '301条', venues: '116个场馆', status: '已上线', color: '#166534' },
-      { name: '上海', count: '301条', venues: '103个场馆', status: '已上线', color: '#166534' },
-      { name: '成都', count: '300条', venues: '120个场馆', status: '已上线', color: '#166534' },
-      { name: '重庆', count: '300条', venues: '105个场馆', status: '已上线', color: '#166534' },
-      { name: '南京', count: '300条', venues: '106个场馆', status: '已上线', color: '#166534' },
-      { name: '西安', count: '300条', venues: '109个场馆', status: '已上线', color: '#166534' },
-      { name: '武汉', count: '300条', venues: '103个场馆', status: '已上线', color: '#166534' }
-    ],
-    subscribeLinks: [
-      { city: '深圳', count: '741条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_shenzhen.ics' },
-      { city: '杭州', count: '306条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_hangzhou.ics' },
-      { city: '广州', count: '304条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_guangzhou.ics' },
-      { city: '北京', count: '301条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_beijing.ics' },
-      { city: '上海', count: '301条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_shanghai.ics' },
-      { city: '成都', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_chengdu.ics' },
-      { city: '重庆', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_chongqing.ics' },
-      { city: '南京', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_nanjing.ics' },
-      { city: '西安', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_xian.ics' },
-      { city: '武汉', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_wuhan.ics' }
-    ],
-    faqs: [
-      { q: '订阅后多久能看到活动？', a: '添加订阅后，手机日历会自动同步，通常几分钟内即可看到最新活动。之后每天自动更新。' },
-      { q: '国产手机日历不支持订阅怎么办？', a: '华为/小米/OPPO等自带日历大多不支持ICS订阅。建议使用方式一的「微信提醒」，或安装Google Calendar等第三方日历应用。' },
-      { q: '微信提醒会一直推送吗？', a: '每个活动只提醒一次，在活动开始前1天推送。你可以在微信设置中随时取消订阅。' },
-      { q: '订阅链接打不开？', a: 'webcal:// 开头的链接需要复制到日历App中添加，不能直接在浏览器打开。如果用HTTP链接，请用 https://islon.github.io/goout/output/ 对应城市的.ics文件。' },
-      { q: '场馆信息从哪里来？', a: '场馆指南中的场馆介绍由项目团队整理，覆盖已收录的活动场馆。如果你发现错误或想补充，欢迎在反馈页提交。' }
-    ]
+    cities: [],
+    subscribeLinks: []
+  },
+
+  onLoad() {
+    this.refreshFromGlobal();
+  },
+
+  // 从 globalData 取数填充；若数据尚未就绪，注册更新回调等首次拉取后再刷新
+  refreshFromGlobal() {
+    const app = getApp();
+    const exhibitions = (app.globalData && app.globalData.exhibitions) || [];
+    const venues = (app.globalData && app.globalData.venues) || [];
+    const result = buildCityLists(exhibitions, venues);
+    this.setData({ cities: result.cityList, subscribeLinks: result.links });
+
+    if ((!exhibitions.length || !venues.length) && app.onDataUpdated) {
+      const self = this;
+      app.onDataUpdated(function() {
+        const ex = (app.globalData && app.globalData.exhibitions) || [];
+        const ve = (app.globalData && app.globalData.venues) || [];
+        const r = buildCityLists(ex, ve);
+        self.setData({ cities: r.cityList, subscribeLinks: r.links });
+      });
+    }
   },
 
   onCopyUrl(e) {
