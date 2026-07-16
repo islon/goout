@@ -1454,7 +1454,7 @@
 
             <div class="sidebar-card">
                 <div class="sidebar-title">🌆 区县</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                <div class="filter-bar" id="sidebar-district-filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-district="all">全部区县</button>
                     <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
                     <button class="filter-btn" data-district="福田区" data-city="shenzhen">福田区</button>
@@ -2439,6 +2439,156 @@
             renderExhibitions();
         }
 
+        // ========== 区县/来源筛选：数据驱动补充（新增城市自动出现）==========
+        function cleanSourceLabel(s) {
+            if (!s) return s;
+            return String(s).replace(/官网$/, '').replace(/官方公众号$/, '').replace(/官微$/, '');
+        }
+
+        function bindDistrictButton(btn) {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('[data-district]').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentDistrictFilter = btn.dataset.district;
+                localStorage.setItem('schedule_district_filter', currentDistrictFilter);
+                currentPage = 1;
+                updateSourceButtonVisibility();
+                renderExhibitions();
+            });
+        }
+
+        function bindSourceButton(btn) {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('[data-source]').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentSourceFilter = btn.dataset.source;
+                localStorage.setItem('schedule_source_filter', currentSourceFilter);
+                currentPage = 1;
+                renderExhibitions();
+            });
+        }
+
+        function updateDistrictButtons() {
+            const districtButtons = document.querySelectorAll('[data-district]');
+            districtButtons.forEach(btn => {
+                if (btn.dataset.district === 'all') {
+                    btn.style.display = 'block';
+                } else {
+                    const btnCity = btn.dataset.city || 'shenzhen';
+                    if (btnCity === currentCityFilter) {
+                        btn.style.display = 'block';
+                    } else {
+                        btn.style.display = 'none';
+                    }
+                }
+            });
+        }
+
+        function updateSourceButtonVisibility() {
+            const sourceButtons = document.querySelectorAll('[data-source]');
+            sourceButtons.forEach(btn => {
+                const source = btn.dataset.source;
+                if (source === 'all') {
+                    btn.style.display = 'block';
+                } else {
+                    const btnCity = btn.dataset.city || 'shenzhen';
+                    const district = btn.dataset.district || getDistrict(source);
+                    const cityMatch = btnCity === currentCityFilter;
+                    const districtMatch = currentDistrictFilter === 'all' || district === currentDistrictFilter;
+                    if (cityMatch && districtMatch) {
+                        btn.style.display = 'block';
+                    } else {
+                        btn.style.display = 'none';
+                    }
+                }
+            });
+
+            if (currentSourceFilter !== 'all') {
+                const activeBtn = document.querySelector(`[data-source="${currentSourceFilter}"]`);
+                if (!activeBtn || activeBtn.style.display === 'none') {
+                    currentSourceFilter = 'all';
+                    localStorage.setItem('schedule_source_filter', 'all');
+                    sourceButtons.forEach(b => b.classList.remove('active'));
+                    sourceButtons.forEach(b => {
+                        if (b.dataset.source === 'all') b.classList.add('active');
+                    });
+                }
+            }
+        }
+
+        // 确保当前城市的区县/来源筛选按钮存在：缺失则从活动数据动态生成（新城市全自动）
+        // - 区县：所有城市都按数据补充缺失项（区县数量少、干净）
+        // - 来源：仅当该城市没有任何写死的来源按钮时才由数据生成（避免给已知城市追加上百个来源造成拥挤）
+        // - 同时处理顶部筛选栏与侧边栏（移动端）两组容器
+        function ensureCityFilters(city) {
+            if (!allExhibitions || !allExhibitions.length) return;
+            const cityNorm = normalizeCity(city);
+            const districts = new Set();
+            const sources = new Map(); // source -> {label, district}
+            allExhibitions.forEach(e => {
+                if (normalizeCity(e.city) !== cityNorm) return;
+                const d = getActivityDistrict(e);
+                if (d && d !== '其他') districts.add(d);
+                const s = e.source;
+                if (s && !sources.has(s)) {
+                    let label = cleanSourceLabel(s);
+                    // 若 source 是英文/代码 key 且活动带中文场馆名，用场馆名更友好（新城市无 curated 标签时）
+                    if (e.venue && /[一-龥]/.test(e.venue) && /^[A-Za-z0-9_.\-]+$/.test(s)) {
+                        label = e.venue;
+                    }
+                    sources.set(s, { label: label, district: d });
+                }
+            });
+
+            const pairs = [
+                { dBar: document.getElementById('district-filter-bar'), sBar: document.getElementById('source-filter-bar') },
+                { dBar: document.getElementById('sidebar-district-filter-bar'), sBar: document.getElementById('sidebar-source-filter-bar') }
+            ];
+
+            pairs.forEach(function(pair) {
+                const dBar = pair.dBar;
+                if (dBar) {
+                    const existing = {};
+                    dBar.querySelectorAll('[data-district]:not([data-district="all"])').forEach(b => { existing[b.dataset.district + '|' + (b.dataset.city || '')] = true; });
+                    districts.forEach(d => {
+                        if (!existing[d + '|' + city]) {
+                            const btn = document.createElement('button');
+                            btn.className = 'filter-btn';
+                            btn.setAttribute('data-district', d);
+                            btn.setAttribute('data-city', city);
+                            btn.textContent = d;
+                            bindDistrictButton(btn);
+                            dBar.appendChild(btn);
+                        }
+                    });
+                }
+
+                const sBar = pair.sBar;
+                if (sBar) {
+                    const hardcoded = sBar.querySelectorAll('[data-source]:not([data-source="all"])[data-city="' + city + '"]').length;
+                    if (hardcoded === 0) {
+                        const existing = {};
+                        sBar.querySelectorAll('[data-source]:not([data-source="all"])').forEach(b => { existing[b.dataset.source + '|' + (b.dataset.city || '')] = true; });
+                        sources.forEach((info, s) => {
+                            if (!existing[s + '|' + city]) {
+                                const btn = document.createElement('button');
+                                btn.className = 'filter-btn';
+                                btn.setAttribute('data-source', s);
+                                btn.setAttribute('data-city', city);
+                                if (info.district && info.district !== '其他') btn.setAttribute('data-district', info.district);
+                                btn.textContent = info.label;
+                                bindSourceButton(btn);
+                                sBar.appendChild(btn);
+                            }
+                        });
+                    }
+                }
+            });
+
+            updateDistrictButtons();
+            updateSourceButtonVisibility();
+        }
+
         function initFilters() {
             const cityButtons = document.querySelectorAll('[data-city]:not([data-district]):not([data-source])');
             cityButtons.forEach(btn => {
@@ -2472,25 +2622,10 @@
                     currentPage = 1;
                     updateDistrictButtons();
                     updateSourceButtonVisibility();
+                    ensureCityFilters(currentCityFilter);
                     renderExhibitions();
                 });
             });
-
-            function updateDistrictButtons() {
-                const districtButtons = document.querySelectorAll('[data-district]');
-                districtButtons.forEach(btn => {
-                    if (btn.dataset.district === 'all') {
-                        btn.style.display = 'block';
-                    } else {
-                        const btnCity = btn.dataset.city || 'shenzhen';
-                        if (btnCity === currentCityFilter) {
-                            btn.style.display = 'block';
-                        } else {
-                            btn.style.display = 'none';
-                        }
-                    }
-                });
-            }
 
             const timeButtons = document.querySelectorAll('[data-filter]');
             timeButtons.forEach(btn => {
@@ -2527,62 +2662,15 @@
                 if (btn.dataset.district === currentDistrictFilter) {
                     btn.classList.add('active');
                 }
-                btn.addEventListener('click', () => {
-                    districtButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentDistrictFilter = btn.dataset.district;
-                    localStorage.setItem('schedule_district_filter', currentDistrictFilter);
-                    currentPage = 1;
-                    updateSourceButtonVisibility();
-                    renderExhibitions();
-                });
+                bindDistrictButton(btn);
             });
-
-            function updateSourceButtonVisibility() {
-                const sourceButtons = document.querySelectorAll('[data-source]');
-                sourceButtons.forEach(btn => {
-                    const source = btn.dataset.source;
-                    if (source === 'all') {
-                        btn.style.display = 'block';
-                    } else {
-                        const btnCity = btn.dataset.city || 'shenzhen';
-                        const district = getDistrict(source);
-                        const cityMatch = btnCity === currentCityFilter;
-                        const districtMatch = currentDistrictFilter === 'all' || district === currentDistrictFilter;
-                        if (cityMatch && districtMatch) {
-                            btn.style.display = 'block';
-                        } else {
-                            btn.style.display = 'none';
-                        }
-                    }
-                });
-                
-                if (currentSourceFilter !== 'all') {
-                    const activeBtn = document.querySelector(`[data-source="${currentSourceFilter}"]`);
-                    if (!activeBtn || activeBtn.style.display === 'none') {
-                        currentSourceFilter = 'all';
-                        localStorage.setItem('schedule_source_filter', 'all');
-                        sourceButtons.forEach(b => b.classList.remove('active'));
-                        sourceButtons.forEach(b => {
-                            if (b.dataset.source === 'all') b.classList.add('active');
-                        });
-                    }
-                }
-            }
 
             const sourceButtons = document.querySelectorAll('[data-source]');
             sourceButtons.forEach(btn => {
                 if (btn.dataset.source === currentSourceFilter) {
                     btn.classList.add('active');
                 }
-                btn.addEventListener('click', () => {
-                    sourceButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentSourceFilter = btn.dataset.source;
-                    localStorage.setItem('schedule_source_filter', currentSourceFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
+                bindSourceButton(btn);
             });
 
             const feeButtons = document.querySelectorAll('[data-fee]');
@@ -2617,6 +2705,7 @@
 
             updateDistrictButtons();
             updateSourceButtonVisibility();
+            ensureCityFilters(currentCityFilter);
         }
 
         // 读取城市清单（与小程序共用 output/cities.json）；失败则兜底硬编码，保证按钮始终可见
