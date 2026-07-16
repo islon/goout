@@ -1,0 +1,327 @@
+/* 童行小程序 - 活动详情页样式 */
+
+.detail-page {
+  min-height: 100vh;
+  background: #FFFDF7;
+  padding: 24rpx;
+  padding-bottom: 60rpx;
+}
+
+/* 标题区 */
+.detail-header {
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  padding: 36rpx 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
+  border: 2rpx solid #F5F0E8;
+}
+
+.detail-title {
+  font-size: 36rpx;
+  font-weight: 700;
+  color: #292524;
+  line-height: 1.4;
+  margin-bottom: 20rpx;
+}
+
+.detail-badges {
+  display: flex;
+  gap: 12rpx;
+  flex-wrap: wrap;
+}
+
+.detail-badges .badge {
+  font-size: 20rpx;
+  padding: 6rpx 16rpx;
+  border-radius: 20rpx;
+}
+
+.badge-free {
+  background: #DCFCE7;
+  color: #166534;
+}
+
+.badge-paid {
+  background: #FEF3C7;
+  color: #92400E;
+}
+
+.badge-type {
+  background: #E0F2F7;
+  color: #0891B2;
+}
+
+.badge-family {
+  background: #FCE7F3;
+  color: #9D174D;
+}
+
+/* 信息卡片 */
+.info-card {
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  padding: 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
+  border: 2rpx solid #F5F0E8;
+}
+
+.info-row {
+  display: flex;
+  align-items: flex-start;
+  padding: 20rpx 0;
+  border-bottom: 2rpx solid #F5F0E8;
+}
+
+.info-row:last-child {
+  border-bottom: none;
+}
+
+.info-label {
+  font-size: 26rpx;
+  color: #78716C;
+  font-weight: 600;
+  width: 140rpx;
+  flex-shrink: 0;
+}
+
+.info-value {
+  font-size: 26rpx;
+  color: #292524;
+  flex: 1;
+  line-height: 1.5;
+}
+
+/* 活动介绍 */
+.desc-card {
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  padding: 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
+  border: 2rpx solid #F5F0E8;
+}
+
+.desc-title {
+  font-size: 28rpx;
+  font-weight: 700;
+  color: #292524;
+  margin-bottom: 16rpx;
+}
+
+.desc-content {
+  font-size: 26rpx;
+  color: #57534E;
+  line-height: 1.7;
+}
+
+/* 链接按钮 */
+.link-section {
+  margin-bottom: 20rpx;
+}
+
+.link-btn {
+  display: block;
+  width: 100%;
+  padding: 28rpx 0;
+  background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
+  color: #FFFFFF;
+  border-radius: 20rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+  box-shadow: 0 4rpx 16rpx rgba(212, 163, 115, 0.3);
+}
+
+.link-btn::after {
+  border: none;
+}
+
+.link-hint {
+  text-align: center;
+  font-size: 22rpx;
+  color: #A8A29E;
+  margin-top: 12rpx;
+}
+
+/* 活动提醒 */
+.remind-section {
+  margin-bottom: 20rpx;
+}
+
+.remind-card {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+  background: linear-gradient(135deg, #E0F2F7 0%, #F0F9FF 100%);
+  border-radius: 20rpx;
+  padding: 28rpx;
+  border: 2rpx solid #B9E4F0;
+  box-shadow: 0 2rpx 12rpx rgba(8, 145, 178, 0.08);
+}
+
+.remind-card.reminded {
+  background: linear-gradient(135deg, #DCFCE7 0%, #F0FDF4 100%);
+  border-color: #86EFAC;
+}
+
+.remind-card:active {
+  transform: scale(0.98);
+}
+
+.remind-icon {
+  font-size: 48rpx;
+  flex-shrink: 0;
+}
+
+.remind-text {
+  flex: 1;
+}
+
+.remind-title {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #292524;
+  margin-bottom: 6rpx;
+}
+
+.remind-desc {
+  font-size: 24rpx;
+  color: #57534E;
+  line-height: 1.5;
+}
+
+.remind-arrow {
+  font-size: 36rpx;
+  color: #0891B2;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.remind-card.reminded .remind-arrow {
+  color: #16A34A;
+}
+
+/* 场馆介绍 */
+.venue-intro-card {
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  padding: 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
+  border: 2rpx solid #F5F0E8;
+}
+
+.venue-intro-card.muted {
+  background: #FAFAF8;
+  border-color: #EDEAE4;
+}
+
+.intro-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16rpx;
+}
+
+.intro-title {
+  font-size: 28rpx;
+  font-weight: 700;
+  color: #292524;
+}
+
+.intro-more {
+  font-size: 24rpx;
+  color: #D4A373;
+}
+
+.intro-name {
+  font-size: 32rpx;
+  font-weight: 600;
+  color: #3D3229;
+  margin-bottom: 16rpx;
+}
+
+.intro-row {
+  font-size: 26rpx;
+  color: #57534E;
+  line-height: 1.5;
+  margin-bottom: 10rpx;
+}
+
+.intro-desc {
+  font-size: 26rpx;
+  color: #57534E;
+  line-height: 1.7;
+  margin-bottom: 16rpx;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.intro-highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10rpx;
+}
+
+.intro-tag {
+  padding: 6rpx 14rpx;
+  background: #FFF8F0;
+  color: #C49A6C;
+  font-size: 22rpx;
+  border-radius: 10rpx;
+}
+
+.intro-actions {
+  display: flex;
+  gap: 16rpx;
+  margin-top: 20rpx;
+}
+
+.intro-btn {
+  flex: 1;
+  padding: 14rpx 0;
+  background: #D4A373;
+  color: #FFFFFF;
+  border-radius: 12rpx;
+  font-size: 24rpx;
+  border: none;
+  line-height: 1.4;
+}
+
+.intro-btn::after {
+  border: none;
+}
+
+.intro-btn.secondary {
+  background: #FFFFFF;
+  color: #D4A373;
+  border: 1rpx solid #D4A373;
+}
+
+/* 联系信息 */
+.contact-section {
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  padding: 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
+  border: 2rpx solid #F5F0E8;
+}
+
+.contact-title {
+  font-size: 28rpx;
+  font-weight: 700;
+  color: #292524;
+  margin-bottom: 16rpx;
+}
+
+.contact-info {
+  font-size: 26rpx;
+  color: #57534E;
+  line-height: 1.6;
+}

@@ -1,0 +1,113 @@
+/* 全局样式 - 童行小程序 */
+page {
+  --sand-primary: #D4A373;
+  --sand-light: #E8D5BC;
+  --sand-dark: #B8895A;
+  --sand-bg: #FDF6ED;
+  --sand-50: #FFFBF5;
+  --sand-100: #FDF6ED;
+  --sand-200: #F5E6D3;
+  --ocean: #0891B2;
+  --ocean-light: #E0F2F7;
+  --forest: #166534;
+  --forest-light: #DCFCE7;
+  --bg-warm: #FFFDF7;
+  --surface: #FFFFFF;
+  --text-primary: #292524;
+  --text-secondary: #78716C;
+  --text-muted: #A8A29E;
+  --border: #F5F0E8;
+  --border-strong: #E7DFD3;
+  --shadow-sm: 0 2rpx 4rpx rgba(212, 163, 115, 0.05);
+  --shadow-md: 0 8rpx 24rpx rgba(212, 163, 115, 0.08);
+  --shadow-lg: 0 24rpx 48rpx rgba(212, 163, 115, 0.12);
+  --radius-sm: 16rpx;
+  --radius-md: 24rpx;
+  --radius-lg: 32rpx;
+  --radius-xl: 40rpx;
+
+  background: var(--bg-warm);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-size: 28rpx;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 通用 badge 样式 */
+.badge {
+  display: inline-block;
+  padding: 4rpx 16rpx;
+  border-radius: 20rpx;
+  font-size: 20rpx;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.badge-free {
+  background: #DCFCE7;
+  color: #166534;
+}
+
+.badge-paid {
+  background: #FEF3C7;
+  color: #92400E;
+}
+
+.badge-type {
+  background: #E0F2F7;
+  color: #0891B2;
+}
+
+.badge-family {
+  background: #FCE7F3;
+  color: #9D174D;
+}
+
+/* 筛选按钮 */
+.filter-btn {
+  display: inline-block;
+  padding: 12rpx 28rpx;
+  background: #FFFFFF;
+  border: 3rpx solid var(--border-strong);
+  border-radius: 48rpx;
+  font-size: 24rpx;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.filter-btn.active {
+  background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
+  color: #FFFFFF;
+  border-color: var(--sand-primary);
+  box-shadow: 0 4rpx 16rpx rgba(212, 163, 115, 0.3);
+  font-weight: 600;
+}
+
+.filter-btn.disabled {
+  opacity: 0.35;
+}
+
+/* 筛选区 */
+.filter-section {
+  background: var(--surface);
+  padding: 20rpx 24rpx;
+  border-bottom: 2rpx solid var(--border);
+}
+
+.filter-label {
+  font-size: 20rpx;
+  color: var(--text-muted);
+  margin-bottom: 16rpx;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1rpx;
+}
+
+.filter-bar {
+  display: flex;
+  gap: 12rpx;
+  flex-wrap: wrap;
+}

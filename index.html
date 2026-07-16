@@ -1081,7 +1081,7 @@
 <body>
     <div class="header">
         <div class="header-top">
-            <a href="https://f94bfvj21l.feishu.cn/share/base/form/shrcnYd80SsSC3rps8HXxiJ5cEZ" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
+            <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
             <a href="venue-guide.html" class="subscribe-link">🏛️ 场馆指南</a>
             <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
         </div>
@@ -1680,377 +1680,72 @@
         const PAGE_SIZE = 50;
         let filteredExhibitions = [];
 
-        const districtMapping = {
-            // 市级核心场馆
-            'szlib': '福田区',
-            'sz_children_lib': '福田区',
-            'szbwg': '福田区',
-            'szstm': '光明区',
-            'szcp': '福田区',
-            'szaac': '福田区',
-            'sznm': '坪山区',
-            'szbo': '宝安区',
-            'szconcert': '福田区',
-            'szmocap': '福田区',
-            'szsports': '福田区',
-            'szmassart': '福田区',
-            // 区级图书馆
-            'nslib': '南山区',
-            'balib': '宝安区',
-            'ftlib': '福田区',
-            'lhlib': '罗湖区',
-            'lglib': '龙岗区',
-            'lhxqlib': '龙华区',
-            'gmlib': '光明区',
-            'pslib': '坪山区',
-            'ytlib': '盐田区',
-            'dplib': '大鹏新区',
-            // 区级博物馆与科普馆
-            'nsmuseum': '南山区',
-            'lgmuseum': '龙岗区',
-            'bamuseum': '宝安区',
-            'lhmuseum': '龙华区',
-            'lhmuseum2': '罗湖区',
-            'dpgeopark': '大鹏新区',
-            'baoan_kjg': '宝安区',
-            'lgkjg': '龙岗区',
-            'lhkjg': '龙华区',
-            'ytkjg': '盐田区',
-            'gm_kjg': '光明区',
-            // 青少年宫
-            'baoan_qsng': '宝安区',
-            'nsqsng': '南山区',
-            'lgqsng': '龙岗区',
-            'lhqsng': '龙华区',
-            'lhqsng2': '罗湖区',
-            'gmqsng': '光明区',
-            'psqsng': '坪山区',
-            // 区级体育中心
-            'baoan_ty': '宝安区',
-            'nswtzx': '南山区',
-            'szwty': '南山区',
-            'lhtyzx': '龙岗区',
-            'lhwtx': '龙华区',
-            'gmtyzx': '光明区',
-            'lhtyzx2': '罗湖区',
-            'pstyzx': '坪山区',
-            'yttyzx': '盐田区',
-            // 其他公立场馆
-            'nswhg': '南山区',
-            'baoan_1990': '宝安区',
-            'bayarea_eye': '宝安区',
-            'baoan_guihua': '宝安区',
-            'lgguihua': '龙岗区',
-            'nsguihua': '南山区',
-            'lh_printmaking': '龙华区',
-            'nsaqjy': '南山区',
-            'skhykpg': '南山区',
-            'szmassart': '福田区',
-            'gmwhg': '光明区',
-            'lgwhg': '龙岗区',
-            'lhwhg': '龙华区',
-            'lhwhg2': '罗湖区',
-            'ftwhg': '福田区',
-            'ytwhg': '盐田区',
-            'pswhg': '坪山区',
-            'dpwhg': '大鹏新区',
-            // 旧字段兼容
-            'szcec': '福田区',
-            'shenzhen_world': '宝安区',
-            'ps_nature': '坪山区',
-            'gm_lib': '光明区',
-            'yt_lib': '盐田区',
-            'yt_history': '盐田区',
-            'dp_geopark': '大鹏新区',
-            'dp_nuclear': '大鹏新区',
-            'sz_safety': '福田区',
-            'oct_wetland': '南山区',
-            'lg_hakka': '龙岗区',
-            'lh_ecology': '龙华区',
-            'lh_paleo': '罗湖区',
-            'sarc': '南山区',
-            'ntgc': '南山区',
-            'zsjbwg': '南山区',
-            'nssxf': '南山区',
-            // 新增场馆
-            'szartm': '福田区',
-            'hxngallery': '南山区',
-            'polytheatre': '南山区',
-            'gmarts': '光明区',
-            'moacup': '福田区',
-            'gsyart': '福田区',
-            'szmuseum': '福田区',
-            'theme_park': '南山区',
-            'lg_arts': '龙岗区',
-            'opower': '南山区',
-            'sztyzx': '福田区',
-            // 广州
-            'gdmuseum': '天河区',
-            'gzam': '越秀区',
-            'gdartmuseum': '越秀区',
-            'gzmuseum': '越秀区',
-            'nanyuewang': '越秀区',
-            'nanhanerling': '番禺区',
-            'nongjiangsuo': '越秀区',
-            'gzdjy': '天河区',
-            'xinghai': '越秀区',
-            'zsauditorium': '越秀区',
-            // 上海
-            'shanghaimuseum': '黄浦区',
-            'chinaartmuseum': '浦东新区',
-            'expomuseum': '黄浦区',
-            'shanghai-astronomy': '浦东新区',
-            'shhistorymuseum': '黄浦区',
-            'shcstheatre': '黄浦区',
-            'shgtheatre': '黄浦区',
-            'misa': '徐汇区',
-            'haichang': '浦东新区',
-            'legoland': '金山区',
-            // 北京
-            'chnmuseum': '东城区',
-            'gugong': '东城区',
-            'namoc': '东城区',
-            'bjmuseum': '通州区',
-            'centuryaltar': '海淀区',
-            'ncpa': '西城区',
-            'bjry': '东城区',
-            'cntheatre': '西城区',
-            'cntstm': '朝阳区',
-            'bjsc': '西城区',
-            'bjplanet': '西城区',
-            'bjnm': '东城区',
-            'gugong': '东城区',
-            'sdmuseum': '西城区',
-            'bjlz': '西城区',
-            'shstm': '浦东新区',
-            'shnm': '静安区',
-            'shpsa': '黄浦区',
-            'shexpocenter': '浦东新区',
-            'shceec': '静安区',
-            'gdsc': '番禺区',
-            'gdsci': '越秀区',
-            'gzartmuseum': '海珠区',
-            'gzcec': '海珠区',
-            'cykjg': '朝阳区',
-            // 北京新增
-            'bjqsng': '西城区',
-            'cyqsng': '朝阳区',
-            'shougang': '石景山区',
-            'tongzhou_canal': '通州区',
-            'aosen': '朝阳区',
-            // 上海新增
-            'sh_children_lib': '静安区',
-            'shsng': '长宁区',
-            'shqyg': '徐汇区',
-            'qiantan_taikooli': '浦东新区',
-            'xuhui_riverside': '徐汇区',
-            'beitang_raffles': '虹口区',
-            // 广州新增
-            'gzlib': '天河区',
-            'gz_children_lib': '越秀区',
-            'gzsng': '荔湾区',
-            'gzwhg': '海珠区',
-            'yongqingfang': '荔湾区',
-            'canton_tower_riverside': '海珠区',
-            'nansha_coastal': '南沙区',
-        };
+        // ========== 数据驱动的场馆映射（从 venue_info.json 加载）==========
+        let _venueInfoMap = null;  // source/name → venue info
+        let _venueInfoList = null;
 
-        function getDistrict(source) {
-            return districtMapping[source] || '其他';
+        async function ensureVenueInfoLoaded() {
+            if (_venueInfoMap) return _venueInfoMap;
+            try {
+                const resp = await fetch('output/venue_info.json');
+                if (!resp.ok) return null;
+                const list = await resp.json();
+                _venueInfoList = list;
+                _venueInfoMap = {};
+                list.forEach(v => {
+                    if (v.source) _venueInfoMap[v.source] = v;
+                    if (v.name) _venueInfoMap[v.name] = v;
+                    // 确保别名也能匹配
+                    if (v.aliases) {
+                        v.aliases.forEach(a => { _venueInfoMap[a] = v; });
+                    }
+                });
+                return _venueInfoMap;
+            } catch(e) {
+                console.warn('场馆信息加载失败', e);
+                return null;
+            }
         }
 
-        // source key 到场馆名的映射（用于筛选匹配）
-        const sourceToVenue = {
-            'szlib': '深圳图书馆', 'sz_children_lib': '深圳少儿图书馆', 'szbwg': '深圳博物馆',
-            'szstm': '深圳科学技术馆', 'szcp': '深圳市少年宫', 'szaac': '深圳市青少年活动中心',
-            'sznm': '深圳自然博物馆', 'szbo': '深圳滨海艺术中心', 'szconcert': '深圳音乐厅',
-            'szmocap': '当代艺术与城市规划馆', 'szsports': '深圳市体育中心', 'szmassart': '深圳市文化馆',
-            'nslib': '南山图书馆', 'balib': '宝安图书馆', 'ftlib': '福田区图书馆',
-            'lhlib': '罗湖区图书馆', 'lglib': '龙岗区图书馆', 'lhxqlib': '龙华区图书馆',
-            'gmlib': '光明区图书馆', 'pslib': '坪山区图书馆', 'ytlib': '盐田区图书馆',
-            'dplib': '大鹏新区图书馆', 'nsmuseum': '南山博物馆', 'lgmuseum': '龙岗区博物馆',
-            'bamuseum': '宝安区博物馆', 'lhmuseum': '龙华区博物馆', 'lhmuseum2': '罗湖区博物馆',
-            'dpgeopark': '大鹏地质公园博物馆', 'baoan_kjg': '宝安科技馆', 'lgkjg': '龙岗区科技馆',
-            'lhkjg': '龙华区科技馆', 'ytkjg': '盐田区科技馆', 'gm_kjg': '光明区科技馆',
-            'baoan_qsng': '宝安区青少年宫', 'nsqsng': '南山区青少年活动中心',
-            'lgqsng': '龙岗区青少年宫', 'lhqsng': '龙华区青少年宫',
-            'lhqsng2': '罗湖区青少年活动中心', 'gmqsng': '光明区青少年活动中心',
-            'psqsng': '坪山区青少年宫', 'baoan_ty': '宝安体育中心', 'nswtzx': '南山文体中心',
-            'szwty': '深圳湾体育中心', 'lhtyzx': '龙岗体育中心', 'lhwtx': '龙华文体中心',
-            'gmtyzx': '光明区群众体育中心', 'lhtyzx2': '罗湖区体育中心',
-            'pstyzx': '坪山体育中心', 'yttyzx': '盐田体育中心',
-            'nswhg': '南山区文化馆', 'baoan_1990': '宝安1990文化馆',
-            'bayarea_eye': '湾区之眼', 'baoan_guihua': '宝安城市规划展览馆',
-            'lgguihua': '龙岗城市规划展览馆', 'nsguihua': '南山城市规划展览馆',
-            'lh_printmaking': '中国版画博物馆', 'nsaqjy': '南山安全教育体验馆',
-            'skhykpg': '蛇口海洋科普馆', 'szmassart': '深圳市文化馆',
-            'gmwhg': '光明区文化馆', 'lgwhg': '龙岗区文化馆',
-            'lhwhg': '龙华区文化馆', 'lhwhg2': '罗湖区文化馆',
-            'ftwhg': '福田区文化馆', 'ytwhg': '盐田区文化馆',
-            'pswhg': '坪山区文化馆', 'dpwhg': '大鹏新区文化馆',
-            'szartm': '深圳美术馆', 'hxngallery': '何香凝美术馆',
-            'polytheatre': '深圳保利剧院', 'gmarts': '光明文化艺术中心',
-            'moacup': '深圳市当代艺术与城市规划馆', 'gsyart': '关山月美术馆',
-            'szmuseum': '深圳博物馆', 'theme_park': '主题公园',
-            'lg_arts': '深圳龙岗国际艺术中心', 'opower': 'OPOWER文化艺术中心',
-            'sztyzx': '深圳市体育中心体育馆',
-            // 广州
-            'gdmuseum': '广东省博物馆',
-            'gzam': '广州艺术博物院',
-            'gdartmuseum': '广东美术馆',
-            'gzmuseum': '广州博物馆',
-            'nanyuewang': '南越王博物院',
-            'nanhanerling': '南汉二陵博物馆',
-            'nongjiangsuo': '农讲所纪念馆',
-            'gzdjy': '广州大剧院',
-            'xinghai': '星海音乐厅',
-            'zsauditorium': '广州中山纪念堂',
-            // 上海
-            'shanghaimuseum': '上海博物馆',
-            'chinaartmuseum': '上海美术馆',
-            'expomuseum': '上海世博会博物馆',
-            'shanghai-astronomy': '上海天文馆',
-            'shhistorymuseum': '上海市历史博物馆',
-            'shcstheatre': '上海文化广场',
-            'shgtheatre': '上海大剧院',
-            'misa': '捷豹上海交响音乐厅',
-            'haichang': '上海海昌海洋公园',
-            'legoland': '上海乐高乐园',
-            // 北京
-            'chnmuseum': '中国国家博物馆',
-            'gugong': '故宫博物院',
-            'namoc': '中国美术馆',
-            'bjmuseum': '北京大运河博物馆',
-            'centuryaltar': '中华世纪坛',
-            'ncpa': '国家大剧院',
-            'bjry': '首都剧场',
-            'cntheatre': '国家话剧院剧场',
-            'cntstm': '中国科学技术馆',
-            'bjsc': '北京科学中心',
-            'bjplanet': '北京天文馆',
-            'bjnm': '国家自然博物馆',
-            'gugong': '故宫博物院',
-            'sdmuseum': '首都博物馆',
-            'bjlz': '北京展览馆',
-            'shstm': '上海科技馆',
-            'shnm': '上海自然博物馆',
-            'shpsa': '上海当代艺术博物馆',
-            'shexpocenter': '上海世博展览馆',
-            'shceec': '上海展览中心',
-            'gdsc': '广东科学中心',
-            'gdsci': '广东科学馆',
-            'gzartmuseum': '广州美术馆',
-            'gzcec': '广交会展馆',
-            'cykjg': '朝阳区科技馆',
-            // 北京新增
-            'bjqsng': '北京市青少年活动中心',
-            'cyqsng': '朝阳区青少年活动中心',
-            'shougang': '首钢园·六工汇',
-            'tongzhou_canal': '通州运河文化广场',
-            'aosen': '奥林匹克森林公园',
-            // 上海新增
-            'sh_children_lib': '上海少年儿童图书馆',
-            'shsng': '上海市少年宫',
-            'shqyg': '上海市群众艺术馆',
-            'qiantan_taikooli': '前滩太古里',
-            'xuhui_riverside': '徐汇西岸滨江',
-            'beitang_raffles': '北外滩来福士广场',
-            // 广州新增
-            'gzlib': '广州图书馆',
-            'gz_children_lib': '广州少年儿童图书馆',
-            'gzsng': '广州市少年宫',
-            'gzwhg': '广州市文化馆',
-            'yongqingfang': '永庆坊',
-            'canton_tower_riverside': '广州塔珠江滨水步道',
-            'nansha_coastal': '南沙滨海公园',
-        };
+        // 从活动自带 district 字段获取区县（数据层已注入，不再前端推导）
+        function getDistrict(source, venue) {
+            // 优先从 venue_info 查
+            const info = _venueInfoMap;
+            if (info) {
+                const v = info[source] || info[venue];
+                if (v && v.district) return v.district;
+            }
+            return '其他';
+        }
+
+        // 从活动自带 district 字段直接获取（数据层已注入）
+        function getActivityDistrict(exhibition) {
+            return exhibition.district || getDistrict(exhibition.source, exhibition.venue);
+        }
 
         function matchSource(exhibition, sourceKey) {
             if (exhibition.source === sourceKey) return true;
-            const venueName = sourceToVenue[sourceKey];
-            if (venueName && exhibition.venue && exhibition.venue.includes(venueName)) return true;
+            // 用 venue_info 查场馆名
+            const info = _venueInfoMap;
+            if (info && info[sourceKey]) {
+                const venueName = info[sourceKey].name;
+                if (venueName && exhibition.venue && exhibition.venue.includes(venueName)) return true;
+            }
             return false;
         }
 
+        // 从活动自带 fee 字段获取费用类型（不再前端重新推导）
         function getFeeType(exhibition) {
-            const name = exhibition.name || '';
-            const desc = exhibition.description || '';
-            const venue = exhibition.venue || '';
-            
-            const freeKeywords = ['免费', '公益', '免门票', '免费开放', '免费参与'];
-            const paidKeywords = ['收费', '门票', '购票', '票价', '预售', '报名费用', '￥', '元'];
-            
-            if (freeKeywords.some(kw => name.includes(kw) || desc.includes(kw))) {
-                return 'free';
-            }
-            
-            if (paidKeywords.some(kw => name.includes(kw) || desc.includes(kw))) {
-                return 'paid';
-            }
-            
-            const freeVenues = ['图书馆', '宝安科技馆', '湾区之眼'];
-            if (freeVenues.some(v => venue.includes(v))) {
-                return 'free';
-            }
-            
-            const paidVenues = ['会展中心', '体育馆', '体育场', '体育中心'];
-            if (paidVenues.some(v => venue.includes(v))) {
-                return 'paid';
-            }
-            
+            const fee = exhibition.fee || '';
+            if (['免费', '免费需预约'].includes(fee)) return 'free';
+            if (['收费', '需购票'].includes(fee)) return 'paid';
+            if (fee === '部分免费') return 'partial';
             return 'unknown';
         }
 
+        // 从活动自带 category 字段获取类型（不再前端重新推导）
         function getActivityType(exhibition) {
-            if (exhibition.category) {
-                return exhibition.category;
-            }
-            const name = exhibition.name || '';
-            const venue = exhibition.venue || '';
-
-            if (venue.includes('体育') || name.includes('比赛') || name.includes('健身') || 
-                name.includes('运动') || name.includes('足球') || name.includes('篮球') ||
-                name.includes('羽毛球') || name.includes('乒乓球') || name.includes('网球') ||
-                name.includes('游泳') || name.includes('田径') || name.includes('马拉松') ||
-                name.includes('瑜伽') || name.includes('舞蹈') || name.includes('武术')) {
-                return '体育赛事';
-            }
-
-            if (venue.includes('科技馆') || name.includes('科学') || name.includes('科普') ||
-                name.includes('科技') || name.includes('机器人') || name.includes('编程') ||
-                name.includes('3D打印') || name.includes('VR') || name.includes('创客')) {
-                return '科普活动';
-            }
-
-            if (venue.includes('湾区之眼') || name.includes('艺术') || name.includes('展览') ||
-                name.includes('画展') || name.includes('摄影') || name.includes('雕塑')) {
-                return '展览';
-            }
-
-            if (venue.includes('图书馆') || name.includes('讲座') || name.includes('故事会') ||
-                name.includes('阅读') || name.includes('沙龙') || name.includes('分享')) {
-                return '讲座阅读';
-            }
-
-            if (name.includes('亲子') || name.includes('儿童') || name.includes('手工') ||
-                name.includes('夏令营') || name.includes('嘉年华')) {
-                return '亲子活动';
-            }
-
-            if (name.includes('音乐会') || name.includes('演唱会') || name.includes('话剧') ||
-                name.includes('歌剧') || name.includes('演出') || name.includes('演奏')) {
-                return '演出';
-            }
-
-            if (name.includes('电影') || name.includes('放映') || name.includes('观影')) {
-                return '影视放映';
-            }
-
-            if (name.includes('展览') || name.includes('展')) {
-                return '展览';
-            }
-
-            return '展览';
+            return exhibition.category || '其他';
         }
 
         function getTypeLabel(type) {
@@ -2071,14 +1766,14 @@
             if (currentSearchQuery) {
                 const query = currentSearchQuery.toLowerCase();
                 filtered = filtered.filter(e => 
-                    (e.name || '').toLowerCase().includes(query) ||
+                    (e.title || e.name || '').toLowerCase().includes(query) ||
                     (e.venue || '').toLowerCase().includes(query) ||
                     (e.description || '').toLowerCase().includes(query)
                 );
             }
 
             if (currentDistrictFilter !== 'all') {
-                filtered = filtered.filter(e => getDistrict(e.source) === currentDistrictFilter);
+                filtered = filtered.filter(e => getActivityDistrict(e) === currentDistrictFilter);
             }
 
             if (currentSourceFilter !== 'all') {
@@ -2118,7 +1813,7 @@
                     return filtered.filter(e => e.start_date <= weekLaterStr && e.end_date >= today);
 
                 case 'upcoming':
-                    return filtered.filter(e => e.start_date >= today);
+                    return filtered.filter(e => e.end_date >= today);
 
                 case 'month':
                     return filtered.filter(e => {
@@ -2317,12 +2012,12 @@
                     ? formatDate(startDate) 
                     : `${startDate.substring(5)} ~ ${endDate.substring(5)}`;
 
-                const cardId = exhibition.id || `${exhibition.source}-${exhibition.name}-${startDate}`;
+                const cardId = exhibition.id || `${exhibition.source}-${exhibition.title || exhibition.name || ''}-${startDate}`;
                 html += `
                     <div class="exhibition-card cat-${activityType}" data-id="${cardId}" data-idx="${globalIdx}">
                         ${dateBadge}
                         <div class="exhibition-header">
-                            <div class="exhibition-title">${exhibition.name}</div>
+                            <div class="exhibition-title">${exhibition.title || exhibition.name || ''}</div>
                             <div class="exhibition-badges">
                                 ${typeBadge}
                                 ${feeBadge}
@@ -2388,210 +2083,25 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        const venueAddressMap = {
-            'szcec': '福田区福华三路',
-            'shenzhen_world': '宝安区福海街道展城路1号',
-            'szlib': '福田区福中一路2001号',
-            'balib': '宝安区宝兴路1号',
-            'bayarea_eye': '宝安区宝兴路与海滨广场路交汇处',
-            'baoan_kjg': '宝安区新安街道龙井路123号',
-            'baoan_ty': '宝安区新安街道体育中心',
-            'baoan_guihua': '宝安区宝华路宝安图书馆旁',
-            'baoan_qingshaonian': '宝安区新安街道新安二路70号',
-            'shenzhen_binhai_art': '宝安区宝兴路欢乐港湾',
-            'baoan_zonghe': '宝安区新安街道',
-            'huanle_juchang': '宝安区宝华路欢乐港湾',
-            'baoan_binhai_park': '宝安区新安街道海滨广场',
-            'nslib': '南山区南山大道2093号',
-            'nsmuseum': '南山区南山大道2093号',
-            'nswhg': '南山区艺园路与正风路交汇处',
-            'skhykpg': '南山区南水路18号蛇口大厦副楼2层',
-            'sarc': '南山区科苑南路人才公园',
-            'ntgc': '南山区南头古城内',
-            'zsjbwg': '南山区蛇口街道水湾路',
-            'nsqsng': '南山区后海大道2551号',
-            'nswtzx': '南山区南山大道',
-            'szwty': '南山区滨海大道',
-            'skwtpark': '南山区蛇口街道',
-            'hqcwh': '南山区华侨城片区',
-            'nsaqjy': '南山区南山大道3109号中山公园内',
-            'nssxf': '南山区各街道（前海/留仙洞/西丽/蛇口/高新等）',
-            'rcpy': '南山区科苑南路',
-            'szwgy': '南山区深圳湾沿海',
-            'qhs': '南山区前海桂湾片区',
-            'ps_nature': '坪山区石井街道沙壆片区（地铁16号线沙壆站D出口）',
-            'gm_kjg': '光明区光明街道（地铁6号线光明站D出口）',
-            'gm_lib': '光明区光明街道',
-            'yt_lib': '盐田区海山街道（地铁8号线海山站）',
-            'yt_history': '盐田区沙头角街道中英街内',
-            'dp_geopark': '大鹏新区南澳街道地质公园路7号',
-            'dp_nuclear': '大鹏新区大亚湾核电基地',
-            'sz_children_lib': '福田区莲花街道（地铁3号线莲花村站D出口/10号线冬瓜岭站A出口）',
-            'sz_safety': '福田区梅林街道（地铁9号线下梅林站）',
-            'oct_wetland': '南山区华侨城（地铁1号线华侨城站）',
-            'baoan_1990': '宝安区新安街道（地铁5号线洪浪北站）',
-            'lg_hakka': '龙岗区龙岗街道（地铁3号线双龙站）',
-            'lh_printmaking': '龙华区观澜街道（地铁4号线牛湖站观澜版画村内）',
-            'lh_ecology': '龙华区观澜街道',
-            'lh_paleo': '罗湖区莲塘街道仙湖植物园内',
-            'szmassart': '福田区莲花街道',
-            'gmwhg': '光明区光明街道',
-            'lgwhg': '龙岗区龙城街道',
-            'lhwhg': '龙华区观澜街道',
-            'lhwhg2': '罗湖区文锦南路',
-            'ftwhg': '福田区景田路',
-            'ytwhg': '盐田区海山街道',
-            'pswhg': '坪山区坪山街道',
-            'dpwhg': '大鹏新区大鹏街道',
-            '宝安科技馆': '宝安区新安街道龙井路123号',
-            '宝安区文化馆': '宝安区新安街道龙井路123号',
-            '宝安区青少年宫': '宝安区新安街道新安二路70号',
-            '宝安体育中心': '宝安区新安街道体育中心',
-            '宝安区文化馆燕罗分馆': '宝安区燕罗街道',
-            '大鹏地质公园博物馆': '大鹏新区南澳街道地质公园路7号',
-            '深圳科学技术馆官网': '光明区光明街道（地铁6号线光明站D出口）',
-            '深圳博物馆': '福田区金田路4001号',
-            '龙岗区青少年宫': '龙岗区龙城街道',
-            '龙华区青少年宫': '龙华区观澜街道',
-            '龙岗区博物馆': '龙岗区龙城街道',
-            '深圳图书馆官网': '福田区福中一路2001号',
-            '宝安图书馆官网': '宝安区宝兴路1号',
-            '南山图书馆': '南山区南山大道2093号',
-            '南山区文化馆官网': '南山区艺园路与正风路交汇处',
-            '南山区青少年活动中心': '南山区后海大道2551号',
-            '南山区文化馆': '南山区艺园路与正风路交汇处',
-            '深圳市文化馆官网': '福田区莲花街道',
-            '深圳市体育中心': '福田区笋岗西路2006号',
-            '深圳湾体育中心': '南山区滨海大道3001号',
-            '南山文体中心': '南山区南山大道2093号',
-            '深圳音乐厅官网': '福田区福中一路2016号',
-            '深圳滨海艺术中心官网': '宝安区宝兴路欢乐港湾',
-            '深圳少年儿童图书馆官网': '福田区莲花街道（地铁3号线莲花村站）',
-            '深圳少年儿童图书馆公众号': '福田区莲花街道（地铁3号线莲花村站）',
-            '福田区图书馆官网': '福田区景田路70号',
-            '福田区图书馆': '福田区景田路70号',
-            '罗湖区图书馆官网': '罗湖区怡景路1012号',
-            '龙岗区图书馆官网': '龙岗区龙城街道',
-            '龙华区图书馆官网': '龙华区观澜街道',
-            '坪山区图书馆官网': '坪山区坪山街道',
-            '盐田区图书馆官网': '盐田区海山街道（地铁8号线海山站）',
-            '大鹏新区图书馆官网': '大鹏新区大鹏街道',
-            '光明区图书馆官网': '光明区光明街道',
-            '光明区文化馆': '光明区光明街道',
-            '桃源街道文化服务中心': '南山区桃源街道',
-            '深圳市少年宫官网': '福田区福中一路2002号',
-            'szartm': '福田区红荔路6026号（地铁3号线少年宫站A出口）',
-            'hxngallery': '南山区深南大道9013号（地铁1号线华侨城站C出口）',
-            'polytheatre': '南山区后海滨路3013号（地铁2号线后海站）',
-            'gmarts': '光明区光明街道（地铁6号线光明站）',
-            'moacup': '福田区福中路184号（地铁3号线/4号线少年宫站）',
-            'gsyart': '福田区红荔路6026号（地铁3号线莲花村站）',
-            'szmuseum': '福田区金田路4001号（地铁2号线/4号线市民中心站）',
-            'theme_park': '南山区华侨城（地铁1号线世界之窗站/华侨城站）',
-            'lg_arts': '龙岗区大运新城（地铁3号线/14号线/16号线大运站）',
-            'opower': '南山区华侨城（地铁1号线侨城东站）',
-            'sztyzx': '福田区笋岗西路2006号（地铁3号线通新岭站）',
-            // 广州
-            'gdmuseum': '天河区珠江新城珠江东路2号',
-            'gzam': '越秀区麓湖路13号',
-            'gdartmuseum': '越秀区二沙岛烟雨路38号',
-            'gzmuseum': '越秀区越秀公园内镇海楼',
-            'nanyuewang': '越秀区解放北路867号',
-            'nanhanerling': '番禺区大学城华师一路8号',
-            'nongjiangsuo': '越秀区中山四路42号',
-            'gzdjy': '天河区珠江新城华夏路',
-            'xinghai': '越秀区二沙岛晴波路33号',
-            'zsauditorium': '越秀区东风中路259号',
-            // 上海
-            'shanghaimuseum': '黄浦区人民大道201号',
-            'chinaartmuseum': '浦东新区上南路205号',
-            'expomuseum': '黄浦区龙华东路18号',
-            'shanghai-astronomy': '浦东新区临港大道380号',
-            'shhistorymuseum': '黄浦区南京西路325号',
-            'shcstheatre': '黄浦区永嘉路36号',
-            'shgtheatre': '黄浦区人民大道300号',
-            'misa': '徐汇区复兴中路1380号',
-            'haichang': '浦东新区南汇新城镇临港大道333号',
-            'legoland': '金山区枫泾镇',
-            // 北京
-            'chnmuseum': '东城区东长安街16号',
-            'gugong': '东城区景山前街4号',
-            'namoc': '东城区五四大街1号',
-            'bjmuseum': '通州区绿心路1号',
-            'centuryaltar': '海淀区复兴路甲9号',
-            'ncpa': '西城区西长安街2号',
-            'bjry': '东城区王府井大街22号',
-            'cntheatre': '西城区广安门外大街277号',
-            'cntstm': '朝阳区北辰东路5号',
-            'bjsc': '西城区北辰路9号院',
-            'bjplanet': '西城区西直门外大街138号',
-            'bjnm': '东城区天桥南大街126号',
-            'gugong': '东城区景山前街4号',
-            'sdmuseum': '西城区复兴门外大街16号',
-            'bjlz': '西城区西直门外大街135号',
-            'shstm': '浦东新区世纪大道2000号',
-            'shnm': '静安区北京西路510号',
-            'shpsa': '黄浦区花园港路200号',
-            'shexpocenter': '浦东新区国展路1099号',
-            'shceec': '静安区南京西路1333号',
-            'gdsc': '番禺区大学城科普路168号',
-            'gdsci': '越秀区连新路171号',
-            'gzartmuseum': '海珠区艺苑路198号',
-            'gzcec': '海珠区阅江中路380号',
-            'cykjg': '朝阳区安华里五区',
-            // 北京新增
-            'bjqsng': '西城区平安里西大街43号',
-            'cyqsng': '朝阳区红庙路口',
-            'shougang': '石景山区石景山路68号首钢园',
-            'tongzhou_canal': '通州区新华北路与东关大街交叉口',
-            'aosen': '朝阳区奥林匹克公园',
-            // 上海新增
-            'sh_children_lib': '静安区南京西路962号',
-            'shsng': '长宁区愚园路641号',
-            'shqyg': '徐汇区古宜路157号',
-            'qiantan_taikooli': '浦东新区东育路500弄1-9号',
-            'xuhui_riverside': '徐汇区龙腾大道沿江全线',
-            'beitang_raffles': '虹口区东大名路999号',
-            // 广州新增
-            'gzlib': '天河区珠江东路4号',
-            'gz_children_lib': '越秀区中山四路42号',
-            'gzsng': '荔湾区东风西路167号',
-            'gzwhg': '海珠区新滘中路288号',
-            'yongqingfang': '荔湾区恩宁路99号',
-            'canton_tower_riverside': '海珠区阅江西路珠江沿岸',
-            'nansha_coastal': '南沙区双山大道与海滨路沿线'
-        };
-
+        // 地址从 venue_info.json 获取（数据驱动，不再硬编码）
         function getVenueAddress(source) {
-            return venueAddressMap[source] || '';
+            if (_venueInfoMap) {
+                const info = _venueInfoMap[source];
+                if (info && info.address) return info.address;
+            }
+            return '';
         }
 
         // ========== 场馆信息功能 ==========
-        let venueInfoMap = null;
-        let venueInfoList = null;
+        // 使用上面定义的 _venueInfoMap / _venueInfoList，不再重复加载
 
         async function loadVenueInfo() {
-            if (venueInfoMap) return venueInfoMap;
-            try {
-                const resp = await fetch('output/venue_info.json');
-                if (!resp.ok) return null;
-                const list = await resp.json();
-                venueInfoList = list;
-                venueInfoMap = {};
-                list.forEach(v => {
-                    if (v.source) venueInfoMap[v.source] = v;
-                    if (v.name) venueInfoMap[v.name] = v;
-                });
-                return venueInfoMap;
-            } catch(e) {
-                console.warn('场馆信息加载失败', e);
-                return null;
-            }
+            return await ensureVenueInfoLoaded();
         }
 
         function getVenueInfoHTML(exhibition) {
-            if (!venueInfoMap) return '';
-            const info = venueInfoMap[exhibition.source] || venueInfoMap[exhibition.venue] || '';
+            if (!_venueInfoMap) return '';
+            const info = _venueInfoMap[exhibition.source] || _venueInfoMap[exhibition.venue] || '';
             if (!info) return '';
             let html = '<div class="modal-info-row"><div class="modal-info-label">🏷️ 类型</div><div class="modal-info-value">' + (info.type || '') + '</div></div>';
             if (info.address && info.address !== '待补充')
@@ -2619,7 +2129,7 @@
             const badges = document.getElementById('modal-badges');
             const body = document.getElementById('modal-body');
 
-            title.textContent = exhibition.name;
+            title.textContent = exhibition.title || exhibition.name || '';
 
             const feeType = getFeeType(exhibition);
             const activityType = getActivityType(exhibition);
@@ -2666,9 +2176,9 @@
                     ${getVenueInfoHTML(exhibition)}
                 </div>
                 ` : ''}
-                ${exhibition.url ? `
+                ${(exhibition.link || exhibition.url) ? `
                 <div class="modal-original-link">
-                    <a href="${exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
+                    <a href="${exhibition.link || exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
                         🔗 查看原始活动详情
                     </a>
                     <div style="font-size: 11px; color: #999; margin-top: 6px;" id="click-stats-display"></div>
@@ -2678,7 +2188,7 @@
                     <div class="modal-contact-title">📞 联系信息</div>
                     <div class="modal-contact-info">
                         ${exhibition.contact ? `<div>电话：${exhibition.contact}</div>` : ''}
-                        ${!exhibition.url && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
+                        ${!(exhibition.link || exhibition.url) && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
                     </div>
                 </div>
             `;
@@ -2688,7 +2198,7 @@
             // 绑定点击统计
             const linkBtn = document.getElementById('original-link-btn');
             const statsDisplay = document.getElementById('click-stats-display');
-            if (linkBtn && exhibition.url) {
+            if (linkBtn && (exhibition.link || exhibition.url)) {
                 const currentSource = exhibition.source;
                 const stats = getClickStats();
                 const count = stats[currentSource] || 0;
@@ -2697,7 +2207,7 @@
                 }
 
                 linkBtn.addEventListener('click', function() {
-                    trackClick(currentSource, exhibition.name);
+                    trackClick(currentSource, exhibition.title || exhibition.name || '');
                     if (statsDisplay) {
                         statsDisplay.textContent = `已点击查看: ${stats[currentSource] || 1} 次`;
                     }
@@ -3022,44 +2532,65 @@
             
             fetchAndCache();
             
-            function fetchAndCache() {
-                fetch('output/exhibitions.json', { cache: 'no-cache' })
-                    .then(response => {
-                        const newVersion = response.headers.get('etag') || response.headers.get('last-modified') || String(Date.now());
-                        response.json().then(exhibitions => {
-                            exhibitions.forEach(e => e.city = normalizeCity(e.city));
-                            if (newVersion !== cachedVersion || !cachedData) {
-                                localStorage.setItem(cacheKey, JSON.stringify(exhibitions));
-                                localStorage.setItem(versionKey, newVersion);
-                                allExhibitions = exhibitions;
-                                initFilters();
-                                renderExhibitions();
-                                console.log('数据已更新，版本:', newVersion);
-                            } else {
-                                console.log('数据未变化，跳过更新');
-                            }
-                            localStorage.setItem(lastCheckKey, String(Date.now()));
+            async function fetchAndCache() {
+                const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou'];
+                let allData = [];
+                let latestVersion = '';
+                let anySuccess = false;
+                let firstError = null;
+
+                for (const city of cities) {
+                    try {
+                        const resp = await fetch('output/exhibitions_' + city + '.json', { cache: 'no-cache' });
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        const ver = resp.headers.get('etag') || resp.headers.get('last-modified') || '';
+                        if (ver > latestVersion) latestVersion = ver;
+                        const data = await resp.json();
+                        data.forEach(e => {
+                            e.city = normalizeCity(e.city || city);
                         });
-                    })
-                    .catch(error => {
-                        if (!cachedData) {
-                            document.getElementById('exhibition-list').innerHTML = `
-                                <div class="empty-state">
-                                    <div class="icon">⚠️</div>
-                                    <div>加载失败</div>
-                                    <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
-                                </div>
-                            `;
-                            console.error('Failed to load exhibitions:', error);
-                        } else {
-                            console.log('网络错误，继续使用缓存数据');
-                        }
-                    });
+                        allData = allData.concat(data);
+                        anySuccess = true;
+                    } catch(e) {
+                        console.warn('加载', city, '数据失败:', e);
+                        if (!firstError) firstError = e;
+                    }
+                }
+
+                if (anySuccess) {
+                    if (latestVersion !== cachedVersion || !cachedData) {
+                        try {
+                            localStorage.setItem(cacheKey, JSON.stringify(allData));
+                            localStorage.setItem(versionKey, latestVersion);
+                        } catch(e) { console.warn('缓存写入失败', e); }
+                        allExhibitions = allData;
+                        initFilters();
+                        renderExhibitions();
+                        console.log('数据已更新，总条数:', allData.length, '版本:', latestVersion);
+                    } else {
+                        console.log('数据未变化，跳过更新');
+                    }
+                    try { localStorage.setItem(lastCheckKey, String(Date.now())); } catch(e) {}
+                } else {
+                    if (!cachedData) {
+                        document.getElementById('exhibition-list').innerHTML = `
+                            <div class="empty-state">
+                                <div class="icon">⚠️</div>
+                                <div>加载失败</div>
+                                <div style="font-size: 13px; margin-top: 8px; color: #bbb;">请刷新页面重试</div>
+                            </div>
+                        `;
+                        console.error('所有城市数据加载失败:', firstError);
+                    } else {
+                        console.log('网络错误，继续使用缓存数据');
+                    }
+                }
             }
         }
 
         window.addEventListener('DOMContentLoaded', function() {
             loadExhibitions();
+            loadVenueInfo();
         });
     </script>
 </body>

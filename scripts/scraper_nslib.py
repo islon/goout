@@ -133,12 +133,12 @@ def parse_activity_detail(html_content, activity_id):
         # 判断是否需报名
         if '我要报名' in html_content or '剩余名额' in html_content:
             if not desc:
-                desc = "需预约报名"
+                desc = "需提前预约报名参与"
             else:
                 desc = "需预约报名。" + desc
         elif '直接前往' in html_content:
             if not desc:
-                desc = "可直接前往参与"
+                desc = "可直接前往参与活动"
         
         # 构建活动URL
         activity_url = f"https://activity.nslib.cn/activity/info/{activity_id}"

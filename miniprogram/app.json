@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/about/about",
+    "pages/venues/venues",
+    "pages/venue/venue",
+    "pages/feedback/feedback"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#D4A373",
+    "navigationBarTitleText": "童行",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#FFFDF7",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#A8A29E",
+    "selectedColor": "#D4A373",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "活动",
+        "iconPath": "assets/tab-list.png",
+        "selectedIconPath": "assets/tab-list-active.png"
+      },
+      {
+        "pagePath": "pages/venues/venues",
+        "text": "场馆",
+        "iconPath": "assets/tab-venue.png",
+        "selectedIconPath": "assets/tab-venue-active.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "订阅日程",
+        "iconPath": "assets/tab-about.png",
+        "selectedIconPath": "assets/tab-about-active.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

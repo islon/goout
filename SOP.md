@@ -1,7 +1,7 @@
 # 场馆搜索与活动采集经验手册 (SOP)
 
 > 本文档总结自 islon/goout 项目历次数据采集实践经验，供后续更新活动和寻找场馆时直接参考。
-> 最后更新：2026-07-11 | 活动总数：678+ | 覆盖城市：5
+> 最后更新：2026-07-12 | 活动总数：826 | 场馆总数：306 | 覆盖城市：5
 
 ---
 
@@ -751,3 +751,150 @@ git push origin main
 > - **每次添加新城市时**：参考"一、场馆搜索方法论"和"四、多城市场馆清单"
 > - **寻找新数据源时**：参考"十、外部数据采集方法大全"和"十一、搜索方法完整索引"
 > - **数据入库前**：过一遍"0.6 准确性自查清单"，确保每条数据可追溯
+
+---
+
+## 十二、前端开发与调试经验（踩坑总结）
+
+> 本章记录前端页面开发中踩过的坑，每一条都是用实际用户反馈换来的教训。
+
+### 12.1 按钮点击无反应：常见根因按概率排序
+
+| 排名 | 根因 | 表现 | 排查方法 | 修复方案 |
+|------|------|------|---------|---------|
+| 1 | **localStorage 抛错中断脚本** | 微信内置浏览器、隐私模式、禁用 cookie 环境下，`localStorage.getItem()` 抛 `SecurityError`，整个脚本中断 | 用 try-catch 包裹 localStorage 访问，或在页面顶部加兼容层 | 脚本开头加 localStorage 降级方案，不可用时用内存版替代 |
+| 2 | **DOMContentLoaded 回调中断** | 回调内前面的代码抛错，导致后面的 `addEventListener` 不执行 | 在回调每个关键步骤后加 console.log | 重要事件绑定尽量不依赖 DOMContentLoaded，用 inline onclick 更可靠 |
+| 3 | **`href="javascript:void(0)"` 阻止事件** | 微信等环境下，`<a href="javascript:void(0)" onclick="...">` 的 onclick 不触发 | 改成 `<button>` 或 `<a href="#">` | 跳转类功能用 `<a href="url">`，交互类用 `<button>` |
+| 4 | **CSS `overflow: hidden` 裁剪按钮** | 按钮视觉上能看到一部分但点不到 | 用浏览器开发者工具检查元素实际位置 | 给父容器加 `flex-wrap: wrap` 和 `gap` |
+| 5 | **数据没加载导致功能空转** | 点击了但没数据所以页面没变化，用户以为"没反应" | 打开控制台看有没有数据 | 加加载状态提示和错误处理提示 |
+
+### 12.2 铁律：能不用 JS 跳转就不用
+
+> **导航用 `<a href>`，交互用 inline `onclick`，最后才考虑 `addEventListener`。**
+
+| 场景 | 推荐方式 | 不推荐方式 | 原因 |
+|------|---------|-----------|------|
+| 跳转到另一个页面 | `<a href="page.html">按钮文字</a>` | `<button onclick="location.href=...">` | 纯链接最可靠，所有浏览器都支持，用户可以右键新窗口打开 |
+| 切换显示/隐藏 | inline `onclick="toggleXxx()"` | `addEventListener('click', ...)` 写在 DOMContentLoaded 里 | inline 绑定不依赖脚本加载顺序，前面代码报错不影响 |
+| 复杂交互 | `addEventListener` + 独立函数 | 大量 inline onclick 堆叠 | 代码量多时用事件绑定更好维护 |
+
+**惨痛教训**：场馆指南按钮用了 `addEventListener` 写在 `DOMContentLoaded` 回调里，因为前面的 localStorage 报错导致整个回调中断，按钮永远绑不上事件。用户反馈了 3 次"点不动"，前两次都猜错了原因（以为是 CSS 问题、以为是 `javascript:void(0)` 问题）。
+
+### 12.3 localStorage 兼容层写法
+
+在 script 标签最顶部加上，确保任何 localStorage 调用都不会中断脚本：
+
+```javascript
+const _safeStorage = {
+    _data: {},
+    getItem(key) {
+        try { return localStorage.getItem(key); }
+        catch(e) { return this._data[key] || null; }
+    },
+    setItem(key, val) {
+        try { localStorage.setItem(key, val); }
+        catch(e) { this._data[key] = String(val); }
+    },
+    removeItem(key) {
+        try { localStorage.removeItem(key); }
+        catch(e) { delete this._data[key]; }
+    }
+};
+```
+
+之后所有 `localStorage.xxx` 都改成 `_safeStorage.xxx()`。
+
+### 12.4 多城市数据加载：必须按城市分文件
+
+**正确做法**：
+- 每个城市一个 JSON 文件：`exhibitions_shenzhen.json`、`exhibitions_guangzhou.json` ...
+- 前端 `loadExhibitions()` 循环加载所有城市文件并合并
+- 主文件 `exhibitions.json` 只作为兼容保留，不作为唯一数据源
+
+**踩坑记录**：
+- 曾经 `loadExhibitions()` 只加载 `exhibitions.json`（只有深圳数据），页面上却有 4 个城市切换按钮
+- 用户切换到其他城市时空列表，以为"数据变少了"
+- 必须确保：页面上有 N 个城市按钮，就加载 N 个城市的数据文件
+
+### 12.5 GitHub Pages 缓存问题
+
+- GitHub Pages 默认缓存 `max-age=600`（10 分钟）
+- 用户说"改了没效果"时，先让用户**强刷页面**（Ctrl+F5 / Cmd+Shift+R）
+- 手机上：长按刷新按钮 → 选择"刷新并清除缓存"，或在设置里清浏览器缓存
+- 重要更新可以在 URL 后加 `?v=时间戳` 绕过缓存（但慎用，会影响统计）
+
+### 12.6 jsdom 本地验证方法
+
+用 jsdom 可以在命令行里测试静态页面，不用开浏览器：
+
+```javascript
+const { JSDOM } = require('jsdom');
+JSDOM.fromFile('index.html', {
+    runScripts: 'dangerously',
+    resources: 'usable',
+    pretendToBeVisual: true,
+    beforeParse(window) {
+        window.fetch = async (url) => {
+            // mock fetch 返回本地文件
+        };
+        window.matchMedia = window.matchMedia || function() {
+            return { matches: false, addListener(){}, removeListener(){} };
+        };
+    }
+}).then(dom => {
+    setTimeout(() => {
+        console.log('数据条数:', dom.window.allExhibitions.length);
+    }, 3000);
+});
+```
+
+**适用场景**：
+- 验证数据加载是否正常
+- 验证筛选器是否工作
+- 验证按钮点击是否触发了正确的函数
+- 验证不会有 JS 报错导致页面功能失效
+
+### 12.7 新增页面 Checklist
+
+每次新增一个页面时，过一遍这个清单：
+
+- [ ] 页面入口在哪？（主页面加链接了吗？）
+- [ ] 跳转用的是 `<a href>` 吗？（而不是 onclick + location.href）
+- [ ] 数据文件存在吗？路径对吗？
+- [ ] 移动端适配了吗？（宽度 < 768px 时布局正常吗？）
+- [ ] 加载失败有错误提示吗？
+- [ ] 数据为空时有空状态提示吗？
+- [ ] 所有城市都支持吗？（别漏了城市）
+- [ ] README 和 PROJECT_DOC 更新了吗？
+
+### 12.8 近期改动经验总结
+
+#### 经验 1：场馆信息展示增强
+**需求**：场馆指南增加详细介绍和醒目的官方链接；活动详情弹框增加场馆介绍
+**实现要点**：
+- 场馆卡片展示信息层级：类型标签 → 门票信息 → 地址 → 交通 → 详细描述 → 亮点标签 → 官网按钮
+- 官网链接使用蓝色渐变按钮样式，带悬停效果和阴影，视觉上更显眼
+- 活动详情弹框中单独设置「🏛️ 场馆信息」区域，复用 `getVenueInfoHTML()` 函数生成
+- **关键踩坑**：`DOMContentLoaded` 回调中必须同时调用 `loadExhibitions()` 和 `loadVenueInfo()`，否则场馆数据未加载导致弹框中无场馆信息
+
+#### 经验 2：页面简洁化设计
+**需求**：订阅页面 (schedule.html) 顶部移除多余按钮
+**实现要点**：
+- 移除「🏛️ 场馆指南」、「📝 反馈」、「📋 数据审核」三个按钮
+- 仅保留「📅 查看日程」链接，让用户专注于订阅功能
+- **设计原则**：每个页面应该有一个核心功能，非核心入口应放在次要位置或通过其他页面跳转
+
+#### 经验 3：反馈链接统一管理
+**需求**：更新反馈链接为新的飞书表单
+**实现要点**：
+- 使用 `grep -r` 搜索所有文件中的旧链接
+- 使用 `sed -i` 批量替换，确保所有页面（index.html、venue-guide.html）和文档（PROJECT_DOC.md、README.md）同步更新
+- **最佳实践**：重要链接应集中管理，可以考虑在 config.py 中定义常量，前端通过模板或 API 获取
+
+#### 经验 4：数据联动加载
+**需求**：活动详情弹框需要显示场馆信息
+**实现要点**：
+- 场馆数据存储在 `venue_info.json`，前端加载后存入 `venueInfoMap`
+- `getVenueInfoHTML()` 函数根据活动的 venue 字段查找对应场馆信息
+- **关键注意点**：必须确保场馆数据在活动数据之后加载完成，或在 `DOMContentLoaded` 中并行调用两个加载函数
+- 场馆数据字段：name、type、address、transport、fee、description、official_url、highlights

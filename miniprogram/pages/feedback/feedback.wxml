@@ -1,0 +1,58 @@
+<!-- 童行小程序 - 反馈页 -->
+<view class="feedback-page">
+
+  <view class="feedback-tip">
+    <view class="tip-icon">💬</view>
+    <view class="tip-text">你的反馈会帮助我们做得更好。数据报错、功能建议、场馆补充都可以说。</view>
+  </view>
+
+  <!-- 反馈类型 -->
+  <view class="form-card">
+    <view class="form-label">反馈类型</view>
+    <view class="category-list">
+      <view wx:for="{{categories}}" wx:key="key" class="category-item {{category === item.key ? 'active' : ''}}" bindtap="onCategoryTap" data-key="{{item.key}}">
+        <view class="category-name">{{item.name}}</view>
+        <view class="category-desc">{{item.desc}}</view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 反馈内容 -->
+  <view class="form-card">
+    <view class="form-label">反馈内容</view>
+    <textarea class="content-input" placeholder="请详细描述你的问题或建议…" value="{{content}}" bindinput="onContentInput" maxlength="800" auto-height />
+    <view class="content-hint">{{content.length || 0}} / 800</view>
+  </view>
+
+  <!-- 联系方式 -->
+  <view class="form-card">
+    <view class="form-label">联系方式（选填）</view>
+    <input class="contact-input" type="text" placeholder="微信 / 邮箱 / 手机号，方便我们回复你" value="{{contact}}" bindinput="onContactInput" maxlength="60" />
+  </view>
+
+  <!-- 复制反馈 -->
+  <view class="copy-section" bindtap="onCopyFeedback">
+    <view class="copy-btn">📋 复制整理好的反馈文本</view>
+    <view class="copy-hint">复制后粘贴到微信反馈中提交</view>
+  </view>
+
+  <!-- 微信官方反馈 -->
+  <view class="submit-section">
+    <button class="submit-btn" open-type="feedback">📨 提交到微信反馈</button>
+    <view class="submit-hint">点击后会打开微信自带的反馈面板，建议先「复制反馈文本」再粘贴提交。</view>
+  </view>
+
+  <!-- 其他渠道 -->
+  <view class="other-section">
+    <view class="other-title">其他渠道</view>
+    <view class="other-card" bindtap="onCopyGitHub">
+      <view class="other-icon">🐙</view>
+      <view class="other-content">
+        <view class="other-name">GitHub Issues</view>
+        <view class="other-desc">适合数据报错、功能建议，公开可追踪</view>
+      </view>
+      <view class="other-action">复制链接</view>
+    </view>
+  </view>
+
+</view>
