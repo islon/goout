@@ -1392,5 +1392,3779 @@
     "family_friendly": false,
     "source": "gzdjy",
     "district": "天河区"
+  },
+  {
+    "name": "万物皆数数学嘉年华",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-19",
+    "fee": "免费",
+    "description": "联动东莞松山湖数学探索馆打造数学思维游乐场，划分古代算学、几何拼图、棋艺对战、数理生活等七大板块，50余种互动体验项目。",
+    "source": "广州本地宝",
+    "highlights": [
+      "数学",
+      "嘉年华",
+      "互动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "小小气液魔法师",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "免费",
+    "description": "孩子们化身小小气液魔法师，通过趣味实验了解气压差原理，亲手搭建液压升降台感受液压传动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "科学实验",
+      "流体力学",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童健康科普义诊",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "fee": "免费",
+    "description": "广州医科大学附属市八医院医护团队开设近视防控、外伤应急、儿童营养三大专业讲座，同步提供视力筛查、身高发育评估等科普义诊活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "健康科普",
+      "义诊",
+      "儿童"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "读懂广州科学家故事",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "fee": "免费",
+    "description": "讲述张景中院士如何'把数学变得更容易'的故事，带领孩子们跳出传统课本学习模式，从基础面积公式入手趣味探究经典几何定理。",
+    "source": "广州本地宝",
+    "highlights": [
+      "科学家",
+      "数学",
+      "讲座"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "全球动物科普嘉年华",
+    "venue": "广州长隆野生动物世界",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "围绕科普开展十项活动，包括动物主题日（如老虎日、大象日等）、科普讲堂、便便工坊等，挖掘动物冷知识。",
+    "source": "广州本地宝",
+    "highlights": [
+      "动物科普",
+      "长隆",
+      "嘉年华"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "森巴酷爽嘉年华",
+    "venue": "广州长隆欢乐世界",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "围绕'玩水''亲子''森巴狂欢'主题展开，主要内容为'森巴酷爽玩水派对'，带动以中央广场为核心的餐商演一体化特别活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "玩水",
+      "森巴",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "神奇兔妈儿童人偶剧",
+    "venue": "从化荔枝球乐园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "fee": "收费",
+    "description": "故事围绕亲子日常展开，用软萌人偶演绎细腻母爱，现场超多近距离互动，引导孩子理解妈妈藏在唠叨里的深爱。",
+    "source": "广州本地宝",
+    "highlights": [
+      "人偶剧",
+      "母爱",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青蛙王子儿童人偶剧",
+    "venue": "从化荔枝球乐园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "fee": "收费",
+    "description": "被魔法束缚的青蛙王子，等待真诚的友谊解除诅咒。华丽舞美搭配鲜活人偶角色，演员会走下舞台和小朋友互动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "人偶剧",
+      "童话",
+      "互动"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "三只小猪儿童人偶剧",
+    "venue": "从化荔枝球乐园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-16",
+    "fee": "收费",
+    "description": "家喻户晓的经典童话全新舞台改编！三只性格迥异的小猪，和大灰狼斗智斗勇，现场设置上台游戏、问答送礼、亲子互动环节。",
+    "source": "广州本地宝",
+    "highlights": [
+      "人偶剧",
+      "童话",
+      "互动"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "5D沉浸式飞行电影",
+    "venue": "从化荔枝球乐园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "整个7、8月工作日及无专场演出的周末，剧场每日循环放映两大5D动感影片，入园即可体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "5D电影",
+      "飞行体验",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "即兴喜剧秀",
+    "venue": "从化荔枝球乐园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-08",
+    "fee": "收费",
+    "description": "广州老牌西瓜剧团即兴专场！没有固定剧本，现场根据观众随口给出的关键词即兴创作完整故事。",
+    "source": "广州本地宝",
+    "highlights": [
+      "即兴喜剧",
+      "亲子",
+      "欢乐"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "合唱音乐会",
+    "venue": "从化荔枝球乐园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "fee": "收费",
+    "description": "纯净人声合唱专场，多声部天籁旋律萦绕剧场，柔和舒缓的乐曲抚平夏日浮躁。",
+    "source": "广州本地宝",
+    "highlights": [
+      "合唱",
+      "音乐会",
+      "治愈"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "虫篆微观奇境",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "以昆虫为纽带，有机融合科普教育、艺术创作与互动体验，配套科普分享会等活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "昆虫",
+      "科普",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "博物馆星空夜宿",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "十大研学课程之一，夜间在博物馆内露营，体验不一样的博物馆奇妙夜。",
+    "source": "广州本地宝",
+    "highlights": [
+      "夜宿",
+      "博物馆",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "真化石清修师",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "十大研学课程之一，亲手体验化石清理修复工作，了解古生物化石的发掘过程。",
+    "source": "广州本地宝",
+    "highlights": [
+      "化石",
+      "考古",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "文艺复兴大师作品展",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "格拉斯哥博物馆意大利艺术珍藏在中国的重要亮相，近70件（套）珍稀藏品，涵盖绘画、雕塑、陶器、玻璃、兵器与织物六大门类。",
+    "source": "广州本地宝",
+    "highlights": [
+      "文艺复兴",
+      "艺术",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青州微笑佛造像展",
+    "venue": "广州艺术博物院",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "华南地区首次大规模、高规格呈现古青州造像艺术，汇聚62件造像精品，其中一级文物达22件。",
+    "source": "广州本地宝",
+    "highlights": [
+      "佛造像",
+      "青州",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "一念敦煌大展",
+    "venue": "广州艺术博物院",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "敦煌艺术主题展览，呈现敦煌壁画、雕塑等珍贵文物的数字化复制品。",
+    "source": "广州本地宝",
+    "highlights": [
+      "敦煌",
+      "艺术",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "微观万相唐卡艺术展",
+    "venue": "广州人民艺术中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "青海热贡地区唐卡艺术的经典之作与数字化创新成果，所有展品都可以扫码听数字语音讲解。",
+    "source": "广州本地宝",
+    "highlights": [
+      "唐卡",
+      "艺术",
+      "数字"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "星火启程文物展",
+    "venue": "农讲所纪念馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "集中呈现农讲所自2023年启动'历届教员学员足迹寻访项目'以来的成果，展出藏品118件（其中珍贵文物72件）。",
+    "source": "广州本地宝",
+    "highlights": [
+      "红色文化",
+      "农讲所",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "救民水火纪念展",
+    "venue": "黄埔军校旧址纪念馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "'救民水火——纪念国民革命军一百周年展'，展出著名的《北伐画史》等珍贵历史资料。",
+    "source": "广州本地宝",
+    "highlights": [
+      "黄埔军校",
+      "北伐",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "萧华长征记忆展",
+    "venue": "广州起义纪念馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "结合萧华同志的珍贵文物和资料，深度解读《长征组歌》，通过主题油画、艺术场景、多媒体演绎等形式还原长征重大历史场景。",
+    "source": "广州本地宝",
+    "highlights": [
+      "萧华",
+      "长征",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "余广州平且康",
+    "venue": "广州海事博物馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "魏晋南北朝时期的广州文物展览，展出中部非洲雕像等珍贵展品。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州历史",
+      "文物",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州图书馆暑期阅读季",
+    "venue": "广州图书馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "开展少儿阅读、名家讲坛、古卷匠心、视听美育等四大板块文化活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "阅读",
+      "讲座",
+      "暑期"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "南越王博物院暑期活动",
+    "venue": "南越王博物院",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "推出文物修复体验、南越文化小课堂等亲子研学活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "南越王",
+      "文物",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州动物园奇妙夜",
+    "venue": "广州动物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "夜间开放动物园，探秘夜间动物行为，体验不一样的动物世界。",
+    "source": "广州本地宝",
+    "highlights": [
+      "动物园",
+      "夜场",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "融创文旅城水世界",
+    "venue": "广州融创文旅城",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "大型室内水乐园，全年恒温，包含水上过山车、大喇叭、漂流河等刺激项目。",
+    "source": "广州本地宝",
+    "highlights": [
+      "水乐园",
+      "亲子",
+      "游玩"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "永庆坊非遗体验",
+    "venue": "永庆坊",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广彩、广绣、醒狮等非遗手作体验，感受岭南文化魅力。",
+    "source": "广州本地宝",
+    "highlights": [
+      "非遗",
+      "岭南文化",
+      "体验"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州科学中心科普日",
+    "venue": "广州科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "暑期科普日活动，机器人表演、科学实验秀、互动体验等。",
+    "source": "广州本地宝",
+    "highlights": [
+      "科学中心",
+      "科普",
+      "互动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "越秀公园亲子定向",
+    "venue": "越秀公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "亲子定向越野活动，在公园内完成趣味任务。",
+    "source": "广州本地宝",
+    "highlights": [
+      "定向",
+      "公园",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "玩转奇妙自然科技嘉年华",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "fee": "免费",
+    "description": "掌上火焰、液氮速冻、焰色反应、等离子炮等震撼实验轮番登场。",
+    "source": "科普广州",
+    "highlights": [
+      "科学秀",
+      "实验",
+      "科技"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "小小净水工程师实验室",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "fee": "免费",
+    "description": "利用砂石、活性炭、滤纸搭建简易净水装置，动手实操沉淀过滤吸附流程。",
+    "source": "科普广州",
+    "highlights": [
+      "净水",
+      "实验",
+      "环保"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "多元创客互动体验",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "fee": "免费",
+    "description": "VEX机器人、足球无人机、AI智能小车、3D建模打印、下棋AI等七大互动项目开放。",
+    "source": "科普广州",
+    "highlights": [
+      "创客",
+      "机器人",
+      "AI"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "科学家奋斗故事展教小课堂",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-19",
+    "fee": "免费",
+    "description": "打卡广州科学家故事展，完成沉浸式闯关任务：勇闯迷宫、搭建地标、导电实验等。",
+    "source": "科普广州",
+    "highlights": [
+      "科学家",
+      "小课堂",
+      "闯关"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "肠道小宇宙互动体验科学展",
+    "venue": "广东科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2027-02-28",
+    "fee": "收费",
+    "description": "法国国家科技总馆出品，7部影像装置、9处经典互动实验，亲手拉出7米肠道模型。",
+    "source": "广东科学中心",
+    "highlights": [
+      "肠道",
+      "人体科学",
+      "沉浸式"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "假日科学派十大主题活动",
+    "venue": "广东科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "科学挑战赛、科普摊位、创意工坊、科普表演秀等十大主题互动项目。",
+    "source": "广东科学中心",
+    "highlights": [
+      "科学派",
+      "互动",
+      "暑期"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "感官大作战欢乐科学课",
+    "venue": "广东科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "趣味小游戏与互动实验，引导观众认识身体的感知奥秘。",
+    "source": "广东科学中心",
+    "highlights": [
+      "感官",
+      "科学课",
+      "互动"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "纸是那么酷欢乐科学课",
+    "venue": "广东科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "感受一张纸带来的无限科学可能，解锁纸的各种奇妙玩法。",
+    "source": "广东科学中心",
+    "highlights": [
+      "纸",
+      "科学课",
+      "创意"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "航海密码解密活动",
+    "venue": "广东科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "fee": "收费",
+    "description": "结合中国航海日推出趣味科普活动，解锁跨越千年的航海密码。",
+    "source": "广东科学中心",
+    "highlights": [
+      "航海",
+      "解密",
+      "科普"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "天空之城动漫钢琴音乐会",
+    "venue": "广东科学中心巨幕影院",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "宫崎骏久石让经典动漫钢琴五重奏音乐会，在巨幕影院呈现视听盛宴。",
+    "source": "广东科学中心",
+    "highlights": [
+      "音乐会",
+      "动漫",
+      "宫崎骏"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典动画视界亲子音乐会",
+    "venue": "广东科学中心巨幕影院",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "经典动画主题亲子科技音乐会，将乐曲与动画美学结合。",
+    "source": "广东科学中心",
+    "highlights": [
+      "动画",
+      "音乐会",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "海洋魔法幻城",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "大湾区首个海洋魔法幻城，16个魔幻小剧场，近百场近景魔术互动。",
+    "source": "南方网",
+    "highlights": [
+      "海洋",
+      "魔术",
+      "暑期"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "G-Fest动漫狂欢节",
+    "venue": "正佳广场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "第四届正佳星球动漫狂欢节，百大IP、千场演出，华南地区规模领先的全民动漫盛宴。",
+    "source": "南方网",
+    "highlights": [
+      "动漫",
+      "狂欢节",
+      "IP"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "大圣闹海水下大秀",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "全新水下主题大秀，水下演绎齐天大圣闹海传奇故事。",
+    "source": "南方网",
+    "highlights": [
+      "水下表演",
+      "大圣",
+      "海洋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "敦煌飞天水下大秀",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "水下演绎敦煌飞天经典，呈现东方美学与海洋的完美融合。",
+    "source": "南方网",
+    "highlights": [
+      "敦煌",
+      "水下表演",
+      "飞天"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青白缘起水下大秀",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "青白蛇传经典故事水下新编，演绎千年传说的浪漫。",
+    "source": "南方网",
+    "highlights": [
+      "白蛇传",
+      "水下表演",
+      "传说"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "鲛人魅影水下大秀",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "神秘鲛人传说水下演绎，梦幻光影与深海奇观交织。",
+    "source": "南方网",
+    "highlights": [
+      "鲛人",
+      "水下表演",
+      "梦幻"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "逃脱巨齿鲨水下大秀",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "惊险刺激的巨齿鲨主题水下表演，带来震撼视觉体验。",
+    "source": "南方网",
+    "highlights": [
+      "巨齿鲨",
+      "水下表演",
+      "惊险"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "企鹅萌动巡游",
+    "venue": "正佳企鹅冰雪世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "全新升级企鹅冰雪世界，企鹅萌动巡游，200米长冰滑梯畅玩。",
+    "source": "南方网",
+    "highlights": [
+      "企鹅",
+      "冰雪",
+      "巡游"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "甲虫科普专题展",
+    "venue": "正佳雨林生态植物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "珍稀甲虫科普展，每天三十余场亲子科普体验活动。",
+    "source": "南方网",
+    "highlights": [
+      "甲虫",
+      "科普",
+      "雨林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "珍稀蕨类植物展",
+    "venue": "正佳雨林生态植物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "珍稀蕨类植物专题展，了解植物活化石的生命奥秘。",
+    "source": "南方网",
+    "highlights": [
+      "蕨类",
+      "植物",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "蜘蛛侠联动特展",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "与蜘蛛侠崭新之日IP联动，搭配真实巴西所罗门捕鸟蛛，虚拟与现实奇妙碰撞。",
+    "source": "南方网",
+    "highlights": [
+      "蜘蛛侠",
+      "漫威",
+      "联动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "越王者旨於睗剑青铜展",
+    "venue": "正佳中华文明探索馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "青铜重器越王者旨於睗剑重磅展出，全场景覆盖亲子科普。",
+    "source": "南方网",
+    "highlights": [
+      "青铜剑",
+      "文物",
+      "越王者旨於睗"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "夜间科学奇妙夜",
+    "venue": "正佳科学馆天文馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "持续推出科普剧与夜间科学奇妙夜活动，解锁夜间科学新体验。",
+    "source": "南方网",
+    "highlights": [
+      "科学奇妙夜",
+      "夜场",
+      "科普剧"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "AYOR TOYS奇幻森林广州首展",
+    "venue": "正佳广场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "AYOR TOYS奇幻森林广州首展，打造奇幻森林主题场景。",
+    "source": "南方网",
+    "highlights": [
+      "潮玩",
+      "首展",
+      "奇幻森林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "JOJO的奇妙冒险主题快闪",
+    "venue": "正佳广场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "JOJO的奇妙冒险主题快闪店，经典动漫IP限时亮相。",
+    "source": "南方网",
+    "highlights": [
+      "JOJO",
+      "快闪",
+      "动漫"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "数码宝贝期间限定店",
+    "venue": "正佳广场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "数码宝贝期间限定店，重温经典数码宝贝世界。",
+    "source": "南方网",
+    "highlights": [
+      "数码宝贝",
+      "限定店",
+      "动漫"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "科普基地联合科普专场",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "fee": "免费",
+    "description": "多家科普基地轮番驻馆，开设专题展览、互动讲座与动手体验活动。",
+    "source": "科普广州",
+    "highlights": [
+      "科普基地",
+      "联合",
+      "专场"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "文艺复兴大师作品展广州站",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-18",
+    "fee": "收费",
+    "description": "格拉斯哥博物馆藏意大利艺术真迹，提香贝利尼丁托列托等大师作品齐聚。",
+    "source": "广州日报",
+    "highlights": [
+      "文艺复兴",
+      "意大利",
+      "大师"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青州微笑佛造像艺术展",
+    "venue": "广州艺术博物院",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "华南首次大规模高规格古青州造像展，62件造像精品22件一级文物。",
+    "source": "广州日报",
+    "highlights": [
+      "青州",
+      "佛造像",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "热贡唐卡数字艺术特展",
+    "venue": "广州人民艺术中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "青海热贡唐卡艺术经典之作与数字化创新成果，全套数字化观展服务。",
+    "source": "广州日报",
+    "highlights": [
+      "唐卡",
+      "热贡",
+      "数字艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "花漾穆夏新艺术美学展",
+    "venue": "广州人民艺术中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "穆夏10余幅近130年历史石版画原作，百年美学跨界漫步。",
+    "source": "广州日报",
+    "highlights": [
+      "穆夏",
+      "新艺术",
+      "石版画"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中非文化艺术展",
+    "venue": "广州海事博物馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "中部非洲面具雕像兵器仪式用品百余件精品，全方位展现中非文化艺术。",
+    "source": "广州日报",
+    "highlights": [
+      "非洲",
+      "艺术",
+      "面具"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "星火启程农讲所文物展",
+    "venue": "农讲所纪念馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "118件藏品72件珍贵文物，农民运动讲习所历史展，一级文物齐聚。",
+    "source": "广州日报",
+    "highlights": [
+      "农讲所",
+      "红色",
+      "文物"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "救民水火北伐纪念展",
+    "venue": "黄埔军校旧址纪念馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "纪念国民革命军一百周年展，北伐画史376幅珍贵照片。",
+    "source": "广州日报",
+    "highlights": [
+      "黄埔军校",
+      "北伐",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "星火百年革命美术展",
+    "venue": "广州艺术博物院",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "52件套革命历史题材美术精品，赖少其黄新波等知名艺术家经典力作。",
+    "source": "广州日报",
+    "highlights": [
+      "革命美术",
+      "艺术",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "虫篆微观奇境昆虫艺术展",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-18",
+    "fee": "免费",
+    "description": "昆虫为纽带融合科普教育艺术创作互动体验，昆虫科普艺术游园会配套活动。",
+    "source": "广州日报",
+    "highlights": [
+      "昆虫",
+      "科普",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "韶关星空露营追流星雨",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-14",
+    "fee": "收费",
+    "description": "追英仙座流星雨研学营，博物馆星空夜宿，真化石清修师十大研学课程。",
+    "source": "广州日报",
+    "highlights": [
+      "流星雨",
+      "露营",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "真化石清修师研学",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "学习古生物化石修复技术，亲手清理修复真实化石标本。",
+    "source": "广州日报",
+    "highlights": [
+      "化石",
+      "修复",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "白江湖森林公园溯溪",
+    "venue": "白江湖森林公园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "广州溯溪第一谷，原生态溪谷风光，戏水纳凉摸鱼嬉闹亲子友好。",
+    "source": "广州日报",
+    "highlights": [
+      "溯溪",
+      "森林",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "流溪河三桠塘幽谷溯溪",
+    "venue": "流溪河国家森林公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "溪水终年不竭串起浅滩叠水清潭，负氧离子浓度15000个每立方厘米。",
+    "source": "广州日报",
+    "highlights": [
+      "溯溪",
+      "流溪河",
+      "森林"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "石门国家森林公园亲水游",
+    "venue": "石门国家森林公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "桃花源相思古榕两大亲水秘境，海拔800米高山天池碧波泛舟。",
+    "source": "广州日报",
+    "highlights": [
+      "亲水",
+      "天池",
+      "森林"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "白水寨瀑布嬉水",
+    "venue": "白水寨风景名胜区",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "落差428.5米天然瀑布，奇趣水谷生态嬉水乐园，亲子复合型乐园。",
+    "source": "广州日报",
+    "highlights": [
+      "瀑布",
+      "嬉水",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州戏水季森系溯溪",
+    "venue": "广州各大森林公园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-12",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "2026广州戏水季盛大开幕，四大主题戏水板块同步开放，森系溯溪花漾嬉水酷玩逐浪城央沁凉。",
+    "source": "广州日报",
+    "highlights": [
+      "戏水季",
+      "溯溪",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "市儿童公园戏水乐园",
+    "venue": "广州市儿童公园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "三大玩水片区全面开启，龙舟戏水乐园海洋童趣戏水区旱喷广场，市区遛娃好去处。",
+    "source": "广州日报",
+    "highlights": [
+      "儿童公园",
+      "戏水",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "白云山明珠楼亲水游",
+    "venue": "白云山风景名胜区",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "明珠楼景区浅滩休闲戏水，麓湖景区水上运动嘉年华龙舟皮划艇桨板全龄段趣味。",
+    "source": "广州日报",
+    "highlights": [
+      "白云山",
+      "亲水",
+      "运动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "星罗纪大森林溯溪漂流",
+    "venue": "广州星罗纪大森林景区",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "腾龙高空漂流连环弯道，龙溪谷天然山泉溯溪踩水打水仗捞小鱼。",
+    "source": "广州日报",
+    "highlights": [
+      "漂流",
+      "溯溪",
+      "森林"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "森林海旅游度假区狂欢",
+    "venue": "森林海旅游度假区",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "泼水狂欢派对水上飞人表演与夜间烟花秀，从白天畅玩至夜晚。",
+    "source": "广州日报",
+    "highlights": [
+      "森林海",
+      "泼水",
+      "烟花"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "金山水上运动嘉年华",
+    "venue": "广州麓湖公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "龙舟体验皮划艇水上自行车桨板运动，全龄段趣味玩法悉数上线。",
+    "source": "广州日报",
+    "highlights": [
+      "水上运动",
+      "龙舟",
+      "皮划艇"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "大丰门峡谷漂流探险",
+    "venue": "增城区大丰水峡谷乐园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "峡谷漂流瀑布溪降飞拉达攀岩五色湖游船等探险玩法。",
+    "source": "广州日报",
+    "highlights": [
+      "漂流",
+      "峡谷",
+      "探险"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "长隆水上乐园暑期狂欢",
+    "venue": "长隆水上乐园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "70余项水上设施，造浪池大喇叭漂流河，夏季玩水首选之地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "长隆",
+      "水上乐园",
+      "暑期"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦想号大洋钻探讲座",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "fee": "免费",
+    "description": "深海钻探中心首席科学家孙珍讲座，介绍大洋钻探计划与梦想号钻探船。",
+    "source": "科普广州",
+    "highlights": [
+      "大洋钻探",
+      "科学家",
+      "讲座"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "近视防控科普专场",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "fee": "免费",
+    "description": "科普宣讲加互动摊位，离焦读写台近视防控智能穿戴眼镜，免费视力检测。",
+    "source": "科普广州",
+    "highlights": [
+      "近视防控",
+      "眼健康",
+      "科普"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "金山地质博物馆科普展",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-14",
+    "fee": "免费",
+    "description": "30余件珍稀标本恐龙蛋贵州龙三叶虫澄江动物群化石陨石矿物，贵州龙拓印实操。",
+    "source": "科普广州",
+    "highlights": [
+      "地质",
+      "化石",
+      "拓印"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "地理科普定向闯关",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "fee": "免费",
+    "description": "地理科普讲堂地学派定向闯关快闪科技游园，VR地理无人机模拟趣味竞答。",
+    "source": "科普广州",
+    "highlights": [
+      "地理",
+      "VR",
+      "闯关"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "智慧体育互动体验",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "fee": "免费",
+    "description": "智慧体育一体机互动体验，实时记录运动数据，动作姿态矫正体能提升方案。",
+    "source": "科普广州",
+    "highlights": [
+      "智慧体育",
+      "AI",
+      "运动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "口腔健康科普专场",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-17",
+    "fee": "免费",
+    "description": "科普宣讲加互动摊位形式，普及儿童护牙知识。",
+    "source": "科普广州",
+    "highlights": [
+      "口腔健康",
+      "护牙",
+      "科普"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "花卉科普植物义诊",
+    "venue": "广州青少年科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-17",
+    "fee": "免费",
+    "description": "红掌等多样绿植展示，居家养护干货分享，植物义诊解答绿植养护难题。",
+    "source": "科普广州",
+    "highlights": [
+      "花卉",
+      "植物",
+      "义诊"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "长隆野生动物世界",
+    "venue": "长隆野生动物世界",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "500多种2万余只珍稀动物，自驾区小火车游览，考拉熊猫馆。",
+    "source": "广州本地宝",
+    "highlights": [
+      "长隆",
+      "野生动物",
+      "熊猫"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "长隆欢乐世界暑期狂欢",
+    "venue": "长隆欢乐世界",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "垂直过山车等70余项游乐设施，暑期狂欢节主题活动，花车巡游。",
+    "source": "广州本地宝",
+    "highlights": [
+      "长隆",
+      "欢乐世界",
+      "过山车"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "长隆飞鸟乐园",
+    "venue": "长隆飞鸟乐园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "百鸟飞歌鹈鹕投喂，湿地生态探索，鸟类科普教育。",
+    "source": "广州本地宝",
+    "highlights": [
+      "飞鸟",
+      "湿地",
+      "科普"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州融创文旅城",
+    "venue": "广州融创文旅城",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "融创乐园雪世界水世界体育世界，一站式暑期亲子度假。",
+    "source": "广州本地宝",
+    "highlights": [
+      "融创",
+      "滑雪",
+      "乐园"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "融创雪世界暑期滑雪",
+    "venue": "广州融创雪世界",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "华南最大室内滑雪场，暑期冰雪体验，滑雪教学夏令营。",
+    "source": "广州本地宝",
+    "highlights": [
+      "滑雪",
+      "室内",
+      "冰雪"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "正佳极地海洋世界",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白鲸企鹅北极熊等极地动物，海洋生物展，美人鱼表演。",
+    "source": "广州本地宝",
+    "highlights": [
+      "极地海洋",
+      "白鲸",
+      "美人鱼"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州塔摩天轮",
+    "venue": "广州塔",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州塔小蛮腰登顶，摩天轮俯瞰全城，夜景灯光秀。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州塔",
+      "摩天轮",
+      "夜景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "珠江夜游",
+    "venue": "珠江游",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "珠江夜游大沙头码头天字码头，两岸灯光秀，广州夜景尽收眼底。",
+    "source": "广州本地宝",
+    "highlights": [
+      "珠江夜游",
+      "夜景",
+      "游船"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "岭南印象园",
+    "venue": "岭南印象园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "岭南传统文化主题公园，镬耳屋趟栊门，非遗体验表演。",
+    "source": "广州本地宝",
+    "highlights": [
+      "岭南文化",
+      "非遗",
+      "古建筑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "宝墨园岭南园林",
+    "venue": "宝墨园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "岭南园林艺术精品，锦鲤观赏，包青天文化，亲子捞鱼体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "宝墨园",
+      "岭南园林",
+      "锦鲤"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "余荫山房古典园林",
+    "venue": "余荫山房",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广东四大名园之一，精致小巧的岭南园林，亭台楼阁小桥流水。",
+    "source": "广州本地宝",
+    "highlights": [
+      "余荫山房",
+      "古典园林",
+      "四大名园"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沙湾古镇文化游",
+    "venue": "沙湾古镇",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "800年历史岭南文化古镇，留耕堂何氏大宗祠，姜撞奶美食。",
+    "source": "广州本地宝",
+    "highlights": [
+      "沙湾古镇",
+      "岭南",
+      "美食"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "南沙天后宫",
+    "venue": "南沙天后宫",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "天下天后第一宫，妈祖文化，海滨风光，南沙湿地相邻。",
+    "source": "广州本地宝",
+    "highlights": [
+      "天后宫",
+      "妈祖",
+      "海滨"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州科学中心科技探索",
+    "venue": "广东科学中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "亚洲最大科学中心，常设展厅8个主题，IMAX球幕影院。",
+    "source": "广州本地宝",
+    "highlights": [
+      "科学中心",
+      "科技",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州少年儿童图书馆",
+    "venue": "广州少年儿童图书馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "暑期阅读推广活动，绘本故事会，手工DIY，少儿阅读推广。",
+    "source": "广州本地宝",
+    "highlights": [
+      "图书馆",
+      "少儿",
+      "阅读"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "广州博物馆镇海楼",
+    "venue": "广州博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "镇海楼历史文化展，广州城建史，暑期研学活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "镇海楼",
+      "历史",
+      "广州"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "南越王博物院",
+    "venue": "南越王博物院",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南越王墓出土文物展，丝缕玉衣文帝行玺，岭南汉代历史。",
+    "source": "广州本地宝",
+    "highlights": [
+      "南越王",
+      "文物",
+      "汉代"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "南汉二陵博物馆",
+    "venue": "南汉二陵博物馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "五代十国南汉国历史展，德陵康陵出土文物，考古现场展示。",
+    "source": "广州本地宝",
+    "highlights": [
+      "南汉",
+      "考古",
+      "五代十国"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州民俗博物馆",
+    "venue": "广州民俗博物馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "资政大夫祠古建筑群，广州民俗文化展，灰塑砖雕艺术。",
+    "source": "广州本地宝",
+    "highlights": [
+      "民俗",
+      "古建筑",
+      "非遗"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "辛亥革命纪念馆",
+    "venue": "辛亥革命纪念馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "辛亥革命历史展，孙中山革命事迹，红色教育基地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "辛亥革命",
+      "孙中山",
+      "红色"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "越秀公园五羊石像",
+    "venue": "越秀公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州地标五羊石像，镇海楼，越秀山体育场，城市绿肺。",
+    "source": "广州本地宝",
+    "highlights": [
+      "越秀公园",
+      "五羊",
+      "地标"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "白云山风景区",
+    "venue": "白云山风景名胜区",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "羊城第一秀，登高望广州全景，摩星岭云台花园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "白云山",
+      "登高",
+      "风景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "莲花山旅游区",
+    "venue": "莲花山旅游区",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "莲花山古采石场，望海观音，莲花塔，历史文化与自然风光。",
+    "source": "广州本地宝",
+    "highlights": [
+      "莲花山",
+      "采石场",
+      "观音"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "南沙湿地公园",
+    "venue": "南沙湿地公园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "候鸟栖息地，湿地游船，观鸟生态，自然科普教育。",
+    "source": "广州本地宝",
+    "highlights": [
+      "湿地",
+      "观鸟",
+      "生态"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "百万葵园",
+    "venue": "百万葵园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "花海主题公园，四季鲜花，松鼠乐园，亲子游乐。",
+    "source": "广州本地宝",
+    "highlights": [
+      "百万葵园",
+      "花海",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州动物园",
+    "venue": "广州动物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "大熊猫长颈鹿大象等动物，海洋馆，市区亲子好去处。",
+    "source": "广州本地宝",
+    "highlights": [
+      "动物园",
+      "大熊猫",
+      "市区"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州海洋馆",
+    "venue": "广州海洋馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "海底隧道，海豚表演，海洋生物展，广州动物园内。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海洋馆",
+      "海豚",
+      "海底隧道"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州塔阿尔法探索乐园",
+    "venue": "广州塔",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州塔高空探险，云端漫步，刺激挑战，城市高空体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州塔",
+      "高空探险",
+      "刺激"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "花城广场灯光秀",
+    "venue": "花城广场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州新中轴地标，小蛮腰夜景，音乐喷泉，灯光秀。",
+    "source": "广州本地宝",
+    "highlights": [
+      "花城广场",
+      "灯光秀",
+      "夜景"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "广州大剧院演出",
+    "venue": "广州大剧院",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "歌剧舞剧音乐会儿童剧，世界顶级演出，艺术熏陶。",
+    "source": "广州本地宝",
+    "highlights": [
+      "大剧院",
+      "演出",
+      "艺术"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "广东省博物馆免费展览",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广东历史文化展，自然资源展，潮州木雕端砚艺术。",
+    "source": "广东省博物馆",
+    "highlights": [
+      "省博",
+      "广东历史",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州少年儿童图书馆活动",
+    "venue": "广州少年儿童图书馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "暑期阅读推广，绘本故事会，手工DIY活动。",
+    "source": "广州本地宝",
+    "highlights": [
+      "图书馆",
+      "少儿",
+      "阅读"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "广州市儿童公园暑期",
+    "venue": "广州市儿童公园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "广州最大免费儿童公园，20多个游乐区域，戏水乐园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "游乐"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "海珠湿地公园",
+    "venue": "海珠国家湿地公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州绿心，湿地生态观鸟，花海果园，自然科普。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海珠湿地",
+      "生态",
+      "观鸟"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "流溪河国家森林公园",
+    "venue": "流溪河国家森林公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "森林氧吧，湖泊游船，三桠塘幽谷，避暑胜地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "流溪河",
+      "森林",
+      "避暑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "从化温泉度假",
+    "venue": "从化温泉度假区",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广东温泉之乡，秋冬温泉度假，养生休闲。",
+    "source": "广州本地宝",
+    "highlights": [
+      "温泉",
+      "从化",
+      "度假"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州塔摩天轮夜景",
+    "venue": "广州塔",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "世界最高摩天轮，俯瞰广州夜景，浪漫体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "摩天轮",
+      "夜景",
+      "浪漫"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沙面岛欧陆风情",
+    "venue": "沙面岛",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "欧陆风情建筑群，百年历史，拍照打卡文艺范。",
+    "source": "广州本地宝",
+    "highlights": [
+      "沙面",
+      "欧陆风情",
+      "拍照"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上下九步行街",
+    "venue": "上下九步行街",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州传统商业步行街，骑楼建筑，老字号美食。",
+    "source": "广州本地宝",
+    "highlights": [
+      "上下九",
+      "步行街",
+      "美食"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "北京路文化旅游区",
+    "venue": "北京路步行街",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "千年古道，玻璃路面下的宋代路面遗址，购物美食文化。",
+    "source": "广州本地宝",
+    "highlights": [
+      "北京路",
+      "千年古道",
+      "购物"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广东省博物馆岭南文化",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广东历史文化展，潮州木雕端砚牙雕，岭南文化精华。",
+    "source": "广东省博物馆",
+    "highlights": [
+      "省博",
+      "岭南文化",
+      "木雕"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广东省博物馆自然资源",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广东自然资源展，矿物宝石古生物，地质科普。",
+    "source": "广东省博物馆",
+    "highlights": [
+      "省博",
+      "自然资源",
+      "矿物"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广东省博物馆端砚艺术",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "端砚专题展，端溪名砚，文房四宝，中国四大名砚之首。",
+    "source": "广东省博物馆",
+    "highlights": [
+      "端砚",
+      "文房四宝",
+      "肇庆"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州塔观光游乐",
+    "venue": "广州塔",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "中国第一高塔，433米观光，速降座椅，空中漫步。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州塔",
+      "观光",
+      "地标"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "白云山摩星岭",
+    "venue": "白云山风景名胜区",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "羊城第一峰，登高望远，俯瞰广州城，摩星岭祈福。",
+    "source": "广州本地宝",
+    "highlights": [
+      "摩星岭",
+      "登高",
+      "白云山"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "云台花园赏花",
+    "venue": "云台花园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白云山脚下，四季花卉，玻璃温室，花城明珠。",
+    "source": "广州本地宝",
+    "highlights": [
+      "云台花园",
+      "赏花",
+      "温室"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "麓湖公园休闲",
+    "venue": "麓湖公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "白云山边的湖光山色，麓湖鸿鹄楼，划船漫步。",
+    "source": "广州本地宝",
+    "highlights": [
+      "麓湖",
+      "划船",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "珠江公园花城广场",
+    "venue": "珠江公园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "CBD中央公园，快绿湖，园林景观，城市绿肺。",
+    "source": "广州本地宝",
+    "highlights": [
+      "珠江公园",
+      "CBD",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "天河公园",
+    "venue": "天河公园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州东部最大综合性公园，湖光山色，邓世昌纪念馆。",
+    "source": "广州本地宝",
+    "highlights": [
+      "天河公园",
+      "免费",
+      "邓世昌"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "海珠湖公园",
+    "venue": "海珠湖公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "海珠湿地的内湖，湖心岛花海，观鸟骑行。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海珠湖",
+      "免费",
+      "骑行"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "荔湾湖公园",
+    "venue": "荔湾湖公园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "老西关的荔枝湾，荔湾涌，粤剧文化，水乡风情。",
+    "source": "广州本地宝",
+    "highlights": [
+      "荔湾湖",
+      "西关",
+      "粤剧"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "流花湖公园",
+    "venue": "流花湖公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州市中心的绿洲，玫瑰园，浮丘，观鸟胜地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "流花湖",
+      "免费",
+      "观鸟"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "番禺莲花山",
+    "venue": "莲花山旅游区",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "古采石场遗址，莲花塔，望海观音，珠江口狮子洋。",
+    "source": "广州本地宝",
+    "highlights": [
+      "莲花山",
+      "采石场",
+      "观音"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "从化流溪河国家森林公园",
+    "venue": "流溪河国家森林公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "流溪湖游船，三桠塘幽谷，森林氧吧，避暑胜地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "流溪河",
+      "森林",
+      "避暑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "增城白水寨瀑布",
+    "venue": "白水寨风景名胜区",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "中国大陆落差最大瀑布，9999级天南第一梯，亲水栈道。",
+    "source": "广州本地宝",
+    "highlights": [
+      "白水寨",
+      "瀑布",
+      "登山"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "南沙湿地观鸟",
+    "venue": "南沙湿地公园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "候鸟栖息地，湿地游船，红树林生态，自然科普。",
+    "source": "广州本地宝",
+    "highlights": [
+      "湿地",
+      "观鸟",
+      "生态"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "宝墨园南粤苑",
+    "venue": "宝墨园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "岭南园林艺术，赵泰来藏品馆，紫洞舫，锦鲤观赏。",
+    "source": "广州本地宝",
+    "highlights": [
+      "宝墨园",
+      "南粤苑",
+      "园林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "余荫山房四大名园",
+    "venue": "余荫山房",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广东四大名园之一，小巧玲珑，岭南园林精品。",
+    "source": "广州本地宝",
+    "highlights": [
+      "余荫山房",
+      "四大名园",
+      "园林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州农讲所纪念馆",
+    "venue": "广州农民运动讲习所",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "毛泽东主办农民运动讲习所旧址，红色教育基地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "农讲所",
+      "红色",
+      "毛泽东"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州起义纪念馆",
+    "venue": "广州起义纪念馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州起义历史，广州苏维埃政府旧址，红色文化。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州起义",
+      "红色",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州六榕寺",
+    "venue": "六榕寺",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州四大丛林之一，六榕花塔，苏东坡题字。",
+    "source": "广州本地宝",
+    "highlights": [
+      "六榕寺",
+      "花塔",
+      "佛教"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州光孝寺",
+    "venue": "光孝寺",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州历史最悠久的寺庙，未有羊城先有光孝。",
+    "source": "广州本地宝",
+    "highlights": [
+      "光孝寺",
+      "古寺",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州海幢寺",
+    "venue": "海幢寺",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州四大丛林之一，古树名木，清幽古寺。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海幢寺",
+      "海珠",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州大佛寺",
+    "venue": "大佛寺",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京路步行街旁，大佛古寺，夜景璀璨。",
+    "source": "广州本地宝",
+    "highlights": [
+      "大佛寺",
+      "北京路",
+      "夜景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州三元宫",
+    "venue": "三元宫",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州著名道观，越秀山南麓，道教文化。",
+    "source": "广州本地宝",
+    "highlights": [
+      "三元宫",
+      "道教",
+      "越秀"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州纯阳观",
+    "venue": "纯阳观",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "海珠区道教名观，漱珠岗，古梅奇石。",
+    "source": "广州本地宝",
+    "highlights": [
+      "纯阳观",
+      "道教",
+      "海珠"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州怀圣寺",
+    "venue": "怀圣寺",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "中国最早的清真寺之一，光塔，伊斯兰教文化。",
+    "source": "广州本地宝",
+    "highlights": [
+      "怀圣寺",
+      "清真寺",
+      "光塔"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州五仙观",
+    "venue": "五仙观",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "五羊传说发源地，岭南第一楼，广州历史。",
+    "source": "广州本地宝",
+    "highlights": [
+      "五仙观",
+      "五羊传说",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州陈家祠",
+    "venue": "陈家祠",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广东民间工艺博物馆，岭南建筑艺术明珠。",
+    "source": "广州本地宝",
+    "highlights": [
+      "陈家祠",
+      "岭南建筑",
+      "工艺"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州西关大屋",
+    "venue": "西关古老大屋",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西关传统民居，趟栊门满洲窗，岭南风情。",
+    "source": "广州本地宝",
+    "highlights": [
+      "西关大屋",
+      "岭南",
+      "传统建筑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州沙面岛欧陆建筑",
+    "venue": "沙面岛",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "欧陆风情建筑群，百年历史，拍照打卡圣地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "沙面",
+      "欧陆风情",
+      "拍照"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州石室圣心大教堂",
+    "venue": "石室圣心大教堂",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "中国最大的哥特式建筑，全石结构教堂。",
+    "source": "广州本地宝",
+    "highlights": [
+      "石室",
+      "教堂",
+      "哥特式"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州中山纪念堂",
+    "venue": "中山纪念堂",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "纪念孙中山先生，八角形宫殿建筑，广州地标。",
+    "source": "广州本地宝",
+    "highlights": [
+      "中山纪念堂",
+      "孙中山",
+      "地标"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州黄花岗七十二烈士墓",
+    "venue": "黄花岗公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "辛亥革命纪念，黄花岗七十二烈士，红色教育。",
+    "source": "广州本地宝",
+    "highlights": [
+      "黄花岗",
+      "辛亥革命",
+      "红色"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州三元里抗英斗争纪念馆",
+    "venue": "三元里抗英纪念馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "三元里人民抗英斗争，爱国主义教育基地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "三元里",
+      "抗英",
+      "爱国"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州海珠湖湿地",
+    "venue": "海珠湖公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "海珠湿地内湖，花海骑行，观鸟休闲。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海珠湖",
+      "免费",
+      "湿地"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州海珠国家湿地公园",
+    "venue": "海珠国家湿地公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州绿心，万亩果园湿地，候鸟栖息地。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海珠湿地",
+      "生态",
+      "观鸟"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州麓湖公园",
+    "venue": "麓湖公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "白云山南麓，湖光山色，鸿鹄楼划船。",
+    "source": "广州本地宝",
+    "highlights": [
+      "麓湖",
+      "划船",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州雕塑公园",
+    "venue": "广州雕塑公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "雕塑主题公园，艺术作品，山林风光。",
+    "source": "广州本地宝",
+    "highlights": [
+      "雕塑公园",
+      "艺术",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州云台花园",
+    "venue": "云台花园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白云山脚下，花城明珠，四季花海。",
+    "source": "广州本地宝",
+    "highlights": [
+      "云台花园",
+      "花卉",
+      "白云山"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州兰圃",
+    "venue": "兰圃",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州兰花主题公园，岭南园林，清雅幽静。",
+    "source": "广州本地宝",
+    "highlights": [
+      "兰圃",
+      "兰花",
+      "岭南园林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州花都湖公园",
+    "venue": "花都湖公园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "花都城市生态公园，环湖绿道，湿地景观。",
+    "source": "广州本地宝",
+    "highlights": [
+      "花都湖",
+      "免费",
+      "绿道"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州增城挂绿湖",
+    "venue": "挂绿湖",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "增城新地标，湖光山色，休闲散步。",
+    "source": "广州本地宝",
+    "highlights": [
+      "挂绿湖",
+      "增城",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州番禺大夫山",
+    "venue": "大夫山森林公园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "番禺绿肺，骑行烧烤，周末亲子好去处。",
+    "source": "广州本地宝",
+    "highlights": [
+      "大夫山",
+      "骑行",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州番禺莲花山古采石场",
+    "venue": "莲花山旅游区",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "古采石场遗址，人工丹霞奇观，历史悠久。",
+    "source": "广州本地宝",
+    "highlights": [
+      "莲花山",
+      "采石场",
+      "遗址"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州长隆国际大马戏",
+    "venue": "长隆国际大马戏",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "全球最大专业马戏表演场，世界级马戏盛宴。",
+    "source": "广州本地宝",
+    "highlights": [
+      "大马戏",
+      "长隆",
+      "表演"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "广州长隆飞鸟乐园",
+    "venue": "长隆飞鸟乐园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "百鸟飞歌，湿地生态，鸟类科普教育。",
+    "source": "广州本地宝",
+    "highlights": [
+      "飞鸟乐园",
+      "湿地",
+      "鸟类"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州岭南印象园",
+    "venue": "岭南印象园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "岭南乡土风情，非遗表演，传统文化体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "岭南印象园",
+      "非遗",
+      "文化"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州沙湾古镇",
+    "venue": "沙湾古镇",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "800年历史岭南文化古镇，姜撞奶美食。",
+    "source": "广州本地宝",
+    "highlights": [
+      "沙湾",
+      "古镇",
+      "姜撞奶"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州塱头古村",
+    "venue": "塱头古村",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "花都炭步塱头古村，明清古建筑群，书室文化。",
+    "source": "广州本地宝",
+    "highlights": [
+      "塱头古村",
+      "花都",
+      "古建筑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州动物园海洋馆",
+    "venue": "广州动物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "海洋生物展，海底隧道，海洋科普教育。",
+    "source": "广州本地宝",
+    "highlights": [
+      "海洋馆",
+      "动物园",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州鳄鱼公园",
+    "venue": "广州鳄鱼公园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "鳄鱼主题公园，爬行动物科普，鸟类表演。",
+    "source": "广州本地宝",
+    "highlights": [
+      "鳄鱼",
+      "爬行动物",
+      "长隆"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州气象卫星地面站",
+    "venue": "广州气象卫星地面站",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "气象科普教育基地，卫星气象观测，天气预报知识。",
+    "source": "广州本地宝",
+    "highlights": [
+      "气象",
+      "卫星",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州地铁博物馆",
+    "venue": "广州地铁博物馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "地铁发展历程，模拟驾驶体验，轨道交通科普。",
+    "source": "广州本地宝",
+    "highlights": [
+      "地铁",
+      "博物馆",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州抽水蓄能电站",
+    "venue": "广州抽水蓄能电站",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "工业旅游示范点，水电站科普，生态风光。",
+    "source": "广州本地宝",
+    "highlights": [
+      "抽水蓄能",
+      "工业旅游",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州石头记矿物园",
+    "venue": "石头记矿物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "矿物宝石主题公园，奇石展览，水晶世界。",
+    "source": "广州本地宝",
+    "highlights": [
+      "矿物",
+      "宝石",
+      "石头记"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州洪秀全故居",
+    "venue": "洪秀全故居",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "太平天国领袖洪秀全出生地，历史纪念馆。",
+    "source": "广州本地宝",
+    "highlights": [
+      "洪秀全",
+      "太平天国",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州番禺博物馆",
+    "venue": "番禺博物馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "番禺历史文化展，出土文物，民俗文化。",
+    "source": "广州本地宝",
+    "highlights": [
+      "番禺",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州增城博物馆",
+    "venue": "增城博物馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "增城历史文化，客家文化，民俗风情。",
+    "source": "广州本地宝",
+    "highlights": [
+      "增城",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州从化博物馆",
+    "venue": "从化博物馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "从化历史文化，生态资源，地方民俗。",
+    "source": "广州本地宝",
+    "highlights": [
+      "从化",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州花都博物馆",
+    "venue": "花都博物馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "花都历史文化，洪秀全，炭步芋头。",
+    "source": "广州本地宝",
+    "highlights": [
+      "花都",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州南沙博物馆",
+    "venue": "南沙博物馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南沙历史文化，海洋文化，水乡风情。",
+    "source": "广州本地宝",
+    "highlights": [
+      "南沙",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州白云儿童公园",
+    "venue": "广州市白云儿童公园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "儿童游乐设施，亲子活动，免费游玩。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "白云"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州海珠儿童公园",
+    "venue": "广州市海珠儿童公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "海珠儿童乐园，游乐设施，亲子休闲。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "海珠"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州番禺儿童公园",
+    "venue": "广州市番禺儿童公园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "番禺儿童游乐，亲子活动，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "番禺"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州天河儿童公园",
+    "venue": "广州市天河儿童公园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "天河儿童游乐，亲子休闲，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "天河"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州黄埔儿童公园",
+    "venue": "广州市黄埔儿童公园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "黄埔儿童游乐，亲子活动，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "黄埔"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州花都儿童公园",
+    "venue": "广州市花都儿童公园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "花都儿童游乐，亲子休闲，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "花都"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州增城儿童公园",
+    "venue": "广州市增城儿童公园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "增城儿童游乐，亲子活动，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "增城"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州从化儿童公园",
+    "venue": "广州市从化儿童公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "从化儿童游乐，亲子休闲，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "从化"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州南沙儿童公园",
+    "venue": "广州市南沙儿童公园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南沙儿童游乐，亲子活动，免费公园。",
+    "source": "广州本地宝",
+    "highlights": [
+      "儿童公园",
+      "免费",
+      "南沙"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州白云山蹦极",
+    "venue": "白云山风景名胜区",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白云山蹦极跳，极限运动，刺激体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "蹦极",
+      "白云山",
+      "刺激"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州白云山滑索",
+    "venue": "白云山风景名胜区",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白云飞索，高空滑索，刺激体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "滑索",
+      "白云山",
+      "刺激"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州流溪河漂流",
+    "venue": "流溪河国家森林公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "峡谷漂流，夏日清凉，山水风光。",
+    "source": "广州本地宝",
+    "highlights": [
+      "漂流",
+      "流溪河",
+      "清凉"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州增城大丰门漂流",
+    "venue": "大丰门景区",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "大丰门漂流，惊险刺激，夏日清凉。",
+    "source": "广州本地宝",
+    "highlights": [
+      "漂流",
+      "大丰门",
+      "刺激"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州从化碧水湾温泉",
+    "venue": "碧水湾温泉度假村",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "从化温泉度假，秋冬养生，温泉泡汤。",
+    "source": "广州本地宝",
+    "highlights": [
+      "温泉",
+      "从化",
+      "养生"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州增城锦绣香江温泉",
+    "venue": "锦绣香江温泉城",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白水寨旁温泉度假，秋冬养生，南昆山下。",
+    "source": "广州本地宝",
+    "highlights": [
+      "温泉",
+      "增城",
+      "白水寨"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州花都融创雪世界",
+    "venue": "广州融创雪世界",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "华南最大室内滑雪场，四季滑雪，冰雪体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "滑雪",
+      "融创",
+      "冰雪"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州融创水世界",
+    "venue": "广州融创水世界",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "室内恒温水乐园，全年戏水，水上项目。",
+    "source": "广州本地宝",
+    "highlights": [
+      "水世界",
+      "融创",
+      "室内"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州融创体育世界",
+    "venue": "广州融创体育世界",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "体育主题乐园，卡丁车攀岩，运动体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "体育世界",
+      "融创",
+      "运动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州正佳自然科学博物馆",
+    "venue": "正佳自然科学博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "恐龙化石标本，自然科学科普，亲子研学。",
+    "source": "广州本地宝",
+    "highlights": [
+      "自然科学",
+      "恐龙",
+      "正佳"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州正佳雨林生态植物园",
+    "venue": "正佳雨林生态植物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "室内热带雨林，植物动物，生态科普。",
+    "source": "广州本地宝",
+    "highlights": [
+      "雨林",
+      "植物园",
+      "正佳"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州正佳极地海洋世界",
+    "venue": "正佳极地海洋世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "极地海洋动物，白鲸企鹅，美人鱼表演。",
+    "source": "广州本地宝",
+    "highlights": [
+      "极地海洋",
+      "白鲸",
+      "正佳"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州MAG环球魔幻世界",
+    "venue": "MAG环球魔幻世界",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "魔幻主题乐园，3D艺术馆，惊悚鬼屋。",
+    "source": "广州本地宝",
+    "highlights": [
+      "魔幻世界",
+      "3D艺术",
+      "天河"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州星期8小镇",
+    "venue": "星期8小镇",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "儿童职业体验，角色扮演，亲子教育。",
+    "source": "广州本地宝",
+    "highlights": [
+      "职业体验",
+      "角色扮演",
+      "儿童"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州巧克力王国",
+    "venue": "奥园英德巧克力王国",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "巧克力主题乐园，糖果城堡，亲子游乐。",
+    "source": "广州本地宝",
+    "highlights": [
+      "巧克力",
+      "主题乐园",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州南湖游乐园",
+    "venue": "南湖游乐园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "老牌游乐园，过山车摩天轮，怀旧体验。",
+    "source": "广州本地宝",
+    "highlights": [
+      "南湖游乐园",
+      "怀旧",
+      "游乐"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州黄金海岸水上乐园",
+    "venue": "黄金海岸水上乐园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "市区水上乐园，造浪池滑梯，夏日清凉。",
+    "source": "广州本地宝",
+    "highlights": [
+      "水上乐园",
+      "黄金海岸",
+      "清凉"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州大河马水上世界",
+    "venue": "大河马水上世界",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "老牌水上乐园，刺激滑道，夏日戏水。",
+    "source": "广州本地宝",
+    "highlights": [
+      "水上乐园",
+      "大河马",
+      "戏水"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州珠江新城花城广场灯光秀",
+    "venue": "花城广场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州新中轴线地标，每晚灯光音乐秀，城市夜景。",
+    "source": "广州本地宝",
+    "highlights": [
+      "灯光秀",
+      "花城广场",
+      "夜景"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "广州北京路千年古道",
+    "venue": "北京路步行街",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "千年古道遗址，玻璃路面下的唐宋明清路面。",
+    "source": "广州本地宝",
+    "highlights": [
+      "千年古道",
+      "北京路",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "广州动物园熊猫馆",
+    "venue": "广州动物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "大熊猫明星，萌态可掬，亲子打卡必看。",
+    "source": "广州本地宝",
+    "highlights": [
+      "熊猫",
+      "动物园",
+      "萌宠"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州二沙岛艺术公园",
+    "venue": "二沙岛",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "珠江上的绿洲，艺术公园，江景休闲。",
+    "source": "广州本地宝",
+    "highlights": [
+      "二沙岛",
+      "艺术",
+      "江景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "广州生物岛",
+    "venue": "广州国际生物岛",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "江心岛绿道骑行，生态休闲，亲子骑行。",
+    "source": "广州本地宝",
+    "highlights": [
+      "生物岛",
+      "骑行",
+      "生态"
+    ],
+    "type": "亲子活动"
   }
 ]

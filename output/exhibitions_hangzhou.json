@@ -814,5 +814,4391 @@
     "family_friendly": true,
     "source": "浙江交响乐团",
     "district": "拱墅区"
+  },
+  {
+    "name": "爱丽丝梦游仙境芭蕾舞剧",
+    "venue": "杭州大剧院",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "fee": "需购票",
+    "description": "俄罗斯国宝级芭蕾舞剧，150年风靡全球的经典IP，用芭蕾足尖重新书写奇幻！",
+    "source": "杭州本地宝",
+    "highlights": [
+      "芭蕾舞",
+      "爱丽丝",
+      "奇幻"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "八十天环游地球舞台剧",
+    "venue": "金沙湖大剧院",
+    "city": "hangzhou",
+    "district": "钱塘区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "需购票",
+    "description": "改编自儒勒·凡尔纳同名科幻冒险小说，生动再现19世纪英国绅士菲利亚·福格挑战八十天环游地球的传奇故事。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "舞台剧",
+      "环游地球",
+      "冒险"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "柴可夫斯基钢琴独奏音乐会",
+    "venue": "杭州临平大剧院",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "fee": "需购票",
+    "description": "鲁超老师带孩子走进柴可夫斯基的童话世界，以不同时期、不同风格的钢琴小品为媒介，传递地道的俄罗斯风情。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "钢琴",
+      "柴可夫斯基",
+      "音乐会"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "寻找声音的耳朵音乐剧",
+    "venue": "小百花越剧场",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-26",
+    "fee": "需购票",
+    "description": "男孩小聃带着'魔法'瓶子和一双纯真空灵的耳朵转学到市重点小学，经历竞争、攀比和环境反差的故事。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "音乐剧",
+      "成长",
+      "声音"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "海王星飞船儿童剧",
+    "venue": "杭州临平大剧院",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-06",
+    "fee": "需购票",
+    "description": "帆船奥运冠军剧作指导国内首部帆船舞台剧演出，献给孩子们的第一堂海洋科普课。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "儿童剧",
+      "帆船",
+      "海洋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "航天奇妙夜儿童剧",
+    "venue": "杭州临平大剧院",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "fee": "需购票",
+    "description": "大型沉浸式实验科普剧，涵盖近百个航空航天知识点，通过寓教于乐的方式生动形象地科普航天知识。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "航天",
+      "科普",
+      "儿童剧"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "科学SHOW亲子科学剧",
+    "venue": "杭州临平大剧院",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "fee": "需购票",
+    "description": "对于5-13岁小朋友学习科普知识，与家长共同体验互动的科学互动亲子剧。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "科学",
+      "亲子",
+      "互动"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "时光历险记音乐剧",
+    "venue": "杭州临平大剧院",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-11",
+    "fee": "需购票",
+    "description": "聚焦时间、记忆与爱的主题，借兄妹冒险的奇幻经历，探讨与过往遗憾和解的命题。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "音乐剧",
+      "时光",
+      "冒险"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "小王子舞台剧",
+    "venue": "杭州大剧院",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "fee": "需购票",
+    "description": "经典改编，小王子居住在B612小行星上，因为与玫瑰花的一次争吵，开始了穿越星际的冒险。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "小王子",
+      "舞台剧",
+      "童话"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "太平年天下同宁交互艺术展",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "融合实物文物、数字展陈与沉浸式演出，展现吴越文化的独特魅力。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "吴越",
+      "数字展陈",
+      "沉浸式"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "一剑千年吴越国纪录片特展",
+    "venue": "钱王祠",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "description": "展出影片海报、原创服饰道具手稿、书法篆刻作品等，展示吴越国历史文化。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "吴越国",
+      "纪录片",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "钱氏今生实景音乐剧",
+    "venue": "钱王祠",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-06-24",
+    "end_date": "2026-10-08",
+    "fee": "收费",
+    "description": "以钱王浚湖治水功绩、《钱氏家训》传承为双主线，依托古祠实景演绎吴越文化与家风内涵。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "实景演出",
+      "吴越文化",
+      "家训"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "湿地洞天沉浸式体验",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "6米动态数字瀑布+32.5米180°巨幕，沉浸式穿梭湿地秘境，剪影大片随手拍。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湿地",
+      "沉浸式",
+      "数字"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "湿地万象厅",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "200余种湿地动植物标本，近距离认识麋鹿、丹顶鹤，还有趣味气味互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湿地",
+      "标本",
+      "互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "只此西溪厅",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "微缩西溪全景沙盘，复原西溪水乡生活，击鼓赛龙舟互动装置小朋友超爱。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "西溪",
+      "沙盘",
+      "互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "良渚玉琮王展览",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "五千年前国宝重磅亮相，良渚玉琮王、越王者旨於睗剑等珍贵文物展出。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "良渚",
+      "玉琮",
+      "国宝"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "万工轿展览",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "被誉为天下第一轿，朱金木雕繁复华丽，必打卡国宝。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "万工轿",
+      "朱金木雕",
+      "国宝"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "富春山居数字展厅",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "流动水墨长卷，窗边玻璃廊道观景绝佳，沉浸式体验富春山居图的意境。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "富春山居",
+      "数字",
+      "沉浸式"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "科技研学线路",
+    "venue": "阿里巴巴全球总部",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "串联阿里巴巴全球总部、机器人小镇、梦想小镇等核心科创地标，覆盖人工智能、数字经济、航空航天、智能制造等热门领域。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "科技",
+      "研学",
+      "阿里"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "宋韵非遗研学之旅",
+    "venue": "上城坊巷",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "上城'宋韵非遗·上城坊巷'研学之旅，体验宋代文化与非遗技艺。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "宋韵",
+      "非遗",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "运河百艺研学之旅",
+    "venue": "拱墅运河",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "拱墅'运河百艺·薪火传承'非遗研学之旅，感受运河文化与传统技艺。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "运河",
+      "非遗",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭图有约读书会",
+    "venue": "杭州图书馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "定期举办'杭图有约'主题读书会，邀请名家学者分享阅读心得。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "阅读",
+      "读书会",
+      "名家"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "小书虫漫游记",
+    "venue": "杭州图书馆少儿分馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "联动全市400余家杭州书房，开展暑期阅读活动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "阅读",
+      "少儿",
+      "书房"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "天目未来谷水世界",
+    "venue": "临安天目未来谷",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "131.4米长三角最高摩天轮为网红地标，搭配多款超长超高水滑道。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "水世界",
+      "摩天轮",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "平行世界水乐园",
+    "venue": "临平平行世界",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "超30000㎡室内外游玩空间，配备国内首创3D沉浸式造浪池、浙江首座水磁弹射过山车。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "水乐园",
+      "3D造浪池",
+      "过山车"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "开元森泊水世界",
+    "venue": "桐庐开元森泊",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "9200㎡恒温室内区域，龙卷风组合滑道、激流河等项目人气火爆。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "水乐园",
+      "恒温",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州奇妙夜",
+    "venue": "天目里",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-03",
+    "end_date": "2026-10-10",
+    "fee": "免费",
+    "description": "构建'3大夜主场+10大主题产品+全域联动营销'夜游格局，举办9场主题音乐会。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "奇妙夜",
+      "音乐会",
+      "夜游"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "非遗魔术秀",
+    "venue": "浙江省非遗馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "6:30PM非遗魔术秀，感受非遗技艺的神奇魅力。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "非遗",
+      "魔术",
+      "夜场"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "皮影灯影秀",
+    "venue": "浙江省非遗馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "7:00PM皮影灯影秀在3楼剧场舞台上演，体验传统皮影艺术。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "皮影",
+      "灯影",
+      "非遗"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "免费拓印体验",
+    "venue": "浙江省非遗馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "负一楼手工区提供免费宣纸拓印和皮影戏体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "拓印",
+      "皮影",
+      "手工"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "自然博物馆暑期活动",
+    "venue": "浙江自然博物院",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "化石挖掘体验、火山爆发科学实验秀、AR恐龙互动、夜间科普课堂等十项研学课程。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "自然博物馆",
+      "化石",
+      "科普"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "科技馆科学舞台剧",
+    "venue": "浙江省科技馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "暑期每日定时有科学舞台剧，机器人表演、航天模拟器、水力实验、力学游戏等互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "科技馆",
+      "科学剧",
+      "互动"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州动物园暑期活动",
+    "venue": "杭州动物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "动物科普讲解、喂食体验、亲子互动等暑期活动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "动物园",
+      "科普",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "西溪湿地夏令营",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "湿地生态探索、动植物观察、自然笔记等夏令营活动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湿地",
+      "夏令营",
+      "生态"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "太平年天下同宁交互艺术大展",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-08",
+    "fee": "收费",
+    "description": "融合实物文物、数字展陈与沉浸式演出的吴越主题交互艺术大展。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "吴越",
+      "交互艺术",
+      "沉浸式"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "临安天目未来谷水世界",
+    "venue": "临安天目未来谷",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "131.4米长三角最高摩天轮为网红地标，搭配多款超长超高水滑道。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "水世界",
+      "摩天轮",
+      "暑期"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "临平平行世界水乐园",
+    "venue": "临平平行世界",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "超30000㎡室内外游玩空间，国内首创3D沉浸式造浪池、浙江首座水磁弹射过山车。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "水乐园",
+      "造浪池",
+      "过山车"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "桐庐开元森泊水世界",
+    "venue": "桐庐开元森泊",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "9200㎡恒温室内区域，龙卷风组合滑道、激流河等项目人气火爆。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "水世界",
+      "恒温",
+      "森泊"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "桐庐虎啸峡漂流",
+    "venue": "虎啸峡漂流",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "峡谷漂流全面升级，惊险刺激的夏日清凉体验。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "漂流",
+      "峡谷",
+      "清凉"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "建德卧龙胜境漂流",
+    "venue": "建德卧龙胜境",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "峡谷漂流全新升级，自然山水间的夏日激情体验。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "漂流",
+      "建德",
+      "山水"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "灵山幻境溶洞纳凉",
+    "venue": "灵山幻境",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "恒温溶洞纳凉点位，避暑胜地，欣赏喀斯特地貌奇观。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "溶洞",
+      "避暑",
+      "恒温"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "建德灵栖洞溶洞",
+    "venue": "建德灵栖洞",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "恒温溶洞纳凉，地下河泛舟，欣赏钟乳石奇观。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "溶洞",
+      "建德",
+      "地下河"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "桐庐垂云通天河",
+    "venue": "垂云通天河",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "地下河溶洞漂流，恒温清凉，欣赏亿万年形成的钟乳石。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "溶洞",
+      "地下河",
+      "桐庐"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州奇妙夜天目里主场",
+    "venue": "天目里",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "description": "7月奇妙夜主场，集聚夜游科技、吴越文博、国潮市集、剧本游等业态。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "奇妙夜",
+      "天目里",
+      "夜游"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "百日星悦游活动",
+    "venue": "杭州全域",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-03",
+    "end_date": "2026-10-10",
+    "fee": "免费",
+    "description": "为期100天的百日星悦游，覆盖暑假中秋国庆，激活夜间文旅消费。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "夜游",
+      "百日",
+      "全域"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "大英图书馆奇喵史展",
+    "venue": "浙江图书馆之江馆区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-04",
+    "end_date": "2026-10-08",
+    "fee": "收费",
+    "description": "超多互动小游戏，适合亲子情侣打卡，氛围温柔治愈。",
+    "source": "七月看展指南",
+    "highlights": [
+      "大英图书馆",
+      "亲子",
+      "互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "秉灯照麒麟盗墓笔记大展",
+    "venue": "西泠印社美术馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-08",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "description": "盗墓笔记官方大展，四大沉浸剧情展区，情怀与仪式感交织。",
+    "source": "七月看展指南",
+    "highlights": [
+      "盗墓笔记",
+      "沉浸式",
+      "IP"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "古希腊的旅程文物展",
+    "venue": "良渚博物院",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-01-30",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "description": "31家机构163件精品文物与复制品，从基克拉迪抱臂人像到桃金娘金冠。",
+    "source": "七月看展指南",
+    "highlights": [
+      "古希腊",
+      "文物",
+      "良渚"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "纸见吴越非遗剪纸展",
+    "venue": "临安博物馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-07",
+    "fee": "免费",
+    "description": "全国非遗剪纸优秀作品展，四个单元展现吴越文化与剪纸艺术。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "剪纸",
+      "非遗",
+      "吴越"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "大道匠行浙江工艺美术展",
+    "venue": "杭州工艺美术博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-06-26",
+    "end_date": "2026-10-12",
+    "fee": "免费",
+    "description": "龙泉青瓷、东阳木雕、青田石雕、杭州扇艺等浙江百工技艺集中展示。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "工艺美术",
+      "浙江",
+      "非遗"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "印说中国故事大运河篆刻展",
+    "venue": "中国刀剪剑博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-06-22",
+    "end_date": "2026-07-21",
+    "fee": "免费",
+    "description": "大运河主题篆刻艺术巡回邀请展，3200公里大运河浓缩于方寸印章。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "篆刻",
+      "大运河",
+      "印章"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "月照银山丝路文明展",
+    "venue": "中国丝绸博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-06-24",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "description": "展出200余件藏品，串联丝路文明精彩，展现中华文明多元一体。",
+    "source": "七月看展指南",
+    "highlights": [
+      "丝路",
+      "丝绸",
+      "文明"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "窑火瓷韵陶瓷展",
+    "venue": "浙江大学艺术与考古博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-05-15",
+    "end_date": "2026-09-15",
+    "fee": "免费",
+    "description": "陶瓷艺术专题展，欣赏历代瓷器精品与窑火传承。",
+    "source": "七月看展指南",
+    "highlights": [
+      "陶瓷",
+      "浙大",
+      "考古"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "拓印体验课印纹硬陶",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "fee": "免费",
+    "description": "从印纹硬陶出发，了解纹饰流行趋势，拓印独一无二的作品。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "拓印",
+      "印纹硬陶",
+      "手工"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "线装书制作体验",
+    "venue": "浙江省博物馆孤山馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "免费",
+    "description": "亲手制作专属于自己的线装书，感受古法书籍装帧的文澜雅韵。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "线装书",
+      "古籍",
+      "手工"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "夏日手作小集",
+    "venue": "浙江省博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "DIY扇子、夏日印章限时登场，方寸之间文脉流转，一拓一印清凉自来。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "手作",
+      "扇子",
+      "集章"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "敦煌壁画彩绘课程",
+    "venue": "浙江省博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "跟随常书鸿的脚步，在古法纸上勾勒填彩壁画图样，感受敦煌传统美学。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "敦煌",
+      "壁画",
+      "彩绘"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "瓦当拓印课程",
+    "venue": "浙江省博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "宋六陵遗址出土瓦当拓印体验，感受瓦当纹样的精巧艺术智慧。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "瓦当",
+      "拓印",
+      "宋六陵"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "浙博寻宝未成年研学",
+    "venue": "浙江省博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "暑期持续开展浙博寻宝研学，精心设计研学手册，逛展厅赏文物学知识。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "寻宝",
+      "研学",
+      "博物馆"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "古琴雅会",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "古琴馆文人琴房古琴展演，听杳杳琴音品千年雅韵，沉浸式音乐体验。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "古琴",
+      "雅集",
+      "音乐"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "盖派英姿张大根绘画展",
+    "venue": "盖叫天故居",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-06-23",
+    "end_date": "2026-07-19",
+    "fee": "免费",
+    "description": "京剧非遗与水墨艺术融合，盖派艺术从唱念做打到丹青绘意的跨界传承。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "盖叫天",
+      "绘画",
+      "京剧"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "寻城记吴越童行研学",
+    "venue": "杭州各文旅点位",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "4条亲子研学专线，吴越文化主题，邀少年探野听涛问城观澜。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "吴越",
+      "研学",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "科技研学阿里机器人小镇",
+    "venue": "阿里巴巴全球总部",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "10条精品科技研学线路，阿里总部机器人小镇梦想小镇，人工智能数字经济航空航天。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "科技",
+      "研学",
+      "阿里"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "宋韵非遗上城坊巷研学",
+    "venue": "上城区历史街区",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "宋韵非遗上城坊巷研学之旅，体验宋韵文化与非遗技艺。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "宋韵",
+      "非遗",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "运河百艺薪火传承研学",
+    "venue": "拱墅区运河",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "运河百艺薪火传承非遗研学之旅，运河文化与非遗匠心。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "运河",
+      "非遗",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "循迹世界遗产西湖研学",
+    "venue": "西湖风景名胜区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "循迹世界遗产传承文脉匠心研学之旅，西湖文化与非遗匠心。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "西湖",
+      "世界遗产",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "小书虫漫游记暑期阅读",
+    "venue": "杭州图书馆少儿分馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "联动全市400余家杭州书房，开展小书虫漫游记暑期阅读活动。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "阅读",
+      "图书馆",
+      "暑期"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "杭图有约主题读书会",
+    "venue": "杭州图书馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "杭州图书馆定期举办杭图有约主题读书会。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "读书会",
+      "图书馆",
+      "免费"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "阅西湖图书馆之夜",
+    "venue": "晓风书屋阅见西湖",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "晓风书屋阅见西湖定期举办阅读经典的意义阅西湖图书馆之夜读书分享会。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "读书",
+      "西湖",
+      "夜读"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "宋词之都文脉走读",
+    "venue": "杭州全城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "三秋桂子十里荷花柳永等8条文脉走读线路，杭州宋词之都文化体验。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "宋词",
+      "走读",
+      "文化"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "南湖奇妙夜平行世界主场",
+    "venue": "临平平行世界",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "8月奇妙夜主场，集聚夜游科技吴越文博国潮市集剧本游等业态。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "奇妙夜",
+      "平行世界",
+      "夜游"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "吴越奇妙夜吴越里主场",
+    "venue": "吴越里",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "description": "10月奇妙夜主场，国庆期间吴越文化主题夜游。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "奇妙夜",
+      "吴越",
+      "国庆"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "西湖夜跑荧光跑道",
+    "venue": "西湖绿道",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "夜游新十品之夜跑，西湖青山湖白马湖荧光跑道等多条网红绿道。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "夜跑",
+      "荧光",
+      "绿道"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "千岛湖萤火虫夜赏",
+    "venue": "千岛湖",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "夜赏千岛湖萤火虫，光影自然景观，浪漫夏日亲子体验。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "萤火虫",
+      "千岛湖",
+      "夜赏"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "钱塘江夜游船",
+    "venue": "钱塘江游船",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "夜游钱塘江，欣赏两岸灯光秀与城市夜景。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "游船",
+      "钱塘江",
+      "灯光秀"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "垂云通天河西游幻梦",
+    "venue": "垂云通天河",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "溶洞西游幻梦暗河演艺，NPC互动龟仙人太上老君猪八戒牛魔王全员在线。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "溶洞",
+      "西游记",
+      "NPC"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "孔庙府学荷香市集",
+    "venue": "杭州孔庙",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "巨型仿真荷叶排布，天然清凉取景秘境，宋风古风写真好去处。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "孔庙",
+      "荷花",
+      "市集"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "吴山夜游吴山夜话",
+    "venue": "吴山景区",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "吴山夜话沉浸式夜游，南宋文化主题，体验临安城繁华夜景。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "吴山",
+      "夜游",
+      "南宋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "小河直街夜游",
+    "venue": "小河直街历史街区",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "运河边的历史街区，夜游体验老杭州运河文化与夜市烟火气。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "小河直街",
+      "运河",
+      "夜市"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦想小镇科技研学",
+    "venue": "梦想小镇",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "互联网创业小镇，科技研学参观，了解创新创业文化。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "梦想小镇",
+      "科技",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "机器人小镇科技探索",
+    "venue": "机器人小镇",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "近距离观摩机器人全地形实战测试，与工程师对话，动手拼装机械狗。",
+    "source": "杭州文广旅游局",
+    "highlights": [
+      "机器人",
+      "科技",
+      "研学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "天目山自然科考营",
+    "venue": "天目山",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "天目山国家级自然保护区，植物昆虫鸟类多样性科学考察夏令营。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "天目山",
+      "自然",
+      "科考"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "莫干山自然探索营",
+    "venue": "莫干山",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "莫干山自然探索夏令营，竹林徒步户外生存攀岩皮划艇多元体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "莫干山",
+      "自然",
+      "户外"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "山的迁徙黄靖杰个展",
+    "venue": "浙江美术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "description": "几何图形重构新式山水，当代艺术语境中展现东方的浪漫与诗意。",
+    "source": "七月看展指南",
+    "highlights": [
+      "黄靖杰",
+      "当代艺术",
+      "山水"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "羽民岛2影子的背面",
+    "venue": "东信和创园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-04",
+    "end_date": "2026-07-26",
+    "fee": "免费",
+    "description": "陶艺与铸造玻璃作品，光影虚实的静谧对话。",
+    "source": "七月看展指南",
+    "highlights": [
+      "陶艺",
+      "玻璃",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "蒙太奇从辩证法到动力学",
+    "venue": "中国美术学院美术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-04-10",
+    "end_date": "2026-09-01",
+    "fee": "免费",
+    "description": "静态文献与动态影像交错，展现蒙太奇的魅力。",
+    "source": "七月看展指南",
+    "highlights": [
+      "蒙太奇",
+      "影像",
+      "国美"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "豪劲与醇和书法展",
+    "venue": "杭州市临平博物馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-05-16",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "description": "书法艺术专题展，豪劲与醇和两种风格的书法美学对比。",
+    "source": "七月看展指南",
+    "highlights": [
+      "书法",
+      "临平",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州宋城千古情",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "给我一天还你千年，宋城千古情演出，宋代文化主题公园。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "宋城",
+      "千古情",
+      "宋代文化"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州乐园暑期狂欢",
+    "venue": "杭州乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "过山车大摆锤等游乐设施，暑期狂欢节，主题活动不断。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州乐园",
+      "过山车",
+      "狂欢节"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州烂苹果乐园",
+    "venue": "烂苹果乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "全室内高科技亲子乐园，魔幻小镇，近百项互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "烂苹果",
+      "亲子乐园",
+      "室内"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州长乔极地海洋公园",
+    "venue": "长乔极地海洋公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白鲸海豚北极熊企鹅等极地海洋动物，海洋剧场表演。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "极地海洋",
+      "白鲸",
+      "海豚"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州野生动物园",
+    "venue": "杭州野生动物世界",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "自驾区小火车游览，大熊猫老虎狮子，动物表演互动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "野生动物园",
+      "大熊猫",
+      "动物表演"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "浙江自然博物院安吉馆",
+    "venue": "浙江自然博物院安吉馆",
+    "city": "hangzhou",
+    "district": "安吉县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "亚洲最大自然博物馆之一，地质馆贝林馆恐龙馆等，自然科普。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "自然博物馆",
+      "安吉",
+      "恐龙"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州科技馆暑期活动",
+    "venue": "杭州科技馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "科学实验科普表演，暑期科技夏令营，机器人互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "科技馆",
+      "科学",
+      "机器人"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州植物园夏令营",
+    "venue": "杭州植物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "植物探索夏令营，植物识别昆虫观察，自然笔记创作。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "植物园",
+      "夏令营",
+      "自然"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "西溪湿地龙舟胜会",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "西溪湿地游船，龙舟体验，湿地生态科普，洪园景观。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "西溪湿地",
+      "龙舟",
+      "生态"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "京杭大运河游船",
+    "venue": "京杭大运河杭州段",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "运河游船，拱宸桥桥西历史街区，运河博物馆群。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大运河",
+      "游船",
+      "历史"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州宋城我回大宋",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "我回大宋主题活动，穿汉服游宋城，沉浸式宋代生活体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "宋城",
+      "汉服",
+      "沉浸式"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "千岛湖亲水游",
+    "venue": "千岛湖风景区",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "游船游湖登梅峰岛，亲水活动，鱼头美食，暑期度假。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "千岛湖",
+      "游船",
+      "亲水"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "乌镇水乡一日游",
+    "venue": "乌镇",
+    "city": "hangzhou",
+    "district": "桐乡市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "江南水乡古镇，东栅西栅，木心美术馆，水乡夜景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "乌镇",
+      "水乡",
+      "古镇"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "横店影视城穿越游",
+    "venue": "横店影视城",
+    "city": "hangzhou",
+    "district": "东阳市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "秦王宫明清宫苑梦幻谷，影视主题公园，看演出遇明星。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "横店",
+      "影视",
+      "穿越"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州动物园熊猫馆",
+    "venue": "杭州动物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "大熊猫成就双好，虎山中兽类区，动物科普讲解。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "动物园",
+      "熊猫",
+      "科普"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州少年儿童公园",
+    "venue": "杭州少年儿童公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "儿童游乐设施，满陇桂雨景区，暑期亲子活动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "儿童公园",
+      "游乐",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州海底世界",
+    "venue": "杭州海底世界",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "万松岭路口海底世界，海狮表演美人鱼表演，海底隧道。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "海底世界",
+      "美人鱼",
+      "海狮"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "浙西大峡谷漂流",
+    "venue": "浙西大峡谷",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "峡谷漂流，山水景观，自然探险，暑期清凉体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大峡谷",
+      "漂流",
+      "山水"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "双溪竹海漂流",
+    "venue": "双溪竹海漂流景区",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "竹海漂流，竹筏皮筏可选，竹林探幽，夏日清凉。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "双溪漂流",
+      "竹海",
+      "竹筏"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西湖音乐喷泉",
+    "venue": "西湖音乐喷泉",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖音乐喷泉夜景表演，灯光音乐水舞交融，西湖地标景观。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "音乐喷泉",
+      "西湖",
+      "夜景"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "西湖十景环湖游",
+    "venue": "西湖风景名胜区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "苏堤春晓断桥残雪雷峰夕照，西湖十景环湖游，船游西湖。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "西湖",
+      "十景",
+      "游船"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "灵隐寺祈福",
+    "venue": "灵隐寺",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "千年古刹灵隐寺，飞来峰石刻，佛教文化，祈福之旅。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "灵隐寺",
+      "佛教",
+      "飞来峰"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "雷峰塔登塔",
+    "venue": "雷峰塔景区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白娘子传说，登塔望西湖全景，雷峰夕照美景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "雷峰塔",
+      "白娘子",
+      "西湖全景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "飞来峰石窟",
+    "venue": "飞来峰景区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "江南石窟艺术瑰宝，五代宋元石刻造像，历史文化价值高。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "飞来峰",
+      "石窟",
+      "石刻"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "岳王庙怀古",
+    "venue": "岳王庙",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "岳飞纪念馆，精忠报国，爱国主义教育基地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "岳飞",
+      "历史",
+      "爱国"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "六和塔观潮",
+    "venue": "六和塔",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "钱塘江畔古塔，登塔望钱塘江，八月十八观潮胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "六和塔",
+      "钱塘江",
+      "观潮"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "河坊街南宋御街",
+    "venue": "河坊街",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州老城历史街区，南宋御街，老字号美食，文创小店。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "河坊街",
+      "南宋",
+      "美食"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "南宋御街鼓楼",
+    "venue": "南宋御街",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南宋皇城根下，鼓楼朝天门，历史文化街区。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "南宋御街",
+      "鼓楼",
+      "历史"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "京杭大运河桥西历史街区",
+    "venue": "桥西历史街区",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "运河边老厂房改造，博物馆群，文艺小店，咖啡美食。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "桥西",
+      "运河",
+      "博物馆"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "拱宸桥运河夜景",
+    "venue": "拱宸桥",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "京杭大运河南端地标，古桥夜景，运河游船。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "拱宸桥",
+      "运河",
+      "夜景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "湘湖旅游度假区",
+    "venue": "湘湖",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖姊妹湖，越王城山跨湖桥遗址，休闲度假。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湘湖",
+      "休闲",
+      "遗址"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "超山风景区",
+    "venue": "超山风景区",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "十里梅花香雪海，中国五大古梅有其二，赏梅胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "超山",
+      "梅花",
+      "赏梅"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "瑶琳仙境溶洞",
+    "venue": "瑶琳仙境",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "全国诸洞之冠，喀斯特溶洞，钟乳石奇观，地下长河。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "瑶琳仙境",
+      "溶洞",
+      "钟乳石"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "大奇山国家森林公园",
+    "venue": "大奇山国家森林公园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "江南第一名山，森林瀑布溪谷，避暑胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大奇山",
+      "森林",
+      "避暑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "富春江小三峡",
+    "venue": "富春江",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "富春江山水画廊，严子陵钓台，游船赏江景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "富春江",
+      "小三峡",
+      "游船"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "新安江山水画廊",
+    "venue": "新安江",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "新安江漂流，17度江水，夏日清凉，雾漫新安江。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "新安江",
+      "漂流",
+      "清凉"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "千岛湖环湖骑行",
+    "venue": "千岛湖风景区",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "绿道骑行，湖光山色，运动休闲，千岛湖啤酒美食。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "千岛湖",
+      "骑行",
+      "绿道"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "龙井茶园采茶",
+    "venue": "龙井村",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-03-15",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖龙井原产地，茶园采茶体验，炒茶品茶，茶乡风情。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "龙井",
+      "采茶",
+      "茶文化"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梅家坞茶文化村",
+    "venue": "梅家坞",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "龙井茶乡，农家茶楼，茶宴美食，周末休闲。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "梅家坞",
+      "茶",
+      "休闲"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "宋城万圣节活动",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-11",
+    "fee": "收费",
+    "description": "宋城万圣潮趴，聊斋夜话，鬼屋探险，化妆舞会。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "宋城",
+      "万圣节",
+      "聊斋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "浙江省博物馆武林馆",
+    "venue": "浙江省博物馆武林馆区",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "浙江历史文化展，越地长歌，十万年前到近现代。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "浙博",
+      "越地长歌",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "浙江省博物馆之江馆",
+    "venue": "浙江省博物馆之江馆区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "浙博新馆，更大展区更多文物，浙江文化新地标。",
+    "source": "浙江省博物馆",
+    "highlights": [
+      "浙博之江",
+      "新馆",
+      "之江"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "浙江自然博物院杭州馆",
+    "venue": "浙江自然博物院杭州馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖文化广场，自然标本恐龙化石，自然科普教育。",
+    "source": "浙江自然博物院",
+    "highlights": [
+      "自然博物馆",
+      "恐龙",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国茶叶博物馆",
+    "venue": "中国茶叶博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "双峰茶博物馆，茶文化展，龙井茶园，茶艺体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "茶博",
+      "茶文化",
+      "龙井"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国丝绸博物馆",
+    "venue": "中国丝绸博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "丝路文化，丝绸发展史，古代服饰，锦罗绸缎。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "丝绸",
+      "丝路",
+      "服饰"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州博物馆",
+    "venue": "杭州博物馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州历史文化，最忆是杭州，馆藏精品文物。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭博",
+      "杭州历史",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖博物馆",
+    "venue": "杭州西湖博物馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖文化史，西湖十景，西湖申遗展。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "西湖博物馆",
+      "西湖",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "南宋官窑博物馆",
+    "venue": "南宋官窑博物馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南宋官窑遗址，青瓷艺术，制瓷体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "南宋官窑",
+      "青瓷",
+      "遗址"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "胡庆余堂中药博物馆",
+    "venue": "胡庆余堂中药博物馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "江南药王胡庆余堂，中药文化，古建筑群。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "胡庆余堂",
+      "中药",
+      "河坊街"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国杭帮菜博物馆",
+    "venue": "中国杭帮菜博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭帮菜发展史，美食文化，模型菜品展示。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭帮菜",
+      "美食",
+      "博物馆"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国湿地博物馆",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西溪湿地内，湿地生态科普，全国唯一国家级湿地博物馆。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湿地博物馆",
+      "西溪",
+      "生态"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "京杭大运河博物馆",
+    "venue": "中国京杭大运河博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "运河文化，漕运历史，大运河世界遗产展。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大运河",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国刀剪剑博物馆",
+    "venue": "中国刀剪剑博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "张小泉剪刀，刀剑文化，工艺发展史。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "刀剪剑",
+      "张小泉",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国伞博物馆",
+    "venue": "中国伞博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "伞文化，油纸伞工艺，西湖绸伞。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "伞博物馆",
+      "油纸伞",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国扇博物馆",
+    "venue": "中国扇博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "扇子文化，王星记扇子，制扇工艺。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "扇博物馆",
+      "王星记",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州工艺美术博物馆",
+    "venue": "杭州工艺美术博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州工艺美术精品，非遗技艺，手工艺体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "工艺美术",
+      "非遗",
+      "手工"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "浙江美术馆",
+    "venue": "浙江美术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "浙江最高美术殿堂，当代艺术展，各类美术特展。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "浙江美术馆",
+      "艺术",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中国美术学院美术馆",
+    "venue": "中国美术学院美术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "中国最高美术学府美术馆，先锋艺术，学生作品展。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "国美",
+      "美术馆",
+      "先锋艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "韩美林艺术馆",
+    "venue": "韩美林艺术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "植物园内，韩美林艺术作品，雕塑绘画陶瓷。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "韩美林",
+      "艺术",
+      "植物园"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "西湖音乐节",
+    "venue": "西湖音乐节",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "fee": "收费",
+    "description": "杭州最具影响力的音乐节，独立音乐，民谣摇滚。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "音乐节",
+      "西湖",
+      "音乐"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州灵顺寺",
+    "venue": "灵顺寺",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北高峰上，天下第一财神庙，登高祈福。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "灵顺寺",
+      "财神庙",
+      "北高峰"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州净慈寺",
+    "venue": "净慈寺",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖十景南屏晚钟，净慈禅寺，千年古刹。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "净慈寺",
+      "南屏晚钟",
+      "西湖"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州虎跑泉",
+    "venue": "虎跑公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖三大名泉之一，虎跑梦泉，李叔同纪念馆。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "虎跑",
+      "名泉",
+      "李叔同"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州玉泉",
+    "venue": "玉泉",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖三大名泉之一，玉泉鱼跃，植物园内。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "玉泉",
+      "名泉",
+      "植物园"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州龙井村",
+    "venue": "龙井村",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖龙井茶原产地，茶园风光，茶农家访。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "龙井村",
+      "龙井茶",
+      "茶园"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州梅家坞茶文化村",
+    "venue": "梅家坞",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "龙井茶乡，农家茶楼，茶文化体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "梅家坞",
+      "茶文化",
+      "农家"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州九溪十八涧",
+    "venue": "九溪烟树",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖新十景，溪水潺潺，徒步胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "九溪",
+      "徒步",
+      "西湖新十景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州云栖竹径",
+    "venue": "云栖竹径",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖新十景，竹林幽径，清凉避暑。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "云栖竹径",
+      "竹林",
+      "避暑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州满陇桂雨",
+    "venue": "满觉陇",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-15",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "description": "西湖新十景，金秋桂花飘香，赏桂胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "满陇桂雨",
+      "桂花",
+      "秋天"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州龙井问茶",
+    "venue": "龙井",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖新十景，龙井茶原产地，茶文化体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "龙井问茶",
+      "茶文化",
+      "西湖新十景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州宝石流霞",
+    "venue": "宝石山",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖新十景，保俶塔，登高望西湖。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "宝石山",
+      "保俶塔",
+      "西湖新十景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州吴山天风",
+    "venue": "吴山",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖新十景，城隍阁，杭城百姓山。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "吴山",
+      "城隍阁",
+      "西湖新十景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州玉皇飞云",
+    "venue": "玉皇山",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖新十景，福星观，登高望江湖。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "玉皇山",
+      "道教",
+      "西湖新十景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州阮墩环碧",
+    "venue": "阮公墩",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖新十景，湖中绿洲，仿古表演。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "阮公墩",
+      "西湖",
+      "表演"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州黄龙吐翠",
+    "venue": "黄龙洞",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖新十景，黄龙洞圆缘民俗园，越剧表演。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "黄龙洞",
+      "越剧",
+      "民俗"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城千古情演出",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "给我一天还你千年，宋城千古情大型歌舞表演。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "千古情",
+      "演出",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城聊斋惊魂",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "聊斋鬼屋，恐怖主题，惊悚体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "聊斋",
+      "鬼屋",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城王员外家小姐抛绣球",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "王员外家小姐抛绣球，互动表演，宋代民俗。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "抛绣球",
+      "互动",
+      "宋代"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城命悬一线",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "命悬一线大型互动实景剧，惊险刺激。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "命悬一线",
+      "实景剧",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州杭州乐园过山车",
+    "venue": "杭州乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "悬挂过山车雨神之锤，刺激游乐项目。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "过山车",
+      "刺激",
+      "杭州乐园"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州少儿公园",
+    "venue": "杭州少年儿童公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "满觉陇儿童游乐设施，亲子活动，西湖边。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "少儿公园",
+      "亲子",
+      "西湖"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州低碳科技馆",
+    "venue": "中国杭州低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "低碳环保科普，全球首个低碳主题科技馆。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "低碳",
+      "科技馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州科技馆",
+    "venue": "杭州市科学技术馆",
+    "city": "hangzhou",
+    "district": "西湖文化广场",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "科普教育，科学实验，儿童互动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "科技馆",
+      "科普",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州动漫博物馆",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "国漫主题，动漫历史，互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "动漫",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖博览会博物馆",
+    "venue": "西湖博览会博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖博览会历史，杭州会展文化。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "西博",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖苏东坡纪念馆",
+    "venue": "苏东坡纪念馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "苏轼在杭州事迹，苏堤春晓，文学大家。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "苏东坡",
+      "纪念馆",
+      "西湖"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖章太炎纪念馆",
+    "venue": "章太炎纪念馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "国学大师章太炎，革命先驱，南屏山下。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "章太炎",
+      "纪念馆",
+      "国学"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖于谦祠",
+    "venue": "于谦祠",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "明代名臣于谦，两袖清风，西湖三台山。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "于谦",
+      "祠庙",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖张苍水祠",
+    "venue": "张苍水先生祠",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "张煌言抗清义士，民族英雄，南屏山麓。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "张苍水",
+      "祠庙",
+      "历史"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州白塔公园",
+    "venue": "白塔公园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "白塔，闸口火车遗址，文艺打卡。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "白塔",
+      "公园",
+      "火车"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州江洋畈生态公园",
+    "venue": "江洋畈生态公园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "生态湿地公园，西湖淤泥上的公园，观鸟。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "江洋畈",
+      "生态",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州半山国家森林公园",
+    "venue": "半山国家森林公园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州城北绿肺，登山望景，森林氧吧。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "半山",
+      "森林公园",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州皋亭山景区",
+    "venue": "皋亭山景区",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "皋亭千桃园，杭州北景，人文自然。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "皋亭山",
+      "千桃园",
+      "人文"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州超山风景区",
+    "venue": "超山风景区",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "十里梅花香雪海，中国五大古梅，赏梅胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "超山",
+      "梅花",
+      "赏梅"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州山沟沟景区",
+    "venue": "山沟沟景区",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "余杭山沟沟，峡谷瀑布，生态避暑。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "山沟沟",
+      "峡谷",
+      "避暑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州径山寺",
+    "venue": "径山寺",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "江南五大禅院之首，径山茶，禅修体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "径山寺",
+      "禅宗",
+      "茶道"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州良渚古城遗址公园",
+    "venue": "良渚古城遗址公园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "世界文化遗产，五千年文明，考古遗址。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "良渚",
+      "遗址",
+      "世界遗产"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州良渚博物院",
+    "venue": "良渚博物院",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "良渚文化展，玉琮玉璧，五千年文明。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "良渚",
+      "博物院",
+      "玉器"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西溪湿地洪园",
+    "venue": "西溪湿地洪园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西溪湿地西区，洪氏宗祠，四季花海。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "西溪洪园",
+      "湿地",
+      "花海"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西湖国宾馆",
+    "venue": "西湖国宾馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖第一名园，刘庄，历史建筑。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "国宾馆",
+      "西湖",
+      "历史"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州千岛湖啤酒小镇",
+    "venue": "千岛湖啤酒小镇",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "千岛湖啤酒主题小镇，啤酒博物馆，工业旅游。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "啤酒",
+      "小镇",
+      "千岛湖"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州千岛湖石林",
+    "venue": "千岛湖石林景区",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "华东第一石林，喀斯特地貌，怪石嶙峋。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "石林",
+      "喀斯特",
+      "千岛湖"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州建德大慈岩",
+    "venue": "大慈岩风景区",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "江南悬空寺，天然立佛，建德名山。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大慈岩",
+      "悬空寺",
+      "建德"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州建德灵栖洞",
+    "venue": "灵栖洞景区",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "地下艺术宫殿，喀斯特溶洞，86版西游记取景地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "灵栖洞",
+      "溶洞",
+      "西游记"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州临安太湖源",
+    "venue": "太湖源景区",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "太湖源头，小九寨沟，峡谷溪水。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "太湖源",
+      "峡谷",
+      "临安"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州临安大明山",
+    "venue": "大明山景区",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "浙江小黄山，高山草甸，万米岩洞。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大明山",
+      "登山",
+      "临安"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州富阳龙门古镇",
+    "venue": "龙门古镇",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "孙权故里，千年古镇，江南古村落。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "龙门古镇",
+      "孙权",
+      "富阳"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州富阳黄公望隐居地",
+    "venue": "黄公望隐居地",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "富春山居图原创地，黄公望结庐处。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "黄公望",
+      "富春山居图",
+      "富阳"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州桐庐严子陵钓台",
+    "venue": "严子陵钓台",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "东汉严子陵隐居处，富春江畔，钓台古迹。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "严子陵钓台",
+      "富春江",
+      "桐庐"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州桐庐瑶琳仙境",
+    "venue": "瑶琳仙境",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "全国诸洞冠，钟乳石奇观，地下长河。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "瑶琳仙境",
+      "溶洞",
+      "桐庐"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州淳安文渊狮城",
+    "venue": "文渊狮城",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "水下古城复刻，千年狮城，徽派建筑。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "文渊狮城",
+      "水下古城",
+      "淳安"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州建德梅城古镇",
+    "venue": "梅城古镇",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "严州府城，千年古镇，建德美食。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "梅城",
+      "古镇",
+      "严州"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州塘栖古镇",
+    "venue": "塘栖古镇",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "京杭大运河起点，广济桥，塘栖枇杷。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "塘栖",
+      "古镇",
+      "运河"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州河桥古镇",
+    "venue": "河桥古镇",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "柳溪江畔，千年古镇，临安风情。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "河桥",
+      "古镇",
+      "临安"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州瓶窑老街",
+    "venue": "瓶窑老街",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "良渚旁的古镇，瓶窑老街，非遗体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "瓶窑",
+      "老街",
+      "良渚"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州宋城失落古城",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "高科技沉浸式体验，南宋临安城繁华再现。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "失落古城",
+      "沉浸式",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城清明上河图电影馆",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "活的清明上河图，画卷人物动起来。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "清明上河图",
+      "电影馆",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城丽江恋歌",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "大型实景演出，丽江少数民族爱情故事。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "丽江恋歌",
+      "实景演出",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城大地震",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "5D实景剧大地震，感人至深的抗震救灾故事。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "大地震",
+      "5D",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城映山红",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "红色主题演出，革命历史故事。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "映山红",
+      "红色",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城狂欢节",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "暑期泼水狂欢节，夏日清凉派对。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "狂欢节",
+      "泼水",
+      "暑期"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城辣椒节",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "秋季辣椒节，火辣辣的民俗表演。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "辣椒节",
+      "秋季",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城天灯节",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "国庆天灯节，放天灯许愿，民俗盛会。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "天灯节",
+      "国庆",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城火把节",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-30",
+    "fee": "收费",
+    "description": "彝族火把节，篝火晚会，民族风情。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "火把节",
+      "篝火",
+      "民族"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州宋城花灯节",
+    "venue": "宋城",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-15",
+    "fee": "收费",
+    "description": "冬季花灯节，万盏花灯，新年氛围。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "花灯节",
+      "新年",
+      "宋城"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州烂苹果乐园糖果小镇",
+    "venue": "烂苹果乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "糖果主题小镇，梦幻色彩，儿童最爱。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "糖果小镇",
+      "烂苹果",
+      "儿童"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州烂苹果乐园魔法丛林",
+    "venue": "烂苹果乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "神秘魔法丛林，互动体验，寓教于乐。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "魔法丛林",
+      "烂苹果",
+      "互动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州烂苹果乐园荒诞小镇",
+    "venue": "烂苹果乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "荒诞有趣的小镇，颠倒房屋，奇幻世界。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "荒诞小镇",
+      "烂苹果",
+      "奇幻"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州烂苹果乐园爱的故事屋",
+    "venue": "烂苹果乐园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "温馨故事屋，亲子互动，儿童剧表演。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "故事屋",
+      "烂苹果",
+      "亲子"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州长乔极地海洋公园白鲸表演",
+    "venue": "长乔极地海洋公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白鲸水下表演，人鲸共舞，精彩绝伦。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "白鲸",
+      "表演",
+      "极地海洋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州长乔极地海洋公园海豚表演",
+    "venue": "长乔极地海洋公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "海豚跳跃表演，海洋剧场，欢乐互动。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "海豚",
+      "表演",
+      "极地海洋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州长乔极地海洋公园企鹅馆",
+    "venue": "长乔极地海洋公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南极企鹅近距离观赏，企鹅喂食体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "企鹅",
+      "极地",
+      "喂食"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州长乔极地海洋公园北极熊",
+    "venue": "长乔极地海洋公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北极熊近距离观赏，北极生态展示。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "北极熊",
+      "北极",
+      "极地"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州长乔极地海洋公园水母宫",
+    "venue": "长乔极地海洋公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "梦幻水母宫，七彩水母，海底奇观。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "水母",
+      "梦幻",
+      "海底"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州野生动物园步行区",
+    "venue": "杭州野生动物世界",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "步行观赏各类动物，亲子互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "步行区",
+      "野生动物园",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州野生动物园自驾区",
+    "venue": "杭州野生动物世界",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "自驾穿越猛兽区，近距离观赏野生动物。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "自驾区",
+      "野生动物园",
+      "猛兽"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州野生动物园森林剧场",
+    "venue": "杭州野生动物世界",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "森林动物表演，精彩马戏，互动体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "森林剧场",
+      "表演",
+      "马戏"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州野生动物园熊猫馆",
+    "venue": "杭州野生动物世界",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "大熊猫馆，国宝大熊猫，萌态可掬。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "熊猫",
+      "国宝",
+      "萌宠"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州野生动物园游乐场",
+    "venue": "杭州野生动物世界",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "游乐设施，旋转木马小火车，亲子欢乐。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "游乐场",
+      "亲子",
+      "游乐设施"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州东方文化园",
+    "venue": "东方文化园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "儒释道三教文化，东方园林，宗教艺术。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "东方文化",
+      "三教",
+      "园林"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州湘湖游船",
+    "venue": "湘湖旅游度假区",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "湘湖游船，湖光山色，休闲度假。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湘湖",
+      "游船",
+      "休闲"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州湘湖花海",
+    "venue": "湘湖旅游度假区",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "四季花海，四季不同花卉盛开。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "花海",
+      "湘湖",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州跨湖桥遗址博物馆",
+    "venue": "跨湖桥遗址博物馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "八千年前独木舟，跨湖桥文化，考古遗址。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "跨湖桥",
+      "遗址",
+      "考古"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州灵山风景区",
+    "venue": "灵山风景区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "灵山幻境溶洞，山水风光，避暑胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "灵山",
+      "溶洞",
+      "避暑"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州白龙潭景区",
+    "venue": "白龙潭景区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州近郊瀑布，山林溪水，自然野趣。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "白龙潭",
+      "瀑布",
+      "自然"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西溪湿地洪园摇橹船",
+    "venue": "西溪湿地洪园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "摇橹船游湿地，慢享西溪，诗意水乡。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "摇橹船",
+      "西溪湿地",
+      "水乡"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西溪湿地电瓶船",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "电瓶船游西溪，深潭口烟水渔庄，生态观光。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "电瓶船",
+      "西溪湿地",
+      "生态"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西溪湿地茭芦田庄",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西溪湿地东区景点，生态观鸟，自然野趣。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "茭芦田庄",
+      "西溪湿地",
+      "观鸟"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西溪湿地火柿节",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-15",
+    "end_date": "2026-10-15",
+    "fee": "收费",
+    "description": "秋季火柿节，红柿满枝，采摘体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "火柿节",
+      "秋季",
+      "采摘"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西溪花朝节",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-03-15",
+    "end_date": "2026-05-15",
+    "fee": "收费",
+    "description": "春季花朝节，百花盛放，花神祭祀。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "花朝节",
+      "春天",
+      "花"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖荷花展",
+    "venue": "西湖景区",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-06-15",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "西湖荷花盛开，曲院风荷，夏日美景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "荷花",
+      "西湖",
+      "夏天"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖桂花节",
+    "venue": "满觉陇",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-15",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "description": "满陇桂雨，金秋桂花飘香，赏桂胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "桂花",
+      "秋天",
+      "满觉陇"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西湖菊花展",
+    "venue": "杭州植物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-25",
+    "end_date": "2026-11-25",
+    "fee": "收费",
+    "description": "秋季菊花展，各色菊花争艳，秋日花景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "菊花展",
+      "秋天",
+      "植物园"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州西溪探梅节",
+    "venue": "西溪国家湿地公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-02-01",
+    "end_date": "2026-03-15",
+    "fee": "收费",
+    "description": "春季探梅，曲水寻梅，早春第一景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "探梅节",
+      "梅花",
+      "春天"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州超山探梅",
+    "venue": "超山风景区",
+    "city": "hangzhou",
+    "district": "临平区",
+    "start_date": "2026-02-01",
+    "end_date": "2026-03-15",
+    "fee": "收费",
+    "description": "十里梅花香雪海，中国五大古梅，赏梅胜地。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "超山",
+      "梅花",
+      "赏梅"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州灵峰探梅",
+    "venue": "杭州植物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-02-01",
+    "end_date": "2026-03-15",
+    "fee": "收费",
+    "description": "西湖三大赏梅胜地之一，灵峰探梅。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "灵峰",
+      "梅花",
+      "赏梅"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州太子湾郁金香展",
+    "venue": "太子湾公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-03-15",
+    "end_date": "2026-04-15",
+    "fee": "免费",
+    "description": "春季郁金香展，大片郁金香花海，春日盛景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "郁金香",
+      "太子湾",
+      "春天"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州太子湾樱花展",
+    "venue": "太子湾公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-03-20",
+    "end_date": "2026-04-10",
+    "fee": "免费",
+    "description": "春季樱花盛开，粉色浪漫，春日限定。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "樱花",
+      "太子湾",
+      "春天"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州虎跑泉水",
+    "venue": "虎跑公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西湖三大名泉之一，虎跑梦泉，龙井茶配虎跑水。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "虎跑泉",
+      "名泉",
+      "西湖"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州龙井茶园采茶",
+    "venue": "龙井村",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-03-20",
+    "end_date": "2026-04-20",
+    "fee": "收费",
+    "description": "春季采茶体验，明前茶采摘，茶文化体验。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "采茶",
+      "龙井",
+      "茶文化"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州九溪烟树漂流",
+    "venue": "九溪十八涧",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "夏日九溪玩水，溪水清凉，亲子溯溪。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "九溪",
+      "玩水",
+      "清凉"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州云栖竹径避暑",
+    "venue": "云栖竹径",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "竹林避暑，清凉一夏，西湖新十景。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "云栖竹径",
+      "避暑",
+      "竹林"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州西湖音乐喷泉夜游",
+    "venue": "西湖音乐喷泉",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "夜晚音乐喷泉灯光秀，西湖夜景打卡，浪漫杭州。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "夜景",
+      "喷泉",
+      "西湖"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "杭州湖滨步行街夜景",
+    "venue": "湖滨步行街",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西湖边繁华商业街，夜景灯光秀，美食购物。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "湖滨",
+      "夜景",
+      "步行街"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州清河坊历史街区",
+    "venue": "清河坊街",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州历史文化街区，南宋御街，民俗风情。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "清河坊",
+      "古镇",
+      "历史"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州小河直街历史街区",
+    "venue": "小河直街",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "京杭大运河旁历史街区，古运河风情。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "小河直街",
+      "运河",
+      "历史"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州大运河夜游",
+    "venue": "京杭大运河杭州景区",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "运河夜游，灯光夜景，乘船赏运河。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "运河",
+      "夜游",
+      "夜景"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州拱宸桥夜游船",
+    "venue": "拱宸桥",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "拱宸桥游船，运河夜景，江南水乡。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "拱宸桥",
+      "游船",
+      "运河"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "杭州刀剪剑博物馆",
+    "venue": "中国刀剪剑博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "刀剪剑文化，张小泉剪刀，运河三馆。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "刀剪剑",
+      "博物馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州伞博物馆",
+    "venue": "中国伞博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "伞文化展，西湖绸伞，工艺精品。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "伞博物馆",
+      "免费",
+      "工艺"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "杭州扇博物馆",
+    "venue": "中国扇博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "扇文化展，王星记扇子，手工技艺。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "扇博物馆",
+      "免费",
+      "工艺"
+    ],
+    "type": "展览"
   }
 ]

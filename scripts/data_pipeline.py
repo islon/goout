@@ -576,7 +576,7 @@ def main():
         f.write(ics_content)
     print(f"ICS日历已生成到 {ics_path}")
 
-    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou']
+    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing']
     for city_code in city_codes:
         city_activities = [a for a in activities if a.get('city') == city_code]
         if not city_activities:

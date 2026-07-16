@@ -1885,5 +1885,3235 @@
     "family_friendly": true,
     "source": "上海博物馆",
     "district": "黄浦区"
+  },
+  {
+    "name": "世界树之巅美洲古代文明大展",
+    "venue": "上海博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-09",
+    "end_date": "2027-11-14",
+    "fee": "收费",
+    "description": "上海博物馆继'金字塔之巅'之后又一重磅国际大展，联合墨西哥、秘鲁顶尖文博机构，汇聚近3000件精美文物，全景式勾勒古代中南美洲的文明长卷。",
+    "source": "上海本地宝",
+    "highlights": [
+      "美洲文明",
+      "大展",
+      "文物"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "美洲古代文明夜场",
+    "venue": "上海博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-09",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "每周二至周五17:00-21:00开放夜场，让观众在凉爽的夜晚沉浸式感受古代美洲文明。",
+    "source": "上海本地宝",
+    "highlights": [
+      "夜场",
+      "展览",
+      "美洲"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "动物奇妙夜",
+    "venue": "上海博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-09",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "每周六18:00-21:00举办'动物奇妙夜'主题活动，探索美洲古代文明中的动物元素。",
+    "source": "上海本地宝",
+    "highlights": [
+      "动物",
+      "夜场",
+      "互动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "中共一大纪念馆夜间开放",
+    "venue": "中共一大纪念馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "description": "7月1日、7月25日、8月1日夜间开放至20:00，感悟初心，重温红色历史。",
+    "source": "上海本地宝",
+    "highlights": [
+      "红色文化",
+      "夜场",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "电影党课火种",
+    "venue": "中共一大纪念馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "免费",
+    "description": "7月25日17:00-20:00播放电影党课《火种》，学习革命历史。",
+    "source": "上海本地宝",
+    "highlights": [
+      "电影",
+      "党课",
+      "红色"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "江河联山海无界结万象",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-03",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "description": "博物馆奇妙夜系列活动，包括'小浪花'讲解团、苏州河夜游Citywalk、徽州非遗工坊等。",
+    "source": "上海本地宝",
+    "highlights": [
+      "苏州河",
+      "夜游",
+      "非遗"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "苏州河历史文化展",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "从元代水闸到外白渡桥，展示苏州河的历史变迁。",
+    "source": "上海本地宝",
+    "highlights": [
+      "苏州河",
+      "历史",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "国采故宫藏清代帝后服饰展",
+    "venue": "上海世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-07",
+    "end_date": "2026-10-07",
+    "fee": "收费",
+    "description": "世博会博物馆携手故宫博物院推出，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等珍贵服饰，九成从未出京。",
+    "source": "上海本地宝",
+    "highlights": [
+      "故宫",
+      "服饰",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "熔光凝形铸造玻璃艺术展",
+    "venue": "上海琉璃艺术博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-15",
+    "fee": "收费",
+    "description": "夜游看展，开放时间延长至20:00，欣赏铸造玻璃的艺术叙事。",
+    "source": "上海本地宝",
+    "highlights": [
+      "玻璃艺术",
+      "夜场",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "近代名人墨知识讲座",
+    "venue": "上海周虎臣曹素功笔墨博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "fee": "免费",
+    "description": "7月10日17:00-19:00举办《近代名人墨知识》讲座。",
+    "source": "上海本地宝",
+    "highlights": [
+      "笔墨",
+      "讲座",
+      "文化"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "乒乓体验营",
+    "venue": "国际乒联博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-30",
+    "fee": "免费",
+    "description": "7月8日、7月16日、7月30日举办乒乓体验营，适合中小学生参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "乒乓球",
+      "体验",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "史前星球恐龙篇",
+    "venue": "西岸美术馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2027-01-27",
+    "fee": "收费",
+    "description": "改编自广受赞誉的纪录片系列'Prehistoric Planet史前星球'，通过先进的360°沉浸式投影系统，与史前生物'同行'。",
+    "source": "上海本地宝",
+    "highlights": [
+      "恐龙",
+      "沉浸式",
+      "纪录片"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "动物奇妙夜",
+    "venue": "上海动物园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "探秘夜间动物园，增设夜猫子和森林课夜观活动，展示动物园内夜行性动物难得一见的自然行为。",
+    "source": "上海本地宝",
+    "highlights": [
+      "动物园",
+      "夜场",
+      "动物"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "虎鲸造浪节",
+    "venue": "上海海昌海洋公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "连续66天夜场，围绕4大戏水、7大剧目升级、奥特曼60周年庆、烟花盛典等特色活动，7月11日-8月23日更有虎鲸造浪音乐节。",
+    "source": "上海本地宝",
+    "highlights": [
+      "海洋公园",
+      "造浪节",
+      "烟花"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "泰浪狂欢节",
+    "venue": "上海玛雅海滩水公园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-05",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "沪上首个'水上泼水音乐节'，包含泰浪超级水战、枪王之王争霸赛、撒泼大作战等主题活动，开放时间延长至22:00。",
+    "source": "上海本地宝",
+    "highlights": [
+      "水公园",
+      "泼水",
+      "音乐节"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "千金之家马王堆汉墓展",
+    "venue": "上海美术馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-03",
+    "end_date": "2026-10-07",
+    "fee": "收费",
+    "description": "荟萃马王堆出土珍宝，数件限制出境国宝同台亮相，回溯辛追侯府日常起居，品鉴西汉世家独有的生活格调。",
+    "source": "上海本地宝",
+    "highlights": [
+      "马王堆",
+      "汉墓",
+      "国宝"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "布里奇曼名画奇旅",
+    "venue": "上海美术馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "国内首个布里奇曼专属艺术空间展览，依托沉浸式光影场景、专业画作拆解、趣味艺术互动装置，帮助孩子轻松学习素描、构图等基础艺术知识。",
+    "source": "上海本地宝",
+    "highlights": [
+      "艺术",
+      "光影",
+      "互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "艺起童年儿童美术展",
+    "venue": "上海美术馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "中国儿童美术百年巡展，展出二百余件精品作品，涵盖原创书画、插画原稿、经典美术片影像等。",
+    "source": "上海本地宝",
+    "highlights": [
+      "儿童美术",
+      "百年",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海少儿优秀美术作品展",
+    "venue": "马利美术馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "150件（组）少儿美术作品展出，适合带孩子来一场艺术启蒙。",
+    "source": "上海本地宝",
+    "highlights": [
+      "少儿美术",
+      "展览",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "阅万象暑期阅读季",
+    "venue": "上海图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "涵盖主题活动、故事剧场、少儿讲座、创艺工坊、展览展示、志愿活动等七大板块，共计推出1000余项阅读活动。",
+    "source": "上海本地宝",
+    "highlights": [
+      "阅读",
+      "暑期",
+      "活动"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "未来科技大奖文献展",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "全景呈现中国科学家世界级研究成果，首次展出珍贵手稿与实物展品，见证中国科学从追赶到引领的非凡历程。",
+    "source": "上海本地宝",
+    "highlights": [
+      "科技",
+      "大奖",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "China白主题临展",
+    "venue": "上海世界技能博物馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "以五大主题展品矩阵为核心，融入捏、塑、雕、刻、彩绘等传统工艺技艺展示，结合AI+、艺术+互动体验。",
+    "source": "上海本地宝",
+    "highlights": [
+      "技能",
+      "工艺",
+      "互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "博物馆奇妙夜",
+    "venue": "上海自然博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "每周六延时开放至20:00，四维影院同步开放，体验夜间博物馆的独特魅力。",
+    "source": "上海本地宝",
+    "highlights": [
+      "自然博物馆",
+      "夜场",
+      "四维影院"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海天文馆奇妙夜",
+    "venue": "上海天文馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-08",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "每周六17:00-20:00开放夜场，球幕影院开放，科普集市、星光音乐会、天文桌游等精彩活动。",
+    "source": "上海本地宝",
+    "highlights": [
+      "天文馆",
+      "夜场",
+      "星空"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "烹饪宇宙科学桌游",
+    "venue": "上海天文馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "通过打出手牌，收集'食材'，烹饪'星星'，一款寓教于乐的天文科普桌游。",
+    "source": "上海本地宝",
+    "highlights": [
+      "桌游",
+      "天文",
+      "科普"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "保利艺夏演出季",
+    "venue": "上海保利大剧院",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "推出谍战话剧《夜行者》、'打开艺术之门'系列儿童剧目包括芭蕾、皮影、音乐会等贯穿整个暑假。",
+    "source": "上海本地宝",
+    "highlights": [
+      "演出季",
+      "儿童剧",
+      "艺术"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "EV音乐乐园",
+    "venue": "上海欢乐谷",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "主舞台'银河嗨唱中心'，每周六人气大咖空降开启音浪狂潮。",
+    "source": "上海本地宝",
+    "highlights": [
+      "音乐",
+      "乐园",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "非遗手作工坊",
+    "venue": "上海博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "结合美洲古代文明大展，开设文物互动体验、创意手工创作等趣味亲子环节。",
+    "source": "上海本地宝",
+    "highlights": [
+      "手工",
+      "非遗",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海科技馆科学之夜",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "每周五晚开放至21:00，体验不一样的科技馆奇妙夜。",
+    "source": "上海本地宝",
+    "highlights": [
+      "科技馆",
+      "夜场",
+      "科学"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海野生动物园夜宿",
+    "venue": "上海野生动物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "夜间在野生动物园内露营，近距离观察动物夜间行为。",
+    "source": "上海本地宝",
+    "highlights": [
+      "动物园",
+      "夜宿",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "马王堆汉墓生活美学国宝展",
+    "venue": "上海美术馆中华艺术宫",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-03",
+    "end_date": "2026-10-07",
+    "fee": "收费",
+    "description": "马王堆考古史上最大规模省外展出，汉代生活极致风雅，重现千金之家盛世风华。",
+    "source": "上海旅游节",
+    "highlights": [
+      "马王堆",
+      "汉代",
+      "国宝"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "宝硕流光乾隆时期文物特展",
+    "venue": "奉贤博物馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "description": "故宫馆藏121件套珍贵文物，乾隆朝服像、古稀天子之宝印等重磅亮相。",
+    "source": "新闻晨报",
+    "highlights": [
+      "乾隆",
+      "故宫文物",
+      "特展"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "奉贤博物馆奇妙夜",
+    "venue": "奉贤博物馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "description": "暑期夜游延长开放，专家夜间导赏、朕的一日沉浸式互动、七夕国风集市。",
+    "source": "新闻晨报",
+    "highlights": [
+      "博物馆奇妙夜",
+      "夜游",
+      "乾隆"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "史前星球恐龙篇沉浸式巨幕体验",
+    "venue": "西岸美术馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2027-01-27",
+    "fee": "收费",
+    "description": "360度沉浸式投影系统，与史前生物同行，真实感受它们的尺度与生存环境。",
+    "source": "上海旅游节",
+    "highlights": [
+      "恐龙",
+      "沉浸式",
+      "巨幕"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "布里奇曼名画奇旅全球首展",
+    "venue": "上海美术馆中华艺术宫",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2027-06-30",
+    "fee": "收费",
+    "description": "67家世界顶级文博机构、近70位中外艺术巨匠、跨越1800年近200幅正版高清名作。",
+    "source": "上海本地宝",
+    "highlights": [
+      "名画",
+      "沉浸式",
+      "全球首展"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "肇兴中国秦大一统之路文物展",
+    "venue": "上海博物馆东馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-07",
+    "fee": "收费",
+    "description": "14家考古文博机构510件文物，全景展示秦统一中国的历史进程。",
+    "source": "上海文旅局",
+    "highlights": [
+      "秦朝",
+      "大一统",
+      "文物"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "徽州文化艺术展",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "只在山林与泉曲——徽州文化艺术展，徽派建筑与艺术之美。",
+    "source": "上海文旅局",
+    "highlights": [
+      "徽州",
+      "文化",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上历博博物馆奇妙夜",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-03",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "description": "小浪花讲解团童声讲述苏州河故事，苏州河夜游Citywalk，徽州非遗工坊研学。",
+    "source": "上海文旅局",
+    "highlights": [
+      "博物馆奇妙夜",
+      "苏州河",
+      "非遗"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海地铁博物馆焕新开放",
+    "venue": "上海地铁博物馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "焕新归来，22号线紫金战车模型、AI互动体验区、VR互动、应急避险实训舱。",
+    "source": "上海本地宝",
+    "highlights": [
+      "地铁",
+      "焕新",
+      "AI互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "花样年华音乐电影场",
+    "venue": "西岸梦中心水岸剧场",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "fee": "免费",
+    "description": "上海RJ爵士大乐团现场演奏电影主题曲，再看一场浪漫电影花样年华。",
+    "source": "上海本地宝",
+    "highlights": [
+      "电影",
+      "音乐会",
+      "浪漫"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "申园纳夏凉园林消夏录",
+    "venue": "世博文化公园申园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "市区江南古典园林，满池荷花盛放，汉服租赁游园、古法消夏手作、夜间园林雅集。",
+    "source": "上海本地宝",
+    "highlights": [
+      "申园",
+      "荷花",
+      "汉服"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "世界树之境美洲植物大展",
+    "venue": "上海温室花园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-11-14",
+    "fee": "收费",
+    "description": "凤梨羊驼、300多种美洲植物、30种龙舌兰，与上博美洲文明大展深度联动。",
+    "source": "上海本地宝",
+    "highlights": [
+      "植物",
+      "美洲",
+      "凤梨羊驼"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "古猗园荷花睡莲展",
+    "venue": "古猗园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "第十三届荷花睡莲展，上百种珍稀荷花品种集中盛放，非遗荷文化研学。",
+    "source": "上海本地宝",
+    "highlights": [
+      "荷花",
+      "古猗园",
+      "非遗"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "虎鲸造浪音乐节",
+    "venue": "上海海昌海洋公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-11",
+    "end_date": "2026-08-23",
+    "fee": "收费",
+    "description": "14位人气大咖助阵，虎鲸造浪音乐节嗨翻全场，暑期夜游必打卡。",
+    "source": "上海旅游节",
+    "highlights": [
+      "音乐节",
+      "虎鲸",
+      "夜游"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海汽车博物馆奇妙夜",
+    "venue": "上海汽车博物馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "fee": "收费",
+    "description": "夜场延至19:30，世界汽车百年发展史公益讲解、避障小车与声控小车手作坊。",
+    "source": "新闻晨报",
+    "highlights": [
+      "汽车博物馆",
+      "奇妙夜",
+      "手作"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "中国汽车拓疆者饶斌特展",
+    "venue": "上海汽车博物馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "收费",
+    "description": "饶斌特展公益讲解，了解中国汽车工业拓荒者的故事。",
+    "source": "新闻晨报",
+    "highlights": [
+      "饶斌",
+      "汽车工业",
+      "特展"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "真静传统木作博物馆夜游",
+    "venue": "上海真静传统木作博物馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "description": "夜间展厅免费参观，体验木作工具，木作制作课筷子手镯书签鲁班锁。",
+    "source": "新闻晨报",
+    "highlights": [
+      "木作",
+      "博物馆奇妙夜",
+      "非遗"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "琉璃艺术博物馆夜游",
+    "venue": "上海琉璃艺术博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-15",
+    "fee": "收费",
+    "description": "熔光凝形铸造玻璃艺术展，周六夜间开放延长至20:00。",
+    "source": "上海文旅局",
+    "highlights": [
+      "琉璃",
+      "艺术",
+      "夜游"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "中共一大纪念馆奇妙夜",
+    "venue": "中共一大纪念馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "description": "会址正门夜间开放、电影党课火种、微讲座新四军臂章等红色主题夜活动。",
+    "source": "上海文旅局",
+    "highlights": [
+      "一大",
+      "红色",
+      "奇妙夜"
+    ],
+    "type": "讲座"
+  },
+  {
+    "name": "墨海楼藏近代名人墨展",
+    "venue": "周虎臣曹素功笔墨博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-28",
+    "fee": "免费",
+    "description": "近代名人墨知识讲座、墨锭鉴赏交流、夜间开放参观。",
+    "source": "上海文旅局",
+    "highlights": [
+      "墨",
+      "文房四宝",
+      "讲座"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "世博会博物馆奇妙夜",
+    "venue": "上海世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-11",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "description": "周六延时开放至20:00，故宫帝后服饰展夜场、4D电影体验。",
+    "source": "上海文旅局",
+    "highlights": [
+      "世博会",
+      "奇妙夜",
+      "故宫服饰"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "苏河乘风凉夏季主题航班",
+    "venue": "苏州河游船",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-08",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "萌宠游船、星空晚宴、音乐Live、雅韵茶旅四大特色航线。",
+    "source": "上海文旅局",
+    "highlights": [
+      "苏州河",
+      "游船",
+      "夜航"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "城市草坪音乐会夏之魅",
+    "venue": "上海城市草坪音乐广场",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-08",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "连演7场的城市草坪音乐会夏之魅，夏日户外音乐盛宴。",
+    "source": "上海文旅局",
+    "highlights": [
+      "音乐会",
+      "草坪",
+      "户外"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海儿童剧奥特传奇",
+    "venue": "九棵树未来艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "fee": "收费",
+    "description": "圆谷正版授权奥特曼系列舞台剧奥特传奇第3部外星生物来袭。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "奥特曼",
+      "儿童剧",
+      "正版"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "屁屁侦探儿童剧",
+    "venue": "九棵树未来艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-16",
+    "fee": "收费",
+    "description": "东映原版动漫舞台剧屁屁侦探之怪盗U对怪盗U。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "屁屁侦探",
+      "动漫",
+      "儿童剧"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "唐诗迷境寻诗历险记",
+    "venue": "九棵树未来艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "fee": "收费",
+    "description": "奇幻探险亲子舞台剧唐诗迷境寻诗历险记。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "唐诗",
+      "探险",
+      "儿童剧"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "布鲁布鲁冰原历险记",
+    "venue": "九棵树未来艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "fee": "收费",
+    "description": "沉浸式木偶剧布鲁布鲁之冰原历险记。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "木偶剧",
+      "冰原",
+      "沉浸式"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "魔艺总动员魔术秀",
+    "venue": "九棵树未来艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "fee": "收费",
+    "description": "魔艺总动员魔都双星魔术秀，亲子魔术互动表演。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "魔术",
+      "亲子",
+      "互动"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "绿野仙踪3D多媒体音乐剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "3D多媒体儿童音乐剧绿野仙踪，经典童话全新演绎。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "绿野仙踪",
+      "3D",
+      "音乐剧"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "爱丽丝梦游仙境音乐剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "加拿大多媒体亲子音乐剧爱丽丝梦游仙境中文版。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "爱丽丝",
+      "音乐剧",
+      "多媒体"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "布鲁伊的大宝藏舞台剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "英国BBC正版授权亲子互动舞台剧布鲁伊的大宝藏。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "布鲁伊",
+      "BBC",
+      "舞台剧"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "红舞鞋法语原版音乐剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "fee": "收费",
+    "description": "法语原版音乐剧红舞鞋首次来华，长三角仅此一站，法国金牌团队打造。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "音乐剧",
+      "法语原版",
+      "红舞鞋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "天鹅湖芭蕾舞剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-12-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "经典芭蕾舞剧天鹅湖，芭蕾皇冠上最璀璨的钻石。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "天鹅湖",
+      "芭蕾",
+      "经典"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "胡桃夹子芭蕾舞剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-12-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "经典芭蕾舞剧胡桃夹子，圣诞季必看经典。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "胡桃夹子",
+      "芭蕾",
+      "圣诞"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "吉赛尔芭蕾舞剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-12-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "芭蕾舞剧吉赛尔，芭蕾水准的黄金标尺，浪漫芭蕾代表作。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "吉赛尔",
+      "芭蕾",
+      "浪漫"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "玉蜻蜓越剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-25",
+    "fee": "收费",
+    "description": "越剧诞生120周年，王君安领衔主演越剧传统老戏玉蜻蜓。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "越剧",
+      "王君安",
+      "传统"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "何文秀越剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-25",
+    "fee": "收费",
+    "description": "尹派经典剧目何文秀，越剧名家王君安主演。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "越剧",
+      "尹派",
+      "经典"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "彩虹的尽头舞台剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-15",
+    "fee": "收费",
+    "description": "上海话剧艺术中心制作舞台剧彩虹的尽头，朱迪嘉兰的人生故事。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "话剧",
+      "朱迪嘉兰",
+      "艺术"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "谋杀派对悬疑话剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-12-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "阿加莎克里斯蒂悬疑话剧谋杀派对，侦探小说女王作品。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "悬疑",
+      "阿加莎",
+      "话剧"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "骆驼祥子话剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "老舍经典话剧骆驼祥子，讲述北平底层众生相。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "老舍",
+      "话剧",
+      "经典"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "朱自清舞剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-12",
+    "fee": "收费",
+    "description": "舞剧朱自清，致敬一代知识分子的精神与风骨。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "舞剧",
+      "朱自清",
+      "红色"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "天山雪杂技剧",
+    "venue": "保利上海城市剧院",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "description": "杂技剧天山雪，70多年沪疆情谊，20多个高难度杂技节目。",
+    "source": "保利城市剧院",
+    "highlights": [
+      "杂技",
+      "新疆",
+      "沪疆"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "CHINA白白瓷艺术展",
+    "venue": "上海世界技能博物馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-16",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "数十位中国工艺美术大师100余件白瓷艺术瑰宝，德化白瓷最高水平。",
+    "source": "七月看展指南",
+    "highlights": [
+      "白瓷",
+      "德化",
+      "工艺"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "贾科梅蒂艺术大展",
+    "venue": "上海民生现代美术馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-17",
+    "end_date": "2026-12-06",
+    "fee": "收费",
+    "description": "212件重量级藏品，完整覆盖20世纪传奇艺术家贾科梅蒂创作全周期。",
+    "source": "七月看展指南",
+    "highlights": [
+      "贾科梅蒂",
+      "雕塑",
+      "现代艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "玻璃应力威尼斯狂欢展",
+    "venue": "上海久事美术馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-10-18",
+    "fee": "收费",
+    "description": "全球近20个国家约50位艺术家参展，玻璃材料的抵抗合作与联结。",
+    "source": "七月看展指南",
+    "highlights": [
+      "玻璃",
+      "威尼斯",
+      "艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "陈世英他界之器展",
+    "venue": "龙美术馆西岸馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-10-25",
+    "fee": "收费",
+    "description": "三件巨型钛金属雕塑为核心，梳理陈世英钛金属雕塑创作脉络。",
+    "source": "七月看展指南",
+    "highlights": [
+      "陈世英",
+      "钛金属",
+      "雕塑"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "长安画派与海派绘画展",
+    "venue": "上海美术馆中华艺术宫",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-16",
+    "end_date": "2026-09-16",
+    "fee": "免费",
+    "description": "赵望云石鲁何海霞方济众刘海粟吴湖帆等名家70余件经典力作。",
+    "source": "七月看展指南",
+    "highlights": [
+      "长安画派",
+      "海派",
+      "国画"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "康雍乾时期文物特展",
+    "venue": "闵行博物馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-25",
+    "fee": "免费",
+    "description": "110余件套珍贵文物，青花斗彩鸡缸杯明黄色缎绣金龙龙袍太上皇帝之宝玺。",
+    "source": "七月看展指南",
+    "highlights": [
+      "康雍乾",
+      "文物",
+      "龙袍"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "吴钧陶手稿文献展",
+    "venue": "上海图书馆东馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "百岁翻译家诗人吴钧陶先生珍贵一手文献，完整呈现坎坷却坚韧的人生轨迹。",
+    "source": "七月看展指南",
+    "highlights": [
+      "吴钧陶",
+      "翻译",
+      "手稿"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "佘山度假区盛夏狂欢季",
+    "venue": "上海佘山国家旅游度假区",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "趣佘山GO狂欢，七大主题板块二十余项特色活动，青年潮玩亲子游乐自然研学。",
+    "source": "上海文旅局",
+    "highlights": [
+      "佘山",
+      "狂欢",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "庄行伏羊美食嘉年华",
+    "venue": "花米庄行景区",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-10",
+    "fee": "收费",
+    "description": "上海庄行伏羊美食嘉年华，全羊宴市集草地Live光影秀水岸集市。",
+    "source": "上海文旅局",
+    "highlights": [
+      "伏羊节",
+      "美食",
+      "非遗"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "大宁公园荷花游园会",
+    "venue": "大宁公园",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "description": "花开夏时荷夜未央主题游园会，全程免票，每周末设夜游专场。",
+    "source": "上海文旅局",
+    "highlights": [
+      "荷花",
+      "游园会",
+      "夜游"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "放鹤谷千灯会",
+    "venue": "放鹤谷鲜花农场",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "国家级非遗四川自贡灯会，50亩花田升级为梦幻灯海，白天赏花夜晚观灯。",
+    "source": "上海文旅局",
+    "highlights": [
+      "灯会",
+      "自贡",
+      "非遗"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "诗韵上海逐景寻诗打卡",
+    "venue": "上海全域",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-08",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "依托旅游节全域文旅地标植入诗词文化元素，边走边打卡集章，品读上海古韵。",
+    "source": "上海旅游节",
+    "highlights": [
+      "诗词",
+      "打卡",
+      "集章"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "海滨新天地恐龙展",
+    "venue": "海滨新天地",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "大型恐龙主题展，逼真恐龙模型，互动体验项目，亲子科普好去处。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "恐龙",
+      "亲子",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "碧海金沙水上乐园",
+    "venue": "碧海金沙",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "上海唯一的碧海金沙人造沙滩，水上乐园沙滩运动，夏日亲子戏水好去处。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "沙滩",
+      "水上乐园",
+      "碧海金沙"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "泡泡公园蚂蚁乐园",
+    "venue": "上海之鱼泡泡公园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "网红秋千3米高双滑道滑梯等大型无动力游乐设施，亲子撒欢好去处。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "泡泡公园",
+      "无动力",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "年丰公园水上运动",
+    "venue": "上海之鱼年丰公园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "皮划艇桨板卡丁船等水上项目，专业教练指导，泛舟湖上碧波穿行。",
+    "source": "奉贤文旅",
+    "highlights": [
+      "皮划艇",
+      "水上运动",
+      "上海之鱼"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海迪士尼度假区",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "七大主题园区，米奇大街探险岛宝藏湾，暑期特别活动烟花秀。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "主题乐园",
+      "米奇"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海欢乐谷暑期狂欢",
+    "venue": "上海欢乐谷",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "百余项游乐设施，暑期狂欢节，夜场电音烟花秀。",
+    "source": "上海本地宝",
+    "highlights": [
+      "欢乐谷",
+      "游乐设施",
+      "夜场"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海野生动物园",
+    "venue": "上海野生动物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "车入区步行区，大熊猫老虎狮子长颈鹿，动物表演互动。",
+    "source": "上海本地宝",
+    "highlights": [
+      "野生动物园",
+      "大熊猫",
+      "动物表演"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海海昌海洋公园",
+    "venue": "上海海昌海洋公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "虎鲸海豚白鲸表演，五大主题区，暑期虎鲸造浪节夜场。",
+    "source": "上海本地宝",
+    "highlights": [
+      "海昌",
+      "海洋公园",
+      "虎鲸"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海科技馆",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "机器人世界信息时代生物万象等展厅，IMAX球幕影院，暑期科普活动。",
+    "source": "上海本地宝",
+    "highlights": [
+      "科技馆",
+      "机器人",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海自然博物馆",
+    "venue": "上海自然博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "生命演化长河恐龙盛世，自然标本展，暑期自然探索营。",
+    "source": "上海本地宝",
+    "highlights": [
+      "自然博物馆",
+      "恐龙",
+      "自然"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海杜莎夫人蜡像馆",
+    "venue": "上海杜莎夫人蜡像馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "明星名人蜡像，互动体验，拍照打卡好去处。",
+    "source": "上海本地宝",
+    "highlights": [
+      "蜡像馆",
+      "明星",
+      "互动"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海乐高探索中心",
+    "venue": "上海乐高探索中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "乐高积木拼搭体验，迷你天地主题区，暑期乐高夏令营。",
+    "source": "上海本地宝",
+    "highlights": [
+      "乐高",
+      "积木",
+      "儿童"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海马戏城ERA时空之旅",
+    "venue": "上海马戏城",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "ERA时空之旅超级多媒体梦幻剧，杂技表演，视觉盛宴。",
+    "source": "上海本地宝",
+    "highlights": [
+      "马戏",
+      "杂技",
+      "表演"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海迪士尼乐园夏日狂欢",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "夏日狂欢节，花车巡游，城堡烟花秀，迪士尼朋友见面会。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "夏日狂欢",
+      "烟花"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "豫园夏日游园会",
+    "venue": "豫园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "夏日国风游园会，传统民俗表演，老字号美食，灯会展演。",
+    "source": "上海本地宝",
+    "highlights": [
+      "豫园",
+      "国风",
+      "游园会"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海锦江乐园夜市",
+    "venue": "锦江乐园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "锦江乐园夜市美食嘉年华，游乐设施夜场，夏日狂欢。",
+    "source": "上海本地宝",
+    "highlights": [
+      "锦江乐园",
+      "夜市",
+      "美食"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海动物园暑期",
+    "venue": "上海动物园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "大熊猫长颈鹿大象等动物，暑期动物科普讲解，儿童游园。",
+    "source": "上海本地宝",
+    "highlights": [
+      "动物园",
+      "大熊猫",
+      "科普"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "东方明珠观光",
+    "venue": "东方明珠广播电视塔",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海地标建筑，登塔观光，全透明悬空廊，上海城市历史发展陈列馆。",
+    "source": "上海本地宝",
+    "highlights": [
+      "东方明珠",
+      "地标",
+      "观光"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海中心大厦观光",
+    "venue": "上海中心大厦",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海最高楼118层观光厅，俯瞰全城，360度城市美景。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海中心",
+      "观光",
+      "高楼"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海海洋水族馆",
+    "venue": "上海海洋水族馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "世界最长海底隧道，15000多只海洋生物，中国区南极区等展区。",
+    "source": "上海本地宝",
+    "highlights": [
+      "海洋水族馆",
+      "海底隧道",
+      "海洋生物"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "长风海洋世界",
+    "venue": "长风海洋世界",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "白鲸表演海底世界，极地探险，暑期海洋科普活动。",
+    "source": "上海本地宝",
+    "highlights": [
+      "海洋世界",
+      "白鲸",
+      "长风公园"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "辰山植物园花展",
+    "venue": "辰山植物园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "矿坑花园温室展览，夏季花卉展，植物科普夏令营。",
+    "source": "上海本地宝",
+    "highlights": [
+      "植物园",
+      "矿坑",
+      "花卉"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海野生动物园奇妙夜",
+    "venue": "上海野生动物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "夜间动物园探索，观察夜行动物，露营体验，亲子奇妙夜。",
+    "source": "上海本地宝",
+    "highlights": [
+      "奇妙夜",
+      "夜间动物园",
+      "露营"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "崇明西沙湿地生态游",
+    "venue": "崇明西沙湿地公园",
+    "city": "shanghai",
+    "district": "崇明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "崇明西沙湿地，观鸟生态步道，潮汐现象，自然科普。",
+    "source": "上海本地宝",
+    "highlights": [
+      "湿地",
+      "崇明",
+      "观鸟"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "外滩万国建筑博览",
+    "venue": "外滩",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "外滩万国建筑博览群，黄浦江夜景，上海地标必打卡。",
+    "source": "上海本地宝",
+    "highlights": [
+      "外滩",
+      "夜景",
+      "地标"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "豫园城隍庙",
+    "venue": "豫园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "江南古典园林，城隍庙小吃，上海传统民俗文化。",
+    "source": "上海本地宝",
+    "highlights": [
+      "豫园",
+      "城隍庙",
+      "江南园林"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "南京路步行街",
+    "venue": "南京路步行街",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "中华商业第一街，百年老字号，购物美食观光。",
+    "source": "上海本地宝",
+    "highlights": [
+      "南京路",
+      "步行街",
+      "购物"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "田子坊石库门",
+    "venue": "田子坊",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "石库门里弄改造，文艺小店创意市集，老上海风情。",
+    "source": "上海本地宝",
+    "highlights": [
+      "田子坊",
+      "石库门",
+      "文艺"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "新天地石库门",
+    "venue": "上海新天地",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "石库门建筑改造，时尚餐饮，一大会址相邻。",
+    "source": "上海本地宝",
+    "highlights": [
+      "新天地",
+      "石库门",
+      "时尚"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "武康路历史风貌",
+    "venue": "武康路",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海最浪漫的马路，武康大楼，梧桐树下老洋房。",
+    "source": "上海本地宝",
+    "highlights": [
+      "武康路",
+      "老洋房",
+      "浪漫"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "思南公馆",
+    "venue": "思南公馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "花园洋房建筑群，历史名人故居，文艺咖啡小店。",
+    "source": "上海本地宝",
+    "highlights": [
+      "思南公馆",
+      "洋房",
+      "文艺"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "朱家角古镇",
+    "venue": "朱家角古镇",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海威尼斯，江南水乡古镇，放生桥北大街。",
+    "source": "上海本地宝",
+    "highlights": [
+      "朱家角",
+      "古镇",
+      "水乡"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "七宝古镇",
+    "venue": "七宝古镇",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "七宝老街，古镇美食小吃，七宝教寺，近郊古镇。",
+    "source": "上海本地宝",
+    "highlights": [
+      "七宝",
+      "古镇",
+      "美食"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "召稼楼古镇",
+    "venue": "召稼楼古镇",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "召稼楼古镇，江南水乡，特色小吃，周末休闲。",
+    "source": "上海本地宝",
+    "highlights": [
+      "召稼楼",
+      "古镇",
+      "小吃"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "枫泾古镇",
+    "venue": "枫泾古镇",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海西南门户，吴越名镇，枫泾丁蹄，金山农民画。",
+    "source": "上海本地宝",
+    "highlights": [
+      "枫泾",
+      "古镇",
+      "金山"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海迪士尼万圣节",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-11",
+    "fee": "收费",
+    "description": "迪士尼万圣节特别活动，唐式南瓜节，反派巡游，不给糖就捣蛋。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "万圣节",
+      "南瓜"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海迪士尼圣诞节",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-11-20",
+    "end_date": "2027-01-03",
+    "fee": "收费",
+    "description": "圣诞季特别活动，圣诞装饰，节日演出，冰雪奇缘。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "圣诞节",
+      "节日"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海迪士尼新春",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2027-01-20",
+    "end_date": "2027-02-28",
+    "fee": "收费",
+    "description": "农历新年特别活动，新春装饰，年味儿演出，米奇拜年。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "新春",
+      "春节"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "佘山国家森林公园",
+    "venue": "佘山国家森林公园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海唯一自然山林，东西佘山，天文台天主教堂。",
+    "source": "上海本地宝",
+    "highlights": [
+      "佘山",
+      "森林公园",
+      "天文台"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "东滩湿地公园",
+    "venue": "东滩湿地公园",
+    "city": "shanghai",
+    "district": "崇明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "崇明东滩候鸟保护区，湿地观鸟，生态科普。",
+    "source": "上海本地宝",
+    "highlights": [
+      "东滩",
+      "湿地",
+      "观鸟"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "东平国家森林公园",
+    "venue": "东平国家森林公园",
+    "city": "shanghai",
+    "district": "崇明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "华东最大平原人工林，森林氧吧，露营烧烤。",
+    "source": "上海本地宝",
+    "highlights": [
+      "东平",
+      "森林",
+      "露营"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "顾村公园樱花节",
+    "venue": "顾村公园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-03-01",
+    "end_date": "2026-04-30",
+    "fee": "收费",
+    "description": "上海最大樱花林，樱花季赏樱，春日限定美景。",
+    "source": "上海本地宝",
+    "highlights": [
+      "樱花",
+      "顾村公园",
+      "春天"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海海湾国家森林公园",
+    "venue": "海湾国家森林公园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "东海之滨的森林氧吧，骑马划船，户外拓展。",
+    "source": "上海本地宝",
+    "highlights": [
+      "海湾",
+      "森林",
+      "户外"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海长风公园",
+    "venue": "长风公园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "铁臂山银锄湖，长风海洋世界相邻，亲子休闲。",
+    "source": "上海本地宝",
+    "highlights": [
+      "长风公园",
+      "免费",
+      "亲子"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海博物馆人民广场馆",
+    "venue": "上海博物馆人民广场馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "中国四大博物馆之一，青铜器陶瓷书画玉器，中国古代艺术宝库。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上博",
+      "青铜器",
+      "古代艺术"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海博物馆东馆",
+    "venue": "上海博物馆东馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上博新馆，更大展厅更多文物，上海文化新地标。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上博东馆",
+      "新馆",
+      "浦东"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海科技馆机器人世界",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "机器人表演互动，机器人剧场，机器人舞蹈，科技感十足。",
+    "source": "上海本地宝",
+    "highlights": [
+      "机器人",
+      "科技馆",
+      "科技"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海科技馆生物万象",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "热带雨林生态，仿生动物，热带雨林瀑布，自然科普。",
+    "source": "上海本地宝",
+    "highlights": [
+      "生物万象",
+      "热带雨林",
+      "自然"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海科技馆宇航天地",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "神舟飞船模型，太空探索，宇航知识科普，航天梦。",
+    "source": "上海本地宝",
+    "highlights": [
+      "宇航",
+      "航天",
+      "科技馆"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海科技馆地壳探秘",
+    "venue": "上海科技馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "地震火山体验，矿物宝石，地球科学知识。",
+    "source": "上海本地宝",
+    "highlights": [
+      "地壳",
+      "地震",
+      "矿物"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海自然博物馆生命长河",
+    "venue": "上海自然博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "生命演化展，恐龙大象长颈鹿模型，自然史教育。",
+    "source": "上海本地宝",
+    "highlights": [
+      "生命长河",
+      "恐龙",
+      "自然"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海自然博物馆恐龙盛世",
+    "venue": "上海自然博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "马门溪龙霸王龙，恐龙骨架模型，恐龙时代探秘。",
+    "source": "上海本地宝",
+    "highlights": [
+      "恐龙",
+      "马门溪龙",
+      "化石"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海自然博物馆起源之谜",
+    "venue": "上海自然博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "宇宙大爆炸生命起源，人类进化，科学知识普及。",
+    "source": "上海本地宝",
+    "highlights": [
+      "起源",
+      "宇宙",
+      "进化"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海自然博物馆生态万象",
+    "venue": "上海自然博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "非洲大草原极地海底世界，生态系统科普。",
+    "source": "上海本地宝",
+    "highlights": [
+      "生态",
+      "非洲",
+      "极地"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海玻璃博物馆",
+    "venue": "上海玻璃博物馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "玻璃艺术殿堂，热玻璃表演，DIY玻璃制作体验。",
+    "source": "上海本地宝",
+    "highlights": [
+      "玻璃",
+      "艺术",
+      "DIY"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海汽车博物馆",
+    "venue": "上海汽车博物馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "中国首家专业汽车博物馆，古董车经典车，汽车发展史。",
+    "source": "上海本地宝",
+    "highlights": [
+      "汽车",
+      "博物馆",
+      "古董车"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海电影博物馆",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海电影发展史，百年电影记忆，老电影体验。",
+    "source": "上海本地宝",
+    "highlights": [
+      "电影",
+      "博物馆",
+      "百年"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海公安博物馆",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "公安发展史，警械装备，特种警用车辆。",
+    "source": "上海本地宝",
+    "highlights": [
+      "公安",
+      "警械",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海中医药博物馆",
+    "venue": "上海中医药博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "中医中药发展史，中草药标本，养生文化。",
+    "source": "上海本地宝",
+    "highlights": [
+      "中医",
+      "中药",
+      "养生"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海昆虫博物馆",
+    "venue": "上海昆虫博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "蝴蝶标本昆虫世界，中科院上海昆虫博物馆。",
+    "source": "上海本地宝",
+    "highlights": [
+      "昆虫",
+      "蝴蝶",
+      "科普"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海地震科普馆",
+    "venue": "上海地震科普馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "地震知识科普，地震模拟体验，防灾教育。",
+    "source": "上海本地宝",
+    "highlights": [
+      "地震",
+      "科普",
+      "防灾"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海航海博物馆",
+    "venue": "中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "国家级航海博物馆，古船模型航海史，海事教育。",
+    "source": "上海本地宝",
+    "highlights": [
+      "航海",
+      "博物馆",
+      "古船"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海工艺美术博物馆",
+    "venue": "上海工艺美术博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "法租界小白宫，绒绣面塑剪纸，上海工艺美术精品。",
+    "source": "上海本地宝",
+    "highlights": [
+      "工艺美术",
+      "小白宫",
+      "非遗"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海隧道科技馆",
+    "venue": "上海隧道科技馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "隧道建设技术，盾构机模型，地下工程科普。",
+    "source": "上海本地宝",
+    "highlights": [
+      "隧道",
+      "科技馆",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海城市规划展示馆",
+    "venue": "上海城市规划展示馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海城市发展规划，巨大城市模型，未来上海。",
+    "source": "上海本地宝",
+    "highlights": [
+      "规划馆",
+      "城市模型",
+      "免费"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海惊魂密境",
+    "venue": "上海惊魂密境",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "沉浸式惊悚体验，老上海传说故事，惊魂冒险。",
+    "source": "上海本地宝",
+    "highlights": [
+      "惊魂密境",
+      "沉浸式",
+      "惊悚"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海环球金融中心观光",
+    "venue": "上海环球金融中心",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "100层观光厅，空中走廊，俯瞰陆家嘴全景。",
+    "source": "上海本地宝",
+    "highlights": [
+      "环球金融中心",
+      "观光",
+      "陆家嘴"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "金茂大厦观光",
+    "venue": "金茂大厦",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "88层观光厅，云中漫步，浦东地标建筑。",
+    "source": "上海本地宝",
+    "highlights": [
+      "金茂大厦",
+      "观光",
+      "地标"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海中心118层观光",
+    "venue": "上海中心大厦",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海最高楼，118层上海之巅观光厅，360度全景。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海中心",
+      "观光",
+      "最高楼"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海迪士尼乐园春日",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-03-01",
+    "end_date": "2026-05-31",
+    "fee": "收费",
+    "description": "春日主题活动，花花草草装饰，春日限定商品美食。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "春天",
+      "主题"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海欢乐谷国潮节",
+    "venue": "上海欢乐谷",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "国庆国潮主题，传统与现代融合，国风演出。",
+    "source": "上海本地宝",
+    "highlights": [
+      "国潮节",
+      "欢乐谷",
+      "国庆"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海欢乐谷跨年灯会",
+    "venue": "上海欢乐谷",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-12-01",
+    "end_date": "2027-02-28",
+    "fee": "收费",
+    "description": "跨年灯会，万盏彩灯，非遗花灯，新年氛围。",
+    "source": "上海本地宝",
+    "highlights": [
+      "灯会",
+      "跨年",
+      "欢乐谷"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海城隍庙",
+    "venue": "上海城隍庙",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "道教正一派道观，上海道教中心，豫园商圈内。",
+    "source": "上海本地宝",
+    "highlights": [
+      "城隍庙",
+      "道教",
+      "豫园"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海玉佛禅寺",
+    "venue": "玉佛禅寺",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海著名佛教寺庙，玉佛楼供奉玉佛，百年古刹。",
+    "source": "上海本地宝",
+    "highlights": [
+      "玉佛寺",
+      "佛教",
+      "玉佛"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海静安寺",
+    "venue": "静安寺",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "千年古刹静安寺，繁华商圈中的宁静，金佛殿。",
+    "source": "上海本地宝",
+    "highlights": [
+      "静安寺",
+      "古刹",
+      "佛教"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海龙华寺",
+    "venue": "龙华寺",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海历史最久规模最大的寺庙，龙华塔，龙华庙会。",
+    "source": "上海本地宝",
+    "highlights": [
+      "龙华寺",
+      "古塔",
+      "佛教"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海真如寺",
+    "venue": "真如寺",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "江南著名寺庙，元代大殿，真如公园。",
+    "source": "上海本地宝",
+    "highlights": [
+      "真如寺",
+      "元代",
+      "古寺"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海法华禅寺",
+    "venue": "法华禅寺",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "法华学问寺，千年银杏，古寺新貌。",
+    "source": "上海本地宝",
+    "highlights": [
+      "法华禅寺",
+      "银杏",
+      "古寺"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海东林寺",
+    "venue": "东林寺",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "浦南佛教名刹，世界最高景泰蓝善财童子，观音阁。",
+    "source": "上海本地宝",
+    "highlights": [
+      "东林寺",
+      "观音",
+      "金山"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海西林禅寺",
+    "venue": "西林禅寺",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "松江古城名刹，圆应塔，千年古寺。",
+    "source": "上海本地宝",
+    "highlights": [
+      "西林禅寺",
+      "松江",
+      "古塔"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海报国寺",
+    "venue": "报国寺",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "淀山湖畔报国寺，千年古银杏，风景优美。",
+    "source": "上海本地宝",
+    "highlights": [
+      "报国寺",
+      "青浦",
+      "银杏"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海人民广场",
+    "venue": "人民广场",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海城市中心，上海市政府，人民公园，博物馆。",
+    "source": "上海本地宝",
+    "highlights": [
+      "人民广场",
+      "市中心",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海世纪公园",
+    "venue": "世纪公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "浦东最大生态城市公园，镜天湖，四季花卉。",
+    "source": "上海本地宝",
+    "highlights": [
+      "世纪公园",
+      "浦东",
+      "生态"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海共青森林公园",
+    "venue": "共青国家森林公园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海最大森林公园，森林氧吧，游乐设施。",
+    "source": "上海本地宝",
+    "highlights": [
+      "共青森林公园",
+      "森林",
+      "杨浦"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海滨江森林公园",
+    "venue": "滨江森林公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "黄浦江长江东海三水交汇，滨江岸线，生态森林。",
+    "source": "上海本地宝",
+    "highlights": [
+      "滨江",
+      "森林公园",
+      "浦东"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海植物园",
+    "venue": "上海植物园",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "植物种类丰富，温室展览，四季花展。",
+    "source": "上海本地宝",
+    "highlights": [
+      "植物园",
+      "花卉",
+      "徐汇"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海辰山植物园",
+    "venue": "辰山植物园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "矿坑花园温室展览，华东地区最大植物园。",
+    "source": "上海本地宝",
+    "highlights": [
+      "辰山植物园",
+      "矿坑",
+      "松江"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海古猗园",
+    "venue": "古猗园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "江南古典园林，南翔小笼包发源地，园林艺术。",
+    "source": "上海本地宝",
+    "highlights": [
+      "古猗园",
+      "嘉定",
+      "园林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海醉白池",
+    "venue": "醉白池",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海五大古典园林之一，宋代历史，松江古城。",
+    "source": "上海本地宝",
+    "highlights": [
+      "醉白池",
+      "松江",
+      "古典园林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海曲水园",
+    "venue": "曲水园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "青浦曲水园，江南园林，小而精致。",
+    "source": "上海本地宝",
+    "highlights": [
+      "曲水园",
+      "青浦",
+      "园林"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海桂林公园",
+    "venue": "桂林公园",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "桂林公园，黄家花园，秋季桂花盛开。",
+    "source": "上海本地宝",
+    "highlights": [
+      "桂林公园",
+      "桂花",
+      "徐汇"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "上海人民公园相亲角",
+    "venue": "人民公园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海特色相亲角，城市人文景观，周末热闹。",
+    "source": "上海本地宝",
+    "highlights": [
+      "人民公园",
+      "相亲角",
+      "特色"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海鲁迅公园",
+    "venue": "鲁迅公园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "鲁迅墓纪念馆，虹口足球场，上海老牌公园。",
+    "source": "上海本地宝",
+    "highlights": [
+      "鲁迅公园",
+      "虹口",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海和平公园",
+    "venue": "和平公园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "动物岛，亲子休闲，改造后的生态公园。",
+    "source": "上海本地宝",
+    "highlights": [
+      "和平公园",
+      "动物岛",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海中山公园",
+    "venue": "中山公园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海西区老公园，中西合璧园林，交通便利。",
+    "source": "上海本地宝",
+    "highlights": [
+      "中山公园",
+      "长宁",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海静安公园",
+    "venue": "静安公园",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "静安寺旁城市绿洲，都市中的宁静。",
+    "source": "上海本地宝",
+    "highlights": [
+      "静安公园",
+      "静安",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海迪士尼小镇",
+    "venue": "上海迪士尼度假区",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "迪士尼主题小镇，购物餐饮，无需门票。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼小镇",
+      "免费",
+      "购物"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海迪士尼乐园秋季",
+    "venue": "上海迪士尼乐园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-11-01",
+    "fee": "收费",
+    "description": "秋季特别活动，万圣节前奏，秋日装饰。",
+    "source": "上海本地宝",
+    "highlights": [
+      "迪士尼",
+      "秋季",
+      "活动"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海野生动物园马戏",
+    "venue": "上海野生动物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "国际大马戏表演，俄罗斯演员，精彩杂技。",
+    "source": "上海本地宝",
+    "highlights": [
+      "马戏",
+      "表演",
+      "野生动物园"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海海昌虎鲸表演",
+    "venue": "上海海昌海洋公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "虎鲸科普秀，海豚白鲸表演，海洋剧场。",
+    "source": "上海本地宝",
+    "highlights": [
+      "虎鲸",
+      "表演",
+      "海洋公园"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海欢乐谷万圣节",
+    "venue": "上海欢乐谷",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-11",
+    "fee": "收费",
+    "description": "万圣节惊魂夜，鬼屋探险，夜间巡游。",
+    "source": "上海本地宝",
+    "highlights": [
+      "万圣节",
+      "欢乐谷",
+      "鬼屋"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海欢乐谷春节灯会",
+    "venue": "上海欢乐谷",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2027-01-20",
+    "end_date": "2027-02-28",
+    "fee": "收费",
+    "description": "新春灯会，自贡花灯，年味十足。",
+    "source": "上海本地宝",
+    "highlights": [
+      "春节",
+      "灯会",
+      "欢乐谷"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "上海朱家角古镇美食",
+    "venue": "朱家角古镇",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "扎肉粽子阿婆茶，江南水乡美食，放生桥。",
+    "source": "上海本地宝",
+    "highlights": [
+      "朱家角",
+      "美食",
+      "古镇"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海新场古镇",
+    "venue": "新场古镇",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "浦东千年古镇，历史风貌，色香俱全。",
+    "source": "上海本地宝",
+    "highlights": [
+      "新场古镇",
+      "浦东",
+      "免费"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海罗店古镇",
+    "venue": "罗店古镇",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "金罗店，江南水乡，龙船花神灯。",
+    "source": "上海本地宝",
+    "highlights": [
+      "罗店",
+      "古镇",
+      "宝山"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "上海高桥古镇",
+    "venue": "高桥古镇",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "高桥松饼发源地，浦东老镇，历史建筑。",
+    "source": "上海本地宝",
+    "highlights": [
+      "高桥",
+      "古镇",
+      "浦东"
+    ],
+    "type": "亲子活动"
   }
 ]
