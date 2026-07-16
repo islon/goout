@@ -26,7 +26,6 @@ Page({
     searchQuery: '',
 
     // 展示数据
-    displayItems: [],
     totalCount: 0,
     currentPage: 1,
     totalPages: 1,
@@ -109,7 +108,7 @@ Page({
     } else {
       text = Math.floor(diff / 86400000) + '天前更新';
     }
-    this.setData({ lastUpdateText: '📋 ' + text + ' · 共 ' + (app.globalData.exhibitions || []).length + ' 条活动' });
+    this.setData({ lastUpdateText: text + ' · 共 ' + (app.globalData.exhibitions || []).length + ' 条活动' });
   },
 
   // 更新区县和场馆列表
@@ -149,8 +148,9 @@ Page({
     const displayItems = buildDisplayItems(filtered);
     const totalPages = Math.ceil(displayItems.length / PAGE_SIZE) || 1;
 
+    // 完整筛选结果存实例变量 this._all，避免把上千条对象整体 setData（小程序大数组序列化会卡顿）
+    this._all = displayItems;
     this.setData({
-      displayItems: displayItems,
       totalCount: displayItems.length,
       totalPages: totalPages,
       currentPage: 1,
@@ -310,9 +310,10 @@ Page({
   onPrevPage() {
     if (this.data.currentPage <= 1) return;
     const page = this.data.currentPage - 1;
+    const all = this._all || [];
     this.setData({
       currentPage: page,
-      pageItems: this.data.displayItems.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+      pageItems: all.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
     });
     wx.pageScrollTo({ scrollTop: 0, duration: 200 });
   },
@@ -320,9 +321,10 @@ Page({
   onNextPage() {
     if (this.data.currentPage >= this.data.totalPages) return;
     const page = this.data.currentPage + 1;
+    const all = this._all || [];
     this.setData({
       currentPage: page,
-      pageItems: this.data.displayItems.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+      pageItems: all.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
     });
     wx.pageScrollTo({ scrollTop: 0, duration: 200 });
   },

@@ -2,7 +2,7 @@
 <view class="feedback-page">
 
   <view class="feedback-tip">
-    <view class="tip-icon">💬</view>
+    <image class="tip-icon" src="/assets/about-note.png" mode="aspectFit"></image>
     <view class="tip-text">你的反馈会帮助我们做得更好。数据报错、功能建议、场馆补充都可以说。</view>
   </view>
 
@@ -32,13 +32,13 @@
 
   <!-- 复制反馈 -->
   <view class="copy-section" bindtap="onCopyFeedback">
-    <view class="copy-btn">📋 复制整理好的反馈文本</view>
+    <view class="copy-btn">复制整理好的反馈文本</view>
     <view class="copy-hint">复制后粘贴到微信反馈中提交</view>
   </view>
 
   <!-- 微信官方反馈 -->
   <view class="submit-section">
-    <button class="submit-btn" open-type="feedback">📨 提交到微信反馈</button>
+    <button class="submit-btn" open-type="feedback">提交到微信反馈</button>
     <view class="submit-hint">点击后会打开微信自带的反馈面板，建议先「复制反馈文本」再粘贴提交。</view>
   </view>
 
@@ -46,7 +46,7 @@
   <view class="other-section">
     <view class="other-title">其他渠道</view>
     <view class="other-card" bindtap="onCopyGitHub">
-      <view class="other-icon">🐙</view>
+      <image class="other-icon" src="/assets/about-link.png" mode="aspectFit"></image>
       <view class="other-content">
         <view class="other-name">GitHub Issues</view>
         <view class="other-desc">适合数据报错、功能建议，公开可追踪</view>

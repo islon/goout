@@ -16,7 +16,8 @@
 }
 
 .header-icon {
-  font-size: 72rpx;
+  width: 96rpx;
+  height: 96rpx;
   margin-bottom: 12rpx;
 }
 
@@ -54,6 +55,8 @@
   font-weight: 700;
   color: #292524;
   margin-bottom: 20rpx;
+  border-left: 6rpx solid #D4A373;
+  padding-left: 16rpx;
 }
 
 /* 提示文字 */
@@ -76,7 +79,8 @@
 }
 
 .remind-icon {
-  font-size: 48rpx;
+  width: 64rpx;
+  height: 64rpx;
   flex-shrink: 0;
 }
 
@@ -115,7 +119,8 @@
 }
 
 .platform-icon {
-  font-size: 36rpx;
+  width: 44rpx;
+  height: 44rpx;
 }
 
 .platform-name {
@@ -190,7 +195,8 @@
 }
 
 .action-icon {
-  font-size: 24rpx;
+  width: 30rpx;
+  height: 30rpx;
 }
 
 /* H5 链接卡片 */
@@ -206,7 +212,8 @@
 }
 
 .h5-icon {
-  font-size: 36rpx;
+  width: 52rpx;
+  height: 52rpx;
   flex-shrink: 0;
 }
 
@@ -332,7 +339,8 @@
 
 .venue-guide-icon,
 .feedback-icon {
-  font-size: 44rpx;
+  width: 60rpx;
+  height: 60rpx;
   margin-right: 20rpx;
   flex-shrink: 0;
 }
@@ -368,6 +376,13 @@
 .footer {
   text-align: center;
   padding: 48rpx 24rpx 0;
+}
+
+.footer-logo {
+  width: 120rpx;
+  height: 120rpx;
+  margin-bottom: 16rpx;
+  border-radius: 24rpx;
 }
 
 .footer-text {

@@ -29,6 +29,9 @@ jobs:
       - name: Sync mini-program fallback data
         run: python scripts/sync_miniprogram_data.py
 
+      - name: Generate per-city ICS subscription files
+        run: python scripts/generate_city_ics.py
+
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

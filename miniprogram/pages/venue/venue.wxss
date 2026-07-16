@@ -62,6 +62,8 @@
   font-weight: 600;
   color: #3D3229;
   margin-bottom: 20rpx;
+  border-left: 6rpx solid #D4A373;
+  padding-left: 16rpx;
 }
 
 .highlight-list {
@@ -202,7 +204,8 @@
 }
 
 .empty-icon {
-  font-size: 72rpx;
+  width: 110rpx;
+  height: 110rpx;
   margin-bottom: 16rpx;
 }
 

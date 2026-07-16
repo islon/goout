@@ -53,7 +53,7 @@
 
   <!-- 空态 -->
   <view class="empty-state" wx:if="{{!loading && venues.length === 0}}">
-    <view class="empty-icon">🏛️</view>
+    <image class="empty-icon" src="/assets/about-museum.png" mode="aspectFit"></image>
     <view class="empty-text">没有找到符合条件的场馆</view>
     <view class="empty-hint">换个城市或类型试试</view>
   </view>

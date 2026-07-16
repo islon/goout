@@ -1,18 +1,28 @@
 Page({
   data: {
     cities: [
-      { name: '深圳', count: '623条', venues: '159个场馆', status: '已上线', color: '#166534' },
-      { name: '北京', count: '156条', venues: '71个场馆', status: '已上线', color: '#166534' },
-      { name: '上海', count: '111条', venues: '63个场馆', status: '已上线', color: '#166534' },
-      { name: '广州', count: '71条', venues: '62个场馆', status: '已上线', color: '#166534' },
-      { name: '杭州', count: '48条', venues: '40个场馆', status: '已上线', color: '#166534' }
+      { name: '深圳', count: '741条', venues: '138个场馆', status: '已上线', color: '#166534' },
+      { name: '杭州', count: '306条', venues: '135个场馆', status: '已上线', color: '#166534' },
+      { name: '广州', count: '304条', venues: '104个场馆', status: '已上线', color: '#166534' },
+      { name: '北京', count: '301条', venues: '116个场馆', status: '已上线', color: '#166534' },
+      { name: '上海', count: '301条', venues: '103个场馆', status: '已上线', color: '#166534' },
+      { name: '成都', count: '300条', venues: '120个场馆', status: '已上线', color: '#166534' },
+      { name: '重庆', count: '300条', venues: '105个场馆', status: '已上线', color: '#166534' },
+      { name: '南京', count: '300条', venues: '106个场馆', status: '已上线', color: '#166534' },
+      { name: '西安', count: '300条', venues: '109个场馆', status: '已上线', color: '#166534' },
+      { name: '武汉', count: '300条', venues: '103个场馆', status: '已上线', color: '#166534' }
     ],
     subscribeLinks: [
-      { city: '深圳', count: '623条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_shenzhen.ics' },
-      { city: '广州', count: '71条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_guangzhou.ics' },
-      { city: '上海', count: '111条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_shanghai.ics' },
-      { city: '北京', count: '156条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_beijing.ics' },
-      { city: '杭州', count: '48条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_hangzhou.ics' }
+      { city: '深圳', count: '741条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_shenzhen.ics' },
+      { city: '杭州', count: '306条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_hangzhou.ics' },
+      { city: '广州', count: '304条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_guangzhou.ics' },
+      { city: '北京', count: '301条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_beijing.ics' },
+      { city: '上海', count: '301条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_shanghai.ics' },
+      { city: '成都', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_chengdu.ics' },
+      { city: '重庆', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_chongqing.ics' },
+      { city: '南京', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_nanjing.ics' },
+      { city: '西安', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_xian.ics' },
+      { city: '武汉', count: '300条活动', url: 'webcal://islon.github.io/goout/output/exhibitions_wuhan.ics' }
     ],
     faqs: [
       { q: '订阅后多久能看到活动？', a: '添加订阅后，手机日历会自动同步，通常几分钟内即可看到最新活动。之后每天自动更新。' },

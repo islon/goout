@@ -172,7 +172,8 @@
 }
 
 .remind-icon {
-  font-size: 48rpx;
+  width: 56rpx;
+  height: 56rpx;
   flex-shrink: 0;
 }
 

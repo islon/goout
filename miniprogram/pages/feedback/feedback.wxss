@@ -16,7 +16,8 @@
 }
 
 .tip-icon {
-  font-size: 40rpx;
+  width: 48rpx;
+  height: 48rpx;
   margin-right: 20rpx;
   flex-shrink: 0;
 }
@@ -178,7 +179,8 @@
 }
 
 .other-icon {
-  font-size: 40rpx;
+  width: 48rpx;
+  height: 48rpx;
   margin-right: 20rpx;
   flex-shrink: 0;
 }

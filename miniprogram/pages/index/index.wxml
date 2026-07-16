@@ -154,15 +154,15 @@
             <text class="badge badge-type">{{item.activityType}}</text>
             <text wx:if="{{item.feeType === 'free'}}" class="badge badge-free">免费</text>
             <text wx:if="{{item.feeType === 'paid'}}" class="badge badge-paid">收费</text>
-            <text wx:if="{{item.family_friendly === true && item.activityType !== '亲子活动'}}" class="badge badge-family">👶 适合亲子</text>
+            <text wx:if="{{item.family_friendly === true && item.activityType !== '亲子活动'}}" class="badge badge-family">适合亲子</text>
           </view>
         </view>
 
         <!-- 活动信息 -->
         <view class="card-meta">
-          <view class="meta-item">📅 {{item.dateDisplay}}</view>
-          <view class="meta-item">⏱️ {{item.duration}}</view>
-          <view class="meta-item">📍 {{item.venue}}</view>
+          <view class="meta-item">{{item.dateDisplay}}</view>
+          <view class="meta-item">{{item.duration}}</view>
+          <view class="meta-item">{{item.venue}}</view>
         </view>
 
         <!-- 描述 -->
@@ -174,7 +174,7 @@
 
   <!-- 空状态 -->
   <view class="empty-state" wx:if="{{pageItems.length === 0 && !loading}}">
-    <view class="empty-icon">📭</view>
+    <image class="empty-icon" src="/assets/about-cal.png" mode="aspectFit"></image>
     <view class="empty-text">该筛选条件下暂无活动</view>
     <view class="empty-hint">试试其他筛选条件</view>
   </view>

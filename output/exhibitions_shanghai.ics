@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Shenzhen Exhibitions//Calendar//ZH
-X-WR-CALNAME:童行 (深圳亲子活动)
-X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+PRODID:-//TongXing GoOut//Calendar//ZH
+X-WR-CALNAME:童行 (上海亲子活动)
+X-WR-CALDESC:上海展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -22,8 +22,8 @@ TZOFFSETTO:+0800
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e3f2328589959f8a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e3f2328589959f8a@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20270101
 SUMMARY:BRKN·破碎 年度特展
@@ -31,8 +31,8 @@ LOCATION:上海玻璃博物馆
 DESCRIPTION:上海玻璃博物馆长期展陈，以“破碎与重生”为母题的玻璃艺术装置，配合玻璃迷宫与DIY手作课程，适合亲子动手与当代艺术体验。\n地点: 上海玻璃博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.shmog.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:801ac9a887351610@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:801ac9a887351610@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260817
 SUMMARY:奇骥奔腾——马年科技文化特展
@@ -40,8 +40,26 @@ LOCATION:上海科技馆
 DESCRIPTION:上海科技馆与故宫博物院首次联袂特展，汇集27件故宫马主题文物与11匹珍贵标本马及仿生马，以自然演化、人马同行讲述马文化，适合亲子科普。\n地点: 上海科技馆\n时间: 2026-02-17 至 2026-08-16\n详情: https://www.shkjdw.gov.cn/c/2026-02-23/534192.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:9f02315c939e6741@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9075adc62a3f560e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260501
+SUMMARY:顾村公园樱花节
+LOCATION:顾村公园
+DESCRIPTION:上海最大樱花林，樱花季赏樱，春日限定美景。\n地点: 顾村公园\n时间: 2026-03-01 至 2026-04-30
+END:VEVENT
+BEGIN:VEVENT
+UID:73d2f6cce64ba693@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260601
+SUMMARY:上海迪士尼乐园春日
+LOCATION:上海迪士尼乐园
+DESCRIPTION:春日主题活动，花花草草装饰，春日限定商品美食。\n地点: 上海迪士尼乐园\n时间: 2026-03-01 至 2026-05-31
+END:VEVENT
+BEGIN:VEVENT
+UID:9f02315c939e6741@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260901
 SUMMARY:从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展
@@ -49,8 +67,8 @@ LOCATION:上海博物馆
 DESCRIPTION:展出英国文学史上从莎士比亚到J.K.罗琳等著名文学家的肖像画与手稿真迹，带领观众走进英国文学的璀璨世界。\n地点: 上海博物馆\n时间: 2026-04-01 至 2026-08-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004234
 END:VEVENT
 BEGIN:VEVENT
-UID:71da0614b651ded1@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:71da0614b651ded1@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20270101
 SUMMARY:“数字一大·伟大征程”VR沉浸式体验项目
@@ -58,8 +76,8 @@ LOCATION:中共一大纪念馆
 DESCRIPTION:中共一大纪念馆发布的VR沉浸式体验，构建一大会址、天宫空间站等虚实交融场景，传承建党与“两弹一星”精神，适合青少年红色研学。\n地点: 中共一大纪念馆\n时间: 2026-04-24 至 2026-12-31\n详情: https://news.cyol.com/gb/articles/2026-04/24/content_X54ld0tp2d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1600963110c546d4@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1600963110c546d4@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20270101
 SUMMARY:上海植物园国际新优展区
@@ -67,8 +85,8 @@ LOCATION:上海植物园
 DESCRIPTION:2026上海国际花卉节主会场打造的“新优植物花园、社区花园、可食花园、珍奇植物花园”四大板块，展出400余款国内外新优植物，适合亲子自然观察。\n地点: 上海植物园\n时间: 2026-04-28 至 2026-12-31\n详情: https://www.shbg.org/sites/zhiwuyuan/InfoContent.aspx?ctgId=737e03a1-a4d0-4e86-8f8c-e1fbffb005ae&infoId=64a8c92c-b9c1-405e-9b3b-a8317a997774
 END:VEVENT
 BEGIN:VEVENT
-UID:fb122139ddb5c2a2@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:fb122139ddb5c2a2@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260901
 SUMMARY:只有树知道
@@ -76,8 +94,8 @@ LOCATION:上海自然博物馆
 DESCRIPTION:汇聚12位国内外艺术家22组作品的当代艺术临展，以树木、森林与生命共生为主题，融合自然科学与人文思考，适合自然与艺术亲子家庭。\n地点: 上海自然博物馆\n时间: 2026-05-01 至 2026-08-31\n详情: https://www.snhm.org.cn/lzdy/lz-info.htm?id=47
 END:VEVENT
 BEGIN:VEVENT
-UID:e283f137c4971a80@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e283f137c4971a80@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20270101
 SUMMARY:素心相映·邱瑞敏吴慧明艺术展
@@ -85,8 +103,8 @@ LOCATION:中华艺术宫（上海美术馆）
 DESCRIPTION:展出油画家邱瑞敏与雕塑家吴慧明伉俪艺术作品，温情呈现两位艺术家跨越数十年的创作对话，适合油画与雕塑爱好者及亲子艺术启蒙。\n地点: 中华艺术宫（上海美术馆）\n时间: 2026-05-21 至 2026-12-31\n详情: https://www.artmuseumonline.org/art/art/zlgz/zl/dqzl/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:34481e772572ba07@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:34481e772572ba07@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20261001
 SUMMARY:肇兴中国：秦·大一统之路文物考古特展
@@ -94,8 +112,8 @@ LOCATION:上海博物馆
 DESCRIPTION:上博“何以中国”系列第五个大展，联合甘肃、陕西12家单位汇聚200余件秦文化遗存，系统呈现秦从附庸到大一统的历程，适合历史与考古爱好者。\n地点: 上海博物馆\n时间: 2026-06-01 至 2026-09-30\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987
 END:VEVENT
 BEGIN:VEVENT
-UID:15275772a734aec7@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:15275772a734aec7@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20261029
 SUMMARY:乔治·莫兰迪：独白
@@ -103,8 +121,8 @@ LOCATION:浦东美术馆
 DESCRIPTION:浦东美术馆与意大利博洛尼亚莫兰迪博物馆合作，展出超200件作品含140余件莫兰迪原作，逾120件系中国首展，适合绘画与静物艺术爱好者。\n地点: 浦东美术馆\n时间: 2026-06-17 至 2026-10-28\n详情: https://www.museumofartpd.org.cn/exhibition
 END:VEVENT
 BEGIN:VEVENT
-UID:c22f685ed0a67515@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c22f685ed0a67515@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海迪士尼度假区10周年夏日狂欢
@@ -112,8 +130,8 @@ LOCATION:上海迪士尼度假区
 DESCRIPTION:十周年庆典叠加《玩具总动员5》全球首映，推出夏季限定娱乐演出、达菲新花车与疯狂动物城季节活动，适合全家亲子避暑游玩。\n地点: 上海迪士尼度假区\n时间: 2026-06-17 至 2026-08-31\n详情: https://www.shanghaidisneyresort.com/zh-cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:1e3ac8ae4fdaf94d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1e3ac8ae4fdaf94d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260901
 SUMMARY:科好玩了——2026上海科技馆暑假营
@@ -121,8 +139,8 @@ LOCATION:上海科技馆
 DESCRIPTION:15大科普品牌活动，包括球幕沉浸式多媒体互动秀、VR数字剧场、科创实践营等。\n地点: 上海科技馆\n时间: 2026-06-25 至 2026-08-31\n详情: https://www.jfdaily.com/sgh/detail?id=4015623
 END:VEVENT
 BEGIN:VEVENT
-UID:82d4d59087589212@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:82d4d59087589212@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260901
 SUMMARY:'科'好玩了——2026暑假营
@@ -130,8 +148,8 @@ LOCATION:上海科技馆
 DESCRIPTION:集结15大特色科普品牌，覆盖球幕沉浸式多媒体互动秀、科创实践营、VR数字剧场等多元内容，为市民打造沉浸式夏日科学体验营。\n地点: 上海科技馆\n时间: 2026-06-27 至 2026-08-31\n详情: https://www.sstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:6fe436801ad282c7@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6fe436801ad282c7@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20261012
 SUMMARY:书房中的文艺复兴——10至17世纪的西方抄写、印刷与装帧艺术特展
@@ -139,8 +157,8 @@ LOCATION:上海图书馆
 DESCRIPTION:中国内地首个以西方书籍艺术为核心的文艺复兴主题大展，汇集119部（套）珍本含46部摇篮本，系统呈现欧洲知识传播史，适合阅读与艺术爱好者。\n地点: 上海图书馆\n时间: 2026-06-27 至 2026-10-11\n详情: https://whlyj.sh.gov.cn/wbzx/20260604/26b98665bcab4c4a94ddbe0f25682872.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7d32476ad0801b76@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7d32476ad0801b76@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260901
 SUMMARY:让·努维尔：建筑在不朽中消失
@@ -148,8 +166,8 @@ LOCATION:浦东美术馆
 DESCRIPTION:由浦东美术馆设计师让·努维尔本人呈现的个展，探讨建筑、空间与消失之间的哲学命题，适合建筑与当代艺术爱好者亲子共赏。\n地点: 浦东美术馆\n时间: 2026-06-27 至 2026-08-31\n详情: https://www.museumofartpd.org.cn/exhibition
 END:VEVENT
 BEGIN:VEVENT
-UID:f02c3f985ca1ef3b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f02c3f985ca1ef3b@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:天地星语——中国诗文里的天文
@@ -157,8 +175,8 @@ LOCATION:上海天文馆
 DESCRIPTION:天地星语——中国诗文里的天文展览，分日月星三大篇章，设有独立MR沉浸体验空间。地铁16号线滴水湖站。\n地点: 上海天文馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://m.toutiao.com/group/7657908763235451411/
 END:VEVENT
 BEGIN:VEVENT
-UID:b236cb394f8498d5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b236cb394f8498d5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海海昌海洋公园虎鲸造浪节
@@ -166,8 +184,8 @@ LOCATION:上海海昌海洋公园
 DESCRIPTION:连续66天夜场，4大戏水、7大剧目升级、奥特曼60周年庆、烟花盛典。7月11日-8月23日虎鲸造浪音乐节。地铁16号线临港大道站。\n地点: 上海海昌海洋公园\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4aa7fbc9cf33544d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4aa7fbc9cf33544d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海乐高乐园开园一周年暑期活动
@@ -175,8 +193,8 @@ LOCATION:上海乐高乐园
 DESCRIPTION:庆祝开园一周年，周五至周日营业时间延长至20:00，无人机表演生日蛋糕、乐高人仔图案。亲子骑乘、F1赛车竞速等限时活动。地铁22号线金山站。\n地点: 上海乐高乐园\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:c073e7f7e964d008@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c073e7f7e964d008@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270201
 SUMMARY:珠归海上：庄万里家族捐赠两塗轩书画展（第二期）
@@ -184,8 +202,8 @@ LOCATION:上海博物馆
 DESCRIPTION:庄万里家族捐赠两塗轩书画展第二期，以书画史为线索，全面展示庄氏家族捐赠的书画精品，包括明代谢时臣《溪山岁晚图轴》、晚明张瑞图《行书庾子山步虚词卷》等名品。\n地点: 上海博物馆\n时间: 2026-07-01 至 2027-01-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004247
 END:VEVENT
 BEGIN:VEVENT
-UID:bb1f57b361fd6753@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:bb1f57b361fd6753@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20271101
 SUMMARY:暂得之乐：暂得楼捐赠明清瓷器展
@@ -193,8 +211,8 @@ LOCATION:上海博物馆
 DESCRIPTION:精选香港收藏家胡惠春先生暂得楼捐赠的明清陶瓷珍品，涵盖官窑名品与艺术佳作，展现明清瓷器的精湛工艺与美学价值。\n地点: 上海博物馆\n时间: 2026-07-01 至 2027-10-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004245
 END:VEVENT
 BEGIN:VEVENT
-UID:a683c7e03d00f8ad@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:a683c7e03d00f8ad@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260902
 SUMMARY:上海童话·2026暑期少儿阅读季
@@ -202,8 +220,8 @@ LOCATION:上海少年儿童图书馆
 DESCRIPTION:全市联动的暑期少儿阅读活动，含童书π讲座、小种子故事会、皮影剧场等40余场活动。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-09-01\n详情: http://sh.people.com.cn/n2/2026/0702/c350122-41627961.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dc231489c3dcb2df@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:dc231489c3dcb2df@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:《只有树知道》临展暑期限时活动
@@ -211,8 +229,8 @@ LOCATION:上海自然博物馆
 DESCRIPTION:自然艺术研学系列活动，包含自然造物探险家、野感艺术社、FUN野星球三个主题，带领孩子观察自然、学习艺术表达、完成自己的自然艺术作品。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.snhm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:8a4458dc0f511fe8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8a4458dc0f511fe8@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海少年儿童图书馆暑期活动
@@ -220,8 +238,8 @@ LOCATION:上海少年儿童图书馆
 DESCRIPTION:分龄绘本专区、亲子阅读教室、定期公益手工故事会，暑期推出阅读挑战赛、经典儿童电影展映等活动，适合各年龄段儿童。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstclib.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:514d450463920319@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:514d450463920319@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:世界技能博物馆暑期体验
@@ -229,8 +247,8 @@ LOCATION:世界技能博物馆
 DESCRIPTION:国内唯一世界级技能主题博物馆，涵盖科技、工程、美妆等互动区，4楼趣味生活技能展适合小朋友动手体验，常规参观无需预约。\n地点: 世界技能博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.wsmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:8800e101013bc73c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8800e101013bc73c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:徐家汇书院暑期阅读
@@ -238,8 +256,8 @@ LOCATION:徐家汇书院
 DESCRIPTION:巨型光启之门艺术装置、专属分龄少儿阅读区，藏书丰富，落地窗海派氛围浓厚，适合低龄阅读启蒙和大孩子打卡，周末节假日可能限流登记。\n地点: 徐家汇书院\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.xjhshuyuan.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:b467f46d8b5deb8e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b467f46d8b5deb8e@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海动物园动物奇妙夜
@@ -247,8 +265,8 @@ LOCATION:上海动物园
 DESCRIPTION:暑期推出夜间动物园探秘活动，增设夜猫子和森林课夜观活动，展示夜行性动物的自然行为，让孩子们体验不一样的动物世界。\n地点: 上海动物园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shanghaizoo.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:5567b1d6d979e633@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5567b1d6d979e633@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海天文馆暑期活动
@@ -256,8 +274,8 @@ LOCATION:上海天文馆
 DESCRIPTION:国内规模最大天文主题馆，暑期推出星空观测、天体摄影、宇宙探索等科普活动，全室内密闭恒温，适合亲子暑期避暑。\n地点: 上海天文馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:5f0610f7e1ea0000@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5f0610f7e1ea0000@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海海洋水族馆暑期探秘
@@ -265,8 +283,8 @@ LOCATION:上海海洋水族馆
 DESCRIPTION:暑期推出海洋生物探秘活动，包括鲨鱼喂食体验、海底隧道讲解、海洋保护科普讲座等，让孩子们近距离了解海洋生态。\n地点: 上海海洋水族馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sh-aquarium.com
 END:VEVENT
 BEGIN:VEVENT
-UID:97dcfb8ec12485ab@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:97dcfb8ec12485ab@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海迪士尼度假区十周年庆典
@@ -274,8 +292,8 @@ LOCATION:上海迪士尼乐园
 DESCRIPTION:十周年庆典持续进行，暑期推出特别演出、夜间烟花秀、主题活动等，为游客打造梦幻的童话世界体验。\n地点: 上海迪士尼乐园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shanghaidisney.com
 END:VEVENT
 BEGIN:VEVENT
-UID:3c22f0f4ba610df0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:3c22f0f4ba610df0@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海迪士尼夏日狂欢节
@@ -283,8 +301,8 @@ LOCATION:上海迪士尼乐园
 DESCRIPTION:夏日特别演出、夜间烟花秀、亲子互动活动。\n地点: 上海迪士尼乐园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shanghaidisneyresort.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:4c901c1438cc49ba@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4c901c1438cc49ba@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海海洋水族馆暑期探险
@@ -292,8 +310,8 @@ LOCATION:上海海洋水族馆
 DESCRIPTION:深海探索、鲨鱼喂食、海洋生物科普讲座。\n地点: 上海海洋水族馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shanghaiaquarium.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:1982649ce983f56c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1982649ce983f56c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270101
 SUMMARY:书之奇遇：艺术家手作书（PSA等等图书馆特别项目）
@@ -301,8 +319,8 @@ LOCATION:上海当代艺术博物馆
 DESCRIPTION:呈现常玉、马蒂斯、达利、沃霍尔、赵无极等艺术大师的“艺术家手作书”，展现书籍作为复合型艺术形态，适合艺术与阅读爱好者亲子参观。\n地点: 上海当代艺术博物馆\n时间: 2026-07-01 至 2026-12-31\n详情: https://whlyj.sh.gov.cn/wbzx/20260518/5a861af35df44e76b8ccd305f6f96fae.html
 END:VEVENT
 BEGIN:VEVENT
-UID:47261145faf08ad5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:47261145faf08ad5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海动物园暑期动物主题科普活动
@@ -310,8 +328,8 @@ LOCATION:上海动物园
 DESCRIPTION:2026上海旅游节暑期旅游季期间上海动物园推出的动物主题科普与互动活动，结合园区场馆观察，适合亲子自然教育与动物爱好者。\n地点: 上海动物园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=MzIxODc0NTIyMw==&mid=2247693804&idx=3&sn=ee11c3e2547488f90b80a23fab354a53&chksm=96371de0543e8e4523c8f67c9eca7940266a5e8956a61d21122a471fbfa6dddca744a22871fa&scene=27
 END:VEVENT
 BEGIN:VEVENT
-UID:a2904287c588dae5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:a2904287c588dae5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:分龄绘本馆与艺术亲子公益课
@@ -319,8 +337,8 @@ LOCATION:上海少年儿童图书馆
 DESCRIPTION:分龄绘本馆、艺术亲子公益课、外文阅读沙龙、暑期科创研学、童话舞台剧。\n地点: 上海少年儿童图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstlib.org
 END:VEVENT
 BEGIN:VEVENT
-UID:6bbf39fbf298e482@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6bbf39fbf298e482@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:机器人世界互动与水力搭建手工
@@ -328,8 +346,8 @@ LOCATION:上海科技馆
 DESCRIPTION:机器人世界互动、动物标本科普、水力搭建手工、太空主题亲子课堂。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:17a6a6b86771b9fe@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:17a6a6b86771b9fe@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:非遗手作市集与少儿国风绘画
@@ -337,8 +355,8 @@ LOCATION:上海市群众艺术馆
 DESCRIPTION:非遗手作市集、少儿国风绘画、露天公益亲子演出、民乐免费体验课。\n地点: 上海市群众艺术馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shqunyiguan.org
 END:VEVENT
 BEGIN:VEVENT
-UID:d41e77c386777ab8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:d41e77c386777ab8@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:周末亲子读书会与自然写生
@@ -346,8 +364,8 @@ LOCATION:徐汇区图书馆
 DESCRIPTION:周末亲子读书会、自然写生、科普小实验、节气手工活动。\n地点: 徐汇区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=徐汇文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:5e3ceb49ffb0f1c0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5e3ceb49ffb0f1c0@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:屋顶免费儿童乐园与儿童艺术公益展
@@ -355,8 +373,8 @@ LOCATION:前滩太古里
 DESCRIPTION:屋顶免费儿童乐园、季度儿童艺术公益展、江边自然写生、周末露天亲子音乐会、节气手作市集。\n地点: 前滩太古里\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.taikooliqiantan.com
 END:VEVENT
 BEGIN:VEVENT
-UID:686e99b9510a189e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:686e99b9510a189e@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:流动艺术科普展与户外攀爬场地
@@ -364,8 +382,8 @@ LOCATION:徐汇西岸滨江
 DESCRIPTION:流动艺术科普展、户外免费攀爬场地、绘本长廊分享会、露天小型公益演出。\n地点: 徐汇西岸滨江\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=西岸文化走廊
 END:VEVENT
 BEGIN:VEVENT
-UID:b4ed2bf30ac7110d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b4ed2bf30ac7110d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:复古里弄免费打卡与少儿国风公益展
@@ -373,8 +391,8 @@ LOCATION:北外滩来福士广场
 DESCRIPTION:复古里弄免费打卡、少儿国风公益展、露天亲子手作市集、户外少儿舞台演出。\n地点: 北外滩来福士广场\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北外滩来福士
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7ff8e7077b6994@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:fe7ff8e7077b6994@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:亲子共读与科创手工
@@ -382,8 +400,8 @@ LOCATION:上海图书馆总馆
 DESCRIPTION:亲子共读、科创手工、暑期研学、外文沙龙。\n地点: 上海图书馆总馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.library.sh.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:ae120400daf5d077@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ae120400daf5d077@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:阅读沙龙与童话舞台剧
@@ -391,8 +409,8 @@ LOCATION:上海少年儿童图书馆新馆
 DESCRIPTION:阅读沙龙、童话舞台剧、艺术公益课。\n地点: 上海少年儿童图书馆新馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstlib.org
 END:VEVENT
 BEGIN:VEVENT
-UID:e0af786ee4e11fda@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e0af786ee4e11fda@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:亲子读书会与自然写生
@@ -400,8 +418,8 @@ LOCATION:徐汇区图书馆
 DESCRIPTION:亲子读书会、自然写生、节气小实验。\n地点: 徐汇区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=徐汇文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6b14964eb7978fe9@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6b14964eb7978fe9@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:航天科普与少儿编程
@@ -409,8 +427,8 @@ LOCATION:浦东新区图书馆
 DESCRIPTION:航天科普、少儿编程、户外阅读营。\n地点: 浦东新区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=浦东图书馆
 END:VEVENT
 BEGIN:VEVENT
-UID:9b92c099c67eb0af@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9b92c099c67eb0af@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:民国建筑导览与绘本剧
@@ -418,8 +436,8 @@ LOCATION:杨浦区图书馆
 DESCRIPTION:民国建筑导览、绘本剧、非遗手工。\n地点: 杨浦区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=杨浦文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:f60f90f27662a380@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f60f90f27662a380@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:水主题科普与诗词手工
@@ -427,8 +445,8 @@ LOCATION:普陀区图书馆
 DESCRIPTION:水主题科普、诗词手工、亲子观影。\n地点: 普陀区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=普陀文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:00bdfb7b89bcf5d7@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:00bdfb7b89bcf5d7@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:海洋绘本与植物手工
@@ -436,8 +454,8 @@ LOCATION:闵行区图书馆
 DESCRIPTION:海洋绘本、植物手工、科创体验课。\n地点: 闵行区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=闵行文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:ed1328adb4841dc8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ed1328adb4841dc8@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:矿石科普与红色研学
@@ -445,8 +463,8 @@ LOCATION:宝山区图书馆
 DESCRIPTION:矿石科普、红色研学、少儿书画。\n地点: 宝山区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=宝山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:c567e4f84b14eb17@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c567e4f84b14eb17@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:文物导览与非遗拓印
@@ -454,8 +472,8 @@ LOCATION:上海博物馆
 DESCRIPTION:文物导览、非遗拓印、古代手工DIY。\n地点: 上海博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shanghaimuseum.net
 END:VEVENT
 BEGIN:VEVENT
-UID:bf74b409b9ea4e88@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:bf74b409b9ea4e88@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:机器人互动与动物标本
@@ -463,8 +481,8 @@ LOCATION:上海科技馆
 DESCRIPTION:机器人互动、动物标本、水力搭建、太空课堂。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.sstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:174df4e59ff4f6d8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:174df4e59ff4f6d8@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:恐龙化石与生物观察
@@ -472,8 +490,8 @@ LOCATION:上海自然博物馆
 DESCRIPTION:恐龙化石、生物观察、自然手工。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=上海自然博物馆
 END:VEVENT
 BEGIN:VEVENT
-UID:4852593807e010fc@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4852593807e010fc@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:消防模拟与逃生演练
@@ -481,8 +499,8 @@ LOCATION:上海消防博物馆
 DESCRIPTION:消防模拟、逃生演练、安全科普课堂。\n地点: 上海消防博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=科普平台
 END:VEVENT
 BEGIN:VEVENT
-UID:8954b35ee554beb0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8954b35ee554beb0@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:净水实验与水科学探究
@@ -490,8 +508,8 @@ LOCATION:普陀青少年水主题科普基地
 DESCRIPTION:净水实验、水科学探究、手工工坊。\n地点: 普陀青少年水主题科普基地\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.putuo.gov.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:18dd74882ddd8e69@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:18dd74882ddd8e69@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:火车模型与机械科普
@@ -499,8 +517,8 @@ LOCATION:上海铁路博物馆
 DESCRIPTION:火车模型、机械科普、铁路历史导览。\n地点: 上海铁路博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=文旅公众号
 END:VEVENT
 BEGIN:VEVENT
-UID:bbfbd48c9b2bba6d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:bbfbd48c9b2bba6d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:航天航海与互动科学装置
@@ -508,8 +526,8 @@ LOCATION:上海儿童博物馆
 DESCRIPTION:航天、航海、互动科学装置、绘本活动。\n地点: 上海儿童博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=上海儿童博物馆
 END:VEVENT
 BEGIN:VEVENT
-UID:229c6fb5e0999a6a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:229c6fb5e0999a6a@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:马桥文化手工与古陶临摹
@@ -517,8 +535,8 @@ LOCATION:闵行博物馆
 DESCRIPTION:马桥文化手工、古陶临摹、少儿历史课。\n地点: 闵行博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=闵行博物馆
 END:VEVENT
 BEGIN:VEVENT
-UID:e3ffde8149ba3449@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e3ffde8149ba3449@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:海洋文化与航海科普
@@ -526,8 +544,8 @@ LOCATION:浦东博物馆
 DESCRIPTION:海洋文化、航海科普、贝壳手工。\n地点: 浦东博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=浦东文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:0390338de468b23c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:0390338de468b23c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:江南民俗与陶艺DIY
@@ -535,8 +553,8 @@ LOCATION:宝山博物馆
 DESCRIPTION:江南民俗、陶艺DIY、文物导览。\n地点: 宝山博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=宝山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6f97218b671d36e3@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6f97218b671d36e3@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:科举文化与古建筑手工
@@ -544,8 +562,8 @@ LOCATION:嘉定博物馆
 DESCRIPTION:科举文化、古建筑手工、园林科普。\n地点: 嘉定博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=嘉定文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:9155afaaaa748306@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9155afaaaa748306@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:广富林文化与考古模拟
@@ -553,8 +571,8 @@ LOCATION:松江博物馆
 DESCRIPTION:广富林文化、考古模拟、矿石彩绘。\n地点: 松江博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=松江文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:9b12571755099c1d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9b12571755099c1d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:城市建筑手工与上海历史亲子导览
@@ -562,8 +580,8 @@ LOCATION:上海城市规划展示馆
 DESCRIPTION:城市建筑手工、上海历史亲子导览。\n地点: 上海城市规划展示馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=上海规划馆
 END:VEVENT
 BEGIN:VEVENT
-UID:a38f0a1cd1c4f65d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:a38f0a1cd1c4f65d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:艺术科技舞蹈公益课程
@@ -571,8 +589,8 @@ LOCATION:上海市少年宫
 DESCRIPTION:艺术、科技、舞蹈公益课程、少儿汇演。\n地点: 上海市少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shsng.org
 END:VEVENT
 BEGIN:VEVENT
-UID:7953acc41c60493f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7953acc41c60493f@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:非遗市集与国风绘画
@@ -580,8 +598,8 @@ LOCATION:上海市群众艺术馆
 DESCRIPTION:非遗市集、国风绘画、露天亲子演出、民乐体验。\n地点: 上海市群众艺术馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.shqunyiguan.org
 END:VEVENT
 BEGIN:VEVENT
-UID:6be03178ef74e267@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6be03178ef74e267@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:科创美术轮滑免费体验课
@@ -589,8 +607,8 @@ LOCATION:浦东新区青少年活动中心
 DESCRIPTION:科创、美术、轮滑免费体验课。\n地点: 浦东新区青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=浦东青少年活动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:522f0bb2bb34077c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:522f0bb2bb34077c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:机器人与陶艺
@@ -598,8 +616,8 @@ LOCATION:杨浦区青少年活动中心
 DESCRIPTION:机器人、陶艺、户外自然研学。\n地点: 杨浦区青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=杨浦文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:05d3b5bceecc95d0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:05d3b5bceecc95d0@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:水科学与绘画
@@ -607,8 +625,8 @@ LOCATION:普陀区青少年宫
 DESCRIPTION:水科学、绘画、少儿合唱公益课。\n地点: 普陀区青少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=普陀文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:ced90559a18df9a9@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ced90559a18df9a9@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:海洋科普与手工
@@ -616,8 +634,8 @@ LOCATION:闵行区青少年活动中心
 DESCRIPTION:海洋科普、手工、编程体验。\n地点: 闵行区青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=闵行文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:9627d727aa092f66@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9627d727aa092f66@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:剪纸与皮影
@@ -625,8 +643,8 @@ LOCATION:宝山区文化馆
 DESCRIPTION:剪纸、皮影、少儿惠民文艺演出。\n地点: 宝山区文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=宝山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:679526a3f0758712@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:679526a3f0758712@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:国风手工与露天音乐会
@@ -634,8 +652,8 @@ LOCATION:嘉定区文化馆
 DESCRIPTION:国风手工、露天音乐会、非遗体验。\n地点: 嘉定区文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=嘉定文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:940dd0e680e13b38@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:940dd0e680e13b38@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:农耕科普与民俗手工
@@ -643,8 +661,8 @@ LOCATION:松江文化馆
 DESCRIPTION:农耕科普、民俗手工、亲子舞台剧。\n地点: 松江文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=松江文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:2c6bb06926c660fc@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2c6bb06926c660fc@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:亲子球类与体能公益课
@@ -652,8 +670,8 @@ LOCATION:上海体育中心
 DESCRIPTION:亲子球类、体能公益课、趣味运动会。\n地点: 上海体育中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=上海体育中心
 END:VEVENT
 BEGIN:VEVENT
-UID:fce615330ee8cc93@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:fce615330ee8cc93@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:轮滑与滑板
@@ -661,8 +679,8 @@ LOCATION:浦东体育公园
 DESCRIPTION:轮滑、滑板、儿童游乐区、户外亲子运动。\n地点: 浦东体育公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=浦东文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:a209507ef028b84c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:a209507ef028b84c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:乒乓球与羽毛球免费体验
@@ -670,8 +688,8 @@ LOCATION:杨浦体育活动中心
 DESCRIPTION:乒乓球、羽毛球免费体验、亲子骑行。\n地点: 杨浦体育活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=杨浦文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:8700b05981aef232@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8700b05981aef232@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:环湖徒步与球类公益课
@@ -679,8 +697,8 @@ LOCATION:闵行体育公园文体中心
 DESCRIPTION:环湖徒步、球类公益课、草坪亲子市集。\n地点: 闵行体育公园文体中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=闵行文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:7782e99dab1f541c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7782e99dab1f541c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:少儿篮球与体能训练
@@ -688,8 +706,8 @@ LOCATION:宝山体育中心
 DESCRIPTION:少儿篮球、体能训练、露天亲子演出。\n地点: 宝山体育中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=宝山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:1f9f99e178011380@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1f9f99e178011380@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:屋顶免费儿童乐园与艺术公益展
@@ -697,8 +715,1169 @@ LOCATION:前滩太古里
 DESCRIPTION:屋顶免费儿童乐园、艺术公益展、江边写生、露天音乐会、节气市集。\n地点: 前滩太古里\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.taikooliqiantan.com
 END:VEVENT
 BEGIN:VEVENT
-UID:8bf8217d55171ab0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:29039b45e6e4df98@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260802
+SUMMARY:中共一大纪念馆夜间开放
+LOCATION:中共一大纪念馆
+DESCRIPTION:7月1日、7月25日、8月1日夜间开放至20:00，感悟初心，重温红色历史。\n地点: 中共一大纪念馆\n时间: 2026-07-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:bf16dd93cb9fef15@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:苏州河历史文化展
+LOCATION:上海市历史博物馆
+DESCRIPTION:从元代水闸到外白渡桥，展示苏州河的历史变迁。\n地点: 上海市历史博物馆\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:b03b57018b0db500@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270128
+SUMMARY:史前星球恐龙篇
+LOCATION:西岸美术馆
+DESCRIPTION:改编自广受赞誉的纪录片系列'Prehistoric Planet史前星球'，通过先进的360°沉浸式投影系统，与史前生物'同行'。\n地点: 西岸美术馆\n时间: 2026-07-01 至 2027-01-27
+END:VEVENT
+BEGIN:VEVENT
+UID:b4846981514c071d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:动物奇妙夜
+LOCATION:上海动物园
+DESCRIPTION:探秘夜间动物园，增设夜猫子和森林课夜观活动，展示动物园内夜行性动物难得一见的自然行为。\n地点: 上海动物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:79eb36c05c87a798@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:虎鲸造浪节
+LOCATION:上海海昌海洋公园
+DESCRIPTION:连续66天夜场，围绕4大戏水、7大剧目升级、奥特曼60周年庆、烟花盛典等特色活动，7月11日-8月23日更有虎鲸造浪音乐节。\n地点: 上海海昌海洋公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0544a9d7282b9331@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:布里奇曼名画奇旅
+LOCATION:上海美术馆
+DESCRIPTION:国内首个布里奇曼专属艺术空间展览，依托沉浸式光影场景、专业画作拆解、趣味艺术互动装置，帮助孩子轻松学习素描、构图等基础艺术知识。\n地点: 上海美术馆\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc5617a82b3ecf5@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:艺起童年儿童美术展
+LOCATION:上海美术馆
+DESCRIPTION:中国儿童美术百年巡展，展出二百余件精品作品，涵盖原创书画、插画原稿、经典美术片影像等。\n地点: 上海美术馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:af8f67c1ba582dcf@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海少儿优秀美术作品展
+LOCATION:马利美术馆
+DESCRIPTION:150件（组）少儿美术作品展出，适合带孩子来一场艺术启蒙。\n地点: 马利美术馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e81995beaed52ac1@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:阅万象暑期阅读季
+LOCATION:上海图书馆
+DESCRIPTION:涵盖主题活动、故事剧场、少儿讲座、创艺工坊、展览展示、志愿活动等七大板块，共计推出1000余项阅读活动。\n地点: 上海图书馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1c5f1ecbccce6b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:未来科技大奖文献展
+LOCATION:上海科技馆
+DESCRIPTION:全景呈现中国科学家世界级研究成果，首次展出珍贵手稿与实物展品，见证中国科学从追赶到引领的非凡历程。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:aaddc80369405023@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:China白主题临展
+LOCATION:上海世界技能博物馆
+DESCRIPTION:以五大主题展品矩阵为核心，融入捏、塑、雕、刻、彩绘等传统工艺技艺展示，结合AI+、艺术+互动体验。\n地点: 上海世界技能博物馆\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5bd9c81218c2a9@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:博物馆奇妙夜
+LOCATION:上海自然博物馆
+DESCRIPTION:每周六延时开放至20:00，四维影院同步开放，体验夜间博物馆的独特魅力。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5ce515a53e357ff1@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:烹饪宇宙科学桌游
+LOCATION:上海天文馆
+DESCRIPTION:通过打出手牌，收集'食材'，烹饪'星星'，一款寓教于乐的天文科普桌游。\n地点: 上海天文馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:388e9816cc934670@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:保利艺夏演出季
+LOCATION:上海保利大剧院
+DESCRIPTION:推出谍战话剧《夜行者》、'打开艺术之门'系列儿童剧目包括芭蕾、皮影、音乐会等贯穿整个暑假。\n地点: 上海保利大剧院\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2f737255eac2ef94@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:EV音乐乐园
+LOCATION:上海欢乐谷
+DESCRIPTION:主舞台'银河嗨唱中心'，每周六人气大咖空降开启音浪狂潮。\n地点: 上海欢乐谷\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:3874ad170c568119@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:非遗手作工坊
+LOCATION:上海博物馆
+DESCRIPTION:结合美洲古代文明大展，开设文物互动体验、创意手工创作等趣味亲子环节。\n地点: 上海博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd66098613260e6@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海科技馆科学之夜
+LOCATION:上海科技馆
+DESCRIPTION:每周五晚开放至21:00，体验不一样的科技馆奇妙夜。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:016331a3c18f2ab8@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海野生动物园夜宿
+LOCATION:上海野生动物园
+DESCRIPTION:夜间在野生动物园内露营，近距离观察动物夜间行为。\n地点: 上海野生动物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:baa392e6264fd7bc@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260831
+SUMMARY:宝硕流光乾隆时期文物特展
+LOCATION:奉贤博物馆
+DESCRIPTION:故宫馆藏121件套珍贵文物，乾隆朝服像、古稀天子之宝印等重磅亮相。\n地点: 奉贤博物馆\n时间: 2026-07-01 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:dec70e01bcfc1bae@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260831
+SUMMARY:奉贤博物馆奇妙夜
+LOCATION:奉贤博物馆
+DESCRIPTION:暑期夜游延长开放，专家夜间导赏、朕的一日沉浸式互动、七夕国风集市。\n地点: 奉贤博物馆\n时间: 2026-07-01 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9d07168a7ab02c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270128
+SUMMARY:史前星球恐龙篇沉浸式巨幕体验
+LOCATION:西岸美术馆
+DESCRIPTION:360度沉浸式投影系统，与史前生物同行，真实感受它们的尺度与生存环境。\n地点: 西岸美术馆\n时间: 2026-07-01 至 2027-01-27
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e99eecf2ad48f4@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270701
+SUMMARY:布里奇曼名画奇旅全球首展
+LOCATION:上海美术馆中华艺术宫
+DESCRIPTION:67家世界顶级文博机构、近70位中外艺术巨匠、跨越1800年近200幅正版高清名作。\n地点: 上海美术馆中华艺术宫\n时间: 2026-07-01 至 2027-06-30
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e1d8da04f1ce21@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260908
+SUMMARY:肇兴中国秦大一统之路文物展
+LOCATION:上海博物馆东馆
+DESCRIPTION:14家考古文博机构510件文物，全景展示秦统一中国的历史进程。\n地点: 上海博物馆东馆\n时间: 2026-07-01 至 2026-09-07
+END:VEVENT
+BEGIN:VEVENT
+UID:cf68840f26da28d2@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:徽州文化艺术展
+LOCATION:上海市历史博物馆
+DESCRIPTION:只在山林与泉曲——徽州文化艺术展，徽派建筑与艺术之美。\n地点: 上海市历史博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5a70b4bc99da7f3c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:申园纳夏凉园林消夏录
+LOCATION:世博文化公园申园
+DESCRIPTION:市区江南古典园林，满池荷花盛放，汉服租赁游园、古法消夏手作、夜间园林雅集。\n地点: 世博文化公园申园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:728d154cc6f2805e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261115
+SUMMARY:世界树之境美洲植物大展
+LOCATION:上海温室花园
+DESCRIPTION:凤梨羊驼、300多种美洲植物、30种龙舌兰，与上博美洲文明大展深度联动。\n地点: 上海温室花园\n时间: 2026-07-01 至 2026-11-14
+END:VEVENT
+BEGIN:VEVENT
+UID:2da2dc9006c841d3@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:古猗园荷花睡莲展
+LOCATION:古猗园
+DESCRIPTION:第十三届荷花睡莲展，上百种珍稀荷花品种集中盛放，非遗荷文化研学。\n地点: 古猗园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4d73163b839573f2@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260802
+SUMMARY:中共一大纪念馆奇妙夜
+LOCATION:中共一大纪念馆
+DESCRIPTION:会址正门夜间开放、电影党课火种、微讲座新四军臂章等红色主题夜活动。\n地点: 中共一大纪念馆\n时间: 2026-07-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:fb71dd9cf4f57734@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261026
+SUMMARY:康雍乾时期文物特展
+LOCATION:闵行博物馆
+DESCRIPTION:110余件套珍贵文物，青花斗彩鸡缸杯明黄色缎绣金龙龙袍太上皇帝之宝玺。\n地点: 闵行博物馆\n时间: 2026-07-01 至 2026-10-25
+END:VEVENT
+BEGIN:VEVENT
+UID:6c46df6c0a8c6648@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:吴钧陶手稿文献展
+LOCATION:上海图书馆东馆
+DESCRIPTION:百岁翻译家诗人吴钧陶先生珍贵一手文献，完整呈现坎坷却坚韧的人生轨迹。\n地点: 上海图书馆东馆\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc3a34a31fd98ee@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:佘山度假区盛夏狂欢季
+LOCATION:上海佘山国家旅游度假区
+DESCRIPTION:趣佘山GO狂欢，七大主题板块二十余项特色活动，青年潮玩亲子游乐自然研学。\n地点: 上海佘山国家旅游度假区\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae4a63799a97b01@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260911
+SUMMARY:庄行伏羊美食嘉年华
+LOCATION:花米庄行景区
+DESCRIPTION:上海庄行伏羊美食嘉年华，全羊宴市集草地Live光影秀水岸集市。\n地点: 花米庄行景区\n时间: 2026-07-01 至 2026-09-10
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc050e63f3d7032@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260831
+SUMMARY:放鹤谷千灯会
+LOCATION:放鹤谷鲜花农场
+DESCRIPTION:国家级非遗四川自贡灯会，50亩花田升级为梦幻灯海，白天赏花夜晚观灯。\n地点: 放鹤谷鲜花农场\n时间: 2026-07-01 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:0e130bbd174725da@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:海滨新天地恐龙展
+LOCATION:海滨新天地
+DESCRIPTION:大型恐龙主题展，逼真恐龙模型，互动体验项目，亲子科普好去处。\n地点: 海滨新天地\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bc2883be593181@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:碧海金沙水上乐园
+LOCATION:碧海金沙
+DESCRIPTION:上海唯一的碧海金沙人造沙滩，水上乐园沙滩运动，夏日亲子戏水好去处。\n地点: 碧海金沙\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e0440f860c191b9e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:泡泡公园蚂蚁乐园
+LOCATION:上海之鱼泡泡公园
+DESCRIPTION:网红秋千3米高双滑道滑梯等大型无动力游乐设施，亲子撒欢好去处。\n地点: 上海之鱼泡泡公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f8ee7224c8dfb31f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:年丰公园水上运动
+LOCATION:上海之鱼年丰公园
+DESCRIPTION:皮划艇桨板卡丁船等水上项目，专业教练指导，泛舟湖上碧波穿行。\n地点: 上海之鱼年丰公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf70c1f9a87ce71@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海迪士尼度假区
+LOCATION:上海迪士尼乐园
+DESCRIPTION:七大主题园区，米奇大街探险岛宝藏湾，暑期特别活动烟花秀。\n地点: 上海迪士尼乐园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:040a4f2160a94604@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海欢乐谷暑期狂欢
+LOCATION:上海欢乐谷
+DESCRIPTION:百余项游乐设施，暑期狂欢节，夜场电音烟花秀。\n地点: 上海欢乐谷\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a5446b19e13e95@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海野生动物园
+LOCATION:上海野生动物园
+DESCRIPTION:车入区步行区，大熊猫老虎狮子长颈鹿，动物表演互动。\n地点: 上海野生动物园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:1a99e20063ce7f7f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海海昌海洋公园
+LOCATION:上海海昌海洋公园
+DESCRIPTION:虎鲸海豚白鲸表演，五大主题区，暑期虎鲸造浪节夜场。\n地点: 上海海昌海洋公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5d15da8382556dee@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海科技馆
+LOCATION:上海科技馆
+DESCRIPTION:机器人世界信息时代生物万象等展厅，IMAX球幕影院，暑期科普活动。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:bbfbc97830f1ee43@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海自然博物馆
+LOCATION:上海自然博物馆
+DESCRIPTION:生命演化长河恐龙盛世，自然标本展，暑期自然探索营。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ec73ed5240d6876d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海杜莎夫人蜡像馆
+LOCATION:上海杜莎夫人蜡像馆
+DESCRIPTION:明星名人蜡像，互动体验，拍照打卡好去处。\n地点: 上海杜莎夫人蜡像馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f62da3050d12aed7@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海乐高探索中心
+LOCATION:上海乐高探索中心
+DESCRIPTION:乐高积木拼搭体验，迷你天地主题区，暑期乐高夏令营。\n地点: 上海乐高探索中心\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f26e635daea3ea63@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海马戏城ERA时空之旅
+LOCATION:上海马戏城
+DESCRIPTION:ERA时空之旅超级多媒体梦幻剧，杂技表演，视觉盛宴。\n地点: 上海马戏城\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e80e9c467d4037c8@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海迪士尼乐园夏日狂欢
+LOCATION:上海迪士尼乐园
+DESCRIPTION:夏日狂欢节，花车巡游，城堡烟花秀，迪士尼朋友见面会。\n地点: 上海迪士尼乐园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8b952d1a5894715a@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:豫园夏日游园会
+LOCATION:豫园
+DESCRIPTION:夏日国风游园会，传统民俗表演，老字号美食，灯会展演。\n地点: 豫园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:d770a89b2d393861@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海锦江乐园夜市
+LOCATION:锦江乐园
+DESCRIPTION:锦江乐园夜市美食嘉年华，游乐设施夜场，夏日狂欢。\n地点: 锦江乐园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b57f7d44fd8272cf@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海动物园暑期
+LOCATION:上海动物园
+DESCRIPTION:大熊猫长颈鹿大象等动物，暑期动物科普讲解，儿童游园。\n地点: 上海动物园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab1eaaa701ecc0f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:东方明珠观光
+LOCATION:东方明珠广播电视塔
+DESCRIPTION:上海地标建筑，登塔观光，全透明悬空廊，上海城市历史发展陈列馆。\n地点: 东方明珠广播电视塔\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a35d8b5322eee8cf@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海中心大厦观光
+LOCATION:上海中心大厦
+DESCRIPTION:上海最高楼118层观光厅，俯瞰全城，360度城市美景。\n地点: 上海中心大厦\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:31963110084d5d02@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海海洋水族馆
+LOCATION:上海海洋水族馆
+DESCRIPTION:世界最长海底隧道，15000多只海洋生物，中国区南极区等展区。\n地点: 上海海洋水族馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:715eaa2c512451ee@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:长风海洋世界
+LOCATION:长风海洋世界
+DESCRIPTION:白鲸表演海底世界，极地探险，暑期海洋科普活动。\n地点: 长风海洋世界\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e752b7985e688c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:辰山植物园花展
+LOCATION:辰山植物园
+DESCRIPTION:矿坑花园温室展览，夏季花卉展，植物科普夏令营。\n地点: 辰山植物园\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:62f1751a979f9dbd@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海野生动物园奇妙夜
+LOCATION:上海野生动物园
+DESCRIPTION:夜间动物园探索，观察夜行动物，露营体验，亲子奇妙夜。\n地点: 上海野生动物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f43f0955c9b2cc39@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:崇明西沙湿地生态游
+LOCATION:崇明西沙湿地公园
+DESCRIPTION:崇明西沙湿地，观鸟生态步道，潮汐现象，自然科普。\n地点: 崇明西沙湿地公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:17d1be9ab9778b9f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:外滩万国建筑博览
+LOCATION:外滩
+DESCRIPTION:外滩万国建筑博览群，黄浦江夜景，上海地标必打卡。\n地点: 外滩\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2bbde1f881037751@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:豫园城隍庙
+LOCATION:豫园
+DESCRIPTION:江南古典园林，城隍庙小吃，上海传统民俗文化。\n地点: 豫园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:3f253d83e7bb4c60@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:南京路步行街
+LOCATION:南京路步行街
+DESCRIPTION:中华商业第一街，百年老字号，购物美食观光。\n地点: 南京路步行街\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:48183e242fa75e3c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:田子坊石库门
+LOCATION:田子坊
+DESCRIPTION:石库门里弄改造，文艺小店创意市集，老上海风情。\n地点: 田子坊\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4f38ef674f29ca62@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:新天地石库门
+LOCATION:上海新天地
+DESCRIPTION:石库门建筑改造，时尚餐饮，一大会址相邻。\n地点: 上海新天地\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f0029608fcd401f1@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:武康路历史风貌
+LOCATION:武康路
+DESCRIPTION:上海最浪漫的马路，武康大楼，梧桐树下老洋房。\n地点: 武康路\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:7de5ae3d08ca1d63@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:思南公馆
+LOCATION:思南公馆
+DESCRIPTION:花园洋房建筑群，历史名人故居，文艺咖啡小店。\n地点: 思南公馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6e644d0dff306d9b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:朱家角古镇
+LOCATION:朱家角古镇
+DESCRIPTION:上海威尼斯，江南水乡古镇，放生桥北大街。\n地点: 朱家角古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0611642031f42c67@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:七宝古镇
+LOCATION:七宝古镇
+DESCRIPTION:七宝老街，古镇美食小吃，七宝教寺，近郊古镇。\n地点: 七宝古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:235cac8dd6a9848d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:召稼楼古镇
+LOCATION:召稼楼古镇
+DESCRIPTION:召稼楼古镇，江南水乡，特色小吃，周末休闲。\n地点: 召稼楼古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c27b4045fe73d1ad@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:枫泾古镇
+LOCATION:枫泾古镇
+DESCRIPTION:上海西南门户，吴越名镇，枫泾丁蹄，金山农民画。\n地点: 枫泾古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:51c1196c8ad94b5a@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:佘山国家森林公园
+LOCATION:佘山国家森林公园
+DESCRIPTION:上海唯一自然山林，东西佘山，天文台天主教堂。\n地点: 佘山国家森林公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a6bec58a8fab2f68@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:东滩湿地公园
+LOCATION:东滩湿地公园
+DESCRIPTION:崇明东滩候鸟保护区，湿地观鸟，生态科普。\n地点: 东滩湿地公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:26ea022562c101c5@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:东平国家森林公园
+LOCATION:东平国家森林公园
+DESCRIPTION:华东最大平原人工林，森林氧吧，露营烧烤。\n地点: 东平国家森林公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4ef72a6cafc213@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海海湾国家森林公园
+LOCATION:海湾国家森林公园
+DESCRIPTION:东海之滨的森林氧吧，骑马划船，户外拓展。\n地点: 海湾国家森林公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:880a933a35d44303@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海长风公园
+LOCATION:长风公园
+DESCRIPTION:铁臂山银锄湖，长风海洋世界相邻，亲子休闲。\n地点: 长风公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb4452782dcd22c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海博物馆人民广场馆
+LOCATION:上海博物馆人民广场馆
+DESCRIPTION:中国四大博物馆之一，青铜器陶瓷书画玉器，中国古代艺术宝库。\n地点: 上海博物馆人民广场馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:26affd244696668d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海博物馆东馆
+LOCATION:上海博物馆东馆
+DESCRIPTION:上博新馆，更大展厅更多文物，上海文化新地标。\n地点: 上海博物馆东馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b8410f12ee8a355f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海科技馆机器人世界
+LOCATION:上海科技馆
+DESCRIPTION:机器人表演互动，机器人剧场，机器人舞蹈，科技感十足。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e8c07d237582e5@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海科技馆生物万象
+LOCATION:上海科技馆
+DESCRIPTION:热带雨林生态，仿生动物，热带雨林瀑布，自然科普。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ff6b5a43fe62309d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海科技馆宇航天地
+LOCATION:上海科技馆
+DESCRIPTION:神舟飞船模型，太空探索，宇航知识科普，航天梦。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c8c7e4a2059f6c79@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海科技馆地壳探秘
+LOCATION:上海科技馆
+DESCRIPTION:地震火山体验，矿物宝石，地球科学知识。\n地点: 上海科技馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a2cf071d6e9a871b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海自然博物馆生命长河
+LOCATION:上海自然博物馆
+DESCRIPTION:生命演化展，恐龙大象长颈鹿模型，自然史教育。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8825f22ad5a9c643@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海自然博物馆恐龙盛世
+LOCATION:上海自然博物馆
+DESCRIPTION:马门溪龙霸王龙，恐龙骨架模型，恐龙时代探秘。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e5640fb6efcb2b16@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海自然博物馆起源之谜
+LOCATION:上海自然博物馆
+DESCRIPTION:宇宙大爆炸生命起源，人类进化，科学知识普及。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:eb12b1baabc30b80@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海自然博物馆生态万象
+LOCATION:上海自然博物馆
+DESCRIPTION:非洲大草原极地海底世界，生态系统科普。\n地点: 上海自然博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:fbaecb1213355dc9@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海玻璃博物馆
+LOCATION:上海玻璃博物馆
+DESCRIPTION:玻璃艺术殿堂，热玻璃表演，DIY玻璃制作体验。\n地点: 上海玻璃博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:72a60e35e590148c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海汽车博物馆
+LOCATION:上海汽车博物馆
+DESCRIPTION:中国首家专业汽车博物馆，古董车经典车，汽车发展史。\n地点: 上海汽车博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b55ffada37c7e782@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海电影博物馆
+LOCATION:上海电影博物馆
+DESCRIPTION:上海电影发展史，百年电影记忆，老电影体验。\n地点: 上海电影博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:81533b718918d25c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海公安博物馆
+LOCATION:上海公安博物馆
+DESCRIPTION:公安发展史，警械装备，特种警用车辆。\n地点: 上海公安博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:eb799707da99f118@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海中医药博物馆
+LOCATION:上海中医药博物馆
+DESCRIPTION:中医中药发展史，中草药标本，养生文化。\n地点: 上海中医药博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ed3e16949d68af76@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海昆虫博物馆
+LOCATION:上海昆虫博物馆
+DESCRIPTION:蝴蝶标本昆虫世界，中科院上海昆虫博物馆。\n地点: 上海昆虫博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5938b6e755a01a9b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海地震科普馆
+LOCATION:上海地震科普馆
+DESCRIPTION:地震知识科普，地震模拟体验，防灾教育。\n地点: 上海地震科普馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:82f9f917a1ce952f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海航海博物馆
+LOCATION:中国航海博物馆
+DESCRIPTION:国家级航海博物馆，古船模型航海史，海事教育。\n地点: 中国航海博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:3c6de48c8d2c475e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海工艺美术博物馆
+LOCATION:上海工艺美术博物馆
+DESCRIPTION:法租界小白宫，绒绣面塑剪纸，上海工艺美术精品。\n地点: 上海工艺美术博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:9270cea0b33cbd65@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海隧道科技馆
+LOCATION:上海隧道科技馆
+DESCRIPTION:隧道建设技术，盾构机模型，地下工程科普。\n地点: 上海隧道科技馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:09284d2773ac36bb@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海城市规划展示馆
+LOCATION:上海城市规划展示馆
+DESCRIPTION:上海城市发展规划，巨大城市模型，未来上海。\n地点: 上海城市规划展示馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:80f31f4dd5b54075@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海惊魂密境
+LOCATION:上海惊魂密境
+DESCRIPTION:沉浸式惊悚体验，老上海传说故事，惊魂冒险。\n地点: 上海惊魂密境\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8b172874537976e5@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海环球金融中心观光
+LOCATION:上海环球金融中心
+DESCRIPTION:100层观光厅，空中走廊，俯瞰陆家嘴全景。\n地点: 上海环球金融中心\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f4cc4a68a4b929bd@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:金茂大厦观光
+LOCATION:金茂大厦
+DESCRIPTION:88层观光厅，云中漫步，浦东地标建筑。\n地点: 金茂大厦\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:872cb033733365a5@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海中心118层观光
+LOCATION:上海中心大厦
+DESCRIPTION:上海最高楼，118层上海之巅观光厅，360度全景。\n地点: 上海中心大厦\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c93f69c19b54466e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海城隍庙
+LOCATION:上海城隍庙
+DESCRIPTION:道教正一派道观，上海道教中心，豫园商圈内。\n地点: 上海城隍庙\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:1fed7ea8ca19895c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海玉佛禅寺
+LOCATION:玉佛禅寺
+DESCRIPTION:上海著名佛教寺庙，玉佛楼供奉玉佛，百年古刹。\n地点: 玉佛禅寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7ac219b167ead6@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海静安寺
+LOCATION:静安寺
+DESCRIPTION:千年古刹静安寺，繁华商圈中的宁静，金佛殿。\n地点: 静安寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6269158dd899d45b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海龙华寺
+LOCATION:龙华寺
+DESCRIPTION:上海历史最久规模最大的寺庙，龙华塔，龙华庙会。\n地点: 龙华寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb7403205b0c15f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海真如寺
+LOCATION:真如寺
+DESCRIPTION:江南著名寺庙，元代大殿，真如公园。\n地点: 真如寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed63e2fe988f8f6@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海法华禅寺
+LOCATION:法华禅寺
+DESCRIPTION:法华学问寺，千年银杏，古寺新貌。\n地点: 法华禅寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f1645fc48b25a92e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海东林寺
+LOCATION:东林寺
+DESCRIPTION:浦南佛教名刹，世界最高景泰蓝善财童子，观音阁。\n地点: 东林寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:353b6c0f6d13dd14@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海西林禅寺
+LOCATION:西林禅寺
+DESCRIPTION:松江古城名刹，圆应塔，千年古寺。\n地点: 西林禅寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b0f36753f83c8c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海报国寺
+LOCATION:报国寺
+DESCRIPTION:淀山湖畔报国寺，千年古银杏，风景优美。\n地点: 报国寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e4ce7247591fbb@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海人民广场
+LOCATION:人民广场
+DESCRIPTION:上海城市中心，上海市政府，人民公园，博物馆。\n地点: 人民广场\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:266070d817e2f407@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海世纪公园
+LOCATION:世纪公园
+DESCRIPTION:浦东最大生态城市公园，镜天湖，四季花卉。\n地点: 世纪公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:04efc0847c58016d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海共青森林公园
+LOCATION:共青国家森林公园
+DESCRIPTION:上海最大森林公园，森林氧吧，游乐设施。\n地点: 共青国家森林公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:58ab5303cddb9ffa@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海滨江森林公园
+LOCATION:滨江森林公园
+DESCRIPTION:黄浦江长江东海三水交汇，滨江岸线，生态森林。\n地点: 滨江森林公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e629208f4ca22236@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海植物园
+LOCATION:上海植物园
+DESCRIPTION:植物种类丰富，温室展览，四季花展。\n地点: 上海植物园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:210be834375c9da6@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海辰山植物园
+LOCATION:辰山植物园
+DESCRIPTION:矿坑花园温室展览，华东地区最大植物园。\n地点: 辰山植物园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a5875df619d42f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海古猗园
+LOCATION:古猗园
+DESCRIPTION:江南古典园林，南翔小笼包发源地，园林艺术。\n地点: 古猗园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:955e9ca3015f3b07@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海醉白池
+LOCATION:醉白池
+DESCRIPTION:上海五大古典园林之一，宋代历史，松江古城。\n地点: 醉白池\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd881381c96bd60@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海曲水园
+LOCATION:曲水园
+DESCRIPTION:青浦曲水园，江南园林，小而精致。\n地点: 曲水园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:46635a159ee4a9dc@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海桂林公园
+LOCATION:桂林公园
+DESCRIPTION:桂林公园，黄家花园，秋季桂花盛开。\n地点: 桂林公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:597dfa2a61c200d3@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海人民公园相亲角
+LOCATION:人民公园
+DESCRIPTION:上海特色相亲角，城市人文景观，周末热闹。\n地点: 人民公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc7c4d58ce9132e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海鲁迅公园
+LOCATION:鲁迅公园
+DESCRIPTION:鲁迅墓纪念馆，虹口足球场，上海老牌公园。\n地点: 鲁迅公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:55bb0789c6ab9258@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海和平公园
+LOCATION:和平公园
+DESCRIPTION:动物岛，亲子休闲，改造后的生态公园。\n地点: 和平公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0415dbdc6891ed12@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海中山公园
+LOCATION:中山公园
+DESCRIPTION:上海西区老公园，中西合璧园林，交通便利。\n地点: 中山公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:78742506b7cf6a7c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海静安公园
+LOCATION:静安公园
+DESCRIPTION:静安寺旁城市绿洲，都市中的宁静。\n地点: 静安公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6da090ca6f515e61@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海迪士尼小镇
+LOCATION:上海迪士尼度假区
+DESCRIPTION:迪士尼主题小镇，购物餐饮，无需门票。\n地点: 上海迪士尼度假区\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:139885e3c6346203@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海野生动物园马戏
+LOCATION:上海野生动物园
+DESCRIPTION:国际大马戏表演，俄罗斯演员，精彩杂技。\n地点: 上海野生动物园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a0543b9c88fe494a@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海海昌虎鲸表演
+LOCATION:上海海昌海洋公园
+DESCRIPTION:虎鲸科普秀，海豚白鲸表演，海洋剧场。\n地点: 上海海昌海洋公园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:de8270187fc8edea@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海朱家角古镇美食
+LOCATION:朱家角古镇
+DESCRIPTION:扎肉粽子阿婆茶，江南水乡美食，放生桥。\n地点: 朱家角古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:41fe155524328f14@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海新场古镇
+LOCATION:新场古镇
+DESCRIPTION:浦东千年古镇，历史风貌，色香俱全。\n地点: 新场古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:40df92d2223c6309@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海罗店古镇
+LOCATION:罗店古镇
+DESCRIPTION:金罗店，江南水乡，龙船花神灯。\n地点: 罗店古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:715a5d4710210bf8@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海高桥古镇
+LOCATION:高桥古镇
+DESCRIPTION:高桥松饼发源地，浦东老镇，历史建筑。\n地点: 高桥古镇\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf8217d55171ab0@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20261008
 SUMMARY:千金之家——马王堆汉墓的生活美学及养成国宝艺术大展
@@ -706,8 +1885,8 @@ LOCATION:上海美术馆（中华艺术宫）
 DESCRIPTION:马王堆汉墓50余年考古史上规模最大、等级最高的湖南省外展出。195件套472件展品，3件禁止出境文物，一级文物31件套。展现汉代生活极致风雅。地铁8号线中华艺术宫站。\n地点: 上海美术馆（中华艺术宫）\n时间: 2026-07-03 至 2026-10-07\n详情: http://m.toutiao.com/group/7657908763235451411/
 END:VEVENT
 BEGIN:VEVENT
-UID:13f8e15c6629d7f1@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:13f8e15c6629d7f1@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260830
 SUMMARY:从元代水闸到外白渡桥——苏州河历史文化展
@@ -715,8 +1894,8 @@ LOCATION:上海市历史博物馆
 DESCRIPTION:苏州河历史文化展，西楼临展厅延长开放至20:00。小浪花讲解团、苏州河夜游Citywalk、徽州非遗工坊。地铁1号线/2号线/8号线人民广场站。\n地点: 上海市历史博物馆\n时间: 2026-07-03 至 2026-08-29\n详情: http://m.sh.bendibao.com/tour/307215.html
 END:VEVENT
 BEGIN:VEVENT
-UID:edada5c0ddb477d5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:edada5c0ddb477d5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20261008
 SUMMARY:千金之家——马王堆汉墓的生活美学大展
@@ -724,8 +1903,8 @@ LOCATION:中华艺术宫
 DESCRIPTION:马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。\n地点: 中华艺术宫\n时间: 2026-07-03 至 2026-10-07\n详情: https://www.jfdaily.com/sgh/detail?id=4015071
 END:VEVENT
 BEGIN:VEVENT
-UID:89417e181faa13f4@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:89417e181faa13f4@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20261008
 SUMMARY:上海美术馆马王堆汉墓大展
@@ -733,8 +1912,8 @@ LOCATION:上海美术馆
 DESCRIPTION:'千金之家——马王堆汉墓的生活美学及养成'国宝艺术大展，荟萃马王堆出土珍宝，数件限制出境国宝同台亮相，回溯辛追侯府日常起居。\n地点: 上海美术馆\n时间: 2026-07-03 至 2026-10-07\n详情: https://www.artmuseumonline.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:e4c5f7b76db6342c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e4c5f7b76db6342c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20261008
 SUMMARY:千金之家——马王堆汉墓的生活美学及养成
@@ -742,8 +1921,8 @@ LOCATION:中华艺术宫（上海美术馆）
 DESCRIPTION:马王堆汉墓50余年考古史上规模最大、等级最高国宝艺术大展，九大稀世珍宝、十大重点展品上海首展，含帛画原件，适合历史与亲子家庭观众。\n地点: 中华艺术宫（上海美术馆）\n时间: 2026-07-03 至 2026-10-07\n详情: https://news.qq.com/rain/a/20260603A01RQ800
 END:VEVENT
 BEGIN:VEVENT
-UID:6b712779579c5a46@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6b712779579c5a46@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20270101
 SUMMARY:夏日山茶惊艳盛放——杜鹃红山茶花事
@@ -751,8 +1930,44 @@ LOCATION:上海植物园
 DESCRIPTION:上海植物园夏日花事亮点，珍稀杜鹃红山茶惊艳盛放，结合园区科普标识引导游客认识特色植物，适合亲子自然教育与拍照打卡。\n地点: 上海植物园\n时间: 2026-07-03 至 2026-12-31\n详情: https://www.shbg.org/sites/zhiwuyuan/InfoCtgList.aspx?ctgId=d95a0216-5d88-42ca-9346-c638b213465b
 END:VEVENT
 BEGIN:VEVENT
-UID:9fa82be52033c0f1@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5569a1e53459d03c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260830
+SUMMARY:江河联山海无界结万象
+LOCATION:上海市历史博物馆
+DESCRIPTION:博物馆奇妙夜系列活动，包括'小浪花'讲解团、苏州河夜游Citywalk、徽州非遗工坊等。\n地点: 上海市历史博物馆\n时间: 2026-07-03 至 2026-08-29
+END:VEVENT
+BEGIN:VEVENT
+UID:fad4d6cc8013f2ae@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261008
+SUMMARY:千金之家马王堆汉墓展
+LOCATION:上海美术馆
+DESCRIPTION:荟萃马王堆出土珍宝，数件限制出境国宝同台亮相，回溯辛追侯府日常起居，品鉴西汉世家独有的生活格调。\n地点: 上海美术馆\n时间: 2026-07-03 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:6d16645918d572ae@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261008
+SUMMARY:马王堆汉墓生活美学国宝展
+LOCATION:上海美术馆中华艺术宫
+DESCRIPTION:马王堆考古史上最大规模省外展出，汉代生活极致风雅，重现千金之家盛世风华。\n地点: 上海美术馆中华艺术宫\n时间: 2026-07-03 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:128d2495155bf58d@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260830
+SUMMARY:上历博博物馆奇妙夜
+LOCATION:上海市历史博物馆
+DESCRIPTION:小浪花讲解团童声讲述苏州河故事，苏州河夜游Citywalk，徽州非遗工坊研学。\n地点: 上海市历史博物馆\n时间: 2026-07-03 至 2026-08-29
+END:VEVENT
+BEGIN:VEVENT
+UID:9fa82be52033c0f1@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260721
 SUMMARY:2026上海夏季音乐节（MISA）
@@ -760,8 +1975,8 @@ LOCATION:捷豹上海交响音乐厅
 DESCRIPTION:第37届上海夏季音乐节，33场现场演出+25场线上直播。开幕大戏为余隆执棒、濮存昕主演音乐与戏剧文学《哈姆雷特》。电影音乐、跨界舞台、国际大咖齐聚。地铁10号线上海图书馆站。\n地点: 捷豹上海交响音乐厅\n时间: 2026-07-05 至 2026-07-20\n详情: https://m.sohu.com/a/1044837744_391502/
 END:VEVENT
 BEGIN:VEVENT
-UID:f856d4d8f28db44f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f856d4d8f28db44f@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海乐高乐园一周年庆典
@@ -769,8 +1984,17 @@ LOCATION:上海乐高乐园
 DESCRIPTION:一周年庆典推出乐高玩乐节，开辟约4000㎡全新区域，携手FIFA世界杯和F1两大IP，无人机互动夜光大派对贯穿周五六日。\n地点: 上海乐高乐园\n时间: 2026-07-05 至 2026-08-31\n详情: https://www.legoland.com/shanghai
 END:VEVENT
 BEGIN:VEVENT
-UID:8609be9f32a73718@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:954e6e2f8529bfa7@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:泰浪狂欢节
+LOCATION:上海玛雅海滩水公园
+DESCRIPTION:沪上首个'水上泼水音乐节'，包含泰浪超级水战、枪王之王争霸赛、撒泼大作战等主题活动，开放时间延长至22:00。\n地点: 上海玛雅海滩水公园\n时间: 2026-07-05 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8609be9f32a73718@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20261008
 SUMMARY:国采——故宫藏清代帝后服饰展
@@ -778,8 +2002,8 @@ LOCATION:上海世博会博物馆
 DESCRIPTION:故宫博物院藏百余件织绣珍品，康熙礼服褂、乾隆龙袍、嘉庆朝袍等。九成从未出京，超三成首次面世。周六延时至20:00。地铁13号线世博会博物馆站。\n地点: 上海世博会博物馆\n时间: 2026-07-07 至 2026-10-07\n详情: http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8dbd760588b7f29e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8dbd760588b7f29e@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20261008
 SUMMARY:上海世博会博物馆国采展
@@ -787,8 +2011,17 @@ LOCATION:上海世博会博物馆
 DESCRIPTION:携手故宫博物院推出'国采：故宫藏清代帝后服饰展'，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等最高等级帝后服装，九成从未出京，超三成首次面世。\n地点: 上海世博会博物馆\n时间: 2026-07-07 至 2026-10-07\n详情: https://www.expo2010china.com
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e910d7bebc5c40@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:3dba256feb8173a8@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20261008
+SUMMARY:国采故宫藏清代帝后服饰展
+LOCATION:上海世博会博物馆
+DESCRIPTION:世博会博物馆携手故宫博物院推出，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等珍贵服饰，九成从未出京。\n地点: 上海世博会博物馆\n时间: 2026-07-07 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e910d7bebc5c40@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260901
 SUMMARY:“拼了！真功夫”乐高探索中心十周年暑期活动
@@ -796,8 +2029,53 @@ LOCATION:乐高探索中心
 DESCRIPTION:乐高探索中心入华十周年特别献礼，以拼搭、陪伴、儿童友好三层价值推出沉浸式“真正的忍者试炼”成长体验，适合2-12岁亲子家庭。\n地点: 乐高探索中心\n时间: 2026-07-08 至 2026-08-31\n详情: https://baijiahao.baidu.com/s?id=1870204363552335825
 END:VEVENT
 BEGIN:VEVENT
-UID:8d8c0e4ec9d19200@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:bb3e8c6c65a928cd@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260731
+SUMMARY:乒乓体验营
+LOCATION:国际乒联博物馆
+DESCRIPTION:7月8日、7月16日、7月30日举办乒乓体验营，适合中小学生参与。\n地点: 国际乒联博物馆\n时间: 2026-07-08 至 2026-07-30
+END:VEVENT
+BEGIN:VEVENT
+UID:29b3f1869d18a3fa@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260901
+SUMMARY:上海天文馆奇妙夜
+LOCATION:上海天文馆
+DESCRIPTION:每周六17:00-20:00开放夜场，球幕影院开放，科普集市、星光音乐会、天文桌游等精彩活动。\n地点: 上海天文馆\n时间: 2026-07-08 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ac20ae7297676183@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260901
+SUMMARY:苏河乘风凉夏季主题航班
+LOCATION:苏州河游船
+DESCRIPTION:萌宠游船、星空晚宴、音乐Live、雅韵茶旅四大特色航线。\n地点: 苏州河游船\n时间: 2026-07-08 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc0fff30af74e5e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260901
+SUMMARY:城市草坪音乐会夏之魅
+LOCATION:上海城市草坪音乐广场
+DESCRIPTION:连演7场的城市草坪音乐会夏之魅，夏日户外音乐盛宴。\n地点: 上海城市草坪音乐广场\n时间: 2026-07-08 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b2bc6f2169e1676f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260901
+SUMMARY:诗韵上海逐景寻诗打卡
+LOCATION:上海全域
+DESCRIPTION:依托旅游节全域文旅地标植入诗词文化元素，边走边打卡集章，品读上海古韵。\n地点: 上海全域\n时间: 2026-07-08 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8c0e4ec9d19200@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20271115
 SUMMARY:世界树之巅：美洲古代文明大展
@@ -805,8 +2083,8 @@ LOCATION:上海博物馆（人民广场馆）
 DESCRIPTION:上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。\n地点: 上海博物馆（人民广场馆）\n时间: 2026-07-09 至 2027-11-14\n详情: http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e7079732c54ff8ce@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e7079732c54ff8ce@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260908
 SUMMARY:肇兴中国：秦·大一统之路文物考古特展
@@ -814,8 +2092,8 @@ LOCATION:上海博物馆（东馆）
 DESCRIPTION:汇集14家考古文博机构510件文物，展现秦代大一统历史。地铁14号线世纪大道站。\n地点: 上海博物馆（东馆）\n时间: 2026-07-09 至 2026-09-07\n详情: http://m.toutiao.com/group/7657908763235451411/
 END:VEVENT
 BEGIN:VEVENT
-UID:f4cc4cc61d2afc93@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f4cc4cc61d2afc93@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20271101
 SUMMARY:雨林探秘：玛雅大冒险（沉浸式体验展）
@@ -823,8 +2101,8 @@ LOCATION:上海博物馆
 DESCRIPTION:上海博物馆携手国内顶级制作团队打造的沉浸式VR体验，作为美洲古代文明大展的重要组成部分。观众佩戴VR设备穿梭于古老雨林与金字塔之间，亲历墨西哥城、奇琴伊察、特奥蒂瓦坎等文化遗产地的昔日辉煌。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-10-31\n详情: https://www.shanghai.gov.cn/nw31406/20260709/6e1e00b160124bfe9f261f2c468ecdba.html
 END:VEVENT
 BEGIN:VEVENT
-UID:fd0ca49f3297bf4a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:fd0ca49f3297bf4a@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20271101
 SUMMARY:飞越马丘比丘：云端印加之旅（沉浸式体验展）
@@ -832,8 +2110,8 @@ LOCATION:上海博物馆
 DESCRIPTION:上海博物馆与全球知名沉浸式体验公司NEON联合打造，以突破性VR技术与360度全动态座椅为载体，带领观众飞越浩瀚安第斯山脉，亲临悬浮于云雾之中的神秘古城马丘比丘。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-10-31\n详情: https://www.shanghai.gov.cn/nw31406/20260709/6e1e00b160124bfe9f261f2c468ecdba.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4b6b5842b671c59c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4b6b5842b671c59c@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260901
 SUMMARY:世界树之巅——美洲古代文明大展
@@ -841,8 +2119,8 @@ LOCATION:上海博物馆
 DESCRIPTION:上海博物馆'博物馆奇妙夜'系列活动，每周二至周五17:00-21:00夜场开放，展出美洲古代文明珍贵文物，感受神秘的美洲文明魅力。\n地点: 上海博物馆\n时间: 2026-07-09 至 2026-08-31\n详情: https://www.shanghaimuseum.net
 END:VEVENT
 BEGIN:VEVENT
-UID:56535a1658c8c1c9@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:56535a1658c8c1c9@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20270201
 SUMMARY:世界树之巅：美洲古代文明大展
@@ -850,8 +2128,35 @@ LOCATION:上海博物馆
 DESCRIPTION:全球史上规模最大的美洲古代文明大展，汇集墨西哥、秘鲁等地1129组近3000件文物，涵盖奥尔梅克、玛雅、阿兹特克与印加文明，适合历史与文博爱好者亲子共赏。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-01-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987
 END:VEVENT
 BEGIN:VEVENT
-UID:143ae5fe7df4fd9a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:993c95e764befb3a@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20271115
+SUMMARY:世界树之巅美洲古代文明大展
+LOCATION:上海博物馆
+DESCRIPTION:上海博物馆继'金字塔之巅'之后又一重磅国际大展，联合墨西哥、秘鲁顶尖文博机构，汇聚近3000件精美文物，全景式勾勒古代中南美洲的文明长卷。\n地点: 上海博物馆\n时间: 2026-07-09 至 2027-11-14
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd3bba28a6fc10c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:美洲古代文明夜场
+LOCATION:上海博物馆
+DESCRIPTION:每周二至周五17:00-21:00开放夜场，让观众在凉爽的夜晚沉浸式感受古代美洲文明。\n地点: 上海博物馆\n时间: 2026-07-09 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:53d43ebd743b2a4a@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260901
+SUMMARY:动物奇妙夜
+LOCATION:上海博物馆
+DESCRIPTION:每周六18:00-21:00举办'动物奇妙夜'主题活动，探索美洲古代文明中的动物元素。\n地点: 上海博物馆\n时间: 2026-07-09 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:143ae5fe7df4fd9a@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海科技馆机器人总动员
@@ -859,8 +2164,26 @@ LOCATION:上海科技馆
 DESCRIPTION:机器人展览、编程工作坊、人工智能体验。\n地点: 上海科技馆\n时间: 2026-07-10 至 2026-08-31\n详情: https://www.sstm.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:fb020a5eb5bbe06a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2ce737867291e19c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:近代名人墨知识讲座
+LOCATION:上海周虎臣曹素功笔墨博物馆
+DESCRIPTION:7月10日17:00-19:00举办《近代名人墨知识》讲座。\n地点: 上海周虎臣曹素功笔墨博物馆\n时间: 2026-07-10 至 2026-07-10
+END:VEVENT
+BEGIN:VEVENT
+UID:2b4acb671cc017c6@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260829
+SUMMARY:墨海楼藏近代名人墨展
+LOCATION:周虎臣曹素功笔墨博物馆
+DESCRIPTION:近代名人墨知识讲座、墨锭鉴赏交流、夜间开放参观。\n地点: 周虎臣曹素功笔墨博物馆\n时间: 2026-07-10 至 2026-08-28
+END:VEVENT
+BEGIN:VEVENT
+UID:fb020a5eb5bbe06a@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260823
 SUMMARY:夜宿上海自然博物馆
@@ -868,8 +2191,8 @@ LOCATION:上海自然博物馆
 DESCRIPTION:博物馆奇妙夜暑期专场，夜宿活动时间为7月11日、7月25日、8月8日、8月22日，17:00至次日7:00，需提前预约购票。\n地点: 上海自然博物馆\n时间: 2026-07-11 至 2026-08-22\n详情: https://www.snhm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:9d67bba95ae8212d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9d67bba95ae8212d@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260901
 SUMMARY:上海博物馆世界树之巅夜场活动
@@ -877,8 +2200,8 @@ LOCATION:上海博物馆
 DESCRIPTION:每周六18:30-21:30举办'世界树之巅：美洲古代文明大展'夜场活动，上海动物园带来水豚、羊驼等美洲动物，结合沉浸式活动和创新表演，感受美洲文化。\n地点: 上海博物馆\n时间: 2026-07-11 至 2026-08-31\n详情: https://www.shanghaimuseum.net
 END:VEVENT
 BEGIN:VEVENT
-UID:79a0fe5b07748e66@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:79a0fe5b07748e66@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20261008
 SUMMARY:从元代水闸到外白渡桥——苏州河历史文化展
@@ -886,8 +2209,35 @@ LOCATION:上海市历史博物馆（上海革命历史博物馆）
 DESCRIPTION:第六届“半马苏河”文化旅游节开幕大展，近200件文物与海量影像、数字交互完整铺展苏州河千年演变，分五篇章讲述上海母亲河故事，适合亲子历史研学。\n地点: 上海市历史博物馆（上海革命历史博物馆）\n时间: 2026-07-11 至 2026-10-07\n详情: https://www.shanghai.gov.cn/nw17239/20260710/d717241e6d304a18a4640c3f6a422cb9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:524e27f06bfa9d85@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:71a1944b760d8c8f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260824
+SUMMARY:虎鲸造浪音乐节
+LOCATION:上海海昌海洋公园
+DESCRIPTION:14位人气大咖助阵，虎鲸造浪音乐节嗨翻全场，暑期夜游必打卡。\n地点: 上海海昌海洋公园\n时间: 2026-07-11 至 2026-08-23
+END:VEVENT
+BEGIN:VEVENT
+UID:8311f1ab4503c8fd@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+SUMMARY:世博会博物馆奇妙夜
+LOCATION:上海世博会博物馆
+DESCRIPTION:周六延时开放至20:00，故宫帝后服饰展夜场、4D电影体验。\n地点: 上海世博会博物馆\n时间: 2026-07-11 至 2026-08-29
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2d28f2c03bf0c4@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:布鲁布鲁冰原历险记
+LOCATION:九棵树未来艺术中心
+DESCRIPTION:沉浸式木偶剧布鲁布鲁之冰原历险记。\n地点: 九棵树未来艺术中心\n时间: 2026-07-12 至 2026-07-12
+END:VEVENT
+BEGIN:VEVENT
+UID:524e27f06bfa9d85@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260720
 SUMMARY:话剧《无墙》
@@ -895,8 +2245,8 @@ LOCATION:上海大剧院
 DESCRIPTION:原创话剧《无墙》，随机世界里的意外相遇。地铁1号线/2号线/8号线人民广场站。\n地点: 上海大剧院\n时间: 2026-07-15 至 2026-07-19\n详情: http://m.toutiao.com/group/7660419048286487086/
 END:VEVENT
 BEGIN:VEVENT
-UID:150a0151ef61896f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:150a0151ef61896f@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260826
 SUMMARY:上海博物馆青铜器探索营
@@ -904,8 +2254,53 @@ LOCATION:上海博物馆
 DESCRIPTION:青铜器鉴赏、文物修复体验、古代工艺学习。\n地点: 上海博物馆\n时间: 2026-07-15 至 2026-08-25\n详情: https://www.shanghaimuseum.net/
 END:VEVENT
 BEGIN:VEVENT
-UID:6b3f04b43a3e11c3@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ec283db0aab9ed3e@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20270101
+SUMMARY:上海地铁博物馆焕新开放
+LOCATION:上海地铁博物馆
+DESCRIPTION:焕新归来，22号线紫金战车模型、AI互动体验区、VR互动、应急避险实训舱。\n地点: 上海地铁博物馆\n时间: 2026-07-15 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c31ca91a73e2e872@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:花样年华音乐电影场
+LOCATION:西岸梦中心水岸剧场
+DESCRIPTION:上海RJ爵士大乐团现场演奏电影主题曲，再看一场浪漫电影花样年华。\n地点: 西岸梦中心水岸剧场\n时间: 2026-07-15 至 2026-07-15
+END:VEVENT
+BEGIN:VEVENT
+UID:54527d58271797d9@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260901
+SUMMARY:绿野仙踪3D多媒体音乐剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:3D多媒体儿童音乐剧绿野仙踪，经典童话全新演绎。\n地点: 保利上海城市剧院\n时间: 2026-07-15 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:7aab87c791c398ee@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260901
+SUMMARY:爱丽丝梦游仙境音乐剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:加拿大多媒体亲子音乐剧爱丽丝梦游仙境中文版。\n地点: 保利上海城市剧院\n时间: 2026-07-15 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:3db84f5abda2aad6@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260901
+SUMMARY:布鲁伊的大宝藏舞台剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:英国BBC正版授权亲子互动舞台剧布鲁伊的大宝藏。\n地点: 保利上海城市剧院\n时间: 2026-07-15 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6b3f04b43a3e11c3@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260720
 SUMMARY:龙马社原创话剧《断金》
@@ -913,8 +2308,8 @@ LOCATION:上海文化广场
 DESCRIPTION:邹静之编剧，张国立、王刚、张铁林主演话剧《断金》。三位老艺术家并肩登台。票价280-1380元。地铁9号线/12号线嘉善路站。\n地点: 上海文化广场\n时间: 2026-07-16 至 2026-07-19\n详情: https://www.shcstheatre.com/program/programlist_easy.aspx
 END:VEVENT
 BEGIN:VEVENT
-UID:4fcfedb7871d1015@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4fcfedb7871d1015@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:少年述史·馆员论典——地方文献与馆藏精品暑期定时导览
@@ -922,8 +2317,26 @@ LOCATION:上海图书馆
 DESCRIPTION:上图东馆推出的暑期定时导览活动，由馆员带领解读地方文献与馆藏精品，面向青少年与亲子家庭，培养历史认知与阅读兴趣，需预约参加。\n地点: 上海图书馆\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.library.sh.cn/activity?tabName=%E5%85%A8%E9%A2%91&dateType=lately
 END:VEVENT
 BEGIN:VEVENT
-UID:ccc6e7d573d110c5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ffe1585640ca7c74@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20261101
+SUMMARY:CHINA白白瓷艺术展
+LOCATION:上海世界技能博物馆
+DESCRIPTION:数十位中国工艺美术大师100余件白瓷艺术瑰宝，德化白瓷最高水平。\n地点: 上海世界技能博物馆\n时间: 2026-07-16 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:10f624ad7a80c61f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260917
+SUMMARY:长安画派与海派绘画展
+LOCATION:上海美术馆中华艺术宫
+DESCRIPTION:赵望云石鲁何海霞方济众刘海粟吴湖帆等名家70余件经典力作。\n地点: 上海美术馆中华艺术宫\n时间: 2026-07-16 至 2026-09-16
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc6e7d573d110c5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260719
 SUMMARY:《陈镇威与朋友们——纽约明星芭蕾之夜》
@@ -931,8 +2344,71 @@ LOCATION:上海大剧院
 DESCRIPTION:纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。\n地点: 上海大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://m.toutiao.com/group/7660419048286487086/
 END:VEVENT
 BEGIN:VEVENT
-UID:6dba43e9f02b5ab5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:19ebf0e2f868caf7@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20261207
+SUMMARY:贾科梅蒂艺术大展
+LOCATION:上海民生现代美术馆
+DESCRIPTION:212件重量级藏品，完整覆盖20世纪传奇艺术家贾科梅蒂创作全周期。\n地点: 上海民生现代美术馆\n时间: 2026-07-17 至 2026-12-06
+END:VEVENT
+BEGIN:VEVENT
+UID:18017a88d46e0c36@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260816
+SUMMARY:熔光凝形铸造玻璃艺术展
+LOCATION:上海琉璃艺术博物馆
+DESCRIPTION:夜游看展，开放时间延长至20:00，欣赏铸造玻璃的艺术叙事。\n地点: 上海琉璃艺术博物馆\n时间: 2026-07-18 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:6de92af8f9123d3c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260802
+SUMMARY:上海汽车博物馆奇妙夜
+LOCATION:上海汽车博物馆
+DESCRIPTION:夜场延至19:30，世界汽车百年发展史公益讲解、避障小车与声控小车手作坊。\n地点: 上海汽车博物馆\n时间: 2026-07-18 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:b9483b9baccc6f45@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260816
+SUMMARY:琉璃艺术博物馆夜游
+LOCATION:上海琉璃艺术博物馆
+DESCRIPTION:熔光凝形铸造玻璃艺术展，周六夜间开放延长至20:00。\n地点: 上海琉璃艺术博物馆\n时间: 2026-07-18 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:cd8e4da2748740e0@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20261019
+SUMMARY:玻璃应力威尼斯狂欢展
+LOCATION:上海久事美术馆
+DESCRIPTION:全球近20个国家约50位艺术家参展，玻璃材料的抵抗合作与联结。\n地点: 上海久事美术馆\n时间: 2026-07-18 至 2026-10-18
+END:VEVENT
+BEGIN:VEVENT
+UID:1c17770d6bb38db4@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20261026
+SUMMARY:陈世英他界之器展
+LOCATION:龙美术馆西岸馆
+DESCRIPTION:三件巨型钛金属雕塑为核心，梳理陈世英钛金属雕塑创作脉络。\n地点: 龙美术馆西岸馆\n时间: 2026-07-18 至 2026-10-25
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff316fbe2ff8bc3@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260803
+SUMMARY:大宁公园荷花游园会
+LOCATION:大宁公园
+DESCRIPTION:花开夏时荷夜未央主题游园会，全程免票，每周末设夜游专场。\n地点: 大宁公园\n时间: 2026-07-18 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:6dba43e9f02b5ab5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260821
 SUMMARY:上海自然博物馆夜宿奇妙夜
@@ -940,8 +2416,8 @@ LOCATION:上海自然博物馆
 DESCRIPTION:夜宿博物馆，探索自然奥秘，参与化石挖掘体验。\n地点: 上海自然博物馆\n时间: 2026-07-20 至 2026-08-20\n详情: https://www.snhm.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:791118d9073416e0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:791118d9073416e0@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
 SUMMARY:2026《华人之光·芭蕾明星GALA》
@@ -949,8 +2425,53 @@ LOCATION:上海大剧院
 DESCRIPTION:汇聚陈镇威、方仲静等海外知名院团华人芭蕾舞者的专业品牌演出，登陆上海大剧院大剧场，适合芭蕾与舞蹈爱好者及亲子艺术欣赏。\n地点: 上海大剧院\n时间: 2026-07-25 至 2026-07-26\n详情: https://mp.weixin.qq.com/s?__biz=MzA5Njc1MzkxMw==&mid=2649913106&idx=1&sn=48f218d9dc2989bb7ceb9c36b50b92dc&chksm=89d4fd9a3defcb589ce61de5b5e2c3e68fe6af2b471e1d929a3121b9c8a7b297cfe07321a0ee&scene=27
 END:VEVENT
 BEGIN:VEVENT
-UID:190942621d8d1d04@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:cec8f3de584a50b2@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:电影党课火种
+LOCATION:中共一大纪念馆
+DESCRIPTION:7月25日17:00-20:00播放电影党课《火种》，学习革命历史。\n地点: 中共一大纪念馆\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:4eeee789f64cd0ef@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:中国汽车拓疆者饶斌特展
+LOCATION:上海汽车博物馆
+DESCRIPTION:饶斌特展公益讲解，了解中国汽车工业拓荒者的故事。\n地点: 上海汽车博物馆\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0564aae3bc4d93@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260802
+SUMMARY:真静传统木作博物馆夜游
+LOCATION:上海真静传统木作博物馆
+DESCRIPTION:夜间展厅免费参观，体验木作工具，木作制作课筷子手镯书签鲁班锁。\n地点: 上海真静传统木作博物馆\n时间: 2026-07-25 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5daa5372192310@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:唐诗迷境寻诗历险记
+LOCATION:九棵树未来艺术中心
+DESCRIPTION:奇幻探险亲子舞台剧唐诗迷境寻诗历险记。\n地点: 九棵树未来艺术中心\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1a9f4d2e55453f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:魔艺总动员魔术秀
+LOCATION:九棵树未来艺术中心
+DESCRIPTION:魔艺总动员魔都双星魔术秀，亲子魔术互动表演。\n地点: 九棵树未来艺术中心\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:190942621d8d1d04@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260802
 SUMMARY:音乐剧《粉丝来信》中文版
@@ -958,8 +2479,17 @@ LOCATION:上海文化广场
 DESCRIPTION:音乐剧《粉丝来信》中文版，八轮演出口碑之作。票价80-680元。地铁9号线/12号线嘉善路站。\n地点: 上海文化广场\n时间: 2026-07-30 至 2026-08-01\n详情: https://www.shcstheatre.com/program/programlist_easy.aspx
 END:VEVENT
 BEGIN:VEVENT
-UID:db419350050ef75a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:95301af2da0dd1c9@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:上海儿童剧奥特传奇
+LOCATION:九棵树未来艺术中心
+DESCRIPTION:圆谷正版授权奥特曼系列舞台剧奥特传奇第3部外星生物来袭。\n地点: 九棵树未来艺术中心\n时间: 2026-08-08 至 2026-08-08
+END:VEVENT
+BEGIN:VEVENT
+UID:db419350050ef75a@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260819
 SUMMARY:2026上海书展暨“书香中国”上海周
@@ -967,8 +2497,8 @@ LOCATION:上海展览中心
 DESCRIPTION:上海展览中心与上海书城双主场，早9点至晚9点全天开放，约380家出版机构参展，全市设分会场，适合亲子阅读与青少年购书研学。\n地点: 上海展览中心\n时间: 2026-08-12 至 2026-08-18\n详情: https://new.qq.com/rain/a/20260714A05FMC00
 END:VEVENT
 BEGIN:VEVENT
-UID:71dcbd509bccbeb5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:71dcbd509bccbeb5@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260831
 SUMMARY:音乐剧《大状王》
@@ -976,8 +2506,26 @@ LOCATION:上海文化广场
 DESCRIPTION:粤语音乐剧《大状王》回归上海文化广场2026年度演出季，以荒诞诙谐方式讲述民间状师故事，适合音乐剧爱好者与亲子家庭观演。\n地点: 上海文化广场\n时间: 2026-08-14 至 2026-08-30\n详情: https://baijiahao.baidu.com/s?id=1861088201811952470
 END:VEVENT
 BEGIN:VEVENT
-UID:4ff725d53f00e7b4@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1926855094c8b4fe@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:屁屁侦探儿童剧
+LOCATION:九棵树未来艺术中心
+DESCRIPTION:东映原版动漫舞台剧屁屁侦探之怪盗U对怪盗U。\n地点: 九棵树未来艺术中心\n时间: 2026-08-16 至 2026-08-16
+END:VEVENT
+BEGIN:VEVENT
+UID:0537395b9b9e8a65@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+SUMMARY:红舞鞋法语原版音乐剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:法语原版音乐剧红舞鞋首次来华，长三角仅此一站，法国金牌团队打造。\n地点: 保利上海城市剧院\n时间: 2026-08-21 至 2026-08-23
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff725d53f00e7b4@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270201
 SUMMARY:金冠之下：新罗文物精华展
@@ -985,8 +2533,8 @@ LOCATION:上海博物馆
 DESCRIPTION:上博与韩国国立庆州博物馆携手呈现，围绕黄金文化、佛教艺术与对外交流三大主题展出256件新罗文物，新罗金冠尤为瞩目，适合东亚文化爱好者。\n地点: 上海博物馆\n时间: 2026-09-01 至 2027-01-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987
 END:VEVENT
 BEGIN:VEVENT
-UID:5337cf3b62fa08a8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5337cf3b62fa08a8@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270201
 SUMMARY:来自喜马拉雅的瑰宝：西藏萨迦文物精品展
@@ -994,8 +2542,26 @@ LOCATION:上海博物馆
 DESCRIPTION:甄选萨迦寺珍藏唐卡、雕像、经书、法器等文物，绝大多数首次离开萨迦寺，展现藏传佛教艺术与汉藏交融历史，适合民族与宗教艺术爱好者。\n地点: 上海博物馆\n时间: 2026-09-01 至 2027-01-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987
 END:VEVENT
 BEGIN:VEVENT
-UID:d33d7bd44d045b26@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:3b116a72c3d64fc3@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261001
+SUMMARY:天山雪杂技剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:杂技剧天山雪，70多年沪疆情谊，20多个高难度杂技节目。\n地点: 保利上海城市剧院\n时间: 2026-09-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9234d74f4c7a38@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261102
+SUMMARY:上海迪士尼乐园秋季
+LOCATION:上海迪士尼乐园
+DESCRIPTION:秋季特别活动，万圣节前奏，秋日装饰。\n地点: 上海迪士尼乐园\n时间: 2026-09-01 至 2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+UID:d33d7bd44d045b26@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260904
 SUMMARY:《来自三伯爵的请柬》音乐会
@@ -1003,8 +2569,71 @@ LOCATION:上海文化广场
 DESCRIPTION:上海文化广场2026年度演出季中的音乐会板块，以典雅室内乐呈现，适合古典音乐爱好者与亲子艺术启蒙家庭前往聆听。\n地点: 上海文化广场\n时间: 2026-09-02 至 2026-09-03\n详情: https://baijiahao.baidu.com/s?id=1861088201811952470
 END:VEVENT
 BEGIN:VEVENT
-UID:35ffe560b4490d87@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5d8988a215176064@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:朱自清舞剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:舞剧朱自清，致敬一代知识分子的精神与风骨。\n地点: 保利上海城市剧院\n时间: 2026-09-12 至 2026-09-12
+END:VEVENT
+BEGIN:VEVENT
+UID:02591ece796d50fe@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260926
+SUMMARY:玉蜻蜓越剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:越剧诞生120周年，王君安领衔主演越剧传统老戏玉蜻蜓。\n地点: 保利上海城市剧院\n时间: 2026-09-24 至 2026-09-25
+END:VEVENT
+BEGIN:VEVENT
+UID:09df9c51d6032104@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:何文秀越剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:尹派经典剧目何文秀，越剧名家王君安主演。\n地点: 保利上海城市剧院\n时间: 2026-09-25 至 2026-09-25
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1591902311432c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:骆驼祥子话剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:老舍经典话剧骆驼祥子，讲述北平底层众生相。\n地点: 保利上海城市剧院\n时间: 2026-10-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ef3fb42a2cf481@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261112
+SUMMARY:上海迪士尼万圣节
+LOCATION:上海迪士尼乐园
+DESCRIPTION:迪士尼万圣节特别活动，唐式南瓜节，反派巡游，不给糖就捣蛋。\n地点: 上海迪士尼乐园\n时间: 2026-10-01 至 2026-11-11
+END:VEVENT
+BEGIN:VEVENT
+UID:aa898b35a591e86c@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:上海欢乐谷国潮节
+LOCATION:上海欢乐谷
+DESCRIPTION:国庆国潮主题，传统与现代融合，国风演出。\n地点: 上海欢乐谷\n时间: 2026-10-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2e714cd6a4623ed4@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261112
+SUMMARY:上海欢乐谷万圣节
+LOCATION:上海欢乐谷
+DESCRIPTION:万圣节惊魂夜，鬼屋探险，夜间巡游。\n地点: 上海欢乐谷\n时间: 2026-10-15 至 2026-11-11
+END:VEVENT
+BEGIN:VEVENT
+UID:35ffe560b4490d87@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270601
 SUMMARY:环宇璀璨：大都会艺术博物馆珠宝珍藏展
@@ -1012,12 +2641,93 @@ LOCATION:上海博物馆
 DESCRIPTION:上博与纽约大都会艺术博物馆共同主办，汇聚192件大都会珠宝艺术珍品，纵贯古今、横跨五大洲文明，为中国大陆唯一一站，适合艺术与工艺爱好者。\n地点: 上海博物馆\n时间: 2026-11-01 至 2027-05-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987
 END:VEVENT
 BEGIN:VEVENT
-UID:c598cfa15bf5bb92@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e99cba4c64088c1f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:彩虹的尽头舞台剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:上海话剧艺术中心制作舞台剧彩虹的尽头，朱迪嘉兰的人生故事。\n地点: 保利上海城市剧院\n时间: 2026-11-15 至 2026-11-15
+END:VEVENT
+BEGIN:VEVENT
+UID:9bfa2c6ca1c0660f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20270104
+SUMMARY:上海迪士尼圣诞节
+LOCATION:上海迪士尼乐园
+DESCRIPTION:圣诞季特别活动，圣诞装饰，节日演出，冰雪奇缘。\n地点: 上海迪士尼乐园\n时间: 2026-11-20 至 2027-01-03
+END:VEVENT
+BEGIN:VEVENT
+UID:c598cfa15bf5bb92@goout-shanghai
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270401
 SUMMARY:大音希声：八大山人诞辰400周年书画艺术大展
 LOCATION:上海博物馆
 DESCRIPTION:全球最大规模八大山人大展，集结上博、故宫及美、日等20余家机构约180件作品，系统呈现其水墨大写意成就，适合中国书画与艺术史爱好者。\n地点: 上海博物馆\n时间: 2026-12-01 至 2027-03-31\n详情: https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987
+END:VEVENT
+BEGIN:VEVENT
+UID:6370b0b3ed9e1c44@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+SUMMARY:天鹅湖芭蕾舞剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:经典芭蕾舞剧天鹅湖，芭蕾皇冠上最璀璨的钻石。\n地点: 保利上海城市剧院\n时间: 2026-12-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed477181919b77b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+SUMMARY:胡桃夹子芭蕾舞剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:经典芭蕾舞剧胡桃夹子，圣诞季必看经典。\n地点: 保利上海城市剧院\n时间: 2026-12-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e482bf801cc36f0b@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+SUMMARY:吉赛尔芭蕾舞剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:芭蕾舞剧吉赛尔，芭蕾水准的黄金标尺，浪漫芭蕾代表作。\n地点: 保利上海城市剧院\n时间: 2026-12-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5629f64ca278109f@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+SUMMARY:谋杀派对悬疑话剧
+LOCATION:保利上海城市剧院
+DESCRIPTION:阿加莎克里斯蒂悬疑话剧谋杀派对，侦探小说女王作品。\n地点: 保利上海城市剧院\n时间: 2026-12-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:219e9fe67f2e45ab@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270301
+SUMMARY:上海欢乐谷跨年灯会
+LOCATION:上海欢乐谷
+DESCRIPTION:跨年灯会，万盏彩灯，非遗花灯，新年氛围。\n地点: 上海欢乐谷\n时间: 2026-12-01 至 2027-02-28
+END:VEVENT
+BEGIN:VEVENT
+UID:35414f54f96fa769@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270301
+SUMMARY:上海迪士尼新春
+LOCATION:上海迪士尼乐园
+DESCRIPTION:农历新年特别活动，新春装饰，年味儿演出，米奇拜年。\n地点: 上海迪士尼乐园\n时间: 2027-01-20 至 2027-02-28
+END:VEVENT
+BEGIN:VEVENT
+UID:f2db69bdfee082db@goout-shanghai
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270301
+SUMMARY:上海欢乐谷春节灯会
+LOCATION:上海欢乐谷
+DESCRIPTION:新春灯会，自贡花灯，年味十足。\n地点: 上海欢乐谷\n时间: 2027-01-20 至 2027-02-28
 END:VEVENT
 END:VCALENDAR
