@@ -1,0 +1,189 @@
+<!-- 童行小程序 - 活动列表页 -->
+<view class="page">
+
+  <!-- 加载状态 -->
+  <view wx:if="{{loading}}" class="loading-mask">
+    <view class="loading-spinner"></view>
+    <text class="loading-text">正在加载最新活动数据...</text>
+  </view>
+
+  <!-- 搜索框 -->
+  <view class="search-bar">
+    <view class="search-wrapper">
+      <image class="search-icon" src="/assets/search-icon.png" mode="aspectFit" />
+      <input class="search-input" type="text" placeholder="搜索活动名称、地点..." value="{{searchQuery}}" bindinput="onSearchInput" confirm-type="search" />
+      <image wx:if="{{searchQuery}}" class="search-clear-img" src="/assets/search-clear.png" mode="aspectFit" bindtap="onClearSearch" />
+    </view>
+    <view class="refresh-btn {{refreshing ? 'spinning' : ''}}" bindtap="onRefreshTap">
+      <image class="refresh-icon-img" src="/assets/refresh-icon.png" mode="aspectFit" />
+    </view>
+  </view>
+
+  <!-- 数据更新时间 -->
+  <view wx:if="{{lastUpdateText}}" class="update-info">
+    {{lastUpdateText}}
+  </view>
+
+  <!-- 城市筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">城市</view>
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{cities}}" wx:key="key"
+          class="filter-btn {{cityFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onCityTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 时间筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">时间筛选</view>
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{timeFilters}}" wx:key="key"
+          class="filter-btn {{timeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTimeTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 亲子筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">亲子筛选</view>
+    <view class="filter-bar">
+      <view wx:for="{{familyFilters}}" wx:key="key"
+        class="filter-btn {{familyFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+        data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onFamilyTap">
+        {{item.name}}
+      </view>
+    </view>
+  </view>
+
+  <!-- 类型筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">类型筛选</view>
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{typeFilters}}" wx:key="key"
+          class="filter-btn {{typeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTypeTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 区县筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">区县</view>
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{districts}}" wx:key="name"
+          class="filter-btn {{(item.name === '全部区县' && districtFilter === 'all') || districtFilter === item.name ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-name="{{item.name}}" data-disabled="{{item.disabled}}" bindtap="onDistrictTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 地点筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">地点</view>
+    <!-- 收起状态：横向滚动，只显示前8个 -->
+    <scroll-view wx:if="{{!showAllSources}}" scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar filter-bar-inline">
+        <view wx:for="{{displayVenues}}" wx:key="key"
+          class="filter-btn {{sourceFilter === item.key ? 'active' : ''}}"
+          data-key="{{item.key}}" bindtap="onSourceTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+    <!-- 展开状态：自动换行，显示全部 -->
+    <view wx:else class="filter-bar filter-bar-wrap">
+      <view wx:for="{{venues}}" wx:key="key"
+        class="filter-btn {{sourceFilter === item.key ? 'active' : ''}}"
+        data-key="{{item.key}}" bindtap="onSourceTap">
+        {{item.name}}
+      </view>
+    </view>
+    <view wx:if="{{venues.length > 8}}" class="expand-toggle" bindtap="toggleSourceList">
+      {{showAllSources ? '收起 ↑' : '展开更多 ▼'}}
+    </view>
+  </view>
+
+  <!-- 费用筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">收费筛选</view>
+    <view class="filter-bar">
+      <view wx:for="{{feeFilters}}" wx:key="key"
+        class="filter-btn {{feeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+        data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onFeeTap">
+        {{item.name}}
+      </view>
+    </view>
+  </view>
+
+  <!-- 统计信息 -->
+  <view class="count-info">
+    共 {{totalCount}} 个活动{{totalPages > 1 ? '（第 ' + currentPage + '/' + totalPages + ' 页）' : ''}}
+  </view>
+
+  <!-- 活动列表 -->
+  <view class="activity-list" wx:if="{{pageItems.length > 0}}">
+    <block wx:for="{{pageItems}}" wx:key="cardId" wx:for-item="item" wx:for-index="idx">
+      <!-- 月份分隔 -->
+      <view wx:if="{{idx === 0}}" class="month-divider">{{item.monthLabel}}</view>
+
+      <view class="activity-card" data-id="{{item.cardId}}" bindtap="onCardTap">
+        <!-- 日期 badge -->
+        <view wx:if="{{item.dateBadge === 'today'}}" class="date-badge today-badge">今天</view>
+        <view wx:if="{{item.dateBadge === 'tomorrow'}}" class="date-badge tomorrow-badge">明天</view>
+        <view wx:if="{{item.dateBadge === 'upcoming'}}" class="date-badge upcoming-badge">即将开始</view>
+
+        <!-- 标题和 badge -->
+        <view class="card-header">
+          <view class="card-title">{{item.name}}</view>
+          <view class="card-badges">
+            <text class="badge badge-type">{{item.activityType}}</text>
+            <text wx:if="{{item.feeType === 'free'}}" class="badge badge-free">免费</text>
+            <text wx:if="{{item.feeType === 'paid'}}" class="badge badge-paid">收费</text>
+            <text wx:if="{{item.family_friendly === true && item.activityType !== '亲子活动'}}" class="badge badge-family">👶 适合亲子</text>
+          </view>
+        </view>
+
+        <!-- 活动信息 -->
+        <view class="card-meta">
+          <view class="meta-item">📅 {{item.dateDisplay}}</view>
+          <view class="meta-item">⏱️ {{item.duration}}</view>
+          <view class="meta-item">📍 {{item.venue}}</view>
+        </view>
+
+        <!-- 描述 -->
+        <view class="card-desc">{{item.description || '暂无详细介绍'}}</view>
+        <view class="card-link">点击查看详情 →</view>
+      </view>
+    </block>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty-state" wx:if="{{pageItems.length === 0 && !loading}}">
+    <view class="empty-icon">📭</view>
+    <view class="empty-text">该筛选条件下暂无活动</view>
+    <view class="empty-hint">试试其他筛选条件</view>
+  </view>
+
+  <!-- 分页 -->
+  <view class="pagination" wx:if="{{totalPages > 1}}">
+    <view class="page-btn {{currentPage <= 1 ? 'disabled' : ''}}" bindtap="onPrevPage">上一页</view>
+    <view class="page-info">{{currentPage}} / {{totalPages}}</view>
+    <view class="page-btn {{currentPage >= totalPages ? 'disabled' : ''}}" bindtap="onNextPage">下一页</view>
+  </view>
+
+</view>

@@ -1,0 +1,97 @@
+<!-- 童行小程序 - 活动详情页 -->
+<view class="detail-page" wx:if="{{activity}}">
+
+  <!-- 标题区 -->
+  <view class="detail-header">
+    <view class="detail-title">{{activity.name}}</view>
+    <view class="detail-badges">
+      <text class="badge badge-type">{{activityType}}</text>
+      <text wx:if="{{feeType === 'free'}}" class="badge badge-free">免费</text>
+      <text wx:if="{{feeType === 'paid'}}" class="badge badge-paid">收费</text>
+      <text wx:if="{{activity.family_friendly === true && activityType !== '亲子活动'}}" class="badge badge-family">👶 适合亲子</text>
+    </view>
+  </view>
+
+  <!-- 信息卡片 -->
+  <view class="info-card">
+    <view class="info-row">
+      <view class="info-label">📅 时间</view>
+      <view class="info-value">{{dateDisplay}}</view>
+    </view>
+    <view class="info-row">
+      <view class="info-label">📍 地点</view>
+      <view class="info-value">{{activity.venue}}</view>
+    </view>
+    <view wx:if="{{venueAddress}}" class="info-row">
+      <view class="info-label">🏠 地址</view>
+      <view class="info-value">{{venueAddress}}</view>
+    </view>
+    <view class="info-row">
+      <view class="info-label">⏱️ 时长</view>
+      <view class="info-value">{{duration}}</view>
+    </view>
+    <view wx:if="{{activity.source}}" class="info-row">
+      <view class="info-label">📊 来源</view>
+      <view class="info-value">{{activity.source}}</view>
+    </view>
+  </view>
+
+  <!-- 场馆介绍 -->
+  <view class="venue-intro-card" wx:if="{{hasVenue}}" bindtap="onVenueTap">
+    <view class="intro-header">
+      <view class="intro-title">🏛️ 场馆介绍</view>
+      <view class="intro-more">详情 →</view>
+    </view>
+    <view class="intro-name">{{venue.name}}</view>
+    <view wx:if="{{venue.address}}" class="intro-row">📍 {{venue.address}}</view>
+    <view wx:if="{{venue.transport}}" class="intro-row">🚇 {{venue.transport}}</view>
+    <view wx:if="{{venue.description}}" class="intro-desc">{{venue.description}}</view>
+    <view class="intro-highlights" wx:if="{{hasHighlights}}">
+      <view wx:for="{{venue.highlights}}" wx:key="*this" class="intro-tag">{{item}}</view>
+    </view>
+  </view>
+
+  <view class="venue-intro-card muted" wx:if="{{!hasVenue && activity.venue}}">
+    <view class="intro-header">
+      <view class="intro-title">🏛️ 场馆介绍</view>
+    </view>
+    <view class="intro-name">{{activity.venue}}</view>
+    <view class="intro-desc">该场馆暂无详细介绍，你可以先去逛逛，或向我们反馈补充。</view>
+    <view class="intro-actions">
+      <button class="intro-btn" bindtap="onGoVenues">查看场馆指南</button>
+      <button class="intro-btn secondary" open-type="feedback">反馈补充</button>
+    </view>
+  </view>
+
+  <!-- 活动介绍 -->
+  <view class="desc-card" wx:if="{{activity.description}}">
+    <view class="desc-title">📝 活动介绍</view>
+    <view class="desc-content">{{activity.description}}</view>
+  </view>
+
+  <!-- 原始链接 -->
+  <view class="link-section" wx:if="{{showLink}}">
+    <button class="link-btn" bindtap="onCopyLink">🔗 复制原始活动链接</button>
+    <view class="link-hint">复制后在浏览器中打开查看官方详情</view>
+  </view>
+
+  <!-- 活动提醒 -->
+  <view class="remind-section">
+    <view class="remind-card {{hasReminded ? 'reminded' : ''}}" bindtap="onRemindTap">
+      <view class="remind-icon">{{hasReminded ? '✅' : '🔔'}}</view>
+      <view class="remind-text">
+        <view class="remind-title">{{hasReminded ? '已设置提醒' : '提醒我'}}</view>
+        <view class="remind-desc">{{hasReminded ? '活动前1天将通过微信通知你' : '活动开始前1天微信通知你'}}</view>
+      </view>
+      <view class="remind-arrow">{{hasReminded ? '✓' : '→'}}</view>
+    </view>
+  </view>
+
+  <!-- 联系信息 -->
+  <view class="contact-section" wx:if="{{activity.contact}}">
+    <view class="contact-title">📞 联系信息</view>
+    <view class="contact-info">电话：{{activity.contact}}</view>
+  </view>
+
+  <view style="height: 60rpx;"></view>
+</view>

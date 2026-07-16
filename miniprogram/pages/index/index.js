@@ -1,0 +1,343 @@
+const { cities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity } = require('../../data/filters.js');
+const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, getPresentDistricts, matchSource, normalizeCity } = require('../../utils/helpers.js');
+
+const PAGE_SIZE = 20;
+const app = getApp();
+
+Page({
+  data: {
+    cities,
+    timeFilters,
+    familyFilters,
+    typeFilters,
+    feeFilters,
+    districts: [],
+    venues: [],
+    displayVenues: [],
+
+    // 当前筛选状态
+    cityFilter: 'shenzhen',
+    timeFilter: 'upcoming',
+    familyFilter: 'family',
+    typeFilter: 'all',
+    districtFilter: 'all',
+    sourceFilter: 'all',
+    feeFilter: 'all',
+    searchQuery: '',
+
+    // 展示数据
+    displayItems: [],
+    totalCount: 0,
+    currentPage: 1,
+    totalPages: 1,
+    pageItems: [],
+    pageSize: PAGE_SIZE,
+
+    // 筛选可用性
+    showAllSources: false,
+    loading: false,
+    refreshing: false,
+    lastUpdateText: ''
+  },
+
+  onLoad() {
+    const self = this;
+    this.updateDistrictsAndVenues();
+    this.updateLastUpdateText();
+    // 等待数据准备完成后加载
+    app.onReady(function() {
+      self.loadData();
+      self.updateLastUpdateText();
+    });
+    // 后台静默更新到最新数据后，自动刷新列表（用户无感）
+    app.onDataUpdated(function() {
+      self.loadData();
+      self.updateDistrictsAndVenues();
+      self.updateLastUpdateText();
+    });
+  },
+
+  onShow() {
+    // 如果从详情页返回，不需要重新加载
+  },
+
+  onPullDownRefresh() {
+    this.doRefresh(true);
+  },
+
+  // 点击刷新按钮
+  onRefreshTap() {
+    if (this.data.refreshing) return;
+    this.doRefresh(false);
+  },
+
+  // 统一刷新逻辑：委托 app.js 拉取最新数据并写缓存
+  doRefresh(isPullDown) {
+    const self = this;
+    if (this.data.refreshing) return;
+    this.setData({ refreshing: true });
+
+    app.forceRefresh(function(success) {
+      self.loadData();
+      self.updateDistrictsAndVenues();
+      self.updateLastUpdateText();
+      self.setData({ refreshing: false });
+      if (isPullDown) wx.stopPullDownRefresh();
+      wx.showToast({
+        title: success ? '数据已更新' : '网络不给力',
+        icon: success ? 'success' : 'none'
+      });
+    });
+  },
+
+  // 显示数据更新时间
+  updateLastUpdateText() {
+    const cacheTime = wx.getStorageSync('goout_exhibitions_cache_time') || 0;
+    if (!cacheTime) {
+      this.setData({ lastUpdateText: '' });
+      return;
+    }
+    const now = Date.now();
+    const diff = now - cacheTime;
+    let text = '';
+    if (diff < 60000) {
+      text = '刚刚更新';
+    } else if (diff < 3600000) {
+      text = Math.floor(diff / 60000) + '分钟前更新';
+    } else if (diff < 86400000) {
+      text = Math.floor(diff / 3600000) + '小时前更新';
+    } else {
+      text = Math.floor(diff / 86400000) + '天前更新';
+    }
+    this.setData({ lastUpdateText: '📋 ' + text + ' · 共 ' + (app.globalData.exhibitions || []).length + ' 条活动' });
+  },
+
+  // 更新区县和场馆列表
+  updateDistrictsAndVenues() {
+    const city = this.data.cityFilter;
+    const allVenues = venuesByCity[city] || [];
+    const displayVenues = this.data.showAllSources
+      ? allVenues
+      : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
+    const rawDistricts = getPresentDistricts(city, app.globalData.exhibitions || []);
+    const districts = rawDistricts.map(function(d) {
+      return { name: d, disabled: false };
+    });
+    this.setData({
+      districts: districts,
+      venues: allVenues,
+      displayVenues: displayVenues
+    });
+  },
+
+  loadData() {
+    const filters = {
+      city: this.data.cityFilter,
+      time: this.data.timeFilter,
+      family: this.data.familyFilter,
+      type: this.data.typeFilter,
+      district: this.data.districtFilter,
+      source: this.data.sourceFilter,
+      fee: this.data.feeFilter,
+      search: this.data.searchQuery
+    };
+
+    const allExhibitions = app.globalData.exhibitions || [];
+    const filtered = getFilteredExhibitions(allExhibitions, filters);
+    filtered.sort(function(a, b) { return a.start_date.localeCompare(b.start_date); });
+
+    const displayItems = buildDisplayItems(filtered);
+    const totalPages = Math.ceil(displayItems.length / PAGE_SIZE) || 1;
+
+    this.setData({
+      displayItems: displayItems,
+      totalCount: displayItems.length,
+      totalPages: totalPages,
+      currentPage: 1,
+      pageItems: displayItems.slice(0, PAGE_SIZE),
+      loading: false
+    });
+
+    this.updateFilterAvailability(filtered);
+  },
+
+  // 检查筛选器是否有结果
+  updateFilterAvailability(filtered) {
+    const self = this;
+    const baseFilters = {
+      city: this.data.cityFilter,
+      time: this.data.timeFilter,
+      family: this.data.familyFilter,
+      type: this.data.typeFilter,
+      district: this.data.districtFilter,
+      source: this.data.sourceFilter,
+      fee: this.data.feeFilter,
+      search: this.data.searchQuery
+    };
+
+    function checkResult(type, testValue) {
+      const testFilters = Object.assign({}, baseFilters);
+      if (type === 'city') {
+        testFilters.city = testValue;
+        testFilters.district = 'all';
+        testFilters.source = 'all';
+      } else {
+        testFilters[type] = testValue;
+      }
+      const allExhibitions = app.globalData.exhibitions || [];
+      return getFilteredExhibitions(allExhibitions, testFilters).length > 0;
+    }
+
+    const citiesAvail = this.data.cities.map(function(c) {
+      return Object.assign({}, c, { disabled: !checkResult('city', c.key) && c.key !== self.data.cityFilter });
+    });
+
+    const timeAvail = this.data.timeFilters.map(function(t) {
+      return Object.assign({}, t, { disabled: !checkResult('time', t.key) && t.key !== self.data.timeFilter });
+    });
+
+    const typeAvail = this.data.typeFilters.map(function(t) {
+      return Object.assign({}, t, { disabled: !checkResult('type', t.key) && t.key !== self.data.typeFilter });
+    });
+
+    const feeAvail = this.data.feeFilters.map(function(f) {
+      return Object.assign({}, f, { disabled: !checkResult('fee', f.key) && f.key !== self.data.feeFilter });
+    });
+
+    const familyAvail = this.data.familyFilters.map(function(f) {
+      return Object.assign({}, f, { disabled: !checkResult('family', f.key) && f.key !== self.data.familyFilter });
+    });
+
+    const districtsAvail = (this.data.districts || []).map(function(d) {
+      const name = d.name || d;
+      return { name: name, disabled: name !== '全部区县' && !checkResult('district', name) && name !== self.data.districtFilter };
+    });
+
+    this.setData({
+      cities: citiesAvail,
+      timeFilters: timeAvail,
+      typeFilters: typeAvail,
+      feeFilters: feeAvail,
+      familyFilters: familyAvail,
+      districts: districtsAvail
+    });
+  },
+
+  // 事件处理
+  onCityTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const city = e.currentTarget.dataset.key;
+    if (city === this.data.cityFilter) return;
+
+    this.setData({
+      cityFilter: city,
+      districtFilter: 'all',
+      sourceFilter: 'all',
+      currentPage: 1
+    });
+    this.updateDistrictsAndVenues();
+    this.loadData();
+  },
+
+  onTimeTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.timeFilter) return;
+    this.setData({ timeFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onFamilyTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.familyFilter) return;
+    this.setData({ familyFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onTypeTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.typeFilter) return;
+    this.setData({ typeFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onDistrictTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const name = e.currentTarget.dataset.name;
+    const district = name === '全部区县' ? 'all' : name;
+    if (district === this.data.districtFilter) return;
+    this.setData({ districtFilter: district, sourceFilter: 'all', currentPage: 1 });
+    this.loadData();
+  },
+
+  onSourceTap(e) {
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.sourceFilter) return;
+    this.setData({ sourceFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onFeeTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.feeFilter) return;
+    this.setData({ feeFilter: key, currentPage: 1 });
+    this.loadData();
+  },
+
+  onSearchInput(e) {
+    this.setData({ searchQuery: e.detail.value, currentPage: 1 });
+    if (this._searchTimer) clearTimeout(this._searchTimer);
+    this._searchTimer = setTimeout(this.loadData.bind(this), 300);
+  },
+
+  onClearSearch() {
+    this.setData({ searchQuery: '', currentPage: 1 });
+    this.loadData();
+  },
+
+  toggleSourceList() {
+    const showAll = !this.data.showAllSources;
+    const allVenues = this.data.venues;
+    const displayVenues = showAll
+      ? allVenues
+      : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
+    this.setData({ showAllSources: showAll, displayVenues: displayVenues });
+  },
+
+  onPrevPage() {
+    if (this.data.currentPage <= 1) return;
+    const page = this.data.currentPage - 1;
+    this.setData({
+      currentPage: page,
+      pageItems: this.data.displayItems.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+    });
+    wx.pageScrollTo({ scrollTop: 0, duration: 200 });
+  },
+
+  onNextPage() {
+    if (this.data.currentPage >= this.data.totalPages) return;
+    const page = this.data.currentPage + 1;
+    this.setData({
+      currentPage: page,
+      pageItems: this.data.displayItems.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+    });
+    wx.pageScrollTo({ scrollTop: 0, duration: 200 });
+  },
+
+  onCardTap(e) {
+    const id = e.currentTarget.dataset.id;
+    wx.navigateTo({
+      url: '/pages/detail/detail?id=' + encodeURIComponent(id)
+    });
+  },
+
+  onShareAppMessage() {
+    return {
+      title: '童行 - 全国亲子活动日历',
+      path: '/pages/index/index'
+    };
+  }
+});
