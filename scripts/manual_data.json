@@ -13928,5 +13928,33 @@
     "source": "南方都市报",
     "city": "shenzhen",
     "district": "福田区"
+  },
+  {
+    "title": "北京人艺话剧《寻找春柳社》",
+    "venue": "光明文化艺术中心·演艺中心·音乐厅",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "北京人艺倾情演出，以戏中戏结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明文化艺术中心",
+    "city": "shenzhen"
+  },
+  {
+    "title": "国风儿童剧《少年诗词游之李白》",
+    "venue": "欢乐海岸艺术中心剧场",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "link": "https://m.sohu.com/a/1037850628_122892870/",
+    "description": "诗词大会式的国风儿童剧，带孩子走进诗仙李白的世界，寓教于乐。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "欢乐海岸艺术中心",
+    "city": "shenzhen"
   }
 ]
