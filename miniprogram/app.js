@@ -14,11 +14,11 @@ const REMOTE_VENUE_URL = 'https://raw.githubusercontent.com/islon/goout/main/out
 // 城市列表：同时驱动筛选 UI 与取数（单一事实来源）
 const { cities } = require('./data/filters.js');
 
-// 缓存 key
-const CACHE_KEY = 'goout_exhibitions_cache';
-const CACHE_TIME_KEY = 'goout_exhibitions_cache_time';
-const VENUE_CACHE_KEY = 'goout_venues_cache';
-const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time';
+// 缓存 key（v2：打包数据已扩为 10 城场馆，旧 v1 缓存需重新播种，故升版本号）
+const CACHE_KEY = 'goout_exhibitions_cache_v2';
+const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v2';
+const VENUE_CACHE_KEY = 'goout_venues_cache_v2';
+const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v2';
 
 // 加时间戳，绕过 CDN 缓存
 function getFreshUrl(base) {
@@ -31,6 +31,16 @@ function toArray(data) {
   if (Array.isArray(data)) return data;
   if (data && typeof data === 'object') return Object.values(data);
   return null;
+}
+
+// 判断已加载的数据集是否已覆盖全部城市（用于决定城市筛选器是否可信任“无数据则置灰”）
+function datasetHasAllCities(arr) {
+  if (!Array.isArray(arr) || !arr.length) return false;
+  var present = {};
+  for (var i = 0; i < arr.length; i++) {
+    if (arr[i] && arr[i].city) present[arr[i].city] = true;
+  }
+  return (cities || []).every(function(c) { return present[c.key]; });
 }
 
 // 拉取单个城市分文件，规整为数组；被墙/非数组时返回 null（不污染整体）
@@ -112,6 +122,9 @@ App({
 
     // 5. 后台静默拉取最新数据（不阻塞界面）
     this.silentUpdateAll();
+
+    // 6. 检测小程序新版本（真机 / 体验版 / 正式版生效）
+    this.checkForUpdate();
   },
 
   // ========== 缓存种子：首次启动写入打包数据 ==========
@@ -145,6 +158,8 @@ App({
     if (cached && cached.length > 0) {
       precomputeDerived(cached); // 旧缓存可能未含派生字段，补齐以保证筛选 O(1)
       this.globalData.exhibitions = cached;
+      // 若缓存已是完整 10 城数据（来自此前远程），则视为可信数据源，城市筛选器可正常置灰
+      if (datasetHasAllCities(cached)) this.globalData.isRemoteData = true;
       loadedAny = true;
       var ct = wx.getStorageSync(CACHE_TIME_KEY);
       if (ct) {
@@ -306,5 +321,25 @@ App({
     var cbs = this.dataUpdatedCallbacks;
     this.dataUpdatedCallbacks = [];
     cbs.forEach(function(cb) { cb(); });
+  },
+
+  // ========== 新版本检测 ==========
+  checkForUpdate() {
+    if (typeof wx.getUpdateManager !== 'function') return; // 基础库过低兼容
+    var um = wx.getUpdateManager();
+    um.onUpdateReady(function() {
+      wx.showModal({
+        title: '发现新版本',
+        content: '童行已为你准备好新版本，重启后即可使用最新功能与活动数据。',
+        confirmText: '立即重启',
+        cancelText: '稍后再说',
+        success: function(res) {
+          if (res.confirm) um.applyUpdate();
+        }
+      });
+    });
+    um.onUpdateFailed(function() {
+      wx.showToast({ title: '新版本下载失败，请删除小程序后重新打开', icon: 'none' });
+    });
   }
 });

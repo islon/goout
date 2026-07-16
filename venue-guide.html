@@ -274,13 +274,7 @@
     </div>
 
     <div class="filters">
-        <div class="city-tabs" id="city-tabs">
-            <button class="city-tab active" data-city="shenzhen">深圳</button>
-            <button class="city-tab" data-city="guangzhou">广州</button>
-            <button class="city-tab" data-city="shanghai">上海</button>
-            <button class="city-tab" data-city="beijing">北京</button>
-            <button class="city-tab" data-city="hangzhou">杭州</button>
-        </div>
+        <div class="city-tabs" id="city-tabs"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
         <div class="filter-right">
             <input type="text" class="search-box" id="search-box" placeholder="搜索场馆名称/地址...">
             <select class="district-select" id="district-filter">
@@ -310,6 +304,30 @@
             const m = address.match(/([^\s市省]+?[区县])/);
             if (!m) return '';
             return m[1];
+        }
+
+        // 城市清单动态化：读取 output/cities.json 渲染城市 tab（默认选中深圳）
+        async function loadCities() {
+            let cities = [
+                { key: 'shenzhen', name: '深圳' },
+                { key: 'guangzhou', name: '广州' },
+                { key: 'shanghai', name: '上海' },
+                { key: 'beijing', name: '北京' },
+                { key: 'hangzhou', name: '杭州' }
+            ];
+            try {
+                const resp = await fetch('output/cities.json', { cache: 'no-cache' });
+                if (resp.ok) {
+                    const list = await resp.json();
+                    if (Array.isArray(list) && list.length) cities = list;
+                }
+            } catch (e) { console.warn('cities.json 加载失败，使用兜底清单', e); }
+            const bar = document.getElementById('city-tabs');
+            if (!bar) return;
+            if (!cities.some(c => c.key === currentCity)) currentCity = cities[0].key;
+            bar.innerHTML = cities.map(c =>
+                `<button class="city-tab${c.key === currentCity ? ' active' : ''}" data-city="${c.key}">${c.name}</button>`
+            ).join('');
         }
 
         async function loadData() {
@@ -462,7 +480,7 @@
             render();
         });
 
-        loadData();
+        loadCities().then(loadData);
     </script>
 </body>
 </html>

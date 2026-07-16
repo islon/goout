@@ -1105,18 +1105,7 @@
 
     <div class="filter-section-mobile">
         <div class="filter-label">城市</div>
-        <div class="filter-bar" id="city-filter-bar">
-            <button class="filter-btn active" data-city="shenzhen">深圳</button>
-            <button class="filter-btn" data-city="guangzhou">广州</button>
-            <button class="filter-btn" data-city="shanghai">上海</button>
-            <button class="filter-btn" data-city="beijing">北京</button>
-            <button class="filter-btn" data-city="hangzhou">杭州</button>
-            <button class="filter-btn" data-city="chengdu">成都</button>
-            <button class="filter-btn" data-city="nanjing">南京</button>
-            <button class="filter-btn" data-city="wuhan">武汉</button>
-            <button class="filter-btn" data-city="xian">西安</button>
-            <button class="filter-btn" data-city="chongqing">重庆</button>
-        </div>
+        <div class="filter-bar" id="city-filter-bar"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
     </div>
 
     <div class="filter-section-mobile">
@@ -1433,18 +1422,7 @@
 
             <div class="sidebar-card">
                 <div class="sidebar-title">📍 城市</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn active" data-city="shenzhen">深圳</button>
-                    <button class="filter-btn" data-city="guangzhou">广州</button>
-                    <button class="filter-btn" data-city="shanghai">上海</button>
-                    <button class="filter-btn" data-city="beijing">北京</button>
-                    <button class="filter-btn" data-city="hangzhou">杭州</button>
-                    <button class="filter-btn" data-city="chengdu">成都</button>
-                    <button class="filter-btn" data-city="nanjing">南京</button>
-                    <button class="filter-btn" data-city="wuhan">武汉</button>
-                    <button class="filter-btn" data-city="xian">西安</button>
-                    <button class="filter-btn" data-city="chongqing">重庆</button>
-                </div>
+                <div class="filter-bar" id="city-filter-sidebar" style="flex-direction: column; gap: 6px;"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
             </div>
 
             <div class="sidebar-card">
@@ -2641,7 +2619,43 @@
             updateSourceButtonVisibility();
         }
 
-        function loadExhibitions() {
+        // 读取城市清单（与小程序共用 output/cities.json）；失败则兜底硬编码，保证按钮始终可见
+        async function loadCities() {
+            try {
+                const resp = await fetch('output/cities.json', { cache: 'no-cache' });
+                if (resp.ok) {
+                    const list = await resp.json();
+                    if (Array.isArray(list) && list.length) return list;
+                }
+            } catch (e) { console.warn('cities.json 加载失败，使用兜底清单', e); }
+            return [
+                {key:'shenzhen',name:'深圳'},{key:'guangzhou',name:'广州'},{key:'shanghai',name:'上海'},
+                {key:'beijing',name:'北京'},{key:'hangzhou',name:'杭州'},{key:'chengdu',name:'成都'},
+                {key:'nanjing',name:'南京'},{key:'wuhan',name:'武汉'},{key:'xian',name:'西安'},{key:'chongqing',name:'重庆'}
+            ];
+        }
+
+        // 把城市清单渲染到顶部与侧边栏两个容器（initFilters 会为其挂事件，故须在其之前执行）
+        function renderCityButtons(cities) {
+            const defaultCity = localStorage.getItem('schedule_city_filter') || 'shenzhen';
+            ['city-filter-bar', 'city-filter-sidebar'].forEach(function(id) {
+                const bar = document.getElementById(id);
+                if (!bar) return;
+                bar.innerHTML = '';
+                cities.forEach(function(c) {
+                    const btn = document.createElement('button');
+                    btn.className = 'filter-btn' + (c.key === defaultCity ? ' active' : '');
+                    btn.setAttribute('data-city', c.key);
+                    btn.textContent = c.name;
+                    bar.appendChild(btn);
+                });
+            });
+        }
+
+        async function loadExhibitions() {
+            const cities = await loadCities();
+            renderCityButtons(cities);
+
             const cacheKey = 'exhibitions_cache';
             const versionKey = 'exhibitions_version';
             const lastCheckKey = 'exhibitions_last_check';
@@ -2662,21 +2676,21 @@
                     console.log('使用缓存数据，版本:', cachedVersion);
                 } catch (e) {
                     console.error('缓存数据解析失败:', e);
-                    fetchAndCache();
+                    fetchAndCache(cities);
                     return;
                 }
             }
             
-            fetchAndCache();
+            fetchAndCache(cities);
             
-            async function fetchAndCache() {
-                const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing'];
+            async function fetchAndCache(cities) {
+                const cityKeys = cities.map(c => c.key);
                 let allData = [];
                 let latestVersion = '';
                 let anySuccess = false;
                 let firstError = null;
 
-                for (const city of cities) {
+                for (const city of cityKeys) {
                     try {
                         const resp = await fetch('output/exhibitions_' + city + '.json', { cache: 'no-cache' });
                         if (!resp.ok) throw new Error('HTTP ' + resp.status);

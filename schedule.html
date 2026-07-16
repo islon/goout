@@ -636,18 +636,7 @@
         <div class="content">
             <div class="section">
                 <h2>选择城市</h2>
-                <div class="city-tabs" id="city-tabs">
-                    <button class="city-tab active" data-city="shenzhen" onclick="switchCity('shenzhen')">深圳</button>
-                    <button class="city-tab" data-city="guangzhou" onclick="switchCity('guangzhou')">广州</button>
-                    <button class="city-tab" data-city="shanghai" onclick="switchCity('shanghai')">上海</button>
-                    <button class="city-tab" data-city="beijing" onclick="switchCity('beijing')">北京</button>
-                    <button class="city-tab" data-city="hangzhou" onclick="switchCity('hangzhou')">杭州</button>
-                    <button class="city-tab" data-city="chengdu" onclick="switchCity('chengdu')">成都</button>
-                    <button class="city-tab" data-city="nanjing" onclick="switchCity('nanjing')">南京</button>
-                    <button class="city-tab" data-city="wuhan" onclick="switchCity('wuhan')">武汉</button>
-                    <button class="city-tab" data-city="xian" onclick="switchCity('xian')">西安</button>
-                    <button class="city-tab" data-city="chongqing" onclick="switchCity('chongqing')">重庆</button>
-                </div>
+                <div class="city-tabs" id="city-tabs"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
                 <div class="city-hint" id="city-hint">
                     💡 订阅后将只接收 <strong id="city-hint-name">深圳</strong> 的活动日程，避免冗余提醒
                 </div>
@@ -865,6 +854,41 @@
             loadExhibitions();
         }
 
+        // 城市清单动态化：读取 output/cities.json 渲染城市 tab（默认选中深圳）
+        async function loadCities() {
+            let cities = [
+                { key: 'shenzhen', name: '深圳' },
+                { key: 'guangzhou', name: '广州' },
+                { key: 'shanghai', name: '上海' },
+                { key: 'beijing', name: '北京' },
+                { key: 'hangzhou', name: '杭州' },
+                { key: 'chengdu', name: '成都' },
+                { key: 'nanjing', name: '南京' },
+                { key: 'wuhan', name: '武汉' },
+                { key: 'xian', name: '西安' },
+                { key: 'chongqing', name: '重庆' }
+            ];
+            try {
+                const resp = await fetch('output/cities.json', { cache: 'no-cache' });
+                if (resp.ok) {
+                    const list = await resp.json();
+                    if (Array.isArray(list) && list.length) {
+                        cities = list;
+                        list.forEach(c => { cityNames[c.key] = c.name; });
+                    }
+                }
+            } catch (e) { console.warn('cities.json 加载失败，使用兜底清单', e); }
+            const bar = document.getElementById('city-tabs');
+            if (!bar) return;
+            if (!cities.some(c => c.key === currentCity)) currentCity = cities[0].key;
+            bar.innerHTML = cities.map(c =>
+                `<button class="city-tab${c.key === currentCity ? ' active' : ''}" data-city="${c.key}" onclick="switchCity('${c.key}')">${c.name}</button>`
+            ).join('');
+            const hint = document.getElementById('city-hint-name');
+            if (hint) hint.textContent = cityNames[currentCity];
+            updateSubscribeLinks();
+        }
+
         function updateSubscribeLinks() {
             const icsUrl = `${baseUrl}/exhibitions_${currentCity}.ics`;
             const webcalUrl = `webcal://islon.github.io/goout/output/exhibitions_${currentCity}.ics`;
@@ -1070,6 +1094,7 @@
         }
         
         window.addEventListener('DOMContentLoaded', () => {
+            loadCities();
             updateSubscribeLinks();
             loadScheduleVenueInfo().then(() => loadExhibitions());
         });

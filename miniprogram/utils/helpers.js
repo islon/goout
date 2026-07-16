@@ -49,15 +49,21 @@ function getDistrict(input) {
 
 // 返回某城市当前数据中"实际有活动"的区县列表（'全部区县' 始终在前）
 // 这样区县筛选里不会出现一堆 0 活动的空区县
+// 若该城市未配置 districtsByCity（新城市），则直接按数据里实际出现的区县动态生成，
+// 保证"往 filters.cities 加一个城市"即可自动拥有区县筛选，无需手工补 districtsByCity
 function getPresentDistricts(city, exhibitions) {
-  const all = districtsByCity[city] || [];
+  const configured = districtsByCity[city];
   const found = {};
   (exhibitions || []).forEach(function(e) {
     if ((e._cityKey || normalizeCity(e.city)) !== city) return;
     const d = getDistrict(e);
     if (d && d !== '其他') found[d] = true;
   });
-  return all.filter(function(d) { return d === '全部区县' || found[d]; });
+  if (configured && configured.length) {
+    return configured.filter(function(d) { return d === '全部区县' || found[d]; });
+  }
+  // 未配置：从数据动态生成（全部区县 + 实际出现的区县）
+  return ['全部区县'].concat(Object.keys(found));
 }
 
 function matchSource(exhibition, sourceKey) {
