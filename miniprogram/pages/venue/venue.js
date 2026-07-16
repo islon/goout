@@ -7,7 +7,12 @@ const cityNames = {
   guangzhou: '广州',
   shanghai: '上海',
   beijing: '北京',
-  hangzhou: '杭州'
+  hangzhou: '杭州',
+  chengdu: '成都',
+  nanjing: '南京',
+  wuhan: '武汉',
+  xian: '西安',
+  chongqing: '重庆'
 };
 
 Page({

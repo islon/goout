@@ -259,6 +259,11 @@
                     <option value="shanghai">上海</option>
                     <option value="beijing">北京</option>
                     <option value="hangzhou">杭州</option>
+                    <option value="chengdu">成都</option>
+                    <option value="nanjing">南京</option>
+                    <option value="wuhan">武汉</option>
+                    <option value="xian">西安</option>
+                    <option value="chongqing">重庆</option>
                 </select>
             </div>
             <div class="filter-group">
@@ -389,8 +394,8 @@
                 .catch(() => {});
 
             // 加载所有城市数据
-            const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou'];
-            const cityNames = { 'shenzhen': '深圳', 'guangzhou': '广州', 'shanghai': '上海', 'beijing': '北京', 'hangzhou': '杭州' };
+            const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing'];
+            const cityNames = { 'shenzhen': '深圳', 'guangzhou': '广州', 'shanghai': '上海', 'beijing': '北京', 'hangzhou': '杭州', 'chengdu': '成都', 'nanjing': '南京', 'wuhan': '武汉', 'xian': '西安', 'chongqing': '重庆' };
             let allData = [];
 
             for (const city of cities) {

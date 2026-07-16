@@ -9,6 +9,11 @@ function normalizeCity(city) {
   if (c === '上海' || c === 'sh' || c === 'shanghai') return 'shanghai';
   if (c === '北京' || c === 'bj' || c === 'beijing') return 'beijing';
   if (c === '杭州' || c === 'hz' || c === 'hangzhou') return 'hangzhou';
+  if (c === '成都' || c === 'cd' || c === 'chengdu') return 'chengdu';
+  if (c === '南京' || c === 'nj' || c === 'nanjing') return 'nanjing';
+  if (c === '武汉' || c === 'wh' || c === 'wuhan') return 'wuhan';
+  if (c === '西安' || c === 'xa' || c === 'xian') return 'xian';
+  if (c === '重庆' || c === 'cq' || c === 'chongqing') return 'chongqing';
   return c;
 }
 
