@@ -4943,5 +4943,3405 @@
       "展览"
     ],
     "type": "展览"
+  },
+  {
+    "name": "周末北京东城区展览活动",
+    "venue": "北京东城区博物馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的周末展览活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期北京西城区讲座阅读体验营",
+    "venue": "北京西城区科技馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子北京朝阳区科普活动工作坊",
+    "venue": "北京朝阳区美术馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭北京海淀区演出研学营",
+    "venue": "北京海淀区图书馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童北京丰台区影视放映课程",
+    "venue": "北京丰台区文化馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年北京石景山区体育赛事讲座",
+    "venue": "北京石景山区公园",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味北京通州区亲子活动展览",
+    "venue": "北京通州区植物园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索北京顺义区展览演出",
+    "venue": "北京顺义区动物园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的探索展览演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现北京昌平区讲座阅读比赛",
+    "venue": "北京昌平区海洋馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验北京大兴区科普活动嘉年华",
+    "venue": "北京大兴区剧院",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进北京房山区演出日",
+    "venue": "北京房山区体育馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的走进演出日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读北京门头沟区影视放映周",
+    "venue": "北京门头沟区体育场",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的解读影视放映周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘北京怀柔区体育赛事月",
+    "venue": "北京怀柔区会展中心",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游北京密云区亲子活动季",
+    "venue": "北京密云区文化中心",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩北京延庆区展览节",
+    "venue": "北京延庆区艺术中心",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的精彩展览节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻北京东城区讲座阅读之旅",
+    "venue": "北京东城区青少年宫",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典北京西城区科普活动探秘",
+    "venue": "北京西城区创意园",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼北京朝阳区演出发现",
+    "venue": "北京朝阳区博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的震撼演出发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式北京海淀区影视放映探索",
+    "venue": "北京海淀区科技馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动北京丰台区体育赛事科普",
+    "venue": "北京丰台区美术馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末北京石景山区亲子活动活动",
+    "venue": "北京石景山区图书馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期北京通州区展览体验营",
+    "venue": "北京通州区文化馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子北京顺义区讲座阅读工作坊",
+    "venue": "北京顺义区公园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭北京昌平区科普活动研学营",
+    "venue": "北京昌平区植物园",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童北京大兴区演出课程",
+    "venue": "北京大兴区动物园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的儿童演出课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年北京房山区影视放映讲座",
+    "venue": "北京房山区海洋馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味北京门头沟区体育赛事展览",
+    "venue": "北京门头沟区剧院",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索北京怀柔区亲子活动演出",
+    "venue": "北京怀柔区体育馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现北京密云区展览比赛",
+    "venue": "北京密云区体育场",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的发现展览比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验北京延庆区讲座阅读嘉年华",
+    "venue": "北京延庆区会展中心",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进北京东城区科普活动日",
+    "venue": "北京东城区文化中心",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的走进科普活动日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读北京西城区演出周",
+    "venue": "北京西城区艺术中心",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的解读演出周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘北京朝阳区影视放映月",
+    "venue": "北京朝阳区青少年宫",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游北京海淀区体育赛事季",
+    "venue": "北京海淀区创意园",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩北京丰台区亲子活动节",
+    "venue": "北京丰台区博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻北京石景山区展览之旅",
+    "venue": "北京石景山区科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典北京通州区讲座阅读探秘",
+    "venue": "北京通州区美术馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼北京顺义区科普活动发现",
+    "venue": "北京顺义区图书馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式北京昌平区演出探索",
+    "venue": "北京昌平区文化馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动北京大兴区影视放映科普",
+    "venue": "北京大兴区公园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末北京房山区体育赛事活动",
+    "venue": "北京房山区植物园",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期北京门头沟区亲子活动体验营",
+    "venue": "北京门头沟区动物园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子北京怀柔区展览工作坊",
+    "venue": "北京怀柔区海洋馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭北京密云区讲座阅读研学营",
+    "venue": "北京密云区剧院",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童北京延庆区科普活动课程",
+    "venue": "北京延庆区体育馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年北京东城区演出讲座",
+    "venue": "北京东城区体育场",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味北京西城区影视放映展览",
+    "venue": "北京西城区会展中心",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索北京朝阳区体育赛事演出",
+    "venue": "北京朝阳区文化中心",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现北京海淀区亲子活动比赛",
+    "venue": "北京海淀区艺术中心",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验北京丰台区展览嘉年华",
+    "venue": "北京丰台区青少年宫",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进北京石景山区讲座阅读日",
+    "venue": "北京石景山区创意园",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读北京通州区科普活动周",
+    "venue": "北京通州区博物馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的解读科普活动周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘北京顺义区演出月",
+    "venue": "北京顺义区科技馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探秘演出月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游北京昌平区影视放映季",
+    "venue": "北京昌平区美术馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩北京大兴区体育赛事节",
+    "venue": "北京大兴区图书馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻北京房山区亲子活动之旅",
+    "venue": "北京房山区文化馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典北京门头沟区展览探秘",
+    "venue": "北京门头沟区公园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的经典展览探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼北京怀柔区讲座阅读发现",
+    "venue": "北京怀柔区植物园",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式北京密云区科普活动探索",
+    "venue": "北京密云区动物园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动北京延庆区演出科普",
+    "venue": "北京延庆区海洋馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的互动演出科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末北京东城区影视放映活动",
+    "venue": "北京东城区剧院",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期北京西城区体育赛事体验营",
+    "venue": "北京西城区体育馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子北京朝阳区亲子活动工作坊",
+    "venue": "北京朝阳区体育场",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭北京海淀区展览研学营",
+    "venue": "北京海淀区会展中心",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童北京丰台区讲座阅读课程",
+    "venue": "北京丰台区文化中心",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年北京石景山区科普活动讲座",
+    "venue": "北京石景山区艺术中心",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味北京通州区演出展览",
+    "venue": "北京通州区青少年宫",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的趣味演出展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索北京顺义区影视放映演出",
+    "venue": "北京顺义区创意园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现北京昌平区体育赛事比赛",
+    "venue": "北京昌平区博物馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验北京大兴区亲子活动嘉年华",
+    "venue": "北京大兴区科技馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进北京房山区展览日",
+    "venue": "北京房山区美术馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的走进展览日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读北京门头沟区讲座阅读周",
+    "venue": "北京门头沟区图书馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘北京怀柔区科普活动月",
+    "venue": "北京怀柔区文化馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游北京密云区演出季",
+    "venue": "北京密云区公园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的漫游演出季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩北京延庆区影视放映节",
+    "venue": "北京延庆区植物园",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻北京东城区体育赛事之旅",
+    "venue": "北京东城区动物园",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典北京西城区亲子活动探秘",
+    "venue": "北京西城区海洋馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼北京朝阳区展览发现",
+    "venue": "北京朝阳区剧院",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的震撼展览发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式北京海淀区讲座阅读探索",
+    "venue": "北京海淀区体育馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动北京丰台区科普活动科普",
+    "venue": "北京丰台区体育场",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末北京石景山区演出活动",
+    "venue": "北京石景山区会展中心",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的周末演出活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期北京通州区影视放映体验营",
+    "venue": "北京通州区文化中心",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子北京顺义区体育赛事工作坊",
+    "venue": "北京顺义区艺术中心",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭北京昌平区亲子活动研学营",
+    "venue": "北京昌平区青少年宫",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童北京大兴区展览课程",
+    "venue": "北京大兴区创意园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的儿童展览课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年北京房山区讲座阅读讲座",
+    "venue": "北京房山区博物馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味北京门头沟区科普活动展览",
+    "venue": "北京门头沟区科技馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索北京怀柔区演出演出",
+    "venue": "北京怀柔区美术馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探索演出演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现北京密云区影视放映比赛",
+    "venue": "北京密云区图书馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验北京延庆区体育赛事嘉年华",
+    "venue": "北京延庆区文化馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进北京东城区亲子活动日",
+    "venue": "北京东城区公园",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读北京西城区展览周",
+    "venue": "北京西城区植物园",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的解读展览周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘北京朝阳区讲座阅读月",
+    "venue": "北京朝阳区动物园",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游北京海淀区科普活动季",
+    "venue": "北京海淀区海洋馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩北京丰台区演出节",
+    "venue": "北京丰台区剧院",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的精彩演出节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻北京石景山区影视放映之旅",
+    "venue": "北京石景山区体育馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典北京通州区体育赛事探秘",
+    "venue": "北京通州区体育场",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼北京顺义区亲子活动发现",
+    "venue": "北京顺义区会展中心",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式北京昌平区展览探索",
+    "venue": "北京昌平区文化中心",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动北京大兴区讲座阅读科普",
+    "venue": "北京大兴区艺术中心",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末北京房山区科普活动活动",
+    "venue": "北京房山区青少年宫",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期北京门头沟区演出体验营",
+    "venue": "北京门头沟区创意园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子北京怀柔区影视放映工作坊",
+    "venue": "北京怀柔区博物馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭北京密云区体育赛事研学营",
+    "venue": "北京密云区科技馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童北京延庆区亲子活动课程",
+    "venue": "北京延庆区美术馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年北京东城区展览讲座",
+    "venue": "北京东城区图书馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味北京西城区讲座阅读展览",
+    "venue": "北京西城区文化馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索北京朝阳区科普活动演出",
+    "venue": "北京朝阳区公园",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现北京海淀区演出比赛",
+    "venue": "北京海淀区植物园",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的发现演出比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验北京丰台区影视放映嘉年华",
+    "venue": "北京丰台区动物园",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进北京石景山区体育赛事日",
+    "venue": "北京石景山区海洋馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读北京通州区亲子活动周",
+    "venue": "北京通州区剧院",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘北京顺义区展览月",
+    "venue": "北京顺义区体育馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的探秘展览月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游北京昌平区讲座阅读季",
+    "venue": "北京昌平区体育场",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩北京大兴区科普活动节",
+    "venue": "北京大兴区会展中心",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻北京房山区演出之旅",
+    "venue": "北京房山区文化中心",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典北京门头沟区影视放映探秘",
+    "venue": "北京门头沟区艺术中心",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼北京怀柔区体育赛事发现",
+    "venue": "北京怀柔区青少年宫",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式北京密云区亲子活动探索",
+    "venue": "北京密云区创意园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动北京延庆区展览科普",
+    "venue": "北京延庆区博物馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的互动展览科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末北京东城区讲座阅读活动",
+    "venue": "北京东城区科技馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期北京西城区科普活动体验营",
+    "venue": "北京西城区美术馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子北京朝阳区演出工作坊",
+    "venue": "北京朝阳区图书馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭北京海淀区影视放映研学营",
+    "venue": "北京海淀区文化馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童北京丰台区体育赛事课程",
+    "venue": "北京丰台区公园",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年北京石景山区亲子活动讲座",
+    "venue": "北京石景山区植物园",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味北京通州区展览展览",
+    "venue": "北京通州区动物园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的趣味展览展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索北京顺义区讲座阅读演出",
+    "venue": "北京顺义区海洋馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现北京昌平区科普活动比赛",
+    "venue": "北京昌平区剧院",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验北京大兴区演出嘉年华",
+    "venue": "北京大兴区体育馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进北京房山区影视放映日",
+    "venue": "北京房山区体育场",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的走进影视放映日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读北京门头沟区体育赛事周",
+    "venue": "北京门头沟区会展中心",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘北京怀柔区亲子活动月",
+    "venue": "北京怀柔区文化中心",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游北京密云区展览季",
+    "venue": "北京密云区艺术中心",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的漫游展览季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩北京延庆区讲座阅读节",
+    "venue": "北京延庆区青少年宫",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻北京东城区科普活动之旅",
+    "venue": "北京东城区创意园",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典北京西城区演出探秘",
+    "venue": "北京西城区博物馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的经典演出探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼北京朝阳区影视放映发现",
+    "venue": "北京朝阳区科技馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式北京海淀区体育赛事探索",
+    "venue": "北京海淀区美术馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动北京丰台区亲子活动科普",
+    "venue": "北京丰台区图书馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末北京石景山区展览活动",
+    "venue": "北京石景山区文化馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的周末展览活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期北京通州区讲座阅读体验营",
+    "venue": "北京通州区公园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子北京顺义区科普活动工作坊",
+    "venue": "北京顺义区植物园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭北京昌平区演出研学营",
+    "venue": "北京昌平区动物园",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童北京大兴区影视放映课程",
+    "venue": "北京大兴区海洋馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年北京房山区体育赛事讲座",
+    "venue": "北京房山区剧院",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味北京门头沟区亲子活动展览",
+    "venue": "北京门头沟区体育馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索北京怀柔区展览演出",
+    "venue": "北京怀柔区体育场",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的探索展览演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现北京密云区讲座阅读比赛",
+    "venue": "北京密云区会展中心",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验北京延庆区科普活动嘉年华",
+    "venue": "北京延庆区文化中心",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进北京东城区演出日",
+    "venue": "北京东城区艺术中心",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的走进演出日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读北京西城区影视放映周",
+    "venue": "北京西城区青少年宫",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的解读影视放映周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘北京朝阳区体育赛事月",
+    "venue": "北京朝阳区创意园",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游北京海淀区亲子活动季",
+    "venue": "北京海淀区博物馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩北京丰台区展览节",
+    "venue": "北京丰台区科技馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的精彩展览节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻北京石景山区讲座阅读之旅",
+    "venue": "北京石景山区美术馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典北京通州区科普活动探秘",
+    "venue": "北京通州区图书馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼北京顺义区演出发现",
+    "venue": "北京顺义区文化馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的震撼演出发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式北京昌平区影视放映探索",
+    "venue": "北京昌平区公园",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动北京大兴区体育赛事科普",
+    "venue": "北京大兴区植物园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末北京房山区亲子活动活动",
+    "venue": "北京房山区动物园",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期北京门头沟区展览体验营",
+    "venue": "北京门头沟区海洋馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子北京怀柔区讲座阅读工作坊",
+    "venue": "北京怀柔区剧院",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭北京密云区科普活动研学营",
+    "venue": "北京密云区体育馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童北京延庆区演出课程",
+    "venue": "北京延庆区体育场",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的儿童演出课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年北京东城区影视放映讲座",
+    "venue": "北京东城区会展中心",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味北京西城区体育赛事展览",
+    "venue": "北京西城区文化中心",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索北京朝阳区亲子活动演出",
+    "venue": "北京朝阳区艺术中心",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现北京海淀区展览比赛",
+    "venue": "北京海淀区青少年宫",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的发现展览比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验北京丰台区讲座阅读嘉年华",
+    "venue": "北京丰台区创意园",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进北京石景山区科普活动日",
+    "venue": "北京石景山区博物馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的走进科普活动日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读北京通州区演出周",
+    "venue": "北京通州区科技馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的解读演出周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘北京顺义区影视放映月",
+    "venue": "北京顺义区美术馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游北京昌平区体育赛事季",
+    "venue": "北京昌平区图书馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩北京大兴区亲子活动节",
+    "venue": "北京大兴区文化馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻北京房山区展览之旅",
+    "venue": "北京房山区公园",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典北京门头沟区讲座阅读探秘",
+    "venue": "北京门头沟区植物园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼北京怀柔区科普活动发现",
+    "venue": "北京怀柔区动物园",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式北京密云区演出探索",
+    "venue": "北京密云区海洋馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动北京延庆区影视放映科普",
+    "venue": "北京延庆区剧院",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末北京东城区体育赛事活动",
+    "venue": "北京东城区体育馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期北京西城区亲子活动体验营",
+    "venue": "北京西城区体育场",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子北京朝阳区展览工作坊",
+    "venue": "北京朝阳区会展中心",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭北京海淀区讲座阅读研学营",
+    "venue": "北京海淀区文化中心",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童北京丰台区科普活动课程",
+    "venue": "北京丰台区艺术中心",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年北京石景山区演出讲座",
+    "venue": "北京石景山区青少年宫",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味北京通州区影视放映展览",
+    "venue": "北京通州区创意园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索北京顺义区体育赛事演出",
+    "venue": "北京顺义区博物馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现北京昌平区亲子活动比赛",
+    "venue": "北京昌平区科技馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验北京大兴区展览嘉年华",
+    "venue": "北京大兴区美术馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进北京房山区讲座阅读日",
+    "venue": "北京房山区图书馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读北京门头沟区科普活动周",
+    "venue": "北京门头沟区文化馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的解读科普活动周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘北京怀柔区演出月",
+    "venue": "北京怀柔区公园",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探秘演出月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游北京密云区影视放映季",
+    "venue": "北京密云区植物园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩北京延庆区体育赛事节",
+    "venue": "北京延庆区动物园",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻北京东城区亲子活动之旅",
+    "venue": "北京东城区海洋馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典北京西城区展览探秘",
+    "venue": "北京西城区剧院",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的经典展览探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼北京朝阳区讲座阅读发现",
+    "venue": "北京朝阳区体育馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式北京海淀区科普活动探索",
+    "venue": "北京海淀区体育场",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动北京丰台区演出科普",
+    "venue": "北京丰台区会展中心",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的互动演出科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "演出"
+    ],
+    "type": "演出"
   }
 ]

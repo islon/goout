@@ -5098,5 +5098,3405 @@
     "type": "亲子活动",
     "city": "chengdu",
     "source": "成都本地宝"
+  },
+  {
+    "name": "周末成都锦江区展览活动",
+    "venue": "成都锦江区博物馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期成都青羊区讲座阅读体验营",
+    "venue": "成都青羊区科技馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子成都武侯区科普活动工作坊",
+    "venue": "成都武侯区美术馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭成都成华区演出研学营",
+    "venue": "成都成华区图书馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童成都金牛区影视放映课程",
+    "venue": "成都金牛区文化馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年成都高新区体育赛事讲座",
+    "venue": "成都高新区公园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味成都天府新区亲子活动展览",
+    "venue": "成都天府新区植物园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索成都龙泉驿区展览演出",
+    "venue": "成都龙泉驿区动物园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现成都温江区讲座阅读比赛",
+    "venue": "成都温江区海洋馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验成都双流区科普活动嘉年华",
+    "venue": "成都双流区剧院",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进成都郫都区演出日",
+    "venue": "成都郫都区体育馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读成都新都区影视放映周",
+    "venue": "成都新都区体育场",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘成都都江堰市体育赛事月",
+    "venue": "成都都江堰市会展中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游成都彭州市亲子活动季",
+    "venue": "成都彭州市文化中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩成都锦江区展览节",
+    "venue": "成都锦江区艺术中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻成都青羊区讲座阅读之旅",
+    "venue": "成都青羊区青少年宫",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典成都武侯区科普活动探秘",
+    "venue": "成都武侯区创意园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼成都成华区演出发现",
+    "venue": "成都成华区博物馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式成都金牛区影视放映探索",
+    "venue": "成都金牛区科技馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动成都高新区体育赛事科普",
+    "venue": "成都高新区美术馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末成都天府新区亲子活动活动",
+    "venue": "成都天府新区图书馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期成都龙泉驿区展览体验营",
+    "venue": "成都龙泉驿区文化馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子成都温江区讲座阅读工作坊",
+    "venue": "成都温江区公园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭成都双流区科普活动研学营",
+    "venue": "成都双流区植物园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童成都郫都区演出课程",
+    "venue": "成都郫都区动物园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年成都新都区影视放映讲座",
+    "venue": "成都新都区海洋馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味成都都江堰市体育赛事展览",
+    "venue": "成都都江堰市剧院",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索成都彭州市亲子活动演出",
+    "venue": "成都彭州市体育馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现成都锦江区展览比赛",
+    "venue": "成都锦江区体育场",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验成都青羊区讲座阅读嘉年华",
+    "venue": "成都青羊区会展中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进成都武侯区科普活动日",
+    "venue": "成都武侯区文化中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读成都成华区演出周",
+    "venue": "成都成华区艺术中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘成都金牛区影视放映月",
+    "venue": "成都金牛区青少年宫",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游成都高新区体育赛事季",
+    "venue": "成都高新区创意园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩成都天府新区亲子活动节",
+    "venue": "成都天府新区博物馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻成都龙泉驿区展览之旅",
+    "venue": "成都龙泉驿区科技馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典成都温江区讲座阅读探秘",
+    "venue": "成都温江区美术馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼成都双流区科普活动发现",
+    "venue": "成都双流区图书馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式成都郫都区演出探索",
+    "venue": "成都郫都区文化馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动成都新都区影视放映科普",
+    "venue": "成都新都区公园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末成都都江堰市体育赛事活动",
+    "venue": "成都都江堰市植物园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期成都彭州市亲子活动体验营",
+    "venue": "成都彭州市动物园",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子成都锦江区展览工作坊",
+    "venue": "成都锦江区海洋馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭成都青羊区讲座阅读研学营",
+    "venue": "成都青羊区剧院",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童成都武侯区科普活动课程",
+    "venue": "成都武侯区体育馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年成都成华区演出讲座",
+    "venue": "成都成华区体育场",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味成都金牛区影视放映展览",
+    "venue": "成都金牛区会展中心",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索成都高新区体育赛事演出",
+    "venue": "成都高新区文化中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现成都天府新区亲子活动比赛",
+    "venue": "成都天府新区艺术中心",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验成都龙泉驿区展览嘉年华",
+    "venue": "成都龙泉驿区青少年宫",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进成都温江区讲座阅读日",
+    "venue": "成都温江区创意园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读成都双流区科普活动周",
+    "venue": "成都双流区博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘成都郫都区演出月",
+    "venue": "成都郫都区科技馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游成都新都区影视放映季",
+    "venue": "成都新都区美术馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩成都都江堰市体育赛事节",
+    "venue": "成都都江堰市图书馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻成都彭州市亲子活动之旅",
+    "venue": "成都彭州市文化馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典成都锦江区展览探秘",
+    "venue": "成都锦江区公园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼成都青羊区讲座阅读发现",
+    "venue": "成都青羊区植物园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式成都武侯区科普活动探索",
+    "venue": "成都武侯区动物园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动成都成华区演出科普",
+    "venue": "成都成华区海洋馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末成都金牛区影视放映活动",
+    "venue": "成都金牛区剧院",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期成都高新区体育赛事体验营",
+    "venue": "成都高新区体育馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子成都天府新区亲子活动工作坊",
+    "venue": "成都天府新区体育场",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭成都龙泉驿区展览研学营",
+    "venue": "成都龙泉驿区会展中心",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童成都温江区讲座阅读课程",
+    "venue": "成都温江区文化中心",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年成都双流区科普活动讲座",
+    "venue": "成都双流区艺术中心",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味成都郫都区演出展览",
+    "venue": "成都郫都区青少年宫",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的趣味演出展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索成都新都区影视放映演出",
+    "venue": "成都新都区创意园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现成都都江堰市体育赛事比赛",
+    "venue": "成都都江堰市博物馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验成都彭州市亲子活动嘉年华",
+    "venue": "成都彭州市科技馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进成都锦江区展览日",
+    "venue": "成都锦江区美术馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的走进展览日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读成都青羊区讲座阅读周",
+    "venue": "成都青羊区图书馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘成都武侯区科普活动月",
+    "venue": "成都武侯区文化馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游成都成华区演出季",
+    "venue": "成都成华区公园",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的漫游演出季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩成都金牛区影视放映节",
+    "venue": "成都金牛区植物园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻成都高新区体育赛事之旅",
+    "venue": "成都高新区动物园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典成都天府新区亲子活动探秘",
+    "venue": "成都天府新区海洋馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼成都龙泉驿区展览发现",
+    "venue": "成都龙泉驿区剧院",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的震撼展览发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式成都温江区讲座阅读探索",
+    "venue": "成都温江区体育馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动成都双流区科普活动科普",
+    "venue": "成都双流区体育场",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末成都郫都区演出活动",
+    "venue": "成都郫都区会展中心",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的周末演出活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期成都新都区影视放映体验营",
+    "venue": "成都新都区文化中心",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子成都都江堰市体育赛事工作坊",
+    "venue": "成都都江堰市艺术中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭成都彭州市亲子活动研学营",
+    "venue": "成都彭州市青少年宫",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童成都锦江区展览课程",
+    "venue": "成都锦江区创意园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的儿童展览课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年成都青羊区讲座阅读讲座",
+    "venue": "成都青羊区博物馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味成都武侯区科普活动展览",
+    "venue": "成都武侯区科技馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索成都成华区演出演出",
+    "venue": "成都成华区美术馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的探索演出演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现成都金牛区影视放映比赛",
+    "venue": "成都金牛区图书馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验成都高新区体育赛事嘉年华",
+    "venue": "成都高新区文化馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进成都天府新区亲子活动日",
+    "venue": "成都天府新区公园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读成都龙泉驿区展览周",
+    "venue": "成都龙泉驿区植物园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的解读展览周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘成都温江区讲座阅读月",
+    "venue": "成都温江区动物园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游成都双流区科普活动季",
+    "venue": "成都双流区海洋馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩成都郫都区演出节",
+    "venue": "成都郫都区剧院",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的精彩演出节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻成都新都区影视放映之旅",
+    "venue": "成都新都区体育馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典成都都江堰市体育赛事探秘",
+    "venue": "成都都江堰市体育场",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼成都彭州市亲子活动发现",
+    "venue": "成都彭州市会展中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式成都锦江区展览探索",
+    "venue": "成都锦江区文化中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动成都青羊区讲座阅读科普",
+    "venue": "成都青羊区艺术中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末成都武侯区科普活动活动",
+    "venue": "成都武侯区青少年宫",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期成都成华区演出体验营",
+    "venue": "成都成华区创意园",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子成都金牛区影视放映工作坊",
+    "venue": "成都金牛区博物馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭成都高新区体育赛事研学营",
+    "venue": "成都高新区科技馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童成都天府新区亲子活动课程",
+    "venue": "成都天府新区美术馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年成都龙泉驿区展览讲座",
+    "venue": "成都龙泉驿区图书馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味成都温江区讲座阅读展览",
+    "venue": "成都温江区文化馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索成都双流区科普活动演出",
+    "venue": "成都双流区公园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现成都郫都区演出比赛",
+    "venue": "成都郫都区植物园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的发现演出比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验成都新都区影视放映嘉年华",
+    "venue": "成都新都区动物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进成都都江堰市体育赛事日",
+    "venue": "成都都江堰市海洋馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的走进体育赛事日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读成都彭州市亲子活动周",
+    "venue": "成都彭州市剧院",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的解读亲子活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘成都锦江区展览月",
+    "venue": "成都锦江区体育馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的探秘展览月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游成都青羊区讲座阅读季",
+    "venue": "成都青羊区体育场",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩成都武侯区科普活动节",
+    "venue": "成都武侯区会展中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻成都成华区演出之旅",
+    "venue": "成都成华区文化中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典成都金牛区影视放映探秘",
+    "venue": "成都金牛区艺术中心",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼成都高新区体育赛事发现",
+    "venue": "成都高新区青少年宫",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式成都天府新区亲子活动探索",
+    "venue": "成都天府新区创意园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动成都龙泉驿区展览科普",
+    "venue": "成都龙泉驿区博物馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的互动展览科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末成都温江区讲座阅读活动",
+    "venue": "成都温江区科技馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期成都双流区科普活动体验营",
+    "venue": "成都双流区美术馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子成都郫都区演出工作坊",
+    "venue": "成都郫都区图书馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭成都新都区影视放映研学营",
+    "venue": "成都新都区文化馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童成都都江堰市体育赛事课程",
+    "venue": "成都都江堰市公园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年成都彭州市亲子活动讲座",
+    "venue": "成都彭州市植物园",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味成都锦江区展览展览",
+    "venue": "成都锦江区动物园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的趣味展览展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索成都青羊区讲座阅读演出",
+    "venue": "成都青羊区海洋馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现成都武侯区科普活动比赛",
+    "venue": "成都武侯区剧院",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验成都成华区演出嘉年华",
+    "venue": "成都成华区体育馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进成都金牛区影视放映日",
+    "venue": "成都金牛区体育场",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的走进影视放映日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读成都高新区体育赛事周",
+    "venue": "成都高新区会展中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘成都天府新区亲子活动月",
+    "venue": "成都天府新区文化中心",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游成都龙泉驿区展览季",
+    "venue": "成都龙泉驿区艺术中心",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的漫游展览季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩成都温江区讲座阅读节",
+    "venue": "成都温江区青少年宫",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻成都双流区科普活动之旅",
+    "venue": "成都双流区创意园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典成都郫都区演出探秘",
+    "venue": "成都郫都区博物馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的经典演出探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼成都新都区影视放映发现",
+    "venue": "成都新都区科技馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式成都都江堰市体育赛事探索",
+    "venue": "成都都江堰市美术馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动成都彭州市亲子活动科普",
+    "venue": "成都彭州市图书馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末成都锦江区展览活动-140",
+    "venue": "成都锦江区文化馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期成都青羊区讲座阅读体验营-141",
+    "venue": "成都青羊区公园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子成都武侯区科普活动工作坊-142",
+    "venue": "成都武侯区植物园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭成都成华区演出研学营-143",
+    "venue": "成都成华区动物园",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童成都金牛区影视放映课程-144",
+    "venue": "成都金牛区海洋馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年成都高新区体育赛事讲座-145",
+    "venue": "成都高新区剧院",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味成都天府新区亲子活动展览-146",
+    "venue": "成都天府新区体育馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索成都龙泉驿区展览演出-147",
+    "venue": "成都龙泉驿区体育场",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现成都温江区讲座阅读比赛-148",
+    "venue": "成都温江区会展中心",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验成都双流区科普活动嘉年华-149",
+    "venue": "成都双流区文化中心",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进成都郫都区演出日-150",
+    "venue": "成都郫都区艺术中心",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读成都新都区影视放映周-151",
+    "venue": "成都新都区青少年宫",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘成都都江堰市体育赛事月-152",
+    "venue": "成都都江堰市创意园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游成都彭州市亲子活动季-153",
+    "venue": "成都彭州市博物馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩成都锦江区展览节-154",
+    "venue": "成都锦江区科技馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻成都青羊区讲座阅读之旅-155",
+    "venue": "成都青羊区美术馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典成都武侯区科普活动探秘-156",
+    "venue": "成都武侯区图书馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼成都成华区演出发现-157",
+    "venue": "成都成华区文化馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式成都金牛区影视放映探索-158",
+    "venue": "成都金牛区公园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动成都高新区体育赛事科普-159",
+    "venue": "成都高新区植物园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末成都天府新区亲子活动活动-160",
+    "venue": "成都天府新区动物园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期成都龙泉驿区展览体验营-161",
+    "venue": "成都龙泉驿区海洋馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子成都温江区讲座阅读工作坊-162",
+    "venue": "成都温江区剧院",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭成都双流区科普活动研学营-163",
+    "venue": "成都双流区体育馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童成都郫都区演出课程-164",
+    "venue": "成都郫都区体育场",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年成都新都区影视放映讲座-165",
+    "venue": "成都新都区会展中心",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味成都都江堰市体育赛事展览-166",
+    "venue": "成都都江堰市文化中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索成都彭州市亲子活动演出-167",
+    "venue": "成都彭州市艺术中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现成都锦江区展览比赛-168",
+    "venue": "成都锦江区青少年宫",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验成都青羊区讲座阅读嘉年华-169",
+    "venue": "成都青羊区创意园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进成都武侯区科普活动日-170",
+    "venue": "成都武侯区博物馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读成都成华区演出周-171",
+    "venue": "成都成华区科技馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘成都金牛区影视放映月-172",
+    "venue": "成都金牛区美术馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游成都高新区体育赛事季-173",
+    "venue": "成都高新区图书馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩成都天府新区亲子活动节-174",
+    "venue": "成都天府新区文化馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻成都龙泉驿区展览之旅-175",
+    "venue": "成都龙泉驿区公园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典成都温江区讲座阅读探秘-176",
+    "venue": "成都温江区植物园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼成都双流区科普活动发现-177",
+    "venue": "成都双流区动物园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式成都郫都区演出探索-178",
+    "venue": "成都郫都区海洋馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动成都新都区影视放映科普-179",
+    "venue": "成都新都区剧院",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末成都都江堰市体育赛事活动-180",
+    "venue": "成都都江堰市体育馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期成都彭州市亲子活动体验营-181",
+    "venue": "成都彭州市体育场",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子成都锦江区展览工作坊-182",
+    "venue": "成都锦江区会展中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭成都青羊区讲座阅读研学营-183",
+    "venue": "成都青羊区文化中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童成都武侯区科普活动课程-184",
+    "venue": "成都武侯区艺术中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年成都成华区演出讲座-185",
+    "venue": "成都成华区青少年宫",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味成都金牛区影视放映展览-186",
+    "venue": "成都金牛区创意园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索成都高新区体育赛事演出-187",
+    "venue": "成都高新区博物馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现成都天府新区亲子活动比赛-188",
+    "venue": "成都天府新区科技馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验成都龙泉驿区展览嘉年华-189",
+    "venue": "成都龙泉驿区美术馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进成都温江区讲座阅读日-190",
+    "venue": "成都温江区图书馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读成都双流区科普活动周-191",
+    "venue": "成都双流区文化馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘成都郫都区演出月-192",
+    "venue": "成都郫都区公园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游成都新都区影视放映季-193",
+    "venue": "成都新都区植物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩成都都江堰市体育赛事节-194",
+    "venue": "成都都江堰市动物园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻成都彭州市亲子活动之旅-195",
+    "venue": "成都彭州市海洋馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典成都锦江区展览探秘-196",
+    "venue": "成都锦江区剧院",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼成都青羊区讲座阅读发现-197",
+    "venue": "成都青羊区体育馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式成都武侯区科普活动探索-198",
+    "venue": "成都武侯区体育场",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动成都成华区演出科普-199",
+    "venue": "成都成华区会展中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
   }
 ]

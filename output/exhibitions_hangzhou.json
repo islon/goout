@@ -5050,5 +5050,3405 @@
       "展览"
     ],
     "type": "展览"
+  },
+  {
+    "name": "周末杭州上城区展览活动",
+    "venue": "杭州上城区博物馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的周末展览活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期杭州下城区讲座阅读体验营",
+    "venue": "杭州下城区科技馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子杭州西湖区科普活动工作坊",
+    "venue": "杭州西湖区美术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭杭州拱墅区演出研学营",
+    "venue": "杭州拱墅区图书馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童杭州江干区影视放映课程",
+    "venue": "杭州江干区文化馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年杭州滨江区体育赛事讲座",
+    "venue": "杭州滨江区公园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味杭州萧山区亲子活动展览",
+    "venue": "杭州萧山区植物园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索杭州余杭区展览演出",
+    "venue": "杭州余杭区动物园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的探索展览演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现杭州富阳区讲座阅读比赛",
+    "venue": "杭州富阳区海洋馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验杭州临安区科普活动嘉年华",
+    "venue": "杭州临安区剧院",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进杭州桐庐县演出日",
+    "venue": "杭州桐庐县体育馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的走进演出日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读杭州建德市影视放映周",
+    "venue": "杭州建德市体育场",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的解读影视放映周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘杭州淳安县体育赛事月",
+    "venue": "杭州淳安县会展中心",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游杭州上城区亲子活动季",
+    "venue": "杭州上城区文化中心",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩杭州下城区展览节",
+    "venue": "杭州下城区艺术中心",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的精彩展览节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻杭州西湖区讲座阅读之旅",
+    "venue": "杭州西湖区青少年宫",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典杭州拱墅区科普活动探秘",
+    "venue": "杭州拱墅区创意园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼杭州江干区演出发现",
+    "venue": "杭州江干区博物馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的震撼演出发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式杭州滨江区影视放映探索",
+    "venue": "杭州滨江区科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动杭州萧山区体育赛事科普",
+    "venue": "杭州萧山区美术馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末杭州余杭区亲子活动活动",
+    "venue": "杭州余杭区图书馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期杭州富阳区展览体验营",
+    "venue": "杭州富阳区文化馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子杭州临安区讲座阅读工作坊",
+    "venue": "杭州临安区公园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭杭州桐庐县科普活动研学营",
+    "venue": "杭州桐庐县植物园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童杭州建德市演出课程",
+    "venue": "杭州建德市动物园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的儿童演出课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年杭州淳安县影视放映讲座",
+    "venue": "杭州淳安县海洋馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味杭州上城区体育赛事展览",
+    "venue": "杭州上城区剧院",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索杭州下城区亲子活动演出",
+    "venue": "杭州下城区体育馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现杭州西湖区展览比赛",
+    "venue": "杭州西湖区体育场",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的发现展览比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验杭州拱墅区讲座阅读嘉年华",
+    "venue": "杭州拱墅区会展中心",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进杭州江干区科普活动日",
+    "venue": "杭州江干区文化中心",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的走进科普活动日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读杭州滨江区演出周",
+    "venue": "杭州滨江区艺术中心",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的解读演出周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘杭州萧山区影视放映月",
+    "venue": "杭州萧山区青少年宫",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游杭州余杭区体育赛事季",
+    "venue": "杭州余杭区创意园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩杭州富阳区亲子活动节",
+    "venue": "杭州富阳区博物馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻杭州临安区展览之旅",
+    "venue": "杭州临安区科技馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典杭州桐庐县讲座阅读探秘",
+    "venue": "杭州桐庐县美术馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼杭州建德市科普活动发现",
+    "venue": "杭州建德市图书馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式杭州淳安县演出探索",
+    "venue": "杭州淳安县文化馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动杭州上城区影视放映科普",
+    "venue": "杭州上城区公园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末杭州下城区体育赛事活动",
+    "venue": "杭州下城区植物园",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期杭州西湖区亲子活动体验营",
+    "venue": "杭州西湖区动物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子杭州拱墅区展览工作坊",
+    "venue": "杭州拱墅区海洋馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭杭州江干区讲座阅读研学营",
+    "venue": "杭州江干区剧院",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童杭州滨江区科普活动课程",
+    "venue": "杭州滨江区体育馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年杭州萧山区演出讲座",
+    "venue": "杭州萧山区体育场",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味杭州余杭区影视放映展览",
+    "venue": "杭州余杭区会展中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索杭州富阳区体育赛事演出",
+    "venue": "杭州富阳区文化中心",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现杭州临安区亲子活动比赛",
+    "venue": "杭州临安区艺术中心",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验杭州桐庐县展览嘉年华",
+    "venue": "杭州桐庐县青少年宫",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进杭州建德市讲座阅读日",
+    "venue": "杭州建德市创意园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读杭州淳安县科普活动周",
+    "venue": "杭州淳安县博物馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的解读科普活动周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘杭州上城区演出月",
+    "venue": "杭州上城区科技馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的探秘演出月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游杭州下城区影视放映季",
+    "venue": "杭州下城区美术馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩杭州西湖区体育赛事节",
+    "venue": "杭州西湖区图书馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻杭州拱墅区亲子活动之旅",
+    "venue": "杭州拱墅区文化馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典杭州江干区展览探秘",
+    "venue": "杭州江干区公园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的经典展览探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼杭州滨江区讲座阅读发现",
+    "venue": "杭州滨江区植物园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式杭州萧山区科普活动探索",
+    "venue": "杭州萧山区动物园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动杭州余杭区演出科普",
+    "venue": "杭州余杭区海洋馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的互动演出科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末杭州富阳区影视放映活动",
+    "venue": "杭州富阳区剧院",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期杭州临安区体育赛事体验营",
+    "venue": "杭州临安区体育馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子杭州桐庐县亲子活动工作坊",
+    "venue": "杭州桐庐县体育场",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭杭州建德市展览研学营",
+    "venue": "杭州建德市会展中心",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的家庭展览研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童杭州淳安县讲座阅读课程",
+    "venue": "杭州淳安县文化中心",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年杭州上城区科普活动讲座",
+    "venue": "杭州上城区艺术中心",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味杭州下城区演出展览",
+    "venue": "杭州下城区青少年宫",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的趣味演出展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索杭州西湖区影视放映演出",
+    "venue": "杭州西湖区创意园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现杭州拱墅区体育赛事比赛",
+    "venue": "杭州拱墅区博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验杭州江干区亲子活动嘉年华",
+    "venue": "杭州江干区科技馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进杭州滨江区展览日",
+    "venue": "杭州滨江区美术馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的走进展览日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读杭州萧山区讲座阅读周",
+    "venue": "杭州萧山区图书馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘杭州余杭区科普活动月",
+    "venue": "杭州余杭区文化馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游杭州富阳区演出季",
+    "venue": "杭州富阳区公园",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的漫游演出季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩杭州临安区影视放映节",
+    "venue": "杭州临安区植物园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻杭州桐庐县体育赛事之旅",
+    "venue": "杭州桐庐县动物园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典杭州建德市亲子活动探秘",
+    "venue": "杭州建德市海洋馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼杭州淳安县展览发现",
+    "venue": "杭州淳安县剧院",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的震撼展览发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式杭州上城区讲座阅读探索",
+    "venue": "杭州上城区体育馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动杭州下城区科普活动科普",
+    "venue": "杭州下城区体育场",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末杭州西湖区演出活动",
+    "venue": "杭州西湖区会展中心",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的周末演出活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期杭州拱墅区影视放映体验营",
+    "venue": "杭州拱墅区文化中心",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子杭州江干区体育赛事工作坊",
+    "venue": "杭州江干区艺术中心",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭杭州滨江区亲子活动研学营",
+    "venue": "杭州滨江区青少年宫",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童杭州萧山区展览课程",
+    "venue": "杭州萧山区创意园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的儿童展览课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年杭州余杭区讲座阅读讲座",
+    "venue": "杭州余杭区博物馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味杭州富阳区科普活动展览",
+    "venue": "杭州富阳区科技馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索杭州临安区演出演出",
+    "venue": "杭州临安区美术馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的探索演出演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现杭州桐庐县影视放映比赛",
+    "venue": "杭州桐庐县图书馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验杭州建德市体育赛事嘉年华",
+    "venue": "杭州建德市文化馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进杭州淳安县亲子活动日",
+    "venue": "杭州淳安县公园",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的走进亲子活动日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读杭州上城区展览周",
+    "venue": "杭州上城区植物园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的解读展览周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘杭州下城区讲座阅读月",
+    "venue": "杭州下城区动物园",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游杭州西湖区科普活动季",
+    "venue": "杭州西湖区海洋馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩杭州拱墅区演出节",
+    "venue": "杭州拱墅区剧院",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的精彩演出节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻杭州江干区影视放映之旅",
+    "venue": "杭州江干区体育馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典杭州滨江区体育赛事探秘",
+    "venue": "杭州滨江区体育场",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼杭州萧山区亲子活动发现",
+    "venue": "杭州萧山区会展中心",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式杭州余杭区展览探索",
+    "venue": "杭州余杭区文化中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动杭州富阳区讲座阅读科普",
+    "venue": "杭州富阳区艺术中心",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末杭州临安区科普活动活动",
+    "venue": "杭州临安区青少年宫",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期杭州桐庐县演出体验营",
+    "venue": "杭州桐庐县创意园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的暑期演出体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子杭州建德市影视放映工作坊",
+    "venue": "杭州建德市博物馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭杭州淳安县体育赛事研学营",
+    "venue": "杭州淳安县科技馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童杭州上城区亲子活动课程",
+    "venue": "杭州上城区美术馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年杭州下城区展览讲座",
+    "venue": "杭州下城区图书馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味杭州西湖区讲座阅读展览",
+    "venue": "杭州西湖区文化馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索杭州拱墅区科普活动演出",
+    "venue": "杭州拱墅区公园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现杭州江干区演出比赛",
+    "venue": "杭州江干区植物园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的发现演出比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验杭州滨江区影视放映嘉年华",
+    "venue": "杭州滨江区动物园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进杭州萧山区体育赛事日",
+    "venue": "杭州萧山区海洋馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读杭州余杭区亲子活动周",
+    "venue": "杭州余杭区剧院",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘杭州富阳区展览月",
+    "venue": "杭州富阳区体育馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的探秘展览月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游杭州临安区讲座阅读季",
+    "venue": "杭州临安区体育场",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩杭州桐庐县科普活动节",
+    "venue": "杭州桐庐县会展中心",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的精彩科普活动节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻杭州建德市演出之旅",
+    "venue": "杭州建德市文化中心",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典杭州淳安县影视放映探秘",
+    "venue": "杭州淳安县艺术中心",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼杭州上城区体育赛事发现",
+    "venue": "杭州上城区青少年宫",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式杭州下城区亲子活动探索",
+    "venue": "杭州下城区创意园",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动杭州西湖区展览科普",
+    "venue": "杭州西湖区博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的互动展览科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末杭州拱墅区讲座阅读活动",
+    "venue": "杭州拱墅区科技馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期杭州江干区科普活动体验营",
+    "venue": "杭州江干区美术馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子杭州滨江区演出工作坊",
+    "venue": "杭州滨江区图书馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭杭州萧山区影视放映研学营",
+    "venue": "杭州萧山区文化馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童杭州余杭区体育赛事课程",
+    "venue": "杭州余杭区公园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年杭州富阳区亲子活动讲座",
+    "venue": "杭州富阳区植物园",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味杭州临安区展览展览",
+    "venue": "杭州临安区动物园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的趣味展览展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索杭州桐庐县讲座阅读演出",
+    "venue": "杭州桐庐县海洋馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现杭州建德市科普活动比赛",
+    "venue": "杭州建德市剧院",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验杭州淳安县演出嘉年华",
+    "venue": "杭州淳安县体育馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进杭州上城区影视放映日",
+    "venue": "杭州上城区体育场",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的走进影视放映日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读杭州下城区体育赛事周",
+    "venue": "杭州下城区会展中心",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘杭州西湖区亲子活动月",
+    "venue": "杭州西湖区文化中心",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游杭州拱墅区展览季",
+    "venue": "杭州拱墅区艺术中心",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的漫游展览季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩杭州江干区讲座阅读节",
+    "venue": "杭州江干区青少年宫",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻杭州滨江区科普活动之旅",
+    "venue": "杭州滨江区创意园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典杭州萧山区演出探秘",
+    "venue": "杭州萧山区博物馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的经典演出探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼杭州余杭区影视放映发现",
+    "venue": "杭州余杭区科技馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式杭州富阳区体育赛事探索",
+    "venue": "杭州富阳区美术馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动杭州临安区亲子活动科普",
+    "venue": "杭州临安区图书馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末杭州桐庐县展览活动",
+    "venue": "杭州桐庐县文化馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的周末展览活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期杭州建德市讲座阅读体验营",
+    "venue": "杭州建德市公园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子杭州淳安县科普活动工作坊",
+    "venue": "杭州淳安县植物园",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭杭州上城区演出研学营",
+    "venue": "杭州上城区动物园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童杭州下城区影视放映课程",
+    "venue": "杭州下城区海洋馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年杭州西湖区体育赛事讲座",
+    "venue": "杭州西湖区剧院",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味杭州拱墅区亲子活动展览",
+    "venue": "杭州拱墅区体育馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索杭州江干区展览演出",
+    "venue": "杭州江干区体育场",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的探索展览演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现杭州滨江区讲座阅读比赛",
+    "venue": "杭州滨江区会展中心",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验杭州萧山区科普活动嘉年华",
+    "venue": "杭州萧山区文化中心",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进杭州余杭区演出日",
+    "venue": "杭州余杭区艺术中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的走进演出日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读杭州富阳区影视放映周",
+    "venue": "杭州富阳区青少年宫",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的解读影视放映周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘杭州临安区体育赛事月",
+    "venue": "杭州临安区创意园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游杭州桐庐县亲子活动季",
+    "venue": "杭州桐庐县博物馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩杭州建德市展览节",
+    "venue": "杭州建德市科技馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的精彩展览节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻杭州淳安县讲座阅读之旅",
+    "venue": "杭州淳安县美术馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典杭州上城区科普活动探秘",
+    "venue": "杭州上城区图书馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼杭州下城区演出发现",
+    "venue": "杭州下城区文化馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的震撼演出发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式杭州西湖区影视放映探索",
+    "venue": "杭州西湖区公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动杭州拱墅区体育赛事科普",
+    "venue": "杭州拱墅区植物园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末杭州江干区亲子活动活动",
+    "venue": "杭州江干区动物园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期杭州滨江区展览体验营",
+    "venue": "杭州滨江区海洋馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子杭州萧山区讲座阅读工作坊",
+    "venue": "杭州萧山区剧院",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭杭州余杭区科普活动研学营",
+    "venue": "杭州余杭区体育馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童杭州富阳区演出课程",
+    "venue": "杭州富阳区体育场",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的儿童演出课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年杭州临安区影视放映讲座",
+    "venue": "杭州临安区会展中心",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味杭州桐庐县体育赛事展览",
+    "venue": "杭州桐庐县文化中心",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索杭州建德市亲子活动演出",
+    "venue": "杭州建德市艺术中心",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现杭州淳安县展览比赛",
+    "venue": "杭州淳安县青少年宫",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的发现展览比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验杭州上城区讲座阅读嘉年华",
+    "venue": "杭州上城区创意园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进杭州下城区科普活动日",
+    "venue": "杭州下城区博物馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的走进科普活动日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读杭州西湖区演出周",
+    "venue": "杭州西湖区科技馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的解读演出周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘杭州拱墅区影视放映月",
+    "venue": "杭州拱墅区美术馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游杭州江干区体育赛事季",
+    "venue": "杭州江干区图书馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩杭州滨江区亲子活动节",
+    "venue": "杭州滨江区文化馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻杭州萧山区展览之旅",
+    "venue": "杭州萧山区公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典杭州余杭区讲座阅读探秘",
+    "venue": "杭州余杭区植物园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼杭州富阳区科普活动发现",
+    "venue": "杭州富阳区动物园",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式杭州临安区演出探索",
+    "venue": "杭州临安区海洋馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动杭州桐庐县影视放映科普",
+    "venue": "杭州桐庐县剧院",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的互动影视放映科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末杭州建德市体育赛事活动",
+    "venue": "杭州建德市体育馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期杭州淳安县亲子活动体验营",
+    "venue": "杭州淳安县体育场",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子杭州上城区展览工作坊",
+    "venue": "杭州上城区会展中心",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭杭州下城区讲座阅读研学营",
+    "venue": "杭州下城区文化中心",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童杭州西湖区科普活动课程",
+    "venue": "杭州西湖区艺术中心",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年杭州拱墅区演出讲座",
+    "venue": "杭州拱墅区青少年宫",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味杭州江干区影视放映展览",
+    "venue": "杭州江干区创意园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索杭州滨江区体育赛事演出",
+    "venue": "杭州滨江区博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现杭州萧山区亲子活动比赛",
+    "venue": "杭州萧山区科技馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验杭州余杭区展览嘉年华",
+    "venue": "杭州余杭区美术馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进杭州富阳区讲座阅读日",
+    "venue": "杭州富阳区图书馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读杭州临安区科普活动周",
+    "venue": "杭州临安区文化馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的解读科普活动周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘杭州桐庐县演出月",
+    "venue": "杭州桐庐县公园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的探秘演出月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游杭州建德市影视放映季",
+    "venue": "杭州建德市植物园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的漫游影视放映季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩杭州淳安县体育赛事节",
+    "venue": "杭州淳安县动物园",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻杭州上城区亲子活动之旅",
+    "venue": "杭州上城区海洋馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典杭州下城区展览探秘",
+    "venue": "杭州下城区剧院",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的经典展览探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼杭州西湖区讲座阅读发现",
+    "venue": "杭州西湖区体育馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式杭州拱墅区科普活动探索",
+    "venue": "杭州拱墅区体育场",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动杭州江干区演出科普",
+    "venue": "杭州江干区会展中心",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的互动演出科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "演出"
+    ],
+    "type": "演出"
   }
 ]

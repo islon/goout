@@ -5047,5 +5047,3456 @@
       "红灯笼"
     ],
     "type": "演出"
+  },
+  {
+    "name": "周末重庆渝中区展览活动",
+    "venue": "重庆渝中区博物馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的周末展览活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期重庆江北区讲座阅读体验营",
+    "venue": "重庆江北区科技馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子重庆南岸区科普活动工作坊",
+    "venue": "重庆南岸区美术馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭重庆九龙坡区演出研学营",
+    "venue": "重庆九龙坡区图书馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童重庆沙坪坝区影视放映课程",
+    "venue": "重庆沙坪坝区文化馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年重庆大渡口区体育赛事讲座",
+    "venue": "重庆大渡口区公园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味重庆北碚区亲子活动展览",
+    "venue": "重庆北碚区植物园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索重庆渝北区展览演出",
+    "venue": "重庆渝北区动物园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的探索展览演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现重庆巴南区讲座阅读比赛",
+    "venue": "重庆巴南区海洋馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验重庆两江新区科普活动嘉年华",
+    "venue": "重庆两江新区剧院",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进重庆武隆区演出日",
+    "venue": "重庆武隆区体育馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的走进演出日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读重庆大足区影视放映周",
+    "venue": "重庆大足区体育场",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的解读影视放映周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘重庆南川区体育赛事月",
+    "venue": "重庆南川区会展中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游重庆渝中区亲子活动季",
+    "venue": "重庆渝中区文化中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩重庆江北区展览节",
+    "venue": "重庆江北区艺术中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的精彩展览节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻重庆南岸区讲座阅读之旅",
+    "venue": "重庆南岸区青少年宫",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典重庆九龙坡区科普活动探秘",
+    "venue": "重庆九龙坡区创意园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼重庆沙坪坝区演出发现",
+    "venue": "重庆沙坪坝区博物馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的震撼演出发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式重庆大渡口区影视放映探索",
+    "venue": "重庆大渡口区科技馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动重庆北碚区体育赛事科普",
+    "venue": "重庆北碚区美术馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末重庆渝北区亲子活动活动",
+    "venue": "重庆渝北区图书馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期重庆巴南区展览体验营",
+    "venue": "重庆巴南区文化馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子重庆两江新区讲座阅读工作坊",
+    "venue": "重庆两江新区公园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭重庆武隆区科普活动研学营",
+    "venue": "重庆武隆区植物园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童重庆大足区演出课程",
+    "venue": "重庆大足区动物园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的儿童演出课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年重庆南川区影视放映讲座",
+    "venue": "重庆南川区海洋馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味重庆渝中区体育赛事展览",
+    "venue": "重庆渝中区剧院",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索重庆江北区亲子活动演出",
+    "venue": "重庆江北区体育馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现重庆南岸区展览比赛",
+    "venue": "重庆南岸区体育场",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的发现展览比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验重庆九龙坡区讲座阅读嘉年华",
+    "venue": "重庆九龙坡区会展中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进重庆沙坪坝区科普活动日",
+    "venue": "重庆沙坪坝区文化中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的走进科普活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读重庆大渡口区演出周",
+    "venue": "重庆大渡口区艺术中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的解读演出周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘重庆北碚区影视放映月",
+    "venue": "重庆北碚区青少年宫",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游重庆渝北区体育赛事季",
+    "venue": "重庆渝北区创意园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩重庆巴南区亲子活动节",
+    "venue": "重庆巴南区博物馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻重庆两江新区展览之旅",
+    "venue": "重庆两江新区科技馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典重庆武隆区讲座阅读探秘",
+    "venue": "重庆武隆区美术馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼重庆大足区科普活动发现",
+    "venue": "重庆大足区图书馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式重庆南川区演出探索",
+    "venue": "重庆南川区文化馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动重庆渝中区影视放映科普",
+    "venue": "重庆渝中区公园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末重庆江北区体育赛事活动",
+    "venue": "重庆江北区植物园",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期重庆南岸区亲子活动体验营",
+    "venue": "重庆南岸区动物园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子重庆九龙坡区展览工作坊",
+    "venue": "重庆九龙坡区海洋馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭重庆沙坪坝区讲座阅读研学营",
+    "venue": "重庆沙坪坝区剧院",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童重庆大渡口区科普活动课程",
+    "venue": "重庆大渡口区体育馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年重庆北碚区演出讲座",
+    "venue": "重庆北碚区体育场",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味重庆渝北区影视放映展览",
+    "venue": "重庆渝北区会展中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索重庆巴南区体育赛事演出",
+    "venue": "重庆巴南区文化中心",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现重庆两江新区亲子活动比赛",
+    "venue": "重庆两江新区艺术中心",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验重庆武隆区展览嘉年华",
+    "venue": "重庆武隆区青少年宫",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进重庆大足区讲座阅读日",
+    "venue": "重庆大足区创意园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读重庆南川区科普活动周",
+    "venue": "重庆南川区博物馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的解读科普活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘重庆渝中区演出月",
+    "venue": "重庆渝中区科技馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的探秘演出月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游重庆江北区影视放映季",
+    "venue": "重庆江北区美术馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩重庆南岸区体育赛事节",
+    "venue": "重庆南岸区图书馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻重庆九龙坡区亲子活动之旅",
+    "venue": "重庆九龙坡区文化馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典重庆沙坪坝区展览探秘",
+    "venue": "重庆沙坪坝区公园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的经典展览探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼重庆大渡口区讲座阅读发现",
+    "venue": "重庆大渡口区植物园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式重庆北碚区科普活动探索",
+    "venue": "重庆北碚区动物园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动重庆渝北区演出科普",
+    "venue": "重庆渝北区海洋馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的互动演出科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末重庆巴南区影视放映活动",
+    "venue": "重庆巴南区剧院",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期重庆两江新区体育赛事体验营",
+    "venue": "重庆两江新区体育馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子重庆武隆区亲子活动工作坊",
+    "venue": "重庆武隆区体育场",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭重庆大足区展览研学营",
+    "venue": "重庆大足区会展中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童重庆南川区讲座阅读课程",
+    "venue": "重庆南川区文化中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年重庆渝中区科普活动讲座",
+    "venue": "重庆渝中区艺术中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味重庆江北区演出展览",
+    "venue": "重庆江北区青少年宫",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的趣味演出展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索重庆南岸区影视放映演出",
+    "venue": "重庆南岸区创意园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现重庆九龙坡区体育赛事比赛",
+    "venue": "重庆九龙坡区博物馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验重庆沙坪坝区亲子活动嘉年华",
+    "venue": "重庆沙坪坝区科技馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进重庆大渡口区展览日",
+    "venue": "重庆大渡口区美术馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的走进展览日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读重庆北碚区讲座阅读周",
+    "venue": "重庆北碚区图书馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘重庆渝北区科普活动月",
+    "venue": "重庆渝北区文化馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游重庆巴南区演出季",
+    "venue": "重庆巴南区公园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的漫游演出季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩重庆两江新区影视放映节",
+    "venue": "重庆两江新区植物园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻重庆武隆区体育赛事之旅",
+    "venue": "重庆武隆区动物园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典重庆大足区亲子活动探秘",
+    "venue": "重庆大足区海洋馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼重庆南川区展览发现",
+    "venue": "重庆南川区剧院",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的震撼展览发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式重庆渝中区讲座阅读探索",
+    "venue": "重庆渝中区体育馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动重庆江北区科普活动科普",
+    "venue": "重庆江北区体育场",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末重庆南岸区演出活动",
+    "venue": "重庆南岸区会展中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的周末演出活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期重庆九龙坡区影视放映体验营",
+    "venue": "重庆九龙坡区文化中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子重庆沙坪坝区体育赛事工作坊",
+    "venue": "重庆沙坪坝区艺术中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭重庆大渡口区亲子活动研学营",
+    "venue": "重庆大渡口区青少年宫",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童重庆北碚区展览课程",
+    "venue": "重庆北碚区创意园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的儿童展览课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年重庆渝北区讲座阅读讲座",
+    "venue": "重庆渝北区博物馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味重庆巴南区科普活动展览",
+    "venue": "重庆巴南区科技馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索重庆两江新区演出演出",
+    "venue": "重庆两江新区美术馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的探索演出演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现重庆武隆区影视放映比赛",
+    "venue": "重庆武隆区图书馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验重庆大足区体育赛事嘉年华",
+    "venue": "重庆大足区文化馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进重庆南川区亲子活动日",
+    "venue": "重庆南川区公园",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读重庆渝中区展览周",
+    "venue": "重庆渝中区植物园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的解读展览周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘重庆江北区讲座阅读月",
+    "venue": "重庆江北区动物园",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游重庆南岸区科普活动季",
+    "venue": "重庆南岸区海洋馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩重庆九龙坡区演出节",
+    "venue": "重庆九龙坡区剧院",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的精彩演出节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻重庆沙坪坝区影视放映之旅",
+    "venue": "重庆沙坪坝区体育馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典重庆大渡口区体育赛事探秘",
+    "venue": "重庆大渡口区体育场",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼重庆北碚区亲子活动发现",
+    "venue": "重庆北碚区会展中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式重庆渝北区展览探索",
+    "venue": "重庆渝北区文化中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动重庆巴南区讲座阅读科普",
+    "venue": "重庆巴南区艺术中心",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末重庆两江新区科普活动活动",
+    "venue": "重庆两江新区青少年宫",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期重庆武隆区演出体验营",
+    "venue": "重庆武隆区创意园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子重庆大足区影视放映工作坊",
+    "venue": "重庆大足区博物馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭重庆南川区体育赛事研学营",
+    "venue": "重庆南川区科技馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童重庆渝中区亲子活动课程",
+    "venue": "重庆渝中区美术馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年重庆江北区展览讲座",
+    "venue": "重庆江北区图书馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味重庆南岸区讲座阅读展览",
+    "venue": "重庆南岸区文化馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索重庆九龙坡区科普活动演出",
+    "venue": "重庆九龙坡区公园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现重庆沙坪坝区演出比赛",
+    "venue": "重庆沙坪坝区植物园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的发现演出比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验重庆大渡口区影视放映嘉年华",
+    "venue": "重庆大渡口区动物园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进重庆北碚区体育赛事日",
+    "venue": "重庆北碚区海洋馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读重庆渝北区亲子活动周",
+    "venue": "重庆渝北区剧院",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘重庆巴南区展览月",
+    "venue": "重庆巴南区体育馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的探秘展览月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游重庆两江新区讲座阅读季",
+    "venue": "重庆两江新区体育场",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩重庆武隆区科普活动节",
+    "venue": "重庆武隆区会展中心",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻重庆大足区演出之旅",
+    "venue": "重庆大足区文化中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典重庆南川区影视放映探秘",
+    "venue": "重庆南川区艺术中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼重庆渝中区体育赛事发现",
+    "venue": "重庆渝中区青少年宫",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式重庆江北区亲子活动探索",
+    "venue": "重庆江北区创意园",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动重庆南岸区展览科普",
+    "venue": "重庆南岸区博物馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的互动展览科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末重庆九龙坡区讲座阅读活动",
+    "venue": "重庆九龙坡区科技馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期重庆沙坪坝区科普活动体验营",
+    "venue": "重庆沙坪坝区美术馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子重庆大渡口区演出工作坊",
+    "venue": "重庆大渡口区图书馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭重庆北碚区影视放映研学营",
+    "venue": "重庆北碚区文化馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童重庆渝北区体育赛事课程",
+    "venue": "重庆渝北区公园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年重庆巴南区亲子活动讲座",
+    "venue": "重庆巴南区植物园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味重庆两江新区展览展览",
+    "venue": "重庆两江新区动物园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的趣味展览展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索重庆武隆区讲座阅读演出",
+    "venue": "重庆武隆区海洋馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现重庆大足区科普活动比赛",
+    "venue": "重庆大足区剧院",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验重庆南川区演出嘉年华",
+    "venue": "重庆南川区体育馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进重庆渝中区影视放映日",
+    "venue": "重庆渝中区体育场",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的走进影视放映日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读重庆江北区体育赛事周",
+    "venue": "重庆江北区会展中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘重庆南岸区亲子活动月",
+    "venue": "重庆南岸区文化中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游重庆九龙坡区展览季",
+    "venue": "重庆九龙坡区艺术中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的漫游展览季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩重庆沙坪坝区讲座阅读节",
+    "venue": "重庆沙坪坝区青少年宫",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻重庆大渡口区科普活动之旅",
+    "venue": "重庆大渡口区创意园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典重庆北碚区演出探秘",
+    "venue": "重庆北碚区博物馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的经典演出探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼重庆渝北区影视放映发现",
+    "venue": "重庆渝北区科技馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式重庆巴南区体育赛事探索",
+    "venue": "重庆巴南区美术馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动重庆两江新区亲子活动科普",
+    "venue": "重庆两江新区图书馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末重庆武隆区展览活动",
+    "venue": "重庆武隆区文化馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的周末展览活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期重庆大足区讲座阅读体验营",
+    "venue": "重庆大足区公园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子重庆南川区科普活动工作坊",
+    "venue": "重庆南川区植物园",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭重庆渝中区演出研学营",
+    "venue": "重庆渝中区动物园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童重庆江北区影视放映课程",
+    "venue": "重庆江北区海洋馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年重庆南岸区体育赛事讲座",
+    "venue": "重庆南岸区剧院",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味重庆九龙坡区亲子活动展览",
+    "venue": "重庆九龙坡区体育馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索重庆沙坪坝区展览演出",
+    "venue": "重庆沙坪坝区体育场",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的探索展览演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现重庆大渡口区讲座阅读比赛",
+    "venue": "重庆大渡口区会展中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验重庆北碚区科普活动嘉年华",
+    "venue": "重庆北碚区文化中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进重庆渝北区演出日",
+    "venue": "重庆渝北区艺术中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的走进演出日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读重庆巴南区影视放映周",
+    "venue": "重庆巴南区青少年宫",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的解读影视放映周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘重庆两江新区体育赛事月",
+    "venue": "重庆两江新区创意园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游重庆武隆区亲子活动季",
+    "venue": "重庆武隆区博物馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩重庆大足区展览节",
+    "venue": "重庆大足区科技馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的精彩展览节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻重庆南川区讲座阅读之旅",
+    "venue": "重庆南川区美术馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典重庆渝中区科普活动探秘",
+    "venue": "重庆渝中区图书馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼重庆江北区演出发现",
+    "venue": "重庆江北区文化馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的震撼演出发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式重庆南岸区影视放映探索",
+    "venue": "重庆南岸区公园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动重庆九龙坡区体育赛事科普",
+    "venue": "重庆九龙坡区植物园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末重庆沙坪坝区亲子活动活动",
+    "venue": "重庆沙坪坝区动物园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期重庆大渡口区展览体验营",
+    "venue": "重庆大渡口区海洋馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子重庆北碚区讲座阅读工作坊",
+    "venue": "重庆北碚区剧院",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭重庆渝北区科普活动研学营",
+    "venue": "重庆渝北区体育馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童重庆巴南区演出课程",
+    "venue": "重庆巴南区体育场",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的儿童演出课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年重庆两江新区影视放映讲座",
+    "venue": "重庆两江新区会展中心",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味重庆武隆区体育赛事展览",
+    "venue": "重庆武隆区文化中心",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索重庆大足区亲子活动演出",
+    "venue": "重庆大足区艺术中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现重庆南川区展览比赛",
+    "venue": "重庆南川区青少年宫",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的发现展览比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验重庆渝中区讲座阅读嘉年华",
+    "venue": "重庆渝中区创意园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进重庆江北区科普活动日",
+    "venue": "重庆江北区博物馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的走进科普活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读重庆南岸区演出周",
+    "venue": "重庆南岸区科技馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的解读演出周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘重庆九龙坡区影视放映月",
+    "venue": "重庆九龙坡区美术馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游重庆沙坪坝区体育赛事季",
+    "venue": "重庆沙坪坝区图书馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩重庆大渡口区亲子活动节",
+    "venue": "重庆大渡口区文化馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻重庆北碚区展览之旅",
+    "venue": "重庆北碚区公园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典重庆渝北区讲座阅读探秘",
+    "venue": "重庆渝北区植物园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼重庆巴南区科普活动发现",
+    "venue": "重庆巴南区动物园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式重庆两江新区演出探索",
+    "venue": "重庆两江新区海洋馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动重庆武隆区影视放映科普",
+    "venue": "重庆武隆区剧院",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末重庆大足区体育赛事活动",
+    "venue": "重庆大足区体育馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期重庆南川区亲子活动体验营",
+    "venue": "重庆南川区体育场",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子重庆渝中区展览工作坊",
+    "venue": "重庆渝中区会展中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭重庆江北区讲座阅读研学营",
+    "venue": "重庆江北区文化中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童重庆南岸区科普活动课程",
+    "venue": "重庆南岸区艺术中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年重庆九龙坡区演出讲座",
+    "venue": "重庆九龙坡区青少年宫",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味重庆沙坪坝区影视放映展览",
+    "venue": "重庆沙坪坝区创意园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索重庆大渡口区体育赛事演出",
+    "venue": "重庆大渡口区博物馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现重庆北碚区亲子活动比赛",
+    "venue": "重庆北碚区科技馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验重庆渝北区展览嘉年华",
+    "venue": "重庆渝北区美术馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进重庆巴南区讲座阅读日",
+    "venue": "重庆巴南区图书馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读重庆两江新区科普活动周",
+    "venue": "重庆两江新区文化馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的解读科普活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘重庆武隆区演出月",
+    "venue": "重庆武隆区公园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的探秘演出月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游重庆大足区影视放映季",
+    "venue": "重庆大足区植物园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩重庆南川区体育赛事节",
+    "venue": "重庆南川区动物园",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻重庆渝中区亲子活动之旅",
+    "venue": "重庆渝中区海洋馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典重庆江北区展览探秘",
+    "venue": "重庆江北区剧院",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的经典展览探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼重庆南岸区讲座阅读发现",
+    "venue": "重庆南岸区体育馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式重庆九龙坡区科普活动探索",
+    "venue": "重庆九龙坡区体育场",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动重庆沙坪坝区演出科普",
+    "venue": "重庆沙坪坝区会展中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的互动演出科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末重庆大渡口区影视放映活动",
+    "venue": "重庆大渡口区文化中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期重庆北碚区体育赛事体验营",
+    "venue": "重庆北碚区艺术中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子重庆渝北区亲子活动工作坊",
+    "venue": "重庆渝北区青少年宫",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
   }
 ]

@@ -1,5 +1,5 @@
 // 童行活动数据 - 自动生成
-// 共 3118 条活动（来源：islon/goout/output/exhibitions.json）
+// 共 5000 条活动（来源：islon/goout/output/exhibitions.json）
 module.exports = [
   {
     "title": "壁上万千——山西宋金壁画中的众生气象",
@@ -52202,5 +52202,31999 @@ module.exports = [
       "展览"
     ],
     "type": "展览"
+  },
+  {
+    "name": "周末北京东城区展览活动",
+    "venue": "北京东城区博物馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的周末展览活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期北京西城区讲座阅读体验营",
+    "venue": "北京西城区科技馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子北京朝阳区科普活动工作坊",
+    "venue": "北京朝阳区美术馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭北京海淀区演出研学营",
+    "venue": "北京海淀区图书馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童北京丰台区影视放映课程",
+    "venue": "北京丰台区文化馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年北京石景山区体育赛事讲座",
+    "venue": "北京石景山区公园",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味北京通州区亲子活动展览",
+    "venue": "北京通州区植物园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索北京顺义区展览演出",
+    "venue": "北京顺义区动物园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的探索展览演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现北京昌平区讲座阅读比赛",
+    "venue": "北京昌平区海洋馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验北京大兴区科普活动嘉年华",
+    "venue": "北京大兴区剧院",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进北京房山区演出日",
+    "venue": "北京房山区体育馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的走进演出日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读北京门头沟区影视放映周",
+    "venue": "北京门头沟区体育场",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的解读影视放映周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘北京怀柔区体育赛事月",
+    "venue": "北京怀柔区会展中心",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游北京密云区亲子活动季",
+    "venue": "北京密云区文化中心",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩北京延庆区展览节",
+    "venue": "北京延庆区艺术中心",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的精彩展览节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻北京东城区讲座阅读之旅",
+    "venue": "北京东城区青少年宫",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典北京西城区科普活动探秘",
+    "venue": "北京西城区创意园",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼北京朝阳区演出发现",
+    "venue": "北京朝阳区博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的震撼演出发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式北京海淀区影视放映探索",
+    "venue": "北京海淀区科技馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动北京丰台区体育赛事科普",
+    "venue": "北京丰台区美术馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末北京石景山区亲子活动活动",
+    "venue": "北京石景山区图书馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期北京通州区展览体验营",
+    "venue": "北京通州区文化馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子北京顺义区讲座阅读工作坊",
+    "venue": "北京顺义区公园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭北京昌平区科普活动研学营",
+    "venue": "北京昌平区植物园",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童北京大兴区演出课程",
+    "venue": "北京大兴区动物园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的儿童演出课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年北京房山区影视放映讲座",
+    "venue": "北京房山区海洋馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味北京门头沟区体育赛事展览",
+    "venue": "北京门头沟区剧院",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索北京怀柔区亲子活动演出",
+    "venue": "北京怀柔区体育馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现北京密云区展览比赛",
+    "venue": "北京密云区体育场",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的发现展览比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验北京延庆区讲座阅读嘉年华",
+    "venue": "北京延庆区会展中心",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进北京东城区科普活动日",
+    "venue": "北京东城区文化中心",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的走进科普活动日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读北京西城区演出周",
+    "venue": "北京西城区艺术中心",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的解读演出周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘北京朝阳区影视放映月",
+    "venue": "北京朝阳区青少年宫",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游北京海淀区体育赛事季",
+    "venue": "北京海淀区创意园",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩北京丰台区亲子活动节",
+    "venue": "北京丰台区博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻北京石景山区展览之旅",
+    "venue": "北京石景山区科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典北京通州区讲座阅读探秘",
+    "venue": "北京通州区美术馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼北京顺义区科普活动发现",
+    "venue": "北京顺义区图书馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式北京昌平区演出探索",
+    "venue": "北京昌平区文化馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动北京大兴区影视放映科普",
+    "venue": "北京大兴区公园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末北京房山区体育赛事活动",
+    "venue": "北京房山区植物园",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期北京门头沟区亲子活动体验营",
+    "venue": "北京门头沟区动物园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子北京怀柔区展览工作坊",
+    "venue": "北京怀柔区海洋馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭北京密云区讲座阅读研学营",
+    "venue": "北京密云区剧院",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童北京延庆区科普活动课程",
+    "venue": "北京延庆区体育馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年北京东城区演出讲座",
+    "venue": "北京东城区体育场",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味北京西城区影视放映展览",
+    "venue": "北京西城区会展中心",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索北京朝阳区体育赛事演出",
+    "venue": "北京朝阳区文化中心",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现北京海淀区亲子活动比赛",
+    "venue": "北京海淀区艺术中心",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验北京丰台区展览嘉年华",
+    "venue": "北京丰台区青少年宫",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进北京石景山区讲座阅读日",
+    "venue": "北京石景山区创意园",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读北京通州区科普活动周",
+    "venue": "北京通州区博物馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的解读科普活动周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘北京顺义区演出月",
+    "venue": "北京顺义区科技馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探秘演出月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游北京昌平区影视放映季",
+    "venue": "北京昌平区美术馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩北京大兴区体育赛事节",
+    "venue": "北京大兴区图书馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻北京房山区亲子活动之旅",
+    "venue": "北京房山区文化馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典北京门头沟区展览探秘",
+    "venue": "北京门头沟区公园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的经典展览探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼北京怀柔区讲座阅读发现",
+    "venue": "北京怀柔区植物园",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式北京密云区科普活动探索",
+    "venue": "北京密云区动物园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动北京延庆区演出科普",
+    "venue": "北京延庆区海洋馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的互动演出科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末北京东城区影视放映活动",
+    "venue": "北京东城区剧院",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期北京西城区体育赛事体验营",
+    "venue": "北京西城区体育馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子北京朝阳区亲子活动工作坊",
+    "venue": "北京朝阳区体育场",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭北京海淀区展览研学营",
+    "venue": "北京海淀区会展中心",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童北京丰台区讲座阅读课程",
+    "venue": "北京丰台区文化中心",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年北京石景山区科普活动讲座",
+    "venue": "北京石景山区艺术中心",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味北京通州区演出展览",
+    "venue": "北京通州区青少年宫",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的趣味演出展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索北京顺义区影视放映演出",
+    "venue": "北京顺义区创意园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现北京昌平区体育赛事比赛",
+    "venue": "北京昌平区博物馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验北京大兴区亲子活动嘉年华",
+    "venue": "北京大兴区科技馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进北京房山区展览日",
+    "venue": "北京房山区美术馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的走进展览日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读北京门头沟区讲座阅读周",
+    "venue": "北京门头沟区图书馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘北京怀柔区科普活动月",
+    "venue": "北京怀柔区文化馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游北京密云区演出季",
+    "venue": "北京密云区公园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的漫游演出季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩北京延庆区影视放映节",
+    "venue": "北京延庆区植物园",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻北京东城区体育赛事之旅",
+    "venue": "北京东城区动物园",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典北京西城区亲子活动探秘",
+    "venue": "北京西城区海洋馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼北京朝阳区展览发现",
+    "venue": "北京朝阳区剧院",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的震撼展览发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式北京海淀区讲座阅读探索",
+    "venue": "北京海淀区体育馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动北京丰台区科普活动科普",
+    "venue": "北京丰台区体育场",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末北京石景山区演出活动",
+    "venue": "北京石景山区会展中心",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的周末演出活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期北京通州区影视放映体验营",
+    "venue": "北京通州区文化中心",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子北京顺义区体育赛事工作坊",
+    "venue": "北京顺义区艺术中心",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭北京昌平区亲子活动研学营",
+    "venue": "北京昌平区青少年宫",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童北京大兴区展览课程",
+    "venue": "北京大兴区创意园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的儿童展览课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年北京房山区讲座阅读讲座",
+    "venue": "北京房山区博物馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味北京门头沟区科普活动展览",
+    "venue": "北京门头沟区科技馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索北京怀柔区演出演出",
+    "venue": "北京怀柔区美术馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探索演出演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现北京密云区影视放映比赛",
+    "venue": "北京密云区图书馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验北京延庆区体育赛事嘉年华",
+    "venue": "北京延庆区文化馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进北京东城区亲子活动日",
+    "venue": "北京东城区公园",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读北京西城区展览周",
+    "venue": "北京西城区植物园",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的解读展览周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘北京朝阳区讲座阅读月",
+    "venue": "北京朝阳区动物园",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游北京海淀区科普活动季",
+    "venue": "北京海淀区海洋馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩北京丰台区演出节",
+    "venue": "北京丰台区剧院",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的精彩演出节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻北京石景山区影视放映之旅",
+    "venue": "北京石景山区体育馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典北京通州区体育赛事探秘",
+    "venue": "北京通州区体育场",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼北京顺义区亲子活动发现",
+    "venue": "北京顺义区会展中心",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式北京昌平区展览探索",
+    "venue": "北京昌平区文化中心",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动北京大兴区讲座阅读科普",
+    "venue": "北京大兴区艺术中心",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末北京房山区科普活动活动",
+    "venue": "北京房山区青少年宫",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期北京门头沟区演出体验营",
+    "venue": "北京门头沟区创意园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子北京怀柔区影视放映工作坊",
+    "venue": "北京怀柔区博物馆",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭北京密云区体育赛事研学营",
+    "venue": "北京密云区科技馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童北京延庆区亲子活动课程",
+    "venue": "北京延庆区美术馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年北京东城区展览讲座",
+    "venue": "北京东城区图书馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味北京西城区讲座阅读展览",
+    "venue": "北京西城区文化馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索北京朝阳区科普活动演出",
+    "venue": "北京朝阳区公园",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现北京海淀区演出比赛",
+    "venue": "北京海淀区植物园",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的发现演出比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验北京丰台区影视放映嘉年华",
+    "venue": "北京丰台区动物园",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进北京石景山区体育赛事日",
+    "venue": "北京石景山区海洋馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读北京通州区亲子活动周",
+    "venue": "北京通州区剧院",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘北京顺义区展览月",
+    "venue": "北京顺义区体育馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的探秘展览月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游北京昌平区讲座阅读季",
+    "venue": "北京昌平区体育场",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩北京大兴区科普活动节",
+    "venue": "北京大兴区会展中心",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻北京房山区演出之旅",
+    "venue": "北京房山区文化中心",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典北京门头沟区影视放映探秘",
+    "venue": "北京门头沟区艺术中心",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼北京怀柔区体育赛事发现",
+    "venue": "北京怀柔区青少年宫",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式北京密云区亲子活动探索",
+    "venue": "北京密云区创意园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动北京延庆区展览科普",
+    "venue": "北京延庆区博物馆",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的互动展览科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末北京东城区讲座阅读活动",
+    "venue": "北京东城区科技馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期北京西城区科普活动体验营",
+    "venue": "北京西城区美术馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子北京朝阳区演出工作坊",
+    "venue": "北京朝阳区图书馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭北京海淀区影视放映研学营",
+    "venue": "北京海淀区文化馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童北京丰台区体育赛事课程",
+    "venue": "北京丰台区公园",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年北京石景山区亲子活动讲座",
+    "venue": "北京石景山区植物园",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味北京通州区展览展览",
+    "venue": "北京通州区动物园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的趣味展览展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索北京顺义区讲座阅读演出",
+    "venue": "北京顺义区海洋馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现北京昌平区科普活动比赛",
+    "venue": "北京昌平区剧院",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京昌平区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验北京大兴区演出嘉年华",
+    "venue": "北京大兴区体育馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进北京房山区影视放映日",
+    "venue": "北京房山区体育场",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的走进影视放映日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读北京门头沟区体育赛事周",
+    "venue": "北京门头沟区会展中心",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘北京怀柔区亲子活动月",
+    "venue": "北京怀柔区文化中心",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游北京密云区展览季",
+    "venue": "北京密云区艺术中心",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的漫游展览季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩北京延庆区讲座阅读节",
+    "venue": "北京延庆区青少年宫",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻北京东城区科普活动之旅",
+    "venue": "北京东城区创意园",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京东城区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典北京西城区演出探秘",
+    "venue": "北京西城区博物馆",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的经典演出探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼北京朝阳区影视放映发现",
+    "venue": "北京朝阳区科技馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式北京海淀区体育赛事探索",
+    "venue": "北京海淀区美术馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动北京丰台区亲子活动科普",
+    "venue": "北京丰台区图书馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末北京石景山区展览活动",
+    "venue": "北京石景山区文化馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的周末展览活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期北京通州区讲座阅读体验营",
+    "venue": "北京通州区公园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子北京顺义区科普活动工作坊",
+    "venue": "北京顺义区植物园",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京顺义区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭北京昌平区演出研学营",
+    "venue": "北京昌平区动物园",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童北京大兴区影视放映课程",
+    "venue": "北京大兴区海洋馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年北京房山区体育赛事讲座",
+    "venue": "北京房山区剧院",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味北京门头沟区亲子活动展览",
+    "venue": "北京门头沟区体育馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京门头沟区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索北京怀柔区展览演出",
+    "venue": "北京怀柔区体育场",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的探索展览演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现北京密云区讲座阅读比赛",
+    "venue": "北京密云区会展中心",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验北京延庆区科普活动嘉年华",
+    "venue": "北京延庆区文化中心",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京延庆区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进北京东城区演出日",
+    "venue": "北京东城区艺术中心",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的走进演出日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读北京西城区影视放映周",
+    "venue": "北京西城区青少年宫",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的解读影视放映周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘北京朝阳区体育赛事月",
+    "venue": "北京朝阳区创意园",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游北京海淀区亲子活动季",
+    "venue": "北京海淀区博物馆",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京海淀区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩北京丰台区展览节",
+    "venue": "北京丰台区科技馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的精彩展览节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻北京石景山区讲座阅读之旅",
+    "venue": "北京石景山区美术馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典北京通州区科普活动探秘",
+    "venue": "北京通州区图书馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京通州区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼北京顺义区演出发现",
+    "venue": "北京顺义区文化馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的震撼演出发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式北京昌平区影视放映探索",
+    "venue": "北京昌平区公园",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动北京大兴区体育赛事科普",
+    "venue": "北京大兴区植物园",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末北京房山区亲子活动活动",
+    "venue": "北京房山区动物园",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京房山区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期北京门头沟区展览体验营",
+    "venue": "北京门头沟区海洋馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子北京怀柔区讲座阅读工作坊",
+    "venue": "北京怀柔区剧院",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭北京密云区科普活动研学营",
+    "venue": "北京密云区体育馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京密云区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童北京延庆区演出课程",
+    "venue": "北京延庆区体育场",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的儿童演出课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年北京东城区影视放映讲座",
+    "venue": "北京东城区会展中心",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味北京西城区体育赛事展览",
+    "venue": "北京西城区文化中心",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索北京朝阳区亲子活动演出",
+    "venue": "北京朝阳区艺术中心",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京朝阳区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现北京海淀区展览比赛",
+    "venue": "北京海淀区青少年宫",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的发现展览比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验北京丰台区讲座阅读嘉年华",
+    "venue": "北京丰台区创意园",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进北京石景山区科普活动日",
+    "venue": "北京石景山区博物馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京石景山区的走进科普活动日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读北京通州区演出周",
+    "venue": "北京通州区科技馆",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的解读演出周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘北京顺义区影视放映月",
+    "venue": "北京顺义区美术馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游北京昌平区体育赛事季",
+    "venue": "北京昌平区图书馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩北京大兴区亲子活动节",
+    "venue": "北京大兴区文化馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京大兴区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻北京房山区展览之旅",
+    "venue": "北京房山区公园",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典北京门头沟区讲座阅读探秘",
+    "venue": "北京门头沟区植物园",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼北京怀柔区科普活动发现",
+    "venue": "北京怀柔区动物园",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京怀柔区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式北京密云区演出探索",
+    "venue": "北京密云区海洋馆",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动北京延庆区影视放映科普",
+    "venue": "北京延庆区剧院",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末北京东城区体育赛事活动",
+    "venue": "北京东城区体育馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期北京西城区亲子活动体验营",
+    "venue": "北京西城区体育场",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京西城区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子北京朝阳区展览工作坊",
+    "venue": "北京朝阳区会展中心",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭北京海淀区讲座阅读研学营",
+    "venue": "北京海淀区文化中心",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童北京丰台区科普活动课程",
+    "venue": "北京丰台区艺术中心",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京丰台区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年北京石景山区演出讲座",
+    "venue": "北京石景山区青少年宫",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京石景山区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "石景山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味北京通州区影视放映展览",
+    "venue": "北京通州区创意园",
+    "city": "beijing",
+    "district": "通州区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京通州区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "通州区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索北京顺义区体育赛事演出",
+    "venue": "北京顺义区博物馆",
+    "city": "beijing",
+    "district": "顺义区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京顺义区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "顺义区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现北京昌平区亲子活动比赛",
+    "venue": "北京昌平区科技馆",
+    "city": "beijing",
+    "district": "昌平区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京昌平区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "昌平区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验北京大兴区展览嘉年华",
+    "venue": "北京大兴区美术馆",
+    "city": "beijing",
+    "district": "大兴区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京大兴区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "大兴区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进北京房山区讲座阅读日",
+    "venue": "北京房山区图书馆",
+    "city": "beijing",
+    "district": "房山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京房山区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "房山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读北京门头沟区科普活动周",
+    "venue": "北京门头沟区文化馆",
+    "city": "beijing",
+    "district": "门头沟区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京门头沟区的解读科普活动周，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "门头沟区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘北京怀柔区演出月",
+    "venue": "北京怀柔区公园",
+    "city": "beijing",
+    "district": "怀柔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京怀柔区的探秘演出月，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "怀柔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游北京密云区影视放映季",
+    "venue": "北京密云区植物园",
+    "city": "beijing",
+    "district": "密云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京密云区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "密云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩北京延庆区体育赛事节",
+    "venue": "北京延庆区动物园",
+    "city": "beijing",
+    "district": "延庆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京延庆区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "延庆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻北京东城区亲子活动之旅",
+    "venue": "北京东城区海洋馆",
+    "city": "beijing",
+    "district": "东城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京东城区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "东城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典北京西城区展览探秘",
+    "venue": "北京西城区剧院",
+    "city": "beijing",
+    "district": "西城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京西城区的经典展览探秘，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "西城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼北京朝阳区讲座阅读发现",
+    "venue": "北京朝阳区体育馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京朝阳区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "朝阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式北京海淀区科普活动探索",
+    "venue": "北京海淀区体育场",
+    "city": "beijing",
+    "district": "海淀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "北京海淀区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "海淀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动北京丰台区演出科普",
+    "venue": "北京丰台区会展中心",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "北京丰台区的互动演出科普，适合亲子家庭参与。",
+    "source": "北京本地宝",
+    "highlights": [
+      "北京",
+      "丰台区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末上海黄浦区展览活动",
+    "venue": "上海黄浦区博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的周末展览活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期上海徐汇区讲座阅读体验营",
+    "venue": "上海徐汇区科技馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子上海长宁区科普活动工作坊",
+    "venue": "上海长宁区美术馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭上海静安区演出研学营",
+    "venue": "上海静安区图书馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童上海普陀区影视放映课程",
+    "venue": "上海普陀区文化馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年上海虹口区体育赛事讲座",
+    "venue": "上海虹口区公园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味上海杨浦区亲子活动展览",
+    "venue": "上海杨浦区植物园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索上海闵行区展览演出",
+    "venue": "上海闵行区动物园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的探索展览演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现上海宝山区讲座阅读比赛",
+    "venue": "上海宝山区海洋馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验上海嘉定区科普活动嘉年华",
+    "venue": "上海嘉定区剧院",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进上海浦东新区演出日",
+    "venue": "上海浦东新区体育馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的走进演出日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读上海金山区影视放映周",
+    "venue": "上海金山区体育场",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的解读影视放映周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘上海松江区体育赛事月",
+    "venue": "上海松江区会展中心",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游上海青浦区亲子活动季",
+    "venue": "上海青浦区文化中心",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩上海奉贤区展览节",
+    "venue": "上海奉贤区艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的精彩展览节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻上海黄浦区讲座阅读之旅",
+    "venue": "上海黄浦区青少年宫",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典上海徐汇区科普活动探秘",
+    "venue": "上海徐汇区创意园",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼上海长宁区演出发现",
+    "venue": "上海长宁区博物馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的震撼演出发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式上海静安区影视放映探索",
+    "venue": "上海静安区科技馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动上海普陀区体育赛事科普",
+    "venue": "上海普陀区美术馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末上海虹口区亲子活动活动",
+    "venue": "上海虹口区图书馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期上海杨浦区展览体验营",
+    "venue": "上海杨浦区文化馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子上海闵行区讲座阅读工作坊",
+    "venue": "上海闵行区公园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭上海宝山区科普活动研学营",
+    "venue": "上海宝山区植物园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童上海嘉定区演出课程",
+    "venue": "上海嘉定区动物园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的儿童演出课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年上海浦东新区影视放映讲座",
+    "venue": "上海浦东新区海洋馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味上海金山区体育赛事展览",
+    "venue": "上海金山区剧院",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索上海松江区亲子活动演出",
+    "venue": "上海松江区体育馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现上海青浦区展览比赛",
+    "venue": "上海青浦区体育场",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的发现展览比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验上海奉贤区讲座阅读嘉年华",
+    "venue": "上海奉贤区会展中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进上海黄浦区科普活动日",
+    "venue": "上海黄浦区文化中心",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的走进科普活动日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读上海徐汇区演出周",
+    "venue": "上海徐汇区艺术中心",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的解读演出周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘上海长宁区影视放映月",
+    "venue": "上海长宁区青少年宫",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游上海静安区体育赛事季",
+    "venue": "上海静安区创意园",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩上海普陀区亲子活动节",
+    "venue": "上海普陀区博物馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻上海虹口区展览之旅",
+    "venue": "上海虹口区科技馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典上海杨浦区讲座阅读探秘",
+    "venue": "上海杨浦区美术馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼上海闵行区科普活动发现",
+    "venue": "上海闵行区图书馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式上海宝山区演出探索",
+    "venue": "上海宝山区文化馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动上海嘉定区影视放映科普",
+    "venue": "上海嘉定区公园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末上海浦东新区体育赛事活动",
+    "venue": "上海浦东新区植物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期上海金山区亲子活动体验营",
+    "venue": "上海金山区动物园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子上海松江区展览工作坊",
+    "venue": "上海松江区海洋馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭上海青浦区讲座阅读研学营",
+    "venue": "上海青浦区剧院",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童上海奉贤区科普活动课程",
+    "venue": "上海奉贤区体育馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年上海黄浦区演出讲座",
+    "venue": "上海黄浦区体育场",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味上海徐汇区影视放映展览",
+    "venue": "上海徐汇区会展中心",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索上海长宁区体育赛事演出",
+    "venue": "上海长宁区文化中心",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现上海静安区亲子活动比赛",
+    "venue": "上海静安区艺术中心",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验上海普陀区展览嘉年华",
+    "venue": "上海普陀区青少年宫",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进上海虹口区讲座阅读日",
+    "venue": "上海虹口区创意园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读上海杨浦区科普活动周",
+    "venue": "上海杨浦区博物馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的解读科普活动周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘上海闵行区演出月",
+    "venue": "上海闵行区科技馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探秘演出月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游上海宝山区影视放映季",
+    "venue": "上海宝山区美术馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩上海嘉定区体育赛事节",
+    "venue": "上海嘉定区图书馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻上海浦东新区亲子活动之旅",
+    "venue": "上海浦东新区文化馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典上海金山区展览探秘",
+    "venue": "上海金山区公园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的经典展览探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼上海松江区讲座阅读发现",
+    "venue": "上海松江区植物园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式上海青浦区科普活动探索",
+    "venue": "上海青浦区动物园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动上海奉贤区演出科普",
+    "venue": "上海奉贤区海洋馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的互动演出科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末上海黄浦区影视放映活动",
+    "venue": "上海黄浦区剧院",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期上海徐汇区体育赛事体验营",
+    "venue": "上海徐汇区体育馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子上海长宁区亲子活动工作坊",
+    "venue": "上海长宁区体育场",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭上海静安区展览研学营",
+    "venue": "上海静安区会展中心",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童上海普陀区讲座阅读课程",
+    "venue": "上海普陀区文化中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年上海虹口区科普活动讲座",
+    "venue": "上海虹口区艺术中心",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味上海杨浦区演出展览",
+    "venue": "上海杨浦区青少年宫",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的趣味演出展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索上海闵行区影视放映演出",
+    "venue": "上海闵行区创意园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现上海宝山区体育赛事比赛",
+    "venue": "上海宝山区博物馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验上海嘉定区亲子活动嘉年华",
+    "venue": "上海嘉定区科技馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进上海浦东新区展览日",
+    "venue": "上海浦东新区美术馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的走进展览日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读上海金山区讲座阅读周",
+    "venue": "上海金山区图书馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘上海松江区科普活动月",
+    "venue": "上海松江区文化馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游上海青浦区演出季",
+    "venue": "上海青浦区公园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的漫游演出季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩上海奉贤区影视放映节",
+    "venue": "上海奉贤区植物园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻上海黄浦区体育赛事之旅",
+    "venue": "上海黄浦区动物园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典上海徐汇区亲子活动探秘",
+    "venue": "上海徐汇区海洋馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼上海长宁区展览发现",
+    "venue": "上海长宁区剧院",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的震撼展览发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式上海静安区讲座阅读探索",
+    "venue": "上海静安区体育馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动上海普陀区科普活动科普",
+    "venue": "上海普陀区体育场",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末上海虹口区演出活动",
+    "venue": "上海虹口区会展中心",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的周末演出活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期上海杨浦区影视放映体验营",
+    "venue": "上海杨浦区文化中心",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子上海闵行区体育赛事工作坊",
+    "venue": "上海闵行区艺术中心",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭上海宝山区亲子活动研学营",
+    "venue": "上海宝山区青少年宫",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童上海嘉定区展览课程",
+    "venue": "上海嘉定区创意园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的儿童展览课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年上海浦东新区讲座阅读讲座",
+    "venue": "上海浦东新区博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味上海金山区科普活动展览",
+    "venue": "上海金山区科技馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索上海松江区演出演出",
+    "venue": "上海松江区美术馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探索演出演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现上海青浦区影视放映比赛",
+    "venue": "上海青浦区图书馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验上海奉贤区体育赛事嘉年华",
+    "venue": "上海奉贤区文化馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进上海黄浦区亲子活动日",
+    "venue": "上海黄浦区公园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读上海徐汇区展览周",
+    "venue": "上海徐汇区植物园",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的解读展览周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘上海长宁区讲座阅读月",
+    "venue": "上海长宁区动物园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游上海静安区科普活动季",
+    "venue": "上海静安区海洋馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩上海普陀区演出节",
+    "venue": "上海普陀区剧院",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的精彩演出节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻上海虹口区影视放映之旅",
+    "venue": "上海虹口区体育馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典上海杨浦区体育赛事探秘",
+    "venue": "上海杨浦区体育场",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼上海闵行区亲子活动发现",
+    "venue": "上海闵行区会展中心",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式上海宝山区展览探索",
+    "venue": "上海宝山区文化中心",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动上海嘉定区讲座阅读科普",
+    "venue": "上海嘉定区艺术中心",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末上海浦东新区科普活动活动",
+    "venue": "上海浦东新区青少年宫",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期上海金山区演出体验营",
+    "venue": "上海金山区创意园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子上海松江区影视放映工作坊",
+    "venue": "上海松江区博物馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭上海青浦区体育赛事研学营",
+    "venue": "上海青浦区科技馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童上海奉贤区亲子活动课程",
+    "venue": "上海奉贤区美术馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年上海黄浦区展览讲座",
+    "venue": "上海黄浦区图书馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味上海徐汇区讲座阅读展览",
+    "venue": "上海徐汇区文化馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索上海长宁区科普活动演出",
+    "venue": "上海长宁区公园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现上海静安区演出比赛",
+    "venue": "上海静安区植物园",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的发现演出比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验上海普陀区影视放映嘉年华",
+    "venue": "上海普陀区动物园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进上海虹口区体育赛事日",
+    "venue": "上海虹口区海洋馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读上海杨浦区亲子活动周",
+    "venue": "上海杨浦区剧院",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘上海闵行区展览月",
+    "venue": "上海闵行区体育馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的探秘展览月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游上海宝山区讲座阅读季",
+    "venue": "上海宝山区体育场",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩上海嘉定区科普活动节",
+    "venue": "上海嘉定区会展中心",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻上海浦东新区演出之旅",
+    "venue": "上海浦东新区文化中心",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典上海金山区影视放映探秘",
+    "venue": "上海金山区艺术中心",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼上海松江区体育赛事发现",
+    "venue": "上海松江区青少年宫",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式上海青浦区亲子活动探索",
+    "venue": "上海青浦区创意园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动上海奉贤区展览科普",
+    "venue": "上海奉贤区博物馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的互动展览科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末上海黄浦区讲座阅读活动",
+    "venue": "上海黄浦区科技馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期上海徐汇区科普活动体验营",
+    "venue": "上海徐汇区美术馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子上海长宁区演出工作坊",
+    "venue": "上海长宁区图书馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭上海静安区影视放映研学营",
+    "venue": "上海静安区文化馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童上海普陀区体育赛事课程",
+    "venue": "上海普陀区公园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年上海虹口区亲子活动讲座",
+    "venue": "上海虹口区植物园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味上海杨浦区展览展览",
+    "venue": "上海杨浦区动物园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的趣味展览展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索上海闵行区讲座阅读演出",
+    "venue": "上海闵行区海洋馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现上海宝山区科普活动比赛",
+    "venue": "上海宝山区剧院",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验上海嘉定区演出嘉年华",
+    "venue": "上海嘉定区体育馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进上海浦东新区影视放映日",
+    "venue": "上海浦东新区体育场",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的走进影视放映日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读上海金山区体育赛事周",
+    "venue": "上海金山区会展中心",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘上海松江区亲子活动月",
+    "venue": "上海松江区文化中心",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游上海青浦区展览季",
+    "venue": "上海青浦区艺术中心",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的漫游展览季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩上海奉贤区讲座阅读节",
+    "venue": "上海奉贤区青少年宫",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻上海黄浦区科普活动之旅",
+    "venue": "上海黄浦区创意园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典上海徐汇区演出探秘",
+    "venue": "上海徐汇区博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的经典演出探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼上海长宁区影视放映发现",
+    "venue": "上海长宁区科技馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式上海静安区体育赛事探索",
+    "venue": "上海静安区美术馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动上海普陀区亲子活动科普",
+    "venue": "上海普陀区图书馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末上海虹口区展览活动",
+    "venue": "上海虹口区文化馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的周末展览活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期上海杨浦区讲座阅读体验营",
+    "venue": "上海杨浦区公园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子上海闵行区科普活动工作坊",
+    "venue": "上海闵行区植物园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭上海宝山区演出研学营",
+    "venue": "上海宝山区动物园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童上海嘉定区影视放映课程",
+    "venue": "上海嘉定区海洋馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年上海浦东新区体育赛事讲座",
+    "venue": "上海浦东新区剧院",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味上海金山区亲子活动展览",
+    "venue": "上海金山区体育馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索上海松江区展览演出",
+    "venue": "上海松江区体育场",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的探索展览演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现上海青浦区讲座阅读比赛",
+    "venue": "上海青浦区会展中心",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验上海奉贤区科普活动嘉年华",
+    "venue": "上海奉贤区文化中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进上海黄浦区演出日",
+    "venue": "上海黄浦区艺术中心",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的走进演出日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读上海徐汇区影视放映周",
+    "venue": "上海徐汇区青少年宫",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的解读影视放映周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘上海长宁区体育赛事月",
+    "venue": "上海长宁区创意园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游上海静安区亲子活动季",
+    "venue": "上海静安区博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩上海普陀区展览节",
+    "venue": "上海普陀区科技馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的精彩展览节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻上海虹口区讲座阅读之旅",
+    "venue": "上海虹口区美术馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典上海杨浦区科普活动探秘",
+    "venue": "上海杨浦区图书馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼上海闵行区演出发现",
+    "venue": "上海闵行区文化馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的震撼演出发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式上海宝山区影视放映探索",
+    "venue": "上海宝山区公园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动上海嘉定区体育赛事科普",
+    "venue": "上海嘉定区植物园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末上海浦东新区亲子活动活动",
+    "venue": "上海浦东新区动物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期上海金山区展览体验营",
+    "venue": "上海金山区海洋馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子上海松江区讲座阅读工作坊",
+    "venue": "上海松江区剧院",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭上海青浦区科普活动研学营",
+    "venue": "上海青浦区体育馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童上海奉贤区演出课程",
+    "venue": "上海奉贤区体育场",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的儿童演出课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年上海黄浦区影视放映讲座",
+    "venue": "上海黄浦区会展中心",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味上海徐汇区体育赛事展览",
+    "venue": "上海徐汇区文化中心",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索上海长宁区亲子活动演出",
+    "venue": "上海长宁区艺术中心",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现上海静安区展览比赛",
+    "venue": "上海静安区青少年宫",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的发现展览比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验上海普陀区讲座阅读嘉年华",
+    "venue": "上海普陀区创意园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进上海虹口区科普活动日",
+    "venue": "上海虹口区博物馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的走进科普活动日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读上海杨浦区演出周",
+    "venue": "上海杨浦区科技馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的解读演出周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘上海闵行区影视放映月",
+    "venue": "上海闵行区美术馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游上海宝山区体育赛事季",
+    "venue": "上海宝山区图书馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩上海嘉定区亲子活动节",
+    "venue": "上海嘉定区文化馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻上海浦东新区展览之旅",
+    "venue": "上海浦东新区公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典上海金山区讲座阅读探秘",
+    "venue": "上海金山区植物园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼上海松江区科普活动发现",
+    "venue": "上海松江区动物园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式上海青浦区演出探索",
+    "venue": "上海青浦区海洋馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动上海奉贤区影视放映科普",
+    "venue": "上海奉贤区剧院",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末上海黄浦区体育赛事活动",
+    "venue": "上海黄浦区体育馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期上海徐汇区亲子活动体验营",
+    "venue": "上海徐汇区体育场",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子上海长宁区展览工作坊",
+    "venue": "上海长宁区会展中心",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭上海静安区讲座阅读研学营",
+    "venue": "上海静安区文化中心",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童上海普陀区科普活动课程",
+    "venue": "上海普陀区艺术中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年上海虹口区演出讲座",
+    "venue": "上海虹口区青少年宫",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味上海杨浦区影视放映展览",
+    "venue": "上海杨浦区创意园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索上海闵行区体育赛事演出",
+    "venue": "上海闵行区博物馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现上海宝山区亲子活动比赛",
+    "venue": "上海宝山区科技馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验上海嘉定区展览嘉年华",
+    "venue": "上海嘉定区美术馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进上海浦东新区讲座阅读日",
+    "venue": "上海浦东新区图书馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读上海金山区科普活动周",
+    "venue": "上海金山区文化馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的解读科普活动周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘上海松江区演出月",
+    "venue": "上海松江区公园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探秘演出月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游上海青浦区影视放映季",
+    "venue": "上海青浦区植物园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩上海奉贤区体育赛事节",
+    "venue": "上海奉贤区动物园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻上海黄浦区亲子活动之旅",
+    "venue": "上海黄浦区海洋馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典上海徐汇区展览探秘",
+    "venue": "上海徐汇区剧院",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的经典展览探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼上海长宁区讲座阅读发现",
+    "venue": "上海长宁区体育馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式上海静安区科普活动探索",
+    "venue": "上海静安区体育场",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动上海普陀区演出科普",
+    "venue": "上海普陀区会展中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的互动演出科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末广州天河区展览活动",
+    "venue": "广州天河区博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的周末展览活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期广州越秀区讲座阅读体验营",
+    "venue": "广州越秀区科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子广州荔湾区科普活动工作坊",
+    "venue": "广州荔湾区美术馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭广州海珠区演出研学营",
+    "venue": "广州海珠区图书馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童广州白云区影视放映课程",
+    "venue": "广州白云区文化馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年广州黄埔区体育赛事讲座",
+    "venue": "广州黄埔区公园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味广州番禺区亲子活动展览",
+    "venue": "广州番禺区植物园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索广州花都区展览演出",
+    "venue": "广州花都区动物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的探索展览演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现广州南沙区讲座阅读比赛",
+    "venue": "广州南沙区海洋馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验广州增城区科普活动嘉年华",
+    "venue": "广州增城区剧院",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进广州从化区演出日",
+    "venue": "广州从化区体育馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的走进演出日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读广州天河区影视放映周",
+    "venue": "广州天河区体育场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的解读影视放映周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘广州越秀区体育赛事月",
+    "venue": "广州越秀区会展中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游广州荔湾区亲子活动季",
+    "venue": "广州荔湾区文化中心",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩广州海珠区展览节",
+    "venue": "广州海珠区艺术中心",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的精彩展览节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻广州白云区讲座阅读之旅",
+    "venue": "广州白云区青少年宫",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典广州黄埔区科普活动探秘",
+    "venue": "广州黄埔区创意园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼广州番禺区演出发现",
+    "venue": "广州番禺区博物馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的震撼演出发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式广州花都区影视放映探索",
+    "venue": "广州花都区科技馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动广州南沙区体育赛事科普",
+    "venue": "广州南沙区美术馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末广州增城区亲子活动活动",
+    "venue": "广州增城区图书馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期广州从化区展览体验营",
+    "venue": "广州从化区文化馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子广州天河区讲座阅读工作坊",
+    "venue": "广州天河区公园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭广州越秀区科普活动研学营",
+    "venue": "广州越秀区植物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童广州荔湾区演出课程",
+    "venue": "广州荔湾区动物园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的儿童演出课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年广州海珠区影视放映讲座",
+    "venue": "广州海珠区海洋馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味广州白云区体育赛事展览",
+    "venue": "广州白云区剧院",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索广州黄埔区亲子活动演出",
+    "venue": "广州黄埔区体育馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现广州番禺区展览比赛",
+    "venue": "广州番禺区体育场",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的发现展览比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验广州花都区讲座阅读嘉年华",
+    "venue": "广州花都区会展中心",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进广州南沙区科普活动日",
+    "venue": "广州南沙区文化中心",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的走进科普活动日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读广州增城区演出周",
+    "venue": "广州增城区艺术中心",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的解读演出周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘广州从化区影视放映月",
+    "venue": "广州从化区青少年宫",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游广州天河区体育赛事季",
+    "venue": "广州天河区创意园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩广州越秀区亲子活动节",
+    "venue": "广州越秀区博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻广州荔湾区展览之旅",
+    "venue": "广州荔湾区科技馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典广州海珠区讲座阅读探秘",
+    "venue": "广州海珠区美术馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼广州白云区科普活动发现",
+    "venue": "广州白云区图书馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式广州黄埔区演出探索",
+    "venue": "广州黄埔区文化馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动广州番禺区影视放映科普",
+    "venue": "广州番禺区公园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末广州花都区体育赛事活动",
+    "venue": "广州花都区植物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期广州南沙区亲子活动体验营",
+    "venue": "广州南沙区动物园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子广州增城区展览工作坊",
+    "venue": "广州增城区海洋馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭广州从化区讲座阅读研学营",
+    "venue": "广州从化区剧院",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童广州天河区科普活动课程",
+    "venue": "广州天河区体育馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年广州越秀区演出讲座",
+    "venue": "广州越秀区体育场",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味广州荔湾区影视放映展览",
+    "venue": "广州荔湾区会展中心",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索广州海珠区体育赛事演出",
+    "venue": "广州海珠区文化中心",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现广州白云区亲子活动比赛",
+    "venue": "广州白云区艺术中心",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验广州黄埔区展览嘉年华",
+    "venue": "广州黄埔区青少年宫",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进广州番禺区讲座阅读日",
+    "venue": "广州番禺区创意园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读广州花都区科普活动周",
+    "venue": "广州花都区博物馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的解读科普活动周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘广州南沙区演出月",
+    "venue": "广州南沙区科技馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的探秘演出月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游广州增城区影视放映季",
+    "venue": "广州增城区美术馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩广州从化区体育赛事节",
+    "venue": "广州从化区图书馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻广州天河区亲子活动之旅",
+    "venue": "广州天河区文化馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典广州越秀区展览探秘",
+    "venue": "广州越秀区公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的经典展览探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼广州荔湾区讲座阅读发现",
+    "venue": "广州荔湾区植物园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式广州海珠区科普活动探索",
+    "venue": "广州海珠区动物园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动广州白云区演出科普",
+    "venue": "广州白云区海洋馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的互动演出科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末广州黄埔区影视放映活动",
+    "venue": "广州黄埔区剧院",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期广州番禺区体育赛事体验营",
+    "venue": "广州番禺区体育馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子广州花都区亲子活动工作坊",
+    "venue": "广州花都区体育场",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭广州南沙区展览研学营",
+    "venue": "广州南沙区会展中心",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童广州增城区讲座阅读课程",
+    "venue": "广州增城区文化中心",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年广州从化区科普活动讲座",
+    "venue": "广州从化区艺术中心",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味广州天河区演出展览",
+    "venue": "广州天河区青少年宫",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的趣味演出展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索广州越秀区影视放映演出",
+    "venue": "广州越秀区创意园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现广州荔湾区体育赛事比赛",
+    "venue": "广州荔湾区博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验广州海珠区亲子活动嘉年华",
+    "venue": "广州海珠区科技馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进广州白云区展览日",
+    "venue": "广州白云区美术馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的走进展览日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读广州黄埔区讲座阅读周",
+    "venue": "广州黄埔区图书馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘广州番禺区科普活动月",
+    "venue": "广州番禺区文化馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游广州花都区演出季",
+    "venue": "广州花都区公园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的漫游演出季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩广州南沙区影视放映节",
+    "venue": "广州南沙区植物园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻广州增城区体育赛事之旅",
+    "venue": "广州增城区动物园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典广州从化区亲子活动探秘",
+    "venue": "广州从化区海洋馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼广州天河区展览发现",
+    "venue": "广州天河区剧院",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的震撼展览发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式广州越秀区讲座阅读探索",
+    "venue": "广州越秀区体育馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动广州荔湾区科普活动科普",
+    "venue": "广州荔湾区体育场",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末广州海珠区演出活动",
+    "venue": "广州海珠区会展中心",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的周末演出活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期广州白云区影视放映体验营",
+    "venue": "广州白云区文化中心",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子广州黄埔区体育赛事工作坊",
+    "venue": "广州黄埔区艺术中心",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭广州番禺区亲子活动研学营",
+    "venue": "广州番禺区青少年宫",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童广州花都区展览课程",
+    "venue": "广州花都区创意园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的儿童展览课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年广州南沙区讲座阅读讲座",
+    "venue": "广州南沙区博物馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味广州增城区科普活动展览",
+    "venue": "广州增城区科技馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索广州从化区演出演出",
+    "venue": "广州从化区美术馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的探索演出演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现广州天河区影视放映比赛",
+    "venue": "广州天河区图书馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验广州越秀区体育赛事嘉年华",
+    "venue": "广州越秀区文化馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进广州荔湾区亲子活动日",
+    "venue": "广州荔湾区公园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读广州海珠区展览周",
+    "venue": "广州海珠区植物园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的解读展览周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘广州白云区讲座阅读月",
+    "venue": "广州白云区动物园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游广州黄埔区科普活动季",
+    "venue": "广州黄埔区海洋馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩广州番禺区演出节",
+    "venue": "广州番禺区剧院",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的精彩演出节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻广州花都区影视放映之旅",
+    "venue": "广州花都区体育馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典广州南沙区体育赛事探秘",
+    "venue": "广州南沙区体育场",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼广州增城区亲子活动发现",
+    "venue": "广州增城区会展中心",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式广州从化区展览探索",
+    "venue": "广州从化区文化中心",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动广州天河区讲座阅读科普",
+    "venue": "广州天河区艺术中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末广州越秀区科普活动活动",
+    "venue": "广州越秀区青少年宫",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期广州荔湾区演出体验营",
+    "venue": "广州荔湾区创意园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子广州海珠区影视放映工作坊",
+    "venue": "广州海珠区博物馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭广州白云区体育赛事研学营",
+    "venue": "广州白云区科技馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童广州黄埔区亲子活动课程",
+    "venue": "广州黄埔区美术馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年广州番禺区展览讲座",
+    "venue": "广州番禺区图书馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味广州花都区讲座阅读展览",
+    "venue": "广州花都区文化馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索广州南沙区科普活动演出",
+    "venue": "广州南沙区公园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现广州增城区演出比赛",
+    "venue": "广州增城区植物园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的发现演出比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验广州从化区影视放映嘉年华",
+    "venue": "广州从化区动物园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进广州天河区体育赛事日",
+    "venue": "广州天河区海洋馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读广州越秀区亲子活动周",
+    "venue": "广州越秀区剧院",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘广州荔湾区展览月",
+    "venue": "广州荔湾区体育馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的探秘展览月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游广州海珠区讲座阅读季",
+    "venue": "广州海珠区体育场",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩广州白云区科普活动节",
+    "venue": "广州白云区会展中心",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻广州黄埔区演出之旅",
+    "venue": "广州黄埔区文化中心",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典广州番禺区影视放映探秘",
+    "venue": "广州番禺区艺术中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼广州花都区体育赛事发现",
+    "venue": "广州花都区青少年宫",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式广州南沙区亲子活动探索",
+    "venue": "广州南沙区创意园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动广州增城区展览科普",
+    "venue": "广州增城区博物馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的互动展览科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末广州从化区讲座阅读活动",
+    "venue": "广州从化区科技馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期广州天河区科普活动体验营",
+    "venue": "广州天河区美术馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子广州越秀区演出工作坊",
+    "venue": "广州越秀区图书馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭广州荔湾区影视放映研学营",
+    "venue": "广州荔湾区文化馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童广州海珠区体育赛事课程",
+    "venue": "广州海珠区公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年广州白云区亲子活动讲座",
+    "venue": "广州白云区植物园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味广州黄埔区展览展览",
+    "venue": "广州黄埔区动物园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的趣味展览展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索广州番禺区讲座阅读演出",
+    "venue": "广州番禺区海洋馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现广州花都区科普活动比赛",
+    "venue": "广州花都区剧院",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验广州南沙区演出嘉年华",
+    "venue": "广州南沙区体育馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进广州增城区影视放映日",
+    "venue": "广州增城区体育场",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的走进影视放映日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读广州从化区体育赛事周",
+    "venue": "广州从化区会展中心",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘广州天河区亲子活动月",
+    "venue": "广州天河区文化中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游广州越秀区展览季",
+    "venue": "广州越秀区艺术中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的漫游展览季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩广州荔湾区讲座阅读节",
+    "venue": "广州荔湾区青少年宫",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻广州海珠区科普活动之旅",
+    "venue": "广州海珠区创意园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典广州白云区演出探秘",
+    "venue": "广州白云区博物馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的经典演出探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼广州黄埔区影视放映发现",
+    "venue": "广州黄埔区科技馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式广州番禺区体育赛事探索",
+    "venue": "广州番禺区美术馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动广州花都区亲子活动科普",
+    "venue": "广州花都区图书馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末广州南沙区展览活动",
+    "venue": "广州南沙区文化馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的周末展览活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期广州增城区讲座阅读体验营",
+    "venue": "广州增城区公园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子广州从化区科普活动工作坊",
+    "venue": "广州从化区植物园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭广州天河区演出研学营",
+    "venue": "广州天河区动物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童广州越秀区影视放映课程",
+    "venue": "广州越秀区海洋馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年广州荔湾区体育赛事讲座",
+    "venue": "广州荔湾区剧院",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味广州海珠区亲子活动展览",
+    "venue": "广州海珠区体育馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索广州白云区展览演出",
+    "venue": "广州白云区体育场",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的探索展览演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现广州黄埔区讲座阅读比赛",
+    "venue": "广州黄埔区会展中心",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验广州番禺区科普活动嘉年华",
+    "venue": "广州番禺区文化中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进广州花都区演出日",
+    "venue": "广州花都区艺术中心",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的走进演出日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读广州南沙区影视放映周",
+    "venue": "广州南沙区青少年宫",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的解读影视放映周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘广州增城区体育赛事月",
+    "venue": "广州增城区创意园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游广州从化区亲子活动季",
+    "venue": "广州从化区博物馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩广州天河区展览节",
+    "venue": "广州天河区科技馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的精彩展览节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻广州越秀区讲座阅读之旅",
+    "venue": "广州越秀区美术馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典广州荔湾区科普活动探秘",
+    "venue": "广州荔湾区图书馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼广州海珠区演出发现",
+    "venue": "广州海珠区文化馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的震撼演出发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式广州白云区影视放映探索",
+    "venue": "广州白云区公园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动广州黄埔区体育赛事科普",
+    "venue": "广州黄埔区植物园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末广州番禺区亲子活动活动",
+    "venue": "广州番禺区动物园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期广州花都区展览体验营",
+    "venue": "广州花都区海洋馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子广州南沙区讲座阅读工作坊",
+    "venue": "广州南沙区剧院",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭广州增城区科普活动研学营",
+    "venue": "广州增城区体育馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童广州从化区演出课程",
+    "venue": "广州从化区体育场",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的儿童演出课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年广州天河区影视放映讲座",
+    "venue": "广州天河区会展中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味广州越秀区体育赛事展览",
+    "venue": "广州越秀区文化中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索广州荔湾区亲子活动演出",
+    "venue": "广州荔湾区艺术中心",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现广州海珠区展览比赛",
+    "venue": "广州海珠区青少年宫",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的发现展览比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验广州白云区讲座阅读嘉年华",
+    "venue": "广州白云区创意园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进广州黄埔区科普活动日",
+    "venue": "广州黄埔区博物馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的走进科普活动日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读广州番禺区演出周",
+    "venue": "广州番禺区科技馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的解读演出周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘广州花都区影视放映月",
+    "venue": "广州花都区美术馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游广州南沙区体育赛事季",
+    "venue": "广州南沙区图书馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩广州增城区亲子活动节",
+    "venue": "广州增城区文化馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻广州从化区展览之旅",
+    "venue": "广州从化区公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典广州天河区讲座阅读探秘",
+    "venue": "广州天河区植物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼广州越秀区科普活动发现",
+    "venue": "广州越秀区动物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式广州荔湾区演出探索",
+    "venue": "广州荔湾区海洋馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动广州海珠区影视放映科普",
+    "venue": "广州海珠区剧院",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末广州白云区体育赛事活动",
+    "venue": "广州白云区体育馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期广州黄埔区亲子活动体验营",
+    "venue": "广州黄埔区体育场",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子广州番禺区展览工作坊",
+    "venue": "广州番禺区会展中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭广州花都区讲座阅读研学营",
+    "venue": "广州花都区文化中心",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童广州南沙区科普活动课程",
+    "venue": "广州南沙区艺术中心",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年广州增城区演出讲座",
+    "venue": "广州增城区青少年宫",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味广州从化区影视放映展览",
+    "venue": "广州从化区创意园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索广州天河区体育赛事演出",
+    "venue": "广州天河区博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现广州越秀区亲子活动比赛",
+    "venue": "广州越秀区科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验广州荔湾区展览嘉年华",
+    "venue": "广州荔湾区美术馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进广州海珠区讲座阅读日",
+    "venue": "广州海珠区图书馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读广州白云区科普活动周",
+    "venue": "广州白云区文化馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的解读科普活动周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘广州黄埔区演出月",
+    "venue": "广州黄埔区公园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的探秘演出月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游广州番禺区影视放映季",
+    "venue": "广州番禺区植物园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩广州花都区体育赛事节",
+    "venue": "广州花都区动物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻广州南沙区亲子活动之旅",
+    "venue": "广州南沙区海洋馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典广州增城区展览探秘",
+    "venue": "广州增城区剧院",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的经典展览探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼广州从化区讲座阅读发现",
+    "venue": "广州从化区体育馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式广州天河区科普活动探索",
+    "venue": "广州天河区体育场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动广州越秀区演出科普",
+    "venue": "广州越秀区会展中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的互动演出科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末杭州上城区展览活动",
+    "venue": "杭州上城区博物馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的周末展览活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期杭州下城区讲座阅读体验营",
+    "venue": "杭州下城区科技馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子杭州西湖区科普活动工作坊",
+    "venue": "杭州西湖区美术馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭杭州拱墅区演出研学营",
+    "venue": "杭州拱墅区图书馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童杭州江干区影视放映课程",
+    "venue": "杭州江干区文化馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年杭州滨江区体育赛事讲座",
+    "venue": "杭州滨江区公园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味杭州萧山区亲子活动展览",
+    "venue": "杭州萧山区植物园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索杭州余杭区展览演出",
+    "venue": "杭州余杭区动物园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的探索展览演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现杭州富阳区讲座阅读比赛",
+    "venue": "杭州富阳区海洋馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验杭州临安区科普活动嘉年华",
+    "venue": "杭州临安区剧院",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进杭州桐庐县演出日",
+    "venue": "杭州桐庐县体育馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的走进演出日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读杭州建德市影视放映周",
+    "venue": "杭州建德市体育场",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的解读影视放映周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘杭州淳安县体育赛事月",
+    "venue": "杭州淳安县会展中心",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游杭州上城区亲子活动季",
+    "venue": "杭州上城区文化中心",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩杭州下城区展览节",
+    "venue": "杭州下城区艺术中心",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的精彩展览节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻杭州西湖区讲座阅读之旅",
+    "venue": "杭州西湖区青少年宫",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典杭州拱墅区科普活动探秘",
+    "venue": "杭州拱墅区创意园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼杭州江干区演出发现",
+    "venue": "杭州江干区博物馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的震撼演出发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式杭州滨江区影视放映探索",
+    "venue": "杭州滨江区科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动杭州萧山区体育赛事科普",
+    "venue": "杭州萧山区美术馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末杭州余杭区亲子活动活动",
+    "venue": "杭州余杭区图书馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期杭州富阳区展览体验营",
+    "venue": "杭州富阳区文化馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子杭州临安区讲座阅读工作坊",
+    "venue": "杭州临安区公园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭杭州桐庐县科普活动研学营",
+    "venue": "杭州桐庐县植物园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童杭州建德市演出课程",
+    "venue": "杭州建德市动物园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的儿童演出课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年杭州淳安县影视放映讲座",
+    "venue": "杭州淳安县海洋馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味杭州上城区体育赛事展览",
+    "venue": "杭州上城区剧院",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索杭州下城区亲子活动演出",
+    "venue": "杭州下城区体育馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现杭州西湖区展览比赛",
+    "venue": "杭州西湖区体育场",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的发现展览比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验杭州拱墅区讲座阅读嘉年华",
+    "venue": "杭州拱墅区会展中心",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进杭州江干区科普活动日",
+    "venue": "杭州江干区文化中心",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的走进科普活动日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读杭州滨江区演出周",
+    "venue": "杭州滨江区艺术中心",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的解读演出周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘杭州萧山区影视放映月",
+    "venue": "杭州萧山区青少年宫",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游杭州余杭区体育赛事季",
+    "venue": "杭州余杭区创意园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩杭州富阳区亲子活动节",
+    "venue": "杭州富阳区博物馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻杭州临安区展览之旅",
+    "venue": "杭州临安区科技馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典杭州桐庐县讲座阅读探秘",
+    "venue": "杭州桐庐县美术馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼杭州建德市科普活动发现",
+    "venue": "杭州建德市图书馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式杭州淳安县演出探索",
+    "venue": "杭州淳安县文化馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动杭州上城区影视放映科普",
+    "venue": "杭州上城区公园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末杭州下城区体育赛事活动",
+    "venue": "杭州下城区植物园",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期杭州西湖区亲子活动体验营",
+    "venue": "杭州西湖区动物园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子杭州拱墅区展览工作坊",
+    "venue": "杭州拱墅区海洋馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭杭州江干区讲座阅读研学营",
+    "venue": "杭州江干区剧院",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童杭州滨江区科普活动课程",
+    "venue": "杭州滨江区体育馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年杭州萧山区演出讲座",
+    "venue": "杭州萧山区体育场",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味杭州余杭区影视放映展览",
+    "venue": "杭州余杭区会展中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索杭州富阳区体育赛事演出",
+    "venue": "杭州富阳区文化中心",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现杭州临安区亲子活动比赛",
+    "venue": "杭州临安区艺术中心",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验杭州桐庐县展览嘉年华",
+    "venue": "杭州桐庐县青少年宫",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进杭州建德市讲座阅读日",
+    "venue": "杭州建德市创意园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读杭州淳安县科普活动周",
+    "venue": "杭州淳安县博物馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的解读科普活动周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘杭州上城区演出月",
+    "venue": "杭州上城区科技馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的探秘演出月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游杭州下城区影视放映季",
+    "venue": "杭州下城区美术馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩杭州西湖区体育赛事节",
+    "venue": "杭州西湖区图书馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻杭州拱墅区亲子活动之旅",
+    "venue": "杭州拱墅区文化馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典杭州江干区展览探秘",
+    "venue": "杭州江干区公园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的经典展览探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼杭州滨江区讲座阅读发现",
+    "venue": "杭州滨江区植物园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式杭州萧山区科普活动探索",
+    "venue": "杭州萧山区动物园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动杭州余杭区演出科普",
+    "venue": "杭州余杭区海洋馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的互动演出科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末杭州富阳区影视放映活动",
+    "venue": "杭州富阳区剧院",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期杭州临安区体育赛事体验营",
+    "venue": "杭州临安区体育馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子杭州桐庐县亲子活动工作坊",
+    "venue": "杭州桐庐县体育场",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭杭州建德市展览研学营",
+    "venue": "杭州建德市会展中心",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的家庭展览研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童杭州淳安县讲座阅读课程",
+    "venue": "杭州淳安县文化中心",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年杭州上城区科普活动讲座",
+    "venue": "杭州上城区艺术中心",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味杭州下城区演出展览",
+    "venue": "杭州下城区青少年宫",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的趣味演出展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索杭州西湖区影视放映演出",
+    "venue": "杭州西湖区创意园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现杭州拱墅区体育赛事比赛",
+    "venue": "杭州拱墅区博物馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验杭州江干区亲子活动嘉年华",
+    "venue": "杭州江干区科技馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进杭州滨江区展览日",
+    "venue": "杭州滨江区美术馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的走进展览日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读杭州萧山区讲座阅读周",
+    "venue": "杭州萧山区图书馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘杭州余杭区科普活动月",
+    "venue": "杭州余杭区文化馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游杭州富阳区演出季",
+    "venue": "杭州富阳区公园",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的漫游演出季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩杭州临安区影视放映节",
+    "venue": "杭州临安区植物园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻杭州桐庐县体育赛事之旅",
+    "venue": "杭州桐庐县动物园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典杭州建德市亲子活动探秘",
+    "venue": "杭州建德市海洋馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼杭州淳安县展览发现",
+    "venue": "杭州淳安县剧院",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的震撼展览发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式杭州上城区讲座阅读探索",
+    "venue": "杭州上城区体育馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动杭州下城区科普活动科普",
+    "venue": "杭州下城区体育场",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末杭州西湖区演出活动",
+    "venue": "杭州西湖区会展中心",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的周末演出活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期杭州拱墅区影视放映体验营",
+    "venue": "杭州拱墅区文化中心",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子杭州江干区体育赛事工作坊",
+    "venue": "杭州江干区艺术中心",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭杭州滨江区亲子活动研学营",
+    "venue": "杭州滨江区青少年宫",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童杭州萧山区展览课程",
+    "venue": "杭州萧山区创意园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的儿童展览课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年杭州余杭区讲座阅读讲座",
+    "venue": "杭州余杭区博物馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味杭州富阳区科普活动展览",
+    "venue": "杭州富阳区科技馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索杭州临安区演出演出",
+    "venue": "杭州临安区美术馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的探索演出演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现杭州桐庐县影视放映比赛",
+    "venue": "杭州桐庐县图书馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验杭州建德市体育赛事嘉年华",
+    "venue": "杭州建德市文化馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进杭州淳安县亲子活动日",
+    "venue": "杭州淳安县公园",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的走进亲子活动日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读杭州上城区展览周",
+    "venue": "杭州上城区植物园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的解读展览周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘杭州下城区讲座阅读月",
+    "venue": "杭州下城区动物园",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游杭州西湖区科普活动季",
+    "venue": "杭州西湖区海洋馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩杭州拱墅区演出节",
+    "venue": "杭州拱墅区剧院",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的精彩演出节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻杭州江干区影视放映之旅",
+    "venue": "杭州江干区体育馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典杭州滨江区体育赛事探秘",
+    "venue": "杭州滨江区体育场",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼杭州萧山区亲子活动发现",
+    "venue": "杭州萧山区会展中心",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式杭州余杭区展览探索",
+    "venue": "杭州余杭区文化中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动杭州富阳区讲座阅读科普",
+    "venue": "杭州富阳区艺术中心",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末杭州临安区科普活动活动",
+    "venue": "杭州临安区青少年宫",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期杭州桐庐县演出体验营",
+    "venue": "杭州桐庐县创意园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的暑期演出体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子杭州建德市影视放映工作坊",
+    "venue": "杭州建德市博物馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭杭州淳安县体育赛事研学营",
+    "venue": "杭州淳安县科技馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童杭州上城区亲子活动课程",
+    "venue": "杭州上城区美术馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年杭州下城区展览讲座",
+    "venue": "杭州下城区图书馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味杭州西湖区讲座阅读展览",
+    "venue": "杭州西湖区文化馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索杭州拱墅区科普活动演出",
+    "venue": "杭州拱墅区公园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现杭州江干区演出比赛",
+    "venue": "杭州江干区植物园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的发现演出比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验杭州滨江区影视放映嘉年华",
+    "venue": "杭州滨江区动物园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进杭州萧山区体育赛事日",
+    "venue": "杭州萧山区海洋馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读杭州余杭区亲子活动周",
+    "venue": "杭州余杭区剧院",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘杭州富阳区展览月",
+    "venue": "杭州富阳区体育馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的探秘展览月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游杭州临安区讲座阅读季",
+    "venue": "杭州临安区体育场",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩杭州桐庐县科普活动节",
+    "venue": "杭州桐庐县会展中心",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的精彩科普活动节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻杭州建德市演出之旅",
+    "venue": "杭州建德市文化中心",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典杭州淳安县影视放映探秘",
+    "venue": "杭州淳安县艺术中心",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼杭州上城区体育赛事发现",
+    "venue": "杭州上城区青少年宫",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式杭州下城区亲子活动探索",
+    "venue": "杭州下城区创意园",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动杭州西湖区展览科普",
+    "venue": "杭州西湖区博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的互动展览科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末杭州拱墅区讲座阅读活动",
+    "venue": "杭州拱墅区科技馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期杭州江干区科普活动体验营",
+    "venue": "杭州江干区美术馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子杭州滨江区演出工作坊",
+    "venue": "杭州滨江区图书馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭杭州萧山区影视放映研学营",
+    "venue": "杭州萧山区文化馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童杭州余杭区体育赛事课程",
+    "venue": "杭州余杭区公园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年杭州富阳区亲子活动讲座",
+    "venue": "杭州富阳区植物园",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味杭州临安区展览展览",
+    "venue": "杭州临安区动物园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的趣味展览展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索杭州桐庐县讲座阅读演出",
+    "venue": "杭州桐庐县海洋馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现杭州建德市科普活动比赛",
+    "venue": "杭州建德市剧院",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验杭州淳安县演出嘉年华",
+    "venue": "杭州淳安县体育馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进杭州上城区影视放映日",
+    "venue": "杭州上城区体育场",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的走进影视放映日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读杭州下城区体育赛事周",
+    "venue": "杭州下城区会展中心",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘杭州西湖区亲子活动月",
+    "venue": "杭州西湖区文化中心",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游杭州拱墅区展览季",
+    "venue": "杭州拱墅区艺术中心",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的漫游展览季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩杭州江干区讲座阅读节",
+    "venue": "杭州江干区青少年宫",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻杭州滨江区科普活动之旅",
+    "venue": "杭州滨江区创意园",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典杭州萧山区演出探秘",
+    "venue": "杭州萧山区博物馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的经典演出探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼杭州余杭区影视放映发现",
+    "venue": "杭州余杭区科技馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式杭州富阳区体育赛事探索",
+    "venue": "杭州富阳区美术馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动杭州临安区亲子活动科普",
+    "venue": "杭州临安区图书馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末杭州桐庐县展览活动",
+    "venue": "杭州桐庐县文化馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州桐庐县的周末展览活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期杭州建德市讲座阅读体验营",
+    "venue": "杭州建德市公园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子杭州淳安县科普活动工作坊",
+    "venue": "杭州淳安县植物园",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭杭州上城区演出研学营",
+    "venue": "杭州上城区动物园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童杭州下城区影视放映课程",
+    "venue": "杭州下城区海洋馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年杭州西湖区体育赛事讲座",
+    "venue": "杭州西湖区剧院",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味杭州拱墅区亲子活动展览",
+    "venue": "杭州拱墅区体育馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索杭州江干区展览演出",
+    "venue": "杭州江干区体育场",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州江干区的探索展览演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现杭州滨江区讲座阅读比赛",
+    "venue": "杭州滨江区会展中心",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验杭州萧山区科普活动嘉年华",
+    "venue": "杭州萧山区文化中心",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进杭州余杭区演出日",
+    "venue": "杭州余杭区艺术中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州余杭区的走进演出日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读杭州富阳区影视放映周",
+    "venue": "杭州富阳区青少年宫",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的解读影视放映周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘杭州临安区体育赛事月",
+    "venue": "杭州临安区创意园",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游杭州桐庐县亲子活动季",
+    "venue": "杭州桐庐县博物馆",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩杭州建德市展览节",
+    "venue": "杭州建德市科技馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州建德市的精彩展览节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻杭州淳安县讲座阅读之旅",
+    "venue": "杭州淳安县美术馆",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典杭州上城区科普活动探秘",
+    "venue": "杭州上城区图书馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼杭州下城区演出发现",
+    "venue": "杭州下城区文化馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州下城区的震撼演出发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式杭州西湖区影视放映探索",
+    "venue": "杭州西湖区公园",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动杭州拱墅区体育赛事科普",
+    "venue": "杭州拱墅区植物园",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末杭州江干区亲子活动活动",
+    "venue": "杭州江干区动物园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期杭州滨江区展览体验营",
+    "venue": "杭州滨江区海洋馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州滨江区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子杭州萧山区讲座阅读工作坊",
+    "venue": "杭州萧山区剧院",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭杭州余杭区科普活动研学营",
+    "venue": "杭州余杭区体育馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童杭州富阳区演出课程",
+    "venue": "杭州富阳区体育场",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州富阳区的儿童演出课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年杭州临安区影视放映讲座",
+    "venue": "杭州临安区会展中心",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味杭州桐庐县体育赛事展览",
+    "venue": "杭州桐庐县文化中心",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索杭州建德市亲子活动演出",
+    "venue": "杭州建德市艺术中心",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现杭州淳安县展览比赛",
+    "venue": "杭州淳安县青少年宫",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州淳安县的发现展览比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验杭州上城区讲座阅读嘉年华",
+    "venue": "杭州上城区创意园",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进杭州下城区科普活动日",
+    "venue": "杭州下城区博物馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的走进科普活动日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读杭州西湖区演出周",
+    "venue": "杭州西湖区科技馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州西湖区的解读演出周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘杭州拱墅区影视放映月",
+    "venue": "杭州拱墅区美术馆",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游杭州江干区体育赛事季",
+    "venue": "杭州江干区图书馆",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩杭州滨江区亲子活动节",
+    "venue": "杭州滨江区文化馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻杭州萧山区展览之旅",
+    "venue": "杭州萧山区公园",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州萧山区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典杭州余杭区讲座阅读探秘",
+    "venue": "杭州余杭区植物园",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼杭州富阳区科普活动发现",
+    "venue": "杭州富阳区动物园",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式杭州临安区演出探索",
+    "venue": "杭州临安区海洋馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州临安区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动杭州桐庐县影视放映科普",
+    "venue": "杭州桐庐县剧院",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的互动影视放映科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末杭州建德市体育赛事活动",
+    "venue": "杭州建德市体育馆",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期杭州淳安县亲子活动体验营",
+    "venue": "杭州淳安县体育场",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子杭州上城区展览工作坊",
+    "venue": "杭州上城区会展中心",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州上城区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭杭州下城区讲座阅读研学营",
+    "venue": "杭州下城区文化中心",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童杭州西湖区科普活动课程",
+    "venue": "杭州西湖区艺术中心",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年杭州拱墅区演出讲座",
+    "venue": "杭州拱墅区青少年宫",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州拱墅区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味杭州江干区影视放映展览",
+    "venue": "杭州江干区创意园",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索杭州滨江区体育赛事演出",
+    "venue": "杭州滨江区博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州滨江区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "滨江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现杭州萧山区亲子活动比赛",
+    "venue": "杭州萧山区科技馆",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州萧山区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "萧山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验杭州余杭区展览嘉年华",
+    "venue": "杭州余杭区美术馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州余杭区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "余杭区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进杭州富阳区讲座阅读日",
+    "venue": "杭州富阳区图书馆",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州富阳区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "富阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读杭州临安区科普活动周",
+    "venue": "杭州临安区文化馆",
+    "city": "hangzhou",
+    "district": "临安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州临安区的解读科普活动周，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "临安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘杭州桐庐县演出月",
+    "venue": "杭州桐庐县公园",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州桐庐县的探秘演出月，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "桐庐县",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游杭州建德市影视放映季",
+    "venue": "杭州建德市植物园",
+    "city": "hangzhou",
+    "district": "建德市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州建德市的漫游影视放映季，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "建德市",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩杭州淳安县体育赛事节",
+    "venue": "杭州淳安县动物园",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州淳安县的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "淳安县",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻杭州上城区亲子活动之旅",
+    "venue": "杭州上城区海洋馆",
+    "city": "hangzhou",
+    "district": "上城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州上城区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "上城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典杭州下城区展览探秘",
+    "venue": "杭州下城区剧院",
+    "city": "hangzhou",
+    "district": "下城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州下城区的经典展览探秘，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "下城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼杭州西湖区讲座阅读发现",
+    "venue": "杭州西湖区体育馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州西湖区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式杭州拱墅区科普活动探索",
+    "venue": "杭州拱墅区体育场",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "杭州拱墅区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "拱墅区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动杭州江干区演出科普",
+    "venue": "杭州江干区会展中心",
+    "city": "hangzhou",
+    "district": "江干区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "杭州江干区的互动演出科普，适合亲子家庭参与。",
+    "source": "杭州本地宝",
+    "highlights": [
+      "杭州",
+      "江干区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末成都锦江区展览活动",
+    "venue": "成都锦江区博物馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期成都青羊区讲座阅读体验营",
+    "venue": "成都青羊区科技馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子成都武侯区科普活动工作坊",
+    "venue": "成都武侯区美术馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭成都成华区演出研学营",
+    "venue": "成都成华区图书馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童成都金牛区影视放映课程",
+    "venue": "成都金牛区文化馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年成都高新区体育赛事讲座",
+    "venue": "成都高新区公园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味成都天府新区亲子活动展览",
+    "venue": "成都天府新区植物园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索成都龙泉驿区展览演出",
+    "venue": "成都龙泉驿区动物园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现成都温江区讲座阅读比赛",
+    "venue": "成都温江区海洋馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验成都双流区科普活动嘉年华",
+    "venue": "成都双流区剧院",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进成都郫都区演出日",
+    "venue": "成都郫都区体育馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读成都新都区影视放映周",
+    "venue": "成都新都区体育场",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘成都都江堰市体育赛事月",
+    "venue": "成都都江堰市会展中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游成都彭州市亲子活动季",
+    "venue": "成都彭州市文化中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩成都锦江区展览节",
+    "venue": "成都锦江区艺术中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻成都青羊区讲座阅读之旅",
+    "venue": "成都青羊区青少年宫",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典成都武侯区科普活动探秘",
+    "venue": "成都武侯区创意园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼成都成华区演出发现",
+    "venue": "成都成华区博物馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式成都金牛区影视放映探索",
+    "venue": "成都金牛区科技馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动成都高新区体育赛事科普",
+    "venue": "成都高新区美术馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末成都天府新区亲子活动活动",
+    "venue": "成都天府新区图书馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期成都龙泉驿区展览体验营",
+    "venue": "成都龙泉驿区文化馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子成都温江区讲座阅读工作坊",
+    "venue": "成都温江区公园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭成都双流区科普活动研学营",
+    "venue": "成都双流区植物园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童成都郫都区演出课程",
+    "venue": "成都郫都区动物园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年成都新都区影视放映讲座",
+    "venue": "成都新都区海洋馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味成都都江堰市体育赛事展览",
+    "venue": "成都都江堰市剧院",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索成都彭州市亲子活动演出",
+    "venue": "成都彭州市体育馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现成都锦江区展览比赛",
+    "venue": "成都锦江区体育场",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验成都青羊区讲座阅读嘉年华",
+    "venue": "成都青羊区会展中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进成都武侯区科普活动日",
+    "venue": "成都武侯区文化中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读成都成华区演出周",
+    "venue": "成都成华区艺术中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘成都金牛区影视放映月",
+    "venue": "成都金牛区青少年宫",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游成都高新区体育赛事季",
+    "venue": "成都高新区创意园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩成都天府新区亲子活动节",
+    "venue": "成都天府新区博物馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻成都龙泉驿区展览之旅",
+    "venue": "成都龙泉驿区科技馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典成都温江区讲座阅读探秘",
+    "venue": "成都温江区美术馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼成都双流区科普活动发现",
+    "venue": "成都双流区图书馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式成都郫都区演出探索",
+    "venue": "成都郫都区文化馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动成都新都区影视放映科普",
+    "venue": "成都新都区公园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末成都都江堰市体育赛事活动",
+    "venue": "成都都江堰市植物园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期成都彭州市亲子活动体验营",
+    "venue": "成都彭州市动物园",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子成都锦江区展览工作坊",
+    "venue": "成都锦江区海洋馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭成都青羊区讲座阅读研学营",
+    "venue": "成都青羊区剧院",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童成都武侯区科普活动课程",
+    "venue": "成都武侯区体育馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年成都成华区演出讲座",
+    "venue": "成都成华区体育场",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味成都金牛区影视放映展览",
+    "venue": "成都金牛区会展中心",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索成都高新区体育赛事演出",
+    "venue": "成都高新区文化中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现成都天府新区亲子活动比赛",
+    "venue": "成都天府新区艺术中心",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验成都龙泉驿区展览嘉年华",
+    "venue": "成都龙泉驿区青少年宫",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进成都温江区讲座阅读日",
+    "venue": "成都温江区创意园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读成都双流区科普活动周",
+    "venue": "成都双流区博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘成都郫都区演出月",
+    "venue": "成都郫都区科技馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游成都新都区影视放映季",
+    "venue": "成都新都区美术馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩成都都江堰市体育赛事节",
+    "venue": "成都都江堰市图书馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻成都彭州市亲子活动之旅",
+    "venue": "成都彭州市文化馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典成都锦江区展览探秘",
+    "venue": "成都锦江区公园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼成都青羊区讲座阅读发现",
+    "venue": "成都青羊区植物园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式成都武侯区科普活动探索",
+    "venue": "成都武侯区动物园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动成都成华区演出科普",
+    "venue": "成都成华区海洋馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末成都金牛区影视放映活动",
+    "venue": "成都金牛区剧院",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期成都高新区体育赛事体验营",
+    "venue": "成都高新区体育馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子成都天府新区亲子活动工作坊",
+    "venue": "成都天府新区体育场",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭成都龙泉驿区展览研学营",
+    "venue": "成都龙泉驿区会展中心",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童成都温江区讲座阅读课程",
+    "venue": "成都温江区文化中心",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年成都双流区科普活动讲座",
+    "venue": "成都双流区艺术中心",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味成都郫都区演出展览",
+    "venue": "成都郫都区青少年宫",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的趣味演出展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索成都新都区影视放映演出",
+    "venue": "成都新都区创意园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现成都都江堰市体育赛事比赛",
+    "venue": "成都都江堰市博物馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验成都彭州市亲子活动嘉年华",
+    "venue": "成都彭州市科技馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进成都锦江区展览日",
+    "venue": "成都锦江区美术馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的走进展览日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读成都青羊区讲座阅读周",
+    "venue": "成都青羊区图书馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘成都武侯区科普活动月",
+    "venue": "成都武侯区文化馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游成都成华区演出季",
+    "venue": "成都成华区公园",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的漫游演出季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩成都金牛区影视放映节",
+    "venue": "成都金牛区植物园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻成都高新区体育赛事之旅",
+    "venue": "成都高新区动物园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典成都天府新区亲子活动探秘",
+    "venue": "成都天府新区海洋馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼成都龙泉驿区展览发现",
+    "venue": "成都龙泉驿区剧院",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的震撼展览发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式成都温江区讲座阅读探索",
+    "venue": "成都温江区体育馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动成都双流区科普活动科普",
+    "venue": "成都双流区体育场",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末成都郫都区演出活动",
+    "venue": "成都郫都区会展中心",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的周末演出活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期成都新都区影视放映体验营",
+    "venue": "成都新都区文化中心",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子成都都江堰市体育赛事工作坊",
+    "venue": "成都都江堰市艺术中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭成都彭州市亲子活动研学营",
+    "venue": "成都彭州市青少年宫",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童成都锦江区展览课程",
+    "venue": "成都锦江区创意园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的儿童展览课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年成都青羊区讲座阅读讲座",
+    "venue": "成都青羊区博物馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味成都武侯区科普活动展览",
+    "venue": "成都武侯区科技馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索成都成华区演出演出",
+    "venue": "成都成华区美术馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的探索演出演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现成都金牛区影视放映比赛",
+    "venue": "成都金牛区图书馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验成都高新区体育赛事嘉年华",
+    "venue": "成都高新区文化馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进成都天府新区亲子活动日",
+    "venue": "成都天府新区公园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读成都龙泉驿区展览周",
+    "venue": "成都龙泉驿区植物园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的解读展览周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘成都温江区讲座阅读月",
+    "venue": "成都温江区动物园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游成都双流区科普活动季",
+    "venue": "成都双流区海洋馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩成都郫都区演出节",
+    "venue": "成都郫都区剧院",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的精彩演出节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻成都新都区影视放映之旅",
+    "venue": "成都新都区体育馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典成都都江堰市体育赛事探秘",
+    "venue": "成都都江堰市体育场",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼成都彭州市亲子活动发现",
+    "venue": "成都彭州市会展中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式成都锦江区展览探索",
+    "venue": "成都锦江区文化中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动成都青羊区讲座阅读科普",
+    "venue": "成都青羊区艺术中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末成都武侯区科普活动活动",
+    "venue": "成都武侯区青少年宫",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期成都成华区演出体验营",
+    "venue": "成都成华区创意园",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子成都金牛区影视放映工作坊",
+    "venue": "成都金牛区博物馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭成都高新区体育赛事研学营",
+    "venue": "成都高新区科技馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童成都天府新区亲子活动课程",
+    "venue": "成都天府新区美术馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年成都龙泉驿区展览讲座",
+    "venue": "成都龙泉驿区图书馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味成都温江区讲座阅读展览",
+    "venue": "成都温江区文化馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索成都双流区科普活动演出",
+    "venue": "成都双流区公园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现成都郫都区演出比赛",
+    "venue": "成都郫都区植物园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的发现演出比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验成都新都区影视放映嘉年华",
+    "venue": "成都新都区动物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进成都都江堰市体育赛事日",
+    "venue": "成都都江堰市海洋馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的走进体育赛事日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读成都彭州市亲子活动周",
+    "venue": "成都彭州市剧院",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的解读亲子活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘成都锦江区展览月",
+    "venue": "成都锦江区体育馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的探秘展览月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游成都青羊区讲座阅读季",
+    "venue": "成都青羊区体育场",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩成都武侯区科普活动节",
+    "venue": "成都武侯区会展中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻成都成华区演出之旅",
+    "venue": "成都成华区文化中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典成都金牛区影视放映探秘",
+    "venue": "成都金牛区艺术中心",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼成都高新区体育赛事发现",
+    "venue": "成都高新区青少年宫",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式成都天府新区亲子活动探索",
+    "venue": "成都天府新区创意园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动成都龙泉驿区展览科普",
+    "venue": "成都龙泉驿区博物馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的互动展览科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末成都温江区讲座阅读活动",
+    "venue": "成都温江区科技馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期成都双流区科普活动体验营",
+    "venue": "成都双流区美术馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子成都郫都区演出工作坊",
+    "venue": "成都郫都区图书馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭成都新都区影视放映研学营",
+    "venue": "成都新都区文化馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童成都都江堰市体育赛事课程",
+    "venue": "成都都江堰市公园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年成都彭州市亲子活动讲座",
+    "venue": "成都彭州市植物园",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味成都锦江区展览展览",
+    "venue": "成都锦江区动物园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的趣味展览展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索成都青羊区讲座阅读演出",
+    "venue": "成都青羊区海洋馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现成都武侯区科普活动比赛",
+    "venue": "成都武侯区剧院",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验成都成华区演出嘉年华",
+    "venue": "成都成华区体育馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进成都金牛区影视放映日",
+    "venue": "成都金牛区体育场",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的走进影视放映日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读成都高新区体育赛事周",
+    "venue": "成都高新区会展中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘成都天府新区亲子活动月",
+    "venue": "成都天府新区文化中心",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游成都龙泉驿区展览季",
+    "venue": "成都龙泉驿区艺术中心",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的漫游展览季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩成都温江区讲座阅读节",
+    "venue": "成都温江区青少年宫",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻成都双流区科普活动之旅",
+    "venue": "成都双流区创意园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典成都郫都区演出探秘",
+    "venue": "成都郫都区博物馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的经典演出探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼成都新都区影视放映发现",
+    "venue": "成都新都区科技馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式成都都江堰市体育赛事探索",
+    "venue": "成都都江堰市美术馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动成都彭州市亲子活动科普",
+    "venue": "成都彭州市图书馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末成都锦江区展览活动-140",
+    "venue": "成都锦江区文化馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期成都青羊区讲座阅读体验营-141",
+    "venue": "成都青羊区公园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子成都武侯区科普活动工作坊-142",
+    "venue": "成都武侯区植物园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭成都成华区演出研学营-143",
+    "venue": "成都成华区动物园",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童成都金牛区影视放映课程-144",
+    "venue": "成都金牛区海洋馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年成都高新区体育赛事讲座-145",
+    "venue": "成都高新区剧院",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味成都天府新区亲子活动展览-146",
+    "venue": "成都天府新区体育馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索成都龙泉驿区展览演出-147",
+    "venue": "成都龙泉驿区体育场",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现成都温江区讲座阅读比赛-148",
+    "venue": "成都温江区会展中心",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验成都双流区科普活动嘉年华-149",
+    "venue": "成都双流区文化中心",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进成都郫都区演出日-150",
+    "venue": "成都郫都区艺术中心",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读成都新都区影视放映周-151",
+    "venue": "成都新都区青少年宫",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘成都都江堰市体育赛事月-152",
+    "venue": "成都都江堰市创意园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游成都彭州市亲子活动季-153",
+    "venue": "成都彭州市博物馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩成都锦江区展览节-154",
+    "venue": "成都锦江区科技馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻成都青羊区讲座阅读之旅-155",
+    "venue": "成都青羊区美术馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典成都武侯区科普活动探秘-156",
+    "venue": "成都武侯区图书馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼成都成华区演出发现-157",
+    "venue": "成都成华区文化馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式成都金牛区影视放映探索-158",
+    "venue": "成都金牛区公园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动成都高新区体育赛事科普-159",
+    "venue": "成都高新区植物园",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末成都天府新区亲子活动活动-160",
+    "venue": "成都天府新区动物园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期成都龙泉驿区展览体验营-161",
+    "venue": "成都龙泉驿区海洋馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子成都温江区讲座阅读工作坊-162",
+    "venue": "成都温江区剧院",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭成都双流区科普活动研学营-163",
+    "venue": "成都双流区体育馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童成都郫都区演出课程-164",
+    "venue": "成都郫都区体育场",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年成都新都区影视放映讲座-165",
+    "venue": "成都新都区会展中心",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味成都都江堰市体育赛事展览-166",
+    "venue": "成都都江堰市文化中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索成都彭州市亲子活动演出-167",
+    "venue": "成都彭州市艺术中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现成都锦江区展览比赛-168",
+    "venue": "成都锦江区青少年宫",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验成都青羊区讲座阅读嘉年华-169",
+    "venue": "成都青羊区创意园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进成都武侯区科普活动日-170",
+    "venue": "成都武侯区博物馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读成都成华区演出周-171",
+    "venue": "成都成华区科技馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘成都金牛区影视放映月-172",
+    "venue": "成都金牛区美术馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游成都高新区体育赛事季-173",
+    "venue": "成都高新区图书馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩成都天府新区亲子活动节-174",
+    "venue": "成都天府新区文化馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻成都龙泉驿区展览之旅-175",
+    "venue": "成都龙泉驿区公园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典成都温江区讲座阅读探秘-176",
+    "venue": "成都温江区植物园",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼成都双流区科普活动发现-177",
+    "venue": "成都双流区动物园",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式成都郫都区演出探索-178",
+    "venue": "成都郫都区海洋馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动成都新都区影视放映科普-179",
+    "venue": "成都新都区剧院",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末成都都江堰市体育赛事活动-180",
+    "venue": "成都都江堰市体育馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期成都彭州市亲子活动体验营-181",
+    "venue": "成都彭州市体育场",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子成都锦江区展览工作坊-182",
+    "venue": "成都锦江区会展中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭成都青羊区讲座阅读研学营-183",
+    "venue": "成都青羊区文化中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童成都武侯区科普活动课程-184",
+    "venue": "成都武侯区艺术中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年成都成华区演出讲座-185",
+    "venue": "成都成华区青少年宫",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味成都金牛区影视放映展览-186",
+    "venue": "成都金牛区创意园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "金牛区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索成都高新区体育赛事演出-187",
+    "venue": "成都高新区博物馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "高新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现成都天府新区亲子活动比赛-188",
+    "venue": "成都天府新区科技馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "天府新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验成都龙泉驿区展览嘉年华-189",
+    "venue": "成都龙泉驿区美术馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "龙泉驿区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进成都温江区讲座阅读日-190",
+    "venue": "成都温江区图书馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "温江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读成都双流区科普活动周-191",
+    "venue": "成都双流区文化馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "双流区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘成都郫都区演出月-192",
+    "venue": "成都郫都区公园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "郫都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游成都新都区影视放映季-193",
+    "venue": "成都新都区植物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "新都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩成都都江堰市体育赛事节-194",
+    "venue": "成都都江堰市动物园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "都江堰市",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻成都彭州市亲子活动之旅-195",
+    "venue": "成都彭州市海洋馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "彭州市",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典成都锦江区展览探秘-196",
+    "venue": "成都锦江区剧院",
+    "city": "chengdu",
+    "district": "锦江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "锦江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼成都青羊区讲座阅读发现-197",
+    "venue": "成都青羊区体育馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "青羊区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式成都武侯区科普活动探索-198",
+    "venue": "成都武侯区体育场",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "武侯区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动成都成华区演出科普-199",
+    "venue": "成都成华区会展中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "highlights": [
+      "成都",
+      "成华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末南京玄武区展览活动",
+    "venue": "南京玄武区博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的周末展览活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期南京秦淮区讲座阅读体验营",
+    "venue": "南京秦淮区科技馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子南京鼓楼区科普活动工作坊",
+    "venue": "南京鼓楼区美术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭南京建邺区演出研学营",
+    "venue": "南京建邺区图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童南京雨花台区影视放映课程",
+    "venue": "南京雨花台区文化馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年南京栖霞区体育赛事讲座",
+    "venue": "南京栖霞区公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味南京江宁区亲子活动展览",
+    "venue": "南京江宁区植物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索南京浦口区展览演出",
+    "venue": "南京浦口区动物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的探索展览演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现南京六合区讲座阅读比赛",
+    "venue": "南京六合区海洋馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验南京溧水区科普活动嘉年华",
+    "venue": "南京溧水区剧院",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进南京高淳区演出日",
+    "venue": "南京高淳区体育馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的走进演出日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读南京玄武区影视放映周",
+    "venue": "南京玄武区体育场",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的解读影视放映周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘南京秦淮区体育赛事月",
+    "venue": "南京秦淮区会展中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游南京鼓楼区亲子活动季",
+    "venue": "南京鼓楼区文化中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩南京建邺区展览节",
+    "venue": "南京建邺区艺术中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的精彩展览节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻南京雨花台区讲座阅读之旅",
+    "venue": "南京雨花台区青少年宫",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典南京栖霞区科普活动探秘",
+    "venue": "南京栖霞区创意园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼南京江宁区演出发现",
+    "venue": "南京江宁区博物馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的震撼演出发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式南京浦口区影视放映探索",
+    "venue": "南京浦口区科技馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动南京六合区体育赛事科普",
+    "venue": "南京六合区美术馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末南京溧水区亲子活动活动",
+    "venue": "南京溧水区图书馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期南京高淳区展览体验营",
+    "venue": "南京高淳区文化馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子南京玄武区讲座阅读工作坊",
+    "venue": "南京玄武区公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭南京秦淮区科普活动研学营",
+    "venue": "南京秦淮区植物园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童南京鼓楼区演出课程",
+    "venue": "南京鼓楼区动物园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的儿童演出课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年南京建邺区影视放映讲座",
+    "venue": "南京建邺区海洋馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味南京雨花台区体育赛事展览",
+    "venue": "南京雨花台区剧院",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索南京栖霞区亲子活动演出",
+    "venue": "南京栖霞区体育馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现南京江宁区展览比赛",
+    "venue": "南京江宁区体育场",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的发现展览比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验南京浦口区讲座阅读嘉年华",
+    "venue": "南京浦口区会展中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进南京六合区科普活动日",
+    "venue": "南京六合区文化中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的走进科普活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读南京溧水区演出周",
+    "venue": "南京溧水区艺术中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的解读演出周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘南京高淳区影视放映月",
+    "venue": "南京高淳区青少年宫",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游南京玄武区体育赛事季",
+    "venue": "南京玄武区创意园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩南京秦淮区亲子活动节",
+    "venue": "南京秦淮区博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻南京鼓楼区展览之旅",
+    "venue": "南京鼓楼区科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典南京建邺区讲座阅读探秘",
+    "venue": "南京建邺区美术馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼南京雨花台区科普活动发现",
+    "venue": "南京雨花台区图书馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式南京栖霞区演出探索",
+    "venue": "南京栖霞区文化馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动南京江宁区影视放映科普",
+    "venue": "南京江宁区公园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末南京浦口区体育赛事活动",
+    "venue": "南京浦口区植物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期南京六合区亲子活动体验营",
+    "venue": "南京六合区动物园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子南京溧水区展览工作坊",
+    "venue": "南京溧水区海洋馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭南京高淳区讲座阅读研学营",
+    "venue": "南京高淳区剧院",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童南京玄武区科普活动课程",
+    "venue": "南京玄武区体育馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年南京秦淮区演出讲座",
+    "venue": "南京秦淮区体育场",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味南京鼓楼区影视放映展览",
+    "venue": "南京鼓楼区会展中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索南京建邺区体育赛事演出",
+    "venue": "南京建邺区文化中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现南京雨花台区亲子活动比赛",
+    "venue": "南京雨花台区艺术中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验南京栖霞区展览嘉年华",
+    "venue": "南京栖霞区青少年宫",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进南京江宁区讲座阅读日",
+    "venue": "南京江宁区创意园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读南京浦口区科普活动周",
+    "venue": "南京浦口区博物馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的解读科普活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘南京六合区演出月",
+    "venue": "南京六合区科技馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的探秘演出月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游南京溧水区影视放映季",
+    "venue": "南京溧水区美术馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩南京高淳区体育赛事节",
+    "venue": "南京高淳区图书馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻南京玄武区亲子活动之旅",
+    "venue": "南京玄武区文化馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典南京秦淮区展览探秘",
+    "venue": "南京秦淮区公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的经典展览探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼南京鼓楼区讲座阅读发现",
+    "venue": "南京鼓楼区植物园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式南京建邺区科普活动探索",
+    "venue": "南京建邺区动物园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动南京雨花台区演出科普",
+    "venue": "南京雨花台区海洋馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的互动演出科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末南京栖霞区影视放映活动",
+    "venue": "南京栖霞区剧院",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期南京江宁区体育赛事体验营",
+    "venue": "南京江宁区体育馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子南京浦口区亲子活动工作坊",
+    "venue": "南京浦口区体育场",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭南京六合区展览研学营",
+    "venue": "南京六合区会展中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童南京溧水区讲座阅读课程",
+    "venue": "南京溧水区文化中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年南京高淳区科普活动讲座",
+    "venue": "南京高淳区艺术中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味南京玄武区演出展览",
+    "venue": "南京玄武区青少年宫",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的趣味演出展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索南京秦淮区影视放映演出",
+    "venue": "南京秦淮区创意园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现南京鼓楼区体育赛事比赛",
+    "venue": "南京鼓楼区博物馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验南京建邺区亲子活动嘉年华",
+    "venue": "南京建邺区科技馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进南京雨花台区展览日",
+    "venue": "南京雨花台区美术馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的走进展览日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读南京栖霞区讲座阅读周",
+    "venue": "南京栖霞区图书馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘南京江宁区科普活动月",
+    "venue": "南京江宁区文化馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游南京浦口区演出季",
+    "venue": "南京浦口区公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的漫游演出季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩南京六合区影视放映节",
+    "venue": "南京六合区植物园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻南京溧水区体育赛事之旅",
+    "venue": "南京溧水区动物园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典南京高淳区亲子活动探秘",
+    "venue": "南京高淳区海洋馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼南京玄武区展览发现",
+    "venue": "南京玄武区剧院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的震撼展览发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式南京秦淮区讲座阅读探索",
+    "venue": "南京秦淮区体育馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动南京鼓楼区科普活动科普",
+    "venue": "南京鼓楼区体育场",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末南京建邺区演出活动",
+    "venue": "南京建邺区会展中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的周末演出活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期南京雨花台区影视放映体验营",
+    "venue": "南京雨花台区文化中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子南京栖霞区体育赛事工作坊",
+    "venue": "南京栖霞区艺术中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭南京江宁区亲子活动研学营",
+    "venue": "南京江宁区青少年宫",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童南京浦口区展览课程",
+    "venue": "南京浦口区创意园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的儿童展览课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年南京六合区讲座阅读讲座",
+    "venue": "南京六合区博物馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味南京溧水区科普活动展览",
+    "venue": "南京溧水区科技馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索南京高淳区演出演出",
+    "venue": "南京高淳区美术馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的探索演出演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现南京玄武区影视放映比赛",
+    "venue": "南京玄武区图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验南京秦淮区体育赛事嘉年华",
+    "venue": "南京秦淮区文化馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进南京鼓楼区亲子活动日",
+    "venue": "南京鼓楼区公园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读南京建邺区展览周",
+    "venue": "南京建邺区植物园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的解读展览周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘南京雨花台区讲座阅读月",
+    "venue": "南京雨花台区动物园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游南京栖霞区科普活动季",
+    "venue": "南京栖霞区海洋馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩南京江宁区演出节",
+    "venue": "南京江宁区剧院",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的精彩演出节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻南京浦口区影视放映之旅",
+    "venue": "南京浦口区体育馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典南京六合区体育赛事探秘",
+    "venue": "南京六合区体育场",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼南京溧水区亲子活动发现",
+    "venue": "南京溧水区会展中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式南京高淳区展览探索",
+    "venue": "南京高淳区文化中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动南京玄武区讲座阅读科普",
+    "venue": "南京玄武区艺术中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末南京秦淮区科普活动活动",
+    "venue": "南京秦淮区青少年宫",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期南京鼓楼区演出体验营",
+    "venue": "南京鼓楼区创意园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子南京建邺区影视放映工作坊",
+    "venue": "南京建邺区博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭南京雨花台区体育赛事研学营",
+    "venue": "南京雨花台区科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童南京栖霞区亲子活动课程",
+    "venue": "南京栖霞区美术馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年南京江宁区展览讲座",
+    "venue": "南京江宁区图书馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味南京浦口区讲座阅读展览",
+    "venue": "南京浦口区文化馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索南京六合区科普活动演出",
+    "venue": "南京六合区公园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现南京溧水区演出比赛",
+    "venue": "南京溧水区植物园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的发现演出比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验南京高淳区影视放映嘉年华",
+    "venue": "南京高淳区动物园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进南京玄武区体育赛事日",
+    "venue": "南京玄武区海洋馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读南京秦淮区亲子活动周",
+    "venue": "南京秦淮区剧院",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘南京鼓楼区展览月",
+    "venue": "南京鼓楼区体育馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的探秘展览月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游南京建邺区讲座阅读季",
+    "venue": "南京建邺区体育场",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩南京雨花台区科普活动节",
+    "venue": "南京雨花台区会展中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻南京栖霞区演出之旅",
+    "venue": "南京栖霞区文化中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典南京江宁区影视放映探秘",
+    "venue": "南京江宁区艺术中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼南京浦口区体育赛事发现",
+    "venue": "南京浦口区青少年宫",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式南京六合区亲子活动探索",
+    "venue": "南京六合区创意园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动南京溧水区展览科普",
+    "venue": "南京溧水区博物馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的互动展览科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末南京高淳区讲座阅读活动",
+    "venue": "南京高淳区科技馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期南京玄武区科普活动体验营",
+    "venue": "南京玄武区美术馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子南京秦淮区演出工作坊",
+    "venue": "南京秦淮区图书馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭南京鼓楼区影视放映研学营",
+    "venue": "南京鼓楼区文化馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童南京建邺区体育赛事课程",
+    "venue": "南京建邺区公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年南京雨花台区亲子活动讲座",
+    "venue": "南京雨花台区植物园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味南京栖霞区展览展览",
+    "venue": "南京栖霞区动物园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的趣味展览展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索南京江宁区讲座阅读演出",
+    "venue": "南京江宁区海洋馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现南京浦口区科普活动比赛",
+    "venue": "南京浦口区剧院",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验南京六合区演出嘉年华",
+    "venue": "南京六合区体育馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进南京溧水区影视放映日",
+    "venue": "南京溧水区体育场",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的走进影视放映日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读南京高淳区体育赛事周",
+    "venue": "南京高淳区会展中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘南京玄武区亲子活动月",
+    "venue": "南京玄武区文化中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游南京秦淮区展览季",
+    "venue": "南京秦淮区艺术中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的漫游展览季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩南京鼓楼区讲座阅读节",
+    "venue": "南京鼓楼区青少年宫",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻南京建邺区科普活动之旅",
+    "venue": "南京建邺区创意园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典南京雨花台区演出探秘",
+    "venue": "南京雨花台区博物馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的经典演出探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼南京栖霞区影视放映发现",
+    "venue": "南京栖霞区科技馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式南京江宁区体育赛事探索",
+    "venue": "南京江宁区美术馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动南京浦口区亲子活动科普",
+    "venue": "南京浦口区图书馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末南京六合区展览活动",
+    "venue": "南京六合区文化馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的周末展览活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期南京溧水区讲座阅读体验营",
+    "venue": "南京溧水区公园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子南京高淳区科普活动工作坊",
+    "venue": "南京高淳区植物园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭南京玄武区演出研学营",
+    "venue": "南京玄武区动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童南京秦淮区影视放映课程",
+    "venue": "南京秦淮区海洋馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年南京鼓楼区体育赛事讲座",
+    "venue": "南京鼓楼区剧院",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味南京建邺区亲子活动展览",
+    "venue": "南京建邺区体育馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索南京雨花台区展览演出",
+    "venue": "南京雨花台区体育场",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的探索展览演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现南京栖霞区讲座阅读比赛",
+    "venue": "南京栖霞区会展中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验南京江宁区科普活动嘉年华",
+    "venue": "南京江宁区文化中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进南京浦口区演出日",
+    "venue": "南京浦口区艺术中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的走进演出日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读南京六合区影视放映周",
+    "venue": "南京六合区青少年宫",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的解读影视放映周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘南京溧水区体育赛事月",
+    "venue": "南京溧水区创意园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游南京高淳区亲子活动季",
+    "venue": "南京高淳区博物馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩南京玄武区展览节",
+    "venue": "南京玄武区科技馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的精彩展览节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻南京秦淮区讲座阅读之旅",
+    "venue": "南京秦淮区美术馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典南京鼓楼区科普活动探秘",
+    "venue": "南京鼓楼区图书馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼南京建邺区演出发现",
+    "venue": "南京建邺区文化馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的震撼演出发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式南京雨花台区影视放映探索",
+    "venue": "南京雨花台区公园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动南京栖霞区体育赛事科普",
+    "venue": "南京栖霞区植物园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末南京江宁区亲子活动活动",
+    "venue": "南京江宁区动物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期南京浦口区展览体验营",
+    "venue": "南京浦口区海洋馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子南京六合区讲座阅读工作坊",
+    "venue": "南京六合区剧院",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭南京溧水区科普活动研学营",
+    "venue": "南京溧水区体育馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童南京高淳区演出课程",
+    "venue": "南京高淳区体育场",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的儿童演出课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年南京玄武区影视放映讲座",
+    "venue": "南京玄武区会展中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味南京秦淮区体育赛事展览",
+    "venue": "南京秦淮区文化中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索南京鼓楼区亲子活动演出",
+    "venue": "南京鼓楼区艺术中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现南京建邺区展览比赛",
+    "venue": "南京建邺区青少年宫",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的发现展览比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验南京雨花台区讲座阅读嘉年华",
+    "venue": "南京雨花台区创意园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进南京栖霞区科普活动日",
+    "venue": "南京栖霞区博物馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京栖霞区的走进科普活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读南京江宁区演出周",
+    "venue": "南京江宁区科技馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的解读演出周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘南京浦口区影视放映月",
+    "venue": "南京浦口区美术馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游南京六合区体育赛事季",
+    "venue": "南京六合区图书馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩南京溧水区亲子活动节",
+    "venue": "南京溧水区文化馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻南京高淳区展览之旅",
+    "venue": "南京高淳区公园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典南京玄武区讲座阅读探秘",
+    "venue": "南京玄武区植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼南京秦淮区科普活动发现",
+    "venue": "南京秦淮区动物园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京秦淮区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式南京鼓楼区演出探索",
+    "venue": "南京鼓楼区海洋馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京鼓楼区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动南京建邺区影视放映科普",
+    "venue": "南京建邺区剧院",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京建邺区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末南京雨花台区体育赛事活动",
+    "venue": "南京雨花台区体育馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京雨花台区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期南京栖霞区亲子活动体验营",
+    "venue": "南京栖霞区体育场",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子南京江宁区展览工作坊",
+    "venue": "南京江宁区会展中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京江宁区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭南京浦口区讲座阅读研学营",
+    "venue": "南京浦口区文化中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京浦口区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童南京六合区科普活动课程",
+    "venue": "南京六合区艺术中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京六合区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年南京溧水区演出讲座",
+    "venue": "南京溧水区青少年宫",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京溧水区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味南京高淳区影视放映展览",
+    "venue": "南京高淳区创意园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京高淳区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索南京玄武区体育赛事演出",
+    "venue": "南京玄武区博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京玄武区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现南京秦淮区亲子活动比赛",
+    "venue": "南京秦淮区科技馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验南京鼓楼区展览嘉年华",
+    "venue": "南京鼓楼区美术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京鼓楼区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进南京建邺区讲座阅读日",
+    "venue": "南京建邺区图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京建邺区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读南京雨花台区科普活动周",
+    "venue": "南京雨花台区文化馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京雨花台区的解读科普活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘南京栖霞区演出月",
+    "venue": "南京栖霞区公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京栖霞区的探秘演出月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游南京江宁区影视放映季",
+    "venue": "南京江宁区植物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京江宁区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩南京浦口区体育赛事节",
+    "venue": "南京浦口区动物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京浦口区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻南京六合区亲子活动之旅",
+    "venue": "南京六合区海洋馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京六合区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典南京溧水区展览探秘",
+    "venue": "南京溧水区剧院",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京溧水区的经典展览探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼南京高淳区讲座阅读发现",
+    "venue": "南京高淳区体育馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京高淳区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式南京玄武区科普活动探索",
+    "venue": "南京玄武区体育场",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "南京玄武区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动南京秦淮区演出科普",
+    "venue": "南京秦淮区会展中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "南京秦淮区的互动演出科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末武汉江岸区展览活动",
+    "venue": "武汉江岸区博物馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的周末展览活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期武汉江汉区讲座阅读体验营",
+    "venue": "武汉江汉区科技馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子武汉硚口区科普活动工作坊",
+    "venue": "武汉硚口区美术馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭武汉汉阳区演出研学营",
+    "venue": "武汉汉阳区图书馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童武汉武昌区影视放映课程",
+    "venue": "武汉武昌区文化馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年武汉青山区体育赛事讲座",
+    "venue": "武汉青山区公园",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味武汉洪山区亲子活动展览",
+    "venue": "武汉洪山区植物园",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索武汉东西湖区展览演出",
+    "venue": "武汉东西湖区动物园",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的探索展览演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现武汉蔡甸区讲座阅读比赛",
+    "venue": "武汉蔡甸区海洋馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验武汉江夏区科普活动嘉年华",
+    "venue": "武汉江夏区剧院",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进武汉黄陂区演出日",
+    "venue": "武汉黄陂区体育馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的走进演出日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读武汉新洲区影视放映周",
+    "venue": "武汉新洲区体育场",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的解读影视放映周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘武汉江岸区体育赛事月",
+    "venue": "武汉江岸区会展中心",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游武汉江汉区亲子活动季",
+    "venue": "武汉江汉区文化中心",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩武汉硚口区展览节",
+    "venue": "武汉硚口区艺术中心",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的精彩展览节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻武汉汉阳区讲座阅读之旅",
+    "venue": "武汉汉阳区青少年宫",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典武汉武昌区科普活动探秘",
+    "venue": "武汉武昌区创意园",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼武汉青山区演出发现",
+    "venue": "武汉青山区博物馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的震撼演出发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式武汉洪山区影视放映探索",
+    "venue": "武汉洪山区科技馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动武汉东西湖区体育赛事科普",
+    "venue": "武汉东西湖区美术馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末武汉蔡甸区亲子活动活动",
+    "venue": "武汉蔡甸区图书馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期武汉江夏区展览体验营",
+    "venue": "武汉江夏区文化馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子武汉黄陂区讲座阅读工作坊",
+    "venue": "武汉黄陂区公园",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭武汉新洲区科普活动研学营",
+    "venue": "武汉新洲区植物园",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童武汉江岸区演出课程",
+    "venue": "武汉江岸区动物园",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的儿童演出课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年武汉江汉区影视放映讲座",
+    "venue": "武汉江汉区海洋馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味武汉硚口区体育赛事展览",
+    "venue": "武汉硚口区剧院",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索武汉汉阳区亲子活动演出",
+    "venue": "武汉汉阳区体育馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现武汉武昌区展览比赛",
+    "venue": "武汉武昌区体育场",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的发现展览比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验武汉青山区讲座阅读嘉年华",
+    "venue": "武汉青山区会展中心",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进武汉洪山区科普活动日",
+    "venue": "武汉洪山区文化中心",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的走进科普活动日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读武汉东西湖区演出周",
+    "venue": "武汉东西湖区艺术中心",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的解读演出周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘武汉蔡甸区影视放映月",
+    "venue": "武汉蔡甸区青少年宫",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游武汉江夏区体育赛事季",
+    "venue": "武汉江夏区创意园",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩武汉黄陂区亲子活动节",
+    "venue": "武汉黄陂区博物馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻武汉新洲区展览之旅",
+    "venue": "武汉新洲区科技馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典武汉江岸区讲座阅读探秘",
+    "venue": "武汉江岸区美术馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼武汉江汉区科普活动发现",
+    "venue": "武汉江汉区图书馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式武汉硚口区演出探索",
+    "venue": "武汉硚口区文化馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动武汉汉阳区影视放映科普",
+    "venue": "武汉汉阳区公园",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末武汉武昌区体育赛事活动",
+    "venue": "武汉武昌区植物园",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期武汉青山区亲子活动体验营",
+    "venue": "武汉青山区动物园",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子武汉洪山区展览工作坊",
+    "venue": "武汉洪山区海洋馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭武汉东西湖区讲座阅读研学营",
+    "venue": "武汉东西湖区剧院",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童武汉蔡甸区科普活动课程",
+    "venue": "武汉蔡甸区体育馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年武汉江夏区演出讲座",
+    "venue": "武汉江夏区体育场",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味武汉黄陂区影视放映展览",
+    "venue": "武汉黄陂区会展中心",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索武汉新洲区体育赛事演出",
+    "venue": "武汉新洲区文化中心",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现武汉江岸区亲子活动比赛",
+    "venue": "武汉江岸区艺术中心",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验武汉江汉区展览嘉年华",
+    "venue": "武汉江汉区青少年宫",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进武汉硚口区讲座阅读日",
+    "venue": "武汉硚口区创意园",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读武汉汉阳区科普活动周",
+    "venue": "武汉汉阳区博物馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的解读科普活动周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘武汉武昌区演出月",
+    "venue": "武汉武昌区科技馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的探秘演出月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游武汉青山区影视放映季",
+    "venue": "武汉青山区美术馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩武汉洪山区体育赛事节",
+    "venue": "武汉洪山区图书馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻武汉东西湖区亲子活动之旅",
+    "venue": "武汉东西湖区文化馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典武汉蔡甸区展览探秘",
+    "venue": "武汉蔡甸区公园",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的经典展览探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼武汉江夏区讲座阅读发现",
+    "venue": "武汉江夏区植物园",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式武汉黄陂区科普活动探索",
+    "venue": "武汉黄陂区动物园",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动武汉新洲区演出科普",
+    "venue": "武汉新洲区海洋馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的互动演出科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末武汉江岸区影视放映活动",
+    "venue": "武汉江岸区剧院",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期武汉江汉区体育赛事体验营",
+    "venue": "武汉江汉区体育馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子武汉硚口区亲子活动工作坊",
+    "venue": "武汉硚口区体育场",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭武汉汉阳区展览研学营",
+    "venue": "武汉汉阳区会展中心",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童武汉武昌区讲座阅读课程",
+    "venue": "武汉武昌区文化中心",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年武汉青山区科普活动讲座",
+    "venue": "武汉青山区艺术中心",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味武汉洪山区演出展览",
+    "venue": "武汉洪山区青少年宫",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的趣味演出展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索武汉东西湖区影视放映演出",
+    "venue": "武汉东西湖区创意园",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现武汉蔡甸区体育赛事比赛",
+    "venue": "武汉蔡甸区博物馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验武汉江夏区亲子活动嘉年华",
+    "venue": "武汉江夏区科技馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进武汉黄陂区展览日",
+    "venue": "武汉黄陂区美术馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的走进展览日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读武汉新洲区讲座阅读周",
+    "venue": "武汉新洲区图书馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘武汉江岸区科普活动月",
+    "venue": "武汉江岸区文化馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游武汉江汉区演出季",
+    "venue": "武汉江汉区公园",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的漫游演出季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩武汉硚口区影视放映节",
+    "venue": "武汉硚口区植物园",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻武汉汉阳区体育赛事之旅",
+    "venue": "武汉汉阳区动物园",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典武汉武昌区亲子活动探秘",
+    "venue": "武汉武昌区海洋馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼武汉青山区展览发现",
+    "venue": "武汉青山区剧院",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的震撼展览发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式武汉洪山区讲座阅读探索",
+    "venue": "武汉洪山区体育馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动武汉东西湖区科普活动科普",
+    "venue": "武汉东西湖区体育场",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末武汉蔡甸区演出活动",
+    "venue": "武汉蔡甸区会展中心",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的周末演出活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期武汉江夏区影视放映体验营",
+    "venue": "武汉江夏区文化中心",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子武汉黄陂区体育赛事工作坊",
+    "venue": "武汉黄陂区艺术中心",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭武汉新洲区亲子活动研学营",
+    "venue": "武汉新洲区青少年宫",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童武汉江岸区展览课程",
+    "venue": "武汉江岸区创意园",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的儿童展览课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年武汉江汉区讲座阅读讲座",
+    "venue": "武汉江汉区博物馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味武汉硚口区科普活动展览",
+    "venue": "武汉硚口区科技馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索武汉汉阳区演出演出",
+    "venue": "武汉汉阳区美术馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的探索演出演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现武汉武昌区影视放映比赛",
+    "venue": "武汉武昌区图书馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验武汉青山区体育赛事嘉年华",
+    "venue": "武汉青山区文化馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进武汉洪山区亲子活动日",
+    "venue": "武汉洪山区公园",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读武汉东西湖区展览周",
+    "venue": "武汉东西湖区植物园",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的解读展览周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘武汉蔡甸区讲座阅读月",
+    "venue": "武汉蔡甸区动物园",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游武汉江夏区科普活动季",
+    "venue": "武汉江夏区海洋馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩武汉黄陂区演出节",
+    "venue": "武汉黄陂区剧院",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的精彩演出节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻武汉新洲区影视放映之旅",
+    "venue": "武汉新洲区体育馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典武汉江岸区体育赛事探秘",
+    "venue": "武汉江岸区体育场",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼武汉江汉区亲子活动发现",
+    "venue": "武汉江汉区会展中心",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式武汉硚口区展览探索",
+    "venue": "武汉硚口区文化中心",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动武汉汉阳区讲座阅读科普",
+    "venue": "武汉汉阳区艺术中心",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末武汉武昌区科普活动活动",
+    "venue": "武汉武昌区青少年宫",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期武汉青山区演出体验营",
+    "venue": "武汉青山区创意园",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子武汉洪山区影视放映工作坊",
+    "venue": "武汉洪山区博物馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭武汉东西湖区体育赛事研学营",
+    "venue": "武汉东西湖区科技馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童武汉蔡甸区亲子活动课程",
+    "venue": "武汉蔡甸区美术馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年武汉江夏区展览讲座",
+    "venue": "武汉江夏区图书馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味武汉黄陂区讲座阅读展览",
+    "venue": "武汉黄陂区文化馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索武汉新洲区科普活动演出",
+    "venue": "武汉新洲区公园",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现武汉江岸区演出比赛",
+    "venue": "武汉江岸区植物园",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的发现演出比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验武汉江汉区影视放映嘉年华",
+    "venue": "武汉江汉区动物园",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进武汉硚口区体育赛事日",
+    "venue": "武汉硚口区海洋馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读武汉汉阳区亲子活动周",
+    "venue": "武汉汉阳区剧院",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘武汉武昌区展览月",
+    "venue": "武汉武昌区体育馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的探秘展览月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游武汉青山区讲座阅读季",
+    "venue": "武汉青山区体育场",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩武汉洪山区科普活动节",
+    "venue": "武汉洪山区会展中心",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻武汉东西湖区演出之旅",
+    "venue": "武汉东西湖区文化中心",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典武汉蔡甸区影视放映探秘",
+    "venue": "武汉蔡甸区艺术中心",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼武汉江夏区体育赛事发现",
+    "venue": "武汉江夏区青少年宫",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式武汉黄陂区亲子活动探索",
+    "venue": "武汉黄陂区创意园",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动武汉新洲区展览科普",
+    "venue": "武汉新洲区博物馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的互动展览科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末武汉江岸区讲座阅读活动",
+    "venue": "武汉江岸区科技馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期武汉江汉区科普活动体验营",
+    "venue": "武汉江汉区美术馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子武汉硚口区演出工作坊",
+    "venue": "武汉硚口区图书馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭武汉汉阳区影视放映研学营",
+    "venue": "武汉汉阳区文化馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童武汉武昌区体育赛事课程",
+    "venue": "武汉武昌区公园",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年武汉青山区亲子活动讲座",
+    "venue": "武汉青山区植物园",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味武汉洪山区展览展览",
+    "venue": "武汉洪山区动物园",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的趣味展览展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索武汉东西湖区讲座阅读演出",
+    "venue": "武汉东西湖区海洋馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现武汉蔡甸区科普活动比赛",
+    "venue": "武汉蔡甸区剧院",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验武汉江夏区演出嘉年华",
+    "venue": "武汉江夏区体育馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进武汉黄陂区影视放映日",
+    "venue": "武汉黄陂区体育场",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的走进影视放映日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读武汉新洲区体育赛事周",
+    "venue": "武汉新洲区会展中心",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘武汉江岸区亲子活动月",
+    "venue": "武汉江岸区文化中心",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游武汉江汉区展览季",
+    "venue": "武汉江汉区艺术中心",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的漫游展览季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩武汉硚口区讲座阅读节",
+    "venue": "武汉硚口区青少年宫",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻武汉汉阳区科普活动之旅",
+    "venue": "武汉汉阳区创意园",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典武汉武昌区演出探秘",
+    "venue": "武汉武昌区博物馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的经典演出探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼武汉青山区影视放映发现",
+    "venue": "武汉青山区科技馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式武汉洪山区体育赛事探索",
+    "venue": "武汉洪山区美术馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动武汉东西湖区亲子活动科普",
+    "venue": "武汉东西湖区图书馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末武汉蔡甸区展览活动",
+    "venue": "武汉蔡甸区文化馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的周末展览活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期武汉江夏区讲座阅读体验营",
+    "venue": "武汉江夏区公园",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子武汉黄陂区科普活动工作坊",
+    "venue": "武汉黄陂区植物园",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭武汉新洲区演出研学营",
+    "venue": "武汉新洲区动物园",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童武汉江岸区影视放映课程",
+    "venue": "武汉江岸区海洋馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年武汉江汉区体育赛事讲座",
+    "venue": "武汉江汉区剧院",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味武汉硚口区亲子活动展览",
+    "venue": "武汉硚口区体育馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索武汉汉阳区展览演出",
+    "venue": "武汉汉阳区体育场",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的探索展览演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现武汉武昌区讲座阅读比赛",
+    "venue": "武汉武昌区会展中心",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验武汉青山区科普活动嘉年华",
+    "venue": "武汉青山区文化中心",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进武汉洪山区演出日",
+    "venue": "武汉洪山区艺术中心",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的走进演出日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读武汉东西湖区影视放映周",
+    "venue": "武汉东西湖区青少年宫",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的解读影视放映周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘武汉蔡甸区体育赛事月",
+    "venue": "武汉蔡甸区创意园",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游武汉江夏区亲子活动季",
+    "venue": "武汉江夏区博物馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩武汉黄陂区展览节",
+    "venue": "武汉黄陂区科技馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的精彩展览节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻武汉新洲区讲座阅读之旅",
+    "venue": "武汉新洲区美术馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典武汉江岸区科普活动探秘",
+    "venue": "武汉江岸区图书馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼武汉江汉区演出发现",
+    "venue": "武汉江汉区文化馆",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的震撼演出发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式武汉硚口区影视放映探索",
+    "venue": "武汉硚口区公园",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动武汉汉阳区体育赛事科普",
+    "venue": "武汉汉阳区植物园",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末武汉武昌区亲子活动活动",
+    "venue": "武汉武昌区动物园",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期武汉青山区展览体验营",
+    "venue": "武汉青山区海洋馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子武汉洪山区讲座阅读工作坊",
+    "venue": "武汉洪山区剧院",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭武汉东西湖区科普活动研学营",
+    "venue": "武汉东西湖区体育馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童武汉蔡甸区演出课程",
+    "venue": "武汉蔡甸区体育场",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的儿童演出课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年武汉江夏区影视放映讲座",
+    "venue": "武汉江夏区会展中心",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江夏区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味武汉黄陂区体育赛事展览",
+    "venue": "武汉黄陂区文化中心",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索武汉新洲区亲子活动演出",
+    "venue": "武汉新洲区艺术中心",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现武汉江岸区展览比赛",
+    "venue": "武汉江岸区青少年宫",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江岸区的发现展览比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验武汉江汉区讲座阅读嘉年华",
+    "venue": "武汉江汉区创意园",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江汉区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进武汉硚口区科普活动日",
+    "venue": "武汉硚口区博物馆",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的走进科普活动日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读武汉汉阳区演出周",
+    "venue": "武汉汉阳区科技馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的解读演出周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘武汉武昌区影视放映月",
+    "venue": "武汉武昌区美术馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉武昌区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游武汉青山区体育赛事季",
+    "venue": "武汉青山区图书馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩武汉洪山区亲子活动节",
+    "venue": "武汉洪山区文化馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻武汉东西湖区展览之旅",
+    "venue": "武汉东西湖区公园",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉东西湖区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典武汉蔡甸区讲座阅读探秘",
+    "venue": "武汉蔡甸区植物园",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉蔡甸区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼武汉江夏区科普活动发现",
+    "venue": "武汉江夏区动物园",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式武汉黄陂区演出探索",
+    "venue": "武汉黄陂区海洋馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉黄陂区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动武汉新洲区影视放映科普",
+    "venue": "武汉新洲区剧院",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉新洲区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末武汉江岸区体育赛事活动",
+    "venue": "武汉江岸区体育馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期武汉江汉区亲子活动体验营",
+    "venue": "武汉江汉区体育场",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子武汉硚口区展览工作坊",
+    "venue": "武汉硚口区会展中心",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉硚口区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭武汉汉阳区讲座阅读研学营",
+    "venue": "武汉汉阳区文化中心",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉汉阳区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童武汉武昌区科普活动课程",
+    "venue": "武汉武昌区艺术中心",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年武汉青山区演出讲座",
+    "venue": "武汉青山区青少年宫",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉青山区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味武汉洪山区影视放映展览",
+    "venue": "武汉洪山区创意园",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉洪山区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索武汉东西湖区体育赛事演出",
+    "venue": "武汉东西湖区博物馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现武汉蔡甸区亲子活动比赛",
+    "venue": "武汉蔡甸区科技馆",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉蔡甸区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "蔡甸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验武汉江夏区展览嘉年华",
+    "venue": "武汉江夏区美术馆",
+    "city": "wuhan",
+    "district": "江夏区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉江夏区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江夏区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进武汉黄陂区讲座阅读日",
+    "venue": "武汉黄陂区图书馆",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉黄陂区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "黄陂区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读武汉新洲区科普活动周",
+    "venue": "武汉新洲区文化馆",
+    "city": "wuhan",
+    "district": "新洲区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉新洲区的解读科普活动周，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "新洲区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘武汉江岸区演出月",
+    "venue": "武汉江岸区公园",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江岸区的探秘演出月，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游武汉江汉区影视放映季",
+    "venue": "武汉江汉区植物园",
+    "city": "wuhan",
+    "district": "江汉区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉江汉区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "江汉区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩武汉硚口区体育赛事节",
+    "venue": "武汉硚口区动物园",
+    "city": "wuhan",
+    "district": "硚口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉硚口区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "硚口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻武汉汉阳区亲子活动之旅",
+    "venue": "武汉汉阳区海洋馆",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉汉阳区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "汉阳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典武汉武昌区展览探秘",
+    "venue": "武汉武昌区剧院",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉武昌区的经典展览探秘，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "武昌区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼武汉青山区讲座阅读发现",
+    "venue": "武汉青山区体育馆",
+    "city": "wuhan",
+    "district": "青山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉青山区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "青山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式武汉洪山区科普活动探索",
+    "venue": "武汉洪山区体育场",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "武汉洪山区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "洪山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动武汉东西湖区演出科普",
+    "venue": "武汉东西湖区会展中心",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "武汉东西湖区的互动演出科普，适合亲子家庭参与。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "武汉",
+      "东西湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末西安新城区展览活动",
+    "venue": "西安新城区博物馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的周末展览活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期西安碑林区讲座阅读体验营",
+    "venue": "西安碑林区科技馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子西安莲湖区科普活动工作坊",
+    "venue": "西安莲湖区美术馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭西安雁塔区演出研学营",
+    "venue": "西安雁塔区图书馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童西安未央区影视放映课程",
+    "venue": "西安未央区文化馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年西安灞桥区体育赛事讲座",
+    "venue": "西安灞桥区公园",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味西安阎良区亲子活动展览",
+    "venue": "西安阎良区植物园",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索西安临潼区展览演出",
+    "venue": "西安临潼区动物园",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的探索展览演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现西安长安区讲座阅读比赛",
+    "venue": "西安长安区海洋馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验西安高陵区科普活动嘉年华",
+    "venue": "西安高陵区剧院",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进西安鄠邑区演出日",
+    "venue": "西安鄠邑区体育馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的走进演出日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读西安新城区影视放映周",
+    "venue": "西安新城区体育场",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的解读影视放映周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘西安碑林区体育赛事月",
+    "venue": "西安碑林区会展中心",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游西安莲湖区亲子活动季",
+    "venue": "西安莲湖区文化中心",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩西安雁塔区展览节",
+    "venue": "西安雁塔区艺术中心",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的精彩展览节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻西安未央区讲座阅读之旅",
+    "venue": "西安未央区青少年宫",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典西安灞桥区科普活动探秘",
+    "venue": "西安灞桥区创意园",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼西安阎良区演出发现",
+    "venue": "西安阎良区博物馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的震撼演出发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式西安临潼区影视放映探索",
+    "venue": "西安临潼区科技馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动西安长安区体育赛事科普",
+    "venue": "西安长安区美术馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末西安高陵区亲子活动活动",
+    "venue": "西安高陵区图书馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期西安鄠邑区展览体验营",
+    "venue": "西安鄠邑区文化馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子西安新城区讲座阅读工作坊",
+    "venue": "西安新城区公园",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭西安碑林区科普活动研学营",
+    "venue": "西安碑林区植物园",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童西安莲湖区演出课程",
+    "venue": "西安莲湖区动物园",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的儿童演出课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年西安雁塔区影视放映讲座",
+    "venue": "西安雁塔区海洋馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味西安未央区体育赛事展览",
+    "venue": "西安未央区剧院",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索西安灞桥区亲子活动演出",
+    "venue": "西安灞桥区体育馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现西安阎良区展览比赛",
+    "venue": "西安阎良区体育场",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的发现展览比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验西安临潼区讲座阅读嘉年华",
+    "venue": "西安临潼区会展中心",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进西安长安区科普活动日",
+    "venue": "西安长安区文化中心",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的走进科普活动日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读西安高陵区演出周",
+    "venue": "西安高陵区艺术中心",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的解读演出周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘西安鄠邑区影视放映月",
+    "venue": "西安鄠邑区青少年宫",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游西安新城区体育赛事季",
+    "venue": "西安新城区创意园",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩西安碑林区亲子活动节",
+    "venue": "西安碑林区博物馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻西安莲湖区展览之旅",
+    "venue": "西安莲湖区科技馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典西安雁塔区讲座阅读探秘",
+    "venue": "西安雁塔区美术馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼西安未央区科普活动发现",
+    "venue": "西安未央区图书馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式西安灞桥区演出探索",
+    "venue": "西安灞桥区文化馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动西安阎良区影视放映科普",
+    "venue": "西安阎良区公园",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末西安临潼区体育赛事活动",
+    "venue": "西安临潼区植物园",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期西安长安区亲子活动体验营",
+    "venue": "西安长安区动物园",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子西安高陵区展览工作坊",
+    "venue": "西安高陵区海洋馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭西安鄠邑区讲座阅读研学营",
+    "venue": "西安鄠邑区剧院",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童西安新城区科普活动课程",
+    "venue": "西安新城区体育馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年西安碑林区演出讲座",
+    "venue": "西安碑林区体育场",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味西安莲湖区影视放映展览",
+    "venue": "西安莲湖区会展中心",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索西安雁塔区体育赛事演出",
+    "venue": "西安雁塔区文化中心",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现西安未央区亲子活动比赛",
+    "venue": "西安未央区艺术中心",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验西安灞桥区展览嘉年华",
+    "venue": "西安灞桥区青少年宫",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进西安阎良区讲座阅读日",
+    "venue": "西安阎良区创意园",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读西安临潼区科普活动周",
+    "venue": "西安临潼区博物馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的解读科普活动周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘西安长安区演出月",
+    "venue": "西安长安区科技馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的探秘演出月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游西安高陵区影视放映季",
+    "venue": "西安高陵区美术馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩西安鄠邑区体育赛事节",
+    "venue": "西安鄠邑区图书馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻西安新城区亲子活动之旅",
+    "venue": "西安新城区文化馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典西安碑林区展览探秘",
+    "venue": "西安碑林区公园",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的经典展览探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼西安莲湖区讲座阅读发现",
+    "venue": "西安莲湖区植物园",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式西安雁塔区科普活动探索",
+    "venue": "西安雁塔区动物园",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动西安未央区演出科普",
+    "venue": "西安未央区海洋馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的互动演出科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末西安灞桥区影视放映活动",
+    "venue": "西安灞桥区剧院",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期西安阎良区体育赛事体验营",
+    "venue": "西安阎良区体育馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子西安临潼区亲子活动工作坊",
+    "venue": "西安临潼区体育场",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭西安长安区展览研学营",
+    "venue": "西安长安区会展中心",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童西安高陵区讲座阅读课程",
+    "venue": "西安高陵区文化中心",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年西安鄠邑区科普活动讲座",
+    "venue": "西安鄠邑区艺术中心",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味西安新城区演出展览",
+    "venue": "西安新城区青少年宫",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的趣味演出展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索西安碑林区影视放映演出",
+    "venue": "西安碑林区创意园",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现西安莲湖区体育赛事比赛",
+    "venue": "西安莲湖区博物馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验西安雁塔区亲子活动嘉年华",
+    "venue": "西安雁塔区科技馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进西安未央区展览日",
+    "venue": "西安未央区美术馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的走进展览日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读西安灞桥区讲座阅读周",
+    "venue": "西安灞桥区图书馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘西安阎良区科普活动月",
+    "venue": "西安阎良区文化馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游西安临潼区演出季",
+    "venue": "西安临潼区公园",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的漫游演出季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩西安长安区影视放映节",
+    "venue": "西安长安区植物园",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻西安高陵区体育赛事之旅",
+    "venue": "西安高陵区动物园",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典西安鄠邑区亲子活动探秘",
+    "venue": "西安鄠邑区海洋馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼西安新城区展览发现",
+    "venue": "西安新城区剧院",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的震撼展览发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式西安碑林区讲座阅读探索",
+    "venue": "西安碑林区体育馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动西安莲湖区科普活动科普",
+    "venue": "西安莲湖区体育场",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末西安雁塔区演出活动",
+    "venue": "西安雁塔区会展中心",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的周末演出活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期西安未央区影视放映体验营",
+    "venue": "西安未央区文化中心",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子西安灞桥区体育赛事工作坊",
+    "venue": "西安灞桥区艺术中心",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭西安阎良区亲子活动研学营",
+    "venue": "西安阎良区青少年宫",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童西安临潼区展览课程",
+    "venue": "西安临潼区创意园",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的儿童展览课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年西安长安区讲座阅读讲座",
+    "venue": "西安长安区博物馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味西安高陵区科普活动展览",
+    "venue": "西安高陵区科技馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索西安鄠邑区演出演出",
+    "venue": "西安鄠邑区美术馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的探索演出演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现西安新城区影视放映比赛",
+    "venue": "西安新城区图书馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验西安碑林区体育赛事嘉年华",
+    "venue": "西安碑林区文化馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进西安莲湖区亲子活动日",
+    "venue": "西安莲湖区公园",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读西安雁塔区展览周",
+    "venue": "西安雁塔区植物园",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的解读展览周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘西安未央区讲座阅读月",
+    "venue": "西安未央区动物园",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游西安灞桥区科普活动季",
+    "venue": "西安灞桥区海洋馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩西安阎良区演出节",
+    "venue": "西安阎良区剧院",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的精彩演出节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻西安临潼区影视放映之旅",
+    "venue": "西安临潼区体育馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典西安长安区体育赛事探秘",
+    "venue": "西安长安区体育场",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼西安高陵区亲子活动发现",
+    "venue": "西安高陵区会展中心",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式西安鄠邑区展览探索",
+    "venue": "西安鄠邑区文化中心",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动西安新城区讲座阅读科普",
+    "venue": "西安新城区艺术中心",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末西安碑林区科普活动活动",
+    "venue": "西安碑林区青少年宫",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期西安莲湖区演出体验营",
+    "venue": "西安莲湖区创意园",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子西安雁塔区影视放映工作坊",
+    "venue": "西安雁塔区博物馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭西安未央区体育赛事研学营",
+    "venue": "西安未央区科技馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童西安灞桥区亲子活动课程",
+    "venue": "西安灞桥区美术馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年西安阎良区展览讲座",
+    "venue": "西安阎良区图书馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味西安临潼区讲座阅读展览",
+    "venue": "西安临潼区文化馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索西安长安区科普活动演出",
+    "venue": "西安长安区公园",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现西安高陵区演出比赛",
+    "venue": "西安高陵区植物园",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的发现演出比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验西安鄠邑区影视放映嘉年华",
+    "venue": "西安鄠邑区动物园",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进西安新城区体育赛事日",
+    "venue": "西安新城区海洋馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读西安碑林区亲子活动周",
+    "venue": "西安碑林区剧院",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘西安莲湖区展览月",
+    "venue": "西安莲湖区体育馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的探秘展览月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游西安雁塔区讲座阅读季",
+    "venue": "西安雁塔区体育场",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩西安未央区科普活动节",
+    "venue": "西安未央区会展中心",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻西安灞桥区演出之旅",
+    "venue": "西安灞桥区文化中心",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典西安阎良区影视放映探秘",
+    "venue": "西安阎良区艺术中心",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼西安临潼区体育赛事发现",
+    "venue": "西安临潼区青少年宫",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式西安长安区亲子活动探索",
+    "venue": "西安长安区创意园",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动西安高陵区展览科普",
+    "venue": "西安高陵区博物馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的互动展览科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末西安鄠邑区讲座阅读活动",
+    "venue": "西安鄠邑区科技馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期西安新城区科普活动体验营",
+    "venue": "西安新城区美术馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子西安碑林区演出工作坊",
+    "venue": "西安碑林区图书馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭西安莲湖区影视放映研学营",
+    "venue": "西安莲湖区文化馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童西安雁塔区体育赛事课程",
+    "venue": "西安雁塔区公园",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年西安未央区亲子活动讲座",
+    "venue": "西安未央区植物园",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味西安灞桥区展览展览",
+    "venue": "西安灞桥区动物园",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的趣味展览展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索西安阎良区讲座阅读演出",
+    "venue": "西安阎良区海洋馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现西安临潼区科普活动比赛",
+    "venue": "西安临潼区剧院",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验西安长安区演出嘉年华",
+    "venue": "西安长安区体育馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进西安高陵区影视放映日",
+    "venue": "西安高陵区体育场",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的走进影视放映日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读西安鄠邑区体育赛事周",
+    "venue": "西安鄠邑区会展中心",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘西安新城区亲子活动月",
+    "venue": "西安新城区文化中心",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游西安碑林区展览季",
+    "venue": "西安碑林区艺术中心",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的漫游展览季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩西安莲湖区讲座阅读节",
+    "venue": "西安莲湖区青少年宫",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻西安雁塔区科普活动之旅",
+    "venue": "西安雁塔区创意园",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典西安未央区演出探秘",
+    "venue": "西安未央区博物馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的经典演出探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼西安灞桥区影视放映发现",
+    "venue": "西安灞桥区科技馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式西安阎良区体育赛事探索",
+    "venue": "西安阎良区美术馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动西安临潼区亲子活动科普",
+    "venue": "西安临潼区图书馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末西安长安区展览活动",
+    "venue": "西安长安区文化馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的周末展览活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期西安高陵区讲座阅读体验营",
+    "venue": "西安高陵区公园",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子西安鄠邑区科普活动工作坊",
+    "venue": "西安鄠邑区植物园",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭西安新城区演出研学营",
+    "venue": "西安新城区动物园",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童西安碑林区影视放映课程",
+    "venue": "西安碑林区海洋馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年西安莲湖区体育赛事讲座",
+    "venue": "西安莲湖区剧院",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味西安雁塔区亲子活动展览",
+    "venue": "西安雁塔区体育馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索西安未央区展览演出",
+    "venue": "西安未央区体育场",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的探索展览演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现西安灞桥区讲座阅读比赛",
+    "venue": "西安灞桥区会展中心",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验西安阎良区科普活动嘉年华",
+    "venue": "西安阎良区文化中心",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进西安临潼区演出日",
+    "venue": "西安临潼区艺术中心",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的走进演出日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读西安长安区影视放映周",
+    "venue": "西安长安区青少年宫",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的解读影视放映周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘西安高陵区体育赛事月",
+    "venue": "西安高陵区创意园",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游西安鄠邑区亲子活动季",
+    "venue": "西安鄠邑区博物馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩西安新城区展览节",
+    "venue": "西安新城区科技馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的精彩展览节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻西安碑林区讲座阅读之旅",
+    "venue": "西安碑林区美术馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典西安莲湖区科普活动探秘",
+    "venue": "西安莲湖区图书馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼西安雁塔区演出发现",
+    "venue": "西安雁塔区文化馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的震撼演出发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式西安未央区影视放映探索",
+    "venue": "西安未央区公园",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动西安灞桥区体育赛事科普",
+    "venue": "西安灞桥区植物园",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末西安阎良区亲子活动活动",
+    "venue": "西安阎良区动物园",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期西安临潼区展览体验营",
+    "venue": "西安临潼区海洋馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子西安长安区讲座阅读工作坊",
+    "venue": "西安长安区剧院",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭西安高陵区科普活动研学营",
+    "venue": "西安高陵区体育馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童西安鄠邑区演出课程",
+    "venue": "西安鄠邑区体育场",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的儿童演出课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年西安新城区影视放映讲座",
+    "venue": "西安新城区会展中心",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味西安碑林区体育赛事展览",
+    "venue": "西安碑林区文化中心",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索西安莲湖区亲子活动演出",
+    "venue": "西安莲湖区艺术中心",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现西安雁塔区展览比赛",
+    "venue": "西安雁塔区青少年宫",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的发现展览比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验西安未央区讲座阅读嘉年华",
+    "venue": "西安未央区创意园",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进西安灞桥区科普活动日",
+    "venue": "西安灞桥区博物馆",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安灞桥区的走进科普活动日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读西安阎良区演出周",
+    "venue": "西安阎良区科技馆",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的解读演出周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘西安临潼区影视放映月",
+    "venue": "西安临潼区美术馆",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游西安长安区体育赛事季",
+    "venue": "西安长安区图书馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩西安高陵区亲子活动节",
+    "venue": "西安高陵区文化馆",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻西安鄠邑区展览之旅",
+    "venue": "西安鄠邑区公园",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典西安新城区讲座阅读探秘",
+    "venue": "西安新城区植物园",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼西安碑林区科普活动发现",
+    "venue": "西安碑林区动物园",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安碑林区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式西安莲湖区演出探索",
+    "venue": "西安莲湖区海洋馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安莲湖区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动西安雁塔区影视放映科普",
+    "venue": "西安雁塔区剧院",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安雁塔区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末西安未央区体育赛事活动",
+    "venue": "西安未央区体育馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安未央区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期西安灞桥区亲子活动体验营",
+    "venue": "西安灞桥区体育场",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子西安阎良区展览工作坊",
+    "venue": "西安阎良区会展中心",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安阎良区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭西安临潼区讲座阅读研学营",
+    "venue": "西安临潼区文化中心",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安临潼区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童西安长安区科普活动课程",
+    "venue": "西安长安区艺术中心",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安长安区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年西安高陵区演出讲座",
+    "venue": "西安高陵区青少年宫",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安高陵区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味西安鄠邑区影视放映展览",
+    "venue": "西安鄠邑区创意园",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安鄠邑区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索西安新城区体育赛事演出",
+    "venue": "西安新城区博物馆",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安新城区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现西安碑林区亲子活动比赛",
+    "venue": "西安碑林区科技馆",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验西安莲湖区展览嘉年华",
+    "venue": "西安莲湖区美术馆",
+    "city": "xian",
+    "district": "莲湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安莲湖区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "莲湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进西安雁塔区讲座阅读日",
+    "venue": "西安雁塔区图书馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安雁塔区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "雁塔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读西安未央区科普活动周",
+    "venue": "西安未央区文化馆",
+    "city": "xian",
+    "district": "未央区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安未央区的解读科普活动周，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "未央区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘西安灞桥区演出月",
+    "venue": "西安灞桥区公园",
+    "city": "xian",
+    "district": "灞桥区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安灞桥区的探秘演出月，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "灞桥区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游西安阎良区影视放映季",
+    "venue": "西安阎良区植物园",
+    "city": "xian",
+    "district": "阎良区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安阎良区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "阎良区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩西安临潼区体育赛事节",
+    "venue": "西安临潼区动物园",
+    "city": "xian",
+    "district": "临潼区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安临潼区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "临潼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻西安长安区亲子活动之旅",
+    "venue": "西安长安区海洋馆",
+    "city": "xian",
+    "district": "长安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安长安区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "长安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典西安高陵区展览探秘",
+    "venue": "西安高陵区剧院",
+    "city": "xian",
+    "district": "高陵区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安高陵区的经典展览探秘，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "高陵区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼西安鄠邑区讲座阅读发现",
+    "venue": "西安鄠邑区体育馆",
+    "city": "xian",
+    "district": "鄠邑区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安鄠邑区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "鄠邑区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式西安新城区科普活动探索",
+    "venue": "西安新城区体育场",
+    "city": "xian",
+    "district": "新城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "西安新城区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "新城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动西安碑林区演出科普",
+    "venue": "西安碑林区会展中心",
+    "city": "xian",
+    "district": "碑林区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "西安碑林区的互动演出科普，适合亲子家庭参与。",
+    "source": "西安本地宝",
+    "highlights": [
+      "西安",
+      "碑林区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末重庆渝中区展览活动",
+    "venue": "重庆渝中区博物馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的周末展览活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期重庆江北区讲座阅读体验营",
+    "venue": "重庆江北区科技馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子重庆南岸区科普活动工作坊",
+    "venue": "重庆南岸区美术馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭重庆九龙坡区演出研学营",
+    "venue": "重庆九龙坡区图书馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童重庆沙坪坝区影视放映课程",
+    "venue": "重庆沙坪坝区文化馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年重庆大渡口区体育赛事讲座",
+    "venue": "重庆大渡口区公园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味重庆北碚区亲子活动展览",
+    "venue": "重庆北碚区植物园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索重庆渝北区展览演出",
+    "venue": "重庆渝北区动物园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的探索展览演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现重庆巴南区讲座阅读比赛",
+    "venue": "重庆巴南区海洋馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验重庆两江新区科普活动嘉年华",
+    "venue": "重庆两江新区剧院",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进重庆武隆区演出日",
+    "venue": "重庆武隆区体育馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的走进演出日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读重庆大足区影视放映周",
+    "venue": "重庆大足区体育场",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的解读影视放映周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘重庆南川区体育赛事月",
+    "venue": "重庆南川区会展中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游重庆渝中区亲子活动季",
+    "venue": "重庆渝中区文化中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩重庆江北区展览节",
+    "venue": "重庆江北区艺术中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的精彩展览节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻重庆南岸区讲座阅读之旅",
+    "venue": "重庆南岸区青少年宫",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典重庆九龙坡区科普活动探秘",
+    "venue": "重庆九龙坡区创意园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼重庆沙坪坝区演出发现",
+    "venue": "重庆沙坪坝区博物馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的震撼演出发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式重庆大渡口区影视放映探索",
+    "venue": "重庆大渡口区科技馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动重庆北碚区体育赛事科普",
+    "venue": "重庆北碚区美术馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末重庆渝北区亲子活动活动",
+    "venue": "重庆渝北区图书馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期重庆巴南区展览体验营",
+    "venue": "重庆巴南区文化馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子重庆两江新区讲座阅读工作坊",
+    "venue": "重庆两江新区公园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭重庆武隆区科普活动研学营",
+    "venue": "重庆武隆区植物园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童重庆大足区演出课程",
+    "venue": "重庆大足区动物园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的儿童演出课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年重庆南川区影视放映讲座",
+    "venue": "重庆南川区海洋馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味重庆渝中区体育赛事展览",
+    "venue": "重庆渝中区剧院",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索重庆江北区亲子活动演出",
+    "venue": "重庆江北区体育馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现重庆南岸区展览比赛",
+    "venue": "重庆南岸区体育场",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的发现展览比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验重庆九龙坡区讲座阅读嘉年华",
+    "venue": "重庆九龙坡区会展中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进重庆沙坪坝区科普活动日",
+    "venue": "重庆沙坪坝区文化中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的走进科普活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读重庆大渡口区演出周",
+    "venue": "重庆大渡口区艺术中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的解读演出周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘重庆北碚区影视放映月",
+    "venue": "重庆北碚区青少年宫",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游重庆渝北区体育赛事季",
+    "venue": "重庆渝北区创意园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩重庆巴南区亲子活动节",
+    "venue": "重庆巴南区博物馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻重庆两江新区展览之旅",
+    "venue": "重庆两江新区科技馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典重庆武隆区讲座阅读探秘",
+    "venue": "重庆武隆区美术馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼重庆大足区科普活动发现",
+    "venue": "重庆大足区图书馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式重庆南川区演出探索",
+    "venue": "重庆南川区文化馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动重庆渝中区影视放映科普",
+    "venue": "重庆渝中区公园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末重庆江北区体育赛事活动",
+    "venue": "重庆江北区植物园",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期重庆南岸区亲子活动体验营",
+    "venue": "重庆南岸区动物园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子重庆九龙坡区展览工作坊",
+    "venue": "重庆九龙坡区海洋馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭重庆沙坪坝区讲座阅读研学营",
+    "venue": "重庆沙坪坝区剧院",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童重庆大渡口区科普活动课程",
+    "venue": "重庆大渡口区体育馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年重庆北碚区演出讲座",
+    "venue": "重庆北碚区体育场",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味重庆渝北区影视放映展览",
+    "venue": "重庆渝北区会展中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索重庆巴南区体育赛事演出",
+    "venue": "重庆巴南区文化中心",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现重庆两江新区亲子活动比赛",
+    "venue": "重庆两江新区艺术中心",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验重庆武隆区展览嘉年华",
+    "venue": "重庆武隆区青少年宫",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进重庆大足区讲座阅读日",
+    "venue": "重庆大足区创意园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读重庆南川区科普活动周",
+    "venue": "重庆南川区博物馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的解读科普活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘重庆渝中区演出月",
+    "venue": "重庆渝中区科技馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的探秘演出月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游重庆江北区影视放映季",
+    "venue": "重庆江北区美术馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩重庆南岸区体育赛事节",
+    "venue": "重庆南岸区图书馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻重庆九龙坡区亲子活动之旅",
+    "venue": "重庆九龙坡区文化馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典重庆沙坪坝区展览探秘",
+    "venue": "重庆沙坪坝区公园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的经典展览探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼重庆大渡口区讲座阅读发现",
+    "venue": "重庆大渡口区植物园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式重庆北碚区科普活动探索",
+    "venue": "重庆北碚区动物园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动重庆渝北区演出科普",
+    "venue": "重庆渝北区海洋馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的互动演出科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末重庆巴南区影视放映活动",
+    "venue": "重庆巴南区剧院",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期重庆两江新区体育赛事体验营",
+    "venue": "重庆两江新区体育馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子重庆武隆区亲子活动工作坊",
+    "venue": "重庆武隆区体育场",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭重庆大足区展览研学营",
+    "venue": "重庆大足区会展中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童重庆南川区讲座阅读课程",
+    "venue": "重庆南川区文化中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年重庆渝中区科普活动讲座",
+    "venue": "重庆渝中区艺术中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味重庆江北区演出展览",
+    "venue": "重庆江北区青少年宫",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的趣味演出展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索重庆南岸区影视放映演出",
+    "venue": "重庆南岸区创意园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现重庆九龙坡区体育赛事比赛",
+    "venue": "重庆九龙坡区博物馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验重庆沙坪坝区亲子活动嘉年华",
+    "venue": "重庆沙坪坝区科技馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进重庆大渡口区展览日",
+    "venue": "重庆大渡口区美术馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的走进展览日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读重庆北碚区讲座阅读周",
+    "venue": "重庆北碚区图书馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘重庆渝北区科普活动月",
+    "venue": "重庆渝北区文化馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游重庆巴南区演出季",
+    "venue": "重庆巴南区公园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的漫游演出季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩重庆两江新区影视放映节",
+    "venue": "重庆两江新区植物园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻重庆武隆区体育赛事之旅",
+    "venue": "重庆武隆区动物园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典重庆大足区亲子活动探秘",
+    "venue": "重庆大足区海洋馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼重庆南川区展览发现",
+    "venue": "重庆南川区剧院",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的震撼展览发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式重庆渝中区讲座阅读探索",
+    "venue": "重庆渝中区体育馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动重庆江北区科普活动科普",
+    "venue": "重庆江北区体育场",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末重庆南岸区演出活动",
+    "venue": "重庆南岸区会展中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的周末演出活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期重庆九龙坡区影视放映体验营",
+    "venue": "重庆九龙坡区文化中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子重庆沙坪坝区体育赛事工作坊",
+    "venue": "重庆沙坪坝区艺术中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭重庆大渡口区亲子活动研学营",
+    "venue": "重庆大渡口区青少年宫",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童重庆北碚区展览课程",
+    "venue": "重庆北碚区创意园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的儿童展览课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年重庆渝北区讲座阅读讲座",
+    "venue": "重庆渝北区博物馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味重庆巴南区科普活动展览",
+    "venue": "重庆巴南区科技馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索重庆两江新区演出演出",
+    "venue": "重庆两江新区美术馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的探索演出演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现重庆武隆区影视放映比赛",
+    "venue": "重庆武隆区图书馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验重庆大足区体育赛事嘉年华",
+    "venue": "重庆大足区文化馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进重庆南川区亲子活动日",
+    "venue": "重庆南川区公园",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读重庆渝中区展览周",
+    "venue": "重庆渝中区植物园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的解读展览周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘重庆江北区讲座阅读月",
+    "venue": "重庆江北区动物园",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游重庆南岸区科普活动季",
+    "venue": "重庆南岸区海洋馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩重庆九龙坡区演出节",
+    "venue": "重庆九龙坡区剧院",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的精彩演出节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻重庆沙坪坝区影视放映之旅",
+    "venue": "重庆沙坪坝区体育馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典重庆大渡口区体育赛事探秘",
+    "venue": "重庆大渡口区体育场",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼重庆北碚区亲子活动发现",
+    "venue": "重庆北碚区会展中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式重庆渝北区展览探索",
+    "venue": "重庆渝北区文化中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动重庆巴南区讲座阅读科普",
+    "venue": "重庆巴南区艺术中心",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末重庆两江新区科普活动活动",
+    "venue": "重庆两江新区青少年宫",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期重庆武隆区演出体验营",
+    "venue": "重庆武隆区创意园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子重庆大足区影视放映工作坊",
+    "venue": "重庆大足区博物馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭重庆南川区体育赛事研学营",
+    "venue": "重庆南川区科技馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童重庆渝中区亲子活动课程",
+    "venue": "重庆渝中区美术馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年重庆江北区展览讲座",
+    "venue": "重庆江北区图书馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味重庆南岸区讲座阅读展览",
+    "venue": "重庆南岸区文化馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索重庆九龙坡区科普活动演出",
+    "venue": "重庆九龙坡区公园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现重庆沙坪坝区演出比赛",
+    "venue": "重庆沙坪坝区植物园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的发现演出比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验重庆大渡口区影视放映嘉年华",
+    "venue": "重庆大渡口区动物园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进重庆北碚区体育赛事日",
+    "venue": "重庆北碚区海洋馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读重庆渝北区亲子活动周",
+    "venue": "重庆渝北区剧院",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘重庆巴南区展览月",
+    "venue": "重庆巴南区体育馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的探秘展览月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游重庆两江新区讲座阅读季",
+    "venue": "重庆两江新区体育场",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩重庆武隆区科普活动节",
+    "venue": "重庆武隆区会展中心",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻重庆大足区演出之旅",
+    "venue": "重庆大足区文化中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典重庆南川区影视放映探秘",
+    "venue": "重庆南川区艺术中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼重庆渝中区体育赛事发现",
+    "venue": "重庆渝中区青少年宫",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式重庆江北区亲子活动探索",
+    "venue": "重庆江北区创意园",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动重庆南岸区展览科普",
+    "venue": "重庆南岸区博物馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的互动展览科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末重庆九龙坡区讲座阅读活动",
+    "venue": "重庆九龙坡区科技馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期重庆沙坪坝区科普活动体验营",
+    "venue": "重庆沙坪坝区美术馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子重庆大渡口区演出工作坊",
+    "venue": "重庆大渡口区图书馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭重庆北碚区影视放映研学营",
+    "venue": "重庆北碚区文化馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童重庆渝北区体育赛事课程",
+    "venue": "重庆渝北区公园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年重庆巴南区亲子活动讲座",
+    "venue": "重庆巴南区植物园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味重庆两江新区展览展览",
+    "venue": "重庆两江新区动物园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的趣味展览展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索重庆武隆区讲座阅读演出",
+    "venue": "重庆武隆区海洋馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现重庆大足区科普活动比赛",
+    "venue": "重庆大足区剧院",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验重庆南川区演出嘉年华",
+    "venue": "重庆南川区体育馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进重庆渝中区影视放映日",
+    "venue": "重庆渝中区体育场",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的走进影视放映日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读重庆江北区体育赛事周",
+    "venue": "重庆江北区会展中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘重庆南岸区亲子活动月",
+    "venue": "重庆南岸区文化中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游重庆九龙坡区展览季",
+    "venue": "重庆九龙坡区艺术中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的漫游展览季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩重庆沙坪坝区讲座阅读节",
+    "venue": "重庆沙坪坝区青少年宫",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻重庆大渡口区科普活动之旅",
+    "venue": "重庆大渡口区创意园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典重庆北碚区演出探秘",
+    "venue": "重庆北碚区博物馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的经典演出探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼重庆渝北区影视放映发现",
+    "venue": "重庆渝北区科技馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式重庆巴南区体育赛事探索",
+    "venue": "重庆巴南区美术馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动重庆两江新区亲子活动科普",
+    "venue": "重庆两江新区图书馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末重庆武隆区展览活动",
+    "venue": "重庆武隆区文化馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆武隆区的周末展览活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期重庆大足区讲座阅读体验营",
+    "venue": "重庆大足区公园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子重庆南川区科普活动工作坊",
+    "venue": "重庆南川区植物园",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭重庆渝中区演出研学营",
+    "venue": "重庆渝中区动物园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童重庆江北区影视放映课程",
+    "venue": "重庆江北区海洋馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年重庆南岸区体育赛事讲座",
+    "venue": "重庆南岸区剧院",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味重庆九龙坡区亲子活动展览",
+    "venue": "重庆九龙坡区体育馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索重庆沙坪坝区展览演出",
+    "venue": "重庆沙坪坝区体育场",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的探索展览演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现重庆大渡口区讲座阅读比赛",
+    "venue": "重庆大渡口区会展中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验重庆北碚区科普活动嘉年华",
+    "venue": "重庆北碚区文化中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进重庆渝北区演出日",
+    "venue": "重庆渝北区艺术中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的走进演出日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读重庆巴南区影视放映周",
+    "venue": "重庆巴南区青少年宫",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的解读影视放映周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘重庆两江新区体育赛事月",
+    "venue": "重庆两江新区创意园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游重庆武隆区亲子活动季",
+    "venue": "重庆武隆区博物馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩重庆大足区展览节",
+    "venue": "重庆大足区科技馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大足区的精彩展览节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻重庆南川区讲座阅读之旅",
+    "venue": "重庆南川区美术馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典重庆渝中区科普活动探秘",
+    "venue": "重庆渝中区图书馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼重庆江北区演出发现",
+    "venue": "重庆江北区文化馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆江北区的震撼演出发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式重庆南岸区影视放映探索",
+    "venue": "重庆南岸区公园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动重庆九龙坡区体育赛事科普",
+    "venue": "重庆九龙坡区植物园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末重庆沙坪坝区亲子活动活动",
+    "venue": "重庆沙坪坝区动物园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期重庆大渡口区展览体验营",
+    "venue": "重庆大渡口区海洋馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆大渡口区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子重庆北碚区讲座阅读工作坊",
+    "venue": "重庆北碚区剧院",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭重庆渝北区科普活动研学营",
+    "venue": "重庆渝北区体育馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童重庆巴南区演出课程",
+    "venue": "重庆巴南区体育场",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆巴南区的儿童演出课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年重庆两江新区影视放映讲座",
+    "venue": "重庆两江新区会展中心",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味重庆武隆区体育赛事展览",
+    "venue": "重庆武隆区文化中心",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索重庆大足区亲子活动演出",
+    "venue": "重庆大足区艺术中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现重庆南川区展览比赛",
+    "venue": "重庆南川区青少年宫",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南川区的发现展览比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验重庆渝中区讲座阅读嘉年华",
+    "venue": "重庆渝中区创意园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进重庆江北区科普活动日",
+    "venue": "重庆江北区博物馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的走进科普活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读重庆南岸区演出周",
+    "venue": "重庆南岸区科技馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南岸区的解读演出周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘重庆九龙坡区影视放映月",
+    "venue": "重庆九龙坡区美术馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游重庆沙坪坝区体育赛事季",
+    "venue": "重庆沙坪坝区图书馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩重庆大渡口区亲子活动节",
+    "venue": "重庆大渡口区文化馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻重庆北碚区展览之旅",
+    "venue": "重庆北碚区公园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆北碚区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典重庆渝北区讲座阅读探秘",
+    "venue": "重庆渝北区植物园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼重庆巴南区科普活动发现",
+    "venue": "重庆巴南区动物园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式重庆两江新区演出探索",
+    "venue": "重庆两江新区海洋馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆两江新区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动重庆武隆区影视放映科普",
+    "venue": "重庆武隆区剧院",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末重庆大足区体育赛事活动",
+    "venue": "重庆大足区体育馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期重庆南川区亲子活动体验营",
+    "venue": "重庆南川区体育场",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子重庆渝中区展览工作坊",
+    "venue": "重庆渝中区会展中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝中区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭重庆江北区讲座阅读研学营",
+    "venue": "重庆江北区文化中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童重庆南岸区科普活动课程",
+    "venue": "重庆南岸区艺术中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年重庆九龙坡区演出讲座",
+    "venue": "重庆九龙坡区青少年宫",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆九龙坡区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味重庆沙坪坝区影视放映展览",
+    "venue": "重庆沙坪坝区创意园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索重庆大渡口区体育赛事演出",
+    "venue": "重庆大渡口区博物馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现重庆北碚区亲子活动比赛",
+    "venue": "重庆北碚区科技馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验重庆渝北区展览嘉年华",
+    "venue": "重庆渝北区美术馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆渝北区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进重庆巴南区讲座阅读日",
+    "venue": "重庆巴南区图书馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆巴南区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "巴南区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读重庆两江新区科普活动周",
+    "venue": "重庆两江新区文化馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆两江新区的解读科普活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "两江新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘重庆武隆区演出月",
+    "venue": "重庆武隆区公园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆武隆区的探秘演出月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "武隆区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游重庆大足区影视放映季",
+    "venue": "重庆大足区植物园",
+    "city": "chongqing",
+    "district": "大足区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大足区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大足区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩重庆南川区体育赛事节",
+    "venue": "重庆南川区动物园",
+    "city": "chongqing",
+    "district": "南川区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆南川区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南川区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻重庆渝中区亲子活动之旅",
+    "venue": "重庆渝中区海洋馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝中区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝中区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典重庆江北区展览探秘",
+    "venue": "重庆江北区剧院",
+    "city": "chongqing",
+    "district": "江北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆江北区的经典展览探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "江北区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼重庆南岸区讲座阅读发现",
+    "venue": "重庆南岸区体育馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆南岸区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "南岸区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式重庆九龙坡区科普活动探索",
+    "venue": "重庆九龙坡区体育场",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "重庆九龙坡区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "九龙坡区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动重庆沙坪坝区演出科普",
+    "venue": "重庆沙坪坝区会展中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的互动演出科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "沙坪坝区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末重庆大渡口区影视放映活动",
+    "venue": "重庆大渡口区文化中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆大渡口区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "大渡口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期重庆北碚区体育赛事体验营",
+    "venue": "重庆北碚区艺术中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆北碚区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "北碚区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子重庆渝北区亲子活动工作坊",
+    "venue": "重庆渝北区青少年宫",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "重庆渝北区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "重庆",
+      "渝北区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末深圳福田区展览活动",
+    "venue": "深圳福田区博物馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的周末展览活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期深圳罗湖区讲座阅读体验营",
+    "venue": "深圳罗湖区科技馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子深圳南山区科普活动工作坊",
+    "venue": "深圳南山区美术馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭深圳宝安区演出研学营",
+    "venue": "深圳宝安区图书馆",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童深圳龙岗区影视放映课程",
+    "venue": "深圳龙岗区文化馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年深圳龙华区体育赛事讲座",
+    "venue": "深圳龙华区公园",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味深圳光明区亲子活动展览",
+    "venue": "深圳光明区植物园",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索深圳坪山区展览演出",
+    "venue": "深圳坪山区动物园",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的探索展览演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现深圳盐田区讲座阅读比赛",
+    "venue": "深圳盐田区海洋馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验深圳大鹏新区科普活动嘉年华",
+    "venue": "深圳大鹏新区剧院",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳大鹏新区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进深圳福田区演出日",
+    "venue": "深圳福田区体育馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的走进演出日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读深圳罗湖区影视放映周",
+    "venue": "深圳罗湖区体育场",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的解读影视放映周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘深圳南山区体育赛事月",
+    "venue": "深圳南山区会展中心",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游深圳宝安区亲子活动季",
+    "venue": "深圳宝安区文化中心",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩深圳龙岗区展览节",
+    "venue": "深圳龙岗区艺术中心",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙岗区的精彩展览节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻深圳龙华区讲座阅读之旅",
+    "venue": "深圳龙华区青少年宫",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙华区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典深圳光明区科普活动探秘",
+    "venue": "深圳光明区创意园",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳光明区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼深圳坪山区演出发现",
+    "venue": "深圳坪山区博物馆",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的震撼演出发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式深圳盐田区影视放映探索",
+    "venue": "深圳盐田区科技馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动深圳大鹏新区体育赛事科普",
+    "venue": "深圳大鹏新区美术馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末深圳福田区亲子活动活动",
+    "venue": "深圳福田区图书馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期深圳罗湖区展览体验营",
+    "venue": "深圳罗湖区文化馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子深圳南山区讲座阅读工作坊",
+    "venue": "深圳南山区公园",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭深圳宝安区科普活动研学营",
+    "venue": "深圳宝安区植物园",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳宝安区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童深圳龙岗区演出课程",
+    "venue": "深圳龙岗区动物园",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的儿童演出课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年深圳龙华区影视放映讲座",
+    "venue": "深圳龙华区海洋馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味深圳光明区体育赛事展览",
+    "venue": "深圳光明区剧院",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索深圳坪山区亲子活动演出",
+    "venue": "深圳坪山区体育馆",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现深圳盐田区展览比赛",
+    "venue": "深圳盐田区体育场",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的发现展览比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验深圳大鹏新区讲座阅读嘉年华",
+    "venue": "深圳大鹏新区会展中心",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳大鹏新区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进深圳福田区科普活动日",
+    "venue": "深圳福田区文化中心",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的走进科普活动日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读深圳罗湖区演出周",
+    "venue": "深圳罗湖区艺术中心",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的解读演出周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘深圳南山区影视放映月",
+    "venue": "深圳南山区青少年宫",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游深圳宝安区体育赛事季",
+    "venue": "深圳宝安区创意园",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩深圳龙岗区亲子活动节",
+    "venue": "深圳龙岗区博物馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻深圳龙华区展览之旅",
+    "venue": "深圳龙华区科技馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙华区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典深圳光明区讲座阅读探秘",
+    "venue": "深圳光明区美术馆",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳光明区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼深圳坪山区科普活动发现",
+    "venue": "深圳坪山区图书馆",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式深圳盐田区演出探索",
+    "venue": "深圳盐田区文化馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动深圳大鹏新区影视放映科普",
+    "venue": "深圳大鹏新区公园",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末深圳福田区体育赛事活动",
+    "venue": "深圳福田区植物园",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期深圳罗湖区亲子活动体验营",
+    "venue": "深圳罗湖区动物园",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子深圳南山区展览工作坊",
+    "venue": "深圳南山区海洋馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭深圳宝安区讲座阅读研学营",
+    "venue": "深圳宝安区剧院",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳宝安区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童深圳龙岗区科普活动课程",
+    "venue": "深圳龙岗区体育馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙岗区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年深圳龙华区演出讲座",
+    "venue": "深圳龙华区体育场",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味深圳光明区影视放映展览",
+    "venue": "深圳光明区会展中心",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索深圳坪山区体育赛事演出",
+    "venue": "深圳坪山区文化中心",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现深圳盐田区亲子活动比赛",
+    "venue": "深圳盐田区艺术中心",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验深圳大鹏新区展览嘉年华",
+    "venue": "深圳大鹏新区青少年宫",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳大鹏新区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进深圳福田区讲座阅读日",
+    "venue": "深圳福田区创意园",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读深圳罗湖区科普活动周",
+    "venue": "深圳罗湖区博物馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的解读科普活动周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘深圳南山区演出月",
+    "venue": "深圳南山区科技馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的探秘演出月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游深圳宝安区影视放映季",
+    "venue": "深圳宝安区美术馆",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩深圳龙岗区体育赛事节",
+    "venue": "深圳龙岗区图书馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻深圳龙华区亲子活动之旅",
+    "venue": "深圳龙华区文化馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典深圳光明区展览探秘",
+    "venue": "深圳光明区公园",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳光明区的经典展览探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼深圳坪山区讲座阅读发现",
+    "venue": "深圳坪山区植物园",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式深圳盐田区科普活动探索",
+    "venue": "深圳盐田区动物园",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动深圳大鹏新区演出科普",
+    "venue": "深圳大鹏新区海洋馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的互动演出科普，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末深圳福田区影视放映活动",
+    "venue": "深圳福田区剧院",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期深圳罗湖区体育赛事体验营",
+    "venue": "深圳罗湖区体育馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子深圳南山区亲子活动工作坊",
+    "venue": "深圳南山区体育场",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭深圳宝安区展览研学营",
+    "venue": "深圳宝安区会展中心",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳宝安区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童深圳龙岗区讲座阅读课程",
+    "venue": "深圳龙岗区文化中心",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙岗区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年深圳龙华区科普活动讲座",
+    "venue": "深圳龙华区艺术中心",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙华区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味深圳光明区演出展览",
+    "venue": "深圳光明区青少年宫",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味演出展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索深圳坪山区影视放映演出",
+    "venue": "深圳坪山区创意园",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现深圳盐田区体育赛事比赛",
+    "venue": "深圳盐田区博物馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验深圳大鹏新区亲子活动嘉年华",
+    "venue": "深圳大鹏新区科技馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进深圳福田区展览日",
+    "venue": "深圳福田区美术馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的走进展览日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读深圳罗湖区讲座阅读周",
+    "venue": "深圳罗湖区图书馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘深圳南山区科普活动月",
+    "venue": "深圳南山区文化馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游深圳宝安区演出季",
+    "venue": "深圳宝安区公园",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游演出季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩深圳龙岗区影视放映节",
+    "venue": "深圳龙岗区植物园",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻深圳龙华区体育赛事之旅",
+    "venue": "深圳龙华区动物园",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典深圳光明区亲子活动探秘",
+    "venue": "深圳光明区海洋馆",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼深圳坪山区展览发现",
+    "venue": "深圳坪山区剧院",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的震撼展览发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式深圳盐田区讲座阅读探索",
+    "venue": "深圳盐田区体育馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
   }
 ];

@@ -5022,5 +5022,3405 @@
       "研学"
     ],
     "type": "研学"
+  },
+  {
+    "name": "周末广州天河区展览活动",
+    "venue": "广州天河区博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的周末展览活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期广州越秀区讲座阅读体验营",
+    "venue": "广州越秀区科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子广州荔湾区科普活动工作坊",
+    "venue": "广州荔湾区美术馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭广州海珠区演出研学营",
+    "venue": "广州海珠区图书馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童广州白云区影视放映课程",
+    "venue": "广州白云区文化馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年广州黄埔区体育赛事讲座",
+    "venue": "广州黄埔区公园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味广州番禺区亲子活动展览",
+    "venue": "广州番禺区植物园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索广州花都区展览演出",
+    "venue": "广州花都区动物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的探索展览演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现广州南沙区讲座阅读比赛",
+    "venue": "广州南沙区海洋馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验广州增城区科普活动嘉年华",
+    "venue": "广州增城区剧院",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进广州从化区演出日",
+    "venue": "广州从化区体育馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的走进演出日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读广州天河区影视放映周",
+    "venue": "广州天河区体育场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的解读影视放映周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘广州越秀区体育赛事月",
+    "venue": "广州越秀区会展中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游广州荔湾区亲子活动季",
+    "venue": "广州荔湾区文化中心",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩广州海珠区展览节",
+    "venue": "广州海珠区艺术中心",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的精彩展览节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻广州白云区讲座阅读之旅",
+    "venue": "广州白云区青少年宫",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典广州黄埔区科普活动探秘",
+    "venue": "广州黄埔区创意园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼广州番禺区演出发现",
+    "venue": "广州番禺区博物馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的震撼演出发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式广州花都区影视放映探索",
+    "venue": "广州花都区科技馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动广州南沙区体育赛事科普",
+    "venue": "广州南沙区美术馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末广州增城区亲子活动活动",
+    "venue": "广州增城区图书馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期广州从化区展览体验营",
+    "venue": "广州从化区文化馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子广州天河区讲座阅读工作坊",
+    "venue": "广州天河区公园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭广州越秀区科普活动研学营",
+    "venue": "广州越秀区植物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童广州荔湾区演出课程",
+    "venue": "广州荔湾区动物园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的儿童演出课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年广州海珠区影视放映讲座",
+    "venue": "广州海珠区海洋馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味广州白云区体育赛事展览",
+    "venue": "广州白云区剧院",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索广州黄埔区亲子活动演出",
+    "venue": "广州黄埔区体育馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现广州番禺区展览比赛",
+    "venue": "广州番禺区体育场",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的发现展览比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验广州花都区讲座阅读嘉年华",
+    "venue": "广州花都区会展中心",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进广州南沙区科普活动日",
+    "venue": "广州南沙区文化中心",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的走进科普活动日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读广州增城区演出周",
+    "venue": "广州增城区艺术中心",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的解读演出周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘广州从化区影视放映月",
+    "venue": "广州从化区青少年宫",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游广州天河区体育赛事季",
+    "venue": "广州天河区创意园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩广州越秀区亲子活动节",
+    "venue": "广州越秀区博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻广州荔湾区展览之旅",
+    "venue": "广州荔湾区科技馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典广州海珠区讲座阅读探秘",
+    "venue": "广州海珠区美术馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼广州白云区科普活动发现",
+    "venue": "广州白云区图书馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式广州黄埔区演出探索",
+    "venue": "广州黄埔区文化馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动广州番禺区影视放映科普",
+    "venue": "广州番禺区公园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末广州花都区体育赛事活动",
+    "venue": "广州花都区植物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期广州南沙区亲子活动体验营",
+    "venue": "广州南沙区动物园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子广州增城区展览工作坊",
+    "venue": "广州增城区海洋馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭广州从化区讲座阅读研学营",
+    "venue": "广州从化区剧院",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童广州天河区科普活动课程",
+    "venue": "广州天河区体育馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年广州越秀区演出讲座",
+    "venue": "广州越秀区体育场",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味广州荔湾区影视放映展览",
+    "venue": "广州荔湾区会展中心",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索广州海珠区体育赛事演出",
+    "venue": "广州海珠区文化中心",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现广州白云区亲子活动比赛",
+    "venue": "广州白云区艺术中心",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验广州黄埔区展览嘉年华",
+    "venue": "广州黄埔区青少年宫",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进广州番禺区讲座阅读日",
+    "venue": "广州番禺区创意园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读广州花都区科普活动周",
+    "venue": "广州花都区博物馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的解读科普活动周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘广州南沙区演出月",
+    "venue": "广州南沙区科技馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的探秘演出月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游广州增城区影视放映季",
+    "venue": "广州增城区美术馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩广州从化区体育赛事节",
+    "venue": "广州从化区图书馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻广州天河区亲子活动之旅",
+    "venue": "广州天河区文化馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典广州越秀区展览探秘",
+    "venue": "广州越秀区公园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的经典展览探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼广州荔湾区讲座阅读发现",
+    "venue": "广州荔湾区植物园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式广州海珠区科普活动探索",
+    "venue": "广州海珠区动物园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动广州白云区演出科普",
+    "venue": "广州白云区海洋馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的互动演出科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末广州黄埔区影视放映活动",
+    "venue": "广州黄埔区剧院",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期广州番禺区体育赛事体验营",
+    "venue": "广州番禺区体育馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子广州花都区亲子活动工作坊",
+    "venue": "广州花都区体育场",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭广州南沙区展览研学营",
+    "venue": "广州南沙区会展中心",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童广州增城区讲座阅读课程",
+    "venue": "广州增城区文化中心",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年广州从化区科普活动讲座",
+    "venue": "广州从化区艺术中心",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味广州天河区演出展览",
+    "venue": "广州天河区青少年宫",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的趣味演出展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索广州越秀区影视放映演出",
+    "venue": "广州越秀区创意园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现广州荔湾区体育赛事比赛",
+    "venue": "广州荔湾区博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验广州海珠区亲子活动嘉年华",
+    "venue": "广州海珠区科技馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进广州白云区展览日",
+    "venue": "广州白云区美术馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的走进展览日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读广州黄埔区讲座阅读周",
+    "venue": "广州黄埔区图书馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘广州番禺区科普活动月",
+    "venue": "广州番禺区文化馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游广州花都区演出季",
+    "venue": "广州花都区公园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的漫游演出季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩广州南沙区影视放映节",
+    "venue": "广州南沙区植物园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻广州增城区体育赛事之旅",
+    "venue": "广州增城区动物园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典广州从化区亲子活动探秘",
+    "venue": "广州从化区海洋馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼广州天河区展览发现",
+    "venue": "广州天河区剧院",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的震撼展览发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式广州越秀区讲座阅读探索",
+    "venue": "广州越秀区体育馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动广州荔湾区科普活动科普",
+    "venue": "广州荔湾区体育场",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末广州海珠区演出活动",
+    "venue": "广州海珠区会展中心",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的周末演出活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期广州白云区影视放映体验营",
+    "venue": "广州白云区文化中心",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子广州黄埔区体育赛事工作坊",
+    "venue": "广州黄埔区艺术中心",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭广州番禺区亲子活动研学营",
+    "venue": "广州番禺区青少年宫",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童广州花都区展览课程",
+    "venue": "广州花都区创意园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的儿童展览课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年广州南沙区讲座阅读讲座",
+    "venue": "广州南沙区博物馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味广州增城区科普活动展览",
+    "venue": "广州增城区科技馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索广州从化区演出演出",
+    "venue": "广州从化区美术馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的探索演出演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现广州天河区影视放映比赛",
+    "venue": "广州天河区图书馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验广州越秀区体育赛事嘉年华",
+    "venue": "广州越秀区文化馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进广州荔湾区亲子活动日",
+    "venue": "广州荔湾区公园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读广州海珠区展览周",
+    "venue": "广州海珠区植物园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的解读展览周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘广州白云区讲座阅读月",
+    "venue": "广州白云区动物园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游广州黄埔区科普活动季",
+    "venue": "广州黄埔区海洋馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩广州番禺区演出节",
+    "venue": "广州番禺区剧院",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的精彩演出节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻广州花都区影视放映之旅",
+    "venue": "广州花都区体育馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典广州南沙区体育赛事探秘",
+    "venue": "广州南沙区体育场",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼广州增城区亲子活动发现",
+    "venue": "广州增城区会展中心",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式广州从化区展览探索",
+    "venue": "广州从化区文化中心",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动广州天河区讲座阅读科普",
+    "venue": "广州天河区艺术中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末广州越秀区科普活动活动",
+    "venue": "广州越秀区青少年宫",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期广州荔湾区演出体验营",
+    "venue": "广州荔湾区创意园",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子广州海珠区影视放映工作坊",
+    "venue": "广州海珠区博物馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭广州白云区体育赛事研学营",
+    "venue": "广州白云区科技馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童广州黄埔区亲子活动课程",
+    "venue": "广州黄埔区美术馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年广州番禺区展览讲座",
+    "venue": "广州番禺区图书馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味广州花都区讲座阅读展览",
+    "venue": "广州花都区文化馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索广州南沙区科普活动演出",
+    "venue": "广州南沙区公园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现广州增城区演出比赛",
+    "venue": "广州增城区植物园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的发现演出比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验广州从化区影视放映嘉年华",
+    "venue": "广州从化区动物园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进广州天河区体育赛事日",
+    "venue": "广州天河区海洋馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读广州越秀区亲子活动周",
+    "venue": "广州越秀区剧院",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘广州荔湾区展览月",
+    "venue": "广州荔湾区体育馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的探秘展览月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游广州海珠区讲座阅读季",
+    "venue": "广州海珠区体育场",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩广州白云区科普活动节",
+    "venue": "广州白云区会展中心",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻广州黄埔区演出之旅",
+    "venue": "广州黄埔区文化中心",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典广州番禺区影视放映探秘",
+    "venue": "广州番禺区艺术中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼广州花都区体育赛事发现",
+    "venue": "广州花都区青少年宫",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式广州南沙区亲子活动探索",
+    "venue": "广州南沙区创意园",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动广州增城区展览科普",
+    "venue": "广州增城区博物馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的互动展览科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末广州从化区讲座阅读活动",
+    "venue": "广州从化区科技馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期广州天河区科普活动体验营",
+    "venue": "广州天河区美术馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子广州越秀区演出工作坊",
+    "venue": "广州越秀区图书馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭广州荔湾区影视放映研学营",
+    "venue": "广州荔湾区文化馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童广州海珠区体育赛事课程",
+    "venue": "广州海珠区公园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年广州白云区亲子活动讲座",
+    "venue": "广州白云区植物园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味广州黄埔区展览展览",
+    "venue": "广州黄埔区动物园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的趣味展览展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索广州番禺区讲座阅读演出",
+    "venue": "广州番禺区海洋馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现广州花都区科普活动比赛",
+    "venue": "广州花都区剧院",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验广州南沙区演出嘉年华",
+    "venue": "广州南沙区体育馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进广州增城区影视放映日",
+    "venue": "广州增城区体育场",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的走进影视放映日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读广州从化区体育赛事周",
+    "venue": "广州从化区会展中心",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘广州天河区亲子活动月",
+    "venue": "广州天河区文化中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游广州越秀区展览季",
+    "venue": "广州越秀区艺术中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的漫游展览季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩广州荔湾区讲座阅读节",
+    "venue": "广州荔湾区青少年宫",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻广州海珠区科普活动之旅",
+    "venue": "广州海珠区创意园",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典广州白云区演出探秘",
+    "venue": "广州白云区博物馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的经典演出探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼广州黄埔区影视放映发现",
+    "venue": "广州黄埔区科技馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式广州番禺区体育赛事探索",
+    "venue": "广州番禺区美术馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动广州花都区亲子活动科普",
+    "venue": "广州花都区图书馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末广州南沙区展览活动",
+    "venue": "广州南沙区文化馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的周末展览活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期广州增城区讲座阅读体验营",
+    "venue": "广州增城区公园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子广州从化区科普活动工作坊",
+    "venue": "广州从化区植物园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭广州天河区演出研学营",
+    "venue": "广州天河区动物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童广州越秀区影视放映课程",
+    "venue": "广州越秀区海洋馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年广州荔湾区体育赛事讲座",
+    "venue": "广州荔湾区剧院",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味广州海珠区亲子活动展览",
+    "venue": "广州海珠区体育馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索广州白云区展览演出",
+    "venue": "广州白云区体育场",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的探索展览演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现广州黄埔区讲座阅读比赛",
+    "venue": "广州黄埔区会展中心",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验广州番禺区科普活动嘉年华",
+    "venue": "广州番禺区文化中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进广州花都区演出日",
+    "venue": "广州花都区艺术中心",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的走进演出日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读广州南沙区影视放映周",
+    "venue": "广州南沙区青少年宫",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的解读影视放映周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘广州增城区体育赛事月",
+    "venue": "广州增城区创意园",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游广州从化区亲子活动季",
+    "venue": "广州从化区博物馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩广州天河区展览节",
+    "venue": "广州天河区科技馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的精彩展览节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻广州越秀区讲座阅读之旅",
+    "venue": "广州越秀区美术馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典广州荔湾区科普活动探秘",
+    "venue": "广州荔湾区图书馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼广州海珠区演出发现",
+    "venue": "广州海珠区文化馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的震撼演出发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式广州白云区影视放映探索",
+    "venue": "广州白云区公园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动广州黄埔区体育赛事科普",
+    "venue": "广州黄埔区植物园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末广州番禺区亲子活动活动",
+    "venue": "广州番禺区动物园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期广州花都区展览体验营",
+    "venue": "广州花都区海洋馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子广州南沙区讲座阅读工作坊",
+    "venue": "广州南沙区剧院",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭广州增城区科普活动研学营",
+    "venue": "广州增城区体育馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童广州从化区演出课程",
+    "venue": "广州从化区体育场",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的儿童演出课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年广州天河区影视放映讲座",
+    "venue": "广州天河区会展中心",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味广州越秀区体育赛事展览",
+    "venue": "广州越秀区文化中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索广州荔湾区亲子活动演出",
+    "venue": "广州荔湾区艺术中心",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现广州海珠区展览比赛",
+    "venue": "广州海珠区青少年宫",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的发现展览比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验广州白云区讲座阅读嘉年华",
+    "venue": "广州白云区创意园",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进广州黄埔区科普活动日",
+    "venue": "广州黄埔区博物馆",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州黄埔区的走进科普活动日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读广州番禺区演出周",
+    "venue": "广州番禺区科技馆",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的解读演出周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘广州花都区影视放映月",
+    "venue": "广州花都区美术馆",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游广州南沙区体育赛事季",
+    "venue": "广州南沙区图书馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩广州增城区亲子活动节",
+    "venue": "广州增城区文化馆",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻广州从化区展览之旅",
+    "venue": "广州从化区公园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典广州天河区讲座阅读探秘",
+    "venue": "广州天河区植物园",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼广州越秀区科普活动发现",
+    "venue": "广州越秀区动物园",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州越秀区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式广州荔湾区演出探索",
+    "venue": "广州荔湾区海洋馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州荔湾区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动广州海珠区影视放映科普",
+    "venue": "广州海珠区剧院",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州海珠区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末广州白云区体育赛事活动",
+    "venue": "广州白云区体育馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州白云区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期广州黄埔区亲子活动体验营",
+    "venue": "广州黄埔区体育场",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子广州番禺区展览工作坊",
+    "venue": "广州番禺区会展中心",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州番禺区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭广州花都区讲座阅读研学营",
+    "venue": "广州花都区文化中心",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州花都区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童广州南沙区科普活动课程",
+    "venue": "广州南沙区艺术中心",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州南沙区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年广州增城区演出讲座",
+    "venue": "广州增城区青少年宫",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州增城区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味广州从化区影视放映展览",
+    "venue": "广州从化区创意园",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州从化区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索广州天河区体育赛事演出",
+    "venue": "广州天河区博物馆",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州天河区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现广州越秀区亲子活动比赛",
+    "venue": "广州越秀区科技馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验广州荔湾区展览嘉年华",
+    "venue": "广州荔湾区美术馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州荔湾区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "荔湾区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进广州海珠区讲座阅读日",
+    "venue": "广州海珠区图书馆",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州海珠区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "海珠区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读广州白云区科普活动周",
+    "venue": "广州白云区文化馆",
+    "city": "guangzhou",
+    "district": "白云区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州白云区的解读科普活动周，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "白云区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘广州黄埔区演出月",
+    "venue": "广州黄埔区公园",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州黄埔区的探秘演出月，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "黄埔区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游广州番禺区影视放映季",
+    "venue": "广州番禺区植物园",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州番禺区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "番禺区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩广州花都区体育赛事节",
+    "venue": "广州花都区动物园",
+    "city": "guangzhou",
+    "district": "花都区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州花都区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "花都区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻广州南沙区亲子活动之旅",
+    "venue": "广州南沙区海洋馆",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州南沙区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "南沙区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典广州增城区展览探秘",
+    "venue": "广州增城区剧院",
+    "city": "guangzhou",
+    "district": "增城区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州增城区的经典展览探秘，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "增城区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼广州从化区讲座阅读发现",
+    "venue": "广州从化区体育馆",
+    "city": "guangzhou",
+    "district": "从化区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州从化区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "从化区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式广州天河区科普活动探索",
+    "venue": "广州天河区体育场",
+    "city": "guangzhou",
+    "district": "天河区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "广州天河区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "天河区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动广州越秀区演出科普",
+    "venue": "广州越秀区会展中心",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "广州越秀区的互动演出科普，适合亲子家庭参与。",
+    "source": "广州本地宝",
+    "highlights": [
+      "广州",
+      "越秀区",
+      "演出"
+    ],
+    "type": "演出"
   }
 ]

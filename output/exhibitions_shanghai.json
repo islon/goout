@@ -4994,5 +4994,3405 @@
       "亲子活动"
     ],
     "type": "亲子活动"
+  },
+  {
+    "name": "周末上海黄浦区展览活动",
+    "venue": "上海黄浦区博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的周末展览活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期上海徐汇区讲座阅读体验营",
+    "venue": "上海徐汇区科技馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子上海长宁区科普活动工作坊",
+    "venue": "上海长宁区美术馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭上海静安区演出研学营",
+    "venue": "上海静安区图书馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童上海普陀区影视放映课程",
+    "venue": "上海普陀区文化馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年上海虹口区体育赛事讲座",
+    "venue": "上海虹口区公园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味上海杨浦区亲子活动展览",
+    "venue": "上海杨浦区植物园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索上海闵行区展览演出",
+    "venue": "上海闵行区动物园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的探索展览演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现上海宝山区讲座阅读比赛",
+    "venue": "上海宝山区海洋馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验上海嘉定区科普活动嘉年华",
+    "venue": "上海嘉定区剧院",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进上海浦东新区演出日",
+    "venue": "上海浦东新区体育馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的走进演出日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读上海金山区影视放映周",
+    "venue": "上海金山区体育场",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的解读影视放映周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘上海松江区体育赛事月",
+    "venue": "上海松江区会展中心",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游上海青浦区亲子活动季",
+    "venue": "上海青浦区文化中心",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩上海奉贤区展览节",
+    "venue": "上海奉贤区艺术中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的精彩展览节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻上海黄浦区讲座阅读之旅",
+    "venue": "上海黄浦区青少年宫",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典上海徐汇区科普活动探秘",
+    "venue": "上海徐汇区创意园",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼上海长宁区演出发现",
+    "venue": "上海长宁区博物馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的震撼演出发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式上海静安区影视放映探索",
+    "venue": "上海静安区科技馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动上海普陀区体育赛事科普",
+    "venue": "上海普陀区美术馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末上海虹口区亲子活动活动",
+    "venue": "上海虹口区图书馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期上海杨浦区展览体验营",
+    "venue": "上海杨浦区文化馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子上海闵行区讲座阅读工作坊",
+    "venue": "上海闵行区公园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭上海宝山区科普活动研学营",
+    "venue": "上海宝山区植物园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童上海嘉定区演出课程",
+    "venue": "上海嘉定区动物园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的儿童演出课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年上海浦东新区影视放映讲座",
+    "venue": "上海浦东新区海洋馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味上海金山区体育赛事展览",
+    "venue": "上海金山区剧院",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索上海松江区亲子活动演出",
+    "venue": "上海松江区体育馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现上海青浦区展览比赛",
+    "venue": "上海青浦区体育场",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的发现展览比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验上海奉贤区讲座阅读嘉年华",
+    "venue": "上海奉贤区会展中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进上海黄浦区科普活动日",
+    "venue": "上海黄浦区文化中心",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的走进科普活动日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读上海徐汇区演出周",
+    "venue": "上海徐汇区艺术中心",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的解读演出周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘上海长宁区影视放映月",
+    "venue": "上海长宁区青少年宫",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游上海静安区体育赛事季",
+    "venue": "上海静安区创意园",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩上海普陀区亲子活动节",
+    "venue": "上海普陀区博物馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻上海虹口区展览之旅",
+    "venue": "上海虹口区科技馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典上海杨浦区讲座阅读探秘",
+    "venue": "上海杨浦区美术馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼上海闵行区科普活动发现",
+    "venue": "上海闵行区图书馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式上海宝山区演出探索",
+    "venue": "上海宝山区文化馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动上海嘉定区影视放映科普",
+    "venue": "上海嘉定区公园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末上海浦东新区体育赛事活动",
+    "venue": "上海浦东新区植物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期上海金山区亲子活动体验营",
+    "venue": "上海金山区动物园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子上海松江区展览工作坊",
+    "venue": "上海松江区海洋馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭上海青浦区讲座阅读研学营",
+    "venue": "上海青浦区剧院",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童上海奉贤区科普活动课程",
+    "venue": "上海奉贤区体育馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年上海黄浦区演出讲座",
+    "venue": "上海黄浦区体育场",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味上海徐汇区影视放映展览",
+    "venue": "上海徐汇区会展中心",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索上海长宁区体育赛事演出",
+    "venue": "上海长宁区文化中心",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现上海静安区亲子活动比赛",
+    "venue": "上海静安区艺术中心",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验上海普陀区展览嘉年华",
+    "venue": "上海普陀区青少年宫",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进上海虹口区讲座阅读日",
+    "venue": "上海虹口区创意园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读上海杨浦区科普活动周",
+    "venue": "上海杨浦区博物馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的解读科普活动周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘上海闵行区演出月",
+    "venue": "上海闵行区科技馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探秘演出月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游上海宝山区影视放映季",
+    "venue": "上海宝山区美术馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩上海嘉定区体育赛事节",
+    "venue": "上海嘉定区图书馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻上海浦东新区亲子活动之旅",
+    "venue": "上海浦东新区文化馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典上海金山区展览探秘",
+    "venue": "上海金山区公园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的经典展览探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼上海松江区讲座阅读发现",
+    "venue": "上海松江区植物园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式上海青浦区科普活动探索",
+    "venue": "上海青浦区动物园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动上海奉贤区演出科普",
+    "venue": "上海奉贤区海洋馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的互动演出科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末上海黄浦区影视放映活动",
+    "venue": "上海黄浦区剧院",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期上海徐汇区体育赛事体验营",
+    "venue": "上海徐汇区体育馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子上海长宁区亲子活动工作坊",
+    "venue": "上海长宁区体育场",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭上海静安区展览研学营",
+    "venue": "上海静安区会展中心",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童上海普陀区讲座阅读课程",
+    "venue": "上海普陀区文化中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年上海虹口区科普活动讲座",
+    "venue": "上海虹口区艺术中心",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味上海杨浦区演出展览",
+    "venue": "上海杨浦区青少年宫",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的趣味演出展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索上海闵行区影视放映演出",
+    "venue": "上海闵行区创意园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现上海宝山区体育赛事比赛",
+    "venue": "上海宝山区博物馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验上海嘉定区亲子活动嘉年华",
+    "venue": "上海嘉定区科技馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进上海浦东新区展览日",
+    "venue": "上海浦东新区美术馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的走进展览日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读上海金山区讲座阅读周",
+    "venue": "上海金山区图书馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘上海松江区科普活动月",
+    "venue": "上海松江区文化馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游上海青浦区演出季",
+    "venue": "上海青浦区公园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的漫游演出季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩上海奉贤区影视放映节",
+    "venue": "上海奉贤区植物园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻上海黄浦区体育赛事之旅",
+    "venue": "上海黄浦区动物园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典上海徐汇区亲子活动探秘",
+    "venue": "上海徐汇区海洋馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼上海长宁区展览发现",
+    "venue": "上海长宁区剧院",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的震撼展览发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式上海静安区讲座阅读探索",
+    "venue": "上海静安区体育馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "互动上海普陀区科普活动科普",
+    "venue": "上海普陀区体育场",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "周末上海虹口区演出活动",
+    "venue": "上海虹口区会展中心",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的周末演出活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "暑期上海杨浦区影视放映体验营",
+    "venue": "上海杨浦区文化中心",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "亲子上海闵行区体育赛事工作坊",
+    "venue": "上海闵行区艺术中心",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "家庭上海宝山区亲子活动研学营",
+    "venue": "上海宝山区青少年宫",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "儿童上海嘉定区展览课程",
+    "venue": "上海嘉定区创意园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的儿童展览课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "青少年上海浦东新区讲座阅读讲座",
+    "venue": "上海浦东新区博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "趣味上海金山区科普活动展览",
+    "venue": "上海金山区科技馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探索上海松江区演出演出",
+    "venue": "上海松江区美术馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探索演出演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "发现上海青浦区影视放映比赛",
+    "venue": "上海青浦区图书馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "体验上海奉贤区体育赛事嘉年华",
+    "venue": "上海奉贤区文化馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "走进上海黄浦区亲子活动日",
+    "venue": "上海黄浦区公园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "解读上海徐汇区展览周",
+    "venue": "上海徐汇区植物园",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的解读展览周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探秘上海长宁区讲座阅读月",
+    "venue": "上海长宁区动物园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "漫游上海静安区科普活动季",
+    "venue": "上海静安区海洋馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "精彩上海普陀区演出节",
+    "venue": "上海普陀区剧院",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的精彩演出节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "梦幻上海虹口区影视放映之旅",
+    "venue": "上海虹口区体育馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "经典上海杨浦区体育赛事探秘",
+    "venue": "上海杨浦区体育场",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "震撼上海闵行区亲子活动发现",
+    "venue": "上海闵行区会展中心",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "沉浸式上海宝山区展览探索",
+    "venue": "上海宝山区文化中心",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "互动上海嘉定区讲座阅读科普",
+    "venue": "上海嘉定区艺术中心",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "周末上海浦东新区科普活动活动",
+    "venue": "上海浦东新区青少年宫",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "暑期上海金山区演出体验营",
+    "venue": "上海金山区创意园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "亲子上海松江区影视放映工作坊",
+    "venue": "上海松江区博物馆",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "家庭上海青浦区体育赛事研学营",
+    "venue": "上海青浦区科技馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "儿童上海奉贤区亲子活动课程",
+    "venue": "上海奉贤区美术馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "青少年上海黄浦区展览讲座",
+    "venue": "上海黄浦区图书馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "趣味上海徐汇区讲座阅读展览",
+    "venue": "上海徐汇区文化馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探索上海长宁区科普活动演出",
+    "venue": "上海长宁区公园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "发现上海静安区演出比赛",
+    "venue": "上海静安区植物园",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的发现演出比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "体验上海普陀区影视放映嘉年华",
+    "venue": "上海普陀区动物园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "走进上海虹口区体育赛事日",
+    "venue": "上海虹口区海洋馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "解读上海杨浦区亲子活动周",
+    "venue": "上海杨浦区剧院",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探秘上海闵行区展览月",
+    "venue": "上海闵行区体育馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的探秘展览月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "漫游上海宝山区讲座阅读季",
+    "venue": "上海宝山区体育场",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "精彩上海嘉定区科普活动节",
+    "venue": "上海嘉定区会展中心",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "梦幻上海浦东新区演出之旅",
+    "venue": "上海浦东新区文化中心",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "经典上海金山区影视放映探秘",
+    "venue": "上海金山区艺术中心",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "震撼上海松江区体育赛事发现",
+    "venue": "上海松江区青少年宫",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "沉浸式上海青浦区亲子活动探索",
+    "venue": "上海青浦区创意园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "互动上海奉贤区展览科普",
+    "venue": "上海奉贤区博物馆",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的互动展览科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "周末上海黄浦区讲座阅读活动",
+    "venue": "上海黄浦区科技馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "暑期上海徐汇区科普活动体验营",
+    "venue": "上海徐汇区美术馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "亲子上海长宁区演出工作坊",
+    "venue": "上海长宁区图书馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "家庭上海静安区影视放映研学营",
+    "venue": "上海静安区文化馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "儿童上海普陀区体育赛事课程",
+    "venue": "上海普陀区公园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "青少年上海虹口区亲子活动讲座",
+    "venue": "上海虹口区植物园",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "趣味上海杨浦区展览展览",
+    "venue": "上海杨浦区动物园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的趣味展览展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "探索上海闵行区讲座阅读演出",
+    "venue": "上海闵行区海洋馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "发现上海宝山区科普活动比赛",
+    "venue": "上海宝山区剧院",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海宝山区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "体验上海嘉定区演出嘉年华",
+    "venue": "上海嘉定区体育馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "走进上海浦东新区影视放映日",
+    "venue": "上海浦东新区体育场",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的走进影视放映日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "解读上海金山区体育赛事周",
+    "venue": "上海金山区会展中心",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探秘上海松江区亲子活动月",
+    "venue": "上海松江区文化中心",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "漫游上海青浦区展览季",
+    "venue": "上海青浦区艺术中心",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的漫游展览季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "精彩上海奉贤区讲座阅读节",
+    "venue": "上海奉贤区青少年宫",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "梦幻上海黄浦区科普活动之旅",
+    "venue": "上海黄浦区创意园",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海黄浦区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "经典上海徐汇区演出探秘",
+    "venue": "上海徐汇区博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的经典演出探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "震撼上海长宁区影视放映发现",
+    "venue": "上海长宁区科技馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "沉浸式上海静安区体育赛事探索",
+    "venue": "上海静安区美术馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "互动上海普陀区亲子活动科普",
+    "venue": "上海普陀区图书馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "周末上海虹口区展览活动",
+    "venue": "上海虹口区文化馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的周末展览活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期上海杨浦区讲座阅读体验营",
+    "venue": "上海杨浦区公园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子上海闵行区科普活动工作坊",
+    "venue": "上海闵行区植物园",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海闵行区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭上海宝山区演出研学营",
+    "venue": "上海宝山区动物园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童上海嘉定区影视放映课程",
+    "venue": "上海嘉定区海洋馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年上海浦东新区体育赛事讲座",
+    "venue": "上海浦东新区剧院",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味上海金山区亲子活动展览",
+    "venue": "上海金山区体育馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海金山区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索上海松江区展览演出",
+    "venue": "上海松江区体育场",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的探索展览演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现上海青浦区讲座阅读比赛",
+    "venue": "上海青浦区会展中心",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验上海奉贤区科普活动嘉年华",
+    "venue": "上海奉贤区文化中心",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海奉贤区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进上海黄浦区演出日",
+    "venue": "上海黄浦区艺术中心",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的走进演出日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读上海徐汇区影视放映周",
+    "venue": "上海徐汇区青少年宫",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的解读影视放映周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘上海长宁区体育赛事月",
+    "venue": "上海长宁区创意园",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游上海静安区亲子活动季",
+    "venue": "上海静安区博物馆",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海静安区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩上海普陀区展览节",
+    "venue": "上海普陀区科技馆",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的精彩展览节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻上海虹口区讲座阅读之旅",
+    "venue": "上海虹口区美术馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典上海杨浦区科普活动探秘",
+    "venue": "上海杨浦区图书馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海杨浦区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼上海闵行区演出发现",
+    "venue": "上海闵行区文化馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的震撼演出发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式上海宝山区影视放映探索",
+    "venue": "上海宝山区公园",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动上海嘉定区体育赛事科普",
+    "venue": "上海嘉定区植物园",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末上海浦东新区亲子活动活动",
+    "venue": "上海浦东新区动物园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海浦东新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期上海金山区展览体验营",
+    "venue": "上海金山区海洋馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子上海松江区讲座阅读工作坊",
+    "venue": "上海松江区剧院",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭上海青浦区科普活动研学营",
+    "venue": "上海青浦区体育馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海青浦区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童上海奉贤区演出课程",
+    "venue": "上海奉贤区体育场",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的儿童演出课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年上海黄浦区影视放映讲座",
+    "venue": "上海黄浦区会展中心",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味上海徐汇区体育赛事展览",
+    "venue": "上海徐汇区文化中心",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索上海长宁区亲子活动演出",
+    "venue": "上海长宁区艺术中心",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海长宁区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现上海静安区展览比赛",
+    "venue": "上海静安区青少年宫",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的发现展览比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验上海普陀区讲座阅读嘉年华",
+    "venue": "上海普陀区创意园",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进上海虹口区科普活动日",
+    "venue": "上海虹口区博物馆",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海虹口区的走进科普活动日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读上海杨浦区演出周",
+    "venue": "上海杨浦区科技馆",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的解读演出周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘上海闵行区影视放映月",
+    "venue": "上海闵行区美术馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游上海宝山区体育赛事季",
+    "venue": "上海宝山区图书馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩上海嘉定区亲子活动节",
+    "venue": "上海嘉定区文化馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海嘉定区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻上海浦东新区展览之旅",
+    "venue": "上海浦东新区公园",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典上海金山区讲座阅读探秘",
+    "venue": "上海金山区植物园",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼上海松江区科普活动发现",
+    "venue": "上海松江区动物园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海松江区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式上海青浦区演出探索",
+    "venue": "上海青浦区海洋馆",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动上海奉贤区影视放映科普",
+    "venue": "上海奉贤区剧院",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末上海黄浦区体育赛事活动",
+    "venue": "上海黄浦区体育馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期上海徐汇区亲子活动体验营",
+    "venue": "上海徐汇区体育场",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海徐汇区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子上海长宁区展览工作坊",
+    "venue": "上海长宁区会展中心",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭上海静安区讲座阅读研学营",
+    "venue": "上海静安区文化中心",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童上海普陀区科普活动课程",
+    "venue": "上海普陀区艺术中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海普陀区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年上海虹口区演出讲座",
+    "venue": "上海虹口区青少年宫",
+    "city": "shanghai",
+    "district": "虹口区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海虹口区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "虹口区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味上海杨浦区影视放映展览",
+    "venue": "上海杨浦区创意园",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海杨浦区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "杨浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索上海闵行区体育赛事演出",
+    "venue": "上海闵行区博物馆",
+    "city": "shanghai",
+    "district": "闵行区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海闵行区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "闵行区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现上海宝山区亲子活动比赛",
+    "venue": "上海宝山区科技馆",
+    "city": "shanghai",
+    "district": "宝山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海宝山区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "宝山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验上海嘉定区展览嘉年华",
+    "venue": "上海嘉定区美术馆",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海嘉定区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "嘉定区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进上海浦东新区讲座阅读日",
+    "venue": "上海浦东新区图书馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海浦东新区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "浦东新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读上海金山区科普活动周",
+    "venue": "上海金山区文化馆",
+    "city": "shanghai",
+    "district": "金山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海金山区的解读科普活动周，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "金山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘上海松江区演出月",
+    "venue": "上海松江区公园",
+    "city": "shanghai",
+    "district": "松江区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海松江区的探秘演出月，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "松江区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游上海青浦区影视放映季",
+    "venue": "上海青浦区植物园",
+    "city": "shanghai",
+    "district": "青浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海青浦区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "青浦区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩上海奉贤区体育赛事节",
+    "venue": "上海奉贤区动物园",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海奉贤区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "奉贤区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻上海黄浦区亲子活动之旅",
+    "venue": "上海黄浦区海洋馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海黄浦区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "黄浦区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典上海徐汇区展览探秘",
+    "venue": "上海徐汇区剧院",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海徐汇区的经典展览探秘，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "徐汇区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼上海长宁区讲座阅读发现",
+    "venue": "上海长宁区体育馆",
+    "city": "shanghai",
+    "district": "长宁区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海长宁区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "长宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式上海静安区科普活动探索",
+    "venue": "上海静安区体育场",
+    "city": "shanghai",
+    "district": "静安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "上海静安区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "静安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动上海普陀区演出科普",
+    "venue": "上海普陀区会展中心",
+    "city": "shanghai",
+    "district": "普陀区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "上海普陀区的互动演出科普，适合亲子家庭参与。",
+    "source": "上海本地宝",
+    "highlights": [
+      "上海",
+      "普陀区",
+      "演出"
+    ],
+    "type": "演出"
   }
 ]

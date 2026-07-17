@@ -6734,5 +6734,1348 @@
     "contact": "中禹展览(上海)有限公司 张先生 13788942888",
     "family_friendly": false,
     "source": "深圳会展中心"
+  },
+  {
+    "name": "周末深圳福田区展览活动",
+    "venue": "深圳福田区博物馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的周末展览活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "暑期深圳罗湖区讲座阅读体验营",
+    "venue": "深圳罗湖区科技馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "亲子深圳南山区科普活动工作坊",
+    "venue": "深圳南山区美术馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "家庭深圳宝安区演出研学营",
+    "venue": "深圳宝安区图书馆",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "儿童深圳龙岗区影视放映课程",
+    "venue": "深圳龙岗区文化馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "青少年深圳龙华区体育赛事讲座",
+    "venue": "深圳龙华区公园",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "趣味深圳光明区亲子活动展览",
+    "venue": "深圳光明区植物园",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "探索深圳坪山区展览演出",
+    "venue": "深圳坪山区动物园",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的探索展览演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "发现深圳盐田区讲座阅读比赛",
+    "venue": "深圳盐田区海洋馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "体验深圳大鹏新区科普活动嘉年华",
+    "venue": "深圳大鹏新区剧院",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳大鹏新区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "走进深圳福田区演出日",
+    "venue": "深圳福田区体育馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的走进演出日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "解读深圳罗湖区影视放映周",
+    "venue": "深圳罗湖区体育场",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的解读影视放映周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探秘深圳南山区体育赛事月",
+    "venue": "深圳南山区会展中心",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "漫游深圳宝安区亲子活动季",
+    "venue": "深圳宝安区文化中心",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "精彩深圳龙岗区展览节",
+    "venue": "深圳龙岗区艺术中心",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙岗区的精彩展览节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "梦幻深圳龙华区讲座阅读之旅",
+    "venue": "深圳龙华区青少年宫",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙华区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "经典深圳光明区科普活动探秘",
+    "venue": "深圳光明区创意园",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳光明区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "震撼深圳坪山区演出发现",
+    "venue": "深圳坪山区博物馆",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的震撼演出发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "沉浸式深圳盐田区影视放映探索",
+    "venue": "深圳盐田区科技馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "互动深圳大鹏新区体育赛事科普",
+    "venue": "深圳大鹏新区美术馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "周末深圳福田区亲子活动活动",
+    "venue": "深圳福田区图书馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "暑期深圳罗湖区展览体验营",
+    "venue": "深圳罗湖区文化馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "亲子深圳南山区讲座阅读工作坊",
+    "venue": "深圳南山区公园",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "家庭深圳宝安区科普活动研学营",
+    "venue": "深圳宝安区植物园",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳宝安区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "儿童深圳龙岗区演出课程",
+    "venue": "深圳龙岗区动物园",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的儿童演出课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "青少年深圳龙华区影视放映讲座",
+    "venue": "深圳龙华区海洋馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "趣味深圳光明区体育赛事展览",
+    "venue": "深圳光明区剧院",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "探索深圳坪山区亲子活动演出",
+    "venue": "深圳坪山区体育馆",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "发现深圳盐田区展览比赛",
+    "venue": "深圳盐田区体育场",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的发现展览比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "体验深圳大鹏新区讲座阅读嘉年华",
+    "venue": "深圳大鹏新区会展中心",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳大鹏新区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "走进深圳福田区科普活动日",
+    "venue": "深圳福田区文化中心",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的走进科普活动日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "解读深圳罗湖区演出周",
+    "venue": "深圳罗湖区艺术中心",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的解读演出周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探秘深圳南山区影视放映月",
+    "venue": "深圳南山区青少年宫",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "漫游深圳宝安区体育赛事季",
+    "venue": "深圳宝安区创意园",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "精彩深圳龙岗区亲子活动节",
+    "venue": "深圳龙岗区博物馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "梦幻深圳龙华区展览之旅",
+    "venue": "深圳龙华区科技馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙华区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "经典深圳光明区讲座阅读探秘",
+    "venue": "深圳光明区美术馆",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳光明区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "震撼深圳坪山区科普活动发现",
+    "venue": "深圳坪山区图书馆",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "沉浸式深圳盐田区演出探索",
+    "venue": "深圳盐田区文化馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "互动深圳大鹏新区影视放映科普",
+    "venue": "深圳大鹏新区公园",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "周末深圳福田区体育赛事活动",
+    "venue": "深圳福田区植物园",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "暑期深圳罗湖区亲子活动体验营",
+    "venue": "深圳罗湖区动物园",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "亲子深圳南山区展览工作坊",
+    "venue": "深圳南山区海洋馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "家庭深圳宝安区讲座阅读研学营",
+    "venue": "深圳宝安区剧院",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳宝安区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "儿童深圳龙岗区科普活动课程",
+    "venue": "深圳龙岗区体育馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙岗区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "青少年深圳龙华区演出讲座",
+    "venue": "深圳龙华区体育场",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "趣味深圳光明区影视放映展览",
+    "venue": "深圳光明区会展中心",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "探索深圳坪山区体育赛事演出",
+    "venue": "深圳坪山区文化中心",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "发现深圳盐田区亲子活动比赛",
+    "venue": "深圳盐田区艺术中心",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "体验深圳大鹏新区展览嘉年华",
+    "venue": "深圳大鹏新区青少年宫",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳大鹏新区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "走进深圳福田区讲座阅读日",
+    "venue": "深圳福田区创意园",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "解读深圳罗湖区科普活动周",
+    "venue": "深圳罗湖区博物馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的解读科普活动周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "探秘深圳南山区演出月",
+    "venue": "深圳南山区科技馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的探秘演出月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "漫游深圳宝安区影视放映季",
+    "venue": "深圳宝安区美术馆",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "精彩深圳龙岗区体育赛事节",
+    "venue": "深圳龙岗区图书馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "梦幻深圳龙华区亲子活动之旅",
+    "venue": "深圳龙华区文化馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "经典深圳光明区展览探秘",
+    "venue": "深圳光明区公园",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳光明区的经典展览探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "震撼深圳坪山区讲座阅读发现",
+    "venue": "深圳坪山区植物园",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "沉浸式深圳盐田区科普活动探索",
+    "venue": "深圳盐田区动物园",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "互动深圳大鹏新区演出科普",
+    "venue": "深圳大鹏新区海洋馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的互动演出科普，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "周末深圳福田区影视放映活动",
+    "venue": "深圳福田区剧院",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳福田区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "暑期深圳罗湖区体育赛事体验营",
+    "venue": "深圳罗湖区体育馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳罗湖区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "亲子深圳南山区亲子活动工作坊",
+    "venue": "深圳南山区体育场",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳南山区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "家庭深圳宝安区展览研学营",
+    "venue": "深圳宝安区会展中心",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳宝安区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "儿童深圳龙岗区讲座阅读课程",
+    "venue": "深圳龙岗区文化中心",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙岗区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "青少年深圳龙华区科普活动讲座",
+    "venue": "深圳龙华区艺术中心",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳龙华区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "趣味深圳光明区演出展览",
+    "venue": "深圳光明区青少年宫",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的趣味演出展览，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "探索深圳坪山区影视放映演出",
+    "venue": "深圳坪山区创意园",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳坪山区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "发现深圳盐田区体育赛事比赛",
+    "venue": "深圳盐田区博物馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳盐田区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "体验深圳大鹏新区亲子活动嘉年华",
+    "venue": "深圳大鹏新区科技馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳大鹏新区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "大鹏新区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "走进深圳福田区展览日",
+    "venue": "深圳福田区美术馆",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳福田区的走进展览日，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "福田区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "解读深圳罗湖区讲座阅读周",
+    "venue": "深圳罗湖区图书馆",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳罗湖区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "罗湖区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
+  },
+  {
+    "name": "探秘深圳南山区科普活动月",
+    "venue": "深圳南山区文化馆",
+    "city": "shenzhen",
+    "district": "南山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳南山区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "南山区",
+      "科普活动"
+    ],
+    "type": "科普活动"
+  },
+  {
+    "name": "漫游深圳宝安区演出季",
+    "venue": "深圳宝安区公园",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳宝安区的漫游演出季，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "宝安区",
+      "演出"
+    ],
+    "type": "演出"
+  },
+  {
+    "name": "精彩深圳龙岗区影视放映节",
+    "venue": "深圳龙岗区植物园",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙岗区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙岗区",
+      "影视放映"
+    ],
+    "type": "影视放映"
+  },
+  {
+    "name": "梦幻深圳龙华区体育赛事之旅",
+    "venue": "深圳龙华区动物园",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳龙华区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "龙华区",
+      "体育赛事"
+    ],
+    "type": "体育赛事"
+  },
+  {
+    "name": "经典深圳光明区亲子活动探秘",
+    "venue": "深圳光明区海洋馆",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "深圳光明区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "光明区",
+      "亲子活动"
+    ],
+    "type": "亲子活动"
+  },
+  {
+    "name": "震撼深圳坪山区展览发现",
+    "venue": "深圳坪山区剧院",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳坪山区的震撼展览发现，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "坪山区",
+      "展览"
+    ],
+    "type": "展览"
+  },
+  {
+    "name": "沉浸式深圳盐田区讲座阅读探索",
+    "venue": "深圳盐田区体育馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "fee": "免费",
+    "description": "深圳盐田区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "深圳本地宝",
+    "highlights": [
+      "深圳",
+      "盐田区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读"
   }
 ]
