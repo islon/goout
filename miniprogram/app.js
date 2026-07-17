@@ -11,8 +11,12 @@ precomputeDerived(localExhibitions);
 // 新增城市只需在 filters.js 的 cities 数组加一项，取数与筛选 UI 同步生效，无需维护主文件。
 const CITY_FILE_BASE = 'https://raw.githubusercontent.com/islon/goout/main/output/exhibitions_';
 const REMOTE_VENUE_URL = 'https://raw.githubusercontent.com/islon/goout/main/output/venue_info.json';
-// 城市列表：同时驱动筛选 UI 与取数（单一事实来源）
-const { cities } = require('./data/filters.js');
+// 城市清单远程地址（与网页版同源）：运行时拉取，新增城市无需重新发布小程序版本
+const CITIES_URL = 'https://raw.githubusercontent.com/islon/goout/main/output/cities.json';
+// 打包内城市清单：仅作离线兜底（首启/网络不可达时用）
+const { cities: bundledCities } = require('./data/filters.js');
+// 运行期生效的城市清单（模块级，驱动取数）：默认用打包兜底，成功拉取 cities.json 后覆盖
+var activeCities = bundledCities;
 
 // 缓存 key（v2：打包数据已扩为 10 城场馆，旧 v1 缓存需重新播种，故升版本号）
 const CACHE_KEY = 'goout_exhibitions_cache_v2';
@@ -40,7 +44,46 @@ function datasetHasAllCities(arr) {
   for (var i = 0; i < arr.length; i++) {
     if (arr[i] && arr[i].city) present[arr[i].city] = true;
   }
-  return (cities || []).every(function(c) { return present[c.key]; });
+  return (activeCities || []).every(function(c) { return present[c.key]; });
+}
+
+// 校验 cities.json 结构：数组且每项含 key/name
+function isValidCities(arr) {
+  return Array.isArray(arr) && arr.length > 0 && arr.every(function(c) {
+    return c && typeof c.key === 'string' && c.key && typeof c.name === 'string' && c.name;
+  });
+}
+
+// 比较两份城市清单的 key 集合是否一致（用于判断是否新增/删减了城市）
+function sameCityKeys(a, b) {
+  var ka = (a || []).map(function(c) { return c.key; }).sort().join(',');
+  var kb = (b || []).map(function(c) { return c.key; }).sort().join(',');
+  return ka === kb;
+}
+
+// 运行时拉取城市清单 cities.json；成功且结构合法则更新模块级 activeCities 并返回该数组，否则返回 null（保持兜底）
+function fetchCities() {
+  return new Promise(function(resolve) {
+    wx.request({
+      url: getFreshUrl(CITIES_URL),
+      method: 'GET',
+      timeout: 15000,
+      success: function(res) {
+        var arr = toArray(res.data);
+        if (res.statusCode === 200 && isValidCities(arr)) {
+          activeCities = arr;
+          resolve(arr);
+        } else {
+          console.warn('[童行] cities.json 不可用或结构异常，沿用打包城市清单', res.statusCode);
+          resolve(null);
+        }
+      },
+      fail: function(err) {
+        console.warn('[童行] cities.json 请求失败，沿用打包城市清单', (err && err.errMsg) || '');
+        resolve(null);
+      }
+    });
+  });
 }
 
 // 拉取单个城市分文件，规整为数组；被墙/非数组时返回 null（不污染整体）
@@ -69,7 +112,7 @@ function fetchCityArray(key) {
 
 // 并行拉取所有城市分文件并合并为统一数组；任一城市失败不影响其他城市
 function fetchAllExhibitions() {
-  var promises = (cities || []).map(function(c) { return fetchCityArray(c.key); });
+  var promises = (activeCities || []).map(function(c) { return fetchCityArray(c.key); });
   return Promise.all(promises).then(function(lists) {
     var merged = [];
     lists.forEach(function(arr) {
@@ -92,6 +135,7 @@ App({
     exhibitions: localExhibitions,
     venues: localVenues,
     venueMap: {},
+    cities: bundledCities,  // 运行期城市清单：默认打包兜底，拉取 cities.json 后覆盖（各页面 tab 据此渲染）
     dataReady: false,
     isRemoteData: false,
     lastUpdateTime: null  // 记录最近一次成功更新时间
@@ -184,13 +228,28 @@ App({
   SILENT_TTL_MS: 5 * 60 * 1000,
 
   silentUpdateAll() {
-    var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
-    if (cacheTime && (Date.now() - cacheTime) < this.SILENT_TTL_MS) {
-      console.log('[童行] 缓存较新(<5分钟)，跳过静默更新');
-      return;
-    }
-    this.silentUpdateExhibitions();
-    this.silentUpdateVenues();
+    var self = this;
+    // 先拉取城市清单：新增城市能在不发版本的情况下出现在各页面 tab
+    fetchCities().then(function(arr) {
+      var changed = false;
+      if (arr) {
+        changed = !sameCityKeys(self.globalData.cities, arr);
+        self.globalData.cities = arr;
+        if (changed) {
+          console.log('[童行] 城市清单已更新，共', arr.length, '城');
+          self.notifyCitiesUpdated();
+        }
+      }
+      // 城市清单有增减时，即便缓存较新也强制拉数据，保证新城市有数据；否则按 TTL 节流
+      var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
+      var fresh = cacheTime && (Date.now() - cacheTime) < self.SILENT_TTL_MS;
+      if (fresh && !changed) {
+        console.log('[童行] 缓存较新(<5分钟)且城市清单无变化，跳过静默更新');
+        return;
+      }
+      self.silentUpdateExhibitions();
+      self.silentUpdateVenues();
+    });
   },
 
   // ========== 统一写入活动数据（预计算 + 赋值 + 写缓存）==========
@@ -258,10 +317,18 @@ App({
   forceRefresh(callback) {
     var self = this;
     console.log('[童行] 强制刷新中...');
-    fetchAllExhibitions().then(function(merged) {
-      var ok = self.applyExhibitions(merged);
-      if (ok) console.log('[童行] 强制刷新完成，共', merged.length, '条');
-      if (callback) callback(ok);
+    // 先刷新城市清单，再按最新清单拉活动（保证新增城市立即可见且有数据）
+    fetchCities().then(function(arr) {
+      if (arr && !sameCityKeys(self.globalData.cities, arr)) {
+        self.globalData.cities = arr;
+        self.notifyCitiesUpdated();
+        console.log('[童行] 城市清单已更新，共', arr.length, '城');
+      }
+      fetchAllExhibitions().then(function(merged) {
+        var ok = self.applyExhibitions(merged);
+        if (ok) console.log('[童行] 强制刷新完成，共', merged.length, '条');
+        if (callback) callback(ok);
+      });
     });
 
     // 同时刷新场馆
@@ -297,6 +364,7 @@ App({
 
   readyCallbacks: [],
   dataUpdatedCallbacks: [],
+  citiesUpdatedCallbacks: [],
 
   onReady(callback) {
     if (this.globalData.dataReady) {
@@ -321,6 +389,24 @@ App({
     var cbs = this.dataUpdatedCallbacks;
     this.dataUpdatedCallbacks = [];
     cbs.forEach(function(cb) { cb(); });
+  },
+
+  // 城市清单更新后通知页面刷新 tab（持久订阅：页面 onLoad 注册一次，可被多次强制刷新触发）
+  onCitiesUpdated(callback) {
+    this.citiesUpdatedCallbacks.push(callback);
+  },
+
+  notifyCitiesUpdated() {
+    var cities = this.globalData.cities;
+    this.citiesUpdatedCallbacks.forEach(function(cb) {
+      try { cb(cities); } catch (e) {}
+    });
+  },
+
+  // 供页面读取当前生效的城市清单（运行时优先，回退打包兜底）
+  getCities() {
+    var g = this.globalData && this.globalData.cities;
+    return (Array.isArray(g) && g.length) ? g : bundledCities;
   },
 
   // ========== 新版本检测 ==========

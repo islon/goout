@@ -1,11 +1,22 @@
 // 童行小程序 - 场馆详情页
 const { findVenue, formatDate } = require('../../utils/helpers.js');
-const { cities } = require('../../data/filters.js');
+// 打包内 cities 仅作离线兜底；运行期优先 app.getCities()（远程 cities.json），新增城市自动生效
+const { cities: bundledCities } = require('../../data/filters.js');
 const app = getApp();
 
-// 城市名映射从 filters.cities 派生，新增城市自动生效
-const cityNames = {};
-cities.forEach(function(c) { cityNames[c.key] = c.name; });
+// 运行时构建城市名映射：优先 app.getCities()，回退打包兜底
+function buildCityNames() {
+  const map = {};
+  let list = bundledCities;
+  try {
+    if (app && typeof app.getCities === 'function') {
+      const remote = app.getCities();
+      if (Array.isArray(remote) && remote.length) list = remote;
+    }
+  } catch (e) {}
+  (list || []).forEach(function(c) { map[c.key] = c.name; });
+  return map;
+}
 
 Page({
   data: {
@@ -64,6 +75,7 @@ Page({
     }
     activities.sort((a, b) => (a.start_date || '').localeCompare(b.start_date || ''));
 
+    const cityNames = buildCityNames();
     this.setData({
       venue: venue,
       cityName: cityNames[venue.city] || venue.city,

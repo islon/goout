@@ -1,7 +1,8 @@
-const { cities } = require('../../data/filters.js');
+// 打包内 cities 仅作离线兜底；运行期优先 app.getCities()（远程 cities.json），新增城市自动出现在订阅列表
+const { cities: bundledCities } = require('../../data/filters.js');
 
-// 从运行时全局数据动态统计各城市活动数 / 场馆数
-function buildCityLists(exhibitions, venues) {
+// 从运行时全局数据动态统计各城市活动数 / 场馆数；cityDefs 为运行期城市清单
+function buildCityLists(exhibitions, venues, cityDefs) {
   const actCount = {};
   (exhibitions || []).forEach(function(e) {
     const c = e.city;
@@ -12,6 +13,8 @@ function buildCityLists(exhibitions, venues) {
     const c = v.city;
     if (c) venCount[c] = (venCount[c] || 0) + 1;
   });
+
+  const cities = (Array.isArray(cityDefs) && cityDefs.length) ? cityDefs : bundledCities;
 
   const cityList = cities.map(function(c) {
     return {
@@ -47,19 +50,33 @@ Page({
   // 从 globalData 取数填充；若数据尚未就绪，注册更新回调等首次拉取后再刷新
   refreshFromGlobal() {
     const app = getApp();
+    const self = this;
+    const getCityDefs = function() {
+      try {
+        if (typeof app.getCities === 'function') {
+          const list = app.getCities();
+          if (Array.isArray(list) && list.length) return list;
+        }
+      } catch (e) {}
+      return bundledCities;
+    };
+    const render = function() {
+      const ex = (app.globalData && app.globalData.exhibitions) || [];
+      const ve = (app.globalData && app.globalData.venues) || [];
+      const r = buildCityLists(ex, ve, getCityDefs());
+      self.setData({ cities: r.cityList, subscribeLinks: r.links });
+    };
+
+    render();
+
     const exhibitions = (app.globalData && app.globalData.exhibitions) || [];
     const venues = (app.globalData && app.globalData.venues) || [];
-    const result = buildCityLists(exhibitions, venues);
-    this.setData({ cities: result.cityList, subscribeLinks: result.links });
-
     if ((!exhibitions.length || !venues.length) && app.onDataUpdated) {
-      const self = this;
-      app.onDataUpdated(function() {
-        const ex = (app.globalData && app.globalData.exhibitions) || [];
-        const ve = (app.globalData && app.globalData.venues) || [];
-        const r = buildCityLists(ex, ve);
-        self.setData({ cities: r.cityList, subscribeLinks: r.links });
-      });
+      app.onDataUpdated(render);
+    }
+    // 云侧新增/减少城市时刷新订阅列表
+    if (app.onCitiesUpdated) {
+      app.onCitiesUpdated(render);
     }
   },
 

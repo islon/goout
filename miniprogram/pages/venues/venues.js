@@ -1,17 +1,37 @@
 // 童行小程序 - 场馆指南列表页
-const { cities } = require('../../data/filters.js');
+// 打包内城市清单仅作离线兜底；运行期优先用 app.getCities()（来自远程 cities.json），
+// 这样云侧新增城市后无需重新发布小程序版本即可出现在城市 tab。
+const { cities: bundledCities } = require('../../data/filters.js');
 const { findVenue, buildVenueActivityCounts } = require('../../utils/helpers.js');
 const app = getApp();
 
-// 城市显示名映射（与 filters.cities 单一来源保持一致，避免两处维护漂移）
-const cityNameMap = {};
-cities.forEach(function(c) { cityNameMap[c.key] = c.name; });
+// 取运行期城市清单：优先 app.getCities()（远程/缓存），回退打包兜底
+function getRuntimeCities() {
+  try {
+    if (app && typeof app.getCities === 'function') {
+      const list = app.getCities();
+      if (Array.isArray(list) && list.length) return list;
+    }
+  } catch (e) {}
+  return bundledCities;
+}
 
-// 城市 tab：直接来自 filters.cities（固定 10 城），不再依赖“已加载数据里有哪些城市”，
-// 否则旧版 5 城缓存 / 远程未加载时场馆指南只会显示部分城市
-const CITY_TABS = [{ key: 'all', name: '全部' }].concat(
-  cities.map(function(c) { return { key: c.key, name: c.name }; })
-);
+// 由城市清单构建 key→显示名 映射
+function buildCityNameMap(list) {
+  const map = {};
+  (list || []).forEach(function(c) { map[c.key] = c.name; });
+  return map;
+}
+
+// 由城市清单构建城市 tab（含“全部”）
+function buildCityTabs(list) {
+  return [{ key: 'all', name: '全部' }].concat(
+    (list || []).map(function(c) { return { key: c.key, name: c.name }; })
+  );
+}
+
+// 模块级可变映射：applyFilters 用它把 city key 转显示名；loadData 时会随运行期清单重建
+var cityNameMap = buildCityNameMap(getRuntimeCities());
 
 const FILTER_STORAGE_KEY = 'goout_venue_filter_state';
 const FILTER_KEYS = ['cityFilter', 'typeFilter', 'searchQuery'];
@@ -32,6 +52,11 @@ Page({
   onLoad() {
     this.restoreFilters();
     this.loadData();
+    // 云侧新增/减少城市时（app 拉到新的 cities.json）刷新城市 tab
+    const self = this;
+    if (app && typeof app.onCitiesUpdated === 'function') {
+      app.onCitiesUpdated(function() { self.loadData(); });
+    }
   },
 
   onShow() {
@@ -67,6 +92,11 @@ Page({
   },
 
   loadData() {
+    // 每次加载都按运行期城市清单重建 tab 与名称映射（响应云侧新增城市）
+    const runtimeCities = getRuntimeCities();
+    cityNameMap = buildCityNameMap(runtimeCities);
+    const cityTabs = buildCityTabs(runtimeCities);
+
     // 防御：远程数据异常(如被拦截返回HTML字符串)时 globalData.venues 可能不是数组，强制规整避免 .filter 崩潰白屏
     const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
     const allExhibitions = Array.isArray(app.globalData.exhibitions) ? app.globalData.exhibitions : [];
@@ -85,7 +115,8 @@ Page({
     const activityCounts = buildVenueActivityCounts(allVenues, allExhibitions);
 
     this.setData({
-      cities: CITY_TABS,
+      cities: cityTabs,
+      cityNameMap: cityNameMap,
       types: types,
       activityCounts: activityCounts,
       loading: false

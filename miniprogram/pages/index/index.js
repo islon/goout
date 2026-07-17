@@ -1,4 +1,6 @@
-const { cities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
+// 打包内 cities 仅作离线兜底；运行期优先用 app.getCities()（远程 cities.json），
+// 云侧新增城市后无需重新发布小程序版本即可出现在城市 tab。
+const { cities: bundledCities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
 const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, getPresentDistricts, matchSource, normalizeCity } = require('../../utils/helpers.js');
 
 const PAGE_SIZE = 20;
@@ -8,7 +10,7 @@ const app = getApp();
 
 Page({
   data: {
-    cities,
+    cities: bundledCities,
     timeFilters,
     familyFilters,
     typeFilters,
@@ -44,18 +46,44 @@ Page({
   onLoad() {
     const self = this;
     this.restoreFilters();
+    this.syncCities();
     this.updateDistrictsAndVenues();
     this.updateLastUpdateText();
     // 等待数据准备完成后加载
     app.onReady(function() {
+      self.syncCities();
       self.loadData();
       self.updateLastUpdateText();
     });
     // 后台静默更新到最新数据后，自动刷新列表（用户无感）
     app.onDataUpdated(function() {
+      self.syncCities();
       self.loadData();
       self.updateDistrictsAndVenues();
       self.updateLastUpdateText();
+    });
+    // 云侧新增/减少城市时（app 拉到新的 cities.json）刷新城市 tab
+    if (app && typeof app.onCitiesUpdated === 'function') {
+      app.onCitiesUpdated(function() {
+        self.syncCities();
+        self.updateDistrictsAndVenues();
+        self.loadData();
+      });
+    }
+  },
+
+  // 将运行期城市清单（app.getCities()，回退打包兜底）同步进页面 data.cities，
+  // disabled 状态仍由 updateFilterAvailability 计算
+  syncCities() {
+    let runtime = bundledCities;
+    try {
+      if (app && typeof app.getCities === 'function') {
+        const list = app.getCities();
+        if (Array.isArray(list) && list.length) runtime = list;
+      }
+    } catch (e) {}
+    this.setData({
+      cities: runtime.map(function(c) { return { key: c.key, name: c.name }; })
     });
   },
 
