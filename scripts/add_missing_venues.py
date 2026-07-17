@@ -14,7 +14,7 @@ with open(VENUES_FILE, 'r', encoding='utf-8') as f:
 
 existing_venue_names = {v['name'] for v in venues}
 
-# 收集活动中出现但场馆列表中不存在的venue
+# 收集活动中出现但场馆列表中不存在的venue，同时记录对应的source
 unmatched_venues = {}
 for e in exhibitions:
     venue = e.get('venue', '').strip()
@@ -31,14 +31,18 @@ for e in exhibitions:
     if not matched:
         city = e.get('city', '')
         district = e.get('district', '')
+        source = e.get('source', '')
         if city not in unmatched_venues:
             unmatched_venues[city] = {}
         if venue not in unmatched_venues[city]:
             unmatched_venues[city][venue] = {
                 'district': district,
-                'count': 0
+                'count': 0,
+                'sources': set()
             }
         unmatched_venues[city][venue]['count'] += 1
+        if source:
+            unmatched_venues[city][venue]['sources'].add(source)
 
 # 生成新场馆数据
 new_venues = []
@@ -132,9 +136,18 @@ for city, venues_info in unmatched_venues.items():
         vtype = infer_type(venue_name)
         fee = infer_fee(venue_name)
         
+        # 使用活动中记录的source作为场馆的唯一标识，确保活动和场馆能正确关联
+        sources = info.get('sources', set())
+        source = ''
+        if sources:
+            # 优先选择短的、非中文的source（如 szlib），避免选择"深圳本地宝"这类来源标识
+            # 同时过滤掉中文场馆名作为source的情况
+            preferred = [s for s in sources if len(s) <= 20 and not any('\u4e00' <= c <= '\u9fff' for c in s)]
+            source = preferred[0] if preferred else list(sources)[0]
+        
         new_venue = {
             'name': venue_name,
-            'source': f'{city_name}本地宝',
+            'source': source or f'{city_name}本地宝',
             'city': city,
             'district': district,
             'type': vtype,
