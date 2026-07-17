@@ -566,9 +566,46 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     json_path = os.path.join(OUTPUT_DIR, JSON_FILE)
+    
+    existing_activities = []
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                existing_activities = json.load(f)
+            print(f"\n已读取现有数据: {len(existing_activities)} 条")
+        except Exception as e:
+            print(f"\n读取现有数据失败: {e}")
+            existing_activities = []
+
+    new_activity_keys = set()
+    for a in activities:
+        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
+        new_activity_keys.add(key)
+
+    preserved_activities = []
+    for a in existing_activities:
+        city = a.get('city', '')
+        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
+        if city != 'shenzhen' or key not in new_activity_keys:
+            preserved_activities.append(a)
+
+    all_combined = preserved_activities + activities
+    
+    seen = set()
+    unique_activities = []
+    for a in all_combined:
+        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
+        if key not in seen:
+            seen.add(key)
+            unique_activities.append(a)
+    
+    unique_activities.sort(key=lambda x: x['start_date'])
+
+    print(f"\n合并后数据: 新抓取 {len(activities)} 条 + 保留其他城市 {len(preserved_activities)} 条 = 去重后 {len(unique_activities)} 条")
+
     with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(activities, f, ensure_ascii=False, indent=2)
-    print(f"\nJSON数据已保存到 {json_path}")
+        json.dump(unique_activities, f, ensure_ascii=False, indent=2)
+    print(f"JSON数据已保存到 {json_path}")
 
     ics_content = create_ics(activities)
     ics_path = os.path.join(OUTPUT_DIR, ICS_FILE)
