@@ -20,7 +20,7 @@ Page({
     // 当前筛选状态
     cityFilter: 'shenzhen',
     timeFilter: 'upcoming',
-    familyFilter: 'family',
+    familyFilter: 'all',
     typeFilter: 'all',
     districtFilter: 'all',
     sourceFilter: 'all',
