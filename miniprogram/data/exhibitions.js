@@ -4236,6 +4236,78 @@ module.exports = [
     "source": "钓鱼嘴公园原木亲子乐园官网"
   },
   {
+    "name": "广都博物馆亲子研学营",
+    "venue": "广都博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-23",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广都博物馆官网"
+  },
+  {
+    "name": "南京奥林匹克博物馆文物故事会",
+    "venue": "南京奥林匹克博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南京奥林匹克博物馆官网"
+  },
+  {
+    "name": "青龙寺遗址博物馆小小讲解员培训",
+    "venue": "青龙寺遗址博物馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "重庆万盛经开区博物馆儿童手工课",
+    "venue": "重庆万盛经开区博物馆",
+    "city": "chongqing",
+    "district": "万盛区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-23",
+    "fee": "免费需预约",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "重庆万盛经开区博物馆官网"
+  },
+  {
     "title": "音乐赏析之苏运莹作品【下午场】",
     "name": "音乐赏析之苏运莹作品【下午场】",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -5042,6 +5114,78 @@ module.exports = [
     "source": "悦麓蘑菇乐园官网"
   },
   {
+    "name": "广都博物馆小小讲解员培训",
+    "venue": "广都博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-25",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广都博物馆官网"
+  },
+  {
+    "name": "南京奥林匹克博物馆小小讲解员培训",
+    "venue": "南京奥林匹克博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-25",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南京奥林匹克博物馆官网"
+  },
+  {
+    "name": "中科院水生生物博物馆文物故事会",
+    "venue": "中科院水生生物博物馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中科院水生生物博物馆官网"
+  },
+  {
+    "name": "青龙寺遗址博物馆亲子研学营",
+    "venue": "青龙寺遗址博物馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-22",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "青龙寺遗址博物馆官网"
+  },
+  {
     "title": "视障儿童夏令营南科大校园科普实验",
     "name": "视障儿童夏令营南科大校园科普实验",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -5707,6 +5851,24 @@ module.exports = [
     ],
     "is_family_friendly": true,
     "source": "钓鱼嘴公园原木亲子乐园官网"
+  },
+  {
+    "name": "江苏科技馆科普小课堂",
+    "venue": "江苏科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-25",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "江苏科技馆官网"
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -6401,6 +6563,42 @@ module.exports = [
     ],
     "is_family_friendly": true,
     "source": "钓鱼嘴公园原木亲子乐园官网"
+  },
+  {
+    "name": "四川省防灾减灾教育馆小小科学家工坊",
+    "venue": "四川省防灾减灾教育馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-23",
+    "end_date": "2026-07-24",
+    "fee": "免费需预约",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "四川省防灾减灾教育馆官网"
+  },
+  {
+    "name": "重庆自然资源科普馆儿童手工课",
+    "venue": "重庆自然资源科普馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-23",
+    "end_date": "2026-07-24",
+    "fee": "免费需预约",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "重庆自然资源科普馆官网"
   },
   {
     "title": "寻找智美更登",
@@ -7174,6 +7372,60 @@ module.exports = [
     ],
     "is_family_friendly": true,
     "source": "悦麓蘑菇乐园官网"
+  },
+  {
+    "name": "成都科幻馆儿童探索乐园",
+    "venue": "成都科幻馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-26",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "成都科幻馆官网"
+  },
+  {
+    "name": "江苏科技馆儿童探索乐园",
+    "venue": "江苏科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-26",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "江苏科技馆官网"
+  },
+  {
+    "name": "重庆自然资源科普馆博物馆奇妙夜",
+    "venue": "重庆自然资源科普馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-25",
+    "fee": "需购票",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "重庆自然资源科普馆官网"
   },
   {
     "title": "绘本半小时：《阿兔的小瓷碗》",
@@ -8254,6 +8506,60 @@ module.exports = [
     "source": "重庆市群众艺术馆官网"
   },
   {
+    "name": "中科院水生生物博物馆小小讲解员培训",
+    "venue": "中科院水生生物博物馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-02",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中科院水生生物博物馆官网"
+  },
+  {
+    "name": "青龙寺遗址博物馆博物馆奇妙夜",
+    "venue": "青龙寺遗址博物馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-27",
+    "fee": "需购票",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "重庆万盛经开区博物馆周末亲子导览",
+    "venue": "重庆万盛经开区博物馆",
+    "city": "chongqing",
+    "district": "万盛区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "重庆万盛经开区博物馆官网"
+  },
+  {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
     "name": "弦上云烟 · 沉浸式民乐聆赏会",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -8951,6 +9257,42 @@ module.exports = [
     "source": "重庆巴人博物馆官网"
   },
   {
+    "name": "广都博物馆周末亲子导览",
+    "venue": "广都博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-27",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广都博物馆官网"
+  },
+  {
+    "name": "南京奥林匹克博物馆周末亲子导览",
+    "venue": "南京奥林匹克博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南京奥林匹克博物馆官网"
+  },
+  {
     "title": "美丽星期天——民乐鉴赏",
     "name": "美丽星期天——民乐鉴赏",
     "venue": "深圳音乐厅",
@@ -9566,6 +9908,60 @@ module.exports = [
     ],
     "is_family_friendly": true,
     "source": "重庆巴人博物馆官网"
+  },
+  {
+    "name": "成都科幻馆儿童探索乐园",
+    "venue": "成都科幻馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "成都科幻馆官网"
+  },
+  {
+    "name": "南京奥林匹克博物馆亲子研学营",
+    "venue": "南京奥林匹克博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-28",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南京奥林匹克博物馆官网"
+  },
+  {
+    "name": "南京奥林匹克博物馆博物馆奇妙夜",
+    "venue": "南京奥林匹克博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-30",
+    "fee": "需购票",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南京奥林匹克博物馆官网"
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -10325,6 +10721,60 @@ module.exports = [
     "source": "重庆市群众艺术馆官网"
   },
   {
+    "name": "江苏科技馆科普小课堂",
+    "venue": "江苏科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-30",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "江苏科技馆官网"
+  },
+  {
+    "name": "中科院水生生物博物馆儿童手工课",
+    "venue": "中科院水生生物博物馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "fee": "免费需预约",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中科院水生生物博物馆官网"
+  },
+  {
+    "name": "重庆万盛经开区博物馆儿童手工课",
+    "venue": "重庆万盛经开区博物馆",
+    "city": "chongqing",
+    "district": "万盛区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "fee": "免费需预约",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "重庆万盛经开区博物馆官网"
+  },
+  {
     "title": "音乐赏析之费玉清作品【下午场】",
     "name": "音乐赏析之费玉清作品【下午场】",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -10937,6 +11387,42 @@ module.exports = [
     ],
     "is_family_friendly": true,
     "source": "西安市群众艺术馆官网"
+  },
+  {
+    "name": "江苏科技馆儿童探索乐园",
+    "venue": "江苏科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "江苏科技馆官网"
+  },
+  {
+    "name": "青龙寺遗址博物馆亲子研学营",
+    "venue": "青龙寺遗址博物馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "青龙寺遗址博物馆官网"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -11925,6 +12411,78 @@ module.exports = [
     "source": "西安市群众艺术馆官网"
   },
   {
+    "name": "四川省防灾减灾教育馆机器人编程体验",
+    "venue": "四川省防灾减灾教育馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-07",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "四川省防灾减灾教育馆官网"
+  },
+  {
+    "name": "广都博物馆博物馆奇妙夜",
+    "venue": "广都博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "fee": "需购票",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广都博物馆官网"
+  },
+  {
+    "name": "中科院水生生物博物馆小小讲解员培训",
+    "venue": "中科院水生生物博物馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-06",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中科院水生生物博物馆官网"
+  },
+  {
+    "name": "重庆万盛经开区博物馆博物馆奇妙夜",
+    "venue": "重庆万盛经开区博物馆",
+    "city": "chongqing",
+    "district": "万盛区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-01",
+    "fee": "需购票",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "重庆万盛经开区博物馆官网"
+  },
+  {
     "title": "胭脂扣",
     "name": "胭脂扣",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -12794,6 +13352,42 @@ module.exports = [
     "source": "重庆巴人博物馆官网"
   },
   {
+    "name": "四川省防灾减灾教育馆安全科普体验",
+    "venue": "四川省防灾减灾教育馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "四川省防灾减灾教育馆官网"
+  },
+  {
+    "name": "青龙寺遗址博物馆小小讲解员培训",
+    "venue": "青龙寺遗址博物馆",
+    "city": "xian",
+    "district": "雁塔区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-07",
+    "fee": "免费需预约",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "免费公益",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "青龙寺遗址博物馆官网"
+  },
+  {
     "title": "悦讲：奇境世界变形记",
     "name": "悦讲：奇境世界变形记",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -13076,578 +13670,5 @@ module.exports = [
     ],
     "is_family_friendly": true,
     "source": "北京天文馆官网"
-  },
-  {
-    "name": "北京天文馆航空航天日",
-    "venue": "北京天文馆",
-    "city": "beijing",
-    "district": "西城区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每月第一周周六，宇航模拟体验。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "北京天文馆官网"
-  },
-  {
-    "name": "国家图书馆亲子绘本阅读会",
-    "venue": "国家图书馆",
-    "city": "beijing",
-    "district": "海淀区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六上午10:00，精选绘本共读。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "国家图书馆官网"
-  },
-  {
-    "name": "杭州科技馆科普小课堂",
-    "venue": "杭州科技馆",
-    "city": "hangzhou",
-    "district": "下城区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "讲座",
-    "description": "每周日下午3:00，主题科普讲座。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "杭州科技馆官网"
-  },
-  {
-    "name": "杭州图书馆亲子手工读书会",
-    "venue": "杭州图书馆",
-    "city": "hangzhou",
-    "district": "江干区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每月第一周周六，阅读+手工结合。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "杭州图书馆官网"
-  },
-  {
-    "name": "中国国家科技馆科学实验秀",
-    "venue": "中国国家科技馆",
-    "city": "beijing",
-    "district": "朝阳区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-03",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六日上午10:30，精彩科学实验演示。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "中国国家科技馆官网"
-  },
-  {
-    "name": "北京电影博物馆周末亲子导览",
-    "venue": "北京电影博物馆",
-    "city": "beijing",
-    "district": "朝阳区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "北京电影博物馆官网"
-  },
-  {
-    "name": "北京电影博物馆儿童手工课",
-    "venue": "北京电影博物馆",
-    "city": "beijing",
-    "district": "朝阳区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六下午2:00，手工制作活动。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "北京电影博物馆官网"
-  },
-  {
-    "name": "北京电影博物馆亲子研学营",
-    "venue": "北京电影博物馆",
-    "city": "beijing",
-    "district": "朝阳区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "研学",
-    "description": "每月第二周周日，全天沉浸式研学。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "北京电影博物馆官网"
-  },
-  {
-    "name": "北京青少年宫亲子运动日",
-    "venue": "北京青少年宫",
-    "city": "beijing",
-    "district": "东城区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每月第一周周六，家庭趣味运动会。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "北京青少年宫官网"
-  },
-  {
-    "name": "广州起义纪念馆儿童手工课",
-    "venue": "广州起义纪念馆",
-    "city": "guangzhou",
-    "district": "越秀区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六下午2:00，手工制作活动。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "广州起义纪念馆官网"
-  },
-  {
-    "name": "北京颐和园亲子游园会",
-    "venue": "北京颐和园",
-    "city": "beijing",
-    "district": "海淀区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-03",
-    "fee": "收费",
-    "type": "体验",
-    "description": "每周六日，家庭游园活动，户外游戏。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "北京颐和园官网"
-  },
-  {
-    "name": "广州越秀公园亲子野餐日",
-    "venue": "广州越秀公园",
-    "city": "guangzhou",
-    "district": "越秀区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周日下午2:00，户外野餐，享受自然。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "广州越秀公园官网"
-  },
-  {
-    "name": "广州越秀公园小小探险家",
-    "venue": "广州越秀公园",
-    "city": "guangzhou",
-    "district": "越秀区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每月第一周周六，户外探索活动。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "广州越秀公园官网"
-  },
-  {
-    "name": "广州天河公园自然科普导览",
-    "venue": "广州天河公园",
-    "city": "guangzhou",
-    "district": "天河区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六上午10:00，专业讲解员讲解动植物知识。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "广州天河公园官网"
-  },
-  {
-    "name": "广州广东省立中山图书馆故事剧场",
-    "venue": "广州广东省立中山图书馆",
-    "city": "guangzhou",
-    "district": "越秀区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六下午2:00，绘本故事表演。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "广州广东省立中山图书馆官网"
-  },
-  {
-    "name": "西安兵马俑文化导览",
-    "venue": "西安兵马俑",
-    "city": "xian",
-    "district": "临潼区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "收费",
-    "type": "体验",
-    "description": "每周六上午10:00，专业讲解员介绍历史文化。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "西安兵马俑官网"
-  },
-  {
-    "name": "广州陈家祠周末亲子导览",
-    "venue": "广州陈家祠",
-    "city": "guangzhou",
-    "district": "荔湾区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-03",
-    "fee": "收费",
-    "type": "体验",
-    "description": "每周六日上午10:00，专业讲解员带领参观。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "广州陈家祠官网"
-  },
-  {
-    "name": "宝安城市规划展览馆周末亲子导览",
-    "venue": "宝安城市规划展览馆",
-    "city": "shenzhen",
-    "district": "宝安区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "专业讲解员带领参观。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "宝安城市规划展览馆官网"
-  },
-  {
-    "name": "光明区科技馆科学实验秀",
-    "venue": "光明区科技馆",
-    "city": "shenzhen",
-    "district": "光明区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "精彩科学实验演示。",
-    "highlights": [
-      "亲子友好",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "光明区科技馆官网"
-  },
-  {
-    "name": "成都市文化馆新馆传统文化节",
-    "venue": "成都市文化馆新馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-03",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每月第三周周六，传统节日主题活动。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "成都市文化馆新馆官网"
-  },
-  {
-    "name": "天府艺术公园·成都市美术馆少儿绘画课",
-    "venue": "天府艺术公园·成都市美术馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-05",
-    "fee": "免费需预约",
-    "type": "培训",
-    "description": "每周六下午2:00，专业老师指导绘画。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "天府艺术公园·成都市美术馆官网"
-  },
-  {
-    "name": "天府艺术公园·成都市美术馆亲子艺术工坊",
-    "venue": "天府艺术公园·成都市美术馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周日下午3:00，亲子共同创作。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "天府艺术公园·成都市美术馆官网"
-  },
-  {
-    "name": "天府艺术公园·成都市美术馆户外写生活动",
-    "venue": "天府艺术公园·成都市美术馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每月第二周周日，户外写生创作。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "天府艺术公园·成都市美术馆官网"
-  },
-  {
-    "name": "中山植物园自然科普导览",
-    "venue": "中山植物园",
-    "city": "nanjing",
-    "district": "玄武区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六上午10:00，专业讲解员讲解动植物知识。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "中山植物园官网"
-  },
-  {
-    "name": "东湖绿道森林科普驿站自然科普导览",
-    "venue": "东湖绿道森林科普驿站",
-    "city": "wuhan",
-    "district": "武昌区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六上午10:00，专业讲解员讲解动植物知识。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "东湖绿道森林科普驿站官网"
-  },
-  {
-    "name": "西安城市规划展览馆秦汉分馆文物故事会",
-    "venue": "西安城市规划展览馆秦汉分馆",
-    "city": "xian",
-    "district": "西咸新区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-04",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周日下午3:00，以文物为主题的故事分享会。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "西安城市规划展览馆秦汉分馆官网"
-  },
-  {
-    "name": "重庆工业博物馆亲子研学营",
-    "venue": "重庆工业博物馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-04",
-    "fee": "免费",
-    "type": "研学",
-    "description": "每月第二周周日，全天沉浸式研学体验。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "重庆工业博物馆官网"
-  },
-  {
-    "name": "重庆巴人博物馆周末亲子导览",
-    "venue": "重庆巴人博物馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-03",
-    "fee": "免费",
-    "type": "体验",
-    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "重庆巴人博物馆官网"
-  },
-  {
-    "name": "重庆巴人博物馆儿童手工课",
-    "venue": "重庆巴人博物馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-04",
-    "fee": "免费需预约",
-    "type": "体验",
-    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "重庆巴人博物馆官网"
-  },
-  {
-    "title": "小博士百科知识挑战擂台赛",
-    "name": "小博士百科知识挑战擂台赛",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-02",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655872&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655872&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "夏日科幻季——《沙丘》",
-    "name": "夏日科幻季——《沙丘》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-02",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655672&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655672&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "title": "悦讲：《爱丽丝漫游奇境》创意读写",
-    "name": "悦讲：《爱丽丝漫游奇境》创意读写",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-02",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656204&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656204&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约\n备注：参与活动建议提前阅读本书",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib"
-  },
-  {
-    "name": "四川科技馆儿童探索乐园",
-    "venue": "四川科技馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-08",
-    "fee": "免费",
-    "type": "体验",
-    "description": "四川科技馆专为低龄儿童设计的探索乐园，趣味互动游戏，寓教于乐。",
-    "highlights": [
-      "亲子友好",
-      "免费公益",
-      "官方活动"
-    ],
-    "is_family_friendly": true,
-    "source": "四川科技馆官网"
   }
 ];
