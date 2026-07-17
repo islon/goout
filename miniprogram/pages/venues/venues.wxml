@@ -28,7 +28,7 @@
   <!-- 统计条 -->
   <view class="stats-bar">
     <text>共 {{venues.length}} 个场馆</text>
-    <text wx:if="{{cityFilter !== 'all'}}" class="stats-city">· {{cityFilter === 'shenzhen' ? '深圳' : cityFilter === 'guangzhou' ? '广州' : cityFilter === 'shanghai' ? '上海' : cityFilter === 'beijing' ? '北京' : cityFilter === 'hangzhou' ? '杭州' : cityFilter === 'chengdu' ? '成都' : cityFilter === 'nanjing' ? '南京' : cityFilter === 'wuhan' ? '武汉' : cityFilter === 'xian' ? '西安' : cityFilter === 'chongqing' ? '重庆' : cityFilter}}</text>
+    <text wx:if="{{cityFilter !== 'all'}}" class="stats-city">· {{cityNameMap[cityFilter] || cityFilter}}</text>
   </view>
 
   <!-- 场馆列表 -->

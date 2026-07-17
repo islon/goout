@@ -49,8 +49,11 @@ Page({
       const duration = getDuration(startDate, endDate);
       const activityType = getActivityType(activity);
       const feeType = getFeeType(activity);
-      const venueAddress = venueAddressMap[activity.source] || '';
+      // 优先用 venue_info.json 的地址（数据驱动），venueAddressMap 仅作兜底
       const venue = findVenue(activity.venue, app.globalData.venueMap || {});
+      const venueAddress = (venue && venue.address && venue.address !== '待补充')
+        ? venue.address
+        : (venueAddressMap[activity.source] || '');
 
       self.setData({
         activity: activity,

@@ -2760,18 +2760,28 @@
                 try {
                     allExhibitions = JSON.parse(cachedData);
                     allExhibitions.forEach(e => e.city = normalizeCity(e.city));
-                    initFilters();
-                    renderExhibitions();
-                    console.log('使用缓存数据，版本:', cachedVersion);
+
+                    // 检查缓存是否包含 cities.json 中的所有城市
+                    // 缺失说明缓存是旧数据（新增城市前），跳过缓存渲染避免显示"无活动"
+                    const cachedCitySet = new Set(allExhibitions.map(e => e.city));
+                    const hasAllCities = cities.every(c => cachedCitySet.has(c.key));
+
+                    if (hasAllCities) {
+                        initFilters();
+                        renderExhibitions();
+                        console.log('使用缓存数据，版本:', cachedVersion);
+                    } else {
+                        console.log('缓存缺失部分城市，跳过缓存渲染，直接刷新');
+                    }
                 } catch (e) {
                     console.error('缓存数据解析失败:', e);
                     fetchAndCache(cities);
                     return;
                 }
             }
-            
+
             fetchAndCache(cities);
-            
+
             async function fetchAndCache(cities) {
                 const cityKeys = cities.map(c => c.key);
                 let allData = [];
@@ -2798,7 +2808,10 @@
                 }
 
                 if (anySuccess) {
-                    if (latestVersion !== cachedVersion || !cachedData) {
+                    // 版本变化 或 缓存缺失城市 时更新渲染，确保新增城市数据一定能加载
+                    const oldCitySet = new Set(allExhibitions.map(e => e.city));
+                    const hasNewCity = cityKeys.some(c => !oldCitySet.has(c));
+                    if (latestVersion !== cachedVersion || !cachedData || hasNewCity) {
                         try {
                             localStorage.setItem(cacheKey, JSON.stringify(allData));
                             localStorage.setItem(versionKey, latestVersion);

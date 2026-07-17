@@ -31,7 +31,18 @@ if python3 -c "import json; json.load(open('output/exhibitions.json'))" 2>/dev/n
     else
         echo "⚠️  同步脚本不存在，跳过小程序数据"
     fi
-    
+
+    # 3.5 生成各城市 ICS 订阅文件
+    if [ -f "scripts/generate_city_ics.py" ]; then
+        echo ""
+        python3 scripts/generate_city_ics.py
+    fi
+
+    # 3.6 生成网页/小程序统一城市清单 cities.json（必须与 GitHub Actions 步骤一致）
+    if [ -f "scripts/generate_cities_manifest.js" ]; then
+        node scripts/generate_cities_manifest.js
+    fi
+
     # 4. 提交并推送（网页数据 + 小程序打包数据）
     #    注意：网页版只读 output/exhibitions_{城市}.json 分城市文件，必须整体提交 output/，
     #    否则只提交主文件会导致网页刷新不到最新数据

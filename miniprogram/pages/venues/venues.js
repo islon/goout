@@ -25,6 +25,7 @@ Page({
     types: [],
     venues: [],
     activityCounts: {},
+    cityNameMap: cityNameMap,
     loading: true
   },
 

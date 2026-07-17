@@ -1062,9 +1062,9 @@
                         const endDate = exhibition.end_date;
                         const dateDisplay = startDate === endDate ? startDate : `${startDate} ~ ${endDate}`;
 
-                        const isFree = exhibition.venue.includes('图书馆') || exhibition.venue.includes('科技馆') || exhibition.venue.includes('湾区之眼');
-                        const feeBadge = isFree ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' :
-                                         exhibition.venue.includes('会展中心') || exhibition.venue.includes('体育') ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
+                        const fee = exhibition.fee || '';
+                        const feeBadge = fee.includes('免费') ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' :
+                                         (fee.includes('收费') || fee.includes('购票')) ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
 
                         // 场馆信息
                         const vinfo = scheduleVenueInfo ? (scheduleVenueInfo[exhibition.source] || scheduleVenueInfo[exhibition.venue]) : null;

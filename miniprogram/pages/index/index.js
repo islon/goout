@@ -145,6 +145,7 @@ Page({
   // 更新区县和场馆列表
   updateDistrictsAndVenues() {
     const city = this.data.cityFilter;
+    const district = this.data.districtFilter;
     let allVenues = venuesByCity[city] || [];
     if (!allVenues.length) {
       // 新城市未配置 venuesByCity 时，从数据动态汇总去重 source，
@@ -157,6 +158,27 @@ Page({
       });
       allVenues = [{ key: 'all', name: '全部地点' }].concat(Object.keys(seen).map(function(k) { return seen[k]; }));
     }
+
+    // 选择区县后，按区县过滤场馆列表，只显示该区县的场馆
+    if (district && district !== 'all') {
+      const districtVenues = {};
+      // 从场馆信息中按 city + district 提取
+      (app.globalData.venues || []).forEach(function(v) {
+        if (v.city === city && v.district === district && v.source) {
+          districtVenues[v.source] = v.name || v.source;
+        }
+      });
+      // 从活动数据中补充该区县的场馆
+      (app.globalData.exhibitions || []).forEach(function(e) {
+        if ((e._cityKey || normalizeCity(e.city)) === city && e.district === district && e.source) {
+          if (!districtVenues[e.source]) districtVenues[e.source] = e.venue || e.source;
+        }
+      });
+      allVenues = [{ key: 'all', name: '全部地点' }].concat(
+        Object.keys(districtVenues).map(function(k) { return { key: k, name: districtVenues[k] }; })
+      );
+    }
+
     const displayVenues = this.data.showAllSources
       ? allVenues
       : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
@@ -318,6 +340,7 @@ Page({
     const district = name === '全部区县' ? 'all' : name;
     if (district === this.data.districtFilter) return;
     this.setData({ districtFilter: district, sourceFilter: 'all', currentPage: 1 });
+    this.updateDistrictsAndVenues();
     this.saveFilters();
     this.loadData();
   },

@@ -26,7 +26,7 @@ Page({
     };
     let content = '';
     if (target) {
-      content = '反馈对象：' + target + '\\n';
+      content = '反馈对象：' + target + '\n';
     }
     this.setData({
       category: categoryMap[type] || 'other',
@@ -45,12 +45,12 @@ Page({
 
   buildFeedbackText() {
     const categoryName = this.getCategoryName(this.data.category);
-    let text = '【反馈类型】' + categoryName + '\\n';
+    let text = '【反馈类型】' + categoryName + '\n';
     if (this.data.target) {
-      text += '【反馈对象】' + this.data.target + '\\n';
+      text += '【反馈对象】' + this.data.target + '\n';
     }
-    text += '【反馈内容】\\n' + (this.data.content || '（未填写）') + '\\n';
-    text += '【来自】童行小程序\\n';
+    text += '【反馈内容】\n' + (this.data.content || '（未填写）') + '\n';
+    text += '【来自】童行小程序\n';
     return text;
   },
 

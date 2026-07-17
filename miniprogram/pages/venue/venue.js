@@ -1,19 +1,11 @@
 // 童行小程序 - 场馆详情页
 const { findVenue, formatDate } = require('../../utils/helpers.js');
+const { cities } = require('../../data/filters.js');
 const app = getApp();
 
-const cityNames = {
-  shenzhen: '深圳',
-  guangzhou: '广州',
-  shanghai: '上海',
-  beijing: '北京',
-  hangzhou: '杭州',
-  chengdu: '成都',
-  nanjing: '南京',
-  wuhan: '武汉',
-  xian: '西安',
-  chongqing: '重庆'
-};
+// 城市名映射从 filters.cities 派生，新增城市自动生效
+const cityNames = {};
+cities.forEach(function(c) { cityNames[c.key] = c.name; });
 
 Page({
   data: {
