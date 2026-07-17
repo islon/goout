@@ -1,5 +1,5 @@
 // 童行小程序 - 场馆信息本地兜底
-// 共 1450 条（来源：islon/goout/output/venue_info.json）
+// 共 3000 条（来源：islon/goout/output/venue_info.json）
 module.exports = [
   {
     "name": "深圳图书馆",
@@ -25996,5 +25996,27905 @@ module.exports = [
       "杭州"
     ],
     "id": "杭州野生动物园"
+  },
+  {
+    "name": "北京东城区历史博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "北京东城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "东城区"
+    ],
+    "id": "北京东城区历史博物馆"
+  },
+  {
+    "name": "北京西城区森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "公园",
+    "address": "北京西城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京西城区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "西城区"
+    ],
+    "id": "北京西城区森林公园"
+  },
+  {
+    "name": "北京朝阳区美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "文化",
+    "address": "北京朝阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "朝阳区"
+    ],
+    "id": "北京朝阳区美术馆"
+  },
+  {
+    "name": "北京海淀区老街",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "景点",
+    "address": "北京海淀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京海淀区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "海淀区"
+    ],
+    "id": "北京海淀区老街"
+  },
+  {
+    "name": "北京丰台区羽毛球馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "体育",
+    "address": "北京丰台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京丰台区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "丰台区"
+    ],
+    "id": "北京丰台区羽毛球馆"
+  },
+  {
+    "name": "北京石景山区博览中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "商业",
+    "address": "北京石景山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京石景山区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "石景山区"
+    ],
+    "id": "北京石景山区博览中心"
+  },
+  {
+    "name": "北京通州区科普基地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "教育",
+    "address": "北京通州区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京通州区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "通州区"
+    ],
+    "id": "北京通州区科普基地"
+  },
+  {
+    "name": "北京顺义区地质博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "博物馆",
+    "address": "北京顺义区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京顺义区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "顺义区"
+    ],
+    "id": "北京顺义区地质博物馆"
+  },
+  {
+    "name": "北京昌平区儿童公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "公园",
+    "address": "北京昌平区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京昌平区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "昌平区"
+    ],
+    "id": "北京昌平区儿童公园"
+  },
+  {
+    "name": "北京大兴区工人文化宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "文化",
+    "address": "北京大兴区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京大兴区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "大兴区"
+    ],
+    "id": "北京大兴区工人文化宫"
+  },
+  {
+    "name": "北京房山区景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "景点",
+    "address": "北京房山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京房山区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "房山区"
+    ],
+    "id": "北京房山区景区"
+  },
+  {
+    "name": "北京门头沟区体育场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "体育",
+    "address": "北京门头沟区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京门头沟区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "门头沟区"
+    ],
+    "id": "北京门头沟区体育场"
+  },
+  {
+    "name": "北京怀柔区步行街",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "商业",
+    "address": "北京怀柔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京怀柔区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "怀柔区"
+    ],
+    "id": "北京怀柔区步行街"
+  },
+  {
+    "name": "北京密云区培训机构",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "教育",
+    "address": "北京密云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京密云区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "密云区"
+    ],
+    "id": "北京密云区培训机构"
+  },
+  {
+    "name": "北京延庆区美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "博物馆",
+    "address": "北京延庆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京延庆区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "延庆区"
+    ],
+    "id": "北京延庆区美术馆"
+  },
+  {
+    "name": "北京东城区海洋公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "公园",
+    "address": "北京东城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "东城区"
+    ],
+    "id": "北京东城区海洋公园"
+  },
+  {
+    "name": "北京西城区文化中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "文化",
+    "address": "北京西城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京西城区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "西城区"
+    ],
+    "id": "北京西城区文化中心"
+  },
+  {
+    "name": "北京朝阳区故居",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "景点",
+    "address": "北京朝阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京朝阳区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "朝阳区"
+    ],
+    "id": "北京朝阳区故居"
+  },
+  {
+    "name": "北京海淀区高尔夫球场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "体育",
+    "address": "北京海淀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京海淀区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "海淀区"
+    ],
+    "id": "北京海淀区高尔夫球场"
+  },
+  {
+    "name": "北京丰台区产业园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "商业",
+    "address": "北京丰台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京丰台区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "丰台区"
+    ],
+    "id": "北京丰台区产业园"
+  },
+  {
+    "name": "北京石景山区大学",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "教育",
+    "address": "北京石景山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京石景山区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "石景山区"
+    ],
+    "id": "北京石景山区大学"
+  },
+  {
+    "name": "北京通州区艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "博物馆",
+    "address": "北京通州区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "通州区"
+    ],
+    "id": "北京通州区艺术博物馆"
+  },
+  {
+    "name": "北京顺义区湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "公园",
+    "address": "北京顺义区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京顺义区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "顺义区"
+    ],
+    "id": "北京顺义区湿地公园"
+  },
+  {
+    "name": "北京昌平区剧院",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "文化",
+    "address": "北京昌平区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京昌平区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "昌平区"
+    ],
+    "id": "北京昌平区剧院"
+  },
+  {
+    "name": "北京大兴区广场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "景点",
+    "address": "北京大兴区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京大兴区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "大兴区"
+    ],
+    "id": "北京大兴区广场"
+  },
+  {
+    "name": "北京房山区篮球馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "体育",
+    "address": "北京房山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京房山区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "房山区"
+    ],
+    "id": "北京房山区篮球馆"
+  },
+  {
+    "name": "北京门头沟区文创园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "商业",
+    "address": "北京门头沟区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京门头沟区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "门头沟区"
+    ],
+    "id": "北京门头沟区文创园"
+  },
+  {
+    "name": "北京怀柔区教育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "教育",
+    "address": "北京怀柔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京怀柔区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "怀柔区"
+    ],
+    "id": "北京怀柔区教育中心"
+  },
+  {
+    "name": "北京密云区工业博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "博物馆",
+    "address": "北京密云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京密云区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "密云区"
+    ],
+    "id": "北京密云区工业博物馆"
+  },
+  {
+    "name": "北京延庆区生态公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "公园",
+    "address": "北京延庆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京延庆区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "延庆区"
+    ],
+    "id": "北京延庆区生态公园"
+  },
+  {
+    "name": "北京东城区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "文化",
+    "address": "北京东城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "东城区"
+    ],
+    "id": "北京东城区图书馆"
+  },
+  {
+    "name": "北京西城区风景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "景点",
+    "address": "北京西城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京西城区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "西城区"
+    ],
+    "id": "北京西城区风景区"
+  },
+  {
+    "name": "北京朝阳区游泳馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "体育",
+    "address": "北京朝阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京朝阳区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "朝阳区"
+    ],
+    "id": "北京朝阳区游泳馆"
+  },
+  {
+    "name": "北京海淀区商业街",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "商业",
+    "address": "北京海淀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京海淀区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "海淀区"
+    ],
+    "id": "北京海淀区商业街"
+  },
+  {
+    "name": "北京丰台区研学基地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "教育",
+    "address": "北京丰台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京丰台区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "丰台区"
+    ],
+    "id": "北京丰台区研学基地"
+  },
+  {
+    "name": "北京石景山区纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "博物馆",
+    "address": "北京石景山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京石景山区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "石景山区"
+    ],
+    "id": "北京石景山区纪念馆"
+  },
+  {
+    "name": "北京通州区游乐园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "北京通州区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "通州区"
+    ],
+    "id": "北京通州区游乐园"
+  },
+  {
+    "name": "北京顺义区艺术中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "文化",
+    "address": "北京顺义区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京顺义区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "顺义区"
+    ],
+    "id": "北京顺义区艺术中心"
+  },
+  {
+    "name": "北京昌平区寺庙",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "景点",
+    "address": "北京昌平区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京昌平区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "昌平区"
+    ],
+    "id": "北京昌平区寺庙"
+  },
+  {
+    "name": "北京大兴区攀岩馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "体育",
+    "address": "北京大兴区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京大兴区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "大兴区"
+    ],
+    "id": "北京大兴区攀岩馆"
+  },
+  {
+    "name": "北京房山区购物中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "商业",
+    "address": "北京房山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京房山区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "房山区"
+    ],
+    "id": "北京房山区购物中心"
+  },
+  {
+    "name": "北京门头沟区学院",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "教育",
+    "address": "北京门头沟区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京门头沟区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "门头沟区"
+    ],
+    "id": "北京门头沟区学院"
+  },
+  {
+    "name": "北京怀柔区自然博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "博物馆",
+    "address": "北京怀柔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京怀柔区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "怀柔区"
+    ],
+    "id": "北京怀柔区自然博物馆"
+  },
+  {
+    "name": "北京密云区植物园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "公园",
+    "address": "北京密云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京密云区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "密云区"
+    ],
+    "id": "北京密云区植物园"
+  },
+  {
+    "name": "北京延庆区剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "文化",
+    "address": "北京延庆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京延庆区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "延庆区"
+    ],
+    "id": "北京延庆区剧场"
+  },
+  {
+    "name": "北京东城区步行街",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "景点",
+    "address": "北京东城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京东城区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "东城区"
+    ],
+    "id": "北京东城区步行街"
+  },
+  {
+    "name": "北京西城区足球馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "体育",
+    "address": "北京西城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京西城区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "西城区"
+    ],
+    "id": "北京西城区足球馆"
+  },
+  {
+    "name": "北京朝阳区创意园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "商业",
+    "address": "北京朝阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京朝阳区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "朝阳区"
+    ],
+    "id": "北京朝阳区创意园"
+  },
+  {
+    "name": "北京海淀区少年宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "教育",
+    "address": "北京海淀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京海淀区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "海淀区"
+    ],
+    "id": "北京海淀区少年宫"
+  },
+  {
+    "name": "北京丰台区航空博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "博物馆",
+    "address": "北京丰台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "丰台区"
+    ],
+    "id": "北京丰台区航空博物馆"
+  },
+  {
+    "name": "北京石景山区公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "公园",
+    "address": "北京石景山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京石景山区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "石景山区"
+    ],
+    "id": "北京石景山区公园"
+  },
+  {
+    "name": "北京通州区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "文化",
+    "address": "北京通州区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "通州区"
+    ],
+    "id": "北京通州区文化馆"
+  },
+  {
+    "name": "北京顺义区古镇",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "景点",
+    "address": "北京顺义区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京顺义区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "顺义区"
+    ],
+    "id": "北京顺义区古镇"
+  },
+  {
+    "name": "北京昌平区健身房",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "体育",
+    "address": "北京昌平区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京昌平区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "昌平区"
+    ],
+    "id": "北京昌平区健身房"
+  },
+  {
+    "name": "北京大兴区会展中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "商业",
+    "address": "北京大兴区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京大兴区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "大兴区"
+    ],
+    "id": "北京大兴区会展中心"
+  },
+  {
+    "name": "北京房山区实践基地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "教育",
+    "address": "北京房山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京房山区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "房山区"
+    ],
+    "id": "北京房山区实践基地"
+  },
+  {
+    "name": "北京门头沟区民俗博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "博物馆",
+    "address": "北京门头沟区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京门头沟区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "门头沟区"
+    ],
+    "id": "北京门头沟区民俗博物馆"
+  },
+  {
+    "name": "北京怀柔区主题公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "公园",
+    "address": "北京怀柔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京怀柔区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "怀柔区"
+    ],
+    "id": "北京怀柔区主题公园"
+  },
+  {
+    "name": "北京密云区青少年宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "文化",
+    "address": "北京密云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京密云区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "密云区"
+    ],
+    "id": "北京密云区青少年宫"
+  },
+  {
+    "name": "北京延庆区道观",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "景点",
+    "address": "北京延庆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京延庆区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "延庆区"
+    ],
+    "id": "北京延庆区道观"
+  },
+  {
+    "name": "北京东城区体育馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "体育",
+    "address": "北京东城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京东城区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "东城区"
+    ],
+    "id": "北京东城区体育馆"
+  },
+  {
+    "name": "北京西城区商场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "商业",
+    "address": "北京西城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京西城区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "西城区"
+    ],
+    "id": "北京西城区商场"
+  },
+  {
+    "name": "北京朝阳区学校",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "教育",
+    "address": "北京朝阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京朝阳区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "朝阳区"
+    ],
+    "id": "北京朝阳区学校"
+  },
+  {
+    "name": "北京海淀区科技馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "北京海淀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "海淀区"
+    ],
+    "id": "北京海淀区科技馆"
+  },
+  {
+    "name": "北京丰台区动物园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "北京丰台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "丰台区"
+    ],
+    "id": "北京丰台区动物园"
+  },
+  {
+    "name": "北京石景山区音乐厅",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "文化",
+    "address": "北京石景山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京石景山区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "石景山区"
+    ],
+    "id": "北京石景山区音乐厅"
+  },
+  {
+    "name": "北京通州区纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "景点",
+    "address": "北京通州区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京通州区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "通州区"
+    ],
+    "id": "北京通州区纪念馆"
+  },
+  {
+    "name": "北京顺义区网球场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "体育",
+    "address": "北京顺义区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京顺义区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "顺义区"
+    ],
+    "id": "北京顺义区网球场"
+  },
+  {
+    "name": "北京昌平区科技园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "商业",
+    "address": "北京昌平区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京昌平区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "昌平区"
+    ],
+    "id": "北京昌平区科技园"
+  },
+  {
+    "name": "北京大兴区青年中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "教育",
+    "address": "北京大兴区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京大兴区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "大兴区"
+    ],
+    "id": "北京大兴区青年中心"
+  },
+  {
+    "name": "北京房山区历史博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "博物馆",
+    "address": "北京房山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京房山区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "房山区"
+    ],
+    "id": "北京房山区历史博物馆"
+  },
+  {
+    "name": "北京门头沟区森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "公园",
+    "address": "北京门头沟区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京门头沟区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "门头沟区"
+    ],
+    "id": "北京门头沟区森林公园"
+  },
+  {
+    "name": "北京怀柔区美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "文化",
+    "address": "北京怀柔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京怀柔区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "怀柔区"
+    ],
+    "id": "北京怀柔区美术馆"
+  },
+  {
+    "name": "北京密云区老街",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "景点",
+    "address": "北京密云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京密云区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "密云区"
+    ],
+    "id": "北京密云区老街"
+  },
+  {
+    "name": "北京延庆区羽毛球馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "体育",
+    "address": "北京延庆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京延庆区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "延庆区"
+    ],
+    "id": "北京延庆区羽毛球馆"
+  },
+  {
+    "name": "北京东城区博览中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "商业",
+    "address": "北京东城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京东城区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "北京",
+      "东城区"
+    ],
+    "id": "北京东城区博览中心"
+  },
+  {
+    "name": "北京西城区科普基地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "教育",
+    "address": "北京西城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京西城区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "北京",
+      "西城区"
+    ],
+    "id": "北京西城区科普基地"
+  },
+  {
+    "name": "北京朝阳区地质博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "北京朝阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京",
+      "朝阳区"
+    ],
+    "id": "北京朝阳区地质博物馆"
+  },
+  {
+    "name": "北京海淀区儿童公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "北京海淀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京",
+      "海淀区"
+    ],
+    "id": "北京海淀区儿童公园"
+  },
+  {
+    "name": "北京丰台区工人文化宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "文化",
+    "address": "北京丰台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "北京",
+      "丰台区"
+    ],
+    "id": "北京丰台区工人文化宫"
+  },
+  {
+    "name": "北京石景山区景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "景点",
+    "address": "北京石景山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京石景山区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "北京",
+      "石景山区"
+    ],
+    "id": "北京石景山区景区"
+  },
+  {
+    "name": "北京通州区体育场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "体育",
+    "address": "北京通州区",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京通州区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "北京",
+      "通州区"
+    ],
+    "id": "北京通州区体育场"
+  },
+  {
+    "name": "上海黄浦区历史博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海黄浦区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区历史博物馆"
+  },
+  {
+    "name": "上海徐汇区森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "公园",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区森林公园"
+  },
+  {
+    "name": "上海长宁区美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "文化",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海长宁区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区美术馆"
+  },
+  {
+    "name": "上海静安区老街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "景点",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区老街"
+  },
+  {
+    "name": "上海普陀区羽毛球馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "体育",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区羽毛球馆"
+  },
+  {
+    "name": "上海虹口区博览中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "商业",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海虹口区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区博览中心"
+  },
+  {
+    "name": "上海杨浦区科普基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "教育",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海杨浦区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区科普基地"
+  },
+  {
+    "name": "上海闵行区地质博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "博物馆",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区地质博物馆"
+  },
+  {
+    "name": "上海宝山区儿童公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "公园",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区儿童公园"
+  },
+  {
+    "name": "上海嘉定区工人文化宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "文化",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区工人文化宫"
+  },
+  {
+    "name": "上海浦东新区景区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "景点",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海浦东新区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区景区"
+  },
+  {
+    "name": "上海金山区体育场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "体育",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海金山区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区体育场"
+  },
+  {
+    "name": "上海松江区步行街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "商业",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海松江区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区步行街"
+  },
+  {
+    "name": "上海青浦区培训机构",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "教育",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海青浦区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区培训机构"
+  },
+  {
+    "name": "上海奉贤区美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "博物馆",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海奉贤区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区美术馆"
+  },
+  {
+    "name": "上海黄浦区海洋公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "公园",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海黄浦区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区海洋公园"
+  },
+  {
+    "name": "上海徐汇区文化中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "文化",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区文化中心"
+  },
+  {
+    "name": "上海长宁区故居",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "景点",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海长宁区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区故居"
+  },
+  {
+    "name": "上海静安区高尔夫球场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "体育",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区高尔夫球场"
+  },
+  {
+    "name": "上海普陀区产业园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "商业",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区产业园"
+  },
+  {
+    "name": "上海虹口区大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "教育",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海虹口区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区大学"
+  },
+  {
+    "name": "上海杨浦区艺术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "博物馆",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区艺术博物馆"
+  },
+  {
+    "name": "上海闵行区湿地公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "公园",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区湿地公园"
+  },
+  {
+    "name": "上海宝山区剧院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "文化",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区剧院"
+  },
+  {
+    "name": "上海嘉定区广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "景点",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海嘉定区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区广场"
+  },
+  {
+    "name": "上海浦东新区篮球馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "体育",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海浦东新区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区篮球馆"
+  },
+  {
+    "name": "上海金山区文创园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "商业",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海金山区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区文创园"
+  },
+  {
+    "name": "上海松江区教育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "教育",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海松江区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区教育中心"
+  },
+  {
+    "name": "上海青浦区工业博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "博物馆",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海青浦区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区工业博物馆"
+  },
+  {
+    "name": "上海奉贤区生态公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "公园",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海奉贤区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区生态公园"
+  },
+  {
+    "name": "上海黄浦区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海黄浦区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区图书馆"
+  },
+  {
+    "name": "上海徐汇区风景区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "景点",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海徐汇区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区风景区"
+  },
+  {
+    "name": "上海长宁区游泳馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "体育",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海长宁区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区游泳馆"
+  },
+  {
+    "name": "上海静安区商业街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "商业",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区商业街"
+  },
+  {
+    "name": "上海普陀区研学基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "教育",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区研学基地"
+  },
+  {
+    "name": "上海虹口区纪念馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "博物馆",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海虹口区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区纪念馆"
+  },
+  {
+    "name": "上海杨浦区游乐园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "公园",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区游乐园"
+  },
+  {
+    "name": "上海闵行区艺术中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "文化",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区艺术中心"
+  },
+  {
+    "name": "上海宝山区寺庙",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "景点",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海宝山区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区寺庙"
+  },
+  {
+    "name": "上海嘉定区攀岩馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "体育",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海嘉定区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区攀岩馆"
+  },
+  {
+    "name": "上海浦东新区购物中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "商业",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海浦东新区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区购物中心"
+  },
+  {
+    "name": "上海金山区学院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "教育",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海金山区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区学院"
+  },
+  {
+    "name": "上海松江区自然博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "博物馆",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区自然博物馆"
+  },
+  {
+    "name": "上海青浦区植物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "公园",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海青浦区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区植物园"
+  },
+  {
+    "name": "上海奉贤区剧场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "文化",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海奉贤区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区剧场"
+  },
+  {
+    "name": "上海黄浦区步行街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "景点",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海黄浦区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区步行街"
+  },
+  {
+    "name": "上海徐汇区足球馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "体育",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海徐汇区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区足球馆"
+  },
+  {
+    "name": "上海长宁区创意园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "商业",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海长宁区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区创意园"
+  },
+  {
+    "name": "上海静安区少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "教育",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区少年宫"
+  },
+  {
+    "name": "上海普陀区航空博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "博物馆",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区航空博物馆"
+  },
+  {
+    "name": "上海虹口区公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "公园",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海虹口区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区公园"
+  },
+  {
+    "name": "上海杨浦区文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "文化",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区文化馆"
+  },
+  {
+    "name": "上海闵行区古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "景点",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海闵行区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区古镇"
+  },
+  {
+    "name": "上海宝山区健身房",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "体育",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海宝山区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区健身房"
+  },
+  {
+    "name": "上海嘉定区会展中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "商业",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海嘉定区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区会展中心"
+  },
+  {
+    "name": "上海浦东新区实践基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "教育",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海浦东新区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区实践基地"
+  },
+  {
+    "name": "上海金山区民俗博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "博物馆",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海金山区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区民俗博物馆"
+  },
+  {
+    "name": "上海松江区主题公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区主题公园"
+  },
+  {
+    "name": "上海青浦区青少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "文化",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海青浦区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区青少年宫"
+  },
+  {
+    "name": "上海奉贤区道观",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "景点",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海奉贤区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区道观"
+  },
+  {
+    "name": "上海黄浦区体育馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "体育",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海黄浦区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区体育馆"
+  },
+  {
+    "name": "上海徐汇区商场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "商业",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海徐汇区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区商场"
+  },
+  {
+    "name": "上海长宁区学校",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "教育",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海长宁区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区学校"
+  },
+  {
+    "name": "上海静安区科技馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "博物馆",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海静安区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区科技馆"
+  },
+  {
+    "name": "上海普陀区动物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "公园",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区动物园"
+  },
+  {
+    "name": "上海虹口区音乐厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "文化",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海虹口区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区音乐厅"
+  },
+  {
+    "name": "上海杨浦区纪念馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "景点",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海杨浦区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区纪念馆"
+  },
+  {
+    "name": "上海闵行区网球场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "体育",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海闵行区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区网球场"
+  },
+  {
+    "name": "上海宝山区科技园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "商业",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海宝山区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区科技园"
+  },
+  {
+    "name": "上海嘉定区青年中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "教育",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海嘉定区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区青年中心"
+  },
+  {
+    "name": "上海浦东新区历史博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区历史博物馆"
+  },
+  {
+    "name": "上海金山区森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "公园",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海金山区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区森林公园"
+  },
+  {
+    "name": "上海松江区美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "文化",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区美术馆"
+  },
+  {
+    "name": "上海青浦区老街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "景点",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海青浦区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区老街"
+  },
+  {
+    "name": "上海奉贤区羽毛球馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "体育",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海奉贤区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区羽毛球馆"
+  },
+  {
+    "name": "上海黄浦区博览中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "商业",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海黄浦区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区博览中心"
+  },
+  {
+    "name": "上海徐汇区科普基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "教育",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海徐汇区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区科普基地"
+  },
+  {
+    "name": "上海长宁区地质博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "博物馆",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海长宁区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区地质博物馆"
+  },
+  {
+    "name": "上海静安区儿童公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "公园",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海静安区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区儿童公园"
+  },
+  {
+    "name": "上海普陀区工人文化宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "文化",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区工人文化宫"
+  },
+  {
+    "name": "上海虹口区景区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "景点",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海虹口区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区景区"
+  },
+  {
+    "name": "上海杨浦区体育场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "体育",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海杨浦区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区体育场"
+  },
+  {
+    "name": "上海闵行区步行街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "商业",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海闵行区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区步行街"
+  },
+  {
+    "name": "上海宝山区培训机构",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "教育",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海宝山区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区培训机构"
+  },
+  {
+    "name": "上海嘉定区美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "博物馆",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区美术馆"
+  },
+  {
+    "name": "上海浦东新区海洋公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区海洋公园"
+  },
+  {
+    "name": "上海金山区文化中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "文化",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海金山区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区文化中心"
+  },
+  {
+    "name": "上海松江区故居",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "景点",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海松江区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区故居"
+  },
+  {
+    "name": "上海青浦区高尔夫球场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "体育",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海青浦区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区高尔夫球场"
+  },
+  {
+    "name": "上海奉贤区产业园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "商业",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海奉贤区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区产业园"
+  },
+  {
+    "name": "上海黄浦区大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "教育",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海黄浦区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区大学"
+  },
+  {
+    "name": "上海徐汇区艺术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区艺术博物馆"
+  },
+  {
+    "name": "上海长宁区湿地公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "公园",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海长宁区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区湿地公园"
+  },
+  {
+    "name": "上海静安区剧院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "文化",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海静安区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区剧院"
+  },
+  {
+    "name": "上海普陀区广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "景点",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区广场"
+  },
+  {
+    "name": "上海虹口区篮球馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "体育",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海虹口区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区篮球馆"
+  },
+  {
+    "name": "上海杨浦区文创园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "商业",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海杨浦区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区文创园"
+  },
+  {
+    "name": "上海闵行区教育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "教育",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海闵行区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区教育中心"
+  },
+  {
+    "name": "上海宝山区工业博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "博物馆",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区工业博物馆"
+  },
+  {
+    "name": "上海嘉定区生态公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "公园",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区生态公园"
+  },
+  {
+    "name": "上海浦东新区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区图书馆"
+  },
+  {
+    "name": "上海金山区风景区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "景点",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海金山区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区风景区"
+  },
+  {
+    "name": "上海松江区游泳馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "体育",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海松江区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区游泳馆"
+  },
+  {
+    "name": "上海青浦区商业街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "商业",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海青浦区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区商业街"
+  },
+  {
+    "name": "上海奉贤区研学基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "教育",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海奉贤区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区研学基地"
+  },
+  {
+    "name": "上海黄浦区纪念馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海黄浦区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区纪念馆"
+  },
+  {
+    "name": "上海徐汇区游乐园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "公园",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区游乐园"
+  },
+  {
+    "name": "上海长宁区艺术中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "文化",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海长宁区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区艺术中心"
+  },
+  {
+    "name": "上海静安区寺庙",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "景点",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区寺庙"
+  },
+  {
+    "name": "上海普陀区攀岩馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "体育",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区攀岩馆"
+  },
+  {
+    "name": "上海虹口区购物中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "商业",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海虹口区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区购物中心"
+  },
+  {
+    "name": "上海杨浦区学院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "教育",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海杨浦区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区学院"
+  },
+  {
+    "name": "上海闵行区自然博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "博物馆",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区自然博物馆"
+  },
+  {
+    "name": "上海宝山区植物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "公园",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区植物园"
+  },
+  {
+    "name": "上海嘉定区剧场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "文化",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区剧场"
+  },
+  {
+    "name": "上海浦东新区步行街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "景点",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海浦东新区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区步行街"
+  },
+  {
+    "name": "上海金山区足球馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "体育",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海金山区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区足球馆"
+  },
+  {
+    "name": "上海松江区创意园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "商业",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海松江区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区创意园"
+  },
+  {
+    "name": "上海青浦区少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "教育",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海青浦区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区少年宫"
+  },
+  {
+    "name": "上海奉贤区航空博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "博物馆",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海奉贤区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区航空博物馆"
+  },
+  {
+    "name": "上海黄浦区公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "公园",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海黄浦区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区公园"
+  },
+  {
+    "name": "上海徐汇区文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "文化",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区文化馆"
+  },
+  {
+    "name": "上海长宁区古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "景点",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海长宁区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区古镇"
+  },
+  {
+    "name": "上海静安区健身房",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "体育",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区健身房"
+  },
+  {
+    "name": "上海普陀区会展中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "商业",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区会展中心"
+  },
+  {
+    "name": "上海虹口区实践基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "教育",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海虹口区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区实践基地"
+  },
+  {
+    "name": "上海杨浦区民俗博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "博物馆",
+    "address": "上海杨浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "杨浦区"
+    ],
+    "id": "上海杨浦区民俗博物馆"
+  },
+  {
+    "name": "上海闵行区主题公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "公园",
+    "address": "上海闵行区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "闵行区"
+    ],
+    "id": "上海闵行区主题公园"
+  },
+  {
+    "name": "上海宝山区青少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "文化",
+    "address": "上海宝山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "宝山区"
+    ],
+    "id": "上海宝山区青少年宫"
+  },
+  {
+    "name": "上海嘉定区道观",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "景点",
+    "address": "上海嘉定区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海嘉定区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "嘉定区"
+    ],
+    "id": "上海嘉定区道观"
+  },
+  {
+    "name": "上海浦东新区体育馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "体育",
+    "address": "上海浦东新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海浦东新区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "浦东新区"
+    ],
+    "id": "上海浦东新区体育馆"
+  },
+  {
+    "name": "上海金山区商场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "商业",
+    "address": "上海金山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海金山区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "金山区"
+    ],
+    "id": "上海金山区商场"
+  },
+  {
+    "name": "上海松江区学校",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "教育",
+    "address": "上海松江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海松江区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "松江区"
+    ],
+    "id": "上海松江区学校"
+  },
+  {
+    "name": "上海青浦区科技馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "博物馆",
+    "address": "上海青浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海青浦区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "青浦区"
+    ],
+    "id": "上海青浦区科技馆"
+  },
+  {
+    "name": "上海奉贤区动物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "公园",
+    "address": "上海奉贤区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海奉贤区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海",
+      "奉贤区"
+    ],
+    "id": "上海奉贤区动物园"
+  },
+  {
+    "name": "上海黄浦区音乐厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化",
+    "address": "上海黄浦区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海黄浦区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "上海",
+      "黄浦区"
+    ],
+    "id": "上海黄浦区音乐厅"
+  },
+  {
+    "name": "上海徐汇区纪念馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "景点",
+    "address": "上海徐汇区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海徐汇区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "上海",
+      "徐汇区"
+    ],
+    "id": "上海徐汇区纪念馆"
+  },
+  {
+    "name": "上海长宁区网球场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "体育",
+    "address": "上海长宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海长宁区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "上海",
+      "长宁区"
+    ],
+    "id": "上海长宁区网球场"
+  },
+  {
+    "name": "上海静安区科技园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "商业",
+    "address": "上海静安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海静安区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "上海",
+      "静安区"
+    ],
+    "id": "上海静安区科技园"
+  },
+  {
+    "name": "上海普陀区青年中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "教育",
+    "address": "上海普陀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海普陀区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "上海",
+      "普陀区"
+    ],
+    "id": "上海普陀区青年中心"
+  },
+  {
+    "name": "上海虹口区历史博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "博物馆",
+    "address": "上海虹口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海虹口区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海",
+      "虹口区"
+    ],
+    "id": "上海虹口区历史博物馆"
+  },
+  {
+    "name": "广州天河区历史博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "博物馆",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区历史博物馆"
+  },
+  {
+    "name": "广州越秀区森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区森林公园"
+  },
+  {
+    "name": "广州荔湾区美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "文化",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区美术馆"
+  },
+  {
+    "name": "广州海珠区老街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "景点",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区老街"
+  },
+  {
+    "name": "广州白云区羽毛球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "体育",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区羽毛球馆"
+  },
+  {
+    "name": "广州黄埔区博览中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "商业",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区博览中心"
+  },
+  {
+    "name": "广州番禺区科普基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "教育",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区科普基地"
+  },
+  {
+    "name": "广州花都区地质博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区地质博物馆"
+  },
+  {
+    "name": "广州南沙区儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "公园",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区儿童公园"
+  },
+  {
+    "name": "广州增城区工人文化宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "文化",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区工人文化宫"
+  },
+  {
+    "name": "广州从化区景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "景点",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区景区"
+  },
+  {
+    "name": "广州天河区体育场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "体育",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区体育场"
+  },
+  {
+    "name": "广州越秀区步行街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "商业",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区步行街"
+  },
+  {
+    "name": "广州荔湾区培训机构",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "教育",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区培训机构"
+  },
+  {
+    "name": "广州海珠区美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "博物馆",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区美术馆"
+  },
+  {
+    "name": "广州白云区海洋公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "公园",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区海洋公园"
+  },
+  {
+    "name": "广州黄埔区文化中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "文化",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区文化中心"
+  },
+  {
+    "name": "广州番禺区故居",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "景点",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区故居"
+  },
+  {
+    "name": "广州花都区高尔夫球场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "体育",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区高尔夫球场"
+  },
+  {
+    "name": "广州南沙区产业园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "商业",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区产业园"
+  },
+  {
+    "name": "广州增城区大学",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "教育",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区大学"
+  },
+  {
+    "name": "广州从化区艺术博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "博物馆",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区艺术博物馆"
+  },
+  {
+    "name": "广州天河区湿地公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区湿地公园"
+  },
+  {
+    "name": "广州越秀区剧院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "文化",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区剧院"
+  },
+  {
+    "name": "广州荔湾区广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "景点",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区广场"
+  },
+  {
+    "name": "广州海珠区篮球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "体育",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区篮球馆"
+  },
+  {
+    "name": "广州白云区文创园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "商业",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区文创园"
+  },
+  {
+    "name": "广州黄埔区教育中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "教育",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区教育中心"
+  },
+  {
+    "name": "广州番禺区工业博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "博物馆",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区工业博物馆"
+  },
+  {
+    "name": "广州花都区生态公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区生态公园"
+  },
+  {
+    "name": "广州南沙区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "文化",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区图书馆"
+  },
+  {
+    "name": "广州增城区风景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "景点",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区风景区"
+  },
+  {
+    "name": "广州从化区游泳馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "体育",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区游泳馆"
+  },
+  {
+    "name": "广州天河区商业街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "商业",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区商业街"
+  },
+  {
+    "name": "广州越秀区研学基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "教育",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区研学基地"
+  },
+  {
+    "name": "广州荔湾区纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "博物馆",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区纪念馆"
+  },
+  {
+    "name": "广州海珠区游乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区游乐园"
+  },
+  {
+    "name": "广州白云区艺术中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "文化",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区艺术中心"
+  },
+  {
+    "name": "广州黄埔区寺庙",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "景点",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区寺庙"
+  },
+  {
+    "name": "广州番禺区攀岩馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "体育",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区攀岩馆"
+  },
+  {
+    "name": "广州花都区购物中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "商业",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区购物中心"
+  },
+  {
+    "name": "广州南沙区学院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "教育",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区学院"
+  },
+  {
+    "name": "广州增城区自然博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "博物馆",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区自然博物馆"
+  },
+  {
+    "name": "广州从化区植物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区植物园"
+  },
+  {
+    "name": "广州天河区剧场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区剧场"
+  },
+  {
+    "name": "广州越秀区步行街45",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "景点",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区步行街45"
+  },
+  {
+    "name": "广州荔湾区足球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "体育",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区足球馆"
+  },
+  {
+    "name": "广州海珠区创意园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "商业",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区创意园"
+  },
+  {
+    "name": "广州白云区少年宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "教育",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区少年宫"
+  },
+  {
+    "name": "广州黄埔区航空博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "博物馆",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区航空博物馆"
+  },
+  {
+    "name": "广州番禺区公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区公园"
+  },
+  {
+    "name": "广州花都区文化馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "文化",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区文化馆"
+  },
+  {
+    "name": "广州南沙区古镇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "景点",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区古镇"
+  },
+  {
+    "name": "广州增城区健身房",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "体育",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区健身房"
+  },
+  {
+    "name": "广州从化区会展中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "商业",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区会展中心"
+  },
+  {
+    "name": "广州天河区实践基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "教育",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区实践基地"
+  },
+  {
+    "name": "广州越秀区民俗博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区民俗博物馆"
+  },
+  {
+    "name": "广州荔湾区主题公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "公园",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区主题公园"
+  },
+  {
+    "name": "广州海珠区青少年宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区青少年宫"
+  },
+  {
+    "name": "广州白云区道观",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "景点",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区道观"
+  },
+  {
+    "name": "广州黄埔区体育馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "体育",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区体育馆"
+  },
+  {
+    "name": "广州番禺区商场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "商业",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区商场"
+  },
+  {
+    "name": "广州花都区学校",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "教育",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区学校"
+  },
+  {
+    "name": "广州南沙区科技馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "博物馆",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区科技馆"
+  },
+  {
+    "name": "广州增城区动物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "公园",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区动物园"
+  },
+  {
+    "name": "广州从化区音乐厅",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "文化",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区音乐厅"
+  },
+  {
+    "name": "广州天河区纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "景点",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区纪念馆"
+  },
+  {
+    "name": "广州越秀区网球场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "体育",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区网球场"
+  },
+  {
+    "name": "广州荔湾区科技园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "商业",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区科技园"
+  },
+  {
+    "name": "广州海珠区青年中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "教育",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区青年中心"
+  },
+  {
+    "name": "广州白云区历史博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "博物馆",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区历史博物馆"
+  },
+  {
+    "name": "广州黄埔区森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "公园",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区森林公园"
+  },
+  {
+    "name": "广州番禺区美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "文化",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区美术馆"
+  },
+  {
+    "name": "广州花都区老街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "景点",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区老街"
+  },
+  {
+    "name": "广州南沙区羽毛球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "体育",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区羽毛球馆"
+  },
+  {
+    "name": "广州增城区博览中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "商业",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区博览中心"
+  },
+  {
+    "name": "广州从化区科普基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "教育",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区科普基地"
+  },
+  {
+    "name": "广州天河区地质博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "博物馆",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区地质博物馆"
+  },
+  {
+    "name": "广州越秀区儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区儿童公园"
+  },
+  {
+    "name": "广州荔湾区工人文化宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "文化",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区工人文化宫"
+  },
+  {
+    "name": "广州海珠区景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "景点",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区景区"
+  },
+  {
+    "name": "广州白云区体育场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "体育",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区体育场"
+  },
+  {
+    "name": "广州黄埔区步行街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "商业",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区步行街"
+  },
+  {
+    "name": "广州番禺区培训机构",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "教育",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区培训机构"
+  },
+  {
+    "name": "广州花都区美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区美术馆"
+  },
+  {
+    "name": "广州南沙区海洋公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "公园",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区海洋公园"
+  },
+  {
+    "name": "广州增城区文化中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "文化",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区文化中心"
+  },
+  {
+    "name": "广州从化区故居",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "景点",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区故居"
+  },
+  {
+    "name": "广州天河区高尔夫球场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "体育",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区高尔夫球场"
+  },
+  {
+    "name": "广州越秀区产业园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "商业",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区产业园"
+  },
+  {
+    "name": "广州荔湾区大学",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "教育",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区大学"
+  },
+  {
+    "name": "广州海珠区艺术博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "博物馆",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区艺术博物馆"
+  },
+  {
+    "name": "广州白云区湿地公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "公园",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区湿地公园"
+  },
+  {
+    "name": "广州黄埔区剧院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "文化",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区剧院"
+  },
+  {
+    "name": "广州番禺区广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "景点",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区广场"
+  },
+  {
+    "name": "广州花都区篮球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "体育",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区篮球馆"
+  },
+  {
+    "name": "广州南沙区文创园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "商业",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区文创园"
+  },
+  {
+    "name": "广州增城区教育中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "教育",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区教育中心"
+  },
+  {
+    "name": "广州从化区工业博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "博物馆",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区工业博物馆"
+  },
+  {
+    "name": "广州天河区生态公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区生态公园"
+  },
+  {
+    "name": "广州越秀区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "文化",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区图书馆"
+  },
+  {
+    "name": "广州荔湾区风景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "景点",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区风景区"
+  },
+  {
+    "name": "广州海珠区游泳馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "体育",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区游泳馆"
+  },
+  {
+    "name": "广州白云区商业街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "商业",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区商业街"
+  },
+  {
+    "name": "广州黄埔区研学基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "教育",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区研学基地"
+  },
+  {
+    "name": "广州番禺区纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "博物馆",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区纪念馆"
+  },
+  {
+    "name": "广州花都区游乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区游乐园"
+  },
+  {
+    "name": "广州南沙区艺术中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "文化",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区艺术中心"
+  },
+  {
+    "name": "广州增城区寺庙",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "景点",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区寺庙"
+  },
+  {
+    "name": "广州从化区攀岩馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "体育",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区攀岩馆"
+  },
+  {
+    "name": "广州天河区购物中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "商业",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区购物中心"
+  },
+  {
+    "name": "广州越秀区学院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "教育",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区学院"
+  },
+  {
+    "name": "广州荔湾区自然博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "博物馆",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区自然博物馆"
+  },
+  {
+    "name": "广州海珠区植物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区植物园"
+  },
+  {
+    "name": "广州白云区剧场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "文化",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区剧场"
+  },
+  {
+    "name": "广州黄埔区步行街115",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "景点",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区步行街115"
+  },
+  {
+    "name": "广州番禺区足球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "体育",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区足球馆"
+  },
+  {
+    "name": "广州花都区创意园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "商业",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区创意园"
+  },
+  {
+    "name": "广州南沙区少年宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "教育",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区少年宫"
+  },
+  {
+    "name": "广州增城区航空博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "博物馆",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区航空博物馆"
+  },
+  {
+    "name": "广州从化区公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区公园"
+  },
+  {
+    "name": "广州天河区文化馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区文化馆"
+  },
+  {
+    "name": "广州越秀区古镇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "景点",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区古镇"
+  },
+  {
+    "name": "广州荔湾区健身房",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "体育",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区健身房"
+  },
+  {
+    "name": "广州海珠区会展中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "商业",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区会展中心"
+  },
+  {
+    "name": "广州白云区实践基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "教育",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区实践基地"
+  },
+  {
+    "name": "广州黄埔区民俗博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "博物馆",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区民俗博物馆"
+  },
+  {
+    "name": "广州番禺区主题公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区主题公园"
+  },
+  {
+    "name": "广州花都区青少年宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "文化",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区青少年宫"
+  },
+  {
+    "name": "广州南沙区道观",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "景点",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区道观"
+  },
+  {
+    "name": "广州增城区体育馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "体育",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区体育馆"
+  },
+  {
+    "name": "广州从化区商场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "商业",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区商场"
+  },
+  {
+    "name": "广州天河区学校",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "教育",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区学校"
+  },
+  {
+    "name": "广州越秀区科技馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区科技馆"
+  },
+  {
+    "name": "广州荔湾区动物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "公园",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区动物园"
+  },
+  {
+    "name": "广州海珠区音乐厅",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区音乐厅"
+  },
+  {
+    "name": "广州白云区纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "景点",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区纪念馆"
+  },
+  {
+    "name": "广州黄埔区网球场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "体育",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区网球场"
+  },
+  {
+    "name": "广州番禺区科技园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "商业",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区科技园"
+  },
+  {
+    "name": "广州花都区青年中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "教育",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区青年中心"
+  },
+  {
+    "name": "广州南沙区历史博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "博物馆",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区历史博物馆"
+  },
+  {
+    "name": "广州增城区森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "公园",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区森林公园"
+  },
+  {
+    "name": "广州从化区美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "文化",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区美术馆"
+  },
+  {
+    "name": "广州天河区老街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "景点",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区老街"
+  },
+  {
+    "name": "广州越秀区羽毛球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "体育",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区羽毛球馆"
+  },
+  {
+    "name": "广州荔湾区博览中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "商业",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区博览中心"
+  },
+  {
+    "name": "广州海珠区科普基地",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "教育",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区科普基地"
+  },
+  {
+    "name": "广州白云区地质博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "博物馆",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区地质博物馆"
+  },
+  {
+    "name": "广州黄埔区儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "公园",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区儿童公园"
+  },
+  {
+    "name": "广州番禺区工人文化宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "文化",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区工人文化宫"
+  },
+  {
+    "name": "广州花都区景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "景点",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州花都区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区景区"
+  },
+  {
+    "name": "广州南沙区体育场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "体育",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南沙区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区体育场"
+  },
+  {
+    "name": "广州增城区步行街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "商业",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区步行街"
+  },
+  {
+    "name": "广州从化区培训机构",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "教育",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区培训机构"
+  },
+  {
+    "name": "广州天河区美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "博物馆",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州天河区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区美术馆"
+  },
+  {
+    "name": "广州越秀区海洋公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州越秀区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区海洋公园"
+  },
+  {
+    "name": "广州荔湾区文化中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "文化",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州荔湾区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区文化中心"
+  },
+  {
+    "name": "广州海珠区故居",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "景点",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州海珠区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区故居"
+  },
+  {
+    "name": "广州白云区高尔夫球场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "体育",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州白云区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区高尔夫球场"
+  },
+  {
+    "name": "广州黄埔区产业园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "商业",
+    "address": "广州黄埔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄埔区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "黄埔区"
+    ],
+    "id": "广州黄埔区产业园"
+  },
+  {
+    "name": "广州番禺区大学",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "教育",
+    "address": "广州番禺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州番禺区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "番禺区"
+    ],
+    "id": "广州番禺区大学"
+  },
+  {
+    "name": "广州花都区艺术博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "广州花都区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "花都区"
+    ],
+    "id": "广州花都区艺术博物馆"
+  },
+  {
+    "name": "广州南沙区湿地公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "公园",
+    "address": "广州南沙区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "南沙区"
+    ],
+    "id": "广州南沙区湿地公园"
+  },
+  {
+    "name": "广州增城区剧院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "文化",
+    "address": "广州增城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "广州",
+      "增城区"
+    ],
+    "id": "广州增城区剧院"
+  },
+  {
+    "name": "广州从化区广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "景点",
+    "address": "广州从化区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "广州",
+      "从化区"
+    ],
+    "id": "广州从化区广场"
+  },
+  {
+    "name": "广州天河区篮球馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "体育",
+    "address": "广州天河区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州天河区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "广州",
+      "天河区"
+    ],
+    "id": "广州天河区篮球馆"
+  },
+  {
+    "name": "广州越秀区文创园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "商业",
+    "address": "广州越秀区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州越秀区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "广州",
+      "越秀区"
+    ],
+    "id": "广州越秀区文创园"
+  },
+  {
+    "name": "广州荔湾区教育中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "教育",
+    "address": "广州荔湾区",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州荔湾区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "广州",
+      "荔湾区"
+    ],
+    "id": "广州荔湾区教育中心"
+  },
+  {
+    "name": "广州海珠区工业博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "博物馆",
+    "address": "广州海珠区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海珠区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州",
+      "海珠区"
+    ],
+    "id": "广州海珠区工业博物馆"
+  },
+  {
+    "name": "广州白云区生态公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "公园",
+    "address": "广州白云区",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白云区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州",
+      "白云区"
+    ],
+    "id": "广州白云区生态公园"
+  },
+  {
+    "name": "杭州上城区历史博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区历史博物馆"
+  },
+  {
+    "name": "杭州下城区森林公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "公园",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区森林公园"
+  },
+  {
+    "name": "杭州西湖区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区美术馆"
+  },
+  {
+    "name": "杭州拱墅区老街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "景点",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州拱墅区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区老街"
+  },
+  {
+    "name": "杭州江干区羽毛球馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "体育",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州江干区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区羽毛球馆"
+  },
+  {
+    "name": "杭州滨江区博览中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "商业",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区博览中心"
+  },
+  {
+    "name": "杭州萧山区科普基地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "教育",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区科普基地"
+  },
+  {
+    "name": "杭州余杭区地质博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "博物馆",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区地质博物馆"
+  },
+  {
+    "name": "杭州富阳区儿童公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "公园",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区儿童公园"
+  },
+  {
+    "name": "杭州临安区工人文化宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "文化",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区工人文化宫"
+  },
+  {
+    "name": "杭州桐庐县景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "景点",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州桐庐县的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县景区"
+  },
+  {
+    "name": "杭州建德市体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "体育",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州建德市的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市体育场"
+  },
+  {
+    "name": "杭州淳安县步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "商业",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州淳安县的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县步行街"
+  },
+  {
+    "name": "杭州上城区培训机构",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "教育",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州上城区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区培训机构"
+  },
+  {
+    "name": "杭州下城区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "博物馆",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区美术馆"
+  },
+  {
+    "name": "杭州西湖区海洋公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区海洋公园"
+  },
+  {
+    "name": "杭州拱墅区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区文化中心"
+  },
+  {
+    "name": "杭州江干区故居",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "景点",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州江干区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区故居"
+  },
+  {
+    "name": "杭州滨江区高尔夫球场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区高尔夫球场"
+  },
+  {
+    "name": "杭州萧山区产业园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "商业",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区产业园"
+  },
+  {
+    "name": "杭州余杭区大学",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "教育",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州余杭区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区大学"
+  },
+  {
+    "name": "杭州富阳区艺术博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "博物馆",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区艺术博物馆"
+  },
+  {
+    "name": "杭州临安区湿地公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "公园",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区湿地公园"
+  },
+  {
+    "name": "杭州桐庐县剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "文化",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县剧院"
+  },
+  {
+    "name": "杭州建德市广场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "景点",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州建德市的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市广场"
+  },
+  {
+    "name": "杭州淳安县篮球馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "体育",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州淳安县的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县篮球馆"
+  },
+  {
+    "name": "杭州上城区文创园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "商业",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州上城区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区文创园"
+  },
+  {
+    "name": "杭州下城区教育中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "教育",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州下城区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区教育中心"
+  },
+  {
+    "name": "杭州西湖区工业博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区工业博物馆"
+  },
+  {
+    "name": "杭州拱墅区生态公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "公园",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区生态公园"
+  },
+  {
+    "name": "杭州江干区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区图书馆"
+  },
+  {
+    "name": "杭州滨江区风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "景点",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区风景区"
+  },
+  {
+    "name": "杭州萧山区游泳馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "体育",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区游泳馆"
+  },
+  {
+    "name": "杭州余杭区商业街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "商业",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州余杭区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区商业街"
+  },
+  {
+    "name": "杭州富阳区研学基地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "教育",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州富阳区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区研学基地"
+  },
+  {
+    "name": "杭州临安区纪念馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "博物馆",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区纪念馆"
+  },
+  {
+    "name": "杭州桐庐县游乐园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "公园",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县游乐园"
+  },
+  {
+    "name": "杭州建德市艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "文化",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市艺术中心"
+  },
+  {
+    "name": "杭州淳安县寺庙",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "景点",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州淳安县的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县寺庙"
+  },
+  {
+    "name": "杭州上城区攀岩馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "体育",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州上城区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区攀岩馆"
+  },
+  {
+    "name": "杭州下城区购物中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "商业",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州下城区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区购物中心"
+  },
+  {
+    "name": "杭州西湖区学院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "教育",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州西湖区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区学院"
+  },
+  {
+    "name": "杭州拱墅区自然博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区自然博物馆"
+  },
+  {
+    "name": "杭州江干区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "公园",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区植物园"
+  },
+  {
+    "name": "杭州滨江区剧场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "文化",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区剧场"
+  },
+  {
+    "name": "杭州萧山区步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "景点",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区步行街"
+  },
+  {
+    "name": "杭州余杭区足球馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "体育",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州余杭区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区足球馆"
+  },
+  {
+    "name": "杭州富阳区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "商业",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州富阳区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区创意园"
+  },
+  {
+    "name": "杭州临安区少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "教育",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州临安区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区少年宫"
+  },
+  {
+    "name": "杭州桐庐县航空博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "博物馆",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县航空博物馆"
+  },
+  {
+    "name": "杭州建德市公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "公园",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市公园"
+  },
+  {
+    "name": "杭州淳安县文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "文化",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县文化馆"
+  },
+  {
+    "name": "杭州上城区古镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "景点",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州上城区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区古镇"
+  },
+  {
+    "name": "杭州下城区健身房",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "体育",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州下城区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区健身房"
+  },
+  {
+    "name": "杭州西湖区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "商业",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州西湖区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区会展中心"
+  },
+  {
+    "name": "杭州拱墅区实践基地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "教育",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州拱墅区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区实践基地"
+  },
+  {
+    "name": "杭州江干区民俗博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "博物馆",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区民俗博物馆"
+  },
+  {
+    "name": "杭州滨江区主题公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "公园",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区主题公园"
+  },
+  {
+    "name": "杭州萧山区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "文化",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区青少年宫"
+  },
+  {
+    "name": "杭州余杭区道观",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "景点",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州余杭区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区道观"
+  },
+  {
+    "name": "杭州富阳区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "体育",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州富阳区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区体育馆"
+  },
+  {
+    "name": "杭州临安区商场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "商业",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州临安区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区商场"
+  },
+  {
+    "name": "杭州桐庐县学校",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "教育",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州桐庐县的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县学校"
+  },
+  {
+    "name": "杭州建德市科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "博物馆",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市科技馆"
+  },
+  {
+    "name": "杭州淳安县动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "公园",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县动物园"
+  },
+  {
+    "name": "杭州上城区音乐厅",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "文化",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区音乐厅"
+  },
+  {
+    "name": "杭州下城区纪念馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "景点",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州下城区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区纪念馆"
+  },
+  {
+    "name": "杭州西湖区网球场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "体育",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州西湖区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区网球场"
+  },
+  {
+    "name": "杭州拱墅区科技园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "商业",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州拱墅区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区科技园"
+  },
+  {
+    "name": "杭州江干区青年中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "教育",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州江干区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区青年中心"
+  },
+  {
+    "name": "杭州滨江区历史博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "博物馆",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区历史博物馆"
+  },
+  {
+    "name": "杭州萧山区森林公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "公园",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区森林公园"
+  },
+  {
+    "name": "杭州余杭区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区美术馆"
+  },
+  {
+    "name": "杭州富阳区老街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "景点",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州富阳区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区老街"
+  },
+  {
+    "name": "杭州临安区羽毛球馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "体育",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州临安区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区羽毛球馆"
+  },
+  {
+    "name": "杭州桐庐县博览中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "商业",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州桐庐县的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县博览中心"
+  },
+  {
+    "name": "杭州建德市科普基地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "教育",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州建德市的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市科普基地"
+  },
+  {
+    "name": "杭州淳安县地质博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "博物馆",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县地质博物馆"
+  },
+  {
+    "name": "杭州上城区儿童公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "公园",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区儿童公园"
+  },
+  {
+    "name": "杭州下城区工人文化宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "文化",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区工人文化宫"
+  },
+  {
+    "name": "杭州西湖区景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "景点",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州西湖区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区景区"
+  },
+  {
+    "name": "杭州拱墅区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "体育",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州拱墅区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区体育场"
+  },
+  {
+    "name": "杭州江干区步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "商业",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州江干区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区步行街"
+  },
+  {
+    "name": "杭州滨江区培训机构",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "教育",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区培训机构"
+  },
+  {
+    "name": "杭州萧山区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "博物馆",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区美术馆"
+  },
+  {
+    "name": "杭州余杭区海洋公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "公园",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区海洋公园"
+  },
+  {
+    "name": "杭州富阳区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "文化",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区文化中心"
+  },
+  {
+    "name": "杭州临安区故居",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "景点",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州临安区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区故居"
+  },
+  {
+    "name": "杭州桐庐县高尔夫球场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "体育",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州桐庐县的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县高尔夫球场"
+  },
+  {
+    "name": "杭州建德市产业园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "商业",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州建德市的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市产业园"
+  },
+  {
+    "name": "杭州淳安县大学",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "教育",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州淳安县的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县大学"
+  },
+  {
+    "name": "杭州上城区艺术博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区艺术博物馆"
+  },
+  {
+    "name": "杭州下城区湿地公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "公园",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区湿地公园"
+  },
+  {
+    "name": "杭州西湖区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区剧院"
+  },
+  {
+    "name": "杭州拱墅区广场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "景点",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州拱墅区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区广场"
+  },
+  {
+    "name": "杭州江干区篮球馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "体育",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州江干区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区篮球馆"
+  },
+  {
+    "name": "杭州滨江区文创园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "商业",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区文创园"
+  },
+  {
+    "name": "杭州萧山区教育中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "教育",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区教育中心"
+  },
+  {
+    "name": "杭州余杭区工业博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "博物馆",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区工业博物馆"
+  },
+  {
+    "name": "杭州富阳区生态公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "公园",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区生态公园"
+  },
+  {
+    "name": "杭州临安区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "文化",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区图书馆"
+  },
+  {
+    "name": "杭州桐庐县风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "景点",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州桐庐县的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县风景区"
+  },
+  {
+    "name": "杭州建德市游泳馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "体育",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州建德市的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市游泳馆"
+  },
+  {
+    "name": "杭州淳安县商业街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "商业",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州淳安县的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县商业街"
+  },
+  {
+    "name": "杭州上城区研学基地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "教育",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州上城区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区研学基地"
+  },
+  {
+    "name": "杭州下城区纪念馆105",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "博物馆",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区纪念馆105"
+  },
+  {
+    "name": "杭州西湖区游乐园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区游乐园"
+  },
+  {
+    "name": "杭州拱墅区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区艺术中心"
+  },
+  {
+    "name": "杭州江干区寺庙",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "景点",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州江干区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区寺庙"
+  },
+  {
+    "name": "杭州滨江区攀岩馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区攀岩馆"
+  },
+  {
+    "name": "杭州萧山区购物中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "商业",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区购物中心"
+  },
+  {
+    "name": "杭州余杭区学院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "教育",
+    "address": "杭州余杭区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州余杭区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "余杭区"
+    ],
+    "id": "杭州余杭区学院"
+  },
+  {
+    "name": "杭州富阳区自然博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "博物馆",
+    "address": "杭州富阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "富阳区"
+    ],
+    "id": "杭州富阳区自然博物馆"
+  },
+  {
+    "name": "杭州临安区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "公园",
+    "address": "杭州临安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "临安区"
+    ],
+    "id": "杭州临安区植物园"
+  },
+  {
+    "name": "杭州桐庐县剧场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "文化",
+    "address": "杭州桐庐县",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "桐庐县"
+    ],
+    "id": "杭州桐庐县剧场"
+  },
+  {
+    "name": "杭州建德市步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "景点",
+    "address": "杭州建德市",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州建德市的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "建德市"
+    ],
+    "id": "杭州建德市步行街"
+  },
+  {
+    "name": "杭州淳安县足球馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "体育",
+    "address": "杭州淳安县",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州淳安县的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "淳安县"
+    ],
+    "id": "杭州淳安县足球馆"
+  },
+  {
+    "name": "杭州上城区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "商业",
+    "address": "杭州上城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州上城区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "杭州",
+      "上城区"
+    ],
+    "id": "杭州上城区创意园"
+  },
+  {
+    "name": "杭州下城区少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "教育",
+    "address": "杭州下城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州下城区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "杭州",
+      "下城区"
+    ],
+    "id": "杭州下城区少年宫"
+  },
+  {
+    "name": "杭州西湖区航空博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "杭州西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州",
+      "西湖区"
+    ],
+    "id": "杭州西湖区航空博物馆"
+  },
+  {
+    "name": "杭州拱墅区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "公园",
+    "address": "杭州拱墅区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州",
+      "拱墅区"
+    ],
+    "id": "杭州拱墅区公园"
+  },
+  {
+    "name": "杭州江干区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化",
+    "address": "杭州江干区",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "杭州",
+      "江干区"
+    ],
+    "id": "杭州江干区文化馆"
+  },
+  {
+    "name": "杭州滨江区古镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "景点",
+    "address": "杭州滨江区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州滨江区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "杭州",
+      "滨江区"
+    ],
+    "id": "杭州滨江区古镇"
+  },
+  {
+    "name": "杭州萧山区健身房",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "体育",
+    "address": "杭州萧山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州萧山区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "杭州",
+      "萧山区"
+    ],
+    "id": "杭州萧山区健身房"
+  },
+  {
+    "name": "成都锦江区历史博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区历史博物馆"
+  },
+  {
+    "name": "成都青羊区森林公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区森林公园"
+  },
+  {
+    "name": "成都武侯区美术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区美术馆"
+  },
+  {
+    "name": "成都成华区老街",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区老街"
+  },
+  {
+    "name": "成都金牛区羽毛球馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区羽毛球馆"
+  },
+  {
+    "name": "成都高新区博览中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区博览中心"
+  },
+  {
+    "name": "成都天府新区科普基地",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区科普基地"
+  },
+  {
+    "name": "成都龙泉驿区地质博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区地质博物馆"
+  },
+  {
+    "name": "成都温江区儿童公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区儿童公园"
+  },
+  {
+    "name": "成都双流区工人文化宫",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区工人文化宫"
+  },
+  {
+    "name": "成都郫都区景区",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区景区"
+  },
+  {
+    "name": "成都新都区体育场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区体育场"
+  },
+  {
+    "name": "成都都江堰市步行街",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市步行街"
+  },
+  {
+    "name": "成都彭州市培训机构",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市培训机构"
+  },
+  {
+    "name": "成都锦江区美术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区美术馆"
+  },
+  {
+    "name": "成都青羊区海洋公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区海洋公园"
+  },
+  {
+    "name": "成都武侯区文化中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区文化中心"
+  },
+  {
+    "name": "成都成华区故居",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区故居"
+  },
+  {
+    "name": "成都金牛区高尔夫球场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区高尔夫球场"
+  },
+  {
+    "name": "成都高新区产业园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区产业园"
+  },
+  {
+    "name": "成都天府新区大学",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区大学"
+  },
+  {
+    "name": "成都龙泉驿区艺术博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区艺术博物馆"
+  },
+  {
+    "name": "成都温江区湿地公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区湿地公园"
+  },
+  {
+    "name": "成都双流区剧院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区剧院"
+  },
+  {
+    "name": "成都郫都区广场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区广场"
+  },
+  {
+    "name": "成都新都区篮球馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区篮球馆"
+  },
+  {
+    "name": "成都都江堰市文创园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市文创园"
+  },
+  {
+    "name": "成都彭州市教育中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市教育中心"
+  },
+  {
+    "name": "成都锦江区工业博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区工业博物馆"
+  },
+  {
+    "name": "成都青羊区生态公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区生态公园"
+  },
+  {
+    "name": "成都武侯区图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区图书馆"
+  },
+  {
+    "name": "成都成华区风景区",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区风景区"
+  },
+  {
+    "name": "成都金牛区游泳馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区游泳馆"
+  },
+  {
+    "name": "成都高新区商业街",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区商业街"
+  },
+  {
+    "name": "成都天府新区研学基地",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区研学基地"
+  },
+  {
+    "name": "成都龙泉驿区纪念馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区纪念馆"
+  },
+  {
+    "name": "成都温江区游乐园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区游乐园"
+  },
+  {
+    "name": "成都双流区艺术中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区艺术中心"
+  },
+  {
+    "name": "成都郫都区寺庙",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区寺庙"
+  },
+  {
+    "name": "成都新都区攀岩馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区攀岩馆"
+  },
+  {
+    "name": "成都都江堰市购物中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市购物中心"
+  },
+  {
+    "name": "成都彭州市学院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市学院"
+  },
+  {
+    "name": "成都锦江区自然博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区自然博物馆"
+  },
+  {
+    "name": "成都青羊区植物园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区植物园"
+  },
+  {
+    "name": "成都武侯区剧场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区剧场"
+  },
+  {
+    "name": "成都成华区步行街",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区步行街"
+  },
+  {
+    "name": "成都金牛区足球馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区足球馆"
+  },
+  {
+    "name": "成都高新区创意园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区创意园"
+  },
+  {
+    "name": "成都天府新区少年宫",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区少年宫"
+  },
+  {
+    "name": "成都龙泉驿区航空博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区航空博物馆"
+  },
+  {
+    "name": "成都温江区公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区公园"
+  },
+  {
+    "name": "成都双流区文化馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区文化馆"
+  },
+  {
+    "name": "成都郫都区古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区古镇"
+  },
+  {
+    "name": "成都新都区健身房",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区健身房"
+  },
+  {
+    "name": "成都都江堰市会展中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市会展中心"
+  },
+  {
+    "name": "成都彭州市实践基地",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市实践基地"
+  },
+  {
+    "name": "成都锦江区民俗博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区民俗博物馆"
+  },
+  {
+    "name": "成都青羊区主题公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区主题公园"
+  },
+  {
+    "name": "成都武侯区青少年宫",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区青少年宫"
+  },
+  {
+    "name": "成都成华区道观",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区道观"
+  },
+  {
+    "name": "成都金牛区体育馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区体育馆"
+  },
+  {
+    "name": "成都高新区商场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区商场"
+  },
+  {
+    "name": "成都天府新区学校",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区学校"
+  },
+  {
+    "name": "成都龙泉驿区科技馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区科技馆"
+  },
+  {
+    "name": "成都温江区动物园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区动物园"
+  },
+  {
+    "name": "成都双流区音乐厅",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区音乐厅"
+  },
+  {
+    "name": "成都郫都区纪念馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区纪念馆"
+  },
+  {
+    "name": "成都新都区网球场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区网球场"
+  },
+  {
+    "name": "成都都江堰市科技园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市科技园"
+  },
+  {
+    "name": "成都彭州市青年中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市青年中心"
+  },
+  {
+    "name": "成都锦江区历史博物馆70",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区历史博物馆70"
+  },
+  {
+    "name": "成都青羊区森林公园71",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区森林公园71"
+  },
+  {
+    "name": "成都武侯区美术馆72",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区美术馆72"
+  },
+  {
+    "name": "成都成华区老街73",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区老街73"
+  },
+  {
+    "name": "成都金牛区羽毛球馆74",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区羽毛球馆74"
+  },
+  {
+    "name": "成都高新区博览中心75",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区博览中心75"
+  },
+  {
+    "name": "成都天府新区科普基地76",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区科普基地76"
+  },
+  {
+    "name": "成都龙泉驿区地质博物馆77",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区地质博物馆77"
+  },
+  {
+    "name": "成都温江区儿童公园78",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区儿童公园78"
+  },
+  {
+    "name": "成都双流区工人文化宫79",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区工人文化宫79"
+  },
+  {
+    "name": "成都郫都区景区80",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区景区80"
+  },
+  {
+    "name": "成都新都区体育场81",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区体育场81"
+  },
+  {
+    "name": "成都都江堰市步行街82",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市步行街82"
+  },
+  {
+    "name": "成都彭州市培训机构83",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市培训机构83"
+  },
+  {
+    "name": "成都锦江区美术馆84",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区美术馆84"
+  },
+  {
+    "name": "成都青羊区海洋公园85",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区海洋公园85"
+  },
+  {
+    "name": "成都武侯区文化中心86",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区文化中心86"
+  },
+  {
+    "name": "成都成华区故居87",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区故居87"
+  },
+  {
+    "name": "成都金牛区高尔夫球场88",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区高尔夫球场88"
+  },
+  {
+    "name": "成都高新区产业园89",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区产业园89"
+  },
+  {
+    "name": "成都天府新区大学90",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区大学90"
+  },
+  {
+    "name": "成都龙泉驿区艺术博物馆91",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区艺术博物馆91"
+  },
+  {
+    "name": "成都温江区湿地公园92",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区湿地公园92"
+  },
+  {
+    "name": "成都双流区剧院93",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区剧院93"
+  },
+  {
+    "name": "成都郫都区广场94",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区广场94"
+  },
+  {
+    "name": "成都新都区篮球馆95",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区篮球馆95"
+  },
+  {
+    "name": "成都都江堰市文创园96",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市文创园96"
+  },
+  {
+    "name": "成都彭州市教育中心97",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市教育中心97"
+  },
+  {
+    "name": "成都锦江区工业博物馆98",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区工业博物馆98"
+  },
+  {
+    "name": "成都青羊区生态公园99",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区生态公园99"
+  },
+  {
+    "name": "成都武侯区图书馆100",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区图书馆100"
+  },
+  {
+    "name": "成都成华区风景区101",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区风景区101"
+  },
+  {
+    "name": "成都金牛区游泳馆102",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区游泳馆102"
+  },
+  {
+    "name": "成都高新区商业街103",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区商业街103"
+  },
+  {
+    "name": "成都天府新区研学基地104",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区研学基地104"
+  },
+  {
+    "name": "成都龙泉驿区纪念馆105",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区纪念馆105"
+  },
+  {
+    "name": "成都温江区游乐园106",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区游乐园106"
+  },
+  {
+    "name": "成都双流区艺术中心107",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区艺术中心107"
+  },
+  {
+    "name": "成都郫都区寺庙108",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区寺庙108"
+  },
+  {
+    "name": "成都新都区攀岩馆109",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区攀岩馆109"
+  },
+  {
+    "name": "成都都江堰市购物中心110",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市购物中心110"
+  },
+  {
+    "name": "成都彭州市学院111",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市学院111"
+  },
+  {
+    "name": "成都锦江区自然博物馆112",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区自然博物馆112"
+  },
+  {
+    "name": "成都青羊区植物园113",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区植物园113"
+  },
+  {
+    "name": "成都武侯区剧场114",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区剧场114"
+  },
+  {
+    "name": "成都成华区步行街115",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区步行街115"
+  },
+  {
+    "name": "成都金牛区足球馆116",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区足球馆116"
+  },
+  {
+    "name": "成都高新区创意园117",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区创意园117"
+  },
+  {
+    "name": "成都天府新区少年宫118",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区少年宫118"
+  },
+  {
+    "name": "成都龙泉驿区航空博物馆119",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区航空博物馆119"
+  },
+  {
+    "name": "成都温江区公园120",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区公园120"
+  },
+  {
+    "name": "成都双流区文化馆121",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区文化馆121"
+  },
+  {
+    "name": "成都郫都区古镇122",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区古镇122"
+  },
+  {
+    "name": "成都新都区健身房123",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区健身房123"
+  },
+  {
+    "name": "成都都江堰市会展中心124",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市会展中心124"
+  },
+  {
+    "name": "成都彭州市实践基地125",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市实践基地125"
+  },
+  {
+    "name": "成都锦江区民俗博物馆126",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区民俗博物馆126"
+  },
+  {
+    "name": "成都青羊区主题公园127",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区主题公园127"
+  },
+  {
+    "name": "成都武侯区青少年宫128",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区青少年宫128"
+  },
+  {
+    "name": "成都成华区道观129",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区道观129"
+  },
+  {
+    "name": "成都金牛区体育馆130",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区体育馆130"
+  },
+  {
+    "name": "成都高新区商场131",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区商场131"
+  },
+  {
+    "name": "成都天府新区学校132",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区学校132"
+  },
+  {
+    "name": "成都龙泉驿区科技馆133",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区科技馆133"
+  },
+  {
+    "name": "成都温江区动物园134",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区动物园134"
+  },
+  {
+    "name": "成都双流区音乐厅135",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区音乐厅135"
+  },
+  {
+    "name": "成都郫都区纪念馆136",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区纪念馆136"
+  },
+  {
+    "name": "成都新都区网球场137",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区网球场137"
+  },
+  {
+    "name": "成都都江堰市科技园138",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市科技园138"
+  },
+  {
+    "name": "成都彭州市青年中心139",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市青年中心139"
+  },
+  {
+    "name": "成都锦江区历史博物馆140",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区历史博物馆140"
+  },
+  {
+    "name": "成都青羊区森林公园141",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区森林公园141"
+  },
+  {
+    "name": "成都武侯区美术馆142",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区美术馆142"
+  },
+  {
+    "name": "成都成华区老街143",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "景点",
+    "address": "成都成华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成华区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "成华区"
+    ],
+    "id": "成都成华区老街143"
+  },
+  {
+    "name": "成都金牛区羽毛球馆144",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育",
+    "address": "成都金牛区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都金牛区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "金牛区"
+    ],
+    "id": "成都金牛区羽毛球馆144"
+  },
+  {
+    "name": "成都高新区博览中心145",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "商业",
+    "address": "成都高新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都高新区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "高新区"
+    ],
+    "id": "成都高新区博览中心145"
+  },
+  {
+    "name": "成都天府新区科普基地146",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "教育",
+    "address": "成都天府新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都天府新区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "天府新区"
+    ],
+    "id": "成都天府新区科普基地146"
+  },
+  {
+    "name": "成都龙泉驿区地质博物馆147",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "成都龙泉驿区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都龙泉驿区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "龙泉驿区"
+    ],
+    "id": "成都龙泉驿区地质博物馆147"
+  },
+  {
+    "name": "成都温江区儿童公园148",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "成都温江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都温江区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "温江区"
+    ],
+    "id": "成都温江区儿童公园148"
+  },
+  {
+    "name": "成都双流区工人文化宫149",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化",
+    "address": "成都双流区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都双流区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "双流区"
+    ],
+    "id": "成都双流区工人文化宫149"
+  },
+  {
+    "name": "成都郫都区景区150",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "景点",
+    "address": "成都郫都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都郫都区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "成都",
+      "郫都区"
+    ],
+    "id": "成都郫都区景区150"
+  },
+  {
+    "name": "成都新都区体育场151",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育",
+    "address": "成都新都区",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都新都区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "成都",
+      "新都区"
+    ],
+    "id": "成都新都区体育场151"
+  },
+  {
+    "name": "成都都江堰市步行街152",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "商业",
+    "address": "成都都江堰市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都都江堰市的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "成都",
+      "都江堰市"
+    ],
+    "id": "成都都江堰市步行街152"
+  },
+  {
+    "name": "成都彭州市培训机构153",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "教育",
+    "address": "成都彭州市",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都彭州市的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "成都",
+      "彭州市"
+    ],
+    "id": "成都彭州市培训机构153"
+  },
+  {
+    "name": "成都锦江区美术馆154",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "成都锦江区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都",
+      "锦江区"
+    ],
+    "id": "成都锦江区美术馆154"
+  },
+  {
+    "name": "成都青羊区海洋公园155",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "成都青羊区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都青羊区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都",
+      "青羊区"
+    ],
+    "id": "成都青羊区海洋公园155"
+  },
+  {
+    "name": "成都武侯区文化中心156",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化",
+    "address": "成都武侯区",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都武侯区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "成都",
+      "武侯区"
+    ],
+    "id": "成都武侯区文化中心156"
+  },
+  {
+    "name": "南京玄武区历史博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区历史博物馆"
+  },
+  {
+    "name": "南京秦淮区森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "公园",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区森林公园"
+  },
+  {
+    "name": "南京鼓楼区美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "文化",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区美术馆"
+  },
+  {
+    "name": "南京建邺区老街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "景点",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区老街"
+  },
+  {
+    "name": "南京雨花台区羽毛球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "体育",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区羽毛球馆"
+  },
+  {
+    "name": "南京栖霞区博览中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "商业",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区博览中心"
+  },
+  {
+    "name": "南京江宁区科普基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "教育",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区科普基地"
+  },
+  {
+    "name": "南京浦口区地质博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "博物馆",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区地质博物馆"
+  },
+  {
+    "name": "南京六合区儿童公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "公园",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区儿童公园"
+  },
+  {
+    "name": "南京溧水区工人文化宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "文化",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区工人文化宫"
+  },
+  {
+    "name": "南京高淳区景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "景点",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区景区"
+  },
+  {
+    "name": "南京玄武区体育场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "体育",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区体育场"
+  },
+  {
+    "name": "南京秦淮区步行街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "商业",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区步行街"
+  },
+  {
+    "name": "南京鼓楼区培训机构",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "教育",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区培训机构"
+  },
+  {
+    "name": "南京建邺区美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "博物馆",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区美术馆"
+  },
+  {
+    "name": "南京雨花台区海洋公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "公园",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区海洋公园"
+  },
+  {
+    "name": "南京栖霞区文化中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区文化中心"
+  },
+  {
+    "name": "南京江宁区故居",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "景点",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区故居"
+  },
+  {
+    "name": "南京浦口区高尔夫球场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "体育",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区高尔夫球场"
+  },
+  {
+    "name": "南京六合区产业园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "商业",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区产业园"
+  },
+  {
+    "name": "南京溧水区大学",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "教育",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区大学"
+  },
+  {
+    "name": "南京高淳区艺术博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "博物馆",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区艺术博物馆"
+  },
+  {
+    "name": "南京玄武区湿地公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区湿地公园"
+  },
+  {
+    "name": "南京秦淮区剧院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区剧院"
+  },
+  {
+    "name": "南京鼓楼区广场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "景点",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区广场"
+  },
+  {
+    "name": "南京建邺区篮球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "体育",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区篮球馆"
+  },
+  {
+    "name": "南京雨花台区文创园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "商业",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区文创园"
+  },
+  {
+    "name": "南京栖霞区教育中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "教育",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区教育中心"
+  },
+  {
+    "name": "南京江宁区工业博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "博物馆",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京江宁区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区工业博物馆"
+  },
+  {
+    "name": "南京浦口区生态公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区生态公园"
+  },
+  {
+    "name": "南京六合区图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "文化",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区图书馆"
+  },
+  {
+    "name": "南京溧水区风景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "景点",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区风景区"
+  },
+  {
+    "name": "南京高淳区游泳馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "体育",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区游泳馆"
+  },
+  {
+    "name": "南京玄武区商业街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "商业",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区商业街"
+  },
+  {
+    "name": "南京秦淮区研学基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "教育",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区研学基地"
+  },
+  {
+    "name": "南京鼓楼区纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "博物馆",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区纪念馆"
+  },
+  {
+    "name": "南京建邺区游乐园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区游乐园"
+  },
+  {
+    "name": "南京雨花台区艺术中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "文化",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区艺术中心"
+  },
+  {
+    "name": "南京栖霞区寺庙",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "景点",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区寺庙"
+  },
+  {
+    "name": "南京江宁区攀岩馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "体育",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区攀岩馆"
+  },
+  {
+    "name": "南京浦口区购物中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "商业",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区购物中心"
+  },
+  {
+    "name": "南京六合区学院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "教育",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区学院"
+  },
+  {
+    "name": "南京溧水区自然博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "博物馆",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区自然博物馆"
+  },
+  {
+    "name": "南京高淳区植物园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "公园",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区植物园"
+  },
+  {
+    "name": "南京玄武区剧场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区剧场"
+  },
+  {
+    "name": "南京秦淮区步行街45",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "景点",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区步行街45"
+  },
+  {
+    "name": "南京鼓楼区足球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "体育",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区足球馆"
+  },
+  {
+    "name": "南京建邺区创意园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "商业",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区创意园"
+  },
+  {
+    "name": "南京雨花台区少年宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "教育",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区少年宫"
+  },
+  {
+    "name": "南京栖霞区航空博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "博物馆",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区航空博物馆"
+  },
+  {
+    "name": "南京江宁区公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京江宁区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区公园"
+  },
+  {
+    "name": "南京浦口区文化馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "文化",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区文化馆"
+  },
+  {
+    "name": "南京六合区古镇",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "景点",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区古镇"
+  },
+  {
+    "name": "南京溧水区健身房",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "体育",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区健身房"
+  },
+  {
+    "name": "南京高淳区会展中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "商业",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区会展中心"
+  },
+  {
+    "name": "南京玄武区实践基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "教育",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区实践基地"
+  },
+  {
+    "name": "南京秦淮区民俗博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区民俗博物馆"
+  },
+  {
+    "name": "南京鼓楼区主题公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区主题公园"
+  },
+  {
+    "name": "南京建邺区青少年宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "文化",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区青少年宫"
+  },
+  {
+    "name": "南京雨花台区道观",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "景点",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区道观"
+  },
+  {
+    "name": "南京栖霞区体育馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "体育",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区体育馆"
+  },
+  {
+    "name": "南京江宁区商场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "商业",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区商场"
+  },
+  {
+    "name": "南京浦口区学校",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "教育",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区学校"
+  },
+  {
+    "name": "南京六合区科技馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "博物馆",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区科技馆"
+  },
+  {
+    "name": "南京溧水区动物园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "公园",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区动物园"
+  },
+  {
+    "name": "南京高淳区音乐厅",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "文化",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区音乐厅"
+  },
+  {
+    "name": "南京玄武区纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "景点",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区纪念馆"
+  },
+  {
+    "name": "南京秦淮区网球场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "体育",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区网球场"
+  },
+  {
+    "name": "南京鼓楼区科技园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "商业",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区科技园"
+  },
+  {
+    "name": "南京建邺区青年中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "教育",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区青年中心"
+  },
+  {
+    "name": "南京雨花台区历史博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "博物馆",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区历史博物馆"
+  },
+  {
+    "name": "南京栖霞区森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区森林公园"
+  },
+  {
+    "name": "南京江宁区美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "文化",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京江宁区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区美术馆"
+  },
+  {
+    "name": "南京浦口区老街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "景点",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区老街"
+  },
+  {
+    "name": "南京六合区羽毛球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "体育",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区羽毛球馆"
+  },
+  {
+    "name": "南京溧水区博览中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "商业",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区博览中心"
+  },
+  {
+    "name": "南京高淳区科普基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "教育",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区科普基地"
+  },
+  {
+    "name": "南京玄武区地质博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区地质博物馆"
+  },
+  {
+    "name": "南京秦淮区儿童公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "公园",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区儿童公园"
+  },
+  {
+    "name": "南京鼓楼区工人文化宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "文化",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区工人文化宫"
+  },
+  {
+    "name": "南京建邺区景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "景点",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区景区"
+  },
+  {
+    "name": "南京雨花台区体育场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "体育",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区体育场"
+  },
+  {
+    "name": "南京栖霞区步行街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "商业",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区步行街"
+  },
+  {
+    "name": "南京江宁区培训机构",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "教育",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区培训机构"
+  },
+  {
+    "name": "南京浦口区美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "博物馆",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区美术馆"
+  },
+  {
+    "name": "南京六合区海洋公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "公园",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区海洋公园"
+  },
+  {
+    "name": "南京溧水区文化中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "文化",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区文化中心"
+  },
+  {
+    "name": "南京高淳区故居",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "景点",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区故居"
+  },
+  {
+    "name": "南京玄武区高尔夫球场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "体育",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区高尔夫球场"
+  },
+  {
+    "name": "南京秦淮区产业园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "商业",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区产业园"
+  },
+  {
+    "name": "南京鼓楼区大学",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "教育",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区大学"
+  },
+  {
+    "name": "南京建邺区艺术博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "博物馆",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区艺术博物馆"
+  },
+  {
+    "name": "南京雨花台区湿地公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "公园",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区湿地公园"
+  },
+  {
+    "name": "南京栖霞区剧院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区剧院"
+  },
+  {
+    "name": "南京江宁区广场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "景点",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区广场"
+  },
+  {
+    "name": "南京浦口区篮球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "体育",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区篮球馆"
+  },
+  {
+    "name": "南京六合区文创园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "商业",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区文创园"
+  },
+  {
+    "name": "南京溧水区教育中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "教育",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区教育中心"
+  },
+  {
+    "name": "南京高淳区工业博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "博物馆",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区工业博物馆"
+  },
+  {
+    "name": "南京玄武区生态公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区生态公园"
+  },
+  {
+    "name": "南京秦淮区图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区图书馆"
+  },
+  {
+    "name": "南京鼓楼区风景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "景点",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区风景区"
+  },
+  {
+    "name": "南京建邺区游泳馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "体育",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区游泳馆"
+  },
+  {
+    "name": "南京雨花台区商业街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "商业",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区商业街"
+  },
+  {
+    "name": "南京栖霞区研学基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "教育",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区研学基地"
+  },
+  {
+    "name": "南京江宁区纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "博物馆",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京江宁区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区纪念馆"
+  },
+  {
+    "name": "南京浦口区游乐园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区游乐园"
+  },
+  {
+    "name": "南京六合区艺术中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "文化",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区艺术中心"
+  },
+  {
+    "name": "南京溧水区寺庙",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "景点",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区寺庙"
+  },
+  {
+    "name": "南京高淳区攀岩馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "体育",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区攀岩馆"
+  },
+  {
+    "name": "南京玄武区购物中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "商业",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区购物中心"
+  },
+  {
+    "name": "南京秦淮区学院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "教育",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区学院"
+  },
+  {
+    "name": "南京鼓楼区自然博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "博物馆",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区自然博物馆"
+  },
+  {
+    "name": "南京建邺区植物园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区植物园"
+  },
+  {
+    "name": "南京雨花台区剧场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "文化",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区剧场"
+  },
+  {
+    "name": "南京栖霞区步行街115",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "景点",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区步行街115"
+  },
+  {
+    "name": "南京江宁区足球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "体育",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区足球馆"
+  },
+  {
+    "name": "南京浦口区创意园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "商业",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区创意园"
+  },
+  {
+    "name": "南京六合区少年宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "教育",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区少年宫"
+  },
+  {
+    "name": "南京溧水区航空博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "博物馆",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区航空博物馆"
+  },
+  {
+    "name": "南京高淳区公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "公园",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区公园"
+  },
+  {
+    "name": "南京玄武区文化馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区文化馆"
+  },
+  {
+    "name": "南京秦淮区古镇",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "景点",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区古镇"
+  },
+  {
+    "name": "南京鼓楼区健身房",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "体育",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区健身房"
+  },
+  {
+    "name": "南京建邺区会展中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "商业",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区会展中心"
+  },
+  {
+    "name": "南京雨花台区实践基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "教育",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区实践基地"
+  },
+  {
+    "name": "南京栖霞区民俗博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "博物馆",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区民俗博物馆"
+  },
+  {
+    "name": "南京江宁区主题公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京江宁区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区主题公园"
+  },
+  {
+    "name": "南京浦口区青少年宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "文化",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区青少年宫"
+  },
+  {
+    "name": "南京六合区道观",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "景点",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区道观"
+  },
+  {
+    "name": "南京溧水区体育馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "体育",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区体育馆"
+  },
+  {
+    "name": "南京高淳区商场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "商业",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区商场"
+  },
+  {
+    "name": "南京玄武区学校",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "教育",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区学校"
+  },
+  {
+    "name": "南京秦淮区科技馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区科技馆"
+  },
+  {
+    "name": "南京鼓楼区动物园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区动物园"
+  },
+  {
+    "name": "南京建邺区音乐厅",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "文化",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区音乐厅"
+  },
+  {
+    "name": "南京雨花台区纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "景点",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区纪念馆"
+  },
+  {
+    "name": "南京栖霞区网球场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "体育",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区网球场"
+  },
+  {
+    "name": "南京江宁区科技园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "商业",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区科技园"
+  },
+  {
+    "name": "南京浦口区青年中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "教育",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区青年中心"
+  },
+  {
+    "name": "南京六合区历史博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "博物馆",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区历史博物馆"
+  },
+  {
+    "name": "南京溧水区森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "公园",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区森林公园"
+  },
+  {
+    "name": "南京高淳区美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "文化",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区美术馆"
+  },
+  {
+    "name": "南京玄武区老街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "景点",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区老街"
+  },
+  {
+    "name": "南京秦淮区羽毛球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "体育",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区羽毛球馆"
+  },
+  {
+    "name": "南京鼓楼区博览中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "商业",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区博览中心"
+  },
+  {
+    "name": "南京建邺区科普基地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "教育",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区科普基地"
+  },
+  {
+    "name": "南京雨花台区地质博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "博物馆",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区地质博物馆"
+  },
+  {
+    "name": "南京栖霞区儿童公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区儿童公园"
+  },
+  {
+    "name": "南京江宁区工人文化宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "文化",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京江宁区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区工人文化宫"
+  },
+  {
+    "name": "南京浦口区景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "景点",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京浦口区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区景区"
+  },
+  {
+    "name": "南京六合区体育场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "体育",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京六合区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区体育场"
+  },
+  {
+    "name": "南京溧水区步行街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "商业",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京溧水区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区步行街"
+  },
+  {
+    "name": "南京高淳区培训机构",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "教育",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区培训机构"
+  },
+  {
+    "name": "南京玄武区美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京玄武区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区美术馆"
+  },
+  {
+    "name": "南京秦淮区海洋公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "公园",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区海洋公园"
+  },
+  {
+    "name": "南京鼓楼区文化中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "文化",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京鼓楼区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区文化中心"
+  },
+  {
+    "name": "南京建邺区故居",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "景点",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京建邺区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区故居"
+  },
+  {
+    "name": "南京雨花台区高尔夫球场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "体育",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京雨花台区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区高尔夫球场"
+  },
+  {
+    "name": "南京栖霞区产业园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "商业",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京栖霞区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区产业园"
+  },
+  {
+    "name": "南京江宁区大学",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "教育",
+    "address": "南京江宁区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京江宁区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "江宁区"
+    ],
+    "id": "南京江宁区大学"
+  },
+  {
+    "name": "南京浦口区艺术博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "博物馆",
+    "address": "南京浦口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京浦口区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "浦口区"
+    ],
+    "id": "南京浦口区艺术博物馆"
+  },
+  {
+    "name": "南京六合区湿地公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "公园",
+    "address": "南京六合区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京六合区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "六合区"
+    ],
+    "id": "南京六合区湿地公园"
+  },
+  {
+    "name": "南京溧水区剧院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "文化",
+    "address": "南京溧水区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京溧水区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "溧水区"
+    ],
+    "id": "南京溧水区剧院"
+  },
+  {
+    "name": "南京高淳区广场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "景点",
+    "address": "南京高淳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京高淳区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "南京",
+      "高淳区"
+    ],
+    "id": "南京高淳区广场"
+  },
+  {
+    "name": "南京玄武区篮球馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "体育",
+    "address": "南京玄武区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京玄武区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "南京",
+      "玄武区"
+    ],
+    "id": "南京玄武区篮球馆"
+  },
+  {
+    "name": "南京秦淮区文创园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "商业",
+    "address": "南京秦淮区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京秦淮区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "南京",
+      "秦淮区"
+    ],
+    "id": "南京秦淮区文创园"
+  },
+  {
+    "name": "南京鼓楼区教育中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "教育",
+    "address": "南京鼓楼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京鼓楼区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "南京",
+      "鼓楼区"
+    ],
+    "id": "南京鼓楼区教育中心"
+  },
+  {
+    "name": "南京建邺区工业博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "博物馆",
+    "address": "南京建邺区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京建邺区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京",
+      "建邺区"
+    ],
+    "id": "南京建邺区工业博物馆"
+  },
+  {
+    "name": "南京雨花台区生态公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "公园",
+    "address": "南京雨花台区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京雨花台区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京",
+      "雨花台区"
+    ],
+    "id": "南京雨花台区生态公园"
+  },
+  {
+    "name": "南京栖霞区图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化",
+    "address": "南京栖霞区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京栖霞区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "南京",
+      "栖霞区"
+    ],
+    "id": "南京栖霞区图书馆"
+  },
+  {
+    "name": "武汉江岸区历史博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区历史博物馆"
+  },
+  {
+    "name": "武汉江汉区森林公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "公园",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区森林公园"
+  },
+  {
+    "name": "武汉硚口区美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "文化",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区美术馆"
+  },
+  {
+    "name": "武汉汉阳区老街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "景点",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区老街"
+  },
+  {
+    "name": "武汉武昌区羽毛球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "体育",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区羽毛球馆"
+  },
+  {
+    "name": "武汉青山区博览中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "商业",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区博览中心"
+  },
+  {
+    "name": "武汉洪山区科普基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "教育",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区科普基地"
+  },
+  {
+    "name": "武汉东西湖区地质博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "博物馆",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区地质博物馆"
+  },
+  {
+    "name": "武汉蔡甸区儿童公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "公园",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区儿童公园"
+  },
+  {
+    "name": "武汉江夏区工人文化宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "文化",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区工人文化宫"
+  },
+  {
+    "name": "武汉黄陂区景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "景点",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区景区"
+  },
+  {
+    "name": "武汉新洲区体育场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "体育",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区体育场"
+  },
+  {
+    "name": "武汉江岸区步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "商业",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区步行街"
+  },
+  {
+    "name": "武汉江汉区培训机构",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "教育",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区培训机构"
+  },
+  {
+    "name": "武汉硚口区美术馆14",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "博物馆",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区美术馆14"
+  },
+  {
+    "name": "武汉汉阳区海洋公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区海洋公园"
+  },
+  {
+    "name": "武汉武昌区文化中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区文化中心"
+  },
+  {
+    "name": "武汉青山区故居",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "景点",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区故居"
+  },
+  {
+    "name": "武汉洪山区高尔夫球场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "体育",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区高尔夫球场"
+  },
+  {
+    "name": "武汉东西湖区产业园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "商业",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区产业园"
+  },
+  {
+    "name": "武汉蔡甸区大学",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "教育",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区大学"
+  },
+  {
+    "name": "武汉江夏区艺术博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "博物馆",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区艺术博物馆"
+  },
+  {
+    "name": "武汉黄陂区湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "公园",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉黄陂区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区湿地公园"
+  },
+  {
+    "name": "武汉新洲区剧院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "文化",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉新洲区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区剧院"
+  },
+  {
+    "name": "武汉江岸区广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "景点",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区广场"
+  },
+  {
+    "name": "武汉江汉区篮球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "体育",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区篮球馆"
+  },
+  {
+    "name": "武汉硚口区文创园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "商业",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区文创园"
+  },
+  {
+    "name": "武汉汉阳区教育中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "教育",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区教育中心"
+  },
+  {
+    "name": "武汉武昌区工业博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区工业博物馆"
+  },
+  {
+    "name": "武汉青山区生态公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "公园",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉青山区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区生态公园"
+  },
+  {
+    "name": "武汉洪山区图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "文化",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉洪山区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区图书馆"
+  },
+  {
+    "name": "武汉东西湖区风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "景点",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区风景区"
+  },
+  {
+    "name": "武汉蔡甸区游泳馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "体育",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区游泳馆"
+  },
+  {
+    "name": "武汉江夏区商业街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "商业",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区商业街"
+  },
+  {
+    "name": "武汉黄陂区研学基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "教育",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区研学基地"
+  },
+  {
+    "name": "武汉新洲区纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "博物馆",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉新洲区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区纪念馆"
+  },
+  {
+    "name": "武汉江岸区游乐园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "公园",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区游乐园"
+  },
+  {
+    "name": "武汉江汉区艺术中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "文化",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区艺术中心"
+  },
+  {
+    "name": "武汉硚口区寺庙",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "景点",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区寺庙"
+  },
+  {
+    "name": "武汉汉阳区攀岩馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "体育",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区攀岩馆"
+  },
+  {
+    "name": "武汉武昌区购物中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "商业",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区购物中心"
+  },
+  {
+    "name": "武汉青山区学院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "教育",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区学院"
+  },
+  {
+    "name": "武汉洪山区自然博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "博物馆",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉洪山区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区自然博物馆"
+  },
+  {
+    "name": "武汉东西湖区植物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "公园",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区植物园"
+  },
+  {
+    "name": "武汉蔡甸区剧场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "文化",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区剧场"
+  },
+  {
+    "name": "武汉江夏区步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "景点",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区步行街"
+  },
+  {
+    "name": "武汉黄陂区足球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "体育",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区足球馆"
+  },
+  {
+    "name": "武汉新洲区创意园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "商业",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区创意园"
+  },
+  {
+    "name": "武汉江岸区少年宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "教育",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区少年宫"
+  },
+  {
+    "name": "武汉江汉区航空博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "博物馆",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区航空博物馆"
+  },
+  {
+    "name": "武汉硚口区公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "公园",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区公园"
+  },
+  {
+    "name": "武汉汉阳区文化馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区文化馆"
+  },
+  {
+    "name": "武汉武昌区古镇",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "景点",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区古镇"
+  },
+  {
+    "name": "武汉青山区健身房",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "体育",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区健身房"
+  },
+  {
+    "name": "武汉洪山区会展中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "商业",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区会展中心"
+  },
+  {
+    "name": "武汉东西湖区实践基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "教育",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区实践基地"
+  },
+  {
+    "name": "武汉蔡甸区民俗博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "博物馆",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区民俗博物馆"
+  },
+  {
+    "name": "武汉江夏区主题公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "公园",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区主题公园"
+  },
+  {
+    "name": "武汉黄陂区青少年宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "文化",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉黄陂区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区青少年宫"
+  },
+  {
+    "name": "武汉新洲区道观",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "景点",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区道观"
+  },
+  {
+    "name": "武汉江岸区体育馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "体育",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区体育馆"
+  },
+  {
+    "name": "武汉江汉区商场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "商业",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区商场"
+  },
+  {
+    "name": "武汉硚口区学校",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "教育",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区学校"
+  },
+  {
+    "name": "武汉汉阳区科技馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "博物馆",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区科技馆"
+  },
+  {
+    "name": "武汉武昌区动物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区动物园"
+  },
+  {
+    "name": "武汉青山区音乐厅",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "文化",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉青山区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区音乐厅"
+  },
+  {
+    "name": "武汉洪山区纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "景点",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区纪念馆"
+  },
+  {
+    "name": "武汉东西湖区网球场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "体育",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区网球场"
+  },
+  {
+    "name": "武汉蔡甸区科技园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "商业",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区科技园"
+  },
+  {
+    "name": "武汉江夏区青年中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "教育",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区青年中心"
+  },
+  {
+    "name": "武汉黄陂区历史博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "博物馆",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉黄陂区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区历史博物馆"
+  },
+  {
+    "name": "武汉新洲区森林公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "公园",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉新洲区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区森林公园"
+  },
+  {
+    "name": "武汉江岸区美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区美术馆"
+  },
+  {
+    "name": "武汉江汉区老街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "景点",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区老街"
+  },
+  {
+    "name": "武汉硚口区羽毛球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "体育",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区羽毛球馆"
+  },
+  {
+    "name": "武汉汉阳区博览中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "商业",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区博览中心"
+  },
+  {
+    "name": "武汉武昌区科普基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "教育",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区科普基地"
+  },
+  {
+    "name": "武汉青山区地质博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "博物馆",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉青山区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区地质博物馆"
+  },
+  {
+    "name": "武汉洪山区儿童公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉洪山区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区儿童公园"
+  },
+  {
+    "name": "武汉东西湖区工人文化宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "文化",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区工人文化宫"
+  },
+  {
+    "name": "武汉蔡甸区景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "景点",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区景区"
+  },
+  {
+    "name": "武汉江夏区体育场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "体育",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区体育场"
+  },
+  {
+    "name": "武汉黄陂区步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "商业",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区步行街"
+  },
+  {
+    "name": "武汉新洲区培训机构",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "教育",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区培训机构"
+  },
+  {
+    "name": "武汉江岸区美术馆84",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区美术馆84"
+  },
+  {
+    "name": "武汉江汉区海洋公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "公园",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区海洋公园"
+  },
+  {
+    "name": "武汉硚口区文化中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "文化",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区文化中心"
+  },
+  {
+    "name": "武汉汉阳区故居",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "景点",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区故居"
+  },
+  {
+    "name": "武汉武昌区高尔夫球场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "体育",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区高尔夫球场"
+  },
+  {
+    "name": "武汉青山区产业园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "商业",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区产业园"
+  },
+  {
+    "name": "武汉洪山区大学",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "教育",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区大学"
+  },
+  {
+    "name": "武汉东西湖区艺术博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "博物馆",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区艺术博物馆"
+  },
+  {
+    "name": "武汉蔡甸区湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "公园",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区湿地公园"
+  },
+  {
+    "name": "武汉江夏区剧院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "文化",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区剧院"
+  },
+  {
+    "name": "武汉黄陂区广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "景点",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区广场"
+  },
+  {
+    "name": "武汉新洲区篮球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "体育",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区篮球馆"
+  },
+  {
+    "name": "武汉江岸区文创园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "商业",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区文创园"
+  },
+  {
+    "name": "武汉江汉区教育中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "教育",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区教育中心"
+  },
+  {
+    "name": "武汉硚口区工业博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "博物馆",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区工业博物馆"
+  },
+  {
+    "name": "武汉汉阳区生态公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区生态公园"
+  },
+  {
+    "name": "武汉武昌区图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区图书馆"
+  },
+  {
+    "name": "武汉青山区风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "景点",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区风景区"
+  },
+  {
+    "name": "武汉洪山区游泳馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "体育",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区游泳馆"
+  },
+  {
+    "name": "武汉东西湖区商业街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "商业",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区商业街"
+  },
+  {
+    "name": "武汉蔡甸区研学基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "教育",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区研学基地"
+  },
+  {
+    "name": "武汉江夏区纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "博物馆",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区纪念馆"
+  },
+  {
+    "name": "武汉黄陂区游乐园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "公园",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉黄陂区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区游乐园"
+  },
+  {
+    "name": "武汉新洲区艺术中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "文化",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉新洲区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区艺术中心"
+  },
+  {
+    "name": "武汉江岸区寺庙",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "景点",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区寺庙"
+  },
+  {
+    "name": "武汉江汉区攀岩馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "体育",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区攀岩馆"
+  },
+  {
+    "name": "武汉硚口区购物中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "商业",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区购物中心"
+  },
+  {
+    "name": "武汉汉阳区学院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "教育",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区学院"
+  },
+  {
+    "name": "武汉武昌区自然博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区自然博物馆"
+  },
+  {
+    "name": "武汉青山区植物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "公园",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉青山区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区植物园"
+  },
+  {
+    "name": "武汉洪山区剧场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "文化",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉洪山区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区剧场"
+  },
+  {
+    "name": "武汉东西湖区步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "景点",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区步行街"
+  },
+  {
+    "name": "武汉蔡甸区足球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "体育",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区足球馆"
+  },
+  {
+    "name": "武汉江夏区创意园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "商业",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区创意园"
+  },
+  {
+    "name": "武汉黄陂区少年宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "教育",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区少年宫"
+  },
+  {
+    "name": "武汉新洲区航空博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "博物馆",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉新洲区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区航空博物馆"
+  },
+  {
+    "name": "武汉江岸区公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "公园",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区公园"
+  },
+  {
+    "name": "武汉江汉区文化馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "文化",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区文化馆"
+  },
+  {
+    "name": "武汉硚口区古镇",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "景点",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区古镇"
+  },
+  {
+    "name": "武汉汉阳区健身房",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "体育",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区健身房"
+  },
+  {
+    "name": "武汉武昌区会展中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "商业",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区会展中心"
+  },
+  {
+    "name": "武汉青山区实践基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "教育",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区实践基地"
+  },
+  {
+    "name": "武汉洪山区民俗博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "博物馆",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉洪山区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区民俗博物馆"
+  },
+  {
+    "name": "武汉东西湖区主题公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "公园",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区主题公园"
+  },
+  {
+    "name": "武汉蔡甸区青少年宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "文化",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区青少年宫"
+  },
+  {
+    "name": "武汉江夏区道观",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "景点",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区道观"
+  },
+  {
+    "name": "武汉黄陂区体育馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "体育",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区体育馆"
+  },
+  {
+    "name": "武汉新洲区商场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "商业",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区商场"
+  },
+  {
+    "name": "武汉江岸区学校",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "教育",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区学校"
+  },
+  {
+    "name": "武汉江汉区科技馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "博物馆",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区科技馆"
+  },
+  {
+    "name": "武汉硚口区动物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "公园",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区动物园"
+  },
+  {
+    "name": "武汉汉阳区音乐厅",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区音乐厅"
+  },
+  {
+    "name": "武汉武昌区纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "景点",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区纪念馆"
+  },
+  {
+    "name": "武汉青山区网球场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "体育",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区网球场"
+  },
+  {
+    "name": "武汉洪山区科技园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "商业",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区科技园"
+  },
+  {
+    "name": "武汉东西湖区青年中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "教育",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区青年中心"
+  },
+  {
+    "name": "武汉蔡甸区历史博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "博物馆",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区历史博物馆"
+  },
+  {
+    "name": "武汉江夏区森林公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "公园",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区森林公园"
+  },
+  {
+    "name": "武汉黄陂区美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "文化",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉黄陂区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区美术馆"
+  },
+  {
+    "name": "武汉新洲区老街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "景点",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区老街"
+  },
+  {
+    "name": "武汉江岸区羽毛球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "体育",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区羽毛球馆"
+  },
+  {
+    "name": "武汉江汉区博览中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "商业",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区博览中心"
+  },
+  {
+    "name": "武汉硚口区科普基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "教育",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区科普基地"
+  },
+  {
+    "name": "武汉汉阳区地质博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "博物馆",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区地质博物馆"
+  },
+  {
+    "name": "武汉武昌区儿童公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区儿童公园"
+  },
+  {
+    "name": "武汉青山区工人文化宫",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "文化",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉青山区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区工人文化宫"
+  },
+  {
+    "name": "武汉洪山区景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "景点",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区景区"
+  },
+  {
+    "name": "武汉东西湖区体育场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "体育",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉东西湖区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区体育场"
+  },
+  {
+    "name": "武汉蔡甸区步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "商业",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区步行街"
+  },
+  {
+    "name": "武汉江夏区培训机构",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "教育",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区培训机构"
+  },
+  {
+    "name": "武汉黄陂区美术馆154",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "博物馆",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉黄陂区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区美术馆154"
+  },
+  {
+    "name": "武汉新洲区海洋公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "公园",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉新洲区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区海洋公园"
+  },
+  {
+    "name": "武汉江岸区文化中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区文化中心"
+  },
+  {
+    "name": "武汉江汉区故居",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "景点",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区故居"
+  },
+  {
+    "name": "武汉硚口区高尔夫球场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "体育",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉硚口区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区高尔夫球场"
+  },
+  {
+    "name": "武汉汉阳区产业园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "商业",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区产业园"
+  },
+  {
+    "name": "武汉武昌区大学",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "教育",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区大学"
+  },
+  {
+    "name": "武汉青山区艺术博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "博物馆",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉青山区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区艺术博物馆"
+  },
+  {
+    "name": "武汉洪山区湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉洪山区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区湿地公园"
+  },
+  {
+    "name": "武汉东西湖区剧院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "文化",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区剧院"
+  },
+  {
+    "name": "武汉蔡甸区广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "景点",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉蔡甸区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区广场"
+  },
+  {
+    "name": "武汉江夏区篮球馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "体育",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江夏区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区篮球馆"
+  },
+  {
+    "name": "武汉黄陂区文创园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "商业",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区文创园"
+  },
+  {
+    "name": "武汉新洲区教育中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "教育",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区教育中心"
+  },
+  {
+    "name": "武汉江岸区工业博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江岸区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区工业博物馆"
+  },
+  {
+    "name": "武汉江汉区生态公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "公园",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江汉区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区生态公园"
+  },
+  {
+    "name": "武汉硚口区图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "文化",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区图书馆"
+  },
+  {
+    "name": "武汉汉阳区风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "景点",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉汉阳区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区风景区"
+  },
+  {
+    "name": "武汉武昌区游泳馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "体育",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武昌区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区游泳馆"
+  },
+  {
+    "name": "武汉青山区商业街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "商业",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区商业街"
+  },
+  {
+    "name": "武汉洪山区研学基地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "教育",
+    "address": "武汉洪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉洪山区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "洪山区"
+    ],
+    "id": "武汉洪山区研学基地"
+  },
+  {
+    "name": "武汉东西湖区纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "博物馆",
+    "address": "武汉东西湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉东西湖区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "东西湖区"
+    ],
+    "id": "武汉东西湖区纪念馆"
+  },
+  {
+    "name": "武汉蔡甸区游乐园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "公园",
+    "address": "武汉蔡甸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉蔡甸区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "蔡甸区"
+    ],
+    "id": "武汉蔡甸区游乐园"
+  },
+  {
+    "name": "武汉江夏区艺术中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "文化",
+    "address": "武汉江夏区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉江夏区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "江夏区"
+    ],
+    "id": "武汉江夏区艺术中心"
+  },
+  {
+    "name": "武汉黄陂区寺庙",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "景点",
+    "address": "武汉黄陂区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉黄陂区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "黄陂区"
+    ],
+    "id": "武汉黄陂区寺庙"
+  },
+  {
+    "name": "武汉新洲区攀岩馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "新洲区",
+    "type": "体育",
+    "address": "武汉新洲区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉新洲区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "武汉",
+      "新洲区"
+    ],
+    "id": "武汉新洲区攀岩馆"
+  },
+  {
+    "name": "武汉江岸区购物中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "商业",
+    "address": "武汉江岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江岸区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "武汉",
+      "江岸区"
+    ],
+    "id": "武汉江岸区购物中心"
+  },
+  {
+    "name": "武汉江汉区学院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "教育",
+    "address": "武汉江汉区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉江汉区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "武汉",
+      "江汉区"
+    ],
+    "id": "武汉江汉区学院"
+  },
+  {
+    "name": "武汉硚口区自然博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "博物馆",
+    "address": "武汉硚口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "武汉",
+      "硚口区"
+    ],
+    "id": "武汉硚口区自然博物馆"
+  },
+  {
+    "name": "武汉汉阳区植物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "武汉汉阳区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉汉阳区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉",
+      "汉阳区"
+    ],
+    "id": "武汉汉阳区植物园"
+  },
+  {
+    "name": "武汉武昌区剧场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化",
+    "address": "武汉武昌区",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武昌区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "武汉",
+      "武昌区"
+    ],
+    "id": "武汉武昌区剧场"
+  },
+  {
+    "name": "武汉青山区步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "景点",
+    "address": "武汉青山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉青山区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "武汉",
+      "青山区"
+    ],
+    "id": "武汉青山区步行街"
+  },
+  {
+    "name": "西安新城区历史博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "博物馆",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区历史博物馆"
+  },
+  {
+    "name": "西安碑林区森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "公园",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区森林公园"
+  },
+  {
+    "name": "西安莲湖区美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区美术馆"
+  },
+  {
+    "name": "西安雁塔区老街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "景点",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区老街"
+  },
+  {
+    "name": "西安未央区羽毛球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "体育",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区羽毛球馆"
+  },
+  {
+    "name": "西安灞桥区博览中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "商业",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区博览中心"
+  },
+  {
+    "name": "西安阎良区科普基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "教育",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区科普基地"
+  },
+  {
+    "name": "西安临潼区地质博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "博物馆",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区地质博物馆"
+  },
+  {
+    "name": "西安长安区儿童公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区儿童公园"
+  },
+  {
+    "name": "西安高陵区工人文化宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "文化",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区工人文化宫"
+  },
+  {
+    "name": "西安鄠邑区景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "景点",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区景区"
+  },
+  {
+    "name": "西安新城区体育场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "体育",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区体育场"
+  },
+  {
+    "name": "西安碑林区步行街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "商业",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区步行街"
+  },
+  {
+    "name": "西安莲湖区培训机构",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "教育",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区培训机构"
+  },
+  {
+    "name": "西安雁塔区美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "博物馆",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区美术馆"
+  },
+  {
+    "name": "西安未央区海洋公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区海洋公园"
+  },
+  {
+    "name": "西安灞桥区文化中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "文化",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区文化中心"
+  },
+  {
+    "name": "西安阎良区故居",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "景点",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区故居"
+  },
+  {
+    "name": "西安临潼区高尔夫球场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "体育",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区高尔夫球场"
+  },
+  {
+    "name": "西安长安区产业园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "商业",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区产业园"
+  },
+  {
+    "name": "西安高陵区大学",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "教育",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区大学"
+  },
+  {
+    "name": "西安鄠邑区艺术博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "博物馆",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区艺术博物馆"
+  },
+  {
+    "name": "西安新城区湿地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "公园",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区湿地公园"
+  },
+  {
+    "name": "西安碑林区剧院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区剧院"
+  },
+  {
+    "name": "西安莲湖区广场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "景点",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区广场"
+  },
+  {
+    "name": "西安雁塔区篮球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "体育",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区篮球馆"
+  },
+  {
+    "name": "西安未央区文创园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "商业",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区文创园"
+  },
+  {
+    "name": "西安灞桥区教育中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "教育",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区教育中心"
+  },
+  {
+    "name": "西安阎良区工业博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "博物馆",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区工业博物馆"
+  },
+  {
+    "name": "西安临潼区生态公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "公园",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区生态公园"
+  },
+  {
+    "name": "西安长安区图书馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "文化",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区图书馆"
+  },
+  {
+    "name": "西安高陵区风景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "景点",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区风景区"
+  },
+  {
+    "name": "西安鄠邑区游泳馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "体育",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区游泳馆"
+  },
+  {
+    "name": "西安新城区商业街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "商业",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区商业街"
+  },
+  {
+    "name": "西安碑林区研学基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "教育",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区研学基地"
+  },
+  {
+    "name": "西安莲湖区纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "博物馆",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区纪念馆"
+  },
+  {
+    "name": "西安雁塔区游乐园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区游乐园"
+  },
+  {
+    "name": "西安未央区艺术中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区艺术中心"
+  },
+  {
+    "name": "西安灞桥区寺庙",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "景点",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区寺庙"
+  },
+  {
+    "name": "西安阎良区攀岩馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "体育",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区攀岩馆"
+  },
+  {
+    "name": "西安临潼区购物中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "商业",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区购物中心"
+  },
+  {
+    "name": "西安长安区学院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "教育",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区学院"
+  },
+  {
+    "name": "西安高陵区自然博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "博物馆",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区自然博物馆"
+  },
+  {
+    "name": "西安鄠邑区植物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "公园",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区植物园"
+  },
+  {
+    "name": "西安新城区剧场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "文化",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区剧场"
+  },
+  {
+    "name": "西安碑林区步行街45",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "景点",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区步行街45"
+  },
+  {
+    "name": "西安莲湖区足球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "体育",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区足球馆"
+  },
+  {
+    "name": "西安雁塔区创意园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "商业",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区创意园"
+  },
+  {
+    "name": "西安未央区少年宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "教育",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区少年宫"
+  },
+  {
+    "name": "西安灞桥区航空博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "博物馆",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区航空博物馆"
+  },
+  {
+    "name": "西安阎良区公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "公园",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区公园"
+  },
+  {
+    "name": "西安临潼区文化馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "文化",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区文化馆"
+  },
+  {
+    "name": "西安长安区古镇",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "景点",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区古镇"
+  },
+  {
+    "name": "西安高陵区健身房",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "体育",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区健身房"
+  },
+  {
+    "name": "西安鄠邑区会展中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "商业",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区会展中心"
+  },
+  {
+    "name": "西安新城区实践基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "教育",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区实践基地"
+  },
+  {
+    "name": "西安碑林区民俗博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区民俗博物馆"
+  },
+  {
+    "name": "西安莲湖区主题公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "公园",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区主题公园"
+  },
+  {
+    "name": "西安雁塔区青少年宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区青少年宫"
+  },
+  {
+    "name": "西安未央区道观",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "景点",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区道观"
+  },
+  {
+    "name": "西安灞桥区体育馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "体育",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区体育馆"
+  },
+  {
+    "name": "西安阎良区商场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "商业",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区商场"
+  },
+  {
+    "name": "西安临潼区学校",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "教育",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区学校"
+  },
+  {
+    "name": "西安长安区科技馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "博物馆",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区科技馆"
+  },
+  {
+    "name": "西安高陵区动物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "公园",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区动物园"
+  },
+  {
+    "name": "西安鄠邑区音乐厅",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "文化",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区音乐厅"
+  },
+  {
+    "name": "西安新城区纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "景点",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区纪念馆"
+  },
+  {
+    "name": "西安碑林区网球场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "体育",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区网球场"
+  },
+  {
+    "name": "西安莲湖区科技园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "商业",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区科技园"
+  },
+  {
+    "name": "西安雁塔区青年中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "教育",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区青年中心"
+  },
+  {
+    "name": "西安未央区历史博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "博物馆",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区历史博物馆"
+  },
+  {
+    "name": "西安灞桥区森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "公园",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区森林公园"
+  },
+  {
+    "name": "西安阎良区美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "文化",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区美术馆"
+  },
+  {
+    "name": "西安临潼区老街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "景点",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区老街"
+  },
+  {
+    "name": "西安长安区羽毛球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "体育",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区羽毛球馆"
+  },
+  {
+    "name": "西安高陵区博览中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "商业",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区博览中心"
+  },
+  {
+    "name": "西安鄠邑区科普基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "教育",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区科普基地"
+  },
+  {
+    "name": "西安新城区地质博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "博物馆",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区地质博物馆"
+  },
+  {
+    "name": "西安碑林区儿童公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "公园",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区儿童公园"
+  },
+  {
+    "name": "西安莲湖区工人文化宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区工人文化宫"
+  },
+  {
+    "name": "西安雁塔区景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "景点",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区景区"
+  },
+  {
+    "name": "西安未央区体育场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "体育",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区体育场"
+  },
+  {
+    "name": "西安灞桥区步行街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "商业",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区步行街"
+  },
+  {
+    "name": "西安阎良区培训机构",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "教育",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区培训机构"
+  },
+  {
+    "name": "西安临潼区美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "博物馆",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区美术馆"
+  },
+  {
+    "name": "西安长安区海洋公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区海洋公园"
+  },
+  {
+    "name": "西安高陵区文化中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "文化",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区文化中心"
+  },
+  {
+    "name": "西安鄠邑区故居",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "景点",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区故居"
+  },
+  {
+    "name": "西安新城区高尔夫球场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "体育",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区高尔夫球场"
+  },
+  {
+    "name": "西安碑林区产业园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "商业",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区产业园"
+  },
+  {
+    "name": "西安莲湖区大学",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "教育",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区大学"
+  },
+  {
+    "name": "西安雁塔区艺术博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "博物馆",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区艺术博物馆"
+  },
+  {
+    "name": "西安未央区湿地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区湿地公园"
+  },
+  {
+    "name": "西安灞桥区剧院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "文化",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区剧院"
+  },
+  {
+    "name": "西安阎良区广场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "景点",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区广场"
+  },
+  {
+    "name": "西安临潼区篮球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "体育",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区篮球馆"
+  },
+  {
+    "name": "西安长安区文创园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "商业",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区文创园"
+  },
+  {
+    "name": "西安高陵区教育中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "教育",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区教育中心"
+  },
+  {
+    "name": "西安鄠邑区工业博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "博物馆",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区工业博物馆"
+  },
+  {
+    "name": "西安新城区生态公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "公园",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区生态公园"
+  },
+  {
+    "name": "西安碑林区图书馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区图书馆"
+  },
+  {
+    "name": "西安莲湖区风景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "景点",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区风景区"
+  },
+  {
+    "name": "西安雁塔区游泳馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "体育",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区游泳馆"
+  },
+  {
+    "name": "西安未央区商业街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "商业",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区商业街"
+  },
+  {
+    "name": "西安灞桥区研学基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "教育",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区研学基地"
+  },
+  {
+    "name": "西安阎良区纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "博物馆",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区纪念馆"
+  },
+  {
+    "name": "西安临潼区游乐园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "公园",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区游乐园"
+  },
+  {
+    "name": "西安长安区艺术中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "文化",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区艺术中心"
+  },
+  {
+    "name": "西安高陵区寺庙",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "景点",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区寺庙"
+  },
+  {
+    "name": "西安鄠邑区攀岩馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "体育",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区攀岩馆"
+  },
+  {
+    "name": "西安新城区购物中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "商业",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区购物中心"
+  },
+  {
+    "name": "西安碑林区学院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "教育",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区学院"
+  },
+  {
+    "name": "西安莲湖区自然博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "博物馆",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区自然博物馆"
+  },
+  {
+    "name": "西安雁塔区植物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区植物园"
+  },
+  {
+    "name": "西安未央区剧场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区剧场"
+  },
+  {
+    "name": "西安灞桥区步行街115",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "景点",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区步行街115"
+  },
+  {
+    "name": "西安阎良区足球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "体育",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区足球馆"
+  },
+  {
+    "name": "西安临潼区创意园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "商业",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区创意园"
+  },
+  {
+    "name": "西安长安区少年宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "教育",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区少年宫"
+  },
+  {
+    "name": "西安高陵区航空博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "博物馆",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区航空博物馆"
+  },
+  {
+    "name": "西安鄠邑区公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "公园",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区公园"
+  },
+  {
+    "name": "西安新城区文化馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "文化",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区文化馆"
+  },
+  {
+    "name": "西安碑林区古镇",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "景点",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区古镇"
+  },
+  {
+    "name": "西安莲湖区健身房",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "体育",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区健身房"
+  },
+  {
+    "name": "西安雁塔区会展中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "商业",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区会展中心"
+  },
+  {
+    "name": "西安未央区实践基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "教育",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区实践基地"
+  },
+  {
+    "name": "西安灞桥区民俗博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "博物馆",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区民俗博物馆"
+  },
+  {
+    "name": "西安阎良区主题公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "公园",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区主题公园"
+  },
+  {
+    "name": "西安临潼区青少年宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "文化",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区青少年宫"
+  },
+  {
+    "name": "西安长安区道观",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "景点",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区道观"
+  },
+  {
+    "name": "西安高陵区体育馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "体育",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区体育馆"
+  },
+  {
+    "name": "西安鄠邑区商场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "商业",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区商场"
+  },
+  {
+    "name": "西安新城区学校",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "教育",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区学校"
+  },
+  {
+    "name": "西安碑林区科技馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区科技馆"
+  },
+  {
+    "name": "西安莲湖区动物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "公园",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区动物园"
+  },
+  {
+    "name": "西安雁塔区音乐厅",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区音乐厅"
+  },
+  {
+    "name": "西安未央区纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "景点",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区纪念馆"
+  },
+  {
+    "name": "西安灞桥区网球场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "体育",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区网球场"
+  },
+  {
+    "name": "西安阎良区科技园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "商业",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区科技园"
+  },
+  {
+    "name": "西安临潼区青年中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "教育",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区青年中心"
+  },
+  {
+    "name": "西安长安区历史博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "博物馆",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区历史博物馆"
+  },
+  {
+    "name": "西安高陵区森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "公园",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区森林公园"
+  },
+  {
+    "name": "西安鄠邑区美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "文化",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区美术馆"
+  },
+  {
+    "name": "西安新城区老街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "景点",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区老街"
+  },
+  {
+    "name": "西安碑林区羽毛球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "体育",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区羽毛球馆"
+  },
+  {
+    "name": "西安莲湖区博览中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "商业",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区博览中心"
+  },
+  {
+    "name": "西安雁塔区科普基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "教育",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区科普基地"
+  },
+  {
+    "name": "西安未央区地质博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "博物馆",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区地质博物馆"
+  },
+  {
+    "name": "西安灞桥区儿童公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "公园",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区儿童公园"
+  },
+  {
+    "name": "西安阎良区工人文化宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "文化",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区工人文化宫"
+  },
+  {
+    "name": "西安临潼区景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "景点",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区景区"
+  },
+  {
+    "name": "西安长安区体育场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "体育",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区体育场"
+  },
+  {
+    "name": "西安高陵区步行街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "商业",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区步行街"
+  },
+  {
+    "name": "西安鄠邑区培训机构",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "教育",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区培训机构"
+  },
+  {
+    "name": "西安新城区美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "博物馆",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区美术馆"
+  },
+  {
+    "name": "西安碑林区海洋公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "公园",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区海洋公园"
+  },
+  {
+    "name": "西安莲湖区文化中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安莲湖区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区文化中心"
+  },
+  {
+    "name": "西安雁塔区故居",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "景点",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区故居"
+  },
+  {
+    "name": "西安未央区高尔夫球场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "体育",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区高尔夫球场"
+  },
+  {
+    "name": "西安灞桥区产业园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "商业",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区产业园"
+  },
+  {
+    "name": "西安阎良区大学",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "教育",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区大学"
+  },
+  {
+    "name": "西安临潼区艺术博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "博物馆",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区艺术博物馆"
+  },
+  {
+    "name": "西安长安区湿地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区湿地公园"
+  },
+  {
+    "name": "西安高陵区剧院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "文化",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安高陵区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区剧院"
+  },
+  {
+    "name": "西安鄠邑区广场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "景点",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安鄠邑区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区广场"
+  },
+  {
+    "name": "西安新城区篮球馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "体育",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安新城区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区篮球馆"
+  },
+  {
+    "name": "西安碑林区文创园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "商业",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安碑林区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区文创园"
+  },
+  {
+    "name": "西安莲湖区教育中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "教育",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区教育中心"
+  },
+  {
+    "name": "西安雁塔区工业博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "博物馆",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安雁塔区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区工业博物馆"
+  },
+  {
+    "name": "西安未央区生态公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安未央区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区生态公园"
+  },
+  {
+    "name": "西安灞桥区图书馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "文化",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安灞桥区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区图书馆"
+  },
+  {
+    "name": "西安阎良区风景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "景点",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安阎良区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区风景区"
+  },
+  {
+    "name": "西安临潼区游泳馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "体育",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安临潼区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区游泳馆"
+  },
+  {
+    "name": "西安长安区商业街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "商业",
+    "address": "西安长安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安长安区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "长安区"
+    ],
+    "id": "西安长安区商业街"
+  },
+  {
+    "name": "西安高陵区研学基地",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "高陵区",
+    "type": "教育",
+    "address": "西安高陵区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安高陵区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "高陵区"
+    ],
+    "id": "西安高陵区研学基地"
+  },
+  {
+    "name": "西安鄠邑区纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "博物馆",
+    "address": "西安鄠邑区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安鄠邑区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "鄠邑区"
+    ],
+    "id": "西安鄠邑区纪念馆"
+  },
+  {
+    "name": "西安新城区游乐园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "公园",
+    "address": "西安新城区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安新城区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "新城区"
+    ],
+    "id": "西安新城区游乐园"
+  },
+  {
+    "name": "西安碑林区艺术中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化",
+    "address": "西安碑林区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安碑林区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "西安",
+      "碑林区"
+    ],
+    "id": "西安碑林区艺术中心"
+  },
+  {
+    "name": "西安莲湖区寺庙",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "景点",
+    "address": "西安莲湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安莲湖区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "西安",
+      "莲湖区"
+    ],
+    "id": "西安莲湖区寺庙"
+  },
+  {
+    "name": "西安雁塔区攀岩馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "体育",
+    "address": "西安雁塔区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安雁塔区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "西安",
+      "雁塔区"
+    ],
+    "id": "西安雁塔区攀岩馆"
+  },
+  {
+    "name": "西安未央区购物中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "商业",
+    "address": "西安未央区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安未央区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "西安",
+      "未央区"
+    ],
+    "id": "西安未央区购物中心"
+  },
+  {
+    "name": "西安灞桥区学院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "教育",
+    "address": "西安灞桥区",
+    "transport": "",
+    "fee": "收费",
+    "description": "西安灞桥区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "西安",
+      "灞桥区"
+    ],
+    "id": "西安灞桥区学院"
+  },
+  {
+    "name": "西安阎良区自然博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "阎良区",
+    "type": "博物馆",
+    "address": "西安阎良区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安阎良区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "西安",
+      "阎良区"
+    ],
+    "id": "西安阎良区自然博物馆"
+  },
+  {
+    "name": "西安临潼区植物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "公园",
+    "address": "西安临潼区",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安临潼区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安",
+      "临潼区"
+    ],
+    "id": "西安临潼区植物园"
+  },
+  {
+    "name": "重庆渝中区历史博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区历史博物馆"
+  },
+  {
+    "name": "重庆江北区森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区森林公园"
+  },
+  {
+    "name": "重庆南岸区美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区美术馆"
+  },
+  {
+    "name": "重庆九龙坡区老街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "景点",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区老街"
+  },
+  {
+    "name": "重庆沙坪坝区羽毛球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "体育",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区羽毛球馆"
+  },
+  {
+    "name": "重庆大渡口区博览中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "商业",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区博览中心"
+  },
+  {
+    "name": "重庆北碚区科普基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "教育",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区科普基地"
+  },
+  {
+    "name": "重庆渝北区地质博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "博物馆",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区地质博物馆"
+  },
+  {
+    "name": "重庆巴南区儿童公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区儿童公园"
+  },
+  {
+    "name": "重庆两江新区工人文化宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "文化",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区工人文化宫"
+  },
+  {
+    "name": "重庆武隆区景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "景点",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区景区"
+  },
+  {
+    "name": "重庆大足区体育场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "体育",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区体育场"
+  },
+  {
+    "name": "重庆南川区步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "商业",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区步行街"
+  },
+  {
+    "name": "重庆渝中区培训机构",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "教育",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区培训机构"
+  },
+  {
+    "name": "重庆江北区美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "博物馆",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区美术馆"
+  },
+  {
+    "name": "重庆南岸区海洋公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "公园",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区海洋公园"
+  },
+  {
+    "name": "重庆九龙坡区文化中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "文化",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆九龙坡区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区文化中心"
+  },
+  {
+    "name": "重庆沙坪坝区故居",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "景点",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区故居"
+  },
+  {
+    "name": "重庆大渡口区高尔夫球场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "体育",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区高尔夫球场"
+  },
+  {
+    "name": "重庆北碚区产业园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "商业",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区产业园"
+  },
+  {
+    "name": "重庆渝北区大学",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "教育",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区大学"
+  },
+  {
+    "name": "重庆巴南区艺术博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "博物馆",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区艺术博物馆"
+  },
+  {
+    "name": "重庆两江新区湿地公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "公园",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区湿地公园"
+  },
+  {
+    "name": "重庆武隆区剧院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "文化",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆武隆区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区剧院"
+  },
+  {
+    "name": "重庆大足区广场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "景点",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区广场"
+  },
+  {
+    "name": "重庆南川区篮球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "体育",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区篮球馆"
+  },
+  {
+    "name": "重庆渝中区文创园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "商业",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区文创园"
+  },
+  {
+    "name": "重庆江北区教育中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "教育",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区教育中心"
+  },
+  {
+    "name": "重庆南岸区工业博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "博物馆",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区工业博物馆"
+  },
+  {
+    "name": "重庆九龙坡区生态公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "公园",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆九龙坡区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区生态公园"
+  },
+  {
+    "name": "重庆沙坪坝区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区图书馆"
+  },
+  {
+    "name": "重庆大渡口区风景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "景点",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区风景区"
+  },
+  {
+    "name": "重庆北碚区游泳馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "体育",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区游泳馆"
+  },
+  {
+    "name": "重庆渝北区商业街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "商业",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区商业街"
+  },
+  {
+    "name": "重庆巴南区研学基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "教育",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区研学基地"
+  },
+  {
+    "name": "重庆两江新区纪念馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "博物馆",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区纪念馆"
+  },
+  {
+    "name": "重庆武隆区游乐园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "公园",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆武隆区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区游乐园"
+  },
+  {
+    "name": "重庆大足区艺术中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "文化",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大足区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区艺术中心"
+  },
+  {
+    "name": "重庆南川区寺庙",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "景点",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区寺庙"
+  },
+  {
+    "name": "重庆渝中区攀岩馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "体育",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区攀岩馆"
+  },
+  {
+    "name": "重庆江北区购物中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "商业",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区购物中心"
+  },
+  {
+    "name": "重庆南岸区学院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "教育",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区学院"
+  },
+  {
+    "name": "重庆九龙坡区自然博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆九龙坡区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区自然博物馆"
+  },
+  {
+    "name": "重庆沙坪坝区植物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区植物园"
+  },
+  {
+    "name": "重庆大渡口区剧场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "文化",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大渡口区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区剧场"
+  },
+  {
+    "name": "重庆北碚区步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "景点",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区步行街"
+  },
+  {
+    "name": "重庆渝北区足球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "体育",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区足球馆"
+  },
+  {
+    "name": "重庆巴南区创意园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "商业",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区创意园"
+  },
+  {
+    "name": "重庆两江新区少年宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "教育",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区少年宫"
+  },
+  {
+    "name": "重庆武隆区航空博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "博物馆",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆武隆区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区航空博物馆"
+  },
+  {
+    "name": "重庆大足区公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "公园",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大足区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区公园"
+  },
+  {
+    "name": "重庆南川区文化馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "文化",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南川区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区文化馆"
+  },
+  {
+    "name": "重庆渝中区古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "景点",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区古镇"
+  },
+  {
+    "name": "重庆江北区健身房",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "体育",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区健身房"
+  },
+  {
+    "name": "重庆南岸区会展中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "商业",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区会展中心"
+  },
+  {
+    "name": "重庆九龙坡区实践基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "教育",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区实践基地"
+  },
+  {
+    "name": "重庆沙坪坝区民俗博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "博物馆",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区民俗博物馆"
+  },
+  {
+    "name": "重庆大渡口区主题公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "公园",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大渡口区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区主题公园"
+  },
+  {
+    "name": "重庆北碚区青少年宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "文化",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北碚区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区青少年宫"
+  },
+  {
+    "name": "重庆渝北区道观",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "景点",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区道观"
+  },
+  {
+    "name": "重庆巴南区体育馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "体育",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区体育馆"
+  },
+  {
+    "name": "重庆两江新区商场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "商业",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区商场"
+  },
+  {
+    "name": "重庆武隆区学校",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "教育",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区学校"
+  },
+  {
+    "name": "重庆大足区科技馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "博物馆",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大足区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区科技馆"
+  },
+  {
+    "name": "重庆南川区动物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "公园",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南川区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区动物园"
+  },
+  {
+    "name": "重庆渝中区音乐厅",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区音乐厅"
+  },
+  {
+    "name": "重庆江北区纪念馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "景点",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区纪念馆"
+  },
+  {
+    "name": "重庆南岸区网球场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "体育",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区网球场"
+  },
+  {
+    "name": "重庆九龙坡区科技园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "商业",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区科技园"
+  },
+  {
+    "name": "重庆沙坪坝区青年中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "教育",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区青年中心"
+  },
+  {
+    "name": "重庆大渡口区历史博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "博物馆",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大渡口区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区历史博物馆"
+  },
+  {
+    "name": "重庆北碚区森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "公园",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北碚区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区森林公园"
+  },
+  {
+    "name": "重庆渝北区美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "文化",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区美术馆"
+  },
+  {
+    "name": "重庆巴南区老街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "景点",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区老街"
+  },
+  {
+    "name": "重庆两江新区羽毛球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "体育",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区羽毛球馆"
+  },
+  {
+    "name": "重庆武隆区博览中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "商业",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区博览中心"
+  },
+  {
+    "name": "重庆大足区科普基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "教育",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区科普基地"
+  },
+  {
+    "name": "重庆南川区地质博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "博物馆",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南川区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区地质博物馆"
+  },
+  {
+    "name": "重庆渝中区儿童公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "公园",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区儿童公园"
+  },
+  {
+    "name": "重庆江北区工人文化宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区工人文化宫"
+  },
+  {
+    "name": "重庆南岸区景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "景点",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区景区"
+  },
+  {
+    "name": "重庆九龙坡区体育场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "体育",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区体育场"
+  },
+  {
+    "name": "重庆沙坪坝区步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "商业",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区步行街"
+  },
+  {
+    "name": "重庆大渡口区培训机构",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "教育",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区培训机构"
+  },
+  {
+    "name": "重庆北碚区美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "博物馆",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北碚区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区美术馆"
+  },
+  {
+    "name": "重庆渝北区海洋公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区海洋公园"
+  },
+  {
+    "name": "重庆巴南区文化中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "文化",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区文化中心"
+  },
+  {
+    "name": "重庆两江新区故居",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "景点",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区故居"
+  },
+  {
+    "name": "重庆武隆区高尔夫球场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "体育",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区高尔夫球场"
+  },
+  {
+    "name": "重庆大足区产业园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "商业",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区产业园"
+  },
+  {
+    "name": "重庆南川区大学",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "教育",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区大学"
+  },
+  {
+    "name": "重庆渝中区艺术博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区艺术博物馆"
+  },
+  {
+    "name": "重庆江北区湿地公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区湿地公园"
+  },
+  {
+    "name": "重庆南岸区剧院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区剧院"
+  },
+  {
+    "name": "重庆九龙坡区广场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "景点",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区广场"
+  },
+  {
+    "name": "重庆沙坪坝区篮球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "体育",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区篮球馆"
+  },
+  {
+    "name": "重庆大渡口区文创园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "商业",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区文创园"
+  },
+  {
+    "name": "重庆北碚区教育中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "教育",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区教育中心"
+  },
+  {
+    "name": "重庆渝北区工业博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "博物馆",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区工业博物馆"
+  },
+  {
+    "name": "重庆巴南区生态公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区生态公园"
+  },
+  {
+    "name": "重庆两江新区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "文化",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区图书馆"
+  },
+  {
+    "name": "重庆武隆区风景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "景点",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区风景区"
+  },
+  {
+    "name": "重庆大足区游泳馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "体育",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区游泳馆"
+  },
+  {
+    "name": "重庆南川区商业街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "商业",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区商业街"
+  },
+  {
+    "name": "重庆渝中区研学基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "教育",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区研学基地"
+  },
+  {
+    "name": "重庆江北区纪念馆105",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "博物馆",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区纪念馆105"
+  },
+  {
+    "name": "重庆南岸区游乐园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "公园",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区游乐园"
+  },
+  {
+    "name": "重庆九龙坡区艺术中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "文化",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆九龙坡区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区艺术中心"
+  },
+  {
+    "name": "重庆沙坪坝区寺庙",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "景点",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区寺庙"
+  },
+  {
+    "name": "重庆大渡口区攀岩馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "体育",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区攀岩馆"
+  },
+  {
+    "name": "重庆北碚区购物中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "商业",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区购物中心"
+  },
+  {
+    "name": "重庆渝北区学院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "教育",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区学院"
+  },
+  {
+    "name": "重庆巴南区自然博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "博物馆",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区自然博物馆"
+  },
+  {
+    "name": "重庆两江新区植物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "公园",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区植物园"
+  },
+  {
+    "name": "重庆武隆区剧场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "文化",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆武隆区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区剧场"
+  },
+  {
+    "name": "重庆大足区步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "景点",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区步行街"
+  },
+  {
+    "name": "重庆南川区足球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "体育",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区足球馆"
+  },
+  {
+    "name": "重庆渝中区创意园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "商业",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区创意园"
+  },
+  {
+    "name": "重庆江北区少年宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "教育",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区少年宫"
+  },
+  {
+    "name": "重庆南岸区航空博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "博物馆",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区航空博物馆"
+  },
+  {
+    "name": "重庆九龙坡区公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "公园",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆九龙坡区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区公园"
+  },
+  {
+    "name": "重庆沙坪坝区文化馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区文化馆"
+  },
+  {
+    "name": "重庆大渡口区古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "景点",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区古镇"
+  },
+  {
+    "name": "重庆北碚区健身房",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "体育",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区健身房"
+  },
+  {
+    "name": "重庆渝北区会展中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "商业",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区会展中心"
+  },
+  {
+    "name": "重庆巴南区实践基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "教育",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区实践基地"
+  },
+  {
+    "name": "重庆两江新区民俗博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "博物馆",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区民俗博物馆"
+  },
+  {
+    "name": "重庆武隆区主题公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "公园",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆武隆区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区主题公园"
+  },
+  {
+    "name": "重庆大足区青少年宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "文化",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大足区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区青少年宫"
+  },
+  {
+    "name": "重庆南川区道观",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "景点",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区道观"
+  },
+  {
+    "name": "重庆渝中区体育馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "体育",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区体育馆"
+  },
+  {
+    "name": "重庆江北区商场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "商业",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区商场"
+  },
+  {
+    "name": "重庆南岸区学校",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "教育",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区学校"
+  },
+  {
+    "name": "重庆九龙坡区科技馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆九龙坡区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区科技馆"
+  },
+  {
+    "name": "重庆沙坪坝区动物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区动物园"
+  },
+  {
+    "name": "重庆大渡口区音乐厅",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "文化",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大渡口区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区音乐厅"
+  },
+  {
+    "name": "重庆北碚区纪念馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "景点",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区纪念馆"
+  },
+  {
+    "name": "重庆渝北区网球场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "体育",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区网球场"
+  },
+  {
+    "name": "重庆巴南区科技园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "商业",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区科技园"
+  },
+  {
+    "name": "重庆两江新区青年中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "教育",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区青年中心"
+  },
+  {
+    "name": "重庆武隆区历史博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "博物馆",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆武隆区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区历史博物馆"
+  },
+  {
+    "name": "重庆大足区森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "公园",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大足区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区森林公园"
+  },
+  {
+    "name": "重庆南川区美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "文化",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南川区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区美术馆"
+  },
+  {
+    "name": "重庆渝中区老街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "景点",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝中区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区老街"
+  },
+  {
+    "name": "重庆江北区羽毛球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "体育",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区羽毛球馆"
+  },
+  {
+    "name": "重庆南岸区博览中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "商业",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区博览中心"
+  },
+  {
+    "name": "重庆九龙坡区科普基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "教育",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区科普基地"
+  },
+  {
+    "name": "重庆沙坪坝区地质博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "博物馆",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆沙坪坝区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区地质博物馆"
+  },
+  {
+    "name": "重庆大渡口区儿童公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "公园",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大渡口区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区儿童公园"
+  },
+  {
+    "name": "重庆北碚区工人文化宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "文化",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北碚区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区工人文化宫"
+  },
+  {
+    "name": "重庆渝北区景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "景点",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆渝北区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区景区"
+  },
+  {
+    "name": "重庆巴南区体育场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "体育",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区体育场"
+  },
+  {
+    "name": "重庆两江新区步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "商业",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区步行街"
+  },
+  {
+    "name": "重庆武隆区培训机构",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "教育",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区培训机构"
+  },
+  {
+    "name": "重庆大足区美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "博物馆",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大足区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区美术馆"
+  },
+  {
+    "name": "重庆南川区海洋公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "公园",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南川区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区海洋公园"
+  },
+  {
+    "name": "重庆渝中区文化中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区文化中心"
+  },
+  {
+    "name": "重庆江北区故居",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "景点",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆江北区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区故居"
+  },
+  {
+    "name": "重庆南岸区高尔夫球场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "体育",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区高尔夫球场"
+  },
+  {
+    "name": "重庆九龙坡区产业园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "商业",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区产业园"
+  },
+  {
+    "name": "重庆沙坪坝区大学",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "教育",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区大学"
+  },
+  {
+    "name": "重庆大渡口区艺术博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "博物馆",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆大渡口区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区艺术博物馆"
+  },
+  {
+    "name": "重庆北碚区湿地公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "公园",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北碚区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区湿地公园"
+  },
+  {
+    "name": "重庆渝北区剧院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "文化",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区剧院"
+  },
+  {
+    "name": "重庆巴南区广场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "景点",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆巴南区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区广场"
+  },
+  {
+    "name": "重庆两江新区篮球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "体育",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区篮球馆"
+  },
+  {
+    "name": "重庆武隆区文创园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "商业",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区文创园"
+  },
+  {
+    "name": "重庆大足区教育中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "教育",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区教育中心"
+  },
+  {
+    "name": "重庆南川区工业博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "博物馆",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南川区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区工业博物馆"
+  },
+  {
+    "name": "重庆渝中区生态公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "公园",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区生态公园"
+  },
+  {
+    "name": "重庆江北区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区图书馆"
+  },
+  {
+    "name": "重庆南岸区风景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "景点",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南岸区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区风景区"
+  },
+  {
+    "name": "重庆九龙坡区游泳馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "体育",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区游泳馆"
+  },
+  {
+    "name": "重庆沙坪坝区商业街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "商业",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区商业街"
+  },
+  {
+    "name": "重庆大渡口区研学基地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "教育",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区研学基地"
+  },
+  {
+    "name": "重庆北碚区纪念馆175",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "博物馆",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北碚区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区纪念馆175"
+  },
+  {
+    "name": "重庆渝北区游乐园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区游乐园"
+  },
+  {
+    "name": "重庆巴南区艺术中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "文化",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区艺术中心"
+  },
+  {
+    "name": "重庆两江新区寺庙",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "景点",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆两江新区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区寺庙"
+  },
+  {
+    "name": "重庆武隆区攀岩馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "体育",
+    "address": "重庆武隆区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆武隆区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "武隆区"
+    ],
+    "id": "重庆武隆区攀岩馆"
+  },
+  {
+    "name": "重庆大足区购物中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "商业",
+    "address": "重庆大足区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大足区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "大足区"
+    ],
+    "id": "重庆大足区购物中心"
+  },
+  {
+    "name": "重庆南川区学院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "教育",
+    "address": "重庆南川区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆南川区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "南川区"
+    ],
+    "id": "重庆南川区学院"
+  },
+  {
+    "name": "重庆渝中区自然博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "重庆渝中区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝中区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "渝中区"
+    ],
+    "id": "重庆渝中区自然博物馆"
+  },
+  {
+    "name": "重庆江北区植物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "重庆江北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆江北区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "江北区"
+    ],
+    "id": "重庆江北区植物园"
+  },
+  {
+    "name": "重庆南岸区剧场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化",
+    "address": "重庆南岸区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆南岸区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "南岸区"
+    ],
+    "id": "重庆南岸区剧场"
+  },
+  {
+    "name": "重庆九龙坡区步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "景点",
+    "address": "重庆九龙坡区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆九龙坡区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "重庆",
+      "九龙坡区"
+    ],
+    "id": "重庆九龙坡区步行街"
+  },
+  {
+    "name": "重庆沙坪坝区足球馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "体育",
+    "address": "重庆沙坪坝区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆沙坪坝区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "重庆",
+      "沙坪坝区"
+    ],
+    "id": "重庆沙坪坝区足球馆"
+  },
+  {
+    "name": "重庆大渡口区创意园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "商业",
+    "address": "重庆大渡口区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆大渡口区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "重庆",
+      "大渡口区"
+    ],
+    "id": "重庆大渡口区创意园"
+  },
+  {
+    "name": "重庆北碚区少年宫",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "教育",
+    "address": "重庆北碚区",
+    "transport": "",
+    "fee": "收费",
+    "description": "重庆北碚区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "重庆",
+      "北碚区"
+    ],
+    "id": "重庆北碚区少年宫"
+  },
+  {
+    "name": "重庆渝北区航空博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "博物馆",
+    "address": "重庆渝北区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆渝北区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆",
+      "渝北区"
+    ],
+    "id": "重庆渝北区航空博物馆"
+  },
+  {
+    "name": "重庆巴南区公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "重庆巴南区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆巴南区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆",
+      "巴南区"
+    ],
+    "id": "重庆巴南区公园"
+  },
+  {
+    "name": "重庆两江新区文化馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "文化",
+    "address": "重庆两江新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆两江新区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "重庆",
+      "两江新区"
+    ],
+    "id": "重庆两江新区文化馆"
+  },
+  {
+    "name": "深圳福田区历史博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区历史博物馆"
+  },
+  {
+    "name": "深圳罗湖区森林公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区森林公园"
+  },
+  {
+    "name": "深圳南山区美术馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区美术馆"
+  },
+  {
+    "name": "深圳宝安区老街",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "景点",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区老街"
+  },
+  {
+    "name": "深圳龙岗区羽毛球馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区羽毛球馆"
+  },
+  {
+    "name": "深圳龙华区博览中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "商业",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区博览中心"
+  },
+  {
+    "name": "深圳光明区科普基地",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "教育",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区科普基地"
+  },
+  {
+    "name": "深圳坪山区地质博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区地质博物馆"
+  },
+  {
+    "name": "深圳盐田区儿童公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "公园",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳盐田区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区儿童公园"
+  },
+  {
+    "name": "深圳大鹏新区工人文化宫",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏新区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区工人文化宫"
+  },
+  {
+    "name": "深圳福田区景区",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "景点",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区景区"
+  },
+  {
+    "name": "深圳罗湖区体育场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "体育",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区体育场"
+  },
+  {
+    "name": "深圳南山区步行街",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "商业",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区步行街"
+  },
+  {
+    "name": "深圳宝安区培训机构",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "教育",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区培训机构"
+  },
+  {
+    "name": "深圳龙岗区美术馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区美术馆"
+  },
+  {
+    "name": "深圳龙华区海洋公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区海洋公园"
+  },
+  {
+    "name": "深圳光明区文化中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区文化中心"
+  },
+  {
+    "name": "深圳坪山区故居",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "景点",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区故居"
+  },
+  {
+    "name": "深圳盐田区高尔夫球场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "体育",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区高尔夫球场"
+  },
+  {
+    "name": "深圳大鹏新区产业园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "商业",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区产业园"
+  },
+  {
+    "name": "深圳福田区大学",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "教育",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区大学"
+  },
+  {
+    "name": "深圳罗湖区艺术博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "博物馆",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区艺术博物馆"
+  },
+  {
+    "name": "深圳南山区湿地公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区湿地公园"
+  },
+  {
+    "name": "深圳宝安区剧院",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区剧院"
+  },
+  {
+    "name": "深圳龙岗区广场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "景点",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区广场"
+  },
+  {
+    "name": "深圳龙华区篮球馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "体育",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区篮球馆"
+  },
+  {
+    "name": "深圳光明区文创园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "商业",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区文创园"
+  },
+  {
+    "name": "深圳坪山区教育中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "教育",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区教育中心"
+  },
+  {
+    "name": "深圳盐田区工业博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳盐田区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区工业博物馆"
+  },
+  {
+    "name": "深圳大鹏新区生态公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏新区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区生态公园"
+  },
+  {
+    "name": "深圳福田区图书馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区图书馆"
+  },
+  {
+    "name": "深圳罗湖区风景区",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "景点",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区风景区"
+  },
+  {
+    "name": "深圳南山区游泳馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "体育",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区游泳馆"
+  },
+  {
+    "name": "深圳宝安区商业街",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "商业",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区商业街"
+  },
+  {
+    "name": "深圳龙岗区研学基地",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "教育",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区研学基地"
+  },
+  {
+    "name": "深圳龙华区纪念馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "博物馆",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区纪念馆"
+  },
+  {
+    "name": "深圳光明区游乐园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区游乐园"
+  },
+  {
+    "name": "深圳坪山区艺术中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "文化",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区艺术中心"
+  },
+  {
+    "name": "深圳盐田区寺庙",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "景点",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区寺庙"
+  },
+  {
+    "name": "深圳大鹏新区攀岩馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "体育",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区攀岩馆"
+  },
+  {
+    "name": "深圳福田区购物中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "商业",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区购物中心"
+  },
+  {
+    "name": "深圳罗湖区学院",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "教育",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区学院"
+  },
+  {
+    "name": "深圳南山区自然博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区自然博物馆"
+  },
+  {
+    "name": "深圳宝安区植物园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区植物园"
+  },
+  {
+    "name": "深圳龙岗区剧场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区剧场"
+  },
+  {
+    "name": "深圳龙华区步行街",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "景点",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区步行街"
+  },
+  {
+    "name": "深圳光明区足球馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "体育",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区足球馆"
+  },
+  {
+    "name": "深圳坪山区创意园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "商业",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区创意园"
+  },
+  {
+    "name": "深圳盐田区少年宫",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "教育",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区少年宫"
+  },
+  {
+    "name": "深圳大鹏新区航空博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏新区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区航空博物馆"
+  },
+  {
+    "name": "深圳福田区公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "公园",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区公园"
+  },
+  {
+    "name": "深圳罗湖区文化馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "文化",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区文化馆"
+  },
+  {
+    "name": "深圳南山区古镇",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "景点",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区古镇"
+  },
+  {
+    "name": "深圳宝安区健身房",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "体育",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区健身房"
+  },
+  {
+    "name": "深圳龙岗区会展中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "商业",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区会展中心"
+  },
+  {
+    "name": "深圳龙华区实践基地",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "教育",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区实践基地"
+  },
+  {
+    "name": "深圳光明区民俗博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "博物馆",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区民俗博物馆"
+  },
+  {
+    "name": "深圳坪山区主题公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区主题公园"
+  },
+  {
+    "name": "深圳盐田区青少年宫",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "文化",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳盐田区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区青少年宫"
+  },
+  {
+    "name": "深圳大鹏新区道观",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "景点",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区道观"
+  },
+  {
+    "name": "深圳福田区体育馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "体育",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区体育馆"
+  },
+  {
+    "name": "深圳罗湖区商场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "商业",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区商场"
+  },
+  {
+    "name": "深圳南山区学校",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "教育",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区学校"
+  },
+  {
+    "name": "深圳宝安区科技馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区科技馆"
+  },
+  {
+    "name": "深圳龙岗区动物园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区动物园"
+  },
+  {
+    "name": "深圳龙华区音乐厅",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "文化",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区音乐厅"
+  },
+  {
+    "name": "深圳光明区纪念馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "景点",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区纪念馆"
+  },
+  {
+    "name": "深圳坪山区网球场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "体育",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区网球场"
+  },
+  {
+    "name": "深圳盐田区科技园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "商业",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区科技园"
+  },
+  {
+    "name": "深圳大鹏新区青年中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "教育",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区青年中心"
+  },
+  {
+    "name": "深圳福田区历史博物馆70",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区历史博物馆70"
+  },
+  {
+    "name": "深圳罗湖区森林公园71",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区森林公园71"
+  },
+  {
+    "name": "深圳南山区美术馆72",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区美术馆72"
+  },
+  {
+    "name": "深圳宝安区老街73",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "景点",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的老街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区老街73"
+  },
+  {
+    "name": "深圳龙岗区羽毛球馆74",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的羽毛球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区羽毛球馆74"
+  },
+  {
+    "name": "深圳龙华区博览中心75",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "商业",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的博览中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区博览中心75"
+  },
+  {
+    "name": "深圳光明区科普基地76",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "教育",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的科普基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区科普基地76"
+  },
+  {
+    "name": "深圳坪山区地质博物馆77",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区的地质博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区地质博物馆77"
+  },
+  {
+    "name": "深圳盐田区儿童公园78",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "公园",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳盐田区的儿童公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区儿童公园78"
+  },
+  {
+    "name": "深圳大鹏新区工人文化宫79",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏新区的工人文化宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区工人文化宫79"
+  },
+  {
+    "name": "深圳福田区景区80",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "景点",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区景区80"
+  },
+  {
+    "name": "深圳罗湖区体育场81",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "体育",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的体育场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区体育场81"
+  },
+  {
+    "name": "深圳南山区步行街82",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "商业",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区步行街82"
+  },
+  {
+    "name": "深圳宝安区培训机构83",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "教育",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的培训机构，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区培训机构83"
+  },
+  {
+    "name": "深圳龙岗区美术馆84",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区美术馆84"
+  },
+  {
+    "name": "深圳龙华区海洋公园85",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华区的海洋公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区海洋公园85"
+  },
+  {
+    "name": "深圳光明区文化中心86",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区的文化中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区文化中心86"
+  },
+  {
+    "name": "深圳坪山区故居87",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "景点",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的故居，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区故居87"
+  },
+  {
+    "name": "深圳盐田区高尔夫球场88",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "体育",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的高尔夫球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区高尔夫球场88"
+  },
+  {
+    "name": "深圳大鹏新区产业园89",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "商业",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的产业园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区产业园89"
+  },
+  {
+    "name": "深圳福田区大学90",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "教育",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的大学，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区大学90"
+  },
+  {
+    "name": "深圳罗湖区艺术博物馆91",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "博物馆",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的艺术博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区艺术博物馆91"
+  },
+  {
+    "name": "深圳南山区湿地公园92",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的湿地公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区湿地公园92"
+  },
+  {
+    "name": "深圳宝安区剧院93",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区的剧院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区剧院93"
+  },
+  {
+    "name": "深圳龙岗区广场94",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "景点",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的广场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区广场94"
+  },
+  {
+    "name": "深圳龙华区篮球馆95",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "体育",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的篮球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区篮球馆95"
+  },
+  {
+    "name": "深圳光明区文创园96",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "商业",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的文创园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区文创园96"
+  },
+  {
+    "name": "深圳坪山区教育中心97",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "教育",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的教育中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区教育中心97"
+  },
+  {
+    "name": "深圳盐田区工业博物馆98",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳盐田区的工业博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区工业博物馆98"
+  },
+  {
+    "name": "深圳大鹏新区生态公园99",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏新区的生态公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区生态公园99"
+  },
+  {
+    "name": "深圳福田区图书馆100",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的图书馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区图书馆100"
+  },
+  {
+    "name": "深圳罗湖区风景区101",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "景点",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的风景区，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区风景区101"
+  },
+  {
+    "name": "深圳南山区游泳馆102",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "体育",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的游泳馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区游泳馆102"
+  },
+  {
+    "name": "深圳宝安区商业街103",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "商业",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的商业街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区商业街103"
+  },
+  {
+    "name": "深圳龙岗区研学基地104",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "教育",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的研学基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区研学基地104"
+  },
+  {
+    "name": "深圳龙华区纪念馆105",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "博物馆",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区纪念馆105"
+  },
+  {
+    "name": "深圳光明区游乐园106",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区的游乐园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区游乐园106"
+  },
+  {
+    "name": "深圳坪山区艺术中心107",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "文化",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区的艺术中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区艺术中心107"
+  },
+  {
+    "name": "深圳盐田区寺庙108",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "景点",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的寺庙，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区寺庙108"
+  },
+  {
+    "name": "深圳大鹏新区攀岩馆109",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "体育",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的攀岩馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区攀岩馆109"
+  },
+  {
+    "name": "深圳福田区购物中心110",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "商业",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的购物中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区购物中心110"
+  },
+  {
+    "name": "深圳罗湖区学院111",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "教育",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的学院，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区学院111"
+  },
+  {
+    "name": "深圳南山区自然博物馆112",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的自然博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区自然博物馆112"
+  },
+  {
+    "name": "深圳宝安区植物园113",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区的植物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区植物园113"
+  },
+  {
+    "name": "深圳龙岗区剧场114",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗区的剧场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区剧场114"
+  },
+  {
+    "name": "深圳龙华区步行街115",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "景点",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的步行街，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区步行街115"
+  },
+  {
+    "name": "深圳光明区足球馆116",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "体育",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的足球馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区足球馆116"
+  },
+  {
+    "name": "深圳坪山区创意园117",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "商业",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的创意园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区创意园117"
+  },
+  {
+    "name": "深圳盐田区少年宫118",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "教育",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区少年宫118"
+  },
+  {
+    "name": "深圳大鹏新区航空博物馆119",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏新区的航空博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区航空博物馆119"
+  },
+  {
+    "name": "深圳福田区公园120",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "公园",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区公园120"
+  },
+  {
+    "name": "深圳罗湖区文化馆121",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "文化",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的文化馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区文化馆121"
+  },
+  {
+    "name": "深圳南山区古镇122",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "景点",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的古镇，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区古镇122"
+  },
+  {
+    "name": "深圳宝安区健身房123",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "体育",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳宝安区的健身房，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区健身房123"
+  },
+  {
+    "name": "深圳龙岗区会展中心124",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "商业",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙岗区的会展中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区会展中心124"
+  },
+  {
+    "name": "深圳龙华区实践基地125",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "教育",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳龙华区的实践基地，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区实践基地125"
+  },
+  {
+    "name": "深圳光明区民俗博物馆126",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "博物馆",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区的民俗博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区民俗博物馆126"
+  },
+  {
+    "name": "深圳坪山区主题公园127",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区的主题公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区主题公园127"
+  },
+  {
+    "name": "深圳盐田区青少年宫128",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "文化",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳盐田区的青少年宫，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区青少年宫128"
+  },
+  {
+    "name": "深圳大鹏新区道观129",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "景点",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的道观，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区道观129"
+  },
+  {
+    "name": "深圳福田区体育馆130",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "体育",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳福田区的体育馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区体育馆130"
+  },
+  {
+    "name": "深圳罗湖区商场131",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "商业",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳罗湖区的商场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区商场131"
+  },
+  {
+    "name": "深圳南山区学校132",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "教育",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳南山区的学校，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区学校132"
+  },
+  {
+    "name": "深圳宝安区科技馆133",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "深圳宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区的科技馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "宝安区"
+    ],
+    "id": "深圳宝安区科技馆133"
+  },
+  {
+    "name": "深圳龙岗区动物园134",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "深圳龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗区的动物园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "龙岗区"
+    ],
+    "id": "深圳龙岗区动物园134"
+  },
+  {
+    "name": "深圳龙华区音乐厅135",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "文化",
+    "address": "深圳龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华区的音乐厅，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "龙华区"
+    ],
+    "id": "深圳龙华区音乐厅135"
+  },
+  {
+    "name": "深圳光明区纪念馆136",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "景点",
+    "address": "深圳光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳光明区的纪念馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "景点",
+      "深圳",
+      "光明区"
+    ],
+    "id": "深圳光明区纪念馆136"
+  },
+  {
+    "name": "深圳坪山区网球场137",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "体育",
+    "address": "深圳坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳坪山区的网球场，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "深圳",
+      "坪山区"
+    ],
+    "id": "深圳坪山区网球场137"
+  },
+  {
+    "name": "深圳盐田区科技园138",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "商业",
+    "address": "深圳盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳盐田区的科技园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "深圳",
+      "盐田区"
+    ],
+    "id": "深圳盐田区科技园138"
+  },
+  {
+    "name": "深圳大鹏新区青年中心139",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "教育",
+    "address": "深圳大鹏新区",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳大鹏新区的青年中心，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "教育",
+      "深圳",
+      "大鹏新区"
+    ],
+    "id": "深圳大鹏新区青年中心139"
+  },
+  {
+    "name": "深圳福田区历史博物馆140",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "深圳福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田区的历史博物馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳",
+      "福田区"
+    ],
+    "id": "深圳福田区历史博物馆140"
+  },
+  {
+    "name": "深圳罗湖区森林公园141",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "深圳罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳罗湖区的森林公园，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳",
+      "罗湖区"
+    ],
+    "id": "深圳罗湖区森林公园141"
+  },
+  {
+    "name": "深圳南山区美术馆142",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化",
+    "address": "深圳南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区的美术馆，提供各类文化、科普、休闲活动。",
+    "official_url": "",
+    "highlights": [
+      "文化",
+      "深圳",
+      "南山区"
+    ],
+    "id": "深圳南山区美术馆142"
   }
 ];
