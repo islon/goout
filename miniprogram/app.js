@@ -87,7 +87,7 @@ App({
     districtFilter: 'all',
     sourceFilter: 'all',
     feeFilter: 'all',
-    familyFilter: 'family',
+    familyFilter: 'all',
     searchQuery: '',
     exhibitions: localExhibitions,
     venues: localVenues,
