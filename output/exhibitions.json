@@ -12004,6 +12004,142 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "石景山科技馆儿童探索乐园",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆小小讲解员培训",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-08-03",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆儿童手工课",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "上海市历史博物馆儿童手工课",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆儿童手工课",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "红立方科技馆儿童探索乐园",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）儿童探索乐园",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-29",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆文物故事会",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "title": "音乐赏析之费玉清作品【下午场】",
     "name": "音乐赏析之费玉清作品【下午场】",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -13712,6 +13848,176 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "石景山科技馆科学实验秀",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "中国航天博物馆博物馆奇妙夜",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-02",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆小小讲解员培训",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-06",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "上海市历史博物馆博物馆奇妙夜",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆周末亲子导览",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆周末亲子导览",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆周末亲子导览",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "中国湿地博物馆文物故事会",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）科普小课堂",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-01",
+    "fee": "收费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳安全教育基地科学实验秀",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
     "title": "胭脂扣",
     "name": "胭脂扣",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -14615,6 +14921,159 @@
     ],
     "is_family_friendly": true,
     "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆小小讲解员培训",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-07",
+    "fee": "收费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆周末亲子导览",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆亲子研学营",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆博物馆奇妙夜",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆亲子手工读书会",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月第一周周六，阅读+手工结合。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "红立方科技馆科学实验秀",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）儿童探索乐园",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-02",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）儿童探索乐园",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆亲子研学营",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-03",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "title": "悦讲：奇境世界变形记",
@@ -25208,6 +25667,108 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "中国航天博物馆小小讲解员培训",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-19",
+    "fee": "收费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆亲子研学营",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-14",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆亲子研学营",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-14",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆小小讲解员培训",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-19",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆博物馆奇妙夜",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-13",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆机器人编程体验",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-19",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
     "name": "天府人文艺术图书馆绘本创作比赛",
     "venue": "天府人文艺术图书馆",
     "city": "chengdu",
@@ -26479,6 +27040,159 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "中国电影博物馆博物馆奇妙夜",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-16",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆博物馆奇妙夜",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海公安博物馆儿童手工课",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆周末亲子导览",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆亲子研学营",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-15",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆文物故事会",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆博物馆奇妙夜",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆少儿写作工作坊",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，写作指导与练习。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "红立方科技馆科普小课堂",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-16",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
   },
   {
     "title": "夏日科幻季——《749局》",
@@ -30956,6 +31670,142 @@
     "source": "江苏科技馆官网"
   },
   {
+    "name": "石景山科技馆科学实验秀",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆亲子研学营",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-19",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆儿童手工课",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆博物馆奇妙夜",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "深圳安全教育基地小小科学家工坊",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳安全教育基地机器人编程体验",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-26",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）安全科普体验",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆博物馆奇妙夜",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "title": "悦创手工课：骑鹅旅行记（二）",
     "name": "悦创手工课：骑鹅旅行记（二）",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -31626,6 +32476,74 @@
     ],
     "is_family_friendly": true,
     "source": "中科院水生生物博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆儿童手工课",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆周末亲子导览",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "红立方科技馆机器人编程体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-27",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆小小讲解员培训",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（三）",
@@ -33142,6 +34060,193 @@
     "source": "重庆自然资源科普馆官网"
   },
   {
+    "name": "石景山科技馆科普小课堂",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "石景山科技馆安全科普体验",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海公安博物馆小小讲解员培训",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-24",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆博物馆奇妙夜",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "上海电影博物馆博物馆奇妙夜",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-23",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "世博会博物馆儿童手工课",
+    "venue": "世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "世博会博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆儿童手工课",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆亲子研学营",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆儿童手工课",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆儿童探索乐园",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆文物故事会",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "title": "悦创手工课：骑鹅旅行记（四）",
     "name": "悦创手工课：骑鹅旅行记（四）",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -34140,6 +35245,159 @@
     ],
     "is_family_friendly": true,
     "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "中国航天博物馆儿童手工课",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-24",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆小小讲解员培训",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-25",
+    "fee": "收费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆儿童手工课",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆文物故事会",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆亲子研学营",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆小小科学家工坊",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "中国湿地博物馆博物馆奇妙夜",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆亲子手工读书会",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月第一周周六，阅读+手工结合。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "深圳安全教育基地儿童探索乐园",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
   },
   {
     "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
@@ -41210,6 +42468,210 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "钱学森图书馆文物故事会",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "钱学森图书馆博物馆奇妙夜",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "上海电影博物馆周末亲子导览",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆小小讲解员培训",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-09-04",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆文物故事会",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆周末亲子导览",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆文物故事会",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "红立方科技馆安全科普体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）安全科普体验",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-28",
+    "fee": "收费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳安全教育基地科普小课堂",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳安全教育基地儿童探索乐园",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）机器人编程体验",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-09-03",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
     "title": "夏日科幻季——《蜘蛛侠》",
     "name": "夏日科幻季——《蜘蛛侠》",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -45071,6 +46533,108 @@
     "source": "青龙寺遗址博物馆官网"
   },
   {
+    "name": "上海电影博物馆儿童手工课",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-02",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆儿童手工课",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-03",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆文物故事会",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆博物馆奇妙夜",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-03",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）科普小课堂",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-04",
+    "fee": "收费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）科普小课堂",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-02",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
     "name": "成都市文化馆亲子沙龙",
     "venue": "成都市文化馆",
     "city": "chengdu",
@@ -47477,6 +49041,108 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "中国电影博物馆博物馆奇妙夜",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-07",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "石景山科技馆小小科学家工坊",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "石景山科技馆机器人编程体验",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海市历史博物馆儿童手工课",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆小小讲解员培训",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-11",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆少儿写作工作坊",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-12",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，写作指导与练习。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
     "name": "南京城墙博物馆文物故事会",
     "venue": "南京城墙博物馆",
     "city": "nanjing",
@@ -48080,6 +49746,108 @@
     ],
     "is_family_friendly": true,
     "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "石景山科技馆小小科学家工坊",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-07",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆儿童手工课",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-07",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆文物故事会",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-08",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）机器人编程体验",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-12",
+    "fee": "收费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆周末亲子导览",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆小小讲解员培训",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-10",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "name": "四川科技馆儿童探索乐园",
@@ -48873,6 +50641,176 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "中国航天博物馆儿童手工课",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-09",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "世博会博物馆小小讲解员培训",
+    "venue": "世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-10",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "世博会博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆亲子研学营",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆博物馆奇妙夜",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆安全科普体验",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "红立方科技馆机器人编程体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-13",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）科学实验秀",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-08",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）科普小课堂",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-08",
+    "fee": "收费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳安全教育基地科学实验秀",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳安全教育基地儿童探索乐园",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
     "name": "成都市文化馆亲子音乐会",
     "venue": "成都市文化馆",
     "city": "chengdu",
@@ -49650,6 +51588,142 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆周末亲子导览",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-10",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆小小讲解员培训",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-14",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆小小讲解员培训",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-15",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆亲子研学营",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆文物故事会",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "红立方科技馆机器人编程体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-12",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳安全教育基地儿童探索乐园",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆周末亲子导览",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "name": "成都博物馆文物故事会",
@@ -53218,6 +55292,108 @@
     "source": "青龙寺遗址博物馆官网"
   },
   {
+    "name": "中国电影博物馆亲子研学营",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-14",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆亲子研学营",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-15",
+    "fee": "收费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆博物馆奇妙夜",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆周末亲子导览",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-13",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆小小讲解员培训",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-20",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "中国湿地博物馆小小讲解员培训",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-16",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
     "name": "成都博物馆博物馆奇妙夜",
     "venue": "成都博物馆",
     "city": "chengdu",
@@ -53833,6 +56009,108 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "中国航天博物馆小小讲解员培训",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-18",
+    "fee": "收费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆博物馆奇妙夜",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆文物故事会",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-14",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆周末亲子导览",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-16",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆博物馆奇妙夜",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-16",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆故事剧场",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-16",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，绘本故事表演。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
   },
   {
     "name": "陕西自然博物馆周末儿童博物馆",
@@ -59229,6 +61507,91 @@
     "source": "重庆巴人博物馆官网"
   },
   {
+    "name": "粤剧艺术博物馆亲子研学营",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-20",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆文物故事会",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "红立方科技馆小小科学家工坊",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "红立方科技馆安全科普体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）科普小课堂",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
     "name": "武汉规划展示馆文物手工体验",
     "venue": "武汉规划展示馆",
     "city": "wuhan",
@@ -60479,6 +62842,244 @@
     "source": "南京奥林匹克博物馆官网"
   },
   {
+    "name": "中国航天博物馆博物馆奇妙夜",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆文物故事会",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海公安博物馆亲子研学营",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-22",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "上海公安博物馆文物故事会",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆文物故事会",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆儿童手工课",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆儿童手工课",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆科学实验秀",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆科普小课堂",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆故事剧场",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，绘本故事表演。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆绘本创作比赛",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "比赛",
+    "description": "每月最后一个周六，鼓励孩子创作自己的绘本。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "红立方科技馆安全科普体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-21",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）儿童探索乐园",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-23",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆儿童手工课",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "name": "渡江胜利纪念馆周末儿童博物馆",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
@@ -61168,6 +63769,125 @@
     ],
     "is_family_friendly": true,
     "source": "广都博物馆官网"
+  },
+  {
+    "name": "石景山科技馆机器人编程体验",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-25",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "中国动漫博物馆文物故事会",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆文物故事会",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-23",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆少儿写作工作坊",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-28",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，写作指导与练习。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "红立方科技馆小小科学家工坊",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳安全教育基地机器人编程体验",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆周末亲子导览",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-22",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "name": "成都博物馆周末儿童博物馆",
@@ -62125,6 +64845,108 @@
     "source": "中科院水生生物博物馆官网"
   },
   {
+    "name": "中国电影博物馆儿童手工课",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-25",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆周末亲子导览",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-25",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "中国湿地博物馆文物故事会",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-25",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "红立方科技馆儿童探索乐园",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）科学实验秀",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-25",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）科普小课堂",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
     "name": "西安综合减灾科普馆航空航天科普日",
     "venue": "西安综合减灾科普馆",
     "city": "xian",
@@ -62728,6 +65550,125 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆文物故事会",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆周末亲子导览",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "世博会博物馆文物故事会",
+    "venue": "世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-25",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "世博会博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆周末亲子导览",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆博物馆奇妙夜",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-25",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆亲子手工读书会",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月第一周周六，阅读+手工结合。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "红立方科技馆科普小课堂",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-26",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -63719,6 +66660,40 @@
     ],
     "is_family_friendly": true,
     "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆周末亲子导览",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-26",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆小小讲解员培训",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-10-01",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
   },
   {
     "name": "成都博物馆小小讲解员培训",
@@ -64829,6 +67804,159 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "石景山科技馆机器人编程体验",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-10-02",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海公安博物馆儿童手工课",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆文物故事会",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "上海市历史博物馆儿童手工课",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆亲子研学营",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆博物馆奇妙夜",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆亲子研学营",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）儿童探索乐园",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆周末亲子导览",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "name": "四川科技馆小小科学家工坊",
@@ -66068,6 +69196,193 @@
     "source": "青龙寺遗址博物馆官网"
   },
   {
+    "name": "中国电影博物馆周末亲子导览",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "中国航天博物馆文物故事会",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-30",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆文物故事会",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海公安博物馆博物馆奇妙夜",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-28",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆文物故事会",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-28",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆小小讲解员培训",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-10-04",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "粤剧艺术博物馆亲子研学营",
+    "venue": "粤剧艺术博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "粤剧艺术博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆小小讲解员培训",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-10-02",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳安全教育基地科普小课堂",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-28",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）小小科学家工坊",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆儿童手工课",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "name": "湖北省博物馆小小讲解员培训",
     "venue": "湖北省博物馆",
     "city": "wuhan",
@@ -67150,6 +70465,159 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "中国电影博物馆博物馆奇妙夜",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆周末亲子导览",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆小小讲解员培训",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-03",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆文物故事会",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆文物故事会",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆科学实验秀",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆国学诵读班",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-02",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每周日上午10:00，国学经典诵读。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆绘本创作比赛",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "比赛",
+    "description": "每月最后一个周六，鼓励孩子创作自己的绘本。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "红立方科技馆科学实验秀",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
     "name": "古生物博物馆（南大）亲子研学之旅",
     "venue": "古生物博物馆（南大）",
     "city": "nanjing",
@@ -68068,6 +71536,108 @@
     ],
     "is_family_friendly": true,
     "source": "南京奥林匹克博物馆官网"
+  },
+  {
+    "name": "石景山科技馆儿童探索乐园",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海公安博物馆文物故事会",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-10-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆文物故事会",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-10-02",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆周末亲子导览",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆儿童探索乐园",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-10-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）儿童探索乐园",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-10-01",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
   },
   {
     "name": "成都自然博物馆（成都理工大学）周末亲子导览",
@@ -70400,6 +73970,159 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "石景山科技馆机器人编程体验",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-09",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "钱学森图书馆周末亲子导览",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "钱学森图书馆小小讲解员培训",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-10",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "世博会博物馆博物馆奇妙夜",
+    "venue": "世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "世博会博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆文物故事会",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆小小讲解员培训",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "红立方科技馆安全科普体验",
+    "venue": "红立方科技馆",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "红立方科技馆官网"
+  },
+  {
+    "name": "深圳安全教育基地小小科学家工坊",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-03",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）安全科普体验",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
     "name": "四川科技馆航空航天科普日",
     "venue": "四川科技馆",
     "city": "chengdu",
@@ -71266,6 +74989,125 @@
     "source": "江苏科技馆官网"
   },
   {
+    "name": "中国电影博物馆周末亲子导览",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆小小讲解员培训",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆博物馆奇妙夜",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆亲子研学营",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆文物故事会",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆安全科普体验",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆儿童手工课",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "name": "武汉规划展示馆周末儿童博物馆",
     "venue": "武汉规划展示馆",
     "city": "wuhan",
@@ -72025,6 +75867,125 @@
     ],
     "is_family_friendly": true,
     "source": "重庆自然资源科普馆官网"
+  },
+  {
+    "name": "中国航天博物馆周末亲子导览",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-05",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "世博会博物馆博物馆奇妙夜",
+    "venue": "世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "世博会博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆周末亲子导览",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆博物馆奇妙夜",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-07",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆文物故事会",
+    "venue": "浙江省非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省非物质文化遗产馆官网"
+  },
+  {
+    "name": "中国湿地博物馆周末亲子导览",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆文物故事会",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "name": "陕西科学技术馆科学实验秀",
@@ -72856,6 +76817,108 @@
     "source": "广都博物馆官网"
   },
   {
+    "name": "石景山科技馆科普小课堂",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "中国航天博物馆亲子研学营",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-06",
+    "fee": "收费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆周末亲子导览",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-07",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆文物故事会",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆儿童探索乐园",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆绘本创作比赛",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "type": "比赛",
+    "description": "每月最后一个周六，鼓励孩子创作自己的绘本。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
     "name": "成都规划馆考古体验日",
     "venue": "成都规划馆",
     "city": "chengdu",
@@ -73280,6 +77343,74 @@
     ],
     "is_family_friendly": true,
     "source": "重庆巴人博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆儿童手工课",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-07",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆文物故事会",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆小小讲解员培训",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆安全科普体验",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
   },
   {
     "name": "四川科技馆科学挑战赛",
@@ -73950,6 +78081,108 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆文物故事会",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-10",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "上海市历史博物馆小小讲解员培训",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆周末亲子导览",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆儿童探索乐园",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆安全科普体验",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "深圳安全教育基地机器人编程体验",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
   },
   {
     "name": "湖北省科技馆（新馆）科学实验秀",
@@ -74834,6 +79067,142 @@
     "source": "江苏科技馆官网"
   },
   {
+    "name": "中国电影博物馆博物馆奇妙夜",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "中国航天博物馆周末亲子导览",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-09",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "中国航天博物馆亲子研学营",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-10",
+    "fee": "收费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆亲子研学营",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-09",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆儿童手工课",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆博物馆奇妙夜",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-09",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆小小讲解员培训",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-16",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）儿童探索乐园",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-11",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
     "name": "南京博物院小小讲解员培训",
     "venue": "南京博物院",
     "city": "nanjing",
@@ -75436,6 +79805,125 @@
     ],
     "is_family_friendly": true,
     "source": "成都科幻馆官网"
+  },
+  {
+    "name": "中国航天博物馆亲子研学营",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-12",
+    "fee": "收费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆博物馆奇妙夜",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月最后一个周五晚，夜宿博物馆，星空下的历史之旅。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）安全科普体验",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-12",
+    "fee": "收费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳安全教育基地小小科学家工坊",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳安全教育基地机器人编程体验",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）安全科普体验",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）机器人编程体验",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-16",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第二周周日，零基础机器人编程入门。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
   },
   {
     "name": "渡江胜利纪念馆小小讲解员培训",
@@ -76092,6 +80580,91 @@
     ],
     "is_family_friendly": true,
     "source": "重庆巴人博物馆官网"
+  },
+  {
+    "name": "石景山科技馆科普小课堂",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "中国动漫博物馆儿童手工课",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-12",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆小小讲解员培训",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）科学实验秀",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-11",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆亲子研学营",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-12",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
   },
   {
     "name": "四川博物院小小讲解员培训",
@@ -77224,6 +81797,176 @@
     "source": "重庆万盛经开区博物馆官网"
   },
   {
+    "name": "中国电影博物馆小小讲解员培训",
+    "venue": "中国电影博物馆",
+    "city": "beijing",
+    "district": "朝阳区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-19",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国电影博物馆官网"
+  },
+  {
+    "name": "石景山科技馆安全科普体验",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "上海公安博物馆周末亲子导览",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "上海公安博物馆小小讲解员培训",
+    "venue": "上海公安博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-19",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海公安博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆文物故事会",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周日下午3:00，以文物为主题的故事分享会。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "广州十三行博物馆小小讲解员培训",
+    "venue": "广州十三行博物馆",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "广州十三行博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆小小讲解员培训",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-17",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆亲子绘本阅读会",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六上午10:00，精选绘本共读。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）小小科学家工坊",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-12",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六下午2:00，动手做实验，探索科学奥秘。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "大鹏国家地质公园博物馆儿童手工课",
+    "venue": "大鹏国家地质公园博物馆",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-12",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "大鹏国家地质公园博物馆官网"
+  },
+  {
     "name": "四川省图书馆亲子手工读书会",
     "venue": "四川省图书馆",
     "city": "chengdu",
@@ -78333,6 +83076,193 @@
     ],
     "is_family_friendly": true,
     "source": "重庆万盛经开区博物馆官网"
+  },
+  {
+    "name": "上海中国航海博物馆周末亲子导览",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海中国航海博物馆官网"
+  },
+  {
+    "name": "钱学森图书馆小小讲解员培训",
+    "venue": "钱学森图书馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-20",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "钱学森图书馆官网"
+  },
+  {
+    "name": "世博会博物馆亲子研学营",
+    "venue": "世博会博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "type": "研学",
+    "description": "每月第二周周日，全天沉浸式研学体验。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "世博会博物馆官网"
+  },
+  {
+    "name": "上海市历史博物馆小小讲解员培训",
+    "venue": "上海市历史博物馆",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-16",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海市历史博物馆官网"
+  },
+  {
+    "name": "南越王宫博物馆周末亲子导览",
+    "venue": "南越王宫博物馆",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "南越王宫博物馆官网"
+  },
+  {
+    "name": "中国动漫博物馆儿童手工课",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国动漫博物馆官网"
+  },
+  {
+    "name": "中国湿地博物馆小小讲解员培训",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-17",
+    "fee": "免费",
+    "type": "培训",
+    "description": "每月第一周周六，系统培训，结业可上岗讲解。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳图书馆北馆亲子手工读书会",
+    "venue": "深圳图书馆北馆",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每月第一周周六，阅读+手工结合。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳图书馆北馆官网"
+  },
+  {
+    "name": "深圳科学技术馆（新馆）科学实验秀",
+    "venue": "深圳科学技术馆（新馆）",
+    "city": "shenzhen",
+    "district": "光明区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学技术馆（新馆）官网"
+  },
+  {
+    "name": "深圳安全教育基地安全科普体验",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "type": "体验",
+    "description": "火灾、地震模拟逃生演练，学习安全知识。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
+  },
+  {
+    "name": "深圳科学馆（老馆）科学实验秀",
+    "venue": "深圳科学馆（老馆）",
+    "city": "shenzhen",
+    "district": "福田区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳科学馆（老馆）官网"
   },
   {
     "name": "四川科技馆安全科普体验",
@@ -81246,6 +86176,108 @@
     ],
     "is_family_friendly": true,
     "source": "青龙寺遗址博物馆官网"
+  },
+  {
+    "name": "石景山科技馆儿童探索乐园",
+    "venue": "石景山科技馆",
+    "city": "beijing",
+    "district": "石景山区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每日开放，低龄儿童专属区域。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "石景山科技馆官网"
+  },
+  {
+    "name": "中国航天博物馆周末亲子导览",
+    "venue": "中国航天博物馆",
+    "city": "beijing",
+    "district": "丰台区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六日上午10:00，专业讲解员带领亲子家庭深度参观，了解文物背后的故事。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国航天博物馆官网"
+  },
+  {
+    "name": "上海电影博物馆儿童手工课",
+    "venue": "上海电影博物馆",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-18",
+    "fee": "收费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "上海电影博物馆官网"
+  },
+  {
+    "name": "浙江省低碳科技馆科普小课堂",
+    "venue": "浙江省低碳科技馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-16",
+    "fee": "免费",
+    "type": "讲座",
+    "description": "每周日下午3:00，主题科普讲座。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "浙江省低碳科技馆官网"
+  },
+  {
+    "name": "中国湿地博物馆儿童手工课",
+    "venue": "中国湿地博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-16",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六下午2:00，结合馆内展览主题的手工制作活动。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "中国湿地博物馆官网"
+  },
+  {
+    "name": "深圳安全教育基地科学实验秀",
+    "venue": "深圳安全教育基地",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-16",
+    "fee": "免费",
+    "type": "体验",
+    "description": "每周六日上午10:30，精彩科学实验演示。",
+    "highlights": [
+      "亲子友好",
+      "官方活动"
+    ],
+    "is_family_friendly": true,
+    "source": "深圳安全教育基地官网"
   },
   {
     "title": "第18届深圳国际移动电子展",
