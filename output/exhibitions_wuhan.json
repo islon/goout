@@ -14,15 +14,16 @@
       "礼乐",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省博物馆小小讲解员夏令营",
     "venue": "湖北省博物馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-07-18",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-28",
     "fee": "免费需预约",
     "description": "面向中小学生的讲解员培训营，结业后可参与馆内志愿讲解服务。",
     "source": "武汉本地宝",
@@ -31,7 +32,8 @@
       "夏令营",
       "志愿"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省博物馆考古小达人体验",
@@ -48,7 +50,8 @@
       "体验",
       "亲子"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省博物馆越王勾践剑赏析课",
@@ -65,7 +68,8 @@
       "青铜器",
       "赏析"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省博物馆曾侯乙展厅研学",
@@ -82,7 +86,8 @@
       "战国",
       "礼乐"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省博物馆楚国漆器手工坊",
@@ -99,7 +104,8 @@
       "漆器",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省博物馆文物拓印体验",
@@ -116,7 +122,8 @@
       "非遗",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省博物馆青铜器铭文探秘",
@@ -133,7 +140,8 @@
       "铭文",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省博物馆元青花四爱图梅瓶鉴赏",
@@ -150,7 +158,8 @@
       "梅瓶",
       "鉴赏"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省博物馆郧县人头骨化石探秘",
@@ -167,7 +176,8 @@
       "化石",
       "人类起源"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉博物馆武汉历史通览研学",
@@ -184,7 +194,8 @@
       "通览",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武汉博物馆江汉揽胜展厅课堂",
@@ -201,7 +212,8 @@
       "明清",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉博物馆近代汉口商埠研学",
@@ -218,7 +230,8 @@
       "商埠",
       "近代"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武汉博物馆陶瓷修复体验",
@@ -235,7 +248,8 @@
       "修复",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉博物馆小小策展人训练营",
@@ -252,7 +266,8 @@
       "训练营",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉自然博物馆长江文明探源",
@@ -269,7 +284,8 @@
       "探源",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉自然博物馆恐龙化石探秘",
@@ -286,7 +302,8 @@
       "化石",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉自然博物馆贝林大河展厅课堂",
@@ -303,7 +320,8 @@
       "大河",
       "生态"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉自然博物馆昆虫标本制作",
@@ -320,7 +338,8 @@
       "标本",
       "制作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉自然博物馆夜宿奇妙夜",
@@ -337,7 +356,8 @@
       "博物馆",
       "奇妙夜"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "中山舰博物馆打捞历史研学",
@@ -354,7 +374,8 @@
       "打捞",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "中山舰博物馆舰艇模型制作",
@@ -371,7 +392,8 @@
       "舰艇",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "中山舰博物馆抗战历史课堂",
@@ -388,7 +410,8 @@
       "武汉会战",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "江汉关博物馆海关历史研学",
@@ -405,7 +428,8 @@
       "海关",
       "开埠"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "江汉关博物馆钟楼探秘",
@@ -422,7 +446,8 @@
       "机械",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "江汉关博物馆近代航运课堂",
@@ -439,7 +464,8 @@
       "近代",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "盘龙城遗址博物院商代城址研学",
@@ -456,7 +482,8 @@
       "商代",
       "城址"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院青铜冶炼体验",
@@ -473,7 +500,8 @@
       "冶炼",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院小小考古家",
@@ -490,7 +518,8 @@
       "探方",
       "亲子"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院陶器修复工坊",
@@ -507,15 +536,16 @@
       "修复",
       "工坊"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆科学实验秀暑期专场",
     "venue": "武汉科技馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-30",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-18",
     "fee": "免费需预约",
     "description": "暑期周末上演大型科学实验秀，干冰、液氮等趣味实验轮番登场。",
     "source": "武汉本地宝",
@@ -524,15 +554,16 @@
       "暑期",
       "互动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆机器人体验夏令营",
     "venue": "武汉科技馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-14",
-    "end_date": "2026-07-18",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-22",
     "fee": "收费",
     "description": "学习机器人组装与编程，让孩子与机器人对话互动。",
     "source": "武汉本地宝",
@@ -541,7 +572,8 @@
       "编程",
       "夏令营"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆宇宙展厅研学",
@@ -558,7 +590,8 @@
       "天文",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆生命展厅探秘",
@@ -575,7 +608,8 @@
       "人体",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆水展厅互动课堂",
@@ -592,7 +626,8 @@
       "互动",
       "课堂"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆信息展厅体验",
@@ -609,7 +644,8 @@
       "通信",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆航空航天梦工场",
@@ -626,7 +662,8 @@
       "梦工场",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆小小科学家训练营",
@@ -643,7 +680,8 @@
       "训练营",
       "实验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆物理实验秀",
@@ -660,7 +698,8 @@
       "实验秀",
       "趣味"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆化学魔术秀",
@@ -677,7 +716,8 @@
       "魔术",
       "科普"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆3D打印创客营",
@@ -694,7 +734,8 @@
       "创客",
       "建模"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆编程启蒙课",
@@ -711,7 +752,8 @@
       "启蒙",
       "思维"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉科技馆VR虚拟现实体验",
@@ -728,15 +770,16 @@
       "虚拟现实",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆暑期科普夏令营",
     "venue": "武汉科技馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-19",
+    "start_date": "2026-08-29",
+    "end_date": "2026-09-02",
     "fee": "收费",
     "description": "五日科普夏令营，涵盖多学科实验与户外探究。",
     "source": "武汉本地宝",
@@ -745,7 +788,8 @@
       "科普",
       "探究"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉科技馆科普剧表演",
@@ -762,7 +806,8 @@
       "儿童剧",
       "表演"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆光学科普营",
@@ -779,7 +824,8 @@
       "科普",
       "实验"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
@@ -796,7 +842,8 @@
       "竞技",
       "编程"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省科学技术馆新能源课堂",
@@ -813,7 +860,8 @@
       "太阳能",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省科学技术馆人工智能体验",
@@ -830,7 +878,8 @@
       "体验",
       "科技"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆航天器模型制作",
@@ -847,7 +896,8 @@
       "模型",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省科学技术馆数学奥秘探秘",
@@ -864,15 +914,16 @@
       "奥秘",
       "趣味"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆地质科普展",
     "venue": "湖北省科学技术馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-09-30",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-29",
     "fee": "免费",
     "description": "展出各类矿物岩石标本，普及地球科学知识。",
     "source": "武汉本地宝",
@@ -881,7 +932,8 @@
       "矿物",
       "科普"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆地震体验课堂",
@@ -898,7 +950,8 @@
       "体验",
       "自救"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆气象观测体验",
@@ -915,7 +968,8 @@
       "观测",
       "体验"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆生物多样性课堂",
@@ -932,7 +986,8 @@
       "生态",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省科学技术馆创客工坊",
@@ -949,7 +1004,8 @@
       "开源硬件",
       "发明"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆暑期科学营",
@@ -966,7 +1022,8 @@
       "沉浸式",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆科普电影周",
@@ -983,7 +1040,8 @@
       "巨幕",
       "电影周"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省科学技术馆科学嘉年华",
@@ -1000,7 +1058,8 @@
       "国庆",
       "互动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省科学技术馆科技馆奇妙夜",
@@ -1017,15 +1076,16 @@
       "夜场",
       "科普"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖绿道亲子骑行活动",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-10-07",
+    "end_date": "2026-12-02",
     "fee": "免费",
     "description": "沿东湖绿道亲子骑行，赏湖光山色享夏日清凉。",
     "source": "武汉本地宝",
@@ -1034,7 +1094,8 @@
       "骑行",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖听涛景区自然观察",
@@ -1051,15 +1112,16 @@
       "自然观察",
       "笔记"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖磨山荷花赏花会",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-15",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-04",
     "fee": "收费",
     "description": "磨山荷园百余品种荷花盛开，夏日赏荷盛会。",
     "source": "武汉本地宝",
@@ -1068,7 +1130,8 @@
       "磨山",
       "赏花"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "东湖落雁景区观鸟",
@@ -1085,7 +1148,8 @@
       "落雁",
       "湿地"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖樱花园夏日养护课堂",
@@ -1102,7 +1166,8 @@
       "养护",
       "课堂"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖绿道亲子定向越野",
@@ -1119,15 +1184,16 @@
       "越野",
       "打卡"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖帆船体验",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-07",
+    "end_date": "2026-09-23",
     "fee": "收费",
     "description": "在东湖帆船基地体验帆船驾驶，感受水上运动魅力。",
     "source": "武汉本地宝",
@@ -1136,7 +1202,8 @@
       "水上运动",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖皮划艇亲子营",
@@ -1153,7 +1220,8 @@
       "亲子",
       "水上"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "中科院武汉植物园夜探",
@@ -1170,7 +1238,8 @@
       "植物园",
       "昆虫"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "中科院武汉植物园植物标本制作",
@@ -1187,7 +1256,8 @@
       "植物",
       "制作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "中科院武汉植物园夏日花朵认知",
@@ -1204,7 +1274,8 @@
       "认知",
       "科普"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "中科院武汉植物园药草园探秘",
@@ -1221,7 +1292,8 @@
       "中医药",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "中科院武汉植物园水生植物课堂",
@@ -1238,7 +1310,8 @@
       "王莲",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "中科院武汉植物园昆虫夜观",
@@ -1255,7 +1328,8 @@
       "夜观",
       "自然"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "中科院武汉植物园亲子农耕体验",
@@ -1272,15 +1346,16 @@
       "采摘",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉动物园大熊猫馆探秘",
     "venue": "武汉动物园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-12",
+    "end_date": "2026-11-09",
     "fee": "收费",
     "description": "走进大熊猫馆了解国宝日常，参与熊猫科普问答。",
     "source": "武汉本地宝",
@@ -1289,7 +1364,8 @@
       "国宝",
       "科普"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉动物园金丝猴课堂",
@@ -1306,7 +1382,8 @@
       "灵长类",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉动物园小小饲养员体验",
@@ -1323,7 +1400,8 @@
       "体验",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉动物园鸟类展区研学",
@@ -1340,7 +1418,8 @@
       "研学",
       "生态"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武汉动物园夜行动物观察",
@@ -1357,15 +1436,16 @@
       "夜场",
       "观察"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "中山公园夏日游园会",
     "venue": "中山公园",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-26",
+    "end_date": "2026-11-26",
     "fee": "免费",
     "description": "中山公园夏日游园会，集游乐设施与亲子互动于一体。",
     "source": "武汉本地宝",
@@ -1374,7 +1454,8 @@
       "夏日",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "中山公园亲子定向越野",
@@ -1391,7 +1472,8 @@
       "越野",
       "闯关"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "中山公园花卉科普",
@@ -1408,7 +1490,8 @@
       "科普",
       "园林"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "解放公园湿地观鸟",
@@ -1425,7 +1508,8 @@
       "湿地",
       "白鹭"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "解放公园亲子草坪露营",
@@ -1442,7 +1526,8 @@
       "草坪",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "解放公园鸽子广场互动",
@@ -1459,7 +1544,8 @@
       "互动",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "解放公园园艺课堂",
@@ -1476,7 +1562,8 @@
       "养花",
       "课堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "后官湖湿地公园观鸟营",
@@ -1493,7 +1580,8 @@
       "湿地",
       "候鸟"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "后官湖湿地公园骑行",
@@ -1510,7 +1598,8 @@
       "环湖",
       "氧吧"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "后官湖湿地公园湿地生态探秘",
@@ -1527,15 +1616,16 @@
       "生态",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷夏日狂欢节",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-10",
+    "end_date": "2026-11-10",
     "fee": "需购票",
     "description": "暑期狂欢节盛大开启，电音派对与水上项目清凉一夏。",
     "source": "武汉本地宝",
@@ -1544,15 +1634,16 @@
       "电音",
       "水上"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷夜场电音节",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-27",
+    "end_date": "2026-11-22",
     "fee": "需购票",
     "description": "每周六夜场电音节，知名DJ助阵燃爆夏夜。",
     "source": "武汉本地宝",
@@ -1561,15 +1652,16 @@
       "电音节",
       "DJ"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷亲子过山车体验",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-19",
+    "end_date": "2026-09-18",
     "fee": "需购票",
     "description": "亲子过山车与家庭游乐项目，适合全家共享欢乐。",
     "source": "武汉本地宝",
@@ -1578,15 +1670,16 @@
       "亲子",
       "游乐"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉欢乐谷水上乐园派对",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-20",
+    "start_date": "2026-08-01",
+    "end_date": "2026-09-11",
     "fee": "需购票",
     "description": "欢乐谷水上乐园派对，造浪池与滑道清凉畅玩。",
     "source": "武汉本地宝",
@@ -1595,15 +1688,16 @@
       "造浪",
       "派对"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷卡通巡游",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-26",
     "fee": "需购票",
     "description": "每日卡通主题花车巡游，与卡通人偶互动合影。",
     "source": "武汉本地宝",
@@ -1612,7 +1706,8 @@
       "巡游",
       "花车"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷万圣节主题夜",
@@ -1629,7 +1724,8 @@
       "鬼屋",
       "cosplay"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷国庆欢乐周",
@@ -1646,7 +1742,8 @@
       "焰火",
       "演艺"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷中秋主题夜",
@@ -1663,15 +1760,16 @@
       "灯谜",
       "汉服"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉欢乐谷暑期亲子套票",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-14",
+    "end_date": "2026-12-14",
     "fee": "收费",
     "description": "推出暑期亲子特惠套票，两大一小畅玩全天。",
     "source": "武汉本地宝",
@@ -1680,7 +1778,8 @@
       "特惠",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉欢乐谷儿童剧专场",
@@ -1697,15 +1796,16 @@
       "童话",
       "互动"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "武汉玛雅海滩水公园戏水狂欢",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-06",
+    "end_date": "2026-10-06",
     "fee": "需购票",
     "description": "玛雅海滩戏水狂欢，数十项水上游乐设备畅快玩。",
     "source": "武汉本地宝",
@@ -1714,15 +1814,16 @@
       "狂欢",
       "水公园"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉玛雅海滩水公园造浪派对",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-20",
     "fee": "需购票",
     "description": "造浪池派对随音乐起浪，享受水上蹦迪的快乐。",
     "source": "武汉本地宝",
@@ -1731,15 +1832,16 @@
       "派对",
       "蹦迪"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉玛雅海滩水公园亲子水寨",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-22",
+    "end_date": "2026-09-21",
     "fee": "需购票",
     "description": "亲子水寨与儿童戏水区，安全有趣适合低龄儿童。",
     "source": "武汉本地宝",
@@ -1748,15 +1850,16 @@
       "儿童",
       "戏水"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉玛雅海滩水公园冲浪体验",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-25",
+    "start_date": "2026-09-03",
+    "end_date": "2026-10-17",
     "fee": "需购票",
     "description": "人工冲浪模拟体验，感受海浪般的冲浪乐趣。",
     "source": "武汉本地宝",
@@ -1765,15 +1868,16 @@
       "人工海浪",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉玛雅海滩水公园夜场嗨玩",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-26",
     "fee": "需购票",
     "description": "夜场开放至22点，灯光与水花交织的清凉之夜。",
     "source": "武汉本地宝",
@@ -1782,15 +1886,16 @@
       "灯光",
       "清凉"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉玛雅海滩水公园漂流探险",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-26",
+    "end_date": "2026-11-26",
     "fee": "需购票",
     "description": "环园漂流河悠闲探险，沿途欣赏玛雅风情景观。",
     "source": "武汉本地宝",
@@ -1799,7 +1904,8 @@
       "探险",
       "玛雅"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉玛雅海滩水公园泼水节",
@@ -1816,7 +1922,8 @@
       "清凉",
       "主题"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉玛雅海滩水公园电音泼水节",
@@ -1833,15 +1940,16 @@
       "泼水",
       "狂欢"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉玛雅海滩水公园儿童戏水区",
     "venue": "武汉玛雅海滩水公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-05",
+    "end_date": "2026-10-05",
     "fee": "需购票",
     "description": "专为儿童打造的浅水戏水区，配有迷你滑道。",
     "source": "武汉本地宝",
@@ -1850,15 +1958,16 @@
       "戏水",
       "浅水"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉海昌极地海洋公园夜宿",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-29",
+    "start_date": "2026-09-11",
+    "end_date": "2026-10-30",
     "fee": "收费",
     "description": "夜宿海底隧道，与鱼群共眠体验极地海洋奇妙夜。",
     "source": "武汉本地宝",
@@ -1867,15 +1976,16 @@
       "海底隧道",
       "极地"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉海昌极地海洋公园白鲸表演",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-03",
     "fee": "需购票",
     "description": "白鲸水下表演，人鲸共舞精彩绝伦。",
     "source": "武汉本地宝",
@@ -1884,15 +1994,16 @@
       "表演",
       "海洋"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉海昌极地海洋公园海豚互动",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-22",
     "fee": "收费",
     "description": "海豚跳跃表演与亲密互动，欢乐海洋剧场。",
     "source": "武汉本地宝",
@@ -1901,15 +2012,16 @@
       "互动",
       "剧场"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉海昌极地海洋公园企鹅馆探秘",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-26",
+    "end_date": "2026-10-26",
     "fee": "需购票",
     "description": "企鹅馆近距离观赏南极企鹅，了解极地动物习性。",
     "source": "武汉本地宝",
@@ -1918,15 +2030,16 @@
       "极地",
       "探秘"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "武汉海昌极地海洋公园北极熊观赏",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-02",
+    "end_date": "2026-11-02",
     "fee": "需购票",
     "description": "北极熊展区观赏北极霸主，科普北极生态。",
     "source": "武汉本地宝",
@@ -1935,15 +2048,16 @@
       "北极",
       "生态"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "武汉海昌极地海洋公园海底隧道",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-22",
     "fee": "需购票",
     "description": "漫步海底隧道，360度感受海洋生物环绕。",
     "source": "武汉本地宝",
@@ -1952,15 +2066,16 @@
       "海洋",
       "漫步"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "武汉海昌极地海洋公园海洋剧场",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-01",
+    "end_date": "2026-11-01",
     "fee": "需购票",
     "description": "海洋剧场海狮海象同台献艺，欢乐爆棚。",
     "source": "武汉本地宝",
@@ -1969,15 +2084,16 @@
       "海狮",
       "海象"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉海昌极地海洋公园水母宫",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-13",
     "fee": "需购票",
     "description": "梦幻水母宫七彩水母翩翩起舞，海底奇观打卡地。",
     "source": "武汉本地宝",
@@ -1986,7 +2102,8 @@
       "梦幻",
       "打卡"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "武汉海昌极地海洋公园极地探险营",
@@ -2003,7 +2120,8 @@
       "幕后",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武汉海昌极地海洋公园海洋科普营",
@@ -2020,15 +2138,16 @@
       "海洋保护",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武汉东湖海洋世界亲子探秘",
     "venue": "武汉东湖海洋世界",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-13",
+    "end_date": "2026-12-13",
     "fee": "需购票",
     "description": "东湖海洋世界亲子探秘，观赏淡水与海洋生物。",
     "source": "武汉本地宝",
@@ -2037,15 +2156,16 @@
       "亲子",
       "探秘"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "汉秀剧场水舞秀演出",
     "venue": "汉秀剧场",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-18",
+    "end_date": "2026-10-18",
     "fee": "需购票",
     "description": "国际级水舞大秀，融合杂技舞蹈与高科技水景舞台。",
     "source": "武汉本地宝",
@@ -2054,7 +2174,8 @@
       "汉秀",
       "舞台"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "汉秀剧场亲子专场",
@@ -2071,15 +2192,16 @@
       "汉秀",
       "视听"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "汉秀剧场暑期驻场演出",
     "venue": "汉秀剧场",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-11",
+    "end_date": "2026-12-11",
     "fee": "需购票",
     "description": "暑期每日驻场演出，沉浸式体验水上艺术盛宴。",
     "source": "武汉本地宝",
@@ -2088,7 +2210,8 @@
       "暑期",
       "沉浸式"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "汉秀剧场七夕浪漫专场",
@@ -2105,7 +2228,8 @@
       "浪漫",
       "爱情"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "汉秀剧场国庆主题演出",
@@ -2122,15 +2246,16 @@
       "主题",
       "献礼"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉杂技厅暑期杂技专场",
     "venue": "武汉杂技厅",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-30",
     "fee": "需购票",
     "description": "暑期杂技专场，高空与地面节目精彩纷呈。",
     "source": "武汉本地宝",
@@ -2139,15 +2264,16 @@
       "暑期",
       "专场"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉杂技厅国际杂技精品展演",
     "venue": "武汉杂技厅",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-20",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-06",
     "fee": "需购票",
     "description": "国际杂技精品节目展演，汇集各国金奖杂技。",
     "source": "武汉本地宝",
@@ -2156,7 +2282,8 @@
       "杂技",
       "金奖"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉杂技厅魔术表演",
@@ -2173,7 +2300,8 @@
       "奇幻",
       "表演"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉杂技厅亲子互动专场",
@@ -2190,7 +2318,8 @@
       "互动",
       "杂技"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "武汉杂技厅马戏表演",
@@ -2207,15 +2336,16 @@
       "动物",
       "国庆"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "湖北美术馆暑期儿童工作坊",
     "venue": "湖北美术馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-08",
-    "end_date": "2026-08-28",
+    "start_date": "2026-09-27",
+    "end_date": "2026-11-17",
     "fee": "免费需预约",
     "description": "暑期每周开设儿童艺术工作坊，多元媒材自由创作。",
     "source": "武汉本地宝",
@@ -2224,7 +2354,8 @@
       "儿童",
       "创作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北美术馆陶艺体验",
@@ -2241,7 +2372,8 @@
       "拉坯",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北美术馆水墨画课堂",
@@ -2258,7 +2390,8 @@
       "国画",
       "笔墨"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北美术馆版画制作",
@@ -2275,7 +2408,8 @@
       "刻印",
       "拓印"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北美术馆雕塑鉴赏",
@@ -2292,7 +2426,8 @@
       "鉴赏",
       "导赏"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "湖北美术馆亲子导览",
@@ -2309,15 +2444,16 @@
       "亲子",
       "艺术"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "湖北美术馆当代艺术展",
     "venue": "湖北美术馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-09-30",
+    "start_date": "2026-09-08",
+    "end_date": "2026-12-08",
     "fee": "免费",
     "description": "当代艺术邀请展，呈现多元艺术表达形式。",
     "source": "武汉本地宝",
@@ -2326,7 +2462,8 @@
       "邀请展",
       "多元"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "湖北美术馆漆艺体验",
@@ -2343,7 +2480,8 @@
       "楚文化",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北美术馆摄影展",
@@ -2360,7 +2498,8 @@
       "展览",
       "人文"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "湖北美术馆非遗手作",
@@ -2377,15 +2516,16 @@
       "手作",
       "国庆"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆夏日画展",
     "venue": "武汉美术馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-05",
+    "end_date": "2026-12-05",
     "fee": "免费",
     "description": "夏日主题画展，展出本土艺术家夏日题材作品。",
     "source": "武汉本地宝",
@@ -2394,15 +2534,16 @@
       "夏日",
       "本土"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "武汉美术馆儿童画创作营",
     "venue": "武汉美术馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-07-17",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-08",
     "fee": "收费",
     "description": "三天儿童画创作营，启发孩子艺术想象力。",
     "source": "武汉本地宝",
@@ -2411,7 +2552,8 @@
       "创作营",
       "想象"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆油画体验",
@@ -2428,7 +2570,8 @@
       "入门",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆水彩画课堂",
@@ -2445,7 +2588,8 @@
       "技法",
       "课堂"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉美术馆装置艺术体验",
@@ -2462,7 +2606,8 @@
       "综合材料",
       "创意"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆亲子艺术市集",
@@ -2479,7 +2624,8 @@
       "亲子",
       "手作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆连环画展",
@@ -2496,7 +2642,8 @@
       "原稿",
       "经典"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "武汉美术馆书法体验",
@@ -2513,7 +2660,8 @@
       "碑帖",
       "汉字"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆版画拓印",
@@ -2530,7 +2678,8 @@
       "拓印",
       "藏书票"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉美术馆暑期艺术夏令营",
@@ -2547,15 +2696,16 @@
       "艺术",
       "综合"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省图书馆暑期阅读挑战",
     "venue": "湖北省图书馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-17",
+    "end_date": "2026-10-17",
     "fee": "免费",
     "description": "暑期阅读打卡挑战，完成阅读任务赢取纪念品。",
     "source": "武汉本地宝",
@@ -2564,15 +2714,16 @@
       "打卡",
       "纪念品"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省图书馆绘本故事会",
     "venue": "湖北省图书馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-07",
+    "end_date": "2026-10-02",
     "fee": "免费",
     "description": "每周绘本故事会，老师生动讲述经典绘本。",
     "source": "武汉本地宝",
@@ -2581,15 +2732,16 @@
       "故事会",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省图书馆公益培训课",
     "venue": "湖北省图书馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-25",
+    "start_date": "2026-08-09",
+    "end_date": "2026-09-24",
     "fee": "免费",
     "description": "暑期公益培训课，涵盖写作朗诵与思维训练。",
     "source": "武汉本地宝",
@@ -2598,7 +2750,8 @@
       "培训",
       "写作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省图书馆名家讲座",
@@ -2615,7 +2768,8 @@
       "讲座",
       "作家"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省图书馆亲子共读营",
@@ -2632,7 +2786,8 @@
       "亲子",
       "陪伴"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省图书馆国学经典诵读",
@@ -2649,7 +2804,8 @@
       "诵读",
       "经典"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖北省图书馆少儿编程公益课",
@@ -2666,7 +2822,8 @@
       "公益",
       "启蒙"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省图书馆英语角",
@@ -2683,7 +2840,8 @@
       "口语",
       "对话"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省图书馆图书修复体验",
@@ -2700,7 +2858,8 @@
       "修复",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "湖北省图书馆暑期电影周",
@@ -2717,15 +2876,16 @@
       "公益",
       "放映"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "武汉图书馆暑期阅读季",
     "venue": "武汉图书馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-08",
+    "end_date": "2026-11-08",
     "fee": "免费",
     "description": "暑期阅读季推出读书会讲座与亲子活动百余场。",
     "source": "武汉本地宝",
@@ -2734,7 +2894,8 @@
       "读书会",
       "暑期"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉图书馆绘本剧表演",
@@ -2751,7 +2912,8 @@
       "表演",
       "演绎"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉图书馆公益书法班",
@@ -2768,7 +2930,8 @@
       "公益",
       "毛笔"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉图书馆非遗故事会",
@@ -2785,7 +2948,8 @@
       "故事会",
       "本土"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉图书馆亲子手工坊",
@@ -2802,7 +2966,8 @@
       "书签",
       "创意"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉图书馆小读者沙龙",
@@ -2819,7 +2984,8 @@
       "分享",
       "书友"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉图书馆科普读书会",
@@ -2836,7 +3002,8 @@
       "读书会",
       "读物"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉图书馆历史讲堂",
@@ -2853,7 +3020,8 @@
       "讲堂",
       "三镇"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "武汉图书馆诗词大会",
@@ -2870,15 +3038,16 @@
       "飞花令",
       "比赛"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉图书馆童书漂流",
     "venue": "武汉图书馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-21",
+    "end_date": "2026-09-20",
     "fee": "免费",
     "description": "童书漂流活动，让闲置童书在读者间流转。",
     "source": "武汉本地宝",
@@ -2887,15 +3056,16 @@
       "漂流",
       "分享"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉市少年儿童图书馆绘本故事会",
     "venue": "武汉市少年儿童图书馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-09",
+    "end_date": "2026-10-04",
     "fee": "免费",
     "description": "每周绘本故事会，专为低幼儿童设计。",
     "source": "武汉本地宝",
@@ -2904,15 +3074,16 @@
       "低幼",
       "故事会"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆暑期打卡挑战",
     "venue": "武汉市少年儿童图书馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-29",
+    "end_date": "2026-10-29",
     "fee": "免费",
     "description": "暑期阅读打卡挑战，累计阅读时长赢奖品。",
     "source": "武汉本地宝",
@@ -2921,7 +3092,8 @@
       "挑战",
       "奖品"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆亲子阅读营",
@@ -2938,7 +3110,8 @@
       "共读",
       "选书"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆童话剧表演",
@@ -2955,7 +3128,8 @@
       "表演",
       "演绎"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆手工绘本制作",
@@ -2972,7 +3146,8 @@
       "绘本",
       "创作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆国学启蒙",
@@ -2989,7 +3164,8 @@
       "启蒙",
       "诵读"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆科学实验小课堂",
@@ -3006,7 +3182,8 @@
       "课堂",
       "动手"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆英语绘本课",
@@ -3023,15 +3200,16 @@
       "绘本",
       "共读"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆公益围棋班",
     "venue": "武汉市少年儿童图书馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-28",
+    "start_date": "2026-09-08",
+    "end_date": "2026-10-27",
     "fee": "免费",
     "description": "暑期公益围棋班，每周一课启蒙围棋思维。",
     "source": "武汉本地宝",
@@ -3040,7 +3218,8 @@
       "公益",
       "思维"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉市少年儿童图书馆小志愿者培训",
@@ -3057,7 +3236,8 @@
       "培训",
       "服务"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "黄鹤楼公园诗词研学",
@@ -3074,7 +3254,8 @@
       "黄鹤楼",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "黄鹤楼公园古建探秘",
@@ -3091,7 +3272,8 @@
       "斗拱",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "黄鹤楼公园登楼揽胜课堂",
@@ -3108,7 +3290,8 @@
       "揽胜",
       "地理"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "黄鹤楼公园书法体验",
@@ -3125,7 +3308,8 @@
       "题诗",
       "白云阁"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "黄鹤楼公园楚文化研学",
@@ -3142,7 +3326,8 @@
       "研学",
       "深度"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "黄鹤楼公园小小讲解员",
@@ -3159,7 +3344,8 @@
       "训练",
       "志愿"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "黄鹤楼公园中秋诗会",
@@ -3176,7 +3362,8 @@
       "诗会",
       "赏月"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "黄鹤楼公园国庆文化周",
@@ -3193,7 +3380,8 @@
       "文化周",
       "国风"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "黄鹤楼公园古琴雅集",
@@ -3210,7 +3398,8 @@
       "雅集",
       "高山流水"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "黄鹤楼公园非遗市集",
@@ -3227,7 +3416,8 @@
       "市集",
       "汉绣"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "辛亥革命武昌起义纪念馆红楼研学",
@@ -3244,7 +3434,8 @@
       "首义",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "辛亥革命武昌起义纪念馆小小讲解员",
@@ -3261,7 +3452,8 @@
       "培训",
       "红色"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "辛亥革命武昌起义纪念馆历史课堂",
@@ -3278,7 +3470,8 @@
       "课堂",
       "武昌起义"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "辛亥革命武昌起义纪念馆革命文物探秘",
@@ -3295,7 +3488,8 @@
       "探秘",
       "革命"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "辛亥革命武昌起义纪念馆红色研学营",
@@ -3312,7 +3506,8 @@
       "研学营",
       "教育"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "辛亥革命博物馆首义历史研学",
@@ -3329,7 +3524,8 @@
       "历史",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "辛亥革命博物馆近代史课堂",
@@ -3346,7 +3542,8 @@
       "课堂",
       "专题"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "辛亥革命博物馆暑期研学营",
@@ -3363,7 +3560,8 @@
       "暑期",
       "深度"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "辛亥革命博物馆革命精神讲座",
@@ -3380,15 +3578,16 @@
       "讲座",
       "首义"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "辛亥革命博物馆主题展览",
     "venue": "辛亥革命博物馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-09-30",
+    "start_date": "2026-10-11",
+    "end_date": "2027-01-10",
     "fee": "免费",
     "description": "辛亥革命主题展览，珍贵史料再现首义风云。",
     "source": "武汉本地宝",
@@ -3397,7 +3596,8 @@
       "史料",
       "首义"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "盘龙城遗址博物院考古研学",
@@ -3414,7 +3614,8 @@
       "探方",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院商代历史课堂",
@@ -3431,7 +3632,8 @@
       "南土",
       "课堂"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "盘龙城遗址博物院田野考古体验",
@@ -3448,7 +3650,8 @@
       "考古",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院青铜器研学",
@@ -3465,7 +3668,8 @@
       "纹饰",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院陶器研学",
@@ -3482,15 +3686,16 @@
       "商代",
       "研学"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院夏商周文明展",
     "venue": "盘龙城遗址博物院",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-08-18",
+    "end_date": "2026-12-18",
     "fee": "免费",
     "description": "夏商周文明主题展览，呈现长江流域早期文明。",
     "source": "武汉本地宝",
@@ -3499,7 +3704,8 @@
       "文明",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "盘龙城遗址博物院考古夏令营",
@@ -3516,7 +3722,8 @@
       "考古",
       "沉浸"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院商代玉器研学",
@@ -3533,7 +3740,8 @@
       "商代",
       "礼制"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院文物修复研学",
@@ -3550,7 +3758,8 @@
       "青铜",
       "陶器"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "盘龙城遗址博物院文明探源讲座",
@@ -3567,7 +3776,8 @@
       "讲座",
       "文明"
     ],
-    "type": "讲座"
+    "type": "讲座",
+    "is_family_friendly": false
   },
   {
     "name": "武汉渡江节方队演练",
@@ -3584,7 +3794,8 @@
       "方队",
       "演练"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉渡江节亲子体验",
@@ -3601,7 +3812,8 @@
       "亲子",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉渡江节公开水域游泳",
@@ -3618,15 +3830,16 @@
       "公开水域",
       "游泳"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖帆船夏令营",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-13",
-    "end_date": "2026-07-19",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-27",
     "fee": "收费",
     "description": "七天帆船夏令营，系统学习OP级帆船驾驶。",
     "source": "武汉本地宝",
@@ -3635,7 +3848,8 @@
       "夏令营",
       "OP"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖帆船亲子体验营",
@@ -3652,7 +3866,8 @@
       "亲子",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖OP级帆船培训",
@@ -3669,7 +3884,8 @@
       "帆船",
       "培训"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖皮划艇培训",
@@ -3686,7 +3902,8 @@
       "培训",
       "划桨"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖桨板体验",
@@ -3703,15 +3920,16 @@
       "平衡",
       "核心"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖龙舟体验",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-07",
+    "end_date": "2026-10-02",
     "fee": "收费",
     "description": "龙舟体验活动，团队协作感受龙舟文化。",
     "source": "武汉本地宝",
@@ -3720,15 +3938,16 @@
       "团队",
       "文化"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "东湖游泳培训",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-15",
+    "end_date": "2026-12-15",
     "fee": "收费",
     "description": "东湖游泳培训，专业教练指导初学游泳。",
     "source": "武汉本地宝",
@@ -3737,15 +3956,16 @@
       "培训",
       "教练"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉体育馆游泳培训班",
     "venue": "武汉体育馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-30",
     "fee": "收费",
     "description": "暑期游泳培训班，从蛙泳到自由泳循序渐进。",
     "source": "武汉本地宝",
@@ -3754,15 +3974,16 @@
       "培训",
       "暑期"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉体育馆羽毛球夏令营",
     "venue": "武汉体育馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-14",
-    "end_date": "2026-07-20",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-10",
     "fee": "收费",
     "description": "羽毛球夏令营，专业教练提升球技与体能。",
     "source": "武汉本地宝",
@@ -3771,7 +3992,8 @@
       "夏令营",
       "体能"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉体育馆篮球训练营",
@@ -3788,7 +4010,8 @@
       "训练",
       "战术"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉体育馆乒乓球培训",
@@ -3805,7 +4028,8 @@
       "国球",
       "进阶"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉体育馆足球夏令营",
@@ -3822,15 +4046,16 @@
       "夏令营",
       "绿茵"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉体育中心网球培训",
     "venue": "武汉体育中心",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-06",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-22",
+    "end_date": "2026-09-16",
     "fee": "收费",
     "description": "网球培训课程，从握拍到对打全流程教学。",
     "source": "武汉本地宝",
@@ -3839,7 +4064,8 @@
       "培训",
       "对打"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉体育中心田径体验",
@@ -3856,7 +4082,8 @@
       "体验",
       "跑道"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉体育中心击剑体验",
@@ -3873,7 +4100,8 @@
       "体验",
       "反应"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉体育中心武术夏令营",
@@ -3890,7 +4118,8 @@
       "夏令营",
       "强身"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉体育中心跆拳道培训",
@@ -3907,15 +4136,16 @@
       "腿法",
       "自信"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉全民健身中心轮滑",
     "venue": "武汉全民健身中心",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-16",
+    "end_date": "2026-11-16",
     "fee": "收费",
     "description": "轮滑培训课程，从站立到滑行安全教学。",
     "source": "武汉本地宝",
@@ -3924,15 +4154,16 @@
       "培训",
       "安全"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉全民健身中心攀岩",
     "venue": "武汉全民健身中心",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-15",
+    "end_date": "2026-10-03",
     "fee": "收费",
     "description": "室内攀岩体验，挑战高度锻炼胆量与力量。",
     "source": "武汉本地宝",
@@ -3941,7 +4172,8 @@
       "挑战",
       "力量"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉全民健身中心亲子瑜伽",
@@ -3958,7 +4190,8 @@
       "亲子",
       "放松"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉全民健身中心街舞",
@@ -3975,7 +4208,8 @@
       "律动",
       "活力"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武汉全民健身中心跳绳比赛",
@@ -3992,15 +4226,16 @@
       "比赛",
       "竞速"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "汉口江滩夜跑活动",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-12",
+    "end_date": "2026-10-08",
     "fee": "免费",
     "description": "每周六江滩夜跑活动，专业配速员领跑。",
     "source": "武汉本地宝",
@@ -4009,15 +4244,16 @@
       "江滩",
       "领跑"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉口江滩骑行",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-29",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-02",
     "fee": "免费",
     "description": "江滩亲子骑行活动，沿江欣赏夜景。",
     "source": "武汉本地宝",
@@ -4026,15 +4262,16 @@
       "江滩",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "汉口江滩广场舞",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-31",
     "fee": "免费",
     "description": "江滩广场舞公益教学，全家齐跳健身舞。",
     "source": "武汉本地宝",
@@ -4043,15 +4280,16 @@
       "公益",
       "健身"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉口江滩太极晨练",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-26",
+    "end_date": "2026-10-26",
     "fee": "免费",
     "description": "太极晨练公益教学，修身养性强健体魄。",
     "source": "武汉本地宝",
@@ -4060,7 +4298,8 @@
       "晨练",
       "修身"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉口江滩亲子运动会",
@@ -4077,15 +4316,16 @@
       "趣味",
       "全家"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰草原星空露营节",
     "venue": "木兰草原",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-16",
+    "end_date": "2026-10-11",
     "fee": "收费",
     "description": "草原星空露营节，帐篷节与篝火晚会点燃夏夜。",
     "source": "武汉本地宝",
@@ -4094,15 +4334,16 @@
       "星空",
       "草原"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰草原亲子骑马体验",
     "venue": "木兰草原",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-15",
+    "end_date": "2026-10-15",
     "fee": "收费",
     "description": "亲子骑马体验，在草原上感受马背乐趣。",
     "source": "武汉本地宝",
@@ -4111,15 +4352,16 @@
       "草原",
       "马背"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰草原滑草嘉年华",
     "venue": "木兰草原",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-25",
+    "start_date": "2026-07-21",
+    "end_date": "2026-09-03",
     "fee": "收费",
     "description": "滑草嘉年华，多条滑道畅快飞驰草原。",
     "source": "武汉本地宝",
@@ -4128,15 +4370,16 @@
       "嘉年华",
       "飞驰"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰草原篝火晚会",
     "venue": "木兰草原",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-10",
+    "end_date": "2026-12-10",
     "fee": "收费",
     "description": "夜场篝火晚会，围着篝火载歌载舞。",
     "source": "武汉本地宝",
@@ -4145,7 +4388,8 @@
       "晚会",
       "载歌载舞"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "木兰草原热气球体验",
@@ -4162,15 +4406,16 @@
       "升空",
       "俯瞰"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰草原蒙古包住宿",
     "venue": "木兰草原",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-11",
+    "end_date": "2026-10-11",
     "fee": "收费",
     "description": "入住蒙古包体验游牧生活，感受草原风情。",
     "source": "武汉本地宝",
@@ -4179,7 +4424,8 @@
       "游牧",
       "风情"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰草原草原音乐节",
@@ -4196,7 +4442,8 @@
       "民谣",
       "摇滚"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "木兰草原那达慕大会",
@@ -4213,7 +4460,8 @@
       "竞技",
       "传统"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "木兰草原夏令营",
@@ -4230,15 +4478,16 @@
       "生存",
       "探索"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "木兰草原射箭体验",
     "venue": "木兰草原",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-07",
+    "end_date": "2026-11-07",
     "fee": "收费",
     "description": "射箭体验场，弯弓搭箭体验百步穿杨。",
     "source": "武汉本地宝",
@@ -4247,15 +4496,16 @@
       "弯弓",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰天池避暑纳凉节",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-29",
+    "end_date": "2026-10-29",
     "fee": "收费",
     "description": "避暑纳凉节，山林深处平均气温低于城区。",
     "source": "武汉本地宝",
@@ -4264,15 +4514,16 @@
       "纳凉",
       "山林"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池亲子溯溪",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-13",
-    "end_date": "2026-08-29",
+    "start_date": "2026-08-22",
+    "end_date": "2026-10-08",
     "fee": "收费",
     "description": "亲子溯溪活动，在山涧清凉戏水探源。",
     "source": "武汉本地宝",
@@ -4281,15 +4532,16 @@
       "山涧",
       "戏水"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰天池瀑布观光",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-25",
     "fee": "收费",
     "description": "天池瀑布观光，落差百米飞珠溅玉。",
     "source": "武汉本地宝",
@@ -4298,15 +4550,16 @@
       "观光",
       "飞珠溅玉"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池缆车观景",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-22",
+    "end_date": "2026-10-22",
     "fee": "收费",
     "description": "缆车观景，俯瞰天池与原始森林全貌。",
     "source": "武汉本地宝",
@@ -4315,15 +4568,16 @@
       "观景",
       "森林"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池森林氧吧徒步",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-06",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-26",
     "fee": "收费",
     "description": "森林氧吧徒步线路，呼吸负氧离子。",
     "source": "武汉本地宝",
@@ -4332,15 +4586,16 @@
       "徒步",
       "负氧离子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池玻璃漂流",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-08",
+    "end_date": "2026-12-08",
     "fee": "收费",
     "description": "高空玻璃漂流，穿林越水刺激清凉。",
     "source": "武汉本地宝",
@@ -4349,15 +4604,16 @@
       "高空",
       "刺激"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池高山滑草",
     "venue": "木兰天池",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-21",
+    "end_date": "2026-11-21",
     "fee": "收费",
     "description": "高山滑草项目，从草坡飞驰而下。",
     "source": "武汉本地宝",
@@ -4366,7 +4622,8 @@
       "高山",
       "飞驰"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池星空观测",
@@ -4383,7 +4640,8 @@
       "观测",
       "银河"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "木兰天池森林夏令营",
@@ -4400,7 +4658,8 @@
       "自然教育",
       "户外"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "木兰天池亲子采摘",
@@ -4417,7 +4676,8 @@
       "水果",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰清凉寨观星营",
@@ -4434,15 +4694,16 @@
       "高山",
       "夜空"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "木兰清凉寨避暑度假",
     "venue": "木兰清凉寨",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-07",
+    "end_date": "2026-11-07",
     "fee": "收费",
     "description": "清凉寨避暑度假，夏季均温仅20度左右。",
     "source": "武汉本地宝",
@@ -4451,15 +4712,16 @@
       "度假",
       "清凉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰清凉寨樱花谷游览",
     "venue": "木兰清凉寨",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-12",
+    "end_date": "2026-12-12",
     "fee": "收费",
     "description": "夏日樱花谷游览，晚樱品种延续花期。",
     "source": "武汉本地宝",
@@ -4468,15 +4730,16 @@
       "晚樱",
       "游览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "木兰清凉寨茶园体验",
     "venue": "木兰清凉寨",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-12",
     "fee": "收费",
     "description": "高山茶园体验，采茶制茶品茶一条龙。",
     "source": "武汉本地宝",
@@ -4485,15 +4748,16 @@
       "采茶",
       "制茶"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木兰清凉寨徒步登山",
     "venue": "木兰清凉寨",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-29",
+    "end_date": "2026-10-29",
     "fee": "收费",
     "description": "徒步登山线路，挑战清凉寨主峰。",
     "source": "武汉本地宝",
@@ -4502,7 +4766,8 @@
       "登山",
       "主峰"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰清凉寨萤火虫夜观",
@@ -4519,15 +4784,16 @@
       "夜观",
       "星河"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰清凉寨古寨探秘",
     "venue": "木兰清凉寨",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-21",
+    "end_date": "2026-09-20",
     "fee": "收费",
     "description": "古寨遗址探秘，了解清凉寨历史渊源。",
     "source": "武汉本地宝",
@@ -4536,15 +4802,16 @@
       "探秘",
       "历史"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "木兰清凉寨露营烧烤",
     "venue": "木兰清凉寨",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-01",
+    "end_date": "2026-09-26",
     "fee": "收费",
     "description": "露营烧烤派对，星空下享受户外美食。",
     "source": "武汉本地宝",
@@ -4553,15 +4820,16 @@
       "烧烤",
       "户外"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "木兰山登山祈福",
     "venue": "木兰山",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-08-20",
+    "end_date": "2026-12-20",
     "fee": "收费",
     "description": "木兰山登山祈福，道教名山文化与自然兼具。",
     "source": "武汉本地宝",
@@ -4570,15 +4838,16 @@
       "祈福",
       "道教"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "锦里沟土家风情体验",
     "venue": "锦里沟",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-09",
+    "end_date": "2026-10-09",
     "fee": "收费",
     "description": "土家风情体验，土家歌舞与吊脚楼文化。",
     "source": "武汉本地宝",
@@ -4587,15 +4856,16 @@
       "风情",
       "歌舞"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "武汉长江灯光秀观赏",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-30",
     "fee": "免费",
     "description": "两江四岸灯光秀每晚滚动上演，最佳观赏点在汉口江滩。",
     "source": "武汉本地宝",
@@ -4604,15 +4874,16 @@
       "长江",
       "夜景"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "武汉两江四岸灯光秀",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-20",
+    "end_date": "2027-02-19",
     "fee": "免费",
     "description": "两江四岸楼宇联动灯光秀，绘就城市夜景画卷。",
     "source": "武汉本地宝",
@@ -4621,15 +4892,16 @@
       "两江四岸",
       "夜景"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "汉口江滩灯光秀夜游",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-07-22",
+    "end_date": "2026-09-16",
     "fee": "免费",
     "description": "汉口江滩夜游灯光秀，亲子漫步观赏最佳。",
     "source": "武汉本地宝",
@@ -4638,15 +4910,16 @@
       "灯光秀",
       "漫步"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "武昌江滩灯光秀观赏",
     "venue": "武昌江滩公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-30",
     "fee": "免费",
     "description": "武昌江滩视角观赏灯光秀，对望汉口天际线。",
     "source": "武汉本地宝",
@@ -4655,15 +4928,16 @@
       "武昌江滩",
       "天际线"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉阳江滩灯光秀夜游",
     "venue": "汉阳江滩公园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-02",
+    "end_date": "2026-12-02",
     "fee": "免费",
     "description": "汉阳江滩夜游灯光秀，南岸嘴两江交汇绝佳视角。",
     "source": "武汉本地宝",
@@ -4672,15 +4946,16 @@
       "汉阳",
       "南岸嘴"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "长江夜游船观光",
     "venue": "武汉港码头",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-01-11",
     "fee": "收费",
     "description": "长江夜游船观光，水上视角欣赏灯光秀与大桥。",
     "source": "武汉本地宝",
@@ -4689,15 +4964,16 @@
       "长江",
       "观光"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉江夜游船观光",
     "venue": "硚口江滩公园",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-09-30",
+    "start_date": "2026-08-31",
+    "end_date": "2026-11-30",
     "fee": "收费",
     "description": "汉江夜游船观光，感受汉江两岸静谧夜景。",
     "source": "武汉本地宝",
@@ -4706,15 +4982,16 @@
       "汉江",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉长江大桥夜景打卡",
     "venue": "武汉长江大桥",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "免费",
     "description": "万里长江第一桥夜景打卡，桥面步行赏两江灯火。",
     "source": "武汉本地宝",
@@ -4723,15 +5000,16 @@
       "夜景",
       "打卡"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "鹦鹉洲大桥夜景",
     "venue": "鹦鹉洲长江大桥",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
     "fee": "免费",
     "description": "橘红色鹦鹉洲大桥夜景，网红拍照胜地。",
     "source": "武汉本地宝",
@@ -4740,15 +5018,16 @@
       "大桥",
       "拍照"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "东湖夜游灯光秀",
     "venue": "东湖风景区",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-03",
+    "end_date": "2026-11-24",
     "fee": "部分免费",
     "description": "东湖夜游灯光秀，水上光影与绿道交相辉映。",
     "source": "武汉本地宝",
@@ -4757,15 +5036,16 @@
       "灯光秀",
       "夜游"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "汉口江滩夜游市集",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-21",
+    "end_date": "2026-11-17",
     "fee": "部分免费",
     "description": "江滩夜游市集，文创手作与特色小吃云集。",
     "source": "武汉本地宝",
@@ -4774,15 +5054,16 @@
       "夜游",
       "文创"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武昌江滩夜市",
     "venue": "武昌江滩公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-01",
+    "end_date": "2026-10-01",
     "fee": "部分免费",
     "description": "武昌江滩夜市，临江小吃与烟火气十足。",
     "source": "武汉本地宝",
@@ -4791,15 +5072,16 @@
       "武昌",
       "小吃"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉阳江滩文创市集",
     "venue": "汉阳江滩公园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-29",
+    "start_date": "2026-09-05",
+    "end_date": "2026-10-24",
     "fee": "部分免费",
     "description": "汉阳江滩文创市集，独立设计师与手作人汇聚。",
     "source": "武汉本地宝",
@@ -4808,15 +5090,16 @@
       "文创",
       "手作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "江汉路夜游步行街",
     "venue": "江汉路步行街",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-29",
+    "end_date": "2027-03-31",
     "fee": "免费",
     "description": "百年江汉路夜游，近代建筑与夜景灯光交融。",
     "source": "武汉本地宝",
@@ -4825,15 +5108,16 @@
       "夜游",
       "建筑"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "楚河汉街夜游",
     "venue": "楚河汉街",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-11",
+    "end_date": "2027-02-10",
     "fee": "免费",
     "description": "楚河汉街夜游，民国风情街与现代灯光结合。",
     "source": "武汉本地宝",
@@ -4842,15 +5126,16 @@
       "夜游",
       "民国"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "户部巷夜市美食",
     "venue": "户部巷",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-08-19",
+    "end_date": "2026-12-19",
     "fee": "部分免费",
     "description": "户部巷夜市美食，热干面豆皮等汉味小吃云集。",
     "source": "武汉本地宝",
@@ -4859,15 +5144,16 @@
       "美食",
       "小吃"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "粮道街夜市",
     "venue": "粮道街",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-07-23",
+    "end_date": "2026-11-22",
     "fee": "部分免费",
     "description": "粮道街夜市，网红美食街打卡必去。",
     "source": "武汉本地宝",
@@ -4876,15 +5162,16 @@
       "夜市",
       "网红"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "万松园夜市",
     "venue": "万松园",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-01-11",
     "fee": "部分免费",
     "description": "万松园夜市美食街，小龙虾与烧烤的天堂。",
     "source": "武汉本地宝",
@@ -4893,15 +5180,16 @@
       "夜市",
       "小龙虾"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "黎黄陂路夜游",
     "venue": "黎黄陂路",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
     "fee": "免费",
     "description": "黎黄陂路夜游，街头博物馆与文艺酒吧街。",
     "source": "武汉本地宝",
@@ -4910,15 +5198,16 @@
       "夜游",
       "文艺"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "江汉关夜景打卡",
     "venue": "江汉关博物馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-22",
+    "end_date": "2027-03-24",
     "fee": "免费",
     "description": "江汉关夜景打卡，百年钟楼夜色迷人。",
     "source": "武汉本地宝",
@@ -4927,15 +5216,16 @@
       "夜景",
       "钟楼"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "汉口江滩露天电影",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-28",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-12",
     "fee": "免费",
     "description": "江滩露天电影公益放映，星空下重温经典。",
     "source": "武汉本地宝",
@@ -4944,7 +5234,8 @@
       "公益",
       "星空"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "江滩夜跑嘉年华",
@@ -4961,7 +5252,8 @@
       "荧光",
       "嘉年华"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "江滩广场音乐会",
@@ -4978,7 +5270,8 @@
       "乐队",
       "广场"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "江滩露天瑜伽",
@@ -4995,15 +5288,16 @@
       "露天",
       "公益"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "江滩夜景摄影大赛",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-13",
+    "end_date": "2026-11-29",
     "fee": "免费",
     "description": "江滩夜景摄影大赛，征集最美武汉夜景作品。",
     "source": "武汉本地宝",
@@ -5012,7 +5306,8 @@
       "大赛",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "长江灯光秀国庆专场",
@@ -5029,7 +5324,8 @@
       "灯光秀",
       "主题"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "长江灯光秀中秋专场",
@@ -5046,7 +5342,8 @@
       "灯光秀",
       "月亮"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "长江灯光秀七夕专场",
@@ -5063,15 +5360,16 @@
       "灯光秀",
       "浪漫"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "两江夜游美食船",
     "venue": "武汉港码头",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-09-30",
+    "start_date": "2026-10-11",
+    "end_date": "2026-12-27",
     "fee": "收费",
     "description": "两江夜游美食船，边赏夜景边品尝汉味美食。",
     "source": "武汉本地宝",
@@ -5080,15 +5378,16 @@
       "美食船",
       "汉味"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武汉夜景Citywalk",
     "venue": "汉口江滩公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-12",
+    "end_date": "2026-09-30",
     "fee": "免费",
     "description": "武汉夜景Citywalk路线，串联江滩与历史街区。",
     "source": "武汉本地宝",
@@ -5097,15 +5396,16 @@
       "夜景",
       "街区"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "周末武汉江岸区展览活动",
     "venue": "武汉江岸区博物馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-03",
+    "end_date": "2027-02-02",
     "fee": "免费",
     "description": "武汉江岸区的周末展览活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5114,15 +5414,16 @@
       "江岸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江汉区讲座阅读体验营",
     "venue": "武汉江汉区科技馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "免费",
     "description": "武汉江汉区的暑期讲座阅读体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5131,15 +5432,16 @@
       "江汉区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉硚口区科普活动工作坊",
     "venue": "武汉硚口区美术馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-10",
+    "end_date": "2027-02-09",
     "fee": "免费",
     "description": "武汉硚口区的亲子科普活动工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5148,15 +5450,16 @@
       "硚口区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉汉阳区演出研学营",
     "venue": "武汉汉阳区图书馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
     "fee": "收费",
     "description": "武汉汉阳区的家庭演出研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5165,15 +5468,16 @@
       "汉阳区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉武昌区影视放映课程",
     "venue": "武汉武昌区文化馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-13",
+    "end_date": "2027-03-15",
     "fee": "收费",
     "description": "武汉武昌区的儿童影视放映课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5182,15 +5486,16 @@
       "武昌区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉青山区体育赛事讲座",
     "venue": "武汉青山区公园",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-27",
+    "end_date": "2027-03-29",
     "fee": "收费",
     "description": "武汉青山区的青少年体育赛事讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5199,15 +5504,16 @@
       "青山区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉洪山区亲子活动展览",
     "venue": "武汉洪山区植物园",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-27",
+    "end_date": "2027-03-29",
     "fee": "收费",
     "description": "武汉洪山区的趣味亲子活动展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5216,15 +5522,16 @@
       "洪山区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉东西湖区展览演出",
     "venue": "武汉东西湖区动物园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-21",
+    "end_date": "2027-03-23",
     "fee": "免费",
     "description": "武汉东西湖区的探索展览演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5233,15 +5540,16 @@
       "东西湖区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉蔡甸区讲座阅读比赛",
     "venue": "武汉蔡甸区海洋馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-08",
+    "end_date": "2027-03-10",
     "fee": "免费",
     "description": "武汉蔡甸区的发现讲座阅读比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5250,15 +5558,16 @@
       "蔡甸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江夏区科普活动嘉年华",
     "venue": "武汉江夏区剧院",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "免费",
     "description": "武汉江夏区的体验科普活动嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5267,15 +5576,16 @@
       "江夏区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉黄陂区演出日",
     "venue": "武汉黄陂区体育馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
     "fee": "收费",
     "description": "武汉黄陂区的走进演出日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5284,15 +5594,16 @@
       "黄陂区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉新洲区影视放映周",
     "venue": "武汉新洲区体育场",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "收费",
     "description": "武汉新洲区的解读影视放映周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5301,15 +5612,16 @@
       "新洲区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉江岸区体育赛事月",
     "venue": "武汉江岸区会展中心",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-03",
     "fee": "收费",
     "description": "武汉江岸区的探秘体育赛事月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5318,15 +5630,16 @@
       "江岸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江汉区亲子活动季",
     "venue": "武汉江汉区文化中心",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
     "fee": "收费",
     "description": "武汉江汉区的漫游亲子活动季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5335,15 +5648,16 @@
       "江汉区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉硚口区展览节",
     "venue": "武汉硚口区艺术中心",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "免费",
     "description": "武汉硚口区的精彩展览节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5352,15 +5666,16 @@
       "硚口区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉汉阳区讲座阅读之旅",
     "venue": "武汉汉阳区青少年宫",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "武汉汉阳区的梦幻讲座阅读之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5369,15 +5684,16 @@
       "汉阳区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉武昌区科普活动探秘",
     "venue": "武汉武昌区创意园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "武汉武昌区的经典科普活动探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5386,15 +5702,16 @@
       "武昌区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉青山区演出发现",
     "venue": "武汉青山区博物馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
     "fee": "收费",
     "description": "武汉青山区的震撼演出发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5403,15 +5720,16 @@
       "青山区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉洪山区影视放映探索",
     "venue": "武汉洪山区科技馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
     "fee": "收费",
     "description": "武汉洪山区的沉浸式影视放映探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5420,15 +5738,16 @@
       "洪山区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉东西湖区体育赛事科普",
     "venue": "武汉东西湖区美术馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "收费",
     "description": "武汉东西湖区的互动体育赛事科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5437,15 +5756,16 @@
       "东西湖区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉蔡甸区亲子活动活动",
     "venue": "武汉蔡甸区图书馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-23",
     "fee": "收费",
     "description": "武汉蔡甸区的周末亲子活动活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5454,15 +5774,16 @@
       "蔡甸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江夏区展览体验营",
     "venue": "武汉江夏区文化馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-08",
+    "end_date": "2027-03-10",
     "fee": "免费",
     "description": "武汉江夏区的暑期展览体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5471,15 +5792,16 @@
       "江夏区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉黄陂区讲座阅读工作坊",
     "venue": "武汉黄陂区公园",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
     "fee": "免费",
     "description": "武汉黄陂区的亲子讲座阅读工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5488,15 +5810,16 @@
       "黄陂区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉新洲区科普活动研学营",
     "venue": "武汉新洲区植物园",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
     "fee": "免费",
     "description": "武汉新洲区的家庭科普活动研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5505,15 +5828,16 @@
       "新洲区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉江岸区演出课程",
     "venue": "武汉江岸区动物园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-27",
+    "end_date": "2027-03-29",
     "fee": "收费",
     "description": "武汉江岸区的儿童演出课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5522,15 +5846,16 @@
       "江岸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉江汉区影视放映讲座",
     "venue": "武汉江汉区海洋馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
     "fee": "收费",
     "description": "武汉江汉区的青少年影视放映讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5539,15 +5864,16 @@
       "江汉区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉硚口区体育赛事展览",
     "venue": "武汉硚口区剧院",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-29",
+    "end_date": "2027-03-31",
     "fee": "收费",
     "description": "武汉硚口区的趣味体育赛事展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5556,15 +5882,16 @@
       "硚口区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉汉阳区亲子活动演出",
     "venue": "武汉汉阳区体育馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-22",
+    "end_date": "2027-03-24",
     "fee": "收费",
     "description": "武汉汉阳区的探索亲子活动演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5573,15 +5900,16 @@
       "汉阳区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉武昌区展览比赛",
     "venue": "武汉武昌区体育场",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "免费",
     "description": "武汉武昌区的发现展览比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5590,15 +5918,16 @@
       "武昌区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉青山区讲座阅读嘉年华",
     "venue": "武汉青山区会展中心",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
     "fee": "免费",
     "description": "武汉青山区的体验讲座阅读嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5607,15 +5936,16 @@
       "青山区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉洪山区科普活动日",
     "venue": "武汉洪山区文化中心",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
     "fee": "免费",
     "description": "武汉洪山区的走进科普活动日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5624,15 +5954,16 @@
       "洪山区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉东西湖区演出周",
     "venue": "武汉东西湖区艺术中心",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "收费",
     "description": "武汉东西湖区的解读演出周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5641,15 +5972,16 @@
       "东西湖区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉蔡甸区影视放映月",
     "venue": "武汉蔡甸区青少年宫",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "收费",
     "description": "武汉蔡甸区的探秘影视放映月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5658,15 +5990,16 @@
       "蔡甸区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江夏区体育赛事季",
     "venue": "武汉江夏区创意园",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
     "fee": "收费",
     "description": "武汉江夏区的漫游体育赛事季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5675,15 +6008,16 @@
       "江夏区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉黄陂区亲子活动节",
     "venue": "武汉黄陂区博物馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "收费",
     "description": "武汉黄陂区的精彩亲子活动节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5692,15 +6026,16 @@
       "黄陂区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉新洲区展览之旅",
     "venue": "武汉新洲区科技馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
     "fee": "免费",
     "description": "武汉新洲区的梦幻展览之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5709,15 +6044,16 @@
       "新洲区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉江岸区讲座阅读探秘",
     "venue": "武汉江岸区美术馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
     "fee": "免费",
     "description": "武汉江岸区的经典讲座阅读探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5726,15 +6062,16 @@
       "江岸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉江汉区科普活动发现",
     "venue": "武汉江汉区图书馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-05",
+    "end_date": "2027-02-04",
     "fee": "免费",
     "description": "武汉江汉区的震撼科普活动发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5743,15 +6080,16 @@
       "江汉区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉硚口区演出探索",
     "venue": "武汉硚口区文化馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
     "fee": "收费",
     "description": "武汉硚口区的沉浸式演出探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5760,15 +6098,16 @@
       "硚口区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉汉阳区影视放映科普",
     "venue": "武汉汉阳区公园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "收费",
     "description": "武汉汉阳区的互动影视放映科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5777,15 +6116,16 @@
       "汉阳区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉武昌区体育赛事活动",
     "venue": "武汉武昌区植物园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
     "fee": "收费",
     "description": "武汉武昌区的周末体育赛事活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5794,15 +6134,16 @@
       "武昌区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉青山区亲子活动体验营",
     "venue": "武汉青山区动物园",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
     "fee": "收费",
     "description": "武汉青山区的暑期亲子活动体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5811,15 +6152,16 @@
       "青山区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉洪山区展览工作坊",
     "venue": "武汉洪山区海洋馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-09",
+    "end_date": "2027-03-11",
     "fee": "免费",
     "description": "武汉洪山区的亲子展览工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5828,15 +6170,16 @@
       "洪山区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉东西湖区讲座阅读研学营",
     "venue": "武汉东西湖区剧院",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "免费",
     "description": "武汉东西湖区的家庭讲座阅读研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5845,15 +6188,16 @@
       "东西湖区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉蔡甸区科普活动课程",
     "venue": "武汉蔡甸区体育馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "免费",
     "description": "武汉蔡甸区的儿童科普活动课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5862,15 +6206,16 @@
       "蔡甸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉江夏区演出讲座",
     "venue": "武汉江夏区体育场",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "收费",
     "description": "武汉江夏区的青少年演出讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5879,15 +6224,16 @@
       "江夏区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉黄陂区影视放映展览",
     "venue": "武汉黄陂区会展中心",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "武汉黄陂区的趣味影视放映展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5896,15 +6242,16 @@
       "黄陂区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉新洲区体育赛事演出",
     "venue": "武汉新洲区文化中心",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-19",
+    "end_date": "2027-02-18",
     "fee": "收费",
     "description": "武汉新洲区的探索体育赛事演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5913,15 +6260,16 @@
       "新洲区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉江岸区亲子活动比赛",
     "venue": "武汉江岸区艺术中心",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
     "fee": "收费",
     "description": "武汉江岸区的发现亲子活动比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5930,15 +6278,16 @@
       "江岸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江汉区展览嘉年华",
     "venue": "武汉江汉区青少年宫",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
     "fee": "免费",
     "description": "武汉江汉区的体验展览嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5947,15 +6296,16 @@
       "江汉区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉硚口区讲座阅读日",
     "venue": "武汉硚口区创意园",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
     "fee": "免费",
     "description": "武汉硚口区的走进讲座阅读日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5964,15 +6314,16 @@
       "硚口区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉汉阳区科普活动周",
     "venue": "武汉汉阳区博物馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "武汉汉阳区的解读科普活动周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5981,15 +6332,16 @@
       "汉阳区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉武昌区演出月",
     "venue": "武汉武昌区科技馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-04",
+    "end_date": "2027-04-05",
     "fee": "收费",
     "description": "武汉武昌区的探秘演出月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -5998,15 +6350,16 @@
       "武昌区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉青山区影视放映季",
     "venue": "武汉青山区美术馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-12",
+    "end_date": "2027-02-11",
     "fee": "收费",
     "description": "武汉青山区的漫游影视放映季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6015,15 +6368,16 @@
       "青山区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉洪山区体育赛事节",
     "venue": "武汉洪山区图书馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
     "fee": "收费",
     "description": "武汉洪山区的精彩体育赛事节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6032,15 +6386,16 @@
       "洪山区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉东西湖区亲子活动之旅",
     "venue": "武汉东西湖区文化馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "收费",
     "description": "武汉东西湖区的梦幻亲子活动之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6049,15 +6404,16 @@
       "东西湖区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉蔡甸区展览探秘",
     "venue": "武汉蔡甸区公园",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "免费",
     "description": "武汉蔡甸区的经典展览探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6066,15 +6422,16 @@
       "蔡甸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉江夏区讲座阅读发现",
     "venue": "武汉江夏区植物园",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "免费",
     "description": "武汉江夏区的震撼讲座阅读发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6083,15 +6440,16 @@
       "江夏区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉黄陂区科普活动探索",
     "venue": "武汉黄陂区动物园",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
     "fee": "免费",
     "description": "武汉黄陂区的沉浸式科普活动探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6100,15 +6458,16 @@
       "黄陂区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉新洲区演出科普",
     "venue": "武汉新洲区海洋馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "武汉新洲区的互动演出科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6117,15 +6476,16 @@
       "新洲区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉江岸区影视放映活动",
     "venue": "武汉江岸区剧院",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
     "fee": "收费",
     "description": "武汉江岸区的周末影视放映活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6134,15 +6494,16 @@
       "江岸区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江汉区体育赛事体验营",
     "venue": "武汉江汉区体育馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-05",
+    "end_date": "2027-04-06",
     "fee": "收费",
     "description": "武汉江汉区的暑期体育赛事体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6151,15 +6512,16 @@
       "江汉区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉硚口区亲子活动工作坊",
     "venue": "武汉硚口区体育场",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
     "fee": "收费",
     "description": "武汉硚口区的亲子亲子活动工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6168,15 +6530,16 @@
       "硚口区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉汉阳区展览研学营",
     "venue": "武汉汉阳区会展中心",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
     "fee": "免费",
     "description": "武汉汉阳区的家庭展览研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6185,15 +6548,16 @@
       "汉阳区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉武昌区讲座阅读课程",
     "venue": "武汉武昌区文化中心",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "免费",
     "description": "武汉武昌区的儿童讲座阅读课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6202,15 +6566,16 @@
       "武昌区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉青山区科普活动讲座",
     "venue": "武汉青山区艺术中心",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
     "fee": "免费",
     "description": "武汉青山区的青少年科普活动讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6219,15 +6584,16 @@
       "青山区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉洪山区演出展览",
     "venue": "武汉洪山区青少年宫",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
     "fee": "收费",
     "description": "武汉洪山区的趣味演出展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6236,15 +6602,16 @@
       "洪山区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉东西湖区影视放映演出",
     "venue": "武汉东西湖区创意园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "收费",
     "description": "武汉东西湖区的探索影视放映演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6253,15 +6620,16 @@
       "东西湖区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉蔡甸区体育赛事比赛",
     "venue": "武汉蔡甸区博物馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "收费",
     "description": "武汉蔡甸区的发现体育赛事比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6270,15 +6638,16 @@
       "蔡甸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江夏区亲子活动嘉年华",
     "venue": "武汉江夏区科技馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "收费",
     "description": "武汉江夏区的体验亲子活动嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6287,15 +6656,16 @@
       "江夏区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉黄陂区展览日",
     "venue": "武汉黄陂区美术馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "免费",
     "description": "武汉黄陂区的走进展览日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6304,15 +6674,16 @@
       "黄陂区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉新洲区讲座阅读周",
     "venue": "武汉新洲区图书馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
     "fee": "免费",
     "description": "武汉新洲区的解读讲座阅读周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6321,15 +6692,16 @@
       "新洲区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉江岸区科普活动月",
     "venue": "武汉江岸区文化馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-03",
+    "end_date": "2027-04-04",
     "fee": "免费",
     "description": "武汉江岸区的探秘科普活动月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6338,15 +6710,16 @@
       "江岸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江汉区演出季",
     "venue": "武汉江汉区公园",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "武汉江汉区的漫游演出季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6355,15 +6728,16 @@
       "江汉区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉硚口区影视放映节",
     "venue": "武汉硚口区植物园",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-12",
+    "end_date": "2027-02-11",
     "fee": "收费",
     "description": "武汉硚口区的精彩影视放映节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6372,15 +6746,16 @@
       "硚口区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉汉阳区体育赛事之旅",
     "venue": "武汉汉阳区动物园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "收费",
     "description": "武汉汉阳区的梦幻体育赛事之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6389,15 +6764,16 @@
       "汉阳区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉武昌区亲子活动探秘",
     "venue": "武汉武昌区海洋馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "收费",
     "description": "武汉武昌区的经典亲子活动探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6406,15 +6782,16 @@
       "武昌区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉青山区展览发现",
     "venue": "武汉青山区剧院",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-09",
+    "end_date": "2027-02-08",
     "fee": "免费",
     "description": "武汉青山区的震撼展览发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6423,15 +6800,16 @@
       "青山区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉洪山区讲座阅读探索",
     "venue": "武汉洪山区体育馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "免费",
     "description": "武汉洪山区的沉浸式讲座阅读探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6440,15 +6818,16 @@
       "洪山区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉东西湖区科普活动科普",
     "venue": "武汉东西湖区体育场",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "免费",
     "description": "武汉东西湖区的互动科普活动科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6457,15 +6836,16 @@
       "东西湖区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉蔡甸区演出活动",
     "venue": "武汉蔡甸区会展中心",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-23",
     "fee": "收费",
     "description": "武汉蔡甸区的周末演出活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6474,15 +6854,16 @@
       "蔡甸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江夏区影视放映体验营",
     "venue": "武汉江夏区文化中心",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "武汉江夏区的暑期影视放映体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6491,15 +6872,16 @@
       "江夏区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉黄陂区体育赛事工作坊",
     "venue": "武汉黄陂区艺术中心",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
     "fee": "收费",
     "description": "武汉黄陂区的亲子体育赛事工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6508,15 +6890,16 @@
       "黄陂区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉新洲区亲子活动研学营",
     "venue": "武汉新洲区青少年宫",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
     "fee": "收费",
     "description": "武汉新洲区的家庭亲子活动研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6525,15 +6908,16 @@
       "新洲区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉江岸区展览课程",
     "venue": "武汉江岸区创意园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-29",
+    "end_date": "2027-03-31",
     "fee": "免费",
     "description": "武汉江岸区的儿童展览课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6542,15 +6926,16 @@
       "江岸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉江汉区讲座阅读讲座",
     "venue": "武汉江汉区博物馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
     "fee": "免费",
     "description": "武汉江汉区的青少年讲座阅读讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6559,15 +6944,16 @@
       "江汉区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉硚口区科普活动展览",
     "venue": "武汉硚口区科技馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
     "fee": "免费",
     "description": "武汉硚口区的趣味科普活动展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6576,15 +6962,16 @@
       "硚口区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉汉阳区演出演出",
     "venue": "武汉汉阳区美术馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
     "fee": "收费",
     "description": "武汉汉阳区的探索演出演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6593,15 +6980,16 @@
       "汉阳区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉武昌区影视放映比赛",
     "venue": "武汉武昌区图书馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
     "fee": "收费",
     "description": "武汉武昌区的发现影视放映比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6610,15 +6998,16 @@
       "武昌区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉青山区体育赛事嘉年华",
     "venue": "武汉青山区文化馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "武汉青山区的体验体育赛事嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6627,15 +7016,16 @@
       "青山区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉洪山区亲子活动日",
     "venue": "武汉洪山区公园",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "武汉洪山区的走进亲子活动日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6644,15 +7034,16 @@
       "洪山区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉东西湖区展览周",
     "venue": "武汉东西湖区植物园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-01",
+    "end_date": "2027-01-31",
     "fee": "免费",
     "description": "武汉东西湖区的解读展览周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6661,15 +7052,16 @@
       "东西湖区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉蔡甸区讲座阅读月",
     "venue": "武汉蔡甸区动物园",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
     "fee": "免费",
     "description": "武汉蔡甸区的探秘讲座阅读月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6678,15 +7070,16 @@
       "蔡甸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江夏区科普活动季",
     "venue": "武汉江夏区海洋馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-12",
+    "end_date": "2027-02-11",
     "fee": "免费",
     "description": "武汉江夏区的漫游科普活动季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6695,15 +7088,16 @@
       "江夏区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉黄陂区演出节",
     "venue": "武汉黄陂区剧院",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-01",
+    "end_date": "2027-04-02",
     "fee": "收费",
     "description": "武汉黄陂区的精彩演出节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6712,15 +7106,16 @@
       "黄陂区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉新洲区影视放映之旅",
     "venue": "武汉新洲区体育馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
     "fee": "收费",
     "description": "武汉新洲区的梦幻影视放映之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6729,15 +7124,16 @@
       "新洲区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉江岸区体育赛事探秘",
     "venue": "武汉江岸区体育场",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-10",
+    "end_date": "2027-02-09",
     "fee": "收费",
     "description": "武汉江岸区的经典体育赛事探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6746,15 +7142,16 @@
       "江岸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉江汉区亲子活动发现",
     "venue": "武汉江汉区会展中心",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
     "fee": "收费",
     "description": "武汉江汉区的震撼亲子活动发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6763,15 +7160,16 @@
       "江汉区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉硚口区展览探索",
     "venue": "武汉硚口区文化中心",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
     "fee": "免费",
     "description": "武汉硚口区的沉浸式展览探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6780,15 +7178,16 @@
       "硚口区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉汉阳区讲座阅读科普",
     "venue": "武汉汉阳区艺术中心",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
     "fee": "免费",
     "description": "武汉汉阳区的互动讲座阅读科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6797,15 +7196,16 @@
       "汉阳区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉武昌区科普活动活动",
     "venue": "武汉武昌区青少年宫",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-15",
+    "end_date": "2027-03-17",
     "fee": "免费",
     "description": "武汉武昌区的周末科普活动活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6814,15 +7214,16 @@
       "武昌区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉青山区演出体验营",
     "venue": "武汉青山区创意园",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-13",
+    "end_date": "2027-02-12",
     "fee": "收费",
     "description": "武汉青山区的暑期演出体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6831,15 +7232,16 @@
       "青山区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉洪山区影视放映工作坊",
     "venue": "武汉洪山区博物馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "收费",
     "description": "武汉洪山区的亲子影视放映工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6848,15 +7250,16 @@
       "洪山区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉东西湖区体育赛事研学营",
     "venue": "武汉东西湖区科技馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-23",
     "fee": "收费",
     "description": "武汉东西湖区的家庭体育赛事研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6865,15 +7268,16 @@
       "东西湖区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉蔡甸区亲子活动课程",
     "venue": "武汉蔡甸区美术馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "武汉蔡甸区的儿童亲子活动课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6882,15 +7286,16 @@
       "蔡甸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉江夏区展览讲座",
     "venue": "武汉江夏区图书馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
     "fee": "免费",
     "description": "武汉江夏区的青少年展览讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6899,15 +7304,16 @@
       "江夏区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉黄陂区讲座阅读展览",
     "venue": "武汉黄陂区文化馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-08",
+    "end_date": "2027-03-10",
     "fee": "免费",
     "description": "武汉黄陂区的趣味讲座阅读展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6916,15 +7322,16 @@
       "黄陂区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉新洲区科普活动演出",
     "venue": "武汉新洲区公园",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
     "fee": "免费",
     "description": "武汉新洲区的探索科普活动演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6933,15 +7340,16 @@
       "新洲区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉江岸区演出比赛",
     "venue": "武汉江岸区植物园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
     "fee": "收费",
     "description": "武汉江岸区的发现演出比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6950,15 +7358,16 @@
       "江岸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江汉区影视放映嘉年华",
     "venue": "武汉江汉区动物园",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "收费",
     "description": "武汉江汉区的体验影视放映嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6967,15 +7376,16 @@
       "江汉区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉硚口区体育赛事日",
     "venue": "武汉硚口区海洋馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
     "fee": "收费",
     "description": "武汉硚口区的走进体育赛事日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -6984,15 +7394,16 @@
       "硚口区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉汉阳区亲子活动周",
     "venue": "武汉汉阳区剧院",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "收费",
     "description": "武汉汉阳区的解读亲子活动周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7001,15 +7412,16 @@
       "汉阳区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉武昌区展览月",
     "venue": "武汉武昌区体育馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-17",
+    "end_date": "2027-02-16",
     "fee": "免费",
     "description": "武汉武昌区的探秘展览月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7018,15 +7430,16 @@
       "武昌区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉青山区讲座阅读季",
     "venue": "武汉青山区体育场",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-19",
+    "end_date": "2027-02-18",
     "fee": "免费",
     "description": "武汉青山区的漫游讲座阅读季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7035,15 +7448,16 @@
       "青山区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉洪山区科普活动节",
     "venue": "武汉洪山区会展中心",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-11",
     "fee": "免费",
     "description": "武汉洪山区的精彩科普活动节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7052,15 +7466,16 @@
       "洪山区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉东西湖区演出之旅",
     "venue": "武汉东西湖区文化中心",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
     "fee": "收费",
     "description": "武汉东西湖区的梦幻演出之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7069,15 +7484,16 @@
       "东西湖区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉蔡甸区影视放映探秘",
     "venue": "武汉蔡甸区艺术中心",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "收费",
     "description": "武汉蔡甸区的经典影视放映探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7086,15 +7502,16 @@
       "蔡甸区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉江夏区体育赛事发现",
     "venue": "武汉江夏区青少年宫",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
     "fee": "收费",
     "description": "武汉江夏区的震撼体育赛事发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7103,15 +7520,16 @@
       "江夏区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉黄陂区亲子活动探索",
     "venue": "武汉黄陂区创意园",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "收费",
     "description": "武汉黄陂区的沉浸式亲子活动探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7120,15 +7538,16 @@
       "黄陂区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉新洲区展览科普",
     "venue": "武汉新洲区博物馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-13",
+    "end_date": "2027-03-15",
     "fee": "免费",
     "description": "武汉新洲区的互动展览科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7137,15 +7556,16 @@
       "新洲区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉江岸区讲座阅读活动",
     "venue": "武汉江岸区科技馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "武汉江岸区的周末讲座阅读活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7154,15 +7574,16 @@
       "江岸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江汉区科普活动体验营",
     "venue": "武汉江汉区美术馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "免费",
     "description": "武汉江汉区的暑期科普活动体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7171,15 +7592,16 @@
       "江汉区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉硚口区演出工作坊",
     "venue": "武汉硚口区图书馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-30",
+    "end_date": "2027-04-01",
     "fee": "收费",
     "description": "武汉硚口区的亲子演出工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7188,15 +7610,16 @@
       "硚口区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉汉阳区影视放映研学营",
     "venue": "武汉汉阳区文化馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-07",
+    "end_date": "2027-03-09",
     "fee": "收费",
     "description": "武汉汉阳区的家庭影视放映研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7205,15 +7628,16 @@
       "汉阳区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉武昌区体育赛事课程",
     "venue": "武汉武昌区公园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-24",
+    "end_date": "2027-03-26",
     "fee": "收费",
     "description": "武汉武昌区的儿童体育赛事课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7222,15 +7646,16 @@
       "武昌区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉青山区亲子活动讲座",
     "venue": "武汉青山区植物园",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-22",
     "fee": "收费",
     "description": "武汉青山区的青少年亲子活动讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7239,15 +7664,16 @@
       "青山区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉洪山区展览展览",
     "venue": "武汉洪山区动物园",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "免费",
     "description": "武汉洪山区的趣味展览展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7256,15 +7682,16 @@
       "洪山区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉东西湖区讲座阅读演出",
     "venue": "武汉东西湖区海洋馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-09",
+    "end_date": "2027-03-11",
     "fee": "免费",
     "description": "武汉东西湖区的探索讲座阅读演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7273,15 +7700,16 @@
       "东西湖区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉蔡甸区科普活动比赛",
     "venue": "武汉蔡甸区剧院",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
     "fee": "免费",
     "description": "武汉蔡甸区的发现科普活动比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7290,15 +7718,16 @@
       "蔡甸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江夏区演出嘉年华",
     "venue": "武汉江夏区体育馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-22",
+    "end_date": "2027-01-21",
     "fee": "收费",
     "description": "武汉江夏区的体验演出嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7307,15 +7736,16 @@
       "江夏区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉黄陂区影视放映日",
     "venue": "武汉黄陂区体育场",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "武汉黄陂区的走进影视放映日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7324,15 +7754,16 @@
       "黄陂区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉新洲区体育赛事周",
     "venue": "武汉新洲区会展中心",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
     "fee": "收费",
     "description": "武汉新洲区的解读体育赛事周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7341,15 +7772,16 @@
       "新洲区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉江岸区亲子活动月",
     "venue": "武汉江岸区文化中心",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-24",
+    "end_date": "2027-03-26",
     "fee": "收费",
     "description": "武汉江岸区的探秘亲子活动月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7358,15 +7790,16 @@
       "江岸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江汉区展览季",
     "venue": "武汉江汉区艺术中心",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "武汉江汉区的漫游展览季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7375,15 +7808,16 @@
       "江汉区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉硚口区讲座阅读节",
     "venue": "武汉硚口区青少年宫",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
     "fee": "免费",
     "description": "武汉硚口区的精彩讲座阅读节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7392,15 +7826,16 @@
       "硚口区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉汉阳区科普活动之旅",
     "venue": "武汉汉阳区创意园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
     "fee": "免费",
     "description": "武汉汉阳区的梦幻科普活动之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7409,15 +7844,16 @@
       "汉阳区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉武昌区演出探秘",
     "venue": "武汉武昌区博物馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "收费",
     "description": "武汉武昌区的经典演出探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7426,15 +7862,16 @@
       "武昌区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉青山区影视放映发现",
     "venue": "武汉青山区科技馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
     "fee": "收费",
     "description": "武汉青山区的震撼影视放映发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7443,15 +7880,16 @@
       "青山区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉洪山区体育赛事探索",
     "venue": "武汉洪山区美术馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-11",
     "fee": "收费",
     "description": "武汉洪山区的沉浸式体育赛事探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7460,15 +7898,16 @@
       "洪山区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉东西湖区亲子活动科普",
     "venue": "武汉东西湖区图书馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-11",
+    "end_date": "2027-04-12",
     "fee": "收费",
     "description": "武汉东西湖区的互动亲子活动科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7477,15 +7916,16 @@
       "东西湖区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉蔡甸区展览活动",
     "venue": "武汉蔡甸区文化馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-03",
     "fee": "免费",
     "description": "武汉蔡甸区的周末展览活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7494,15 +7934,16 @@
       "蔡甸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江夏区讲座阅读体验营",
     "venue": "武汉江夏区公园",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "免费",
     "description": "武汉江夏区的暑期讲座阅读体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7511,15 +7952,16 @@
       "江夏区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉黄陂区科普活动工作坊",
     "venue": "武汉黄陂区植物园",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
     "fee": "免费",
     "description": "武汉黄陂区的亲子科普活动工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7528,15 +7970,16 @@
       "黄陂区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉新洲区演出研学营",
     "venue": "武汉新洲区动物园",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-04",
+    "end_date": "2027-04-05",
     "fee": "收费",
     "description": "武汉新洲区的家庭演出研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7545,15 +7988,16 @@
       "新洲区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉江岸区影视放映课程",
     "venue": "武汉江岸区海洋馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
     "fee": "收费",
     "description": "武汉江岸区的儿童影视放映课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7562,15 +8006,16 @@
       "江岸区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉江汉区体育赛事讲座",
     "venue": "武汉江汉区剧院",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
     "fee": "收费",
     "description": "武汉江汉区的青少年体育赛事讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7579,15 +8024,16 @@
       "江汉区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉硚口区亲子活动展览",
     "venue": "武汉硚口区体育馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
     "fee": "收费",
     "description": "武汉硚口区的趣味亲子活动展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7596,15 +8042,16 @@
       "硚口区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉汉阳区展览演出",
     "venue": "武汉汉阳区体育场",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
     "fee": "免费",
     "description": "武汉汉阳区的探索展览演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7613,15 +8060,16 @@
       "汉阳区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉武昌区讲座阅读比赛",
     "venue": "武汉武昌区会展中心",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
     "fee": "免费",
     "description": "武汉武昌区的发现讲座阅读比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7630,15 +8078,16 @@
       "武昌区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉青山区科普活动嘉年华",
     "venue": "武汉青山区文化中心",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-07",
+    "end_date": "2027-03-09",
     "fee": "免费",
     "description": "武汉青山区的体验科普活动嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7647,15 +8096,16 @@
       "青山区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉洪山区演出日",
     "venue": "武汉洪山区艺术中心",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
     "fee": "收费",
     "description": "武汉洪山区的走进演出日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7664,15 +8114,16 @@
       "洪山区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉东西湖区影视放映周",
     "venue": "武汉东西湖区青少年宫",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
     "fee": "收费",
     "description": "武汉东西湖区的解读影视放映周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7681,15 +8132,16 @@
       "东西湖区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉蔡甸区体育赛事月",
     "venue": "武汉蔡甸区创意园",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "收费",
     "description": "武汉蔡甸区的探秘体育赛事月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7698,15 +8150,16 @@
       "蔡甸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江夏区亲子活动季",
     "venue": "武汉江夏区博物馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "收费",
     "description": "武汉江夏区的漫游亲子活动季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7715,15 +8168,16 @@
       "江夏区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉黄陂区展览节",
     "venue": "武汉黄陂区科技馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
     "fee": "免费",
     "description": "武汉黄陂区的精彩展览节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7732,15 +8186,16 @@
       "黄陂区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉新洲区讲座阅读之旅",
     "venue": "武汉新洲区美术馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-20",
+    "end_date": "2027-02-19",
     "fee": "免费",
     "description": "武汉新洲区的梦幻讲座阅读之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7749,15 +8204,16 @@
       "新洲区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉江岸区科普活动探秘",
     "venue": "武汉江岸区图书馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-15",
+    "end_date": "2027-02-14",
     "fee": "免费",
     "description": "武汉江岸区的经典科普活动探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7766,15 +8222,16 @@
       "江岸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉江汉区演出发现",
     "venue": "武汉江汉区文化馆",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-21",
+    "end_date": "2027-03-23",
     "fee": "收费",
     "description": "武汉江汉区的震撼演出发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7783,15 +8240,16 @@
       "江汉区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉硚口区影视放映探索",
     "venue": "武汉硚口区公园",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-22",
+    "end_date": "2027-03-24",
     "fee": "收费",
     "description": "武汉硚口区的沉浸式影视放映探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7800,15 +8258,16 @@
       "硚口区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉汉阳区体育赛事科普",
     "venue": "武汉汉阳区植物园",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-27",
+    "end_date": "2027-03-29",
     "fee": "收费",
     "description": "武汉汉阳区的互动体育赛事科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7817,15 +8276,16 @@
       "汉阳区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉武昌区亲子活动活动",
     "venue": "武汉武昌区动物园",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-30",
+    "end_date": "2027-04-01",
     "fee": "收费",
     "description": "武汉武昌区的周末亲子活动活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7834,15 +8294,16 @@
       "武昌区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉青山区展览体验营",
     "venue": "武汉青山区海洋馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "免费",
     "description": "武汉青山区的暑期展览体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7851,15 +8312,16 @@
       "青山区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉洪山区讲座阅读工作坊",
     "venue": "武汉洪山区剧院",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-29",
+    "end_date": "2027-03-31",
     "fee": "免费",
     "description": "武汉洪山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7868,15 +8330,16 @@
       "洪山区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉东西湖区科普活动研学营",
     "venue": "武汉东西湖区体育馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-15",
+    "end_date": "2027-02-14",
     "fee": "免费",
     "description": "武汉东西湖区的家庭科普活动研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7885,15 +8348,16 @@
       "东西湖区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉蔡甸区演出课程",
     "venue": "武汉蔡甸区体育场",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-13",
+    "end_date": "2027-03-15",
     "fee": "收费",
     "description": "武汉蔡甸区的儿童演出课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7902,15 +8366,16 @@
       "蔡甸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉江夏区影视放映讲座",
     "venue": "武汉江夏区会展中心",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
     "fee": "收费",
     "description": "武汉江夏区的青少年影视放映讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7919,15 +8384,16 @@
       "江夏区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉黄陂区体育赛事展览",
     "venue": "武汉黄陂区文化中心",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "武汉黄陂区的趣味体育赛事展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7936,15 +8402,16 @@
       "黄陂区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉新洲区亲子活动演出",
     "venue": "武汉新洲区艺术中心",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-15",
+    "end_date": "2027-03-17",
     "fee": "收费",
     "description": "武汉新洲区的探索亲子活动演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7953,15 +8420,16 @@
       "新洲区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉江岸区展览比赛",
     "venue": "武汉江岸区青少年宫",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
     "fee": "免费",
     "description": "武汉江岸区的发现展览比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7970,15 +8438,16 @@
       "江岸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江汉区讲座阅读嘉年华",
     "venue": "武汉江汉区创意园",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-01",
+    "end_date": "2027-04-02",
     "fee": "免费",
     "description": "武汉江汉区的体验讲座阅读嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -7987,15 +8456,16 @@
       "江汉区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉硚口区科普活动日",
     "venue": "武汉硚口区博物馆",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "免费",
     "description": "武汉硚口区的走进科普活动日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8004,15 +8474,16 @@
       "硚口区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉汉阳区演出周",
     "venue": "武汉汉阳区科技馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-22",
     "fee": "收费",
     "description": "武汉汉阳区的解读演出周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8021,15 +8492,16 @@
       "汉阳区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉武昌区影视放映月",
     "venue": "武汉武昌区美术馆",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
     "fee": "收费",
     "description": "武汉武昌区的探秘影视放映月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8038,15 +8510,16 @@
       "武昌区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉青山区体育赛事季",
     "venue": "武汉青山区图书馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-31",
+    "end_date": "2027-03-02",
     "fee": "收费",
     "description": "武汉青山区的漫游体育赛事季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8055,15 +8528,16 @@
       "青山区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉洪山区亲子活动节",
     "venue": "武汉洪山区文化馆",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
     "fee": "收费",
     "description": "武汉洪山区的精彩亲子活动节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8072,15 +8546,16 @@
       "洪山区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉东西湖区展览之旅",
     "venue": "武汉东西湖区公园",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "免费",
     "description": "武汉东西湖区的梦幻展览之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8089,15 +8564,16 @@
       "东西湖区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉蔡甸区讲座阅读探秘",
     "venue": "武汉蔡甸区植物园",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "免费",
     "description": "武汉蔡甸区的经典讲座阅读探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8106,15 +8582,16 @@
       "蔡甸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉江夏区科普活动发现",
     "venue": "武汉江夏区动物园",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-23",
     "fee": "免费",
     "description": "武汉江夏区的震撼科普活动发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8123,15 +8600,16 @@
       "江夏区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉黄陂区演出探索",
     "venue": "武汉黄陂区海洋馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-09",
+    "end_date": "2027-03-11",
     "fee": "收费",
     "description": "武汉黄陂区的沉浸式演出探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8140,15 +8618,16 @@
       "黄陂区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉新洲区影视放映科普",
     "venue": "武汉新洲区剧院",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
     "fee": "收费",
     "description": "武汉新洲区的互动影视放映科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8157,15 +8636,16 @@
       "新洲区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "周末武汉江岸区体育赛事活动",
     "venue": "武汉江岸区体育馆",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-01",
+    "end_date": "2027-01-31",
     "fee": "收费",
     "description": "武汉江岸区的周末体育赛事活动，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8174,15 +8654,16 @@
       "江岸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "暑期武汉江汉区亲子活动体验营",
     "venue": "武汉江汉区体育场",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-05",
+    "end_date": "2027-02-04",
     "fee": "收费",
     "description": "武汉江汉区的暑期亲子活动体验营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8191,15 +8672,16 @@
       "江汉区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子武汉硚口区展览工作坊",
     "venue": "武汉硚口区会展中心",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-31",
+    "end_date": "2027-03-02",
     "fee": "免费",
     "description": "武汉硚口区的亲子展览工作坊，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8208,15 +8690,16 @@
       "硚口区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "家庭武汉汉阳区讲座阅读研学营",
     "venue": "武汉汉阳区文化中心",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-26",
+    "end_date": "2027-02-25",
     "fee": "免费",
     "description": "武汉汉阳区的家庭讲座阅读研学营，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8225,15 +8708,16 @@
       "汉阳区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "儿童武汉武昌区科普活动课程",
     "venue": "武汉武昌区艺术中心",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-30",
+    "end_date": "2027-03-01",
     "fee": "免费",
     "description": "武汉武昌区的儿童科普活动课程，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8242,15 +8726,16 @@
       "武昌区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "青少年武汉青山区演出讲座",
     "venue": "武汉青山区青少年宫",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
     "fee": "收费",
     "description": "武汉青山区的青少年演出讲座，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8259,15 +8744,16 @@
       "青山区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "趣味武汉洪山区影视放映展览",
     "venue": "武汉洪山区创意园",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-13",
+    "end_date": "2027-02-12",
     "fee": "收费",
     "description": "武汉洪山区的趣味影视放映展览，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8276,15 +8762,16 @@
       "洪山区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探索武汉东西湖区体育赛事演出",
     "venue": "武汉东西湖区博物馆",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-22",
+    "end_date": "2027-03-24",
     "fee": "收费",
     "description": "武汉东西湖区的探索体育赛事演出，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8293,15 +8780,16 @@
       "东西湖区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "发现武汉蔡甸区亲子活动比赛",
     "venue": "武汉蔡甸区科技馆",
     "city": "wuhan",
     "district": "蔡甸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "收费",
     "description": "武汉蔡甸区的发现亲子活动比赛，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8310,15 +8798,16 @@
       "蔡甸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "体验武汉江夏区展览嘉年华",
     "venue": "武汉江夏区美术馆",
     "city": "wuhan",
     "district": "江夏区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-31",
+    "end_date": "2027-03-02",
     "fee": "免费",
     "description": "武汉江夏区的体验展览嘉年华，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8327,15 +8816,16 @@
       "江夏区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "走进武汉黄陂区讲座阅读日",
     "venue": "武汉黄陂区图书馆",
     "city": "wuhan",
     "district": "黄陂区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-16",
+    "end_date": "2027-03-18",
     "fee": "免费",
     "description": "武汉黄陂区的走进讲座阅读日，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8344,15 +8834,16 @@
       "黄陂区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "解读武汉新洲区科普活动周",
     "venue": "武汉新洲区文化馆",
     "city": "wuhan",
     "district": "新洲区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
     "fee": "免费",
     "description": "武汉新洲区的解读科普活动周，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8361,15 +8852,16 @@
       "新洲区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "探秘武汉江岸区演出月",
     "venue": "武汉江岸区公园",
     "city": "wuhan",
     "district": "江岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "收费",
     "description": "武汉江岸区的探秘演出月，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8378,15 +8870,16 @@
       "江岸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "漫游武汉江汉区影视放映季",
     "venue": "武汉江汉区植物园",
     "city": "wuhan",
     "district": "江汉区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
     "fee": "收费",
     "description": "武汉江汉区的漫游影视放映季，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8395,15 +8888,16 @@
       "江汉区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "精彩武汉硚口区体育赛事节",
     "venue": "武汉硚口区动物园",
     "city": "wuhan",
     "district": "硚口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-13",
+    "end_date": "2027-03-15",
     "fee": "收费",
     "description": "武汉硚口区的精彩体育赛事节，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8412,15 +8906,16 @@
       "硚口区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻武汉汉阳区亲子活动之旅",
     "venue": "武汉汉阳区海洋馆",
     "city": "wuhan",
     "district": "汉阳区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "收费",
     "description": "武汉汉阳区的梦幻亲子活动之旅，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8429,15 +8924,16 @@
       "汉阳区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "经典武汉武昌区展览探秘",
     "venue": "武汉武昌区剧院",
     "city": "wuhan",
     "district": "武昌区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
     "fee": "免费",
     "description": "武汉武昌区的经典展览探秘，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8446,15 +8942,16 @@
       "武昌区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "震撼武汉青山区讲座阅读发现",
     "venue": "武汉青山区体育馆",
     "city": "wuhan",
     "district": "青山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "免费",
     "description": "武汉青山区的震撼讲座阅读发现，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8463,15 +8960,16 @@
       "青山区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式武汉洪山区科普活动探索",
     "venue": "武汉洪山区体育场",
     "city": "wuhan",
     "district": "洪山区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
     "fee": "免费",
     "description": "武汉洪山区的沉浸式科普活动探索，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8480,15 +8978,16 @@
       "洪山区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "互动武汉东西湖区演出科普",
     "venue": "武汉东西湖区会展中心",
     "city": "wuhan",
     "district": "东西湖区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-01",
+    "end_date": "2027-01-31",
     "fee": "收费",
     "description": "武汉东西湖区的互动演出科普，适合亲子家庭参与。",
     "source": "武汉本地宝",
@@ -8497,6 +8996,7 @@
       "东西湖区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   }
 ]

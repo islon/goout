@@ -14,15 +14,16 @@
       "研学",
       "夏令营"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "小小讲解员暑期培训营",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-07-20",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-20",
     "fee": "免费需预约",
     "description": "面向8至12岁少年儿童开展讲解员培训，结业后可参与馆内志愿讲解服务。",
     "source": "重庆本地宝",
@@ -31,7 +32,8 @@
       "培训",
       "志愿者"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "巴蜀青铜器鉴赏研学",
@@ -48,7 +50,8 @@
       "鉴赏",
       "巴蜀文化"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "三峡民俗文化亲子课堂",
@@ -65,7 +68,8 @@
       "亲子",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "自然博物馆夜宿奇妙夜",
@@ -82,7 +86,8 @@
       "博物馆",
       "恐龙"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "恐龙化石发掘体验营",
@@ -99,7 +104,8 @@
       "化石",
       "考古"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "自然博物馆昆虫探秘之旅",
@@ -116,7 +122,8 @@
       "标本",
       "科普"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "自然博物馆矿物标本观察课",
@@ -133,7 +140,8 @@
       "地球科学",
       "标本"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "工业博物馆机械探秘研学",
@@ -150,7 +158,8 @@
       "机械",
       "重钢"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "钢铁是怎样炼成的体验课",
@@ -167,7 +176,8 @@
       "冶炼",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "建川博物馆抗战文化研学",
@@ -184,7 +194,8 @@
       "兵工厂",
       "爱国主义"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "建川博物馆兵工署旧址探秘",
@@ -201,7 +212,8 @@
       "洞穴",
       "军工"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "火锅博物馆美食文化研学",
@@ -218,7 +230,8 @@
       "美食",
       "文化"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "火锅底料古法炒制体验",
@@ -235,7 +248,8 @@
       "炒制",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆美术馆少儿美育课堂",
@@ -252,7 +266,8 @@
       "绘画",
       "少儿"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆美术馆版画拓印体验",
@@ -269,7 +284,8 @@
       "拓印",
       "艺术"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "三峡博物馆书画鉴赏讲座",
@@ -286,7 +302,8 @@
       "鉴赏",
       "讲座"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "三峡博物馆陶瓷修复体验课",
@@ -303,7 +320,8 @@
       "修复",
       "文物"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "自然博物馆古生物大讲堂",
@@ -320,15 +338,16 @@
       "恐龙",
       "讲座"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "重庆生物多样性专题展",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-09-30",
+    "start_date": "2026-09-24",
+    "end_date": "2026-12-24",
     "fee": "免费",
     "description": "系统展示重庆地区动植物资源，普及生物多样性保护理念与生态知识。",
     "source": "重庆本地宝",
@@ -337,15 +356,16 @@
       "生态",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "三峡博物馆少数民族文化展",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-07-21",
+    "end_date": "2026-11-20",
     "fee": "免费",
     "description": "展出重庆地区土家族、苗族等少数民族服饰、器具与民俗文物精品。",
     "source": "重庆本地宝",
@@ -354,7 +374,8 @@
       "土家族",
       "苗族"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "巴渝文化深度研学营",
@@ -371,7 +392,8 @@
       "深度研学",
       "实地考察"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "脊椎动物演化研学课堂",
@@ -388,7 +410,8 @@
       "演化",
       "化石"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "工业博物馆老厂房探秘游",
@@ -405,15 +428,16 @@
       "重钢",
       "工业遗迹"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "建川博物馆抗战文物精品展",
     "venue": "重庆建川博物馆聚落",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "集中展出抗战时期珍贵文物，包括兵器、文献、生活用品等数百件藏品。",
     "source": "重庆本地宝",
@@ -422,7 +446,8 @@
       "文物",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "火锅博物馆麻辣文化讲堂",
@@ -439,7 +464,8 @@
       "麻辣",
       "饮食文化"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆美术馆当代艺术导览",
@@ -456,15 +482,16 @@
       "导览",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "三峡博物馆历代钱币展",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-11-30",
+    "start_date": "2026-10-01",
+    "end_date": "2027-03-02",
     "fee": "免费",
     "description": "展出从先秦至近代的各类钱币，呈现中国古代货币制度演变脉络。",
     "source": "重庆本地宝",
@@ -473,7 +500,8 @@
       "货币史",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "自然博物馆地球科学课堂",
@@ -490,7 +518,8 @@
       "地质",
       "岩石"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "三峡博物馆玉器鉴赏研学",
@@ -507,7 +536,8 @@
       "鉴赏",
       "玉文化"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "科学实验秀暑期专场",
@@ -524,7 +554,8 @@
       "表演",
       "科普"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "防灾减灾体验营",
@@ -541,15 +572,16 @@
       "应急",
       "安全"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童科学乐园暑期探索",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-28",
+    "end_date": "2026-11-28",
     "fee": "免费需预约",
     "description": "专为低龄儿童打造的科学乐园，含百余项互动展项，寓教于乐探索科学。",
     "source": "重庆本地宝",
@@ -558,7 +590,8 @@
       "互动",
       "科学"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "机器人编程体验工作坊",
@@ -575,15 +608,16 @@
       "编程",
       "思维"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "航天科普主题展",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-10-10",
+    "end_date": "2027-02-09",
     "fee": "免费",
     "description": "展示中国航天事业发展成就，含火箭模型、空间站模拟舱等大型展品。",
     "source": "重庆本地宝",
@@ -592,7 +626,8 @@
       "火箭",
       "空间站"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "3D打印创意工坊",
@@ -609,7 +644,8 @@
       "建模",
       "创意"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "趣味物理小实验课堂",
@@ -626,7 +662,8 @@
       "实验",
       "趣味"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "化学魔术秀表演",
@@ -643,7 +680,8 @@
       "魔术",
       "表演"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "地震模拟体验活动",
@@ -660,7 +698,8 @@
       "模拟",
       "逃生"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "VR科学探索之旅",
@@ -677,7 +716,8 @@
       "沉浸式",
       "探索"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "无人机飞行体验营",
@@ -694,7 +734,8 @@
       "飞行",
       "操控"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "电与磁的奥秘探索",
@@ -711,7 +752,8 @@
       "实验",
       "物理"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "光学世界探秘课堂",
@@ -728,7 +770,8 @@
       "折射",
       "手工"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "声学小课堂",
@@ -745,7 +788,8 @@
       "声音",
       "共鸣"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "力学趣味实验大挑战",
@@ -762,15 +806,16 @@
       "挑战",
       "实践"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "太空生活体验展",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
     "fee": "免费",
     "description": "模拟航天员太空生活场景，展示太空饮食、睡眠、实验等真实生活环境。",
     "source": "重庆本地宝",
@@ -779,15 +824,16 @@
       "航天员",
       "体验"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "恐龙时代科普展",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-09-30",
+    "start_date": "2026-07-28",
+    "end_date": "2026-10-27",
     "fee": "免费",
     "description": "通过恐龙骨架模型与场景复原，再现侏罗纪白垩纪恐龙世界的恢弘景象。",
     "source": "重庆本地宝",
@@ -796,7 +842,8 @@
       "侏罗纪",
       "科普"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "海洋科学探索活动",
@@ -813,7 +860,8 @@
       "洋流",
       "净化"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "气象科普大讲堂",
@@ -830,7 +878,8 @@
       "预报",
       "气候"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "环保科学小达人",
@@ -847,7 +896,8 @@
       "垃圾分类",
       "再生"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "食品安全科普体验",
@@ -864,7 +914,8 @@
       "检测",
       "健康"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "人体健康小课堂",
@@ -881,7 +932,8 @@
       "人体",
       "营养"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "人工智能启蒙课程",
@@ -898,7 +950,8 @@
       "语音识别",
       "启蒙"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "太阳系探秘讲座",
@@ -915,7 +968,8 @@
       "行星",
       "天文"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "火箭发射模拟体验",
@@ -932,7 +986,8 @@
       "水火箭",
       "发射"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "科学魔术大揭秘",
@@ -949,7 +1004,8 @@
       "揭秘",
       "科学"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "生命科学讲堂",
@@ -966,7 +1022,8 @@
       "基因",
       "显微镜"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "数学游戏乐园",
@@ -983,15 +1040,16 @@
       "游戏",
       "逻辑"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "材料科学探秘展",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-11-30",
+    "start_date": "2026-10-08",
+    "end_date": "2027-03-09",
     "fee": "免费",
     "description": "展示纳米材料、超导材料、智能材料等前沿材料科技成果与应用场景。",
     "source": "重庆本地宝",
@@ -1000,15 +1058,16 @@
       "纳米",
       "科技"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "新能源科普展览",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "免费",
     "description": "介绍太阳能、风能、氢能等清洁能源技术，倡导绿色低碳生活方式。",
     "source": "重庆本地宝",
@@ -1017,15 +1076,16 @@
       "清洁能源",
       "低碳"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "科技馆暑期科学营",
     "venue": "重庆科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-14",
-    "end_date": "2026-07-18",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-08",
     "fee": "收费",
     "description": "五日科学营涵盖物理、化学、生物等多学科实验，全面提升科学素养。",
     "source": "重庆本地宝",
@@ -1034,7 +1094,8 @@
       "实验",
       "多学科"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "重庆动物园大熊猫科普讲解",
@@ -1051,7 +1112,8 @@
       "科普",
       "讲解"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆动物园金丝猴探秘",
@@ -1068,7 +1130,8 @@
       "灵长类",
       "珍稀"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆动物园猛兽区导览",
@@ -1085,7 +1148,8 @@
       "导览",
       "保护"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆动物园飞禽世界",
@@ -1102,7 +1166,8 @@
       "百鸟园",
       "鸟类"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南山植物园夏花认知之旅",
@@ -1119,7 +1184,8 @@
       "植物",
       "认知"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "南山植物园蔷薇园探秘",
@@ -1136,7 +1202,8 @@
       "月季",
       "花卉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南山植物园兰花精品展",
@@ -1153,7 +1220,8 @@
       "名贵",
       "兰艺"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "南山植物园多肉植物展",
@@ -1170,7 +1238,8 @@
       "拼盆",
       "养护"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "彩云湖湿地公园观鸟活动",
@@ -1187,7 +1256,8 @@
       "湿地",
       "候鸟"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "彩云湖湿地生态讲堂",
@@ -1204,15 +1274,16 @@
       "净水",
       "生态"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "鹅岭公园夏日荷花展",
     "venue": "鹅岭公园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-15",
+    "start_date": "2026-09-15",
+    "end_date": "2026-10-30",
     "fee": "免费",
     "description": "鹅岭公园莲池荷花盛开，展出多个荷花品种，是夏日赏荷纳凉好去处。",
     "source": "重庆本地宝",
@@ -1221,15 +1292,16 @@
       "赏花",
       "纳凉"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "鹅岭公园夏日花卉联展",
     "venue": "鹅岭公园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-10",
+    "end_date": "2026-09-26",
     "fee": "免费",
     "description": "园内展出紫薇、凌霄、栀子等夏季时令花卉，营造满园芬芳景观。",
     "source": "重庆本地宝",
@@ -1238,15 +1310,16 @@
       "紫薇",
       "夏日"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆园博园夏日游园会",
     "venue": "重庆园博园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-24",
+    "end_date": "2026-09-23",
     "fee": "收费",
     "description": "汇集国内外园林精品，夏季推出夜游灯光与水幕表演，适合亲子游园。",
     "source": "重庆本地宝",
@@ -1255,7 +1328,8 @@
       "夜游",
       "水幕"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆园博园园林文化研学",
@@ -1272,7 +1346,8 @@
       "研学",
       "造园"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "重庆中央公园草坪露营日",
@@ -1289,7 +1364,8 @@
       "草坪",
       "野餐"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆中央公园风筝节",
@@ -1306,7 +1382,8 @@
       "手绘",
       "比赛"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "缙云山植物认知自然课堂",
@@ -1323,7 +1400,8 @@
       "植物",
       "自然"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山森林课堂夏令营",
@@ -1340,7 +1418,8 @@
       "夏令营",
       "溯溪"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "歌乐山森林公园徒步游",
@@ -1357,7 +1436,8 @@
       "徒步",
       "登山"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "歌乐山自然观察日记",
@@ -1374,15 +1454,16 @@
       "日记",
       "绘画"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "铁山坪森林公园避暑纳凉",
     "venue": "铁山坪森林公园",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-20",
     "fee": "免费",
     "description": "铁山坪林荫覆盖凉爽宜人，是市民夏日避暑纳凉、亲近自然的好去处。",
     "source": "重庆本地宝",
@@ -1391,7 +1472,8 @@
       "避暑",
       "纳凉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "铁山坪森林探险挑战",
@@ -1408,7 +1490,8 @@
       "定向越野",
       "团队"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆动物园爬行动物馆探秘",
@@ -1425,7 +1508,8 @@
       "蛇",
       "蜥蜴"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆动物园两栖动物世界",
@@ -1442,7 +1526,8 @@
       "青蛙",
       "蝾螈"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南山植物园珍稀植物展",
@@ -1459,7 +1544,8 @@
       "桫椤",
       "保护"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "南山植物园药用植物认知",
@@ -1476,7 +1562,8 @@
       "中草药",
       "香囊"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "彩云湖湿地蝴蝶观察活动",
@@ -1493,15 +1580,16 @@
       "观察",
       "图鉴"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆园博园水生植物展",
     "venue": "重庆园博园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-09-30",
+    "start_date": "2026-09-04",
+    "end_date": "2026-12-04",
     "fee": "收费",
     "description": "园博园龙景湖水域展出睡莲、王莲、再力花等水生植物，营造水上花园。",
     "source": "重庆本地宝",
@@ -1510,7 +1598,8 @@
       "睡莲",
       "王莲"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆中央公园亲子运动会",
@@ -1527,15 +1616,16 @@
       "趣味",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "鹅岭公园瞰胜楼观景",
     "venue": "鹅岭公园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
     "fee": "免费",
     "description": "登上鹅岭瞰胜楼，360度俯瞰两江交汇与山城全景，是观景绝佳位置。",
     "source": "重庆本地宝",
@@ -1544,15 +1634,16 @@
       "观景",
       "两江"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐谷电音节",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-14",
+    "end_date": "2026-10-10",
     "fee": "需购票",
     "description": "暑期每周六举办大型电音派对，知名DJ驻场打碟，结合灯光舞美震撼全场。",
     "source": "重庆本地宝",
@@ -1561,15 +1652,16 @@
       "DJ",
       "派对"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐谷夏日狂欢季",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-14",
     "fee": "需购票",
     "description": "整个暑期推出主题巡游、水上派对与夜场烟花，打造夏日狂欢盛宴。",
     "source": "重庆本地宝",
@@ -1578,15 +1670,16 @@
       "巡游",
       "烟花"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐谷亲子游乐专场",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-28",
+    "end_date": "2026-10-28",
     "fee": "需购票",
     "description": "专为亲子家庭设计的游乐项目集合，含摩天轮、旋转木马、小火车等。",
     "source": "重庆本地宝",
@@ -1595,15 +1688,16 @@
       "摩天轮",
       "旋转木马"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆欢乐谷夜场派对",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-29",
+    "start_date": "2026-08-30",
+    "end_date": "2026-10-19",
     "fee": "需购票",
     "description": "每周五六日开放夜场，灯光秀、电音派对与夜场巡游轮番上演。",
     "source": "重庆本地宝",
@@ -1612,7 +1706,8 @@
       "灯光秀",
       "派对"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐谷过山车挑战赛",
@@ -1629,15 +1724,16 @@
       "挑战",
       "刺激"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "玛雅海滩戏水狂欢节",
     "venue": "重庆欢乐谷玛雅海滩水公园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-04",
+    "end_date": "2026-11-04",
     "fee": "需购票",
     "description": "水公园暑期开放，造浪池、大喇叭、滑道等数十项水上游乐设施清凉登场。",
     "source": "重庆本地宝",
@@ -1646,15 +1742,16 @@
       "造浪池",
       "水公园"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "玛雅海滩儿童戏水乐园",
     "venue": "重庆欢乐谷玛雅海滩水公园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-22",
+    "end_date": "2026-10-22",
     "fee": "需购票",
     "description": "专为儿童设计的浅水戏水区，含迷你滑道、水蘑菇、喷水小品等设施。",
     "source": "重庆本地宝",
@@ -1663,15 +1760,16 @@
       "浅水",
       "迷你滑道"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆融创乐园暑期嘉年华",
     "venue": "重庆融创乐园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-09",
+    "end_date": "2026-11-09",
     "fee": "需购票",
     "description": "融创乐园暑期推出主题嘉年华，含花车巡游、灯光秀与特色演艺节目。",
     "source": "重庆本地宝",
@@ -1680,15 +1778,16 @@
       "花车",
       "演艺"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创乐园过山车体验",
     "venue": "重庆融创乐园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-19",
+    "end_date": "2027-02-18",
     "fee": "需购票",
     "description": "体验西南地区超高刺激过山车，含木质与悬挂式多种类型，挑战心跳极限。",
     "source": "重庆本地宝",
@@ -1697,15 +1796,16 @@
       "刺激",
       "心跳"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆融创乐园旋转木马之夜",
     "venue": "重庆融创乐园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-28",
+    "end_date": "2026-09-13",
     "fee": "需购票",
     "description": "夜场开放双层旋转木马，灯光璀璨如梦似幻，是亲子家庭必打卡项目。",
     "source": "重庆本地宝",
@@ -1714,15 +1814,16 @@
       "夜场",
       "打卡"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆融创海世界海洋探秘",
     "venue": "重庆融创海世界",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-16",
+    "end_date": "2026-11-16",
     "fee": "需购票",
     "description": "大型室内海洋馆，含海底隧道、触摸池与海洋生物展区，亲子科普两相宜。",
     "source": "重庆本地宝",
@@ -1731,15 +1832,16 @@
       "海底隧道",
       "科普"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆融创海世界海豚表演",
     "venue": "重庆融创海世界",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-20",
+    "end_date": "2026-09-19",
     "fee": "需购票",
     "description": "海豚在训练员指挥下完成高空跳跃、顶球等动作，与观众亲密互动。",
     "source": "重庆本地宝",
@@ -1748,15 +1850,16 @@
       "表演",
       "互动"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创海世界美人鱼秀",
     "venue": "重庆融创海世界",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-25",
     "fee": "需购票",
     "description": "专业美人鱼演员在巨型水缸中演绎唯美水下舞蹈，配合光影效果如梦似幻。",
     "source": "重庆本地宝",
@@ -1765,15 +1868,16 @@
       "水下舞蹈",
       "光影"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创雪世界滑雪体验",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-24",
+    "end_date": "2026-09-23",
     "fee": "需购票",
     "description": "室内滑雪场全年恒温零下，含初级与中级雪道，夏日也能享受滑雪乐趣。",
     "source": "重庆本地宝",
@@ -1782,15 +1886,16 @@
       "室内",
       "恒温"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆融创雪世界娱雪乐园",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-31",
     "fee": "需购票",
     "description": "娱雪区设有雪圈、雪地摩托、冰滑梯等项目，适合不会滑雪的亲子家庭。",
     "source": "重庆本地宝",
@@ -1799,7 +1904,8 @@
       "雪圈",
       "冰滑梯"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆融创雪世界冰雪课堂",
@@ -1816,15 +1922,16 @@
       "科普",
       "冬奥"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "重庆汉海海洋公园海底隧道",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-15",
+    "end_date": "2026-10-15",
     "fee": "需购票",
     "description": "百米海底隧道穿越大型水族缸，鲨鱼与鳐鱼在头顶游弋，沉浸感十足。",
     "source": "重庆本地宝",
@@ -1833,15 +1940,16 @@
       "鲨鱼",
       "沉浸"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆汉海海洋公园企鹅馆",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-09",
+    "end_date": "2026-12-09",
     "fee": "需购票",
     "description": "南极企鹅馆近距离观赏洪氏环企鹅与帝企鹅，含企鹅喂食讲解环节。",
     "source": "重庆本地宝",
@@ -1850,15 +1958,16 @@
       "南极",
       "喂食"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆汉海海洋公园海狮表演",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-25",
     "fee": "需购票",
     "description": "聪明海狮带来鼓掌、顶球、套圈等才艺表演，现场掌声与笑声不断。",
     "source": "重庆本地宝",
@@ -1867,15 +1976,16 @@
       "才艺",
       "表演"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐海底世界海洋生物展",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "需购票",
     "description": "展出数百种海洋生物，含珊瑚礁鱼类、深海生物与淡水鱼类展区。",
     "source": "重庆本地宝",
@@ -1884,15 +1994,16 @@
       "珊瑚",
       "深海"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐海底世界鲨鱼馆",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
     "fee": "需购票",
     "description": "鲨鱼馆展出护士鲨、黑鳍鲨等多种鲨鱼，配以鲨鱼保护科普讲解。",
     "source": "重庆本地宝",
@@ -1901,15 +2012,16 @@
       "科普",
       "保护"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "重庆欢乐海底世界水母宫",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
     "fee": "需购票",
     "description": "梦幻水母宫展出海月水母、彩色水母等，配合彩色灯光营造梦幻氛围。",
     "source": "重庆本地宝",
@@ -1918,15 +2030,16 @@
       "梦幻",
       "灯光"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创乐园花车巡游",
     "venue": "重庆融创乐园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-18",
+    "end_date": "2026-10-18",
     "fee": "需购票",
     "description": "每日定时上演大型花车巡游，卡通人物与演员互动合影，气氛热烈。",
     "source": "重庆本地宝",
@@ -1935,7 +2048,8 @@
       "巡游",
       "卡通"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创海世界海底夜宿",
@@ -1952,15 +2066,16 @@
       "海底",
       "帐篷"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创雪世界冰雕艺术展",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-12",
+    "end_date": "2027-02-11",
     "fee": "需购票",
     "description": "展出精美冰雕作品，含城堡、动物、卡通等主题造型，灯光变幻绚丽。",
     "source": "重庆本地宝",
@@ -1969,15 +2084,16 @@
       "艺术",
       "灯光"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆汉海海洋公园触摸池",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-20",
+    "end_date": "2026-09-19",
     "fee": "需购票",
     "description": "触摸池可亲手触摸海星、海参、鲎等海洋生物，寓教于乐了解海洋生态。",
     "source": "重庆本地宝",
@@ -1986,15 +2102,16 @@
       "海星",
       "互动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐海底世界海龟馆",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-05",
+    "end_date": "2027-04-06",
     "fee": "需购票",
     "description": "海龟馆展出绿海龟与玳瑁，讲解海龟生活史与海洋塑料污染危害。",
     "source": "重庆本地宝",
@@ -2003,7 +2120,8 @@
       "环保",
       "科普"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆欢乐谷万圣节主题夜",
@@ -2020,7 +2138,8 @@
       "鬼屋",
       "惊悚"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创乐园冬日童话节",
@@ -2037,7 +2156,8 @@
       "童话",
       "雪景"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "火锅文化深度体验营",
@@ -2054,7 +2174,8 @@
       "体验",
       "底料"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆小面制作体验",
@@ -2071,7 +2192,8 @@
       "制作",
       "佐料"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "川剧变脸体验工作坊",
@@ -2088,7 +2210,8 @@
       "变脸",
       "脸谱"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "蜀绣手作工坊",
@@ -2105,7 +2228,8 @@
       "非遗",
       "手作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "荣昌折扇制作体验",
@@ -2122,7 +2246,8 @@
       "非遗",
       "扇面"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "梁平年画印制体验",
@@ -2139,7 +2264,8 @@
       "木版",
       "印制"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆糖画体验活动",
@@ -2156,7 +2282,8 @@
       "糖浆",
       "生肖"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆面塑手作体验",
@@ -2173,7 +2300,8 @@
       "捏面人",
       "非遗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆剪纸艺术体验",
@@ -2190,7 +2318,8 @@
       "窗花",
       "非遗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "夏布编织体验工坊",
@@ -2207,7 +2336,8 @@
       "编织",
       "荣昌"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆泥塑手作工坊",
@@ -2224,7 +2354,8 @@
       "泥人",
       "手作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "草编手作体验活动",
@@ -2241,7 +2372,8 @@
       "棕叶",
       "民间"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "木洞山歌学唱体验",
@@ -2258,7 +2390,8 @@
       "民歌",
       "非遗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆评书体验专场",
@@ -2275,7 +2408,8 @@
       "茶馆",
       "市井"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "川江号子学唱活动",
@@ -2292,7 +2426,8 @@
       "船工",
       "非遗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "火锅底料古法炒制课",
@@ -2309,7 +2444,8 @@
       "牛油",
       "古法"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆毛血旺制作体验",
@@ -2326,7 +2462,8 @@
       "磁器口",
       "麻辣"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "陈麻花制作体验",
@@ -2343,7 +2480,8 @@
       "老字号",
       "香酥"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆酸辣粉制作体验",
@@ -2360,7 +2498,8 @@
       "红薯粉",
       "小吃"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆凉糕制作体验",
@@ -2377,7 +2516,8 @@
       "消暑",
       "红糖"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "蜀绣团扇制作体验",
@@ -2394,7 +2534,8 @@
       "团扇",
       "手作"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆竹编技艺体验",
@@ -2411,7 +2552,8 @@
       "竹篮",
       "工艺"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆漆器制作体验",
@@ -2428,7 +2570,8 @@
       "髹饰",
       "螺钿"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "铜梁龙舞体验活动",
@@ -2445,7 +2588,8 @@
       "非遗",
       "舞龙"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "重庆民俗文化讲堂",
@@ -2462,15 +2606,16 @@
       "节庆",
       "婚俗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "巴渝婚俗文化展",
     "venue": "湖广会馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-11-30",
+    "start_date": "2026-08-06",
+    "end_date": "2027-01-05",
     "fee": "免费",
     "description": "展出巴渝地区传统婚嫁服饰、花轿与嫁妆，再现传统婚礼场景。",
     "source": "重庆本地宝",
@@ -2479,7 +2624,8 @@
       "花轿",
       "巴渝"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "重庆茶馆文化体验",
@@ -2496,7 +2642,8 @@
       "盖碗茶",
       "老重庆"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "川剧脸谱绘制体验",
@@ -2513,7 +2660,8 @@
       "面具",
       "绘制"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆香囊制作体验",
@@ -2530,7 +2678,8 @@
       "中草药",
       "刺绣"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆陶艺拉胚体验",
@@ -2547,15 +2696,16 @@
       "拉胚",
       "施釉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期缤纷季阅读嘉年华",
     "venue": "重庆图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-17",
+    "end_date": "2026-10-17",
     "fee": "免费",
     "description": "整个暑期推出百余场阅读活动，含故事会、讲座、培训与手工体验。",
     "source": "重庆本地宝",
@@ -2564,15 +2714,16 @@
       "嘉年华",
       "暑期"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "绘本故事会暑期专场",
     "venue": "重庆图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-03",
+    "end_date": "2026-09-28",
     "fee": "免费",
     "description": "每周日上午举办绘本故事会，专业老师生动讲述经典绘本故事。",
     "source": "重庆本地宝",
@@ -2581,15 +2732,16 @@
       "故事会",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "少儿公益培训课堂",
     "venue": "重庆图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-08",
-    "end_date": "2026-08-26",
+    "start_date": "2026-09-16",
+    "end_date": "2026-11-04",
     "fee": "免费",
     "description": "暑期开设书法、绘画、口才等公益培训课程，名额有限需提前报名。",
     "source": "重庆本地宝",
@@ -2598,15 +2750,16 @@
       "培训",
       "课程"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆名家讲坛",
     "venue": "重庆图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-23",
+    "start_date": "2026-10-11",
+    "end_date": "2026-11-22",
     "fee": "免费需预约",
     "description": "邀请知名作家与学者开讲，涵盖文学、历史、科学等多元主题。",
     "source": "重庆本地宝",
@@ -2615,15 +2768,16 @@
       "讲坛",
       "讲座"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "少儿英语绘本阅读",
     "venue": "重庆图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-29",
+    "start_date": "2026-08-01",
+    "end_date": "2026-09-15",
     "fee": "免费",
     "description": "外教带领阅读英文绘本，通过游戏与歌曲培养英语阅读兴趣。",
     "source": "重庆本地宝",
@@ -2632,7 +2786,8 @@
       "绘本",
       "外教"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子共读时光活动",
@@ -2649,7 +2804,8 @@
       "阅读推广",
       "书单"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿编程启蒙课",
@@ -2666,7 +2822,8 @@
       "Scratch",
       "计算思维"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童创意写作课",
@@ -2683,7 +2840,8 @@
       "想象",
       "表达"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆古诗词大会",
@@ -2700,7 +2858,8 @@
       "飞花令",
       "比赛"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿科学实验课",
@@ -2717,15 +2876,16 @@
       "动手",
       "实践"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆少年儿童图书馆故事会",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-29",
+    "start_date": "2026-09-28",
+    "end_date": "2026-11-23",
     "fee": "免费",
     "description": "每周六举办儿童故事会，含绘本朗读、角色扮演与互动游戏环节。",
     "source": "重庆本地宝",
@@ -2734,15 +2894,16 @@
       "绘本",
       "角色扮演"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆绘本剧场",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-14",
+    "end_date": "2026-10-03",
     "fee": "免费",
     "description": "将经典绘本改编成小剧场演出，孩子可上台参与角色扮演。",
     "source": "重庆本地宝",
@@ -2751,7 +2912,8 @@
       "演出",
       "角色扮演"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆手工坊",
@@ -2768,15 +2930,16 @@
       "折纸",
       "黏土"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆暑期作业辅导",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-25",
+    "start_date": "2026-09-15",
+    "end_date": "2026-11-05",
     "fee": "免费",
     "description": "大学生志愿者为小读者提供暑期作业辅导与学习方法指导。",
     "source": "重庆本地宝",
@@ -2785,15 +2948,16 @@
       "志愿者",
       "学习"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆国学讲堂",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-14",
-    "end_date": "2026-08-25",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-26",
     "fee": "免费",
     "description": "讲解《弟子规》《三字经》等国学经典，结合礼仪体验传承传统文化。",
     "source": "重庆本地宝",
@@ -2802,7 +2966,8 @@
       "弟子规",
       "礼仪"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆青少年读书会",
@@ -2819,7 +2984,8 @@
       "共读",
       "思辨"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆电影赏析",
@@ -2836,7 +3002,8 @@
       "赏析",
       "讨论"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆书法课堂",
@@ -2853,7 +3020,8 @@
       "毛笔",
       "练习"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆图书馆国画体验课",
@@ -2870,7 +3038,8 @@
       "水墨",
       "花鸟"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆茶艺课堂",
@@ -2887,7 +3056,8 @@
       "茶文化",
       "品茗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "少儿图书馆亲子手工日",
@@ -2904,7 +3074,8 @@
       "环保",
       "节日"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆英语角",
@@ -2921,7 +3092,8 @@
       "口语",
       "互动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆科普讲座",
@@ -2938,7 +3110,8 @@
       "讲座",
       "实验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆电影周",
@@ -2955,7 +3128,8 @@
       "儿童电影",
       "知识"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆巴渝文化讲座",
@@ -2972,7 +3146,8 @@
       "历史",
       "民俗"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆图书馆亲子阅读指导",
@@ -2989,7 +3164,8 @@
       "选书",
       "共读"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆少儿朗诵赛",
@@ -3006,7 +3182,8 @@
       "比赛",
       "表达"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆绘本创作营",
@@ -3023,15 +3200,16 @@
       "绘画",
       "原创"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆图书馆暑期志愿者",
     "venue": "重庆图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-19",
+    "end_date": "2026-10-19",
     "fee": "免费",
     "description": "招募青少年暑期志愿者参与图书整理与读者服务，培养社会责任感。",
     "source": "重庆本地宝",
@@ -3040,7 +3218,8 @@
       "图书整理",
       "公益"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "少儿图书馆童话剧表演",
@@ -3057,7 +3236,8 @@
       "表演",
       "舞台"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "红岩研学夏令营",
@@ -3074,7 +3254,8 @@
       "研学",
       "夏令营"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "红岩精神讲堂",
@@ -3091,7 +3272,8 @@
       "革命",
       "讲座"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "白公馆历史研学活动",
@@ -3108,7 +3290,8 @@
       "烈士",
       "爱国主义"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "渣滓洞革命教育研学",
@@ -3125,7 +3308,8 @@
       "革命",
       "缅怀"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "歌乐山烈士陵园祭扫",
@@ -3142,7 +3326,8 @@
       "祭扫",
       "缅怀"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "磁器口民俗文化研学",
@@ -3159,7 +3344,8 @@
       "民俗",
       "码头"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "磁器口古镇历史探秘",
@@ -3176,7 +3362,8 @@
       "历史",
       "探秘"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "大足石刻文化研学营",
@@ -3193,7 +3380,8 @@
       "世界遗产",
       "造像"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "大足石刻宝顶山探秘",
@@ -3210,7 +3398,8 @@
       "千手观音",
       "卧佛"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "大足石刻北山摩崖造像研学",
@@ -3227,7 +3416,8 @@
       "摩崖",
       "宋代"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖广会馆移民文化研学",
@@ -3244,15 +3434,16 @@
       "移民",
       "建筑"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "湖广会馆填川历史展",
     "venue": "湖广会馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
     "fee": "收费",
     "description": "通过文物与多媒体展陈，再现湖广填四川大移民的历史画卷。",
     "source": "重庆本地宝",
@@ -3261,7 +3452,8 @@
       "移民史",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "十八梯老重庆记忆研学",
@@ -3278,7 +3470,8 @@
       "老重庆",
       "市井"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "十八梯历史建筑探秘",
@@ -3295,7 +3488,8 @@
       "建筑",
       "山城"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "朝天门码头历史研学",
@@ -3312,7 +3506,8 @@
       "码头",
       "两江"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "解放碑抗战历史研学",
@@ -3329,7 +3524,8 @@
       "抗战",
       "陪都"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "洪崖洞巴渝建筑研学",
@@ -3346,7 +3542,8 @@
       "吊脚楼",
       "山地建筑"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "红岩村革命旧址研学",
@@ -3363,7 +3560,8 @@
       "周恩来",
       "革命旧址"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "周公馆历史研学活动",
@@ -3380,7 +3578,8 @@
       "南方局",
       "统战"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "桂园重庆谈判旧址研学",
@@ -3397,15 +3596,16 @@
       "重庆谈判",
       "双十协定"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "三峡博物馆抗战岁月展",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "免费",
     "description": "专题展览呈现重庆作为战时陪都的抗战岁月与城市记忆。",
     "source": "重庆本地宝",
@@ -3414,15 +3614,16 @@
       "陪都",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "建川博物馆抗战兵器展",
     "venue": "重庆建川博物馆聚落",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-03",
+    "end_date": "2027-04-04",
     "fee": "收费",
     "description": "展出抗战时期各类兵器与军工装备，再现兵工署生产历史。",
     "source": "重庆本地宝",
@@ -3431,7 +3632,8 @@
       "兵器",
       "兵工署"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "磁器口码头文化研学",
@@ -3448,7 +3650,8 @@
       "嘉陵江",
       "瓷器贸易"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "大足石刻佛教艺术讲堂",
@@ -3465,7 +3668,8 @@
       "造像",
       "讲堂"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "红岩革命纪念馆小讲解员",
@@ -3482,7 +3686,8 @@
       "红岩",
       "培训"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "歌乐山革命故事会",
@@ -3499,15 +3704,16 @@
       "烈士",
       "红色"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "湖广会馆家谱文化展",
     "venue": "湖广会馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-11-30",
+    "start_date": "2026-10-03",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "展出各姓氏家谱与族训，引导观众寻根问祖了解家族迁徙史。",
     "source": "重庆本地宝",
@@ -3516,7 +3722,8 @@
       "姓氏",
       "寻根"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "十八梯吊脚楼建筑研学",
@@ -3533,7 +3740,8 @@
       "建筑",
       "山城"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "朝天门两江交汇地理研学",
@@ -3550,7 +3758,8 @@
       "地理",
       "水文"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "磁器口非遗文化研学",
@@ -3567,15 +3776,16 @@
       "蜀绣",
       "糖画"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "奥体中心羽毛球训练营",
     "venue": "重庆奥体中心",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-13",
-    "end_date": "2026-08-21",
+    "start_date": "2026-08-01",
+    "end_date": "2026-09-09",
     "fee": "收费",
     "description": "羽毛球基础与提高训练营，含步伐、挥拍与战术教学，适合青少年。",
     "source": "重庆本地宝",
@@ -3584,7 +3794,8 @@
       "训练",
       "青少年"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "奥体中心足球训练营",
@@ -3601,7 +3812,8 @@
       "外教",
       "对抗赛"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "奥体中心网球体验课",
@@ -3618,15 +3830,16 @@
       "体验",
       "免费"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "际华园极限运动体验",
     "venue": "重庆际华园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-07",
+    "end_date": "2026-10-07",
     "fee": "收费",
     "description": "室内跳伞、攀岩、冲浪等极限运动一站式体验，安全防护到位。",
     "source": "重庆本地宝",
@@ -3635,15 +3848,16 @@
       "跳伞",
       "攀岩"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "际华园室内跳伞体验",
     "venue": "重庆际华园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-26",
+    "end_date": "2026-10-21",
     "fee": "收费",
     "description": "风洞室内跳伞模拟自由落体，专业教练陪同，体验飞翔快感。",
     "source": "重庆本地宝",
@@ -3652,7 +3866,8 @@
       "风洞",
       "飞翔"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "际华园攀岩挑战赛",
@@ -3669,7 +3884,8 @@
       "挑战",
       "比赛"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "际华园滑翔伞体验",
@@ -3686,15 +3902,16 @@
       "空中",
       "俯瞰"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "际华园卡丁车竞速",
     "venue": "重庆际华园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-30",
     "fee": "收费",
     "description": "室内外卡丁车赛道竞速，提供儿童与成人车型，速度与激情并存。",
     "source": "重庆本地宝",
@@ -3703,7 +3920,8 @@
       "竞速",
       "激情"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆中央公园亲子骑行",
@@ -3720,7 +3938,8 @@
       "绿道",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆中央公园轮滑体验",
@@ -3737,7 +3956,8 @@
       "教学",
       "体验"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "江北嘴江边慢跑活动",
@@ -3754,7 +3974,8 @@
       "江边",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南滨路骑行活动",
@@ -3771,7 +3992,8 @@
       "南滨路",
       "观景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "北滨路健步走活动",
@@ -3788,7 +4010,8 @@
       "健康",
       "江边"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "奥体中心乒乓球培训",
@@ -3805,7 +4028,8 @@
       "培训",
       "球感"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "奥体中心田径体验日",
@@ -3822,7 +4046,8 @@
       "短跑",
       "跳远"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "际华园冲浪体验",
@@ -3839,7 +4064,8 @@
       "模拟器",
       "平衡"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "际华园蹦床公园",
@@ -3856,15 +4082,16 @@
       "灌篮",
       "活力"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山滑草体验",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-30",
     "fee": "收费",
     "description": "在仙女山大草原滑草，从草坡俯冲而下，感受夏日清凉与速度。",
     "source": "重庆本地宝",
@@ -3873,15 +4100,16 @@
       "草原",
       "清凉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "仙女山骑马体验",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-21",
+    "end_date": "2026-09-20",
     "fee": "收费",
     "description": "在仙女山草原骑马漫游，教练陪同指导，体验策马奔腾的豪迈。",
     "source": "重庆本地宝",
@@ -3890,7 +4118,8 @@
       "草原",
       "漫游"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "金佛山徒步登山",
@@ -3907,7 +4136,8 @@
       "金佛山",
       "云海"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山徒步登山赛",
@@ -3924,7 +4154,8 @@
       "比赛",
       "森林"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "歌乐山攀岩体验",
@@ -3941,7 +4172,8 @@
       "岩壁",
       "挑战"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "铁山坪山地自行车",
@@ -3958,7 +4190,8 @@
       "越野",
       "骑行"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "奥体中心游泳公开赛",
@@ -3975,7 +4208,8 @@
       "比赛",
       "成果"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "际华园风洞飞行体验",
@@ -3992,7 +4226,8 @@
       "飞行",
       "悬浮"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆中央公园亲子足球赛",
@@ -4009,7 +4244,8 @@
       "亲子",
       "友谊赛"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "南滨路夜跑活动",
@@ -4026,7 +4262,8 @@
       "南滨路",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山户外拓展营",
@@ -4043,15 +4280,16 @@
       "定向越野",
       "篝火"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山露营节",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-30",
+    "start_date": "2026-08-26",
+    "end_date": "2026-10-22",
     "fee": "收费",
     "description": "仙女山草原露营节，星空下帐篷为家，含篝火晚会与草原音乐会。",
     "source": "重庆本地宝",
@@ -4060,15 +4298,16 @@
       "星空",
       "篝火"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山避暑度假之旅",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-29",
+    "end_date": "2026-11-29",
     "fee": "收费",
     "description": "仙女山夏季均温22度，是避暑胜地，可骑马、滑草、观星、看日出。",
     "source": "重庆本地宝",
@@ -4077,7 +4316,8 @@
       "骑马",
       "观星"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山草原音乐节",
@@ -4094,7 +4334,8 @@
       "草原",
       "民谣"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山星空观测活动",
@@ -4111,15 +4352,16 @@
       "观测",
       "银河"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "金佛山避暑纳凉之旅",
     "venue": "金佛山",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-12",
+    "end_date": "2026-12-12",
     "fee": "收费",
     "description": "金佛山夏季凉爽宜人，乘索道上山避暑，观云海日出与原始森林。",
     "source": "重庆本地宝",
@@ -4128,15 +4370,16 @@
       "避暑",
       "云海"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "金佛山杜鹃花海观赏",
     "venue": "金佛山",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-07-25",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-24",
     "fee": "收费",
     "description": "金佛山高山杜鹃盛开，万亩花海蔚为壮观，是夏日赏花避暑胜地。",
     "source": "重庆本地宝",
@@ -4145,15 +4388,16 @@
       "花海",
       "高山"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": false
   },
   {
     "name": "金佛山索道观光",
     "venue": "金佛山",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-06",
+    "end_date": "2026-11-06",
     "fee": "收费",
     "description": "乘金佛山索道穿越云雾，俯瞰山峦起伏，高空观景体验震撼。",
     "source": "重庆本地宝",
@@ -4162,7 +4406,8 @@
       "云雾",
       "高空"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "金佛山森林氧吧体验",
@@ -4179,7 +4424,8 @@
       "负氧离子",
       "疗愈"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "缙云山森林避暑课堂",
@@ -4196,15 +4442,16 @@
       "森林课堂",
       "避暑"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山避暑山庄度假",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-12",
+    "end_date": "2026-10-12",
     "fee": "收费",
     "description": "缙云山避暑山庄纳凉度假，林间漫步、品茶观景，远离城市喧嚣。",
     "source": "重庆本地宝",
@@ -4213,7 +4460,8 @@
       "山庄",
       "纳凉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山植物标本制作",
@@ -4230,7 +4478,8 @@
       "采集",
       "分类"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山观鸟活动",
@@ -4247,7 +4496,8 @@
       "留鸟",
       "候鸟"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武隆喀斯特地质研学",
@@ -4264,7 +4514,8 @@
       "世界遗产",
       "地质"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武隆天生三桥探秘",
@@ -4281,7 +4532,8 @@
       "石桥",
       "奇观"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武隆芙蓉洞探洞体验",
@@ -4298,7 +4550,8 @@
       "钟乳石",
       "溶洞"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "武隆龙水峡地缝探秘",
@@ -4315,7 +4568,8 @@
       "峡谷",
       "飞瀑"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "仙女山森林探险营",
@@ -4332,7 +4586,8 @@
       "溯溪",
       "生存技能"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山草原野餐派对",
@@ -4349,7 +4604,8 @@
       "草原",
       "亲子"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "金佛山古佛洞探秘",
@@ -4366,7 +4622,8 @@
       "石佛",
       "钟乳石"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "金佛山避暑露营",
@@ -4383,7 +4640,8 @@
       "观星",
       "日出"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山避暑纳凉游",
@@ -4400,7 +4658,8 @@
       "步道",
       "近郊"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "缙云山朝霞观赏",
@@ -4417,7 +4676,8 @@
       "云海",
       "日出"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武隆天坑探险",
@@ -4434,15 +4694,16 @@
       "绝壁",
       "探险"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": false
   },
   {
     "name": "武隆印象武隆实景演出",
     "venue": "武隆喀斯特",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-10-31",
+    "start_date": "2026-07-27",
+    "end_date": "2026-11-26",
     "fee": "需购票",
     "description": "张艺谋导演大型山水实景演出，在喀斯特峡谷中演绎巴渝文化与川江号子。",
     "source": "重庆本地宝",
@@ -4451,7 +4712,8 @@
       "张艺谋",
       "川江号子"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "仙女山马术体验营",
@@ -4468,15 +4730,16 @@
       "骑术",
       "草原"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "金佛山夏季滑雪体验",
     "venue": "金佛山",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-01",
     "fee": "收费",
     "description": "金佛山室内滑雪场夏季开放，在炎炎夏日体验冰雪运动的清凉与刺激。",
     "source": "重庆本地宝",
@@ -4485,7 +4748,8 @@
       "室内",
       "冰雪"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "缙云山温泉度假",
@@ -4502,7 +4766,8 @@
       "养生",
       "度假"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "武隆地心探险之旅",
@@ -4519,7 +4784,8 @@
       "暗河",
       "探险"
     ],
-    "type": "研学"
+    "type": "研学",
+    "is_family_friendly": true
   },
   {
     "name": "仙女山房车露营节",
@@ -4536,7 +4802,8 @@
       "露营",
       "星空电影"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "金佛山日出观赏",
@@ -4553,15 +4820,16 @@
       "云海",
       "金佛山"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "洪崖洞夜游打卡",
     "venue": "洪崖洞",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-14",
+    "end_date": "2026-12-14",
     "fee": "免费",
     "description": "夜幕降临洪崖洞灯火璀璨，千与千寻既视感，是重庆夜景必打卡地标。",
     "source": "重庆本地宝",
@@ -4570,15 +4838,16 @@
       "夜景",
       "打卡"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "两江夜游船",
     "venue": "朝天门广场",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-06",
+    "end_date": "2026-12-06",
     "fee": "收费",
     "description": "从朝天门登船夜游长江嘉陵江，船上欣赏两岸灯火与山城立体夜景。",
     "source": "重庆本地宝",
@@ -4587,15 +4856,16 @@
       "游船",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "鹅岭瞰胜楼观夜景",
     "venue": "鹅岭公园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-18",
+    "end_date": "2026-10-18",
     "fee": "免费",
     "description": "登鹅岭瞰胜楼俯瞰山城夜景，两江灯火尽收眼底，是观景绝佳制高点。",
     "source": "重庆本地宝",
@@ -4604,15 +4874,16 @@
       "夜景",
       "两江"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南山一棵树观景台夜游",
     "venue": "南山一棵树观景台",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-30",
     "fee": "免费",
     "description": "南山一棵树观景台是观赏重庆夜景的最佳地点，整个山城灯火尽收眼底。",
     "source": "重庆本地宝",
@@ -4621,15 +4892,16 @@
       "观景台",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "解放碑夜景漫步",
     "venue": "解放碑步行街",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-15",
+    "end_date": "2026-12-15",
     "fee": "免费",
     "description": "夜游解放碑步行街，霓虹闪烁商圈繁华，感受重庆都市夜生活魅力。",
     "source": "重庆本地宝",
@@ -4638,15 +4910,16 @@
       "夜景",
       "漫步"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "朝天门夜景观赏",
     "venue": "朝天门广场",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-25",
+    "end_date": "2026-10-25",
     "fee": "免费",
     "description": "在朝天门广场欣赏两江交汇夜景，灯光倒映江面，城市天际线璀璨。",
     "source": "重庆本地宝",
@@ -4655,15 +4928,16 @@
       "两江交汇",
       "天际线"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "洪崖洞灯光秀",
     "venue": "洪崖洞",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-10-13",
+    "end_date": "2026-12-08",
     "fee": "免费",
     "description": "每晚定时上演洪崖洞灯光秀，整栋吊脚楼建筑随灯光变幻色彩梦幻。",
     "source": "重庆本地宝",
@@ -4672,15 +4946,16 @@
       "洪崖洞",
       "变幻"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "两江游船夜航专线",
     "venue": "朝天门广场",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-29",
+    "start_date": "2026-10-02",
+    "end_date": "2026-11-21",
     "fee": "收费",
     "description": "周末夜航专线游船，含船上川剧变脸表演与重庆小吃品鉴。",
     "source": "重庆本地宝",
@@ -4689,15 +4964,16 @@
       "变脸",
       "小吃"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "南滨路夜景漫步",
     "venue": "南滨路",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-02",
+    "end_date": "2026-10-02",
     "fee": "免费",
     "description": "漫步南滨路江边步道，对岸渝中半岛灯火辉煌，是观赏夜景绝佳位置。",
     "source": "重庆本地宝",
@@ -4706,15 +4982,16 @@
       "江边",
       "灯火"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "北滨路夜游活动",
     "venue": "北滨路",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-28",
+    "end_date": "2026-11-28",
     "fee": "免费",
     "description": "北滨路江边夜游，含夜市美食与江边音乐表演，体验重庆夜生活。",
     "source": "重庆本地宝",
@@ -4723,15 +5000,16 @@
       "夜市",
       "音乐"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "鹅岭公园夜景游园",
     "venue": "鹅岭公园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-08",
     "fee": "免费",
     "description": "鹅岭公园夜间开放，园内灯光与瞰胜楼夜景相映成趣，纳凉观景两不误。",
     "source": "重庆本地宝",
@@ -4740,15 +5018,16 @@
       "夜游",
       "纳凉"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "十八梯夜景探秘",
     "venue": "十八梯",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-31",
     "fee": "免费",
     "description": "夜晚的十八梯灯火通明，吊脚楼建筑群在灯光下别具风情，适合拍照打卡。",
     "source": "重庆本地宝",
@@ -4757,15 +5036,16 @@
       "夜景",
       "拍照"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "磁器口古镇夜游",
     "venue": "磁器口古镇",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-24",
     "fee": "免费",
     "description": "夜游磁器口古镇，红灯笼映照青石板路，茶馆酒肆热闹非凡，别有韵味。",
     "source": "重庆本地宝",
@@ -4774,15 +5054,16 @@
       "夜游",
       "古镇"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "重庆大剧院夜景",
     "venue": "重庆大剧院",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-10",
+    "end_date": "2026-11-10",
     "fee": "免费",
     "description": "重庆大剧院夜晚灯光变幻，建筑如玻璃宝石闪耀江边，是江北嘴地标。",
     "source": "重庆本地宝",
@@ -4791,15 +5072,16 @@
       "灯光",
       "地标"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "国泰艺术中心夜场",
     "venue": "国泰艺术中心",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-30",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-30",
     "fee": "需购票",
     "description": "国泰艺术中心夜场演出季，含交响乐、话剧与儿童剧，建筑夜景同样精彩。",
     "source": "重庆本地宝",
@@ -4808,15 +5090,16 @@
       "夜场",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "重庆国际马戏城夜场表演",
     "venue": "重庆国际马戏城",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-03",
+    "end_date": "2026-10-29",
     "fee": "需购票",
     "description": "马戏城夜场呈现精彩马戏与杂技表演，含高空绸吊与动物表演，适合全家。",
     "source": "重庆本地宝",
@@ -4825,15 +5108,16 @@
       "杂技",
       "夜场"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "南山夜景火锅体验",
     "venue": "南山",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-25",
     "fee": "收费",
     "description": "在南山露天火锅店边吃火锅边赏夜景，麻辣鲜香配山城灯火，巴适得很。",
     "source": "重庆本地宝",
@@ -4842,15 +5126,16 @@
       "火锅",
       "夜景"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "洪崖洞千与千寻打卡游",
     "venue": "洪崖洞",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-20",
+    "end_date": "2026-11-20",
     "fee": "免费",
     "description": "夜游洪崖洞寻找宫崎骏动画既视感，最佳拍摄机位指引，拍出大片。",
     "source": "重庆本地宝",
@@ -4859,15 +5144,16 @@
       "打卡",
       "拍照"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "朝天门两江交汇夜景",
     "venue": "朝天门广场",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-08",
+    "end_date": "2026-12-08",
     "fee": "免费",
     "description": "夜观朝天门两江交汇，长江黄与嘉陵江绿在灯光下分界清晰，自然奇观。",
     "source": "重庆本地宝",
@@ -4876,7 +5162,8 @@
       "夜景",
       "奇观"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南山植物园夜游会",
@@ -4893,15 +5180,16 @@
       "夜花",
       "昆虫"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "重庆欢乐谷夜场",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-08-30",
+    "end_date": "2026-10-30",
     "fee": "需购票",
     "description": "欢乐谷夜场开放至22点，灯光秀与夜场巡游精彩不断，游乐项目不限次。",
     "source": "重庆本地宝",
@@ -4910,15 +5198,16 @@
       "灯光秀",
       "巡游"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "重庆融创乐园夜场",
     "venue": "重庆融创乐园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-19",
+    "end_date": "2026-09-18",
     "fee": "需购票",
     "description": "融创乐园夜场含烟火秀与灯光巡游，夜晚游乐项目别有梦幻氛围。",
     "source": "重庆本地宝",
@@ -4927,15 +5216,16 @@
       "烟火",
       "灯光"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "南滨路灯光秀",
     "venue": "南滨路",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-09",
+    "end_date": "2026-10-30",
     "fee": "免费",
     "description": "南滨路沿线建筑灯光秀，对岸渝中半岛联动变幻，呈现光影艺术盛宴。",
     "source": "重庆本地宝",
@@ -4944,15 +5234,16 @@
       "南滨路",
       "光影"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "鹅岭二厂夜游",
     "venue": "鹅岭二厂",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-18",
+    "end_date": "2026-11-18",
     "fee": "免费",
     "description": "鹅岭二厂文创园夜游，工业风建筑配霓虹灯光，文艺青年打卡圣地。",
     "source": "重庆本地宝",
@@ -4961,15 +5252,16 @@
       "文创",
       "文艺"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "江北嘴夜景灯光",
     "venue": "江北嘴",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-30",
     "fee": "免费",
     "description": "江北嘴中央商务区高楼灯光联动，对望渝中半岛，构成重庆最美天际线。",
     "source": "重庆本地宝",
@@ -4978,15 +5270,16 @@
       "天际线",
       "灯光"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "洪崖洞巴渝夜市",
     "venue": "洪崖洞",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-11",
+    "end_date": "2026-11-11",
     "fee": "免费",
     "description": "洪崖洞底层巴渝夜市，各类小吃与手工艺品云集，边逛边吃体验市井烟火。",
     "source": "重庆本地宝",
@@ -4995,15 +5288,16 @@
       "小吃",
       "烟火气"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "朝天门夜市美食游",
     "venue": "朝天门广场",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-09-02",
+    "end_date": "2026-11-02",
     "fee": "免费",
     "description": "朝天门夜市汇聚重庆特色小吃，酸辣粉、烤脑花、冰粉应有尽有。",
     "source": "重庆本地宝",
@@ -5012,15 +5306,16 @@
       "美食",
       "小吃"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "南山一棵树日出",
     "venue": "南山一棵树观景台",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
+    "start_date": "2026-10-07",
+    "end_date": "2026-12-07",
     "fee": "免费",
     "description": "清晨到南山一棵树观景台看日出，看朝阳唤醒山城，雾中重庆如仙境。",
     "source": "重庆本地宝",
@@ -5029,15 +5324,16 @@
       "晨雾",
       "山城"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": false
   },
   {
     "name": "磁器口夜景灯光秀",
     "venue": "磁器口古镇",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-05",
-    "end_date": "2026-08-30",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-09",
     "fee": "免费",
     "description": "磁器口夜晚灯光秀，红灯笼与水景灯光交相辉映，古镇夜景别具韵味。",
     "source": "重庆本地宝",
@@ -5046,15 +5342,16 @@
       "古镇",
       "红灯笼"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": false
   },
   {
     "name": "周末重庆渝中区展览活动",
     "venue": "重庆渝中区博物馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
     "fee": "免费",
     "description": "重庆渝中区的周末展览活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5063,15 +5360,16 @@
       "渝中区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆江北区讲座阅读体验营",
     "venue": "重庆江北区科技馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "免费",
     "description": "重庆江北区的暑期讲座阅读体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5080,15 +5378,16 @@
       "江北区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆南岸区科普活动工作坊",
     "venue": "重庆南岸区美术馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
     "fee": "免费",
     "description": "重庆南岸区的亲子科普活动工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5097,15 +5396,16 @@
       "南岸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆九龙坡区演出研学营",
     "venue": "重庆九龙坡区图书馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-05",
+    "end_date": "2027-02-04",
     "fee": "收费",
     "description": "重庆九龙坡区的家庭演出研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5114,15 +5414,16 @@
       "九龙坡区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆沙坪坝区影视放映课程",
     "venue": "重庆沙坪坝区文化馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-29",
+    "end_date": "2027-03-31",
     "fee": "收费",
     "description": "重庆沙坪坝区的儿童影视放映课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5131,15 +5432,16 @@
       "沙坪坝区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆大渡口区体育赛事讲座",
     "venue": "重庆大渡口区公园",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
     "fee": "收费",
     "description": "重庆大渡口区的青少年体育赛事讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5148,15 +5450,16 @@
       "大渡口区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆北碚区亲子活动展览",
     "venue": "重庆北碚区植物园",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
     "fee": "收费",
     "description": "重庆北碚区的趣味亲子活动展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5165,15 +5468,16 @@
       "北碚区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆渝北区展览演出",
     "venue": "重庆渝北区动物园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
     "fee": "免费",
     "description": "重庆渝北区的探索展览演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5182,15 +5486,16 @@
       "渝北区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆巴南区讲座阅读比赛",
     "venue": "重庆巴南区海洋馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-09",
+    "end_date": "2027-03-11",
     "fee": "免费",
     "description": "重庆巴南区的发现讲座阅读比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5199,15 +5504,16 @@
       "巴南区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆两江新区科普活动嘉年华",
     "venue": "重庆两江新区剧院",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
     "fee": "免费",
     "description": "重庆两江新区的体验科普活动嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5216,15 +5522,16 @@
       "两江新区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆武隆区演出日",
     "venue": "重庆武隆区体育馆",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-13",
+    "end_date": "2027-03-15",
     "fee": "收费",
     "description": "重庆武隆区的走进演出日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5233,15 +5540,16 @@
       "武隆区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆大足区影视放映周",
     "venue": "重庆大足区体育场",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "收费",
     "description": "重庆大足区的解读影视放映周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5250,15 +5558,16 @@
       "大足区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆南川区体育赛事月",
     "venue": "重庆南川区会展中心",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
     "fee": "收费",
     "description": "重庆南川区的探秘体育赛事月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5267,15 +5576,16 @@
       "南川区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆渝中区亲子活动季",
     "venue": "重庆渝中区文化中心",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "收费",
     "description": "重庆渝中区的漫游亲子活动季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5284,15 +5594,16 @@
       "渝中区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆江北区展览节",
     "venue": "重庆江北区艺术中心",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-07",
+    "end_date": "2027-03-09",
     "fee": "免费",
     "description": "重庆江北区的精彩展览节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5301,15 +5612,16 @@
       "江北区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆南岸区讲座阅读之旅",
     "venue": "重庆南岸区青少年宫",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-21",
+    "end_date": "2027-03-23",
     "fee": "免费",
     "description": "重庆南岸区的梦幻讲座阅读之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5318,15 +5630,16 @@
       "南岸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆九龙坡区科普活动探秘",
     "venue": "重庆九龙坡区创意园",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
     "fee": "免费",
     "description": "重庆九龙坡区的经典科普活动探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5335,15 +5648,16 @@
       "九龙坡区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆沙坪坝区演出发现",
     "venue": "重庆沙坪坝区博物馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "重庆沙坪坝区的震撼演出发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5352,15 +5666,16 @@
       "沙坪坝区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆大渡口区影视放映探索",
     "venue": "重庆大渡口区科技馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
     "fee": "收费",
     "description": "重庆大渡口区的沉浸式影视放映探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5369,15 +5684,16 @@
       "大渡口区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆北碚区体育赛事科普",
     "venue": "重庆北碚区美术馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
     "fee": "收费",
     "description": "重庆北碚区的互动体育赛事科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5386,15 +5702,16 @@
       "北碚区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆渝北区亲子活动活动",
     "venue": "重庆渝北区图书馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
     "fee": "收费",
     "description": "重庆渝北区的周末亲子活动活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5403,15 +5720,16 @@
       "渝北区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆巴南区展览体验营",
     "venue": "重庆巴南区文化馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
     "fee": "免费",
     "description": "重庆巴南区的暑期展览体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5420,15 +5738,16 @@
       "巴南区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆两江新区讲座阅读工作坊",
     "venue": "重庆两江新区公园",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-30",
+    "end_date": "2027-04-01",
     "fee": "免费",
     "description": "重庆两江新区的亲子讲座阅读工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5437,15 +5756,16 @@
       "两江新区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆武隆区科普活动研学营",
     "venue": "重庆武隆区植物园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
     "fee": "免费",
     "description": "重庆武隆区的家庭科普活动研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5454,15 +5774,16 @@
       "武隆区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆大足区演出课程",
     "venue": "重庆大足区动物园",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "收费",
     "description": "重庆大足区的儿童演出课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5471,15 +5792,16 @@
       "大足区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆南川区影视放映讲座",
     "venue": "重庆南川区海洋馆",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
     "fee": "收费",
     "description": "重庆南川区的青少年影视放映讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5488,15 +5810,16 @@
       "南川区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆渝中区体育赛事展览",
     "venue": "重庆渝中区剧院",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
     "fee": "收费",
     "description": "重庆渝中区的趣味体育赛事展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5505,15 +5828,16 @@
       "渝中区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆江北区亲子活动演出",
     "venue": "重庆江北区体育馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-11",
+    "end_date": "2027-04-12",
     "fee": "收费",
     "description": "重庆江北区的探索亲子活动演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5522,15 +5846,16 @@
       "江北区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆南岸区展览比赛",
     "venue": "重庆南岸区体育场",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
     "fee": "免费",
     "description": "重庆南岸区的发现展览比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5539,15 +5864,16 @@
       "南岸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆九龙坡区讲座阅读嘉年华",
     "venue": "重庆九龙坡区会展中心",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-03",
     "fee": "免费",
     "description": "重庆九龙坡区的体验讲座阅读嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5556,15 +5882,16 @@
       "九龙坡区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆沙坪坝区科普活动日",
     "venue": "重庆沙坪坝区文化中心",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
     "fee": "免费",
     "description": "重庆沙坪坝区的走进科普活动日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5573,15 +5900,16 @@
       "沙坪坝区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆大渡口区演出周",
     "venue": "重庆大渡口区艺术中心",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-24",
+    "end_date": "2027-03-26",
     "fee": "收费",
     "description": "重庆大渡口区的解读演出周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5590,15 +5918,16 @@
       "大渡口区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆北碚区影视放映月",
     "venue": "重庆北碚区青少年宫",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "重庆北碚区的探秘影视放映月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5607,15 +5936,16 @@
       "北碚区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆渝北区体育赛事季",
     "venue": "重庆渝北区创意园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
     "fee": "收费",
     "description": "重庆渝北区的漫游体育赛事季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5624,15 +5954,16 @@
       "渝北区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆巴南区亲子活动节",
     "venue": "重庆巴南区博物馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "收费",
     "description": "重庆巴南区的精彩亲子活动节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5641,15 +5972,16 @@
       "巴南区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆两江新区展览之旅",
     "venue": "重庆两江新区科技馆",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
     "fee": "免费",
     "description": "重庆两江新区的梦幻展览之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5658,15 +5990,16 @@
       "两江新区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆武隆区讲座阅读探秘",
     "venue": "重庆武隆区美术馆",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
     "fee": "免费",
     "description": "重庆武隆区的经典讲座阅读探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5675,15 +6008,16 @@
       "武隆区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆大足区科普活动发现",
     "venue": "重庆大足区图书馆",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
     "fee": "免费",
     "description": "重庆大足区的震撼科普活动发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5692,15 +6026,16 @@
       "大足区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆南川区演出探索",
     "venue": "重庆南川区文化馆",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
     "fee": "收费",
     "description": "重庆南川区的沉浸式演出探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5709,15 +6044,16 @@
       "南川区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆渝中区影视放映科普",
     "venue": "重庆渝中区公园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-23",
+    "end_date": "2027-02-22",
     "fee": "收费",
     "description": "重庆渝中区的互动影视放映科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5726,15 +6062,16 @@
       "渝中区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆江北区体育赛事活动",
     "venue": "重庆江北区植物园",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-30",
+    "end_date": "2027-03-01",
     "fee": "收费",
     "description": "重庆江北区的周末体育赛事活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5743,15 +6080,16 @@
       "江北区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆南岸区亲子活动体验营",
     "venue": "重庆南岸区动物园",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
     "fee": "收费",
     "description": "重庆南岸区的暑期亲子活动体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5760,15 +6098,16 @@
       "南岸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆九龙坡区展览工作坊",
     "venue": "重庆九龙坡区海洋馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-29",
+    "end_date": "2027-03-31",
     "fee": "免费",
     "description": "重庆九龙坡区的亲子展览工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5777,15 +6116,16 @@
       "九龙坡区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆沙坪坝区讲座阅读研学营",
     "venue": "重庆沙坪坝区剧院",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-03",
+    "end_date": "2027-02-02",
     "fee": "免费",
     "description": "重庆沙坪坝区的家庭讲座阅读研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5794,15 +6134,16 @@
       "沙坪坝区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆大渡口区科普活动课程",
     "venue": "重庆大渡口区体育馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
     "fee": "免费",
     "description": "重庆大渡口区的儿童科普活动课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5811,15 +6152,16 @@
       "大渡口区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆北碚区演出讲座",
     "venue": "重庆北碚区体育场",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
     "fee": "收费",
     "description": "重庆北碚区的青少年演出讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5828,15 +6170,16 @@
       "北碚区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆渝北区影视放映展览",
     "venue": "重庆渝北区会展中心",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-30",
+    "end_date": "2027-03-01",
     "fee": "收费",
     "description": "重庆渝北区的趣味影视放映展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5845,15 +6188,16 @@
       "渝北区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆巴南区体育赛事演出",
     "venue": "重庆巴南区文化中心",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
     "fee": "收费",
     "description": "重庆巴南区的探索体育赛事演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5862,15 +6206,16 @@
       "巴南区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆两江新区亲子活动比赛",
     "venue": "重庆两江新区艺术中心",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-24",
+    "end_date": "2027-01-23",
     "fee": "收费",
     "description": "重庆两江新区的发现亲子活动比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5879,15 +6224,16 @@
       "两江新区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆武隆区展览嘉年华",
     "venue": "重庆武隆区青少年宫",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
     "fee": "免费",
     "description": "重庆武隆区的体验展览嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5896,15 +6242,16 @@
       "武隆区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆大足区讲座阅读日",
     "venue": "重庆大足区创意园",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
     "fee": "免费",
     "description": "重庆大足区的走进讲座阅读日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5913,15 +6260,16 @@
       "大足区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆南川区科普活动周",
     "venue": "重庆南川区博物馆",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
     "fee": "免费",
     "description": "重庆南川区的解读科普活动周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5930,15 +6278,16 @@
       "南川区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆渝中区演出月",
     "venue": "重庆渝中区科技馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
     "fee": "收费",
     "description": "重庆渝中区的探秘演出月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5947,15 +6296,16 @@
       "渝中区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆江北区影视放映季",
     "venue": "重庆江北区美术馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-20",
+    "end_date": "2027-01-19",
     "fee": "收费",
     "description": "重庆江北区的漫游影视放映季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5964,15 +6314,16 @@
       "江北区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆南岸区体育赛事节",
     "venue": "重庆南岸区图书馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-02",
+    "end_date": "2027-02-01",
     "fee": "收费",
     "description": "重庆南岸区的精彩体育赛事节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5981,15 +6332,16 @@
       "南岸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆九龙坡区亲子活动之旅",
     "venue": "重庆九龙坡区文化馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-07",
+    "end_date": "2027-02-06",
     "fee": "收费",
     "description": "重庆九龙坡区的梦幻亲子活动之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -5998,15 +6350,16 @@
       "九龙坡区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆沙坪坝区展览探秘",
     "venue": "重庆沙坪坝区公园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "免费",
     "description": "重庆沙坪坝区的经典展览探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6015,15 +6368,16 @@
       "沙坪坝区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆大渡口区讲座阅读发现",
     "venue": "重庆大渡口区植物园",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
     "fee": "免费",
     "description": "重庆大渡口区的震撼讲座阅读发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6032,15 +6386,16 @@
       "大渡口区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆北碚区科普活动探索",
     "venue": "重庆北碚区动物园",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
     "fee": "免费",
     "description": "重庆北碚区的沉浸式科普活动探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6049,15 +6404,16 @@
       "北碚区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆渝北区演出科普",
     "venue": "重庆渝北区海洋馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "收费",
     "description": "重庆渝北区的互动演出科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6066,15 +6422,16 @@
       "渝北区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆巴南区影视放映活动",
     "venue": "重庆巴南区剧院",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-12",
+    "end_date": "2027-02-11",
     "fee": "收费",
     "description": "重庆巴南区的周末影视放映活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6083,15 +6440,16 @@
       "巴南区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆两江新区体育赛事体验营",
     "venue": "重庆两江新区体育馆",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "重庆两江新区的暑期体育赛事体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6100,15 +6458,16 @@
       "两江新区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆武隆区亲子活动工作坊",
     "venue": "重庆武隆区体育场",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-03",
+    "end_date": "2027-02-02",
     "fee": "收费",
     "description": "重庆武隆区的亲子亲子活动工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6117,15 +6476,16 @@
       "武隆区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆大足区展览研学营",
     "venue": "重庆大足区会展中心",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "免费",
     "description": "重庆大足区的家庭展览研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6134,15 +6494,16 @@
       "大足区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆南川区讲座阅读课程",
     "venue": "重庆南川区文化中心",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "免费",
     "description": "重庆南川区的儿童讲座阅读课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6151,15 +6512,16 @@
       "南川区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆渝中区科普活动讲座",
     "venue": "重庆渝中区艺术中心",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-07",
+    "end_date": "2027-02-06",
     "fee": "免费",
     "description": "重庆渝中区的青少年科普活动讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6168,15 +6530,16 @@
       "渝中区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆江北区演出展览",
     "venue": "重庆江北区青少年宫",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
     "fee": "收费",
     "description": "重庆江北区的趣味演出展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6185,15 +6548,16 @@
       "江北区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆南岸区影视放映演出",
     "venue": "重庆南岸区创意园",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "收费",
     "description": "重庆南岸区的探索影视放映演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6202,15 +6566,16 @@
       "南岸区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆九龙坡区体育赛事比赛",
     "venue": "重庆九龙坡区博物馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "收费",
     "description": "重庆九龙坡区的发现体育赛事比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6219,15 +6584,16 @@
       "九龙坡区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆沙坪坝区亲子活动嘉年华",
     "venue": "重庆沙坪坝区科技馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "重庆沙坪坝区的体验亲子活动嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6236,15 +6602,16 @@
       "沙坪坝区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆大渡口区展览日",
     "venue": "重庆大渡口区美术馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-19",
+    "end_date": "2027-02-18",
     "fee": "免费",
     "description": "重庆大渡口区的走进展览日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6253,15 +6620,16 @@
       "大渡口区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆北碚区讲座阅读周",
     "venue": "重庆北碚区图书馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
     "fee": "免费",
     "description": "重庆北碚区的解读讲座阅读周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6270,15 +6638,16 @@
       "北碚区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆渝北区科普活动月",
     "venue": "重庆渝北区文化馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
     "fee": "免费",
     "description": "重庆渝北区的探秘科普活动月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6287,15 +6656,16 @@
       "渝北区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆巴南区演出季",
     "venue": "重庆巴南区公园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-11",
+    "end_date": "2027-04-12",
     "fee": "收费",
     "description": "重庆巴南区的漫游演出季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6304,15 +6674,16 @@
       "巴南区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆两江新区影视放映节",
     "venue": "重庆两江新区植物园",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "收费",
     "description": "重庆两江新区的精彩影视放映节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6321,15 +6692,16 @@
       "两江新区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆武隆区体育赛事之旅",
     "venue": "重庆武隆区动物园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "收费",
     "description": "重庆武隆区的梦幻体育赛事之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6338,15 +6710,16 @@
       "武隆区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆大足区亲子活动探秘",
     "venue": "重庆大足区海洋馆",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-24",
+    "end_date": "2027-01-23",
     "fee": "收费",
     "description": "重庆大足区的经典亲子活动探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6355,15 +6728,16 @@
       "大足区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆南川区展览发现",
     "venue": "重庆南川区剧院",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "免费",
     "description": "重庆南川区的震撼展览发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6372,15 +6746,16 @@
       "南川区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆渝中区讲座阅读探索",
     "venue": "重庆渝中区体育馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
     "fee": "免费",
     "description": "重庆渝中区的沉浸式讲座阅读探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6389,15 +6764,16 @@
       "渝中区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆江北区科普活动科普",
     "venue": "重庆江北区体育场",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-26",
+    "end_date": "2027-02-25",
     "fee": "免费",
     "description": "重庆江北区的互动科普活动科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6406,15 +6782,16 @@
       "江北区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆南岸区演出活动",
     "venue": "重庆南岸区会展中心",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
     "fee": "收费",
     "description": "重庆南岸区的周末演出活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6423,15 +6800,16 @@
       "南岸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆九龙坡区影视放映体验营",
     "venue": "重庆九龙坡区文化中心",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
     "fee": "收费",
     "description": "重庆九龙坡区的暑期影视放映体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6440,15 +6818,16 @@
       "九龙坡区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆沙坪坝区体育赛事工作坊",
     "venue": "重庆沙坪坝区艺术中心",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "收费",
     "description": "重庆沙坪坝区的亲子体育赛事工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6457,15 +6836,16 @@
       "沙坪坝区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆大渡口区亲子活动研学营",
     "venue": "重庆大渡口区青少年宫",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "收费",
     "description": "重庆大渡口区的家庭亲子活动研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6474,15 +6854,16 @@
       "大渡口区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆北碚区展览课程",
     "venue": "重庆北碚区创意园",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "免费",
     "description": "重庆北碚区的儿童展览课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6491,15 +6872,16 @@
       "北碚区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆渝北区讲座阅读讲座",
     "venue": "重庆渝北区博物馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
     "fee": "免费",
     "description": "重庆渝北区的青少年讲座阅读讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6508,15 +6890,16 @@
       "渝北区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆巴南区科普活动展览",
     "venue": "重庆巴南区科技馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
     "fee": "免费",
     "description": "重庆巴南区的趣味科普活动展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6525,15 +6908,16 @@
       "巴南区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆两江新区演出演出",
     "venue": "重庆两江新区美术馆",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
     "fee": "收费",
     "description": "重庆两江新区的探索演出演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6542,15 +6926,16 @@
       "两江新区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆武隆区影视放映比赛",
     "venue": "重庆武隆区图书馆",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "收费",
     "description": "重庆武隆区的发现影视放映比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6559,15 +6944,16 @@
       "武隆区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆大足区体育赛事嘉年华",
     "venue": "重庆大足区文化馆",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "收费",
     "description": "重庆大足区的体验体育赛事嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6576,15 +6962,16 @@
       "大足区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆南川区亲子活动日",
     "venue": "重庆南川区公园",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-03",
+    "end_date": "2027-02-02",
     "fee": "收费",
     "description": "重庆南川区的走进亲子活动日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6593,15 +6980,16 @@
       "南川区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆渝中区展览周",
     "venue": "重庆渝中区植物园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-01",
+    "end_date": "2027-04-02",
     "fee": "免费",
     "description": "重庆渝中区的解读展览周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6610,15 +6998,16 @@
       "渝中区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆江北区讲座阅读月",
     "venue": "重庆江北区动物园",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-15",
+    "end_date": "2027-02-14",
     "fee": "免费",
     "description": "重庆江北区的探秘讲座阅读月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6627,15 +7016,16 @@
       "江北区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆南岸区科普活动季",
     "venue": "重庆南岸区海洋馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-22",
+    "end_date": "2027-03-24",
     "fee": "免费",
     "description": "重庆南岸区的漫游科普活动季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6644,15 +7034,16 @@
       "南岸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆九龙坡区演出节",
     "venue": "重庆九龙坡区剧院",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
     "fee": "收费",
     "description": "重庆九龙坡区的精彩演出节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6661,15 +7052,16 @@
       "九龙坡区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆沙坪坝区影视放映之旅",
     "venue": "重庆沙坪坝区体育馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "收费",
     "description": "重庆沙坪坝区的梦幻影视放映之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6678,15 +7070,16 @@
       "沙坪坝区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆大渡口区体育赛事探秘",
     "venue": "重庆大渡口区体育场",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "收费",
     "description": "重庆大渡口区的经典体育赛事探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6695,15 +7088,16 @@
       "大渡口区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆北碚区亲子活动发现",
     "venue": "重庆北碚区会展中心",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "收费",
     "description": "重庆北碚区的震撼亲子活动发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6712,15 +7106,16 @@
       "北碚区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆渝北区展览探索",
     "venue": "重庆渝北区文化中心",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
     "fee": "免费",
     "description": "重庆渝北区的沉浸式展览探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6729,15 +7124,16 @@
       "渝北区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆巴南区讲座阅读科普",
     "venue": "重庆巴南区艺术中心",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-30",
+    "end_date": "2027-03-01",
     "fee": "免费",
     "description": "重庆巴南区的互动讲座阅读科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6746,15 +7142,16 @@
       "巴南区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆两江新区科普活动活动",
     "venue": "重庆两江新区青少年宫",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-02",
+    "end_date": "2027-02-01",
     "fee": "免费",
     "description": "重庆两江新区的周末科普活动活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6763,15 +7160,16 @@
       "两江新区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆武隆区演出体验营",
     "venue": "重庆武隆区创意园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "收费",
     "description": "重庆武隆区的暑期演出体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6780,15 +7178,16 @@
       "武隆区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆大足区影视放映工作坊",
     "venue": "重庆大足区博物馆",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "重庆大足区的亲子影视放映工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6797,15 +7196,16 @@
       "大足区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆南川区体育赛事研学营",
     "venue": "重庆南川区科技馆",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-03",
+    "end_date": "2027-02-02",
     "fee": "收费",
     "description": "重庆南川区的家庭体育赛事研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6814,15 +7214,16 @@
       "南川区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆渝中区亲子活动课程",
     "venue": "重庆渝中区美术馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
     "fee": "收费",
     "description": "重庆渝中区的儿童亲子活动课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6831,15 +7232,16 @@
       "渝中区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆江北区展览讲座",
     "venue": "重庆江北区图书馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "免费",
     "description": "重庆江北区的青少年展览讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6848,15 +7250,16 @@
       "江北区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆南岸区讲座阅读展览",
     "venue": "重庆南岸区文化馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
     "fee": "免费",
     "description": "重庆南岸区的趣味讲座阅读展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6865,15 +7268,16 @@
       "南岸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆九龙坡区科普活动演出",
     "venue": "重庆九龙坡区公园",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
     "fee": "免费",
     "description": "重庆九龙坡区的探索科普活动演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6882,15 +7286,16 @@
       "九龙坡区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆沙坪坝区演出比赛",
     "venue": "重庆沙坪坝区植物园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "收费",
     "description": "重庆沙坪坝区的发现演出比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6899,15 +7304,16 @@
       "沙坪坝区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆大渡口区影视放映嘉年华",
     "venue": "重庆大渡口区动物园",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "收费",
     "description": "重庆大渡口区的体验影视放映嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6916,15 +7322,16 @@
       "大渡口区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆北碚区体育赛事日",
     "venue": "重庆北碚区海洋馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
     "fee": "收费",
     "description": "重庆北碚区的走进体育赛事日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6933,15 +7340,16 @@
       "北碚区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆渝北区亲子活动周",
     "venue": "重庆渝北区剧院",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "收费",
     "description": "重庆渝北区的解读亲子活动周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6950,15 +7358,16 @@
       "渝北区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆巴南区展览月",
     "venue": "重庆巴南区体育馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
     "fee": "免费",
     "description": "重庆巴南区的探秘展览月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6967,15 +7376,16 @@
       "巴南区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆两江新区讲座阅读季",
     "venue": "重庆两江新区体育场",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "免费",
     "description": "重庆两江新区的漫游讲座阅读季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -6984,15 +7394,16 @@
       "两江新区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆武隆区科普活动节",
     "venue": "重庆武隆区会展中心",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "免费",
     "description": "重庆武隆区的精彩科普活动节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7001,15 +7412,16 @@
       "武隆区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆大足区演出之旅",
     "venue": "重庆大足区文化中心",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
     "fee": "收费",
     "description": "重庆大足区的梦幻演出之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7018,15 +7430,16 @@
       "大足区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆南川区影视放映探秘",
     "venue": "重庆南川区艺术中心",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "收费",
     "description": "重庆南川区的经典影视放映探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7035,15 +7448,16 @@
       "南川区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆渝中区体育赛事发现",
     "venue": "重庆渝中区青少年宫",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
     "fee": "收费",
     "description": "重庆渝中区的震撼体育赛事发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7052,15 +7466,16 @@
       "渝中区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆江北区亲子活动探索",
     "venue": "重庆江北区创意园",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
     "fee": "收费",
     "description": "重庆江北区的沉浸式亲子活动探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7069,15 +7484,16 @@
       "江北区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆南岸区展览科普",
     "venue": "重庆南岸区博物馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-05",
+    "end_date": "2027-02-04",
     "fee": "免费",
     "description": "重庆南岸区的互动展览科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7086,15 +7502,16 @@
       "南岸区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆九龙坡区讲座阅读活动",
     "venue": "重庆九龙坡区科技馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
     "fee": "免费",
     "description": "重庆九龙坡区的周末讲座阅读活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7103,15 +7520,16 @@
       "九龙坡区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆沙坪坝区科普活动体验营",
     "venue": "重庆沙坪坝区美术馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
     "fee": "免费",
     "description": "重庆沙坪坝区的暑期科普活动体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7120,15 +7538,16 @@
       "沙坪坝区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆大渡口区演出工作坊",
     "venue": "重庆大渡口区图书馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
     "fee": "收费",
     "description": "重庆大渡口区的亲子演出工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7137,15 +7556,16 @@
       "大渡口区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆北碚区影视放映研学营",
     "venue": "重庆北碚区文化馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "收费",
     "description": "重庆北碚区的家庭影视放映研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7154,15 +7574,16 @@
       "北碚区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆渝北区体育赛事课程",
     "venue": "重庆渝北区公园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-04",
+    "end_date": "2027-04-05",
     "fee": "收费",
     "description": "重庆渝北区的儿童体育赛事课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7171,15 +7592,16 @@
       "渝北区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆巴南区亲子活动讲座",
     "venue": "重庆巴南区植物园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
     "fee": "收费",
     "description": "重庆巴南区的青少年亲子活动讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7188,15 +7610,16 @@
       "巴南区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆两江新区展览展览",
     "venue": "重庆两江新区动物园",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
     "fee": "免费",
     "description": "重庆两江新区的趣味展览展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7205,15 +7628,16 @@
       "两江新区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆武隆区讲座阅读演出",
     "venue": "重庆武隆区海洋馆",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "免费",
     "description": "重庆武隆区的探索讲座阅读演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7222,15 +7646,16 @@
       "武隆区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆大足区科普活动比赛",
     "venue": "重庆大足区剧院",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-31",
+    "end_date": "2027-03-02",
     "fee": "免费",
     "description": "重庆大足区的发现科普活动比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7239,15 +7664,16 @@
       "大足区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆南川区演出嘉年华",
     "venue": "重庆南川区体育馆",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
     "fee": "收费",
     "description": "重庆南川区的体验演出嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7256,15 +7682,16 @@
       "南川区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆渝中区影视放映日",
     "venue": "重庆渝中区体育场",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
     "fee": "收费",
     "description": "重庆渝中区的走进影视放映日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7273,15 +7700,16 @@
       "渝中区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆江北区体育赛事周",
     "venue": "重庆江北区会展中心",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
     "fee": "收费",
     "description": "重庆江北区的解读体育赛事周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7290,15 +7718,16 @@
       "江北区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆南岸区亲子活动月",
     "venue": "重庆南岸区文化中心",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-08",
+    "end_date": "2027-03-10",
     "fee": "收费",
     "description": "重庆南岸区的探秘亲子活动月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7307,15 +7736,16 @@
       "南岸区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆九龙坡区展览季",
     "venue": "重庆九龙坡区艺术中心",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-04",
+    "end_date": "2027-04-05",
     "fee": "免费",
     "description": "重庆九龙坡区的漫游展览季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7324,15 +7754,16 @@
       "九龙坡区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆沙坪坝区讲座阅读节",
     "venue": "重庆沙坪坝区青少年宫",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
     "fee": "免费",
     "description": "重庆沙坪坝区的精彩讲座阅读节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7341,15 +7772,16 @@
       "沙坪坝区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆大渡口区科普活动之旅",
     "venue": "重庆大渡口区创意园",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
     "fee": "免费",
     "description": "重庆大渡口区的梦幻科普活动之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7358,15 +7790,16 @@
       "大渡口区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆北碚区演出探秘",
     "venue": "重庆北碚区博物馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
     "fee": "收费",
     "description": "重庆北碚区的经典演出探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7375,15 +7808,16 @@
       "北碚区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆渝北区影视放映发现",
     "venue": "重庆渝北区科技馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
     "fee": "收费",
     "description": "重庆渝北区的震撼影视放映发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7392,15 +7826,16 @@
       "渝北区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆巴南区体育赛事探索",
     "venue": "重庆巴南区美术馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
     "fee": "收费",
     "description": "重庆巴南区的沉浸式体育赛事探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7409,15 +7844,16 @@
       "巴南区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆两江新区亲子活动科普",
     "venue": "重庆两江新区图书馆",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "收费",
     "description": "重庆两江新区的互动亲子活动科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7426,15 +7862,16 @@
       "两江新区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆武隆区展览活动",
     "venue": "重庆武隆区文化馆",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-02",
+    "end_date": "2027-02-01",
     "fee": "免费",
     "description": "重庆武隆区的周末展览活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7443,15 +7880,16 @@
       "武隆区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆大足区讲座阅读体验营",
     "venue": "重庆大足区公园",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-01",
+    "end_date": "2027-04-02",
     "fee": "免费",
     "description": "重庆大足区的暑期讲座阅读体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7460,15 +7898,16 @@
       "大足区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆南川区科普活动工作坊",
     "venue": "重庆南川区植物园",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
     "fee": "免费",
     "description": "重庆南川区的亲子科普活动工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7477,15 +7916,16 @@
       "南川区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆渝中区演出研学营",
     "venue": "重庆渝中区动物园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-31",
+    "end_date": "2027-03-02",
     "fee": "收费",
     "description": "重庆渝中区的家庭演出研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7494,15 +7934,16 @@
       "渝中区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆江北区影视放映课程",
     "venue": "重庆江北区海洋馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-10",
+    "end_date": "2027-03-12",
     "fee": "收费",
     "description": "重庆江北区的儿童影视放映课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7511,15 +7952,16 @@
       "江北区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆南岸区体育赛事讲座",
     "venue": "重庆南岸区剧院",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "收费",
     "description": "重庆南岸区的青少年体育赛事讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7528,15 +7970,16 @@
       "南岸区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆九龙坡区亲子活动展览",
     "venue": "重庆九龙坡区体育馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
     "fee": "收费",
     "description": "重庆九龙坡区的趣味亲子活动展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7545,15 +7988,16 @@
       "九龙坡区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆沙坪坝区展览演出",
     "venue": "重庆沙坪坝区体育场",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
     "fee": "免费",
     "description": "重庆沙坪坝区的探索展览演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7562,15 +8006,16 @@
       "沙坪坝区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆大渡口区讲座阅读比赛",
     "venue": "重庆大渡口区会展中心",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
     "fee": "免费",
     "description": "重庆大渡口区的发现讲座阅读比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7579,15 +8024,16 @@
       "大渡口区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆北碚区科普活动嘉年华",
     "venue": "重庆北碚区文化中心",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
     "fee": "免费",
     "description": "重庆北碚区的体验科普活动嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7596,15 +8042,16 @@
       "北碚区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆渝北区演出日",
     "venue": "重庆渝北区艺术中心",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
     "fee": "收费",
     "description": "重庆渝北区的走进演出日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7613,15 +8060,16 @@
       "渝北区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆巴南区影视放映周",
     "venue": "重庆巴南区青少年宫",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
     "fee": "收费",
     "description": "重庆巴南区的解读影视放映周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7630,15 +8078,16 @@
       "巴南区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆两江新区体育赛事月",
     "venue": "重庆两江新区创意园",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
     "fee": "收费",
     "description": "重庆两江新区的探秘体育赛事月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7647,15 +8096,16 @@
       "两江新区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆武隆区亲子活动季",
     "venue": "重庆武隆区博物馆",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "收费",
     "description": "重庆武隆区的漫游亲子活动季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7664,15 +8114,16 @@
       "武隆区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆大足区展览节",
     "venue": "重庆大足区科技馆",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "重庆大足区的精彩展览节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7681,15 +8132,16 @@
       "大足区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆南川区讲座阅读之旅",
     "venue": "重庆南川区美术馆",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-03",
+    "end_date": "2027-04-04",
     "fee": "免费",
     "description": "重庆南川区的梦幻讲座阅读之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7698,15 +8150,16 @@
       "南川区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆渝中区科普活动探秘",
     "venue": "重庆渝中区图书馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-23",
+    "end_date": "2027-02-22",
     "fee": "免费",
     "description": "重庆渝中区的经典科普活动探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7715,15 +8168,16 @@
       "渝中区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆江北区演出发现",
     "venue": "重庆江北区文化馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
     "fee": "收费",
     "description": "重庆江北区的震撼演出发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7732,15 +8186,16 @@
       "江北区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆南岸区影视放映探索",
     "venue": "重庆南岸区公园",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
     "fee": "收费",
     "description": "重庆南岸区的沉浸式影视放映探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7749,15 +8204,16 @@
       "南岸区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆九龙坡区体育赛事科普",
     "venue": "重庆九龙坡区植物园",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-11",
     "fee": "收费",
     "description": "重庆九龙坡区的互动体育赛事科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7766,15 +8222,16 @@
       "九龙坡区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆沙坪坝区亲子活动活动",
     "venue": "重庆沙坪坝区动物园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
     "fee": "收费",
     "description": "重庆沙坪坝区的周末亲子活动活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7783,15 +8240,16 @@
       "沙坪坝区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆大渡口区展览体验营",
     "venue": "重庆大渡口区海洋馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-13",
+    "end_date": "2027-02-12",
     "fee": "免费",
     "description": "重庆大渡口区的暑期展览体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7800,15 +8258,16 @@
       "大渡口区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆北碚区讲座阅读工作坊",
     "venue": "重庆北碚区剧院",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-22",
+    "end_date": "2027-03-24",
     "fee": "免费",
     "description": "重庆北碚区的亲子讲座阅读工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7817,15 +8276,16 @@
       "北碚区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆渝北区科普活动研学营",
     "venue": "重庆渝北区体育馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-03",
+    "end_date": "2027-04-04",
     "fee": "免费",
     "description": "重庆渝北区的家庭科普活动研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7834,15 +8294,16 @@
       "渝北区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆巴南区演出课程",
     "venue": "重庆巴南区体育场",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-21",
+    "end_date": "2027-03-23",
     "fee": "收费",
     "description": "重庆巴南区的儿童演出课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7851,15 +8312,16 @@
       "巴南区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆两江新区影视放映讲座",
     "venue": "重庆两江新区会展中心",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-11",
+    "end_date": "2027-02-10",
     "fee": "收费",
     "description": "重庆两江新区的青少年影视放映讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7868,15 +8330,16 @@
       "两江新区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆武隆区体育赛事展览",
     "venue": "重庆武隆区文化中心",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "重庆武隆区的趣味体育赛事展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7885,15 +8348,16 @@
       "武隆区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆大足区亲子活动演出",
     "venue": "重庆大足区艺术中心",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-23",
     "fee": "收费",
     "description": "重庆大足区的探索亲子活动演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7902,15 +8366,16 @@
       "大足区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆南川区展览比赛",
     "venue": "重庆南川区青少年宫",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
     "fee": "免费",
     "description": "重庆南川区的发现展览比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7919,15 +8384,16 @@
       "南川区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆渝中区讲座阅读嘉年华",
     "venue": "重庆渝中区创意园",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-24",
+    "end_date": "2027-01-23",
     "fee": "免费",
     "description": "重庆渝中区的体验讲座阅读嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7936,15 +8402,16 @@
       "渝中区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆江北区科普活动日",
     "venue": "重庆江北区博物馆",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-17",
+    "end_date": "2027-02-16",
     "fee": "免费",
     "description": "重庆江北区的走进科普活动日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7953,15 +8420,16 @@
       "江北区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆南岸区演出周",
     "venue": "重庆南岸区科技馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
     "fee": "收费",
     "description": "重庆南岸区的解读演出周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7970,15 +8438,16 @@
       "南岸区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆九龙坡区影视放映月",
     "venue": "重庆九龙坡区美术馆",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
     "fee": "收费",
     "description": "重庆九龙坡区的探秘影视放映月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -7987,15 +8456,16 @@
       "九龙坡区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆沙坪坝区体育赛事季",
     "venue": "重庆沙坪坝区图书馆",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-01",
+    "end_date": "2027-01-31",
     "fee": "收费",
     "description": "重庆沙坪坝区的漫游体育赛事季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8004,15 +8474,16 @@
       "沙坪坝区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆大渡口区亲子活动节",
     "venue": "重庆大渡口区文化馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-17",
+    "end_date": "2027-02-16",
     "fee": "收费",
     "description": "重庆大渡口区的精彩亲子活动节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8021,15 +8492,16 @@
       "大渡口区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆北碚区展览之旅",
     "venue": "重庆北碚区公园",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
     "fee": "免费",
     "description": "重庆北碚区的梦幻展览之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8038,15 +8510,16 @@
       "北碚区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆渝北区讲座阅读探秘",
     "venue": "重庆渝北区植物园",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
     "fee": "免费",
     "description": "重庆渝北区的经典讲座阅读探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8055,15 +8528,16 @@
       "渝北区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆巴南区科普活动发现",
     "venue": "重庆巴南区动物园",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
     "fee": "免费",
     "description": "重庆巴南区的震撼科普活动发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8072,15 +8546,16 @@
       "巴南区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆两江新区演出探索",
     "venue": "重庆两江新区海洋馆",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "收费",
     "description": "重庆两江新区的沉浸式演出探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8089,15 +8564,16 @@
       "两江新区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆武隆区影视放映科普",
     "venue": "重庆武隆区剧院",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
     "fee": "收费",
     "description": "重庆武隆区的互动影视放映科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8106,15 +8582,16 @@
       "武隆区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆大足区体育赛事活动",
     "venue": "重庆大足区体育馆",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "收费",
     "description": "重庆大足区的周末体育赛事活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8123,15 +8600,16 @@
       "大足区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆南川区亲子活动体验营",
     "venue": "重庆南川区体育场",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "重庆南川区的暑期亲子活动体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8140,15 +8618,16 @@
       "南川区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆渝中区展览工作坊",
     "venue": "重庆渝中区会展中心",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
     "fee": "免费",
     "description": "重庆渝中区的亲子展览工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8157,15 +8636,16 @@
       "渝中区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "家庭重庆江北区讲座阅读研学营",
     "venue": "重庆江北区文化中心",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-03",
+    "end_date": "2027-02-02",
     "fee": "免费",
     "description": "重庆江北区的家庭讲座阅读研学营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8174,15 +8654,16 @@
       "江北区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "儿童重庆南岸区科普活动课程",
     "venue": "重庆南岸区艺术中心",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
     "fee": "免费",
     "description": "重庆南岸区的儿童科普活动课程，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8191,15 +8672,16 @@
       "南岸区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "青少年重庆九龙坡区演出讲座",
     "venue": "重庆九龙坡区青少年宫",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
     "fee": "收费",
     "description": "重庆九龙坡区的青少年演出讲座，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8208,15 +8690,16 @@
       "九龙坡区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "趣味重庆沙坪坝区影视放映展览",
     "venue": "重庆沙坪坝区创意园",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-09",
+    "end_date": "2027-03-11",
     "fee": "收费",
     "description": "重庆沙坪坝区的趣味影视放映展览，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8225,15 +8708,16 @@
       "沙坪坝区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "探索重庆大渡口区体育赛事演出",
     "venue": "重庆大渡口区博物馆",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
     "fee": "收费",
     "description": "重庆大渡口区的探索体育赛事演出，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8242,15 +8726,16 @@
       "大渡口区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "发现重庆北碚区亲子活动比赛",
     "venue": "重庆北碚区科技馆",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
     "fee": "收费",
     "description": "重庆北碚区的发现亲子活动比赛，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8259,15 +8744,16 @@
       "北碚区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "体验重庆渝北区展览嘉年华",
     "venue": "重庆渝北区美术馆",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
     "fee": "免费",
     "description": "重庆渝北区的体验展览嘉年华，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8276,15 +8762,16 @@
       "渝北区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "走进重庆巴南区讲座阅读日",
     "venue": "重庆巴南区图书馆",
     "city": "chongqing",
     "district": "巴南区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-09",
+    "end_date": "2027-02-08",
     "fee": "免费",
     "description": "重庆巴南区的走进讲座阅读日，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8293,15 +8780,16 @@
       "巴南区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "解读重庆两江新区科普活动周",
     "venue": "重庆两江新区文化馆",
     "city": "chongqing",
     "district": "两江新区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-16",
+    "end_date": "2027-03-18",
     "fee": "免费",
     "description": "重庆两江新区的解读科普活动周，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8310,15 +8798,16 @@
       "两江新区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "探秘重庆武隆区演出月",
     "venue": "重庆武隆区公园",
     "city": "chongqing",
     "district": "武隆区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
     "fee": "收费",
     "description": "重庆武隆区的探秘演出月，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8327,15 +8816,16 @@
       "武隆区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "漫游重庆大足区影视放映季",
     "venue": "重庆大足区植物园",
     "city": "chongqing",
     "district": "大足区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-20",
+    "end_date": "2027-01-19",
     "fee": "收费",
     "description": "重庆大足区的漫游影视放映季，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8344,15 +8834,16 @@
       "大足区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "精彩重庆南川区体育赛事节",
     "venue": "重庆南川区动物园",
     "city": "chongqing",
     "district": "南川区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-01",
+    "end_date": "2027-04-02",
     "fee": "收费",
     "description": "重庆南川区的精彩体育赛事节，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8361,15 +8852,16 @@
       "南川区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "梦幻重庆渝中区亲子活动之旅",
     "venue": "重庆渝中区海洋馆",
     "city": "chongqing",
     "district": "渝中区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
     "fee": "收费",
     "description": "重庆渝中区的梦幻亲子活动之旅，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8378,15 +8870,16 @@
       "渝中区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   },
   {
     "name": "经典重庆江北区展览探秘",
     "venue": "重庆江北区剧院",
     "city": "chongqing",
     "district": "江北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
     "fee": "免费",
     "description": "重庆江北区的经典展览探秘，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8395,15 +8888,16 @@
       "江北区",
       "展览"
     ],
-    "type": "展览"
+    "type": "展览",
+    "is_family_friendly": true
   },
   {
     "name": "震撼重庆南岸区讲座阅读发现",
     "venue": "重庆南岸区体育馆",
     "city": "chongqing",
     "district": "南岸区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-20",
+    "end_date": "2027-02-19",
     "fee": "免费",
     "description": "重庆南岸区的震撼讲座阅读发现，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8412,15 +8906,16 @@
       "南岸区",
       "讲座阅读"
     ],
-    "type": "讲座阅读"
+    "type": "讲座阅读",
+    "is_family_friendly": true
   },
   {
     "name": "沉浸式重庆九龙坡区科普活动探索",
     "venue": "重庆九龙坡区体育场",
     "city": "chongqing",
     "district": "九龙坡区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
     "fee": "免费",
     "description": "重庆九龙坡区的沉浸式科普活动探索，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8429,15 +8924,16 @@
       "九龙坡区",
       "科普活动"
     ],
-    "type": "科普活动"
+    "type": "科普活动",
+    "is_family_friendly": true
   },
   {
     "name": "互动重庆沙坪坝区演出科普",
     "venue": "重庆沙坪坝区会展中心",
     "city": "chongqing",
     "district": "沙坪坝区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
     "fee": "收费",
     "description": "重庆沙坪坝区的互动演出科普，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8446,15 +8942,16 @@
       "沙坪坝区",
       "演出"
     ],
-    "type": "演出"
+    "type": "演出",
+    "is_family_friendly": true
   },
   {
     "name": "周末重庆大渡口区影视放映活动",
     "venue": "重庆大渡口区文化中心",
     "city": "chongqing",
     "district": "大渡口区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-07-25",
+    "end_date": "2027-01-24",
     "fee": "收费",
     "description": "重庆大渡口区的周末影视放映活动，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8463,15 +8960,16 @@
       "大渡口区",
       "影视放映"
     ],
-    "type": "影视放映"
+    "type": "影视放映",
+    "is_family_friendly": true
   },
   {
     "name": "暑期重庆北碚区体育赛事体验营",
     "venue": "重庆北碚区艺术中心",
     "city": "chongqing",
     "district": "北碚区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
     "fee": "收费",
     "description": "重庆北碚区的暑期体育赛事体验营，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8480,15 +8978,16 @@
       "北碚区",
       "体育赛事"
     ],
-    "type": "体育赛事"
+    "type": "体育赛事",
+    "is_family_friendly": true
   },
   {
     "name": "亲子重庆渝北区亲子活动工作坊",
     "venue": "重庆渝北区青少年宫",
     "city": "chongqing",
     "district": "渝北区",
-    "start_date": "2026-07-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-22",
     "fee": "收费",
     "description": "重庆渝北区的亲子亲子活动工作坊，适合亲子家庭参与。",
     "source": "重庆本地宝",
@@ -8497,6 +8996,7 @@
       "渝北区",
       "亲子活动"
     ],
-    "type": "亲子活动"
+    "type": "亲子活动",
+    "is_family_friendly": true
   }
 ]
