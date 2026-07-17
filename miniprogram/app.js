@@ -23,6 +23,9 @@ const CACHE_KEY = 'goout_exhibitions_cache_v2';
 const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v2';
 const VENUE_CACHE_KEY = 'goout_venues_cache_v2';
 const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v2';
+// 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
+// 日后有重要数据/结构变更需强制用户刷新时，手动 +1 即可（如 '2026.07.18.2'）。
+const APP_VERSION = '2026.07.18.1';
 
 // 加时间戳，绕过 CDN 缓存
 function getFreshUrl(base) {
@@ -164,7 +167,18 @@ App({
     this.globalData.dataReady = true;
     this.notifyReady();
 
-    // 5. 后台静默拉取最新数据（不阻塞界面）
+    // 5. 检测是否“首次启动(刚播种打包基线)”或“升级后(版本号变化)”：
+    //    这两种情况应强制拉取最新数据，忽略 5 分钟 TTL 节流；普通重复进入仍走节流。
+    try {
+      var lastVer = wx.getStorageSync('goout_app_version');
+      if (!lastVer || lastVer !== APP_VERSION) {
+        this._versionChanged = true;
+        wx.setStorageSync('goout_app_version', APP_VERSION);
+        console.log('[童行] 检测到版本变化/首次使用，将强制拉取最新数据');
+      }
+    } catch (e) {}
+
+    // 6. 后台静默拉取最新数据（不阻塞界面）
     this.silentUpdateAll();
 
     // 6. 检测小程序新版本（真机 / 体验版 / 正式版生效）
@@ -177,6 +191,8 @@ App({
     try {
       // 活动数据
       if (!wx.getStorageSync(CACHE_TIME_KEY)) {
+        // 标记“本次启动刚播种打包基线”——首次进入应强制拉最新，而非沿用旧基线后跳过静默更新
+        this._seededThisLaunch = true;
         wx.setStorageSync(CACHE_KEY, localExhibitions);
         wx.setStorageSync(CACHE_TIME_KEY, Date.now());
         console.log('[童行] 已将', localExhibitions.length, '条活动数据写入缓存基线');
@@ -240,10 +256,11 @@ App({
           self.notifyCitiesUpdated();
         }
       }
-      // 城市清单有增减时，即便缓存较新也强制拉数据，保证新城市有数据；否则按 TTL 节流
+      // 城市清单有增减时，或“首次启动/升级后”时，即便缓存较新也强制拉数据；否则按 TTL 节流
       var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
       var fresh = cacheTime && (Date.now() - cacheTime) < self.SILENT_TTL_MS;
-      if (fresh && !changed) {
+      var force = self._seededThisLaunch || self._versionChanged;
+      if (fresh && !changed && !force) {
         console.log('[童行] 缓存较新(<5分钟)且城市清单无变化，跳过静默更新');
         return;
       }
