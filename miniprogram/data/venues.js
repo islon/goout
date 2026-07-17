@@ -10029,6 +10029,7 @@ module.exports = [
     "city": "nanjing",
     "district": "建邺区",
     "type": "公园",
+    "address": "渝北区龙景路",
     "fee": "免费",
     "description": "南京鼓楼区植物园位于nanjing的建邺区，是当地公园。",
     "address": "nanjing建邺区",
@@ -10106,6 +10107,7 @@ module.exports = [
     "city": "shanghai",
     "district": "长宁区",
     "type": "公园",
+    "address": "白云区齐心路",
     "fee": "免费",
     "description": "长风公园位于shanghai的长宁区，是当地公园。",
     "address": "shanghai长宁区",
@@ -10267,26 +10269,26 @@ module.exports = [
     "id": "小河直街"
   },
   {
-    "name": "南山文体中心大剧院",
-    "city": "shenzhen",
-    "district": "宝安区",
-    "type": "演出场所",
-    "fee": "需预约",
-    "description": "南山文体中心大剧院位于shenzhen的宝安区，是当地演出场所。",
-    "address": "shenzhen宝安区",
-    "source": "auto_generated",
-    "id": "南山文体中心大剧院"
+    "name": "广州市文化馆新馆",
+    "city": "guangzhou",
+    "district": "",
+    "type": "博物馆",
+    "fee": "免费",
+    "description": "广州市文化馆新馆，亲子友好场馆",
+    "address": "guangzhou广州市文化馆新馆",
+    "source": "活动数据提取",
+    "id": "广州市文化馆新馆"
   },
   {
-    "name": "宝安体育中心体育馆",
-    "city": "shenzhen",
-    "district": "龙岗区",
-    "type": "体育场馆",
-    "fee": "需预约",
-    "description": "宝安体育中心体育馆位于shenzhen的龙岗区，是当地体育场馆。",
-    "address": "shenzhen龙岗区",
-    "source": "auto_generated",
-    "id": "宝安体育中心体育馆"
+    "name": "世界技能博物馆",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "fee": "免费",
+    "description": "世界技能博物馆，亲子友好场馆",
+    "address": "shanghai世界技能博物馆",
+    "source": "活动数据提取",
+    "id": "世界技能博物馆"
   },
   {
     "name": "宝安区文化馆航城街道分馆",
@@ -10294,10 +10296,10 @@ module.exports = [
     "district": "福田区",
     "type": "文化馆",
     "fee": "免费",
-    "description": "宝安区文化馆航城街道分馆位于shenzhen的福田区，是当地文化馆。",
-    "address": "shenzhen福田区",
-    "source": "auto_generated",
-    "id": "宝安区文化馆航城街道分馆"
+    "description": "中国园林博物馆，亲子友好场馆",
+    "address": "beijing中国园林博物馆",
+    "source": "活动数据提取",
+    "id": "中国园林博物馆"
   },
   {
     "name": "华侨城湿地公园",
@@ -10305,10 +10307,10 @@ module.exports = [
     "district": "盐田区",
     "type": "公园",
     "fee": "免费",
-    "description": "华侨城湿地公园位于shenzhen的盐田区，是当地公园。",
-    "address": "shenzhen盐田区",
-    "source": "auto_generated",
-    "id": "华侨城湿地公园"
+    "description": "上海动物园，亲子友好场馆",
+    "address": "shanghai上海动物园",
+    "source": "活动数据提取",
+    "id": "上海动物园"
   },
   {
     "name": "光明文化艺术中心·演艺中心·大剧场",
@@ -10344,26 +10346,26 @@ module.exports = [
     "id": "深圳大运中心体育馆"
   },
   {
-    "name": "宝安图书馆 (宝安区图书馆)",
+    "name": "宝安区文化馆",
     "city": "shenzhen",
-    "district": "盐田区",
-    "type": "图书馆",
-    "fee": "需预约",
-    "description": "宝安图书馆 (宝安区图书馆)位于shenzhen的盐田区，是当地图书馆。",
-    "address": "shenzhen盐田区",
-    "source": "auto_generated",
-    "id": "宝安图书馆 (宝安区图书馆)"
+    "district": "",
+    "type": "博物馆",
+    "fee": "免费",
+    "description": "宝安区文化馆，亲子友好场馆",
+    "address": "shenzhen宝安区文化馆",
+    "source": "活动数据提取",
+    "id": "宝安区文化馆"
   },
   {
-    "name": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "district": "宝安区",
-    "type": "图书馆",
-    "fee": "需预约",
-    "description": "深圳图书馆 (深圳图书馆北馆)位于shenzhen的宝安区，是当地图书馆。",
-    "address": "shenzhen宝安区",
-    "source": "auto_generated",
-    "id": "深圳图书馆 (深圳图书馆北馆)"
+    "name": "上海乐高乐园",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "fee": "免费",
+    "description": "上海乐高乐园，亲子友好场馆",
+    "address": "shanghai上海乐高乐园",
+    "source": "活动数据提取",
+    "id": "上海乐高乐园"
   },
   {
     "name": "深圳大运中心体育场",
@@ -10379,13 +10381,13 @@ module.exports = [
   {
     "name": "深圳图书馆 (深圳图书馆中心馆)",
     "city": "shenzhen",
-    "district": "罗湖区",
-    "type": "图书馆",
-    "fee": "需预约",
-    "description": "深圳图书馆 (深圳图书馆中心馆)位于shenzhen的罗湖区，是当地图书馆。",
-    "address": "shenzhen罗湖区",
-    "source": "auto_generated",
-    "id": "深圳图书馆 (深圳图书馆中心馆)"
+    "district": "",
+    "type": "博物馆",
+    "fee": "免费",
+    "description": "深圳市体育中心体育场，亲子友好场馆",
+    "address": "shenzhen深圳市体育中心体育场",
+    "source": "活动数据提取",
+    "id": "深圳市体育中心体育场"
   },
   {
     "name": "深圳市体育中心体育馆",
@@ -10410,14 +10412,14 @@ module.exports = [
     "id": "玛雅海滩水公园"
   },
   {
-    "name": "中山公园",
-    "city": "wuhan",
-    "district": "武昌区",
-    "type": "公园",
-    "fee": "收费",
-    "description": "位于天安门西侧，有社稷坛、中山堂等景点，是市民休闲好去处。",
-    "address": "wuhan武昌区",
-    "source": "auto_generated",
-    "id": "中山公园"
+    "name": "深圳音乐厅五楼小剧场",
+    "city": "shenzhen",
+    "district": "",
+    "type": "博物馆",
+    "fee": "免费",
+    "description": "深圳音乐厅五楼小剧场，亲子友好场馆",
+    "address": "shenzhen深圳音乐厅五楼小剧场",
+    "source": "活动数据提取",
+    "id": "深圳音乐厅五楼小剧场"
   }
 ];
