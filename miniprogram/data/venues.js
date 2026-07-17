@@ -1,5 +1,5 @@
 // 童行小程序 - 场馆信息本地兜底
-// 共 4496 条（来源：islon/goout/output/venue_info.json）
+// 共 4516 条（来源：islon/goout/output/venue_info.json）
 module.exports = [
   {
     "name": "深圳图书馆",
@@ -79328,5 +79328,345 @@ module.exports = [
       "深圳"
     ],
     "id": "深圳盐田区体育馆"
+  },
+  {
+    "name": "龙岗文博展览馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗文博展览馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "龙岗文博展览馆"
+  },
+  {
+    "name": "宝安滨海文化公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安滨海文化公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ],
+    "id": "宝安滨海文化公园"
+  },
+  {
+    "name": "华侨城创意文化园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳华侨城创意文化园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "华侨城创意文化园"
+  },
+  {
+    "name": "深圳科技馆（光明馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳深圳科技馆（光明馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ],
+    "id": "深圳科技馆（光明馆）"
+  },
+  {
+    "name": "南山区图书馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "深圳"
+    ],
+    "id": "南山区图书馆"
+  },
+  {
+    "name": "深圳科技馆（光明新馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳深圳科技馆（光明新馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ],
+    "id": "深圳科技馆（光明新馆）"
+  },
+  {
+    "name": "深圳市科学馆（福田老馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳深圳市科学馆（福田老馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "深圳市科学馆（福田老馆）"
+  },
+  {
+    "name": "龙岗红立方科技馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗红立方科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ],
+    "id": "龙岗红立方科技馆"
+  },
+  {
+    "name": "龙华科技馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ],
+    "id": "龙华科技馆"
+  },
+  {
+    "name": "龙华文体中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华文体中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "龙华文体中心"
+  },
+  {
+    "name": "前海石公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳前海石公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ],
+    "id": "前海石公园"
+  },
+  {
+    "name": "沙井京基百纳榕下童趣乐园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳沙井京基百纳榕下童趣乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "深圳"
+    ],
+    "id": "沙井京基百纳榕下童趣乐园"
+  },
+  {
+    "name": "莲花山公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳莲花山公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ],
+    "id": "莲花山公园"
+  },
+  {
+    "name": "甘坑客家小镇",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳甘坑客家小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "甘坑客家小镇"
+  },
+  {
+    "name": "观澜河湿地公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳观澜河湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ],
+    "id": "观澜河湿地公园"
+  },
+  {
+    "name": "大鹏半岛国家地质公园博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏半岛国家地质公园博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳"
+    ],
+    "id": "大鹏半岛国家地质公园博物馆"
+  },
+  {
+    "name": "坪山城市书房",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山城市书房，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "坪山城市书房"
+  },
+  {
+    "name": "宝安大仟里",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安大仟里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "宝安大仟里"
+  },
+  {
+    "name": "坪山区体育中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "坪山区体育中心"
+  },
+  {
+    "name": "茅洲河体育艺术中心剧场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳茅洲河体育艺术中心剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "茅洲河体育艺术中心剧场"
   }
 ];
