@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Shenzhen Exhibitions//Calendar//ZH
-X-WR-CALNAME:童行 (深圳亲子活动)
-X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+PRODID:-//TongXing GoOut//Calendar//ZH
+X-WR-CALNAME:童行 (北京亲子活动)
+X-WR-CALDESC:北京展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -22,8 +22,8 @@ TZOFFSETTO:+0800
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:52b68481fbc7bd50@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:52b68481fbc7bd50@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260118
 DTEND;VALUE=DATE:20260819
 SUMMARY:双星耀世——三星堆—金沙遗址古蜀文明展
@@ -31,8 +31,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:三星堆—金沙遗址古蜀文明展，南8南9展厅。古蜀文明珍贵文物。需提前7天在国家博物馆小程序预约，实名制人脸核验。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-01-18 至 2026-08-18\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:df6265ab8a4139af@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:df6265ab8a4139af@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20261012
 SUMMARY:叩问永恒——庞贝的探索与发掘
@@ -40,8 +40,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:庞贝古城考古发掘特展，南1南2展厅。古罗马庞贝古城出土文物。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-02-04 至 2026-10-11\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:158d95e84d56ce1a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:158d95e84d56ce1a@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20261009
 SUMMARY:李静训和她的时代
@@ -49,8 +49,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:李静训墓出土文物特展，隋代少女墓葬精美文物。南6南7展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-04-03 至 2026-10-08\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:59d7654dbd770ca1@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:59d7654dbd770ca1@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20270101
 SUMMARY:“红楼探园”展
@@ -58,8 +58,8 @@ LOCATION:中国园林博物馆
 DESCRIPTION:园博馆年度重磅大展，100余件套展品呈现红楼与园林文化，二号主题展厅，适合亲子品读古典园林。\n地点: 中国园林博物馆\n时间: 2026-04-21 至 2026-12-31\n详情: https://www.gardensmuseum.cn/web/bgkb_content?id=6d998dcf-14ca-45bd-9b18-83ffe15af1dc
 END:VEVENT
 BEGIN:VEVENT
-UID:60733d5be5c125c3@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:60733d5be5c125c3@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260817
 SUMMARY:星辰足迹——月背之约航天主题展
@@ -67,8 +67,8 @@ LOCATION:中国科学技术馆
 DESCRIPTION:2026中国航天日重磅科普展，采用珍贵航天实物+大空间VR沉浸式体验双模式。\n地点: 中国科学技术馆\n时间: 2026-04-24 至 2026-08-16\n详情: https://www.cstm.org.cn/cgzn/dqzl/zzrz/art/2026/art_54971cdc575c4e5b81338bc1554ea4c4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0cca596b5d573b3d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:0cca596b5d573b3d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260829
 SUMMARY:从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展
@@ -76,8 +76,8 @@ LOCATION:中国美术馆
 DESCRIPTION:36件意大利文艺复兴杰作，达·芬奇、米开朗基罗、拉斐尔三杰代表作首次齐聚中国。全价票120元，优惠票60元。地铁8号线中国美术馆站。\n地点: 中国美术馆\n时间: 2026-04-28 至 2026-08-28\n详情: https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:f102d4856097d623@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f102d4856097d623@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20261012
 SUMMARY:霸王龙T-REX——恐龙之王特展
@@ -85,8 +85,8 @@ LOCATION:国家自然博物馆
 DESCRIPTION:完整暴龙化石中国大陆首展，百余件珍贵展品化石占比超85%，一层临展厅，亲子恐龙迷必看。\n地点: 国家自然博物馆\n时间: 2026-04-28 至 2026-10-11\n详情: https://www.nnhm.org.cn/xw/zbgg/4028c1089e04111e019e06b1436a006c.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:b2455e87ff1b8300@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b2455e87ff1b8300@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260829
 SUMMARY:致敬巨匠：从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展
@@ -94,8 +94,8 @@ LOCATION:中国美术馆
 DESCRIPTION:36幅15-17世纪意大利艺术名作，一层3、5、7号厅，适合亲子启蒙西方艺术史，需实名预约。\n地点: 中国美术馆\n时间: 2026-04-28 至 2026-08-28\n详情: https://www.namoc.cn/namoc/zxyy/gryy.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:3b6c5e80e80c81da@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:3b6c5e80e80c81da@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20270101
 SUMMARY:“北海菊韵”传统插花雅集
@@ -103,8 +103,8 @@ LOCATION:北海公园
 DESCRIPTION:将北海菊文化引入案头清供的东方美学雅集，适合亲子体验传统插花，购公园门票入园。\n地点: 北海公园\n时间: 2026-04-30 至 2026-12-31\n详情: https://www.beihaipark.com.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:e8d615bed901039a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e8d615bed901039a@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20261008
 SUMMARY:疆壤益广开郡县——战国秦汉时期的云南
@@ -112,8 +112,17 @@ LOCATION:北京大运河博物馆
 DESCRIPTION:首博东馆云南历史文化展，主楼一层1、2号展厅，汇聚400余件文物，适合亲子了解西南边疆历史。\n地点: 北京大运河博物馆\n时间: 2026-05-15 至 2026-10-07\n详情: https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed
 END:VEVENT
 BEGIN:VEVENT
-UID:3198184e0dae6da2@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:99e823796d535c62@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20261008
+SUMMARY:战国秦汉时期的云南文物展
+LOCATION:北京大运河博物馆
+DESCRIPTION:系统呈现古滇国为代表的西南夷各族青铜文化，三大篇章讲述西南边疆融入华夏的历史进程。\n地点: 北京大运河博物馆\n时间: 2026-05-15 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:3198184e0dae6da2@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20261101
 SUMMARY:追光逐影——银幕中的汽车主题展
@@ -121,8 +130,8 @@ LOCATION:北京汽车博物馆
 DESCRIPTION:汽车与电影跨界融合主题展，二层展区，含《车轮滚滚》等16毫米胶片，适合亲子汽车迷。\n地点: 北京汽车博物馆\n时间: 2026-05-16 至 2026-10-31\n详情: https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:476ec5be701ea8b8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:476ec5be701ea8b8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20261019
 SUMMARY:玉米·黄金·美洲豹——玛雅与安第斯古代文明大展
@@ -130,8 +139,8 @@ LOCATION:首都博物馆
 DESCRIPTION:约800件文物串联美洲3000余年历史，设NFC手环互动解密。\n地点: 首都博物馆\n时间: 2026-05-18 至 2026-10-18\n详情: https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260518_4655125.html
 END:VEVENT
 BEGIN:VEVENT
-UID:50f35ff104c36f70@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:50f35ff104c36f70@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20261019
 SUMMARY:玉米·黄金·美洲豹——玛雅与安第斯文明大展
@@ -139,8 +148,8 @@ LOCATION:首都博物馆
 DESCRIPTION:首博建馆最大规模特展，约800件文物跨越3000年，A/B/M展厅及公共空间，适合亲子探秘美洲文明。\n地点: 首都博物馆\n时间: 2026-05-18 至 2026-10-18\n详情: https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed
 END:VEVENT
 BEGIN:VEVENT
-UID:4abb3812ed068362@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4abb3812ed068362@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20270101
 SUMMARY:“乾隆的审美”展
@@ -148,8 +157,8 @@ LOCATION:北京艺术博物馆（万寿寺）
 DESCRIPTION:以乾隆宫廷文物为核心展现古代审美，万寿寺大禅堂小禅堂影堂，适合亲子感受传统文化，购门票。\n地点: 北京艺术博物馆（万寿寺）\n时间: 2026-05-18 至 2026-12-31\n详情: https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:44a63f9a1f8f07f6@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:44a63f9a1f8f07f6@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260816
 SUMMARY:墨韵文脉——八大山人与17世纪以来中国写意艺术展
@@ -157,8 +166,8 @@ LOCATION:中国美术馆
 DESCRIPTION:系统梳理17世纪以来写意文脉，扬州八怪到齐白石黄宾虹。免费参观。地铁8号线中国美术馆站。\n地点: 中国美术馆\n时间: 2026-05-20 至 2026-08-15\n详情: https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:75be5bf626f755ea@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:75be5bf626f755ea@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260901
 SUMMARY:“童画恭王府”——恭王府博物馆青少年美育成果展
@@ -166,8 +175,17 @@ LOCATION:恭王府博物馆
 DESCRIPTION:汇集北京市30余所学校近500名小艺术家180余幅作品，适合亲子美育观赏，购博物馆门票入园。\n地点: 恭王府博物馆\n时间: 2026-05-26 至 2026-08-31\n详情: https://www.mct.gov.cn/whzx/zsdw/whbgwfglzx/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:a22708aba0b1a912@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:75c14f050b74823e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20270101
+SUMMARY:周恩来邓颖超与孩子们专题展
+LOCATION:中国妇女儿童博物馆
+DESCRIPTION:大量历史图片生动讲述周恩来邓颖超与孩子们之间的感人故事。\n地点: 中国妇女儿童博物馆\n时间: 2026-05-26 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a22708aba0b1a912@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20270101
 SUMMARY:心游万仞——蒲松龄与《聊斋志异》
@@ -175,8 +193,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:蒲松龄与聊斋志异文化展。北1展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-05-28 至 2026-12-31\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:83ddc8e890396b57@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:83ddc8e890396b57@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20270101
 SUMMARY:看·见——中国国家博物馆藏海外中国图像展
@@ -184,8 +202,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:精选约300件套海外中国图像展品，以时间为轴通过远观、凝视、识见三个单元铺展。北8展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-05-30 至 2026-12-31\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:1c452ca8d6b4a684@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1c452ca8d6b4a684@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260824
 SUMMARY:植物庞贝城——乌达二叠纪化石精品展
@@ -193,8 +211,8 @@ LOCATION:北京自然博物馆
 DESCRIPTION:二叠纪植物化石精品展，展示3亿年前的植物世界。\n地点: 北京自然博物馆\n时间: 2026-06-05 至 2026-08-23\n详情: https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html
 END:VEVENT
 BEGIN:VEVENT
-UID:29777850dbaf615f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:29777850dbaf615f@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260910
 SUMMARY:行·迹——卡塔尔游牧生活与文化展
@@ -202,8 +220,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:国内首次系统性呈现卡塔尔游牧生活的专题展览，约150件组实物及摄影作品。南3展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-06-09 至 2026-09-09\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:e06fed8f02a92d12@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e06fed8f02a92d12@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20270101
 SUMMARY:恐龙公园：龙口脱险
@@ -211,8 +229,8 @@ LOCATION:国家自然博物馆
 DESCRIPTION:国内首个中国本土恐龙主题沉浸式展览，2026年6月9日正式开放，适合亲子互动体验恐龙世界。\n地点: 国家自然博物馆\n时间: 2026-06-09 至 2026-12-31\n详情: https://www.nnhm.org.cn/zljs/lszl/list.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:70c72dffed6de3d8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:70c72dffed6de3d8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20261012
 SUMMARY:巴西魂——波尔蒂纳里艺术展
@@ -220,8 +238,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:巴西现代艺术大师坎迪多·波尔蒂纳里56件原作与沉浸式数字体验。南4展厅。地铁1号线天安门东站。\n地点: 中国国家博物馆\n时间: 2026-06-10 至 2026-10-11\n详情: https://www.chnmuseum.cn/zl/
 END:VEVENT
 BEGIN:VEVENT
-UID:14e133cfe2bf00fa@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:14e133cfe2bf00fa@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260914
 SUMMARY:吉金耀山川——鄂尔多斯青铜文化展
@@ -229,8 +247,26 @@ LOCATION:北京大运河博物馆（首都博物馆东馆）
 DESCRIPTION:鄂尔多斯青铜器展，11、12号展厅。北方草原文化代表性器物。地铁6号线北运河东站。\n地点: 北京大运河博物馆（首都博物馆东馆）\n时间: 2026-06-16 至 2026-09-13\n详情: http://m.toutiao.com/group/7657883354057998848/
 END:VEVENT
 BEGIN:VEVENT
-UID:79804d0e6bcfc22f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:09f33fddac01c021@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260914
+SUMMARY:鄂尔多斯青铜文化展
+LOCATION:北京大运河博物馆
+DESCRIPTION:340余件鄂尔多斯式青铜器首次在京集中展出，讲述北方草原青铜文化发展历程。\n地点: 北京大运河博物馆\n时间: 2026-06-16 至 2026-09-13
+END:VEVENT
+BEGIN:VEVENT
+UID:30e4327236ff49c0@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260801
+SUMMARY:百合千年雅韵主题展
+LOCATION:中国农业博物馆
+DESCRIPTION:系统梳理百合从野生植物到全球重要花卉的发展历程。\n地点: 中国农业博物馆\n时间: 2026-06-19 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:79804d0e6bcfc22f@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20270101
 SUMMARY:第十九届“良辰美景·恭王府非遗演出季”
@@ -238,8 +274,26 @@ LOCATION:恭王府博物馆
 DESCRIPTION:恭王府博物馆年度非遗演出季，昆曲等传统雅集亮相，适合亲子感受非遗魅力，购博物馆门票入园。\n地点: 恭王府博物馆\n时间: 2026-06-22 至 2026-12-31\n详情: https://www.mct.gov.cn/whzx/zsdw/whbgwfglzx/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:00d1812236f20f54@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9b6fa4d44ec56be1@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20270101
+SUMMARY:汪菊渊学术思想展
+LOCATION:中国园林博物馆
+DESCRIPTION:300余件展品展示汪菊渊先生生平成就与园林学科发展历程。\n地点: 中国园林博物馆\n时间: 2026-06-22 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:03ef120736bd804c@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20270101
+SUMMARY:荣光之路建党文物史料展
+LOCATION:中国共产党早期革命活动纪念馆
+DESCRIPTION:105件套珍贵革命文物串联起北京孕育、上海制造、南湖启航的建党完整历程。\n地点: 中国共产党早期革命活动纪念馆\n时间: 2026-06-25 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:00d1812236f20f54@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20270101
 SUMMARY:花染风华 共叙文脉——天坛双展迎盛夏
@@ -247,8 +301,8 @@ LOCATION:天坛公园
 DESCRIPTION:天坛公园夏日文化双展，结合世界遗产日科普，适合亲子感受祭坛文化与古建之美，购公园门票入园。\n地点: 天坛公园\n时间: 2026-06-30 至 2026-12-31\n详情: https://gygl.beijing.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:7ced2c03db67f596@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7ced2c03db67f596@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270104
 SUMMARY:哦吼！火星——火星探测与未来生活体验展
@@ -256,8 +310,8 @@ LOCATION:北京天文馆
 DESCRIPTION:火星陨石实物、搭建火星城互动、星际航线规划等展项，暑假连续开放56天不闭馆。\n地点: 北京天文馆\n时间: 2026-07-01 至 2027-01-03\n详情: https://www.bjp.org.cn/xwzx/gndt/4028c1369f0fdaad019f120e1f860036.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:fd0dc264e75d0239@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:fd0dc264e75d0239@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动
@@ -265,8 +319,8 @@ LOCATION:首都图书馆
 DESCRIPTION:近380场暑期文化活动，含少儿阅读、名家讲坛、摩西奶奶田园画展等。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.xinhuanet.com/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2d0491469d3a92cc@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2d0491469d3a92cc@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国科技馆暑期科学实验秀
@@ -274,8 +328,8 @@ LOCATION:中国科学技术馆
 DESCRIPTION:暑期新增科学实验秀和小小工程师动手课程，每天多场次开放，需提前在官方公众号预约。傅科摆、火箭发射模型、月球漫步体验等互动展项开放。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.cstm.cdstm.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:2f4e28feb42903c9@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2f4e28feb42903c9@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国科技馆夜场开放
@@ -283,8 +337,8 @@ LOCATION:中国科学技术馆
 DESCRIPTION:周五和周六延长开放至20:00，夜场人少清净，可独享机器人钢琴演奏、无人机编队表演，球幕影院最后一场通常有座。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.cstm.cdstm.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:51e4e162cfa62e54@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:51e4e162cfa62e54@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京天文馆暑期夜场
@@ -292,8 +346,8 @@ LOCATION:北京天文馆
 DESCRIPTION:暑期夜场开放，可在球幕影院躺在地上看《宇宙之旅》，23米直径球幕营造沉浸式星空体验，古代星空与现代宇宙对话主题讲解。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjp.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:4741916f8025826a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4741916f8025826a@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国妇女儿童博物馆暑期展览
@@ -301,8 +355,8 @@ LOCATION:中国妇女儿童博物馆
 DESCRIPTION:国家一级博物馆，馆藏近3万件藏品，常设展览分妇女和儿童两大主题，有虚拟现实、互动体验等沉浸式展陈，免费免预约。\n地点: 中国妇女儿童博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.cwm.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:eddd99eae86e34b5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:eddd99eae86e34b5@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国消防博物馆暑期安全教育
@@ -310,8 +364,8 @@ LOCATION:中国消防博物馆
 DESCRIPTION:国家防火防灾教育基地，展示消防历史和现代消防技术，可体验模拟灭火等互动项目，适合亲子安全教育，免费参观。\n地点: 中国消防博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.cfm.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:6b406fbe10ba312c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6b406fbe10ba312c@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国古动物馆暑期恐龙探秘
@@ -319,8 +373,8 @@ LOCATION:中国古动物馆
 DESCRIPTION:恐龙迷和古生物控的天堂，亿年前化石寻宝任务卡、免费时段讲解，可画恐龙小本子，适合低龄亲子体验，收费参观。\n地点: 中国古动物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.paleozoo.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:0659a2f2a984fc07@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:0659a2f2a984fc07@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国园林博物馆暑期体验
@@ -328,8 +382,8 @@ LOCATION:中国园林博物馆
 DESCRIPTION:中国第一座以园林为主题的国家级博物馆，含室内展园与室外展区，展示中国园林悠久历史和艺术魅力，暑期举办古琴文化展等活动。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.gardenmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:7222b31f8a003f08@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7222b31f8a003f08@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:首都图书馆暑期活动
@@ -337,8 +391,8 @@ LOCATION:首都图书馆
 DESCRIPTION:暑期公益讲座、少儿阅读活动、电影放映等系列活动，提供丰富的文化体验和学习机会，适合各年龄段读者。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.clcn.net.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:8d76f33ec599aab5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8d76f33ec599aab5@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:国家图书馆暑期少儿活动
@@ -346,8 +400,8 @@ LOCATION:国家图书馆少年儿童馆
 DESCRIPTION:暑期少儿阅读推广活动，包含绘本故事会、科普讲座、手工制作等，在国家图书馆少儿馆区域举办，免费参与。\n地点: 国家图书馆少年儿童馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.nlc.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:038777be2d249a92@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:038777be2d249a92@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20261001
 SUMMARY:北京海洋馆智慧海洋·生存大师季
@@ -355,8 +409,8 @@ LOCATION:北京海洋馆
 DESCRIPTION:暑期专属探秘活动，手持专属《海洋观察员手册》，沉浸式解锁海洋生物生存奥秘，完成趣味打卡任务可收获限定专属印章。\n地点: 北京海洋馆\n时间: 2026-07-01 至 2026-09-30\n详情: https://www.bjhy.com
 END:VEVENT
 BEGIN:VEVENT
-UID:cd37a982073e363e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:cd37a982073e363e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国国家博物馆暑期展览
@@ -364,8 +418,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:暑期展出'古代中国'等常设展览，四羊方尊、司母戊鼎、金缕玉衣等国宝级文物必看。适合亲子家庭设计寻宝任务，让孩子在探索中学习历史文化。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chnmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:ff8ed5088fed8293@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ff8ed5088fed8293@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京动物园暑期活动
@@ -373,8 +427,8 @@ LOCATION:北京动物园
 DESCRIPTION:暑期推出熊猫馆探秘、动物科普讲座、小小饲养员体验等活动。熊猫馆是流量担当，奥运熊猫馆住着'萌大''萌二'，亚运熊猫馆住着'萌兰'（西直门三太子）。\n地点: 北京动物园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjzoo.com
 END:VEVENT
 BEGIN:VEVENT
-UID:829c4ac1c02f643d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:829c4ac1c02f643d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:天坛公园暑期亲子研学
@@ -382,8 +436,8 @@ LOCATION:天坛公园
 DESCRIPTION:暑期推出祈年殿讲解、回音壁声学体验、古代建筑知识科普等亲子研学活动，让孩子们了解中国古代建筑和祭祀文化。\n地点: 天坛公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.tiantanpark.com
 END:VEVENT
 BEGIN:VEVENT
-UID:51836555d4242d3d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:51836555d4242d3d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:颐和园暑期活动
@@ -391,8 +445,8 @@ LOCATION:颐和园
 DESCRIPTION:暑期推出长廊讲解、昆明湖游船、古代园林知识科普等活动，孩子可以在石舫附近参与画扇面体验，感受皇家园林的魅力。\n地点: 颐和园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.summerpalace-china.com
 END:VEVENT
 BEGIN:VEVENT
-UID:ffd721fca62268eb@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ffd721fca62268eb@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:圆明园考古·少年行
@@ -400,8 +454,8 @@ LOCATION:圆明园
 DESCRIPTION:暑期推出模拟考古发掘活动，让孩子们体验考古工作，了解圆明园的历史变迁，参观西洋楼遗址（大水法），接受爱国主义教育。\n地点: 圆明园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.yuanmingyuanpark.com
 END:VEVENT
 BEGIN:VEVENT
-UID:d8875e8dd19634f2@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:d8875e8dd19634f2@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国科技馆暑期科学实验营
@@ -409,8 +463,8 @@ LOCATION:中国科技馆
 DESCRIPTION:暑期推出科学实验营活动，包括机器人编程、太空模拟、力学实验等，馆内设有'科学乐园''探索与发现''科技与生活''挑战与未来'四大主题展厅。\n地点: 中国科技馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.cstm.net.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:306a8c650d04508e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:306a8c650d04508e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:国家自然博物馆暑期展览
@@ -418,8 +472,8 @@ LOCATION:国家自然博物馆
 DESCRIPTION:暑期推出恐龙化石展、古生物演化展等科普展览，通过丰富的化石标本和互动展示，让孩子们了解地球生命的演化历程。\n地点: 国家自然博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.nmnh.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:835a575d7d0ae77f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:835a575d7d0ae77f@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:首都博物馆暑期展览
@@ -427,8 +481,8 @@ LOCATION:首都博物馆
 DESCRIPTION:暑期推出北京历史文化展览、文物精品展等，通过丰富的展品展示北京的历史变迁和文化传承，适合亲子家庭参观学习。\n地点: 首都博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.capitalmuseum.org
 END:VEVENT
 BEGIN:VEVENT
-UID:47c47c2184ac2c6b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:47c47c2184ac2c6b@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京环球度假区暑期活动
@@ -436,8 +490,8 @@ LOCATION:北京环球度假区
 DESCRIPTION:暑期推出主题巡游、夜间烟花秀、特别演出等活动，涵盖哈利波特、变形金刚、功夫熊猫等多个热门IP，为游客打造沉浸式体验。\n地点: 北京环球度假区\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.universalbeijing.com
 END:VEVENT
 BEGIN:VEVENT
-UID:c5a484e0bdc95b16@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c5a484e0bdc95b16@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京欢乐谷暑期活动
@@ -445,8 +499,8 @@ LOCATION:北京欢乐谷
 DESCRIPTION:暑期推出玛雅海滩水公园、夜场灯光秀、主题活动等，适合亲子家庭消暑游玩，体验刺激的游乐设施。\n地点: 北京欢乐谷\n时间: 2026-07-01 至 2026-08-31\n详情: https://bj.happyvalley.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:af1b9239bcbc7159@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:af1b9239bcbc7159@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京自然博物馆恐龙探秘之旅
@@ -454,8 +508,8 @@ LOCATION:北京自然博物馆
 DESCRIPTION:恐龙化石展览、恐龙模型互动、古生物学家讲座。\n地点: 北京自然博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bmnh.org.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:96d3842736e97438@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:96d3842736e97438@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京动物园熊猫科学探秘
@@ -463,8 +517,8 @@ LOCATION:北京动物园
 DESCRIPTION:熊猫馆参观、熊猫饲养员讲解、熊猫科学知识讲座。\n地点: 北京动物园\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.beijingzoo.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:5b2eb6e7626a2077@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5b2eb6e7626a2077@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270101
 SUMMARY:鄂尔多斯青铜器展
@@ -472,8 +526,8 @@ LOCATION:北京大运河博物馆
 DESCRIPTION:聚焦北方游牧民族青铜文明，见证中华文明多元一体格局，首博东馆举办，适合亲子与历史爱好者。\n地点: 北京大运河博物馆\n时间: 2026-07-01 至 2026-12-31\n详情: https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed
 END:VEVENT
 BEGIN:VEVENT
-UID:4be60bc6104643c1@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4be60bc6104643c1@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
 SUMMARY:国图讲坛2026年“非遗讲座月”
@@ -481,8 +535,8 @@ LOCATION:国家图书馆
 DESCRIPTION:七月非遗主题系列讲座于学津堂与典籍博物馆启德厅举办，适合亲子与传统文化爱好者免费参与。\n地点: 国家图书馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://www.nlc.cn/web/shouye/zuixinhuodong/index_1.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:cfed888facaea4a0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:cfed888facaea4a0@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:“奇趣书海 夏梦成荫”首都图书馆2026暑期系列文化活动
@@ -490,8 +544,8 @@ LOCATION:首都图书馆
 DESCRIPTION:近380场少儿阅读、名家讲坛、古卷匠心、视听美育活动，适合亲子家庭线上线下参与，免费。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.news.cn/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:6720688ba45b22a4@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6720688ba45b22a4@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270101
 SUMMARY:2026国家大剧院国际戏剧季
@@ -499,8 +553,8 @@ LOCATION:国家大剧院
 DESCRIPTION:汇集国内外名团名作的年度戏剧季，歌剧院与戏剧场多门类演出，适合亲子艺术启蒙，需购票。\n地点: 国家大剧院\n时间: 2026-07-01 至 2026-12-31\n详情: https://subject03.chncpa.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:8cacbf9a5546eab0@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8cacbf9a5546eab0@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:儿童科学乐园与航天科普实验
@@ -508,8 +562,8 @@ LOCATION:中国科学技术馆
 DESCRIPTION:儿童科学乐园（3-8岁软包区）、航天科普实验、机器人互动、地质矿石手工。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://cstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:e3317ffca95d96c7@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:e3317ffca95d96c7@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:文物拓印DIY与古代历史亲子寻宝
@@ -517,8 +571,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:文物拓印DIY、古代历史亲子寻宝、国宝文物公益讲解、少儿历史绘画活动。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chnmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:f4e39ffb25d11acc@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f4e39ffb25d11acc@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:非遗剪纸皮影手工与少儿合唱公益课
@@ -526,8 +580,8 @@ LOCATION:北京数字文化馆
 DESCRIPTION:非遗剪纸/皮影手工、少儿合唱公益课、露天惠民亲子演出、国风研学。\n地点: 北京数字文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjqunyi.com
 END:VEVENT
 BEGIN:VEVENT
-UID:5920a65dc25f3ecb@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5920a65dc25f3ecb@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:星空穹顶科普课与陨石标本观察
@@ -535,8 +589,8 @@ LOCATION:北京天文馆
 DESCRIPTION:星空穹顶科普课、陨石标本观察、宇宙主题手工、航天知识竞赛。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjp.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:7783f9fd31bc9490@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7783f9fd31bc9490@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:低龄绘本共读与暑期自然研学
@@ -544,8 +598,8 @@ LOCATION:朝阳区图书馆
 DESCRIPTION:低龄绘本共读、暑期自然研学、少儿编程公益体验、诗词手工课。\n地点: 朝阳区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.cylib.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:c3979e19b182d5d8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c3979e19b182d5d8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:工业风户外儿童乐园与非遗亲子市集
@@ -553,8 +607,8 @@ LOCATION:首钢园·六工汇
 DESCRIPTION:工业风户外儿童乐园、周末非遗亲子市集、露天公益音乐会、工业遗址免费导览、少儿露天电影。\n地点: 首钢园·六工汇\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=首钢园
 END:VEVENT
 BEGIN:VEVENT
-UID:2278f9f2c434b2aa@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2278f9f2c434b2aa@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:四季植物科普与鸟类观察公益课
@@ -562,8 +616,8 @@ LOCATION:奥林匹克森林公园
 DESCRIPTION:四季植物科普、鸟类观察公益课、亲子徒步、草坪风筝活动、免费儿童游乐区。\n地点: 奥林匹克森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=奥森公园
 END:VEVENT
 BEGIN:VEVENT
-UID:2e49a5b08a88a405@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2e49a5b08a88a405@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:大运河文化公益展与非遗手工体验
@@ -571,8 +625,8 @@ LOCATION:通州运河文化广场
 DESCRIPTION:大运河文化公益展、非遗手工体验、露天少儿文艺汇演、滨河无动力游乐区。\n地点: 通州运河文化广场\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京通州文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6a268b0cfff91895@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6a268b0cfff91895@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:阅读绘本与暑期研学
@@ -580,8 +634,8 @@ LOCATION:首都图书馆
 DESCRIPTION:阅读绘本、暑期研学、手工公益课。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.clcn.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:8f08373583084a3f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8f08373583084a3f@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:绘本共读与诗词手工
@@ -589,8 +643,8 @@ LOCATION:东城区图书馆
 DESCRIPTION:绘本共读、诗词手工、科普实验。\n地点: 东城区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.dclib.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:21fa75df42602eac@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:21fa75df42602eac@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:亲子阅读与少儿书画
@@ -598,8 +652,8 @@ LOCATION:西城区图书馆
 DESCRIPTION:亲子阅读、少儿书画、故事剧场。\n地点: 西城区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.xclib.org
 END:VEVENT
 BEGIN:VEVENT
-UID:1103f2d342f9ebd5@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1103f2d342f9ebd5@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:亲子阅读与自然研学
@@ -607,8 +661,8 @@ LOCATION:朝阳区图书馆
 DESCRIPTION:亲子阅读、自然研学、编程体验。\n地点: 朝阳区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.cylib.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:9d8ad8e3ff685d34@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9d8ad8e3ff685d34@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:科学工坊与外文绘本
@@ -616,8 +670,8 @@ LOCATION:海淀区图书馆
 DESCRIPTION:科学工坊、外文绘本、国学课堂。\n地点: 海淀区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.hdlib.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:2a730ce0d9e4982a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2a730ce0d9e4982a@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:节气手工与亲子观影
@@ -625,8 +679,8 @@ LOCATION:丰台区图书馆
 DESCRIPTION:节气手工、亲子观影、红色阅读。\n地点: 丰台区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=丰台图书馆
 END:VEVENT
 BEGIN:VEVENT
-UID:f202e7bdb78c8b04@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f202e7bdb78c8b04@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:工业科普与绘本剧
@@ -634,8 +688,8 @@ LOCATION:石景山区图书馆
 DESCRIPTION:工业科普、绘本剧、自然观察。\n地点: 石景山区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=石景山图书馆
 END:VEVENT
 BEGIN:VEVENT
-UID:ad1561caff851f20@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ad1561caff851f20@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:大运河文化与亲子风筝手工
@@ -643,8 +697,8 @@ LOCATION:通州区图书馆
 DESCRIPTION:大运河文化、亲子风筝手工。\n地点: 通州区图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=通州图书馆
 END:VEVENT
 BEGIN:VEVENT
-UID:551104689767f997@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:551104689767f997@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:文物拓印与历史寻宝
@@ -652,8 +706,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:文物拓印、历史寻宝、国宝讲解。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chnmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:66def0a86cc09daa@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:66def0a86cc09daa@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:儿童科学乐园与航天实验
@@ -661,8 +715,8 @@ LOCATION:中国科学技术馆
 DESCRIPTION:儿童科学乐园、航天实验、矿石手工。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://cstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:f1ce811d30678ffa@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f1ce811d30678ffa@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京手工与文物临摹
@@ -670,8 +724,8 @@ LOCATION:首都博物馆
 DESCRIPTION:北京手工、文物临摹。\n地点: 首都博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.capitalmuseum.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:668b61ecba6657e8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:668b61ecba6657e8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:古生物标本与化石DIY
@@ -679,8 +733,8 @@ LOCATION:北京自然博物馆
 DESCRIPTION:古生物标本、化石DIY。\n地点: 北京自然博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjmnhm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:db860ebd87f80513@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:db860ebd87f80513@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:星空穹顶与陨石观察
@@ -688,8 +742,8 @@ LOCATION:北京天文馆
 DESCRIPTION:星空穹顶、陨石观察、宇宙手工。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjp.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:37804ed2579e7817@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:37804ed2579e7817@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:考古探秘与文物修复体验
@@ -697,8 +751,8 @@ LOCATION:中国考古博物馆
 DESCRIPTION:考古探秘、文物修复体验。\n地点: 中国考古博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.kaogubowuguan.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:f789cdf04b658311@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f789cdf04b658311@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:儿童乐园与绘本故事会
@@ -706,8 +760,8 @@ LOCATION:中国妇女儿童博物馆
 DESCRIPTION:儿童乐园、绘本故事会、手工课堂。\n地点: 中国妇女儿童博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.cwnmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:3514070e74296399@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:3514070e74296399@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:力学装置与科创实验
@@ -715,8 +769,8 @@ LOCATION:北京科学中心
 DESCRIPTION:力学装置、科创实验、儿童沙池。\n地点: 北京科学中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjsc.net.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:c2f85dc40ece0e8b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c2f85dc40ece0e8b@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:园林科普与植物手工
@@ -724,8 +778,8 @@ LOCATION:中国园林博物馆
 DESCRIPTION:园林科普、喂鱼、植物手工、古建搭建。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.yuanlinmuseum.com
 END:VEVENT
 BEGIN:VEVENT
-UID:da9029abbc1cd07c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:da9029abbc1cd07c@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:古建模型与斗拱手工
@@ -733,8 +787,8 @@ LOCATION:北京古代建筑博物馆
 DESCRIPTION:古建模型、斗拱手工、建筑科普。\n地点: 北京古代建筑博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: http://www.bjgjz.com.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:452c139f91f078f8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:452c139f91f078f8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:矿石标本与地质科普
@@ -742,8 +796,8 @@ LOCATION:中国地质博物馆
 DESCRIPTION:矿石标本、地质科普、岩石彩绘。\n地点: 中国地质博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.gm.cgs.gov.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:9c3bef084bb79118@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9c3bef084bb79118@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:汽车模型手工与机械科普
@@ -751,8 +805,8 @@ LOCATION:北京汽车博物馆
 DESCRIPTION:汽车模型手工、机械科普、赛车体验。\n地点: 北京汽车博物馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京汽车博物馆
 END:VEVENT
 BEGIN:VEVENT
-UID:eeaab0ad6e4275dd@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:eeaab0ad6e4275dd@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:城市手绘与北京历史导览
@@ -760,8 +814,8 @@ LOCATION:北京规划展览馆
 DESCRIPTION:城市手绘、北京历史导览。\n地点: 北京规划展览馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京规划展览馆
 END:VEVENT
 BEGIN:VEVENT
-UID:2fd9dfac8411a6de@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2fd9dfac8411a6de@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:消防模拟与逃生演练
@@ -769,8 +823,8 @@ LOCATION:北京消防科普教育基地
 DESCRIPTION:消防模拟、逃生演练、安全手工。\n地点: 北京消防科普教育基地\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=应急管理
 END:VEVENT
 BEGIN:VEVENT
-UID:355bf927c70e446d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:355bf927c70e446d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:免费美术舞蹈科创公益课
@@ -778,8 +832,8 @@ LOCATION:北京市少年宫
 DESCRIPTION:免费美术、舞蹈、科创公益课。\n地点: 北京市少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京市少年宫
 END:VEVENT
 BEGIN:VEVENT
-UID:8015cb0d1af6a71d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8015cb0d1af6a71d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:非遗与户外研学
@@ -787,8 +841,8 @@ LOCATION:北京市青少年活动中心
 DESCRIPTION:非遗、户外研学、少儿汇演。\n地点: 北京市青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京青少年活动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:31b34a91a0204def@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:31b34a91a0204def@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:绘画乐器体能免费体验
@@ -796,8 +850,8 @@ LOCATION:朝阳区青少年活动中心
 DESCRIPTION:绘画、乐器、体能免费体验。\n地点: 朝阳区青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳青少年活动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:75d454cad6289f94@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:75d454cad6289f94@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:编程机器人国风手工
@@ -805,8 +859,8 @@ LOCATION:海淀区青少年活动中心
 DESCRIPTION:编程、机器人、国风手工。\n地点: 海淀区青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=海淀青少年活动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:f9d1d90524d99a53@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f9d1d90524d99a53@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:自然科普与陶艺
@@ -814,8 +868,8 @@ LOCATION:丰台区青少年宫
 DESCRIPTION:自然科普、陶艺、少儿合唱。\n地点: 丰台区青少年宫\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=丰台青少年宫
 END:VEVENT
 BEGIN:VEVENT
-UID:546dd1afcbe0ad69@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:546dd1afcbe0ad69@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:大运河研学与风筝手工
@@ -823,8 +877,8 @@ LOCATION:通州区青少年活动中心
 DESCRIPTION:大运河研学、风筝手工、民乐体验。\n地点: 通州区青少年活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=通州青少年活动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:8ed6820a7cf52f4e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8ed6820a7cf52f4e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:皮影与剪纸
@@ -832,8 +886,8 @@ LOCATION:东城区文化馆
 DESCRIPTION:皮影、剪纸、少儿惠民演出。\n地点: 东城区文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=东城文化馆
 END:VEVENT
 BEGIN:VEVENT
-UID:64af9329a98323ae@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:64af9329a98323ae@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:非遗市集与国风绘画
@@ -841,8 +895,8 @@ LOCATION:西城区文化馆
 DESCRIPTION:非遗市集、国风绘画、亲子舞台剧。\n地点: 西城区文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=西城文化馆
 END:VEVENT
 BEGIN:VEVENT
-UID:eecd383f7fe49a88@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:eecd383f7fe49a88@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:街头艺术与手工市集
@@ -850,8 +904,8 @@ LOCATION:朝阳区文化馆
 DESCRIPTION:街头艺术、手工市集、公益音乐会。\n地点: 朝阳区文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳文化馆
 END:VEVENT
 BEGIN:VEVENT
-UID:b6daf3e775551905@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b6daf3e775551905@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:非遗活动与免费艺术培训
@@ -859,8 +913,8 @@ LOCATION:北京市文化馆
 DESCRIPTION:非遗活动、免费艺术培训、露天演出。\n地点: 北京市文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.bjqunyi.com
 END:VEVENT
 BEGIN:VEVENT
-UID:c3ff650801b8cf09@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c3ff650801b8cf09@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:亲子球类与体能公益课
@@ -868,8 +922,8 @@ LOCATION:朝阳体育中心
 DESCRIPTION:亲子球类、体能公益课、趣味运动会。\n地点: 朝阳体育中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳体育
 END:VEVENT
 BEGIN:VEVENT
-UID:7339a4c97a192e18@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:7339a4c97a192e18@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:轮滑与乒乓球免费体验
@@ -877,8 +931,8 @@ LOCATION:海淀体育中心
 DESCRIPTION:轮滑、乒乓球免费体验、亲子徒步。\n地点: 海淀体育中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=海淀体育
 END:VEVENT
 BEGIN:VEVENT
-UID:97ffa4e5fea2abfb@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:97ffa4e5fea2abfb@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:滨河亲子运动与户外健身课堂
@@ -886,8 +940,8 @@ LOCATION:通州体育中心
 DESCRIPTION:滨河亲子运动、户外健身课堂。\n地点: 通州体育中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=通州体育
 END:VEVENT
 BEGIN:VEVENT
-UID:b70f597f82054233@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b70f597f82054233@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:儿童活动区与绘本公益课
@@ -895,8 +949,8 @@ LOCATION:太阳宫市民活动中心
 DESCRIPTION:儿童活动区、手工、绘本公益课。\n地点: 太阳宫市民活动中心\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=活动网
 END:VEVENT
 BEGIN:VEVENT
-UID:889e0fb3f737f1dd@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:889e0fb3f737f1dd@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:工业儿童乐园与非遗市集
@@ -904,8 +958,8 @@ LOCATION:首钢园·六工汇
 DESCRIPTION:工业儿童乐园、非遗市集、露天音乐会、工业导览、露天电影。\n地点: 首钢园·六工汇\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=首钢园
 END:VEVENT
 BEGIN:VEVENT
-UID:48d4582d82512ced@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:48d4582d82512ced@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:四季植物课与观鸟
@@ -913,8 +967,8 @@ LOCATION:奥林匹克森林公园
 DESCRIPTION:四季植物课、观鸟、徒步、免费游乐区、风筝活动。\n地点: 奥林匹克森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=奥森公园
 END:VEVENT
 BEGIN:VEVENT
-UID:821273bc36adfb51@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:821273bc36adfb51@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:大运河展览与风筝
@@ -922,8 +976,8 @@ LOCATION:通州运河文化广场
 DESCRIPTION:大运河展览、风筝、非遗手工、滨河无动力乐园。\n地点: 通州运河文化广场\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京通州文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6f6f4ed0a14b1a85@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6f6f4ed0a14b1a85@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:超大草坪与森林徒步
@@ -931,8 +985,8 @@ LOCATION:温榆河公园
 DESCRIPTION:超大草坪、沙池、森林徒步、自然研学、露营野餐。\n地点: 温榆河公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=北京文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:d0ffb7ffc15a6871@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:d0ffb7ffc15a6871@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:免费球场与儿童沙坑
@@ -940,8 +994,8 @@ LOCATION:东小口森林公园
 DESCRIPTION:免费球场、儿童沙坑、森林步道、亲子骑行。\n地点: 东小口森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=什么值得买
 END:VEVENT
 BEGIN:VEVENT
-UID:b1494df4e700860d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:b1494df4e700860d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:草坪露营与节气市集
@@ -949,8 +1003,8 @@ LOCATION:大望京公园
 DESCRIPTION:草坪露营、儿童游乐区、露天朗读、节气市集。\n地点: 大望京公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=文旅平台
 END:VEVENT
 BEGIN:VEVENT
-UID:0db59f924afca085@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:0db59f924afca085@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:儿童艺术展与亲子手作
@@ -958,8 +1012,8 @@ LOCATION:三里屯太古里北区下沉广场
 DESCRIPTION:儿童艺术展、亲子手作、绘本朗读会。\n地点: 三里屯太古里北区下沉广场\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=太古里
 END:VEVENT
 BEGIN:VEVENT
-UID:85937bcee8f0c0ea@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:85937bcee8f0c0ea@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:河边写生与亲子骑行
@@ -967,8 +1021,8 @@ LOCATION:亮马河滨水步道
 DESCRIPTION:河边写生、露天小型演出、亲子骑行、自然观察。\n地点: 亮马河滨水步道\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6c80622e1cc017ac@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6c80622e1cc017ac@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:山林徒步与湿地科普
@@ -976,8 +1030,8 @@ LOCATION:永定河休闲森林公园
 DESCRIPTION:山林徒步、湿地科普、户外亲子游戏。\n地点: 永定河休闲森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=石景山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:a907cecc3ac2ef3b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:a907cecc3ac2ef3b@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:麋鹿科普与环湖步道
@@ -985,8 +1039,8 @@ LOCATION:南海子公园
 DESCRIPTION:麋鹿科普、环湖步道、儿童沙池、野餐露营。\n地点: 南海子公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=大兴文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:62819a628deedba8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:62819a628deedba8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:湖泊生态课与风筝
@@ -994,8 +1048,8 @@ LOCATION:念坛公园
 DESCRIPTION:湖泊生态课、风筝、骑行、免费游乐设施。\n地点: 念坛公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=大兴文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:dc7cda577cd5d734@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:dc7cda577cd5d734@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:森林研学与无动力乐园
@@ -1003,8 +1057,8 @@ LOCATION:城市绿心森林公园
 DESCRIPTION:森林研学、无动力乐园、露天电影、节气活动。\n地点: 城市绿心森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=通州文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:098b54a29ad8f106@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:098b54a29ad8f106@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:河道科普与沙池
@@ -1012,8 +1066,8 @@ LOCATION:沙河滨河公园
 DESCRIPTION:河道科普、沙池、亲子徒步、草坪市集。\n地点: 沙河滨河公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=昌平文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6e31576f1613947e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6e31576f1613947e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:儿童游乐区与花海写生
@@ -1021,8 +1075,8 @@ LOCATION:望和公园
 DESCRIPTION:儿童游乐区、花海写生、户外绘本分享。\n地点: 望和公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:6ef45ffa60afc300@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6ef45ffa60afc300@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:湿地鸟类观察与植物手工
@@ -1030,8 +1084,8 @@ LOCATION:马家湾湿地公园
 DESCRIPTION:湿地鸟类观察、植物手工、河边野餐。\n地点: 马家湾湿地公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:2feb79929951e27e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:2feb79929951e27e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:春日植物科普与湖边写生
@@ -1039,8 +1093,8 @@ LOCATION:玉渊潭公园
 DESCRIPTION:春日植物科普、湖边写生、儿童沙坑。\n地点: 玉渊潭公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=海淀文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:c367f4489b5a55a8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:c367f4489b5a55a8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:竹文化科普与划船
@@ -1048,8 +1102,8 @@ LOCATION:紫竹院公园
 DESCRIPTION:竹文化科普、划船、亲子徒步、书法公益课。\n地点: 紫竹院公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=海淀文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:4cad006f244deeff@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4cad006f244deeff@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:运河历史科普与湖边游乐区
@@ -1057,8 +1111,8 @@ LOCATION:西海子公园
 DESCRIPTION:运河历史科普、湖边游乐区、亲子写生。\n地点: 西海子公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=通州文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:ab8b992339e84f7d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ab8b992339e84f7d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:河滩沙池与自然研学
@@ -1066,8 +1120,8 @@ LOCATION:莲石湖公园
 DESCRIPTION:河滩沙池、自然研学、露天音乐会。\n地点: 莲石湖公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=石景山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:93d7412a971d439d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:93d7412a971d439d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:森林骑行与昆虫观察
@@ -1075,8 +1129,8 @@ LOCATION:亦庄滨河森林公园
 DESCRIPTION:森林骑行、昆虫观察、亲子露营、免费手工市集。\n地点: 亦庄滨河森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=亦庄文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:59141a8030ec2461@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:59141a8030ec2461@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:草坪游乐与户外亲子运动会
@@ -1084,8 +1138,8 @@ LOCATION:鸿博公园
 DESCRIPTION:草坪游乐、户外亲子运动会、植物辨识课。\n地点: 鸿博公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:94481a228df20c8e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:94481a228df20c8e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:森林徒步与风筝活动
@@ -1093,8 +1147,8 @@ LOCATION:老君堂公园
 DESCRIPTION:森林徒步、风筝活动、自然科普小课堂。\n地点: 老君堂公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=朝阳文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:0c8191ea838cb94b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:0c8191ea838cb94b@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:河滩玩水与观鸟
@@ -1102,8 +1156,8 @@ LOCATION:潮白河森林公园
 DESCRIPTION:河滩玩水、观鸟、徒步、亲子野餐。\n地点: 潮白河森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=顺义文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:ddd658256a6824b2@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ddd658256a6824b2@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:湖泊科普与儿童游乐区
@@ -1111,8 +1165,8 @@ LOCATION:顺义新城滨河森林公园
 DESCRIPTION:湖泊科普、儿童游乐区、周末公益市集。\n地点: 顺义新城滨河森林公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=顺义文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:38c84ec7ceac1ac8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:38c84ec7ceac1ac8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:湿地生态研学与荷花写生
@@ -1120,8 +1174,8 @@ LOCATION:长沟湿地公园
 DESCRIPTION:湿地生态研学、荷花写生、湖边沙池。\n地点: 长沟湿地公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=房山文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:409660c180d23ce4@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:409660c180d23ce4@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:无动力乐园与自然手工
@@ -1129,8 +1183,899 @@ LOCATION:云居城市休闲公园
 DESCRIPTION:无动力乐园、自然手工、露天少儿演出。\n地点: 云居城市休闲公园\n时间: 2026-07-01 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=丰台文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:05938bcd61d6f627@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f45dbf3b1dd83762@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260726
+SUMMARY:园丁养成记花园共建
+LOCATION:中国园林博物馆
+DESCRIPTION:邀请公众志愿者走进秘密花园，参与花园共建，学习园林生态知识与劳动技能。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:c258a1b074f3e899@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:片石山房自然手工工坊
+LOCATION:中国园林博物馆
+DESCRIPTION:依托园林中的自然生态知识与物候特征，开展沉浸式科普互动与科普展示。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:88fab84821e6f460@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:园博读书慧
+LOCATION:中国园林博物馆
+DESCRIPTION:围绕园林文化、古籍文献、造园技艺等主题，开展晚间读书分享、文化交流活动。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4cba153cfae1c4@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:像素花园拼豆艺术创作
+LOCATION:中国园林博物馆
+DESCRIPTION:当园林邂逅缤纷拼豆，创意与自然科普的碰撞，构建知识学习、艺术创作、情感交流于一体的教育平台。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:726b1e2922035cad@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:非遗掐丝珐琅体验
+LOCATION:中国园林博物馆
+DESCRIPTION:将中国传统园林艺术与珐琅等非遗手工艺相结合，让观众在园林诗意空间中感悟非遗技艺的精湛。\n地点: 中国园林博物馆\n时间: 2026-07-01 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb5a7c99b0f8251@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:科学体验营AI创意奇妙之旅
+LOCATION:中国科学技术馆
+DESCRIPTION:结合'数字中国'主题，通过'展品讲解+游馆打卡+实践体验'的方式，培养青少年创新思维与实践能力。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:592ebbcb64171adc@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:京华飞羽鸟类专题展
+LOCATION:中国科学技术馆
+DESCRIPTION:设置'城市睦邻''湿地精灵''山林居民''和合共生'四大展区，普及生物多样性知识，传播生态文明理念。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:74f6ba4fd4e61312@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:观象授时主题活动
+LOCATION:中国科学技术馆
+DESCRIPTION:7月聚焦天文，每周设置'观象授时''古代仪象''日影妙用'等分主题活动。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a60841e0d674b2@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:音乐剧甪端
+LOCATION:故宫博物院
+DESCRIPTION:故宫首部大型沉浸式家庭音乐剧，以故宫馆藏文物为原型，围绕文物传承主题展开故事，结合裸眼3D、AR技术、全息投影等前沿科技手段。\n地点: 故宫博物院\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:97158631e1027bb1@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260817
+SUMMARY:酷爽夏日主题活动
+LOCATION:北京环球度假区
+DESCRIPTION:夏季标志性主题活动，包含哈利·波特的魔法世界、变形金刚基地等七大主题景区的特色活动。\n地点: 北京环球度假区\n时间: 2026-07-01 至 2026-08-16
+END:VEVENT
+BEGIN:VEVENT
+UID:08c87d2fff9fee89@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:6D沉浸式恐龙展
+LOCATION:国家自然博物馆
+DESCRIPTION:国内首个以中国本土恐龙为主题的6D沉浸式恐龙展，集结20余种中国本土恐龙，打造可走入、可感知的白垩纪秘境。\n地点: 国家自然博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:78a386f6fed98cde@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:奇趣书海夏梦成荫
+LOCATION:首都图书馆
+DESCRIPTION:近380场融合少儿阅读、名家讲坛、古卷匠心、视听美育四大板块的文化活动。\n地点: 首都图书馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:522b527cab979b47@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:打开艺术之门夏令营
+LOCATION:北京音乐厅
+DESCRIPTION:47场儿童专属演出、七大艺术研学营，湖笔制作、景泰蓝点蓝等非遗体验营常态化开课。\n地点: 北京音乐厅\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:debde52724e9ac15@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:非遗手作体验
+LOCATION:珐琅厂
+DESCRIPTION:盛锡福、四联美发、珐琅厂等老字号开放夏日体验专场，推出'非遗手作+成品带走'套餐。\n地点: 珐琅厂\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec95f81307b625f@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:版本馆研学活动
+LOCATION:中国国家版本馆
+DESCRIPTION:开放周末研学活动预约通道，专业讲解引导下开启沉浸式文化探索之旅，参观版本工艺展、斯文在兹展及版本琳琅展区。\n地点: 中国国家版本馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8d216fafea868af8@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:荣光之路文物展
+LOCATION:中国共产党早期北京革命活动纪念馆
+DESCRIPTION:'荣光之路——中国共产党的创建文物史料展'正在展出，通过105件套珍贵历史文物和文献档案，贯通呈现中国共产党确立初心、开天辟地、铸就伟业的荣光之路。\n地点: 中国共产党早期北京革命活动纪念馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:66bfa1b5cfcb3e97@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:历史中国鼎铸文明
+LOCATION:中国考古博物馆
+DESCRIPTION:基本陈列包括'文明起源''宅兹中国''大国一统''和融万方''民族觉醒'五个专题，集中展示五千多年中华文明与统一多民族国家形成和发展的历史。\n地点: 中国考古博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4beb0844af9c7d52@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:大眼京摩天轮
+LOCATION:北京欢乐谷
+DESCRIPTION:全新地标'大眼京'摩天轮正式运行，总高约99米，配备恒温轿厢与VIP主题空间，可饱览城市美景。\n地点: 北京欢乐谷\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:240a7bc65058ead8@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:龙潭中湖摩天轮之夜
+LOCATION:龙潭中湖公园
+DESCRIPTION:整合文创市集、闲置交换、非正式音乐会与露天放映等周末主题活动，构筑集观光、购物、演艺、社交于一体的消费闭环。\n地点: 龙潭中湖公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0096a59c85baee93@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:越野奇兵户外探险
+LOCATION:昌平区玖耀里
+DESCRIPTION:涵盖射击、定向寻宝等户外探险主题活动。\n地点: 昌平区玖耀里\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f80d1eda7f7c96ee@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:微风露台文化活动
+LOCATION:魏公芳华里
+DESCRIPTION:登上露台远眺中轴线风光，品咖啡、听音乐、参与露天手作市集。\n地点: 魏公芳华里\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:88fdde2c0cb432e1@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京天文馆暑期观测
+LOCATION:北京天文馆
+DESCRIPTION:暑期星空观测活动，通过专业天文望远镜观测太阳黑子、月球环形山等天体。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:acf644fdf8c6b8be@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京自然博物馆夜宿
+LOCATION:北京自然博物馆
+DESCRIPTION:夜间在博物馆内露营，体验恐龙化石展厅的奇妙夜。\n地点: 北京自然博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f7cf9d5695f59d91@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京植物园自然课堂
+LOCATION:北京植物园
+DESCRIPTION:每周六日举办自然课堂，植物识别、昆虫观察、生态保护等主题活动。\n地点: 北京植物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc142ef708fa731@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:寻迹非遗暑期传统工艺研学营
+LOCATION:万寿寺博物馆
+DESCRIPTION:包含大漆挂饰、洪福齐天泥板壁画、解暑合香、金榜题名宋锦礼盒制作等非遗课程。\n地点: 万寿寺博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:27cbbbc4f9b95ef7@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:大美星空四季星空认星课堂
+LOCATION:北京天文馆
+DESCRIPTION:沉浸式体验全国各地壮美星空，天文科普专家现场带你认识四季星空。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:668d77eeb8fcf716@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:故宫藏古代颜色釉瓷器展
+LOCATION:北京大运河博物馆
+DESCRIPTION:112件中国古代颜色釉瓷器精品，青红黄白黑五大色釉体系全面展示。\n地点: 北京大运河博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4857d3d2d04bdc3c@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:不止运河沉浸式体验展
+LOCATION:北京大运河博物馆
+DESCRIPTION:光影互动空间，动态呈现大运河两岸繁盛景象，让历史文化变得鲜活可感。\n地点: 北京大运河博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e81ca5cda7f9f204@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:壁彩京华壁画彩塑数字光影展
+LOCATION:中国工艺美术馆
+DESCRIPTION:首都壁画彩塑数字光影艺术巡展，数字化呈现古代壁画彩塑艺术。\n地点: 中国工艺美术馆\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a0afca6a8b81fb49@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:赶考讲堂系列讲座
+LOCATION:香山革命纪念馆
+DESCRIPTION:7-8月每周1场，邀请知名专家学者进行香山革命历史和文物保护专题授课。\n地点: 香山革命纪念馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6374738c6e97902e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:百年巨匠专题展
+LOCATION:中国国家博物馆
+DESCRIPTION:聚焦二十世纪教科文卫体各领域100位大师巨匠，350余件展品六大篇章。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f023abbf883b3a95@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:古人类进化史展
+LOCATION:中国国家博物馆
+DESCRIPTION:220余件组文物，全面讲述人类从猿到人的百万年活动历程。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f347ce4da5b512cf@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:德化白瓷展
+LOCATION:中国国家博物馆
+DESCRIPTION:400余件组德化白瓷展品，何朝宗款观音像等传世精品齐聚。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6ddea8f9c771a951@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:故宫丝路联合考古展
+LOCATION:故宫博物院神武门展厅
+DESCRIPTION:唐三彩小海神角杯陶胡人俑座灯与中亚金牌费尔干纳石雕汇聚一堂。\n地点: 故宫博物院神武门展厅\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:83b7e8f410c31fd8@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京欢乐谷暑期狂欢节
+LOCATION:北京欢乐谷
+DESCRIPTION:暑期狂欢节，过山车等百余项游乐设施，夜场烟花秀，夏日狂欢好去处。\n地点: 北京欢乐谷\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:00c287865c5ad9ee@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京环球影城暑期活动
+LOCATION:北京环球影城
+DESCRIPTION:七大主题园区，哈利波特变形金刚功夫熊猫等，暑期特别活动与演出。\n地点: 北京环球影城\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:32f0ae98f90a4866@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京野生动物园暑期游
+LOCATION:北京野生动物园
+DESCRIPTION:自驾区猛兽体验步行区萌宠互动，暑期动物科普活动与动物见面会。\n地点: 北京野生动物园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:04195d710b4ef044@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京海洋馆探秘
+LOCATION:北京海洋馆
+DESCRIPTION:世界最大内陆海洋馆，海豚海狮表演，海底隧道，暑期海洋科普夏令营。\n地点: 北京海洋馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5810ec58689fff03@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:中国科学技术馆暑期活动
+LOCATION:中国科学技术馆
+DESCRIPTION:科学乐园主展厅球幕影院，暑期推出科学表演科普实验小课堂等特别活动。\n地点: 中国科学技术馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2a26b21e7c2f0546@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京自然博物馆恐龙展
+LOCATION:北京自然博物馆
+DESCRIPTION:恐龙公园古哺乳动物古爬行动物等展厅，暑期化石挖掘体验活动。\n地点: 北京自然博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:819e6a55ca565928@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京天文馆暑期星空
+LOCATION:北京天文馆
+DESCRIPTION:天象厅宇宙剧场，暑期天文夏令营，望远镜观测星空，陨石标本展。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:92a21a2f75f92ce8@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:国家动物博物馆
+LOCATION:国家动物博物馆
+DESCRIPTION:亚洲最大动物博物馆，濒危动物展蝴蝶展，暑期自然科普活动。\n地点: 国家动物博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:08d1453bef946260@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京汽车博物馆暑期
+LOCATION:北京汽车博物馆
+DESCRIPTION:汽车发展史展，互动体验项目，暑期汽车科技夏令营。\n地点: 北京汽车博物馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b4831cb18d9c74b6@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:世界公园环球风情游
+LOCATION:世界公园
+DESCRIPTION:世界著名建筑微缩景观，暑期各国文化展演，夜景灯光秀。\n地点: 世界公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:80945b04ea99fe36@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京欢乐谷玛雅狂欢节
+LOCATION:北京欢乐谷
+DESCRIPTION:玛雅主题狂欢节，水上狂欢派对，玛雅文化展演，夜场电音秀。\n地点: 北京欢乐谷\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4b209162eff3e966@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:石景山游乐园夏日狂欢
+LOCATION:石景山游乐园
+DESCRIPTION:摩天轮过山车等游乐设施，暑期狂欢节夜场烟花表演。\n地点: 石景山游乐园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:56600d443dd1fa0d@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京动物园熊猫馆
+LOCATION:北京动物园
+DESCRIPTION:大熊猫萌兰等明星动物，暑期动物科普讲解，儿童动物园互动。\n地点: 北京动物园\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:d98ecdf46099413c@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北海公园荷花节
+LOCATION:北海公园
+DESCRIPTION:荷花节盛大启幕，荷花展游船赏荷，皇家园林夏日美景。\n地点: 北海公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c03546824a73d0@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:圆明园荷花季
+LOCATION:圆明园遗址公园
+DESCRIPTION:曲院风荷等景点荷花盛放，游船赏荷，荷花摄影大赛。\n地点: 圆明园遗址公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:539ebf726dceb596@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:颐和园昆明湖游船
+LOCATION:颐和园
+DESCRIPTION:昆明湖画舫龙船游船，暑期皇家园林深度游，长廊彩绘讲解。\n地点: 颐和园\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8a3cd6d42a6da2@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:居庸关长城研学营
+LOCATION:居庸关长城
+DESCRIPTION:长城历史文化研学，登长城体验，长城建筑知识科普。\n地点: 居庸关长城\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2aaed7e811f27f2e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:明十三陵探秘
+LOCATION:明十三陵
+DESCRIPTION:定陵地宫长陵祾恩殿，明代历史文化研学，暑期特别讲解活动。\n地点: 明十三陵\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c703f335e00b8d26@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:周口店北京人遗址
+LOCATION:周口店北京人遗址博物馆
+DESCRIPTION:北京人遗址探秘，古人类化石展，考古体验活动。\n地点: 周口店北京人遗址博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:649f318c35203123@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:北京植物园暑期赏花
+LOCATION:北京植物园
+DESCRIPTION:热带植物馆温室，卧佛寺，夏季花卉展，植物科普活动。\n地点: 北京植物园\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:6f6883401b79514d@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:什刹海游船消夏
+LOCATION:什刹海
+DESCRIPTION:什刹海游船体验，胡同游览，后海酒吧街，夏日夜游好去处。\n地点: 什刹海\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:1a3fa18ab9ed07a0@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:南锣鼓巷胡同文化
+LOCATION:南锣鼓巷
+DESCRIPTION:北京最古老的街区之一，胡同四合院文化，文创小店美食。\n地点: 南锣鼓巷\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9ceb2bf9a0365c@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:798艺术区参观
+LOCATION:798艺术区
+DESCRIPTION:当代艺术聚集地，画廊展览创意小店，文艺青年打卡地。\n地点: 798艺术区\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e999b1bd29bf50cb@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:蓝色港湾暑期活动
+LOCATION:蓝色港湾
+DESCRIPTION:夏日灯光节，儿童游乐，音乐喷泉，亲子购物休闲。\n地点: 蓝色港湾\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a6cc2f6376772151@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京杜莎夫人蜡像馆
+LOCATION:北京杜莎夫人蜡像馆
+DESCRIPTION:前门大街杜莎夫人蜡像馆，明星名人蜡像，互动体验拍照。\n地点: 北京杜莎夫人蜡像馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:defb56e35b3e6424@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国国家博物馆古代中国
+LOCATION:中国国家博物馆
+DESCRIPTION:古代中国基本陈列，从远古到明清，中华文明发展历程。\n地点: 中国国家博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:33af825a4bb70005@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京规划展览馆
+LOCATION:北京市规划展览馆
+DESCRIPTION:北京城市规划展览，巨大城市模型，了解北京发展变迁。\n地点: 北京市规划展览馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:48a8cf941b41d679@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:首都博物馆
+LOCATION:首都博物馆
+DESCRIPTION:北京历史文化展，佛像瓷器玉器青铜器，临时特展不断。\n地点: 首都博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc659d1241bd88e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国人民革命军事博物馆
+LOCATION:中国人民革命军事博物馆
+DESCRIPTION:军事武器装备展，飞机坦克导弹，国防教育基地。\n地点: 中国人民革命军事博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:254a2a9665272b48@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国航空博物馆
+LOCATION:中国航空博物馆
+DESCRIPTION:亚洲最大航空博物馆，数百架飞机，航空科普教育。\n地点: 中国航空博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:aa37f2b9fe570b1e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:北京天文馆球幕影院
+LOCATION:北京天文馆
+DESCRIPTION:宇宙剧场球幕电影，星空科普，暑期天文电影展映。\n地点: 北京天文馆\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:25e5000121aae5f5@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:古北水镇一日游
+LOCATION:古北水镇
+DESCRIPTION:司马台长城脚下的江南水乡，夜游长城，温泉度假。\n地点: 古北水镇\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:d6865233e4bf18c3@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261101
+SUMMARY:慕田峪长城暑期游
+LOCATION:慕田峪长城
+DESCRIPTION:长城秀美风光，缆车滑道，暑期长城研学活动。\n地点: 慕田峪长城\n时间: 2026-07-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ab735e74501b7100@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:八达岭长城夜游
+LOCATION:八达岭长城
+DESCRIPTION:八达岭长城夜游活动，灯光璀璨，别样长城体验。\n地点: 八达岭长城\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:72eca66a104a9ea4@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:龙庆峡暑期避暑
+LOCATION:龙庆峡
+DESCRIPTION:北京小桂林，游船避暑，山水风光，清凉一夏。\n地点: 龙庆峡\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:3cea540012915b10@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:十渡山水漂流
+LOCATION:十渡风景区
+DESCRIPTION:拒马河漂流，蹦极玻璃栈道，山水风光，夏日清凉。\n地点: 十渡风景区\n时间: 2026-07-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:4496c0123a213fb3@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:恭王府博物馆
+LOCATION:恭王府博物馆
+DESCRIPTION:清代规模最大的一座王府，和珅故居，一座恭王府半部清朝史。\n地点: 恭王府博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:325794ef5ee4b095@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:雍和宫祈福
+LOCATION:雍和宫
+DESCRIPTION:北京最大的藏传佛教寺院，香火最旺的寺庙之一，祈福胜地。\n地点: 雍和宫\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc64979def7961e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:孔庙和国子监博物馆
+LOCATION:孔庙和国子监博物馆
+DESCRIPTION:元明清三代国家最高学府，孔子文化，古代科举制度展。\n地点: 孔庙和国子监博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a69e35f553247891@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京鲁迅博物馆
+LOCATION:北京鲁迅博物馆
+DESCRIPTION:鲁迅故居，鲁迅生平事迹展，新文化运动纪念。\n地点: 北京鲁迅博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:20a9017ad2e47788@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:宋庆龄同志故居
+LOCATION:宋庆龄同志故居
+DESCRIPTION:后海北沿，清代王府花园，宋庆龄生平事迹展。\n地点: 宋庆龄同志故居\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b127dfed8638c3bf@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:郭沫若纪念馆
+LOCATION:郭沫若纪念馆
+DESCRIPTION:前海西街，郭沫若故居，文学与史学成就展。\n地点: 郭沫若纪念馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:92d9b2dd004a7368@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:茅盾故居
+LOCATION:茅盾故居
+DESCRIPTION:后圆恩寺胡同，茅盾晚年居住地，文学大师故居。\n地点: 茅盾故居\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:86ccf29628c521ed@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:老舍纪念馆
+LOCATION:老舍纪念馆
+DESCRIPTION:丰富胡同丹柿小院，老舍故居，人民艺术家纪念。\n地点: 老舍纪念馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9c132b1d204505@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京画院美术馆
+LOCATION:北京画院美术馆
+DESCRIPTION:齐白石艺术陈列，北京画院藏品展，近现代书画。\n地点: 北京画院美术馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2975513f1e438f45@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国美术馆
+LOCATION:中国美术馆
+DESCRIPTION:国家级美术殿堂，近现代美术精品，各类特展轮番上演。\n地点: 中国美术馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:25cdb2ef0081acbf@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:今日美术馆
+LOCATION:今日美术馆
+DESCRIPTION:中国第一家民营公益性当代美术馆，当代艺术前沿。\n地点: 今日美术馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e3838b5b123ed070@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:红砖美术馆
+LOCATION:红砖美术馆
+DESCRIPTION:网红美术馆，红砖建筑艺术，园林景观，拍照打卡胜地。\n地点: 红砖美术馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0fa4c62ae8b21c6d@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:松美术馆
+LOCATION:松美术馆
+DESCRIPTION:白色建筑与松树相映，文艺气质满满，小众艺术空间。\n地点: 松美术馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4da58a682c881800@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国地质博物馆
+LOCATION:中国地质博物馆
+DESCRIPTION:亚洲历史最悠久的国家级地质博物馆，宝石恐龙化石矿物。\n地点: 中国地质博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:28af522a12a05b05@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国邮政邮票博物馆
+LOCATION:中国邮政邮票博物馆
+DESCRIPTION:中国邮票发展史，珍贵邮票收藏，集邮爱好者的天堂。\n地点: 中国邮政邮票博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbc5bfedf7dbe33@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:中国铁道博物馆正阳门馆
+LOCATION:中国铁道博物馆正阳门馆
+DESCRIPTION:中国铁路发展史，蒸汽机车到高铁，铁路科普教育。\n地点: 中国铁道博物馆正阳门馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:deeb7dbcb2cc0132@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京古观象台
+LOCATION:北京古观象台
+DESCRIPTION:明清两代皇家天文台，古代天文仪器，世界现存最古老天文台之一。\n地点: 北京古观象台\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ebe6260bcbafcd@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:智化寺古建音乐
+LOCATION:智化寺
+DESCRIPTION:明代古刹，京音乐非遗传承，智化寺梨花，古建筑艺术。\n地点: 智化寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5336230be22f98c9@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:大钟寺古钟博物馆
+LOCATION:大钟寺古钟博物馆
+DESCRIPTION:永乐大钟，古钟收藏，钟文化展，觉生寺古建筑。\n地点: 大钟寺古钟博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5d273115721c869e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:五塔寺石刻博物馆
+LOCATION:北京石刻艺术博物馆
+DESCRIPTION:真觉寺金刚宝座塔，北京石刻艺术，银杏秋天最美。\n地点: 北京石刻艺术博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0df6de0fb17ca54c@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:万寿寺北京艺术博物馆
+LOCATION:北京艺术博物馆
+DESCRIPTION:京西小故宫万寿寺，明清古建筑群，艺术收藏展。\n地点: 北京艺术博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:dabd0302b15991b6@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:白塔寺妙应寺
+LOCATION:妙应寺白塔
+DESCRIPTION:元代藏式佛塔，中国现存最早最大的藏式佛塔。\n地点: 妙应寺白塔\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ef99b94fd651a126@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:北京东岳庙
+LOCATION:北京民俗博物馆
+DESCRIPTION:道教正一道派，北京民俗博物馆，老北京民俗文化。\n地点: 北京民俗博物馆\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b5453099c75399e6@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:白云观道教
+LOCATION:白云观
+DESCRIPTION:道教全真派祖庭，中国道教协会所在地，道教文化圣地。\n地点: 白云观\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:75890d4bcb722cc6@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:牛街礼拜寺
+LOCATION:牛街礼拜寺
+DESCRIPTION:北京最古老最著名的清真寺，伊斯兰文化建筑。\n地点: 牛街礼拜寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:71d025360084c033@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:潭柘寺千年古刹
+LOCATION:潭柘寺
+DESCRIPTION:先有潭柘寺后有北京城，千年古刹，帝王树银杏树。\n地点: 潭柘寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:7eec63ce0cb7b850@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:戒台寺古松
+LOCATION:戒台寺
+DESCRIPTION:天下第一戒坛，千年古松，辽代佛教建筑。\n地点: 戒台寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:d2eb0dc8951a8083@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:云居寺石经山
+LOCATION:云居寺
+DESCRIPTION:北京敦煌，石经宝库，千年刻经史，佛教圣地。\n地点: 云居寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2abb8b53cbbe2aeb@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270101
+SUMMARY:红螺寺秋景
+LOCATION:红螺寺
+DESCRIPTION:京北第一古刹，红螺三绝，雌雄银杏，紫藤寄松。\n地点: 红螺寺\n时间: 2026-07-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:05938bcd61d6f627@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260730
 SUMMARY:大匠之道——熊松涛掐丝珐琅艺术展
@@ -1138,8 +2083,8 @@ LOCATION:中国美术馆
 DESCRIPTION:展示掐丝珐琅工艺之美，10号厅，适合亲子感受非遗技艺，免费需实名预约。\n地点: 中国美术馆\n时间: 2026-07-02 至 2026-07-29\n详情: https://www.namoc.cn/namoc/zhanlan/202607/ae217002b39649c793a20012f03cb3cc.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:8d9040a0713f599c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8d9040a0713f599c@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260901
 SUMMARY:八喜·打开艺术之门—2026暑期艺术节
@@ -1147,8 +2092,53 @@ LOCATION:中山公园音乐堂
 DESCRIPTION:第32届暑期艺术节，交响乐、民乐、儿童剧、戏曲、杂技等低票价惠民演出，适合亲子观演，需购票。\n地点: 中山公园音乐堂\n时间: 2026-07-03 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=MzA3NzU1Nzk2Mw==&mid=2649383165&idx=3&sn=4118db202184be69c2695a83fbb6d15f&chksm=8680ac68b3a6c622b4c82711bf5f0c974c05fafca57aaab0c12a08e10780f5c77ec3437ff14a
 END:VEVENT
 BEGIN:VEVENT
-UID:3968d389ceb8dd70@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:609c03a3289104ea@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:寻迹茅盾数字游园
+LOCATION:中国现代文学馆
+DESCRIPTION:到馆扫描活动二维码即可免费参与数字游园，完成任务后可领取馆藏文物《子夜》手稿参观纪念票。\n地点: 中国现代文学馆\n时间: 2026-07-04 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:009941a5ee7e76f3@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260727
+SUMMARY:自然笔记创作体验
+LOCATION:中国园林博物馆
+DESCRIPTION:科普老师带领游客对片石山房内的园林景观进行观察和学习，用绘画搭配文字记录的方式创作自然笔记。\n地点: 中国园林博物馆\n时间: 2026-07-04 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a006f804857264@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260719
+SUMMARY:童学赶考周末研学活动
+LOCATION:香山革命纪念馆
+DESCRIPTION:宣教员带领同学和家长利用教育读本，在基本陈列中身临其境感悟香山红色文化。\n地点: 香山革命纪念馆\n时间: 2026-07-04 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:93b25dd5a49b93bf@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20261012
+SUMMARY:我的机器人朋友探索展
+LOCATION:北京汽车博物馆
+DESCRIPTION:北京首次在文博场馆内推出的大型综合具身机器人科普特展，集结多款行业前沿机器人。\n地点: 北京汽车博物馆\n时间: 2026-07-04 至 2026-10-11
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ded72381187b2a@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20270705
+SUMMARY:茅盾诞辰130周年特展
+LOCATION:中国现代文学馆
+DESCRIPTION:纪念茅盾先生诞辰130周年特展，深切缅怀茅盾先生的卓越功勋与文学精神。\n地点: 中国现代文学馆\n时间: 2026-07-04 至 2027-07-04
+END:VEVENT
+BEGIN:VEVENT
+UID:3968d389ceb8dd70@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260720
 SUMMARY:话剧《杜甫》
@@ -1156,8 +2146,8 @@ LOCATION:首都剧场
 DESCRIPTION:北京人民艺术剧院话剧《杜甫》，郭启宏编剧，冯远征导演并主演。票价80-680元，学生票40元。地铁5号线/6号线东四站。\n地点: 首都剧场\n时间: 2026-07-06 至 2026-07-19\n详情: https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5c23208f62189d7a@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5c23208f62189d7a@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260831
 SUMMARY:中国电影博物馆2026年暑期错时开放
@@ -1165,8 +2155,8 @@ LOCATION:中国电影博物馆
 DESCRIPTION:暑期周一、三、四正常开放，周五至周日及节假日延时开放，适合亲子观影与电影文化体验，免费。\n地点: 中国电影博物馆\n时间: 2026-07-06 至 2026-08-30\n详情: http://www.cnfm.org.cn/2026-06/30/cms20382article.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:5f3111032a75a7f9@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:5f3111032a75a7f9@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260716
 SUMMARY:文心墨韵——中央文史研究馆成立75周年成果展
@@ -1174,8 +2164,8 @@ LOCATION:中国美术馆
 DESCRIPTION:呈现中央文史研究馆七十五载文史书画成果，适合书画爱好者与亲子观展，免费需预约。\n地点: 中国美术馆\n时间: 2026-07-07 至 2026-07-15\n详情: https://www.namoc.cn/namoc/zhanlan/zl_list.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:bca1b31938091752@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:bca1b31938091752@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20261012
 SUMMARY:苍穹记忆——南天门计划科幻科普主题展
@@ -1183,8 +2173,8 @@ LOCATION:中华世纪坛
 DESCRIPTION:中航环球航空科幻IP南天门计划，3000平方米沉浸式展区，1:1实体机甲战机，23处互动体验。早鸟票68元，原价108元。地铁1号线/9号线军事博物馆站。\n地点: 中华世纪坛\n时间: 2026-07-08 至 2026-10-11\n详情: https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:3b274a271db29845@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:3b274a271db29845@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260801
 SUMMARY:2026漫步经典系列音乐会
@@ -1192,8 +2182,8 @@ LOCATION:国家大剧院
 DESCRIPTION:国家大剧院漫步经典系列，柏林爱乐十二把大提琴开幕，多场高品质古典音乐会。音乐厅，票价80-880元。地铁1号线天安门西站。\n地点: 国家大剧院\n时间: 2026-07-08 至 2026-07-31\n详情: https://ticket.chncpa.org
 END:VEVENT
 BEGIN:VEVENT
-UID:140534802c5cfbc6@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:140534802c5cfbc6@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260901
 SUMMARY:快乐暑期，科海扬帆——北京科学中心暑期活动
@@ -1201,8 +2191,8 @@ LOCATION:北京科学中心
 DESCRIPTION:计划开展1175场形式多样的科普实践活动，涵盖科学体验、科学剧场、安全实训、国际交流等多个板块，为青少年搭建沉浸式科学学习平台。\n地点: 北京科学中心\n时间: 2026-07-08 至 2026-08-31\n详情: https://www.bjsc.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:f53259309eda4c84@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f53259309eda4c84@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260901
 SUMMARY:北科展教坊专题课程
@@ -1210,8 +2200,8 @@ LOCATION:北京科学中心
 DESCRIPTION:推出300余场专题课程及项目式学习营地活动，内容涵盖科学发展史、基础学科知识、人工智能技术应用及文创产品研发等领域。\n地点: 北京科学中心\n时间: 2026-07-08 至 2026-08-31\n详情: https://www.bjsc.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:487abde3d476c53c@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:487abde3d476c53c@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260901
 SUMMARY:北科剧院科学剧场
@@ -1219,8 +2209,8 @@ LOCATION:北京科学中心
 DESCRIPTION:创新打造'展览+课程+剧场'一体化科教场景，融合偶剧元素、实景互动和主题微展，将物理、化学、自然等基础学科知识融入剧情。\n地点: 北京科学中心\n时间: 2026-07-08 至 2026-08-31\n详情: https://www.bjsc.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:730d24d2b5c6cae2@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:730d24d2b5c6cae2@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260901
 SUMMARY:2026颐和园荷花文化节
@@ -1228,8 +2218,26 @@ LOCATION:颐和园
 DESCRIPTION:以“花开颐和 惠风荷畅”为主题，近25万平方米荷花观赏与园林文化活动，适合亲子夏日游园。\n地点: 颐和园\n时间: 2026-07-08 至 2026-08-31\n详情: https://www.summerpalace.net.cn/exhibition.html
 END:VEVENT
 BEGIN:VEVENT
-UID:b985d33ef4b549fa@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:de605de267d41fb0@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20261012
+SUMMARY:南天门计划科幻科普主题展
+LOCATION:中华世纪坛
+DESCRIPTION:以科幻筑梦航空报国为核心，串联神话想象、当下航空工业、未来空天蓝图。\n地点: 中华世纪坛\n时间: 2026-07-08 至 2026-10-11
+END:VEVENT
+BEGIN:VEVENT
+UID:f532726f552b7c86@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260901
+SUMMARY:红色经典影片展映
+LOCATION:香山革命纪念馆
+DESCRIPTION:纪念馆一层报告厅每日14:30播放红色经典影片，免预约观看。\n地点: 香山革命纪念馆\n时间: 2026-07-08 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:b985d33ef4b549fa@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20261207
 SUMMARY:归心一园——故宫乾隆花园沉浸式光影展
@@ -1237,8 +2245,8 @@ LOCATION:国家图书馆（国家典籍博物馆）
 DESCRIPTION:故宫博物院联合主办，首次以数字光影技术复原乾隆花园全域风貌。五境游园17处交互展项，每日10:30、14:00免费公益讲解。海淀区中关村南大街33号。地铁4号线国家图书馆站。\n地点: 国家图书馆（国家典籍博物馆）\n时间: 2026-07-09 至 2026-12-06\n详情: http://m.toutiao.com/group/7657970472113406473/
 END:VEVENT
 BEGIN:VEVENT
-UID:71ba826a5f5c5b31@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:71ba826a5f5c5b31@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260901
 SUMMARY:北京天文馆暑期星空探索营
@@ -1246,8 +2254,8 @@ LOCATION:北京天文馆
 DESCRIPTION:观测星空、制作星图、学习天文知识，适合6-12岁儿童及家长参与。\n地点: 北京天文馆\n时间: 2026-07-10 至 2026-08-31\n详情: https://www.bjp.org.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:8defc21f7ef8b0f2@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:8defc21f7ef8b0f2@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260728
 SUMMARY:话剧《罗密欧与朱丽叶》
@@ -1255,8 +2263,17 @@ LOCATION:北京国际戏剧中心·人艺小剧场
 DESCRIPTION:北京人艺小剧场话剧《罗密欧与朱丽叶》，莎士比亚经典，魏嘉诚导演。票价180-280元，学生票60元。地铁5号线/6号线东四站。\n地点: 北京国际戏剧中心·人艺小剧场\n时间: 2026-07-11 至 2026-07-27\n详情: https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:767e42f5cdcdc4f6@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:9a1317ae95f98b25@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260831
+SUMMARY:墨拓千年币修课传拓研学
+LOCATION:万寿寺博物馆
+DESCRIPTION:学习古老的传拓技艺，亲手触摸古代铜钱，把藏着古代故事和艺术的铜钱变到纸上。\n地点: 万寿寺博物馆\n时间: 2026-07-11 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:767e42f5cdcdc4f6@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260901
 SUMMARY:第三十一届圆明园荷花节暨“荷你有约”荷花主题中国画名家邀请展
@@ -1264,8 +2281,17 @@ LOCATION:圆明园
 DESCRIPTION:第三十一届荷花节配套名家画展，海棠书院展出，适合亲子夏日赏荷与文化体验，购公园门票入园。\n地点: 圆明园\n时间: 2026-07-12 至 2026-08-31\n详情: https://mp.weixin.qq.com/s?__biz=MjM5NDU4NTA2Mw==&mid=2687185633&idx=1&sn=b6a36a1eda2c02d5875041af6828e2be&chksm=82734e46c6ebbb34f7a7bd25f4455bb6a6f5fd515660f7db01eae437212baf9db9aeebca2c46
 END:VEVENT
 BEGIN:VEVENT
-UID:c5f530335fc5c97d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:1f6527cd843cf30e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260718
+SUMMARY:奇妙动物探索夏令营
+LOCATION:中国农业博物馆
+DESCRIPTION:课程根据昆虫→鱼类→两栖类→爬行类→鸟类循序渐进解锁知识，每天14:00-16:00在4号馆报告厅开展。\n地点: 中国农业博物馆\n时间: 2026-07-13 至 2026-07-17
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f530335fc5c97d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260831
 SUMMARY:故宫博物院暑期未成年人团队预约
@@ -1273,8 +2299,8 @@ LOCATION:故宫博物院
 DESCRIPTION:暑期推出未成年人团队快速预约通道，每日接待限200个团队。故宫是世界现存规模最大的明清皇家宫殿，太和殿的龙椅、屋脊上的小怪兽、御花园的古树，都是激发历史兴趣的绝佳素材。\n地点: 故宫博物院\n时间: 2026-07-14 至 2026-08-30\n详情: https://www.dpm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:f19618cfbd04a2fd@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f19618cfbd04a2fd@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270101
 SUMMARY:古代中国（基本陈列）
@@ -1282,8 +2308,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:国博常设通史陈列，北20-北25、南15-南20展厅，系统呈现中华文明，适合亲子研学。\n地点: 中国国家博物馆\n时间: 2026-07-14 至 2026-12-31\n详情: https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0d9488a6d160827f@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:0d9488a6d160827f@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国科学技术馆2026年暑期系列活动
@@ -1291,8 +2317,8 @@ LOCATION:中国科学技术馆
 DESCRIPTION:“人机协同 智创未来”等专题展览与科普教育活动，涵盖航天、AI、化学实验，适合亲子研学。\n地点: 中国科学技术馆\n时间: 2026-07-14 至 2026-08-31\n详情: https://www.cstm.org.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:dac96de141509a12@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:dac96de141509a12@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270101
 SUMMARY:“星际奇观：太阳系”VR大空间沉浸式展览
@@ -1300,8 +2326,8 @@ LOCATION:北京天文馆
 DESCRIPTION:天文馆科学家团队监制VR沉浸展，等比复刻航天重器与剧情化宇宙探索，适合亲子科幻体验，需购票。\n地点: 北京天文馆\n时间: 2026-07-14 至 2026-12-31\n详情: https://www.bjp.org.cn/twzl/tz/index.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:6be7e922830b82df@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:6be7e922830b82df@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270101
 SUMMARY:军事博物馆基本陈列（革命战争陈列等）
@@ -1309,8 +2335,8 @@ LOCATION:中国人民革命军事博物馆
 DESCRIPTION:国内首个综合类军事博物馆常设陈列，复兴路9号，免费提供公益讲解，适合亲子红色研学，需预约。\n地点: 中国人民革命军事博物馆\n时间: 2026-07-14 至 2026-12-31\n详情: http://www.jb.mil.cn/zxdt/202604/t20260428_60289.html
 END:VEVENT
 BEGIN:VEVENT
-UID:91eafa97a1182ed8@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:91eafa97a1182ed8@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270101
 SUMMARY:军博红色电影展映与军事互动社教活动
@@ -1318,8 +2344,8 @@ LOCATION:中国人民革命军事博物馆
 DESCRIPTION:节日期间每日开展红色电影展映、军事互动体验及社教活动，适合亲子参与，免费需公众号预约。\n地点: 中国人民革命军事博物馆\n时间: 2026-07-14 至 2026-12-31\n详情: http://www.jb.mil.cn/zxdt/202604/t20260428_60289.html
 END:VEVENT
 BEGIN:VEVENT
-UID:825e3a4ef689c380@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:825e3a4ef689c380@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270101
 SUMMARY:百年红楼历史文化展
@@ -1327,8 +2353,8 @@ LOCATION:北京鲁迅博物馆（北京新文化运动纪念馆）
 DESCRIPTION:北大红楼常设展，展现新文化运动和五四历史，五四大街29号，适合亲子爱国主义教育，免费需预约。\n地点: 北京鲁迅博物馆（北京新文化运动纪念馆）\n时间: 2026-07-14 至 2026-12-31\n详情: http://www.luxunmuseum.com.cn/beidahonglou/
 END:VEVENT
 BEGIN:VEVENT
-UID:ee6cfee8750e1ff6@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ee6cfee8750e1ff6@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270101
 SUMMARY:“用爱守护儿童生命安全教育展”（博物馆里过大年）
@@ -1336,8 +2362,8 @@ LOCATION:中国妇女儿童博物馆
 DESCRIPTION:以儿童生命安全为主题的教育展，适合亲子家庭学习安全知识，免费参观需预约。\n地点: 中国妇女儿童博物馆\n时间: 2026-07-14 至 2026-12-31\n详情: http://ccwm.china.com.cn/lz/node_511550.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:f3b7f812be9c5d7b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f3b7f812be9c5d7b@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260817
 SUMMARY:亚洲数字艺术展（人有人的用处）
@@ -1345,8 +2371,8 @@ LOCATION:三山五园文化艺术中心
 DESCRIPTION:汇集6国二十余件数字艺术作品，围绕AI与生命主题沉浸叙事，适合亲子科技艺术体验。\n地点: 三山五园文化艺术中心\n时间: 2026-07-14 至 2026-08-16\n详情: https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:63f2560700753f8e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:63f2560700753f8e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20270412
 SUMMARY:以丝造境：清华大学艺术博物馆藏织绣书画展
@@ -1354,8 +2380,35 @@ LOCATION:清华大学艺术博物馆
 DESCRIPTION:以馆藏织绣书画分五大单元呈现传统工艺之美，四层9号展厅，适合亲子与艺术爱好者，购校博门票。\n地点: 清华大学艺术博物馆\n时间: 2026-07-14 至 2027-04-11\n详情: https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cb15ab79598fc24d@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:533a30d3fc46025b@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20261101
+SUMMARY:故宫以东古建艺术季
+LOCATION:天坛神乐署
+DESCRIPTION:古建艺术季从7月持续至10月，涵盖古建汇演、艺术共创、文化市集四大板块。\n地点: 天坛神乐署\n时间: 2026-07-14 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:8e404820c752b1bf@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20261101
+SUMMARY:东四胡同彩画技艺体验
+LOCATION:东四胡同博物馆
+DESCRIPTION:面向亲子家庭开展古建彩画修复技艺体验，学习传统彩画工艺。\n地点: 东四胡同博物馆\n时间: 2026-07-14 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:a096f0ea9a6136c9@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20261101
+SUMMARY:老舍故居剧本交流活动
+LOCATION:老舍故居纪念馆
+DESCRIPTION:依托丹柿小院开展剧本交流与片段表演，推进名人故居活态利用。\n地点: 老舍故居纪念馆\n时间: 2026-07-14 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:cb15ab79598fc24d@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20261016
 SUMMARY:敦煌艺术大展——从藏经洞到数字敦煌
@@ -1363,8 +2416,8 @@ LOCATION:北京展览馆
 DESCRIPTION:汇集敦煌研究院珍贵文物，展示莫高窟壁画艺术，配有沉浸式数字体验。\n地点: 北京展览馆\n时间: 2026-07-15 至 2026-10-15\n详情: https://www.bjzl.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:f04fb7b5c144b905@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f04fb7b5c144b905@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260821
 SUMMARY:首都博物馆小小讲解员训练营
@@ -1372,8 +2425,17 @@ LOCATION:首都博物馆
 DESCRIPTION:培养孩子讲解能力，学习博物馆知识，参与展厅讲解实践。\n地点: 首都博物馆\n时间: 2026-07-15 至 2026-08-20\n详情: https://www.capitalmuseum.org.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:73024d8fd9785882@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f81ffaaad93d7ab5@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260726
+SUMMARY:竹外茶社文化雅集
+LOCATION:中国园林博物馆
+DESCRIPTION:围绕园林物候特征与节气节俗，通过夏日手工与艺术体验，开启沉浸式文化雅集。\n地点: 中国园林博物馆\n时间: 2026-07-15 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:73024d8fd9785882@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260901
 SUMMARY:国家博物馆奇妙夜——探秘古代文明
@@ -1381,8 +2443,8 @@ LOCATION:中国国家博物馆
 DESCRIPTION:夜宿博物馆，探索古代中国展厅，参与文物修复体验工作坊。\n地点: 中国国家博物馆\n时间: 2026-07-16 至 2026-08-31\n详情: https://www.chnmuseum.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:ece6e3e38189ea09@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:ece6e3e38189ea09@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260721
 SUMMARY:国家大剧院原创喜歌剧《三打白骨精》
@@ -1390,8 +2452,8 @@ LOCATION:国家大剧院
 DESCRIPTION:国家大剧院原创喜歌剧《三打白骨精》，取材西游记经典故事。戏剧场，票价100-500元。地铁1号线天安门西站。\n地点: 国家大剧院\n时间: 2026-07-17 至 2026-07-20\n详情: https://ticket.chncpa.org
 END:VEVENT
 BEGIN:VEVENT
-UID:47a2f41f458a1b9b@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:47a2f41f458a1b9b@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:文津阅新2026年第四期：《中国兵学二十讲》新书分享会
@@ -1399,8 +2461,8 @@ LOCATION:国家图书馆
 DESCRIPTION:总馆北区一层学津堂举办兵法主题新书分享，适合青少年与历史爱好者，免费参加。\n地点: 国家图书馆\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.nlc.cn/web/shouye/zuixinhuodong/20260624_2653491.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:90edb4a17362ddfb@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:90edb4a17362ddfb@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:中国典籍与文化系列讲座：丝绸之路上的“口袋书”
@@ -1408,8 +2470,53 @@ LOCATION:国家图书馆
 DESCRIPTION:典籍博物馆启德厅解读敦煌吐鲁番古代书籍，适合亲子与丝路文化爱好者，免费参与。\n地点: 国家图书馆\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.nlc.cn/web/shouye/zuixinhuodong/zlyg/index.shtml
 END:VEVENT
 BEGIN:VEVENT
-UID:074d5129477aa28e@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:4ed29dec45633843@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+SUMMARY:米小圈之银河系侦探社儿童剧
+LOCATION:五棵松爱乐汇艺术空间
+DESCRIPTION:国民IP改编舞台剧，米小圈携手姜小牙铁头组建银河系侦探社，奇幻冒险与逻辑推理融合。\n地点: 五棵松爱乐汇艺术空间\n时间: 2026-07-17 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:bbfd8533cbfe54fd@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:红楼探园十二讲
+LOCATION:中国园林博物馆
+DESCRIPTION:特邀专家开展'今天我们为什么还要读红楼梦'专题讲座，品读红楼经典，共赏文学与园林文化相融的东方雅韵。\n地点: 中国园林博物馆\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:cca3704b289226df@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260816
+SUMMARY:钢铁巨兽奇遇记铁道博物馆一日营
+LOCATION:中国铁道博物馆东郊展馆
+DESCRIPTION:跨越300年动力科技大冒险，参观蒸汽机车与复兴号模型，动手搭建列车模型。\n地点: 中国铁道博物馆东郊展馆\n时间: 2026-07-18 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:6d71995db31f2a3e@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:红楼探园十二讲园林文化讲座
+LOCATION:中国园林博物馆
+DESCRIPTION:特邀专家开展今天我们为什么还要读红楼梦专题讲座，品读红楼经典。\n地点: 中国园林博物馆\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ffb6eb122b2a2f@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:园林听书袁派红楼梦评书
+LOCATION:中国园林博物馆
+DESCRIPTION:袁派红楼梦评书搬进亭台叠石间，暑期夜场同步上线，吹着园林晚风解锁红楼世界。\n地点: 中国园林博物馆\n时间: 2026-07-18 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:074d5129477aa28e@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260826
 SUMMARY:中国科技馆科学之夜
@@ -1417,8 +2524,206 @@ LOCATION:中国科学技术馆
 DESCRIPTION:夜场开放，体验科学实验秀、机器人表演、沉浸式科学剧场。\n地点: 中国科学技术馆\n时间: 2026-07-20 至 2026-08-25\n详情: https://www.cstm.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:9471ae84955e98f4@shenzhen-exhibitions
-DTSTAMP:20260715T062539Z
+UID:f756d29cc80e4e50@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260725
+SUMMARY:小小化学家
+LOCATION:中国科学技术馆
+DESCRIPTION:沿用'电池的奥秘'经典实验课程，引导青少年通过制作原电池探索化学世界。\n地点: 中国科学技术馆\n时间: 2026-07-21 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:16798b9bf61c65bf@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260810
+SUMMARY:长安在哪里唐诗儿童剧
+LOCATION:五棵松爱乐汇艺术空间
+DESCRIPTION:唐诗遇上侦探推理，带领孩子穿越千年溯源盛唐长安，沉浸式感受大唐诗意文脉。\n地点: 五棵松爱乐汇艺术空间\n时间: 2026-07-31 至 2026-08-09
+END:VEVENT
+BEGIN:VEVENT
+UID:a18a233a1a72e1eb@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260901
+SUMMARY:古代兵器主题活动
+LOCATION:中国科学技术馆
+DESCRIPTION:8月以军事为主题，系统讲解古代兵器、战车、战船的发展历程，搭配自然观察智能活动。\n地点: 中国科学技术馆\n时间: 2026-08-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb2bdd4ab095c81@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:谜人的三星堆儿童剧
+LOCATION:北京大学百周年纪念讲堂
+DESCRIPTION:北京儿童艺术剧院出品，以广汉三星堆遗址为原点，采用'现实考古+奇幻想象'双线叙事，借儿童视角让古蜀文物'活'起来。\n地点: 北京大学百周年纪念讲堂\n时间: 2026-08-01 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:33b321c571831ff2@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260902
+SUMMARY:重返霍格沃茨返校季
+LOCATION:北京环球度假区
+DESCRIPTION:哈利·波特的魔法世界主题活动，园区餐饮、纪念品商店及酒店住宿同步推出限定套餐与主题周边。\n地点: 北京环球度假区\n时间: 2026-08-03 至 2026-09-01
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5006071a6f0852@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260824
+SUMMARY:大秦兵马俑甲骨文学校儿童剧
+LOCATION:五棵松爱乐汇艺术空间
+DESCRIPTION:聚焦秦汉历史文明，奇幻舞台剧情解锁兵马俑甲骨文背后的历史奥秘。\n地点: 五棵松爱乐汇艺术空间\n时间: 2026-08-12 至 2026-08-23
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2ebe0e5adb5eef@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261001
+SUMMARY:城垣听笛秋日城墙音乐会
+LOCATION:明城墙遗址公园
+DESCRIPTION:中央音乐学院笛子乐团在六百年青砖灰瓦间奏响民族管乐华章。\n地点: 明城墙遗址公园\n时间: 2026-09-01 至 2026-09-30
+END:VEVENT
+BEGIN:VEVENT
+UID:14ad607da0b30bc5@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20270101
+SUMMARY:澄古匠心黄花梨家具展
+LOCATION:中国国家博物馆
+DESCRIPTION:九十余件黄花梨紫檀家具作品，型艺材韵俱全，传统家具艺术大展。\n地点: 中国国家博物馆\n时间: 2026-09-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c00b1b48cd2028bd@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20270101
+SUMMARY:安溪历史文化展
+LOCATION:中国国家博物馆
+DESCRIPTION:160余件套展品，展示安溪历史文化艺术创造和民俗风情。\n地点: 中国国家博物馆\n时间: 2026-09-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6a6571e3fddfc3@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20270101
+SUMMARY:全国十大考古新发现展
+LOCATION:中国国家博物馆
+DESCRIPTION:43家文博考古机构近400件最新考古出土文物，四大板块讲述中华文明发展历程。\n地点: 中国国家博物馆\n时间: 2026-09-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6d341e953f24244c@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20270101
+SUMMARY:故宫茶文化特展
+LOCATION:故宫博物院午门展厅
+DESCRIPTION:茶从中国走向世界，茶起源于中国盛行于世界，以茶为媒交融互鉴。\n地点: 故宫博物院午门展厅\n时间: 2026-09-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:0f88ac5c8f37e640@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260914
+SUMMARY:看得见的敦煌壁画儿童剧
+LOCATION:五棵松爱乐汇艺术空间
+DESCRIPTION:丝路敦煌主题儿童剧，在壁画中感受敦煌之美与丝绸之路文化。\n地点: 五棵松爱乐汇艺术空间\n时间: 2026-09-04 至 2026-09-13
+END:VEVENT
+BEGIN:VEVENT
+UID:842d4c871431fbfd@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260916
+SUMMARY:服贸会机器人消费体验展
+LOCATION:首钢园
+DESCRIPTION:大都乐活机器人消费场景互动体验区，零售汽车服装四足仿生体育竞技六大板块。\n地点: 首钢园\n时间: 2026-09-09 至 2026-09-15
+END:VEVENT
+BEGIN:VEVENT
+UID:7674084e30a34267@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260916
+SUMMARY:京核无界杂技剧
+LOCATION:首钢园大跳台南广场
+DESCRIPTION:中国杂技团力作，硬核工业质感与先锋艺术美学的跨界碰撞。\n地点: 首钢园大跳台南广场\n时间: 2026-09-09 至 2026-09-15
+END:VEVENT
+BEGIN:VEVENT
+UID:72078a3ecf99c991@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20261008
+SUMMARY:中国国际糖果季
+LOCATION:首钢园
+DESCRIPTION:第二届中国国际糖果季，音乐演绎数字艺术潮流消费运动休闲创意市集多元业态。\n地点: 首钢园\n时间: 2026-09-09 至 2026-10-07
+END:VEVENT
+BEGIN:VEVENT
+UID:54819bfd342911c2@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260928
+SUMMARY:中秋诗词主题儿童剧
+LOCATION:五棵松爱乐汇艺术空间
+DESCRIPTION:中秋档期诗词主题儿童剧，在传统节日中感受诗词之美。\n地点: 五棵松爱乐汇艺术空间\n时间: 2026-09-24 至 2026-09-27
+END:VEVENT
+BEGIN:VEVENT
+UID:ec401eb2e78170af@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:变奏北京创意融合音乐会
+LOCATION:北京鼓楼
+DESCRIPTION:在北京鼓楼上演创意融合音乐会，观众可在不同空间连续观演。\n地点: 北京鼓楼\n时间: 2026-10-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4918559126ff347d@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:北京欢乐谷国潮狂欢节
+LOCATION:北京欢乐谷
+DESCRIPTION:国庆国潮主题活动，传统与现代碰撞，精彩演出不断。\n地点: 北京欢乐谷\n时间: 2026-10-01 至 2026-10-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6961bcada799f202@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261112
+SUMMARY:北京环球影城万圣节
+LOCATION:北京环球影城
+DESCRIPTION:万圣节特别活动，南瓜灯装饰，惊悚主题，环球大巡游。\n地点: 北京环球影城\n时间: 2026-10-01 至 2026-11-11
+END:VEVENT
+BEGIN:VEVENT
+UID:707ed689566ba0bb@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261116
+SUMMARY:北京植物园菊花展
+LOCATION:北京植物园
+DESCRIPTION:秋季菊花展，数百品种菊花争艳，秋日花景。\n地点: 北京植物园\n时间: 2026-10-01 至 2026-11-15
+END:VEVENT
+BEGIN:VEVENT
+UID:8ac3151440571132@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261116
+SUMMARY:香山红叶节
+LOCATION:香山公园
+DESCRIPTION:金秋十月香山红叶，漫山红遍，登高赏秋景。\n地点: 香山公园\n时间: 2026-10-15 至 2026-11-15
+END:VEVENT
+BEGIN:VEVENT
+UID:09a9bb1a6442c903@goout-beijing
+DTSTAMP:20260717T002530Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261112
+SUMMARY:北京欢乐谷万圣节
+LOCATION:北京欢乐谷
+DESCRIPTION:万圣节惊奇之旅，恐怖屋鬼屋，夜间巡游，变装派对。\n地点: 北京欢乐谷\n时间: 2026-10-15 至 2026-11-11
+END:VEVENT
+BEGIN:VEVENT
+UID:9471ae84955e98f4@goout-beijing
+DTSTAMP:20260717T002530Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270101
 SUMMARY:世界文明互鉴系列——莫斯科市博物馆茶文化展（万里茶道）

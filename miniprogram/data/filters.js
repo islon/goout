@@ -1,18 +1,18 @@
 // 童行小程序 - 筛选器配置
 // 从原网页 index.html 提取的所有映射表
 
-// 城市列表
+// 城市列表（顺序：北上广深杭 + 其余；默认城市为深圳，见 index.js / app.js 的 cityFilter 默认值）
 const cities = [
-  { key: 'shenzhen', name: '深圳' },
-  { key: 'guangzhou', name: '广州' },
-  { key: 'shanghai', name: '上海' },
   { key: 'beijing', name: '北京' },
+  { key: 'shanghai', name: '上海' },
+  { key: 'guangzhou', name: '广州' },
+  { key: 'shenzhen', name: '深圳' },
   { key: 'hangzhou', name: '杭州' },
   { key: 'chengdu', name: '成都' },
+  { key: 'chongqing', name: '重庆' },
   { key: 'nanjing', name: '南京' },
   { key: 'wuhan', name: '武汉' },
-  { key: 'xian', name: '西安' },
-  { key: 'chongqing', name: '重庆' }
+  { key: 'xian', name: '西安' }
 ];
 
 // 时间筛选

@@ -3,7 +3,7 @@
 
   <!-- 头部 -->
   <view class="about-header">
-    <view class="header-icon">📅</view>
+    <image class="header-icon" src="/assets/about-header.png" mode="aspectFit"></image>
     <view class="header-title">订阅日程</view>
     <view class="header-subtitle">将亲子活动同步到手机日历</view>
     <view class="header-tag">每日自动更新 · 无需手动操作</view>
@@ -11,12 +11,12 @@
 
   <!-- 方式一：微信内提醒 -->
   <view class="section">
-    <view class="section-title">🔔 方式一：微信提醒</view>
+    <view class="section-title">方式一：微信提醒</view>
     <view class="subscribe-tip">
       在活动详情页点击「提醒我」按钮，即可在活动开始前收到微信通知
     </view>
     <view class="remind-card">
-      <view class="remind-icon">🔔</view>
+      <image class="remind-icon" src="/assets/about-bell.png" mode="aspectFit"></image>
       <view class="remind-text">
         <view class="remind-title">微信订阅消息提醒</view>
         <view class="remind-desc">活动前1天自动推送提醒到微信，无需安装任何应用</view>
@@ -26,7 +26,7 @@
 
   <!-- 方式二：日历订阅 -->
   <view class="section">
-    <view class="section-title">📆 方式二：日历订阅</view>
+    <view class="section-title">方式二：日历订阅</view>
     <view class="subscribe-tip">
       复制对应城市的订阅链接，在手机日历 App 中添加为「订阅日历」
     </view>
@@ -34,7 +34,7 @@
     <!-- iOS 用户 -->
     <view class="platform-card">
       <view class="platform-header">
-        <text class="platform-icon">🍎</text>
+        <image class="platform-icon" src="/assets/about-phone.png" mode="aspectFit"></image>
         <text class="platform-name">iPhone / iPad 用户</text>
       </view>
       <view class="platform-steps">
@@ -48,7 +48,7 @@
     <!-- Android 用户 -->
     <view class="platform-card">
       <view class="platform-header">
-        <text class="platform-icon">🤖</text>
+        <image class="platform-icon" src="/assets/about-phone.png" mode="aspectFit"></image>
         <text class="platform-name">Android 用户</text>
       </view>
       <view class="platform-steps">
@@ -56,7 +56,7 @@
         <view class="step">2. 复制下方链接，在日历 App 中添加订阅</view>
       </view>
       <view class="platform-note">
-        ⚠️ 华为/小米/OPPO 等国产手机自带日历通常不支持订阅功能，建议使用上方「微信提醒」或安装第三方日历应用
+        华为/小米/OPPO 等国产手机自带日历通常不支持订阅功能，建议使用上方「微信提醒」或安装第三方日历应用
       </view>
     </view>
 
@@ -68,7 +68,7 @@
           <view class="subscribe-count">{{item.count}}</view>
         </view>
         <view class="subscribe-action">
-          <text class="action-icon">📋</text>
+          <image class="action-icon" src="/assets/about-copy.png" mode="aspectFit"></image>
           <text>复制链接</text>
         </view>
       </view>
@@ -77,12 +77,12 @@
 
   <!-- 方式三：网页版 -->
   <view class="section">
-    <view class="section-title">🌐 方式三：网页版日程</view>
+    <view class="section-title">方式三：网页版日程</view>
     <view class="subscribe-tip">
       在浏览器中打开网页版，可直接查看和订阅全部城市的活动日历
     </view>
     <view class="h5-card" bindtap="onCopyH5Url">
-      <view class="h5-icon">🔗</view>
+      <image class="h5-icon" src="/assets/about-link.png" mode="aspectFit"></image>
       <view class="h5-content">
         <view class="h5-title">童行网页版</view>
         <view class="h5-url">islon.github.io/goout/schedule.html</view>
@@ -90,7 +90,7 @@
       <view class="h5-action">复制链接</view>
     </view>
     <view class="h5-schedule-card" bindtap="onCopyScheduleUrl">
-      <view class="h5-icon">🗓️</view>
+      <image class="h5-icon" src="/assets/about-cal.png" mode="aspectFit"></image>
       <view class="h5-content">
         <view class="h5-title">日历订阅页面</view>
         <view class="h5-url">islon.github.io/goout/schedule.html</view>
@@ -101,7 +101,7 @@
 
   <!-- 城市覆盖 -->
   <view class="section">
-    <view class="section-title">📍 覆盖城市</view>
+    <view class="section-title">覆盖城市</view>
     <view class="city-grid">
       <view wx:for="{{cities}}" wx:key="name" class="city-card">
         <view class="city-name">{{item.name}}</view>
@@ -117,7 +117,7 @@
 
   <!-- 常见问题 -->
   <view class="section">
-    <view class="section-title">❓ 常见问题</view>
+    <view class="section-title">常见问题</view>
     <view class="faq-list">
       <view wx:for="{{faqs}}" wx:key="q" class="faq-item">
         <view class="faq-q">Q: {{item.q}}</view>
@@ -128,7 +128,7 @@
 
   <!-- 数据说明 -->
   <view class="section">
-    <view class="section-title">📊 数据说明</view>
+    <view class="section-title">数据说明</view>
     <view class="data-info">
       <view class="data-row">数据来源：各场馆官方渠道（官网、公众号）</view>
       <view class="data-row">更新频率：每日自动抓取 + 人工核实</view>
@@ -139,12 +139,12 @@
 
   <!-- 场馆指南 -->
   <view class="section">
-    <view class="section-title">🏛️ 场馆指南</view>
+    <view class="section-title">场馆指南</view>
     <view class="subscribe-tip">
       没有活动也想去逛逛？看看这些场馆的介绍、地址、交通和亮点。
     </view>
     <view class="venue-guide-card" bindtap="onGoVenues">
-      <view class="venue-guide-icon">🏛️</view>
+      <image class="venue-guide-icon" src="/assets/about-museum.png" mode="aspectFit"></image>
       <view class="venue-guide-content">
         <view class="venue-guide-title">浏览全部场馆</view>
         <view class="venue-guide-desc">覆盖深圳、北京、上海、广州、杭州</view>
@@ -155,12 +155,12 @@
 
   <!-- 意见反馈 -->
   <view class="section">
-    <view class="section-title">💬 意见反馈</view>
+    <view class="section-title">意见反馈</view>
     <view class="subscribe-tip">
       遇到活动信息错误、功能问题，或想补充场馆？欢迎告诉我们。
     </view>
     <view class="feedback-card" bindtap="onGoFeedback">
-      <view class="feedback-icon">📝</view>
+      <image class="feedback-icon" src="/assets/about-note.png" mode="aspectFit"></image>
       <view class="feedback-content">
         <view class="feedback-title">提交反馈</view>
         <view class="feedback-desc">数据报错、功能建议、场馆补充都可以说</view>
@@ -171,6 +171,7 @@
 
   <!-- 底部 -->
   <view class="footer">
+    <image class="footer-logo" src="/assets/logo-icon.png" mode="aspectFit"></image>
     <view class="footer-text">最好的成长是一路相伴</view>
     <view class="footer-sub">童行 © 2026 · islon.github.io/goout</view>
   </view>

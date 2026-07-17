@@ -33,6 +33,17 @@ jobs:
       - name: Sync mini-program fallback data
         run: python3 scripts/sync_miniprogram_data.py
 
+      - name: Generate per-city ICS subscription files
+        run: python3 scripts/generate_city_ics.py
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate cities manifest (网页/小程序统一城市清单)
+        run: node scripts/generate_cities_manifest.js
+
       - name: Commit and push
         run: |
           git config --global user.name "Auto Update Bot"

@@ -18,6 +18,8 @@ function normalizeCity(city) {
 }
 
 function getDistrict(input) {
+  // 已预计算则直接返回（见 precomputeDerived），避免重复字符串扫描
+  if (input && typeof input === 'object' && input._district) return input._district;
   // input 可为活动对象或老的 source 字符串，统一处理
   var source = null, venue = null, dataDistrict = null;
   if (input && typeof input === 'object') {
@@ -47,15 +49,21 @@ function getDistrict(input) {
 
 // 返回某城市当前数据中"实际有活动"的区县列表（'全部区县' 始终在前）
 // 这样区县筛选里不会出现一堆 0 活动的空区县
+// 若该城市未配置 districtsByCity（新城市），则直接按数据里实际出现的区县动态生成，
+// 保证"往 filters.cities 加一个城市"即可自动拥有区县筛选，无需手工补 districtsByCity
 function getPresentDistricts(city, exhibitions) {
-  const all = districtsByCity[city] || [];
+  const configured = districtsByCity[city];
   const found = {};
   (exhibitions || []).forEach(function(e) {
-    if (normalizeCity(e.city) !== city) return;
+    if ((e._cityKey || normalizeCity(e.city)) !== city) return;
     const d = getDistrict(e);
     if (d && d !== '其他') found[d] = true;
   });
-  return all.filter(function(d) { return d === '全部区县' || found[d]; });
+  if (configured && configured.length) {
+    return configured.filter(function(d) { return d === '全部区县' || found[d]; });
+  }
+  // 未配置：从数据动态生成（全部区县 + 实际出现的区县）
+  return ['全部区县'].concat(Object.keys(found));
 }
 
 function matchSource(exhibition, sourceKey) {
@@ -66,6 +74,7 @@ function matchSource(exhibition, sourceKey) {
 }
 
 function getFeeType(exhibition) {
+  if (exhibition && exhibition._feeType) return exhibition._feeType;
   const name = exhibition.name || '';
   const desc = exhibition.description || '';
   const venue = exhibition.venue || '';
@@ -92,7 +101,10 @@ function getFeeType(exhibition) {
 }
 
 function getActivityType(exhibition) {
-  if (exhibition.category) return exhibition.category;
+  if (exhibition && exhibition._activityType) return exhibition._activityType;
+  // 老格式活动用 category；新格式（分城市文件）用 type；二者都没有再按名称关键字推断
+  var t = exhibition.category || exhibition.type;
+  if (t) return t;
   const name = exhibition.name || '';
   const venue = exhibition.venue || '';
 
@@ -179,7 +191,7 @@ function getFilteredExhibitions(allExhibitions, filters) {
   const today = now.toISOString().split('T')[0];
 
   let filtered = allExhibitions.filter(function(e) {
-    return normalizeCity(e.city) === filters.city;
+    return (e._cityKey || normalizeCity(e.city)) === filters.city;
   });
 
   if (filters.search) {
@@ -208,9 +220,10 @@ function getFilteredExhibitions(allExhibitions, filters) {
   }
 
   if (filters.family === 'family') {
-    filtered = filtered.filter(function(e) { return e.family_friendly === true; });
+    // 老格式用 family_friendly 字段；新格式（分城市文件）无该字段，按 type=亲子活动 兜底识别
+    filtered = filtered.filter(function(e) { return e.family_friendly === true || getActivityType(e) === '亲子活动'; });
   } else if (filters.family === 'other') {
-    filtered = filtered.filter(function(e) { return e.family_friendly !== true; });
+    filtered = filtered.filter(function(e) { return e.family_friendly !== true && getActivityType(e) !== '亲子活动'; });
   }
 
   switch (filters.time) {
@@ -251,30 +264,43 @@ function getFilteredExhibitions(allExhibitions, filters) {
   }
 }
 
+// 预计算派生字段并写回每条活动对象（带 _done 标记，避免重复计算）。
+// 这是性能关键优化：getFilteredExhibitions / updateFilterAvailability / buildDisplayItems
+// 原本每条活动都要重复跑 getActivityType / getFeeType / getDistrict 的字符串扫描，
+// 一次 loadData 在数千条数据上会跑数十万次；预计算后这些读取变成 O(1) 属性访问。
+// 注意：dateBadge 依赖"今天"，不在此预计算，仍在 buildDisplayItems 动态算。
+function precomputeDerived(exhibitions) {
+  if (!Array.isArray(exhibitions)) return exhibitions;
+  for (var i = 0; i < exhibitions.length; i++) {
+    var e = exhibitions[i];
+    if (!e || e._done) continue;
+    var sd = e.start_date, ed = e.end_date;
+    e._feeType = getFeeType(e);
+    e._activityType = getActivityType(e);
+    e._district = getDistrict(e);
+    e._cityKey = normalizeCity(e.city || '');
+    e._dateDisplay = (sd === ed) ? formatDate(sd) : (sd.substring(5) + ' ~ ' + ed.substring(5));
+    e._duration = getDuration(sd, ed);
+    e._monthLabel = sd.substring(0, 4) + '年' + parseInt(sd.substring(5, 7)) + '月';
+    e._cardId = e.id || (e.source + '-' + e.name + '-' + sd);
+    e._done = true;
+  }
+  return exhibitions;
+}
+
 // 构建展示用的活动列表（添加 feeType, activityType, dateBadge 等）
+// 优先用预计算字段（O(1)）；若数据未预计算则回退实时计算，保证健壮性。
 function buildDisplayItems(exhibitions) {
   return exhibitions.map(function(e, idx) {
-    var feeType = getFeeType(e);
-    var activityType = getActivityType(e);
-    var dateBadge = getDateBadge(e.start_date);
-    var startDate = e.start_date;
-    var endDate = e.end_date;
-    var dateDisplay = startDate === endDate
-      ? formatDate(startDate)
-      : startDate.substring(5) + ' ~ ' + endDate.substring(5);
-    var duration = getDuration(startDate, endDate);
-    var monthLabel = startDate.substring(0, 4) + '年' + parseInt(startDate.substring(5, 7)) + '月';
-    var cardId = e.id || (e.source + '-' + e.name + '-' + startDate);
-
     return Object.assign({}, e, {
-      feeType: feeType,
-      activityType: activityType,
-      dateBadge: dateBadge,
-      dateDisplay: dateDisplay,
-      duration: duration,
-      district: getDistrict(e),
-      monthLabel: monthLabel,
-      cardId: cardId
+      feeType: (e._feeType !== undefined) ? e._feeType : getFeeType(e),
+      activityType: (e._activityType !== undefined) ? e._activityType : getActivityType(e),
+      dateBadge: getDateBadge(e.start_date),
+      dateDisplay: (e._dateDisplay !== undefined) ? e._dateDisplay : ((e.start_date === e.end_date) ? formatDate(e.start_date) : e.start_date.substring(5) + ' ~ ' + e.end_date.substring(5)),
+      duration: (e._duration !== undefined) ? e._duration : getDuration(e.start_date, e.end_date),
+      district: (e._district !== undefined) ? e._district : getDistrict(e),
+      monthLabel: (e._monthLabel !== undefined) ? e._monthLabel : (e.start_date.substring(0, 4) + '年' + parseInt(e.start_date.substring(5, 7)) + '月'),
+      cardId: (e._cardId !== undefined) ? e._cardId : (e.id || (e.source + '-' + e.name + '-' + e.start_date))
     });
   });
 }
@@ -339,6 +365,7 @@ module.exports = {
   getDateBadge,
   getFilteredExhibitions,
   buildDisplayItems,
+  precomputeDerived,
   buildVenueMap,
   findVenue,
   buildVenueActivityCounts
