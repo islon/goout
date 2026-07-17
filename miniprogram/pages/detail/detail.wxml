@@ -41,6 +41,14 @@
         <view class="info-value">{{activity.city === 'shenzhen' ? '深圳' : activity.city === 'beijing' ? '北京' : activity.city === 'shanghai' ? '上海' : activity.city === 'guangzhou' ? '广州' : activity.city === 'hangzhou' ? '杭州' : activity.city}}<text wx:if="{{activity.venue_type && activity.venue_type !== '其他'}}"> · {{activity.venue_type}}</text></view>
       </view>
     </view>
+
+    <view class="info-row" wx:if="{{activity.contact}}">
+      <view class="info-icon">📞</view>
+      <view class="info-content">
+        <view class="info-label">联系方式</view>
+        <view class="info-value">{{activity.contact}}</view>
+      </view>
+    </view>
   </view>
 
   <!-- 活动介绍 -->
