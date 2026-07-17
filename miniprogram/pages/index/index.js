@@ -175,14 +175,17 @@ Page({
     const city = this.data.cityFilter;
     const district = this.data.districtFilter;
     let allVenues = venuesByCity[city] || [];
-    if (!allVenues.length) {
-      // 新城市未配置 venuesByCity 时，从数据动态汇总去重 source，
-      // 保证"往 filters.cities 加一个城市"即可自动拥有来源/场馆筛选，无需手工补 venuesByCity
+    // venuesByCity 仅对深圳/广州/上海/北京等早期城市手工维护；
+    // 其余城市（或仅含"全部地点"占位）视为"无真实场馆清单"，改为数据驱动生成
+    const hasRealVenues = allVenues.some(function(v) { return v.key && v.key !== 'all'; });
+    if (!hasRealVenues) {
+      // 未配置真实场馆清单时，从本城市真实活动汇总实际场馆名（e.venue）去重生成，
+      // 保证新增城市也能自动拥有"地点"筛选，无需手工补 venuesByCity
       const seen = {};
       (app.globalData.exhibitions || []).forEach(function(e) {
         if ((e._cityKey || normalizeCity(e.city)) !== city) return;
-        const s = e.source;
-        if (s && !seen[s]) seen[s] = { key: s, name: sourceToVenue[s] || e.venue || s };
+        const v = e.venue;
+        if (v && !seen[v]) seen[v] = { key: v, name: v };
       });
       allVenues = [{ key: 'all', name: '全部地点' }].concat(Object.keys(seen).map(function(k) { return seen[k]; }));
     }
@@ -190,16 +193,16 @@ Page({
     // 选择区县后，按区县过滤场馆列表，只显示该区县的场馆
     if (district && district !== 'all') {
       const districtVenues = {};
-      // 从场馆信息中按 city + district 提取
+      // 从场馆信息中按 city + district 提取（用场馆名，兼容中文场馆名）
       (app.globalData.venues || []).forEach(function(v) {
-        if (v.city === city && v.district === district && v.source) {
-          districtVenues[v.source] = v.name || v.source;
+        if (v.city === city && v.district === district && v.name) {
+          districtVenues[v.name] = v.name;
         }
       });
-      // 从活动数据中补充该区县的场馆
+      // 从活动数据中补充该区县的真实场馆
       (app.globalData.exhibitions || []).forEach(function(e) {
-        if ((e._cityKey || normalizeCity(e.city)) === city && e.district === district && e.source) {
-          if (!districtVenues[e.source]) districtVenues[e.source] = e.venue || e.source;
+        if ((e._cityKey || normalizeCity(e.city)) === city && e.district === district && e.venue) {
+          if (!districtVenues[e.venue]) districtVenues[e.venue] = e.venue;
         }
       });
       allVenues = [{ key: 'all', name: '全部地点' }].concat(

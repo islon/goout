@@ -70,6 +70,10 @@ function matchSource(exhibition, sourceKey) {
   if (exhibition.source === sourceKey) return true;
   const venueName = sourceToVenue[sourceKey];
   if (venueName && exhibition.venue && exhibition.venue.indexOf(venueName) >= 0) return true;
+  // 数据驱动：地点筛选直接以场馆名（e.venue）作为 key 时，按场馆名精确/包含匹配
+  // （新增城市/真实场馆名场景，sourceKey 即中文场馆名）
+  if (exhibition.venue && sourceKey && exhibition.venue === sourceKey) return true;
+  if (exhibition.venue && sourceKey && exhibition.venue.indexOf(sourceKey) >= 0) return true;
   return false;
 }
 
