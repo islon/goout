@@ -1,0 +1,42 @@
+[
+  {
+    "key": "beijing",
+    "name": "北京"
+  },
+  {
+    "key": "shanghai",
+    "name": "上海"
+  },
+  {
+    "key": "guangzhou",
+    "name": "广州"
+  },
+  {
+    "key": "shenzhen",
+    "name": "深圳"
+  },
+  {
+    "key": "hangzhou",
+    "name": "杭州"
+  },
+  {
+    "key": "chengdu",
+    "name": "成都"
+  },
+  {
+    "key": "chongqing",
+    "name": "重庆"
+  },
+  {
+    "key": "nanjing",
+    "name": "南京"
+  },
+  {
+    "key": "wuhan",
+    "name": "武汉"
+  },
+  {
+    "key": "xian",
+    "name": "西安"
+  }
+]

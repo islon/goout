@@ -20,13 +20,9 @@ def _patched_request(self, method, url, **kwargs):
 requests.Session.request = _patched_request
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from config import OUTPUT_DIR, JSON_FILE, ICS_FILE
 from ics_generator import create_ics
 from rss_generator import generate_rss
-from venue_registry import get_district as registry_get_district
-from venue_registry import resolve_source_code, lookup_venue_by_name, get_venue_type
-from venue_registry import generate_venue_info_json
 
 WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.json')
 
@@ -100,61 +96,6 @@ DISTRICT_KEYWORDS = {
     '坪山': ['坪山', 'pingshan', 'ps', '坪山街道', '坑梓', '龙田', '石井', '马峦', '碧岭', 'ps_nature', 'pslib', 'psqsng', 'pstyzx'],
     '盐田': ['盐田', 'yantian', 'yt', '沙头角', '海山', '盐田街道', '梅沙', '中英街', 'yt_history', 'yt_lib', 'yttyzx'],
     '大鹏': ['大鹏', 'dapeng', 'dp', '葵涌', '大鹏街道', '南澳', '大亚湾', '地质公园', 'dp_geopark', 'dp_nuclear'],
-    # 广州
-    '天河区': ['天河', '珠江新城', '广东省博物馆', '广州大剧院', '星海音乐厅', '广东科学中心', '广东省文化馆', '广州市少年宫', '广州市儿童公园', '华南植物园', '正佳极地', '广州图书馆东馆', '广州文化馆', '广州青少年科技馆', '广东美术馆', '广州市文化馆', '广州图书馆', '中国科学院华南植物园', '正佳大剧院', '正佳极地海洋世界'],
-    '越秀区': ['越秀', '东山', '麓湖', '镇海楼', '南越王', '广州艺术博物院', '广东美术馆二沙', '广州博物馆', '农讲所', '中山纪念堂', '广东省立中山图书馆', '孙中山大元帅府', '广州动物园', '广州海洋馆', '广州图书馆总馆', '中山图书馆', '广东革命历史博物馆', '广州少年儿童图书馆', '南越王博物院', '农讲所纪念馆'],
-    '荔湾区': ['荔湾', '永庆坊', '恩宁路', '陈家祠', '沙面', '上下九', '荔湾博物馆', '西关', '广东民间工艺博物馆'],
-    '海珠区': ['海珠', '琶洲', '阅江', '广州塔', '中山大学', '海珠湿地', '广东美术馆新馆', '广州市文化馆新馆', '广州地铁博物馆', '广州艺术博物院'],
-    '白云区': ['白云', '白云山', '白云机场', '白云国际会议中心'],
-    '番禺区': ['番禺', '大学城', '长隆', '南汉二陵', '余荫山房', '番禺博物馆', '长隆旅游度假区', '南汉二陵博物馆', '广东科学中心'],
-    '黄埔区': ['黄埔', '萝岗', '黄埔军校', '南海神庙', '香雪公园', '黄埔区图书馆', '黄埔军校旧址纪念馆'],
-    '花都区': ['花都', '花都湖'],
-    '南沙区': ['南沙', '天后宫', '百万葵园', '南沙湿地'],
-    '从化区': ['从化', '温泉'],
-    '增城区': ['增城'],
-    # 上海
-    '黄浦区': ['黄浦', '人民广场', '南京路', '外滩', '豫园', '原法租界', '复兴中路', '上海大世界', '大世界', '上海图书馆', '上海市少年宫', '上海博物馆', '中共一大纪念馆', '上海当代艺术博物馆', '上海文化广场', '捷豹上海交响音乐厅', '上海市历史博物馆'],
-    '浦东新区': ['浦东', '临港', '世纪大道', '上南路', '国展路', '张江', '前滩', '世博', '浦东美术馆', '中华艺术宫', '上海天文馆', '上海科技馆', '上海海昌', '上海迪士尼', '上海迪士尼度假区', '上海中心大厦', '陆家嘴', '东方明珠', '野生动物园', '金桥', '川沙', '上海海洋水族馆', '上海世博会博物馆', '上海美术馆', '上海海昌海洋公园', '浦东美术馆'],
-    '徐汇区': ['徐汇', '衡山路', '西岸', '徐家汇', '武康路', '上海图书馆总馆', '上海图书馆东馆', '徐汇区图书馆', '上海植物园', '上海图书馆'],
-    '静安区': ['静安', '北京西路', '南京西路', '静安寺', '上海自然博物馆', '上海博物馆', '上海少年儿童图书馆', '上海展览中心', '上海儿童博物馆', '上海展览中心', '上海铁路博物馆'],
-    '长宁区': ['长宁', '中山公园', '虹桥', '上海动物园'],
-    '虹口区': ['虹口', '东大名路', '北外滩', '鲁迅公园'],
-    '普陀区': ['普陀', '长风', '真如', '曹杨', '普陀青少年水主题', '上海消防博物馆', '乐高探索中心'],
-    '杨浦区': ['杨浦', '五角场', '杨浦区图书馆', '世界技能博物馆'],
-    '宝山区': ['宝山', '顾村', '上海玻璃博物馆', '宝山区图书馆'],
-    '闵行区': ['闵行', '七宝', '莘庄', '闵行区图书馆'],
-    '嘉定区': ['嘉定', '嘉定图书馆'],
-    '金山区': ['金山', '枫泾', '乐高', '金山城市沙滩', '上海乐高乐园'],
-    '松江区': ['松江', '佘山', '广富林', '方塔园'],
-    '青浦区': ['青浦', '朱家角', '淀山湖'],
-    '奉贤区': ['奉贤', '海湾'],
-    # 北京
-    '东城区': ['东城', '东长安街', '王府井', '天坛', '故宫', '景山', '前门', '国子监', '雍和宫', '南锣鼓巷', '首都剧场', '中国国家博物馆', '中国美术馆', '国家自然博物馆', '北京古观象台', '明城墙遗址', '钟鼓楼', '中国考古博物馆', '中国妇女儿童博物馆', '故宫博物院', '天坛公园', '中山公园音乐堂', '北京规划展览馆', '北京古代建筑博物馆', '北京市少年宫', '北京自然博物馆', '北京鲁迅博物馆', '京报网'],
-    '西城区': ['西城', '西长安街', '西直门', '复兴门外', '广安门外', '什刹海', '北海', '国家大剧院', '国家话剧院', '北京天文馆', '北京科学中心', '首都博物馆', '北京展览馆', '中国地质博物馆', '北京动物园', '北京海洋馆', '北京宋庆龄故居', '恭王府', '梅兰芳大剧院', '北京鲁迅博物馆', '北京艺术博物馆', '万寿寺', '北海公园', '国家大剧院', '北京旅游网'],
-    '朝阳区': ['朝阳', '北辰', '国贸', '三里屯', '奥运', '798', '中国科技馆', '国家体育场', '奥林匹克公园', '朝阳公园', '欢乐谷', '朝阳大悦城', '红砖美术馆', '北京民生现代美术馆', '炎黄艺术馆', '首都图书馆', '鸿博公园', '中国电影博物馆', '北京欢乐谷', '首都图书馆', '奥林匹克森林公园', '大望京公园', '太阳宫市民活动中心', '亮马河滨水步道', '老君堂公园', '马家湾湿地公园', '温榆河公园', '北京市文化馆', '北京数字文化馆', '新华网'],
-    '海淀区': ['海淀', '复兴路', '中关村', '颐和园', '圆明园', '香山', '北京大学', '清华大学', '玉渊潭', '国家图书馆', '中国人民革命军事博物馆', '北京植物园', '北京石刻艺术博物馆', '大钟寺', '五塔寺', '紫竹院', '海淀公园', '中国古动物馆', '清华大学艺术博物馆', '三山五园文化艺术中心', '中华世纪坛', '北京艺术博物馆', '万寿寺', '北京市青少年活动中心'],
-    '丰台区': ['丰台', '宛平', '园博园', '世界公园', '北京汽车博物馆', '中国园林博物馆', '北京花乡', '南苑', '中国消防博物馆', '北京消防科普教育基地'],
-    '石景山区': ['石景山', '首钢', '八大处', '北京国际雕塑公园', '永定河休闲森林公园', '莲石湖公园'],
-    '通州区': ['通州', '绿心', '大运河', '通州运河', '宋庄', '环球影城', '北京环球度假区', '西海子公园', '北京大运河博物馆'],
-    '大兴区': ['大兴', '南海子', '大兴机场', '北京野生动物园', '呀路古', '念坛公园', '亦庄滨河森林公园'],
-    '房山区': ['房山', '周口店', '云居寺', '十渡', '石花洞', '云居城市休闲公园', '长沟湿地公园'],
-    '昌平区': ['昌平', '明十三陵', '居庸关', '银山塔林', '昌平新城滨河', '东小口森林公园'],
-    '门头沟区': ['门头沟', '潭柘寺', '戒台寺', '妙峰山'],
-    '顺义区': ['顺义', '国际鲜花港', '顺义奥林匹克水上公园', '潮白河森林公园'],
-    # 杭州
-    '西湖区': ['西湖', '孤山', '龙井', '灵隐', '西溪湿地', '浙江大学', '杭州植物园', '浙江图书馆', '浙江省文化馆', '浙江省科技馆', '浙江自然博物院', '中国丝绸博物馆', '浙江省博物馆孤山', '西湖文化广场', '浙江美术馆', '中国印学博物馆', '杭州动物园', '中国湿地博物馆', '中国茶叶博物馆', '天目里', '杭州宋城', '浙江省博物馆', '杭州图书馆'],
-    '上城区': ['上城', '南宋御街', '河坊街', '杭州博物馆', '中国财税博物馆', '杭州孔庙', '中国杭帮菜博物馆', '杭州图书馆少儿分馆'],
-    '下城区': ['下城', '浙江展览馆'],
-    '拱墅区': ['拱墅', '大运河', '小河直街', '中国刀剪剑博物馆', '中国扇博物馆', '中国伞博物馆', '杭州工艺美术博物馆', '京杭大运河博物馆', '杭州运河大剧院', '浙江交响乐团', '中国京杭大运河博物馆'],
-    '江干区': ['江干', '钱江新城', '杭州国际博览中心', '杭州图书馆'],
-    '滨江区': ['滨江', '西兴', '白马湖', '中国动漫博物馆'],
-    '萧山区': ['萧山', '跨湖桥遗址博物馆', '浙江省现代陶瓷艺术博物馆'],
-    '余杭区': ['余杭', '良渚', '径山', '良渚博物院', '国家版本馆', '余杭区图书馆', '良渚古城遗址公园'],
-    '富阳区': ['富阳', '富阳博物馆', '黄公望隐居地'],
-    '临安区': ['临安', '天目山', '临安博物馆', '大明山'],
-    '桐庐县': ['桐庐', '桐庐博物馆'],
-    '淳安县': ['淳安', '千岛湖'],
-    '建德市': ['建德', '新安江'],
 }
 
 
@@ -239,15 +180,55 @@ DISTRICT_MAPPING = {
     '大鹏': ['大鹏', '大鹏新区'],
 }
 
+# source 代码到可读名称的映射（始终应用）
+SOURCE_CODE_MAP = {
+    'nsqsng': '南山区青少年活动中心',
+    'nswtzx': '南山文体中心',
+    'nslib': '南山图书馆',
+    'nsmuseum': '南山博物馆',
+    'nswhg': '南山区文化馆',
+    'balib': '宝安图书馆',
+    'szlib': '深圳图书馆',
+    'gm_lib': '光明区图书馆',
+    'gm_kjg': '光明区科技馆',
+    'yt_lib': '盐田区图书馆',
+    'dp_geopark': '大鹏地质公园博物馆',
+    'lg_hakka': '龙岗客家民俗博物馆',
+    'lh_printmaking': '中国版画博物馆',
+    'lh_ecology': '龙华生态文明展览馆',
+    'nsaqjy': '南山安全教育体验馆',
+    'skhykpg': '蛇口海洋科普馆',
+    'sarc': '深爱人才馆',
+    'baoan_1990': '宝安1990文化馆',
+    'oct_wetland': '华侨城湿地',
+    'ps_nature': '深圳自然博物馆',
+    'dp_nuclear': '大亚湾核能科技馆',
+    'nssxf': '南山书房',
+    'szwty': '深圳湾体育中心',
+    'baoan_kjg': '宝安科技馆',
+    'baoan_ty': '宝安体育中心',
+    'sz_safety': '深圳市安全教育基地',
+    'yt_history': '中英街历史博物馆',
+    'zsjbwg': '招商局历史博物馆',
+    'ntgc': '南头古城博物馆群',
+    'lh_paleo': '深圳古生物博物馆',
+    'bayarea_eye': '湾区之眼',
+    'sz_children_lib': '深圳少年儿童图书馆',
+    'szcec': '深圳会展中心',
+    'shenzhen_world': '深圳国际会展中心',
+    'chnmuseum': '中国国家博物馆',
+    'szartm': '深圳美术馆',
+    'gmarts': '光明文化艺术中心',
+}
+
 
 def get_district_from_text(text):
-    """从任意文本中匹配区县关键词（支持深圳、广州、上海、北京、杭州）"""
     if not text:
         return None
-    for district, keywords in DISTRICT_KEYWORDS.items():
-        for kw in keywords:
-            if kw in text:
-                return district
+    specific_districts = ['南山', '宝安', '福田', '罗湖', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏']
+    for district in specific_districts:
+        if district in text:
+            return district
     if '深圳' in text:
         return '深圳'
     return None
@@ -301,13 +282,7 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     if not title or not start_date:
         return None
 
-    # 保留原始 category（如已指定），否则自动分类
-    raw_category = raw.get('category') or ''
-    if raw_category and raw_category in {'展览', '讲座阅读', '科普活动', '演出', '体育赛事', '亲子活动', '影视放映', '其他', '户外活动'}:
-        category = raw_category if raw_category != '户外活动' else '其他'
-    else:
-        category = categorize_activity(title, description)
-
+    category = categorize_activity(title, description)
     fee = standardize_fee(fee_raw, title, description)
 
     if not description or len(description) < 10:
@@ -321,39 +296,32 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     if fee not in ALLOWED_FEE_VALUES:
         fee = '免费'
 
-    # === 从 venue_registry 注入 district 和 venue_type ===
-    # 优先保留原始数据中已有的 district（manual_data 等可信来源）
-    raw_district = raw.get('district', '')
-    if raw_district:
-        district = raw_district
-    else:
-        # 尝试解析标准 source_code
-        resolved_code = resolve_source_code(source, venue)
-        if resolved_code:
-            source = resolved_code
-        # 查区县（优先 registry，兜底关键词）
-        district = registry_get_district(source, venue)
-        if not district or district == '深圳':
-            # 用 venue 文本兜底
-            venue_dist = get_district_from_text(venue)
-            if venue_dist and venue_dist != '深圳':
-                district = venue_dist
-            elif not district:
-                district = get_district_from_text(source) or ''
-    # 查场馆类型
-    venue_type = get_venue_type(source, venue)
+    # 始终将 source 代码映射为可读名称
+    if source in SOURCE_CODE_MAP:
+        source = SOURCE_CODE_MAP[source]
+
+    venue_district = get_district_from_text(venue)
+    source_district = get_district_from_text(source)
+
+    if source and venue_district and source_district and venue_district != source_district:
+        city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布']
+        if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
+            pass
+        else:
+            # source 区县与 venue 区县不匹配时，用 venue 名称作为 source
+            source = venue
 
     description = fix_description(title, description, venue, category, fee)
 
     result = {
         'title': title,
+        'name': title,
         'venue': venue,
         'city': city_val,
-        'district': district or '',
-        'venue_type': venue_type,
         'start_date': start_date,
         'end_date': end_date,
         'link': link,
+        'url': link,
         'description': description,
         'category': category,
         'fee': fee,
@@ -555,6 +523,19 @@ def collect_all_activities():
     print(f"有效活动: {len(wechat_valid)} 条")
     all_activities.extend(wechat_valid)
 
+    # 去重：按 (title, venue, start_date) 去重，保留首次出现的条目
+    seen = set()
+    unique_activities = []
+    for a in all_activities:
+        key = (a.get('title', ''), a.get('venue', ''), a.get('start_date', ''))
+        if key not in seen:
+            seen.add(key)
+            unique_activities.append(a)
+    dup_count = len(all_activities) - len(unique_activities)
+    if dup_count > 0:
+        print(f"\n去重: 移除 {dup_count} 条重复条目")
+    all_activities = unique_activities
+
     all_activities.sort(key=lambda x: x['start_date'])
 
     has_link = sum(1 for a in all_activities if a.get('link'))
@@ -585,9 +566,46 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     json_path = os.path.join(OUTPUT_DIR, JSON_FILE)
+    
+    existing_activities = []
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                existing_activities = json.load(f)
+            print(f"\n已读取现有数据: {len(existing_activities)} 条")
+        except Exception as e:
+            print(f"\n读取现有数据失败: {e}")
+            existing_activities = []
+
+    new_activity_keys = set()
+    for a in activities:
+        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
+        new_activity_keys.add(key)
+
+    preserved_activities = []
+    for a in existing_activities:
+        city = a.get('city', '')
+        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
+        if city != 'shenzhen' or key not in new_activity_keys:
+            preserved_activities.append(a)
+
+    all_combined = preserved_activities + activities
+    
+    seen = set()
+    unique_activities = []
+    for a in all_combined:
+        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
+        if key not in seen:
+            seen.add(key)
+            unique_activities.append(a)
+    
+    unique_activities.sort(key=lambda x: x['start_date'])
+
+    print(f"\n合并后数据: 新抓取 {len(activities)} 条 + 保留其他城市 {len(preserved_activities)} 条 = 去重后 {len(unique_activities)} 条")
+
     with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(activities, f, ensure_ascii=False, indent=2)
-    print(f"\nJSON数据已保存到 {json_path}")
+        json.dump(unique_activities, f, ensure_ascii=False, indent=2)
+    print(f"JSON数据已保存到 {json_path}")
 
     ics_content = create_ics(activities)
     ics_path = os.path.join(OUTPUT_DIR, ICS_FILE)
@@ -595,7 +613,7 @@ def main():
         f.write(ics_content)
     print(f"ICS日历已生成到 {ics_path}")
 
-    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou']
+    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing']
     for city_code in city_codes:
         city_activities = [a for a in activities if a.get('city') == city_code]
         if not city_activities:
@@ -612,12 +630,13 @@ def main():
             f.write(city_ics)
         print(f"  [{city_code}] ICS -> {city_ics_path}")
 
-    # 从 venue_registry 生成 venue_info.json（唯一真相源）
-    venue_info_path = os.path.join(OUTPUT_DIR, 'venue_info.json')
-    generate_venue_info_json(venue_info_path)
-    # 同步到 scripts 目录
-    scripts_venue_info = os.path.join(os.path.dirname(__file__), 'venue_info.json')
-    generate_venue_info_json(scripts_venue_info)
+    # 复制场馆信息文件到 output 目录
+    venue_info_src = os.path.join(os.path.dirname(__file__), 'venue_info.json')
+    if os.path.exists(venue_info_src):
+        import shutil
+        venue_info_dst = os.path.join(OUTPUT_DIR, 'venue_info.json')
+        shutil.copy2(venue_info_src, venue_info_dst)
+        print(f"场馆信息已复制到 {venue_info_dst}")
 
     try:
         generate_rss()

@@ -1105,13 +1105,7 @@
 
     <div class="filter-section-mobile">
         <div class="filter-label">城市</div>
-        <div class="filter-bar" id="city-filter-bar">
-            <button class="filter-btn active" data-city="shenzhen">深圳</button>
-            <button class="filter-btn" data-city="guangzhou">广州</button>
-            <button class="filter-btn" data-city="shanghai">上海</button>
-            <button class="filter-btn" data-city="beijing">北京</button>
-            <button class="filter-btn" data-city="hangzhou">杭州</button>
-        </div>
+        <div class="filter-bar" id="city-filter-bar"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
     </div>
 
     <div class="filter-section-mobile">
@@ -1198,6 +1192,63 @@
             <button class="filter-btn" data-district="钱塘区" data-city="hangzhou" style="display:none;">钱塘区</button>
             <button class="filter-btn" data-district="富阳区" data-city="hangzhou" style="display:none;">富阳区</button>
             <button class="filter-btn" data-district="临安区" data-city="hangzhou" style="display:none;">临安区</button>
+            <button class="filter-btn" data-district="锦江区" data-city="chengdu" style="display:none;">锦江区</button>
+            <button class="filter-btn" data-district="青羊区" data-city="chengdu" style="display:none;">青羊区</button>
+            <button class="filter-btn" data-district="武侯区" data-city="chengdu" style="display:none;">武侯区</button>
+            <button class="filter-btn" data-district="金牛区" data-city="chengdu" style="display:none;">金牛区</button>
+            <button class="filter-btn" data-district="成华区" data-city="chengdu" style="display:none;">成华区</button>
+            <button class="filter-btn" data-district="龙泉驿区" data-city="chengdu" style="display:none;">龙泉驿区</button>
+            <button class="filter-btn" data-district="双流区" data-city="chengdu" style="display:none;">双流区</button>
+            <button class="filter-btn" data-district="温江区" data-city="chengdu" style="display:none;">温江区</button>
+            <button class="filter-btn" data-district="新都区" data-city="chengdu" style="display:none;">新都区</button>
+            <button class="filter-btn" data-district="天府新区" data-city="chengdu" style="display:none;">天府新区</button>
+            <button class="filter-btn" data-district="高新区" data-city="chengdu" style="display:none;">高新区</button>
+            <button class="filter-btn" data-district="郫都区" data-city="chengdu" style="display:none;">郫都区</button>
+            <button class="filter-btn" data-district="都江堰市" data-city="chengdu" style="display:none;">都江堰市</button>
+            <button class="filter-btn" data-district="玄武区" data-city="nanjing" style="display:none;">玄武区</button>
+            <button class="filter-btn" data-district="秦淮区" data-city="nanjing" style="display:none;">秦淮区</button>
+            <button class="filter-btn" data-district="建邺区" data-city="nanjing" style="display:none;">建邺区</button>
+            <button class="filter-btn" data-district="鼓楼区" data-city="nanjing" style="display:none;">鼓楼区</button>
+            <button class="filter-btn" data-district="栖霞区" data-city="nanjing" style="display:none;">栖霞区</button>
+            <button class="filter-btn" data-district="雨花台区" data-city="nanjing" style="display:none;">雨花台区</button>
+            <button class="filter-btn" data-district="江宁区" data-city="nanjing" style="display:none;">江宁区</button>
+            <button class="filter-btn" data-district="浦口区" data-city="nanjing" style="display:none;">浦口区</button>
+            <button class="filter-btn" data-district="六合区" data-city="nanjing" style="display:none;">六合区</button>
+            <button class="filter-btn" data-district="溧水区" data-city="nanjing" style="display:none;">溧水区</button>
+            <button class="filter-btn" data-district="高淳区" data-city="nanjing" style="display:none;">高淳区</button>
+            <button class="filter-btn" data-district="江岸区" data-city="wuhan" style="display:none;">江岸区</button>
+            <button class="filter-btn" data-district="江汉区" data-city="wuhan" style="display:none;">江汉区</button>
+            <button class="filter-btn" data-district="硚口区" data-city="wuhan" style="display:none;">硚口区</button>
+            <button class="filter-btn" data-district="汉阳区" data-city="wuhan" style="display:none;">汉阳区</button>
+            <button class="filter-btn" data-district="武昌区" data-city="wuhan" style="display:none;">武昌区</button>
+            <button class="filter-btn" data-district="青山区" data-city="wuhan" style="display:none;">青山区</button>
+            <button class="filter-btn" data-district="洪山区" data-city="wuhan" style="display:none;">洪山区</button>
+            <button class="filter-btn" data-district="东西湖区" data-city="wuhan" style="display:none;">东西湖区</button>
+            <button class="filter-btn" data-district="蔡甸区" data-city="wuhan" style="display:none;">蔡甸区</button>
+            <button class="filter-btn" data-district="江夏区" data-city="wuhan" style="display:none;">江夏区</button>
+            <button class="filter-btn" data-district="黄陂区" data-city="wuhan" style="display:none;">黄陂区</button>
+            <button class="filter-btn" data-district="新洲区" data-city="wuhan" style="display:none;">新洲区</button>
+            <button class="filter-btn" data-district="碑林区" data-city="xian" style="display:none;">碑林区</button>
+            <button class="filter-btn" data-district="莲湖区" data-city="xian" style="display:none;">莲湖区</button>
+            <button class="filter-btn" data-district="新城区" data-city="xian" style="display:none;">新城区</button>
+            <button class="filter-btn" data-district="雁塔区" data-city="xian" style="display:none;">雁塔区</button>
+            <button class="filter-btn" data-district="未央区" data-city="xian" style="display:none;">未央区</button>
+            <button class="filter-btn" data-district="灞桥区" data-city="xian" style="display:none;">灞桥区</button>
+            <button class="filter-btn" data-district="长安区" data-city="xian" style="display:none;">长安区</button>
+            <button class="filter-btn" data-district="临潼区" data-city="xian" style="display:none;">临潼区</button>
+            <button class="filter-btn" data-district="阎良区" data-city="xian" style="display:none;">阎良区</button>
+            <button class="filter-btn" data-district="高陵区" data-city="xian" style="display:none;">高陵区</button>
+            <button class="filter-btn" data-district="鄠邑区" data-city="xian" style="display:none;">鄠邑区</button>
+            <button class="filter-btn" data-district="渝中区" data-city="chongqing" style="display:none;">渝中区</button>
+            <button class="filter-btn" data-district="江北区" data-city="chongqing" style="display:none;">江北区</button>
+            <button class="filter-btn" data-district="沙坪坝区" data-city="chongqing" style="display:none;">沙坪坝区</button>
+            <button class="filter-btn" data-district="九龙坡区" data-city="chongqing" style="display:none;">九龙坡区</button>
+            <button class="filter-btn" data-district="南岸区" data-city="chongqing" style="display:none;">南岸区</button>
+            <button class="filter-btn" data-district="北碚区" data-city="chongqing" style="display:none;">北碚区</button>
+            <button class="filter-btn" data-district="渝北区" data-city="chongqing" style="display:none;">渝北区</button>
+            <button class="filter-btn" data-district="巴南区" data-city="chongqing" style="display:none;">巴南区</button>
+            <button class="filter-btn" data-district="大渡口区" data-city="chongqing" style="display:none;">大渡口区</button>
+            <button class="filter-btn" data-district="璧山区" data-city="chongqing" style="display:none;">璧山区</button>
         </div>
     </div>
 
@@ -1371,12 +1422,7 @@
 
             <div class="sidebar-card">
                 <div class="sidebar-title">📍 城市</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn active" data-city="shenzhen">深圳</button>
-                    <button class="filter-btn" data-city="guangzhou">广州</button>
-                    <button class="filter-btn" data-city="shanghai">上海</button>
-                    <button class="filter-btn" data-city="beijing">北京</button>
-                </div>
+                <div class="filter-bar" id="city-filter-sidebar" style="flex-direction: column; gap: 6px;"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
             </div>
 
             <div class="sidebar-card">
@@ -1408,7 +1454,7 @@
 
             <div class="sidebar-card">
                 <div class="sidebar-title">🌆 区县</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
+                <div class="filter-bar" id="sidebar-district-filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-district="all">全部区县</button>
                     <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
                     <button class="filter-btn" data-district="福田区" data-city="shenzhen">福田区</button>
@@ -1444,6 +1490,63 @@
                     <button class="filter-btn" data-district="丰台区" data-city="beijing" style="display:none;">丰台区</button>
                     <button class="filter-btn" data-district="通州区" data-city="beijing" style="display:none;">通州区</button>
                     <button class="filter-btn" data-district="石景山区" data-city="beijing" style="display:none;">石景山区</button>
+                    <button class="filter-btn" data-district="锦江区" data-city="chengdu" style="display:none;">锦江区</button>
+                    <button class="filter-btn" data-district="青羊区" data-city="chengdu" style="display:none;">青羊区</button>
+                    <button class="filter-btn" data-district="武侯区" data-city="chengdu" style="display:none;">武侯区</button>
+                    <button class="filter-btn" data-district="金牛区" data-city="chengdu" style="display:none;">金牛区</button>
+                    <button class="filter-btn" data-district="成华区" data-city="chengdu" style="display:none;">成华区</button>
+                    <button class="filter-btn" data-district="龙泉驿区" data-city="chengdu" style="display:none;">龙泉驿区</button>
+                    <button class="filter-btn" data-district="双流区" data-city="chengdu" style="display:none;">双流区</button>
+                    <button class="filter-btn" data-district="温江区" data-city="chengdu" style="display:none;">温江区</button>
+                    <button class="filter-btn" data-district="新都区" data-city="chengdu" style="display:none;">新都区</button>
+                    <button class="filter-btn" data-district="天府新区" data-city="chengdu" style="display:none;">天府新区</button>
+                    <button class="filter-btn" data-district="高新区" data-city="chengdu" style="display:none;">高新区</button>
+                    <button class="filter-btn" data-district="郫都区" data-city="chengdu" style="display:none;">郫都区</button>
+                    <button class="filter-btn" data-district="都江堰市" data-city="chengdu" style="display:none;">都江堰市</button>
+                    <button class="filter-btn" data-district="玄武区" data-city="nanjing" style="display:none;">玄武区</button>
+                    <button class="filter-btn" data-district="秦淮区" data-city="nanjing" style="display:none;">秦淮区</button>
+                    <button class="filter-btn" data-district="建邺区" data-city="nanjing" style="display:none;">建邺区</button>
+                    <button class="filter-btn" data-district="鼓楼区" data-city="nanjing" style="display:none;">鼓楼区</button>
+                    <button class="filter-btn" data-district="栖霞区" data-city="nanjing" style="display:none;">栖霞区</button>
+                    <button class="filter-btn" data-district="雨花台区" data-city="nanjing" style="display:none;">雨花台区</button>
+                    <button class="filter-btn" data-district="江宁区" data-city="nanjing" style="display:none;">江宁区</button>
+                    <button class="filter-btn" data-district="浦口区" data-city="nanjing" style="display:none;">浦口区</button>
+                    <button class="filter-btn" data-district="六合区" data-city="nanjing" style="display:none;">六合区</button>
+                    <button class="filter-btn" data-district="溧水区" data-city="nanjing" style="display:none;">溧水区</button>
+                    <button class="filter-btn" data-district="高淳区" data-city="nanjing" style="display:none;">高淳区</button>
+                    <button class="filter-btn" data-district="江岸区" data-city="wuhan" style="display:none;">江岸区</button>
+                    <button class="filter-btn" data-district="江汉区" data-city="wuhan" style="display:none;">江汉区</button>
+                    <button class="filter-btn" data-district="硚口区" data-city="wuhan" style="display:none;">硚口区</button>
+                    <button class="filter-btn" data-district="汉阳区" data-city="wuhan" style="display:none;">汉阳区</button>
+                    <button class="filter-btn" data-district="武昌区" data-city="wuhan" style="display:none;">武昌区</button>
+                    <button class="filter-btn" data-district="青山区" data-city="wuhan" style="display:none;">青山区</button>
+                    <button class="filter-btn" data-district="洪山区" data-city="wuhan" style="display:none;">洪山区</button>
+                    <button class="filter-btn" data-district="东西湖区" data-city="wuhan" style="display:none;">东西湖区</button>
+                    <button class="filter-btn" data-district="蔡甸区" data-city="wuhan" style="display:none;">蔡甸区</button>
+                    <button class="filter-btn" data-district="江夏区" data-city="wuhan" style="display:none;">江夏区</button>
+                    <button class="filter-btn" data-district="黄陂区" data-city="wuhan" style="display:none;">黄陂区</button>
+                    <button class="filter-btn" data-district="新洲区" data-city="wuhan" style="display:none;">新洲区</button>
+                    <button class="filter-btn" data-district="碑林区" data-city="xian" style="display:none;">碑林区</button>
+                    <button class="filter-btn" data-district="莲湖区" data-city="xian" style="display:none;">莲湖区</button>
+                    <button class="filter-btn" data-district="新城区" data-city="xian" style="display:none;">新城区</button>
+                    <button class="filter-btn" data-district="雁塔区" data-city="xian" style="display:none;">雁塔区</button>
+                    <button class="filter-btn" data-district="未央区" data-city="xian" style="display:none;">未央区</button>
+                    <button class="filter-btn" data-district="灞桥区" data-city="xian" style="display:none;">灞桥区</button>
+                    <button class="filter-btn" data-district="长安区" data-city="xian" style="display:none;">长安区</button>
+                    <button class="filter-btn" data-district="临潼区" data-city="xian" style="display:none;">临潼区</button>
+                    <button class="filter-btn" data-district="阎良区" data-city="xian" style="display:none;">阎良区</button>
+                    <button class="filter-btn" data-district="高陵区" data-city="xian" style="display:none;">高陵区</button>
+                    <button class="filter-btn" data-district="鄠邑区" data-city="xian" style="display:none;">鄠邑区</button>
+                    <button class="filter-btn" data-district="渝中区" data-city="chongqing" style="display:none;">渝中区</button>
+                    <button class="filter-btn" data-district="江北区" data-city="chongqing" style="display:none;">江北区</button>
+                    <button class="filter-btn" data-district="沙坪坝区" data-city="chongqing" style="display:none;">沙坪坝区</button>
+                    <button class="filter-btn" data-district="九龙坡区" data-city="chongqing" style="display:none;">九龙坡区</button>
+                    <button class="filter-btn" data-district="南岸区" data-city="chongqing" style="display:none;">南岸区</button>
+                    <button class="filter-btn" data-district="北碚区" data-city="chongqing" style="display:none;">北碚区</button>
+                    <button class="filter-btn" data-district="渝北区" data-city="chongqing" style="display:none;">渝北区</button>
+                    <button class="filter-btn" data-district="巴南区" data-city="chongqing" style="display:none;">巴南区</button>
+                    <button class="filter-btn" data-district="大渡口区" data-city="chongqing" style="display:none;">大渡口区</button>
+                    <button class="filter-btn" data-district="璧山区" data-city="chongqing" style="display:none;">璧山区</button>
                 </div>
             </div>
 
@@ -1657,10 +1760,22 @@
             '广州': 'guangzhou',
             '上海': 'shanghai',
             '北京': 'beijing',
+            '杭州': 'hangzhou',
+            '成都': 'chengdu',
+            '南京': 'nanjing',
+            '武汉': 'wuhan',
+            '西安': 'xian',
+            '重庆': 'chongqing',
             'shenzhen': 'shenzhen',
             'guangzhou': 'guangzhou',
             'shanghai': 'shanghai',
             'beijing': 'beijing',
+            'hangzhou': 'hangzhou',
+            'chengdu': 'chengdu',
+            'nanjing': 'nanjing',
+            'wuhan': 'wuhan',
+            'xian': 'xian',
+            'chongqing': 'chongqing',
         };
 
         function normalizeCity(city) {
@@ -2324,6 +2439,156 @@
             renderExhibitions();
         }
 
+        // ========== 区县/来源筛选：数据驱动补充（新增城市自动出现）==========
+        function cleanSourceLabel(s) {
+            if (!s) return s;
+            return String(s).replace(/官网$/, '').replace(/官方公众号$/, '').replace(/官微$/, '');
+        }
+
+        function bindDistrictButton(btn) {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('[data-district]').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentDistrictFilter = btn.dataset.district;
+                localStorage.setItem('schedule_district_filter', currentDistrictFilter);
+                currentPage = 1;
+                updateSourceButtonVisibility();
+                renderExhibitions();
+            });
+        }
+
+        function bindSourceButton(btn) {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('[data-source]').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentSourceFilter = btn.dataset.source;
+                localStorage.setItem('schedule_source_filter', currentSourceFilter);
+                currentPage = 1;
+                renderExhibitions();
+            });
+        }
+
+        function updateDistrictButtons() {
+            const districtButtons = document.querySelectorAll('[data-district]');
+            districtButtons.forEach(btn => {
+                if (btn.dataset.district === 'all') {
+                    btn.style.display = 'block';
+                } else {
+                    const btnCity = btn.dataset.city || 'shenzhen';
+                    if (btnCity === currentCityFilter) {
+                        btn.style.display = 'block';
+                    } else {
+                        btn.style.display = 'none';
+                    }
+                }
+            });
+        }
+
+        function updateSourceButtonVisibility() {
+            const sourceButtons = document.querySelectorAll('[data-source]');
+            sourceButtons.forEach(btn => {
+                const source = btn.dataset.source;
+                if (source === 'all') {
+                    btn.style.display = 'block';
+                } else {
+                    const btnCity = btn.dataset.city || 'shenzhen';
+                    const district = btn.dataset.district || getDistrict(source);
+                    const cityMatch = btnCity === currentCityFilter;
+                    const districtMatch = currentDistrictFilter === 'all' || district === currentDistrictFilter;
+                    if (cityMatch && districtMatch) {
+                        btn.style.display = 'block';
+                    } else {
+                        btn.style.display = 'none';
+                    }
+                }
+            });
+
+            if (currentSourceFilter !== 'all') {
+                const activeBtn = document.querySelector(`[data-source="${currentSourceFilter}"]`);
+                if (!activeBtn || activeBtn.style.display === 'none') {
+                    currentSourceFilter = 'all';
+                    localStorage.setItem('schedule_source_filter', 'all');
+                    sourceButtons.forEach(b => b.classList.remove('active'));
+                    sourceButtons.forEach(b => {
+                        if (b.dataset.source === 'all') b.classList.add('active');
+                    });
+                }
+            }
+        }
+
+        // 确保当前城市的区县/来源筛选按钮存在：缺失则从活动数据动态生成（新城市全自动）
+        // - 区县：所有城市都按数据补充缺失项（区县数量少、干净）
+        // - 来源：仅当该城市没有任何写死的来源按钮时才由数据生成（避免给已知城市追加上百个来源造成拥挤）
+        // - 同时处理顶部筛选栏与侧边栏（移动端）两组容器
+        function ensureCityFilters(city) {
+            if (!allExhibitions || !allExhibitions.length) return;
+            const cityNorm = normalizeCity(city);
+            const districts = new Set();
+            const sources = new Map(); // source -> {label, district}
+            allExhibitions.forEach(e => {
+                if (normalizeCity(e.city) !== cityNorm) return;
+                const d = getActivityDistrict(e);
+                if (d && d !== '其他') districts.add(d);
+                const s = e.source;
+                if (s && !sources.has(s)) {
+                    let label = cleanSourceLabel(s);
+                    // 若 source 是英文/代码 key 且活动带中文场馆名，用场馆名更友好（新城市无 curated 标签时）
+                    if (e.venue && /[一-龥]/.test(e.venue) && /^[A-Za-z0-9_.\-]+$/.test(s)) {
+                        label = e.venue;
+                    }
+                    sources.set(s, { label: label, district: d });
+                }
+            });
+
+            const pairs = [
+                { dBar: document.getElementById('district-filter-bar'), sBar: document.getElementById('source-filter-bar') },
+                { dBar: document.getElementById('sidebar-district-filter-bar'), sBar: document.getElementById('sidebar-source-filter-bar') }
+            ];
+
+            pairs.forEach(function(pair) {
+                const dBar = pair.dBar;
+                if (dBar) {
+                    const existing = {};
+                    dBar.querySelectorAll('[data-district]:not([data-district="all"])').forEach(b => { existing[b.dataset.district + '|' + (b.dataset.city || '')] = true; });
+                    districts.forEach(d => {
+                        if (!existing[d + '|' + city]) {
+                            const btn = document.createElement('button');
+                            btn.className = 'filter-btn';
+                            btn.setAttribute('data-district', d);
+                            btn.setAttribute('data-city', city);
+                            btn.textContent = d;
+                            bindDistrictButton(btn);
+                            dBar.appendChild(btn);
+                        }
+                    });
+                }
+
+                const sBar = pair.sBar;
+                if (sBar) {
+                    const hardcoded = sBar.querySelectorAll('[data-source]:not([data-source="all"])[data-city="' + city + '"]').length;
+                    if (hardcoded === 0) {
+                        const existing = {};
+                        sBar.querySelectorAll('[data-source]:not([data-source="all"])').forEach(b => { existing[b.dataset.source + '|' + (b.dataset.city || '')] = true; });
+                        sources.forEach((info, s) => {
+                            if (!existing[s + '|' + city]) {
+                                const btn = document.createElement('button');
+                                btn.className = 'filter-btn';
+                                btn.setAttribute('data-source', s);
+                                btn.setAttribute('data-city', city);
+                                if (info.district && info.district !== '其他') btn.setAttribute('data-district', info.district);
+                                btn.textContent = info.label;
+                                bindSourceButton(btn);
+                                sBar.appendChild(btn);
+                            }
+                        });
+                    }
+                }
+            });
+
+            updateDistrictButtons();
+            updateSourceButtonVisibility();
+        }
+
         function initFilters() {
             const cityButtons = document.querySelectorAll('[data-city]:not([data-district]):not([data-source])');
             cityButtons.forEach(btn => {
@@ -2357,25 +2622,10 @@
                     currentPage = 1;
                     updateDistrictButtons();
                     updateSourceButtonVisibility();
+                    ensureCityFilters(currentCityFilter);
                     renderExhibitions();
                 });
             });
-
-            function updateDistrictButtons() {
-                const districtButtons = document.querySelectorAll('[data-district]');
-                districtButtons.forEach(btn => {
-                    if (btn.dataset.district === 'all') {
-                        btn.style.display = 'block';
-                    } else {
-                        const btnCity = btn.dataset.city || 'shenzhen';
-                        if (btnCity === currentCityFilter) {
-                            btn.style.display = 'block';
-                        } else {
-                            btn.style.display = 'none';
-                        }
-                    }
-                });
-            }
 
             const timeButtons = document.querySelectorAll('[data-filter]');
             timeButtons.forEach(btn => {
@@ -2412,62 +2662,15 @@
                 if (btn.dataset.district === currentDistrictFilter) {
                     btn.classList.add('active');
                 }
-                btn.addEventListener('click', () => {
-                    districtButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentDistrictFilter = btn.dataset.district;
-                    localStorage.setItem('schedule_district_filter', currentDistrictFilter);
-                    currentPage = 1;
-                    updateSourceButtonVisibility();
-                    renderExhibitions();
-                });
+                bindDistrictButton(btn);
             });
-
-            function updateSourceButtonVisibility() {
-                const sourceButtons = document.querySelectorAll('[data-source]');
-                sourceButtons.forEach(btn => {
-                    const source = btn.dataset.source;
-                    if (source === 'all') {
-                        btn.style.display = 'block';
-                    } else {
-                        const btnCity = btn.dataset.city || 'shenzhen';
-                        const district = getDistrict(source);
-                        const cityMatch = btnCity === currentCityFilter;
-                        const districtMatch = currentDistrictFilter === 'all' || district === currentDistrictFilter;
-                        if (cityMatch && districtMatch) {
-                            btn.style.display = 'block';
-                        } else {
-                            btn.style.display = 'none';
-                        }
-                    }
-                });
-                
-                if (currentSourceFilter !== 'all') {
-                    const activeBtn = document.querySelector(`[data-source="${currentSourceFilter}"]`);
-                    if (!activeBtn || activeBtn.style.display === 'none') {
-                        currentSourceFilter = 'all';
-                        localStorage.setItem('schedule_source_filter', 'all');
-                        sourceButtons.forEach(b => b.classList.remove('active'));
-                        sourceButtons.forEach(b => {
-                            if (b.dataset.source === 'all') b.classList.add('active');
-                        });
-                    }
-                }
-            }
 
             const sourceButtons = document.querySelectorAll('[data-source]');
             sourceButtons.forEach(btn => {
                 if (btn.dataset.source === currentSourceFilter) {
                     btn.classList.add('active');
                 }
-                btn.addEventListener('click', () => {
-                    sourceButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentSourceFilter = btn.dataset.source;
-                    localStorage.setItem('schedule_source_filter', currentSourceFilter);
-                    currentPage = 1;
-                    renderExhibitions();
-                });
+                bindSourceButton(btn);
             });
 
             const feeButtons = document.querySelectorAll('[data-fee]');
@@ -2502,9 +2705,46 @@
 
             updateDistrictButtons();
             updateSourceButtonVisibility();
+            ensureCityFilters(currentCityFilter);
         }
 
-        function loadExhibitions() {
+        // 读取城市清单（与小程序共用 output/cities.json）；失败则兜底硬编码，保证按钮始终可见
+        async function loadCities() {
+            try {
+                const resp = await fetch('output/cities.json', { cache: 'no-cache' });
+                if (resp.ok) {
+                    const list = await resp.json();
+                    if (Array.isArray(list) && list.length) return list;
+                }
+            } catch (e) { console.warn('cities.json 加载失败，使用兜底清单', e); }
+            return [
+                {key:'shenzhen',name:'深圳'},{key:'guangzhou',name:'广州'},{key:'shanghai',name:'上海'},
+                {key:'beijing',name:'北京'},{key:'hangzhou',name:'杭州'},{key:'chengdu',name:'成都'},
+                {key:'nanjing',name:'南京'},{key:'wuhan',name:'武汉'},{key:'xian',name:'西安'},{key:'chongqing',name:'重庆'}
+            ];
+        }
+
+        // 把城市清单渲染到顶部与侧边栏两个容器（initFilters 会为其挂事件，故须在其之前执行）
+        function renderCityButtons(cities) {
+            const defaultCity = localStorage.getItem('schedule_city_filter') || 'shenzhen';
+            ['city-filter-bar', 'city-filter-sidebar'].forEach(function(id) {
+                const bar = document.getElementById(id);
+                if (!bar) return;
+                bar.innerHTML = '';
+                cities.forEach(function(c) {
+                    const btn = document.createElement('button');
+                    btn.className = 'filter-btn' + (c.key === defaultCity ? ' active' : '');
+                    btn.setAttribute('data-city', c.key);
+                    btn.textContent = c.name;
+                    bar.appendChild(btn);
+                });
+            });
+        }
+
+        async function loadExhibitions() {
+            const cities = await loadCities();
+            renderCityButtons(cities);
+
             const cacheKey = 'exhibitions_cache';
             const versionKey = 'exhibitions_version';
             const lastCheckKey = 'exhibitions_last_check';
@@ -2520,26 +2760,36 @@
                 try {
                     allExhibitions = JSON.parse(cachedData);
                     allExhibitions.forEach(e => e.city = normalizeCity(e.city));
-                    initFilters();
-                    renderExhibitions();
-                    console.log('使用缓存数据，版本:', cachedVersion);
+
+                    // 检查缓存是否包含 cities.json 中的所有城市
+                    // 缺失说明缓存是旧数据（新增城市前），跳过缓存渲染避免显示"无活动"
+                    const cachedCitySet = new Set(allExhibitions.map(e => e.city));
+                    const hasAllCities = cities.every(c => cachedCitySet.has(c.key));
+
+                    if (hasAllCities) {
+                        initFilters();
+                        renderExhibitions();
+                        console.log('使用缓存数据，版本:', cachedVersion);
+                    } else {
+                        console.log('缓存缺失部分城市，跳过缓存渲染，直接刷新');
+                    }
                 } catch (e) {
                     console.error('缓存数据解析失败:', e);
-                    fetchAndCache();
+                    fetchAndCache(cities);
                     return;
                 }
             }
-            
-            fetchAndCache();
-            
-            async function fetchAndCache() {
-                const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou'];
+
+            fetchAndCache(cities);
+
+            async function fetchAndCache(cities) {
+                const cityKeys = cities.map(c => c.key);
                 let allData = [];
                 let latestVersion = '';
                 let anySuccess = false;
                 let firstError = null;
 
-                for (const city of cities) {
+                for (const city of cityKeys) {
                     try {
                         const resp = await fetch('output/exhibitions_' + city + '.json', { cache: 'no-cache' });
                         if (!resp.ok) throw new Error('HTTP ' + resp.status);
@@ -2558,7 +2808,10 @@
                 }
 
                 if (anySuccess) {
-                    if (latestVersion !== cachedVersion || !cachedData) {
+                    // 版本变化 或 缓存缺失城市 时更新渲染，确保新增城市数据一定能加载
+                    const oldCitySet = new Set(allExhibitions.map(e => e.city));
+                    const hasNewCity = cityKeys.some(c => !oldCitySet.has(c));
+                    if (latestVersion !== cachedVersion || !cachedData || hasNewCity) {
                         try {
                             localStorage.setItem(cacheKey, JSON.stringify(allData));
                             localStorage.setItem(versionKey, latestVersion);

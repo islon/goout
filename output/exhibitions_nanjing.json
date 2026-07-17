@@ -1,0 +1,9002 @@
+[
+  {
+    "name": "南京博物院小小讲解员夏令营",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2027-07-05",
+    "end_date": "2027-07-11",
+    "fee": "免费需预约",
+    "description": "面向8-12岁少年暑期讲解员培训营，由南博专业讲解员授课，结业后可参与馆藏文物讲解志愿服务。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小讲解员",
+      "博物馆研学",
+      "志愿服务"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京博物院儿童研学营",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "fee": "收费",
+    "description": "以馆藏文物为线索开展五天研学课程，涵盖青铜器、陶器、玉器、书画等主题，让孩子在动手体验中学习历史。",
+    "source": "南京本地宝",
+    "highlights": [
+      "研学营",
+      "文物",
+      "动手体验"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南博镇院之宝导览研学",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-09-27",
+    "fee": "免费需预约",
+    "description": "由资深讲解员带领亲子家庭深度参观南博镇院之宝，了解战国错金银重络铜壶、东汉广陵王玺金印等国宝背后的故事。",
+    "source": "南京本地宝",
+    "highlights": [
+      "镇院之宝",
+      "国宝",
+      "导览"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京博物院民国馆沉浸研学",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-09-27",
+    "fee": "免费需预约",
+    "description": "走进南博民国馆，沉浸式体验民国南京街景，完成研学任务卡，了解民国时期市民生活与社会风貌。",
+    "source": "南京本地宝",
+    "highlights": [
+      "民国馆",
+      "沉浸式",
+      "研学任务"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京博物院非遗工坊体验",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-18",
+    "end_date": "2026-10-19",
+    "fee": "免费需预约",
+    "description": "南博非遗馆每周开设惠山泥人、苏绣、扎染等非遗手作工坊，亲子家庭可亲手制作作品带走。",
+    "source": "南京本地宝",
+    "highlights": [
+      "非遗工坊",
+      "手作",
+      "亲子"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "朝天宫小小讲解员培训",
+    "venue": "南京市博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2027-07-08",
+    "end_date": "2027-07-14",
+    "fee": "免费需预约",
+    "description": "南京市博物馆(朝天宫)暑期小小讲解员培训班，通过文物知识培训与讲解实训，培养少年儿童的口语表达与历史兴趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小讲解员",
+      "朝天宫",
+      "培训"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "龙蟠虎踞南京城市史研学",
+    "venue": "南京市博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-25",
+    "fee": "免费需预约",
+    "description": "以南京市博物馆基本陈列《龙蟠虎踞》为线索，系统了解南京从远古到明清的城市发展史，配套研学手册。",
+    "source": "南京本地宝",
+    "highlights": [
+      "城市史",
+      "龙蟠虎踞",
+      "研学手册"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "朝天宫馆藏精品文物研学",
+    "venue": "南京市博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-20",
+    "fee": "免费需预约",
+    "description": "精选南京市博物馆馆藏元青花、明代金银器等精品文物，开展深度研学课程，辅以文物拓印体验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "精品文物",
+      "元青花",
+      "拓印"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "科举博物馆金榜题名体验",
+    "venue": "南京中国科举博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-24",
+    "fee": "收费",
+    "description": "在科举博物馆穿上古装，模拟古代考生入场、答题、放榜全过程，体验金榜题名的喜悦，了解科举制度变迁。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科举体验",
+      "金榜题名",
+      "古装"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "科举博物馆小小举人研学营",
+    "venue": "南京中国科举博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2027-07-10",
+    "end_date": "2027-07-12",
+    "fee": "收费",
+    "description": "三日研学营带领孩子从童试到殿试逐级闯关，学习古代科举文化，结营颁发小小举人研学证书。",
+    "source": "南京本地宝",
+    "highlights": [
+      "研学营",
+      "科举",
+      "证书"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "科举博物馆科举文化课堂",
+    "venue": "南京中国科举博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-03",
+    "fee": "收费",
+    "description": "每周六开设科举文化专题课堂，讲解科举制度对中国古代社会的影响，搭配号舍实地体验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科举课堂",
+      "号舍",
+      "文化"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "六朝博物馆六朝文化研学",
+    "venue": "六朝博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-03",
+    "fee": "收费",
+    "description": "走进六朝博物馆，了解建康城的六朝风韵，通过文物拼图、陶俑临摹等互动活动深入学习六朝历史。",
+    "source": "南京本地宝",
+    "highlights": [
+      "六朝文化",
+      "建康城",
+      "互动"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "六朝博物馆青瓷探秘研学",
+    "venue": "六朝博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-10",
+    "fee": "收费",
+    "description": "围绕六朝青瓷专题开展研学，讲解鸡首壶、蛙形水注等典型器物，并安排青瓷黏土捏制体验环节。",
+    "source": "南京本地宝",
+    "highlights": [
+      "青瓷",
+      "鸡首壶",
+      "黏土"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "六朝博物馆小小讲解员",
+    "venue": "六朝博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "fee": "免费需预约",
+    "description": "六朝博物馆面向9-12岁学生招募小小讲解员，培训六朝历史知识与讲解礼仪，结业后可周末上岗。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小讲解员",
+      "六朝",
+      "培训"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江宁织造博物馆红楼梦研学",
+    "venue": "江宁织造博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-16",
+    "end_date": "2026-11-12",
+    "fee": "免费需预约",
+    "description": "以《红楼梦》与江宁织造署为研学主线，通过展厅寻宝、诗词诵读、人物图谱等环节，走进曹雪芹的文学世界。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红楼梦",
+      "曹雪芹",
+      "研学"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江宁织造博物馆织造技艺体验",
+    "venue": "江宁织造博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-11-06",
+    "fee": "免费需预约",
+    "description": "现场演示并指导亲子家庭体验简易织布操作，了解江宁织造署为皇家督造云锦、缎匹的历史与工艺。",
+    "source": "南京本地宝",
+    "highlights": [
+      "织造技艺",
+      "云锦",
+      "体验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江宁织造博物馆曹雪芹文化讲堂",
+    "venue": "江宁织造博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-29",
+    "fee": "免费需预约",
+    "description": "每周末举办曹雪芹与红楼文化系列讲座，邀请红学专家主讲，配合古琴、昆曲表演，营造雅致文化氛围。",
+    "source": "南京本地宝",
+    "highlights": [
+      "曹雪芹",
+      "红楼文化",
+      "讲座"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京云锦博物馆织造体验",
+    "venue": "南京云锦博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-08",
+    "end_date": "2026-10-08",
+    "fee": "收费",
+    "description": "在云锦博物馆观看大花楼木织机现场织造演示，并亲子动手体验简易挑花工序，感受寸锦寸金的云锦工艺。",
+    "source": "南京本地宝",
+    "highlights": [
+      "云锦",
+      "大花楼木织机",
+      "织造体验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "云锦博物馆大花楼木织机研学",
+    "venue": "南京云锦博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-09-24",
+    "fee": "收费",
+    "description": "深度研学世界非遗南京云锦木机妆花手工织造技艺，了解上下两人配合织造的奥秘，并完成研学报告。",
+    "source": "南京本地宝",
+    "highlights": [
+      "大花楼木织机",
+      "世界非遗",
+      "研学"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京古生物博物馆恐龙化石研学",
+    "venue": "南京古生物博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-11-23",
+    "fee": "免费需预约",
+    "description": "以恐龙化石为主题开展研学，认识马门溪龙、禄丰龙等中国恐龙，并通过化石拓印带走专属作品。",
+    "source": "南京本地宝",
+    "highlights": [
+      "恐龙化石",
+      "马门溪龙",
+      "拓印"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "古生物博物馆生命演化研学",
+    "venue": "南京古生物博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-03",
+    "end_date": "2026-11-13",
+    "fee": "免费需预约",
+    "description": "沿着生命演化时间轴，从寒武纪大爆发到人类出现，系统学习地球生命演化历程，配套实验观察环节。",
+    "source": "南京本地宝",
+    "highlights": [
+      "生命演化",
+      "寒武纪",
+      "实验"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "古生物博物馆化石修复体验",
+    "venue": "南京古生物博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-10",
+    "end_date": "2026-10-21",
+    "fee": "收费",
+    "description": "在专业老师指导下使用工具清理修复三叶虫化石，体验古生物学家的工作日常，化石作品可带走收藏。",
+    "source": "南京本地宝",
+    "highlights": [
+      "化石修复",
+      "三叶虫",
+      "动手"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京地质博物馆矿物探秘研学",
+    "venue": "南京地质博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "description": "地质博物馆矿物厅开展矿物探秘研学，认识水晶、萤石、孔雀石等矿物，并设置寻宝闯关游戏。",
+    "source": "南京本地宝",
+    "highlights": [
+      "矿物",
+      "水晶",
+      "寻宝"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京地质博物馆地球奥秘课堂",
+    "venue": "南京地质博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-09",
+    "fee": "免费",
+    "description": "每周末地球奥秘课堂开讲，讲解火山、地震、板块运动等地球科学知识，配合地震模拟平台体验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "地球奥秘",
+      "火山",
+      "地震模拟"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京博物院数字馆研学",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-14",
+    "end_date": "2027-01-13",
+    "fee": "免费需预约",
+    "description": "南博数字馆利用多媒体技术再现古代场景，亲子家庭可通过互动装置探索文物背后的科技与艺术。",
+    "source": "南京本地宝",
+    "highlights": [
+      "数字馆",
+      "多媒体",
+      "互动"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京博物院艺术馆亲子研学",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-12",
+    "end_date": "2026-10-07",
+    "fee": "免费需预约",
+    "description": "南博艺术馆傅抱石国画、陈之佛工笔等专题展厅亲子研学，结合临摹体验感受中国画的笔墨意趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "艺术馆",
+      "傅抱石",
+      "临摹"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "朝天宫虎踞龙盘研学营",
+    "venue": "南京市博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-07",
+    "fee": "收费",
+    "description": "五日研学营围绕南京六朝古都身份展开，每日一主题，从史前到民国，最后一天举行研学成果展示。",
+    "source": "南京本地宝",
+    "highlights": [
+      "研学营",
+      "六朝古都",
+      "成果展示"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "科举博物馆号舍体验日",
+    "venue": "南京中国科举博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "fee": "收费",
+    "description": "还原古代考生在江南贡号舍内三日考试的艰苦场景，让孩子体会古人求学的艰辛，珍惜当下学习机会。",
+    "source": "南京本地宝",
+    "highlights": [
+      "号舍",
+      "江南贡院",
+      "体验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "六朝博物馆建康城研学",
+    "venue": "六朝博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-20",
+    "fee": "收费",
+    "description": "以六朝建康城为研究对象，结合考古遗址介绍城墙、宫殿、里坊布局，绘制建康城复原图。",
+    "source": "南京本地宝",
+    "highlights": [
+      "建康城",
+      "考古",
+      "复原图"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "古生物博物馆达尔文课堂",
+    "venue": "南京古生物博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "fee": "免费需预约",
+    "description": "邀请古生物学家开讲达尔文与进化论，结合馆藏标本讲解生物进化证据，激发孩子科学探究兴趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "达尔文",
+      "进化论",
+      "讲座"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆科学实验秀",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-26",
+    "end_date": "2026-10-26",
+    "fee": "免费需预约",
+    "description": "南京科技馆暑期每周末上演科学实验秀，干冰、大象牙膏、空气炮等经典实验轮番登场，让孩子爱上科学。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科学实验秀",
+      "干冰",
+      "互动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆机器人体验营",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-10-30",
+    "fee": "收费",
+    "description": "三日机器人体验营，学习机器人组装与图形化编程，最后一天举办机器人对抗赛，培养工程思维。",
+    "source": "南京本地宝",
+    "highlights": [
+      "机器人",
+      "编程",
+      "对抗赛"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆球幕影院观影",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-10-11",
+    "end_date": "2027-04-12",
+    "fee": "收费",
+    "description": "南京科技馆球幕影院暑期加映《宇宙之旅》《深海探秘》等科普大片，沉浸式穹顶画面带来震撼观影体验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "球幕影院",
+      "宇宙",
+      "沉浸式"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆4D影院科普观影",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-12-09",
+    "fee": "收费",
+    "description": "4D影院结合动感座椅与风、雨、雾特效放映科普短片，让亲子家庭身临其境感受自然奇观。",
+    "source": "南京本地宝",
+    "highlights": [
+      "4D影院",
+      "动感座椅",
+      "科普"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆暑期科学营",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-07",
+    "fee": "收费",
+    "description": "五日科学营覆盖物理、化学、生物、天文、地球五大主题，每日一主题实验与展品深度讲解。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科学营",
+      "五日",
+      "实验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京科技馆航天主题研学",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "围绕中国航天事业开展研学，了解长征火箭、神舟飞船、空间站，并动手制作水火箭发射比赛。",
+    "source": "南京本地宝",
+    "highlights": [
+      "航天",
+      "水火箭",
+      "空间站"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆地震科普体验",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-11-12",
+    "fee": "免费需预约",
+    "description": "地震科普展厅结合地震模拟平台，让孩子在震动中学习避险知识，掌握应急逃生技能。",
+    "source": "南京本地宝",
+    "highlights": [
+      "地震科普",
+      "避险",
+      "模拟平台"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆电与磁实验课",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-10-27",
+    "fee": "免费需预约",
+    "description": "电磁实验课通过静电球、电磁感应等经典演示，深入浅出讲解电与磁的关系，并制作简易电磁铁。",
+    "source": "南京本地宝",
+    "highlights": [
+      "电磁",
+      "静电球",
+      "实验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京科技馆创客工坊",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-11-13",
+    "fee": "收费",
+    "description": "创客工坊开设3D打印、激光切割、Arduino开源硬件等课程，培养孩子的动手创造与编程能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "创客",
+      "3D打印",
+      "Arduino"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆少儿编程营",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-22",
+    "end_date": "2026-08-21",
+    "fee": "收费",
+    "description": "Scratch图形化编程营，让孩子在游戏创作中学习编程逻辑，结营作品可在线分享给亲友。",
+    "source": "南京本地宝",
+    "highlights": [
+      "少儿编程",
+      "Scratch",
+      "游戏创作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆天文观测活动",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-09-20",
+    "fee": "免费需预约",
+    "description": "每月组织天文观测夜活动，使用专业望远镜观测月球环形山、土星光环，并由天文老师讲解星空知识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "天文观测",
+      "望远镜",
+      "月球"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京科技馆化学魔法秀",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-30",
+    "fee": "免费需预约",
+    "description": "化学魔法秀演示变色反应、化学发光、自燃等奇妙化学现象，并讲解其中原理，揭开化学的神秘面纱。",
+    "source": "南京本地宝",
+    "highlights": [
+      "化学",
+      "变色反应",
+      "魔法秀"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "江苏科技馆奇妙科学夜",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "收费",
+    "description": "夜宿江苏科技馆，在展品间搭建帐篷，开展夜探展品、科学影院、密室闯关等夜间专属活动。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科学夜",
+      "夜宿",
+      "密室"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "江苏科技馆机器人擂台赛",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-26",
+    "fee": "收费",
+    "description": "两日机器人擂台赛面向8-14岁少年，现场组装机器人并编程，在擂台上一较高下，培养竞技精神。",
+    "source": "南京本地宝",
+    "highlights": [
+      "机器人",
+      "擂台赛",
+      "竞技"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆无人机体验",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-10-06",
+    "fee": "收费",
+    "description": "无人机体验课讲解飞行原理与安全规范，孩子在专业教练指导下亲自操控无人机穿越障碍赛道。",
+    "source": "南京本地宝",
+    "highlights": [
+      "无人机",
+      "飞行原理",
+      "障碍赛"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆VR科技体验",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-10-15",
+    "fee": "免费需预约",
+    "description": "VR体验区提供太空漫步、深海探险、恐龙世界等虚拟现实内容，沉浸式感受前沿科技魅力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "VR",
+      "虚拟现实",
+      "沉浸式"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆物理大闯关",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-20",
+    "fee": "免费需预约",
+    "description": "物理大闯关设置力学、光学、声学等十大关卡，亲子协作完成挑战集章，兑换科普小礼品。",
+    "source": "南京本地宝",
+    "highlights": [
+      "物理",
+      "闯关",
+      "集章"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆生命科学营",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "fee": "收费",
+    "description": "五日生命科学营聚焦人体奥秘与基因知识，配合显微镜观察细胞、DNA模型搭建等动手实验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "生命科学",
+      "显微镜",
+      "DNA"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "江苏科技馆天文馆研学",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-07",
+    "fee": "收费",
+    "description": "天文馆研学营系统学习太阳系、恒星演化、黑洞等天文知识，并在天象厅观看四季星空演示。",
+    "source": "南京本地宝",
+    "highlights": [
+      "天文馆",
+      "太阳系",
+      "星空"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆少儿科学家培养计划",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-30",
+    "end_date": "2026-10-30",
+    "fee": "收费",
+    "description": "面向9-12岁少儿的科学家培养计划，每周一个科研小课题，从提出假设到实验验证完整体验科研过程。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科学家",
+      "科研课题",
+      "实验验证"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆环保主题研学",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-24",
+    "fee": "免费需预约",
+    "description": "环保研学围绕垃圾分类、水净化、新能源等主题，通过实验与游戏让孩子成为环保小卫士。",
+    "source": "南京本地宝",
+    "highlights": [
+      "环保",
+      "垃圾分类",
+      "新能源"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆能源科普体验",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-16",
+    "fee": "免费需预约",
+    "description": "能源科普体验区展示太阳能、风能、核能等清洁能源原理，孩子可亲手组装太阳能小车比拼速度。",
+    "source": "南京本地宝",
+    "highlights": [
+      "能源",
+      "太阳能",
+      "风能"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆人工智能课堂",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-09",
+    "fee": "收费",
+    "description": "AI课堂讲解人工智能发展史与基本原理，体验图像识别、语音对话等AI应用，培养计算思维。",
+    "source": "南京本地宝",
+    "highlights": [
+      "人工智能",
+      "图像识别",
+      "计算思维"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆3D打印体验",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-11-26",
+    "fee": "收费",
+    "description": "3D打印体验课讲解建模基础与打印原理，孩子可设计并打印专属姓名钥匙扣带回家。",
+    "source": "南京本地宝",
+    "highlights": [
+      "3D打印",
+      "建模",
+      "钥匙扣"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆机械原理实验",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-23",
+    "fee": "免费需预约",
+    "description": "机械原理实验通过齿轮、杠杆、滑轮等教具，让孩子在动手拼装中理解简单机械的工作原理。",
+    "source": "南京本地宝",
+    "highlights": [
+      "机械原理",
+      "齿轮",
+      "拼装"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆水科学实验",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-16",
+    "end_date": "2026-10-04",
+    "fee": "免费需预约",
+    "description": "水科学实验围绕水的三态、浮力、表面张力等展开，通过趣味实验认识水的神奇特性。",
+    "source": "南京本地宝",
+    "highlights": [
+      "水科学",
+      "浮力",
+      "表面张力"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京科技馆光影魔术实验",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-16",
+    "fee": "免费需预约",
+    "description": "光影魔术实验利用棱镜、激光、光纤等器材演示光的反射、折射、色散，揭开光学奥秘。",
+    "source": "南京本地宝",
+    "highlights": [
+      "光影",
+      "棱镜",
+      "色散"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "江苏科技馆未来交通体验",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-28",
+    "fee": "免费需预约",
+    "description": "未来交通体验区展示无人驾驶、磁悬浮、超级高铁等前沿交通技术，孩子可模拟驾驶未来车辆。",
+    "source": "南京本地宝",
+    "highlights": [
+      "未来交通",
+      "无人驾驶",
+      "磁悬浮"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京科技馆太空探索营",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-21",
+    "fee": "收费",
+    "description": "太空探索营模拟宇航员训练，体验失重、太空行走、空间站对接等项目，圆孩子一个航天梦。",
+    "source": "南京本地宝",
+    "highlights": [
+      "太空探索",
+      "宇航员",
+      "失重"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江苏科技馆生物多样性科普",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-11-14",
+    "fee": "免费需预约",
+    "description": "生物多样性科普展结合标本与多媒体，介绍中国珍稀动植物及保护现状，培养生态保护意识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "生物多样性",
+      "珍稀动植物",
+      "生态保护"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖亲子骑行",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-09-17",
+    "fee": "免费",
+    "description": "玄武湖环湖绿道亲子骑行活动，沿湖欣赏湖光山色，全程约10公里，适合家庭休闲运动。",
+    "source": "南京本地宝",
+    "highlights": [
+      "骑行",
+      "环湖",
+      "亲子运动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖自然观察课",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-14",
+    "fee": "免费",
+    "description": "自然导师带领亲子家庭在玄武湖观察水生植物、昆虫与水鸟，学习用自然笔记记录观察发现。",
+    "source": "南京本地宝",
+    "highlights": [
+      "自然观察",
+      "水生植物",
+      "自然笔记"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖赏荷观鸟活动",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-06",
+    "end_date": "2026-11-20",
+    "fee": "免费",
+    "description": "夏季玄武湖荷花盛开，活动结合赏荷与观鸟，由科普老师讲解常见水鸟识别与荷花品种知识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "赏荷",
+      "观鸟",
+      "水鸟"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖环湖亲子跑",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "fee": "免费",
+    "description": "玄武湖环湖亲子欢乐跑设3公里与5公里两个组别，完赛家庭可获纪念奖牌，倡导健康生活方式。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子跑",
+      "奖牌",
+      "健康"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖夜探自然",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-05",
+    "fee": "收费",
+    "description": "夜间自然探索活动，使用手电与放大镜寻找夜行昆虫、青蛙与夜栖鸟类，感受不一样的湖畔夜晚。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夜探",
+      "昆虫",
+      "夜行生物"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "中山植物园植物科普营",
+    "venue": "中山植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-20",
+    "fee": "收费",
+    "description": "五日植物科普营，在中山植物园认识华东地区代表植物，学习植物分类与标本制作。",
+    "source": "南京本地宝",
+    "highlights": [
+      "植物科普",
+      "标本制作",
+      "分类"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "中山植物园药用植物认知",
+    "venue": "中山植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-25",
+    "fee": "收费",
+    "description": "药用植物园专场活动，介绍金银花、薄荷、艾草等常见药用植物的功效与辨识方法。",
+    "source": "南京本地宝",
+    "highlights": [
+      "药用植物",
+      "金银花",
+      "辨识"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "中山植物园热带植物探秘",
+    "venue": "中山植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-22",
+    "end_date": "2026-09-16",
+    "fee": "收费",
+    "description": "走进热带植物温室，认识见血封喉、面包树、可可等热带奇花异木，了解热带雨林生态系统。",
+    "source": "南京本地宝",
+    "highlights": [
+      "热带植物",
+      "温室",
+      "雨林"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "中山植物园自然笔记课",
+    "venue": "中山植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-29",
+    "end_date": "2026-10-10",
+    "fee": "收费",
+    "description": "自然笔记课教授绘画与文字结合的记录方法，孩子在植物园现场写生并撰写观察日记。",
+    "source": "南京本地宝",
+    "highlights": [
+      "自然笔记",
+      "写生",
+      "观察日记"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "中山植物园秋季采种",
+    "venue": "中山植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-15",
+    "end_date": "2026-10-15",
+    "fee": "收费",
+    "description": "秋季采种活动带领亲子家庭采集植物种子，学习种子传播方式，并亲手制作种子标本盒。",
+    "source": "南京本地宝",
+    "highlights": [
+      "采种",
+      "种子传播",
+      "标本盒"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "红山森林动物园夜探",
+    "venue": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-21",
+    "fee": "收费",
+    "description": "夜间动物园探秘，观察夜行性动物的活跃行为，聆听动物夜间叫声，体验与众不同的动物园之夜。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夜探",
+      "夜行动物",
+      "动物园"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "红山动物园小小饲养员",
+    "venue": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-11-04",
+    "fee": "收费",
+    "description": "小小饲养员体验活动，在饲养员指导下为部分温和动物准备食物、清理笼舍，了解动物福利理念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小饲养员",
+      "动物福利",
+      "体验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "红山动物园动物丰容体验",
+    "venue": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-17",
+    "end_date": "2026-09-21",
+    "fee": "收费",
+    "description": "动物丰容体验让孩子为动物制作玩具与取食装置，激发动物自然行为，理解现代动物园理念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "丰容",
+      "动物玩具",
+      "自然行为"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "红山动物园本土物种研学",
+    "venue": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-22",
+    "end_date": "2026-10-22",
+    "fee": "收费",
+    "description": "本土物种研学聚焦小熊猫、金丝猴、扬子鳄等中国特有动物，讲解保护现状与栖息地知识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "本土物种",
+      "小熊猫",
+      "扬子鳄"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "红山动物园灵长类科普",
+    "venue": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "收费",
+    "description": "灵长类科普专场，介绍猩猩、长臂猿、猕猴等灵长类动物的智慧与社会行为，观察族群互动。",
+    "source": "南京本地宝",
+    "highlights": [
+      "灵长类",
+      "长臂猿",
+      "社会行为"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "莫愁湖公园荷花研学",
+    "venue": "莫愁湖公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-11-25",
+    "fee": "免费",
+    "description": "莫愁湖荷花展期间开展荷花研学，认识不同荷花品种，学习荷花与睡莲的区别，绘画写生。",
+    "source": "南京本地宝",
+    "highlights": [
+      "荷花",
+      "睡莲",
+      "写生"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "莫愁湖公园亲子划船",
+    "venue": "莫愁湖公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-18",
+    "end_date": "2027-01-18",
+    "fee": "收费",
+    "description": "莫愁湖亲子划船，脚踏船与电动船任选，泛舟湖上赏湖光柳色，享受悠闲亲子时光。",
+    "source": "南京本地宝",
+    "highlights": [
+      "划船",
+      "脚踏船",
+      "休闲"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "莫愁湖公园植物寻宝",
+    "venue": "莫愁湖公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "description": "植物寻宝活动发放寻宝地图，亲子家庭按图索骥寻找园内特色植物，集齐印章兑换奖品。",
+    "source": "南京本地宝",
+    "highlights": [
+      "植物寻宝",
+      "地图",
+      "集章"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京绿博园植物大观研学",
+    "venue": "南京绿博园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "description": "绿博园植物大观研学，走访全国各地园林展园，认识不同地域植物特色与园林风格。",
+    "source": "南京本地宝",
+    "highlights": [
+      "植物大观",
+      "园林",
+      "展园"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京绿博园花卉科普",
+    "venue": "南京绿博园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-13",
+    "fee": "免费",
+    "description": "花卉科普活动介绍绿博园当季盛开花卉，讲解花语与栽培知识，可领取花种带回家种植。",
+    "source": "南京本地宝",
+    "highlights": [
+      "花卉",
+      "花语",
+      "种植"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京绿博园亲子定向越野",
+    "venue": "南京绿博园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-09-07",
+    "fee": "收费",
+    "description": "亲子定向越野使用地图与指北针在绿博园内寻找打卡点，锻炼孩子的方向感与团队协作能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "定向越野",
+      "指北针",
+      "团队协作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "珍珠泉泉群自然研学",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-29",
+    "end_date": "2026-11-29",
+    "fee": "收费",
+    "description": "围绕珍珠泉泉水成因开展研学，实验演示泉水气泡原理，并考察老山地下水补给系统。",
+    "source": "南京本地宝",
+    "highlights": [
+      "珍珠泉",
+      "泉水成因",
+      "实验"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "珍珠泉野生动物观赏",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-29",
+    "end_date": "2027-01-29",
+    "fee": "收费",
+    "description": "珍珠泉野生动物园观赏活动，可见东北虎、非洲狮、黑熊等猛兽，并观看猛兽表演。",
+    "source": "南京本地宝",
+    "highlights": [
+      "野生动物",
+      "猛兽",
+      "表演"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "珍珠泉竹筏戏水",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-16",
+    "end_date": "2026-12-16",
+    "fee": "收费",
+    "description": "珍珠泉竹筏戏水，全家共撑竹筏游湖，湖水晶莹见底，岸边翠竹成荫，是夏日消暑好去处。",
+    "source": "南京本地宝",
+    "highlights": [
+      "竹筏",
+      "戏水",
+      "消暑"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "老山国家森林公园徒步",
+    "venue": "老山国家森林公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-18",
+    "end_date": "2027-01-17",
+    "fee": "收费",
+    "description": "老山森林徒步线路全程约8公里，沿途穿越密林溪谷，呼吸负氧离子，适合亲子户外锻炼。",
+    "source": "南京本地宝",
+    "highlights": [
+      "徒步",
+      "负氧离子",
+      "森林"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "老山森林观鸟研学",
+    "venue": "老山国家森林公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-16",
+    "end_date": "2026-10-27",
+    "fee": "收费",
+    "description": "老山森林是多种林鸟栖息地，观鸟研学教授望远镜使用与鸟类辨识，记录观察到的鸟种。",
+    "source": "南京本地宝",
+    "highlights": [
+      "观鸟",
+      "林鸟",
+      "望远镜"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "老山森林昆虫探秘",
+    "venue": "老山国家森林公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-08",
+    "end_date": "2026-10-19",
+    "fee": "收费",
+    "description": "昆虫探秘活动使用捕虫网与观察盒，寻找蝴蝶、蜻蜓、甲虫等森林昆虫，学习昆虫分类。",
+    "source": "南京本地宝",
+    "highlights": [
+      "昆虫",
+      "蝴蝶",
+      "捕虫"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "老山森林植物认知",
+    "venue": "老山国家森林公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-10-06",
+    "fee": "收费",
+    "description": "植物认知活动由植物学家带领，识别老山常见乔木与灌木，学习植物与环境的相互关系。",
+    "source": "南京本地宝",
+    "highlights": [
+      "植物认知",
+      "乔木",
+      "灌木"
+    ],
+    "type": "研学",
+    "is_family_friendly": false
+  },
+  {
+    "name": "玄武湖亲子皮划艇",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-10-29",
+    "fee": "收费",
+    "description": "玄武湖亲子皮划艇体验，专业教练指导基础划桨动作，全家共划皮划艇畅游湖面，安全又好玩。",
+    "source": "南京本地宝",
+    "highlights": [
+      "皮划艇",
+      "划桨",
+      "亲子"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "红山动物园鸟类科普",
+    "venue": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "鸟类科普专场聚焦园内火烈鸟、犀鸟、鸸鹋等鸟类，讲解飞行原理与鸟类适应性进化。",
+    "source": "南京本地宝",
+    "highlights": [
+      "鸟类",
+      "火烈鸟",
+      "进化"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京欢乐谷暑期狂欢节",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-09-29",
+    "fee": "收费",
+    "description": "南京欢乐谷暑期狂欢节延长夜场开放，电音派对、水上乐园、烟花秀轮番上演，掀起夏日狂欢热潮。",
+    "source": "南京本地宝",
+    "highlights": [
+      "狂欢节",
+      "电音派对",
+      "烟花秀"
+    ],
+    "type": "演出",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京欢乐谷夜场狂欢",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-12-10",
+    "fee": "收费",
+    "description": "欢乐谷夜场开放至22:00，夜场票优惠畅玩过山车、激流勇进等项目，欣赏璀璨夜景灯光秀。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夜场",
+      "灯光秀",
+      "过山车"
+    ],
+    "type": "演出",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京欢乐谷亲子过山车",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-11",
+    "end_date": "2027-01-11",
+    "fee": "收费",
+    "description": "欢乐谷亲子过山车专为家庭设计，速度适中安全有趣，让孩子在欢笑中体验飞翔的快感。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子过山车",
+      "家庭",
+      "飞翔"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京欢乐谷花车巡游",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-01",
+    "end_date": "2027-01-01",
+    "fee": "收费",
+    "description": "每日上演盛大花车巡游，主题花车与卡通人物沿途互动，孩子可与喜爱的IP角色合影留念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "花车巡游",
+      "卡通人物",
+      "合影"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京欢乐谷主题夏令营",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-14",
+    "fee": "收费",
+    "description": "欢乐谷五日主题夏令营，结合游乐项目与团队挑战，培养孩子勇气、合作与自理能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夏令营",
+      "团队挑战",
+      "勇气"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玛雅海滩水公园戏水节",
+    "venue": "玛雅海滩水公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-08",
+    "end_date": "2026-11-08",
+    "fee": "收费",
+    "description": "玛雅海滩水公园暑期戏水节开放所有水上项目，造浪池、滑道、漂流河一票通玩，清凉度夏。",
+    "source": "南京本地宝",
+    "highlights": [
+      "戏水节",
+      "造浪池",
+      "清凉"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "玛雅海滩水公园亲子戏水",
+    "venue": "玛雅海滩水公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-15",
+    "end_date": "2026-11-15",
+    "fee": "收费",
+    "description": "亲子戏水专区设有浅水池、迷你滑梯与水上游乐设施，适合低龄儿童安全玩水，全家共享清凉。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子戏水",
+      "浅水池",
+      "低龄"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玛雅海滩造浪池派对",
+    "venue": "玛雅海滩水公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-09-23",
+    "fee": "收费",
+    "description": "造浪池派对每小时造浪一次，搭配DJ音乐与水上表演，亲子家庭在浪花中尽情狂欢。",
+    "source": "南京本地宝",
+    "highlights": [
+      "造浪池",
+      "DJ",
+      "派对"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玛雅海滩水上电音节",
+    "venue": "玛雅海滩水公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-16",
+    "fee": "收费",
+    "description": "每周末水上电音节邀请知名DJ现场打碟，搭配激光灯光与水幕秀，打造夏日最潮水上派对。",
+    "source": "南京本地宝",
+    "highlights": [
+      "电音节",
+      "激光",
+      "水幕秀"
+    ],
+    "type": "演出",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京海底世界海洋科普营",
+    "venue": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-12-04",
+    "fee": "收费",
+    "description": "海洋科普营带领孩子走进海底世界幕后，了解海洋生物饲养与水质维护，亲手喂食部分海洋生物。",
+    "source": "南京本地宝",
+    "highlights": [
+      "海洋科普",
+      "幕后",
+      "喂食"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京海底世界企鹅科普",
+    "venue": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-12-09",
+    "fee": "收费",
+    "description": "企鹅科普专场介绍洪堡企鹅的生活习性，观看企鹅喂食与游泳，了解极地动物保护知识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "企鹅",
+      "洪堡企鹅",
+      "极地保护"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京海底世界海豚表演",
+    "venue": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-08",
+    "end_date": "2027-02-07",
+    "fee": "收费",
+    "description": "海豚表演每日多场，海豚跳跃、顶球、与人互动，展现海洋精灵的智慧与灵动，深受亲子家庭喜爱。",
+    "source": "南京本地宝",
+    "highlights": [
+      "海豚",
+      "表演",
+      "互动"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京海底世界夜宿海洋馆",
+    "venue": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-09-24",
+    "fee": "收费",
+    "description": "夜宿海洋馆在海底隧道旁搭帐篷，伴鱼群入眠，次日清晨专属讲解与喂食体验，难忘的海洋之夜。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夜宿",
+      "海底隧道",
+      "帐篷"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京海底世界触摸池体验",
+    "venue": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-11-24",
+    "fee": "收费",
+    "description": "触摸池体验区可亲手触摸海星、海参、鲨鱼卵等海洋生物，在安全范围内感受海洋生命的质感。",
+    "source": "南京本地宝",
+    "highlights": [
+      "触摸池",
+      "海星",
+      "海参"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "银杏湖乐园亲子游乐",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-07",
+    "end_date": "2027-01-07",
+    "fee": "收费",
+    "description": "银杏湖乐园依山傍水，亲子游乐区有过山车、旋转木马、海盗船等项目，适合不同年龄段儿童。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子游乐",
+      "旋转木马",
+      "海盗船"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "银杏湖乐园水上乐园",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-30",
+    "end_date": "2026-10-30",
+    "fee": "收费",
+    "description": "银杏湖水上乐园开放造浪池、儿童戏水区与水上滑梯，全家在湖光山色中享受清凉一夏。",
+    "source": "南京本地宝",
+    "highlights": [
+      "水上乐园",
+      "造浪池",
+      "滑梯"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "银杏湖乐园童话王国",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-11-30",
+    "fee": "收费",
+    "description": "童话王国主题区还原经典童话场景，孩子可邂逅白雪公主、灰姑娘等角色，沉浸式体验童话世界。",
+    "source": "南京本地宝",
+    "highlights": [
+      "童话王国",
+      "白雪公主",
+      "沉浸式"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "银杏湖乐园主题夏令营",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "银杏湖主题夏令营结合游乐与自然探索，白天玩项目，夜晚观星露营，丰富孩子暑期生活。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夏令营",
+      "观星",
+      "露营"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "银杏湖乐园高尔夫体验",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-12-18",
+    "fee": "收费",
+    "description": "银杏湖高尔夫体验区由专业教练指导亲子家庭挥杆入门，在青山绿水间感受高尔夫运动魅力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "高尔夫",
+      "挥杆",
+      "运动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "弘阳欢乐世界亲子游",
+    "venue": "弘阳欢乐世界",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-12-11",
+    "fee": "收费",
+    "description": "弘阳欢乐世界集室内外游乐于一体，亲子家庭可一站式体验过山车、摩天轮、旋转木马等项目。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子游",
+      "摩天轮",
+      "一站式"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "弘阳欢乐世界室内乐园",
+    "venue": "弘阳欢乐世界",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-11",
+    "end_date": "2027-02-10",
+    "fee": "收费",
+    "description": "室内乐园不受天气影响，设有欢乐小镇、糖果乐园等主题区域，是夏季避暑游乐的好去处。",
+    "source": "南京本地宝",
+    "highlights": [
+      "室内乐园",
+      "避暑",
+      "主题区"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "弘阳欢乐世界摩天轮",
+    "venue": "弘阳欢乐世界",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-24",
+    "end_date": "2027-03-26",
+    "fee": "收费",
+    "description": "弘阳摩天轮高116米，是南京地标之一，亲子家庭可在轿厢内俯瞰长江与城市美景，浪漫又惬意。",
+    "source": "南京本地宝",
+    "highlights": [
+      "摩天轮",
+      "长江",
+      "地标"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "弘阳欢乐世界嘉年华",
+    "venue": "弘阳欢乐世界",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-13",
+    "end_date": "2026-10-30",
+    "fee": "收费",
+    "description": "暑期嘉年华带来巡游、魔术、小丑互动等精彩演出，搭配美食市集，全家尽享欢乐时光。",
+    "source": "南京本地宝",
+    "highlights": [
+      "嘉年华",
+      "魔术",
+      "小丑"
+    ],
+    "type": "演出",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京欢乐谷亲子剧场",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-04",
+    "end_date": "2026-12-04",
+    "fee": "收费",
+    "description": "欢乐谷亲子剧场上演儿童舞台剧，融合杂技、舞蹈与互动环节，让孩子在欢笑中感受艺术魅力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子剧场",
+      "舞台剧",
+      "杂技"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京欢乐谷魔法城堡",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-10",
+    "end_date": "2027-01-10",
+    "fee": "收费",
+    "description": "魔法城堡主题区以奇幻魔法为故事线，孩子化身小魔法师参与互动解谜，开启魔法冒险之旅。",
+    "source": "南京本地宝",
+    "highlights": [
+      "魔法城堡",
+      "解谜",
+      "冒险"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玛雅海滩亲子漂流",
+    "venue": "玛雅海滩水公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-10",
+    "end_date": "2026-10-10",
+    "fee": "收费",
+    "description": "亲子漂流河全长数百米，全家乘坐圆形皮筏顺流而下，沿途感受水花与缓急变化，轻松惬意。",
+    "source": "南京本地宝",
+    "highlights": [
+      "漂流",
+      "皮筏",
+      "亲子"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京海底世界美人鱼表演",
+    "venue": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-22",
+    "end_date": "2026-12-22",
+    "fee": "收费",
+    "description": "美人鱼水下表演由专业潜水员化身美人鱼，在巨大玻璃缸中优雅起舞，讲述海洋童话故事。",
+    "source": "南京本地宝",
+    "highlights": [
+      "美人鱼",
+      "潜水",
+      "童话"
+    ],
+    "type": "演出",
+    "is_family_friendly": false
+  },
+  {
+    "name": "银杏湖乐园生态观光",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-15",
+    "end_date": "2027-02-14",
+    "fee": "收费",
+    "description": "银杏湖生态观光区茶园、湖泊、山林相映成趣，亲子家庭可乘观光车游览，呼吸自然清新空气。",
+    "source": "南京本地宝",
+    "highlights": [
+      "生态观光",
+      "茶园",
+      "山林"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "弘阳欢乐世界欢乐城堡",
+    "venue": "弘阳欢乐世界",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
+    "fee": "收费",
+    "description": "欢乐城堡专为低龄儿童设计，海洋球池、软体滑梯与互动投影，安全又充满童趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "欢乐城堡",
+      "海洋球",
+      "低龄"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京欢乐谷欢乐大巡游",
+    "venue": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "秋季欢乐大巡游升级回归，新增秋季主题花车与万圣节特别版角色，亲子互动更精彩。",
+    "source": "南京本地宝",
+    "highlights": [
+      "大巡游",
+      "万圣节",
+      "花车"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京云锦织造体验",
+    "venue": "南京云锦博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-26",
+    "fee": "收费",
+    "description": "云锦博物馆织造体验活动，由非遗传承人现场指导，亲子家庭可上手操作简易织机，织出专属小样。",
+    "source": "南京本地宝",
+    "highlights": [
+      "云锦",
+      "织造",
+      "非遗传承人"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "云锦博物馆挑花结本体验",
+    "venue": "南京云锦博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-12",
+    "end_date": "2026-10-23",
+    "fee": "收费",
+    "description": "挑花结本是云锦核心工艺，体验活动讲解花纹如何通过挑花转化为织造指令，并动手尝试简单挑花。",
+    "source": "南京本地宝",
+    "highlights": [
+      "挑花结本",
+      "工艺",
+      "云锦"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "云锦博物馆意匠设计体验",
+    "venue": "南京云锦博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-11-06",
+    "fee": "收费",
+    "description": "意匠设计体验让孩子用方格纸设计云锦纹样，理解传统纹样与色彩搭配之美，作品可装裱带走。",
+    "source": "南京本地宝",
+    "highlights": [
+      "意匠设计",
+      "纹样",
+      "色彩"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江宁织造博物馆红楼梦文化体验",
+    "venue": "江宁织造博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-09-29",
+    "fee": "免费需预约",
+    "description": "红楼梦文化体验结合展厅参观与情景演绎，孩子扮演书中人物对话，加深对经典文学的理解。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红楼梦",
+      "情景演绎",
+      "经典文学"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江宁织造博物馆经纬书签手作",
+    "venue": "江宁织造博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-09-07",
+    "fee": "免费需预约",
+    "description": "经纬书签手作活动展示古代织造流程，孩子可操作小型织布机织出书签，感受经纬交错的智慧。",
+    "source": "南京本地宝",
+    "highlights": [
+      "经纬书签",
+      "织布机",
+      "手作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京绒花非遗手作体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "南京绒花为省级非遗，体验活动由传承人教授蚕丝染色与绒花制作，孩子可制作绒花胸针带回家。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京绒花",
+      "蚕丝",
+      "非遗手作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "夫子庙秦淮花灯制作体验",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-10-09",
+    "end_date": "2026-12-09",
+    "fee": "收费",
+    "description": "秦淮花灯非遗传承人指导亲子家庭扎制荷花灯，从扎骨架到糊纸塑形，亲手点亮一盏传统花灯。",
+    "source": "南京本地宝",
+    "highlights": [
+      "秦淮花灯",
+      "荷花灯",
+      "非遗"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "夫子庙非遗手作课堂",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-20",
+    "fee": "收费",
+    "description": "非遗手作课堂每周轮换绳结、面塑、绒花等手作项目，亲子家庭在老字号店铺中体验传统技艺。",
+    "source": "南京本地宝",
+    "highlights": [
+      "非遗手作",
+      "绳结",
+      "面塑"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "老门东民俗体验",
+    "venue": "老门东",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
+    "fee": "免费",
+    "description": "老门东历史街区推出民俗体验活动，糖画、捏面人、草编等老手艺现场展示，孩子可付费参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "老门东",
+      "糖画",
+      "民俗"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "老门东非遗市集",
+    "venue": "老门东",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-29",
+    "end_date": "2026-11-28",
+    "fee": "免费",
+    "description": "老门东非遗市集汇聚南京及周边非遗手作，可观赏亦可购买，亲子感受传统市井烟火气。",
+    "source": "南京本地宝",
+    "highlights": [
+      "非遗市集",
+      "手作",
+      "市井"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "秦淮非遗馆皮影戏体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-17",
+    "end_date": "2026-10-17",
+    "fee": "收费",
+    "description": "非遗馆皮影戏体验观看经典剧目后，孩子在幕布后亲手操作皮影人物，讲述自己的小故事。",
+    "source": "南京本地宝",
+    "highlights": [
+      "皮影戏",
+      "操作",
+      "故事"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "秦淮非遗馆剪纸体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-08",
+    "end_date": "2026-10-03",
+    "fee": "收费",
+    "description": "南京剪纸以花中套花著称，体验活动由传承人教授基础剪法，孩子可剪出窗花带回家张贴。",
+    "source": "南京本地宝",
+    "highlights": [
+      "剪纸",
+      "窗花",
+      "花中套花"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "秦淮非遗馆扎花灯体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-08",
+    "end_date": "2026-10-24",
+    "fee": "收费",
+    "description": "扎花灯体验教授传统花灯扎制技艺，从选竹篾、糊彩纸到点蜡烛，亲手制作兔子灯。",
+    "source": "南京本地宝",
+    "highlights": [
+      "扎花灯",
+      "兔子灯",
+      "竹篾"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京剪纸非遗体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "南京剪纸国家级非遗体验专场，传承人讲述剪纸历史并示范阳剪阴剪技法，孩子临摹创作。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京剪纸",
+      "阳剪",
+      "阴剪"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京泥人非遗手作",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "收费",
+    "description": "南京泥人手作体验，用惠山泥塑造憨态可掬的小动物，学习捏塑与彩绘技法，作品可带走。",
+    "source": "南京本地宝",
+    "highlights": [
+      "泥人",
+      "捏塑",
+      "彩绘"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京金箔锻制体验",
+    "venue": "南京金箔艺术馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-18",
+    "end_date": "2026-11-18",
+    "fee": "收费",
+    "description": "南京金箔锻制技艺为国家级非遗，体验活动展示打箔全过程，孩子可亲手为小物件贴金。",
+    "source": "南京本地宝",
+    "highlights": [
+      "金箔",
+      "贴金",
+      "非遗"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "高淳老街民俗体验",
+    "venue": "高淳老街",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-17",
+    "end_date": "2027-01-17",
+    "fee": "免费",
+    "description": "高淳老街民俗体验含跳五猖、目连戏等地方民俗展示，亲子家庭可穿古装漫步明清古街。",
+    "source": "南京本地宝",
+    "highlights": [
+      "高淳老街",
+      "跳五猖",
+      "古装"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "高淳老街非遗市集",
+    "venue": "高淳老街",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-12-14",
+    "fee": "免费",
+    "description": "高淳老街非遗市集展销羽扇、陶瓷、螃蟹画等本土非遗与文创，亲子感受慢城手作温度。",
+    "source": "南京本地宝",
+    "highlights": [
+      "非遗市集",
+      "羽扇",
+      "慢城"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "高淳陶瓷制作体验",
+    "venue": "高淳陶瓷小镇",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-07",
+    "end_date": "2026-11-07",
+    "fee": "收费",
+    "description": "高淳陶瓷小镇陶艺体验，亲子家庭拉坯、捏塑、彩绘，亲手制作专属陶瓷器物并烧制寄送。",
+    "source": "南京本地宝",
+    "highlights": [
+      "陶瓷",
+      "拉坯",
+      "烧制"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "秦淮灯会研学",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-24",
+    "fee": "收费",
+    "description": "秦淮灯会历史研学讲解秦淮灯会千年传承，参观灯彩制作工坊，并亲手扎制一盏小型花灯。",
+    "source": "南京本地宝",
+    "highlights": [
+      "秦淮灯会",
+      "灯彩",
+      "千年传承"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "老门东手工体验",
+    "venue": "老门东",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
+    "fee": "收费",
+    "description": "老门东多家手作店铺提供扎染、香囊、拓印等体验，亲子可在古朴院落中静心感受手作之美。",
+    "source": "南京本地宝",
+    "highlights": [
+      "手工体验",
+      "扎染",
+      "香囊"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江南丝竹体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-04",
+    "end_date": "2026-10-16",
+    "fee": "免费需预约",
+    "description": "江南丝竹体验由民间乐师演奏并讲解二胡、琵琶、笛子等乐器，孩子可尝试简单旋律。",
+    "source": "南京本地宝",
+    "highlights": [
+      "江南丝竹",
+      "二胡",
+      "琵琶"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京白局体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-30",
+    "fee": "免费需预约",
+    "description": "南京白局是南京本土曲艺，体验活动由传承人现场演唱并教唱经典段子，感受地道南京话韵味。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京白局",
+      "曲艺",
+      "南京话"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "古琴艺术体验",
+    "venue": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "古琴艺术体验讲解古琴构造与减字谱，老师演奏《流水》等名曲，孩子可触摸琴弦体验指法。",
+    "source": "南京本地宝",
+    "highlights": [
+      "古琴",
+      "减字谱",
+      "流水"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京鸭文化体验",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-11-17",
+    "fee": "免费",
+    "description": "南京鸭文化体验在夫子庙老字号店铺讲述南京人食鸭千年历史，亲子家庭可观摩盐水鸭制作。",
+    "source": "南京本地宝",
+    "highlights": [
+      "鸭文化",
+      "盐水鸭",
+      "老字号"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "大报恩寺遗址公园拓印体验",
+    "venue": "大报恩寺遗址公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-05",
+    "end_date": "2026-11-05",
+    "fee": "收费",
+    "description": "大报恩寺拓印体验教授传统拓印技艺，孩子用宣纸与墨包拓印寺内纹饰图案，留下专属纪念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "拓印",
+      "宣纸",
+      "纹饰"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "大报恩寺琉璃塔文化研学",
+    "venue": "大报恩寺遗址公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-04",
+    "fee": "收费",
+    "description": "琉璃塔文化研学讲述大报恩寺琉璃塔的历史与海外影响，参观出土琉璃构件并完成研学手册。",
+    "source": "南京本地宝",
+    "highlights": [
+      "琉璃塔",
+      "大报恩寺",
+      "研学手册"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "瞻园园林文化体验",
+    "venue": "瞻园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-14",
+    "end_date": "2027-01-14",
+    "fee": "收费",
+    "description": "瞻园园林文化体验由园林专家带领，讲解江南园林造园手法，孩子在园中写生描绘亭台水榭。",
+    "source": "南京本地宝",
+    "highlights": [
+      "瞻园",
+      "造园手法",
+      "写生"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "瞻园太平天国历史研学",
+    "venue": "瞻园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-23",
+    "end_date": "2026-10-03",
+    "fee": "收费",
+    "description": "太平天国历史博物馆位于瞻园，研学活动结合馆藏文物讲述太平天国兴衰，完成历史时间轴。",
+    "source": "南京本地宝",
+    "highlights": [
+      "太平天国",
+      "历史时间轴",
+      "文物"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "中华门瓮城城墙文化体验",
+    "venue": "中华门瓮城",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-10",
+    "end_date": "2027-01-10",
+    "fee": "收费",
+    "description": "中华门瓮城城墙文化体验讲解明代城堡式城门结构，亲子可登城远眺，体验投石守城互动游戏。",
+    "source": "南京本地宝",
+    "highlights": [
+      "中华门瓮城",
+      "城门",
+      "守城游戏"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "夫子庙科举文化体验",
+    "venue": "南京中国科举博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-12-15",
+    "fee": "收费",
+    "description": "科举文化体验结合号舍参观与科举问答闯关，孩子穿越古今感受古代学子求学历程。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科举文化",
+      "号舍",
+      "闯关"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆暑期阅读营",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-27",
+    "end_date": "2026-11-19",
+    "fee": "免费",
+    "description": "南京图书馆暑期阅读营每周一个主题，涵盖经典文学、科普、历史，配套读书分享会与写作指导。",
+    "source": "南京本地宝",
+    "highlights": [
+      "阅读营",
+      "读书分享",
+      "写作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆少儿绘本故事会",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-10",
+    "end_date": "2026-12-10",
+    "fee": "免费",
+    "description": "南图少儿绘本故事会每周末由阅读推广人讲述精选绘本，搭配手工延伸活动，激发幼儿阅读兴趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "绘本",
+      "故事会",
+      "手工"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆公益培训",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-18",
+    "end_date": "2026-11-14",
+    "fee": "免费",
+    "description": "南图暑期公益培训开设书法、围棋、编程等课程，面向青少年免费开放，名额有限需预约。",
+    "source": "南京本地宝",
+    "highlights": [
+      "公益培训",
+      "书法",
+      "围棋"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆亲子阅读会",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-06",
+    "end_date": "2026-09-24",
+    "fee": "免费",
+    "description": "亲子阅读会由馆员推荐优秀童书，家长与孩子共读后分享感受，营造家庭阅读氛围。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子阅读",
+      "共读",
+      "童书"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆名家讲坛",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-11",
+    "end_date": "2026-10-06",
+    "fee": "免费",
+    "description": "南图名家讲坛暑期邀请知名作家、学者开讲，分享创作心得与阅读方法，亲子共赴文学盛宴。",
+    "source": "南京本地宝",
+    "highlights": [
+      "名家讲坛",
+      "作家",
+      "讲座"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆国学课堂",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-02",
+    "fee": "免费",
+    "description": "国学课堂由国学老师讲授《论语》《弟子规》等经典，配合礼仪体验，传承中华优秀传统文化。",
+    "source": "南京本地宝",
+    "highlights": [
+      "国学",
+      "论语",
+      "礼仪"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆经典诵读",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "description": "经典诵读活动带领孩子朗诵唐诗宋词与古文名篇，老师讲解节奏韵律，提升语言感受力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "经典诵读",
+      "唐诗",
+      "韵律"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆手工书制作",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "description": "手工书制作活动教授折页、装订、装饰技法，孩子可亲手制作专属绘本，作为暑期阅读纪念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "手工书",
+      "装订",
+      "绘本"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆暑期阅读季",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-10-14",
+    "fee": "免费",
+    "description": "金陵图书馆暑期阅读季推出阅读挑战、好书推荐、读书打卡等系列活动，培养少儿阅读习惯。",
+    "source": "南京本地宝",
+    "highlights": [
+      "阅读季",
+      "阅读挑战",
+      "打卡"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆绘本故事会",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-19",
+    "fee": "免费",
+    "description": "金图绘本故事会每周六上午开讲，由志愿者妈妈轮值讲述，搭配律动与手工，深受小读者喜爱。",
+    "source": "南京本地宝",
+    "highlights": [
+      "绘本故事会",
+      "志愿者",
+      "律动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆少儿公益培训",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-22",
+    "fee": "免费",
+    "description": "金图少儿公益培训开设创意绘画、口语表达、科学小实验等课程，暑期免费向青少年开放。",
+    "source": "南京本地宝",
+    "highlights": [
+      "公益培训",
+      "创意绘画",
+      "口语表达"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆亲子阅读",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-13",
+    "fee": "免费",
+    "description": "亲子阅读活动设置主题书架，馆员引导家庭共读，活动后开展亲子读书会与心得分享。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子阅读",
+      "读书会",
+      "心得分享"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆名家讲座",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-19",
+    "fee": "免费",
+    "description": "金图名家讲座暑期聚焦儿童阅读与家庭教育，邀请教育专家与儿童文学作家分享经验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "名家讲座",
+      "家庭教育",
+      "儿童文学"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆国学启蒙",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "description": "国学启蒙课面向3-6岁幼儿，通过故事与游戏感知《三字经》《千字文》等蒙学经典。",
+    "source": "南京本地宝",
+    "highlights": [
+      "国学启蒙",
+      "三字经",
+      "蒙学"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆科普阅读",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "description": "科普阅读推荐优秀少儿科普读物，配合简单科学实验演示，让孩子在阅读中探索科学奥秘。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科普阅读",
+      "科学实验",
+      "探索"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆英语角",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-19",
+    "fee": "免费",
+    "description": "金图英语角由外教志愿者主持，通过英文绘本与游戏开展英语口语交流，提升孩子英语兴趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "英语角",
+      "外教",
+      "口语"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆暑期营",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-09-15",
+    "fee": "免费",
+    "description": "少儿图书馆暑期营推出主题阅读周，含绘本、科普、历史等主题，配套手工与电影放映。",
+    "source": "南京本地宝",
+    "highlights": [
+      "暑期营",
+      "主题阅读",
+      "电影"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆绘本会",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-30",
+    "fee": "免费",
+    "description": "少儿馆绘本会每日上午开讲，馆员讲述精选绘本并组织角色扮演，让孩子在故事中成长。",
+    "source": "南京本地宝",
+    "highlights": [
+      "绘本会",
+      "角色扮演",
+      "故事"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆亲子活动",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-17",
+    "end_date": "2026-11-05",
+    "fee": "免费",
+    "description": "少儿馆亲子活动每周末举办，含亲子共读、亲子手工、亲子游戏等环节，增进亲子情感交流。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子活动",
+      "共读",
+      "情感交流"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆公益培训",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-10-29",
+    "fee": "免费",
+    "description": "少儿馆暑期公益培训开设硬笔书法、儿童画、口才训练等课程，免费面向小读者招生。",
+    "source": "南京本地宝",
+    "highlights": [
+      "公益培训",
+      "硬笔书法",
+      "口才"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆故事大王比赛",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "fee": "免费",
+    "description": "故事大王比赛面向6-12岁少儿，选手讲述自选故事，优胜者获故事大王称号与奖品。",
+    "source": "南京本地宝",
+    "highlights": [
+      "故事大王",
+      "比赛",
+      "讲述"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆少儿英语角",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-23",
+    "fee": "免费",
+    "description": "南图少儿英语角通过英文歌曲、绘本与游戏开展，志愿者带领孩子在轻松氛围中爱上英语。",
+    "source": "南京本地宝",
+    "highlights": [
+      "英语角",
+      "英文歌曲",
+      "志愿者"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆写作工坊",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "description": "写作工坊由作家指导孩子进行看图写话与短文创作，优秀作品可在南图公众号发表。",
+    "source": "南京本地宝",
+    "highlights": [
+      "写作工坊",
+      "看图写话",
+      "发表"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆绘本剧场",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "description": "绘本剧场由志愿者将经典绘本改编为短剧演出，孩子可参与表演，沉浸式感受故事魅力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "绘本剧场",
+      "短剧",
+      "表演"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "金陵图书馆手工绘本",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "手工绘本活动指导孩子绘画并装订自己的绘本作品，结业时举办小型绘本展览。",
+    "source": "南京本地宝",
+    "highlights": [
+      "手工绘本",
+      "装订",
+      "展览"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆亲子手工",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "免费",
+    "description": "亲子手工活动结合绘本主题，制作折纸、黏土等手工作品，培养孩子动手与创造能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子手工",
+      "折纸",
+      "黏土"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京市少儿图书馆科普讲座",
+    "venue": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-29",
+    "fee": "免费",
+    "description": "少儿馆科普讲座邀请科普作家讲述身边科学，配合实物展示，激发孩子科学探究兴趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "科普讲座",
+      "科普作家",
+      "探究"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京图书馆历史讲座",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-30",
+    "fee": "免费",
+    "description": "南图历史讲座暑期聚焦南京城市史，讲述六朝、明代、民国等时期南京的重要历史事件。",
+    "source": "南京本地宝",
+    "highlights": [
+      "历史讲座",
+      "南京城市史",
+      "六朝"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "金陵图书馆阅读马拉松",
+    "venue": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "fee": "免费",
+    "description": "阅读马拉松挑战在6小时内读完指定书籍并完成阅读报告，挑战成功者获纪念证书与奖品。",
+    "source": "南京本地宝",
+    "highlights": [
+      "阅读马拉松",
+      "挑战",
+      "证书"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京图书馆亲子电影放映",
+    "venue": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-23",
+    "end_date": "2026-11-18",
+    "fee": "免费",
+    "description": "南图每周末放映经典儿童电影与纪录片，映前馆员导读相关书籍，实现读看结合。",
+    "source": "南京本地宝",
+    "highlights": [
+      "电影放映",
+      "纪录片",
+      "读看结合"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "明孝陵世界遗产研学",
+    "venue": "明孝陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-07",
+    "end_date": "2026-10-07",
+    "fee": "收费",
+    "description": "明孝陵作为明清皇家第一陵被列为世界遗产，研学活动讲解陵寝制度与建筑布局，寻访神道石刻。",
+    "source": "南京本地宝",
+    "highlights": [
+      "明孝陵",
+      "世界遗产",
+      "神道石刻"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "明孝陵神道研学",
+    "venue": "明孝陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-08",
+    "fee": "收费",
+    "description": "明孝陵神道全长800米，研学活动沿线讲解石兽石人的象征意义，孩子完成神道写生与拓印。",
+    "source": "南京本地宝",
+    "highlights": [
+      "神道",
+      "石兽",
+      "写生"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "中山陵民国建筑研学",
+    "venue": "中山陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-21",
+    "end_date": "2026-11-21",
+    "fee": "免费需预约",
+    "description": "中山陵民国建筑研学讲解吕彦直设计的中西合璧建筑群，理解博爱坊、祭堂的象征意义。",
+    "source": "南京本地宝",
+    "highlights": [
+      "中山陵",
+      "民国建筑",
+      "吕彦直"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "中山陵博爱精神研学",
+    "venue": "中山陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-09-07",
+    "fee": "免费需预约",
+    "description": "博爱精神研学围绕孙中山先生天下为公理想展开，结合史料讲述辛亥革命与民国建立历程。",
+    "source": "南京本地宝",
+    "highlights": [
+      "博爱精神",
+      "孙中山",
+      "辛亥革命"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "总统府民国历史研学",
+    "venue": "总统府",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-10",
+    "end_date": "2026-10-10",
+    "fee": "收费",
+    "description": "总统府见证近代中国百年风云，研学活动从煦园到子超楼，梳理太平天国至民国的历史脉络。",
+    "source": "南京本地宝",
+    "highlights": [
+      "总统府",
+      "民国历史",
+      "煦园"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "总统府太平天国研学",
+    "venue": "总统府",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-06",
+    "fee": "收费",
+    "description": "总统府曾为太平天国天朝宫殿，研学活动讲解洪秀全与天国兴衰，参观金龙殿遗址。",
+    "source": "南京本地宝",
+    "highlights": [
+      "太平天国",
+      "洪秀全",
+      "天朝宫殿"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "明城墙玄武门段研学",
+    "venue": "南京城墙博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-12-02",
+    "fee": "收费",
+    "description": "明城墙玄武门段研学登城讲解城墙砌筑工艺与城砖铭文，孩子拓印城砖文字，触摸六百年历史。",
+    "source": "南京本地宝",
+    "highlights": [
+      "明城墙",
+      "城砖铭文",
+      "拓印"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "明城墙中华门段研学",
+    "venue": "中华门瓮城",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-20",
+    "fee": "收费",
+    "description": "中华门段研学深入瓮城内部，讲解藏兵洞与防御体系，孩子参与守城策略沙盘推演。",
+    "source": "南京本地宝",
+    "highlights": [
+      "中华门",
+      "藏兵洞",
+      "沙盘推演"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "明城墙台城段研学",
+    "venue": "南京城墙博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-12",
+    "end_date": "2026-11-27",
+    "fee": "收费",
+    "description": "台城段城墙可远眺玄武湖与鸡鸣寺，研学讲解城墙与城市格局的关系，并开展城砖测量实验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "台城",
+      "城市格局",
+      "测量"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京城墙博物馆研学",
+    "venue": "南京城墙博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-17",
+    "end_date": "2026-11-16",
+    "fee": "免费需预约",
+    "description": "南京城墙博物馆系统展示明城墙历史与保护，研学活动配合多媒体与实物，完成城墙拼图任务。",
+    "source": "南京本地宝",
+    "highlights": [
+      "城墙博物馆",
+      "保护",
+      "拼图"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "颐和路民国公馆研学",
+    "venue": "颐和路",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-07",
+    "end_date": "2027-01-07",
+    "fee": "免费",
+    "description": "颐和路民国公馆区现存200余栋民国别墅，研学漫步十二片区，讲解建筑风格与名人旧事。",
+    "source": "南京本地宝",
+    "highlights": [
+      "颐和路",
+      "民国公馆",
+      "十二片区"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "颐和路十二片区研学",
+    "venue": "颐和路",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-09-12",
+    "fee": "免费",
+    "description": "颐和路十二片区公馆开放参观，研学活动选取代表性建筑深度讲解，孩子绘制建筑速写。",
+    "source": "南京本地宝",
+    "highlights": [
+      "十二片区",
+      "公馆",
+      "速写"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "阅江楼明代文化研学",
+    "venue": "阅江楼",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-01-28",
+    "fee": "收费",
+    "description": "阅江楼明太祖欲建未成的名楼，研学讲解明代建都南京历史，登楼远眺长江感受帝王气象。",
+    "source": "南京本地宝",
+    "highlights": [
+      "阅江楼",
+      "明代",
+      "长江"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "阅江楼郑和航海研学",
+    "venue": "阅江楼",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-09-29",
+    "fee": "收费",
+    "description": "郑和航海研学讲述郑和从南京下西洋的壮举，讲解宝船构造与航海技术，绘制航海路线图。",
+    "source": "南京本地宝",
+    "highlights": [
+      "郑和",
+      "宝船",
+      "下西洋"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "大报恩寺遗址研学",
+    "venue": "大报恩寺遗址公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-30",
+    "fee": "收费",
+    "description": "大报恩寺遗址为明代皇家寺庙遗址，研学活动参观地宫出土文物，了解明代佛教文化。",
+    "source": "南京本地宝",
+    "highlights": [
+      "大报恩寺",
+      "遗址",
+      "地宫"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "大报恩寺琉璃塔研学",
+    "venue": "大报恩寺遗址公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-10-02",
+    "end_date": "2026-11-16",
+    "fee": "收费",
+    "description": "大报恩寺琉璃塔曾被称为天下第一塔，研学讲解琉璃塔建造工艺与海外传播故事。",
+    "source": "南京本地宝",
+    "highlights": [
+      "琉璃塔",
+      "天下第一塔",
+      "海外传播"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "朝天宫明代建筑研学",
+    "venue": "南京市博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-02",
+    "fee": "免费需预约",
+    "description": "朝天宫为江南规模最大古建筑群，研学讲解大成殿、敬一亭等建筑布局，理解文庙规制。",
+    "source": "南京本地宝",
+    "highlights": [
+      "朝天宫",
+      "文庙",
+      "大成殿"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "江南贡院科举历史研学",
+    "venue": "南京中国科举博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-12-05",
+    "fee": "收费",
+    "description": "江南贡院是中国古代最大科举考场，研学活动梳理科举千年演变，并体验号舍考试场景。",
+    "source": "南京本地宝",
+    "highlights": [
+      "江南贡院",
+      "科举",
+      "号舍"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "王导谢安纪念馆研学",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-28",
+    "end_date": "2026-09-22",
+    "fee": "收费",
+    "description": "王导谢安纪念馆研学讲述东晋名门王谢两族故事，了解乌衣巷与六朝士族文化。",
+    "source": "南京本地宝",
+    "highlights": [
+      "王导谢安",
+      "乌衣巷",
+      "士族"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "李香君故居研学",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-09",
+    "end_date": "2026-10-21",
+    "fee": "收费",
+    "description": "李香君故居研学结合《桃花扇》讲述秦淮八艳故事，了解明清易代之际的秦淮风月与文人。",
+    "source": "南京本地宝",
+    "highlights": [
+      "李香君",
+      "桃花扇",
+      "秦淮八艳"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "乌衣巷历史文化研学",
+    "venue": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "乌衣巷研学以刘禹锡名诗为引，讲述六朝乌衣巷的繁华与变迁，开展诗词诵读与情景写作。",
+    "source": "南京本地宝",
+    "highlights": [
+      "乌衣巷",
+      "刘禹锡",
+      "诗词"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "鸡鸣寺历史研学",
+    "venue": "鸡鸣寺",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-10",
+    "end_date": "2027-02-09",
+    "fee": "免费",
+    "description": "鸡鸣寺有南朝四百八十寺之首之称，研学讲解寺庙历史与南朝佛教文化，远眺台城城墙。",
+    "source": "南京本地宝",
+    "highlights": [
+      "鸡鸣寺",
+      "南朝",
+      "佛教"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "灵谷寺文化研学",
+    "venue": "中山陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-30",
+    "end_date": "2026-11-14",
+    "fee": "收费",
+    "description": "灵谷寺研学讲解明代灵谷寺与无梁殿建筑特色，介绍灵谷塔与国民革命军阵亡将士公墓。",
+    "source": "南京本地宝",
+    "highlights": [
+      "灵谷寺",
+      "无梁殿",
+      "灵谷塔"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "美龄宫民国生活研学",
+    "venue": "美龄宫",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-01-28",
+    "fee": "收费",
+    "description": "美龄宫研学通过室内陈设还原民国上层社会生活场景，讲解蒋宋夫妇在南京的岁月。",
+    "source": "南京本地宝",
+    "highlights": [
+      "美龄宫",
+      "民国生活",
+      "蒋宋"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "美龄宫建筑艺术研学",
+    "venue": "美龄宫",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-22",
+    "end_date": "2026-11-02",
+    "fee": "收费",
+    "description": "美龄宫建筑艺术研学从空中俯瞰如项链上的宝石，讲解其设计巧思与建筑工艺。",
+    "source": "南京本地宝",
+    "highlights": [
+      "美龄宫",
+      "建筑艺术",
+      "项链"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "音乐台历史研学",
+    "venue": "中山陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-12",
+    "fee": "收费",
+    "description": "中山陵音乐台为民国时期露天音乐堂，研学讲解建筑声学原理，欣赏鸽群飞翔景观。",
+    "source": "南京本地宝",
+    "highlights": [
+      "音乐台",
+      "声学",
+      "鸽群"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "流徽榭民国建筑研学",
+    "venue": "中山陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-22",
+    "end_date": "2026-08-22",
+    "fee": "免费需预约",
+    "description": "流徽榭研学讲解这座民国水上建筑的构造之美，孩子在湖畔写生，感受中山陵附属建筑群。",
+    "source": "南京本地宝",
+    "highlights": [
+      "流徽榭",
+      "水上建筑",
+      "写生"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "中山植物园民国建筑研学",
+    "venue": "中山植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "fee": "收费",
+    "description": "中山植物园内保留多座民国建筑，研学讲解其历史背景与建筑风格，了解中国植物学发展史。",
+    "source": "南京本地宝",
+    "highlights": [
+      "民国建筑",
+      "植物学",
+      "历史"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "阅江楼朱元璋故事研学",
+    "venue": "阅江楼",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "朱元璋故事研学讲述明太祖建都南京的传奇人生，从草莽到帝王，参观阅江楼记碑刻。",
+    "source": "南京本地宝",
+    "highlights": [
+      "朱元璋",
+      "明太祖",
+      "阅江楼记"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "明孝陵明文化讲堂",
+    "venue": "明孝陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "明文化讲堂邀请明史专家讲述明代典章制度与文化艺术，配合明代服饰与器物展示。",
+    "source": "南京本地宝",
+    "highlights": [
+      "明文化",
+      "明史",
+      "服饰"
+    ],
+    "type": "研学",
+    "is_family_friendly": false
+  },
+  {
+    "name": "奥体中心暑期游泳培训",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-12",
+    "fee": "收费",
+    "description": "奥体中心暑期游泳培训班分初级与提高班，由专业教练授课，十天课程让孩子掌握游泳基础。",
+    "source": "南京本地宝",
+    "highlights": [
+      "游泳培训",
+      "教练",
+      "十天课程"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心亲子游泳",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-13",
+    "fee": "收费",
+    "description": "奥体中心亲子游泳时段开放家庭泳道，家长带孩子戏水消暑，配备救生员保障安全。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子游泳",
+      "家庭泳道",
+      "救生员"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心篮球夏令营",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-22",
+    "fee": "收费",
+    "description": "篮球夏令营由专业教练指导运球、投篮、战术配合，营末举办3V3对抗赛，提升球技与团队精神。",
+    "source": "南京本地宝",
+    "highlights": [
+      "篮球",
+      "夏令营",
+      "对抗赛"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心足球夏令营",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "fee": "收费",
+    "description": "足球夏令营系统训练传接球、射门与比赛战术，培养孩子运动兴趣与团队协作能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "足球",
+      "夏令营",
+      "团队协作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心羽毛球培训",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-19",
+    "fee": "收费",
+    "description": "羽毛球培训班从握拍、步法到攻防技术循序教学，小班授课保证每位孩子的练习质量。",
+    "source": "南京本地宝",
+    "highlights": [
+      "羽毛球",
+      "握拍",
+      "步法"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心网球培训",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-17",
+    "end_date": "2026-09-25",
+    "fee": "收费",
+    "description": "网球培训由ITF认证教练执教，从正反手击球到网前截击，培养孩子优雅运动气质。",
+    "source": "南京本地宝",
+    "highlights": [
+      "网球",
+      "ITF教练",
+      "正反手"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园亲子运动",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-12-20",
+    "fee": "免费",
+    "description": "青奥公园沿江绿道适合亲子跑步、骑行与散步，沿途设有运动器械与亲子游乐设施。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子运动",
+      "绿道",
+      "运动器械"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园轮滑体验",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-06",
+    "end_date": "2026-11-01",
+    "fee": "收费",
+    "description": "青奥公园轮滑场提供轮滑教学体验，专业教练指导基础动作并配备护具，安全学轮滑。",
+    "source": "南京本地宝",
+    "highlights": [
+      "轮滑",
+      "护具",
+      "教练"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园骑行活动",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-12-03",
+    "fee": "免费",
+    "description": "青奥公园骑行活动沿长江岸线设置亲子骑行路线，沿途欣赏南京眼与青奥双塔景观。",
+    "source": "南京本地宝",
+    "highlights": [
+      "骑行",
+      "南京眼",
+      "长江"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园皮划艇",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-11-22",
+    "fee": "收费",
+    "description": "青奥公园皮划艇体验在夹江水面开展，教练指导划桨与转向，全家共划感受水上乐趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "皮划艇",
+      "夹江",
+      "划桨"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园定向越野",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "青奥公园定向越野设置家庭组，使用地图寻找打卡点，锻炼孩子读图与决策能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "定向越野",
+      "读图",
+      "家庭组"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "五台山体育中心游泳",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-08",
+    "end_date": "2026-12-08",
+    "fee": "收费",
+    "description": "五台山游泳馆暑期开放亲子泳道，恒温泳池水质优良，是市区亲子消暑运动的好去处。",
+    "source": "南京本地宝",
+    "highlights": [
+      "游泳",
+      "恒温泳池",
+      "亲子泳道"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "五台山体育中心乒乓",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-25",
+    "end_date": "2026-10-17",
+    "fee": "收费",
+    "description": "五台山乒乓球培训班由退役运动员执教，从握拍发球到攻球技术系统训练，提升球技。",
+    "source": "南京本地宝",
+    "highlights": [
+      "乒乓球",
+      "退役运动员",
+      "发球"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "五台山体育中心亲子健身",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-02",
+    "fee": "收费",
+    "description": "亲子健身课结合体适能与趣味游戏，家长与孩子共同完成挑战，增进亲子感情又强健体魄。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子健身",
+      "体适能",
+      "趣味游戏"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "五台山体育中心武术培训",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-05",
+    "fee": "收费",
+    "description": "武术培训班教授少儿长拳基本功与简单套路，强身健体同时培养孩子专注力与意志品质。",
+    "source": "南京本地宝",
+    "highlights": [
+      "武术",
+      "长拳",
+      "专注力"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖亲子皮划艇赛",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "fee": "收费",
+    "description": "玄武湖亲子皮划艇邀请赛设家庭组200米竞速，全家协作划向终点，体验竞技乐趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "皮划艇赛",
+      "家庭组",
+      "竞速"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖环湖跑",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "免费",
+    "description": "玄武湖环湖跑设5公里亲子组与10公里挑战组，沿途补给完善，完赛获电子证书与奖牌。",
+    "source": "南京本地宝",
+    "highlights": [
+      "环湖跑",
+      "奖牌",
+      "证书"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖亲子骑行赛",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-16",
+    "fee": "免费",
+    "description": "玄武湖亲子骑行赛绕翠洲一圈约5公里，家庭共同骑行，倡导绿色出行与亲子陪伴。",
+    "source": "南京本地宝",
+    "highlights": [
+      "骑行赛",
+      "翠洲",
+      "绿色出行"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心体操培训",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-06",
+    "fee": "收费",
+    "description": "少儿体操培训班教授基础体操动作，培养身体协调性与柔韧性，提升孩子身体素质。",
+    "source": "南京本地宝",
+    "highlights": [
+      "体操",
+      "协调性",
+      "柔韧性"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心击剑体验",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-22",
+    "fee": "收费",
+    "description": "击剑体验课介绍花剑、佩剑、重剑区别，穿戴装备实战对练，感受优雅与力量并存的剑客运动。",
+    "source": "南京本地宝",
+    "highlights": [
+      "击剑",
+      "花剑",
+      "实战"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园攀岩体验",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-09-13",
+    "fee": "收费",
+    "description": "青奥公园人工岩壁攀岩体验，教练指导攀岩技巧与安全保护，孩子勇敢向上攀登。",
+    "source": "南京本地宝",
+    "highlights": [
+      "攀岩",
+      "岩壁",
+      "勇敢"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园滑板体验",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-14",
+    "end_date": "2026-10-27",
+    "fee": "收费",
+    "description": "滑板体验课在专业滑板场进行，教练教学滑行与简单技巧，配戴护具保障安全。",
+    "source": "南京本地宝",
+    "highlights": [
+      "滑板",
+      "滑行",
+      "护具"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "五台山体育中心跆拳道",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-21",
+    "fee": "收费",
+    "description": "跆拳道培训班教授基本腿法与品势，培养孩子礼仪、自信与自卫能力，可考级认证。",
+    "source": "南京本地宝",
+    "highlights": [
+      "跆拳道",
+      "腿法",
+      "考级"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "五台山体育中心瑜伽",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-05",
+    "end_date": "2026-11-30",
+    "fee": "收费",
+    "description": "亲子瑜伽课由专业教练带领，家长与孩子共同完成体式，增进亲子默契又舒缓身心。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子瑜伽",
+      "体式",
+      "舒缓"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心亲子马拉松",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "fee": "收费",
+    "description": "奥体中心亲子马拉松在田径场绕圈进行，设1公里亲子组与3公里挑战组，全家共奔跑。",
+    "source": "南京本地宝",
+    "highlights": [
+      "亲子马拉松",
+      "田径场",
+      "奔跑"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心滑冰体验",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-28",
+    "end_date": "2026-11-28",
+    "fee": "收费",
+    "description": "奥体中心冰场开放暑期亲子滑冰时段，提供冰鞋租赁与教练指导，清凉消暑又锻炼平衡。",
+    "source": "南京本地宝",
+    "highlights": [
+      "滑冰",
+      "冰鞋",
+      "平衡"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青奥公园桨板体验",
+    "venue": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "桨板体验在夹江平静水域开展，教练指导站姿划桨，全家感受桨板上的平衡与乐趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "桨板",
+      "站姿",
+      "平衡"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "五台山体育中心网球",
+    "venue": "五台山体育中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-30",
+    "end_date": "2026-09-21",
+    "fee": "收费",
+    "description": "五台山网球暑期班教授正反手击球与发球技术，小班教学，让孩子在运动中收获友谊。",
+    "source": "南京本地宝",
+    "highlights": [
+      "网球",
+      "正反手",
+      "发球"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "玄武湖帆船体验",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-07",
+    "fee": "收费",
+    "description": "玄武湖帆船体验由帆船教练讲解操控原理，亲子共同操控OP小帆船，感受乘风破浪的乐趣。",
+    "source": "南京本地宝",
+    "highlights": [
+      "帆船",
+      "OP小帆船",
+      "乘风破浪"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "奥体中心射箭体验",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "射箭体验课讲解反曲弓握法与瞄准技巧，孩子在专业靶场练习射箭，培养专注与耐心。",
+    "source": "南京本地宝",
+    "highlights": [
+      "射箭",
+      "反曲弓",
+      "专注"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "栖霞山徒步研学",
+    "venue": "栖霞山风景区",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-24",
+    "end_date": "2027-02-23",
+    "fee": "收费",
+    "description": "栖霞山徒步研学沿乾隆行宫遗址线路行进，讲解栖霞山地质地貌与历史古迹，亲子登高揽胜。",
+    "source": "南京本地宝",
+    "highlights": [
+      "栖霞山",
+      "徒步",
+      "乾隆行宫"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "栖霞山红叶观赏",
+    "venue": "栖霞山风景区",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-10-15",
+    "end_date": "2026-12-15",
+    "fee": "收费",
+    "description": "栖霞山红叶节期间漫山红遍，亲子可赏枫拍照，景区设置最佳观赏点与摄影比赛。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红叶",
+      "赏枫",
+      "摄影比赛"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "栖霞山千佛岩研学",
+    "venue": "栖霞山风景区",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-09-29",
+    "fee": "收费",
+    "description": "千佛岩为南朝石窟造像群，研学讲解造像艺术与南朝佛教文化，孩子临摹造像线条。",
+    "source": "南京本地宝",
+    "highlights": [
+      "千佛岩",
+      "石窟造像",
+      "南朝佛教"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "栖霞山古寺文化研学",
+    "venue": "栖霞山风景区",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "fee": "收费",
+    "description": "栖霞古寺文化研学讲解千年古刹历史与建筑格局，了解舍利塔与唐代碑刻艺术。",
+    "source": "南京本地宝",
+    "highlights": [
+      "栖霞古寺",
+      "舍利塔",
+      "唐代碑刻"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "珍珠泉戏水",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-11-19",
+    "fee": "收费",
+    "description": "珍珠泉戏水区泉水清澈见底，亲子可赤脚踩水、摸鱼捉虾，体验夏日野趣，是避暑胜地。",
+    "source": "南京本地宝",
+    "highlights": [
+      "珍珠泉",
+      "戏水",
+      "避暑"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "珍珠泉亲子划竹筏",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-11-02",
+    "fee": "收费",
+    "description": "珍珠泉竹筏体验全家共撑竹篙，泛舟镜山湖上，远眺老山苍翠，享受山水之间亲子时光。",
+    "source": "南京本地宝",
+    "highlights": [
+      "竹筏",
+      "镜山湖",
+      "老山"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "珍珠泉动物表演",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-31",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "珍珠泉野生动物园每日上演猛兽表演，东北虎、非洲狮、黑熊同台献技，惊险又精彩。",
+    "source": "南京本地宝",
+    "highlights": [
+      "动物表演",
+      "猛兽",
+      "马戏"
+    ],
+    "type": "演出",
+    "is_family_friendly": false
+  },
+  {
+    "name": "珍珠泉野营体验",
+    "venue": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-26",
+    "end_date": "2026-09-20",
+    "fee": "收费",
+    "description": "珍珠泉野营体验区提供帐篷租赁与烧烤场地，亲子家庭在星空下露营过夜，次日晨起观泉赏景。",
+    "source": "南京本地宝",
+    "highlights": [
+      "野营",
+      "帐篷",
+      "星空"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "牛首山祈福文化游",
+    "venue": "牛首山文化旅游区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-18",
+    "end_date": "2026-12-18",
+    "fee": "收费",
+    "description": "牛首山祈福文化游带亲子家庭参拜佛顶寺，了解牛首山佛教文化历史，登高望远感受山水之美。",
+    "source": "南京本地宝",
+    "highlights": [
+      "牛首山",
+      "祈福",
+      "佛教文化"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "牛首山佛顶宫研学",
+    "venue": "牛首山文化旅游区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-03",
+    "end_date": "2026-10-19",
+    "fee": "收费",
+    "description": "佛顶宫研学讲解建筑设计与供奉舍利文化，参观地下六层穹顶空间，了解现代佛教建筑艺术。",
+    "source": "南京本地宝",
+    "highlights": [
+      "佛顶宫",
+      "舍利",
+      "建筑艺术"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "牛首山禅修体验",
+    "venue": "牛首山文化旅游区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-23",
+    "end_date": "2026-10-03",
+    "fee": "收费",
+    "description": "牛首山禅修体验由法师带领学习坐禅与行禅，亲子在清幽环境中静心体验，舒缓身心压力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "禅修",
+      "坐禅",
+      "静心"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "牛首山徒步登山",
+    "venue": "牛首山文化旅游区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-07",
+    "end_date": "2027-01-06",
+    "fee": "收费",
+    "description": "牛首山徒步登山线路穿越佛顶宫、佛顶塔与隐龙湖，全程约6公里，适合亲子户外锻炼。",
+    "source": "南京本地宝",
+    "highlights": [
+      "徒步",
+      "佛顶塔",
+      "隐龙湖"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "汤山温泉亲子游",
+    "venue": "汤山温泉旅游度假区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
+    "fee": "收费",
+    "description": "汤山温泉亲子游开放夏日冷泉与常温汤池，设有儿童戏水池与水滑梯，全家泡汤消暑两不误。",
+    "source": "南京本地宝",
+    "highlights": [
+      "汤山温泉",
+      "冷泉",
+      "戏水池"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "汤山直立人化石研学",
+    "venue": "南京直立人化石遗址博物馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-25",
+    "end_date": "2026-11-20",
+    "fee": "收费",
+    "description": "直立人化石遗址博物馆研学讲述南京直立人发现过程，参观葫芦洞原始化石出土地点。",
+    "source": "南京本地宝",
+    "highlights": [
+      "直立人",
+      "葫芦洞",
+      "化石"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "汤山猿人洞探秘",
+    "venue": "汤山古猿人洞",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-25",
+    "end_date": "2026-10-06",
+    "fee": "收费",
+    "description": "古猿人洞探秘深入葫芦洞喀斯特溶洞，观赏石笋钟乳，了解溶洞形成与古人类栖息环境。",
+    "source": "南京本地宝",
+    "highlights": [
+      "猿人洞",
+      "溶洞",
+      "喀斯特"
+    ],
+    "type": "研学",
+    "is_family_friendly": false
+  },
+  {
+    "name": "阳山碑材研学",
+    "venue": "阳山碑材",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-30",
+    "fee": "收费",
+    "description": "阳山碑材为明成祖朱棣开凿的天下第一碑，研学讲解碑材开采过程与历史谜团，感受古代工程奇迹。",
+    "source": "南京本地宝",
+    "highlights": [
+      "阳山碑材",
+      "天下第一碑",
+      "工程奇迹"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "高淳老街古建筑研学",
+    "venue": "高淳老街",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-04",
+    "end_date": "2027-02-03",
+    "fee": "免费",
+    "description": "高淳老街古建筑研学漫步明清古街，讲解徽派与苏式建筑融合特色，参观关王庙与乾隆古井。",
+    "source": "南京本地宝",
+    "highlights": [
+      "高淳老街",
+      "古建筑",
+      "关王庙"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "桠溪国际慢城骑行",
+    "venue": "桠溪国际慢城",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-09",
+    "end_date": "2027-03-10",
+    "fee": "免费",
+    "description": "桠溪国际慢城骑行沿生态路穿梭茶园与花海，全程约15公里，亲子享受慢节奏乡村风光。",
+    "source": "南京本地宝",
+    "highlights": [
+      "慢城",
+      "骑行",
+      "茶园"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "桠溪国际慢城观光",
+    "venue": "桠溪国际慢城",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-23",
+    "end_date": "2027-02-22",
+    "fee": "免费",
+    "description": "桠溪慢城观光可乘观光车游览大山自然村、桃花扇广场等景点，体验慢城田园生活。",
+    "source": "南京本地宝",
+    "highlights": [
+      "慢城观光",
+      "田园",
+      "观光车"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "游子山登山",
+    "venue": "游子山",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-18",
+    "fee": "免费",
+    "description": "游子山为高淳第一高峰，登山步道平缓适合亲子，山顶可俯瞰固城湖与高淳全貌。",
+    "source": "南京本地宝",
+    "highlights": [
+      "游子山",
+      "登山",
+      "固城湖"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "固城湖湿地观鸟",
+    "venue": "固城湖",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-11",
+    "end_date": "2026-12-06",
+    "fee": "免费",
+    "description": "固城湖湿地观鸟活动由观鸟爱好者带领，使用望远镜观察白鹭、苍鹭等水鸟，了解湿地生态。",
+    "source": "南京本地宝",
+    "highlights": [
+      "固城湖",
+      "观鸟",
+      "白鹭"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "溧水周园文化游",
+    "venue": "周园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-26",
+    "end_date": "2027-01-26",
+    "fee": "收费",
+    "description": "周园为国内最大私人收藏馆，文化游讲解佛教石雕、红木家具与宫殿建筑，感受民间收藏之巨。",
+    "source": "南京本地宝",
+    "highlights": [
+      "周园",
+      "石雕",
+      "收藏"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "溧水天生桥游船",
+    "venue": "天生桥",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-08-25",
+    "end_date": "2026-12-25",
+    "fee": "收费",
+    "description": "天生桥游船沿胭脂河航行，欣赏明代人工开凿的运河与天生石桥奇观，了解古代水利智慧。",
+    "source": "南京本地宝",
+    "highlights": [
+      "天生桥",
+      "胭脂河",
+      "水利"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "溧水无想山徒步",
+    "venue": "无想山",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-10-10",
+    "end_date": "2027-03-11",
+    "fee": "免费",
+    "description": "无想山国家森林公园徒步穿越竹海与水库，沿途空气清新，是亲子远离城市喧嚣的清幽去处。",
+    "source": "南京本地宝",
+    "highlights": [
+      "无想山",
+      "竹海",
+      "徒步"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "溧水傅家边采摘",
+    "venue": "傅家边",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-10-30",
+    "fee": "收费",
+    "description": "傅家边农业科技园夏季开放葡萄、蓝莓采摘，亲子体验果园劳作乐趣，采摘水果按斤计价。",
+    "source": "南京本地宝",
+    "highlights": [
+      "采摘",
+      "葡萄",
+      "蓝莓"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "溧水东庐山徒步",
+    "venue": "东庐山",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-08-04",
+    "end_date": "2026-12-30",
+    "fee": "免费",
+    "description": "东庐山为秦淮河发源地之一，徒步登山可探访观音寺与百里秦淮源头，了解南京母亲河的起源。",
+    "source": "南京本地宝",
+    "highlights": [
+      "东庐山",
+      "秦淮河源头",
+      "观音寺"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "六合金牛湖游船",
+    "venue": "金牛湖",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-12-20",
+    "fee": "收费",
+    "description": "金牛湖为南京最大人工湖，游船环湖观赏湖光山色，可远眺金牛山，是亲子休闲好去处。",
+    "source": "南京本地宝",
+    "highlights": [
+      "金牛湖",
+      "游船",
+      "人工湖"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "六合平山森林公园徒步",
+    "venue": "南京平山森林公园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-01",
+    "end_date": "2026-12-31",
+    "fee": "收费",
+    "description": "平山森林公园徒步穿越水杉林与茶园，山中翠茗湖倒映山林，亲子享受天然氧吧的清新。",
+    "source": "南京本地宝",
+    "highlights": [
+      "平山",
+      "水杉林",
+      "氧吧"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "六合桂子山石柱林研学",
+    "venue": "桂子山石柱林",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-31",
+    "end_date": "2026-09-11",
+    "fee": "收费",
+    "description": "桂子山石柱林为火山喷发形成的玄武岩石柱，研学讲解地质成因，感受大自然的鬼斧神工。",
+    "source": "南京本地宝",
+    "highlights": [
+      "石柱林",
+      "玄武岩",
+      "火山地质"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花台烈士陵园研学",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-26",
+    "end_date": "2026-11-26",
+    "fee": "免费",
+    "description": "雨花台烈士陵园研学在纪念碑前献花致敬，参观纪念馆了解烈士事迹，传承红色基因。",
+    "source": "南京本地宝",
+    "highlights": [
+      "雨花台",
+      "烈士陵园",
+      "红色基因"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花台红色文化讲堂",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-06",
+    "end_date": "2026-10-01",
+    "fee": "免费",
+    "description": "红色文化讲堂邀请党史专家讲述雨花英烈故事，配合实物展品与影像资料，深化爱国主义教育。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红色讲堂",
+      "雨花英烈",
+      "党史"
+    ],
+    "type": "研学",
+    "is_family_friendly": false
+  },
+  {
+    "name": "雨花台小小讲解员",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-27",
+    "fee": "免费",
+    "description": "雨花台小小讲解员培训班面向10-14岁学生，培训烈士事迹与讲解技巧，结业后可志愿讲解。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小讲解员",
+      "志愿讲解",
+      "培训"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花台烈士事迹研学",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-23",
+    "end_date": "2026-10-07",
+    "fee": "免费",
+    "description": "烈士事迹研学精选邓中夏、恽代英等雨花英烈生平，讲述革命信仰与牺牲精神，完成研学手册。",
+    "source": "南京本地宝",
+    "highlights": [
+      "烈士事迹",
+      "邓中夏",
+      "恽代英"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花台爱国主义教育",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-10-03",
+    "end_date": "2027-04-04",
+    "fee": "免费",
+    "description": "雨花台爱国主义教育主题活动含献花仪式、重温入队誓词与主题队会，强化青少年爱国情怀。",
+    "source": "南京本地宝",
+    "highlights": [
+      "爱国主义",
+      "献花",
+      "入队誓词"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花台红色夏令营",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "免费",
+    "description": "五日红色夏令营结合雨花英烈学习与军事训练，培养孩子坚强意志与家国情怀，全程免费。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红色夏令营",
+      "军事训练",
+      "家国情怀"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "渡江胜利纪念馆研学",
+    "venue": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-13",
+    "fee": "免费",
+    "description": "渡江胜利纪念馆研学讲述百万雄师过大江的历史，参观渡江战役文物与木船实物，感受胜利豪情。",
+    "source": "南京本地宝",
+    "highlights": [
+      "渡江战役",
+      "百万雄师",
+      "木船"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "渡江胜利纪念馆小小讲解员",
+    "venue": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-30",
+    "end_date": "2026-09-05",
+    "fee": "免费",
+    "description": "渡江胜利纪念馆小小讲解员培训班，学习渡江战役历史与讲解礼仪，结业可参与志愿讲解服务。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小讲解员",
+      "渡江战役",
+      "志愿"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "渡江胜利纪念馆红色课堂",
+    "venue": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-08",
+    "fee": "免费",
+    "description": "红色课堂每周末开讲，结合馆藏文物讲述渡江战役关键战役与英雄人物，播撒红色种子。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红色课堂",
+      "渡江战役",
+      "英雄人物"
+    ],
+    "type": "研学",
+    "is_family_friendly": false
+  },
+  {
+    "name": "渡江胜利纪念馆爱国主义教育",
+    "venue": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
+    "fee": "免费",
+    "description": "渡江胜利纪念馆爱国主义教育含献花、宣誓与参观流程，强化青少年对新中国成立的认知。",
+    "source": "南京本地宝",
+    "highlights": [
+      "爱国主义",
+      "献花",
+      "宣誓"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梅园新村纪念馆研学",
+    "venue": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-07",
+    "end_date": "2026-12-07",
+    "fee": "免费",
+    "description": "梅园新村纪念馆研学讲述国共南京谈判历史，参观中共代表团办公原址，感受革命先辈智慧。",
+    "source": "南京本地宝",
+    "highlights": [
+      "梅园新村",
+      "国共谈判",
+      "革命先辈"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梅园新村红色文化研学",
+    "venue": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-05",
+    "fee": "免费",
+    "description": "梅园新村红色文化研学结合馆藏文物与历史照片，梳理中共代表团在南京的奋斗历程。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红色文化",
+      "中共代表团",
+      "奋斗历程"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梅园新村国共谈判历史研学",
+    "venue": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "国共谈判历史研学聚焦1946年南京谈判，讲解停战协定与政协决议，理解和平建国的曲折。",
+    "source": "南京本地宝",
+    "highlights": [
+      "国共谈判",
+      "停战协定",
+      "和平建国"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梅园新村小小讲解员",
+    "venue": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "fee": "免费",
+    "description": "梅园新村小小讲解员培训班面向9-13岁学生，培训国共谈判史与讲解技能，结业后周末上岗。",
+    "source": "南京本地宝",
+    "highlights": [
+      "小小讲解员",
+      "国共谈判史",
+      "培训"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京国防园军事研学",
+    "venue": "南京国防园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-18",
+    "end_date": "2026-11-18",
+    "fee": "免费",
+    "description": "国防园军事研学参观歼击机、坦克、火炮等退役武器装备，讲解国防科技发展，增强国防意识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "军事研学",
+      "武器装备",
+      "国防意识"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京国防园兵器体验",
+    "venue": "南京国防园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-19",
+    "end_date": "2026-09-30",
+    "fee": "免费",
+    "description": "国防园兵器体验区可近距离观察各型退役兵器，并参与模拟射击与兵器拼装等互动项目。",
+    "source": "南京本地宝",
+    "highlights": [
+      "兵器体验",
+      "模拟射击",
+      "拼装"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "南京国防园国防教育",
+    "venue": "南京国防园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-24",
+    "end_date": "2027-01-23",
+    "fee": "免费",
+    "description": "国防园国防教育主题活动含升旗仪式、国防知识讲座与武器装备参观，强化全民国防观念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "国防教育",
+      "升旗",
+      "国防知识"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false
+  },
+  {
+    "name": "南京国防园军事夏令营",
+    "venue": "南京国防园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "fee": "收费",
+    "description": "五日军事夏令营含队列训练、军体拳、野外拉练与战地救护，培养孩子纪律意识与自理能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "军事夏令营",
+      "军体拳",
+      "战地救护"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花台红色诗歌朗诵",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "fee": "免费",
+    "description": "雨花台红色诗歌朗诵会每周举办，亲子家庭朗诵革命主题诗歌，用声音致敬英烈传承精神。",
+    "source": "南京本地宝",
+    "highlights": [
+      "诗歌朗诵",
+      "革命诗歌",
+      "致敬"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "渡江胜利馆红色研学营",
+    "venue": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-07",
+    "fee": "免费",
+    "description": "五日红色研学营系统学习渡江战役全过程，结合情景剧演绎与口述史访谈，深度理解革命历史。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红色研学营",
+      "情景剧",
+      "口述史"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梅园新村周恩来精神研学",
+    "venue": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "description": "周恩来精神研学围绕中共代表团在梅园新村的工作生活，学习周恩来外交智慧与崇高品格。",
+    "source": "南京本地宝",
+    "highlights": [
+      "周恩来精神",
+      "外交智慧",
+      "崇高品格"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "侵华日军南京大屠杀遇难同胞纪念馆研学",
+    "venue": "侵华日军南京大屠杀遇难同胞纪念馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-29",
+    "end_date": "2026-09-28",
+    "fee": "免费需预约",
+    "description": "纪念馆研学在肃穆氛围中铭记历史，参观史料陈列与万人坑遗址，培养孩子珍爱和平的信念。",
+    "source": "南京本地宝",
+    "highlights": [
+      "铭记历史",
+      "珍爱和平",
+      "史料陈列"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "侵华日军南京大屠杀遇难同胞纪念馆和平教育",
+    "venue": "侵华日军南京大屠杀遇难同胞纪念馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
+    "fee": "免费需预约",
+    "description": "和平教育主题活动含和平集会、折纸祈福与和平宣言签署，引导青少年以史为鉴面向未来。",
+    "source": "南京本地宝",
+    "highlights": [
+      "和平教育",
+      "折纸祈福",
+      "和平宣言"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花英烈精神宣讲",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "fee": "免费",
+    "description": "雨花英烈精神宣讲日邀请英烈后人讲述亲人故事，亲子家庭聆听并分享感悟，赓续红色血脉。",
+    "source": "南京本地宝",
+    "highlights": [
+      "英烈精神",
+      "英烈后人",
+      "红色血脉"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "渡江战役史研学",
+    "venue": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-21",
+    "fee": "免费",
+    "description": "渡江战役史研学营系统梳理从战役决策到南京解放的完整历程，结合地图推演理解战略部署。",
+    "source": "南京本地宝",
+    "highlights": [
+      "渡江战役史",
+      "地图推演",
+      "战略部署"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "国防园现代军事研学",
+    "venue": "南京国防园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-20",
+    "fee": "免费",
+    "description": "现代军事研学聚焦新中国成立后国防建设，讲解现代武器装备发展，激发科技强军意识。",
+    "source": "南京本地宝",
+    "highlights": [
+      "现代军事",
+      "科技强军",
+      "武器装备"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "雨花英烈事迹宣讲营",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-28",
+    "fee": "免费",
+    "description": "英烈事迹宣讲营五日营系统学习雨花英烈事迹，孩子分组准备宣讲稿，结营进行宣讲展示。",
+    "source": "南京本地宝",
+    "highlights": [
+      "宣讲营",
+      "英烈事迹",
+      "宣讲展示"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梅园新村革命历史研学",
+    "venue": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "fee": "免费",
+    "description": "梅园新村革命历史研学延续至秋季，深入讲解解放战争初期中共在南京的斗争，制作历史时间轴。",
+    "source": "南京本地宝",
+    "highlights": [
+      "革命历史",
+      "解放战争",
+      "时间轴"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "大金山国防园研学",
+    "venue": "大金山国防园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-10",
+    "end_date": "2027-01-10",
+    "fee": "收费",
+    "description": "大金山国防园研学参观兵器陈列与抗战遗迹，讲述苏南抗战历史，孩子参与战壕体验与投弹练习。",
+    "source": "南京本地宝",
+    "highlights": [
+      "大金山",
+      "苏南抗战",
+      "战壕体验"
+    ],
+    "type": "研学",
+    "is_family_friendly": true
+  },
+  {
+    "name": "大金山国防园军事夏令营",
+    "venue": "大金山国防园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "大金山军事夏令营五日营含军事训练、野外生存与CS对抗，让孩子在军事化生活中磨炼意志。",
+    "source": "南京本地宝",
+    "highlights": [
+      "军事夏令营",
+      "野外生存",
+      "CS对抗"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京玄武区展览活动",
+    "venue": "南京玄武区博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
+    "fee": "免费",
+    "description": "南京玄武区的周末展览活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京秦淮区讲座阅读体验营",
+    "venue": "南京秦淮区科技馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-12",
+    "end_date": "2027-02-11",
+    "fee": "免费",
+    "description": "南京秦淮区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京鼓楼区科普活动工作坊",
+    "venue": "南京鼓楼区美术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
+    "fee": "免费",
+    "description": "南京鼓楼区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京建邺区演出研学营",
+    "venue": "南京建邺区图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
+    "fee": "收费",
+    "description": "南京建邺区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京雨花台区影视放映课程",
+    "venue": "南京雨花台区文化馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
+    "fee": "收费",
+    "description": "南京雨花台区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京栖霞区体育赛事讲座",
+    "venue": "南京栖霞区公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "收费",
+    "description": "南京栖霞区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京江宁区亲子活动展览",
+    "venue": "南京江宁区植物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
+    "fee": "收费",
+    "description": "南京江宁区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京浦口区展览演出",
+    "venue": "南京浦口区动物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
+    "fee": "免费",
+    "description": "南京浦口区的探索展览演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京六合区讲座阅读比赛",
+    "venue": "南京六合区海洋馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
+    "fee": "免费",
+    "description": "南京六合区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京溧水区科普活动嘉年华",
+    "venue": "南京溧水区剧院",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
+    "fee": "免费",
+    "description": "南京溧水区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京高淳区演出日",
+    "venue": "南京高淳区体育馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
+    "fee": "收费",
+    "description": "南京高淳区的走进演出日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京玄武区影视放映周",
+    "venue": "南京玄武区体育场",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-30",
+    "end_date": "2027-03-01",
+    "fee": "收费",
+    "description": "南京玄武区的解读影视放映周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京秦淮区体育赛事月",
+    "venue": "南京秦淮区会展中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-19",
+    "end_date": "2027-02-18",
+    "fee": "收费",
+    "description": "南京秦淮区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京鼓楼区亲子活动季",
+    "venue": "南京鼓楼区文化中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
+    "fee": "收费",
+    "description": "南京鼓楼区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京建邺区展览节",
+    "venue": "南京建邺区艺术中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
+    "fee": "免费",
+    "description": "南京建邺区的精彩展览节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京雨花台区讲座阅读之旅",
+    "venue": "南京雨花台区青少年宫",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
+    "fee": "免费",
+    "description": "南京雨花台区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京栖霞区科普活动探秘",
+    "venue": "南京栖霞区创意园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
+    "fee": "免费",
+    "description": "南京栖霞区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京江宁区演出发现",
+    "venue": "南京江宁区博物馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
+    "fee": "收费",
+    "description": "南京江宁区的震撼演出发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京浦口区影视放映探索",
+    "venue": "南京浦口区科技馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-03",
+    "fee": "收费",
+    "description": "南京浦口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京六合区体育赛事科普",
+    "venue": "南京六合区美术馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
+    "fee": "收费",
+    "description": "南京六合区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京溧水区亲子活动活动",
+    "venue": "南京溧水区图书馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
+    "fee": "收费",
+    "description": "南京溧水区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京高淳区展览体验营",
+    "venue": "南京高淳区文化馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
+    "fee": "免费",
+    "description": "南京高淳区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京玄武区讲座阅读工作坊",
+    "venue": "南京玄武区公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
+    "fee": "免费",
+    "description": "南京玄武区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京秦淮区科普活动研学营",
+    "venue": "南京秦淮区植物园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-10",
+    "end_date": "2027-02-09",
+    "fee": "免费",
+    "description": "南京秦淮区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京鼓楼区演出课程",
+    "venue": "南京鼓楼区动物园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
+    "fee": "收费",
+    "description": "南京鼓楼区的儿童演出课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京建邺区影视放映讲座",
+    "venue": "南京建邺区海洋馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
+    "fee": "收费",
+    "description": "南京建邺区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京雨花台区体育赛事展览",
+    "venue": "南京雨花台区剧院",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-25",
+    "end_date": "2027-01-24",
+    "fee": "收费",
+    "description": "南京雨花台区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京栖霞区亲子活动演出",
+    "venue": "南京栖霞区体育馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
+    "fee": "收费",
+    "description": "南京栖霞区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京江宁区展览比赛",
+    "venue": "南京江宁区体育场",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-22",
+    "end_date": "2027-01-21",
+    "fee": "免费",
+    "description": "南京江宁区的发现展览比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京浦口区讲座阅读嘉年华",
+    "venue": "南京浦口区会展中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
+    "fee": "免费",
+    "description": "南京浦口区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京六合区科普活动日",
+    "venue": "南京六合区文化中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-10-11",
+    "end_date": "2027-04-12",
+    "fee": "免费",
+    "description": "南京六合区的走进科普活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京溧水区演出周",
+    "venue": "南京溧水区艺术中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-24",
+    "end_date": "2027-01-23",
+    "fee": "收费",
+    "description": "南京溧水区的解读演出周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京高淳区影视放映月",
+    "venue": "南京高淳区青少年宫",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
+    "fee": "收费",
+    "description": "南京高淳区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京玄武区体育赛事季",
+    "venue": "南京玄武区创意园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-08",
+    "end_date": "2027-03-10",
+    "fee": "收费",
+    "description": "南京玄武区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京秦淮区亲子活动节",
+    "venue": "南京秦淮区博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
+    "fee": "收费",
+    "description": "南京秦淮区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京鼓楼区展览之旅",
+    "venue": "南京鼓楼区科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-06",
+    "end_date": "2027-04-07",
+    "fee": "免费",
+    "description": "南京鼓楼区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京建邺区讲座阅读探秘",
+    "venue": "南京建邺区美术馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
+    "fee": "免费",
+    "description": "南京建邺区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京雨花台区科普活动发现",
+    "venue": "南京雨花台区图书馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-26",
+    "end_date": "2027-01-25",
+    "fee": "免费",
+    "description": "南京雨花台区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京栖霞区演出探索",
+    "venue": "南京栖霞区文化馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
+    "fee": "收费",
+    "description": "南京栖霞区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京江宁区影视放映科普",
+    "venue": "南京江宁区公园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
+    "fee": "收费",
+    "description": "南京江宁区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京浦口区体育赛事活动",
+    "venue": "南京浦口区植物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
+    "fee": "收费",
+    "description": "南京浦口区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京六合区亲子活动体验营",
+    "venue": "南京六合区动物园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-22",
+    "fee": "收费",
+    "description": "南京六合区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京溧水区展览工作坊",
+    "venue": "南京溧水区海洋馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
+    "fee": "免费",
+    "description": "南京溧水区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京高淳区讲座阅读研学营",
+    "venue": "南京高淳区剧院",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
+    "fee": "免费",
+    "description": "南京高淳区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京玄武区科普活动课程",
+    "venue": "南京玄武区体育馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2027-01-24",
+    "fee": "免费",
+    "description": "南京玄武区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京秦淮区演出讲座",
+    "venue": "南京秦淮区体育场",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-10-05",
+    "end_date": "2027-04-06",
+    "fee": "收费",
+    "description": "南京秦淮区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京鼓楼区影视放映展览",
+    "venue": "南京鼓楼区会展中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
+    "fee": "收费",
+    "description": "南京鼓楼区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京建邺区体育赛事演出",
+    "venue": "南京建邺区文化中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-11",
+    "end_date": "2027-04-12",
+    "fee": "收费",
+    "description": "南京建邺区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京雨花台区亲子活动比赛",
+    "venue": "南京雨花台区艺术中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-10-04",
+    "end_date": "2027-04-05",
+    "fee": "收费",
+    "description": "南京雨花台区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京栖霞区展览嘉年华",
+    "venue": "南京栖霞区青少年宫",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-19",
+    "fee": "免费",
+    "description": "南京栖霞区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京江宁区讲座阅读日",
+    "venue": "南京江宁区创意园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-11",
+    "fee": "免费",
+    "description": "南京江宁区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京浦口区科普活动周",
+    "venue": "南京浦口区博物馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
+    "fee": "免费",
+    "description": "南京浦口区的解读科普活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京六合区演出月",
+    "venue": "南京六合区科技馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-20",
+    "end_date": "2027-01-19",
+    "fee": "收费",
+    "description": "南京六合区的探秘演出月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京溧水区影视放映季",
+    "venue": "南京溧水区美术馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
+    "fee": "收费",
+    "description": "南京溧水区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京高淳区体育赛事节",
+    "venue": "南京高淳区图书馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-24",
+    "end_date": "2027-03-26",
+    "fee": "收费",
+    "description": "南京高淳区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京玄武区亲子活动之旅",
+    "venue": "南京玄武区文化馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
+    "fee": "收费",
+    "description": "南京玄武区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京秦淮区展览探秘",
+    "venue": "南京秦淮区公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-08",
+    "end_date": "2027-03-10",
+    "fee": "免费",
+    "description": "南京秦淮区的经典展览探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京鼓楼区讲座阅读发现",
+    "venue": "南京鼓楼区植物园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
+    "fee": "免费",
+    "description": "南京鼓楼区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京建邺区科普活动探索",
+    "venue": "南京建邺区动物园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-20",
+    "end_date": "2027-01-19",
+    "fee": "免费",
+    "description": "南京建邺区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京雨花台区演出科普",
+    "venue": "南京雨花台区海洋馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
+    "fee": "收费",
+    "description": "南京雨花台区的互动演出科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京栖霞区影视放映活动",
+    "venue": "南京栖霞区剧院",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
+    "fee": "收费",
+    "description": "南京栖霞区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京江宁区体育赛事体验营",
+    "venue": "南京江宁区体育馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-24",
+    "end_date": "2027-03-26",
+    "fee": "收费",
+    "description": "南京江宁区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京浦口区亲子活动工作坊",
+    "venue": "南京浦口区体育场",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-23",
+    "end_date": "2027-02-22",
+    "fee": "收费",
+    "description": "南京浦口区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京六合区展览研学营",
+    "venue": "南京六合区会展中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-07-20",
+    "end_date": "2027-01-19",
+    "fee": "免费",
+    "description": "南京六合区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京溧水区讲座阅读课程",
+    "venue": "南京溧水区文化中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-22",
+    "fee": "免费",
+    "description": "南京溧水区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京高淳区科普活动讲座",
+    "venue": "南京高淳区艺术中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
+    "fee": "免费",
+    "description": "南京高淳区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京玄武区演出展览",
+    "venue": "南京玄武区青少年宫",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
+    "fee": "收费",
+    "description": "南京玄武区的趣味演出展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京秦淮区影视放映演出",
+    "venue": "南京秦淮区创意园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
+    "fee": "收费",
+    "description": "南京秦淮区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京鼓楼区体育赛事比赛",
+    "venue": "南京鼓楼区博物馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-09",
+    "end_date": "2027-02-08",
+    "fee": "收费",
+    "description": "南京鼓楼区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京建邺区亲子活动嘉年华",
+    "venue": "南京建邺区科技馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
+    "fee": "收费",
+    "description": "南京建邺区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京雨花台区展览日",
+    "venue": "南京雨花台区美术馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
+    "fee": "免费",
+    "description": "南京雨花台区的走进展览日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京栖霞区讲座阅读周",
+    "venue": "南京栖霞区图书馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
+    "fee": "免费",
+    "description": "南京栖霞区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京江宁区科普活动月",
+    "venue": "南京江宁区文化馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
+    "fee": "免费",
+    "description": "南京江宁区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京浦口区演出季",
+    "venue": "南京浦口区公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-08-17",
+    "end_date": "2027-02-16",
+    "fee": "收费",
+    "description": "南京浦口区的漫游演出季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京六合区影视放映节",
+    "venue": "南京六合区植物园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-11",
+    "end_date": "2027-02-10",
+    "fee": "收费",
+    "description": "南京六合区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京溧水区体育赛事之旅",
+    "venue": "南京溧水区动物园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-10-05",
+    "end_date": "2027-04-06",
+    "fee": "收费",
+    "description": "南京溧水区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京高淳区亲子活动探秘",
+    "venue": "南京高淳区海洋馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
+    "fee": "收费",
+    "description": "南京高淳区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京玄武区展览发现",
+    "venue": "南京玄武区剧院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-19",
+    "end_date": "2027-02-18",
+    "fee": "免费",
+    "description": "南京玄武区的震撼展览发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京秦淮区讲座阅读探索",
+    "venue": "南京秦淮区体育馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-03",
+    "fee": "免费",
+    "description": "南京秦淮区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京鼓楼区科普活动科普",
+    "venue": "南京鼓楼区体育场",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
+    "fee": "免费",
+    "description": "南京鼓楼区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京建邺区演出活动",
+    "venue": "南京建邺区会展中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
+    "fee": "收费",
+    "description": "南京建邺区的周末演出活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京雨花台区影视放映体验营",
+    "venue": "南京雨花台区文化中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
+    "fee": "收费",
+    "description": "南京雨花台区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京栖霞区体育赛事工作坊",
+    "venue": "南京栖霞区艺术中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-03",
+    "end_date": "2027-03-05",
+    "fee": "收费",
+    "description": "南京栖霞区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京江宁区亲子活动研学营",
+    "venue": "南京江宁区青少年宫",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-07",
+    "end_date": "2027-03-09",
+    "fee": "收费",
+    "description": "南京江宁区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京浦口区展览课程",
+    "venue": "南京浦口区创意园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-14",
+    "end_date": "2027-03-16",
+    "fee": "免费",
+    "description": "南京浦口区的儿童展览课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京六合区讲座阅读讲座",
+    "venue": "南京六合区博物馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "免费",
+    "description": "南京六合区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京溧水区科普活动展览",
+    "venue": "南京溧水区科技馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
+    "fee": "免费",
+    "description": "南京溧水区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京高淳区演出演出",
+    "venue": "南京高淳区美术馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
+    "fee": "收费",
+    "description": "南京高淳区的探索演出演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京玄武区影视放映比赛",
+    "venue": "南京玄武区图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-15",
+    "end_date": "2027-02-14",
+    "fee": "收费",
+    "description": "南京玄武区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京秦淮区体育赛事嘉年华",
+    "venue": "南京秦淮区文化馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
+    "fee": "收费",
+    "description": "南京秦淮区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京鼓楼区亲子活动日",
+    "venue": "南京鼓楼区公园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
+    "fee": "收费",
+    "description": "南京鼓楼区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京建邺区展览周",
+    "venue": "南京建邺区植物园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
+    "fee": "免费",
+    "description": "南京建邺区的解读展览周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京雨花台区讲座阅读月",
+    "venue": "南京雨花台区动物园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
+    "fee": "免费",
+    "description": "南京雨花台区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京栖霞区科普活动季",
+    "venue": "南京栖霞区海洋馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-10-09",
+    "end_date": "2027-04-10",
+    "fee": "免费",
+    "description": "南京栖霞区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京江宁区演出节",
+    "venue": "南京江宁区剧院",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-22",
+    "end_date": "2027-01-21",
+    "fee": "收费",
+    "description": "南京江宁区的精彩演出节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京浦口区影视放映之旅",
+    "venue": "南京浦口区体育馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
+    "fee": "收费",
+    "description": "南京浦口区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京六合区体育赛事探秘",
+    "venue": "南京六合区体育场",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-09-07",
+    "end_date": "2027-03-09",
+    "fee": "收费",
+    "description": "南京六合区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京溧水区亲子活动发现",
+    "venue": "南京溧水区会展中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
+    "fee": "收费",
+    "description": "南京溧水区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京高淳区展览探索",
+    "venue": "南京高淳区文化中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
+    "fee": "免费",
+    "description": "南京高淳区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京玄武区讲座阅读科普",
+    "venue": "南京玄武区艺术中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
+    "fee": "免费",
+    "description": "南京玄武区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京秦淮区科普活动活动",
+    "venue": "南京秦淮区青少年宫",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-16",
+    "end_date": "2027-03-18",
+    "fee": "免费",
+    "description": "南京秦淮区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京鼓楼区演出体验营",
+    "venue": "南京鼓楼区创意园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-25",
+    "end_date": "2027-01-24",
+    "fee": "收费",
+    "description": "南京鼓楼区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京建邺区影视放映工作坊",
+    "venue": "南京建邺区博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
+    "fee": "收费",
+    "description": "南京建邺区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京雨花台区体育赛事研学营",
+    "venue": "南京雨花台区科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-19",
+    "end_date": "2027-01-18",
+    "fee": "收费",
+    "description": "南京雨花台区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京栖霞区亲子活动课程",
+    "venue": "南京栖霞区美术馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-10-15",
+    "end_date": "2027-04-16",
+    "fee": "收费",
+    "description": "南京栖霞区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京江宁区展览讲座",
+    "venue": "南京江宁区图书馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-08",
+    "end_date": "2027-02-07",
+    "fee": "免费",
+    "description": "南京江宁区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京浦口区讲座阅读展览",
+    "venue": "南京浦口区文化馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
+    "fee": "免费",
+    "description": "南京浦口区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京六合区科普活动演出",
+    "venue": "南京六合区公园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-09-19",
+    "end_date": "2027-03-21",
+    "fee": "免费",
+    "description": "南京六合区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京溧水区演出比赛",
+    "venue": "南京溧水区植物园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
+    "fee": "收费",
+    "description": "南京溧水区的发现演出比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京高淳区影视放映嘉年华",
+    "venue": "南京高淳区动物园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-08",
+    "end_date": "2027-04-09",
+    "fee": "收费",
+    "description": "南京高淳区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京玄武区体育赛事日",
+    "venue": "南京玄武区海洋馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
+    "fee": "收费",
+    "description": "南京玄武区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京秦淮区亲子活动周",
+    "venue": "南京秦淮区剧院",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "收费",
+    "description": "南京秦淮区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京鼓楼区展览月",
+    "venue": "南京鼓楼区体育馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
+    "fee": "免费",
+    "description": "南京鼓楼区的探秘展览月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京建邺区讲座阅读季",
+    "venue": "南京建邺区体育场",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-23",
+    "end_date": "2027-03-25",
+    "fee": "免费",
+    "description": "南京建邺区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京雨花台区科普活动节",
+    "venue": "南京雨花台区会展中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
+    "fee": "免费",
+    "description": "南京雨花台区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京栖霞区演出之旅",
+    "venue": "南京栖霞区文化中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
+    "fee": "收费",
+    "description": "南京栖霞区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京江宁区影视放映探秘",
+    "venue": "南京江宁区艺术中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-14",
+    "end_date": "2027-02-13",
+    "fee": "收费",
+    "description": "南京江宁区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京浦口区体育赛事发现",
+    "venue": "南京浦口区青少年宫",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
+    "fee": "收费",
+    "description": "南京浦口区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京六合区亲子活动探索",
+    "venue": "南京六合区创意园",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "收费",
+    "description": "南京六合区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京溧水区展览科普",
+    "venue": "南京溧水区博物馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-16",
+    "end_date": "2027-03-18",
+    "fee": "免费",
+    "description": "南京溧水区的互动展览科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京高淳区讲座阅读活动",
+    "venue": "南京高淳区科技馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
+    "fee": "免费",
+    "description": "南京高淳区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京玄武区科普活动体验营",
+    "venue": "南京玄武区美术馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-23",
+    "end_date": "2027-01-22",
+    "fee": "免费",
+    "description": "南京玄武区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京秦淮区演出工作坊",
+    "venue": "南京秦淮区图书馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
+    "fee": "收费",
+    "description": "南京秦淮区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京鼓楼区影视放映研学营",
+    "venue": "南京鼓楼区文化馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
+    "fee": "收费",
+    "description": "南京鼓楼区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京建邺区体育赛事课程",
+    "venue": "南京建邺区公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-22",
+    "end_date": "2027-02-21",
+    "fee": "收费",
+    "description": "南京建邺区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京雨花台区亲子活动讲座",
+    "venue": "南京雨花台区植物园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
+    "fee": "收费",
+    "description": "南京雨花台区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京栖霞区展览展览",
+    "venue": "南京栖霞区动物园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "免费",
+    "description": "南京栖霞区的趣味展览展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京江宁区讲座阅读演出",
+    "venue": "南京江宁区海洋馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-11",
+    "fee": "免费",
+    "description": "南京江宁区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京浦口区科普活动比赛",
+    "venue": "南京浦口区剧院",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-22",
+    "end_date": "2027-01-21",
+    "fee": "免费",
+    "description": "南京浦口区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京六合区演出嘉年华",
+    "venue": "南京六合区体育馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-09",
+    "end_date": "2027-02-08",
+    "fee": "收费",
+    "description": "南京六合区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京溧水区影视放映日",
+    "venue": "南京溧水区体育场",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
+    "fee": "收费",
+    "description": "南京溧水区的走进影视放映日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京高淳区体育赛事周",
+    "venue": "南京高淳区会展中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-20",
+    "end_date": "2027-01-19",
+    "fee": "收费",
+    "description": "南京高淳区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京玄武区亲子活动月",
+    "venue": "南京玄武区文化中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-13",
+    "end_date": "2027-02-12",
+    "fee": "收费",
+    "description": "南京玄武区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京秦淮区展览季",
+    "venue": "南京秦淮区艺术中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-10-01",
+    "end_date": "2027-04-02",
+    "fee": "免费",
+    "description": "南京秦淮区的漫游展览季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京鼓楼区讲座阅读节",
+    "venue": "南京鼓楼区青少年宫",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-05",
+    "end_date": "2027-02-04",
+    "fee": "免费",
+    "description": "南京鼓楼区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京建邺区科普活动之旅",
+    "venue": "南京建邺区创意园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
+    "fee": "免费",
+    "description": "南京建邺区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京雨花台区演出探秘",
+    "venue": "南京雨花台区博物馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
+    "fee": "收费",
+    "description": "南京雨花台区的经典演出探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京栖霞区影视放映发现",
+    "venue": "南京栖霞区科技馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-25",
+    "end_date": "2027-02-24",
+    "fee": "收费",
+    "description": "南京栖霞区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京江宁区体育赛事探索",
+    "venue": "南京江宁区美术馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-08-07",
+    "end_date": "2027-02-06",
+    "fee": "收费",
+    "description": "南京江宁区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京浦口区亲子活动科普",
+    "venue": "南京浦口区图书馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "收费",
+    "description": "南京浦口区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京六合区展览活动",
+    "venue": "南京六合区文化馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-17",
+    "end_date": "2027-02-16",
+    "fee": "免费",
+    "description": "南京六合区的周末展览活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京溧水区讲座阅读体验营",
+    "venue": "南京溧水区公园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-30",
+    "fee": "免费",
+    "description": "南京溧水区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京高淳区科普活动工作坊",
+    "venue": "南京高淳区植物园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
+    "fee": "免费",
+    "description": "南京高淳区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京玄武区演出研学营",
+    "venue": "南京玄武区动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-12",
+    "end_date": "2027-04-13",
+    "fee": "收费",
+    "description": "南京玄武区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京秦淮区影视放映课程",
+    "venue": "南京秦淮区海洋馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-25",
+    "end_date": "2027-03-27",
+    "fee": "收费",
+    "description": "南京秦淮区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京鼓楼区体育赛事讲座",
+    "venue": "南京鼓楼区剧院",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-08-29",
+    "end_date": "2027-02-28",
+    "fee": "收费",
+    "description": "南京鼓楼区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京建邺区亲子活动展览",
+    "venue": "南京建邺区体育馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
+    "fee": "收费",
+    "description": "南京建邺区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京雨花台区展览演出",
+    "venue": "南京雨花台区体育场",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-04",
+    "end_date": "2027-02-03",
+    "fee": "免费",
+    "description": "南京雨花台区的探索展览演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京栖霞区讲座阅读比赛",
+    "venue": "南京栖霞区会展中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-10-14",
+    "end_date": "2027-04-15",
+    "fee": "免费",
+    "description": "南京栖霞区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京江宁区科普活动嘉年华",
+    "venue": "南京江宁区文化中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
+    "fee": "免费",
+    "description": "南京江宁区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京浦口区演出日",
+    "venue": "南京浦口区艺术中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-22",
+    "fee": "收费",
+    "description": "南京浦口区的走进演出日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京六合区影视放映周",
+    "venue": "南京六合区青少年宫",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-31",
+    "end_date": "2027-03-02",
+    "fee": "收费",
+    "description": "南京六合区的解读影视放映周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京溧水区体育赛事月",
+    "venue": "南京溧水区创意园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-24",
+    "end_date": "2027-01-23",
+    "fee": "收费",
+    "description": "南京溧水区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京高淳区亲子活动季",
+    "venue": "南京高淳区博物馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-07-30",
+    "end_date": "2027-01-29",
+    "fee": "收费",
+    "description": "南京高淳区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京玄武区展览节",
+    "venue": "南京玄武区科技馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
+    "fee": "免费",
+    "description": "南京玄武区的精彩展览节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京秦淮区讲座阅读之旅",
+    "venue": "南京秦淮区美术馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
+    "fee": "免费",
+    "description": "南京秦淮区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京鼓楼区科普活动探秘",
+    "venue": "南京鼓楼区图书馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
+    "fee": "免费",
+    "description": "南京鼓楼区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京建邺区演出发现",
+    "venue": "南京建邺区文化馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-30",
+    "end_date": "2027-03-01",
+    "fee": "收费",
+    "description": "南京建邺区的震撼演出发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京雨花台区影视放映探索",
+    "venue": "南京雨花台区公园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-10-03",
+    "end_date": "2027-04-04",
+    "fee": "收费",
+    "description": "南京雨花台区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京栖霞区体育赛事科普",
+    "venue": "南京栖霞区植物园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-10-04",
+    "end_date": "2027-04-05",
+    "fee": "收费",
+    "description": "南京栖霞区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京江宁区亲子活动活动",
+    "venue": "南京江宁区动物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-10-02",
+    "end_date": "2027-04-03",
+    "fee": "收费",
+    "description": "南京江宁区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京浦口区展览体验营",
+    "venue": "南京浦口区海洋馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-06",
+    "end_date": "2027-03-08",
+    "fee": "免费",
+    "description": "南京浦口区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京六合区讲座阅读工作坊",
+    "venue": "南京六合区剧院",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-28",
+    "end_date": "2027-02-27",
+    "fee": "免费",
+    "description": "南京六合区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京溧水区科普活动研学营",
+    "venue": "南京溧水区体育馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-21",
+    "end_date": "2027-01-20",
+    "fee": "免费",
+    "description": "南京溧水区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京高淳区演出课程",
+    "venue": "南京高淳区体育场",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
+    "fee": "收费",
+    "description": "南京高淳区的儿童演出课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京玄武区影视放映讲座",
+    "venue": "南京玄武区会展中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
+    "fee": "收费",
+    "description": "南京玄武区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京秦淮区体育赛事展览",
+    "venue": "南京秦淮区文化中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-13",
+    "end_date": "2027-03-15",
+    "fee": "收费",
+    "description": "南京秦淮区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京鼓楼区亲子活动演出",
+    "venue": "南京鼓楼区艺术中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-18",
+    "end_date": "2027-03-20",
+    "fee": "收费",
+    "description": "南京鼓楼区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京建邺区展览比赛",
+    "venue": "南京建邺区青少年宫",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-16",
+    "end_date": "2027-02-15",
+    "fee": "免费",
+    "description": "南京建邺区的发现展览比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京雨花台区讲座阅读嘉年华",
+    "venue": "南京雨花台区创意园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-03",
+    "fee": "免费",
+    "description": "南京雨花台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京栖霞区科普活动日",
+    "venue": "南京栖霞区博物馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-09-26",
+    "end_date": "2027-03-28",
+    "fee": "免费",
+    "description": "南京栖霞区的走进科普活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京江宁区演出周",
+    "venue": "南京江宁区科技馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
+    "fee": "收费",
+    "description": "南京江宁区的解读演出周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京浦口区影视放映月",
+    "venue": "南京浦口区美术馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-09-11",
+    "end_date": "2027-03-13",
+    "fee": "收费",
+    "description": "南京浦口区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京六合区体育赛事季",
+    "venue": "南京六合区图书馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-10",
+    "end_date": "2027-02-09",
+    "fee": "收费",
+    "description": "南京六合区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京溧水区亲子活动节",
+    "venue": "南京溧水区文化馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-10-13",
+    "end_date": "2027-04-14",
+    "fee": "收费",
+    "description": "南京溧水区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京高淳区展览之旅",
+    "venue": "南京高淳区公园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-30",
+    "end_date": "2027-04-01",
+    "fee": "免费",
+    "description": "南京高淳区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京玄武区讲座阅读探秘",
+    "venue": "南京玄武区植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-11",
+    "fee": "免费",
+    "description": "南京玄武区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京秦淮区科普活动发现",
+    "venue": "南京秦淮区动物园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
+    "fee": "免费",
+    "description": "南京秦淮区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京鼓楼区演出探索",
+    "venue": "南京鼓楼区海洋馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
+    "fee": "收费",
+    "description": "南京鼓楼区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京建邺区影视放映科普",
+    "venue": "南京建邺区剧院",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-10-05",
+    "end_date": "2027-04-06",
+    "fee": "收费",
+    "description": "南京建邺区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "周末南京雨花台区体育赛事活动",
+    "venue": "南京雨花台区体育馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-23",
+    "fee": "收费",
+    "description": "南京雨花台区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "暑期南京栖霞区亲子活动体验营",
+    "venue": "南京栖霞区体育场",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-08-18",
+    "end_date": "2027-02-17",
+    "fee": "收费",
+    "description": "南京栖霞区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "亲子南京江宁区展览工作坊",
+    "venue": "南京江宁区会展中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-26",
+    "fee": "免费",
+    "description": "南京江宁区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "家庭南京浦口区讲座阅读研学营",
+    "venue": "南京浦口区文化中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-28",
+    "end_date": "2027-01-27",
+    "fee": "免费",
+    "description": "南京浦口区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "儿童南京六合区科普活动课程",
+    "venue": "南京六合区艺术中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
+    "fee": "免费",
+    "description": "南京六合区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "青少年南京溧水区演出讲座",
+    "venue": "南京溧水区青少年宫",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
+    "fee": "收费",
+    "description": "南京溧水区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "趣味南京高淳区影视放映展览",
+    "venue": "南京高淳区创意园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-04",
+    "end_date": "2027-03-06",
+    "fee": "收费",
+    "description": "南京高淳区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探索南京玄武区体育赛事演出",
+    "venue": "南京玄武区博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-10-07",
+    "end_date": "2027-04-08",
+    "fee": "收费",
+    "description": "南京玄武区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "发现南京秦淮区亲子活动比赛",
+    "venue": "南京秦淮区科技馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-08-06",
+    "end_date": "2027-02-05",
+    "fee": "收费",
+    "description": "南京秦淮区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "体验南京鼓楼区展览嘉年华",
+    "venue": "南京鼓楼区美术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "start_date": "2026-09-05",
+    "end_date": "2027-03-07",
+    "fee": "免费",
+    "description": "南京鼓楼区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "鼓楼区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "走进南京建邺区讲座阅读日",
+    "venue": "南京建邺区图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-27",
+    "end_date": "2027-02-26",
+    "fee": "免费",
+    "description": "南京建邺区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "建邺区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "解读南京雨花台区科普活动周",
+    "venue": "南京雨花台区文化馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
+    "fee": "免费",
+    "description": "南京雨花台区的解读科普活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "雨花台区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "探秘南京栖霞区演出月",
+    "venue": "南京栖霞区公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
+    "fee": "收费",
+    "description": "南京栖霞区的探秘演出月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "栖霞区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  },
+  {
+    "name": "漫游南京江宁区影视放映季",
+    "venue": "南京江宁区植物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-28",
+    "fee": "收费",
+    "description": "南京江宁区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "江宁区",
+      "影视放映"
+    ],
+    "type": "影视放映",
+    "is_family_friendly": true
+  },
+  {
+    "name": "精彩南京浦口区体育赛事节",
+    "venue": "南京浦口区动物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "start_date": "2026-07-18",
+    "end_date": "2027-01-17",
+    "fee": "收费",
+    "description": "南京浦口区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "浦口区",
+      "体育赛事"
+    ],
+    "type": "体育赛事",
+    "is_family_friendly": true
+  },
+  {
+    "name": "梦幻南京六合区亲子活动之旅",
+    "venue": "南京六合区海洋馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "start_date": "2026-08-26",
+    "end_date": "2027-02-25",
+    "fee": "收费",
+    "description": "南京六合区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "六合区",
+      "亲子活动"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "经典南京溧水区展览探秘",
+    "venue": "南京溧水区剧院",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-09-12",
+    "end_date": "2027-03-14",
+    "fee": "免费",
+    "description": "南京溧水区的经典展览探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "溧水区",
+      "展览"
+    ],
+    "type": "展览",
+    "is_family_friendly": true
+  },
+  {
+    "name": "震撼南京高淳区讲座阅读发现",
+    "venue": "南京高淳区体育馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "start_date": "2026-09-02",
+    "end_date": "2027-03-04",
+    "fee": "免费",
+    "description": "南京高淳区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "高淳区",
+      "讲座阅读"
+    ],
+    "type": "讲座阅读",
+    "is_family_friendly": true
+  },
+  {
+    "name": "沉浸式南京玄武区科普活动探索",
+    "venue": "南京玄武区体育场",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-08-21",
+    "end_date": "2027-02-20",
+    "fee": "免费",
+    "description": "南京玄武区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "玄武区",
+      "科普活动"
+    ],
+    "type": "科普活动",
+    "is_family_friendly": true
+  },
+  {
+    "name": "互动南京秦淮区演出科普",
+    "venue": "南京秦淮区会展中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "start_date": "2026-07-31",
+    "end_date": "2027-01-30",
+    "fee": "收费",
+    "description": "南京秦淮区的互动演出科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "highlights": [
+      "南京",
+      "秦淮区",
+      "演出"
+    ],
+    "type": "演出",
+    "is_family_friendly": true
+  }
+]

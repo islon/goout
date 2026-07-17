@@ -27,14 +27,32 @@ jobs:
           cd scripts
           python main.py
 
+      - name: Enrich districts (写入 district 字段)
+        run: python3 scripts/enrich_districts.py
+
+      - name: Sync mini-program fallback data
+        run: python3 scripts/sync_miniprogram_data.py
+
+      - name: Generate per-city ICS subscription files
+        run: python3 scripts/generate_city_ics.py
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate cities manifest (网页/小程序统一城市清单)
+        run: node scripts/generate_cities_manifest.js
+
       - name: Commit and push
         run: |
           git config --global user.name "Auto Update Bot"
           git config --global user.email "bot@example.com"
-          git add output/exhibitions.json output/exhibitions.ics output/exhibitions.rss 2>/dev/null || true
+          git add output/ 2>/dev/null || true
+          git add miniprogram/data/exhibitions.js miniprogram/data/venues.js 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: 自动更新活动数据 $(date '+%Y-%m-%d')"
+            git commit -m "chore: 自动更新活动数据 & 同步小程序 $(date '+%Y-%m-%d')"
             git push
           fi

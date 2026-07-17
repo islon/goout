@@ -254,11 +254,7 @@
                 <label>城市：</label>
                 <select id="city-filter">
                     <option value="all">全部城市</option>
-                    <option value="shenzhen">深圳</option>
-                    <option value="guangzhou">广州</option>
-                    <option value="shanghai">上海</option>
-                    <option value="beijing">北京</option>
-                    <option value="hangzhou">杭州</option>
+                    <!-- 其余城市由 output/cities.json 动态填充 -->
                 </select>
             </div>
             <div class="filter-group">
@@ -388,9 +384,27 @@
                 })
                 .catch(() => {});
 
-            // 加载所有城市数据
-            const cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou'];
-            const cityNames = { 'shenzhen': '深圳', 'guangzhou': '广州', 'shanghai': '上海', 'beijing': '北京', 'hangzhou': '杭州' };
+            // 加载所有城市数据（城市清单动态读取 output/cities.json，与小程序共用）
+            let cities = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing'];
+            let cityNames = { 'shenzhen': '深圳', 'guangzhou': '广州', 'shanghai': '上海', 'beijing': '北京', 'hangzhou': '杭州', 'chengdu': '成都', 'nanjing': '南京', 'wuhan': '武汉', 'xian': '西安', 'chongqing': '重庆' };
+            try {
+                const resp = await fetch('output/cities.json', { cache: 'no-cache' });
+                if (resp.ok) {
+                    const list = await resp.json();
+                    if (Array.isArray(list) && list.length) {
+                        cities = list.map(c => c.key);
+                        cityNames = {};
+                        list.forEach(c => { cityNames[c.key] = c.name; });
+                    }
+                }
+            } catch (e) { console.warn('cities.json 加载失败，使用兜底清单', e); }
+
+            // 填充城市下拉
+            const sel = document.getElementById('city-filter');
+            if (sel) {
+                sel.innerHTML = '<option value="all">全部城市</option>' + cities.map(c => `<option value="${c}">${cityNames[c]}</option>`).join('');
+            }
+
             let allData = [];
 
             for (const city of cities) {
@@ -480,7 +494,7 @@
                 }
                 if (typeFilter !== 'all') {
                     const cat = e.category || '展览';
-                    const typeMap = { 'exhibition': '展览', 'art': '演出', 'sport': '体育赛事', 'science': '科普活动', 'education': '亲子活动', 'culture': '影视放映' };
+                    const typeMap = { 'exhibition': '展览', 'art': '演出', 'sport': '体育赛事', 'science': '科普活动', 'education': '亲子活动', 'culture': '影视放映', 'reading': '讲座阅读' };
                     if (typeMap[typeFilter] && cat !== typeMap[typeFilter]) return false;
                 }
                 if (feeFilter !== 'all' && getFeeType(e) !== feeFilter) {

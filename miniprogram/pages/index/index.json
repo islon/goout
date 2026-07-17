@@ -1,5 +1,5 @@
 {
   "usingComponents": {},
-  "navigationBarTitleText": "童行 · 亲子活动日历",
-  "enablePullDownRefresh": false
+  "navigationBarTitleText": "童行",
+  "enablePullDownRefresh": true
 }
