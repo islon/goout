@@ -1,2 +1,26000 @@
-// 自动生成
-module.exports = [{"id":"深圳图书馆","name":"深圳图书馆","source":"szlib","city":"shenzhen","district":"福田区","type":"图书馆","address":"福田区福中一路2001号","transport":"地铁3/4号线少年宫站","fee":"免费","description":"深圳中心图书馆，含中心馆和北馆，常设阅览、展览、讲座等活动。","official_url":"https://www.szlib.org.cn","highlights":["阅读推广","讲座展览","暑期缤纷季"]},{"id":"深圳少年儿童图书馆","name":"深圳少年儿童图书馆","source":"sz_children_lib","city":"shenzhen","district":"福田区","type":"图书馆","address":"福田区红荔路1011号","transport":"地铁3号线通新岭站","fee":"免费","description":"专为少年儿童服务的公共图书馆，定期举办绘本故事会、阅读推广等活动。","official_url":"","highlights":["儿童阅读","绘本故事","暑期活动"]},{"id":"深圳博物馆","name":"深圳博物馆","source":"szmuseum","city":"shenzhen","district":"福田区","type":"博物馆","address":"福田区福中路市民中心A区","transport":"地铁2/4号线市民中心站","fee":"免费","description":"深圳综合性博物馆，常设古代深圳、近代深圳、深圳民俗等展览。","official_url":"https://www.shenzhenmuseum.com","highlights":["深圳历史","古代深圳","民俗文化"]},{"id":"深圳科学技术馆","name":"深圳科学技术馆","source":"szstm","city":"shenzhen","district":"光明区","type":"科技馆","address":"光明区光明街道","transport":"地铁6号线光明站","fee":"免费","description":"深圳新建科技馆，含互动体验展区、科学实验区等。","official_url":"","highlights":["科学实验","互动体验","科普教育"]},{"id":"深圳滨海艺术中心","name":"深圳滨海艺术中心","source":"szbo","city":"shenzhen","district":"宝安区","type":"演出场馆","address":"宝安区宝兴路8号","transport":"地铁5号线宝华站","fee":"收费","description":"宝安滨海文化公园内的大型演艺中心，定期举办音乐会、音乐剧等演出。","official_url":"","highlights":["滨海演艺","音乐剧","交响乐"]},{"id":"深圳音乐厅","name":"深圳音乐厅","source":"szconcert","city":"shenzhen","district":"福田区","type":"演出场馆","address":"福田区福中一路2016号","transport":"地铁3/4号线少年宫站","fee":"收费","description":"深圳专业音乐演出场馆，定期举办交响乐、室内乐等音乐会。","official_url":"","highlights":["古典音乐","交响乐"]},{"id":"深圳市当代艺术与城市规划馆","name":"深圳市当代艺术与城市规划馆","source":"szmocap","city":"shenzhen","district":"福田区","type":"美术馆","address":"福田区福中路184号","transport":"地铁3/4号线少年宫站","fee":"免费","description":"集当代艺术展览与城市规划展示于一体的综合性场馆。","official_url":"","highlights":["当代艺术","城市规划"]},{"id":"深圳市体育中心","name":"深圳市体育中心","source":"szsports","city":"shenzhen","district":"福田区","type":"体育中心","address":"福田区笋岗西路","transport":"地铁7号线黄木岗站","fee":"收费","description":"深圳市级体育中心，含体育馆、游泳馆等设施。","official_url":"","highlights":["体育赛事","运动健身"]},{"id":"深圳市文化馆","name":"深圳市文化馆","source":"szmassart","city":"shenzhen","district":"福田区","type":"文化馆","address":"福田区燕南路","transport":"地铁2号线燕南站","fee":"免费","description":"深圳市级文化馆，举办各类公益文化活动。","official_url":"","highlights":["公益文化","艺术培训"]},{"id":"深圳自然博物馆","name":"深圳自然博物馆","source":"sznm","city":"shenzhen","district":"坪山区","type":"博物馆","address":"坪山区石井街道","transport":"地铁16号线","fee":"免费","description":"深圳新建自然博物馆，展示自然历史、生态环境等内容。","official_url":"","highlights":["自然科学","生态环境"]},{"id":"南山图书馆","name":"南山图书馆","source":"nslib","city":"shenzhen","district":"南山区","type":"图书馆","address":"南山区常兴路176号","transport":"地铁1号线桃园站","fee":"免费","description":"南山区公共图书馆，定期举办阅读推广、讲座等活动。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"南山博物馆","name":"南山博物馆","source":"nsmuseum","city":"shenzhen","district":"南山区","type":"博物馆","address":"南山区南山大道2093号","transport":"地铁12号线南头古城站","fee":"免费","description":"南山区综合性博物馆，常设古代南山、近代南山展览，定期举办特展。","official_url":"","highlights":["南山历史","特色特展"]},{"id":"南山区文化馆","name":"南山区文化馆","source":"nswhg","city":"shenzhen","district":"南山区","type":"文化馆","address":"南山区","transport":"","fee":"免费","description":"南山区文化馆，举办公益文化培训、演出等活动。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"南山区青少年活动中心","name":"南山区青少年活动中心","source":"nsqsng","city":"shenzhen","district":"南山区","type":"青少年宫","address":"南山区","transport":"","fee":"免费","description":"南山区青少年校外活动场所，开展各类兴趣培训。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"南山文体中心","name":"南山文体中心","source":"nswtzx","city":"shenzhen","district":"南山区","type":"文化中心","address":"南山区南山大道","transport":"地铁1号线桃园站","fee":"收费","description":"南山文体中心，含大剧院、聚橙剧院等演出场馆。","official_url":"","highlights":["演出","体育"]},{"id":"南山安全教育体验馆","name":"南山安全教育体验馆","source":"nsaqjy","city":"shenzhen","district":"南山区","type":"科普馆","address":"南山区","transport":"","fee":"免费需预约","description":"安全主题沉浸式体验展，含消防、交通、自然灾害等互动体验区。","official_url":"","highlights":["安全教育","互动体验"]},{"id":"蛇口海洋科普馆","name":"蛇口海洋科普馆","source":"skhykpg","city":"shenzhen","district":"南山区","type":"科普馆","address":"南山区蛇口","transport":"地铁2号线蛇口港站","fee":"免费","description":"蛇口海洋科普馆，展示海洋生物标本、珊瑚等。","official_url":"","highlights":["海洋生物","标本展览"]},{"id":"深爱人才馆","name":"深爱人才馆","source":"sarc","city":"shenzhen","district":"南山区","type":"博物馆","address":"南山区","transport":"","fee":"免费","description":"展示深圳人才政策和科技创新成果。","official_url":"","highlights":["人才政策","科技创新"]},{"id":"南头古城博物馆群","name":"南头古城博物馆群","source":"ntgc","city":"shenzhen","district":"南山区","type":"博物馆","address":"南山区南山大道3109号","transport":"地铁12号线南头古城站","fee":"免费","description":"南头古城内多个主题博物馆群，展示深圳1700年城市历史。","official_url":"","highlights":["古城历史","考古发现"]},{"id":"招商局历史博物馆","name":"招商局历史博物馆","source":"zsjbwg","city":"shenzhen","district":"南山区","type":"博物馆","address":"南山区蛇口","transport":"地铁2号线蛇口港站","fee":"免费","description":"展示招商局150年发展历程和中国近代航运史。","official_url":"","highlights":["招商局历史","航运史"]},{"id":"南山书房","name":"南山书房","source":"nssxf","city":"shenzhen","district":"南山区","type":"图书馆","address":"南山区","transport":"","fee":"免费","description":"南山区社区阅读空间，提供自助阅览服务。","official_url":"","highlights":["社区阅读","自助阅览"]},{"id":"华侨城湿地","name":"华侨城湿地","source":"oct_wetland","city":"shenzhen","district":"南山区","type":"公园","address":"南山区白石路","transport":"地铁1号线侨城东站","fee":"免费需预约","description":"华侨城湿地公园，开展自然教育、观鸟等亲子活动。","official_url":"","highlights":["湿地生态","观鸟","自然教育"]},{"id":"深圳湾体育中心","name":"深圳湾体育中心","source":"szwty","city":"shenzhen","district":"南山区","type":"体育中心","address":"南山区滨海大道","transport":"地铁2号线后海站","fee":"收费","description":"深圳湾体育中心（春茧），含体育馆、游泳馆等。","official_url":"","highlights":["体育赛事","运动培训"]},{"id":"欢乐港湾","name":"欢乐港湾","source":"hlgw","city":"shenzhen","district":"宝安区","type":"文化中心","address":"宝安区海天路","transport":"地铁5号线临海站","fee":"免费","description":"宝安滨海文化公园，含摩天轮、商业综合体等。","official_url":"","highlights":["滨海休闲","摩天轮"]},{"id":"福田区图书馆","name":"福田区图书馆","source":"ftlib","city":"shenzhen","district":"福田区","type":"图书馆","address":"福田区景田路70号","transport":"地铁2号线景田站","fee":"免费","description":"福田区公共图书馆，定期举办阅读推广活动。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"福田区文化馆","name":"福田区文化馆","source":"ftwhg","city":"shenzhen","district":"福田区","type":"文化馆","address":"福田区","transport":"","fee":"免费","description":"福田区文化馆，举办公益文化培训、演出等活动。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"福田美术馆","name":"福田美术馆","source":"ftart","city":"shenzhen","district":"福田区","type":"美术馆","address":"福田区","transport":"","fee":"免费","description":"福田区美术馆，展示当代艺术和本土艺术家作品。","official_url":"","highlights":["当代艺术","本土艺术"]},{"id":"深圳古生物博物馆","name":"深圳古生物博物馆","source":"lh_paleo","city":"shenzhen","district":"罗湖区","type":"博物馆","address":"罗湖区仙湖植物园内","transport":"地铁2号线仙湖路站","fee":"免费","description":"展示恐龙化石、三叶虫等古生物标本，介绍地球生命演化历程。","official_url":"","highlights":["古生物化石","恐龙","生命演化"]},{"id":"罗湖区图书馆","name":"罗湖区图书馆","source":"lhlib","city":"shenzhen","district":"罗湖区","type":"图书馆","address":"罗湖区怡景路1014号","transport":"地铁5号线怡景站","fee":"免费","description":"罗湖区公共图书馆，定期举办阅读推广活动。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"罗湖区文化馆","name":"罗湖区文化馆","source":"lhwhg2","city":"shenzhen","district":"罗湖区","type":"文化馆","address":"罗湖区","transport":"","fee":"免费","description":"罗湖区文化馆，举办公益文化培训、演出等活动。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"深圳戏院","name":"深圳戏院","source":"lhtheatre","city":"shenzhen","district":"罗湖区","type":"演出场馆","address":"罗湖区新园路1号","transport":"地铁1/3号线老街站F出口","fee":"需购票","description":"深圳老牌演出场馆，定期举办京剧、儿童剧等演出。","official_url":"","highlights":["京剧","儿童剧","少儿演出季"]},{"id":"深圳大剧院","name":"深圳大剧院","source":"szdjy","city":"shenzhen","district":"罗湖区","type":"演出场馆","address":"罗湖区深南东路5018号","transport":"地铁1/2号线大剧院站","fee":"需购票","description":"深圳大剧院，举办音乐会、歌剧、芭蕾等高端演出。","official_url":"","highlights":["交响乐","歌剧","芭蕾"]},{"id":"宝安图书馆","name":"宝安图书馆","source":"balib","city":"shenzhen","district":"宝安区","type":"图书馆","address":"宝安区宝兴路1号","transport":"地铁5号线宝华站","fee":"免费","description":"宝安区公共图书馆，含总馆和多个街道分馆。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"宝安区博物馆","name":"宝安区博物馆","source":"bamuseum","city":"shenzhen","district":"宝安区","type":"博物馆","address":"宝安区","transport":"","fee":"免费","description":"宝安区博物馆，展示宝安历史文化。","official_url":"","highlights":["宝安历史","地方文化"]},{"id":"宝安1990文化馆","name":"宝安1990文化馆","source":"baoan_1990","city":"shenzhen","district":"宝安区","type":"文化馆","address":"宝安区","transport":"","fee":"免费","description":"宝安1990文化馆，含文化馆、博物馆、美术馆。","official_url":"","highlights":["公益培训","展览"]},{"id":"宝安科技馆","name":"宝安科技馆","source":"baoan_kjg","city":"shenzhen","district":"宝安区","type":"科技馆","address":"宝安区","transport":"","fee":"免费","description":"宝安区科技馆，含互动体验展区。","official_url":"","highlights":["科学实验","互动体验"]},{"id":"宝安体育中心","name":"宝安体育中心","source":"baoan_ty","city":"shenzhen","district":"宝安区","type":"体育中心","address":"宝安区","transport":"","fee":"收费","description":"宝安区体育中心，含体育馆、游泳馆等。","official_url":"","highlights":["体育赛事","运动培训"]},{"id":"宝安区青少年宫","name":"宝安区青少年宫","source":"baoan_qsng","city":"shenzhen","district":"宝安区","type":"青少年宫","address":"宝安区","transport":"","fee":"免费","description":"宝安区青少年校外活动场所。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"宝安城市规划展览馆","name":"宝安城市规划展览馆","source":"baoan_guihua","city":"shenzhen","district":"宝安区","type":"博物馆","address":"宝安区","transport":"","fee":"免费","description":"展示宝安区城市规划建设成就。","official_url":"","highlights":["城市规划","建设成就"]},{"id":"湾区之眼","name":"湾区之眼","source":"bayarea_eye","city":"shenzhen","district":"宝安区","type":"文化中心","address":"宝安区","transport":"","fee":"免费","description":"湾区文化综合体，含图书馆、展览等。","official_url":"","highlights":["文化综合体","阅读空间"]},{"id":"龙岗区图书馆","name":"龙岗区图书馆","source":"lglib","city":"shenzhen","district":"龙岗区","type":"图书馆","address":"龙岗区中心城","transport":"地铁3号线龙城广场站","fee":"免费","description":"龙岗区公共图书馆，定期举办阅读推广活动。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"龙岗区博物馆","name":"龙岗区博物馆","source":"lgmuseum","city":"shenzhen","district":"龙岗区","type":"博物馆","address":"龙岗区","transport":"","fee":"免费","description":"龙岗区博物馆，展示龙岗历史文化。","official_url":"","highlights":["龙岗历史","地方文化"]},{"id":"龙岗区文化馆","name":"龙岗区文化馆","source":"lgwhg","city":"shenzhen","district":"龙岗区","type":"文化馆","address":"龙岗区","transport":"","fee":"免费","description":"龙岗区文化馆，举办公益文化培训、演出等活动。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"龙岗区青少年宫","name":"龙岗区青少年宫","source":"lgqsng","city":"shenzhen","district":"龙岗区","type":"青少年宫","address":"龙岗区","transport":"","fee":"免费","description":"龙岗区青少年校外活动场所。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"龙岗客家民俗博物馆","name":"龙岗客家民俗博物馆","source":"lg_hakka","city":"shenzhen","district":"龙岗区","type":"博物馆","address":"龙岗区龙岗街道鹤湖新居","transport":"地铁3号线南联站","fee":"免费","description":"全国最大的客家围屋之一，展示客家迁徙历史和民俗文化。","official_url":"","highlights":["客家文化","鹤湖新居","民俗文物"]},{"id":"龙岗体育中心","name":"龙岗体育中心","source":"lgtyzx","city":"shenzhen","district":"龙岗区","type":"体育中心","address":"龙岗区","transport":"","fee":"收费","description":"龙岗区体育中心。","official_url":"","highlights":["体育赛事","运动培训"]},{"id":"深圳龙岗国际艺术中心","name":"深圳龙岗国际艺术中心","source":"lg_arts","city":"shenzhen","district":"龙岗区","type":"演出场馆","address":"龙岗区","transport":"","fee":"收费","description":"龙岗区国际艺术中心，举办高端演出。","official_url":"","highlights":["国际演出","艺术交流"]},{"id":"龙岗区科技馆","name":"龙岗区科技馆","source":"lgkjg","city":"shenzhen","district":"龙岗区","type":"科技馆","address":"龙岗区","transport":"","fee":"免费","description":"龙岗区科技馆（红立方）。","official_url":"","highlights":["科学实验","互动体验"]},{"id":"龙岗儿童公园","name":"龙岗儿童公园","source":"lgpark","city":"shenzhen","district":"龙岗区","type":"公园","address":"龙岗区","transport":"","fee":"免费","description":"龙岗区儿童主题公园，适合亲子游玩。","official_url":"","highlights":["亲子游乐","无动力乐园"]},{"id":"龙华区图书馆","name":"龙华区图书馆","source":"lhxqlib","city":"shenzhen","district":"龙华区","type":"图书馆","address":"龙华区","transport":"地铁4号线","fee":"免费","description":"龙华区公共图书馆，定期举办阅读推广活动。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"龙华区青少年宫","name":"龙华区青少年宫","source":"lhqsng","city":"shenzhen","district":"龙华区","type":"青少年宫","address":"龙华区","transport":"","fee":"免费","description":"龙华区青少年校外活动场所。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"龙华区文化馆","name":"龙华区文化馆","source":"lhwhg","city":"shenzhen","district":"龙华区","type":"文化馆","address":"龙华区","transport":"","fee":"免费","description":"龙华区文化馆，举办公益文化培训、演出等活动。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"中国版画博物馆","name":"中国版画博物馆","source":"lh_printmaking","city":"shenzhen","district":"龙华区","type":"美术馆","address":"龙华区观澜街道","transport":"地铁4号线牛湖站","fee":"免费需预约","description":"全国首个专业版画博物馆，紧邻观澜版画村。","official_url":"","highlights":["版画艺术","国际馆藏","观澜版画村"]},{"id":"龙华生态文明展览馆","name":"龙华生态文明展览馆","source":"lh_ecology","city":"shenzhen","district":"龙华区","type":"科普馆","address":"龙华区","transport":"","fee":"免费","description":"展示龙华区生态文明建设成果。","official_url":"","highlights":["生态文明","环保科技"]},{"id":"龙华区科技馆","name":"龙华区科技馆","source":"lhkjg","city":"shenzhen","district":"龙华区","type":"科技馆","address":"龙华区","transport":"","fee":"免费","description":"龙华区科技馆。","official_url":"","highlights":["科学实验","互动体验"]},{"id":"龙华白石龙纪念馆","name":"龙华白石龙纪念馆","source":"lhbljng","city":"shenzhen","district":"龙华区","type":"博物馆","address":"龙华区","transport":"","fee":"免费","description":"龙华白石龙中国文化名人大营救纪念馆。","official_url":"","highlights":["红色文化","历史纪念"]},{"id":"光明区图书馆","name":"光明区图书馆","source":"gmlib","city":"shenzhen","district":"光明区","type":"图书馆","address":"光明区","transport":"地铁6号线","fee":"免费","description":"光明区公共图书馆，定期举办阅读推广活动。","official_url":"","highlights":["阅读推广","社区文化"]},{"id":"光明区科技馆","name":"光明区科技馆","source":"gm_kjg","city":"shenzhen","district":"光明区","type":"科技馆","address":"光明区","transport":"","fee":"免费需预约","description":"光明区科技馆，含互动科技体验展。","official_url":"","highlights":["科学实验","互动体验"]},{"id":"光明区文化馆","name":"光明区文化馆","source":"gmwhg","city":"shenzhen","district":"光明区","type":"文化馆","address":"光明区","transport":"","fee":"免费","description":"光明区文化馆。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"光明文化艺术中心","name":"光明文化艺术中心","source":"gmarts","city":"shenzhen","district":"光明区","type":"文化中心","address":"光明区","transport":"地铁6号线","fee":"收费","description":"光明文化艺术中心，含大剧场、音乐厅、美术馆。","official_url":"","highlights":["演出","展览","艺术"]},{"id":"光明区青少年活动中心","name":"光明区青少年活动中心","source":"gmqsng","city":"shenzhen","district":"光明区","type":"青少年宫","address":"光明区","transport":"","fee":"免费","description":"光明区青少年校外活动场所。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"光明区群众体育中心","name":"光明区群众体育中心","source":"gmtyzx","city":"shenzhen","district":"光明区","type":"体育中心","address":"光明区","transport":"","fee":"收费","description":"光明区群众体育中心。","official_url":"","highlights":["体育赛事","运动培训"]},{"id":"光明虹桥公园","name":"光明虹桥公园","source":"gmhbgy","city":"shenzhen","district":"光明区","type":"公园","address":"光明区","transport":"","fee":"免费","description":"光明区虹桥公园，以红色空中廊桥著称。","official_url":"","highlights":["虹桥步道","休闲健身"]},{"id":"玉塘文体中心","name":"玉塘文体中心","source":"gmtysq","city":"shenzhen","district":"光明区","type":"文化中心","address":"光明区玉塘街道","transport":"","fee":"免费","description":"光明区玉塘街道文体中心。","official_url":"","highlights":["社区文化","体育"]},{"id":"坪山区图书馆","name":"坪山区图书馆","source":"pslib","city":"shenzhen","district":"坪山区","type":"图书馆","address":"坪山区坪山街道","transport":"地铁16号线","fee":"免费","description":"坪山区公共图书馆，定期举办阅读推广、暑期活动等。","official_url":"","highlights":["阅读推广","暑期活动","亲子活动"]},{"id":"坪山美术馆","name":"坪山美术馆","source":"psart","city":"shenzhen","district":"坪山区","type":"美术馆","address":"坪山区","transport":"","fee":"免费","description":"坪山美术馆，展示当代艺术作品。","official_url":"","highlights":["当代艺术","湾区艺术"]},{"id":"坪山大剧院","name":"坪山大剧院","source":"psthtr","city":"shenzhen","district":"坪山区","type":"演出场馆","address":"坪山区","transport":"地铁16号线","fee":"收费","description":"坪山大剧院，举办舞剧、音乐剧、儿童剧等演出。","official_url":"","highlights":["舞剧","音乐剧","儿童剧"]},{"id":"坪山区科技馆","name":"坪山区科技馆","source":"pskjg","city":"shenzhen","district":"坪山区","type":"科技馆","address":"坪山区","transport":"","fee":"免费需预约","description":"坪山区科技馆，含科普体验区。","official_url":"","highlights":["科普教育","互动体验"]},{"id":"坪山体育中心","name":"坪山体育中心","source":"pstyzx","city":"shenzhen","district":"坪山区","type":"体育中心","address":"坪山区","transport":"","fee":"收费","description":"坪山区体育中心。","official_url":"","highlights":["体育赛事","运动培训"]},{"id":"坪山东江纵队纪念馆","name":"坪山东江纵队纪念馆","source":"psdjng","city":"shenzhen","district":"坪山区","type":"博物馆","address":"坪山区","transport":"","fee":"免费","description":"展示东江纵队抗战历史。","official_url":"","highlights":["红色文化","抗战历史"]},{"id":"坪山中心公园","name":"坪山中心公园","source":"pszxgy","city":"shenzhen","district":"坪山区","type":"公园","address":"坪山区","transport":"","fee":"免费","description":"坪山中心公园，含环湖步道、无动力乐园。","official_url":"","highlights":["环湖步道","无动力乐园","亲子"]},{"id":"马峦山郊野公园","name":"马峦山郊野公园","source":"mlsgy","city":"shenzhen","district":"坪山区","type":"公园","address":"坪山区马峦山","transport":"","fee":"免费","description":"马峦山郊野公园，可观瀑布、探访客家古村落。","official_url":"","highlights":["徒步","瀑布","客家村落"]},{"id":"聚龙山生态公园","name":"聚龙山生态公园","source":"jlsgy","city":"shenzhen","district":"坪山区","type":"公园","address":"坪山区聚龙山","transport":"","fee":"免费需预约","description":"聚龙山生态公园，定期开展自然课堂。","official_url":"","highlights":["自然教育","植物识别","昆虫观察"]},{"id":"燕子湖国际会展中心","name":"燕子湖国际会展中心","source":"yhzgz","city":"shenzhen","district":"坪山区","type":"会展中心","address":"坪山区燕子湖","transport":"","fee":"免费","description":"坪山燕子湖国际会展中心，承办各类博览会。","official_url":"","highlights":["会展","博览"]},{"id":"盐田区图书馆","name":"盐田区图书馆","source":"ytlib","city":"shenzhen","district":"盐田区","type":"图书馆","address":"盐田区","transport":"地铁8号线","fee":"免费","description":"盐田区公共图书馆，定期举办海洋主题阅读推广活动。","official_url":"","highlights":["阅读推广","海洋主题"]},{"id":"盐田区文化馆","name":"盐田区文化馆","source":"ytwhg","city":"shenzhen","district":"盐田区","type":"文化馆","address":"盐田区","transport":"","fee":"免费","description":"盐田区文化馆。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"中英街历史博物馆","name":"中英街历史博物馆","source":"yt_history","city":"shenzhen","district":"盐田区","type":"博物馆","address":"盐田区沙头角中英街","transport":"地铁8号线沙头角站","fee":"免费","description":"展示中英街百年沧桑历史和深港边境文化。","official_url":"","highlights":["中英街历史","深港文化"]},{"id":"盐田科技馆","name":"盐田科技馆","source":"ytkjg","city":"shenzhen","district":"盐田区","type":"科技馆","address":"盐田区","transport":"","fee":"免费","description":"盐田区科技馆。","official_url":"","highlights":["科学实验","互动体验"]},{"id":"盐田体育中心","name":"盐田体育中心","source":"yttyzx","city":"shenzhen","district":"盐田区","type":"体育中心","address":"盐田区","transport":"","fee":"收费","description":"盐田区体育中心。","official_url":"","highlights":["体育赛事","运动培训"]},{"id":"盐田中央公园","name":"盐田中央公园","source":"ytzgy","city":"shenzhen","district":"盐田区","type":"公园","address":"盐田区","transport":"","fee":"免费","description":"盐田中央公园。","official_url":"","highlights":["休闲散步"]},{"id":"大鹏地质公园博物馆","name":"大鹏地质公园博物馆","source":"dpgeopark","city":"shenzhen","district":"大鹏新区","type":"博物馆","address":"大鹏新区南澳街道地质公园路7号","transport":"","fee":"免费","description":"大鹏半岛国家地质公园博物馆，展示地质演化和古生物化石。","official_url":"","highlights":["地质科普","古生物化石","火山岩"]},{"id":"大亚湾核能科技馆","name":"大亚湾核能科技馆","source":"dp_nuclear","city":"shenzhen","district":"大鹏新区","type":"科普馆","address":"大鹏新区大亚湾核电基地","transport":"","fee":"免费需预约","description":"大亚湾核能科技馆，展示核能发电原理和核安全知识。","official_url":"","highlights":["核能科普","清洁能源","核安全"]},{"id":"大鹏新区图书馆","name":"大鹏新区图书馆","source":"dplib","city":"shenzhen","district":"大鹏新区","type":"图书馆","address":"大鹏新区大鹏街道","transport":"","fee":"免费","description":"大鹏新区公共图书馆，定期举办海洋主题阅读推广活动。","official_url":"","highlights":["阅读推广","海洋主题"]},{"id":"大鹏古城博物馆","name":"大鹏古城博物馆","source":"dpgcbwg","city":"shenzhen","district":"大鹏新区","type":"博物馆","address":"大鹏新区大鹏街道","transport":"","fee":"免费","description":"大鹏所城历史博物馆，展示海防文化。","official_url":"","highlights":["古城历史","海防文化"]},{"id":"大鹏新区文化馆","name":"大鹏新区文化馆","source":"dpwhg","city":"shenzhen","district":"大鹏新区","type":"文化馆","address":"大鹏新区大鹏街道","transport":"","fee":"免费","description":"大鹏新区文化馆。","official_url":"","highlights":["公益培训","群众文化"]},{"id":"深圳西涌天文台","name":"深圳西涌天文台","source":"xcart","city":"shenzhen","district":"大鹏新区","type":"科普馆","address":"大鹏新区南澳西涌","transport":"","fee":"免费需预约","description":"深圳西涌天文台，定期对公众开放，可观星。","official_url":"","highlights":["天文观测","科普教育","观星"]},{"id":"东涌红树林湿地公园","name":"东涌红树林湿地公园","source":"dchss","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区南澳东涌","transport":"","fee":"免费","description":"东涌红树林湿地公园，开展红树林生态科普、观鸟等自然教育。","official_url":"","highlights":["红树林","观鸟","自然教育"]},{"id":"坝光红树林湿地公园","name":"坝光红树林湿地公园","source":"bghsl","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区葵涌坝光","transport":"","fee":"免费","description":"深圳面积最大的红树林保护区，有观鸟平台和科普栈道。","official_url":"","highlights":["红树林","观鸟","生态保护"]},{"id":"玫瑰海岸","name":"玫瑰海岸","source":"mgha","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区溪涌玫瑰海岸","transport":"","fee":"收费","description":"玫瑰海岸滨海度假区，举办沙滩嘉年华等活动。","official_url":"","highlights":["沙滩","水上运动","滨海度假"]},{"id":"杨梅坑","name":"杨梅坑","source":"ymk","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区南澳杨梅坑","transport":"","fee":"免费","description":"杨梅坑海滨栈道，可徒步、骑行、探访鹿嘴山庄。","official_url":"","highlights":["滨海徒步","骑行","海景"]},{"id":"七娘山","name":"七娘山","source":"qns","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区南澳七娘山","transport":"","fee":"免费","description":"深圳第二高峰，登山步道沿途有地质科普解说牌。","official_url":"","highlights":["登山","地质科普","海景"]},{"id":"官湖村艺象艺术区","name":"官湖村艺象艺术区","source":"ghysq","city":"shenzhen","district":"大鹏新区","type":"文化中心","address":"大鹏新区葵涌官湖村","transport":"","fee":"免费","description":"官湖村国际艺术园区，含海边画廊、儿童艺术工坊。","official_url":"","highlights":["艺术园区","海边画廊","亲子工坊"]},{"id":"金沙湾国际乐园","name":"金沙湾国际乐园","source":"jsgjly","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区金沙湾","transport":"","fee":"收费","description":"金沙湾国际乐园，含水世界、冰雪世界等多个主题园区。","official_url":"","highlights":["水世界","冰雪世界","亲子乐园"]},{"id":"大鹏新区科学馆","name":"大鹏新区科学馆","source":"dpkjg","city":"shenzhen","district":"大鹏新区","type":"科技馆","address":"大鹏新区","transport":"","fee":"免费需预约","description":"大鹏新区科学馆，开展海洋科学、天文观测等科普活动。","official_url":"","highlights":["海洋科学","天文观测","科普"]},{"id":"大鹏较场尾沙滩","name":"大鹏较场尾沙滩","source":"jcw","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区大鹏街道较场尾","transport":"","fee":"免费","description":"较场尾滨海度假村，有沙滩、民宿、海鲜等。","official_url":"","highlights":["沙滩","民宿","滨海度假"]},{"id":"葵涌生态公园","name":"葵涌生态公园","source":"kcsigy","city":"shenzhen","district":"大鹏新区","type":"公园","address":"大鹏新区葵涌","transport":"","fee":"免费","description":"葵涌生态公园。","official_url":"","highlights":["生态","休闲"]},{"id":"深圳市安全教育基地","name":"深圳市安全教育基地","source":"sz_safety","city":"shenzhen","district":"福田区","type":"科普馆","address":"福田区","transport":"","fee":"免费需预约","description":"深圳市安全教育基地，含交通安全、消防安全等主题体验区。","official_url":"","highlights":["安全教育","互动体验"]},{"id":"OPOWER文化艺术中心","name":"OPOWER文化艺术中心","source":"opower","city":"shenzhen","district":"南山区","type":"文化中心","address":"南山区华侨城","transport":"地铁1号线侨城东站","fee":"免费","description":"华侨城片区文化艺术综合体，集展览、市集、创意零售于一体。","official_url":"","highlights":["文艺市集","创意展览"]},{"id":"坪山区青少年宫","name":"坪山区青少年宫","source":"psqsng","city":"shenzhen","district":"坪山区","type":"青少年宫","address":"坪山区","transport":"","fee":"免费","description":"坪山区青少年校外活动场所。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"广东省博物馆","name":"广东省博物馆","source":"gdmuseum","city":"guangzhou","district":"天河区","type":"博物馆","address":"天河区珠江东路2号","transport":"地铁3/APM线大剧院站","fee":"免费","description":"广东省综合性博物馆。","official_url":"","highlights":["广东历史","自然资源"]},{"id":"广州博物馆","name":"广州博物馆","source":"gzmuseum","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区镇海路","transport":"地铁2号线越秀公园站","fee":"收费","description":"广州博物馆（镇海楼）。","official_url":"","highlights":["广州历史"]},{"id":"广州图书馆","name":"广州图书馆","source":"gzlib","city":"guangzhou","district":"天河区","type":"图书馆","address":"天河区珠江东路4号","transport":"地铁3/APM线大剧院站","fee":"免费","description":"广州图书馆。","official_url":"","highlights":["阅读推广"]},{"id":"上海博物馆","name":"上海博物馆","source":"shanghaimuseum","city":"shanghai","district":"黄浦区","type":"博物馆","address":"黄浦区人民大道201号","transport":"地铁1/2/8号线人民广场站","fee":"免费","description":"上海博物馆。","official_url":"","highlights":["中国古代艺术"]},{"id":"上海科技馆","name":"上海科技馆","source":"shstm","city":"shanghai","district":"浦东新区","type":"科技馆","address":"浦东新区世纪大道2000号","transport":"地铁2号线上海科技馆站","fee":"收费","description":"上海科技馆。","official_url":"","highlights":["科学实验","互动体验"]},{"id":"中国国家博物馆","name":"中国国家博物馆","source":"chnmuseum","city":"beijing","district":"东城区","type":"博物馆","address":"东城区东长安街16号","transport":"地铁1号线天安门东站","fee":"免费","description":"中国国家博物馆。","official_url":"","highlights":["国家历史","古代文物"]},{"id":"故宫博物院","name":"故宫博物院","source":"gugong","city":"beijing","district":"东城区","type":"博物馆","address":"东城区景山前街4号","transport":"地铁1号线天安门东站","fee":"收费","description":"故宫博物院。","official_url":"","highlights":["明清宫廷","古代文物"]},{"id":"何香凝美术馆","name":"何香凝美术馆","source":"hxngallery","city":"shenzhen","district":"南山区","type":"美术馆","address":"南山区深南大道9013号","transport":"地铁1号线华侨城站","fee":"免费","description":"何香凝美术馆，展示何香凝书画作品及当代艺术。","official_url":"","highlights":["何香凝书画","当代艺术"]},{"id":"关山月美术馆","name":"关山月美术馆","source":"gsyart","city":"shenzhen","district":"福田区","type":"美术馆","address":"福田区红荔路6026号","transport":"地铁3/4号线少年宫站","fee":"免费","description":"关山月美术馆，展示关山月画作及当代美术。","official_url":"","highlights":["关山月画作","当代美术"]},{"id":"深圳美术馆","name":"深圳美术馆","source":"szartm","city":"shenzhen","district":"罗湖区","type":"美术馆","address":"罗湖区爱国路东湖公园内","transport":"地铁5号线太安站","fee":"免费","description":"深圳美术馆，展示当代艺术和本土艺术家作品。","official_url":"","highlights":["当代艺术","本土艺术"]},{"id":"深圳保利剧院","name":"深圳保利剧院","source":"polytheatre","city":"shenzhen","district":"南山区","type":"演出场馆","address":"南山区后海滨路","transport":"地铁2号线后海站","fee":"需购票","description":"深圳保利剧院，举办音乐会、音乐剧等演出。","official_url":"","highlights":["音乐会","音乐剧"]},{"id":"深圳会展中心","name":"深圳会展中心","source":"szcec","city":"shenzhen","district":"福田区","type":"会展中心","address":"福田区福华三路","transport":"地铁1/4号线会展中心站","fee":"免费","description":"深圳会展中心，承办各类大型展览和博览会。","official_url":"","highlights":["展览","博览"]},{"id":"深圳国际会展中心","name":"深圳国际会展中心","source":"shenzhen_world","city":"shenzhen","district":"宝安区","type":"会展中心","address":"宝安区福海街道","transport":"地铁12号线国展站","fee":"免费","description":"深圳国际会展中心（新馆），承办大型国际展览。","official_url":"","highlights":["国际展览","博览"]},{"id":"锦绣中华民俗村","name":"锦绣中华民俗村","source":"theme_park","city":"shenzhen","district":"南山区","type":"公园","address":"南山区深南大道9003号","transport":"地铁1号线华侨城站","fee":"收费","description":"锦绣中华民俗村，含微缩景区和少数民族村寨。","official_url":"","highlights":["微缩景观","民俗文化","泼水节"]},{"id":"深圳市少年宫","name":"深圳市少年宫","source":"szcp","city":"shenzhen","district":"福田区","type":"青少年宫","address":"福田区福中一路2006号","transport":"地铁3/4号线少年宫站","fee":"免费","description":"深圳市少年宫，含科技展馆和培训课程。","official_url":"","highlights":["科技展馆","青少年培训"]},{"id":"深圳市青少年活动中心","name":"深圳市青少年活动中心","source":"szaac","city":"shenzhen","district":"福田区","type":"青少年宫","address":"福田区红荔路","transport":"地铁3号线通新岭站","fee":"免费","description":"深圳市青少年活动中心。","official_url":"","highlights":["青少年培训","兴趣课程"]},{"id":"深圳书城","name":"深圳书城","source":"szbook","city":"shenzhen","district":"福田区","type":"文化中心","address":"福田区福中一路","transport":"地铁3/4号线少年宫站","fee":"免费","description":"深圳书城中心城，大型图书零售和文化活动空间。","official_url":"","highlights":["图书","文化活动"]},{"id":"深圳湾公园","name":"深圳湾公园","source":"szhbgy","city":"shenzhen","district":"南山区","type":"公园","address":"南山区滨海大道","transport":"地铁2号线湾厦站","fee":"免费","description":"深圳湾滨海休闲带，适合散步骑行。","official_url":"","highlights":["滨海休闲","骑行"]},{"id":"海上世界文化艺术中心","name":"海上世界文化艺术中心","source":"hssjwh","city":"shenzhen","district":"南山区","type":"美术馆","address":"南山区蛇口海上世界","transport":"地铁2号线蛇口港站","fee":"免费","description":"海上世界文化艺术中心，展示当代艺术。","official_url":"","highlights":["当代艺术","滨海文化"]},{"id":"深圳中医药博物馆","name":"深圳中医药博物馆","source":"szzybwg","city":"shenzhen","district":"福田区","type":"博物馆","address":"福田区","transport":"","fee":"免费","description":"展示中医药文化和历史。","official_url":"","highlights":["中医药文化","健康科普"]},{"id":"深圳珠宝博物馆","name":"深圳珠宝博物馆","source":"szjewg","city":"shenzhen","district":"盐田区","type":"博物馆","address":"盐田区","transport":"","fee":"免费","description":"展示珠宝首饰文化和工艺。","official_url":"","highlights":["珠宝","工艺"]},{"id":"深圳欢乐谷","name":"深圳欢乐谷","source":"hlgj","city":"shenzhen","district":"南山区","type":"公园","address":"南山区华侨城","transport":"地铁1/2号线世界之窗站","fee":"收费","description":"大型主题游乐园。","official_url":"","highlights":["主题游乐","刺激项目"]},{"id":"深圳欢乐海岸","name":"深圳欢乐海岸","source":"hoha","city":"shenzhen","district":"南山区","type":"文化中心","address":"南山区白石路","transport":"地铁9号线深圳湾公园站","fee":"免费","description":"华侨城欢乐海岸，集文化、商业、休闲于一体。","official_url":"","highlights":["滨海休闲","商业文化"]},{"id":"深圳世界之窗","name":"深圳世界之窗","source":"szworld","city":"shenzhen","district":"南山区","type":"公园","address":"南山区深南大道9003号","transport":"地铁1/2号线世界之窗站","fee":"收费","description":"世界微缩景观主题公园。","official_url":"","highlights":["微缩景观","世界文化"]},{"id":"洪湖公园","name":"洪湖公园","source":"hhgy","city":"shenzhen","district":"罗湖区","type":"公园","address":"罗湖区文锦北路","transport":"地铁3号线草埔站","fee":"免费","description":"以荷花著称的公园。","official_url":"","highlights":["荷花","观鸟"]},{"id":"大沙河生态长廊","name":"大沙河生态长廊","source":"dshslc","city":"shenzhen","district":"南山区","type":"公园","address":"南山区大沙河","transport":"","fee":"免费","description":"大沙河沿河生态绿道。","official_url":"","highlights":["生态绿道","骑行"]},{"id":"淘金山绿道","name":"淘金山绿道","source":"tjsgd","city":"shenzhen","district":"罗湖区","type":"公园","address":"罗湖区淘金山","transport":"","fee":"免费","description":"淘金山绿道，适合徒步。","official_url":"","highlights":["徒步","山林"]},{"id":"西湾红树林公园","name":"西湾红树林公园","source":"xwhsl","city":"shenzhen","district":"宝安区","type":"公园","address":"宝安区西乡","transport":"","fee":"免费","description":"西湾红树林湿地公园。","official_url":"","highlights":["红树林","观鸟"]},{"id":"茅洲河碧道","name":"茅洲河碧道","source":"mzohbd","city":"shenzhen","district":"光明区","type":"公园","address":"光明区茅洲河","transport":"","fee":"免费","description":"茅洲河碧道，适合散步骑行。","official_url":"","highlights":["碧道","生态"]},{"id":"石岩湖湿地公园","name":"石岩湖湿地公园","source":"sysgy","city":"shenzhen","district":"宝安区","type":"公园","address":"宝安区石岩","transport":"","fee":"免费","description":"石岩湖湿地公园。","official_url":"","highlights":["湿地","观鸟"]},{"id":"石岩文化艺术中心","name":"石岩文化艺术中心","source":"sywhzx","city":"shenzhen","district":"宝安区","type":"文化中心","address":"宝安区石岩","transport":"","fee":"免费","description":"石岩街道文化艺术中心。","official_url":"","highlights":["社区文化"]},{"id":"红花山公园","name":"红花山公园","source":"hhsgy","city":"shenzhen","district":"坪山区","type":"公园","address":"坪山区","transport":"","fee":"免费","description":"坪山区红花山公园。","official_url":"","highlights":["休闲","登高"]},{"id":"深圳大运中心","name":"深圳大运中心","source":"dyzx","city":"shenzhen","district":"龙岗区","type":"体育中心","address":"龙岗区龙城街道","transport":"地铁3号线大运站","fee":"收费","description":"深圳大运中心体育场和体育馆。","official_url":"","highlights":["体育赛事","大型活动"]},{"id":"大运中心公园","name":"大运中心公园","source":"dzxgy","city":"shenzhen","district":"龙岗区","type":"公园","address":"龙岗区大运中心","transport":"地铁3号线大运站","fee":"免费","description":"大运中心公园。","official_url":"","highlights":["休闲","运动"]},{"id":"安托山公共文化中心","name":"安托山公共文化中心","source":"atszx","city":"shenzhen","district":"福田区","type":"文化中心","address":"福田区安托山","transport":"地铁2号线安托山站","fee":"免费","description":"安托山公共文化中心。","official_url":"","highlights":["社区文化"]},{"id":"北站中心公园","name":"北站中心公园","source":"bzgx","city":"shenzhen","district":"龙华区","type":"公园","address":"龙华区深圳北站","transport":"地铁4/5号线深圳北站","fee":"免费","description":"深圳北站中心公园。","official_url":"","highlights":["休闲","城市公园"]},{"id":"深圳科学公园（南翼）","name":"深圳科学公园（南翼）","source":"kxgny","city":"shenzhen","district":"光明区","type":"公园","address":"光明区","transport":"","fee":"免费","description":"深圳科学公园南翼。","official_url":"","highlights":["科学","休闲"]},{"id":"人才公园","name":"人才公园","source":"rcgy","city":"shenzhen","district":"南山区","type":"公园","address":"南山区科苑南路","transport":"地铁2号线后海站","fee":"免费","description":"深圳人才公园。","official_url":"","highlights":["人才主题","滨海休闲"]},{"id":"吉华街道文化站","name":"吉华街道文化站","source":"jhwtz","city":"shenzhen","district":"龙岗区","type":"文化馆","address":"龙岗区吉华街道","transport":"","fee":"免费","description":"龙岗区吉华街道文化站。","official_url":"","highlights":["社区文化"]},{"id":"南湾街道文化站","name":"南湾街道文化站","source":"nwwtz","city":"shenzhen","district":"龙岗区","type":"文化馆","address":"龙岗区南湾街道","transport":"","fee":"免费","description":"龙岗区南湾街道文化站。","official_url":"","highlights":["社区文化"]},{"id":"坪地街道文化站","name":"坪地街道文化站","source":"pdwtz","city":"shenzhen","district":"龙岗区","type":"文化馆","address":"龙岗区坪地街道","transport":"","fee":"免费","description":"龙岗区坪地街道文化站。","official_url":"","highlights":["社区文化"]},{"id":"园岭街道综合性文化服务中心","name":"园岭街道综合性文化服务中心","source":"ylwh","city":"shenzhen","district":"福田区","type":"文化馆","address":"福田区园岭街道","transport":"","fee":"免费","description":"福田区园岭街道综合性文化服务中心。","official_url":"","highlights":["社区文化"]},{"id":"桃源街道综合性文化服务中心","name":"桃源街道综合性文化服务中心","source":"tywh","city":"shenzhen","district":"南山区","type":"文化馆","address":"南山区桃源街道","transport":"","fee":"免费","description":"南山区桃源街道综合性文化服务中心。","official_url":"","highlights":["社区文化"]},{"id":"凤凰街道综合性文化服务中心","name":"凤凰街道综合性文化服务中心","source":"fhwh","city":"shenzhen","district":"光明区","type":"文化馆","address":"光明区凤凰街道","transport":"","fee":"免费","description":"光明区凤凰街道综合性文化服务中心。","official_url":"","highlights":["社区文化"]},{"id":"江岭社区公共文化服务中心","name":"江岭社区公共文化服务中心","source":"jlwh","city":"shenzhen","district":"坪山区","type":"文化馆","address":"坪山区江岭社区","transport":"","fee":"免费","description":"坪山区江岭社区公共文化服务中心。","official_url":"","highlights":["社区文化"]},{"id":"迳口社区综合性文化服务中心","name":"迳口社区综合性文化服务中心","source":"jkwh","city":"shenzhen","district":"光明区","type":"文化馆","address":"光明区迳口社区","transport":"","fee":"免费","description":"光明区迳口社区综合性文化服务中心。","official_url":"","highlights":["社区文化"]},{"id":"浙江省博物馆","name":"浙江省博物馆","source":"zjam","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区孤山路","transport":"","fee":"免费","description":"浙江省博物馆。","official_url":"","highlights":["浙江历史"]},{"id":"中国科学技术馆","name":"中国科学技术馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"科技馆","address":"朝阳区北辰东路5号","transport":"地铁8号线奥林匹克公园站","fee":"收费","description":"中国唯一的国家级综合性科技馆，设有儿童科学乐园、华夏之光、探索与发现等五大主题展厅，以及球幕、巨幕等特效影院。","official_url":"","highlights":["儿童科学乐园","球幕影院","互动体验","科普教育"]},{"id":"北京天文馆","name":"北京天文馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"科普馆","address":"西城区西直门外大街138号","transport":"地铁4号线动物园站","fee":"收费","description":"中国第一座大型天文馆，A馆天象厅球幕电影超赞，B馆有太阳观测、陨石展览、互动体验。","official_url":"","highlights":["天象厅","球幕电影","陨石展览","宇宙探索"]},{"id":"国家自然博物馆","name":"国家自然博物馆","source":"北京本地宝","city":"beijing","district":"东城区","type":"博物馆","address":"东城区天桥南大街126号","transport":"地铁8号线天桥站","fee":"免费","description":"国内自然类博物馆的天花板，拥有37.2万件珍稀标本，恐龙化石是招牌，还有古生物、动物、植物、人类进化等展陈。","official_url":"","highlights":["恐龙化石","古生物","动物标本","自然教育"]},{"id":"国家动物博物馆","name":"国家动物博物馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"博物馆","address":"朝阳区北辰西路1号院5号","transport":"地铁8号线奥林匹克公园站","fee":"收费","description":"中科院下属，动物标本种类数量国内顶尖，鸟类、昆虫、濒危动物展厅都很精彩。","official_url":"","highlights":["动物标本","鸟类展厅","濒危动物","科研科普"]},{"id":"中国消防博物馆","name":"中国消防博物馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"科普馆","address":"西城区广安门南街70号","transport":"地铁7号线广安门内站","fee":"免费","description":"互动体验超强！可以学习消防知识，体验地震、地铁火灾疏散，还有模拟灭火。","official_url":"","highlights":["消防知识","互动体验","模拟灭火","安全教育"]},{"id":"北京汽车博物馆","name":"北京汽车博物馆","source":"北京本地宝","city":"beijing","district":"丰台区","type":"博物馆","address":"丰台区南四环西路126号","transport":"地铁9号线科怡路站","fee":"收费","description":"汽车迷天堂！从老爷车到未来概念车，还有各种互动驾驶体验，被评为全国中小学生研学实践教育基地。","official_url":"","highlights":["老爷车","概念车","模拟驾驶","汽车文化"]},{"id":"北京动物园","name":"北京动物园","source":"北京本地宝","city":"beijing","district":"西城区","type":"公园","address":"西城区西直门外大街137号","transport":"地铁4号线动物园站","fee":"收费","description":"老牌经典动物园，看大熊猫、长颈鹿、大象等，海洋馆就在园内，有白鲸、鲨鱼、海豚表演。","official_url":"","highlights":["大熊猫","海洋馆","动物表演","亲子游玩"]},{"id":"北京海洋馆","name":"北京海洋馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"科普馆","address":"西城区西直门外大街137号北京动物园内","transport":"地铁4号线动物园站","fee":"收费","description":"北京动物园内的大型海洋馆，有雨林奇观、鲨鱼小镇、海底环游等展区，还有海豚、海狮表演。","official_url":"","highlights":["海底隧道","海豚表演","海洋生物","亲子科普"]},{"id":"北京欢乐谷","name":"北京欢乐谷","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区东四环小武基北路","transport":"地铁7号线欢乐谷景区站","fee":"收费","description":"大型主题乐园，刺激项目与儿童区（甜品王国、爱琴港区域）兼备，夏天有夜场和水花派对等活动。","official_url":"","highlights":["主题乐园","儿童区","夜场","水花派对"]},{"id":"水立方嬉水乐园","name":"水立方嬉水乐园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区天辰东路11号国家游泳中心内","transport":"地铁8号线奥体中心站","fee":"收费","description":"室内水上乐园！全年恒温，不怕晒不怕雨。有适合各年龄段的滑道、造浪池、漂流河、儿童戏水区。","official_url":"","highlights":["室内水上乐园","造浪池","儿童戏水","四季恒温"]},{"id":"欢乐水魔方水上乐园","name":"欢乐水魔方水上乐园","source":"北京本地宝","city":"beijing","district":"丰台区","type":"公园","address":"丰台区小屯路11号","transport":"地铁14号线郭庄子站","fee":"收费","description":"大型室外水上乐园，龙卷风、风暴谷、黑暗漩涡等刺激项目，也有梦幻漂流和儿童戏水池。","official_url":"","highlights":["室外水乐园","刺激滑道","漂流","亲子戏水"]},{"id":"朝阳公园","name":"朝阳公园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区朝阳公园南路1号","transport":"地铁14号线朝阳公园站","fee":"免费","description":"综合性公园，面积大，可划船、野餐、放风筝，北区有泡泡玛特城市乐园和索尼探梦科技馆。","official_url":"","highlights":["划船","野餐","泡泡玛特乐园","索尼探梦"]},{"id":"世界公园","name":"世界公园","source":"北京本地宝","city":"beijing","district":"丰台区","type":"公园","address":"丰台区花乡大葆台158号","transport":"地铁房山线大葆台站","fee":"收费","description":"微缩景观看世界，对孩子认识世界地标有帮助，夏天有时有夜场或表演。","official_url":"","highlights":["微缩景观","世界地标","夜场表演"]},{"id":"北京野生动物园","name":"北京野生动物园","source":"北京本地宝","city":"beijing","district":"大兴区","type":"公园","address":"大兴区榆垡镇万亩森林","transport":"地铁4号线天宫院站换乘公交","fee":"收费","description":"互动性更强的野生动物园，可自驾或坐园区小火车进入猛兽区，步行区能喂羊驼、小鹿等温顺动物。","official_url":"","highlights":["猛兽区","自驾游览","互动投喂","萌宝幼儿园"]},{"id":"北京科学中心","name":"北京科学中心","source":"北京本地宝","city":"beijing","district":"西城区","type":"科技馆","address":"西城区北辰路9号院","transport":"地铁8号线安华桥站","fee":"免费","description":"国家级科普圣地，有黑科技展馆、球幕影院，还有免费的超大儿童乐园，各种玩法都有。","official_url":"","highlights":["儿童乐园","球幕影院","黑科技","免费"]},{"id":"中国地质博物馆","name":"中国地质博物馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"博物馆","address":"西城区西四羊肉胡同15号","transport":"地铁4号线西四站","fee":"收费","description":"收藏地质标本55万余件，有巨型山东龙、中华龙鸟等恐龙系列化石，北京人等古人类化石。","official_url":"","highlights":["恐龙化石","古人类化石","地质标本","科普"]},{"id":"北京奥运博物馆","name":"北京奥运博物馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"博物馆","address":"朝阳区国家体育场南路1号","transport":"地铁8号线奥体中心站","fee":"免费","description":"沉浸式感受奥运魅力，人少免费还免预约，可直接刷身份证进入，互动体验超级多。","official_url":"","highlights":["奥运文化","互动体验","免费","鸟巢周边"]},{"id":"中国航空博物馆","name":"中国航空博物馆","source":"北京本地宝","city":"beijing","district":"昌平区","type":"博物馆","address":"昌平区小汤山镇","transport":"地铁5号线沙河站换乘公交","fee":"免费","description":"亚洲最大、世界前五的航空博物馆，馆内展出各类展品1400余项，可看到各种年代的战斗机、轰炸机等。","official_url":"","highlights":["航空展品","战斗机","轰炸机","航天梦想"]},{"id":"中国考古博物馆","name":"中国考古博物馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"博物馆","address":"朝阳区国家体育场北路1号院1号楼","transport":"地铁8号线奥林匹克公园站","fee":"免费","description":"国内第一家以考古命名的博物馆，可以参观精美的文物，摸一摸五千多年前的陶片，亲手敲一敲编钟。","official_url":"","highlights":["考古文物","陶片触摸","编钟体验","历史教育"]},{"id":"中国园林博物馆","name":"中国园林博物馆","source":"北京本地宝","city":"beijing","district":"丰台区","type":"博物馆","address":"丰台区射击场路15号","transport":"地铁14号线园博园站","fee":"免费","description":"带娃打卡中国园林博物馆，一秒入江南，苏州畅园、岭南余荫山房、扬州片石山房为必逛的三大室内园林。","official_url":"","highlights":["江南园林","苏州畅园","岭南园林","古典韵味"]},{"id":"中国军事博物馆","name":"中国军事博物馆","source":"北京本地宝","city":"beijing","district":"海淀区","type":"博物馆","address":"海淀区复兴路9号","transport":"地铁1号线军事博物馆站","fee":"免费","description":"中国第一个综合类军事博物馆，飞机、坦克、大炮、导弹、火箭一应俱全，军事迷孩子的梦中情馆。","official_url":"","highlights":["军事装备","飞机坦克","导弹火箭","国防教育"]},{"id":"海淀公共安全馆","name":"海淀公共安全馆","source":"北京本地宝","city":"beijing","district":"海淀区","type":"科普馆","address":"海淀区新建宫门路2号","transport":"地铁4号线西苑站","fee":"免费","description":"集消防、自然灾害、人体、交通等安全知识为一体，还有滑梯、模拟开车等娱乐项目。","official_url":"","highlights":["安全知识","模拟驾驶","互动体验","儿童安全"]},{"id":"乐高探索中心","name":"乐高探索中心","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区朝阳北路101号长楹天街购物中心","transport":"地铁6号线常营站","fee":"收费","description":"乐高迷的天堂，大型乐高游乐场，各种乐高主题的游乐设施和互动项目，能让孩子沉浸在积木世界里一整天。","official_url":"","highlights":["乐高积木","4D电影","互动体验","亲子游玩"]},{"id":"首都图书馆","name":"首都图书馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"图书馆","address":"朝阳区东三环南路88号","transport":"地铁10号线十里河站","fee":"免费","description":"北京市大型公共图书馆，有丰富的馆藏资源，定期举办阅读推广、讲座等活动。","official_url":"","highlights":["阅读推广","讲座活动","儿童阅读区"]},{"id":"国家图书馆","name":"国家图书馆","source":"北京本地宝","city":"beijing","district":"海淀区","type":"图书馆","address":"海淀区中关村南大街33号","transport":"地铁4号线国家图书馆站","fee":"免费","description":"中国国家图书馆，馆藏丰富，有专门的少年儿童馆，适合亲子阅读学习。","official_url":"","highlights":["国家藏书","少年儿童馆","阅读学习"]},{"id":"中国妇女儿童博物馆","name":"中国妇女儿童博物馆","source":"北京本地宝","city":"beijing","district":"东城区","type":"博物馆","address":"东城区北极阁路9号","transport":"地铁5号线灯市口站","fee":"免费","description":"中国第一家以妇女儿童为主题的国家级博物馆，展示妇女儿童相关的历史文化和艺术。","official_url":"","highlights":["妇女儿童","历史文化","亲子教育"]},{"id":"中国古动物馆","name":"中国古动物馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"博物馆","address":"西城区西直门外大街142号","transport":"地铁4号线动物园站","fee":"收费","description":"展示古生物化石，有恐龙、猛犸象等古动物标本，适合对古生物感兴趣的孩子。","official_url":"","highlights":["恐龙化石","古动物","古生物"]},{"id":"索尼探梦科技馆","name":"索尼探梦科技馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"科普馆","address":"朝阳区朝阳公园南路1号","transport":"地铁14号线朝阳公园站","fee":"收费","description":"以光与声音为主题的科技馆，互动有趣，适合儿童科学启蒙。","official_url":"","highlights":["光与声音","互动体验","科学启蒙"]},{"id":"泡泡玛特城市乐园","name":"泡泡玛特城市乐园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区朝阳公园南路1号","transport":"地铁14号线朝阳公园站","fee":"收费","description":"IP主题乐园，以泡泡玛特盲盒形象为主题，适合喜欢盲盒的小朋友。","official_url":"","highlights":["泡泡玛特","IP主题","盲盒"]},{"id":"广东科学中心","name":"广东科学中心","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"科技馆","address":"番禺区大学城科普路168号","transport":"地铁4号线大学城北站","fee":"收费","description":"世界最大的科技馆/科学中心，室内遛娃宝藏地，有儿童天地、实验与发现馆以及太空主题展。","official_url":"","highlights":["儿童天地","太空主题","互动体验","科普教育"]},{"id":"广州青少年科技馆","name":"广州青少年科技馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"科技馆","address":"越秀区童心路西胜街42号","transport":"地铁2号线越秀公园站","fee":"免费","description":"专为青少年设计的科技馆，有机器人、航模、编程等互动体验，定期举办科技讲座和比赛。","official_url":"","highlights":["机器人","编程","科技讲座","免费"]},{"id":"广州少年儿童图书馆","name":"广州少年儿童图书馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"图书馆","address":"越秀区中山四路42号","transport":"地铁1号线农讲所站","fee":"免费","description":"专为少年儿童服务的公共图书馆，有丰富的儿童读物，定期举办绘本故事会、阅读推广等活动。","official_url":"","highlights":["儿童阅读","绘本故事","阅读推广"]},{"id":"广州地铁博物馆","name":"广州地铁博物馆","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"博物馆","address":"海珠区新港东路万胜围地铁站A出口","transport":"地铁8号线万胜围站","fee":"免费","description":"展示广州地铁发展历程，有各种地铁模型、模拟驾驶设备、互动游戏，孩子们可以体验模拟驾驶。","official_url":"","highlights":["地铁模型","模拟驾驶","互动游戏","科普"]},{"id":"广州市儿童公园","name":"广州市儿童公园","source":"广州本地宝","city":"guangzhou","district":"白云区","type":"公园","address":"白云区齐心路61号","transport":"地铁2号线白云公园站","fee":"免费","description":"专为儿童设计的主题公园，有海盗船、旋转木马、淘气堡等设施，还有科普区和儿童剧场。","official_url":"","highlights":["儿童游乐","海盗船","科普区","免费"]},{"id":"广州动物园","name":"广州动物园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区先烈中路120号","transport":"地铁5号线动物园站","fee":"收费","description":"华南地区最大的动物园，有憨态可掬的大熊猫、威风凛凛的华南虎，还有各种珍稀动物。","official_url":"","highlights":["大熊猫","华南虎","珍稀动物","亲子"]},{"id":"广州海洋馆","name":"广州海洋馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"科普馆","address":"越秀区先烈中路120号广州动物园内","transport":"地铁5号线动物园站","fee":"收费","description":"广州动物园内的大型海洋馆，有360°海底隧道、珊瑚世界、水母幻境等，还有海洋生物表演。","official_url":"","highlights":["海底隧道","珊瑚世界","水母","表演"]},{"id":"正佳极地海洋世界","name":"正佳极地海洋世界","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"科普馆","address":"天河区天河路228号正佳广场","transport":"地铁3号线体育西路站","fee":"收费","description":"室内海洋馆，拥有白鲸、企鹅表演以及海底隧道观赏区，适合全年龄段家庭游玩。","official_url":"","highlights":["白鲸","企鹅","海底隧道","表演"]},{"id":"正佳雨林生态植物园","name":"正佳雨林生态植物园","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"公园","address":"天河区天河路228号正佳广场7层","transport":"地铁3号线体育西路站","fee":"收费","description":"模拟热带雨林生态环境，种植大量热带植物，还有鹦鹉、蜥蜴、水豚等小动物，可体验丛林天空步道。","official_url":"","highlights":["热带雨林","小动物","天空步道","生态"]},{"id":"正佳自然科学博物馆","name":"正佳自然科学博物馆","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"博物馆","address":"天河区天河路228号正佳广场6楼","transport":"地铁3号线体育西路站","fee":"收费","description":"馆内有8个展区，大量化石、标本、模型及多媒体展示，恐龙化石展示区深受孩子们喜爱。","official_url":"","highlights":["恐龙化石","标本","多媒体","自然科学"]},{"id":"广州融创文旅城","name":"广州融创文旅城","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区凤凰北路78号","transport":"地铁9号线花城路站","fee":"收费","description":"集乐园、雪世界、水世界、体育世界于一体，冰雪乐园让孩子在广州也能体验滑雪的乐趣。","official_url":"","highlights":["雪世界","水世界","滑雪","亲子"]},{"id":"永庆坊","name":"永庆坊","source":"广州本地宝","city":"guangzhou","district":"荔湾区","type":"文化中心","address":"荔湾区恩宁路99号","transport":"地铁1号线黄沙站","fee":"免费","description":"老广州的文化名片，可参观粤剧艺术博物馆，欣赏传统建筑，体验手工制作，感受老广州风情。","official_url":"","highlights":["粤剧艺术","传统建筑","手工体验","广府文化"]},{"id":"陈家祠","name":"陈家祠","source":"广州本地宝","city":"guangzhou","district":"荔湾区","type":"博物馆","address":"荔湾区中山七路恩龙里34号","transport":"地铁1号线陈家祠站","fee":"收费","description":"岭南建筑艺术的瑰宝，精美的木雕、石雕、砖雕让人叹为观止，可参加亲子导览活动。","official_url":"","highlights":["岭南建筑","木雕石雕","砖雕","传统文化"]},{"id":"岭南印象园","name":"岭南印象园","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区大学城外环西路","transport":"地铁4号线大学城南站","fee":"收费","description":"体验岭南传统文化的绝佳场所，有广彩、广绣、醒狮等传统手工艺展示和体验活动。","official_url":"","highlights":["岭南文化","广彩广绣","醒狮","手工艺"]},{"id":"海珠国家湿地公园","name":"海珠国家湿地公园","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"公园","address":"海珠区新滘中路","transport":"地铁3号线大塘站","fee":"收费","description":"可以进行观鸟活动和参加自然教育课程，春天时还会举办花展，适合亲近自然。","official_url":"","highlights":["观鸟","自然教育","花展","湿地"]},{"id":"华南植物园","name":"华南植物园","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"公园","address":"天河区兴科路723号","transport":"地铁6号线植物园站","fee":"收费","description":"让孩子认识各种奇花异草的绝佳场所，温室群景区、龙洞琪林都是拍照打卡点，还能参加植物科普活动。","official_url":"","highlights":["温室群","植物科普","奇花异草","拍照"]},{"id":"白云山","name":"白云山","source":"广州本地宝","city":"guangzhou","district":"白云区","type":"公园","address":"白云区广园中路801号","transport":"地铁2号线白云公园站","fee":"收费","description":"登高望远的好去处，可带孩子走轻松路线，沿途欣赏四季花海，山顶还能俯瞰广州全景。","official_url":"","highlights":["云台花园","摩星岭","四季花海","登高"]},{"id":"大夫山森林公园","name":"大夫山森林公园","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区禺山西路668号","transport":"地铁3号线汉溪长隆站","fee":"免费","description":"广州绿肺之一，租辆单车骑行环湖，或者在草坪上野餐放风筝，园区还有儿童游乐区。","official_url":"","highlights":["骑行","野餐","儿童游乐","免费"]},{"id":"海鸥岛","name":"海鸥岛","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区石楼镇","transport":"地铁4号线石碁站","fee":"免费","description":"珠江入海口湿地，骑行绿道、采摘农场、沙滩露营、红树林观鸟，日落时分骑行最美。","official_url":"","highlights":["湿地","骑行","观鸟","露营"]},{"id":"广州新儿童活动中心","name":"广州新儿童活动中心","source":"广州本地宝","city":"guangzhou","district":"白云区","type":"青少年宫","address":"白云区云城东路509号","transport":"地铁2号线白云公园站","fee":"免费","description":"集科技、自然美学、广府文化科普于一体，有VR项目体验、互动游戏、科普展览等。","official_url":"","highlights":["VR体验","互动游戏","广府文化","免费"]},{"id":"广州开发区科技馆","name":"广州开发区科技馆","source":"广州本地宝","city":"guangzhou","district":"黄埔区","type":"科技馆","address":"黄埔区萝岗街道萝平路与香雪七路交汇处","transport":"地铁6号线香雪站","fee":"免费","description":"黄埔区科技馆，提供科技互动体验和科普教育活动。","official_url":"","highlights":["科技互动","科普教育","免费"]},{"id":"广州艺术博物院","name":"广州艺术博物院","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"美术馆","address":"越秀区麓湖路13号","transport":"地铁5号线小北站","fee":"免费","description":"展示古今中外艺术作品，有岭南画派作品、历代书画等展览，适合艺术启蒙。","official_url":"","highlights":["艺术展览","岭南画派","书画","艺术启蒙"]},{"id":"南越王博物院","name":"南越王博物院","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区解放北路867号","transport":"地铁2号线越秀公园站","fee":"免费","description":"展示南越王墓出土文物，包括金缕玉衣、丝缕玉衣等珍贵文物，了解南越国历史。","official_url":"","highlights":["南越王墓","金缕玉衣","历史文物"]},{"id":"广州市文化馆新馆","name":"广州市文化馆新馆","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"文化中心","address":"海珠区新滘中路288号","transport":"地铁3号线大塘站","fee":"免费","description":"占地面积全国居首的文化馆，融合汉唐风格与岭南风情，含翰墨园、广绣园等多个主题园区。","official_url":"","highlights":["岭南园林","汉唐风格","亲子文化","拍照"]},{"id":"上海自然博物馆","name":"上海自然博物馆","source":"上海本地宝","city":"shanghai","district":"静安区","type":"博物馆","address":"静安区北京西路510号","transport":"地铁13号线自然博物馆站","fee":"收费","description":"亚洲最大自然博物馆之一，恐龙模型、非洲动物展区逼真，互动装置多，如化石挖掘体验。","official_url":"","highlights":["恐龙化石","非洲动物","化石挖掘","互动"]},{"id":"上海天文馆","name":"上海天文馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"科普馆","address":"浦东新区南汇新城环湖北三路388号","transport":"地铁16号线滴水湖站","fee":"收费","description":"世界最大的天文馆，有球幕影院、太阳系展区、宇宙探索等互动展项，适合天文爱好者。","official_url":"","highlights":["球幕影院","太阳系","宇宙探索","互动"]},{"id":"上海儿童博物馆","name":"上海儿童博物馆","source":"上海本地宝","city":"shanghai","district":"长宁区","type":"博物馆","address":"长宁区宋园路61号","transport":"地铁10号线宋园路站","fee":"免费","description":"专为3-10岁儿童设计，有太空舱模拟、航海体验区，免费且人少。","official_url":"","highlights":["太空舱","航海体验","免费","儿童专属"]},{"id":"上海地铁博物馆","name":"上海地铁博物馆","source":"上海本地宝","city":"shanghai","district":"闵行区","type":"博物馆","address":"闵行区吴中路1799-7号","transport":"地铁10号线龙溪路站","fee":"免费","description":"中国第一家展示城市轨道交通发展历程的专业展馆，有模拟驾驶、VR互动体验等项目。","official_url":"","highlights":["地铁发展","模拟驾驶","VR体验","免费"]},{"id":"上海海洋水族馆","name":"上海海洋水族馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"科普馆","address":"浦东新区陆家嘴环路1388号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"展示各种海洋生物，有海底隧道、鲨鱼馆、水母馆等，适合亲子海洋探索。","official_url":"","highlights":["海底隧道","鲨鱼","水母","海洋生物"]},{"id":"上海海昌海洋公园","name":"上海海昌海洋公园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区银飞路166号","transport":"地铁16号线临港大道站","fee":"收费","description":"一站式海洋亲子乐园，有虎鲸表演、北极熊展馆、海底隧道，还有儿童游乐设施。","official_url":"","highlights":["虎鲸表演","北极熊","海底隧道","亲子游乐"]},{"id":"上海野生动物园","name":"上海野生动物园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区南六公路178号","transport":"地铁16号线野生动物园站","fee":"收费","description":"国家级野生动物园，车行猛兽区+步行萌宠区双模式，能近距离投喂互动。","official_url":"","highlights":["猛兽区","步行区","互动投喂","大熊猫"]},{"id":"上海欢乐谷","name":"上海欢乐谷","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区林湖路888号","transport":"地铁9号线佘山站","fee":"收费","description":"大型主题乐园，有刺激项目和儿童区，适合不同年龄段的孩子游玩。","official_url":"","highlights":["主题乐园","刺激项目","儿童区","亲子"]},{"id":"上海迪士尼乐园","name":"上海迪士尼乐园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"全球知名主题乐园，适合全年龄段儿童，有梦幻城堡、花车巡游和亲子项目。","official_url":"","highlights":["梦幻城堡","花车巡游","亲子项目","主题乐园"]},{"id":"乐高探索中心","name":"乐高探索中心","source":"上海本地宝","city":"shanghai","district":"普陀区","type":"公园","address":"普陀区大渡河路196号长风大悦城","transport":"地铁15号线长风公园站","fee":"收费","description":"室内乐高主题乐园，有4D电影、迷你上海积木展，适合低龄儿童动手创作。","official_url":"","highlights":["乐高积木","4D电影","迷你上海","动手创作"]},{"id":"上海汽车博物馆","name":"上海汽车博物馆","source":"上海本地宝","city":"shanghai","district":"嘉定区","type":"博物馆","address":"嘉定区安亭博园路7565号","transport":"地铁11号线安亭站","fee":"收费","description":"男孩最爱！古董车收藏丰富，可体验儿童驾驶项目。","official_url":"","highlights":["古董车","儿童驾驶","汽车文化"]},{"id":"东方明珠塔","name":"东方明珠塔","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区世纪大道1号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"上海标志性建筑，可登塔俯瞰上海全景，有悬空观光廊、历史陈列馆等。","official_url":"","highlights":["登高观光","悬空廊","历史陈列","地标"]},{"id":"上海中心大厦","name":"上海中心大厦","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区陆家嘴环路1000号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"上海最高建筑，118层观光厅可俯瞰上海全貌，适合亲子登高体验。","official_url":"","highlights":["最高建筑","118层","俯瞰上海","观光"]},{"id":"徐家汇书院","name":"徐家汇书院","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"图书馆","address":"徐汇区漕溪北路158号","transport":"地铁1/9/11号线徐家汇站","fee":"免费","description":"现代化图书馆，建筑设计精美，有丰富的阅读空间和展览活动。","official_url":"","highlights":["阅读空间","建筑设计","展览","免费"]},{"id":"世纪公园","name":"世纪公园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区锦绣路1001号","transport":"地铁2号线世纪公园站","fee":"免费","description":"超大绿地公园，可搭帐篷、放风筝、踢球，园内有儿童乐园。","official_url":"","highlights":["草坪","儿童乐园","野餐","免费"]},{"id":"共青森林公园","name":"共青森林公园","source":"上海本地宝","city":"shanghai","district":"杨浦区","type":"公园","address":"杨浦区军工路2000号","transport":"地铁8号线翔殷路站","fee":"免费","description":"市区内超大森林绿地，可野餐、划船、骑亲子自行车，常有花卉展。","official_url":"","highlights":["森林","划船","骑行","花卉展"]},{"id":"辰山植物园","name":"辰山植物园","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区辰花公路3888号","transport":"地铁9号线洞泾站","fee":"收费","description":"超大温室花园、矿坑瀑布，儿童可奔跑玩耍，适合亲子自然探索。","official_url":"","highlights":["温室花园","矿坑瀑布","自然探索","亲子"]},{"id":"徐汇滨江滑板公园","name":"徐汇滨江滑板公园","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"公园","address":"徐汇区龙腾大道","transport":"地铁7号线龙华中路站","fee":"免费","description":"滨江骑行道+专业滑板场地，可带娃骑车、玩滑板，欣赏黄浦江景。","official_url":"","highlights":["滑板","骑行","黄浦江","免费"]},{"id":"长风海洋世界","name":"长风海洋世界","source":"上海本地宝","city":"shanghai","district":"普陀区","type":"科普馆","address":"普陀区大渡河路451号","transport":"地铁15号线长风公园站","fee":"收费","description":"长风公园内的海洋世界，有白鲸表演、海底隧道，适合亲子海洋探索。","official_url":"","highlights":["白鲸表演","海底隧道","海洋生物"]},{"id":"上海植物园","name":"上海植物园","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"公园","address":"徐汇区龙吴路1111号","transport":"地铁3号线石龙路站","fee":"收费","description":"上海市中心的植物园，有多个专类园，可认识各种植物，适合自然教育。","official_url":"","highlights":["植物","自然教育","专类园"]},{"id":"上海昆虫博物馆","name":"上海昆虫博物馆","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"博物馆","address":"徐汇区枫林路300号","transport":"地铁7号线东安路站","fee":"收费","description":"展示各种昆虫标本，有蝴蝶、甲虫等，适合对昆虫感兴趣的孩子。","official_url":"","highlights":["昆虫标本","蝴蝶","甲虫","科普"]},{"id":"上海消防博物馆","name":"上海消防博物馆","source":"上海本地宝","city":"shanghai","district":"长宁区","type":"博物馆","address":"长宁区中山西路229号","transport":"地铁3/4号线延安西路站","fee":"免费","description":"展示上海消防历史，有消防车、消防装备等展品，还有互动体验区。","official_url":"","highlights":["消防历史","消防车","互动体验","免费"]},{"id":"上海科技馆分馆","name":"上海科技馆分馆","source":"上海本地宝","city":"shanghai","district":"静安区","type":"科技馆","address":"静安区北京西路510号","transport":"地铁13号线自然博物馆站","fee":"收费","description":"上海科技馆分馆，以自然科学为主题，有丰富的互动展项和科普活动。","official_url":"","highlights":["自然科学","互动展项","科普活动"]},{"id":"上海少年儿童图书馆","name":"上海少年儿童图书馆","source":"上海本地宝","city":"shanghai","district":"长宁区","type":"图书馆","address":"长宁区延安西路1538号","transport":"地铁3/4号线延安西路站","fee":"免费","description":"专为少年儿童服务的公共图书馆，有丰富的儿童读物和阅读活动。","official_url":"","highlights":["儿童阅读","读物","阅读活动","免费"]},{"id":"世界技能博物馆","name":"世界技能博物馆","source":"上海本地宝","city":"shanghai","district":"杨浦区","type":"博物馆","address":"杨浦区黄兴路221号","transport":"地铁12号线隆昌路站","fee":"免费","description":"展示世界技能大赛相关内容，有各种技能互动体验，适合青少年职业启蒙。","official_url":"","highlights":["技能体验","职业启蒙","互动","免费"]},{"id":"浙江省博物馆（之江馆）","name":"浙江省博物馆（之江馆）","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区江涵路300号","transport":"地铁6号线枫桦西路站","fee":"免费","description":"之江文化中心单体建筑面积最大的场馆，集收藏、保护、研究、展示于一体，有多种数字互动体验项目。","official_url":"","highlights":["数字互动","文物展览","之江文化","免费"]},{"id":"浙江省博物馆（孤山馆）","name":"浙江省博物馆（孤山馆）","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区孤山路25号","transport":"公交Y2路","fee":"免费","description":"位于西湖边的博物馆，展示浙江历史文化和艺术藏品，周边风景优美。","official_url":"","highlights":["西湖边","历史文化","艺术藏品","免费"]},{"id":"浙江自然博物院（杭州馆）","name":"浙江自然博物院（杭州馆）","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"博物馆","address":"拱墅区西湖文化广场6号","transport":"地铁1号线西湖文化广场站","fee":"免费","description":"以自然生命人为主题，有恐龙骨架、生物标本等展陈，适合亲子自然探索。","official_url":"","highlights":["恐龙骨架","生物标本","自然探索","免费"]},{"id":"浙江省科技馆","name":"浙江省科技馆","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"科技馆","address":"拱墅区西湖文化广场2号","transport":"地铁1号线西湖文化广场站","fee":"免费","description":"一至三层为常设展厅，有宇宙遨游、气象万千、海底巡礼、前沿科技等展区，互动体验丰富。","official_url":"","highlights":["宇宙遨游","互动体验","前沿科技","免费"]},{"id":"浙江省地质博物馆","name":"浙江省地质博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区","transport":"地铁","fee":"免费","description":"展陈面积约6300平方米，设有地质历史厅、矿产资源厅、地质环境厅等，适合地质科普。","official_url":"","highlights":["地质历史","矿产资源","地质科普","免费"]},{"id":"浙江省非物质文化遗产馆","name":"浙江省非物质文化遗产馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区江涵路300号之江文化中心","transport":"地铁6号线枫桦西路站","fee":"免费","description":"中国首座大型区域综合性非物质文化遗产馆，展示浙江非遗文化，有互动体验。","official_url":"","highlights":["非遗文化","互动体验","浙江文化","免费"]},{"id":"浙江图书馆","name":"浙江图书馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"图书馆","address":"西湖区江涵路300号之江文化中心","transport":"地铁6号线枫桦西路站","fee":"免费","description":"浙江省大型公共图书馆，有丰富的馆藏资源，适合亲子阅读学习。","official_url":"","highlights":["阅读学习","馆藏丰富","免费"]},{"id":"中国杭州低碳科技馆","name":"中国杭州低碳科技馆","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"科技馆","address":"滨江区江汉路1888号","transport":"地铁6号线江汉路站","fee":"免费","description":"以低碳为主题的科技馆，有巨幕影院、儿童乐园、4D小火车、科普活动免费开放。","official_url":"","highlights":["低碳主题","巨幕影院","儿童乐园","免费"]},{"id":"杭州亚运会博物馆","name":"杭州亚运会博物馆","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"博物馆","address":"滨江区奥体中心体育场地下一层","transport":"地铁6号线奥体中心站","fee":"免费","description":"展示杭州亚运会相关内容，有互动体验，可了解亚运历史和文化。","official_url":"","highlights":["亚运会","互动体验","体育文化","免费"]},{"id":"良渚博物院","name":"良渚博物院","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"博物馆","address":"余杭区美丽洲路1号","transport":"地铁2号线良渚站","fee":"免费","description":"集收藏、研究、展示良渚文化于一体的考古遗址博物馆，有玉琮等珍贵文物。","official_url":"","highlights":["良渚文化","玉琮","考古","免费"]},{"id":"中国丝绸博物馆","name":"中国丝绸博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区玉皇山路73-1号","transport":"公交12路","fee":"免费","description":"世界上最大的丝绸博物馆，收藏丝绸之路沿线出土的丝绸文物，展示丝绸发展脉络。","official_url":"","highlights":["丝绸文化","丝绸之路","文物","免费"]},{"id":"中国水利博物馆","name":"中国水利博物馆","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"博物馆","address":"萧山区水博大道1号","transport":"自驾","fee":"免费","description":"展示中华民族五千年治水历程，重点展示新中国水利建设成就，夜景灯光漂亮。","official_url":"","highlights":["水利历史","治水成就","夜景","免费"]},{"id":"中国茶叶博物馆","name":"中国茶叶博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区龙井路88号","transport":"公交27路","fee":"免费","description":"我国唯一以茶和茶文化为主题的国家级专题博物馆，分为龙井馆和双峰馆。","official_url":"","highlights":["茶文化","龙井","茶叶","免费"]},{"id":"中国湿地博物馆","name":"中国湿地博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区天目山路402号","transport":"公交194路","fee":"免费","description":"以湿地为主题的国家级博物馆，建筑如同隐藏在西溪的小山丘，展示湿地生态。","official_url":"","highlights":["湿地生态","西溪","自然教育","免费"]},{"id":"中国动漫博物馆","name":"中国动漫博物馆","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"博物馆","address":"滨江区白马湖路375号","transport":"公交137路","fee":"免费","description":"动漫专题博物馆，沿着动漫发展史，问候曾经陪伴过的荧屏伙伴，寻找一起度过的岁月。","official_url":"","highlights":["动漫历史","荧屏伙伴","互动体验","免费"]},{"id":"杭州博物馆","name":"杭州博物馆","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"博物馆","address":"上城区粮道山18号","transport":"公交Y2路","fee":"免费","description":"反映杭州历史变迁的人文类综合性博物馆，馆内陈列丰富，有杭州出土文物精品陈列。","official_url":"","highlights":["杭州历史","出土文物","人文","免费"]},{"id":"良渚古城遗址公园","name":"良渚古城遗址公园","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"公园","address":"余杭区瓶窑镇凤都路","transport":"地铁2号线良渚站","fee":"收费","description":"体验和感悟中华五千年文明，涵盖宫殿区、内城与外城，可乘坐观光车游览。","official_url":"","highlights":["五千年文明","考古遗址","观光车","文化"]},{"id":"杭州野生动物世界","name":"杭州野生动物世界","source":"杭州本地宝","city":"hangzhou","district":"富阳区","type":"公园","address":"富阳区受降镇杭富路九龙大道1号","transport":"公交514路","fee":"收费","description":"大型野生动物世界，有各种珍稀动物，可自驾或步行游览，适合亲子游玩。","official_url":"","highlights":["野生动物","自驾游览","亲子游玩"]},{"id":"杭州植物园","name":"杭州植物园","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区桃源岭1号","transport":"公交Y2路","fee":"收费","description":"位于西湖边的植物园，有多个专类园，四季花卉不断，适合自然教育和亲子散步。","official_url":"","highlights":["植物","自然教育","西湖边","四季花卉"]},{"id":"西溪国家湿地公园","name":"西溪国家湿地公园","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区天目山路518号","transport":"地铁3号线西溪湿地南站","fee":"收费","description":"国家5A级景区，以自然湿地为特色，可乘船游览，体验江南水乡风情。","official_url":"","highlights":["湿地","乘船","江南水乡","5A景区"]},{"id":"西湖风景名胜区","name":"西湖风景名胜区","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西湖街道","transport":"地铁1号线龙翔桥站","fee":"免费","description":"杭州标志性景区，西湖十景闻名天下，可游船、散步、参观周边景点。","official_url":"","highlights":["西湖十景","游船","白堤苏堤","免费"]},{"id":"杭州乐园","name":"杭州乐园","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"公园","address":"萧山区风情大道2555号","transport":"地铁1号线湘湖站","fee":"收费","description":"大型主题乐园，有刺激项目和儿童区，适合亲子游玩。","official_url":"","highlights":["主题乐园","刺激项目","儿童区","亲子"]},{"id":"杭州少年儿童图书馆","name":"杭州少年儿童图书馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"图书馆","address":"西湖区曙光路75号","transport":"公交Y2路","fee":"免费","description":"专为少年儿童服务的公共图书馆，有丰富的儿童读物和阅读活动。","official_url":"","highlights":["儿童阅读","读物","阅读活动","免费"]},{"id":"杭州科技馆","name":"杭州科技馆","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"科技馆","address":"拱墅区西湖文化广场","transport":"地铁1号线西湖文化广场站","fee":"免费","description":"杭州市级科技馆，有互动科技体验展，适合儿童科学启蒙。","official_url":"","highlights":["互动体验","科学启蒙","免费"]},{"id":"杭州中国茶叶博物馆龙井馆","name":"杭州中国茶叶博物馆龙井馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区翁家山268号","transport":"公交27路","fee":"免费","description":"中国茶叶博物馆龙井馆区，展示龙井茶文化和茶叶制作工艺。","official_url":"","highlights":["龙井茶文化","茶叶制作","免费"]},{"id":"杭州西湖博物馆","name":"杭州西湖博物馆","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"博物馆","address":"上城区南山路89号","transport":"公交Y2路","fee":"免费","description":"展示西湖历史文化和自然风光，位于西湖边，风景优美。","official_url":"","highlights":["西湖历史","自然风光","免费"]},{"id":"杭州京杭大运河博物馆","name":"杭州京杭大运河博物馆","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"博物馆","address":"拱墅区金华路88号","transport":"地铁5号线大运河站","fee":"免费","description":"展示京杭大运河历史文化，有运河文物、历史资料等展陈。","official_url":"","highlights":["运河文化","历史文物","免费"]},{"id":"杭州工艺美术博物馆","name":"杭州工艺美术博物馆","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"博物馆","address":"拱墅区小河路334号","transport":"公交151路","fee":"免费","description":"展示杭州传统工艺美术，有陶瓷、刺绣、木雕等展品，适合传统文化启蒙。","official_url":"","highlights":["传统工艺","陶瓷刺绣","木雕","免费"]},{"id":"杭州中国湿地博物馆","name":"杭州中国湿地博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区天目山路402号","transport":"公交194路","fee":"免费","description":"国家级湿地博物馆，展示湿地生态系统和生物多样性，有互动体验。","official_url":"","highlights":["湿地生态","生物多样性","互动体验","免费"]},{"id":"杭州青少年活动中心","name":"杭州青少年活动中心","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"青少年宫","address":"西湖区昭庆寺里街22号","transport":"公交Y2路","fee":"收费","description":"杭州市青少年校外活动场所，有各种兴趣培训和活动。","official_url":"","highlights":["兴趣培训","青少年活动"]},{"id":"杭州嘟嘟城","name":"杭州嘟嘟城","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"公园","address":"江干区新业路331-399号","transport":"地铁4号线市民中心站","fee":"收费","description":"儿童职业体验乐园，孩子们可以体验各种职业角色，如医生、警察、消防员等。","official_url":"","highlights":["职业体验","角色扮演","儿童乐园"]},{"id":"北京植物园","name":"北京植物园","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区香山路","transport":"地铁西郊线植物园站","fee":"收费","description":"北京最大的植物园，有温室展览区、樱桃沟、曹雪芹纪念馆等，适合亲子自然探索。","official_url":"","highlights":["温室","樱桃沟","自然探索"]},{"id":"颐和园","name":"颐和园","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区新建宫门路19号","transport":"地铁4号线北宫门站","fee":"收费","description":"中国现存规模最大、保存最完整的皇家园林，昆明湖、长廊、佛香阁等景点闻名。","official_url":"","highlights":["皇家园林","昆明湖","长廊"]},{"id":"天坛公园","name":"天坛公园","source":"北京本地宝","city":"beijing","district":"东城区","type":"公园","address":"东城区天坛东路甲1号","transport":"地铁5号线天坛东门站","fee":"收费","description":"明清两代皇帝祭天祈谷的场所，祈年殿、皇穹宇、圜丘等建筑宏伟壮观。","official_url":"","highlights":["祈年殿","祭天","古建筑"]},{"id":"地坛公园","name":"地坛公园","source":"北京本地宝","city":"beijing","district":"东城区","type":"公园","address":"东城区安定门外大街","transport":"地铁2号线安定门站","fee":"收费","description":"明清两代皇帝祭地的场所，有方泽坛、皇祇室等建筑，园内有书市和庙会。","official_url":"","highlights":["方泽坛","祭地","书市"]},{"id":"北海公园","name":"北海公园","source":"北京本地宝","city":"beijing","district":"西城区","type":"公园","address":"西城区文津街1号","transport":"地铁6号线北海北站","fee":"收费","description":"中国现存最古老、最完整、最具综合性和代表性的皇家园林之一，白塔、九龙壁闻名。","official_url":"","highlights":["白塔","九龙壁","皇家园林"]},{"id":"景山公园","name":"景山公园","source":"北京本地宝","city":"beijing","district":"西城区","type":"公园","address":"西城区景山西街44号","transport":"地铁1号线神武门站","fee":"收费","description":"位于故宫北侧，登上万春亭可俯瞰故宫全景和北京中轴线。","official_url":"","highlights":["万春亭","俯瞰故宫","中轴线"]},{"id":"中山公园","name":"中山公园","source":"北京本地宝","city":"beijing","district":"西城区","type":"公园","address":"西城区西长安街2号","transport":"地铁1号线天安门西站","fee":"收费","description":"位于天安门西侧，有社稷坛、中山堂等景点，是市民休闲好去处。","official_url":"","highlights":["社稷坛","中山堂","休闲"]},{"id":"劳动人民文化宫","name":"劳动人民文化宫","source":"北京本地宝","city":"beijing","district":"东城区","type":"文化中心","address":"东城区太庙路","transport":"地铁1号线天安门东站","fee":"免费","description":"位于天安门东侧，原为太庙，现为文化活动场所，有展览和演出。","official_url":"","highlights":["太庙","展览","文化活动"]},{"id":"北京天文馆A馆","name":"北京天文馆A馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"科普馆","address":"西城区西直门外大街138号","transport":"地铁4号线动物园站","fee":"收费","description":"北京天文馆A馆，设有天象厅、展览厅，球幕电影体验震撼。","official_url":"","highlights":["天象厅","球幕电影"]},{"id":"北京天文馆B馆","name":"北京天文馆B馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"科普馆","address":"西城区西直门外大街138号","transport":"地铁4号线动物园站","fee":"收费","description":"北京天文馆B馆，有太阳观测、陨石展览、互动体验区。","official_url":"","highlights":["太阳观测","陨石","互动体验"]},{"id":"北京展览馆","name":"北京展览馆","source":"北京本地宝","city":"beijing","district":"西城区","type":"会展中心","address":"西城区西直门外大街135号","transport":"地铁4号线动物园站","fee":"收费","description":"大型展览馆，举办各类展览和活动，建筑风格独特。","official_url":"","highlights":["展览","建筑风格"]},{"id":"中国美术馆","name":"中国美术馆","source":"北京本地宝","city":"beijing","district":"东城区","type":"美术馆","address":"东城区五四大街1号","transport":"地铁8号线中国美术馆站","fee":"免费","description":"中国国家级美术馆，收藏和展示国内外优秀美术作品。","official_url":"","highlights":["美术展览","国家级","免费"]},{"id":"北京音乐厅","name":"北京音乐厅","source":"北京本地宝","city":"beijing","district":"西城区","type":"演出场馆","address":"西城区北新华街1号","transport":"地铁1号线西单站","fee":"收费","description":"北京知名音乐厅，举办交响乐、室内乐等音乐会。","official_url":"","highlights":["交响乐","音乐会"]},{"id":"国家大剧院","name":"国家大剧院","source":"北京本地宝","city":"beijing","district":"西城区","type":"演出场馆","address":"西城区西长安街2号","transport":"地铁1号线天安门西站","fee":"收费","description":"中国国家表演艺术中心，有歌剧院、音乐厅、戏剧场等，建筑造型独特。","official_url":"","highlights":["歌剧院","建筑造型","表演艺术"]},{"id":"梅兰芳大剧院","name":"梅兰芳大剧院","source":"北京本地宝","city":"beijing","district":"西城区","type":"演出场馆","address":"西城区平安里西大街32号","transport":"地铁4号线平安里站","fee":"收费","description":"以京剧大师梅兰芳命名的剧院，演出京剧、戏曲等。","official_url":"","highlights":["京剧","戏曲"]},{"id":"长安大戏院","name":"长安大戏院","source":"北京本地宝","city":"beijing","district":"东城区","type":"演出场馆","address":"东城区建国门内大街7号","transport":"地铁1号线建国门站","fee":"收费","description":"北京老字号戏院，演出京剧、曲艺等传统戏曲。","official_url":"","highlights":["京剧","传统戏曲","老字号"]},{"id":"北京儿艺剧场","name":"北京儿艺剧场","source":"北京本地宝","city":"beijing","district":"东城区","type":"演出场馆","address":"东城区交道口东大街85号","transport":"地铁5号线北新桥站","fee":"收费","description":"北京儿童艺术剧院，演出儿童剧、亲子剧等。","official_url":"","highlights":["儿童剧","亲子剧"]},{"id":"北京展览馆剧场","name":"北京展览馆剧场","source":"北京本地宝","city":"beijing","district":"西城区","type":"演出场馆","address":"西城区西直门外大街135号","transport":"地铁4号线动物园站","fee":"收费","description":"北京展览馆内的剧场，举办演唱会、话剧等演出。","official_url":"","highlights":["演唱会","话剧"]},{"id":"北京工人体育馆","name":"北京工人体育馆","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"体育中心","address":"朝阳区三里屯路11号","transport":"地铁10号线团结湖站","fee":"收费","description":"大型体育场馆，举办体育赛事和演唱会。","official_url":"","highlights":["体育赛事","演唱会"]},{"id":"北京工人体育场","name":"北京工人体育场","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"体育中心","address":"朝阳区工人体育场北路","transport":"地铁2号线东四十条站","fee":"收费","description":"大型足球场，举办足球比赛和大型活动。","official_url":"","highlights":["足球","体育赛事"]},{"id":"五棵松体育馆","name":"五棵松体育馆","source":"北京本地宝","city":"beijing","district":"海淀区","type":"体育中心","address":"海淀区复兴路69号","transport":"地铁1号线五棵松站","fee":"收费","description":"大型室内体育馆，举办篮球比赛和演唱会。","official_url":"","highlights":["篮球","演唱会"]},{"id":"奥林匹克森林公园","name":"奥林匹克森林公园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区科荟路33号","transport":"地铁8号线奥林匹克公园站","fee":"免费","description":"北京奥林匹克公园内的大型森林公园，有南园、北园，适合散步、跑步、骑行。","official_url":"","highlights":["森林公园","散步","骑行","免费"]},{"id":"元大都城垣遗址公园","name":"元大都城垣遗址公园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区安定路","transport":"地铁5号线惠新西街北口站","fee":"免费","description":"元大都城墙遗址公园，有海棠花溪等景点，春季海棠盛开时很美。","official_url":"","highlights":["城墙遗址","海棠花溪","免费"]},{"id":"奥林匹克公园","name":"奥林匹克公园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区国家体育场南路","transport":"地铁8号线奥林匹克公园站","fee":"免费","description":"包含鸟巢、水立方等奥运场馆，是市民休闲和旅游的好去处。","official_url":"","highlights":["鸟巢","水立方","奥运场馆","免费"]},{"id":"朝阳公园海洋沙滩狂欢节","name":"朝阳公园海洋沙滩狂欢节","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区朝阳公园南路1号","transport":"地铁14号线朝阳公园站","fee":"收费","description":"夏季举办的大型水上活动，有沙滩、泳池、表演等。","official_url":"","highlights":["沙滩","水上活动","夏季"]},{"id":"蟹岛度假村","name":"蟹岛度假村","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"公园","address":"朝阳区蟹岛路1号","transport":"公交641路","fee":"收费","description":"综合性度假村，有温泉、水上乐园、采摘园等，适合亲子度假。","official_url":"","highlights":["温泉","水上乐园","采摘"]},{"id":"南宫旅游景区","name":"南宫旅游景区","source":"北京本地宝","city":"beijing","district":"丰台区","type":"公园","address":"丰台区王佐镇","transport":"公交321路","fee":"收费","description":"集温泉、公园、动物园于一体的旅游景区，适合亲子游玩。","official_url":"","highlights":["温泉","动物园","亲子"]},{"id":"北京莲花池公园","name":"北京莲花池公园","source":"北京本地宝","city":"beijing","district":"丰台区","type":"公园","address":"丰台区广安门外大街","transport":"地铁9号线北京西站","fee":"免费","description":"古老的莲花池遗址公园，夏季荷花盛开，景色优美。","official_url":"","highlights":["荷花","遗址公园","免费"]},{"id":"北京世界花卉大观园","name":"北京世界花卉大观园","source":"北京本地宝","city":"beijing","district":"丰台区","type":"公园","address":"丰台区南四环中路235号","transport":"地铁8号线德茂庄站","fee":"收费","description":"大型花卉博览园，有多个温室展馆，展示各种花卉植物。","official_url":"","highlights":["花卉","温室","博览园"]},{"id":"北京园博园","name":"北京园博园","source":"北京本地宝","city":"beijing","district":"丰台区","type":"公园","address":"丰台区射击场路15号","transport":"地铁14号线园博园站","fee":"收费","description":"第九届中国国际园林博览会举办地，有多个展园和园林景观。","official_url":"","highlights":["园林景观","展园","园博会"]},{"id":"北京石景山游乐园","name":"北京石景山游乐园","source":"北京本地宝","city":"beijing","district":"石景山区","type":"公园","address":"石景山区石景山路25号","transport":"地铁1号线八角游乐园站","fee":"收费","description":"北京老牌游乐园，有摩天轮、过山车等游乐设施。","official_url":"","highlights":["摩天轮","过山车","游乐园"]},{"id":"八大处公园","name":"八大处公园","source":"北京本地宝","city":"beijing","district":"石景山区","type":"公园","address":"石景山区八大处路3号","transport":"公交347路","fee":"收费","description":"位于西山风景区，有八座古刹，景色秀丽，适合登山祈福。","official_url":"","highlights":["古刹","登山","祈福"]},{"id":"法海寺","name":"法海寺","source":"北京本地宝","city":"beijing","district":"石景山区","type":"博物馆","address":"石景山区模式口大街","transport":"公交336路","fee":"收费","description":"明代古寺，以精美的壁画闻名，是全国重点文物保护单位。","official_url":"","highlights":["壁画","古寺","文物"]},{"id":"首钢园","name":"首钢园","source":"北京本地宝","city":"beijing","district":"石景山区","type":"文化中心","address":"石景山区首钢大街","transport":"地铁11号线新首钢站","fee":"免费","description":"首钢工业遗址改造的文化创意园区，有冬奥会相关设施和展览。","official_url":"","highlights":["工业遗址","冬奥会","文创","免费"]},{"id":"北京国际雕塑公园","name":"北京国际雕塑公园","source":"北京本地宝","city":"beijing","district":"石景山区","type":"公园","address":"石景山区石景山路2号","transport":"地铁1号线玉泉路站","fee":"免费","description":"以雕塑为主题的公园，有国内外雕塑作品展示。","official_url":"","highlights":["雕塑","艺术","免费"]},{"id":"百望山森林公园","name":"百望山森林公园","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区黑山扈北口19号","transport":"公交330路","fee":"收费","description":"北京西北郊的森林公园，适合登山远眺，秋季红叶很美。","official_url":"","highlights":["登山","红叶","远眺"]},{"id":"凤凰岭自然风景区","name":"凤凰岭自然风景区","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区苏家坨镇","transport":"公交346路","fee":"收费","description":"北京西山风景区，有山、水、林、寺等景观，适合户外徒步。","official_url":"","highlights":["徒步","自然风光","寺庙"]},{"id":"鹫峰国家森林公园","name":"鹫峰国家森林公园","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区苏家坨镇","transport":"公交346路","fee":"收费","description":"以鹫峰为中心的森林公园，有登山步道和自然风光。","official_url":"","highlights":["登山","森林","自然风光"]},{"id":"阳台山自然风景区","name":"阳台山自然风景区","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区苏家坨镇","transport":"公交346路","fee":"收费","description":"北京西山风景区，有古香道、金山寺等景点，适合登山。","official_url":"","highlights":["古香道","金山寺","登山"]},{"id":"香山公园","name":"香山公园","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区买卖街40号","transport":"地铁西郊线香山站","fee":"收费","description":"北京著名的森林公园，秋季红叶闻名，有碧云寺、琉璃塔等景点。","official_url":"","highlights":["红叶","碧云寺","登山"]},{"id":"北京植物园樱桃沟","name":"北京植物园樱桃沟","source":"北京本地宝","city":"beijing","district":"海淀区","type":"公园","address":"海淀区香山路北京植物园内","transport":"地铁西郊线植物园站","fee":"收费","description":"樱桃沟景区，有木栈道、水杉林、喷雾景观等，夏季凉爽宜人。","official_url":"","highlights":["水杉林","喷雾","凉爽"]},{"id":"北京植物园温室","name":"北京植物园温室","source":"北京本地宝","city":"beijing","district":"海淀区","type":"科普馆","address":"海淀区香山路北京植物园内","transport":"地铁西郊线植物园站","fee":"收费","description":"大型温室展览区，展示热带、亚热带植物，适合亲子自然教育。","official_url":"","highlights":["热带植物","温室","自然教育"]},{"id":"北京天文馆天象厅","name":"北京天文馆天象厅","source":"北京本地宝","city":"beijing","district":"西城区","type":"科普馆","address":"西城区西直门外大街138号","transport":"地铁4号线动物园站","fee":"收费","description":"北京天文馆A馆天象厅，球幕电影体验震撼，展示宇宙星空。","official_url":"","highlights":["球幕电影","宇宙星空"]},{"id":"中国科学技术馆儿童科学乐园","name":"中国科学技术馆儿童科学乐园","source":"北京本地宝","city":"beijing","district":"朝阳区","type":"科技馆","address":"朝阳区北辰东路5号","transport":"地铁8号线奥林匹克公园站","fee":"收费","description":"专为3-8岁儿童设计的科学乐园，互动性强，寓教于乐。","official_url":"","highlights":["3-8岁","互动体验","科学启蒙"]},{"id":"广州大剧院","name":"广州大剧院","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"演出场馆","address":"天河区珠江新城珠江西路1号","transport":"地铁3号线大剧院站","fee":"收费","description":"广州标志性建筑，举办歌剧、音乐剧、音乐会等演出。","official_url":"","highlights":["建筑设计","歌剧","音乐会"]},{"id":"广州塔","name":"广州塔","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"文化中心","address":"海珠区阅江西路222号","transport":"地铁3号线广州塔站","fee":"收费","description":"广州地标性建筑，可登塔俯瞰广州全景，有摩天轮、极速云霄等项目。","official_url":"","highlights":["登高观光","摩天轮","地标"]},{"id":"广州国际金融城","name":"广州国际金融城","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区黄埔大道","transport":"地铁5号线科韵路站","fee":"免费","description":"广州新城区，有现代化建筑和城市景观，适合拍照打卡。","official_url":"","highlights":["现代化","城市景观","拍照"]},{"id":"广州北京路步行街","name":"广州北京路步行街","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"文化中心","address":"越秀区北京路","transport":"地铁1号线公园前站","fee":"免费","description":"广州著名的商业步行街，有历史文化景点和购物美食。","official_url":"","highlights":["购物","美食","历史文化"]},{"id":"广州上下九步行街","name":"广州上下九步行街","source":"广州本地宝","city":"guangzhou","district":"荔湾区","type":"文化中心","address":"荔湾区上下九路","transport":"地铁1号线长寿路站","fee":"免费","description":"广州传统商业步行街，有西关风情和特色小吃。","official_url":"","highlights":["西关风情","特色小吃","购物"]},{"id":"广州天河城","name":"广州天河城","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区天河路208号","transport":"地铁3号线体育西路站","fee":"免费","description":"广州大型购物中心，有购物、餐饮、娱乐等设施。","official_url":"","highlights":["购物","餐饮","娱乐"]},{"id":"广州太古汇","name":"广州太古汇","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区天河路383号","transport":"地铁3号线石牌桥站","fee":"免费","description":"高端购物中心，有奢侈品品牌和特色餐饮。","official_url":"","highlights":["高端购物","奢侈品","餐饮"]},{"id":"广州正佳广场","name":"广州正佳广场","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区天河路228号","transport":"地铁3号线体育西路站","fee":"免费","description":"大型商业综合体，有海洋世界、雨林植物园、自然科学博物馆等。","official_url":"","highlights":["商业综合体","海洋世界","博物馆"]},{"id":"广州万菱汇","name":"广州万菱汇","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区天河路230号","transport":"地铁3号线石牌桥站","fee":"免费","description":"购物中心，有时尚品牌和特色餐饮。","official_url":"","highlights":["时尚购物","餐饮"]},{"id":"广州凯德广场","name":"广州凯德广场","source":"广州本地宝","city":"guangzhou","district":"白云区","type":"文化中心","address":"白云区云城西路890号","transport":"地铁2号线白云公园站","fee":"免费","description":"白云区大型购物中心，有购物、餐饮、娱乐等设施。","official_url":"","highlights":["购物","餐饮","白云区"]},{"id":"广州白云万达广场","name":"广州白云万达广场","source":"广州本地宝","city":"guangzhou","district":"白云区","type":"文化中心","address":"白云区云城东路501号","transport":"地铁2号线飞翔公园站","fee":"免费","description":"大型商业综合体，有购物、餐饮、影院等设施。","official_url":"","highlights":["购物","餐饮","影院"]},{"id":"广州越秀公园","name":"广州越秀公园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区解放北路960号","transport":"地铁2号线越秀公园站","fee":"免费","description":"广州最大的综合性公园，有五羊雕像、镇海楼、金印游乐场等景点。","official_url":"","highlights":["五羊雕像","镇海楼","金印游乐场","免费"]},{"id":"广州流花湖公园","name":"广州流花湖公园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区流花路100号","transport":"地铁2号线越秀公园站","fee":"免费","description":"以湖景为特色的公园，有流花湖、玫瑰园等景点，环境优美。","official_url":"","highlights":["湖景","玫瑰园","环境优美","免费"]},{"id":"广州荔湾湖公园","name":"广州荔湾湖公园","source":"广州本地宝","city":"guangzhou","district":"荔湾区","type":"公园","address":"荔湾区龙津西路155号","transport":"地铁1号线长寿路站","fee":"免费","description":"位于荔湾区的公园，有湖景和西关风情，周边有泮塘美食。","official_url":"","highlights":["湖景","西关风情","美食","免费"]},{"id":"广州海珠湖公园","name":"广州海珠湖公园","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"公园","address":"海珠区新滘中路","transport":"地铁3号线大塘站","fee":"免费","description":"海珠湿地公园内的湖景公园，有环湖步道和自然景观。","official_url":"","highlights":["湖景","环湖步道","自然","免费"]},{"id":"广州天河公园","name":"广州天河公园","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"公园","address":"天河区中山大道西270号","transport":"地铁21号线天河公园站","fee":"免费","description":"天河区大型公园，有湖景、草坪、游乐设施，适合亲子游玩。","official_url":"","highlights":["湖景","草坪","游乐设施","免费"]},{"id":"广州珠江公园","name":"广州珠江公园","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"公园","address":"天河区金穗路","transport":"地铁3号线体育西路站","fee":"免费","description":"珠江新城内的公园，有草坪、水景、雕塑，环境优美。","official_url":"","highlights":["草坪","水景","环境优美","免费"]},{"id":"广州麓湖公园","name":"广州麓湖公园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区麓湖路11号","transport":"公交10路","fee":"免费","description":"位于白云山脚下的公园，有湖景和自然景观，环境清幽。","official_url":"","highlights":["湖景","白云山","清幽","免费"]},{"id":"广州东山湖公园","name":"广州东山湖公园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区东湖路123号","transport":"地铁6号线东湖站","fee":"免费","description":"位于东山的公园，有湖景和亭台楼阁，适合休闲散步。","official_url":"","highlights":["湖景","亭台楼阁","休闲","免费"]},{"id":"广州二沙岛","name":"广州二沙岛","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区二沙岛","transport":"地铁6号线东湖站","fee":"免费","description":"珠江中的小岛，有大草坪、艺术公园、体育公园等，是广州塔最佳拍摄点。","official_url":"","highlights":["大草坪","广州塔拍摄","艺术公园","免费"]},{"id":"广州沙面岛","name":"广州沙面岛","source":"广州本地宝","city":"guangzhou","district":"荔湾区","type":"文化中心","address":"荔湾区沙面南街","transport":"地铁1号线黄沙站","fee":"免费","description":"珠江中的小岛，有欧式建筑和领事馆旧址，适合拍照打卡。","official_url":"","highlights":["欧式建筑","领事馆","拍照","免费"]},{"id":"广州长隆野生动物世界","name":"广州长隆野生动物世界","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区大石镇","transport":"地铁3号线汉溪长隆站","fee":"收费","description":"全球最大的动物园区之一，可以乘坐小火车或自驾游，近距离观赏野生动物。","official_url":"","highlights":["野生动物","小火车","自驾"]},{"id":"广州长隆欢乐世界","name":"广州长隆欢乐世界","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区大石镇","transport":"地铁3号线汉溪长隆站","fee":"收费","description":"大型主题乐园，有刺激项目和儿童区，适合全年龄段游玩。","official_url":"","highlights":["主题乐园","刺激项目","儿童区"]},{"id":"广州长隆水上乐园","name":"广州长隆水上乐园","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区大石镇","transport":"地铁3号线汉溪长隆站","fee":"收费","description":"大型水上乐园，有各种滑道、造浪池、漂流河等，夏季玩水好去处。","official_url":"","highlights":["水上乐园","滑道","造浪池"]},{"id":"广州长隆飞鸟乐园","name":"广州长隆飞鸟乐园","source":"广州本地宝","city":"guangzhou","district":"番禺区","type":"公园","address":"番禺区大石镇","transport":"地铁3号线汉溪长隆站","fee":"收费","description":"以鸟类为主题的乐园，有各种珍稀鸟类和表演。","official_url":"","highlights":["鸟类","表演","珍稀动物"]},{"id":"广州融创雪世界","name":"广州融创雪世界","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区凤凰北路78号","transport":"地铁9号线花城路站","fee":"收费","description":"华南地区最大的室内滑雪场，一年四季都可以滑雪。","official_url":"","highlights":["室内滑雪","四季滑雪"]},{"id":"广州融创水世界","name":"广州融创水世界","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区凤凰北路78号","transport":"地铁9号线花城路站","fee":"收费","description":"四季恒温的室内水世界，有各种水上项目和儿童戏水区。","official_url":"","highlights":["室内水世界","四季恒温","儿童戏水"]},{"id":"广州融创体育世界","name":"广州融创体育世界","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区凤凰北路78号","transport":"地铁9号线花城路站","fee":"收费","description":"大型室内体育乐园，有各种运动项目和娱乐设施。","official_url":"","highlights":["体育乐园","运动项目"]},{"id":"广州花都湖公园","name":"广州花都湖公园","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区商业大道","transport":"地铁9号线花果山公园站","fee":"免费","description":"花都区大型公园，有湖景和绿道，适合骑行和散步。","official_url":"","highlights":["湖景","绿道","骑行","免费"]},{"id":"广州增城白水寨","name":"广州增城白水寨","source":"广州本地宝","city":"guangzhou","district":"增城区","type":"公园","address":"增城区派潭镇","transport":"自驾","fee":"收费","description":"有落差428.5米的白水仙瀑，是广东最大的瀑布，适合登山观景。","official_url":"","highlights":["瀑布","登山","观景"]},{"id":"广州从化温泉","name":"广州从化温泉","source":"广州本地宝","city":"guangzhou","district":"从化区","type":"公园","address":"从化区温泉镇","transport":"自驾","fee":"收费","description":"著名的温泉度假区，有各种温泉酒店和度假村。","official_url":"","highlights":["温泉","度假"]},{"id":"广州从化溪头村","name":"广州从化溪头村","source":"广州本地宝","city":"guangzhou","district":"从化区","type":"公园","address":"从化区良口镇","transport":"自驾","fee":"免费","description":"广州最美乡村之一，有溪流、竹林、田园风光，适合亲子游。","official_url":"","highlights":["乡村","溪流","田园风光","免费"]},{"id":"广州南沙湿地公园","name":"广州南沙湿地公园","source":"广州本地宝","city":"guangzhou","district":"南沙区","type":"公园","address":"南沙区万顷沙镇","transport":"自驾","fee":"收费","description":"大型湿地公园，有红树林、芦苇荡、候鸟栖息地，适合观鸟。","official_url":"","highlights":["湿地","红树林","观鸟"]},{"id":"广州南沙天后宫","name":"广州南沙天后宫","source":"广州本地宝","city":"guangzhou","district":"南沙区","type":"文化中心","address":"南沙区大角山东南麓","transport":"自驾","fee":"收费","description":"东南亚最大的妈祖庙，有古建筑和海景，适合祈福和观光。","official_url":"","highlights":["妈祖庙","古建筑","海景"]},{"id":"广州黄埔军校旧址","name":"广州黄埔军校旧址","source":"广州本地宝","city":"guangzhou","district":"黄埔区","type":"博物馆","address":"黄埔区长洲岛","transport":"公交383路","fee":"免费","description":"中国近代著名军事院校旧址，展示军校历史和文物。","official_url":"","highlights":["军校历史","文物","红色旅游","免费"]},{"id":"广州南海神庙","name":"广州南海神庙","source":"广州本地宝","city":"guangzhou","district":"黄埔区","type":"文化中心","address":"黄埔区庙头村","transport":"地铁13号线夏园站","fee":"收费","description":"中国古代海上丝绸之路的起点，有古建筑和庙会活动。","official_url":"","highlights":["海上丝绸之路","古建筑","庙会"]},{"id":"广州南越王宫博物馆","name":"广州南越王宫博物馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区中山四路316号","transport":"地铁1号线农讲所站","fee":"免费","description":"展示南越王宫遗址和文物，了解南越国历史。","official_url":"","highlights":["王宫遗址","南越国","文物","免费"]},{"id":"广州北京路千年古道遗址","name":"广州北京路千年古道遗址","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区北京路","transport":"地铁1号线公园前站","fee":"免费","description":"北京路地下的千年古道遗址，展示广州历史变迁。","official_url":"","highlights":["古道遗址","历史变迁","免费"]},{"id":"广州粤剧艺术博物馆","name":"广州粤剧艺术博物馆","source":"广州本地宝","city":"guangzhou","district":"荔湾区","type":"博物馆","address":"荔湾区恩宁路127号","transport":"地铁1号线黄沙站","fee":"免费","description":"展示粤剧艺术和历史，有粤剧表演和展览。","official_url":"","highlights":["粤剧","表演","历史","免费"]},{"id":"广州三二九起义指挥部旧址","name":"广州三二九起义指挥部旧址","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区越华路116号","transport":"地铁1号线公园前站","fee":"免费","description":"辛亥革命重要历史遗址，展示起义历史和文物。","official_url":"","highlights":["辛亥革命","历史遗址","免费"]},{"id":"广州起义烈士陵园","name":"广州起义烈士陵园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区中山三路","transport":"地铁1号线烈士陵园站","fee":"免费","description":"纪念广州起义的烈士陵园，有纪念碑、纪念馆等。","official_url":"","highlights":["烈士陵园","纪念","红色旅游","免费"]},{"id":"广州鲁迅纪念馆","name":"广州鲁迅纪念馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区文明路215号","transport":"地铁1号线农讲所站","fee":"免费","description":"展示鲁迅先生在广州的生活和工作，有文物和文献。","official_url":"","highlights":["鲁迅","文物","文献","免费"]},{"id":"广州近代史博物馆","name":"广州近代史博物馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区陵园西路2号","transport":"地铁1号线烈士陵园站","fee":"免费","description":"展示广州近代史，有文物和历史资料。","official_url":"","highlights":["近代史","文物","历史资料","免费"]},{"id":"广州农民运动讲习所旧址","name":"广州农民运动讲习所旧址","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区中山四路42号","transport":"地铁1号线农讲所站","fee":"免费","description":"第一次国内革命战争时期培养农民运动干部的学校旧址。","official_url":"","highlights":["农民运动","革命历史","免费"]},{"id":"广州南越王墓博物馆","name":"广州南越王墓博物馆","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"博物馆","address":"越秀区解放北路867号","transport":"地铁2号线越秀公园站","fee":"免费","description":"展示南越王墓出土文物，包括金缕玉衣等珍贵文物。","official_url":"","highlights":["南越王墓","金缕玉衣","文物","免费"]},{"id":"上海图书馆","name":"上海图书馆","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"图书馆","address":"徐汇区淮海中路1555号","transport":"地铁10号线上海图书馆站","fee":"免费","description":"上海大型公共图书馆，有丰富的馆藏资源和阅读空间。","official_url":"","highlights":["阅读","馆藏丰富","免费"]},{"id":"上海美术馆","name":"上海美术馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"美术馆","address":"浦东新区上南路205号","transport":"地铁8号线中华艺术宫站","fee":"免费","description":"中华艺术宫内的美术馆，展示国内外优秀美术作品。","official_url":"","highlights":["美术展览","中华艺术宫","免费"]},{"id":"上海大剧院","name":"上海大剧院","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"演出场馆","address":"黄浦区人民大道300号","transport":"地铁1号线人民广场站","fee":"收费","description":"上海标志性剧院，举办歌剧、音乐剧、音乐会等演出。","official_url":"","highlights":["歌剧","音乐剧","建筑设计"]},{"id":"上海音乐厅","name":"上海音乐厅","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"演出场馆","address":"黄浦区延安东路523号","transport":"地铁1号线人民广场站","fee":"收费","description":"上海知名音乐厅，举办交响乐、室内乐等音乐会。","official_url":"","highlights":["交响乐","音乐会"]},{"id":"上海马戏城","name":"上海马戏城","source":"上海本地宝","city":"shanghai","district":"静安区","type":"演出场馆","address":"静安区共和新路2266号","transport":"地铁1号线上海马戏城站","fee":"收费","description":"上海大型马戏表演场馆，有精彩的马戏和杂技表演。","official_url":"","highlights":["马戏","杂技","表演"]},{"id":"上海儿童艺术剧场","name":"上海儿童艺术剧场","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"演出场馆","address":"黄浦区苗江路800号","transport":"地铁4号线南浦大桥站","fee":"收费","description":"专为儿童设计的剧场，演出儿童剧、亲子剧等。","official_url":"","highlights":["儿童剧","亲子剧"]},{"id":"上海东方艺术中心","name":"上海东方艺术中心","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"演出场馆","address":"浦东新区丁香路425号","transport":"地铁2号线上海科技馆站","fee":"收费","description":"上海大型艺术中心，有音乐厅、歌剧院、美术馆等。","official_url":"","highlights":["音乐厅","歌剧院","艺术"]},{"id":"上海梅赛德斯奔驰文化中心","name":"上海梅赛德斯奔驰文化中心","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"演出场馆","address":"浦东新区世博大道1200号","transport":"地铁8号线中华艺术宫站","fee":"收费","description":"大型演艺场馆，举办演唱会、体育赛事等活动。","official_url":"","highlights":["演唱会","体育赛事"]},{"id":"上海八万人体育场","name":"上海八万人体育场","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"体育中心","address":"徐汇区漕溪北路1111号","transport":"地铁1号线上海体育馆站","fee":"收费","description":"上海大型体育场，举办足球比赛和大型活动。","official_url":"","highlights":["足球","体育赛事"]},{"id":"上海体育馆","name":"上海体育馆","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"体育中心","address":"徐汇区漕溪北路1111号","transport":"地铁1号线上海体育馆站","fee":"收费","description":"大型室内体育馆，举办篮球比赛和演唱会。","official_url":"","highlights":["篮球","演唱会"]},{"id":"上海源深体育中心","name":"上海源深体育中心","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"体育中心","address":"浦东新区源深路655号","transport":"地铁6号线源深体育中心站","fee":"收费","description":"浦东新区大型体育中心，有体育馆、游泳馆等设施。","official_url":"","highlights":["体育","游泳","场馆"]},{"id":"上海浦东游泳馆","name":"上海浦东游泳馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"体育中心","address":"浦东新区浦东南路3669号","transport":"地铁7号线云台路站","fee":"收费","description":"浦东新区大型游泳馆，有游泳培训和休闲设施。","official_url":"","highlights":["游泳","培训"]},{"id":"上海静安体育中心","name":"上海静安体育中心","source":"上海本地宝","city":"shanghai","district":"静安区","type":"体育中心","address":"静安区汶水路116号","transport":"地铁1号线汶水路站","fee":"收费","description":"静安区大型体育中心，有体育馆、游泳馆等设施。","official_url":"","highlights":["体育","游泳","场馆"]},{"id":"上海长风公园","name":"上海长风公园","source":"上海本地宝","city":"shanghai","district":"普陀区","type":"公园","address":"普陀区大渡河路189号","transport":"地铁15号线长风公园站","fee":"免费","description":"大型城市公园，有银锄湖、铁臂山，还有长风海洋世界。","official_url":"","highlights":["湖景","海洋世界","免费"]},{"id":"上海中山公园","name":"上海中山公园","source":"上海本地宝","city":"shanghai","district":"长宁区","type":"公园","address":"长宁区长宁路780号","transport":"地铁2/3/4号线中山公园站","fee":"免费","description":"上海著名的城市公园，有草坪、湖景、游乐场等。","official_url":"","highlights":["草坪","湖景","游乐场","免费"]},{"id":"上海人民公园","name":"上海人民公园","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"公园","address":"黄浦区南京西路231号","transport":"地铁1号线人民广场站","fee":"免费","description":"位于人民广场的公园，有草坪、湖景、相亲角等。","official_url":"","highlights":["草坪","湖景","相亲角","免费"]},{"id":"上海外滩","name":"上海外滩","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"公园","address":"黄浦区中山东一路","transport":"地铁10号线南京东路站","fee":"免费","description":"上海标志性景点，有万国建筑博览群和黄浦江景。","official_url":"","highlights":["万国建筑","黄浦江","夜景","免费"]},{"id":"上海陆家嘴","name":"上海陆家嘴","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区陆家嘴","transport":"地铁2号线陆家嘴站","fee":"免费","description":"上海金融中心，有东方明珠、上海中心、金茂大厦等建筑。","official_url":"","highlights":["金融中心","地标建筑","免费"]},{"id":"上海南京东路步行街","name":"上海南京东路步行街","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"文化中心","address":"黄浦区南京东路","transport":"地铁1/2/8号线人民广场站","fee":"免费","description":"上海著名的商业步行街，有购物、餐饮、娱乐等。","official_url":"","highlights":["购物","餐饮","商业"]},{"id":"上海淮海中路","name":"上海淮海中路","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"文化中心","address":"黄浦区淮海中路","transport":"地铁10号线陕西南路站","fee":"免费","description":"上海著名的商业街，有高端购物和特色建筑。","official_url":"","highlights":["高端购物","特色建筑"]},{"id":"上海徐家汇商圈","name":"上海徐家汇商圈","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"文化中心","address":"徐汇区徐家汇","transport":"地铁1/9/11号线徐家汇站","fee":"免费","description":"上海重要的商业中心，有多个商场和文化设施。","official_url":"","highlights":["商业中心","购物","文化"]},{"id":"上海静安寺","name":"上海静安寺","source":"上海本地宝","city":"shanghai","district":"静安区","type":"文化中心","address":"静安区静安寺","transport":"地铁2/7号线静安寺站","fee":"收费","description":"上海著名的佛教寺庙，有古建筑和宗教活动。","official_url":"","highlights":["佛教寺庙","古建筑","宗教"]},{"id":"上海城隍庙","name":"上海城隍庙","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"文化中心","address":"黄浦区方浜中路249号","transport":"地铁10号线豫园站","fee":"收费","description":"上海著名的道教寺庙，有古建筑和传统商业街。","official_url":"","highlights":["道教寺庙","古建筑","商业街"]},{"id":"上海豫园","name":"上海豫园","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"公园","address":"黄浦区豫园路100号","transport":"地铁10号线豫园站","fee":"收费","description":"上海著名的古典园林，有亭台楼阁和假山流水。","official_url":"","highlights":["古典园林","亭台楼阁","假山"]},{"id":"上海古猗园","name":"上海古猗园","source":"上海本地宝","city":"shanghai","district":"嘉定区","type":"公园","address":"嘉定区南翔镇","transport":"地铁11号线南翔站","fee":"收费","description":"上海著名的古典园林，以猗猗绿竹闻名。","official_url":"","highlights":["古典园林","竹子","南翔"]},{"id":"上海大观园","name":"上海大观园","source":"上海本地宝","city":"shanghai","district":"青浦区","type":"公园","address":"青浦区金商公路701号","transport":"自驾","fee":"收费","description":"以红楼梦为主题的古典园林，有大观园景区和淀山湖。","official_url":"","highlights":["红楼梦","古典园林","淀山湖"]},{"id":"上海朱家角古镇","name":"上海朱家角古镇","source":"上海本地宝","city":"shanghai","district":"青浦区","type":"文化中心","address":"青浦区朱家角镇","transport":"地铁17号线朱家角站","fee":"免费","description":"上海著名的水乡古镇，有小桥流水和传统建筑。","official_url":"","highlights":["水乡古镇","小桥流水","免费"]},{"id":"上海枫泾古镇","name":"上海枫泾古镇","source":"上海本地宝","city":"shanghai","district":"金山区","type":"文化中心","address":"金山区枫泾镇","transport":"自驾","fee":"收费","description":"上海著名的水乡古镇，有传统建筑和特色美食。","official_url":"","highlights":["水乡古镇","传统建筑","美食"]},{"id":"上海七宝古镇","name":"上海七宝古镇","source":"上海本地宝","city":"shanghai","district":"闵行区","type":"文化中心","address":"闵行区七宝镇","transport":"地铁9号线七宝站","fee":"免费","description":"上海著名的古镇，有传统建筑和特色小吃。","official_url":"","highlights":["古镇","传统建筑","小吃","免费"]},{"id":"上海田子坊","name":"上海田子坊","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"文化中心","address":"黄浦区泰康路210弄","transport":"地铁9号线打浦桥站","fee":"免费","description":"上海文艺创意街区，有画廊、工作室、特色小店等。","official_url":"","highlights":["文艺创意","画廊","特色小店","免费"]},{"id":"上海新天地","name":"上海新天地","source":"上海本地宝","city":"shanghai","district":"黄浦区","type":"文化中心","address":"黄浦区太仓路181弄","transport":"地铁10号线新天地站","fee":"免费","description":"上海著名的休闲街区，有石库门建筑和现代商业。","official_url":"","highlights":["石库门","休闲","商业","免费"]},{"id":"杭州西湖","name":"杭州西湖","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西湖街道","transport":"地铁1号线龙翔桥站","fee":"免费","description":"杭州标志性景点，西湖十景闻名天下，可游船、散步、参观周边景点。","official_url":"","highlights":["西湖十景","游船","白堤苏堤","免费"]},{"id":"杭州灵隐寺","name":"杭州灵隐寺","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区灵隐路法云弄1号","transport":"公交7路","fee":"收费","description":"杭州著名的佛教寺庙，有古建筑和自然风光。","official_url":"","highlights":["佛教寺庙","古建筑","自然风光"]},{"id":"杭州雷峰塔","name":"杭州雷峰塔","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区南山路15号","transport":"公交Y2路","fee":"收费","description":"杭州著名的古塔，登上塔顶可俯瞰西湖全景。","official_url":"","highlights":["古塔","俯瞰西湖"]},{"id":"杭州岳庙","name":"杭州岳庙","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区北山路80号","transport":"公交Y2路","fee":"收费","description":"纪念民族英雄岳飞的庙宇，展示岳飞生平事迹。","official_url":"","highlights":["岳飞","民族英雄","历史"]},{"id":"杭州六和塔","name":"杭州六和塔","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区之江路16号","transport":"公交308路","fee":"收费","description":"杭州著名的古塔，位于钱塘江畔，可登高望远。","official_url":"","highlights":["古塔","钱塘江","登高"]},{"id":"杭州虎跑公园","name":"杭州虎跑公园","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区虎跑路39号","transport":"公交4路","fee":"收费","description":"以虎跑泉闻名的公园，有泉水、茶园、自然风光。","official_url":"","highlights":["虎跑泉","茶园","自然风光"]},{"id":"杭州九溪烟树","name":"杭州九溪烟树","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区九溪路","transport":"公交308路","fee":"免费","description":"杭州著名的自然景区，有溪流、茶园、瀑布，适合徒步。","official_url":"","highlights":["溪流","茶园","瀑布","徒步","免费"]},{"id":"杭州云栖竹径","name":"杭州云栖竹径","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区梅灵南路8号","transport":"公交324路","fee":"收费","description":"以竹林为特色的景区，有石板路、溪流、竹林，环境清幽。","official_url":"","highlights":["竹林","清幽","自然风光"]},{"id":"杭州龙井村","name":"杭州龙井村","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区龙井路","transport":"公交27路","fee":"免费","description":"杭州著名的龙井茶产地，有茶园、农家、茶文化体验。","official_url":"","highlights":["龙井茶","茶园","茶文化","免费"]},{"id":"杭州满陇桂雨","name":"杭州满陇桂雨","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区满觉陇路","transport":"公交Y2路","fee":"免费","description":"以桂花闻名的景区，秋季桂花盛开时香气扑鼻。","official_url":"","highlights":["桂花","秋季","免费"]},{"id":"杭州太子湾公园","name":"杭州太子湾公园","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区南山路5-1号","transport":"公交Y2路","fee":"免费","description":"杭州著名的赏花公园，春季樱花和郁金香盛开。","official_url":"","highlights":["樱花","郁金香","赏花","免费"]},{"id":"杭州花港观鱼","name":"杭州花港观鱼","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区杨公堤","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，有牡丹园、红鱼池等景点。","official_url":"","highlights":["红鱼池","牡丹园","西湖十景","免费"]},{"id":"杭州苏堤","name":"杭州苏堤","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区苏堤","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，苏轼修建的长堤，适合散步和观赏西湖美景。","official_url":"","highlights":["苏堤春晓","散步","西湖美景","免费"]},{"id":"杭州白堤","name":"杭州白堤","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区白堤","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，白居易修建的长堤，有断桥残雪等景点。","official_url":"","highlights":["断桥残雪","散步","西湖美景","免费"]},{"id":"杭州曲院风荷","name":"杭州曲院风荷","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区北山路","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，夏季荷花盛开，景色优美。","official_url":"","highlights":["荷花","夏季","西湖十景","免费"]},{"id":"杭州平湖秋月","name":"杭州平湖秋月","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区白堤西端","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，秋季赏月的好去处。","official_url":"","highlights":["赏月","秋季","西湖十景","免费"]},{"id":"杭州柳浪闻莺","name":"杭州柳浪闻莺","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区南山路","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，有柳树和草坪，适合休闲散步。","official_url":"","highlights":["柳树","草坪","西湖十景","免费"]},{"id":"杭州南屏晚钟","name":"杭州南屏晚钟","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区南山路","transport":"公交Y2路","fee":"收费","description":"西湖十景之一，以南屏山和净慈寺钟声闻名。","official_url":"","highlights":["净慈寺","钟声","西湖十景"]},{"id":"杭州双峰插云","name":"杭州双峰插云","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区灵隐路","transport":"公交7路","fee":"免费","description":"西湖十景之一，以南高峰和北高峰闻名。","official_url":"","highlights":["南北高峰","西湖十景","免费"]},{"id":"杭州吴山天风","name":"杭州吴山天风","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"公园","address":"上城区吴山路","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，位于吴山，可登高远眺西湖。","official_url":"","highlights":["吴山","登高","西湖十景","免费"]},{"id":"杭州涌金公园","name":"杭州涌金公园","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"公园","address":"上城区涌金路","transport":"公交Y2路","fee":"免费","description":"位于西湖边的公园，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"杭州钱王祠","name":"杭州钱王祠","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"博物馆","address":"上城区钱王祠路","transport":"公交Y2路","fee":"收费","description":"纪念吴越国王钱镠的祠堂，展示吴越历史文化。","official_url":"","highlights":["吴越历史","钱镠","文化"]},{"id":"杭州鼓楼","name":"杭州鼓楼","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"文化中心","address":"上城区中山南路200号","transport":"公交Y2路","fee":"免费","description":"杭州古城的南门城楼，有鼓楼和历史展览。","official_url":"","highlights":["古城楼","历史展览","免费"]},{"id":"杭州河坊街","name":"杭州河坊街","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"文化中心","address":"上城区河坊街","transport":"公交Y2路","fee":"免费","description":"杭州著名的历史街区，有传统店铺、特色小吃和老字号。","official_url":"","highlights":["历史街区","特色小吃","老字号","免费"]},{"id":"杭州南宋御街","name":"杭州南宋御街","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"文化中心","address":"上城区中山中路","transport":"公交Y2路","fee":"免费","description":"南宋时期的皇家御街，有历史建筑和现代商业。","official_url":"","highlights":["南宋历史","历史建筑","商业","免费"]},{"id":"杭州湖滨银泰","name":"杭州湖滨银泰","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"文化中心","address":"上城区延安路","transport":"地铁1号线龙翔桥站","fee":"免费","description":"西湖边的大型购物中心，有购物、餐饮、娱乐等设施。","official_url":"","highlights":["购物","餐饮","西湖边"]},{"id":"杭州武林广场","name":"杭州武林广场","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区武林广场","transport":"地铁1号线武林广场站","fee":"免费","description":"杭州的商业中心，有大型商场和文化设施。","official_url":"","highlights":["商业中心","购物","文化"]},{"id":"杭州运河广场","name":"杭州运河广场","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区金华路","transport":"地铁5号线大运河站","fee":"免费","description":"位于京杭大运河畔的广场，有运河博物馆和文化设施。","official_url":"","highlights":["大运河","运河博物馆","免费"]},{"id":"杭州小河直街","name":"杭州小河直街","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区小河直街","transport":"公交151路","fee":"免费","description":"京杭大运河畔的历史街区，有传统建筑和特色小店。","official_url":"","highlights":["历史街区","运河","特色小店","免费"]},{"id":"杭州桥西直街","name":"杭州桥西直街","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区桥西直街","transport":"公交151路","fee":"免费","description":"京杭大运河畔的历史街区，有博物馆和文创店铺。","official_url":"","highlights":["历史街区","运河","博物馆","免费"]},{"id":"杭州拱宸桥","name":"杭州拱宸桥","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区桥弄街","transport":"公交151路","fee":"免费","description":"京杭大运河上的古桥，是杭州的标志性建筑之一。","official_url":"","highlights":["古桥","大运河","地标","免费"]},{"id":"杭州西溪湿地东区","name":"杭州西溪湿地东区","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区天目山路518号","transport":"地铁3号线西溪湿地南站","fee":"收费","description":"西溪国家湿地公园的东区，有湿地景观和文化景点。","official_url":"","highlights":["湿地","自然景观","文化"]},{"id":"杭州西溪湿地西区","name":"杭州西溪湿地西区","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区文二西路","transport":"地铁3号线西溪湿地北站","fee":"收费","description":"西溪国家湿地公园的西区，有湿地景观和自然生态。","official_url":"","highlights":["湿地","自然生态","景观"]},{"id":"杭州湘湖","name":"杭州湘湖","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"公园","address":"萧山区湘湖路","transport":"地铁1号线湘湖站","fee":"免费","description":"杭州的姊妹湖，有湖景和历史文化景点，适合休闲游玩。","official_url":"","highlights":["湖景","历史文化","休闲","免费"]},{"id":"杭州极地海洋世界","name":"杭州极地海洋世界","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"科普馆","address":"萧山区湘湖路777号","transport":"地铁1号线湘湖站","fee":"收费","description":"大型海洋主题公园，有极地动物、海洋生物和表演。","official_url":"","highlights":["极地动物","海洋生物","表演"]},{"id":"杭州跨湖桥遗址博物馆","name":"杭州跨湖桥遗址博物馆","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"博物馆","address":"萧山区湘湖路978号","transport":"地铁1号线湘湖站","fee":"免费","description":"展示跨湖桥遗址文物，包括8000年前的独木舟。","official_url":"","highlights":["独木舟","8000年历史","文物","免费"]},{"id":"杭州奥体中心","name":"杭州奥体中心","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"体育中心","address":"滨江区奥体街","transport":"地铁6号线奥体中心站","fee":"收费","description":"杭州2022年亚运会主会场，有体育场、体育馆等设施。","official_url":"","highlights":["亚运会","体育场","地标"]},{"id":"杭州滨江公园","name":"杭州滨江公园","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"公园","address":"滨江区闻涛路","transport":"地铁6号线江汉路站","fee":"免费","description":"位于钱塘江畔的公园，有江景和绿道，适合骑行和散步。","official_url":"","highlights":["江景","绿道","骑行","免费"]},{"id":"杭州梦想小镇","name":"杭州梦想小镇","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"文化中心","address":"余杭区仓前街道","transport":"地铁5号线良睦路站","fee":"免费","description":"杭州的创业创新小镇，有创业孵化和文化设施。","official_url":"","highlights":["创业创新","文化","免费"]},{"id":"杭州未来科技城","name":"杭州未来科技城","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"文化中心","address":"余杭区文一西路","transport":"地铁5号线良睦路站","fee":"免费","description":"杭州的科技新城，有现代化建筑和科技企业。","official_url":"","highlights":["科技","现代化","免费"]},{"id":"杭州临平新城","name":"杭州临平新城","source":"杭州本地宝","city":"hangzhou","district":"临平区","type":"文化中心","address":"临平区迎宾路","transport":"地铁9号线临平站","fee":"免费","description":"杭州临平区的新城，有商业和文化设施。","official_url":"","highlights":["商业","文化","免费"]},{"id":"杭州九堡大桥","name":"杭州九堡大桥","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"文化中心","address":"江干区九堡","transport":"地铁1号线九堡站","fee":"免费","description":"横跨钱塘江的大桥，适合观赏江景。","official_url":"","highlights":["大桥","江景","免费"]},{"id":"杭州钱江新城","name":"杭州钱江新城","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"文化中心","address":"江干区富春路","transport":"地铁4号线市民中心站","fee":"免费","description":"杭州的新城区，有现代化建筑和城市景观。","official_url":"","highlights":["现代化","城市景观","免费"]},{"id":"杭州城市阳台","name":"杭州城市阳台","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"文化中心","address":"江干区富春路","transport":"地铁4号线市民中心站","fee":"免费","description":"位于钱塘江畔的观景平台，可观赏江景和城市天际线。","official_url":"","highlights":["江景","城市天际线","观景","免费"]},{"id":"杭州大剧院","name":"杭州大剧院","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"演出场馆","address":"江干区新业路39号","transport":"地铁4号线市民中心站","fee":"收费","description":"杭州标志性剧院，举办歌剧、音乐剧、音乐会等演出。","official_url":"","highlights":["歌剧","音乐剧","建筑设计"]},{"id":"杭州国际会议中心","name":"杭州国际会议中心","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"会展中心","address":"江干区富春路","transport":"地铁4号线市民中心站","fee":"收费","description":"杭州大型会议中心，举办各类会议和展览。","official_url":"","highlights":["会议","展览"]},{"id":"杭州奥体博览城","name":"杭州奥体博览城","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"会展中心","address":"滨江区江南大道","transport":"地铁6号线奥体中心站","fee":"收费","description":"集体育、会展、文化于一体的大型综合体。","official_url":"","highlights":["体育","会展","文化"]},{"id":"杭州白马湖国际会展中心","name":"杭州白马湖国际会展中心","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"会展中心","address":"滨江区长江南路","transport":"公交137路","fee":"收费","description":"举办各类展览和活动，包括动漫节等。","official_url":"","highlights":["展览","动漫节"]},{"id":"杭州之江文化中心","name":"杭州之江文化中心","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区江涵路300号","transport":"地铁6号线枫桦西路站","fee":"免费","description":"集博物馆、图书馆、美术馆、非遗馆于一体的文化综合体。","official_url":"","highlights":["文化综合体","博物馆","图书馆","免费"]},{"id":"杭州文学馆","name":"杭州文学馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区江涵路300号之江文化中心","transport":"地铁6号线枫桦西路站","fee":"免费","description":"展示浙江文学历史和作品，有文学展览和活动。","official_url":"","highlights":["文学","展览","免费"]},{"id":"北京城市图书馆","name":"北京城市图书馆","source":"北京本地宝","city":"beijing","district":"通州区","type":"图书馆","address":"通州区新华东街","transport":"地铁6号线北运河西站","fee":"免费","description":"北京城市副中心的大型图书馆，建筑设计独特，有丰富的阅读空间。","official_url":"","highlights":["阅读空间","建筑设计","免费"]},{"id":"北京环球度假区","name":"北京环球度假区","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区环球大道","transport":"地铁7号线环球度假区站","fee":"收费","description":"大型主题度假区，有哈利波特、变形金刚、小黄人等主题园区。","official_url":"","highlights":["哈利波特","变形金刚","主题乐园"]},{"id":"北京运河奥体公园","name":"北京运河奥体公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区运河奥体公园","transport":"地铁6号线北运河西站","fee":"免费","description":"位于通州区的运河公园，有运河景观和体育设施。","official_url":"","highlights":["运河","体育设施","免费"]},{"id":"北京西海子公园","name":"北京西海子公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区新华北路","transport":"地铁6号线通州北关站","fee":"免费","description":"通州区的城市公园，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"北京运河森林公园","name":"北京运河森林公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区运河西大街","transport":"地铁6号线通州北关站","fee":"免费","description":"大型森林公园，有运河绿道和自然景观。","official_url":"","highlights":["森林","绿道","自然","免费"]},{"id":"北京东郊湿地公园","name":"北京东郊湿地公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区宋庄镇","transport":"公交","fee":"免费","description":"大型湿地公园，有湿地景观和自然生态。","official_url":"","highlights":["湿地","自然生态","免费"]},{"id":"北京张家湾公园","name":"北京张家湾公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区张家湾镇","transport":"公交","fee":"免费","description":"位于张家湾镇的公园，有运河景观和休闲设施。","official_url":"","highlights":["运河","休闲","免费"]},{"id":"北京台湖公园","name":"北京台湖公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区台湖镇","transport":"地铁7号线台湖站","fee":"免费","description":"位于台湖镇的公园，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"北京月亮河公园","name":"北京月亮河公园","source":"北京本地宝","city":"beijing","district":"通州区","type":"公园","address":"通州区月亮河河滨路","transport":"地铁6号线北运河东站","fee":"免费","description":"运河畔的公园，有河景和休闲设施。","official_url":"","highlights":["河景","休闲","免费"]},{"id":"北京路县故城遗址","name":"北京路县故城遗址","source":"北京本地宝","city":"beijing","district":"通州区","type":"博物馆","address":"通州区潞城镇","transport":"地铁6号线潞城站","fee":"免费","description":"汉代路县故城遗址，展示北京城市历史。","official_url":"","highlights":["汉代遗址","历史","免费"]},{"id":"北京通州博物馆","name":"北京通州博物馆","source":"北京本地宝","city":"beijing","district":"通州区","type":"博物馆","address":"通州区西大街","transport":"地铁6号线通州西站","fee":"免费","description":"展示通州历史文化和文物。","official_url":"","highlights":["通州历史","文物","免费"]},{"id":"北京汉石桥湿地","name":"北京汉石桥湿地","source":"北京本地宝","city":"beijing","district":"顺义区","type":"公园","address":"顺义区杨镇","transport":"公交","fee":"免费","description":"北京最大的湿地自然保护区，有芦苇荡和候鸟栖息地。","official_url":"","highlights":["湿地","候鸟","自然","免费"]},{"id":"北京奥林匹克水上公园","name":"北京奥林匹克水上公园","source":"北京本地宝","city":"beijing","district":"顺义区","type":"体育中心","address":"顺义区白马路","transport":"公交","fee":"收费","description":"2008年奥运会水上项目举办地，有水上运动和休闲设施。","official_url":"","highlights":["水上运动","奥运会","休闲"]},{"id":"北京顺义公园","name":"北京顺义公园","source":"北京本地宝","city":"beijing","district":"顺义区","type":"公园","address":"顺义区光明南街","transport":"公交","fee":"免费","description":"顺义区的城市公园，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"北京顺义新城滨河森林公园","name":"北京顺义新城滨河森林公园","source":"北京本地宝","city":"beijing","district":"顺义区","type":"公园","address":"顺义区潮白河","transport":"公交","fee":"免费","description":"沿潮白河的森林公园，有绿道和自然景观。","official_url":"","highlights":["森林","绿道","自然","免费"]},{"id":"北京国际鲜花港","name":"北京国际鲜花港","source":"北京本地宝","city":"beijing","district":"顺义区","type":"公园","address":"顺义区杨镇","transport":"公交","fee":"收费","description":"大型花卉展览园区，四季有不同花卉展示。","official_url":"","highlights":["花卉","展览","四季"]},{"id":"北京张裕爱斐堡国际酒庄","name":"北京张裕爱斐堡国际酒庄","source":"北京本地宝","city":"beijing","district":"密云区","type":"文化中心","address":"密云区巨各庄镇","transport":"公交","fee":"收费","description":"欧式风格的酒庄，有葡萄酒文化体验和城堡建筑。","official_url":"","highlights":["酒庄","葡萄酒","欧式建筑"]},{"id":"北京古北水镇","name":"北京古北水镇","source":"北京本地宝","city":"beijing","district":"密云区","type":"文化中心","address":"密云区古北口镇","transport":"公交","fee":"收费","description":"北方水乡古镇，有古建筑、温泉、夜景等。","official_url":"","highlights":["水乡古镇","温泉","夜景"]},{"id":"北京司马台长城","name":"北京司马台长城","source":"北京本地宝","city":"beijing","district":"密云区","type":"文化中心","address":"密云区古北口镇","transport":"公交","fee":"收费","description":"中国唯一保留明代原貌的长城，以险峻著称。","official_url":"","highlights":["长城","险峻","明代"]},{"id":"北京黑龙潭景区","name":"北京黑龙潭景区","source":"北京本地宝","city":"beijing","district":"密云区","type":"公园","address":"密云区石城镇","transport":"公交","fee":"收费","description":"有瀑布和潭水的自然景区，适合避暑。","official_url":"","highlights":["瀑布","潭水","避暑"]},{"id":"北京云蒙山景区","name":"北京云蒙山景区","source":"北京本地宝","city":"beijing","district":"密云区","type":"公园","address":"密云区石城镇","transport":"公交","fee":"收费","description":"有高山、森林、瀑布的自然景区，适合登山。","official_url":"","highlights":["高山","森林","登山"]},{"id":"北京雾灵山景区","name":"北京雾灵山景区","source":"北京本地宝","city":"beijing","district":"密云区","type":"公园","address":"密云区新城子镇","transport":"公交","fee":"收费","description":"北京最高峰，有森林、云海、日出等景观。","official_url":"","highlights":["最高峰","森林","云海"]},{"id":"北京金海湖景区","name":"北京金海湖景区","source":"北京本地宝","city":"beijing","district":"平谷区","type":"公园","address":"平谷区金海湖镇","transport":"公交","fee":"收费","description":"有湖景和水上运动的景区，适合度假。","official_url":"","highlights":["湖景","水上运动","度假"]},{"id":"北京京东大峡谷","name":"北京京东大峡谷","source":"北京本地宝","city":"beijing","district":"平谷区","type":"公园","address":"平谷区山东庄镇","transport":"公交","fee":"收费","description":"有峡谷、瀑布、潭水的自然景区。","official_url":"","highlights":["峡谷","瀑布","自然"]},{"id":"北京石林峡景区","name":"北京石林峡景区","source":"北京本地宝","city":"beijing","district":"平谷区","type":"公园","address":"平谷区黄松峪乡","transport":"公交","fee":"收费","description":"以石林和峡谷为特色的自然景区。","official_url":"","highlights":["石林","峡谷","自然"]},{"id":"广州北京路天河城","name":"广州北京路天河城","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"文化中心","address":"越秀区北京路","transport":"地铁1号线公园前站","fee":"免费","description":"北京路商圈的购物中心，有购物、餐饮等设施。","official_url":"","highlights":["购物","餐饮","北京路"]},{"id":"广州天河城百货","name":"广州天河城百货","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区天河路208号","transport":"地铁3号线体育西路站","fee":"免费","description":"天河区的大型百货商场，有购物、餐饮等设施。","official_url":"","highlights":["购物","餐饮"]},{"id":"广州太古汇商场","name":"广州太古汇商场","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区天河路383号","transport":"地铁3号线石牌桥站","fee":"免费","description":"高端购物中心，有奢侈品品牌和特色餐饮。","official_url":"","highlights":["高端购物","奢侈品"]},{"id":"广州维多利广场","name":"广州维多利广场","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区体育西路103号","transport":"地铁3号线体育西路站","fee":"免费","description":"天河商圈的购物中心，有购物、餐饮等设施。","official_url":"","highlights":["购物","餐饮"]},{"id":"广州天河体育中心","name":"广州天河体育中心","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"体育中心","address":"天河区天河路299号","transport":"地铁1号线体育西路站","fee":"收费","description":"广州大型体育中心，有体育场、体育馆、游泳馆等设施。","official_url":"","highlights":["体育赛事","游泳","场馆"]},{"id":"广州珠江新城","name":"广州珠江新城","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区珠江新城","transport":"地铁3号线珠江新城站","fee":"免费","description":"广州的新城区，有现代化建筑和城市景观。","official_url":"","highlights":["现代化","城市景观","免费"]},{"id":"广州花城广场","name":"广州花城广场","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区珠江新城","transport":"地铁3号线珠江新城站","fee":"免费","description":"广州的城市广场，有音乐喷泉和城市景观。","official_url":"","highlights":["音乐喷泉","城市景观","免费"]},{"id":"广州海心沙","name":"广州海心沙","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区珠江新城","transport":"地铁APM线海心沙站","fee":"免费","description":"珠江中的小岛，有亚运会开闭幕式场地和城市景观。","official_url":"","highlights":["亚运会","城市景观","免费"]},{"id":"广州琶洲会展中心","name":"广州琶洲会展中心","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"会展中心","address":"海珠区阅江中路","transport":"地铁8号线琶洲站","fee":"收费","description":"广州大型会展中心，举办广交会等大型展览。","official_url":"","highlights":["广交会","展览"]},{"id":"广州塔摩天轮","name":"广州塔摩天轮","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"文化中心","address":"海珠区阅江西路222号广州塔","transport":"地铁3号线广州塔站","fee":"收费","description":"广州塔顶部的摩天轮，可俯瞰广州全景。","official_url":"","highlights":["摩天轮","俯瞰广州"]},{"id":"广州塔极速云霄","name":"广州塔极速云霄","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"文化中心","address":"海珠区阅江西路222号广州塔","transport":"地铁3号线广州塔站","fee":"收费","description":"广州塔顶部的极速云霄项目，体验高空速降。","official_url":"","highlights":["极速云霄","高空体验"]},{"id":"广州塔户外观景平台","name":"广州塔户外观景平台","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"文化中心","address":"海珠区阅江西路222号广州塔","transport":"地铁3号线广州塔站","fee":"收费","description":"广州塔户外观景平台，可俯瞰广州全景和珠江。","official_url":"","highlights":["观景","俯瞰广州","珠江"]},{"id":"广州海心桥","name":"广州海心桥","source":"广州本地宝","city":"guangzhou","district":"天河区","type":"文化中心","address":"天河区珠江新城","transport":"地铁APM线海心沙站","fee":"免费","description":"横跨珠江的步行桥，连接广州塔和海心沙。","official_url":"","highlights":["步行桥","珠江","免费"]},{"id":"广州滨江公园","name":"广州滨江公园","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"公园","address":"海珠区滨江东路","transport":"地铁8号线晓港站","fee":"免费","description":"沿珠江的公园，有江景和绿道，适合散步和骑行。","official_url":"","highlights":["江景","绿道","骑行","免费"]},{"id":"广州二沙岛体育公园","name":"广州二沙岛体育公园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区二沙岛","transport":"地铁6号线东湖站","fee":"免费","description":"二沙岛上的体育公园，有运动设施和江景。","official_url":"","highlights":["体育","江景","免费"]},{"id":"广州二沙岛艺术公园","name":"广州二沙岛艺术公园","source":"广州本地宝","city":"guangzhou","district":"越秀区","type":"公园","address":"越秀区二沙岛","transport":"地铁6号线东湖站","fee":"免费","description":"二沙岛上的艺术公园，有雕塑和艺术装置。","official_url":"","highlights":["艺术","雕塑","免费"]},{"id":"广州海印公园","name":"广州海印公园","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"公园","address":"海珠区滨江东路","transport":"地铁8号线晓港站","fee":"免费","description":"位于珠江畔的公园，有江景和休闲设施。","official_url":"","highlights":["江景","休闲","免费"]},{"id":"广州晓港公园","name":"广州晓港公园","source":"广州本地宝","city":"guangzhou","district":"海珠区","type":"公园","address":"海珠区前进路","transport":"地铁8号线晓港站","fee":"免费","description":"有湖景和竹林的公园，环境清幽。","official_url":"","highlights":["湖景","竹林","清幽","免费"]},{"id":"广州黄埔公园","name":"广州黄埔公园","source":"广州本地宝","city":"guangzhou","district":"黄埔区","type":"公园","address":"黄埔区黄埔东路","transport":"地铁5号线大沙东站","fee":"免费","description":"黄埔区的城市公园，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"广州萝岗香雪公园","name":"广州萝岗香雪公园","source":"广州本地宝","city":"guangzhou","district":"黄埔区","type":"公园","address":"黄埔区萝岗街道","transport":"地铁6号线香雪站","fee":"免费","description":"以梅花闻名的公园，冬季梅花盛开时很美。","official_url":"","highlights":["梅花","冬季","免费"]},{"id":"广州天鹿湖森林公园","name":"广州天鹿湖森林公园","source":"广州本地宝","city":"guangzhou","district":"黄埔区","type":"公园","address":"黄埔区联和街道","transport":"公交","fee":"收费","description":"有森林、湖泊、瀑布的自然景区，适合徒步。","official_url":"","highlights":["森林","湖泊","徒步"]},{"id":"广州九龙湖度假区","name":"广州九龙湖度假区","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区花东镇","transport":"公交","fee":"收费","description":"大型度假区，有湖景、高尔夫、酒店等设施。","official_url":"","highlights":["湖景","高尔夫","度假"]},{"id":"广州花都石头记矿物园","name":"广州花都石头记矿物园","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"博物馆","address":"花都区珠宝城","transport":"公交","fee":"收费","description":"展示各种矿物和宝石的博物馆，有水晶、玉石等展品。","official_url":"","highlights":["矿物","宝石","水晶"]},{"id":"广州芙蓉嶂风景区","name":"广州芙蓉嶂风景区","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区狮岭镇","transport":"公交","fee":"收费","description":"有山、水、森林的自然景区，适合休闲度假。","official_url":"","highlights":["山水","森林","度假"]},{"id":"广州九龙潭森林公园","name":"广州九龙潭森林公园","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区北兴镇","transport":"公交","fee":"收费","description":"有森林、湖泊的自然景区，适合露营和休闲。","official_url":"","highlights":["森林","湖泊","露营"]},{"id":"上海科技馆主馆","name":"上海科技馆主馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"科技馆","address":"浦东新区世纪大道2000号","transport":"地铁2号线上海科技馆站","fee":"收费","description":"上海科技馆主馆，有多个主题展厅和互动体验。","official_url":"","highlights":["互动体验","科普","主题展厅"]},{"id":"上海东方明珠太空舱","name":"上海东方明珠太空舱","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区世纪大道1号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"东方明珠塔的太空舱，可俯瞰上海全景。","official_url":"","highlights":["太空舱","俯瞰上海"]},{"id":"上海东方明珠悬空观光廊","name":"上海东方明珠悬空观光廊","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区世纪大道1号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"东方明珠塔的悬空观光廊，体验高空玻璃栈道。","official_url":"","highlights":["悬空廊","玻璃栈道","高空"]},{"id":"上海中心大厦观光厅","name":"上海中心大厦观光厅","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区陆家嘴环路1000号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"上海中心大厦118层观光厅，可俯瞰上海全貌。","official_url":"","highlights":["118层","俯瞰上海","最高建筑"]},{"id":"上海金茂大厦观光厅","name":"上海金茂大厦观光厅","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区世纪大道88号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"金茂大厦88层观光厅，可俯瞰上海全景。","official_url":"","highlights":["88层","俯瞰上海"]},{"id":"上海环球金融中心观光厅","name":"上海环球金融中心观光厅","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区世纪大道100号","transport":"地铁2号线陆家嘴站","fee":"收费","description":"环球金融中心观光厅，可俯瞰上海全景。","official_url":"","highlights":["观光","俯瞰上海"]},{"id":"上海长风海洋世界","name":"上海长风海洋世界","source":"上海本地宝","city":"shanghai","district":"普陀区","type":"科普馆","address":"普陀区大渡河路451号","transport":"地铁15号线长风公园站","fee":"收费","description":"长风公园内的海洋世界，有白鲸表演和海底隧道。","official_url":"","highlights":["白鲸表演","海底隧道"]},{"id":"上海野生动物园车行区","name":"上海野生动物园车行区","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区南六公路178号","transport":"地铁16号线野生动物园站","fee":"收费","description":"上海野生动物园的车行区，可自驾或坐观光车游览猛兽区。","official_url":"","highlights":["猛兽区","自驾","观光车"]},{"id":"上海野生动物园步行区","name":"上海野生动物园步行区","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区南六公路178号","transport":"地铁16号线野生动物园站","fee":"收费","description":"上海野生动物园的步行区，可步行观赏和投喂动物。","official_url":"","highlights":["步行观赏","投喂动物"]},{"id":"上海海昌海洋公园虎鲸馆","name":"上海海昌海洋公园虎鲸馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"科普馆","address":"浦东新区银飞路166号","transport":"地铁16号线临港大道站","fee":"收费","description":"海昌海洋公园的虎鲸馆，有虎鲸表演和科普展示。","official_url":"","highlights":["虎鲸表演","科普"]},{"id":"上海海昌海洋公园北极熊馆","name":"上海海昌海洋公园北极熊馆","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"科普馆","address":"浦东新区银飞路166号","transport":"地铁16号线临港大道站","fee":"收费","description":"海昌海洋公园的北极熊馆，有北极熊和北极动物展示。","official_url":"","highlights":["北极熊","北极动物"]},{"id":"上海迪士尼乐园城堡","name":"上海迪士尼乐园城堡","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"上海迪士尼乐园的标志性城堡，有灯光秀和烟花表演。","official_url":"","highlights":["城堡","灯光秀","烟花"]},{"id":"上海迪士尼乐园明日世界","name":"上海迪士尼乐园明日世界","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"迪士尼乐园的明日世界园区，有创极速光轮等刺激项目。","official_url":"","highlights":["创极速光轮","刺激项目"]},{"id":"上海迪士尼乐园梦幻世界","name":"上海迪士尼乐园梦幻世界","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"迪士尼乐园的梦幻世界园区，有小熊维尼、小飞侠等亲子项目。","official_url":"","highlights":["小熊维尼","小飞侠","亲子"]},{"id":"上海迪士尼乐园宝藏湾","name":"上海迪士尼乐园宝藏湾","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"迪士尼乐园的宝藏湾园区，有加勒比海盗等项目。","official_url":"","highlights":["加勒比海盗","宝藏"]},{"id":"上海迪士尼乐园奇想花园","name":"上海迪士尼乐园奇想花园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"迪士尼乐园的奇想花园园区，有米奇大街和城堡。","official_url":"","highlights":["米奇大街","城堡"]},{"id":"上海迪士尼乐园探险岛","name":"上海迪士尼乐园探险岛","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"迪士尼乐园的探险岛园区，有雷鸣山漂流等项目。","official_url":"","highlights":["雷鸣山漂流","探险"]},{"id":"上海迪士尼乐园皮克斯玩具总动员","name":"上海迪士尼乐园皮克斯玩具总动员","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区川沙新镇黄赵路310号","transport":"地铁11号线迪士尼站","fee":"收费","description":"迪士尼乐园的皮克斯玩具总动员园区，有胡迪牛仔嘉年华等项目。","official_url":"","highlights":["皮克斯","玩具总动员","胡迪"]},{"id":"上海乐高乐园","name":"上海乐高乐园","source":"上海本地宝","city":"shanghai","district":"金山区","type":"公园","address":"金山区","transport":"自驾","fee":"收费","description":"大型乐高主题乐园，有乐高积木搭建的建筑和游乐设施。","official_url":"","highlights":["乐高","积木","主题乐园"]},{"id":"上海欢乐谷谷木游龙","name":"上海欢乐谷谷木游龙","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区林湖路888号","transport":"地铁9号线佘山站","fee":"收费","description":"欢乐谷的木质过山车，是上海著名的刺激项目。","official_url":"","highlights":["过山车","刺激"]},{"id":"上海欢乐谷玛雅海滩水公园","name":"上海欢乐谷玛雅海滩水公园","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区林湖路888号","transport":"地铁9号线佘山站","fee":"收费","description":"欢乐谷的水上乐园，有各种水上项目和造浪池。","official_url":"","highlights":["水上乐园","造浪池"]},{"id":"上海辰山植物园温室","name":"上海辰山植物园温室","source":"上海本地宝","city":"shanghai","district":"松江区","type":"科普馆","address":"松江区辰花公路3888号","transport":"地铁9号线洞泾站","fee":"收费","description":"辰山植物园的大型温室，展示热带和亚热带植物。","official_url":"","highlights":["温室","热带植物"]},{"id":"上海辰山植物园矿坑花园","name":"上海辰山植物园矿坑花园","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区辰花公路3888号","transport":"地铁9号线洞泾站","fee":"收费","description":"辰山植物园的矿坑花园，有瀑布和景观。","official_url":"","highlights":["矿坑","瀑布","景观"]},{"id":"上海松江大学城","name":"上海松江大学城","source":"上海本地宝","city":"shanghai","district":"松江区","type":"文化中心","address":"松江区大学城","transport":"地铁9号线松江大学城站","fee":"免费","description":"集中了多所大学的区域，有青春气息和文化设施。","official_url":"","highlights":["大学","青春","文化"]},{"id":"上海松江方塔园","name":"上海松江方塔园","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区中山东路","transport":"公交","fee":"收费","description":"有古塔和古典园林的公园，展示松江历史文化。","official_url":"","highlights":["古塔","古典园林","历史"]},{"id":"上海松江醉白池","name":"上海松江醉白池","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区人民南路","transport":"公交","fee":"收费","description":"松江著名的古典园林，有亭台楼阁和池塘。","official_url":"","highlights":["古典园林","亭台楼阁"]},{"id":"上海泰晤士小镇","name":"上海泰晤士小镇","source":"上海本地宝","city":"shanghai","district":"松江区","type":"文化中心","address":"松江区三新北路","transport":"公交","fee":"免费","description":"英式风格的小镇，有教堂、广场和商业设施。","official_url":"","highlights":["英式风格","教堂","拍照"]},{"id":"上海欢乐谷魔幻城堡","name":"上海欢乐谷魔幻城堡","source":"上海本地宝","city":"shanghai","district":"松江区","type":"公园","address":"松江区林湖路888号","transport":"地铁9号线佘山站","fee":"收费","description":"欢乐谷的魔幻城堡区，适合儿童游玩。","official_url":"","highlights":["魔幻城堡","儿童区"]},{"id":"杭州西湖音乐喷泉","name":"杭州西湖音乐喷泉","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区湖滨","transport":"地铁1号线龙翔桥站","fee":"免费","description":"西湖边的音乐喷泉，每晚有灯光和音乐表演。","official_url":"","highlights":["音乐喷泉","灯光表演","免费"]},{"id":"杭州西湖游船","name":"杭州西湖游船","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西湖","transport":"地铁1号线龙翔桥站","fee":"收费","description":"西湖游船，可游览西湖十景。","official_url":"","highlights":["游船","西湖十景"]},{"id":"杭州西湖三潭印月","name":"杭州西湖三潭印月","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西湖","transport":"游船","fee":"收费","description":"西湖十景之一，有三座石塔，是西湖的标志性景点。","official_url":"","highlights":["三潭印月","西湖十景","标志性"]},{"id":"杭州西湖湖心亭","name":"杭州西湖湖心亭","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西湖","transport":"游船","fee":"收费","description":"西湖中的小岛，有湖心亭和古建筑。","official_url":"","highlights":["湖心亭","小岛","古建筑"]},{"id":"杭州西湖阮公墩","name":"杭州西湖阮公墩","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西湖","transport":"游船","fee":"收费","description":"西湖中的小岛，有自然景观和休闲设施。","official_url":"","highlights":["小岛","自然景观"]},{"id":"杭州西湖杨公堤","name":"杭州西湖杨公堤","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区杨公堤","transport":"公交Y2路","fee":"免费","description":"西湖的长堤，有苏堤春晓和曲院风荷等景点。","official_url":"","highlights":["长堤","西湖十景","免费"]},{"id":"杭州西湖苏堤春晓","name":"杭州西湖苏堤春晓","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区苏堤","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，春季苏堤上柳树发芽，景色优美。","official_url":"","highlights":["春季","柳树","西湖十景","免费"]},{"id":"杭州西湖断桥残雪","name":"杭州西湖断桥残雪","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区白堤","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，冬季断桥上积雪，景色如画。","official_url":"","highlights":["冬季","雪景","西湖十景","免费"]},{"id":"杭州西湖雷峰夕照","name":"杭州西湖雷峰夕照","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区雷峰塔","transport":"公交Y2路","fee":"收费","description":"西湖十景之一，傍晚雷峰塔夕阳映照，景色优美。","official_url":"","highlights":["夕阳","雷峰塔","西湖十景"]},{"id":"杭州西湖南屏晚钟","name":"杭州西湖南屏晚钟","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区南屏山","transport":"公交Y2路","fee":"收费","description":"西湖十景之一，南屏山净慈寺的钟声。","official_url":"","highlights":["钟声","净慈寺","西湖十景"]},{"id":"杭州西湖曲院风荷","name":"杭州西湖曲院风荷","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区北山路","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，夏季荷花盛开，景色优美。","official_url":"","highlights":["荷花","夏季","西湖十景","免费"]},{"id":"杭州西湖花港观鱼","name":"杭州西湖花港观鱼","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区杨公堤","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，有红鱼池和牡丹园。","official_url":"","highlights":["红鱼池","牡丹园","西湖十景","免费"]},{"id":"杭州西湖柳浪闻莺","name":"杭州西湖柳浪闻莺","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区南山路","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，有柳树和草坪，适合休闲散步。","official_url":"","highlights":["柳树","草坪","西湖十景","免费"]},{"id":"杭州西湖双峰插云","name":"杭州西湖双峰插云","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区灵隐路","transport":"公交7路","fee":"免费","description":"西湖十景之一，以南高峰和北高峰闻名。","official_url":"","highlights":["南北高峰","西湖十景","免费"]},{"id":"杭州西湖平湖秋月","name":"杭州西湖平湖秋月","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区白堤西端","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，秋季赏月的好去处。","official_url":"","highlights":["赏月","秋季","西湖十景","免费"]},{"id":"杭州西湖吴山天风","name":"杭州西湖吴山天风","source":"杭州本地宝","city":"hangzhou","district":"上城区","type":"公园","address":"上城区吴山路","transport":"公交Y2路","fee":"免费","description":"西湖十景之一，位于吴山，可登高远眺西湖。","official_url":"","highlights":["吴山","登高","西湖十景","免费"]},{"id":"广州花都融创乐园","name":"广州花都融创乐园","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区花城大道","transport":"公交","fee":"收费","description":"大型主题乐园，有游乐设施和表演。","official_url":"","highlights":["主题乐园","游乐"]},{"id":"广州花都融创雪世界","name":"广州花都融创雪世界","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区花城大道","transport":"公交","fee":"收费","description":"室内滑雪场，可体验滑雪和冰雪世界。","official_url":"","highlights":["室内滑雪","冰雪"]},{"id":"广州花都融创水世界","name":"广州花都融创水世界","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"公园","address":"花都区花城大道","transport":"公交","fee":"收费","description":"室内水上乐园，有各种水上项目。","official_url":"","highlights":["水上乐园","室内"]},{"id":"广州花都融创体育世界","name":"广州花都融创体育世界","source":"广州本地宝","city":"guangzhou","district":"花都区","type":"体育中心","address":"花都区花城大道","transport":"公交","fee":"收费","description":"体育娱乐综合体，有篮球、足球、卡丁车等项目。","official_url":"","highlights":["体育","卡丁车"]},{"id":"广州从化流溪河国家森林公园","name":"广州从化流溪河国家森林公园","source":"广州本地宝","city":"guangzhou","district":"从化区","type":"公园","address":"从化区良口镇","transport":"自驾","fee":"收费","description":"有森林、湖泊、瀑布的自然景区。","official_url":"","highlights":["森林","湖泊","瀑布"]},{"id":"广州从化碧水湾温泉","name":"广州从化碧水湾温泉","source":"广州本地宝","city":"guangzhou","district":"从化区","type":"公园","address":"从化区良口镇","transport":"自驾","fee":"收费","description":"著名的温泉度假区，有各种温泉池。","official_url":"","highlights":["温泉","度假"]},{"id":"广州增城正果老街","name":"广州增城正果老街","source":"广州本地宝","city":"guangzhou","district":"增城区","type":"文化中心","address":"增城区正果镇","transport":"自驾","fee":"免费","description":"有古建筑和美食的老街，适合游玩和品尝。","official_url":"","highlights":["老街","美食","免费"]},{"id":"上海世纪公园","name":"上海世纪公园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区锦绣路1001号","transport":"地铁2号线世纪公园站","fee":"免费","description":"上海大型城市公园，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"上海陆家嘴中心绿地","name":"上海陆家嘴中心绿地","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区陆家嘴环路","transport":"地铁2号线陆家嘴站","fee":"免费","description":"陆家嘴金融中心的绿地，有草坪和城市景观。","official_url":"","highlights":["绿地","城市景观","免费"]},{"id":"上海滨江森林公园","name":"上海滨江森林公园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区高桥镇","transport":"公交","fee":"免费","description":"位于长江口的森林公园，有森林和江景。","official_url":"","highlights":["森林","江景","免费"]},{"id":"上海南汇嘴观海公园","name":"上海南汇嘴观海公园","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区南汇新城","transport":"公交","fee":"免费","description":"位于东海之滨的公园，可观赏大海和日出。","official_url":"","highlights":["观海","日出","免费"]},{"id":"上海滴水湖","name":"上海滴水湖","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"公园","address":"浦东新区南汇新城","transport":"地铁16号线滴水湖站","fee":"免费","description":"大型人工湖，有湖景和休闲设施。","official_url":"","highlights":["湖景","休闲","免费"]},{"id":"上海临港新城","name":"上海临港新城","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区南汇新城","transport":"地铁16号线滴水湖站","fee":"免费","description":"上海的新兴城区，有现代化建筑和城市景观。","official_url":"","highlights":["现代化","城市景观","免费"]},{"id":"上海海洋大学","name":"上海海洋大学","source":"上海本地宝","city":"shanghai","district":"浦东新区","type":"文化中心","address":"浦东新区沪城环路","transport":"地铁16号线临港大道站","fee":"免费","description":"上海海洋大学临港校区，有海洋博物馆和校园风光。","official_url":"","highlights":["海洋大学","博物馆"]},{"id":"上海上海大学","name":"上海上海大学","source":"上海本地宝","city":"shanghai","district":"宝山区","type":"文化中心","address":"宝山区上大路","transport":"地铁7号线上海大学站","fee":"免费","description":"上海大学宝山校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"上海同济大学","name":"上海同济大学","source":"上海本地宝","city":"shanghai","district":"杨浦区","type":"文化中心","address":"杨浦区四平路","transport":"地铁10号线同济大学站","fee":"免费","description":"同济大学四平路校区，有樱花和校园风光。","official_url":"","highlights":["大学","樱花","校园"]},{"id":"上海复旦大学","name":"上海复旦大学","source":"上海本地宝","city":"shanghai","district":"杨浦区","type":"文化中心","address":"杨浦区邯郸路","transport":"地铁10号线国权路站","fee":"免费","description":"复旦大学邯郸校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"上海交通大学","name":"上海交通大学","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"文化中心","address":"徐汇区华山路","transport":"地铁10号线交通大学站","fee":"免费","description":"上海交通大学徐汇校区，有历史建筑和校园风光。","official_url":"","highlights":["大学","历史建筑","校园"]},{"id":"上海华东师范大学","name":"上海华东师范大学","source":"上海本地宝","city":"shanghai","district":"闵行区","type":"文化中心","address":"闵行区东川路","transport":"地铁5号线东川路站","fee":"免费","description":"华东师范大学闵行校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"上海华东理工大学","name":"上海华东理工大学","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"文化中心","address":"徐汇区梅陇路","transport":"地铁15号线华东理工大学站","fee":"免费","description":"华东理工大学徐汇校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"上海上海师范大学","name":"上海上海师范大学","source":"上海本地宝","city":"shanghai","district":"徐汇区","type":"文化中心","address":"徐汇区桂林路","transport":"地铁9号线桂林路站","fee":"免费","description":"上海师范大学徐汇校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"上海上海理工大学","name":"上海上海理工大学","source":"上海本地宝","city":"shanghai","district":"杨浦区","type":"文化中心","address":"杨浦区军工路","transport":"公交","fee":"免费","description":"上海理工大学军工路校区，有历史建筑和校园风光。","official_url":"","highlights":["大学","历史建筑","校园"]},{"id":"上海东华大学","name":"上海东华大学","source":"上海本地宝","city":"shanghai","district":"松江区","type":"文化中心","address":"松江区人民北路","transport":"地铁9号线松江大学城站","fee":"免费","description":"东华大学松江校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"上海上海工程技术大学","name":"上海上海工程技术大学","source":"上海本地宝","city":"shanghai","district":"松江区","type":"文化中心","address":"松江区龙腾路","transport":"地铁9号线松江大学城站","fee":"免费","description":"上海工程技术大学松江校区，有校园风光和文化设施。","official_url":"","highlights":["大学","校园","文化"]},{"id":"杭州运河文化广场","name":"杭州运河文化广场","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区金华路","transport":"地铁5号线大运河站","fee":"免费","description":"运河边的文化广场，有博物馆和城市景观。","official_url":"","highlights":["运河","文化","免费"]},{"id":"杭州运河夜游","name":"杭州运河夜游","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区运河","transport":"地铁5号线大运河站","fee":"收费","description":"运河夜游，可观赏运河两岸夜景。","official_url":"","highlights":["夜游","运河","夜景"]},{"id":"杭州运河游船","name":"杭州运河游船","source":"杭州本地宝","city":"hangzhou","district":"拱墅区","type":"文化中心","address":"拱墅区运河","transport":"地铁5号线大运河站","fee":"收费","description":"运河游船，可游览运河两岸风光。","official_url":"","highlights":["游船","运河"]},{"id":"杭州西溪湿地摇橹船","name":"杭州西溪湿地摇橹船","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"公园","address":"西湖区西溪湿地","transport":"地铁3号线西溪湿地南站","fee":"收费","description":"西溪湿地摇橹船，可体验湿地风光。","official_url":"","highlights":["摇橹船","湿地"]},{"id":"杭州西溪湿地龙舟赛","name":"杭州西溪湿地龙舟赛","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"文化中心","address":"西湖区西溪湿地","transport":"地铁3号线西溪湿地南站","fee":"免费","description":"西溪湿地龙舟赛，每年端午节举办。","official_url":"","highlights":["龙舟赛","端午节","免费"]},{"id":"杭州西溪湿地植物园","name":"杭州西溪湿地植物园","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"科普馆","address":"西湖区西溪湿地","transport":"地铁3号线西溪湿地南站","fee":"免费","description":"西溪湿地内的植物园，展示各种湿地植物。","official_url":"","highlights":["植物园","湿地植物","免费"]},{"id":"杭州西溪湿地博物馆","name":"杭州西溪湿地博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区西溪湿地","transport":"地铁3号线西溪湿地南站","fee":"免费","description":"展示西溪湿地历史和生态的博物馆。","official_url":"","highlights":["博物馆","湿地","免费"]},{"id":"杭州湘湖游船","name":"杭州湘湖游船","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"公园","address":"萧山区湘湖","transport":"地铁1号线湘湖站","fee":"收费","description":"湘湖游船，可游览湘湖风光。","official_url":"","highlights":["游船","湘湖"]},{"id":"杭州湘湖音乐喷泉","name":"杭州湘湖音乐喷泉","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"文化中心","address":"萧山区湘湖","transport":"地铁1号线湘湖站","fee":"免费","description":"湘湖的音乐喷泉，有灯光和音乐表演。","official_url":"","highlights":["音乐喷泉","灯光","免费"]},{"id":"杭州极地海洋世界海豚表演","name":"杭州极地海洋世界海豚表演","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"科普馆","address":"萧山区湘湖路","transport":"地铁1号线湘湖站","fee":"收费","description":"极地海洋世界的海豚表演，精彩有趣。","official_url":"","highlights":["海豚表演","精彩"]},{"id":"杭州极地海洋世界白鲸表演","name":"杭州极地海洋世界白鲸表演","source":"杭州本地宝","city":"hangzhou","district":"萧山区","type":"科普馆","address":"萧山区湘湖路","transport":"地铁1号线湘湖站","fee":"收费","description":"极地海洋世界的白鲸表演，温馨感人。","official_url":"","highlights":["白鲸表演","温馨"]},{"id":"杭州奥体中心体育场","name":"杭州奥体中心体育场","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"体育中心","address":"滨江区江南大道","transport":"地铁6号线奥体中心站","fee":"收费","description":"杭州奥体中心的主体育场，举办大型体育赛事和演唱会。","official_url":"","highlights":["体育赛事","演唱会"]},{"id":"杭州奥体中心游泳馆","name":"杭州奥体中心游泳馆","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"体育中心","address":"滨江区江南大道","transport":"地铁6号线奥体中心站","fee":"收费","description":"杭州奥体中心的游泳馆，有游泳比赛和培训。","official_url":"","highlights":["游泳","比赛"]},{"id":"杭州奥体中心网球中心","name":"杭州奥体中心网球中心","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"体育中心","address":"滨江区江南大道","transport":"地铁6号线奥体中心站","fee":"收费","description":"杭州奥体中心的网球中心，举办网球比赛和培训。","official_url":"","highlights":["网球","比赛"]},{"id":"杭州梦想小镇创业大街","name":"杭州梦想小镇创业大街","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"文化中心","address":"余杭区文一西路","transport":"地铁5号线良睦路站","fee":"免费","description":"梦想小镇的创业大街，有创业咖啡馆和展示中心。","official_url":"","highlights":["创业","咖啡馆","免费"]},{"id":"杭州未来科技城梦想小镇","name":"杭州未来科技城梦想小镇","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"文化中心","address":"余杭区文一西路","transport":"地铁5号线良睦路站","fee":"免费","description":"未来科技城的梦想小镇，有创业孵化和文化设施。","official_url":"","highlights":["创业","科技","免费"]},{"id":"杭州未来科技城学术交流中心","name":"杭州未来科技城学术交流中心","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"会展中心","address":"余杭区文一西路","transport":"地铁5号线良睦路站","fee":"收费","description":"未来科技城的学术交流中心，举办学术会议和展览。","official_url":"","highlights":["学术会议","展览"]},{"id":"杭州未来科技城海创园","name":"杭州未来科技城海创园","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"文化中心","address":"余杭区文一西路","transport":"地铁5号线良睦路站","fee":"免费","description":"未来科技城的海创园，有创业孵化和科技展示。","official_url":"","highlights":["创业","科技","免费"]},{"id":"杭州未来科技城人才公园","name":"杭州未来科技城人才公园","source":"杭州本地宝","city":"hangzhou","district":"余杭区","type":"公园","address":"余杭区文一西路","transport":"地铁5号线良睦路站","fee":"免费","description":"未来科技城的人才公园，有休闲设施和景观。","official_url":"","highlights":["公园","休闲","免费"]},{"id":"杭州临平新城体育公园","name":"杭州临平新城体育公园","source":"杭州本地宝","city":"hangzhou","district":"临平区","type":"公园","address":"临平区","transport":"地铁9号线临平站","fee":"免费","description":"临平新城的体育公园，有运动设施和休闲空间。","official_url":"","highlights":["体育","休闲","免费"]},{"id":"杭州临平新城文化艺术中心","name":"杭州临平新城文化艺术中心","source":"杭州本地宝","city":"hangzhou","district":"临平区","type":"文化中心","address":"临平区","transport":"地铁9号线临平站","fee":"免费","description":"临平新城的文化艺术中心，有展览和演出。","official_url":"","highlights":["文化艺术","展览","免费"]},{"id":"杭州临平新城市民广场","name":"杭州临平新城市民广场","source":"杭州本地宝","city":"hangzhou","district":"临平区","type":"文化中心","address":"临平区","transport":"地铁9号线临平站","fee":"免费","description":"临平新城的市民广场，有休闲设施和城市景观。","official_url":"","highlights":["广场","休闲","免费"]},{"id":"杭州九堡大桥公园","name":"杭州九堡大桥公园","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"公园","address":"江干区九堡大桥","transport":"公交","fee":"免费","description":"九堡大桥附近的公园，有江景和休闲设施。","official_url":"","highlights":["江景","休闲","免费"]},{"id":"杭州钱江新城灯光秀","name":"杭州钱江新城灯光秀","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"文化中心","address":"江干区钱江新城","transport":"地铁4号线市民中心站","fee":"免费","description":"钱江新城的灯光秀，每晚有灯光表演。","official_url":"","highlights":["灯光秀","夜景","免费"]},{"id":"杭州城市阳台灯光秀","name":"杭州城市阳台灯光秀","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"文化中心","address":"江干区城市阳台","transport":"地铁4号线市民中心站","fee":"免费","description":"城市阳台的灯光秀，可观赏钱江新城夜景。","official_url":"","highlights":["灯光秀","夜景","免费"]},{"id":"杭州大剧院歌剧厅","name":"杭州大剧院歌剧厅","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"演出场馆","address":"江干区新业路","transport":"地铁4号线市民中心站","fee":"收费","description":"杭州大剧院的歌剧厅，举办歌剧和音乐会。","official_url":"","highlights":["歌剧","音乐会"]},{"id":"杭州大剧院音乐厅","name":"杭州大剧院音乐厅","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"演出场馆","address":"江干区新业路","transport":"地铁4号线市民中心站","fee":"收费","description":"杭州大剧院的音乐厅，举办交响乐和室内乐音乐会。","official_url":"","highlights":["交响乐","室内乐"]},{"id":"杭州国际会议中心大剧场","name":"杭州国际会议中心大剧场","source":"杭州本地宝","city":"hangzhou","district":"江干区","type":"演出场馆","address":"江干区新业路","transport":"地铁4号线市民中心站","fee":"收费","description":"杭州国际会议中心的大剧场，举办大型演出和会议。","official_url":"","highlights":["演出","会议"]},{"id":"杭州奥体博览城网球中心","name":"杭州奥体博览城网球中心","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"体育中心","address":"滨江区江南大道","transport":"地铁6号线奥体中心站","fee":"收费","description":"奥体博览城的网球中心，举办网球比赛和培训。","official_url":"","highlights":["网球","比赛"]},{"id":"杭州奥体博览城游泳馆","name":"杭州奥体博览城游泳馆","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"体育中心","address":"滨江区江南大道","transport":"地铁6号线奥体中心站","fee":"收费","description":"奥体博览城的游泳馆，有游泳比赛和培训。","official_url":"","highlights":["游泳","比赛"]},{"id":"杭州白马湖国际会展中心展览厅","name":"杭州白马湖国际会展中心展览厅","source":"杭州本地宝","city":"hangzhou","district":"滨江区","type":"会展中心","address":"滨江区长江南路","transport":"公交","fee":"收费","description":"白马湖国际会展中心的展览厅，举办各种展览。","official_url":"","highlights":["展览","会展"]},{"id":"杭州之江文化中心图书馆","name":"杭州之江文化中心图书馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"图书馆","address":"西湖区之江路","transport":"公交","fee":"免费","description":"之江文化中心的图书馆，有丰富的馆藏和阅读空间。","official_url":"","highlights":["图书馆","阅读","免费"]},{"id":"杭州之江文化中心博物馆","name":"杭州之江文化中心博物馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区之江路","transport":"公交","fee":"免费","description":"之江文化中心的博物馆，展示各种文物和艺术品。","official_url":"","highlights":["博物馆","文物","免费"]},{"id":"杭州之江文化中心美术馆","name":"杭州之江文化中心美术馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"美术馆","address":"西湖区之江路","transport":"公交","fee":"免费","description":"之江文化中心的美术馆，展示各种美术作品。","official_url":"","highlights":["美术馆","美术作品","免费"]},{"id":"杭州之江文化中心科技馆","name":"杭州之江文化中心科技馆","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"科技馆","address":"西湖区之江路","transport":"公交","fee":"免费","description":"之江文化中心的科技馆，有互动体验和科普展览。","official_url":"","highlights":["科技馆","互动体验","免费"]},{"id":"杭州文学馆展览厅","name":"杭州文学馆展览厅","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"博物馆","address":"西湖区","transport":"公交","fee":"免费","description":"杭州文学馆的展览厅，展示杭州文学历史和作品。","official_url":"","highlights":["文学","展览","免费"]},{"id":"杭州文学馆阅读室","name":"杭州文学馆阅读室","source":"杭州本地宝","city":"hangzhou","district":"西湖区","type":"图书馆","address":"西湖区","transport":"公交","fee":"免费","description":"杭州文学馆的阅读室，有丰富的文学书籍和阅读空间。","official_url":"","highlights":["阅读","文学","免费"]},{"id":"北京延庆奥林匹克园区","name":"北京延庆奥林匹克园区","source":"北京本地宝","city":"beijing","district":"延庆区","type":"体育中心","address":"延庆区","transport":"公交","fee":"收费","description":"2022年冬奥会举办地，有滑雪和冰雪项目。","official_url":"","highlights":["冬奥会","滑雪","冰雪"]},{"id":"北京世园公园","name":"北京世园公园","source":"北京本地宝","city":"beijing","district":"延庆区","type":"公园","address":"延庆区","transport":"公交","fee":"收费","description":"2019年世界园艺博览会举办地，有各种花卉和景观。","official_url":"","highlights":["园艺","花卉","景观"]},{"id":"北京八达岭国家森林公园","name":"北京八达岭国家森林公园","source":"北京本地宝","city":"beijing","district":"延庆区","type":"公园","address":"延庆区八达岭","transport":"公交","fee":"收费","description":"位于八达岭长城附近的森林公园，有森林和自然景观。","official_url":"","highlights":["森林","长城","自然"]},{"id":"北京野鸭湖国家湿地公园","name":"北京野鸭湖国家湿地公园","source":"北京本地宝","city":"beijing","district":"延庆区","type":"公园","address":"延庆区康庄镇","transport":"公交","fee":"收费","description":"大型湿地公园，有湿地景观和候鸟栖息地。","official_url":"","highlights":["湿地","候鸟","自然"]},{"id":"北京龙庆峡景区","name":"北京龙庆峡景区","source":"北京本地宝","city":"beijing","district":"延庆区","type":"公园","address":"延庆区龙庆峡","transport":"公交","fee":"收费","description":"有峡谷、瀑布和湖景的自然景区。","official_url":"","highlights":["峡谷","瀑布","湖景"]},{"id":"北京云居寺","name":"北京云居寺","source":"北京本地宝","city":"beijing","district":"房山区","type":"文化中心","address":"房山区张坊镇","transport":"公交","fee":"收费","description":"有千年古刹和石经的佛教寺庙。","official_url":"","highlights":["古刹","石经","佛教"]},{"id":"北京十渡景区","name":"北京十渡景区","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区十渡镇","transport":"公交","fee":"收费","description":"有山、水、峡谷的自然景区，适合户外和漂流。","official_url":"","highlights":["山水","峡谷","漂流"]},{"id":"北京房山世界地质公园","name":"北京房山世界地质公园","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区","transport":"公交","fee":"收费","description":"世界地质公园，展示各种地质景观和化石。","official_url":"","highlights":["地质公园","化石","自然"]},{"id":"北京上方山国家森林公园","name":"北京上方山国家森林公园","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区韩村河镇","transport":"公交","fee":"收费","description":"有森林、溶洞和寺庙的自然景区。","official_url":"","highlights":["森林","溶洞","寺庙"]},{"id":"北京石花洞景区","name":"北京石花洞景区","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区河北镇","transport":"公交","fee":"收费","description":"大型溶洞景区，展示各种钟乳石和石笋。","official_url":"","highlights":["溶洞","钟乳石","石笋"]},{"id":"北京银狐洞景区","name":"北京银狐洞景区","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区佛子庄乡","transport":"公交","fee":"收费","description":"有银狐形状钟乳石的溶洞景区。","official_url":"","highlights":["溶洞","银狐","钟乳石"]},{"id":"北京百花山景区","name":"北京百花山景区","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区百花山镇","transport":"公交","fee":"收费","description":"有高山、草甸、森林的自然景区。","official_url":"","highlights":["高山","草甸","森林"]},{"id":"北京圣莲山景区","name":"北京圣莲山景区","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区史家营乡","transport":"公交","fee":"收费","description":"有山景和寺庙的自然景区，适合登山和祈福。","official_url":"","highlights":["山景","寺庙","登山"]},{"id":"北京青龙湖公园","name":"北京青龙湖公园","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区青龙湖镇","transport":"公交","fee":"收费","description":"有湖景和休闲设施的公园，适合划船和露营。","official_url":"","highlights":["湖景","划船","露营"]},{"id":"北京蒲洼乡花台景区","name":"北京蒲洼乡花台景区","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区蒲洼乡","transport":"公交","fee":"免费","description":"有高山草甸和花海的自然景区。","official_url":"","highlights":["草甸","花海","免费"]},{"id":"北京霞云岭国家森林公园","name":"北京霞云岭国家森林公园","source":"北京本地宝","city":"beijing","district":"房山区","type":"公园","address":"房山区霞云岭乡","transport":"公交","fee":"收费","description":"有森林和自然景观的景区，适合徒步和露营。","official_url":"","highlights":["森林","徒步","露营"]},{"id":"成都博物馆","name":"成都博物馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"博物馆","address":"青羊区小河街1号","transport":"地铁1/2号线天府广场站","fee":"免费需预约","description":"成都市中心综合性博物馆，展示成都历史文化，常设花重锦官城等展览。","official_url":"","highlights":["成都历史","常设展览","免费"]},{"id":"四川科技馆","name":"四川科技馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"科技馆","address":"青羊区人民中路一段16号","transport":"地铁1/2号线天府广场站","fee":"免费需预约","description":"四川省大型科普场馆，有航天、机械、机器人等互动展区，适合亲子科普。","official_url":"","highlights":["科普互动","航天展区","亲子"]},{"id":"四川博物院","name":"四川博物院","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"博物馆","address":"青羊区浣花南路251号","transport":"地铁5号线青羊宫站","fee":"免费需预约","description":"西南地区最大的综合性博物馆，馆藏丰富，有青铜器、陶瓷、书画等展厅。","official_url":"","highlights":["青铜器","书画","免费"]},{"id":"成都金沙遗址博物馆","name":"成都金沙遗址博物馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"博物馆","address":"青羊区金沙遗址路2号","transport":"地铁7号线金沙遗址博物馆站","fee":"收费","description":"展示古蜀金沙文明，太阳神鸟金饰为国宝级文物，遗址原址展示震撼。","official_url":"","highlights":["太阳神鸟","古蜀文明","遗址"]},{"id":"成都武侯祠博物馆","name":"成都武侯祠博物馆","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"博物馆","address":"武侯区武侯祠大街231号","transport":"地铁3号线高升桥站","fee":"收费","description":"纪念诸葛亮的祠堂，与刘备惠陵相邻，三国文化圣地，锦里古街相邻。","official_url":"","highlights":["三国文化","诸葛亮","刘备惠陵"]},{"id":"成都杜甫草堂博物馆","name":"成都杜甫草堂博物馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"博物馆","address":"青羊区青华路37号","transport":"地铁4号线草堂北路站","fee":"收费","description":"唐代诗人杜甫流寓成都时的故居，园林清幽，诗史堂展示杜甫生平。","official_url":"","highlights":["杜甫","唐代诗人","园林"]},{"id":"成都永陵博物馆","name":"成都永陵博物馆","source":"成都本地宝","city":"chengdu","district":"金牛区","type":"博物馆","address":"金牛区永陵路10号","transport":"公交42路","fee":"免费","description":"五代十国前蜀王建陵墓，地宫石刻精美，是重要的五代考古遗址。","official_url":"","highlights":["前蜀王建","地宫石刻","考古遗址"]},{"id":"成都川剧艺术博物馆","name":"成都川剧艺术博物馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"博物馆","address":"锦江区华兴正街54号","transport":"地铁3号线市二医院站","fee":"免费","description":"展示川剧艺术历史，有脸谱、戏服、道具等展品，可体验川剧文化。","official_url":"","highlights":["川剧","脸谱","戏曲"]},{"id":"成都皮影艺术博物馆","name":"成都皮影艺术博物馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"博物馆","address":"锦江区水井坊街区","transport":"地铁2号线东门大桥站","fee":"免费","description":"展示成都皮影戏艺术，收藏各地皮影作品，可观看皮影表演。","official_url":"","highlights":["皮影戏","民间艺术","非遗"]},{"id":"成都蜀锦织绣博物馆","name":"成都蜀锦织绣博物馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"博物馆","address":"青羊区草堂东路2号","transport":"地铁4号线草堂北路站","fee":"免费","description":"展示蜀锦织绣历史与工艺，可观看非遗传承人现场织锦，购买蜀锦文创。","official_url":"","highlights":["蜀锦","非遗","织绣工艺"]},{"id":"成都理工大学博物馆","name":"成都理工大学博物馆","source":"成都本地宝","city":"chengdu","district":"成华区","type":"博物馆","address":"成华区二仙桥东三路1号","transport":"地铁7号线理工大学站","fee":"收费","description":"以恐龙化石和古生物标本闻名，有亚洲最大合川马门溪龙化石。","official_url":"","highlights":["恐龙化石","古生物","矿物"]},{"id":"成都市生命奥秘博物馆","name":"成都市生命奥秘博物馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"博物馆","address":"青羊区天府广场负一层","transport":"地铁1/2号线天府广场站","fee":"收费","description":"展示人体和动物塑化标本，了解生命奥秘，科普教育性强。","official_url":"","highlights":["塑化标本","生命科学","科普"]},{"id":"成都华希昆虫博物馆","name":"成都华希昆虫博物馆","source":"成都本地宝","city":"chengdu","district":"都江堰市","type":"博物馆","address":"都江堰市青城山游客中心","transport":"自驾","fee":"免费","description":"中国最大的昆虫博物馆，收藏大量蝴蝶和昆虫标本，被誉为亚洲最大。","official_url":"","highlights":["蝴蝶标本","昆虫","亚洲最大"]},{"id":"四川建川博物馆聚落","name":"四川建川博物馆聚落","source":"成都本地宝","city":"chengdu","district":"大邑县","type":"博物馆","address":"大邑县安仁镇迎宾路","transport":"自驾","fee":"收费","description":"中国最大民间博物馆聚落，包含抗战、民俗、地震等多个主题分馆。","official_url":"","highlights":["抗战","民俗","民间博物馆"]},{"id":"成都水井坊博物馆","name":"成都水井坊博物馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"博物馆","address":"锦江区水井街19号","transport":"地铁2号线东门大桥站","fee":"收费","description":"展示中国白酒第一坊水井坊遗址，可了解传统酿酒工艺和白酒文化。","official_url":"","highlights":["白酒遗址","酿酒工艺","非遗"]},{"id":"许燎源现代设计艺术博物馆","name":"许燎源现代设计艺术博物馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"美术馆","address":"锦江区三圣花乡红砂村","transport":"公交56路","fee":"收费","description":"展示现代设计与当代艺术，有雕塑、装置艺术等，艺术氛围浓厚。","official_url":"","highlights":["现代设计","当代艺术","装置艺术"]},{"id":"成都知美术馆","name":"成都知美术馆","source":"成都本地宝","city":"chengdu","district":"新津区","type":"美术馆","address":"新津区君山路1号","transport":"自驾","fee":"免费","description":"由隈研吾设计的当代美术馆，建筑与自然融合，举办当代艺术展览。","official_url":"","highlights":["隈研吾设计","当代艺术","建筑美学"]},{"id":"四川美术馆","name":"四川美术馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"美术馆","address":"青羊区东城根街6号","transport":"地铁2号线人民公园站","fee":"免费","description":"四川省省级美术馆，展示四川版画、国画等美术作品，常设与临时展览丰富。","official_url":"","highlights":["版画","国画","免费"]},{"id":"成都当代美术馆","name":"成都当代美术馆","source":"成都本地宝","city":"chengdu","district":"高新区","type":"美术馆","address":"高新区天府大道天府软件园C1楼","transport":"地铁1号线世纪城站","fee":"免费","description":"专注于当代艺术展览，展示国内外当代艺术家的先锋作品。","official_url":"","highlights":["当代艺术","先锋展览","免费"]},{"id":"刘氏庄园博物馆","name":"刘氏庄园博物馆","source":"成都本地宝","city":"chengdu","district":"大邑县","type":"博物馆","address":"大邑县安仁镇","transport":"自驾","fee":"收费","description":"中国近现代社会历史重要遗址，展示川西地主庄园建筑和近代社会历史。","official_url":"","highlights":["地主庄园","近代历史","川西建筑"]},{"id":"人民公园","name":"人民公园","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"公园","address":"青羊区少城路12号","transport":"地铁2号线人民公园站","fee":"免费","description":"成都历史最悠久的城市公园，鹤鸣茶社体验成都悠闲茶文化，有相亲角。","official_url":"","highlights":["鹤鸣茶社","茶文化","免费"]},{"id":"浣花溪公园","name":"浣花溪公园","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"公园","address":"青羊区青华路9号","transport":"地铁4号线草堂北路站","fee":"免费","description":"成都最大的开放式城市森林公园，与杜甫草堂相邻，白鹭洲观鸟胜地。","official_url":"","highlights":["白鹭洲","森林公园","免费"]},{"id":"成都大熊猫繁育研究基地","name":"成都大熊猫繁育研究基地","source":"成都本地宝","city":"chengdu","district":"成华区","type":"公园","address":"成华区熊猫大道1375号","transport":"地铁3号线熊猫大道站","fee":"收费","description":"世界著名的大熊猫保护研究基地，可近距离观赏大熊猫和熊猫幼崽。","official_url":"","highlights":["大熊猫","熊猫幼崽","国宝"]},{"id":"成都动物园","name":"成都动物园","source":"成都本地宝","city":"chengdu","district":"成华区","type":"公园","address":"成华区昭觉寺南路234号","transport":"地铁3号线动物园站","fee":"收费","description":"四川省最大的动物园，饲养各类珍稀动物，适合亲子游玩和科普教育。","official_url":"","highlights":["珍稀动物","亲子","科普"]},{"id":"成都植物园","name":"成都植物园","source":"成都本地宝","city":"chengdu","district":"新都区","type":"公园","address":"新都区蓉都大道天回路1116号","transport":"地铁3号线植物园站","fee":"收费","description":"收集保存四川及国内外植物，有芙蓉园、梅花园等专类园，春季赏花胜地。","official_url":"","highlights":["芙蓉园","赏花","植物科普"]},{"id":"白鹭湾湿地公园","name":"白鹭湾湿地公园","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"公园","address":"锦江区三圣花乡白鹭湾","transport":"公交186路","fee":"免费","description":"成都首个国家城市湿地公园，有湖泊、芦苇荡、白鹭栖息，骑行徒步好去处。","official_url":"","highlights":["湿地","白鹭","骑行","免费"]},{"id":"望江楼公园","name":"望江楼公园","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"公园","address":"武侯区望江路30号","transport":"地铁6号线三官堂站","fee":"部分免费","description":"纪念唐代女诗人薛涛的园林，竹林众多，崇丽阁为成都标志性建筑。","official_url":"","highlights":["薛涛","竹林","崇丽阁"]},{"id":"百花潭公园","name":"百花潭公园","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"公园","address":"青羊区一环路西一段175号","transport":"地铁5号线青羊宫站","fee":"免费","description":"以盆景和兰花闻名的古典园林，慧园展示巴金故居场景，环境清幽。","official_url":"","highlights":["盆景","兰花","古典园林","免费"]},{"id":"塔子山公园","name":"塔子山公园","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"公园","address":"锦江区迎晖路222号","transport":"地铁7号线大观站","fee":"免费","description":"成都城区最大综合性公园，九天塔为标志性建筑，有腊梅园和野餐区。","official_url":"","highlights":["九天塔","腊梅","野餐","免费"]},{"id":"青龙湖湿地公园","name":"青龙湖湿地公园","source":"成都本地宝","city":"chengdu","district":"龙泉驿区","type":"公园","address":"龙泉驿区成洛路","transport":"地铁4号线十陵站","fee":"免费","description":"成都环城生态区最大湖泊公园，湖面广阔，环湖绿道适合骑行和露营。","official_url":"","highlights":["湖泊","绿道","骑行","免费"]},{"id":"锦城湖公园","name":"锦城湖公园","source":"成都本地宝","city":"chengdu","district":"高新区","type":"公园","address":"高新区锦城大道","transport":"地铁5号线锦城大道站","fee":"免费","description":"高新南区大型湖泊公园，环湖步道适合跑步，夜景灯光秀优美。","official_url":"","highlights":["湖泊","跑步","夜景","免费"]},{"id":"桂溪生态公园","name":"桂溪生态公园","source":"成都本地宝","city":"chengdu","district":"高新区","type":"公园","address":"高新区天府大道北段","transport":"地铁1号线锦城广场站","fee":"免费","description":"成都中央城市森林公园，大面积草坪适合野餐和飞盘运动，亲子友好。","official_url":"","highlights":["草坪","野餐","飞盘","免费"]},{"id":"北湖公园","name":"北湖公园","source":"成都本地宝","city":"chengdu","district":"成华区","type":"公园","address":"成华区龙潭寺北湖","transport":"公交85路","fee":"免费","description":"成都北郊生态公园，湖面宽阔，有观鸟岛和环湖步道，鸟类资源丰富。","official_url":"","highlights":["观鸟","湖泊","生态","免费"]},{"id":"天府公园","name":"天府公园","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"公园","address":"天府新区天府大道南段","transport":"地铁1号线天府公园站","fee":"免费","description":"天府新区中央公园，山水相融，有音乐喷泉和花海，适合休闲散步。","official_url":"","highlights":["音乐喷泉","花海","免费"]},{"id":"兴隆湖湿地公园","name":"兴隆湖湿地公园","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"公园","address":"天府新区湖畔路北段","transport":"地铁1号线兴隆湖站","fee":"免费","description":"成都最大人工湖，环湖绿道10公里，可玩桨板和皮划艇，是西部热门休闲地。","official_url":"","highlights":["环湖绿道","桨板","皮划艇","免费"]},{"id":"东郊记忆","name":"东郊记忆","source":"成都本地宝","city":"chengdu","district":"成华区","type":"文化中心","address":"成华区建设南路中段4号","transport":"地铁8号线东郊记忆站","fee":"免费","description":"由老工业厂房改造的文创园区，有音乐演出、艺术展览和网红打卡点。","official_url":"","highlights":["文创园","音乐演出","工业遗址","免费"]},{"id":"成都三圣花乡","name":"成都三圣花乡","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"公园","address":"锦江区三圣街道","transport":"公交56路","fee":"免费","description":"成都近郊著名花乡，有花乡农居、荷塘月色等五大景区，农家乐和赏花胜地。","official_url":"","highlights":["赏花","农家乐","花乡","免费"]},{"id":"麓湖艺展中心","name":"麓湖艺展中心","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"文化中心","address":"天府新区天府大道南一段","transport":"地铁1号线麓湖站","fee":"部分免费","description":"湖畔艺术展览空间，建筑造型独特，有水上剧场和当代艺术展。","official_url":"","highlights":["湖畔艺术","建筑美学","水上剧场"]},{"id":"鹿溪河生态区","name":"鹿溪河生态区","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"公园","address":"天府新区鹿溪河","transport":"自驾","fee":"免费","description":"天府新区生态绿廊，沿河湿地和花海，适合徒步和自然观察。","official_url":"","highlights":["生态绿廊","花海","徒步","免费"]},{"id":"江家艺苑","name":"江家艺苑","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"公园","address":"锦江区三圣街道","transport":"公交31路","fee":"免费","description":"三圣花乡艺术主题公园，有大草坪、儿童游乐设施和艺术装置。","official_url":"","highlights":["艺术装置","儿童游乐","草坪","免费"]},{"id":"天府绿道","name":"天府绿道","source":"成都本地宝","city":"chengdu","district":"高新区","type":"公园","address":"高新区锦城湖至青龙湖","transport":"地铁5号线锦城大道站","fee":"免费","description":"成都世界最长城市绿道，可骑行和徒步，串联多个公园和湖泊。","official_url":"","highlights":["城市绿道","骑行","徒步","免费"]},{"id":"神仙树公园","name":"神仙树公园","source":"成都本地宝","city":"chengdu","district":"高新区","type":"公园","address":"高新区紫瑞大道","transport":"地铁5号线神仙树站","fee":"免费","description":"高新南区社区公园，绿树成荫，有儿童游乐设施和健身步道。","official_url":"","highlights":["社区公园","健身","儿童游乐","免费"]},{"id":"永康森林公园","name":"永康森林公园","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"公园","address":"武侯区永康大道","transport":"公交208路","fee":"免费","description":"武侯区森林公园，有湖泊和竹林，适合散步和周末休闲。","official_url":"","highlights":["森林","湖泊","散步","免费"]},{"id":"清水河公园","name":"清水河公园","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"公园","address":"武侯区武青北路","transport":"公交83路","fee":"免费","description":"沿清水河的带状公园，有湿地和花境，适合骑行和休闲。","official_url":"","highlights":["湿地","花境","骑行","免费"]},{"id":"新华公园","name":"新华公园","source":"成都本地宝","city":"chengdu","district":"成华区","type":"公园","address":"成华区双林路338号","transport":"地铁6号线新鸿路站","fee":"免费","description":"成华区老牌城市公园，有游乐设施、湖泊和花展，适合亲子休闲。","official_url":"","highlights":["游乐设施","湖泊","亲子","免费"]},{"id":"沙河公园","name":"沙河公园","source":"成都本地宝","city":"chengdu","district":"成华区","type":"公园","address":"成华区沙河沿线","transport":"地铁7号线八里庄站","fee":"免费","description":"沿沙河的带状生态公园，绿道贯穿，适合散步和骑行。","official_url":"","highlights":["绿道","生态","骑行","免费"]},{"id":"天府芙蓉园","name":"天府芙蓉园","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"公园","address":"武侯区水隐桥路","transport":"公交10路","fee":"免费","description":"以芙蓉花为主题的公园，秋季芙蓉花盛开，是成都市花最佳观赏地。","official_url":"","highlights":["芙蓉花","成都市花","秋季赏花","免费"]},{"id":"涌泉公园","name":"涌泉公园","source":"成都本地宝","city":"chengdu","district":"温江区","type":"公园","address":"温江区涌泉街道","transport":"地铁17号线涌泉站","fee":"免费","description":"温江区社区公园，有湖泊和绿道，环境优美，适合休闲散步。","official_url":"","highlights":["湖泊","绿道","休闲","免费"]},{"id":"温江公园","name":"温江公园","source":"成都本地宝","city":"chengdu","district":"温江区","type":"公园","address":"温江区文化路","transport":"公交W15路","fee":"免费","description":"温江区中心公园，有古树和湖泊，是市民休闲健身的好去处。","official_url":"","highlights":["古树","湖泊","健身","免费"]},{"id":"光华公园","name":"光华公园","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"公园","address":"青羊区光华大道","transport":"地铁4号线中坝站","fee":"免费","description":"光华大道沿线大型公园，有草坪和儿童游乐设施，适合亲子活动。","official_url":"","highlights":["草坪","亲子","免费"]},{"id":"簇锦公园","name":"簇锦公园","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"公园","address":"武侯区簇桥街道","transport":"公交10路","fee":"免费","description":"武侯区簇桥社区公园，有湖泊和健身步道，是周边居民休闲好去处。","official_url":"","highlights":["社区公园","健身","湖泊","免费"]},{"id":"文殊院","name":"文殊院","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"文化中心","address":"青羊区文殊院街66号","transport":"地铁1号线文殊院站","fee":"免费","description":"川西第一禅林，始建于隋朝，寺内藏有玄奘法师顶骨舍利，素斋闻名。","official_url":"","highlights":["佛教寺院","玄奘舍利","素斋","免费"]},{"id":"青羊宫","name":"青羊宫","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"文化中心","address":"青羊区一环路西二段9号","transport":"地铁5号线青羊宫站","fee":"收费","description":"成都最古老的道观，始建于周朝，铜铸青羊为镇宫之宝，道教圣地。","official_url":"","highlights":["道教","青羊铜像","古观"]},{"id":"大慈寺","name":"大慈寺","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"文化中心","address":"锦江区纱帽街","transport":"地铁2号线春熙路站","fee":"免费","description":"始建于魏晋的古寺，玄奘曾在此受戒，现位于太古里商圈，闹中取静。","official_url":"","highlights":["玄奘受戒","古寺","免费"]},{"id":"昭觉寺","name":"昭觉寺","source":"成都本地宝","city":"chengdu","district":"成华区","type":"文化中心","address":"成华区昭青路333号","transport":"地铁3号线动物园站","fee":"免费","description":"川西第一禅林，素有川西第一禅林之誉，殿宇宏伟，香火旺盛。","official_url":"","highlights":["禅林","古寺","免费"]},{"id":"金沙遗址","name":"金沙遗址","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"文化中心","address":"青羊区金沙遗址路2号","transport":"地铁7号线金沙遗址博物馆站","fee":"收费","description":"三千年前古蜀王都遗址，出土太阳神鸟金饰等千余件珍贵文物。","official_url":"","highlights":["古蜀王都","太阳神鸟","考古遗址"]},{"id":"宽窄巷子","name":"宽窄巷子","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"文化中心","address":"青羊区宽窄巷子","transport":"地铁4号线宽窄巷子站","fee":"免费","description":"成都三大历史文化保护区之一，宽巷子、窄巷子、井巷子展示老成都生活。","official_url":"","highlights":["老成都","历史文化街区","免费"]},{"id":"锦里古街","name":"锦里古街","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"文化中心","address":"武侯区武侯祠大街","transport":"地铁3号线高升桥站","fee":"免费","description":"成都著名民俗休闲街，以三国文化为主题，有小吃、手工艺品和川剧表演。","official_url":"","highlights":["三国文化","民俗小吃","免费"]},{"id":"黄龙溪古镇","name":"黄龙溪古镇","source":"成都本地宝","city":"chengdu","district":"双流区","type":"文化中心","address":"双流区黄龙溪镇","transport":"自驾","fee":"免费","description":"千年水乡古镇，有古街、古庙、古榕树，夏季可戏水，川西风情浓郁。","official_url":"","highlights":["水乡古镇","古榕树","戏水","免费"]},{"id":"平乐古镇","name":"平乐古镇","source":"成都本地宝","city":"chengdu","district":"邛崃市","type":"文化中心","address":"邛崃市平乐镇","transport":"自驾","fee":"免费","description":"南方丝绸之路第一驿站，有古桥、古榕、古街，白沫江穿镇而过。","official_url":"","highlights":["丝绸之路","古桥","白沫江","免费"]},{"id":"安仁古镇","name":"安仁古镇","source":"成都本地宝","city":"chengdu","district":"大邑县","type":"文化中心","address":"大邑县安仁镇","transport":"自驾","fee":"免费","description":"中国博物馆小镇，有民国公馆老街和建川博物馆聚落，民国风情浓郁。","official_url":"","highlights":["民国公馆","博物馆小镇","老街","免费"]},{"id":"洛带古镇","name":"洛带古镇","source":"成都本地宝","city":"chengdu","district":"龙泉驿区","type":"文化中心","address":"龙泉驿区洛带镇","transport":"地铁4号线西河站","fee":"免费","description":"中国西部客家第一镇，有客家土楼、会馆和古镇老街，伤心凉粉闻名。","official_url":"","highlights":["客家文化","土楼","古镇","免费"]},{"id":"街子古镇","name":"街子古镇","source":"成都本地宝","city":"chengdu","district":"崇州市","type":"文化中心","address":"崇州市街子镇","transport":"自驾","fee":"免费","description":"青城后花园，有古寺、古街、古塔，光严禅院和千年银杏闻名。","official_url":"","highlights":["古寺","千年银杏","古街","免费"]},{"id":"元通古镇","name":"元通古镇","source":"成都本地宝","city":"chengdu","district":"崇州市","type":"文化中心","address":"崇州市元通镇","transport":"自驾","fee":"免费","description":"千年小成都，三江汇流处，有会馆、古塔和清末民初建筑群。","official_url":"","highlights":["三江汇流","会馆","古建筑","免费"]},{"id":"新场古镇","name":"新场古镇","source":"成都本地宝","city":"chengdu","district":"大邑县","type":"文化中心","address":"大邑县新场镇","transport":"自驾","fee":"免费","description":"四川现存规模最大、保存最完好的西蜀水乡古镇，有古街和七仙桥。","official_url":"","highlights":["西蜀水乡","古街","七仙桥","免费"]},{"id":"宝光寺","name":"宝光寺","source":"成都本地宝","city":"chengdu","district":"新都区","type":"文化中心","address":"新都区宝光街","transport":"地铁3号线钟楼站","fee":"免费","description":"中国南方四大佛教丛林之一，舍利塔和五百罗汉堂闻名，有清代禅林建筑。","official_url":"","highlights":["佛教丛林","舍利塔","五百罗汉","免费"]},{"id":"成都欢乐谷","name":"成都欢乐谷","source":"成都本地宝","city":"chengdu","district":"金牛区","type":"公园","address":"金牛区西华大道16号","transport":"地铁6号线西华大道站","fee":"收费","description":"大型现代主题乐园，有阳光港、欢乐时光等七大主题区，适合全年龄段游玩。","official_url":"","highlights":["主题乐园","过山车","亲子"]},{"id":"成都融创乐园","name":"成都融创乐园","source":"成都本地宝","city":"chengdu","district":"都江堰市","type":"公园","address":"都江堰市玉融路","transport":"自驾","fee":"收费","description":"蜀文化主题乐园，有天府耍都、蜀汉群英等主题区，融合科技与游乐。","official_url":"","highlights":["蜀文化主题","科技游乐","亲子"]},{"id":"成都融创水世界","name":"成都融创水世界","source":"成都本地宝","city":"chengdu","district":"都江堰市","type":"公园","address":"都江堰市玉融路","transport":"自驾","fee":"收费","description":"室内恒温水上乐园，有造浪池、漂流河和多种水上滑道，四季皆宜。","official_url":"","highlights":["室内水世界","恒温","造浪池"]},{"id":"成都海昌极地海洋公园","name":"成都海昌极地海洋公园","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"公园","address":"天府新区海洋路68号","transport":"地铁1号线海昌路站","fee":"收费","description":"极地动物和海洋生物主题公园，有企鹅、北极熊、白鲸和海豚表演。","official_url":"","highlights":["极地动物","企鹅","海豚表演"]},{"id":"浩海立方海洋馆","name":"浩海立方海洋馆","source":"成都本地宝","city":"chengdu","district":"双流区","type":"公园","address":"双流区蛟龙港双九路","transport":"自驾","fee":"收费","description":"创两项吉尼斯世界纪录的海洋馆，有巨型海洋观景窗和鲨鱼隧道。","official_url":"","highlights":["吉尼斯纪录","海洋观景窗","鲨鱼"]},{"id":"成都国色天乡乐园","name":"成都国色天乡乐园","source":"成都本地宝","city":"chengdu","district":"温江区","type":"公园","address":"温江区万春镇","transport":"地铁17号线国色天乡站","fee":"收费","description":"大型主题乐园，有陆地乐园和水上乐园，适合亲子和年轻人游玩。","official_url":"","highlights":["主题乐园","水上乐园","亲子"]},{"id":"成都南湖梦幻岛","name":"成都南湖梦幻岛","source":"成都本地宝","city":"chengdu","district":"双流区","type":"公园","address":"双流区华阳南湖","transport":"地铁1号线华阳站","fee":"收费","description":"梦幻主题乐园，有旋转木马、过山车和戏水区，适合亲子家庭。","official_url":"","highlights":["梦幻主题","旋转木马","亲子"]},{"id":"环球中心天堂岛海洋乐园","name":"环球中心天堂岛海洋乐园","source":"成都本地宝","city":"chengdu","district":"高新区","type":"公园","address":"高新区天府大道北段1700号","transport":"地铁1号线锦城广场站","fee":"收费","description":"全球最大单体建筑内的室内人造海洋乐园，有沙滩和造浪池。","official_url":"","highlights":["室内海洋","人造沙滩","造浪池"]},{"id":"松鼠部落森林假日公园","name":"松鼠部落森林假日公园","source":"成都本地宝","city":"chengdu","district":"双流区","type":"公园","address":"双流区永安森林公园","transport":"自驾","fee":"收费","description":"森林主题亲子乐园，有萌宠互动、丛林探险和户外拓展项目。","official_url":"","highlights":["森林主题","萌宠","亲子探险"]},{"id":"成都图书馆","name":"成都图书馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"图书馆","address":"锦江区瑞联路139号","transport":"地铁4号线清江西路站","fee":"免费","description":"成都市公共图书馆，馆藏丰富，提供阅览、借阅和文化讲座等服务。","official_url":"","highlights":["公共图书馆","阅读","讲座","免费"]},{"id":"四川省图书馆","name":"四川省图书馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"图书馆","address":"锦江区学道街35号","transport":"地铁1号线锦江宾馆站","fee":"免费需预约","description":"四川省省级公共图书馆，馆藏古籍善本丰富，有少儿阅览区和数字资源。","official_url":"","highlights":["省级图书馆","古籍善本","免费"]},{"id":"天府人文艺术图书馆","name":"天府人文艺术图书馆","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"图书馆","address":"天府新区华府大道","transport":"地铁1号线华府大道站","fee":"免费","description":"集阅读、艺术展览于一体的现代图书馆，建筑设计独特，环境优美。","official_url":"","highlights":["艺术图书馆","建筑设计","免费"]},{"id":"锦江区图书馆","name":"锦江区图书馆","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"图书馆","address":"锦江区锦兴路91号","transport":"地铁1号线锦江宾馆站","fee":"免费","description":"锦江区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。","official_url":"","highlights":["区级图书馆","阅读推广","免费"]},{"id":"青羊区图书馆","name":"青羊区图书馆","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"图书馆","address":"青羊区瑞联路139号","transport":"地铁4号线清江西路站","fee":"免费","description":"青羊区公共图书馆，提供图书借阅和数字阅读服务，有少儿阅览区。","official_url":"","highlights":["区级图书馆","少儿阅览","免费"]},{"id":"武侯区图书馆","name":"武侯区图书馆","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"图书馆","address":"武侯区高升桥东路12号","transport":"地铁3号线高升桥站","fee":"免费","description":"武侯区公共图书馆，藏书丰富，定期举办文化讲座和阅读活动。","official_url":"","highlights":["区级图书馆","文化讲座","免费"]},{"id":"金牛区图书馆","name":"金牛区图书馆","source":"成都本地宝","city":"chengdu","district":"金牛区","type":"图书馆","address":"金牛区营门口路6号","transport":"地铁7号线花照壁站","fee":"免费","description":"金牛区公共图书馆，有阅览室和亲子阅读区，环境安静舒适。","official_url":"","highlights":["区级图书馆","亲子阅读","免费"]},{"id":"成华区图书馆","name":"成华区图书馆","source":"成都本地宝","city":"chengdu","district":"成华区","type":"图书馆","address":"成华区双林路55号","transport":"地铁6号线新鸿路站","fee":"免费","description":"成华区公共图书馆，提供图书借阅和文化活动，有电子阅览室。","official_url":"","highlights":["区级图书馆","电子阅览","免费"]},{"id":"成都IFS国际金融中心","name":"成都IFS国际金融中心","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"文化中心","address":"锦江区红星路三段1号","transport":"地铁2/3号线春熙路站","fee":"免费","description":"成都地标性商业综合体，屋顶熊猫雕塑是网红打卡点，汇聚奢侈品和餐饮。","official_url":"","highlights":["地标建筑","屋顶熊猫","购物"]},{"id":"成都远洋太古里","name":"成都远洋太古里","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"文化中心","address":"锦江区中纱帽街8号","transport":"地铁2/3号线春熙路站","fee":"免费","description":"开放式低密度街区，融合传统川西建筑与现代商业，大慈寺坐落其中。","official_url":"","highlights":["川西建筑","开放式街区","大慈寺","免费"]},{"id":"成都环球中心","name":"成都环球中心","source":"成都本地宝","city":"chengdu","district":"高新区","type":"文化中心","address":"高新区天府大道北段1700号","transport":"地铁1号线锦城广场站","fee":"免费","description":"全球最大单体建筑，集购物、酒店、海洋乐园于一体，是成都地标。","official_url":"","highlights":["全球最大单体","购物中心","地标","免费"]},{"id":"成都万象城","name":"成都万象城","source":"成都本地宝","city":"chengdu","district":"成华区","type":"文化中心","address":"成华区双庆路8号","transport":"地铁4号线双桥路站","fee":"免费","description":"大型商业综合体，有购物、餐饮、影院和亲子娱乐设施。","official_url":"","highlights":["商业综合体","购物","亲子","免费"]},{"id":"成都大悦城","name":"成都大悦城","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"文化中心","address":"武侯区大悦路518号","transport":"地铁3号线川藏立交站","fee":"免费","description":"以青年为主题的大型商业综合体，有潮玩、餐饮和创意市集。","official_url":"","highlights":["青年主题","潮玩","创意市集","免费"]},{"id":"成都SKP","name":"成都SKP","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"文化中心","address":"武侯区天府大道北段1700号","transport":"地铁1号线锦城广场站","fee":"免费","description":"亚洲最大下沉式高端百货，有水舞秀和樱花山景观，汇聚顶级奢侈品牌。","official_url":"","highlights":["下沉式百货","水舞秀","奢侈品","免费"]},{"id":"成都银泰in99","name":"成都银泰in99","source":"成都本地宝","city":"chengdu","district":"高新区","type":"文化中心","address":"高新区天府大道北段1199号","transport":"地铁1号线世纪城站","fee":"免费","description":"高新南区高端商业综合体，有购物、餐饮和钟书阁书店。","official_url":"","highlights":["高端商业","钟书阁","购物","免费"]},{"id":"成都来福士广场","name":"成都来福士广场","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"文化中心","address":"武侯区人民南路四段3号","transport":"地铁1号线省体育馆站","fee":"免费","description":"由斯蒂文·霍尔设计的建筑综合体，灵感来自杜甫诗句，购物与文化结合。","official_url":"","highlights":["建筑美学","杜甫灵感","购物","免费"]},{"id":"成都城市音乐厅","name":"成都城市音乐厅","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"演出场馆","address":"武侯区一环路南一段","transport":"地铁3号线磨子桥站","fee":"收费","description":"西部地区最大音乐厅，有歌剧厅、音乐厅和戏剧厅，举办世界级演出。","official_url":"","highlights":["歌剧厅","交响乐","建筑美学"]},{"id":"四川大剧院","name":"四川大剧院","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"演出场馆","address":"青羊区人民中路一段1号","transport":"地铁1/2号线天府广场站","fee":"收费","description":"四川省标志性文化建筑，举办歌剧、舞剧、音乐会等大型演出。","official_url":"","highlights":["歌剧","舞剧","标志性建筑"]},{"id":"特仑苏音乐厅","name":"特仑苏音乐厅","source":"成都本地宝","city":"chengdu","district":"金牛区","type":"演出场馆","address":"金牛区金府路","transport":"地铁6号线金府站","fee":"收费","description":"成都专业音乐厅，音响效果出色，举办交响乐和室内乐演出。","official_url":"","highlights":["交响乐","室内乐","专业音响"]},{"id":"蜀风雅韵川剧院","name":"蜀风雅韵川剧院","source":"成都本地宝","city":"chengdu","district":"青羊区","type":"演出场馆","address":"青羊区琴台路23号","transport":"地铁5号线青羊宫站","fee":"收费","description":"百年川剧戏园，可观看变脸、吐火等川剧绝活表演，体验巴蜀文化。","official_url":"","highlights":["川剧变脸","吐火","巴蜀文化"]},{"id":"成都开心麻花剧场","name":"成都开心麻花剧场","source":"成都本地宝","city":"chengdu","district":"锦江区","type":"演出场馆","address":"锦江区东大街99号","transport":"地铁2号线东门大桥站","fee":"收费","description":"开心麻花驻场剧场，演出喜剧、话剧，适合年轻人休闲观演。","official_url":"","highlights":["喜剧","话剧","开心麻花"]},{"id":"成都凤凰山体育公园","name":"成都凤凰山体育公园","source":"成都本地宝","city":"chengdu","district":"金牛区","type":"体育中心","address":"金牛区北星大道","transport":"地铁5号线杜家碾站","fee":"收费","description":"2023年大运会主场馆，有专业足球场和综合体育馆，举办赛事和演唱会。","official_url":"","highlights":["大运会","足球场","演唱会"]},{"id":"双流体育中心","name":"双流体育中心","source":"成都本地宝","city":"chengdu","district":"双流区","type":"体育中心","address":"双流区花园路","transport":"地铁3号线双流广场站","fee":"收费","description":"双流区大型体育中心，有体育场、游泳馆和羽毛球馆，举办赛事和活动。","official_url":"","highlights":["体育场","游泳","赛事"]},{"id":"成都现代五项赛事中心","name":"成都现代五项赛事中心","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"体育中心","address":"天府新区正兴街道","transport":"地铁1号线广都站","fee":"收费","description":"国际标准现代五项赛事场馆，有游泳、击剑、马术等设施，举办大型赛事。","official_url":"","highlights":["现代五项","马术","国际赛事"]},{"id":"四川省体育馆","name":"四川省体育馆","source":"成都本地宝","city":"chengdu","district":"武侯区","type":"体育中心","address":"武侯区人民南路四段8号","transport":"地铁1号线省体育馆站","fee":"收费","description":"四川省标志性体育场馆，举办篮球、排球等赛事和大型演唱会。","official_url":"","highlights":["篮球","演唱会","标志性场馆"]},{"id":"都江堰景区","name":"都江堰景区","source":"成都本地宝","city":"chengdu","district":"都江堰市","type":"文化中心","address":"都江堰市公园路","transport":"自驾","fee":"收费","description":"世界文化遗产，两千多年前李冰修建的水利工程，鱼嘴、飞沙堰、宝瓶口闻名于世。","official_url":"","highlights":["世界遗产","水利工程","李冰"]},{"id":"青城山景区","name":"青城山景区","source":"成都本地宝","city":"chengdu","district":"都江堰市","type":"文化中心","address":"都江堰市青城山镇","transport":"自驾","fee":"收费","description":"世界文化遗产，中国道教发源地之一，有前山道教宫观和后山自然风光。","official_url":"","highlights":["道教名山","世界遗产","自然风光"]},{"id":"熊猫谷","name":"熊猫谷","source":"成都本地宝","city":"chengdu","district":"都江堰市","type":"公园","address":"都江堰市青城山路","transport":"自驾","fee":"收费","description":"大熊猫野放研究中心，可观赏大熊猫在自然环境中生活，与小熊猫近距离接触。","official_url":"","highlights":["大熊猫","野放研究","小熊猫"]},{"id":"西岭雪山","name":"西岭雪山","source":"成都本地宝","city":"chengdu","district":"大邑县","type":"公园","address":"大邑县西岭镇","transport":"自驾","fee":"收费","description":"成都第一高峰，杜甫窗含西岭千秋雪即指此山，冬季滑雪夏季避暑胜地。","official_url":"","highlights":["滑雪","杜甫诗意","避暑"]},{"id":"石象湖","name":"石象湖","source":"成都本地宝","city":"chengdu","district":"蒲江县","type":"公园","address":"蒲江县石象湖","transport":"自驾","fee":"收费","description":"湖泊型生态景区，春季郁金香花海和夏季向日葵花海闻名，适合赏花和游船。","official_url":"","highlights":["郁金香花海","向日葵","游船"]},{"id":"桃花故里","name":"桃花故里","source":"成都本地宝","city":"chengdu","district":"龙泉驿区","type":"公园","address":"龙泉驿区山泉镇","transport":"地铁2号线龙泉驿站","fee":"免费","description":"中国水蜜桃之乡，春季万亩桃花盛开，是成都近郊赏桃花的绝佳去处。","official_url":"","highlights":["桃花","春季赏花","水蜜桃","免费"]},{"id":"丹景山景区","name":"丹景山景区","source":"成都本地宝","city":"chengdu","district":"简阳市","type":"公园","address":"简阳市丹景街道","transport":"自驾","fee":"免费","description":"龙泉山城市森林公园最高观景点，可俯瞰三岔湖和成都天府国际机场。","official_url":"","highlights":["森林公园","观景台","三岔湖","免费"]},{"id":"空港花田","name":"空港花田","source":"成都本地宝","city":"chengdu","district":"双流区","type":"公园","address":"双流区牧华路","transport":"自驾","fee":"免费","description":"飞机起降观赏地，花田与跑道相邻，可近距离观看飞机起降，网红打卡点。","official_url":"","highlights":["飞机观赏","花田","网红打卡","免费"]},{"id":"麓湖水城","name":"麓湖水城","source":"成都本地宝","city":"chengdu","district":"天府新区","type":"公园","address":"天府新区麓湖","transport":"地铁1号线麓湖站","fee":"部分免费","description":"湖城一体的生态景区，可玩皮划艇和桨板，有黑珍珠餐厅和艺术展。","official_url":"","highlights":["皮划艇","桨板","湖城一体"]},{"id":"白鹤滩国家湿地公园","name":"白鹤滩国家湿地公园","source":"成都本地宝","city":"chengdu","district":"新津区","type":"公园","address":"新津区花桥街道","transport":"自驾","fee":"免费","description":"成都首个国家湿地公园，有湖泊、芦苇荡和候鸟栖息地，生态优美。","official_url":"","highlights":["湿地公园","芦苇荡","候鸟","免费"]},{"id":"桤木河湿地公园","name":"桤木河湿地公园","source":"成都本地宝","city":"chengdu","district":"崇州市","type":"公园","address":"崇州市隆兴镇","transport":"自驾","fee":"免费","description":"崇州大型湿地公园，有栈道、花海和稻田景观，适合徒步和骑行。","official_url":"","highlights":["湿地栈道","花海","稻田","免费"]},{"id":"北林绿道","name":"北林绿道","source":"成都本地宝","city":"chengdu","district":"温江区","type":"公园","address":"温江区北林环线","transport":"自驾","fee":"免费","description":"温江区环城绿道，串联多个乡村和花田，适合骑行和乡村休闲。","official_url":"","highlights":["环城绿道","骑行","乡村","免费"]},{"id":"三道堰古镇","name":"三道堰古镇","source":"成都本地宝","city":"chengdu","district":"郫都区","type":"文化中心","address":"郫都区三道堰镇","transport":"公交P22路","fee":"免费","description":"千年水乡古镇，徐堰河和柏条河穿镇而过，有古堰、古桥和川西民居。","official_url":"","highlights":["水乡古镇","古堰","川西民居","免费"]},{"id":"战旗村","name":"战旗村","source":"成都本地宝","city":"chengdu","district":"郫都区","type":"文化中心","address":"郫都区唐昌镇","transport":"公交P22路","fee":"免费","description":"乡村振兴示范村，有妈妈农庄和乡村十八坊，体验川西农耕文化。","official_url":"","highlights":["乡村振兴","农耕文化","乡村十八坊","免费"]},{"id":"望丛祠","name":"望丛祠","source":"成都本地宝","city":"chengdu","district":"郫都区","type":"文化中心","address":"郫都区望丛中路5号","transport":"公交P21路","fee":"免费","description":"纪念古蜀国望帝杜宇和丛帝鳖灵的祠堂，是寻根祭祖的重要场所。","official_url":"","highlights":["古蜀文化","望帝丛帝","寻根","免费"]},{"id":"罨画池公园","name":"罨画池公园","source":"成都本地宝","city":"chengdu","district":"崇州市","type":"公园","address":"崇州市大东街","transport":"自驾","fee":"收费","description":"始建于唐代的川西名园，陆游曾在此理政，有亭台楼阁和梅园。","official_url":"","highlights":["川西名园","陆游","梅园"]},{"id":"街子古镇银杏广场","name":"街子古镇银杏广场","source":"成都本地宝","city":"chengdu","district":"崇州市","type":"公园","address":"崇州市街子镇","transport":"自驾","fee":"免费","description":"街子古镇中心广场，有千年银杏古树，秋季金黄壮观，是古镇标志。","official_url":"","highlights":["千年银杏","秋季金黄","古镇广场","免费"]},{"id":"白岩寺","name":"白岩寺","source":"成都本地宝","city":"chengdu","district":"大邑县","type":"文化中心","address":"大邑县金星乡","transport":"自驾","fee":"免费","description":"藏传佛教寺院，有九子银杏等千年古树，秋季银杏金黄时最美。","official_url":"","highlights":["藏传佛教","九子银杏","秋季银杏","免费"]},{"id":"云顶石城","name":"云顶石城","source":"成都本地宝","city":"chengdu","district":"金堂县","type":"文化中心","address":"金堂县淮口镇","transport":"自驾","fee":"收费","description":"宋代抗蒙山城遗址，与合川钓鱼城齐名，有古城墙和慈云寺。","official_url":"","highlights":["宋元古城","抗蒙遗址","慈云寺"]},{"id":"五凤溪古镇","name":"五凤溪古镇","source":"成都本地宝","city":"chengdu","district":"金堂县","type":"文化中心","address":"金堂县五凤镇","transport":"自驾","fee":"免费","description":"成都唯一山地古镇，五条街道依山而建，有教堂和会馆，沱江风光优美。","official_url":"","highlights":["山地古镇","教堂","沱江","免费"]},{"id":"南京博物院","name":"南京博物院","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区中山东路321号","transport":"地铁2号线明故宫站","fee":"免费需预约","description":"中国三大博物馆之一，馆藏丰富，有历史馆、艺术馆、民国馆和非遗馆。","official_url":"","highlights":["三大博物馆","民国馆","非遗馆","免费"]},{"id":"南京市博物馆(朝天宫)","name":"南京市博物馆(朝天宫)","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"博物馆","address":"秦淮区王府大街朝天宫4号","transport":"地铁1号线张府园站","fee":"收费","description":"江南地区现存规模最大的古建筑群，展示南京城市历史，大成殿宏伟壮观。","official_url":"","highlights":["古建筑群","朝天宫","大成殿"]},{"id":"南京中国科举博物馆","name":"南京中国科举博物馆","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"博物馆","address":"秦淮区金陵西路1号","transport":"地铁3号线夫子庙站","fee":"收费","description":"建在古代科举考场江南贡院遗址上，展示科举制度和科举文物，地下展厅设计独特。","official_url":"","highlights":["科举制度","江南贡院","地下展厅"]},{"id":"六朝博物馆","name":"六朝博物馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区长江路302号","transport":"地铁2/3号线大行宫站","fee":"收费","description":"展示六朝历史文化，由贝聿铭团队设计，馆藏六朝青瓷和陶俑等珍贵文物。","official_url":"","highlights":["六朝文化","贝聿铭设计","青瓷"]},{"id":"江宁织造博物馆","name":"江宁织造博物馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区长江路123号","transport":"地铁2/3号线大行宫站","fee":"收费","description":"在江宁织造署旧址上建设，展示红楼梦文化和云锦织造工艺，园林优美。","official_url":"","highlights":["红楼梦","云锦","园林"]},{"id":"南京云锦博物馆","name":"南京云锦博物馆","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"博物馆","address":"建邺区茶亭东街240号","transport":"地铁2号线云锦路站","fee":"免费","description":"展示世界非遗南京云锦，可观看大花楼木织机现场织造，购买云锦文创。","official_url":"","highlights":["云锦","非遗","木织机","免费"]},{"id":"南京古生物博物馆","name":"南京古生物博物馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区北京东路39号","transport":"地铁3号线鸡鸣寺站","fee":"收费","description":"中国科学院古生物研究所所属，展示化石标本和生命演化历程，科普性强。","official_url":"","highlights":["化石","生命演化","科普"]},{"id":"南京地质博物馆","name":"南京地质博物馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区珠江路700号","transport":"地铁2号线下马坊站","fee":"免费","description":"中国历史最悠久的地质博物馆，展示矿物、岩石和恐龙化石标本。","official_url":"","highlights":["矿物","恐龙化石","地质","免费"]},{"id":"南京科技馆","name":"南京科技馆","source":"南京本地宝","city":"nanjing","district":"雨花台区","type":"科技馆","address":"雨花台区紫荆花路9号","transport":"地铁1号线花神庙站","fee":"免费需预约","description":"南京市科普教育主阵地，有主题展厅、IMAX球幕影院和4D影院。","official_url":"","highlights":["科普","球幕影院","4D影院","免费"]},{"id":"江苏省科学技术馆","name":"江苏省科学技术馆","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"科技馆","address":"鼓楼区石头城路","transport":"地铁2号线莫愁湖站","fee":"免费需预约","description":"省级综合性科技馆，有信息、能源、生命等展区，互动体验丰富。","official_url":"","highlights":["科技互动","能源展区","免费"]},{"id":"南京国防园","name":"南京国防园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"博物馆","address":"鼓楼区虎锯路87号","transport":"地铁2号线汉中门站","fee":"免费","description":"展示国防装备和军事历史，有退役坦克、飞机和导弹实物展出。","official_url":"","highlights":["军事装备","退役坦克","国防教育","免费"]},{"id":"南京大屠杀遇难同胞纪念馆","name":"南京大屠杀遇难同胞纪念馆","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"博物馆","address":"建邺区水西门大街418号","transport":"地铁2号线云锦路站","fee":"免费需预约","description":"国家公祭仪式举办地，展示南京大屠杀历史，铭记历史珍爱和平。","official_url":"","highlights":["国家公祭","历史铭记","免费"]},{"id":"南京市民俗博物馆","name":"南京市民俗博物馆","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"博物馆","address":"秦淮区南捕厅15号","transport":"地铁1号线三山街站","fee":"免费","description":"展示南京民俗文化和非遗，甘熙宅第为南京现存最大私人民居。","official_url":"","highlights":["民俗","甘熙宅第","非遗","免费"]},{"id":"太平天国历史博物馆","name":"太平天国历史博物馆","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"博物馆","address":"秦淮区瞻园路128号","transport":"地铁3号线夫子庙站","fee":"收费","description":"太平天国专题博物馆，瞻园为江南名园，展示太平天国历史文物。","official_url":"","highlights":["太平天国","瞻园","江南名园"]},{"id":"南京渡江胜利纪念馆","name":"南京渡江胜利纪念馆","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"博物馆","address":"鼓楼区渡江路1号","transport":"地铁3号线五塘广场站","fee":"免费","description":"纪念渡江战役胜利的专题纪念馆，展示渡江战役历史和文物。","official_url":"","highlights":["渡江战役","红色旅游","免费"]},{"id":"中国共产党代表团梅园新村纪念馆","name":"中国共产党代表团梅园新村纪念馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区汉府街18号","transport":"地铁2号线大行宫站","fee":"免费","description":"国共谈判期间中共代表团办公旧址，展示南京谈判历史和革命文物。","official_url":"","highlights":["国共谈判","红色旅游","免费"]},{"id":"南京市明城垣史博物馆","name":"南京市明城垣史博物馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"博物馆","address":"玄武区解放门8号","transport":"地铁1号线玄武门站","fee":"收费","description":"位于台城段城墙上，展示南京城墙历史和城砖铭文，可登城俯瞰玄武湖。","official_url":"","highlights":["明城墙","城砖铭文","登城"]},{"id":"南京直立人化石遗址博物馆","name":"南京直立人化石遗址博物馆","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"博物馆","address":"江宁区汤山街道","transport":"自驾","fee":"收费","description":"南京直立人头骨化石发现地，展示古人类演化历史和汤山地质。","official_url":"","highlights":["直立人化石","古人类","地质"]},{"id":"江南贡院历史陈列馆","name":"江南贡院历史陈列馆","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"博物馆","address":"秦淮区贡院街","transport":"地铁3号线夫子庙站","fee":"收费","description":"中国古代最大科举考场，展示科举考试历史和号舍遗迹。","official_url":"","highlights":["科举考场","号舍","科举历史"]},{"id":"南京越剧博物馆","name":"南京越剧博物馆","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"博物馆","address":"秦淮区老门东","transport":"地铁3号线武定门站","fee":"免费","description":"展示越剧在南京的发展历史，有戏服、剧本和演出史料。","official_url":"","highlights":["越剧","戏曲","免费"]},{"id":"玄武湖公园","name":"玄武湖公园","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区玄武巷1号","transport":"地铁1号线玄武门站","fee":"免费","description":"南京最大的城内公园，五洲相连，可游船赏景，是城市绿肺。","official_url":"","highlights":["五洲","游船","城市绿肺","免费"]},{"id":"中山植物园","name":"中山植物园","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区前湖后村1号","transport":"地铁2号线苜蓿园站","fee":"收费","description":"中国第一座国立植物园，保存植物三千余种，有红枫岗和蔷薇园。","official_url":"","highlights":["国立植物园","红枫","植物科普"]},{"id":"红山森林动物园","name":"红山森林动物园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"公园","address":"鼓楼区和燕路168号","transport":"地铁1号线红山动物园站","fee":"收费","description":"中国唯一取消动物表演的动物园，注重动物福利，理念先进，适合亲子。","official_url":"","highlights":["动物福利","亲子","理念先进"]},{"id":"栖霞山风景区","name":"栖霞山风景区","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区栖霞街88号","transport":"地铁7号线仙鹤门站","fee":"收费","description":"金陵第一明秀山，秋季红枫闻名天下，有栖霞寺和千佛岩石窟。","official_url":"","highlights":["红枫","栖霞寺","千佛岩"]},{"id":"莫愁湖公园","name":"莫愁湖公园","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"公园","address":"建邺区水西门大街132号","transport":"地铁2号线莫愁湖站","fee":"免费","description":"金陵第一名湖，有胜棋楼和郁金堂，春季海棠花展是赏花胜地。","official_url":"","highlights":["金陵名湖","胜棋楼","海棠花展","免费"]},{"id":"南京绿博园","name":"南京绿博园","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"公园","address":"建邺区扬子江大道228号","transport":"地铁10号线绿博园站","fee":"免费","description":"中国绿化博览会举办地，有全国各地园林景观和植物专类园。","official_url":"","highlights":["绿博会","园林景观","植物专类园","免费"]},{"id":"滨江公园","name":"滨江公园","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"公园","address":"建邺区扬子江大道","transport":"地铁10号线绿博园站","fee":"免费","description":"长江滨江风光带，有栈道和观景平台，可观赏长江日落和南京眼。","official_url":"","highlights":["长江风光","南京眼","滨江栈道","免费"]},{"id":"珍珠泉风景区","name":"珍珠泉风景区","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"公园","address":"浦口区珍珠街182号","transport":"自驾","fee":"收费","description":"泉水如珍珠涌出的自然风景区，有野生动物园和竹排漂流。","official_url":"","highlights":["珍珠泉","野生动物","竹排漂流"]},{"id":"老山国家森林公园","name":"老山国家森林公园","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"公园","address":"浦口区黄山岭路","transport":"自驾","fee":"收费","description":"南京最大森林公园，有山峰、溶洞和珍稀植物，适合徒步和避暑。","official_url":"","highlights":["森林公园","溶洞","徒步"]},{"id":"牛首山文化旅游区","name":"牛首山文化旅游区","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"公园","address":"江宁区宁丹大道","transport":"自驾","fee":"收费","description":"佛教文化名山，佛顶宫供奉释迦牟尼顶骨舍利，建筑宏伟壮观。","official_url":"","highlights":["佛顶宫","释迦牟尼舍利","佛教文化"]},{"id":"燕子矶公园","name":"燕子矶公园","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区临江街3号","transport":"自驾","fee":"收费","description":"长江三大名矶之首，乾隆曾六下江南登燕子矶，可俯瞰长江壮景。","official_url":"","highlights":["长江名矶","乾隆题诗","观江景"]},{"id":"幕燕滨江风貌区","name":"幕燕滨江风貌区","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区幕燕路","transport":"自驾","fee":"免费","description":"燕子矶至幕府山滨江风光带，有观音阁和达摩洞，沿江栈道观景佳。","official_url":"","highlights":["滨江风光","观音阁","达摩洞","免费"]},{"id":"白马公园","name":"白马公园","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区白马村1号","transport":"地铁4号线蒋王庙站","fee":"免费","description":"紫金山脚下公园，有石刻艺术博物馆，适合休闲和登山起点。","official_url":"","highlights":["紫金山","石刻博物馆","登山起点","免费"]},{"id":"南京眼旅游区","name":"南京眼旅游区","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"文化中心","address":"建邺区扬子江大道","transport":"地铁10号线绿博园站","fee":"免费","description":"南京首座长江步行桥，夜景灯光秀壮观，是河西新城地标建筑。","official_url":"","highlights":["步行桥","夜景灯光","地标","免费"]},{"id":"鱼嘴湿地公园","name":"鱼嘴湿地公园","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"公园","address":"建邺区扬子江大道","transport":"自驾","fee":"免费","description":"长江夹江湿地，观日落和江豚最佳地点，有灯塔和栈道。","official_url":"","highlights":["湿地","江豚","日落","免费"]},{"id":"浦口公园","name":"浦口公园","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"公园","address":"浦口区浦园路","transport":"地铁3号线林场站","fee":"免费","description":"浦口区城市公园，有湖泊和草坪，适合休闲散步和亲子活动。","official_url":"","highlights":["湖泊","草坪","亲子","免费"]},{"id":"宝船厂遗址公园","name":"宝船厂遗址公园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"公园","address":"鼓楼区漓江路57号","transport":"地铁4号线龙江站","fee":"免费","description":"明代郑和宝船建造遗址，展示古代造船工艺和郑和下西洋历史。","official_url":"","highlights":["郑和宝船","造船遗址","明代","免费"]},{"id":"古林公园","name":"古林公园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"公园","address":"鼓楼区虎踞北路21号","transport":"地铁1号线草场门站","fee":"免费","description":"南京老牌公园，有牡丹园和梅花山，春季赏花胜地。","official_url":"","highlights":["牡丹园","梅花山","赏花","免费"]},{"id":"清凉山公园","name":"清凉山公园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"公园","address":"鼓楼区广州路83号","transport":"地铁2号线汉中门站","fee":"免费","description":"金陵历史名山，有崇正书院和扫叶楼，秋季银杏金黄壮观。","official_url":"","highlights":["崇正书院","银杏","历史名山","免费"]},{"id":"石头城遗址公园","name":"石头城遗址公园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"公园","address":"鼓楼区石头城路","transport":"地铁2号线莫愁湖站","fee":"免费","description":"三国东吴石头城遗址，鬼脸城为天然岩壁奇观，沿秦淮河风光优美。","official_url":"","highlights":["石头城","鬼脸城","三国遗址","免费"]},{"id":"雨花台烈士陵园","name":"雨花台烈士陵园","source":"南京本地宝","city":"nanjing","district":"雨花台区","type":"公园","address":"雨花台区雨花路215号","transport":"地铁1号线中华门站","fee":"免费","description":"纪念革命烈士的陵园，有纪念碑、纪念馆和雨花石文化区。","official_url":"","highlights":["烈士陵园","红色旅游","雨花石","免费"]},{"id":"菊花台公园","name":"菊花台公园","source":"南京本地宝","city":"nanjing","district":"雨花台区","type":"公园","address":"雨花台区纬九路","transport":"地铁1号线软件大道站","fee":"免费","description":"南京九烈士墓所在地，有竹林和菊花展，环境清幽肃穆。","official_url":"","highlights":["九烈士墓","竹林","菊花展","免费"]},{"id":"聚宝山森林公园","name":"聚宝山森林公园","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区纬一路","transport":"自驾","fee":"免费","description":"紫金山余脉森林公园，有登山步道和森林景观，适合徒步健身。","official_url":"","highlights":["森林公园","登山步道","徒步","免费"]},{"id":"聚龙山公园","name":"聚龙山公园","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区仙林大道","transport":"地铁2号线南大仙林校区站","fee":"免费","description":"仙林大学城公园，有湖泊和草坪，适合学生和居民休闲。","official_url":"","highlights":["仙林","湖泊","草坪","免费"]},{"id":"中山陵","name":"中山陵","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区石象路7号","transport":"地铁2号线苜蓿园站","fee":"免费需预约","description":"孙中山先生陵寝，依山而建气势磅礴，392级台阶直达祭堂，为南京地标。","official_url":"","highlights":["孙中山","392级台阶","地标","免费"]},{"id":"明孝陵","name":"明孝陵","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区石象路","transport":"地铁2号线苜蓿园站","fee":"收费","description":"世界文化遗产，明太祖朱元璋陵墓，神道石刻和梅花山闻名。","official_url":"","highlights":["世界遗产","朱元璋","神道石刻"]},{"id":"夫子庙秦淮风光带","name":"夫子庙秦淮风光带","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区贡院街","transport":"地铁3号线夫子庙站","fee":"免费","description":"中国四大文庙之一，秦淮河夜游和灯会闻名，是南京文化名片。","official_url":"","highlights":["文庙","秦淮夜游","灯会","免费"]},{"id":"总统府","name":"总统府","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区长江路292号","transport":"地铁2/3号线大行宫站","fee":"收费","description":"中国近代史重要遗址，太平天国天王府和民国总统府旧址，园林中西合璧。","official_url":"","highlights":["近代史","天王府","中西园林"]},{"id":"中华门瓮城","name":"中华门瓮城","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区中华门","transport":"地铁1号线中华门站","fee":"收费","description":"中国现存最大古城堡，明城墙代表性建筑，有藏兵洞和登城步道。","official_url":"","highlights":["古城堡","明城墙","藏兵洞"]},{"id":"阅江楼","name":"阅江楼","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"文化中心","address":"鼓楼区建宁路202号","transport":"地铁1号线小粉桥站","fee":"收费","description":"江南四大名楼之一，登楼可俯瞰长江和南京长江大桥，朱元璋曾撰阅江楼记。","official_url":"","highlights":["江南名楼","长江大桥","观江景"]},{"id":"瞻园","name":"瞻园","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区瞻园路128号","transport":"地铁3号线夫子庙站","fee":"收费","description":"江南四大名园之一，金陵第一园，有假山和太平天国历史陈列。","official_url":"","highlights":["江南名园","假山","金陵第一园"]},{"id":"大报恩寺遗址公园","name":"大报恩寺遗址公园","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区雨花路1号","transport":"地铁1号线中华门站","fee":"收费","description":"明代皇家寺院遗址，有琉璃塔和地宫出土文物，现代博物馆展示震撼。","official_url":"","highlights":["琉璃塔","地宫","明代寺院"]},{"id":"鸡鸣寺","name":"鸡鸣寺","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区鸡鸣寺路1号","transport":"地铁3号线鸡鸣寺站","fee":"免费","description":"南京最古老梵刹之一，春季樱花大道闻名，素斋和药师佛塔为特色。","official_url":"","highlights":["樱花大道","素斋","药师佛塔","免费"]},{"id":"灵谷寺","name":"灵谷寺","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区灵谷寺路","transport":"地铁2号线钟灵街站","fee":"收费","description":"紫金山名刹，有无量殿和灵谷塔，无梁殿为明代砖石建筑杰作。","official_url":"","highlights":["无梁殿","灵谷塔","名刹"]},{"id":"栖霞寺","name":"栖霞寺","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"文化中心","address":"栖霞区栖霞街84号","transport":"地铁7号线仙鹤门站","fee":"收费","description":"江南三论宗祖庭，千佛岩石窟和舍利塔闻名，秋季红枫最美。","official_url":"","highlights":["三论宗","千佛岩","舍利塔"]},{"id":"毗卢寺","name":"毗卢寺","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区汉府街4号","transport":"地铁2号线西安门站","fee":"免费","description":"民国时期全国佛教总会所在地，有万佛楼和五百罗汉像。","official_url":"","highlights":["万佛楼","五百罗汉","佛教总会","免费"]},{"id":"朝天宫","name":"朝天宫","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区王府大街朝天宫4号","transport":"地铁1号线张府园站","fee":"收费","description":"江南规模最大古建筑群，明代朝天宫遗址，现为南京市博物馆。","official_url":"","highlights":["古建筑群","明代","博物馆"]},{"id":"明故宫遗址公园","name":"明故宫遗址公园","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区中山东路311号","transport":"地铁2号线明故宫站","fee":"免费","description":"北京故宫蓝本，明初皇宫遗址，现仅存柱础和遗址，历史意义重大。","official_url":"","highlights":["明皇宫","遗址","北京故宫蓝本","免费"]},{"id":"甘熙宅第","name":"甘熙宅第","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区南捕厅15号","transport":"地铁1号线三山街站","fee":"免费","description":"南京现存最大最完整私人民居，有九十九间半之称，展示民俗文化。","official_url":"","highlights":["私人民居","九十九间半","民俗","免费"]},{"id":"老门东历史街区","name":"老门东历史街区","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区剪子巷54号","transport":"地铁3号线武定门站","fee":"免费","description":"南京传统民居聚落，有老字号、手工艺和小吃，是城南文化缩影。","official_url":"","highlights":["历史街区","老字号","民俗小吃","免费"]},{"id":"熙南里历史文化街区","name":"熙南里历史文化街区","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区中山南路","transport":"地铁1号线三山街站","fee":"免费","description":"以甘熙宅第为核心的文化街区，有明清建筑和评弹书场。","official_url":"","highlights":["明清建筑","评弹","文化街区","免费"]},{"id":"高淳老街","name":"高淳老街","source":"南京本地宝","city":"nanjing","district":"高淳区","type":"文化中心","address":"高淳区淳溪镇","transport":"自驾","fee":"免费","description":"金陵第一古街，保存完好的明清古建筑群，有商铺、戏台和关王庙。","official_url":"","highlights":["金陵古街","明清建筑","关王庙","免费"]},{"id":"漆桥古村落","name":"漆桥古村落","source":"南京本地宝","city":"nanjing","district":"高淳区","type":"文化中心","address":"高淳区漆桥镇","transport":"自驾","fee":"免费","description":"汉代古村落，老街保存完好，有孔子后裔聚居地和古井古桥。","official_url":"","highlights":["汉代古村","孔子后裔","古街","免费"]},{"id":"杨柳村古建筑群","name":"杨柳村古建筑群","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"文化中心","address":"江宁区湖熟街道","transport":"自驾","fee":"免费","description":"南京现存最大明清民居建筑群，九十九间半格局，展示江南民居文化。","official_url":"","highlights":["明清民居","九十九间半","江南民居","免费"]},{"id":"浦口火车站历史街区","name":"浦口火车站历史街区","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"文化中心","address":"浦口区津浦路","transport":"地铁3号线林场站","fee":"免费","description":"民国老火车站，《背影》取景地，有老站房和轮渡码头遗址。","official_url":"","highlights":["民国火车站","背影取景","轮渡","免费"]},{"id":"长江大桥南堡公园","name":"长江大桥南堡公园","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"公园","address":"鼓楼区大桥南路","transport":"地铁1号线大桥站","fee":"免费","description":"南京长江大桥南桥头堡公园，可登堡观江景，大桥为新中国建设成就象征。","official_url":"","highlights":["长江大桥","桥头堡","观江景","免费"]},{"id":"南京欢乐谷","name":"南京欢乐谷","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区欢乐谷大道","transport":"地铁4号线仙林湖站","fee":"收费","description":"大型主题乐园，有六大主题区，过山车和水上项目刺激，适合全年龄段。","official_url":"","highlights":["主题乐园","过山车","水上项目"]},{"id":"银杏湖乐园","name":"银杏湖乐园","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"公园","address":"江宁区谷里街道","transport":"自驾","fee":"收费","description":"生态主题乐园，有游乐设施、高尔夫球场和生态景区，春季樱花银杏闻名。","official_url":"","highlights":["生态乐园","高尔夫","樱花银杏"]},{"id":"南京海底世界","name":"南京海底世界","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区四方城8号","transport":"地铁2号线苜蓿园站","fee":"收费","description":"紫金山脚下海洋馆，有海底隧道、企鹅馆和海豚表演，适合亲子。","official_url":"","highlights":["海底隧道","企鹅","海豚表演"]},{"id":"弘阳欢乐世界","name":"弘阳欢乐世界","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"公园","address":"浦口区大桥北路48号","transport":"地铁3号线泰冯路站","fee":"收费","description":"大型室内外主题乐园，有摩天轮和过山车，适合亲子家庭游玩。","official_url":"","highlights":["摩天轮","室内乐园","亲子"]},{"id":"南京玛雅海滩水公园","name":"南京玛雅海滩水公园","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区欢乐谷大道","transport":"地铁4号线仙林湖站","fee":"收费","description":"夏季水上乐园，有造浪池、漂流河和多种水上滑道，消暑胜地。","official_url":"","highlights":["水上乐园","造浪池","夏季消暑"]},{"id":"南京龙之谷主题乐园","name":"南京龙之谷主题乐园","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"公园","address":"浦口区龙谷路","transport":"地铁3号线泰冯路站","fee":"收费","description":"亚洲最大室内主题乐园，有溶洞漂流和室内过山车，四季皆宜。","official_url":"","highlights":["室内乐园","溶洞漂流","亚洲最大"]},{"id":"南京图书馆","name":"南京图书馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"图书馆","address":"玄武区中山东路189号","transport":"地铁2/3号线大行宫站","fee":"免费需预约","description":"中国第三大图书馆，江苏省省级公共图书馆，古籍善本收藏丰富。","official_url":"","highlights":["省级图书馆","古籍善本","免费"]},{"id":"金陵图书馆","name":"金陵图书馆","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"图书馆","address":"建邺区乐山路158号","transport":"地铁10号线奥体中心站","fee":"免费","description":"南京市公共图书馆，建筑设计独特，有少儿馆和数字阅读服务。","official_url":"","highlights":["公共图书馆","少儿馆","建筑设计"]},{"id":"南京市少年儿童图书馆","name":"南京市少年儿童图书馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"图书馆","address":"玄武区中山北路105号","transport":"地铁1号线鼓楼站","fee":"免费","description":"专为少年儿童服务的公共图书馆，有绘本馆和亲子阅读区。","official_url":"","highlights":["少儿图书馆","绘本馆","亲子阅读","免费"]},{"id":"江宁区图书馆","name":"江宁区图书馆","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"图书馆","address":"江宁区竹山路","transport":"地铁1号线竹山路站","fee":"免费","description":"江宁区公共图书馆，提供图书借阅和文化活动，有少儿阅览区。","official_url":"","highlights":["区级图书馆","少儿阅览","免费"]},{"id":"栖霞区图书馆","name":"栖霞区图书馆","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"图书馆","address":"栖霞区尧化门街","transport":"地铁2号线学则路站","fee":"免费","description":"栖霞区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。","official_url":"","highlights":["区级图书馆","阅读推广","免费"]},{"id":"建邺区图书馆","name":"建邺区图书馆","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"图书馆","address":"建邺区雨润大街","transport":"地铁2号线雨润大街站","fee":"免费","description":"建邺区公共图书馆，环境现代，有亲子阅读区和电子阅览室。","official_url":"","highlights":["区级图书馆","亲子阅读","免费"]},{"id":"江苏省美术馆","name":"江苏省美术馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"美术馆","address":"玄武区长江路333号","transport":"地铁2/3号线大行宫站","fee":"免费","description":"中国近现代第一座国家级美术馆，收藏和展示中外美术作品。","official_url":"","highlights":["国家级美术馆","美术展览","免费"]},{"id":"南京博物院艺术馆","name":"南京博物院艺术馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"美术馆","address":"玄武区中山东路321号","transport":"地铁2号线明故宫站","fee":"免费需预约","description":"南京博物院艺术馆部分，展示历代绘画、书法和雕塑精品。","official_url":"","highlights":["历代书画","雕塑","免费"]},{"id":"南京艺术学院美术馆","name":"南京艺术学院美术馆","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"美术馆","address":"鼓楼区虎踞北路15号","transport":"地铁1号线草场门站","fee":"免费","description":"高校美术馆，展示当代艺术和国际交流展览，学术性强。","official_url":"","highlights":["当代艺术","高校美术馆","国际展览","免费"]},{"id":"四方当代美术馆","name":"四方当代美术馆","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"美术馆","address":"浦口区珍七路9号","transport":"自驾","fee":"收费","description":"位于四方当代艺术湖区，建筑由斯蒂文·霍尔设计，展示当代艺术。","official_url":"","highlights":["当代艺术","斯蒂文霍尔","建筑美学"]},{"id":"德基美术馆","name":"德基美术馆","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"美术馆","address":"玄武区中山路18号德基广场","transport":"地铁1/2号线新街口站","fee":"收费","description":"位于德基广场的私人美术馆，展示古代文物和当代艺术，展陈精美。","official_url":"","highlights":["私人美术馆","古代文物","当代艺术"]},{"id":"南京艺术学院实验剧场","name":"南京艺术学院实验剧场","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"演出场馆","address":"鼓楼区虎踞北路15号","transport":"地铁1号线草场门站","fee":"收费","description":"南京艺术学院专业剧场，演出话剧、舞蹈和音乐会，艺术水准高。","official_url":"","highlights":["话剧","舞蹈","音乐会"]},{"id":"江苏大剧院","name":"江苏大剧院","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"演出场馆","address":"建邺区梦都大街181号","transport":"地铁10号线奥体中心站","fee":"收费","description":"亚洲最大剧院综合体，有歌剧厅、音乐厅和戏剧厅，建筑如荷叶飘于水上。","official_url":"","highlights":["歌剧厅","音乐厅","荷叶建筑"]},{"id":"南京文化艺术中心","name":"南京文化艺术中心","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"演出场馆","address":"玄武区长江路101号","transport":"地铁2/3号线大行宫站","fee":"收费","description":"南京市文化演出场馆，举办话剧、音乐会和戏曲等演出。","official_url":"","highlights":["话剧","音乐会","戏曲"]},{"id":"紫金大戏院","name":"紫金大戏院","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"演出场馆","address":"玄武区小火瓦巷20号","transport":"地铁1号线张府园站","fee":"收费","description":"南京老牌戏院，演出京剧、越剧和话剧等传统戏曲。","official_url":"","highlights":["京剧","越剧","传统戏曲"]},{"id":"南京奥体中心","name":"南京奥体中心","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"体育中心","address":"建邺区梦都大街","transport":"地铁10号线奥体中心站","fee":"收费","description":"2005年全运会主场馆，有体育场、体育馆和游泳馆，举办赛事和演唱会。","official_url":"","highlights":["全运会","体育场","演唱会"]},{"id":"五台山体育中心","name":"五台山体育中心","source":"南京本地宝","city":"nanjing","district":"鼓楼区","type":"体育中心","address":"鼓楼区广州路173号","transport":"地铁1号线珠江路站","fee":"收费","description":"南京老牌体育中心，有体育场、体育馆和游泳馆，是市民健身好去处。","official_url":"","highlights":["体育场","健身","老牌场馆"]},{"id":"南京青奥体育公园","name":"南京青奥体育公园","source":"南京本地宝","city":"nanjing","district":"浦口区","type":"体育中心","address":"浦口区江北大道","transport":"地铁10号线临江站","fee":"收费","description":"2014年青奥会场馆，有体育馆和体育场，是江北新区体育地标。","official_url":"","highlights":["青奥会","体育馆","江北地标"]},{"id":"新街口商圈","name":"新街口商圈","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"文化中心","address":"玄武区中山路","transport":"地铁1/2号线新街口站","fee":"免费","description":"中华第一商圈，有德基广场、中央商场等，是南京商业和文化中心。","official_url":"","highlights":["中华第一商圈","德基广场","购物","免费"]},{"id":"河西万达广场","name":"河西万达广场","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"文化中心","address":"建邺区江东中路98号","transport":"地铁2号线集庆门大街站","fee":"免费","description":"河西大型商业综合体，有购物、餐饮和影院，适合家庭休闲。","official_url":"","highlights":["商业综合体","购物","影院","免费"]},{"id":"南京仙林金鹰湖滨天地","name":"南京仙林金鹰湖滨天地","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"文化中心","address":"栖霞区仙林大学城","transport":"地铁2号线仙林中心站","fee":"免费","description":"仙林大学城商业中心，临湖而建，有购物、餐饮和书店。","official_url":"","highlights":["大学城商业","湖景","购物","免费"]},{"id":"南京水游城","name":"南京水游城","source":"南京本地宝","city":"nanjing","district":"秦淮区","type":"文化中心","address":"秦淮区建康路1号","transport":"地铁1号线三山街站","fee":"免费","description":"夫子庙旁大型购物中心，有水景中庭和屋顶花园，购物餐饮一体。","official_url":"","highlights":["水景中庭","屋顶花园","购物","免费"]},{"id":"南京虹悦城","name":"南京虹悦城","source":"南京本地宝","city":"nanjing","district":"雨花台区","type":"文化中心","address":"雨花台区长虹路222号","transport":"地铁1号线中华门站","fee":"免费","description":"城南大型商业综合体，有购物、餐饮和亲子娱乐设施。","official_url":"","highlights":["商业综合体","亲子","购物","免费"]},{"id":"南京江宁万达广场","name":"南京江宁万达广场","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"文化中心","address":"江宁区竹山路","transport":"地铁1号线竹山路站","fee":"免费","description":"江宁区大型商业综合体，有购物、餐饮和影院。","official_url":"","highlights":["商业综合体","购物","影院","免费"]},{"id":"南京仙林湖滨天地公园","name":"南京仙林湖滨天地公园","source":"南京本地宝","city":"nanjing","district":"栖霞区","type":"公园","address":"栖霞区仙林湖","transport":"地铁4号线仙林湖站","fee":"免费","description":"仙林湖公园，环湖步道适合散步和骑行，湖景优美。","official_url":"","highlights":["仙林湖","环湖步道","骑行","免费"]},{"id":"钟山风景名胜区","name":"钟山风景名胜区","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区石象路7号","transport":"地铁2号线苜蓿园站","fee":"免费","description":"中国著名风景名胜区，含中山陵、明孝陵、灵谷寺等景点，世界文化遗产。","official_url":"","highlights":["风景名胜区","世界遗产","中山陵","免费"]},{"id":"紫金山绿道","name":"紫金山绿道","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区紫金山","transport":"地铁2号线苜蓿园站","fee":"免费","description":"紫金山环山绿道，串联多个景点，适合徒步和骑行，自然风光优美。","official_url":"","highlights":["环山绿道","徒步","骑行","免费"]},{"id":"明故宫公园","name":"明故宫公园","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区中山东路","transport":"地铁2号线明故宫站","fee":"免费","description":"明初皇宫遗址公园，有柱础和午门遗址，是北京故宫的蓝本。","official_url":"","highlights":["皇宫遗址","午门","历史","免费"]},{"id":"南京眼步行桥公园","name":"南京眼步行桥公园","source":"南京本地宝","city":"nanjing","district":"建邺区","type":"公园","address":"建邺区扬子江大道","transport":"地铁10号线绿博园站","fee":"免费","description":"南京眼步行桥两端公园，有草坪和观江平台，夜景灯光秀壮观。","official_url":"","highlights":["步行桥","观江平台","夜景","免费"]},{"id":"玄武湖菱洲生态乐园","name":"玄武湖菱洲生态乐园","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"公园","address":"玄武区玄武湖菱洲","transport":"地铁1号线玄武门站","fee":"收费","description":"玄武湖五洲之一，有儿童游乐设施和动物园旧址，适合亲子游玩。","official_url":"","highlights":["五洲之一","儿童游乐","亲子"]},{"id":"紫金山天文台","name":"紫金山天文台","source":"南京本地宝","city":"nanjing","district":"玄武区","type":"科普馆","address":"玄武区钟山","transport":"地铁2号线苜蓿园站","fee":"收费","description":"中国现代天文学摇篮，有古代天文仪器和陨石展品，科普教育性强。","official_url":"","highlights":["天文","古代仪器","陨石"]},{"id":"南京直立人地质公园","name":"南京直立人地质公园","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"公园","address":"江宁区汤山街道","transport":"自驾","fee":"免费","description":"汤山直立人化石遗址公园，有地质剖面和化石展示，自然风光优美。","official_url":"","highlights":["直立人","地质剖面","化石","免费"]},{"id":"将军山风景区","name":"将军山风景区","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"公园","address":"江宁区将军大道","transport":"自驾","fee":"免费","description":"南京近郊风景区，有湖泊和山林，适合徒步和休闲度假。","official_url":"","highlights":["湖泊","山林","徒步","免费"]},{"id":"方山地质公园","name":"方山地质公园","source":"南京本地宝","city":"nanjing","district":"江宁区","type":"公园","address":"江宁区天阔路","transport":"地铁1号线南医大·江苏经贸学院站","fee":"免费","description":"死火山地质公园，有火山口遗迹和定林寺斜塔，地质科普价值高。","official_url":"","highlights":["火山地质","定林寺斜塔","科普","免费"]},{"id":"湖北省博物馆","name":"湖北省博物馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"博物馆","address":"武昌区东湖路160号","transport":"地铁8号线省博湖北日报站","fee":"免费需预约","description":"中国八大国家级博物馆之一，曾侯乙编钟和越王勾践剑为国宝级文物。","official_url":"","highlights":["曾侯乙编钟","越王勾践剑","国宝","免费"]},{"id":"武汉科技馆","name":"武汉科技馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"科技馆","address":"江岸区沿江大道91号","transport":"地铁2/6号线江汉路站","fee":"免费需预约","description":"由武汉客运港改造的科技馆，有宇宙、生命、水展厅，互动体验丰富。","official_url":"","highlights":["宇宙展厅","互动体验","免费"]},{"id":"湖北省科学技术馆","name":"湖北省科学技术馆","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"科技馆","address":"洪山区高新大道","transport":"地铁11号线光谷五路站","fee":"免费需预约","description":"湖北新省科技馆，有数理世界、科技与生活等展厅，建筑造型独特。","official_url":"","highlights":["数理世界","科技生活","免费"]},{"id":"武汉自然博物馆","name":"武汉自然博物馆","source":"武汉本地宝","city":"wuhan","district":"硚口区","type":"博物馆","address":"硚口区金南二路8号","transport":"地铁3号线云飞路站","fee":"收费","description":"由贝林基金会捐赠标本建馆，展示世界河流流域自然生态和野生动物。","official_url":"","highlights":["河流生态","野生动物标本","贝林基金会"]},{"id":"武汉博物馆","name":"武汉博物馆","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"博物馆","address":"江汉区青年路373号","transport":"地铁2号线汉口火车站","fee":"免费","description":"武汉市综合性博物馆，展示武汉历史文化和江汉地区文物。","official_url":"","highlights":["武汉历史","江汉文物","免费"]},{"id":"湖北美术馆","name":"湖北美术馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"美术馆","address":"武昌区东湖路三官殿1号","transport":"地铁8号线省博湖北日报站","fee":"免费","description":"省级美术馆，展示湖北当代艺术和美术作品，与省博物馆相邻。","official_url":"","highlights":["当代艺术","美术作品","免费"]},{"id":"武汉美术馆","name":"武汉美术馆","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"美术馆","address":"江汉区保华街2号","transport":"地铁2号线江汉路站","fee":"免费","description":"由汉口金城银行旧址改造，展示现当代美术作品，建筑为优秀历史建筑。","official_url":"","highlights":["金城银行旧址","当代美术","免费"]},{"id":"辛亥革命武昌起义纪念馆","name":"辛亥革命武昌起义纪念馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"博物馆","address":"武昌区武珞路1号","transport":"地铁4号线首义路站","fee":"免费","description":"辛亥革命武昌起义旧址，红楼为中华民国军政府鄂军都督府旧址。","official_url":"","highlights":["辛亥革命","红楼","鄂军都督府","免费"]},{"id":"辛亥革命博物馆","name":"辛亥革命博物馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"博物馆","address":"武昌区彭刘杨路151号","transport":"地铁4号线首义路站","fee":"免费","description":"纪念辛亥革命百年而建，展示辛亥革命历史和文物，建筑为红色V字造型。","official_url":"","highlights":["辛亥革命","红色V字","免费"]},{"id":"中山舰博物馆","name":"中山舰博物馆","source":"武汉本地宝","city":"wuhan","district":"江夏区","type":"博物馆","address":"江夏区金口街道","transport":"自驾","fee":"免费","description":"中国近现代名舰中山舰出水修复后的专题博物馆，展示舰体和出水文物。","official_url":"","highlights":["中山舰","近现代海军","出水文物","免费"]},{"id":"江汉关博物馆","name":"江汉关博物馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区沿江大道129号","transport":"地铁2/6号线江汉路站","fee":"免费","description":"江汉关大楼为武汉近代地标建筑，展示武汉开埠和海关历史，钟声悠扬。","official_url":"","highlights":["江汉关","开埠历史","海关钟声","免费"]},{"id":"盘龙城遗址博物院","name":"盘龙城遗址博物院","source":"武汉本地宝","city":"wuhan","district":"黄陂区","type":"博物馆","address":"黄陂区盘龙城经济开发区","transport":"自驾","fee":"免费","description":"长江流域发现的商代古城遗址，展示商代青铜文明，为武汉城市之根。","official_url":"","highlights":["商代遗址","青铜文明","武汉之根","免费"]},{"id":"武汉革命博物馆","name":"武汉革命博物馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"博物馆","address":"武昌区红巷13号","transport":"地铁5号线昙华林站","fee":"免费","description":"由农讲所、毛泽东旧居等革命旧址组成，展示武汉革命历史。","official_url":"","highlights":["农讲所","毛泽东旧居","红色旅游","免费"]},{"id":"八七会议会址纪念馆","name":"八七会议会址纪念馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区鄱阳街139号","transport":"地铁1号线大智路站","fee":"免费","description":"八七会议旧址，会议确定了土地革命和武装斗争方针，历史意义重大。","official_url":"","highlights":["八七会议","土地革命","免费"]},{"id":"八路军武汉办事处旧址纪念馆","name":"八路军武汉办事处旧址纪念馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区长春街57号","transport":"地铁1号线头道街站","fee":"免费","description":"抗战时期八路军武汉办事处旧址，展示抗战历史和周恩来等革命家事迹。","official_url":"","highlights":["八路军办事处","抗战","免费"]},{"id":"武汉二七纪念馆","name":"武汉二七纪念馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区解放大道2499号","transport":"地铁1号线二七路站","fee":"免费","description":"纪念二七大罢工的专题纪念馆，有二七烈士纪念碑和工人运动历史陈列。","official_url":"","highlights":["二七大罢工","工人运动","免费"]},{"id":"姚家山新四军纪念馆","name":"姚家山新四军纪念馆","source":"武汉本地宝","city":"wuhan","district":"黄陂区","type":"博物馆","address":"黄陂区蔡店街道","transport":"自驾","fee":"免费","description":"新四军第五师司政机关旧址，展示抗战时期李先念领导的抗日斗争。","official_url":"","highlights":["新四军","李先念","抗战","免费"]},{"id":"武汉中共中央机关旧址纪念馆","name":"武汉中共中央机关旧址纪念馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区胜利街165号","transport":"地铁1号线六渡桥站","fee":"免费","description":"中共中央在武汉的办公旧址，展示大革命时期中共中央在武汉的历史。","official_url":"","highlights":["中共中央旧址","大革命时期","免费"]},{"id":"武汉詹天佑故居博物馆","name":"武汉詹天佑故居博物馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区洞庭街65号","transport":"地铁2/6号线江汉路站","fee":"免费","description":"中国铁路之父詹天佑武汉故居，展示其生平和中国铁路建设历史。","official_url":"","highlights":["詹天佑","铁路历史","免费"]},{"id":"武汉警察博物馆","name":"武汉警察博物馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"博物馆","address":"江岸区胜利街271号","transport":"地铁1号线大智路站","fee":"免费","description":"由原德租界工部局巡捕房改造，展示武汉警察历史和公安文物。","official_url":"","highlights":["警察历史","工部局旧址","免费"]},{"id":"东湖风景区","name":"东湖风景区","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区沿湖大道","transport":"地铁8号线梨园站","fee":"免费","description":"中国最大城中湖，有听涛、磨山、落雁、吹笛四大景区，樱花和荷花闻名。","official_url":"","highlights":["最大城中湖","樱花","荷花","免费"]},{"id":"黄鹤楼公园","name":"黄鹤楼公园","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区蛇山坡","transport":"地铁4号线复兴路站","fee":"收费","description":"江南三大名楼之首，崔颢黄鹤一去不复返名扬天下，登楼可俯瞰长江。","official_url":"","highlights":["江南名楼","崔颢诗","观长江"]},{"id":"武汉动物园","name":"武汉动物园","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"公园","address":"汉阳区动物园路特1号","transport":"地铁4号线五里墩站","fee":"收费","description":"武汉大型动物园，饲养各类珍稀动物，适合亲子游玩和科普教育。","official_url":"","highlights":["珍稀动物","亲子","科普"]},{"id":"中科院武汉植物园","name":"中科院武汉植物园","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"公园","address":"洪山区鲁磨路特1号","transport":"公交402路","fee":"收费","description":"中国三大核心植物园之一，收集水生植物和药用植物，春季郁金香闻名。","official_url":"","highlights":["水生植物","郁金香","植物科普"]},{"id":"解放公园","name":"解放公园","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"公园","address":"江岸区解放大道1861号","transport":"地铁1/8号线黄浦路站","fee":"免费","description":"武汉市中心大型公园，有中华名塔园和鸽子广场，环境优美。","official_url":"","highlights":["名塔园","鸽子广场","免费"]},{"id":"沙湖公园","name":"沙湖公园","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区秦园路","transport":"地铁7号线螃蟹岬站","fee":"免费","description":"武汉市内大型湖泊公园，环湖绿道适合散步骑行，夏季荷花盛开。","official_url":"","highlights":["湖泊","绿道","荷花","免费"]},{"id":"汉口江滩公园","name":"汉口江滩公园","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"公园","address":"江岸区沿江大道","transport":"地铁2/6号线江汉路站","fee":"免费","description":"亚洲最大江滩公园，秋季芦荻花海壮观，可观赏长江和两岸灯光秀。","official_url":"","highlights":["江滩","芦花","灯光秀","免费"]},{"id":"月湖公园","name":"月湖公园","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"公园","address":"汉阳区琴台大道","transport":"地铁4号线钟家村站","fee":"免费","description":"以月湖为中心的公园，有古琴台和琴台大剧院，文化底蕴深厚。","official_url":"","highlights":["月湖","古琴台","琴台剧院","免费"]},{"id":"木兰山","name":"木兰山","source":"武汉本地宝","city":"wuhan","district":"黄陂区","type":"公园","address":"黄陂区木兰山","transport":"自驾","fee":"收费","description":"木兰将军故里，道教佛教圣地，有金顶和古建筑群，登高可俯瞰黄陂。","official_url":"","highlights":["木兰将军","金顶","道教佛教"]},{"id":"木兰天池","name":"木兰天池","source":"武汉本地宝","city":"wuhan","district":"黄陂区","type":"公园","address":"黄陂区长轩岭街道","transport":"自驾","fee":"收费","description":"木兰外婆家，有高山湖泊和瀑布森林，适合登山和避暑度假。","official_url":"","highlights":["高山湖泊","瀑布","避暑"]},{"id":"木兰草原","name":"木兰草原","source":"武汉本地宝","city":"wuhan","district":"黄陂区","type":"公园","address":"黄陂区王家河街道","transport":"自驾","fee":"收费","description":"华中唯一草原景区，可露营骑马，有篝火晚会和滑草项目。","official_url":"","highlights":["草原","露营","骑马"]},{"id":"马鞍山森林公园","name":"马鞍山森林公园","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"公园","address":"洪山区珞喻东路","transport":"公交518路","fee":"免费","description":"武汉近郊森林公园，有烧烤区和猴山，适合亲子和户外活动。","official_url":"","highlights":["森林","烧烤","亲子","免费"]},{"id":"九峰森林动物园","name":"九峰森林动物园","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"公园","address":"洪山区九峰乡","transport":"公交518路","fee":"收费","description":"森林中动物园，可自驾观赏动物，有猛兽区和草食动物区。","official_url":"","highlights":["森林动物园","自驾观赏","猛兽"]},{"id":"青山江滩公园","name":"青山江滩公园","source":"武汉本地宝","city":"wuhan","district":"青山区","type":"公园","address":"青山区临江大道","transport":"地铁5号线红钢城站","fee":"免费","description":"青山长江大堤公园，有草坪和健身步道，可观赏长江日落。","official_url":"","highlights":["江滩","健身步道","日落","免费"]},{"id":"藏龙岛湿地公园","name":"藏龙岛湿地公园","source":"武汉本地宝","city":"wuhan","district":"江夏区","type":"公园","address":"江夏区藏龙岛","transport":"地铁2号线佛祖岭站","fee":"免费","description":"江夏区大型湿地公园，有湖泊和候鸟栖息地，适合徒步和观鸟。","official_url":"","highlights":["湿地","观鸟","徒步","免费"]},{"id":"金银湖湿地公园","name":"金银湖湿地公园","source":"武汉本地宝","city":"wuhan","district":"东西湖区","type":"公园","address":"东西湖区金山大道","transport":"地铁6号线金银湖公园站","fee":"免费","description":"东西湖区国家城市湿地公园，有湖泊、芦苇荡和环湖绿道。","official_url":"","highlights":["城市湿地","芦苇荡","绿道","免费"]},{"id":"戴家湖公园","name":"戴家湖公园","source":"武汉本地宝","city":"wuhan","district":"青山区","type":"公园","address":"青山区建设十路","transport":"地铁5号线建设二路站","fee":"免费","description":"由粉煤灰堆场改造的生态公园，有工业遗迹和绿皮火车。","official_url":"","highlights":["生态修复","工业遗迹","绿皮火车","免费"]},{"id":"后襄河公园","name":"后襄河公园","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"公园","address":"江汉区常青路","transport":"地铁2号线汉口火车站","fee":"免费","description":"江汉区社区公园，有湖泊和健身设施，是周边居民休闲好去处。","official_url":"","highlights":["社区公园","湖泊","健身","免费"]},{"id":"堤角公园","name":"堤角公园","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"公园","address":"江岸区解放大道2058号","transport":"地铁1号线新荣站","fee":"免费","description":"武汉江南古典园林，有盆景园和樱花园，春季樱花盛开。","official_url":"","highlights":["古典园林","盆景园","樱花","免费"]},{"id":"武昌江滩公园","name":"武昌江滩公园","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区临江大道","transport":"地铁5号线昙华林站","fee":"免费","description":"武昌长江沿岸公园，可观赏长江和黄鹤楼，有观景平台和步道。","official_url":"","highlights":["长江风光","黄鹤楼","观景平台","免费"]},{"id":"汉阳江滩公园","name":"汉阳江滩公园","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"公园","address":"汉阳区晴川大道","transport":"地铁4号线拦江路站","fee":"免费","description":"汉阳长江沿岸公园，可观赏长江和龟山电视塔，秋季芦苇花海。","official_url":"","highlights":["长江风光","龟山电视塔","芦苇","免费"]},{"id":"龙王庙公园","name":"龙王庙公园","source":"武汉本地宝","city":"wuhan","district":"硚口区","type":"公园","address":"硚口区沿河大道","transport":"地铁6号线六渡桥站","fee":"免费","description":"汉江与长江交汇处的公园，有龙王庙和观景平台，可观赏两江交汇。","official_url":"","highlights":["两江交汇","龙王庙","观景","免费"]},{"id":"龟山风景区","name":"龟山风景区","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"公园","address":"汉阳区龟山北路","transport":"地铁4号线钟家村站","fee":"免费","description":"武汉城市山林，有三国鲁肃墓和电视塔，可俯瞰长江汉江交汇。","official_url":"","highlights":["三国鲁肃墓","电视塔","两江交汇","免费"]},{"id":"蛇山风景区","name":"蛇山风景区","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区武珞路","transport":"地铁4号线首义路站","fee":"免费","description":"黄鹤楼所在山体，有岳飞亭和首义炮台，是武汉历史文化名山。","official_url":"","highlights":["黄鹤楼","岳飞亭","首义炮台","免费"]},{"id":"洪山公园","name":"洪山公园","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"公园","address":"洪山区珞喻路","transport":"地铁2号线宝通寺站","fee":"免费","description":"以洪山宝塔为核心的城市公园，有宝通寺和无影塔。","official_url":"","highlights":["洪山宝塔","宝通寺","无影塔","免费"]},{"id":"黄鹤楼","name":"黄鹤楼","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区蛇山坡","transport":"地铁4号线复兴路站","fee":"收费","description":"江南三大名楼之首，李白崔颢题诗名扬天下，登楼可俯瞰长江和武汉三镇。","official_url":"","highlights":["江南名楼","李白崔颢","观长江"]},{"id":"归元禅寺","name":"归元禅寺","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"文化中心","address":"汉阳区翠微街20号","transport":"地铁4号线钟家村站","fee":"免费","description":"武汉四大佛教丛林之一，有五百罗汉堂和双面观音像，数罗汉求签闻名。","official_url":"","highlights":["五百罗汉","佛教丛林","数罗汉","免费"]},{"id":"古琴台","name":"古琴台","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"文化中心","address":"汉阳区琴台大道","transport":"地铁4号线钟家村站","fee":"收费","description":"纪念俞伯牙抚琴遇钟子期的知音圣地，高山流水觅知音典故发源地。","official_url":"","highlights":["知音文化","伯牙子期","高山流水"]},{"id":"晴川阁","name":"晴川阁","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"文化中心","address":"汉阳区洗马长街","transport":"地铁4号线拦江路站","fee":"免费","description":"与黄鹤楼隔江相望，崔颢晴川历历汉阳树即指此，有禹稷行宫。","official_url":"","highlights":["崔颢诗意","禹稷行宫","观黄鹤楼","免费"]},{"id":"长春观","name":"长春观","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区武珞路269号","transport":"地铁4号线梅苑小区站","fee":"收费","description":"武汉道教名观，因丘处机曾在此修炼得名，有道藏阁和太清殿。","official_url":"","highlights":["道教","丘处机","道藏阁"]},{"id":"宝通禅寺","name":"宝通禅寺","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"文化中心","address":"洪山区珞喻路339号","transport":"地铁2号线宝通寺站","fee":"收费","description":"武汉最古老寺院，有洪山宝塔和宋代铁钟，登塔可俯瞰武昌。","official_url":"","highlights":["最古寺院","洪山宝塔","宋代铁钟"]},{"id":"江汉关大楼","name":"江汉关大楼","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"文化中心","address":"江岸区沿江大道129号","transport":"地铁2/6号线江汉路站","fee":"免费","description":"武汉近代地标建筑，新古典主义风格，现为江汉关博物馆，钟声悠扬。","official_url":"","highlights":["近代地标","新古典主义","海关钟声","免费"]},{"id":"黎黄陂路","name":"黎黄陂路","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"文化中心","address":"江岸区黎黄陂路","transport":"地铁2/6号线江汉路站","fee":"免费","description":"街头博物馆历史街区，有俄式和欧式老建筑，文艺气息浓厚。","official_url":"","highlights":["街头博物馆","欧式建筑","文艺","免费"]},{"id":"江汉路步行街","name":"江汉路步行街","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"文化中心","address":"江汉区江汉路","transport":"地铁2/6号线江汉路站","fee":"免费","description":"武汉百年商业老街，有近代优秀建筑群，是武汉商业和文化名片。","official_url":"","highlights":["百年商业街","近代建筑","商业","免费"]},{"id":"昙华林","name":"昙华林","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区昙华林路","transport":"地铁5号线昙华林站","fee":"免费","description":"武汉文艺历史街区，有教堂、医院旧址和文创小店，文艺青年聚集地。","official_url":"","highlights":["文艺街区","教堂","文创","免费"]},{"id":"楚河汉街","name":"楚河汉街","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区中北路","transport":"地铁4号线楚河汉街站","fee":"免费","description":"民国风格商业文化街，沿楚河而建，有杜莎夫人蜡像馆和汉秀剧场。","official_url":"","highlights":["民国风情","楚河","杜莎蜡像馆","免费"]},{"id":"汉口里","name":"汉口里","source":"武汉本地宝","city":"wuhan","district":"硚口区","type":"文化中心","address":"硚口区园博园东路","transport":"地铁6号线园博园北站","fee":"免费","description":"园博园旁老汉口风貌街区，复建老字号和汉口老建筑，体验老汉口风情。","official_url":"","highlights":["老汉口风貌","老字号","免费"]},{"id":"中山大道","name":"中山大道","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"文化中心","address":"江汉区中山大道","transport":"地铁2/6号线江汉路站","fee":"免费","description":"武汉百年商业老街，有水塔和亨达利钟表等老字号，建筑文化底蕴深厚。","official_url":"","highlights":["百年老街","水塔","老字号","免费"]},{"id":"古德寺","name":"古德寺","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"文化中心","address":"江岸区黄浦路上滑坡74号","transport":"地铁1号线头道街站","fee":"免费","description":"混合欧亚宗教建筑风格的独特寺院，有印缅和哥特式建筑元素，拍照胜地。","official_url":"","highlights":["欧亚建筑","哥特式","拍照","免费"]},{"id":"大智门火车站旧址","name":"大智门火车站旧址","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"文化中心","address":"江岸区京汉大道","transport":"地铁1号线大智路站","fee":"免费","description":"中国早期火车站，法式建筑风格，是卢汉铁路终点站，现为历史保护建筑。","official_url":"","highlights":["法式建筑","卢汉铁路","历史建筑","免费"]},{"id":"武汉大学","name":"武汉大学","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区八一路299号","transport":"地铁2号线街道口站","fee":"免费需预约","description":"中国最美大学之一，珞珈山樱花闻名天下，有民国建筑群和老图书馆。","official_url":"","highlights":["珞珈山樱花","民国建筑","最美大学","免费"]},{"id":"宝岛公园","name":"宝岛公园","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"公园","address":"江岸区台北路","transport":"地铁6号线苗栗路站","fee":"免费","description":"以台湾风情为主题的社区公园，有湖泊和健身步道，环境清幽。","official_url":"","highlights":["台湾风情","湖泊","健身","免费"]},{"id":"汉阳造文化创意园","name":"汉阳造文化创意园","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"文化中心","address":"汉阳区龟山北路","transport":"地铁4号线钟家村站","fee":"免费","description":"由国营824厂改造的文创园区，有艺术工作室、咖啡馆和涂鸦墙。","official_url":"","highlights":["文创园","涂鸦","艺术工作室","免费"]},{"id":"平和打包厂旧址","name":"平和打包厂旧址","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"文化中心","address":"江岸区青岛路10号","transport":"地铁2/6号线江汉路站","fee":"免费","description":"英国商人开设的打包厂旧址，现为书店和文化空间，工业遗产活化典范。","official_url":"","highlights":["工业遗产","书店","打包厂","免费"]},{"id":"翟雅阁健身博物馆","name":"翟雅阁健身博物馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"博物馆","address":"武昌区昙华林路","transport":"地铁5号线昙华林站","fee":"免费","description":"武汉近代教育建筑，由美国设计师设计，现展示体育健身文化。","official_url":"","highlights":["近代教育建筑","健身文化","免费"]},{"id":"武汉欢乐谷","name":"武汉欢乐谷","source":"武汉本地宝","city":"wuhan","district":"东湖高新区","type":"公园","address":"东湖高新区欢乐大道196号","transport":"地铁4号线工业四路站","fee":"收费","description":"大型主题乐园，有极速世界、飓风湾等主题区，木质过山车刺激。","official_url":"","highlights":["主题乐园","木质过山车","亲子"]},{"id":"武汉玛雅海滩水公园","name":"武汉玛雅海滩水公园","source":"武汉本地宝","city":"wuhan","district":"东湖高新区","type":"公园","address":"东湖高新区欢乐大道","transport":"地铁4号线工业四路站","fee":"收费","description":"夏季水上乐园，有造浪池、漂流河和多种滑道，暑期消暑胜地。","official_url":"","highlights":["水上乐园","造浪池","夏季消暑"]},{"id":"武汉海昌极地海洋公园","name":"武汉海昌极地海洋公园","source":"武汉本地宝","city":"wuhan","district":"东西湖区","type":"公园","address":"东西湖区金银潭大道","transport":"地铁2号线金银潭站","fee":"收费","description":"极地动物和海洋生物主题公园，有企鹅、白鲸和海豚表演。","official_url":"","highlights":["极地动物","企鹅","海豚表演"]},{"id":"武汉东湖海洋世界","name":"武汉东湖海洋世界","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区沿湖大道20号","transport":"地铁8号线梨园站","fee":"收费","description":"东湖风景区内海洋馆，有海底隧道和企鹅馆，适合亲子游玩。","official_url":"","highlights":["海底隧道","企鹅","亲子"]},{"id":"武汉野生动物王国","name":"武汉野生动物王国","source":"武汉本地宝","city":"wuhan","district":"蔡甸区","type":"公园","address":"蔡甸区张湾街","transport":"自驾","fee":"收费","description":"大型野生动物园，可自驾或乘车观赏动物，有猛兽区和草食动物区。","official_url":"","highlights":["野生动物","自驾观赏","猛兽"]},{"id":"汉秀剧场","name":"汉秀剧场","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"演出场馆","address":"武昌区水果湖街","transport":"地铁4号线楚河汉街站","fee":"收费","description":"由马克·费舍尔设计的水秀剧场，有水下舞台和高空跳水表演，视觉震撼。","official_url":"","highlights":["水秀","水下舞台","高空跳水"]},{"id":"湖北省图书馆","name":"湖北省图书馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"图书馆","address":"武昌区公正路25号","transport":"地铁2号线小龟山站","fee":"免费","description":"中国最早建立的省级公共图书馆，古籍善本丰富，有少儿阅览区。","official_url":"","highlights":["省级图书馆","古籍善本","免费"]},{"id":"武汉图书馆","name":"武汉图书馆","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"图书馆","address":"江汉区建设大道861号","transport":"地铁3号线菱角湖站","fee":"免费","description":"武汉市公共图书馆，馆藏丰富，提供阅览、借阅和文化讲座服务。","official_url":"","highlights":["公共图书馆","阅读","讲座","免费"]},{"id":"武汉市少年儿童图书馆","name":"武汉市少年儿童图书馆","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"图书馆","address":"江岸区南京路64号","transport":"地铁2/6号线江汉路站","fee":"免费","description":"专为少年儿童服务的公共图书馆，有绘本馆和亲子阅读活动。","official_url":"","highlights":["少儿图书馆","绘本馆","亲子阅读","免费"]},{"id":"汤湖图书馆","name":"汤湖图书馆","source":"武汉本地宝","city":"wuhan","district":"蔡甸区","type":"图书馆","address":"蔡甸区兴华路","transport":"地铁3号线沌阳大道站","fee":"免费","description":"由日本设计师设计的湖畔图书馆，环境优美，有少儿区和咖啡吧。","official_url":"","highlights":["湖畔图书馆","建筑设计","少儿区","免费"]},{"id":"青山图书馆","name":"青山图书馆","source":"武汉本地宝","city":"wuhan","district":"青山区","type":"图书馆","address":"青山区和平大道","transport":"地铁5号线红钢城站","fee":"免费","description":"青山区公共图书馆，提供图书借阅和文化活动，有电子阅览室。","official_url":"","highlights":["区级图书馆","电子阅览","免费"]},{"id":"武昌区图书馆","name":"武昌区图书馆","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"图书馆","address":"武昌区三道街","transport":"地铁5号线昙华林站","fee":"免费","description":"武昌区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。","official_url":"","highlights":["区级图书馆","阅读推广","免费"]},{"id":"合美术馆","name":"合美术馆","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"美术馆","address":"洪山区野芷湖西路","transport":"地铁8号线马房山站","fee":"免费","description":"由光谷联合集团创办的当代美术馆，展示当代艺术和摄影作品。","official_url":"","highlights":["当代艺术","摄影","免费"]},{"id":"汤湖美术馆","name":"汤湖美术馆","source":"武汉本地宝","city":"wuhan","district":"蔡甸区","type":"美术馆","address":"蔡甸区兴华路","transport":"地铁3号线沌阳大道站","fee":"免费","description":"汤湖公园内美术馆，展示当代艺术和书法绘画作品。","official_url":"","highlights":["当代艺术","书法绘画","免费"]},{"id":"武汉体育中心","name":"武汉体育中心","source":"武汉本地宝","city":"wuhan","district":"蔡甸区","type":"体育中心","address":"蔡甸区车城北路","transport":"地铁3号线体育中心站","fee":"收费","description":"大型体育中心，有体育场、体育馆和游泳馆，举办中超赛事和演唱会。","official_url":"","highlights":["体育场","中超赛事","演唱会"]},{"id":"武汉五环体育中心","name":"武汉五环体育中心","source":"武汉本地宝","city":"wuhan","district":"东西湖区","type":"体育中心","address":"东西湖区金山大道","transport":"地铁6号线五环体育中心站","fee":"收费","description":"东西湖区大型体育中心，有体育场和体育馆，举办赛事和活动。","official_url":"","highlights":["体育场","体育馆","赛事"]},{"id":"光谷国际网球中心","name":"光谷国际网球中心","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"体育中心","address":"洪山区高新二路","transport":"地铁11号线光谷生物园站","fee":"收费","description":"WTA武汉网球公开赛举办地，有中央球场和室内训练馆。","official_url":"","highlights":["WTA赛事","网球","中央球场"]},{"id":"武汉全民健身中心","name":"武汉全民健身中心","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"体育中心","address":"江岸区后湖大道","transport":"地铁3号线后湖大道站","fee":"收费","description":"市民健身综合场馆，有游泳、羽毛球和乒乓球等设施。","official_url":"","highlights":["全民健身","游泳","羽毛球"]},{"id":"武汉天地","name":"武汉天地","source":"武汉本地宝","city":"wuhan","district":"江岸区","type":"文化中心","address":"江岸区芦沟桥路28号","transport":"地铁1号线黄浦路站","fee":"免费","description":"由老厂房改造的商业文化街区，有餐饮、艺术展览和江景，时尚休闲地。","official_url":"","highlights":["老厂房改造","艺术展览","江景","免费"]},{"id":"光谷步行街","name":"光谷步行街","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"文化中心","address":"洪山区珞喻路","transport":"地铁2号线光谷广场站","fee":"免费","description":"世界最长步行街，有世界城、西班牙风情街和意大利风情街。","official_url":"","highlights":["最长步行街","风情街","购物","免费"]},{"id":"楚河汉街万达广场","name":"楚河汉街万达广场","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区中北路","transport":"地铁4号线楚河汉街站","fee":"免费","description":"楚河汉街大型商业综合体，有购物、餐饮和汉秀剧场。","official_url":"","highlights":["商业综合体","购物","汉秀","免费"]},{"id":"武汉国际广场","name":"武汉国际广场","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"文化中心","address":"江汉区解放大道690号","transport":"地铁2号线中山公园站","fee":"免费","description":"武汉高端商业综合体，汇聚奢侈品品牌和米其林餐饮。","official_url":"","highlights":["高端商业","奢侈品","米其林","免费"]},{"id":"武汉群星城","name":"武汉群星城","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区徐东大街","transport":"地铁8号线徐东站","fee":"免费","description":"以生态为主题的大型购物中心，有屋顶花园和室内瀑布。","official_url":"","highlights":["生态主题","屋顶花园","室内瀑布","免费"]},{"id":"武汉K11 Select","name":"武汉K11 Select","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"文化中心","address":"洪山区关山大道","transport":"地铁2号线光谷大道站","fee":"免费","description":"光谷艺术购物中心，融合艺术与商业，有创意设计和文化空间。","official_url":"","highlights":["艺术商业","创意设计","文化空间","免费"]},{"id":"武汉荟聚中心","name":"武汉荟聚中心","source":"武汉本地宝","city":"wuhan","district":"硚口区","type":"文化中心","address":"硚口区园博园东路","transport":"地铁6号线园博园北站","fee":"免费","description":"大型家居购物中心，有宜家和亲子娱乐设施，适合家庭购物。","official_url":"","highlights":["家居购物","宜家","亲子","免费"]},{"id":"武汉梦时代广场","name":"武汉梦时代广场","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区武珞路","transport":"地铁2号线宝通寺站","fee":"免费","description":"全球最大纯商业体，有室内滑雪场和过山车，购物娱乐一体。","official_url":"","highlights":["全球最大商业体","室内滑雪","过山车","免费"]},{"id":"东湖绿道","name":"东湖绿道","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区东湖","transport":"地铁8号线梨园站","fee":"免费","description":"世界级环湖绿道，全长101公里，可骑行和徒步，串联东湖各景区。","official_url":"","highlights":["环湖绿道","骑行","徒步","免费"]},{"id":"武汉长江大桥","name":"武汉长江大桥","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"文化中心","address":"武昌区临江大道","transport":"地铁5号线司门口黄鹤楼站","fee":"免费","description":"万里长江第一桥，1957年建成，可步行过江观赏长江和黄鹤楼。","official_url":"","highlights":["长江第一桥","步行过江","观江景","免费"]},{"id":"晴川桥","name":"晴川桥","source":"武汉本地宝","city":"wuhan","district":"汉阳区","type":"文化中心","address":"汉阳区晴川大道","transport":"地铁4号线拦江路站","fee":"免费","description":"汉江上拱桥，连接汉口和汉阳，可观赏汉江和两江交汇。","official_url":"","highlights":["汉江拱桥","两江交汇","观景","免费"]},{"id":"武汉大学樱花大道","name":"武汉大学樱花大道","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区八一路299号","transport":"地铁2号线街道口站","fee":"免费需预约","description":"武大樱花闻名全国，春季樱花盛开时如云似霞，是赏樱胜地。","official_url":"","highlights":["樱花","春季赏花","大学","免费"]},{"id":"磨山风景区","name":"磨山风景区","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区沿湖大道","transport":"地铁8号线磨山站","fee":"免费","description":"东湖核心景区，有樱花园、梅花园和楚城，春季赏花胜地。","official_url":"","highlights":["樱花园","梅花园","楚城","免费"]},{"id":"落雁景区","name":"落雁景区","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区落雁路","transport":"公交513路","fee":"免费","description":"东湖生态最好的景区，有湿地和候鸟栖息地，秋季芦荻花海壮观。","official_url":"","highlights":["湿地","候鸟","芦荻花海","免费"]},{"id":"吹笛景区(马鞍山)","name":"吹笛景区(马鞍山)","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"公园","address":"洪山区珞喻东路","transport":"公交518路","fee":"免费","description":"东湖最大景区，有森林和烧烤区，适合户外拓展和亲子活动。","official_url":"","highlights":["森林","烧烤","户外拓展","免费"]},{"id":"武汉园博园","name":"武汉园博园","source":"武汉本地宝","city":"wuhan","district":"硚口区","type":"公园","address":"硚口区金山大道","transport":"地铁6号线园博园北站","fee":"收费","description":"园林博览会举办地，有全国各地园林景观和长江文明馆。","official_url":"","highlights":["园林景观","长江文明馆","园博会"]},{"id":"陕西历史博物馆","name":"陕西历史博物馆","source":"西安本地宝","city":"xian","district":"雁塔区","type":"博物馆","address":"雁塔区小寨东路91号","transport":"地铁2号线小寨站","fee":"免费需预约","description":"中国第一座大型现代化国家级博物馆，馆藏文物170余万件，何家村窖藏闻名。","official_url":"","highlights":["国家级博物馆","何家村窖藏","免费"]},{"id":"西安博物院","name":"西安博物院","source":"西安本地宝","city":"xian","district":"碑林区","type":"博物馆","address":"碑林区友谊西路72号","transport":"地铁2号线南稍门站","fee":"免费需预约","description":"与小雁塔一体的博物馆，馆藏唐代金银器和佛教造像，园林优美。","official_url":"","highlights":["小雁塔","唐代金银器","免费"]},{"id":"陕西科技馆","name":"陕西科技馆","source":"西安本地宝","city":"xian","district":"新城区","type":"科技馆","address":"新城区西新街8号","transport":"地铁2号线钟楼站","fee":"免费需预约","description":"陕西省科普教育场馆，有机械、声光电磁等互动展区，适合亲子。","official_url":"","highlights":["科普互动","声光电磁","免费"]},{"id":"秦始皇帝陵博物院","name":"秦始皇帝陵博物院","source":"西安本地宝","city":"xian","district":"临潼区","type":"博物馆","address":"临潼区秦陵北路","transport":"自驾","fee":"收费","description":"世界第八大奇迹，秦始皇兵马俑坑和铜车马闻名于世，为世界文化遗产。","official_url":"","highlights":["兵马俑","世界遗产","铜车马"]},{"id":"西安碑林博物馆","name":"西安碑林博物馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"博物馆","address":"碑林区三学街15号","transport":"地铁2号线永宁门站","fee":"收费","description":"中国收藏碑石最多博物馆，有开成石经和大秦景教流行中国碑。","official_url":"","highlights":["碑石","开成石经","大秦景教碑"]},{"id":"半坡遗址博物馆","name":"半坡遗址博物馆","source":"西安本地宝","city":"xian","district":"灞桥区","type":"博物馆","address":"灞桥区半引路155号","transport":"地铁1号线半坡站","fee":"收费","description":"中国第一座史前遗址博物馆，展示六千年前仰韶文化母系氏族聚落遗址。","official_url":"","highlights":["仰韶文化","史前遗址","母系氏族"]},{"id":"大明宫遗址博物馆","name":"大明宫遗址博物馆","source":"西安本地宝","city":"xian","district":"未央区","type":"博物馆","address":"未央区自强东路585号","transport":"地铁4号线大明宫站","fee":"免费","description":"唐大明宫遗址博物馆，展示唐代皇宫遗址和出土文物，含丹凤门遗址。","official_url":"","highlights":["唐大明宫","丹凤门","遗址","免费"]},{"id":"汉阳陵博物院","name":"汉阳陵博物院","source":"西安本地宝","city":"xian","district":"咸阳市","type":"博物馆","address":"咸阳市渭城区正阳镇","transport":"自驾","fee":"收费","description":"汉景帝刘启陵墓博物馆，地下遗址展厅可观赏汉代陶俑和文物。","official_url":"","highlights":["汉景帝","陶俑","地下展厅"]},{"id":"陕西自然博物馆","name":"陕西自然博物馆","source":"西安本地宝","city":"xian","district":"雁塔区","type":"博物馆","address":"雁塔区长安南路88号","transport":"地铁2号线会展中心站","fee":"收费","description":"展示自然历史和科学技术，有肯尼斯·贝林展馆和煤海之光展馆。","official_url":"","highlights":["自然历史","贝林展馆","科技"]},{"id":"西安市钟鼓楼博物馆","name":"西安市钟鼓楼博物馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"博物馆","address":"碑林区西大街","transport":"地铁2号线钟楼站","fee":"收费","description":"西安钟楼和鼓楼，钟楼为中国现存最大钟楼，登楼可俯瞰古城四方。","official_url":"","highlights":["钟楼","鼓楼","俯瞰古城"]},{"id":"大唐西市博物馆","name":"大唐西市博物馆","source":"西安本地宝","city":"xian","district":"莲湖区","type":"博物馆","address":"莲湖区劳动南路118号","transport":"地铁1号线劳动路站","fee":"免费","description":"建在唐代西市遗址上的民办博物馆，展示丝绸之路起点和唐代市井文化。","official_url":"","highlights":["丝绸之路","唐代西市","免费"]},{"id":"西安事变纪念馆","name":"西安事变纪念馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"博物馆","address":"碑林区建国路69号","transport":"地铁4号线大差市站","fee":"免费","description":"张学良公馆旧址，展示西安事变历史和张学良将军生平事迹。","official_url":"","highlights":["西安事变","张学良","免费"]},{"id":"八路军西安办事处纪念馆","name":"八路军西安办事处纪念馆","source":"西安本地宝","city":"xian","district":"新城区","type":"博物馆","address":"新城区北新街七贤庄","transport":"地铁1号线五路口站","fee":"免费","description":"抗战时期八路军西安办事处旧址，展示抗战历史和革命文物。","official_url":"","highlights":["八路军办事处","抗战","免费"]},{"id":"西安博物院(小雁塔)","name":"西安博物院(小雁塔)","source":"西安本地宝","city":"xian","district":"碑林区","type":"博物馆","address":"碑林区友谊西路","transport":"地铁2号线南稍门站","fee":"免费需预约","description":"小雁塔和西安博物院一体，荐福寺塔历经地震裂合奇迹。","official_url":"","highlights":["小雁塔","荐福寺","裂合奇迹","免费"]},{"id":"陕西美术博物馆","name":"陕西美术博物馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"美术馆","address":"碑林区长安北路14号","transport":"地铁2号线省体育场站","fee":"免费","description":"陕西省美术博物馆，展示陕西历代美术作品和当代艺术展览。","official_url":"","highlights":["美术作品","当代艺术","免费"]},{"id":"曲江艺术博物馆","name":"曲江艺术博物馆","source":"西安本地宝","city":"xian","district":"雁塔区","type":"美术馆","address":"雁塔区大雁塔南广场","transport":"地铁4号线大雁塔站","fee":"收费","description":"曲江新区艺术博物馆，展示古代壁画和当代艺术，有金缕玉衣展览。","official_url":"","highlights":["古代壁画","金缕玉衣","当代艺术"]},{"id":"西安美术馆","name":"西安美术馆","source":"西安本地宝","city":"xian","district":"雁塔区","type":"美术馆","address":"雁塔区曲江新区","transport":"地铁4号线大唐芙蓉园站","fee":"免费","description":"曲江新区当代美术馆，展示当代艺术和实验艺术作品。","official_url":"","highlights":["当代艺术","实验艺术","免费"]},{"id":"西安大唐西市博物馆","name":"西安大唐西市博物馆","source":"西安本地宝","city":"xian","district":"莲湖区","type":"博物馆","address":"莲湖区劳动南路","transport":"地铁1号线劳动路站","fee":"免费","description":"丝绸之路东方起点的唐代西市遗址博物馆，展示唐代商业和丝路文化。","official_url":"","highlights":["丝路起点","唐代商业","免费"]},{"id":"西北农林科技大学博览园","name":"西北农林科技大学博览园","source":"西安本地宝","city":"xian","district":"杨凌区","type":"博物馆","address":"杨凌示范区邰城路3号","transport":"自驾","fee":"收费","description":"中国最大农业博物馆群，有昆虫馆、动物馆和土壤馆，科普性强。","official_url":"","highlights":["农业博物馆","昆虫","动物标本"]},{"id":"西安城市规划展览馆","name":"西安城市规划展览馆","source":"西安本地宝","city":"xian","district":"未央区","type":"博物馆","address":"未央区张家堡","transport":"地铁2号线行政中心站","fee":"免费","description":"展示西安城市规划历史和未来发展，有城市模型和沙盘。","official_url":"","highlights":["城市规划","城市模型","免费"]},{"id":"大雁塔景区","name":"大雁塔景区","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区慈恩西路","transport":"地铁4号线大雁塔站","fee":"免费","description":"大雁塔和南北广场，亚洲最大矩阵音乐喷泉闻名，是西安地标。","official_url":"","highlights":["大雁塔","音乐喷泉","地标","免费"]},{"id":"曲江池遗址公园","name":"曲江池遗址公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区曲江池西路","transport":"地铁4号线曲江池西站","fee":"免费","description":"唐代曲江池皇家园林遗址，环湖景观优美，有阅江楼和石羊。","official_url":"","highlights":["唐代园林","环湖景观","阅江楼","免费"]},{"id":"西安植物园","name":"西安植物园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区翠华南路","transport":"地铁2号线会展中心站","fee":"收费","description":"陕西省植物园，有郁金香、牡丹、樱花等专类园，春季赏花胜地。","official_url":"","highlights":["郁金香","牡丹","樱花"]},{"id":"大唐芙蓉园","name":"大唐芙蓉园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区芙蓉西路99号","transport":"地铁4号线大唐芙蓉园站","fee":"收费","description":"中国第一个全方位展示盛唐风貌的大型皇家园林，夜景灯光和水幕电影闻名。","official_url":"","highlights":["盛唐园林","夜景灯光","水幕电影"]},{"id":"兴庆宫公园","name":"兴庆宫公园","source":"西安本地宝","city":"xian","district":"碑林区","type":"公园","address":"碑林区咸宁西路55号","transport":"地铁6号线交通大学站","fee":"免费","description":"唐代兴庆宫遗址公园，有沉香亭和阿培仲麻吕纪念碑，西安老牌公园。","official_url":"","highlights":["兴庆宫","沉香亭","唐代遗址","免费"]},{"id":"环城公园","name":"环城公园","source":"西安本地宝","city":"xian","district":"碑林区","type":"公园","address":"碑林区环城南路","transport":"地铁2号线永宁门站","fee":"免费","description":"沿西安城墙环绕的公园，有护城河和环城林带，适合散步和观赏城墙。","official_url":"","highlights":["城墙","护城河","环城林带","免费"]},{"id":"莲湖公园","name":"莲湖公园","source":"西安本地宝","city":"xian","district":"莲湖区","type":"公园","address":"莲湖区莲湖路18号","transport":"地铁1号线洒金桥站","fee":"免费","description":"西安老牌公园，有荷花池和茶社，夏季荷花盛开，承载老西安记忆。","official_url":"","highlights":["荷花池","茶社","老牌公园","免费"]},{"id":"浐灞国家湿地公园","name":"浐灞国家湿地公园","source":"西安本地宝","city":"xian","district":"未央区","type":"公园","address":"未央区浐灞生态区","transport":"地铁3号线浐灞中心站","fee":"免费","description":"国家级湿地公园，有湖泊、芦苇荡和候鸟栖息地，生态优美。","official_url":"","highlights":["湿地","候鸟","生态","免费"]},{"id":"汉城湖公园","name":"汉城湖公园","source":"西安本地宝","city":"xian","district":"未央区","type":"公园","address":"未央区凤城三路","transport":"地铁4号线凤城九路站","fee":"免费","description":"以汉长安城护城河为基础的公园，有大风阁和汉武大帝雕像，汉文化主题。","official_url":"","highlights":["汉文化","大风阁","护城河","免费"]},{"id":"昆明池七夕公园","name":"昆明池七夕公园","source":"西安本地宝","city":"xian","district":"长安区","type":"公园","address":"长安区斗门街道","transport":"自驾","fee":"免费","description":"中国第一大型人工湖昆明池遗址，牛郎织女发源地，七夕文化主题。","official_url":"","highlights":["昆明池","七夕文化","牛郎织女","免费"]},{"id":"翠华山国家地质公园","name":"翠华山国家地质公园","source":"西安本地宝","city":"xian","district":"长安区","type":"公园","address":"长安区太乙宫街道","transport":"自驾","fee":"收费","description":"中国山崩地质奇观，有冰洞、风洞和天池，是西安近郊登山胜地。","official_url":"","highlights":["山崩地质","冰洞","天池"]},{"id":"南湖公园","name":"南湖公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区曲江池西路","transport":"地铁4号线曲江池西站","fee":"免费","description":"曲江池遗址公园核心景区，湖面宽阔，有亭台和石桥，夜景优美。","official_url":"","highlights":["湖景","亭台","夜景","免费"]},{"id":"革命公园","name":"革命公园","source":"西安本地宝","city":"xian","district":"新城区","type":"公园","address":"新城区西五路","transport":"地铁1号线五路口站","fee":"免费","description":"为纪念北伐战争烈士而建，有革命亭和杨虎城将军雕像。","official_url":"","highlights":["革命烈士","革命亭","杨虎城","免费"]},{"id":"长乐公园","name":"长乐公园","source":"西安本地宝","city":"xian","district":"新城区","type":"公园","address":"新城区长乐路","transport":"地铁1号线长乐坡站","fee":"免费","description":"由老动物园改造的城市公园，有湖泊和健身设施，是周边居民休闲地。","official_url":"","highlights":["城市公园","湖泊","健身","免费"]},{"id":"丰庆公园","name":"丰庆公园","source":"西安本地宝","city":"xian","district":"莲湖区","type":"公园","address":"莲湖区丰庆路","transport":"地铁1号线开远门站","fee":"免费","description":"西安老牌公园，有湖景和竹林，秋季银杏和红枫景色优美。","official_url":"","highlights":["湖景","银杏","红枫","免费"]},{"id":"文景山公园","name":"文景山公园","source":"西安本地宝","city":"xian","district":"未央区","type":"公园","address":"未央区文景路","transport":"地铁2号线行政中心站","fee":"免费","description":"由建筑垃圾堆改造的生态公园，有山丘和草坪，适合休闲散步。","official_url":"","highlights":["生态公园","山丘","草坪","免费"]},{"id":"灞桥生态湿地公园","name":"灞桥生态湿地公园","source":"西安本地宝","city":"xian","district":"灞桥区","type":"公园","address":"灞桥区灞河","transport":"地铁1号线纺织城站","fee":"免费","description":"沿灞河的湿地公园，有芦苇荡和栈道，是观鸟和散步的好去处。","official_url":"","highlights":["湿地","灞河","观鸟","免费"]},{"id":"文景公园","name":"文景公园","source":"西安本地宝","city":"xian","district":"未央区","type":"公园","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"社区公园，有湖泊和儿童游乐设施，适合亲子休闲。","official_url":"","highlights":["社区公园","儿童游乐","亲子","免费"]},{"id":"老城根G park公园","name":"老城根G park公园","source":"西安本地宝","city":"xian","district":"莲湖区","type":"公园","address":"莲湖区星火路","transport":"地铁1号线洒金桥站","fee":"免费","description":"老城根商业区公园，有水景和艺术装置，适合拍照打卡。","official_url":"","highlights":["商业区公园","艺术装置","拍照","免费"]},{"id":"杜邑遗址公园","name":"杜邑遗址公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区杜陵","transport":"自驾","fee":"免费","description":"汉代杜陵遗址公园，有大草坪和花海，是露营和踏青胜地。","official_url":"","highlights":["杜陵遗址","草坪","露营","免费"]},{"id":"雁鸣湖湿地公园","name":"雁鸣湖湿地公园","source":"西安本地宝","city":"xian","district":"灞桥区","type":"公园","address":"灞桥区浐河","transport":"地铁5号线雁鸣湖站","fee":"免费","description":"浐河沿线湿地公园，有湖泊和候鸟，适合散步和骑行。","official_url":"","highlights":["湿地","候鸟","骑行","免费"]},{"id":"世博园","name":"世博园","source":"西安本地宝","city":"xian","district":"灞桥区","type":"公园","address":"灞桥区世博大道1号","transport":"地铁3号线香湖湾站","fee":"免费","description":"2011世园会旧址，有长安塔、创意馆和自然馆，湖光山色优美。","official_url":"","highlights":["世园会","长安塔","湖景","免费"]},{"id":"木塔寺公园","name":"木塔寺公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区科技六路","transport":"地铁6号线木塔寺站","fee":"免费","description":"唐代木塔寺遗址公园，有古塔遗址和园林景观，环境清幽。","official_url":"","highlights":["木塔寺遗址","唐代园林","免费"]},{"id":"新纪元公园","name":"新纪元公园","source":"西安本地宝","city":"xian","district":"未央区","type":"公园","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"未央区社区公园，有草坪和健身步道，是市民休闲好去处。","official_url":"","highlights":["社区公园","草坪","健身","免费"]},{"id":"樱花广场","name":"樱花广场","source":"西安本地宝","city":"xian","district":"长安区","type":"公园","address":"长安区韦曲北街","transport":"地铁2号线航天城站","fee":"免费","description":"长安区以樱花为主题的广场，春季樱花盛开，是赏樱胜地。","official_url":"","highlights":["樱花","春季赏花","广场","免费"]},{"id":"航天城中湖公园","name":"航天城中湖公园","source":"西安本地宝","city":"xian","district":"长安区","type":"公园","address":"长安区航天大道","transport":"地铁4号线航天大道站","fee":"免费","description":"航天新城中央公园，有湖泊和草坪，适合亲子和休闲。","official_url":"","highlights":["中央公园","湖泊","亲子","免费"]},{"id":"潏河公园","name":"潏河公园","source":"西安本地宝","city":"xian","district":"长安区","type":"公园","address":"长安区潏河","transport":"自驾","fee":"免费","description":"沿潏河的生态公园，有湿地和花海，适合散步和露营。","official_url":"","highlights":["湿地","花海","露营","免费"]},{"id":"紫薇城市运动公园","name":"紫薇城市运动公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"体育中心","address":"雁塔区科技路","transport":"地铁3号线科技路站","fee":"免费","description":"高新区运动主题公园，有网球场和篮球场，适合运动健身。","official_url":"","highlights":["运动主题","网球","篮球","免费"]},{"id":"唐城墙遗址公园","name":"唐城墙遗址公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区唐延路","transport":"地铁3号线延平门站","fee":"免费","description":"唐代城墙遗址公园，沿唐延路带状分布，有绿化和步道，适合散步。","official_url":"","highlights":["唐城墙遗址","步道","绿化","免费"]},{"id":"秦始皇兵马俑","name":"秦始皇兵马俑","source":"西安本地宝","city":"xian","district":"临潼区","type":"文化中心","address":"临潼区秦陵北路","transport":"自驾","fee":"收费","description":"世界第八大奇迹，秦始皇陵兵马俑坑，数千陶俑陶马栩栩如生。","official_url":"","highlights":["世界奇迹","陶俑","秦始皇陵"]},{"id":"大雁塔","name":"大雁塔","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区慈恩西路","transport":"地铁4号线大雁塔站","fee":"收费","description":"唐代玄奘为藏经译经而建，七层楼阁式砖塔，为西安标志性建筑。","official_url":"","highlights":["玄奘","藏经译经","标志性建筑"]},{"id":"小雁塔","name":"小雁塔","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区友谊西路72号","transport":"地铁2号线南稍门站","fee":"免费需预约","description":"唐代荐福寺塔，密檐式砖塔，历经地震裂合堪称奇迹，为世界遗产。","official_url":"","highlights":["荐福寺","密檐砖塔","世界遗产","免费"]},{"id":"西安城墙","name":"西安城墙","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区南大街","transport":"地铁2号线永宁门站","fee":"收费","description":"中国现存最完整古代城垣，可骑行和漫步城墙，夜景灯光秀壮观。","official_url":"","highlights":["古代城垣","城墙骑行","夜景灯光"]},{"id":"华清宫","name":"华清宫","source":"西安本地宝","city":"xian","district":"临潼区","type":"文化中心","address":"临潼区华清路38号","transport":"自驾","fee":"收费","description":"唐代皇家温泉行宫，杨贵妃赐浴处，有长恨歌实景演出和骊山兵谏亭。","official_url":"","highlights":["皇家温泉","杨贵妃","长恨歌演出"]},{"id":"钟楼","name":"钟楼","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区东西南北大街","transport":"地铁2号线钟楼站","fee":"收费","description":"中国现存最大最完整古代钟楼，登楼可俯瞰古城四方，夜景壮观。","official_url":"","highlights":["最大钟楼","俯瞰古城","夜景"]},{"id":"鼓楼","name":"鼓楼","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区北院门","transport":"地铁2号线钟楼站","fee":"收费","description":"中国现存最大古代鼓楼，与钟楼相望，晨钟暮鼓，回民街相邻。","official_url":"","highlights":["最大鼓楼","晨钟暮鼓","回民街"]},{"id":"回民街","name":"回民街","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区北院门","transport":"地铁2号线钟楼站","fee":"免费","description":"西安著名美食文化街区，有牛羊肉泡馍、肉夹馍等西北美食，热闹非凡。","official_url":"","highlights":["美食街区","肉夹馍","羊肉泡馍","免费"]},{"id":"大唐不夜城","name":"大唐不夜城","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区慈恩路","transport":"地铁4号线大雁塔站","fee":"免费","description":"以盛唐文化为主题的步行街，有不倒翁小姐姐和灯光秀，网红打卡地。","official_url":"","highlights":["盛唐文化","不倒翁","灯光秀","免费"]},{"id":"大明宫国家遗址公园","name":"大明宫国家遗址公园","source":"西安本地宝","city":"xian","district":"未央区","type":"文化中心","address":"未央区自强东路585号","transport":"地铁4号线大明宫站","fee":"免费","description":"唐代大明宫遗址，含丹凤门和含元殿遗址，是唐代最大皇宫。","official_url":"","highlights":["唐大明宫","丹凤门","含元殿","免费"]},{"id":"大唐西市","name":"大唐西市","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区劳动南路","transport":"地铁1号线劳动路站","fee":"免费","description":"丝绸之路东方起点，再现唐代西市商业繁华，有博物馆和商业街。","official_url":"","highlights":["丝路起点","唐代西市","商业街","免费"]},{"id":"永兴坊","name":"永兴坊","source":"西安本地宝","city":"xian","district":"新城区","type":"文化中心","address":"新城区中山门","transport":"地铁1号线朝阳门站","fee":"免费","description":"陕西非遗美食街区，有摔碗酒和各地特色小吃，体验关中民俗。","official_url":"","highlights":["非遗美食","摔碗酒","关中民俗","免费"]},{"id":"书院门","name":"书院门","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区书院门","transport":"地铁2号线永宁门站","fee":"免费","description":"西安文化古街，有碑林和文房四宝店铺，文化氛围浓厚。","official_url":"","highlights":["文化古街","文房四宝","碑林","免费"]},{"id":"德福巷","name":"德福巷","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区德福巷","transport":"地铁2号线永宁门站","fee":"免费","description":"西安咖啡馆一条街，有文艺小店和特色咖啡馆，适合休闲。","official_url":"","highlights":["咖啡馆街","文艺小店","休闲","免费"]},{"id":"湘子庙街","name":"湘子庙街","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区湘子庙街","transport":"地铁2号线永宁门站","fee":"免费","description":"西安老街巷，有韩湘子庙和传统民居，闹中取静，文艺气息浓。","official_url":"","highlights":["韩湘子庙","老街巷","文艺","免费"]},{"id":"大兴善寺","name":"大兴善寺","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区兴善寺西街55号","transport":"地铁2号线小寨站","fee":"免费","description":"中国佛教密宗祖庭，隋唐长安三大译经场之一，历史悠久香火旺盛。","official_url":"","highlights":["密宗祖庭","译经场","免费"]},{"id":"青龙寺","name":"青龙寺","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区西影路","transport":"地铁3号线青龙寺站","fee":"免费需预约","description":"唐代佛教密宗祖庭，日本佛教真言宗祖庭，春季樱花闻名。","official_url":"","highlights":["密宗祖庭","樱花","真言宗","免费"]},{"id":"广仁寺","name":"广仁寺","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区西北一路152号","transport":"地铁1号线玉祥门站","fee":"免费","description":"陕西唯一藏传佛教寺院，有千佛殿和康熙御碑，环境清幽。","official_url":"","highlights":["藏传佛教","千佛殿","康熙御碑","免费"]},{"id":"八仙庵","name":"八仙庵","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区北火巷","transport":"地铁1号线朝阳门站","fee":"免费","description":"西安最大道教宫观，又名万寿八仙宫，相传吕洞宾在此遇汉钟离。","official_url":"","highlights":["道教宫观","八仙","吕洞宾","免费"]},{"id":"都城隍庙","name":"都城隍庙","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区西大街","transport":"地铁2号线钟楼站","fee":"免费","description":"天下三大都城隍庙之一，始建于明代，有戏楼和牌坊，道教圣地。","official_url":"","highlights":["城隍庙","道教","戏楼","免费"]},{"id":"西安事变旧址张学良公馆","name":"西安事变旧址张学良公馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区建国路69号","transport":"地铁4号线大差市站","fee":"免费","description":"西安事变发生地，张学良在此指挥兵谏，展示事变历史。","official_url":"","highlights":["西安事变","张学良","兵谏","免费"]},{"id":"杨虎城将军纪念馆","name":"杨虎城将军纪念馆","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区青年路止园","transport":"地铁1号线洒金桥站","fee":"免费","description":"杨虎城将军止园别墅旧址，展示将军生平和西安事变历史。","official_url":"","highlights":["杨虎城","止园别墅","免费"]},{"id":"八路军西安办事处旧址","name":"八路军西安办事处旧址","source":"西安本地宝","city":"xian","district":"新城区","type":"文化中心","address":"新城区北新街七贤庄","transport":"地铁1号线五路口站","fee":"免费","description":"抗战时期八路军西安办事处旧址，展示抗战和革命历史。","official_url":"","highlights":["八路军办事处","抗战","免费"]},{"id":"化觉巷清真大寺","name":"化觉巷清真大寺","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区化觉巷30号","transport":"地铁2号线钟楼站","fee":"收费","description":"中国四大清真寺之一，始建于唐代，融合中式与伊斯兰建筑风格。","official_url":"","highlights":["清真寺","四大清真寺","中式伊斯兰"]},{"id":"高家大院","name":"高家大院","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区北院门144号","transport":"地铁2号线钟楼站","fee":"收费","description":"西安保存最完整的明清民居大院，有皮影戏和华阴老腔表演。","official_url":"","highlights":["明清民居","皮影戏","华阴老腔"]},{"id":"关中民俗艺术博物院","name":"关中民俗艺术博物院","source":"西安本地宝","city":"xian","district":"长安区","type":"博物馆","address":"长安区五台街道","transport":"地铁4号线东长安街站","fee":"收费","description":"收集搬迁复建关中明清民居四十余院，展示关中民俗和拴马桩。","official_url":"","highlights":["关中民居","拴马桩","民俗"]},{"id":"乐华城","name":"乐华城","source":"西安本地宝","city":"xian","district":"泾阳县","type":"公园","address":"泾阳县泾河新城","transport":"自驾","fee":"收费","description":"大型主题乐园，有乐华恒业欢乐世界和88度温泉乐园，过山车刺激。","official_url":"","highlights":["主题乐园","过山车","温泉"]},{"id":"华夏文旅海洋公园","name":"华夏文旅海洋公园","source":"西安本地宝","city":"xian","district":"灞桥区","type":"公园","address":"灞桥区华夏文旅景区","transport":"地铁3号线香湖湾站","fee":"收费","description":"大型海洋主题公园，有海洋馆和驼铃传奇秀演出。","official_url":"","highlights":["海洋馆","驼铃传奇","主题乐园"]},{"id":"西安欢乐谷","name":"西安欢乐谷","source":"西安本地宝","city":"xian","district":"西咸新区","type":"公园","address":"西咸新区沣东新城","transport":"地铁5号线沣东文化广场站","fee":"收费","description":"华侨城大型主题乐园，有过山车和水上项目，适合全年龄段。","official_url":"","highlights":["主题乐园","过山车","水上项目"]},{"id":"玛雅海滩水公园","name":"玛雅海滩水公园","source":"西安本地宝","city":"xian","district":"西咸新区","type":"公园","address":"西咸新区沣东新城","transport":"地铁5号线沣东文化广场站","fee":"收费","description":"夏季水上乐园，有造浪池和多种水上滑道，暑期消暑胜地。","official_url":"","highlights":["水上乐园","造浪池","消暑"]},{"id":"秦岭野生动物园","name":"秦岭野生动物园","source":"西安本地宝","city":"xian","district":"长安区","type":"公园","address":"长安区滦镇","transport":"自驾","fee":"收费","description":"西北最大野生动物园，可乘车观赏猛兽，有熊猫馆和金丝猴馆。","official_url":"","highlights":["野生动物","熊猫","金丝猴"]},{"id":"曲江海洋极地公园","name":"曲江海洋极地公园","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区曲江二路1号","transport":"地铁3号线青龙寺站","fee":"收费","description":"海洋和极地动物主题公园，有企鹅、海豚和海底隧道。","official_url":"","highlights":["极地动物","企鹅","海豚表演"]},{"id":"幻太奇海洋馆","name":"幻太奇海洋馆","source":"西安本地宝","city":"xian","district":"未央区","type":"公园","address":"未央区大明宫万达广场","transport":"地铁4号线大明宫站","fee":"收费","description":"室内海洋馆，有海洋生物展示和美人鱼表演，适合亲子。","official_url":"","highlights":["室内海洋馆","美人鱼","亲子"]},{"id":"乐华城88度温泉乐园","name":"乐华城88度温泉乐园","source":"西安本地宝","city":"xian","district":"泾阳县","type":"公园","address":"泾阳县泾河新城","transport":"自驾","fee":"收费","description":"大型温泉水乐园，有温泉和水上项目，四季皆宜休闲度假。","official_url":"","highlights":["温泉","水乐园","度假"]},{"id":"陕西省图书馆","name":"陕西省图书馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"图书馆","address":"碑林区长安北路14号","transport":"地铁2号线省体育场站","fee":"免费","description":"陕西省省级公共图书馆，古籍善本丰富，有少儿阅览区和数字资源。","official_url":"","highlights":["省级图书馆","古籍善本","免费"]},{"id":"西安图书馆","name":"西安图书馆","source":"西安本地宝","city":"xian","district":"未央区","type":"图书馆","address":"未央区经济技术开发区","transport":"地铁2号线市图书馆站","fee":"免费","description":"西安市公共图书馆，馆藏丰富，提供阅览、借阅和文化讲座服务。","official_url":"","highlights":["公共图书馆","阅览借阅","免费"]},{"id":"曲江书城","name":"曲江书城","source":"西安本地宝","city":"xian","district":"雁塔区","type":"图书馆","address":"雁塔区芙蓉南路","transport":"地铁4号线大唐芙蓉园站","fee":"免费","description":"大型复合式书店，有图书、文创和咖啡，环境优美，是网红书店。","official_url":"","highlights":["复合书店","文创","网红","免费"]},{"id":"蓝海风漫巷书店","name":"蓝海风漫巷书店","source":"西安本地宝","city":"xian","district":"未央区","type":"图书馆","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"西安最美书店之一，有百米书墙和阅读空间，文艺气息浓厚。","official_url":"","highlights":["百米书墙","阅读空间","最美书店","免费"]},{"id":"陕西省图书馆高新分馆","name":"陕西省图书馆高新分馆","source":"西安本地宝","city":"xian","district":"雁塔区","type":"图书馆","address":"雁塔区高新路","transport":"地铁3号线科技路站","fee":"免费","description":"陕西省图书馆高新区分馆，提供图书借阅和数字阅读服务。","official_url":"","highlights":["图书馆分馆","数字阅读","免费"]},{"id":"碑林区图书馆","name":"碑林区图书馆","source":"西安本地宝","city":"xian","district":"碑林区","type":"图书馆","address":"碑林区南院门","transport":"地铁2号线钟楼站","fee":"免费","description":"碑林区公共图书馆，有阅览室和自习室，定期举办阅读活动。","official_url":"","highlights":["区级图书馆","阅读活动","免费"]},{"id":"陕西省体育场","name":"陕西省体育场","source":"西安本地宝","city":"xian","district":"碑林区","type":"体育中心","address":"碑林区长安北路14号","transport":"地铁2号线省体育场站","fee":"收费","description":"陕西省标志性体育场馆，举办足球赛事和大型演唱会。","official_url":"","highlights":["足球赛事","演唱会","标志性场馆"]},{"id":"西安奥体中心","name":"西安奥体中心","source":"西安本地宝","city":"xian","district":"国际港务区","type":"体育中心","address":"国际港务区杏渭路","transport":"地铁14号线奥体中心站","fee":"收费","description":"2021年全运会主场馆，有体育场、体育馆和游泳馆，建筑造型独特。","official_url":"","highlights":["全运会","体育场","体育馆"]},{"id":"西安城市运动公园","name":"西安城市运动公园","source":"西安本地宝","city":"xian","district":"未央区","type":"体育中心","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"西安市运动主题公园，有网球场、篮球场和健身步道。","official_url":"","highlights":["运动主题","网球","篮球","免费"]},{"id":"长安国际体育馆","name":"长安国际体育馆","source":"西安本地宝","city":"xian","district":"长安区","type":"体育中心","address":"长安区航天大道","transport":"地铁4号线航天大道站","fee":"收费","description":"长安区大型体育馆，举办赛事和演出活动。","official_url":"","highlights":["体育馆","赛事","演出"]},{"id":"大唐不夜城步行街","name":"大唐不夜城步行街","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区慈恩路","transport":"地铁4号线大雁塔站","fee":"免费","description":"盛唐文化主题步行街，有雕塑群和灯光秀，是西安夜游名片。","official_url":"","highlights":["盛唐文化","灯光秀","夜游","免费"]},{"id":"小寨赛格国际购物中心","name":"小寨赛格国际购物中心","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区长安中路","transport":"地铁2号线小寨站","fee":"免费","description":"西安人气最旺购物中心，有室内瀑布和亚洲最长扶梯。","official_url":"","highlights":["室内瀑布","最长扶梯","购物","免费"]},{"id":"西安大悦城","name":"西安大悦城","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区慈恩路","transport":"地铁4号线大雁塔站","fee":"免费","description":"大雁塔旁大型商业综合体，有购物、餐饮和艺术展览。","official_url":"","highlights":["商业综合体","购物","艺术展览","免费"]},{"id":"西安SKP","name":"西安SKP","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区长安北路","transport":"地铁2号线省体育场站","fee":"免费","description":"高端百货商场，汇聚顶级奢侈品牌和特色餐饮，是西安高端购物地标。","official_url":"","highlights":["高端百货","奢侈品","购物地标","免费"]},{"id":"西安万达广场(大明宫)","name":"西安万达广场(大明宫)","source":"西安本地宝","city":"xian","district":"未央区","type":"文化中心","address":"未央区太华北路","transport":"地铁4号线大明宫站","fee":"免费","description":"未央区大型商业综合体，有购物、餐饮和影院。","official_url":"","highlights":["商业综合体","购物","影院","免费"]},{"id":"熙地港购物中心","name":"熙地港购物中心","source":"西安本地宝","city":"xian","district":"未央区","type":"文化中心","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"未央区大型购物中心，有购物、餐饮和亲子娱乐设施。","official_url":"","highlights":["购物中心","亲子","购物","免费"]},{"id":"大融城","name":"大融城","source":"西安本地宝","city":"xian","district":"未央区","type":"文化中心","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"未央区商业综合体，有购物、餐饮和文创空间。","official_url":"","highlights":["商业综合体","文创","购物","免费"]},{"id":"老城根G park","name":"老城根G park","source":"西安本地宝","city":"xian","district":"莲湖区","type":"文化中心","address":"莲湖区星火路","transport":"地铁1号线洒金桥站","fee":"免费","description":"西安潮玩商业街区，有水景广场和艺术装置，年轻人聚集地。","official_url":"","highlights":["潮玩街区","水景广场","艺术装置","免费"]},{"id":"中大国际","name":"中大国际","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区南大街","transport":"地铁2号线钟楼站","fee":"免费","description":"西安高端商业中心，汇聚奢侈品和高端餐饮。","official_url":"","highlights":["高端商业","奢侈品","餐饮","免费"]},{"id":"西安益田假日世界","name":"西安益田假日世界","source":"西安本地宝","city":"xian","district":"新城区","type":"文化中心","address":"新城区长乐西路","transport":"地铁1号线朝阳门站","fee":"免费","description":"城东大型商业综合体，有购物、餐饮和亲子娱乐设施。","official_url":"","highlights":["商业综合体","购物","亲子","免费"]},{"id":"汉神购物广场","name":"汉神购物广场","source":"西安本地宝","city":"xian","district":"未央区","type":"文化中心","address":"未央区凤城八路","transport":"地铁2号线行政中心站","fee":"免费","description":"未央区大型购物中心，有购物、餐饮和影院。","official_url":"","highlights":["购物中心","购物","影院","免费"]},{"id":"西安锦业路","name":"西安锦业路","source":"西安本地宝","city":"xian","district":"雁塔区","type":"文化中心","address":"雁塔区锦业路","transport":"地铁6号线锦业路站","fee":"免费","description":"高新区写字楼聚集区，有现代建筑和城市景观，夜景灯光秀壮观。","official_url":"","highlights":["高新区","现代建筑","夜景","免费"]},{"id":"永宁门","name":"永宁门","source":"西安本地宝","city":"xian","district":"碑林区","type":"文化中心","address":"碑林区南大街","transport":"地铁2号线永宁门站","fee":"收费","description":"西安城墙南门，有迎宾入城仪式，是西安城墙最重要城门。","official_url":"","highlights":["城墙南门","迎宾仪式","城门"]},{"id":"汉城湖大风阁","name":"汉城湖大风阁","source":"西安本地宝","city":"xian","district":"未央区","type":"文化中心","address":"未央区汉城湖","transport":"地铁4号线凤城九路站","fee":"收费","description":"汉城湖景区标志性建筑，登阁可俯瞰汉长安城遗址全景。","official_url":"","highlights":["大风阁","汉城湖","俯瞰遗址"]},{"id":"曲江海洋世界","name":"曲江海洋世界","source":"西安本地宝","city":"xian","district":"雁塔区","type":"公园","address":"雁塔区曲江二路","transport":"地铁3号线青龙寺站","fee":"收费","description":"海洋生物主题场馆，有海豚表演和海底隧道，适合亲子游玩。","official_url":"","highlights":["海豚表演","海底隧道","亲子"]},{"id":"西安世博园长安塔","name":"西安世博园长安塔","source":"西安本地宝","city":"xian","district":"灞桥区","type":"文化中心","address":"灞桥区世博大道","transport":"地铁3号线香湖湾站","fee":"免费","description":"世博园标志性建筑，唐代风格宝塔，可登塔俯瞰世博园。","official_url":"","highlights":["长安塔","世博园","俯瞰","免费"]},{"id":"重庆中国三峡博物馆","name":"重庆中国三峡博物馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区人民路236号","transport":"地铁2号线曾家岩站","fee":"免费需预约","description":"展示三峡历史文化和重庆城市历史，有乌杨阙和汉代画像砖等国宝。","official_url":"","highlights":["三峡文化","乌杨阙","汉代画像砖","免费"]},{"id":"重庆科技馆","name":"重庆科技馆","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"科技馆","address":"江北区文星门街7号","transport":"地铁6号线大剧院站","fee":"免费需预约","description":"重庆大型科普场馆，有生活科技、防灾科技等展区，互动体验丰富。","official_url":"","highlights":["科普互动","防灾科技","免费"]},{"id":"重庆自然博物馆","name":"重庆自然博物馆","source":"重庆本地宝","city":"chongqing","district":"北碚区","type":"博物馆","address":"北碚区金华路398号","transport":"地铁6号线状元碑站","fee":"免费需预约","description":"中国自然博物馆先驱，有恐龙化石和矿物标本，马门溪龙骨架闻名。","official_url":"","highlights":["恐龙化石","马门溪龙","矿物标本","免费"]},{"id":"重庆美术馆","name":"重庆美术馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"美术馆","address":"渝中区临江路1号","transport":"地铁1/6号线小什字站","fee":"免费","description":"重庆直辖后建立的市级美术馆，展示当代艺术和重庆本土美术作品。","official_url":"","highlights":["当代艺术","本土美术","免费"]},{"id":"重庆工业博物馆","name":"重庆工业博物馆","source":"重庆本地宝","city":"chongqing","district":"大渡口区","type":"博物馆","address":"大渡口区钢花路","transport":"地铁2号线大渡口站","fee":"免费","description":"由重钢老厂区改造，展示重庆工业历史和钢铁工业遗产，工业风浓厚。","official_url":"","highlights":["工业遗产","钢铁工业","重钢旧址","免费"]},{"id":"重庆建川博物馆聚落","name":"重庆建川博物馆聚落","source":"重庆本地宝","city":"chongqing","district":"九龙坡区","type":"博物馆","address":"九龙坡区谢家湾街道","transport":"地铁2号线谢家湾站","fee":"收费","description":"由兵工署第一工厂旧址改建的民间博物馆聚落，有抗战、兵工等主题分馆。","official_url":"","highlights":["抗战","兵工厂旧址","民间博物馆"]},{"id":"重庆火锅博物馆","name":"重庆火锅博物馆","source":"重庆本地宝","city":"chongqing","district":"九龙坡区","type":"博物馆","address":"九龙坡区九龙广场","transport":"地铁2号线动物园站","fee":"免费","description":"以重庆火锅文化为主题的博物馆，展示火锅历史和器具，可体验火锅文化。","official_url":"","highlights":["火锅文化","美食","免费"]},{"id":"重庆红岩革命历史博物馆","name":"重庆红岩革命历史博物馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区红岩村13号","transport":"地铁9号线红岩村站","fee":"免费","description":"展示中共中央南方局和红岩革命历史，是红岩精神发源地。","official_url":"","highlights":["红岩精神","南方局","红色旅游","免费"]},{"id":"重庆大轰炸惨案遗址","name":"重庆大轰炸惨案遗址","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区磁器街","transport":"地铁1号线较场口站","fee":"免费","description":"纪念重庆大轰炸的历史遗址，铭记抗战时期重庆人民的苦难与抗争。","official_url":"","highlights":["大轰炸","抗战历史","免费"]},{"id":"重庆三峡古人类博物馆","name":"重庆三峡古人类博物馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区人民路236号","transport":"地铁2号线曾家岩站","fee":"免费","description":"展示三峡地区古人类演化历史，有巫山人和奉节人的考古发现。","official_url":"","highlights":["古人类","三峡考古","免费"]},{"id":"重庆巴渝民俗博物馆","name":"重庆巴渝民俗博物馆","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"博物馆","address":"渝北区双龙大道","transport":"地铁3号线双龙站","fee":"免费","description":"展示巴渝地区民俗文化和传统生活，有民居复原和民俗器物展。","official_url":"","highlights":["巴渝民俗","民居复原","免费"]},{"id":"史迪威博物馆","name":"史迪威博物馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区嘉陵新路63号","transport":"地铁2号线李子坝站","fee":"免费","description":"纪念二战美军将领史迪威将军，展示中美抗战合作历史。","official_url":"","highlights":["史迪威将军","中美合作","二战","免费"]},{"id":"重庆飞虎队展览馆","name":"重庆飞虎队展览馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区李子坝公园","transport":"地铁2号线李子坝站","fee":"免费","description":"展示飞虎队在重庆的抗战历史，有文物和图片资料。","official_url":"","highlights":["飞虎队","抗战","免费"]},{"id":"重庆桂园","name":"重庆桂园","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区中山四路","transport":"地铁2号线曾家岩站","fee":"免费","description":"国共重庆谈判签订双十协定旧址，展示国共谈判历史和文物。","official_url":"","highlights":["双十协定","重庆谈判","免费"]},{"id":"重庆湖广会馆","name":"重庆湖广会馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区芭蕉园1号","transport":"地铁1号线小什字站","fee":"收费","description":"城市中心移民文化博物馆，展示湖广填四川移民历史和会馆建筑。","official_url":"","highlights":["湖广填四川","移民文化","会馆建筑"]},{"id":"大韩民国临时政府旧址","name":"大韩民国临时政府旧址","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"博物馆","address":"渝中区莲花池38号","transport":"地铁1号线七星岗站","fee":"收费","description":"韩国临时政府在重庆的办公旧址，展示韩国独立运动历史。","official_url":"","highlights":["韩国临时政府","独立运动","抗战"]},{"id":"南山植物园","name":"南山植物园","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"公园","address":"南岸区南山公园路101号","transport":"自驾","fee":"收费","description":"重庆最大的植物园，有蔷薇园、山茶园和梅花园，春季樱花闻名。","official_url":"","highlights":["蔷薇园","樱花","山茶园"]},{"id":"重庆动物园","name":"重庆动物园","source":"重庆本地宝","city":"chongqing","district":"九龙坡区","type":"公园","address":"九龙坡区杨家坪西郊一村1号","transport":"地铁2号线动物园站","fee":"收费","description":"西南地区大型动物园，饲养大熊猫、金丝猴等珍稀动物，适合亲子。","official_url":"","highlights":["大熊猫","金丝猴","亲子"]},{"id":"鹅岭公园","name":"鹅岭公园","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"公园","address":"渝中区鹅岭正街176号","transport":"地铁1号线鹅岭站","fee":"免费","description":"重庆老牌公园，瞰胜楼可俯瞰两江风光，园林清幽。","official_url":"","highlights":["瞰胜楼","两江风光","免费"]},{"id":"重庆园博园","name":"重庆园博园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区龙景路1号","transport":"地铁3号线园博园站","fee":"收费","description":"第九届中国园林博览会举办地，有全国各地园林景观和龙景湖。","official_url":"","highlights":["园林景观","园博会","龙景湖"]},{"id":"重庆中央公园","name":"重庆中央公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区同茂大道","transport":"地铁10号线中央公园西站","fee":"免费","description":"亚洲最大城市中央公园，有大草坪和湖泊，适合休闲和运动。","official_url":"","highlights":["亚洲最大","大草坪","免费"]},{"id":"缙云山自然保护区","name":"缙云山自然保护区","source":"重庆本地宝","city":"chongqing","district":"北碚区","type":"公园","address":"北碚区缙云路","transport":"地铁6号线状元碑站","fee":"收费","description":"重庆天然屏障，有古寺、森林和云海，是避暑和登山胜地。","official_url":"","highlights":["自然保护区","古寺","云海"]},{"id":"碧津公园","name":"碧津公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区双龙大道","transport":"地铁3号线碧津站","fee":"免费","description":"渝北区城市公园，有湖景和巴渝民俗文化村，环境优美。","official_url":"","highlights":["湖景","民俗文化村","免费"]},{"id":"彩云湖湿地公园","name":"彩云湖湿地公园","source":"重庆本地宝","city":"chongqing","district":"九龙坡区","type":"公园","address":"九龙坡区彩云大道","transport":"地铁环线彩云湖站","fee":"免费","description":"主城最大湿地公园，有湖泊和环湖步道，适合散步和观鸟。","official_url":"","highlights":["湿地","观鸟","环湖步道","免费"]},{"id":"歌乐山国家森林公园","name":"歌乐山国家森林公园","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"公园","address":"沙坪坝区歌乐山","transport":"地铁1号线烈士墓站","fee":"免费","description":"重庆近郊森林公园，有白公馆、渣滓洞等红色遗址和森林景观。","official_url":"","highlights":["森林公园","红色遗址","免费"]},{"id":"铁山坪森林公园","name":"铁山坪森林公园","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"公园","address":"江北区铁山坪","transport":"自驾","fee":"免费","description":"主城最大森林公园，有步道和草坪，适合登山和露营。","official_url":"","highlights":["森林公园","登山","露营","免费"]},{"id":"鸿恩寺公园","name":"鸿恩寺公园","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"公园","address":"江北区鸿恩路","transport":"地铁5号线大石坝站","fee":"免费","description":"主城最大开放式公园，鸿恩阁为重庆主城最高观景点。","official_url":"","highlights":["鸿恩阁","观景点","免费"]},{"id":"龙头寺公园","name":"龙头寺公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区玉兰路","transport":"地铁3号线龙头寺站","fee":"免费","description":"渝北区城市公园，有科普展板和健身步道，适合亲子休闲。","official_url":"","highlights":["科普","健身步道","免费"]},{"id":"照母山森林公园","name":"照母山森林公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区金开大道","transport":"地铁5号线人和站","fee":"免费","description":"两江新区森林公园，有植被库和登山步道，是市民健身好去处。","official_url":"","highlights":["森林公园","登山步道","健身","免费"]},{"id":"江北嘴中央公园","name":"江北嘴中央公园","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"公园","address":"江北区江北城","transport":"地铁6号线大剧院站","fee":"免费","description":"两江交汇处城市公园，可观赏洪崖洞和对岸朝天门夜景。","official_url":"","highlights":["两江交汇","洪崖洞夜景","免费"]},{"id":"礼嘉智慧公园","name":"礼嘉智慧公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区礼嘉商务区","transport":"地铁6号线礼嘉站","fee":"免费","description":"智慧城市主题公园，有智能体验馆和云尚花海，科技感十足。","official_url":"","highlights":["智慧城市","智能体验","花海","免费"]},{"id":"悦来会展公园","name":"悦来会展公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区悦来大道","transport":"地铁10号线悦来站","fee":"免费","description":"国博中心旁生态公园，有草坪和步道，适合休闲散步。","official_url":"","highlights":["生态公园","草坪","免费"]},{"id":"金海湾公园","name":"金海湾公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区金海湾滨江","transport":"自驾","fee":"免费","description":"嘉陵江滨江公园，有江景和花海，适合骑行和观江。","official_url":"","highlights":["滨江","江景","骑行","免费"]},{"id":"九曲河湿地公园","name":"九曲河湿地公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区九曲河","transport":"地铁6号线九曲河站","fee":"免费","description":"两江新区湿地公园，有河流和湿地景观，适合徒步和观鸟。","official_url":"","highlights":["湿地","观鸟","徒步","免费"]},{"id":"平顶山文化公园","name":"平顶山文化公园","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"公园","address":"沙坪坝区平顶山","transport":"地铁1号线沙坪坝站","fee":"免费","description":"沙坪坝区山顶公园，可俯瞰沙坪坝城市风光，适合登山健身。","official_url":"","highlights":["山顶公园","俯瞰","健身","免费"]},{"id":"北仓文创街区","name":"北仓文创街区","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"公园","address":"江北区塔坪105号","transport":"地铁3号线观音桥站","fee":"免费","description":"由老旧小区改造的文创街区，有书店、咖啡馆和艺术展览。","official_url":"","highlights":["文创街区","书店","艺术展览","免费"]},{"id":"洪崖洞","name":"洪崖洞","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区沧白路","transport":"地铁1/6号线小什字站","fee":"免费","description":"巴渝传统吊脚楼建筑群，夜景灯光如千与千寻，是重庆夜景名片和网红打卡地。","official_url":"","highlights":["吊脚楼","夜景灯光","网红打卡","免费"]},{"id":"磁器口古镇","name":"磁器口古镇","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"文化中心","address":"沙坪坝区磁器口","transport":"地铁1号线磁器口站","fee":"免费","description":"千年古镇，有明清古街、宝轮寺和传统小吃，陈麻花闻名，是重庆文化名片。","official_url":"","highlights":["千年古镇","宝轮寺","陈麻花","免费"]},{"id":"大足石刻","name":"大足石刻","source":"重庆本地宝","city":"chongqing","district":"大足区","type":"文化中心","address":"大足区宝顶镇","transport":"自驾","fee":"收费","description":"世界文化遗产，唐宋石窟艺术宝库，千手观音和卧佛闻名于世。","official_url":"","highlights":["世界遗产","千手观音","石窟艺术"]},{"id":"朝天门广场","name":"朝天门广场","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区朝天门","transport":"地铁1号线朝天门站","fee":"免费","description":"长江和嘉陵江交汇处，可观赏两江汇流奇观和来福士建筑群，是重庆地标。","official_url":"","highlights":["两江交汇","来福士","地标","免费"]},{"id":"解放碑步行街","name":"解放碑步行街","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区民族路","transport":"地铁1号线较场口站","fee":"免费","description":"中国唯一纪念抗战胜利的纪念碑，周边是重庆最繁华商圈和美食聚集地。","official_url":"","highlights":["抗战纪念碑","繁华商圈","免费"]},{"id":"十八梯","name":"十八梯","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区十八梯","transport":"地铁1/2号线较场口站","fee":"免费","description":"重庆老街巷改造的文化景区，展示老重庆吊脚楼和市井生活，怀旧感十足。","official_url":"","highlights":["老街巷","吊脚楼","市井文化","免费"]},{"id":"白公馆","name":"白公馆","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"文化中心","address":"沙坪坝区歌乐山","transport":"地铁1号线烈士墓站","fee":"免费","description":"军统监狱旧址，革命烈士殉难地，红岩精神象征，红色旅游胜地。","official_url":"","highlights":["军统监狱","红岩精神","红色旅游","免费"]},{"id":"渣滓洞","name":"渣滓洞","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"文化中心","address":"沙坪坝区歌乐山","transport":"地铁1号线烈士墓站","fee":"免费","description":"国民党军统集中营旧址，江姐等革命烈士关押地，红色教育基地。","official_url":"","highlights":["集中营","江姐","红色教育","免费"]},{"id":"歌乐山烈士陵园","name":"歌乐山烈士陵园","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"文化中心","address":"沙坪坝区歌乐山","transport":"地铁1号线烈士墓站","fee":"免费","description":"纪念红岩烈士的陵园，有纪念碑和陈列馆，缅怀革命先烈。","official_url":"","highlights":["烈士陵园","红岩烈士","红色旅游","免费"]},{"id":"红岩村","name":"红岩村","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区红岩村13号","transport":"地铁9号线红岩村站","fee":"免费","description":"八路军重庆办事处旧址，毛泽东曾在此办公，红岩精神发源地。","official_url":"","highlights":["八路军办事处","毛泽东旧居","免费"]},{"id":"曾家岩50号周公馆","name":"曾家岩50号周公馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区中山四路","transport":"地铁2号线曾家岩站","fee":"免费","description":"周恩来在重庆的办公住所，展示南方局抗战历史和周总理生平。","official_url":"","highlights":["周公馆","周恩来","南方局","免费"]},{"id":"李子坝轻轨穿楼观景平台","name":"李子坝轻轨穿楼观景平台","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区李子坝","transport":"地铁2号线李子坝站","fee":"免费","description":"轻轨穿楼而过的网红观景点，可观看2号线穿越居民楼的奇观。","official_url":"","highlights":["轻轨穿楼","网红打卡","免费"]},{"id":"弹子石老街","name":"弹子石老街","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"文化中心","address":"南岸区弹子石","transport":"地铁环线上新街站","fee":"免费","description":"百年老街改造的文化街区，有观景台可观赏两江和朝天门夜景。","official_url":"","highlights":["百年老街","观景台","免费"]},{"id":"龙门浩老街","name":"龙门浩老街","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"文化中心","address":"南岸区龙门浩","transport":"地铁环线上新街站","fee":"免费","description":"百年开埠老街，有使馆旧址和老建筑，可观赏东水门大桥和轻轨。","official_url":"","highlights":["开埠老街","使馆旧址","免费"]},{"id":"龙兴古镇","name":"龙兴古镇","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"文化中心","address":"渝北区龙兴镇","transport":"地铁4号线唐家沱站","fee":"免费","description":"千年古镇，有刘家祠堂和华夏宗祠，明清建筑保存完好。","official_url":"","highlights":["千年古镇","祠堂","明清建筑","免费"]},{"id":"松溉古镇","name":"松溉古镇","source":"重庆本地宝","city":"chongqing","district":"永川区","type":"文化中心","address":"永川区松溉镇","transport":"自驾","fee":"免费","description":"长江上游千年古镇，有祠堂、古街和罗家祠堂，长江文化深厚。","official_url":"","highlights":["长江古镇","祠堂","免费"]},{"id":"中山古镇","name":"中山古镇","source":"重庆本地宝","city":"chongqing","district":"江津区","type":"文化中心","address":"江津区中山镇","transport":"自驾","fee":"免费","description":"千年古商贸古镇，有古街、吊脚楼和爱情天梯，自然环境优美。","official_url":"","highlights":["商贸古镇","吊脚楼","爱情天梯","免费"]},{"id":"塘河古镇","name":"塘河古镇","source":"重庆本地宝","city":"chongqing","district":"江津区","type":"文化中心","address":"江津区塘河镇","transport":"自驾","fee":"免费","description":"渝川黔古道驿站古镇，有古街和王爷庙，明清建筑保存完好。","official_url":"","highlights":["古道驿站","王爷庙","免费"]},{"id":"鹅岭二厂文创公园","name":"鹅岭二厂文创公园","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区鹅岭正街1号","transport":"地铁1号线鹅岭站","fee":"免费","description":"由印钞厂改造的文创园区，有艺术展览、咖啡馆和网红天台。","official_url":"","highlights":["印钞厂改造","艺术展览","网红天台","免费"]},{"id":"白象街","name":"白象街","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区白象街","transport":"地铁1号线小什字站","fee":"免费","description":"重庆开埠时期老街，有近代建筑和江景，复古风情浓厚。","official_url":"","highlights":["开埠老街","近代建筑","江景","免费"]},{"id":"东水门大桥观景","name":"东水门大桥观景","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区东水门","transport":"地铁1号线小什字站","fee":"免费","description":"东水门古城门和大桥，可观赏长江和对岸南岸风光。","official_url":"","highlights":["古城门","长江大桥","免费"]},{"id":"通远门城墙遗址","name":"通远门城墙遗址","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区七星岗","transport":"地铁1号线七星岗站","fee":"免费","description":"重庆现存唯一陆路古城门，有城墙遗址和通远楼，历史价值高。","official_url":"","highlights":["古城门","城墙遗址","免费"]},{"id":"湖广会馆及东水门历史文化街区","name":"湖广会馆及东水门历史文化街区","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区芭蕉园","transport":"地铁1号线小什字站","fee":"收费","description":"保存最完整的古会馆建筑群，展示移民文化和明清建筑艺术。","official_url":"","highlights":["古会馆","移民文化","明清建筑"]},{"id":"重庆欢乐谷","name":"重庆欢乐谷","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区金渝大道","transport":"地铁10号线欢乐谷站","fee":"收费","description":"大型主题乐园，有丛林冒险、欢乐时光等主题区，过山车和水上项目刺激。","official_url":"","highlights":["主题乐园","过山车","水上项目"]},{"id":"重庆融创乐园","name":"重庆融创乐园","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"公园","address":"沙坪坝区土主镇","transport":"地铁1号线赖家桥站","fee":"收费","description":"巴渝文化主题乐园，有云霄飞车和漂流，适合全年龄段游玩。","official_url":"","highlights":["巴渝主题","云霄飞车","漂流"]},{"id":"重庆融创海世界","name":"重庆融创海世界","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"公园","address":"沙坪坝区土主镇","transport":"地铁1号线赖家桥站","fee":"收费","description":"室内海洋主题乐园，有海洋生物展示、海豚表演和水上项目。","official_url":"","highlights":["室内海洋","海豚表演","海洋生物"]},{"id":"重庆融创雪世界","name":"重庆融创雪世界","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"公园","address":"沙坪坝区土主镇","transport":"地铁1号线赖家桥站","fee":"收费","description":"室内滑雪场，一年四季可滑雪，有雪道和娱雪项目，重庆室内冰雪胜地。","official_url":"","highlights":["室内滑雪","四季滑雪","娱雪"]},{"id":"重庆汉海海洋公园","name":"重庆汉海海洋公园","source":"重庆本地宝","city":"chongqing","district":"巴南区","type":"公园","address":"巴南区龙洲湾","transport":"地铁3号线学堂湾站","fee":"收费","description":"大型海洋公园，有企鹅馆、白鲸馆和海底隧道，适合亲子游玩。","official_url":"","highlights":["企鹅馆","白鲸","海底隧道"]},{"id":"重庆欢乐海底世界","name":"重庆欢乐海底世界","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"公园","address":"渝中区化龙桥","transport":"地铁9号线化龙桥站","fee":"收费","description":"位于企业天地内的海洋馆，有海洋生物展示和美人鱼表演。","official_url":"","highlights":["海洋馆","美人鱼表演","亲子"]},{"id":"重庆乐和乐园","name":"重庆乐和乐园","source":"重庆本地宝","city":"chongqing","district":"巴南区","type":"公园","address":"巴南区界石镇","transport":"自驾","fee":"收费","description":"大型亲子主题乐园，有萌宠乐园、游乐设施和户外拓展项目。","official_url":"","highlights":["亲子乐园","萌宠","户外拓展"]},{"id":"重庆玛雅海滩水公园","name":"重庆玛雅海滩水公园","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"公园","address":"渝北区金渝大道","transport":"地铁10号线欢乐谷站","fee":"收费","description":"夏季水上乐园，有造浪池、漂流河和多种滑道，消暑胜地。","official_url":"","highlights":["水上乐园","造浪池","消暑"]},{"id":"重庆图书馆","name":"重庆图书馆","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"图书馆","address":"沙坪坝区凤天大道106号","transport":"地铁环线重庆图书馆站","fee":"免费","description":"重庆最大公共图书馆，古籍善本丰富，有少儿馆和数字阅读服务。","official_url":"","highlights":["公共图书馆","古籍善本","少儿馆","免费"]},{"id":"重庆少年儿童图书馆","name":"重庆少年儿童图书馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"图书馆","address":"渝中区中山二路70号","transport":"地铁1号线七星岗站","fee":"免费","description":"专为少年儿童服务的公共图书馆，有绘本馆和亲子阅读活动。","official_url":"","highlights":["少儿图书馆","绘本馆","亲子阅读","免费"]},{"id":"江北区图书馆","name":"江北区图书馆","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"图书馆","address":"江北区建新北路","transport":"地铁3号线观音桥站","fee":"免费","description":"江北区公共图书馆，提供图书借阅和文化活动，有少儿阅览区。","official_url":"","highlights":["区级图书馆","少儿阅览","免费"]},{"id":"渝中区图书馆","name":"渝中区图书馆","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"图书馆","address":"渝中区中山二路","transport":"地铁1号线七星岗站","fee":"免费","description":"渝中区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。","official_url":"","highlights":["区级图书馆","阅读推广","免费"]},{"id":"沙坪坝区图书馆","name":"沙坪坝区图书馆","source":"重庆本地宝","city":"chongqing","district":"沙坪坝区","type":"图书馆","address":"沙坪坝区凤天大道","transport":"地铁环线重庆图书馆站","fee":"免费","description":"沙坪坝区公共图书馆，藏书丰富，有亲子阅读区和电子阅览室。","official_url":"","highlights":["区级图书馆","亲子阅读","免费"]},{"id":"南岸区图书馆","name":"南岸区图书馆","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"图书馆","address":"南岸区南坪","transport":"地铁环线南湖站","fee":"免费","description":"南岸区公共图书馆，提供图书借阅和文化讲座服务。","official_url":"","highlights":["区级图书馆","文化讲座","免费"]},{"id":"渝北区图书馆","name":"渝北区图书馆","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"图书馆","address":"渝北区双凤桥","transport":"地铁3号线双凤桥站","fee":"免费","description":"渝北区公共图书馆，有阅览室和自习室，环境现代舒适。","official_url":"","highlights":["区级图书馆","阅览自习","免费"]},{"id":"重庆大剧院","name":"重庆大剧院","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"演出场馆","address":"江北区文星门街4号","transport":"地铁6号线大剧院站","fee":"收费","description":"重庆标志性文化建筑，有歌剧厅和戏剧厅，可观赏两江夜景。","official_url":"","highlights":["歌剧厅","两江夜景","标志性建筑"]},{"id":"重庆国泰艺术中心","name":"重庆国泰艺术中心","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"演出场馆","address":"渝中区临江路1号","transport":"地铁1/6号线小什字站","fee":"收费","description":"红色建筑造型独特，有剧院和音乐厅，举办话剧、音乐会等演出。","official_url":"","highlights":["红色建筑","话剧","音乐会"]},{"id":"重庆国际马戏城","name":"重庆国际马戏城","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"演出场馆","address":"南岸区弹子石","transport":"地铁环线上新街站","fee":"收费","description":"中国最大专业马戏城，有马戏、杂技和动物表演，适合亲子。","official_url":"","highlights":["马戏","杂技","动物表演"]},{"id":"重庆川剧艺术中心","name":"重庆川剧艺术中心","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"演出场馆","address":"渝中区民生路","transport":"地铁1号线七星岗站","fee":"收费","description":"川剧专业演出场所，可观看变脸、吐火等川剧绝活表演。","official_url":"","highlights":["川剧","变脸","吐火"]},{"id":"重庆奥体中心","name":"重庆奥体中心","source":"重庆本地宝","city":"chongqing","district":"九龙坡区","type":"体育中心","address":"九龙坡区袁家岗","transport":"地铁2号线袁家岗站","fee":"收费","description":"大型体育中心，有体育场、体育馆和游泳馆，举办中超赛事和演唱会。","official_url":"","highlights":["体育场","中超赛事","演唱会"]},{"id":"重庆国际博览中心","name":"重庆国际博览中心","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"体育中心","address":"渝北区悦来大道","transport":"地铁10号线悦来站","fee":"收费","description":"西部最大会展中心，举办车展、房展等大型展览和活动。","official_url":"","highlights":["会展中心","车展","大型展览"]},{"id":"华熙LIVE鱼洞","name":"华熙LIVE鱼洞","source":"重庆本地宝","city":"chongqing","district":"巴南区","type":"体育中心","address":"巴南区鱼洞","transport":"地铁2号线鱼洞站","fee":"收费","description":"大型体育娱乐综合体，有篮球馆和演唱会场馆，举办赛事和演出。","official_url":"","highlights":["篮球","演唱会","体育娱乐"]},{"id":"重庆大田湾体育场","name":"重庆大田湾体育场","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"体育中心","address":"渝中区体育村","transport":"地铁1号线两路口站","fee":"免费","description":"重庆最早的体育场，贺龙将军主持修建，承载重庆体育记忆。","official_url":"","highlights":["老体育场","贺龙修建","免费"]},{"id":"解放碑商圈","name":"解放碑商圈","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区民族路","transport":"地铁1号线较场口站","fee":"免费","description":"重庆最繁华商圈，有八一好吃街和来福士，购物美食天堂。","official_url":"","highlights":["繁华商圈","八一好吃街","购物","免费"]},{"id":"观音桥商圈","name":"观音桥商圈","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"文化中心","address":"江北区观音桥","transport":"地铁3号线观音桥站","fee":"免费","description":"西部第一大步行街，有购物、餐饮和3D大屏，人流如织。","official_url":"","highlights":["西部第一步行街","3D大屏","购物","免费"]},{"id":"龙湖时代天街","name":"龙湖时代天街","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区大坪","transport":"地铁1/9号线石油路站","fee":"免费","description":"亚洲最大超级商圈，有购物、餐饮和娱乐设施，是年轻人聚集地。","official_url":"","highlights":["亚洲最大商圈","购物","娱乐","免费"]},{"id":"重庆来福士","name":"重庆来福士","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区朝天门","transport":"地铁1号线朝天门站","fee":"免费","description":"世界知名建筑群，水晶连廊观景台可俯瞰两江交汇，重庆新地标。","official_url":"","highlights":["水晶连廊","两江观景","新地标","免费"]},{"id":"重庆IFS国金中心","name":"重庆IFS国金中心","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"文化中心","address":"江北区江北城","transport":"地铁6号线大剧院站","fee":"免费","description":"江北嘴高端商业综合体，汇聚奢侈品和特色餐饮。","official_url":"","highlights":["高端商业","奢侈品","餐饮","免费"]},{"id":"重庆万象城","name":"重庆万象城","source":"重庆本地宝","city":"chongqing","district":"九龙坡区","type":"文化中心","address":"九龙坡区谢家湾","transport":"地铁2号线谢家湾站","fee":"收费","description":"大型商业综合体，有购物、餐饮和亲子娱乐设施。","official_url":"","highlights":["商业综合体","购物","亲子","收费"]},{"id":"北城天街","name":"北城天街","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"文化中心","address":"江北区观音桥","transport":"地铁3号线观音桥站","fee":"免费","description":"观音桥商圈核心购物中心，有购物、餐饮和影院。","official_url":"","highlights":["购物中心","购物","影院","免费"]},{"id":"新光天地","name":"新光天地","source":"重庆本地宝","city":"chongqing","district":"渝北区","type":"文化中心","address":"渝北区红锦大道","transport":"地铁3号线嘉州路站","fee":"免费","description":"渝北区高端商业综合体，有购物、餐饮和空中花园。","official_url":"","highlights":["高端商业","空中花园","购物","免费"]},{"id":"星光时代广场","name":"星光时代广场","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"文化中心","address":"南岸区江南大道","transport":"地铁3号线南坪站","fee":"免费","description":"南岸区大型购物中心，有购物、餐饮和娱乐设施。","official_url":"","highlights":["购物中心","购物","娱乐","免费"]},{"id":"东原1891","name":"东原1891","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"文化中心","address":"南岸区南滨路","transport":"地铁环线上新街站","fee":"免费","description":"南滨路文创商业街区，有艺术空间和江景餐厅，文艺氛围浓厚。","official_url":"","highlights":["文创街区","艺术空间","江景","免费"]},{"id":"南山一棵树观景台","name":"南山一棵树观景台","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"文化中心","address":"南岸区南山龙黄公路","transport":"自驾","fee":"免费","description":"观赏重庆夜景最佳地点，可俯瞰渝中半岛万家灯火，夜景如繁星。","official_url":"","highlights":["夜景最佳","渝中半岛","万家灯火","免费"]},{"id":"长江索道","name":"长江索道","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区新华路","transport":"地铁1号线小什字站","fee":"收费","description":"万里长江第一条跨江索道，空中观赏两江风光和山城夜景，网红体验。","official_url":"","highlights":["跨江索道","空中观景","网红体验"]},{"id":"两江游船","name":"两江游船","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区朝天门码头","transport":"地铁1号线朝天门站","fee":"收费","description":"乘坐游船观赏重庆两江夜景和洪崖洞，是重庆夜游必体验项目。","official_url":"","highlights":["夜游","两江夜景","洪崖洞"]},{"id":"千厮门大桥观景","name":"千厮门大桥观景","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"文化中心","address":"江北区江北城","transport":"地铁6号线大剧院站","fee":"免费","description":"千厮门大桥是观赏洪崖洞夜景最佳位置，网红拍照打卡地。","official_url":"","highlights":["洪崖洞夜景","拍照打卡","免费"]},{"id":"东水门长江大桥观景","name":"东水门长江大桥观景","source":"重庆本地宝","city":"chongqing","district":"渝中区","type":"文化中心","address":"渝中区东水门","transport":"地铁1号线小什字站","fee":"免费","description":"东水门大桥可观赏长江和两岸风光，是城市观景好去处。","official_url":"","highlights":["长江大桥","城市观景","免费"]},{"id":"南滨路风景区","name":"南滨路风景区","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"公园","address":"南岸区南滨路","transport":"地铁环线上新街站","fee":"免费","description":"重庆外滩，沿长江滨江大道，可观赏渝中半岛夜景和对岸来福士。","official_url":"","highlights":["重庆外滩","滨江","夜景","免费"]},{"id":"嘉陵江滨江路","name":"嘉陵江滨江路","source":"重庆本地宝","city":"chongqing","district":"江北区","type":"公园","address":"江北区北滨路","transport":"地铁6号线大剧院站","fee":"免费","description":"嘉陵江北滨江路，可观赏对岸渝中半岛和洪崖洞夜景。","official_url":"","highlights":["滨江","夜景","免费"]},{"id":"重庆游乐园","name":"重庆游乐园","source":"重庆本地宝","city":"chongqing","district":"南岸区","type":"公园","address":"南岸区南坪","transport":"地铁3号线南坪站","fee":"收费","description":"重庆老牌游乐园，有摩天轮、过山车等游乐设施，适合亲子。","official_url":"","highlights":["老牌游乐园","摩天轮","亲子"]},{"id":"圣灯山森林公园","name":"圣灯山森林公园","source":"重庆本地宝","city":"chongqing","district":"巴南区","type":"公园","address":"巴南区圣灯山镇","transport":"自驾","fee":"收费","description":"重庆近郊森林公园，有奇峰怪石和森林步道，适合登山和避暑。","official_url":"","highlights":["森林公园","奇峰","登山避暑"]},{"id":"金佛山风景区","name":"金佛山风景区","source":"重庆本地宝","city":"chongqing","district":"南川区","type":"公园","address":"南川区金佛山","transport":"自驾","fee":"收费","description":"世界自然遗产，有高山杜鹃、云海和古佛洞，是重庆避暑和赏雪胜地。","official_url":"","highlights":["世界遗产","高山杜鹃","云海"]},{"id":"四面山风景区","name":"四面山风景区","source":"重庆本地宝","city":"chongqing","district":"江津区","type":"公园","address":"江津区四面山镇","transport":"自驾","fee":"收费","description":"丹霞地貌和瀑布群景区，有望乡台瀑布和土地岩壁画，自然风光壮美。","official_url":"","highlights":["丹霞地貌","瀑布","望乡台"]},{"id":"武隆喀斯特景区","name":"武隆喀斯特景区","source":"重庆本地宝","city":"chongqing","district":"武隆区","type":"公园","address":"武隆区仙女山镇","transport":"自驾","fee":"收费","description":"世界自然遗产，有天生三桥、仙女山和芙蓉洞，变形金刚取景地。","official_url":"","highlights":["世界遗产","天生三桥","变形金刚取景"]},{"id":"云阳龙缸景区","name":"云阳龙缸景区","source":"重庆本地宝","city":"chongqing","district":"云阳县","type":"公园","address":"云阳县清水乡","transport":"自驾","fee":"收费","description":"国家地质公园，有云端廊桥和龙缸天坑，玻璃廊桥惊险刺激。","official_url":"","highlights":["云端廊桥","天坑","玻璃桥"]},{"id":"武汉中山公园","name":"武汉中山公园","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"公园","address":"江汉区解放大道1265号","transport":"地铁2号线中山公园站","fee":"免费","description":"武汉历史最悠久的城市公园，有游乐设施、湖泊和受降堂，承载市民记忆。","official_url":"","highlights":["城市公园","游乐设施","受降堂","免费"]},{"id":"武汉紫阳湖公园","name":"武汉紫阳湖公园","source":"武汉本地宝","city":"wuhan","district":"武昌区","type":"公园","address":"武昌区紫阳路","transport":"地铁5号线昙华林站","fee":"免费","description":"武昌区历史名湖公园，有紫阳湖和古桥，夏季荷花盛开，承载老武昌记忆。","official_url":"","highlights":["紫阳湖","荷花","老武昌记忆","免费"]},{"id":"武汉西北湖绿化广场","name":"武汉西北湖绿化广场","source":"武汉本地宝","city":"wuhan","district":"江汉区","type":"公园","address":"江汉区建设大道","transport":"地铁3号线菱角湖站","fee":"免费","description":"江汉区城市绿化广场，有湖景和健身步道，是商务区休闲好去处。","official_url":"","highlights":["绿化广场","湖景","健身","免费"]},{"id":"武汉光谷广场","name":"武汉光谷广场","source":"武汉本地宝","city":"wuhan","district":"洪山区","type":"文化中心","address":"洪山区珞喻路","transport":"地铁2号线光谷广场站","fee":"免费","description":"光谷核心商圈广场，有星河雕塑和地下通道，是武汉科技和商业地标。","official_url":"","highlights":["光谷地标","星河雕塑","科技商圈","免费"]}];
+// 童行小程序 - 场馆信息本地兜底
+// 共 1450 条（来源：islon/goout/output/venue_info.json）
+module.exports = [
+  {
+    "name": "深圳图书馆",
+    "source": "szlib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区福中一路2001号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳中心图书馆，含中心馆和北馆，常设阅览、展览、讲座等活动。",
+    "official_url": "https://www.szlib.org.cn",
+    "highlights": [
+      "阅读推广",
+      "讲座展览",
+      "暑期缤纷季"
+    ],
+    "id": "深圳图书馆"
+  },
+  {
+    "name": "深圳少年儿童图书馆",
+    "source": "sz_children_lib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区红荔路1011号",
+    "transport": "地铁3号线通新岭站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，定期举办绘本故事会、阅读推广等活动。",
+    "official_url": "",
+    "highlights": [
+      "儿童阅读",
+      "绘本故事",
+      "暑期活动"
+    ],
+    "id": "深圳少年儿童图书馆"
+  },
+  {
+    "name": "深圳博物馆",
+    "source": "szmuseum",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "福田区福中路市民中心A区",
+    "transport": "地铁2/4号线市民中心站",
+    "fee": "免费",
+    "description": "深圳综合性博物馆，常设古代深圳、近代深圳、深圳民俗等展览。",
+    "official_url": "https://www.shenzhenmuseum.com",
+    "highlights": [
+      "深圳历史",
+      "古代深圳",
+      "民俗文化"
+    ],
+    "id": "深圳博物馆"
+  },
+  {
+    "name": "深圳科学技术馆",
+    "source": "szstm",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "光明区光明街道",
+    "transport": "地铁6号线光明站",
+    "fee": "免费",
+    "description": "深圳新建科技馆，含互动体验展区、科学实验区等。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验",
+      "科普教育"
+    ],
+    "id": "深圳科学技术馆"
+  },
+  {
+    "name": "深圳滨海艺术中心",
+    "source": "szbo",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "演出场馆",
+    "address": "宝安区宝兴路8号",
+    "transport": "地铁5号线宝华站",
+    "fee": "收费",
+    "description": "宝安滨海文化公园内的大型演艺中心，定期举办音乐会、音乐剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "滨海演艺",
+      "音乐剧",
+      "交响乐"
+    ],
+    "id": "深圳滨海艺术中心"
+  },
+  {
+    "name": "深圳音乐厅",
+    "source": "szconcert",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "演出场馆",
+    "address": "福田区福中一路2016号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "收费",
+    "description": "深圳专业音乐演出场馆，定期举办交响乐、室内乐等音乐会。",
+    "official_url": "",
+    "highlights": [
+      "古典音乐",
+      "交响乐"
+    ],
+    "id": "深圳音乐厅"
+  },
+  {
+    "name": "深圳市当代艺术与城市规划馆",
+    "source": "szmocap",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区福中路184号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "集当代艺术展览与城市规划展示于一体的综合性场馆。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "城市规划"
+    ],
+    "id": "深圳市当代艺术与城市规划馆"
+  },
+  {
+    "name": "深圳市体育中心",
+    "source": "szsports",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "体育中心",
+    "address": "福田区笋岗西路",
+    "transport": "地铁7号线黄木岗站",
+    "fee": "收费",
+    "description": "深圳市级体育中心，含体育馆、游泳馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动健身"
+    ],
+    "id": "深圳市体育中心"
+  },
+  {
+    "name": "深圳市文化馆",
+    "source": "szmassart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区燕南路",
+    "transport": "地铁2号线燕南站",
+    "fee": "免费",
+    "description": "深圳市级文化馆，举办各类公益文化活动。",
+    "official_url": "",
+    "highlights": [
+      "公益文化",
+      "艺术培训"
+    ],
+    "id": "深圳市文化馆"
+  },
+  {
+    "name": "深圳自然博物馆",
+    "source": "sznm",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "坪山区石井街道",
+    "transport": "地铁16号线",
+    "fee": "免费",
+    "description": "深圳新建自然博物馆，展示自然历史、生态环境等内容。",
+    "official_url": "",
+    "highlights": [
+      "自然科学",
+      "生态环境"
+    ],
+    "id": "深圳自然博物馆"
+  },
+  {
+    "name": "南山图书馆",
+    "source": "nslib",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "南山区常兴路176号",
+    "transport": "地铁1号线桃园站",
+    "fee": "免费",
+    "description": "南山区公共图书馆，定期举办阅读推广、讲座等活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "南山图书馆"
+  },
+  {
+    "name": "南山博物馆",
+    "source": "nsmuseum",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区南山大道2093号",
+    "transport": "地铁12号线南头古城站",
+    "fee": "免费",
+    "description": "南山区综合性博物馆，常设古代南山、近代南山展览，定期举办特展。",
+    "official_url": "",
+    "highlights": [
+      "南山历史",
+      "特色特展"
+    ],
+    "id": "南山博物馆"
+  },
+  {
+    "name": "南山区文化馆",
+    "source": "nswhg",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "南山区文化馆"
+  },
+  {
+    "name": "南山区青少年活动中心",
+    "source": "nsqsng",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "青少年宫",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区青少年校外活动场所，开展各类兴趣培训。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "南山区青少年活动中心"
+  },
+  {
+    "name": "南山文体中心",
+    "source": "nswtzx",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区南山大道",
+    "transport": "地铁1号线桃园站",
+    "fee": "收费",
+    "description": "南山文体中心，含大剧院、聚橙剧院等演出场馆。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "体育"
+    ],
+    "id": "南山文体中心"
+  },
+  {
+    "name": "南山安全教育体验馆",
+    "source": "nsaqjy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "科普馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "安全主题沉浸式体验展，含消防、交通、自然灾害等互动体验区。",
+    "official_url": "",
+    "highlights": [
+      "安全教育",
+      "互动体验"
+    ],
+    "id": "南山安全教育体验馆"
+  },
+  {
+    "name": "蛇口海洋科普馆",
+    "source": "skhykpg",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "科普馆",
+    "address": "南山区蛇口",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "蛇口海洋科普馆，展示海洋生物标本、珊瑚等。",
+    "official_url": "",
+    "highlights": [
+      "海洋生物",
+      "标本展览"
+    ],
+    "id": "蛇口海洋科普馆"
+  },
+  {
+    "name": "深爱人才馆",
+    "source": "sarc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示深圳人才政策和科技创新成果。",
+    "official_url": "",
+    "highlights": [
+      "人才政策",
+      "科技创新"
+    ],
+    "id": "深爱人才馆"
+  },
+  {
+    "name": "南头古城博物馆群",
+    "source": "ntgc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区南山大道3109号",
+    "transport": "地铁12号线南头古城站",
+    "fee": "免费",
+    "description": "南头古城内多个主题博物馆群，展示深圳1700年城市历史。",
+    "official_url": "",
+    "highlights": [
+      "古城历史",
+      "考古发现"
+    ],
+    "id": "南头古城博物馆群"
+  },
+  {
+    "name": "招商局历史博物馆",
+    "source": "zsjbwg",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区蛇口",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "展示招商局150年发展历程和中国近代航运史。",
+    "official_url": "",
+    "highlights": [
+      "招商局历史",
+      "航运史"
+    ],
+    "id": "招商局历史博物馆"
+  },
+  {
+    "name": "南山书房",
+    "source": "nssxf",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区社区阅读空间，提供自助阅览服务。",
+    "official_url": "",
+    "highlights": [
+      "社区阅读",
+      "自助阅览"
+    ],
+    "id": "南山书房"
+  },
+  {
+    "name": "华侨城湿地",
+    "source": "oct_wetland",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区白石路",
+    "transport": "地铁1号线侨城东站",
+    "fee": "免费需预约",
+    "description": "华侨城湿地公园，开展自然教育、观鸟等亲子活动。",
+    "official_url": "",
+    "highlights": [
+      "湿地生态",
+      "观鸟",
+      "自然教育"
+    ],
+    "id": "华侨城湿地"
+  },
+  {
+    "name": "深圳湾体育中心",
+    "source": "szwty",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "体育中心",
+    "address": "南山区滨海大道",
+    "transport": "地铁2号线后海站",
+    "fee": "收费",
+    "description": "深圳湾体育中心（春茧），含体育馆、游泳馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ],
+    "id": "深圳湾体育中心"
+  },
+  {
+    "name": "欢乐港湾",
+    "source": "hlgw",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区海天路",
+    "transport": "地铁5号线临海站",
+    "fee": "免费",
+    "description": "宝安滨海文化公园，含摩天轮、商业综合体等。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "摩天轮"
+    ],
+    "id": "欢乐港湾"
+  },
+  {
+    "name": "福田区图书馆",
+    "source": "ftlib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区景田路70号",
+    "transport": "地铁2号线景田站",
+    "fee": "免费",
+    "description": "福田区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "福田区图书馆"
+  },
+  {
+    "name": "福田区文化馆",
+    "source": "ftwhg",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "福田区文化馆"
+  },
+  {
+    "name": "福田美术馆",
+    "source": "ftart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区美术馆，展示当代艺术和本土艺术家作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土艺术"
+    ],
+    "id": "福田美术馆"
+  },
+  {
+    "name": "深圳古生物博物馆",
+    "source": "lh_paleo",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "博物馆",
+    "address": "罗湖区仙湖植物园内",
+    "transport": "地铁2号线仙湖路站",
+    "fee": "免费",
+    "description": "展示恐龙化石、三叶虫等古生物标本，介绍地球生命演化历程。",
+    "official_url": "",
+    "highlights": [
+      "古生物化石",
+      "恐龙",
+      "生命演化"
+    ],
+    "id": "深圳古生物博物馆"
+  },
+  {
+    "name": "罗湖区图书馆",
+    "source": "lhlib",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "图书馆",
+    "address": "罗湖区怡景路1014号",
+    "transport": "地铁5号线怡景站",
+    "fee": "免费",
+    "description": "罗湖区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "罗湖区图书馆"
+  },
+  {
+    "name": "罗湖区文化馆",
+    "source": "lhwhg2",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "文化馆",
+    "address": "罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "罗湖区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "罗湖区文化馆"
+  },
+  {
+    "name": "深圳戏院",
+    "source": "lhtheatre",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "演出场馆",
+    "address": "罗湖区新园路1号",
+    "transport": "地铁1/3号线老街站F出口",
+    "fee": "需购票",
+    "description": "深圳老牌演出场馆，定期举办京剧、儿童剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "京剧",
+      "儿童剧",
+      "少儿演出季"
+    ],
+    "id": "深圳戏院"
+  },
+  {
+    "name": "深圳大剧院",
+    "source": "szdjy",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "演出场馆",
+    "address": "罗湖区深南东路5018号",
+    "transport": "地铁1/2号线大剧院站",
+    "fee": "需购票",
+    "description": "深圳大剧院，举办音乐会、歌剧、芭蕾等高端演出。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "歌剧",
+      "芭蕾"
+    ],
+    "id": "深圳大剧院"
+  },
+  {
+    "name": "宝安图书馆",
+    "source": "balib",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区宝兴路1号",
+    "transport": "地铁5号线宝华站",
+    "fee": "免费",
+    "description": "宝安区公共图书馆，含总馆和多个街道分馆。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "宝安图书馆"
+  },
+  {
+    "name": "宝安区博物馆",
+    "source": "bamuseum",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区博物馆，展示宝安历史文化。",
+    "official_url": "",
+    "highlights": [
+      "宝安历史",
+      "地方文化"
+    ],
+    "id": "宝安区博物馆"
+  },
+  {
+    "name": "宝安1990文化馆",
+    "source": "baoan_1990",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安1990文化馆，含文化馆、博物馆、美术馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "展览"
+    ],
+    "id": "宝安1990文化馆"
+  },
+  {
+    "name": "宝安科技馆",
+    "source": "baoan_kjg",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "科技馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区科技馆，含互动体验展区。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ],
+    "id": "宝安科技馆"
+  },
+  {
+    "name": "宝安体育中心",
+    "source": "baoan_ty",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "体育中心",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "宝安区体育中心，含体育馆、游泳馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ],
+    "id": "宝安体育中心"
+  },
+  {
+    "name": "宝安区青少年宫",
+    "source": "baoan_qsng",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "青少年宫",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "宝安区青少年宫"
+  },
+  {
+    "name": "宝安城市规划展览馆",
+    "source": "baoan_guihua",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示宝安区城市规划建设成就。",
+    "official_url": "",
+    "highlights": [
+      "城市规划",
+      "建设成就"
+    ],
+    "id": "宝安城市规划展览馆"
+  },
+  {
+    "name": "湾区之眼",
+    "source": "bayarea_eye",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "湾区文化综合体，含图书馆、展览等。",
+    "official_url": "",
+    "highlights": [
+      "文化综合体",
+      "阅读空间"
+    ],
+    "id": "湾区之眼"
+  },
+  {
+    "name": "龙岗区图书馆",
+    "source": "lglib",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "图书馆",
+    "address": "龙岗区中心城",
+    "transport": "地铁3号线龙城广场站",
+    "fee": "免费",
+    "description": "龙岗区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "龙岗区图书馆"
+  },
+  {
+    "name": "龙岗区博物馆",
+    "source": "lgmuseum",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区博物馆，展示龙岗历史文化。",
+    "official_url": "",
+    "highlights": [
+      "龙岗历史",
+      "地方文化"
+    ],
+    "id": "龙岗区博物馆"
+  },
+  {
+    "name": "龙岗区文化馆",
+    "source": "lgwhg",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "龙岗区文化馆"
+  },
+  {
+    "name": "龙岗区青少年宫",
+    "source": "lgqsng",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "青少年宫",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "龙岗区青少年宫"
+  },
+  {
+    "name": "龙岗客家民俗博物馆",
+    "source": "lg_hakka",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "龙岗区龙岗街道鹤湖新居",
+    "transport": "地铁3号线南联站",
+    "fee": "免费",
+    "description": "全国最大的客家围屋之一，展示客家迁徙历史和民俗文化。",
+    "official_url": "",
+    "highlights": [
+      "客家文化",
+      "鹤湖新居",
+      "民俗文物"
+    ],
+    "id": "龙岗客家民俗博物馆"
+  },
+  {
+    "name": "龙岗体育中心",
+    "source": "lgtyzx",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育中心",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "龙岗区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ],
+    "id": "龙岗体育中心"
+  },
+  {
+    "name": "深圳龙岗国际艺术中心",
+    "source": "lg_arts",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "演出场馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "龙岗区国际艺术中心，举办高端演出。",
+    "official_url": "",
+    "highlights": [
+      "国际演出",
+      "艺术交流"
+    ],
+    "id": "深圳龙岗国际艺术中心"
+  },
+  {
+    "name": "龙岗区科技馆",
+    "source": "lgkjg",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "科技馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区科技馆（红立方）。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ],
+    "id": "龙岗区科技馆"
+  },
+  {
+    "name": "龙岗儿童公园",
+    "source": "lgpark",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区儿童主题公园，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "亲子游乐",
+      "无动力乐园"
+    ],
+    "id": "龙岗儿童公园"
+  },
+  {
+    "name": "龙华区图书馆",
+    "source": "lhxqlib",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "图书馆",
+    "address": "龙华区",
+    "transport": "地铁4号线",
+    "fee": "免费",
+    "description": "龙华区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "龙华区图书馆"
+  },
+  {
+    "name": "龙华区青少年宫",
+    "source": "lhqsng",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "青少年宫",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "龙华区青少年宫"
+  },
+  {
+    "name": "龙华区文化馆",
+    "source": "lhwhg",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "文化馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "龙华区文化馆"
+  },
+  {
+    "name": "中国版画博物馆",
+    "source": "lh_printmaking",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "美术馆",
+    "address": "龙华区观澜街道",
+    "transport": "地铁4号线牛湖站",
+    "fee": "免费需预约",
+    "description": "全国首个专业版画博物馆，紧邻观澜版画村。",
+    "official_url": "",
+    "highlights": [
+      "版画艺术",
+      "国际馆藏",
+      "观澜版画村"
+    ],
+    "id": "中国版画博物馆"
+  },
+  {
+    "name": "龙华生态文明展览馆",
+    "source": "lh_ecology",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科普馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示龙华区生态文明建设成果。",
+    "official_url": "",
+    "highlights": [
+      "生态文明",
+      "环保科技"
+    ],
+    "id": "龙华生态文明展览馆"
+  },
+  {
+    "name": "龙华区科技馆",
+    "source": "lhkjg",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科技馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ],
+    "id": "龙华区科技馆"
+  },
+  {
+    "name": "龙华白石龙纪念馆",
+    "source": "lhbljng",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "博物馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华白石龙中国文化名人大营救纪念馆。",
+    "official_url": "",
+    "highlights": [
+      "红色文化",
+      "历史纪念"
+    ],
+    "id": "龙华白石龙纪念馆"
+  },
+  {
+    "name": "光明区图书馆",
+    "source": "gmlib",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "图书馆",
+    "address": "光明区",
+    "transport": "地铁6号线",
+    "fee": "免费",
+    "description": "光明区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ],
+    "id": "光明区图书馆"
+  },
+  {
+    "name": "光明区科技馆",
+    "source": "gm_kjg",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "光明区科技馆，含互动科技体验展。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ],
+    "id": "光明区科技馆"
+  },
+  {
+    "name": "光明区文化馆",
+    "source": "gmwhg",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "光明区文化馆"
+  },
+  {
+    "name": "光明文化艺术中心",
+    "source": "gmarts",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化中心",
+    "address": "光明区",
+    "transport": "地铁6号线",
+    "fee": "收费",
+    "description": "光明文化艺术中心，含大剧场、音乐厅、美术馆。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "展览",
+      "艺术"
+    ],
+    "id": "光明文化艺术中心"
+  },
+  {
+    "name": "光明区青少年活动中心",
+    "source": "gmqsng",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "青少年宫",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "光明区青少年活动中心"
+  },
+  {
+    "name": "光明区群众体育中心",
+    "source": "gmtyzx",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "体育中心",
+    "address": "光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "光明区群众体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ],
+    "id": "光明区群众体育中心"
+  },
+  {
+    "name": "光明虹桥公园",
+    "source": "gmhbgy",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区虹桥公园，以红色空中廊桥著称。",
+    "official_url": "",
+    "highlights": [
+      "虹桥步道",
+      "休闲健身"
+    ],
+    "id": "光明虹桥公园"
+  },
+  {
+    "name": "玉塘文体中心",
+    "source": "gmtysq",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化中心",
+    "address": "光明区玉塘街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区玉塘街道文体中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化",
+      "体育"
+    ],
+    "id": "玉塘文体中心"
+  },
+  {
+    "name": "坪山区图书馆",
+    "source": "pslib",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "图书馆",
+    "address": "坪山区坪山街道",
+    "transport": "地铁16号线",
+    "fee": "免费",
+    "description": "坪山区公共图书馆，定期举办阅读推广、暑期活动等。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "暑期活动",
+      "亲子活动"
+    ],
+    "id": "坪山区图书馆"
+  },
+  {
+    "name": "坪山美术馆",
+    "source": "psart",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "美术馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山美术馆，展示当代艺术作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "湾区艺术"
+    ],
+    "id": "坪山美术馆"
+  },
+  {
+    "name": "坪山大剧院",
+    "source": "psthtr",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "演出场馆",
+    "address": "坪山区",
+    "transport": "地铁16号线",
+    "fee": "收费",
+    "description": "坪山大剧院，举办舞剧、音乐剧、儿童剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "舞剧",
+      "音乐剧",
+      "儿童剧"
+    ],
+    "id": "坪山大剧院"
+  },
+  {
+    "name": "坪山区科技馆",
+    "source": "pskjg",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "科技馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "坪山区科技馆，含科普体验区。",
+    "official_url": "",
+    "highlights": [
+      "科普教育",
+      "互动体验"
+    ],
+    "id": "坪山区科技馆"
+  },
+  {
+    "name": "坪山体育中心",
+    "source": "pstyzx",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "体育中心",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "坪山区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ],
+    "id": "坪山体育中心"
+  },
+  {
+    "name": "坪山东江纵队纪念馆",
+    "source": "psdjng",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示东江纵队抗战历史。",
+    "official_url": "",
+    "highlights": [
+      "红色文化",
+      "抗战历史"
+    ],
+    "id": "坪山东江纵队纪念馆"
+  },
+  {
+    "name": "坪山中心公园",
+    "source": "pszxgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山中心公园，含环湖步道、无动力乐园。",
+    "official_url": "",
+    "highlights": [
+      "环湖步道",
+      "无动力乐园",
+      "亲子"
+    ],
+    "id": "坪山中心公园"
+  },
+  {
+    "name": "马峦山郊野公园",
+    "source": "mlsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区马峦山",
+    "transport": "",
+    "fee": "免费",
+    "description": "马峦山郊野公园，可观瀑布、探访客家古村落。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "瀑布",
+      "客家村落"
+    ],
+    "id": "马峦山郊野公园"
+  },
+  {
+    "name": "聚龙山生态公园",
+    "source": "jlsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区聚龙山",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "聚龙山生态公园，定期开展自然课堂。",
+    "official_url": "",
+    "highlights": [
+      "自然教育",
+      "植物识别",
+      "昆虫观察"
+    ],
+    "id": "聚龙山生态公园"
+  },
+  {
+    "name": "燕子湖国际会展中心",
+    "source": "yhzgz",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "会展中心",
+    "address": "坪山区燕子湖",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山燕子湖国际会展中心，承办各类博览会。",
+    "official_url": "",
+    "highlights": [
+      "会展",
+      "博览"
+    ],
+    "id": "燕子湖国际会展中心"
+  },
+  {
+    "name": "盐田区图书馆",
+    "source": "ytlib",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "图书馆",
+    "address": "盐田区",
+    "transport": "地铁8号线",
+    "fee": "免费",
+    "description": "盐田区公共图书馆，定期举办海洋主题阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "海洋主题"
+    ],
+    "id": "盐田区图书馆"
+  },
+  {
+    "name": "盐田区文化馆",
+    "source": "ytwhg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "文化馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "盐田区文化馆"
+  },
+  {
+    "name": "中英街历史博物馆",
+    "source": "yt_history",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区沙头角中英街",
+    "transport": "地铁8号线沙头角站",
+    "fee": "免费",
+    "description": "展示中英街百年沧桑历史和深港边境文化。",
+    "official_url": "",
+    "highlights": [
+      "中英街历史",
+      "深港文化"
+    ],
+    "id": "中英街历史博物馆"
+  },
+  {
+    "name": "盐田科技馆",
+    "source": "ytkjg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "科技馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田区科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ],
+    "id": "盐田科技馆"
+  },
+  {
+    "name": "盐田体育中心",
+    "source": "yttyzx",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "体育中心",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "盐田区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ],
+    "id": "盐田体育中心"
+  },
+  {
+    "name": "盐田中央公园",
+    "source": "ytzgy",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "公园",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田中央公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲散步"
+    ],
+    "id": "盐田中央公园"
+  },
+  {
+    "name": "大鹏地质公园博物馆",
+    "source": "dpgeopark",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "大鹏新区南澳街道地质公园路7号",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏半岛国家地质公园博物馆，展示地质演化和古生物化石。",
+    "official_url": "",
+    "highlights": [
+      "地质科普",
+      "古生物化石",
+      "火山岩"
+    ],
+    "id": "大鹏地质公园博物馆"
+  },
+  {
+    "name": "大亚湾核能科技馆",
+    "source": "dp_nuclear",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科普馆",
+    "address": "大鹏新区大亚湾核电基地",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "大亚湾核能科技馆，展示核能发电原理和核安全知识。",
+    "official_url": "",
+    "highlights": [
+      "核能科普",
+      "清洁能源",
+      "核安全"
+    ],
+    "id": "大亚湾核能科技馆"
+  },
+  {
+    "name": "大鹏新区图书馆",
+    "source": "dplib",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "图书馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏新区公共图书馆，定期举办海洋主题阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "海洋主题"
+    ],
+    "id": "大鹏新区图书馆"
+  },
+  {
+    "name": "大鹏古城博物馆",
+    "source": "dpgcbwg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏所城历史博物馆，展示海防文化。",
+    "official_url": "",
+    "highlights": [
+      "古城历史",
+      "海防文化"
+    ],
+    "id": "大鹏古城博物馆"
+  },
+  {
+    "name": "大鹏新区文化馆",
+    "source": "dpwhg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏新区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ],
+    "id": "大鹏新区文化馆"
+  },
+  {
+    "name": "深圳西涌天文台",
+    "source": "xcart",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科普馆",
+    "address": "大鹏新区南澳西涌",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "深圳西涌天文台，定期对公众开放，可观星。",
+    "official_url": "",
+    "highlights": [
+      "天文观测",
+      "科普教育",
+      "观星"
+    ],
+    "id": "深圳西涌天文台"
+  },
+  {
+    "name": "东涌红树林湿地公园",
+    "source": "dchss",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳东涌",
+    "transport": "",
+    "fee": "免费",
+    "description": "东涌红树林湿地公园，开展红树林生态科普、观鸟等自然教育。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "自然教育"
+    ],
+    "id": "东涌红树林湿地公园"
+  },
+  {
+    "name": "坝光红树林湿地公园",
+    "source": "bghsl",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区葵涌坝光",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳面积最大的红树林保护区，有观鸟平台和科普栈道。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "生态保护"
+    ],
+    "id": "坝光红树林湿地公园"
+  },
+  {
+    "name": "玫瑰海岸",
+    "source": "mgha",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区溪涌玫瑰海岸",
+    "transport": "",
+    "fee": "收费",
+    "description": "玫瑰海岸滨海度假区，举办沙滩嘉年华等活动。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "水上运动",
+      "滨海度假"
+    ],
+    "id": "玫瑰海岸"
+  },
+  {
+    "name": "杨梅坑",
+    "source": "ymk",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳杨梅坑",
+    "transport": "",
+    "fee": "免费",
+    "description": "杨梅坑海滨栈道，可徒步、骑行、探访鹿嘴山庄。",
+    "official_url": "",
+    "highlights": [
+      "滨海徒步",
+      "骑行",
+      "海景"
+    ],
+    "id": "杨梅坑"
+  },
+  {
+    "name": "七娘山",
+    "source": "qns",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳七娘山",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳第二高峰，登山步道沿途有地质科普解说牌。",
+    "official_url": "",
+    "highlights": [
+      "登山",
+      "地质科普",
+      "海景"
+    ],
+    "id": "七娘山"
+  },
+  {
+    "name": "官湖村艺象艺术区",
+    "source": "ghysq",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化中心",
+    "address": "大鹏新区葵涌官湖村",
+    "transport": "",
+    "fee": "免费",
+    "description": "官湖村国际艺术园区，含海边画廊、儿童艺术工坊。",
+    "official_url": "",
+    "highlights": [
+      "艺术园区",
+      "海边画廊",
+      "亲子工坊"
+    ],
+    "id": "官湖村艺象艺术区"
+  },
+  {
+    "name": "金沙湾国际乐园",
+    "source": "jsgjly",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区金沙湾",
+    "transport": "",
+    "fee": "收费",
+    "description": "金沙湾国际乐园，含水世界、冰雪世界等多个主题园区。",
+    "official_url": "",
+    "highlights": [
+      "水世界",
+      "冰雪世界",
+      "亲子乐园"
+    ],
+    "id": "金沙湾国际乐园"
+  },
+  {
+    "name": "大鹏新区科学馆",
+    "source": "dpkjg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科技馆",
+    "address": "大鹏新区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "大鹏新区科学馆，开展海洋科学、天文观测等科普活动。",
+    "official_url": "",
+    "highlights": [
+      "海洋科学",
+      "天文观测",
+      "科普"
+    ],
+    "id": "大鹏新区科学馆"
+  },
+  {
+    "name": "大鹏较场尾沙滩",
+    "source": "jcw",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区大鹏街道较场尾",
+    "transport": "",
+    "fee": "免费",
+    "description": "较场尾滨海度假村，有沙滩、民宿、海鲜等。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "民宿",
+      "滨海度假"
+    ],
+    "id": "大鹏较场尾沙滩"
+  },
+  {
+    "name": "葵涌生态公园",
+    "source": "kcsigy",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区葵涌",
+    "transport": "",
+    "fee": "免费",
+    "description": "葵涌生态公园。",
+    "official_url": "",
+    "highlights": [
+      "生态",
+      "休闲"
+    ],
+    "id": "葵涌生态公园"
+  },
+  {
+    "name": "深圳市安全教育基地",
+    "source": "sz_safety",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "科普馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "深圳市安全教育基地，含交通安全、消防安全等主题体验区。",
+    "official_url": "",
+    "highlights": [
+      "安全教育",
+      "互动体验"
+    ],
+    "id": "深圳市安全教育基地"
+  },
+  {
+    "name": "OPOWER文化艺术中心",
+    "source": "opower",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区华侨城",
+    "transport": "地铁1号线侨城东站",
+    "fee": "免费",
+    "description": "华侨城片区文化艺术综合体，集展览、市集、创意零售于一体。",
+    "official_url": "",
+    "highlights": [
+      "文艺市集",
+      "创意展览"
+    ],
+    "id": "OPOWER文化艺术中心"
+  },
+  {
+    "name": "坪山区青少年宫",
+    "source": "psqsng",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "青少年宫",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "坪山区青少年宫"
+  },
+  {
+    "name": "广东省博物馆",
+    "source": "gdmuseum",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "博物馆",
+    "address": "天河区珠江东路2号",
+    "transport": "地铁3/APM线大剧院站",
+    "fee": "免费",
+    "description": "广东省综合性博物馆。",
+    "official_url": "",
+    "highlights": [
+      "广东历史",
+      "自然资源"
+    ],
+    "id": "广东省博物馆"
+  },
+  {
+    "name": "广州博物馆",
+    "source": "gzmuseum",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区镇海路",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "收费",
+    "description": "广州博物馆（镇海楼）。",
+    "official_url": "",
+    "highlights": [
+      "广州历史"
+    ],
+    "id": "广州博物馆"
+  },
+  {
+    "name": "广州图书馆",
+    "source": "gzlib",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "图书馆",
+    "address": "天河区珠江东路4号",
+    "transport": "地铁3/APM线大剧院站",
+    "fee": "免费",
+    "description": "广州图书馆。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广"
+    ],
+    "id": "广州图书馆"
+  },
+  {
+    "name": "上海博物馆",
+    "source": "shanghaimuseum",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "黄浦区人民大道201号",
+    "transport": "地铁1/2/8号线人民广场站",
+    "fee": "免费",
+    "description": "上海博物馆。",
+    "official_url": "",
+    "highlights": [
+      "中国古代艺术"
+    ],
+    "id": "上海博物馆"
+  },
+  {
+    "name": "上海科技馆",
+    "source": "shstm",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科技馆",
+    "address": "浦东新区世纪大道2000号",
+    "transport": "地铁2号线上海科技馆站",
+    "fee": "收费",
+    "description": "上海科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ],
+    "id": "上海科技馆"
+  },
+  {
+    "name": "中国国家博物馆",
+    "source": "chnmuseum",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "东城区东长安街16号",
+    "transport": "地铁1号线天安门东站",
+    "fee": "免费",
+    "description": "中国国家博物馆。",
+    "official_url": "",
+    "highlights": [
+      "国家历史",
+      "古代文物"
+    ],
+    "id": "中国国家博物馆"
+  },
+  {
+    "name": "故宫博物院",
+    "source": "gugong",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "东城区景山前街4号",
+    "transport": "地铁1号线天安门东站",
+    "fee": "收费",
+    "description": "故宫博物院。",
+    "official_url": "",
+    "highlights": [
+      "明清宫廷",
+      "古代文物"
+    ],
+    "id": "故宫博物院"
+  },
+  {
+    "name": "何香凝美术馆",
+    "source": "hxngallery",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "南山区深南大道9013号",
+    "transport": "地铁1号线华侨城站",
+    "fee": "免费",
+    "description": "何香凝美术馆，展示何香凝书画作品及当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "何香凝书画",
+      "当代艺术"
+    ],
+    "id": "何香凝美术馆"
+  },
+  {
+    "name": "关山月美术馆",
+    "source": "gsyart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区红荔路6026号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "关山月美术馆，展示关山月画作及当代美术。",
+    "official_url": "",
+    "highlights": [
+      "关山月画作",
+      "当代美术"
+    ],
+    "id": "关山月美术馆"
+  },
+  {
+    "name": "深圳美术馆",
+    "source": "szartm",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "美术馆",
+    "address": "罗湖区爱国路东湖公园内",
+    "transport": "地铁5号线太安站",
+    "fee": "免费",
+    "description": "深圳美术馆，展示当代艺术和本土艺术家作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土艺术"
+    ],
+    "id": "深圳美术馆"
+  },
+  {
+    "name": "深圳保利剧院",
+    "source": "polytheatre",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "演出场馆",
+    "address": "南山区后海滨路",
+    "transport": "地铁2号线后海站",
+    "fee": "需购票",
+    "description": "深圳保利剧院，举办音乐会、音乐剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "音乐会",
+      "音乐剧"
+    ],
+    "id": "深圳保利剧院"
+  },
+  {
+    "name": "深圳会展中心",
+    "source": "szcec",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "会展中心",
+    "address": "福田区福华三路",
+    "transport": "地铁1/4号线会展中心站",
+    "fee": "免费",
+    "description": "深圳会展中心，承办各类大型展览和博览会。",
+    "official_url": "",
+    "highlights": [
+      "展览",
+      "博览"
+    ],
+    "id": "深圳会展中心"
+  },
+  {
+    "name": "深圳国际会展中心",
+    "source": "shenzhen_world",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "会展中心",
+    "address": "宝安区福海街道",
+    "transport": "地铁12号线国展站",
+    "fee": "免费",
+    "description": "深圳国际会展中心（新馆），承办大型国际展览。",
+    "official_url": "",
+    "highlights": [
+      "国际展览",
+      "博览"
+    ],
+    "id": "深圳国际会展中心"
+  },
+  {
+    "name": "锦绣中华民俗村",
+    "source": "theme_park",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区深南大道9003号",
+    "transport": "地铁1号线华侨城站",
+    "fee": "收费",
+    "description": "锦绣中华民俗村，含微缩景区和少数民族村寨。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "民俗文化",
+      "泼水节"
+    ],
+    "id": "锦绣中华民俗村"
+  },
+  {
+    "name": "深圳市少年宫",
+    "source": "szcp",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "青少年宫",
+    "address": "福田区福中一路2006号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳市少年宫，含科技展馆和培训课程。",
+    "official_url": "",
+    "highlights": [
+      "科技展馆",
+      "青少年培训"
+    ],
+    "id": "深圳市少年宫"
+  },
+  {
+    "name": "深圳市青少年活动中心",
+    "source": "szaac",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "青少年宫",
+    "address": "福田区红荔路",
+    "transport": "地铁3号线通新岭站",
+    "fee": "免费",
+    "description": "深圳市青少年活动中心。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ],
+    "id": "深圳市青少年活动中心"
+  },
+  {
+    "name": "深圳书城",
+    "source": "szbook",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化中心",
+    "address": "福田区福中一路",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳书城中心城，大型图书零售和文化活动空间。",
+    "official_url": "",
+    "highlights": [
+      "图书",
+      "文化活动"
+    ],
+    "id": "深圳书城"
+  },
+  {
+    "name": "深圳湾公园",
+    "source": "szhbgy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区滨海大道",
+    "transport": "地铁2号线湾厦站",
+    "fee": "免费",
+    "description": "深圳湾滨海休闲带，适合散步骑行。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "骑行"
+    ],
+    "id": "深圳湾公园"
+  },
+  {
+    "name": "海上世界文化艺术中心",
+    "source": "hssjwh",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "南山区蛇口海上世界",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "海上世界文化艺术中心，展示当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "滨海文化"
+    ],
+    "id": "海上世界文化艺术中心"
+  },
+  {
+    "name": "深圳中医药博物馆",
+    "source": "szzybwg",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示中医药文化和历史。",
+    "official_url": "",
+    "highlights": [
+      "中医药文化",
+      "健康科普"
+    ],
+    "id": "深圳中医药博物馆"
+  },
+  {
+    "name": "深圳珠宝博物馆",
+    "source": "szjewg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示珠宝首饰文化和工艺。",
+    "official_url": "",
+    "highlights": [
+      "珠宝",
+      "工艺"
+    ],
+    "id": "深圳珠宝博物馆"
+  },
+  {
+    "name": "深圳欢乐谷",
+    "source": "hlgj",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区华侨城",
+    "transport": "地铁1/2号线世界之窗站",
+    "fee": "收费",
+    "description": "大型主题游乐园。",
+    "official_url": "",
+    "highlights": [
+      "主题游乐",
+      "刺激项目"
+    ],
+    "id": "深圳欢乐谷"
+  },
+  {
+    "name": "深圳欢乐海岸",
+    "source": "hoha",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区白石路",
+    "transport": "地铁9号线深圳湾公园站",
+    "fee": "免费",
+    "description": "华侨城欢乐海岸，集文化、商业、休闲于一体。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "商业文化"
+    ],
+    "id": "深圳欢乐海岸"
+  },
+  {
+    "name": "深圳世界之窗",
+    "source": "szworld",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区深南大道9003号",
+    "transport": "地铁1/2号线世界之窗站",
+    "fee": "收费",
+    "description": "世界微缩景观主题公园。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "世界文化"
+    ],
+    "id": "深圳世界之窗"
+  },
+  {
+    "name": "洪湖公园",
+    "source": "hhgy",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "罗湖区文锦北路",
+    "transport": "地铁3号线草埔站",
+    "fee": "免费",
+    "description": "以荷花著称的公园。",
+    "official_url": "",
+    "highlights": [
+      "荷花",
+      "观鸟"
+    ],
+    "id": "洪湖公园"
+  },
+  {
+    "name": "大沙河生态长廊",
+    "source": "dshslc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区大沙河",
+    "transport": "",
+    "fee": "免费",
+    "description": "大沙河沿河生态绿道。",
+    "official_url": "",
+    "highlights": [
+      "生态绿道",
+      "骑行"
+    ],
+    "id": "大沙河生态长廊"
+  },
+  {
+    "name": "淘金山绿道",
+    "source": "tjsgd",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "罗湖区淘金山",
+    "transport": "",
+    "fee": "免费",
+    "description": "淘金山绿道，适合徒步。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "山林"
+    ],
+    "id": "淘金山绿道"
+  },
+  {
+    "name": "西湾红树林公园",
+    "source": "xwhsl",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区西乡",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湾红树林湿地公园。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟"
+    ],
+    "id": "西湾红树林公园"
+  },
+  {
+    "name": "茅洲河碧道",
+    "source": "mzohbd",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区茅洲河",
+    "transport": "",
+    "fee": "免费",
+    "description": "茅洲河碧道，适合散步骑行。",
+    "official_url": "",
+    "highlights": [
+      "碧道",
+      "生态"
+    ],
+    "id": "茅洲河碧道"
+  },
+  {
+    "name": "石岩湖湿地公园",
+    "source": "sysgy",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区石岩",
+    "transport": "",
+    "fee": "免费",
+    "description": "石岩湖湿地公园。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "观鸟"
+    ],
+    "id": "石岩湖湿地公园"
+  },
+  {
+    "name": "石岩文化艺术中心",
+    "source": "sywhzx",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区石岩",
+    "transport": "",
+    "fee": "免费",
+    "description": "石岩街道文化艺术中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "石岩文化艺术中心"
+  },
+  {
+    "name": "红花山公园",
+    "source": "hhsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区红花山公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "登高"
+    ],
+    "id": "红花山公园"
+  },
+  {
+    "name": "深圳大运中心",
+    "source": "dyzx",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育中心",
+    "address": "龙岗区龙城街道",
+    "transport": "地铁3号线大运站",
+    "fee": "收费",
+    "description": "深圳大运中心体育场和体育馆。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "大型活动"
+    ],
+    "id": "深圳大运中心"
+  },
+  {
+    "name": "大运中心公园",
+    "source": "dzxgy",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "龙岗区大运中心",
+    "transport": "地铁3号线大运站",
+    "fee": "免费",
+    "description": "大运中心公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "运动"
+    ],
+    "id": "大运中心公园"
+  },
+  {
+    "name": "安托山公共文化中心",
+    "source": "atszx",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化中心",
+    "address": "福田区安托山",
+    "transport": "地铁2号线安托山站",
+    "fee": "免费",
+    "description": "安托山公共文化中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "安托山公共文化中心"
+  },
+  {
+    "name": "北站中心公园",
+    "source": "bzgx",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "龙华区深圳北站",
+    "transport": "地铁4/5号线深圳北站",
+    "fee": "免费",
+    "description": "深圳北站中心公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "城市公园"
+    ],
+    "id": "北站中心公园"
+  },
+  {
+    "name": "深圳科学公园（南翼）",
+    "source": "kxgny",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳科学公园南翼。",
+    "official_url": "",
+    "highlights": [
+      "科学",
+      "休闲"
+    ],
+    "id": "深圳科学公园（南翼）"
+  },
+  {
+    "name": "人才公园",
+    "source": "rcgy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区科苑南路",
+    "transport": "地铁2号线后海站",
+    "fee": "免费",
+    "description": "深圳人才公园。",
+    "official_url": "",
+    "highlights": [
+      "人才主题",
+      "滨海休闲"
+    ],
+    "id": "人才公园"
+  },
+  {
+    "name": "吉华街道文化站",
+    "source": "jhwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区吉华街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区吉华街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "吉华街道文化站"
+  },
+  {
+    "name": "南湾街道文化站",
+    "source": "nwwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区南湾街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区南湾街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "南湾街道文化站"
+  },
+  {
+    "name": "坪地街道文化站",
+    "source": "pdwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区坪地街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区坪地街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "坪地街道文化站"
+  },
+  {
+    "name": "园岭街道综合性文化服务中心",
+    "source": "ylwh",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区园岭街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区园岭街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "园岭街道综合性文化服务中心"
+  },
+  {
+    "name": "桃源街道综合性文化服务中心",
+    "source": "tywh",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化馆",
+    "address": "南山区桃源街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区桃源街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "桃源街道综合性文化服务中心"
+  },
+  {
+    "name": "凤凰街道综合性文化服务中心",
+    "source": "fhwh",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区凤凰街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区凤凰街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "name": "江岭社区公共文化服务中心",
+    "source": "jlwh",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "文化馆",
+    "address": "坪山区江岭社区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区江岭社区公共文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "江岭社区公共文化服务中心"
+  },
+  {
+    "name": "迳口社区综合性文化服务中心",
+    "source": "jkwh",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区迳口社区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区迳口社区综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ],
+    "id": "迳口社区综合性文化服务中心"
+  },
+  {
+    "name": "浙江省博物馆",
+    "source": "zjam",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区孤山路",
+    "transport": "",
+    "fee": "免费",
+    "description": "浙江省博物馆。",
+    "official_url": "",
+    "highlights": [
+      "浙江历史"
+    ],
+    "id": "浙江省博物馆"
+  },
+  {
+    "name": "中国科学技术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "科技馆",
+    "address": "朝阳区北辰东路5号",
+    "transport": "地铁8号线奥林匹克公园站",
+    "fee": "收费",
+    "description": "中国唯一的国家级综合性科技馆，设有儿童科学乐园、华夏之光、探索与发现等五大主题展厅，以及球幕、巨幕等特效影院。",
+    "official_url": "",
+    "highlights": [
+      "儿童科学乐园",
+      "球幕影院",
+      "互动体验",
+      "科普教育"
+    ],
+    "id": "中国科学技术馆"
+  },
+  {
+    "name": "北京天文馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科普馆",
+    "address": "西城区西直门外大街138号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "中国第一座大型天文馆，A馆天象厅球幕电影超赞，B馆有太阳观测、陨石展览、互动体验。",
+    "official_url": "",
+    "highlights": [
+      "天象厅",
+      "球幕电影",
+      "陨石展览",
+      "宇宙探索"
+    ],
+    "id": "北京天文馆"
+  },
+  {
+    "name": "国家自然博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "东城区天桥南大街126号",
+    "transport": "地铁8号线天桥站",
+    "fee": "免费",
+    "description": "国内自然类博物馆的天花板，拥有37.2万件珍稀标本，恐龙化石是招牌，还有古生物、动物、植物、人类进化等展陈。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "古生物",
+      "动物标本",
+      "自然教育"
+    ],
+    "id": "国家自然博物馆"
+  },
+  {
+    "name": "国家动物博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "朝阳区北辰西路1号院5号",
+    "transport": "地铁8号线奥林匹克公园站",
+    "fee": "收费",
+    "description": "中科院下属，动物标本种类数量国内顶尖，鸟类、昆虫、濒危动物展厅都很精彩。",
+    "official_url": "",
+    "highlights": [
+      "动物标本",
+      "鸟类展厅",
+      "濒危动物",
+      "科研科普"
+    ],
+    "id": "国家动物博物馆"
+  },
+  {
+    "name": "中国消防博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科普馆",
+    "address": "西城区广安门南街70号",
+    "transport": "地铁7号线广安门内站",
+    "fee": "免费",
+    "description": "互动体验超强！可以学习消防知识，体验地震、地铁火灾疏散，还有模拟灭火。",
+    "official_url": "",
+    "highlights": [
+      "消防知识",
+      "互动体验",
+      "模拟灭火",
+      "安全教育"
+    ],
+    "id": "中国消防博物馆"
+  },
+  {
+    "name": "北京汽车博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "博物馆",
+    "address": "丰台区南四环西路126号",
+    "transport": "地铁9号线科怡路站",
+    "fee": "收费",
+    "description": "汽车迷天堂！从老爷车到未来概念车，还有各种互动驾驶体验，被评为全国中小学生研学实践教育基地。",
+    "official_url": "",
+    "highlights": [
+      "老爷车",
+      "概念车",
+      "模拟驾驶",
+      "汽车文化"
+    ],
+    "id": "北京汽车博物馆"
+  },
+  {
+    "name": "北京动物园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "公园",
+    "address": "西城区西直门外大街137号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "老牌经典动物园，看大熊猫、长颈鹿、大象等，海洋馆就在园内，有白鲸、鲨鱼、海豚表演。",
+    "official_url": "",
+    "highlights": [
+      "大熊猫",
+      "海洋馆",
+      "动物表演",
+      "亲子游玩"
+    ],
+    "id": "北京动物园"
+  },
+  {
+    "name": "北京海洋馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科普馆",
+    "address": "西城区西直门外大街137号北京动物园内",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "北京动物园内的大型海洋馆，有雨林奇观、鲨鱼小镇、海底环游等展区，还有海豚、海狮表演。",
+    "official_url": "",
+    "highlights": [
+      "海底隧道",
+      "海豚表演",
+      "海洋生物",
+      "亲子科普"
+    ],
+    "id": "北京海洋馆"
+  },
+  {
+    "name": "北京欢乐谷",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区东四环小武基北路",
+    "transport": "地铁7号线欢乐谷景区站",
+    "fee": "收费",
+    "description": "大型主题乐园，刺激项目与儿童区（甜品王国、爱琴港区域）兼备，夏天有夜场和水花派对等活动。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "儿童区",
+      "夜场",
+      "水花派对"
+    ],
+    "id": "北京欢乐谷"
+  },
+  {
+    "name": "水立方嬉水乐园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区天辰东路11号国家游泳中心内",
+    "transport": "地铁8号线奥体中心站",
+    "fee": "收费",
+    "description": "室内水上乐园！全年恒温，不怕晒不怕雨。有适合各年龄段的滑道、造浪池、漂流河、儿童戏水区。",
+    "official_url": "",
+    "highlights": [
+      "室内水上乐园",
+      "造浪池",
+      "儿童戏水",
+      "四季恒温"
+    ],
+    "id": "水立方嬉水乐园"
+  },
+  {
+    "name": "欢乐水魔方水上乐园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "丰台区小屯路11号",
+    "transport": "地铁14号线郭庄子站",
+    "fee": "收费",
+    "description": "大型室外水上乐园，龙卷风、风暴谷、黑暗漩涡等刺激项目，也有梦幻漂流和儿童戏水池。",
+    "official_url": "",
+    "highlights": [
+      "室外水乐园",
+      "刺激滑道",
+      "漂流",
+      "亲子戏水"
+    ],
+    "id": "欢乐水魔方水上乐园"
+  },
+  {
+    "name": "朝阳公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区朝阳公园南路1号",
+    "transport": "地铁14号线朝阳公园站",
+    "fee": "免费",
+    "description": "综合性公园，面积大，可划船、野餐、放风筝，北区有泡泡玛特城市乐园和索尼探梦科技馆。",
+    "official_url": "",
+    "highlights": [
+      "划船",
+      "野餐",
+      "泡泡玛特乐园",
+      "索尼探梦"
+    ],
+    "id": "朝阳公园"
+  },
+  {
+    "name": "世界公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "丰台区花乡大葆台158号",
+    "transport": "地铁房山线大葆台站",
+    "fee": "收费",
+    "description": "微缩景观看世界，对孩子认识世界地标有帮助，夏天有时有夜场或表演。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "世界地标",
+      "夜场表演"
+    ],
+    "id": "世界公园"
+  },
+  {
+    "name": "北京野生动物园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "公园",
+    "address": "大兴区榆垡镇万亩森林",
+    "transport": "地铁4号线天宫院站换乘公交",
+    "fee": "收费",
+    "description": "互动性更强的野生动物园，可自驾或坐园区小火车进入猛兽区，步行区能喂羊驼、小鹿等温顺动物。",
+    "official_url": "",
+    "highlights": [
+      "猛兽区",
+      "自驾游览",
+      "互动投喂",
+      "萌宝幼儿园"
+    ],
+    "id": "北京野生动物园"
+  },
+  {
+    "name": "北京科学中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科技馆",
+    "address": "西城区北辰路9号院",
+    "transport": "地铁8号线安华桥站",
+    "fee": "免费",
+    "description": "国家级科普圣地，有黑科技展馆、球幕影院，还有免费的超大儿童乐园，各种玩法都有。",
+    "official_url": "",
+    "highlights": [
+      "儿童乐园",
+      "球幕影院",
+      "黑科技",
+      "免费"
+    ],
+    "id": "北京科学中心"
+  },
+  {
+    "name": "中国地质博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "西城区西四羊肉胡同15号",
+    "transport": "地铁4号线西四站",
+    "fee": "收费",
+    "description": "收藏地质标本55万余件，有巨型山东龙、中华龙鸟等恐龙系列化石，北京人等古人类化石。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "古人类化石",
+      "地质标本",
+      "科普"
+    ],
+    "id": "中国地质博物馆"
+  },
+  {
+    "name": "北京奥运博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "朝阳区国家体育场南路1号",
+    "transport": "地铁8号线奥体中心站",
+    "fee": "免费",
+    "description": "沉浸式感受奥运魅力，人少免费还免预约，可直接刷身份证进入，互动体验超级多。",
+    "official_url": "",
+    "highlights": [
+      "奥运文化",
+      "互动体验",
+      "免费",
+      "鸟巢周边"
+    ],
+    "id": "北京奥运博物馆"
+  },
+  {
+    "name": "中国航空博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "博物馆",
+    "address": "昌平区小汤山镇",
+    "transport": "地铁5号线沙河站换乘公交",
+    "fee": "免费",
+    "description": "亚洲最大、世界前五的航空博物馆，馆内展出各类展品1400余项，可看到各种年代的战斗机、轰炸机等。",
+    "official_url": "",
+    "highlights": [
+      "航空展品",
+      "战斗机",
+      "轰炸机",
+      "航天梦想"
+    ],
+    "id": "中国航空博物馆"
+  },
+  {
+    "name": "中国考古博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "朝阳区国家体育场北路1号院1号楼",
+    "transport": "地铁8号线奥林匹克公园站",
+    "fee": "免费",
+    "description": "国内第一家以考古命名的博物馆，可以参观精美的文物，摸一摸五千多年前的陶片，亲手敲一敲编钟。",
+    "official_url": "",
+    "highlights": [
+      "考古文物",
+      "陶片触摸",
+      "编钟体验",
+      "历史教育"
+    ],
+    "id": "中国考古博物馆"
+  },
+  {
+    "name": "中国园林博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "博物馆",
+    "address": "丰台区射击场路15号",
+    "transport": "地铁14号线园博园站",
+    "fee": "免费",
+    "description": "带娃打卡中国园林博物馆，一秒入江南，苏州畅园、岭南余荫山房、扬州片石山房为必逛的三大室内园林。",
+    "official_url": "",
+    "highlights": [
+      "江南园林",
+      "苏州畅园",
+      "岭南园林",
+      "古典韵味"
+    ],
+    "id": "中国园林博物馆"
+  },
+  {
+    "name": "中国军事博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "海淀区复兴路9号",
+    "transport": "地铁1号线军事博物馆站",
+    "fee": "免费",
+    "description": "中国第一个综合类军事博物馆，飞机、坦克、大炮、导弹、火箭一应俱全，军事迷孩子的梦中情馆。",
+    "official_url": "",
+    "highlights": [
+      "军事装备",
+      "飞机坦克",
+      "导弹火箭",
+      "国防教育"
+    ],
+    "id": "中国军事博物馆"
+  },
+  {
+    "name": "海淀公共安全馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "科普馆",
+    "address": "海淀区新建宫门路2号",
+    "transport": "地铁4号线西苑站",
+    "fee": "免费",
+    "description": "集消防、自然灾害、人体、交通等安全知识为一体，还有滑梯、模拟开车等娱乐项目。",
+    "official_url": "",
+    "highlights": [
+      "安全知识",
+      "模拟驾驶",
+      "互动体验",
+      "儿童安全"
+    ],
+    "id": "海淀公共安全馆"
+  },
+  {
+    "name": "乐高探索中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区朝阳北路101号长楹天街购物中心",
+    "transport": "地铁6号线常营站",
+    "fee": "收费",
+    "description": "乐高迷的天堂，大型乐高游乐场，各种乐高主题的游乐设施和互动项目，能让孩子沉浸在积木世界里一整天。",
+    "official_url": "",
+    "highlights": [
+      "乐高积木",
+      "4D电影",
+      "互动体验",
+      "亲子游玩"
+    ],
+    "id": "乐高探索中心"
+  },
+  {
+    "name": "首都图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "图书馆",
+    "address": "朝阳区东三环南路88号",
+    "transport": "地铁10号线十里河站",
+    "fee": "免费",
+    "description": "北京市大型公共图书馆，有丰富的馆藏资源，定期举办阅读推广、讲座等活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "讲座活动",
+      "儿童阅读区"
+    ],
+    "id": "首都图书馆"
+  },
+  {
+    "name": "国家图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "图书馆",
+    "address": "海淀区中关村南大街33号",
+    "transport": "地铁4号线国家图书馆站",
+    "fee": "免费",
+    "description": "中国国家图书馆，馆藏丰富，有专门的少年儿童馆，适合亲子阅读学习。",
+    "official_url": "",
+    "highlights": [
+      "国家藏书",
+      "少年儿童馆",
+      "阅读学习"
+    ],
+    "id": "国家图书馆"
+  },
+  {
+    "name": "中国妇女儿童博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "东城区北极阁路9号",
+    "transport": "地铁5号线灯市口站",
+    "fee": "免费",
+    "description": "中国第一家以妇女儿童为主题的国家级博物馆，展示妇女儿童相关的历史文化和艺术。",
+    "official_url": "",
+    "highlights": [
+      "妇女儿童",
+      "历史文化",
+      "亲子教育"
+    ],
+    "id": "中国妇女儿童博物馆"
+  },
+  {
+    "name": "中国古动物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "西城区西直门外大街142号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "展示古生物化石，有恐龙、猛犸象等古动物标本，适合对古生物感兴趣的孩子。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "古动物",
+      "古生物"
+    ],
+    "id": "中国古动物馆"
+  },
+  {
+    "name": "索尼探梦科技馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "科普馆",
+    "address": "朝阳区朝阳公园南路1号",
+    "transport": "地铁14号线朝阳公园站",
+    "fee": "收费",
+    "description": "以光与声音为主题的科技馆，互动有趣，适合儿童科学启蒙。",
+    "official_url": "",
+    "highlights": [
+      "光与声音",
+      "互动体验",
+      "科学启蒙"
+    ],
+    "id": "索尼探梦科技馆"
+  },
+  {
+    "name": "泡泡玛特城市乐园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区朝阳公园南路1号",
+    "transport": "地铁14号线朝阳公园站",
+    "fee": "收费",
+    "description": "IP主题乐园，以泡泡玛特盲盒形象为主题，适合喜欢盲盒的小朋友。",
+    "official_url": "",
+    "highlights": [
+      "泡泡玛特",
+      "IP主题",
+      "盲盒"
+    ],
+    "id": "泡泡玛特城市乐园"
+  },
+  {
+    "name": "广东科学中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "科技馆",
+    "address": "番禺区大学城科普路168号",
+    "transport": "地铁4号线大学城北站",
+    "fee": "收费",
+    "description": "世界最大的科技馆/科学中心，室内遛娃宝藏地，有儿童天地、实验与发现馆以及太空主题展。",
+    "official_url": "",
+    "highlights": [
+      "儿童天地",
+      "太空主题",
+      "互动体验",
+      "科普教育"
+    ],
+    "id": "广东科学中心"
+  },
+  {
+    "name": "广州青少年科技馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "科技馆",
+    "address": "越秀区童心路西胜街42号",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "免费",
+    "description": "专为青少年设计的科技馆，有机器人、航模、编程等互动体验，定期举办科技讲座和比赛。",
+    "official_url": "",
+    "highlights": [
+      "机器人",
+      "编程",
+      "科技讲座",
+      "免费"
+    ],
+    "id": "广州青少年科技馆"
+  },
+  {
+    "name": "广州少年儿童图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "图书馆",
+    "address": "越秀区中山四路42号",
+    "transport": "地铁1号线农讲所站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，有丰富的儿童读物，定期举办绘本故事会、阅读推广等活动。",
+    "official_url": "",
+    "highlights": [
+      "儿童阅读",
+      "绘本故事",
+      "阅读推广"
+    ],
+    "id": "广州少年儿童图书馆"
+  },
+  {
+    "name": "广州地铁博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "博物馆",
+    "address": "海珠区新港东路万胜围地铁站A出口",
+    "transport": "地铁8号线万胜围站",
+    "fee": "免费",
+    "description": "展示广州地铁发展历程，有各种地铁模型、模拟驾驶设备、互动游戏，孩子们可以体验模拟驾驶。",
+    "official_url": "",
+    "highlights": [
+      "地铁模型",
+      "模拟驾驶",
+      "互动游戏",
+      "科普"
+    ],
+    "id": "广州地铁博物馆"
+  },
+  {
+    "name": "广州市儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "公园",
+    "address": "白云区齐心路61号",
+    "transport": "地铁2号线白云公园站",
+    "fee": "免费",
+    "description": "专为儿童设计的主题公园，有海盗船、旋转木马、淘气堡等设施，还有科普区和儿童剧场。",
+    "official_url": "",
+    "highlights": [
+      "儿童游乐",
+      "海盗船",
+      "科普区",
+      "免费"
+    ],
+    "id": "广州市儿童公园"
+  },
+  {
+    "name": "广州动物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区先烈中路120号",
+    "transport": "地铁5号线动物园站",
+    "fee": "收费",
+    "description": "华南地区最大的动物园，有憨态可掬的大熊猫、威风凛凛的华南虎，还有各种珍稀动物。",
+    "official_url": "",
+    "highlights": [
+      "大熊猫",
+      "华南虎",
+      "珍稀动物",
+      "亲子"
+    ],
+    "id": "广州动物园"
+  },
+  {
+    "name": "广州海洋馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "科普馆",
+    "address": "越秀区先烈中路120号广州动物园内",
+    "transport": "地铁5号线动物园站",
+    "fee": "收费",
+    "description": "广州动物园内的大型海洋馆，有360°海底隧道、珊瑚世界、水母幻境等，还有海洋生物表演。",
+    "official_url": "",
+    "highlights": [
+      "海底隧道",
+      "珊瑚世界",
+      "水母",
+      "表演"
+    ],
+    "id": "广州海洋馆"
+  },
+  {
+    "name": "正佳极地海洋世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "科普馆",
+    "address": "天河区天河路228号正佳广场",
+    "transport": "地铁3号线体育西路站",
+    "fee": "收费",
+    "description": "室内海洋馆，拥有白鲸、企鹅表演以及海底隧道观赏区，适合全年龄段家庭游玩。",
+    "official_url": "",
+    "highlights": [
+      "白鲸",
+      "企鹅",
+      "海底隧道",
+      "表演"
+    ],
+    "id": "正佳极地海洋世界"
+  },
+  {
+    "name": "正佳雨林生态植物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "天河区天河路228号正佳广场7层",
+    "transport": "地铁3号线体育西路站",
+    "fee": "收费",
+    "description": "模拟热带雨林生态环境，种植大量热带植物，还有鹦鹉、蜥蜴、水豚等小动物，可体验丛林天空步道。",
+    "official_url": "",
+    "highlights": [
+      "热带雨林",
+      "小动物",
+      "天空步道",
+      "生态"
+    ],
+    "id": "正佳雨林生态植物园"
+  },
+  {
+    "name": "正佳自然科学博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "博物馆",
+    "address": "天河区天河路228号正佳广场6楼",
+    "transport": "地铁3号线体育西路站",
+    "fee": "收费",
+    "description": "馆内有8个展区，大量化石、标本、模型及多媒体展示，恐龙化石展示区深受孩子们喜爱。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "标本",
+      "多媒体",
+      "自然科学"
+    ],
+    "id": "正佳自然科学博物馆"
+  },
+  {
+    "name": "广州融创文旅城",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区凤凰北路78号",
+    "transport": "地铁9号线花城路站",
+    "fee": "收费",
+    "description": "集乐园、雪世界、水世界、体育世界于一体，冰雪乐园让孩子在广州也能体验滑雪的乐趣。",
+    "official_url": "",
+    "highlights": [
+      "雪世界",
+      "水世界",
+      "滑雪",
+      "亲子"
+    ],
+    "id": "广州融创文旅城"
+  },
+  {
+    "name": "永庆坊",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "文化中心",
+    "address": "荔湾区恩宁路99号",
+    "transport": "地铁1号线黄沙站",
+    "fee": "免费",
+    "description": "老广州的文化名片，可参观粤剧艺术博物馆，欣赏传统建筑，体验手工制作，感受老广州风情。",
+    "official_url": "",
+    "highlights": [
+      "粤剧艺术",
+      "传统建筑",
+      "手工体验",
+      "广府文化"
+    ],
+    "id": "永庆坊"
+  },
+  {
+    "name": "陈家祠",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "博物馆",
+    "address": "荔湾区中山七路恩龙里34号",
+    "transport": "地铁1号线陈家祠站",
+    "fee": "收费",
+    "description": "岭南建筑艺术的瑰宝，精美的木雕、石雕、砖雕让人叹为观止，可参加亲子导览活动。",
+    "official_url": "",
+    "highlights": [
+      "岭南建筑",
+      "木雕石雕",
+      "砖雕",
+      "传统文化"
+    ],
+    "id": "陈家祠"
+  },
+  {
+    "name": "岭南印象园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区大学城外环西路",
+    "transport": "地铁4号线大学城南站",
+    "fee": "收费",
+    "description": "体验岭南传统文化的绝佳场所，有广彩、广绣、醒狮等传统手工艺展示和体验活动。",
+    "official_url": "",
+    "highlights": [
+      "岭南文化",
+      "广彩广绣",
+      "醒狮",
+      "手工艺"
+    ],
+    "id": "岭南印象园"
+  },
+  {
+    "name": "海珠国家湿地公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "海珠区新滘中路",
+    "transport": "地铁3号线大塘站",
+    "fee": "收费",
+    "description": "可以进行观鸟活动和参加自然教育课程，春天时还会举办花展，适合亲近自然。",
+    "official_url": "",
+    "highlights": [
+      "观鸟",
+      "自然教育",
+      "花展",
+      "湿地"
+    ],
+    "id": "海珠国家湿地公园"
+  },
+  {
+    "name": "华南植物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "天河区兴科路723号",
+    "transport": "地铁6号线植物园站",
+    "fee": "收费",
+    "description": "让孩子认识各种奇花异草的绝佳场所，温室群景区、龙洞琪林都是拍照打卡点，还能参加植物科普活动。",
+    "official_url": "",
+    "highlights": [
+      "温室群",
+      "植物科普",
+      "奇花异草",
+      "拍照"
+    ],
+    "id": "华南植物园"
+  },
+  {
+    "name": "白云山",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "公园",
+    "address": "白云区广园中路801号",
+    "transport": "地铁2号线白云公园站",
+    "fee": "收费",
+    "description": "登高望远的好去处，可带孩子走轻松路线，沿途欣赏四季花海，山顶还能俯瞰广州全景。",
+    "official_url": "",
+    "highlights": [
+      "云台花园",
+      "摩星岭",
+      "四季花海",
+      "登高"
+    ],
+    "id": "白云山"
+  },
+  {
+    "name": "大夫山森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区禺山西路668号",
+    "transport": "地铁3号线汉溪长隆站",
+    "fee": "免费",
+    "description": "广州绿肺之一，租辆单车骑行环湖，或者在草坪上野餐放风筝，园区还有儿童游乐区。",
+    "official_url": "",
+    "highlights": [
+      "骑行",
+      "野餐",
+      "儿童游乐",
+      "免费"
+    ],
+    "id": "大夫山森林公园"
+  },
+  {
+    "name": "海鸥岛",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区石楼镇",
+    "transport": "地铁4号线石碁站",
+    "fee": "免费",
+    "description": "珠江入海口湿地，骑行绿道、采摘农场、沙滩露营、红树林观鸟，日落时分骑行最美。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "骑行",
+      "观鸟",
+      "露营"
+    ],
+    "id": "海鸥岛"
+  },
+  {
+    "name": "广州新儿童活动中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "青少年宫",
+    "address": "白云区云城东路509号",
+    "transport": "地铁2号线白云公园站",
+    "fee": "免费",
+    "description": "集科技、自然美学、广府文化科普于一体，有VR项目体验、互动游戏、科普展览等。",
+    "official_url": "",
+    "highlights": [
+      "VR体验",
+      "互动游戏",
+      "广府文化",
+      "免费"
+    ],
+    "id": "广州新儿童活动中心"
+  },
+  {
+    "name": "广州开发区科技馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "科技馆",
+    "address": "黄埔区萝岗街道萝平路与香雪七路交汇处",
+    "transport": "地铁6号线香雪站",
+    "fee": "免费",
+    "description": "黄埔区科技馆，提供科技互动体验和科普教育活动。",
+    "official_url": "",
+    "highlights": [
+      "科技互动",
+      "科普教育",
+      "免费"
+    ],
+    "id": "广州开发区科技馆"
+  },
+  {
+    "name": "广州艺术博物院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "美术馆",
+    "address": "越秀区麓湖路13号",
+    "transport": "地铁5号线小北站",
+    "fee": "免费",
+    "description": "展示古今中外艺术作品，有岭南画派作品、历代书画等展览，适合艺术启蒙。",
+    "official_url": "",
+    "highlights": [
+      "艺术展览",
+      "岭南画派",
+      "书画",
+      "艺术启蒙"
+    ],
+    "id": "广州艺术博物院"
+  },
+  {
+    "name": "南越王博物院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区解放北路867号",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "免费",
+    "description": "展示南越王墓出土文物，包括金缕玉衣、丝缕玉衣等珍贵文物，了解南越国历史。",
+    "official_url": "",
+    "highlights": [
+      "南越王墓",
+      "金缕玉衣",
+      "历史文物"
+    ],
+    "id": "南越王博物院"
+  },
+  {
+    "name": "广州市文化馆新馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化中心",
+    "address": "海珠区新滘中路288号",
+    "transport": "地铁3号线大塘站",
+    "fee": "免费",
+    "description": "占地面积全国居首的文化馆，融合汉唐风格与岭南风情，含翰墨园、广绣园等多个主题园区。",
+    "official_url": "",
+    "highlights": [
+      "岭南园林",
+      "汉唐风格",
+      "亲子文化",
+      "拍照"
+    ],
+    "id": "广州市文化馆新馆"
+  },
+  {
+    "name": "上海自然博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "博物馆",
+    "address": "静安区北京西路510号",
+    "transport": "地铁13号线自然博物馆站",
+    "fee": "收费",
+    "description": "亚洲最大自然博物馆之一，恐龙模型、非洲动物展区逼真，互动装置多，如化石挖掘体验。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "非洲动物",
+      "化石挖掘",
+      "互动"
+    ],
+    "id": "上海自然博物馆"
+  },
+  {
+    "name": "上海天文馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科普馆",
+    "address": "浦东新区南汇新城环湖北三路388号",
+    "transport": "地铁16号线滴水湖站",
+    "fee": "收费",
+    "description": "世界最大的天文馆，有球幕影院、太阳系展区、宇宙探索等互动展项，适合天文爱好者。",
+    "official_url": "",
+    "highlights": [
+      "球幕影院",
+      "太阳系",
+      "宇宙探索",
+      "互动"
+    ],
+    "id": "上海天文馆"
+  },
+  {
+    "name": "上海儿童博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "博物馆",
+    "address": "长宁区宋园路61号",
+    "transport": "地铁10号线宋园路站",
+    "fee": "免费",
+    "description": "专为3-10岁儿童设计，有太空舱模拟、航海体验区，免费且人少。",
+    "official_url": "",
+    "highlights": [
+      "太空舱",
+      "航海体验",
+      "免费",
+      "儿童专属"
+    ],
+    "id": "上海儿童博物馆"
+  },
+  {
+    "name": "上海地铁博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "博物馆",
+    "address": "闵行区吴中路1799-7号",
+    "transport": "地铁10号线龙溪路站",
+    "fee": "免费",
+    "description": "中国第一家展示城市轨道交通发展历程的专业展馆，有模拟驾驶、VR互动体验等项目。",
+    "official_url": "",
+    "highlights": [
+      "地铁发展",
+      "模拟驾驶",
+      "VR体验",
+      "免费"
+    ],
+    "id": "上海地铁博物馆"
+  },
+  {
+    "name": "上海海洋水族馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科普馆",
+    "address": "浦东新区陆家嘴环路1388号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "展示各种海洋生物，有海底隧道、鲨鱼馆、水母馆等，适合亲子海洋探索。",
+    "official_url": "",
+    "highlights": [
+      "海底隧道",
+      "鲨鱼",
+      "水母",
+      "海洋生物"
+    ],
+    "id": "上海海洋水族馆"
+  },
+  {
+    "name": "上海海昌海洋公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区银飞路166号",
+    "transport": "地铁16号线临港大道站",
+    "fee": "收费",
+    "description": "一站式海洋亲子乐园，有虎鲸表演、北极熊展馆、海底隧道，还有儿童游乐设施。",
+    "official_url": "",
+    "highlights": [
+      "虎鲸表演",
+      "北极熊",
+      "海底隧道",
+      "亲子游乐"
+    ],
+    "id": "上海海昌海洋公园"
+  },
+  {
+    "name": "上海野生动物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区南六公路178号",
+    "transport": "地铁16号线野生动物园站",
+    "fee": "收费",
+    "description": "国家级野生动物园，车行猛兽区+步行萌宠区双模式，能近距离投喂互动。",
+    "official_url": "",
+    "highlights": [
+      "猛兽区",
+      "步行区",
+      "互动投喂",
+      "大熊猫"
+    ],
+    "id": "上海野生动物园"
+  },
+  {
+    "name": "上海欢乐谷",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区林湖路888号",
+    "transport": "地铁9号线佘山站",
+    "fee": "收费",
+    "description": "大型主题乐园，有刺激项目和儿童区，适合不同年龄段的孩子游玩。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "刺激项目",
+      "儿童区",
+      "亲子"
+    ],
+    "id": "上海欢乐谷"
+  },
+  {
+    "name": "上海迪士尼乐园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "全球知名主题乐园，适合全年龄段儿童，有梦幻城堡、花车巡游和亲子项目。",
+    "official_url": "",
+    "highlights": [
+      "梦幻城堡",
+      "花车巡游",
+      "亲子项目",
+      "主题乐园"
+    ],
+    "id": "上海迪士尼乐园"
+  },
+  {
+    "name": "乐高探索中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "公园",
+    "address": "普陀区大渡河路196号长风大悦城",
+    "transport": "地铁15号线长风公园站",
+    "fee": "收费",
+    "description": "室内乐高主题乐园，有4D电影、迷你上海积木展，适合低龄儿童动手创作。",
+    "official_url": "",
+    "highlights": [
+      "乐高积木",
+      "4D电影",
+      "迷你上海",
+      "动手创作"
+    ],
+    "id": "乐高探索中心"
+  },
+  {
+    "name": "上海汽车博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "博物馆",
+    "address": "嘉定区安亭博园路7565号",
+    "transport": "地铁11号线安亭站",
+    "fee": "收费",
+    "description": "男孩最爱！古董车收藏丰富，可体验儿童驾驶项目。",
+    "official_url": "",
+    "highlights": [
+      "古董车",
+      "儿童驾驶",
+      "汽车文化"
+    ],
+    "id": "上海汽车博物馆"
+  },
+  {
+    "name": "东方明珠塔",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区世纪大道1号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "上海标志性建筑，可登塔俯瞰上海全景，有悬空观光廊、历史陈列馆等。",
+    "official_url": "",
+    "highlights": [
+      "登高观光",
+      "悬空廊",
+      "历史陈列",
+      "地标"
+    ],
+    "id": "东方明珠塔"
+  },
+  {
+    "name": "上海中心大厦",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区陆家嘴环路1000号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "上海最高建筑，118层观光厅可俯瞰上海全貌，适合亲子登高体验。",
+    "official_url": "",
+    "highlights": [
+      "最高建筑",
+      "118层",
+      "俯瞰上海",
+      "观光"
+    ],
+    "id": "上海中心大厦"
+  },
+  {
+    "name": "徐家汇书院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "图书馆",
+    "address": "徐汇区漕溪北路158号",
+    "transport": "地铁1/9/11号线徐家汇站",
+    "fee": "免费",
+    "description": "现代化图书馆，建筑设计精美，有丰富的阅读空间和展览活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读空间",
+      "建筑设计",
+      "展览",
+      "免费"
+    ],
+    "id": "徐家汇书院"
+  },
+  {
+    "name": "世纪公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区锦绣路1001号",
+    "transport": "地铁2号线世纪公园站",
+    "fee": "免费",
+    "description": "超大绿地公园，可搭帐篷、放风筝、踢球，园内有儿童乐园。",
+    "official_url": "",
+    "highlights": [
+      "草坪",
+      "儿童乐园",
+      "野餐",
+      "免费"
+    ],
+    "id": "世纪公园"
+  },
+  {
+    "name": "共青森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "公园",
+    "address": "杨浦区军工路2000号",
+    "transport": "地铁8号线翔殷路站",
+    "fee": "免费",
+    "description": "市区内超大森林绿地，可野餐、划船、骑亲子自行车，常有花卉展。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "划船",
+      "骑行",
+      "花卉展"
+    ],
+    "id": "共青森林公园"
+  },
+  {
+    "name": "辰山植物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区辰花公路3888号",
+    "transport": "地铁9号线洞泾站",
+    "fee": "收费",
+    "description": "超大温室花园、矿坑瀑布，儿童可奔跑玩耍，适合亲子自然探索。",
+    "official_url": "",
+    "highlights": [
+      "温室花园",
+      "矿坑瀑布",
+      "自然探索",
+      "亲子"
+    ],
+    "id": "辰山植物园"
+  },
+  {
+    "name": "徐汇滨江滑板公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "公园",
+    "address": "徐汇区龙腾大道",
+    "transport": "地铁7号线龙华中路站",
+    "fee": "免费",
+    "description": "滨江骑行道+专业滑板场地，可带娃骑车、玩滑板，欣赏黄浦江景。",
+    "official_url": "",
+    "highlights": [
+      "滑板",
+      "骑行",
+      "黄浦江",
+      "免费"
+    ],
+    "id": "徐汇滨江滑板公园"
+  },
+  {
+    "name": "长风海洋世界",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "科普馆",
+    "address": "普陀区大渡河路451号",
+    "transport": "地铁15号线长风公园站",
+    "fee": "收费",
+    "description": "长风公园内的海洋世界，有白鲸表演、海底隧道，适合亲子海洋探索。",
+    "official_url": "",
+    "highlights": [
+      "白鲸表演",
+      "海底隧道",
+      "海洋生物"
+    ],
+    "id": "长风海洋世界"
+  },
+  {
+    "name": "上海植物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "公园",
+    "address": "徐汇区龙吴路1111号",
+    "transport": "地铁3号线石龙路站",
+    "fee": "收费",
+    "description": "上海市中心的植物园，有多个专类园，可认识各种植物，适合自然教育。",
+    "official_url": "",
+    "highlights": [
+      "植物",
+      "自然教育",
+      "专类园"
+    ],
+    "id": "上海植物园"
+  },
+  {
+    "name": "上海昆虫博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "徐汇区枫林路300号",
+    "transport": "地铁7号线东安路站",
+    "fee": "收费",
+    "description": "展示各种昆虫标本，有蝴蝶、甲虫等，适合对昆虫感兴趣的孩子。",
+    "official_url": "",
+    "highlights": [
+      "昆虫标本",
+      "蝴蝶",
+      "甲虫",
+      "科普"
+    ],
+    "id": "上海昆虫博物馆"
+  },
+  {
+    "name": "上海消防博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "博物馆",
+    "address": "长宁区中山西路229号",
+    "transport": "地铁3/4号线延安西路站",
+    "fee": "免费",
+    "description": "展示上海消防历史，有消防车、消防装备等展品，还有互动体验区。",
+    "official_url": "",
+    "highlights": [
+      "消防历史",
+      "消防车",
+      "互动体验",
+      "免费"
+    ],
+    "id": "上海消防博物馆"
+  },
+  {
+    "name": "上海科技馆分馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "科技馆",
+    "address": "静安区北京西路510号",
+    "transport": "地铁13号线自然博物馆站",
+    "fee": "收费",
+    "description": "上海科技馆分馆，以自然科学为主题，有丰富的互动展项和科普活动。",
+    "official_url": "",
+    "highlights": [
+      "自然科学",
+      "互动展项",
+      "科普活动"
+    ],
+    "id": "上海科技馆分馆"
+  },
+  {
+    "name": "上海少年儿童图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "图书馆",
+    "address": "长宁区延安西路1538号",
+    "transport": "地铁3/4号线延安西路站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，有丰富的儿童读物和阅读活动。",
+    "official_url": "",
+    "highlights": [
+      "儿童阅读",
+      "读物",
+      "阅读活动",
+      "免费"
+    ],
+    "id": "上海少年儿童图书馆"
+  },
+  {
+    "name": "世界技能博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "博物馆",
+    "address": "杨浦区黄兴路221号",
+    "transport": "地铁12号线隆昌路站",
+    "fee": "免费",
+    "description": "展示世界技能大赛相关内容，有各种技能互动体验，适合青少年职业启蒙。",
+    "official_url": "",
+    "highlights": [
+      "技能体验",
+      "职业启蒙",
+      "互动",
+      "免费"
+    ],
+    "id": "世界技能博物馆"
+  },
+  {
+    "name": "浙江省博物馆（之江馆）",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区江涵路300号",
+    "transport": "地铁6号线枫桦西路站",
+    "fee": "免费",
+    "description": "之江文化中心单体建筑面积最大的场馆，集收藏、保护、研究、展示于一体，有多种数字互动体验项目。",
+    "official_url": "",
+    "highlights": [
+      "数字互动",
+      "文物展览",
+      "之江文化",
+      "免费"
+    ],
+    "id": "浙江省博物馆（之江馆）"
+  },
+  {
+    "name": "浙江省博物馆（孤山馆）",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区孤山路25号",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "位于西湖边的博物馆，展示浙江历史文化和艺术藏品，周边风景优美。",
+    "official_url": "",
+    "highlights": [
+      "西湖边",
+      "历史文化",
+      "艺术藏品",
+      "免费"
+    ],
+    "id": "浙江省博物馆（孤山馆）"
+  },
+  {
+    "name": "浙江自然博物院（杭州馆）",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "拱墅区西湖文化广场6号",
+    "transport": "地铁1号线西湖文化广场站",
+    "fee": "免费",
+    "description": "以自然生命人为主题，有恐龙骨架、生物标本等展陈，适合亲子自然探索。",
+    "official_url": "",
+    "highlights": [
+      "恐龙骨架",
+      "生物标本",
+      "自然探索",
+      "免费"
+    ],
+    "id": "浙江自然博物院（杭州馆）"
+  },
+  {
+    "name": "浙江省科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "科技馆",
+    "address": "拱墅区西湖文化广场2号",
+    "transport": "地铁1号线西湖文化广场站",
+    "fee": "免费",
+    "description": "一至三层为常设展厅，有宇宙遨游、气象万千、海底巡礼、前沿科技等展区，互动体验丰富。",
+    "official_url": "",
+    "highlights": [
+      "宇宙遨游",
+      "互动体验",
+      "前沿科技",
+      "免费"
+    ],
+    "id": "浙江省科技馆"
+  },
+  {
+    "name": "浙江省地质博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区",
+    "transport": "地铁",
+    "fee": "免费",
+    "description": "展陈面积约6300平方米，设有地质历史厅、矿产资源厅、地质环境厅等，适合地质科普。",
+    "official_url": "",
+    "highlights": [
+      "地质历史",
+      "矿产资源",
+      "地质科普",
+      "免费"
+    ],
+    "id": "浙江省地质博物馆"
+  },
+  {
+    "name": "浙江省非物质文化遗产馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区江涵路300号之江文化中心",
+    "transport": "地铁6号线枫桦西路站",
+    "fee": "免费",
+    "description": "中国首座大型区域综合性非物质文化遗产馆，展示浙江非遗文化，有互动体验。",
+    "official_url": "",
+    "highlights": [
+      "非遗文化",
+      "互动体验",
+      "浙江文化",
+      "免费"
+    ],
+    "id": "浙江省非物质文化遗产馆"
+  },
+  {
+    "name": "浙江图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "图书馆",
+    "address": "西湖区江涵路300号之江文化中心",
+    "transport": "地铁6号线枫桦西路站",
+    "fee": "免费",
+    "description": "浙江省大型公共图书馆，有丰富的馆藏资源，适合亲子阅读学习。",
+    "official_url": "",
+    "highlights": [
+      "阅读学习",
+      "馆藏丰富",
+      "免费"
+    ],
+    "id": "浙江图书馆"
+  },
+  {
+    "name": "中国杭州低碳科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "科技馆",
+    "address": "滨江区江汉路1888号",
+    "transport": "地铁6号线江汉路站",
+    "fee": "免费",
+    "description": "以低碳为主题的科技馆，有巨幕影院、儿童乐园、4D小火车、科普活动免费开放。",
+    "official_url": "",
+    "highlights": [
+      "低碳主题",
+      "巨幕影院",
+      "儿童乐园",
+      "免费"
+    ],
+    "id": "中国杭州低碳科技馆"
+  },
+  {
+    "name": "杭州亚运会博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "博物馆",
+    "address": "滨江区奥体中心体育场地下一层",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "免费",
+    "description": "展示杭州亚运会相关内容，有互动体验，可了解亚运历史和文化。",
+    "official_url": "",
+    "highlights": [
+      "亚运会",
+      "互动体验",
+      "体育文化",
+      "免费"
+    ],
+    "id": "杭州亚运会博物馆"
+  },
+  {
+    "name": "良渚博物院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "博物馆",
+    "address": "余杭区美丽洲路1号",
+    "transport": "地铁2号线良渚站",
+    "fee": "免费",
+    "description": "集收藏、研究、展示良渚文化于一体的考古遗址博物馆，有玉琮等珍贵文物。",
+    "official_url": "",
+    "highlights": [
+      "良渚文化",
+      "玉琮",
+      "考古",
+      "免费"
+    ],
+    "id": "良渚博物院"
+  },
+  {
+    "name": "中国丝绸博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区玉皇山路73-1号",
+    "transport": "公交12路",
+    "fee": "免费",
+    "description": "世界上最大的丝绸博物馆，收藏丝绸之路沿线出土的丝绸文物，展示丝绸发展脉络。",
+    "official_url": "",
+    "highlights": [
+      "丝绸文化",
+      "丝绸之路",
+      "文物",
+      "免费"
+    ],
+    "id": "中国丝绸博物馆"
+  },
+  {
+    "name": "中国水利博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "博物馆",
+    "address": "萧山区水博大道1号",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "展示中华民族五千年治水历程，重点展示新中国水利建设成就，夜景灯光漂亮。",
+    "official_url": "",
+    "highlights": [
+      "水利历史",
+      "治水成就",
+      "夜景",
+      "免费"
+    ],
+    "id": "中国水利博物馆"
+  },
+  {
+    "name": "中国茶叶博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区龙井路88号",
+    "transport": "公交27路",
+    "fee": "免费",
+    "description": "我国唯一以茶和茶文化为主题的国家级专题博物馆，分为龙井馆和双峰馆。",
+    "official_url": "",
+    "highlights": [
+      "茶文化",
+      "龙井",
+      "茶叶",
+      "免费"
+    ],
+    "id": "中国茶叶博物馆"
+  },
+  {
+    "name": "中国湿地博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区天目山路402号",
+    "transport": "公交194路",
+    "fee": "免费",
+    "description": "以湿地为主题的国家级博物馆，建筑如同隐藏在西溪的小山丘，展示湿地生态。",
+    "official_url": "",
+    "highlights": [
+      "湿地生态",
+      "西溪",
+      "自然教育",
+      "免费"
+    ],
+    "id": "中国湿地博物馆"
+  },
+  {
+    "name": "中国动漫博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "博物馆",
+    "address": "滨江区白马湖路375号",
+    "transport": "公交137路",
+    "fee": "免费",
+    "description": "动漫专题博物馆，沿着动漫发展史，问候曾经陪伴过的荧屏伙伴，寻找一起度过的岁月。",
+    "official_url": "",
+    "highlights": [
+      "动漫历史",
+      "荧屏伙伴",
+      "互动体验",
+      "免费"
+    ],
+    "id": "中国动漫博物馆"
+  },
+  {
+    "name": "杭州博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "上城区粮道山18号",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "反映杭州历史变迁的人文类综合性博物馆，馆内陈列丰富，有杭州出土文物精品陈列。",
+    "official_url": "",
+    "highlights": [
+      "杭州历史",
+      "出土文物",
+      "人文",
+      "免费"
+    ],
+    "id": "杭州博物馆"
+  },
+  {
+    "name": "良渚古城遗址公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "公园",
+    "address": "余杭区瓶窑镇凤都路",
+    "transport": "地铁2号线良渚站",
+    "fee": "收费",
+    "description": "体验和感悟中华五千年文明，涵盖宫殿区、内城与外城，可乘坐观光车游览。",
+    "official_url": "",
+    "highlights": [
+      "五千年文明",
+      "考古遗址",
+      "观光车",
+      "文化"
+    ],
+    "id": "良渚古城遗址公园"
+  },
+  {
+    "name": "杭州野生动物世界",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "公园",
+    "address": "富阳区受降镇杭富路九龙大道1号",
+    "transport": "公交514路",
+    "fee": "收费",
+    "description": "大型野生动物世界，有各种珍稀动物，可自驾或步行游览，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "野生动物",
+      "自驾游览",
+      "亲子游玩"
+    ],
+    "id": "杭州野生动物世界"
+  },
+  {
+    "name": "杭州植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区桃源岭1号",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "位于西湖边的植物园，有多个专类园，四季花卉不断，适合自然教育和亲子散步。",
+    "official_url": "",
+    "highlights": [
+      "植物",
+      "自然教育",
+      "西湖边",
+      "四季花卉"
+    ],
+    "id": "杭州植物园"
+  },
+  {
+    "name": "西溪国家湿地公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区天目山路518号",
+    "transport": "地铁3号线西溪湿地南站",
+    "fee": "收费",
+    "description": "国家5A级景区，以自然湿地为特色，可乘船游览，体验江南水乡风情。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "乘船",
+      "江南水乡",
+      "5A景区"
+    ],
+    "id": "西溪国家湿地公园"
+  },
+  {
+    "name": "西湖风景名胜区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西湖街道",
+    "transport": "地铁1号线龙翔桥站",
+    "fee": "免费",
+    "description": "杭州标志性景区，西湖十景闻名天下，可游船、散步、参观周边景点。",
+    "official_url": "",
+    "highlights": [
+      "西湖十景",
+      "游船",
+      "白堤苏堤",
+      "免费"
+    ],
+    "id": "西湖风景名胜区"
+  },
+  {
+    "name": "杭州乐园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "公园",
+    "address": "萧山区风情大道2555号",
+    "transport": "地铁1号线湘湖站",
+    "fee": "收费",
+    "description": "大型主题乐园，有刺激项目和儿童区，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "刺激项目",
+      "儿童区",
+      "亲子"
+    ],
+    "id": "杭州乐园"
+  },
+  {
+    "name": "杭州少年儿童图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "图书馆",
+    "address": "西湖区曙光路75号",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，有丰富的儿童读物和阅读活动。",
+    "official_url": "",
+    "highlights": [
+      "儿童阅读",
+      "读物",
+      "阅读活动",
+      "免费"
+    ],
+    "id": "杭州少年儿童图书馆"
+  },
+  {
+    "name": "杭州科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "科技馆",
+    "address": "拱墅区西湖文化广场",
+    "transport": "地铁1号线西湖文化广场站",
+    "fee": "免费",
+    "description": "杭州市级科技馆，有互动科技体验展，适合儿童科学启蒙。",
+    "official_url": "",
+    "highlights": [
+      "互动体验",
+      "科学启蒙",
+      "免费"
+    ],
+    "id": "杭州科技馆"
+  },
+  {
+    "name": "杭州中国茶叶博物馆龙井馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区翁家山268号",
+    "transport": "公交27路",
+    "fee": "免费",
+    "description": "中国茶叶博物馆龙井馆区，展示龙井茶文化和茶叶制作工艺。",
+    "official_url": "",
+    "highlights": [
+      "龙井茶文化",
+      "茶叶制作",
+      "免费"
+    ],
+    "id": "杭州中国茶叶博物馆龙井馆"
+  },
+  {
+    "name": "杭州西湖博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "上城区南山路89号",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "展示西湖历史文化和自然风光，位于西湖边，风景优美。",
+    "official_url": "",
+    "highlights": [
+      "西湖历史",
+      "自然风光",
+      "免费"
+    ],
+    "id": "杭州西湖博物馆"
+  },
+  {
+    "name": "杭州京杭大运河博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "拱墅区金华路88号",
+    "transport": "地铁5号线大运河站",
+    "fee": "免费",
+    "description": "展示京杭大运河历史文化，有运河文物、历史资料等展陈。",
+    "official_url": "",
+    "highlights": [
+      "运河文化",
+      "历史文物",
+      "免费"
+    ],
+    "id": "杭州京杭大运河博物馆"
+  },
+  {
+    "name": "杭州工艺美术博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "拱墅区小河路334号",
+    "transport": "公交151路",
+    "fee": "免费",
+    "description": "展示杭州传统工艺美术，有陶瓷、刺绣、木雕等展品，适合传统文化启蒙。",
+    "official_url": "",
+    "highlights": [
+      "传统工艺",
+      "陶瓷刺绣",
+      "木雕",
+      "免费"
+    ],
+    "id": "杭州工艺美术博物馆"
+  },
+  {
+    "name": "杭州中国湿地博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区天目山路402号",
+    "transport": "公交194路",
+    "fee": "免费",
+    "description": "国家级湿地博物馆，展示湿地生态系统和生物多样性，有互动体验。",
+    "official_url": "",
+    "highlights": [
+      "湿地生态",
+      "生物多样性",
+      "互动体验",
+      "免费"
+    ],
+    "id": "杭州中国湿地博物馆"
+  },
+  {
+    "name": "杭州青少年活动中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "青少年宫",
+    "address": "西湖区昭庆寺里街22号",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "杭州市青少年校外活动场所，有各种兴趣培训和活动。",
+    "official_url": "",
+    "highlights": [
+      "兴趣培训",
+      "青少年活动"
+    ],
+    "id": "杭州青少年活动中心"
+  },
+  {
+    "name": "杭州嘟嘟城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "公园",
+    "address": "江干区新业路331-399号",
+    "transport": "地铁4号线市民中心站",
+    "fee": "收费",
+    "description": "儿童职业体验乐园，孩子们可以体验各种职业角色，如医生、警察、消防员等。",
+    "official_url": "",
+    "highlights": [
+      "职业体验",
+      "角色扮演",
+      "儿童乐园"
+    ],
+    "id": "杭州嘟嘟城"
+  },
+  {
+    "name": "北京植物园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区香山路",
+    "transport": "地铁西郊线植物园站",
+    "fee": "收费",
+    "description": "北京最大的植物园，有温室展览区、樱桃沟、曹雪芹纪念馆等，适合亲子自然探索。",
+    "official_url": "",
+    "highlights": [
+      "温室",
+      "樱桃沟",
+      "自然探索"
+    ],
+    "id": "北京植物园"
+  },
+  {
+    "name": "颐和园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区新建宫门路19号",
+    "transport": "地铁4号线北宫门站",
+    "fee": "收费",
+    "description": "中国现存规模最大、保存最完整的皇家园林，昆明湖、长廊、佛香阁等景点闻名。",
+    "official_url": "",
+    "highlights": [
+      "皇家园林",
+      "昆明湖",
+      "长廊"
+    ],
+    "id": "颐和园"
+  },
+  {
+    "name": "天坛公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "公园",
+    "address": "东城区天坛东路甲1号",
+    "transport": "地铁5号线天坛东门站",
+    "fee": "收费",
+    "description": "明清两代皇帝祭天祈谷的场所，祈年殿、皇穹宇、圜丘等建筑宏伟壮观。",
+    "official_url": "",
+    "highlights": [
+      "祈年殿",
+      "祭天",
+      "古建筑"
+    ],
+    "id": "天坛公园"
+  },
+  {
+    "name": "地坛公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "公园",
+    "address": "东城区安定门外大街",
+    "transport": "地铁2号线安定门站",
+    "fee": "收费",
+    "description": "明清两代皇帝祭地的场所，有方泽坛、皇祇室等建筑，园内有书市和庙会。",
+    "official_url": "",
+    "highlights": [
+      "方泽坛",
+      "祭地",
+      "书市"
+    ],
+    "id": "地坛公园"
+  },
+  {
+    "name": "北海公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "公园",
+    "address": "西城区文津街1号",
+    "transport": "地铁6号线北海北站",
+    "fee": "收费",
+    "description": "中国现存最古老、最完整、最具综合性和代表性的皇家园林之一，白塔、九龙壁闻名。",
+    "official_url": "",
+    "highlights": [
+      "白塔",
+      "九龙壁",
+      "皇家园林"
+    ],
+    "id": "北海公园"
+  },
+  {
+    "name": "景山公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "公园",
+    "address": "西城区景山西街44号",
+    "transport": "地铁1号线神武门站",
+    "fee": "收费",
+    "description": "位于故宫北侧，登上万春亭可俯瞰故宫全景和北京中轴线。",
+    "official_url": "",
+    "highlights": [
+      "万春亭",
+      "俯瞰故宫",
+      "中轴线"
+    ],
+    "id": "景山公园"
+  },
+  {
+    "name": "中山公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "公园",
+    "address": "西城区西长安街2号",
+    "transport": "地铁1号线天安门西站",
+    "fee": "收费",
+    "description": "位于天安门西侧，有社稷坛、中山堂等景点，是市民休闲好去处。",
+    "official_url": "",
+    "highlights": [
+      "社稷坛",
+      "中山堂",
+      "休闲"
+    ],
+    "id": "中山公园"
+  },
+  {
+    "name": "劳动人民文化宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "文化中心",
+    "address": "东城区太庙路",
+    "transport": "地铁1号线天安门东站",
+    "fee": "免费",
+    "description": "位于天安门东侧，原为太庙，现为文化活动场所，有展览和演出。",
+    "official_url": "",
+    "highlights": [
+      "太庙",
+      "展览",
+      "文化活动"
+    ],
+    "id": "劳动人民文化宫"
+  },
+  {
+    "name": "北京天文馆A馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科普馆",
+    "address": "西城区西直门外大街138号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "北京天文馆A馆，设有天象厅、展览厅，球幕电影体验震撼。",
+    "official_url": "",
+    "highlights": [
+      "天象厅",
+      "球幕电影"
+    ],
+    "id": "北京天文馆A馆"
+  },
+  {
+    "name": "北京天文馆B馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科普馆",
+    "address": "西城区西直门外大街138号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "北京天文馆B馆，有太阳观测、陨石展览、互动体验区。",
+    "official_url": "",
+    "highlights": [
+      "太阳观测",
+      "陨石",
+      "互动体验"
+    ],
+    "id": "北京天文馆B馆"
+  },
+  {
+    "name": "北京展览馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "会展中心",
+    "address": "西城区西直门外大街135号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "大型展览馆，举办各类展览和活动，建筑风格独特。",
+    "official_url": "",
+    "highlights": [
+      "展览",
+      "建筑风格"
+    ],
+    "id": "北京展览馆"
+  },
+  {
+    "name": "中国美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "美术馆",
+    "address": "东城区五四大街1号",
+    "transport": "地铁8号线中国美术馆站",
+    "fee": "免费",
+    "description": "中国国家级美术馆，收藏和展示国内外优秀美术作品。",
+    "official_url": "",
+    "highlights": [
+      "美术展览",
+      "国家级",
+      "免费"
+    ],
+    "id": "中国美术馆"
+  },
+  {
+    "name": "北京音乐厅",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "演出场馆",
+    "address": "西城区北新华街1号",
+    "transport": "地铁1号线西单站",
+    "fee": "收费",
+    "description": "北京知名音乐厅，举办交响乐、室内乐等音乐会。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "音乐会"
+    ],
+    "id": "北京音乐厅"
+  },
+  {
+    "name": "国家大剧院",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "演出场馆",
+    "address": "西城区西长安街2号",
+    "transport": "地铁1号线天安门西站",
+    "fee": "收费",
+    "description": "中国国家表演艺术中心，有歌剧院、音乐厅、戏剧场等，建筑造型独特。",
+    "official_url": "",
+    "highlights": [
+      "歌剧院",
+      "建筑造型",
+      "表演艺术"
+    ],
+    "id": "国家大剧院"
+  },
+  {
+    "name": "梅兰芳大剧院",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "演出场馆",
+    "address": "西城区平安里西大街32号",
+    "transport": "地铁4号线平安里站",
+    "fee": "收费",
+    "description": "以京剧大师梅兰芳命名的剧院，演出京剧、戏曲等。",
+    "official_url": "",
+    "highlights": [
+      "京剧",
+      "戏曲"
+    ],
+    "id": "梅兰芳大剧院"
+  },
+  {
+    "name": "长安大戏院",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "演出场馆",
+    "address": "东城区建国门内大街7号",
+    "transport": "地铁1号线建国门站",
+    "fee": "收费",
+    "description": "北京老字号戏院，演出京剧、曲艺等传统戏曲。",
+    "official_url": "",
+    "highlights": [
+      "京剧",
+      "传统戏曲",
+      "老字号"
+    ],
+    "id": "长安大戏院"
+  },
+  {
+    "name": "北京儿艺剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "演出场馆",
+    "address": "东城区交道口东大街85号",
+    "transport": "地铁5号线北新桥站",
+    "fee": "收费",
+    "description": "北京儿童艺术剧院，演出儿童剧、亲子剧等。",
+    "official_url": "",
+    "highlights": [
+      "儿童剧",
+      "亲子剧"
+    ],
+    "id": "北京儿艺剧场"
+  },
+  {
+    "name": "北京展览馆剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "演出场馆",
+    "address": "西城区西直门外大街135号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "北京展览馆内的剧场，举办演唱会、话剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "演唱会",
+      "话剧"
+    ],
+    "id": "北京展览馆剧场"
+  },
+  {
+    "name": "北京工人体育馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "体育中心",
+    "address": "朝阳区三里屯路11号",
+    "transport": "地铁10号线团结湖站",
+    "fee": "收费",
+    "description": "大型体育场馆，举办体育赛事和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "演唱会"
+    ],
+    "id": "北京工人体育馆"
+  },
+  {
+    "name": "北京工人体育场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "体育中心",
+    "address": "朝阳区工人体育场北路",
+    "transport": "地铁2号线东四十条站",
+    "fee": "收费",
+    "description": "大型足球场，举办足球比赛和大型活动。",
+    "official_url": "",
+    "highlights": [
+      "足球",
+      "体育赛事"
+    ],
+    "id": "北京工人体育场"
+  },
+  {
+    "name": "五棵松体育馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "体育中心",
+    "address": "海淀区复兴路69号",
+    "transport": "地铁1号线五棵松站",
+    "fee": "收费",
+    "description": "大型室内体育馆，举办篮球比赛和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "篮球",
+      "演唱会"
+    ],
+    "id": "五棵松体育馆"
+  },
+  {
+    "name": "奥林匹克森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区科荟路33号",
+    "transport": "地铁8号线奥林匹克公园站",
+    "fee": "免费",
+    "description": "北京奥林匹克公园内的大型森林公园，有南园、北园，适合散步、跑步、骑行。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "散步",
+      "骑行",
+      "免费"
+    ],
+    "id": "奥林匹克森林公园"
+  },
+  {
+    "name": "元大都城垣遗址公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区安定路",
+    "transport": "地铁5号线惠新西街北口站",
+    "fee": "免费",
+    "description": "元大都城墙遗址公园，有海棠花溪等景点，春季海棠盛开时很美。",
+    "official_url": "",
+    "highlights": [
+      "城墙遗址",
+      "海棠花溪",
+      "免费"
+    ],
+    "id": "元大都城垣遗址公园"
+  },
+  {
+    "name": "奥林匹克公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区国家体育场南路",
+    "transport": "地铁8号线奥林匹克公园站",
+    "fee": "免费",
+    "description": "包含鸟巢、水立方等奥运场馆，是市民休闲和旅游的好去处。",
+    "official_url": "",
+    "highlights": [
+      "鸟巢",
+      "水立方",
+      "奥运场馆",
+      "免费"
+    ],
+    "id": "奥林匹克公园"
+  },
+  {
+    "name": "朝阳公园海洋沙滩狂欢节",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区朝阳公园南路1号",
+    "transport": "地铁14号线朝阳公园站",
+    "fee": "收费",
+    "description": "夏季举办的大型水上活动，有沙滩、泳池、表演等。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "水上活动",
+      "夏季"
+    ],
+    "id": "朝阳公园海洋沙滩狂欢节"
+  },
+  {
+    "name": "蟹岛度假村",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "朝阳区蟹岛路1号",
+    "transport": "公交641路",
+    "fee": "收费",
+    "description": "综合性度假村，有温泉、水上乐园、采摘园等，适合亲子度假。",
+    "official_url": "",
+    "highlights": [
+      "温泉",
+      "水上乐园",
+      "采摘"
+    ],
+    "id": "蟹岛度假村"
+  },
+  {
+    "name": "南宫旅游景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "丰台区王佐镇",
+    "transport": "公交321路",
+    "fee": "收费",
+    "description": "集温泉、公园、动物园于一体的旅游景区，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "温泉",
+      "动物园",
+      "亲子"
+    ],
+    "id": "南宫旅游景区"
+  },
+  {
+    "name": "北京莲花池公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "丰台区广安门外大街",
+    "transport": "地铁9号线北京西站",
+    "fee": "免费",
+    "description": "古老的莲花池遗址公园，夏季荷花盛开，景色优美。",
+    "official_url": "",
+    "highlights": [
+      "荷花",
+      "遗址公园",
+      "免费"
+    ],
+    "id": "北京莲花池公园"
+  },
+  {
+    "name": "北京世界花卉大观园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "丰台区南四环中路235号",
+    "transport": "地铁8号线德茂庄站",
+    "fee": "收费",
+    "description": "大型花卉博览园，有多个温室展馆，展示各种花卉植物。",
+    "official_url": "",
+    "highlights": [
+      "花卉",
+      "温室",
+      "博览园"
+    ],
+    "id": "北京世界花卉大观园"
+  },
+  {
+    "name": "北京园博园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "公园",
+    "address": "丰台区射击场路15号",
+    "transport": "地铁14号线园博园站",
+    "fee": "收费",
+    "description": "第九届中国国际园林博览会举办地，有多个展园和园林景观。",
+    "official_url": "",
+    "highlights": [
+      "园林景观",
+      "展园",
+      "园博会"
+    ],
+    "id": "北京园博园"
+  },
+  {
+    "name": "北京石景山游乐园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "公园",
+    "address": "石景山区石景山路25号",
+    "transport": "地铁1号线八角游乐园站",
+    "fee": "收费",
+    "description": "北京老牌游乐园，有摩天轮、过山车等游乐设施。",
+    "official_url": "",
+    "highlights": [
+      "摩天轮",
+      "过山车",
+      "游乐园"
+    ],
+    "id": "北京石景山游乐园"
+  },
+  {
+    "name": "八大处公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "公园",
+    "address": "石景山区八大处路3号",
+    "transport": "公交347路",
+    "fee": "收费",
+    "description": "位于西山风景区，有八座古刹，景色秀丽，适合登山祈福。",
+    "official_url": "",
+    "highlights": [
+      "古刹",
+      "登山",
+      "祈福"
+    ],
+    "id": "八大处公园"
+  },
+  {
+    "name": "法海寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "博物馆",
+    "address": "石景山区模式口大街",
+    "transport": "公交336路",
+    "fee": "收费",
+    "description": "明代古寺，以精美的壁画闻名，是全国重点文物保护单位。",
+    "official_url": "",
+    "highlights": [
+      "壁画",
+      "古寺",
+      "文物"
+    ],
+    "id": "法海寺"
+  },
+  {
+    "name": "首钢园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "文化中心",
+    "address": "石景山区首钢大街",
+    "transport": "地铁11号线新首钢站",
+    "fee": "免费",
+    "description": "首钢工业遗址改造的文化创意园区，有冬奥会相关设施和展览。",
+    "official_url": "",
+    "highlights": [
+      "工业遗址",
+      "冬奥会",
+      "文创",
+      "免费"
+    ],
+    "id": "首钢园"
+  },
+  {
+    "name": "北京国际雕塑公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "公园",
+    "address": "石景山区石景山路2号",
+    "transport": "地铁1号线玉泉路站",
+    "fee": "免费",
+    "description": "以雕塑为主题的公园，有国内外雕塑作品展示。",
+    "official_url": "",
+    "highlights": [
+      "雕塑",
+      "艺术",
+      "免费"
+    ],
+    "id": "北京国际雕塑公园"
+  },
+  {
+    "name": "百望山森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区黑山扈北口19号",
+    "transport": "公交330路",
+    "fee": "收费",
+    "description": "北京西北郊的森林公园，适合登山远眺，秋季红叶很美。",
+    "official_url": "",
+    "highlights": [
+      "登山",
+      "红叶",
+      "远眺"
+    ],
+    "id": "百望山森林公园"
+  },
+  {
+    "name": "凤凰岭自然风景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区苏家坨镇",
+    "transport": "公交346路",
+    "fee": "收费",
+    "description": "北京西山风景区，有山、水、林、寺等景观，适合户外徒步。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "自然风光",
+      "寺庙"
+    ],
+    "id": "凤凰岭自然风景区"
+  },
+  {
+    "name": "鹫峰国家森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区苏家坨镇",
+    "transport": "公交346路",
+    "fee": "收费",
+    "description": "以鹫峰为中心的森林公园，有登山步道和自然风光。",
+    "official_url": "",
+    "highlights": [
+      "登山",
+      "森林",
+      "自然风光"
+    ],
+    "id": "鹫峰国家森林公园"
+  },
+  {
+    "name": "阳台山自然风景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区苏家坨镇",
+    "transport": "公交346路",
+    "fee": "收费",
+    "description": "北京西山风景区，有古香道、金山寺等景点，适合登山。",
+    "official_url": "",
+    "highlights": [
+      "古香道",
+      "金山寺",
+      "登山"
+    ],
+    "id": "阳台山自然风景区"
+  },
+  {
+    "name": "香山公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区买卖街40号",
+    "transport": "地铁西郊线香山站",
+    "fee": "收费",
+    "description": "北京著名的森林公园，秋季红叶闻名，有碧云寺、琉璃塔等景点。",
+    "official_url": "",
+    "highlights": [
+      "红叶",
+      "碧云寺",
+      "登山"
+    ],
+    "id": "香山公园"
+  },
+  {
+    "name": "北京植物园樱桃沟",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "海淀区香山路北京植物园内",
+    "transport": "地铁西郊线植物园站",
+    "fee": "收费",
+    "description": "樱桃沟景区，有木栈道、水杉林、喷雾景观等，夏季凉爽宜人。",
+    "official_url": "",
+    "highlights": [
+      "水杉林",
+      "喷雾",
+      "凉爽"
+    ],
+    "id": "北京植物园樱桃沟"
+  },
+  {
+    "name": "北京植物园温室",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "科普馆",
+    "address": "海淀区香山路北京植物园内",
+    "transport": "地铁西郊线植物园站",
+    "fee": "收费",
+    "description": "大型温室展览区，展示热带、亚热带植物，适合亲子自然教育。",
+    "official_url": "",
+    "highlights": [
+      "热带植物",
+      "温室",
+      "自然教育"
+    ],
+    "id": "北京植物园温室"
+  },
+  {
+    "name": "北京天文馆天象厅",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "科普馆",
+    "address": "西城区西直门外大街138号",
+    "transport": "地铁4号线动物园站",
+    "fee": "收费",
+    "description": "北京天文馆A馆天象厅，球幕电影体验震撼，展示宇宙星空。",
+    "official_url": "",
+    "highlights": [
+      "球幕电影",
+      "宇宙星空"
+    ],
+    "id": "北京天文馆天象厅"
+  },
+  {
+    "name": "中国科学技术馆儿童科学乐园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "科技馆",
+    "address": "朝阳区北辰东路5号",
+    "transport": "地铁8号线奥林匹克公园站",
+    "fee": "收费",
+    "description": "专为3-8岁儿童设计的科学乐园，互动性强，寓教于乐。",
+    "official_url": "",
+    "highlights": [
+      "3-8岁",
+      "互动体验",
+      "科学启蒙"
+    ],
+    "id": "中国科学技术馆儿童科学乐园"
+  },
+  {
+    "name": "广州大剧院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "演出场馆",
+    "address": "天河区珠江新城珠江西路1号",
+    "transport": "地铁3号线大剧院站",
+    "fee": "收费",
+    "description": "广州标志性建筑，举办歌剧、音乐剧、音乐会等演出。",
+    "official_url": "",
+    "highlights": [
+      "建筑设计",
+      "歌剧",
+      "音乐会"
+    ],
+    "id": "广州大剧院"
+  },
+  {
+    "name": "广州塔",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化中心",
+    "address": "海珠区阅江西路222号",
+    "transport": "地铁3号线广州塔站",
+    "fee": "收费",
+    "description": "广州地标性建筑，可登塔俯瞰广州全景，有摩天轮、极速云霄等项目。",
+    "official_url": "",
+    "highlights": [
+      "登高观光",
+      "摩天轮",
+      "地标"
+    ],
+    "id": "广州塔"
+  },
+  {
+    "name": "广州国际金融城",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区黄埔大道",
+    "transport": "地铁5号线科韵路站",
+    "fee": "免费",
+    "description": "广州新城区，有现代化建筑和城市景观，适合拍照打卡。",
+    "official_url": "",
+    "highlights": [
+      "现代化",
+      "城市景观",
+      "拍照"
+    ],
+    "id": "广州国际金融城"
+  },
+  {
+    "name": "广州北京路步行街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "文化中心",
+    "address": "越秀区北京路",
+    "transport": "地铁1号线公园前站",
+    "fee": "免费",
+    "description": "广州著名的商业步行街，有历史文化景点和购物美食。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "美食",
+      "历史文化"
+    ],
+    "id": "广州北京路步行街"
+  },
+  {
+    "name": "广州上下九步行街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "文化中心",
+    "address": "荔湾区上下九路",
+    "transport": "地铁1号线长寿路站",
+    "fee": "免费",
+    "description": "广州传统商业步行街，有西关风情和特色小吃。",
+    "official_url": "",
+    "highlights": [
+      "西关风情",
+      "特色小吃",
+      "购物"
+    ],
+    "id": "广州上下九步行街"
+  },
+  {
+    "name": "广州天河城",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区天河路208号",
+    "transport": "地铁3号线体育西路站",
+    "fee": "免费",
+    "description": "广州大型购物中心，有购物、餐饮、娱乐等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮",
+      "娱乐"
+    ],
+    "id": "广州天河城"
+  },
+  {
+    "name": "广州太古汇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区天河路383号",
+    "transport": "地铁3号线石牌桥站",
+    "fee": "免费",
+    "description": "高端购物中心，有奢侈品品牌和特色餐饮。",
+    "official_url": "",
+    "highlights": [
+      "高端购物",
+      "奢侈品",
+      "餐饮"
+    ],
+    "id": "广州太古汇"
+  },
+  {
+    "name": "广州正佳广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区天河路228号",
+    "transport": "地铁3号线体育西路站",
+    "fee": "免费",
+    "description": "大型商业综合体，有海洋世界、雨林植物园、自然科学博物馆等。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "海洋世界",
+      "博物馆"
+    ],
+    "id": "广州正佳广场"
+  },
+  {
+    "name": "广州万菱汇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区天河路230号",
+    "transport": "地铁3号线石牌桥站",
+    "fee": "免费",
+    "description": "购物中心，有时尚品牌和特色餐饮。",
+    "official_url": "",
+    "highlights": [
+      "时尚购物",
+      "餐饮"
+    ],
+    "id": "广州万菱汇"
+  },
+  {
+    "name": "广州凯德广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "文化中心",
+    "address": "白云区云城西路890号",
+    "transport": "地铁2号线白云公园站",
+    "fee": "免费",
+    "description": "白云区大型购物中心，有购物、餐饮、娱乐等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮",
+      "白云区"
+    ],
+    "id": "广州凯德广场"
+  },
+  {
+    "name": "广州白云万达广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "文化中心",
+    "address": "白云区云城东路501号",
+    "transport": "地铁2号线飞翔公园站",
+    "fee": "免费",
+    "description": "大型商业综合体，有购物、餐饮、影院等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮",
+      "影院"
+    ],
+    "id": "广州白云万达广场"
+  },
+  {
+    "name": "广州越秀公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区解放北路960号",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "免费",
+    "description": "广州最大的综合性公园，有五羊雕像、镇海楼、金印游乐场等景点。",
+    "official_url": "",
+    "highlights": [
+      "五羊雕像",
+      "镇海楼",
+      "金印游乐场",
+      "免费"
+    ],
+    "id": "广州越秀公园"
+  },
+  {
+    "name": "广州流花湖公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区流花路100号",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "免费",
+    "description": "以湖景为特色的公园，有流花湖、玫瑰园等景点，环境优美。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "玫瑰园",
+      "环境优美",
+      "免费"
+    ],
+    "id": "广州流花湖公园"
+  },
+  {
+    "name": "广州荔湾湖公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "公园",
+    "address": "荔湾区龙津西路155号",
+    "transport": "地铁1号线长寿路站",
+    "fee": "免费",
+    "description": "位于荔湾区的公园，有湖景和西关风情，周边有泮塘美食。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "西关风情",
+      "美食",
+      "免费"
+    ],
+    "id": "广州荔湾湖公园"
+  },
+  {
+    "name": "广州海珠湖公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "海珠区新滘中路",
+    "transport": "地铁3号线大塘站",
+    "fee": "免费",
+    "description": "海珠湿地公园内的湖景公园，有环湖步道和自然景观。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "环湖步道",
+      "自然",
+      "免费"
+    ],
+    "id": "广州海珠湖公园"
+  },
+  {
+    "name": "广州天河公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "天河区中山大道西270号",
+    "transport": "地铁21号线天河公园站",
+    "fee": "免费",
+    "description": "天河区大型公园，有湖景、草坪、游乐设施，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "草坪",
+      "游乐设施",
+      "免费"
+    ],
+    "id": "广州天河公园"
+  },
+  {
+    "name": "广州珠江公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "天河区金穗路",
+    "transport": "地铁3号线体育西路站",
+    "fee": "免费",
+    "description": "珠江新城内的公园，有草坪、水景、雕塑，环境优美。",
+    "official_url": "",
+    "highlights": [
+      "草坪",
+      "水景",
+      "环境优美",
+      "免费"
+    ],
+    "id": "广州珠江公园"
+  },
+  {
+    "name": "广州麓湖公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区麓湖路11号",
+    "transport": "公交10路",
+    "fee": "免费",
+    "description": "位于白云山脚下的公园，有湖景和自然景观，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "白云山",
+      "清幽",
+      "免费"
+    ],
+    "id": "广州麓湖公园"
+  },
+  {
+    "name": "广州东山湖公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区东湖路123号",
+    "transport": "地铁6号线东湖站",
+    "fee": "免费",
+    "description": "位于东山的公园，有湖景和亭台楼阁，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "亭台楼阁",
+      "休闲",
+      "免费"
+    ],
+    "id": "广州东山湖公园"
+  },
+  {
+    "name": "广州二沙岛",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区二沙岛",
+    "transport": "地铁6号线东湖站",
+    "fee": "免费",
+    "description": "珠江中的小岛，有大草坪、艺术公园、体育公园等，是广州塔最佳拍摄点。",
+    "official_url": "",
+    "highlights": [
+      "大草坪",
+      "广州塔拍摄",
+      "艺术公园",
+      "免费"
+    ],
+    "id": "广州二沙岛"
+  },
+  {
+    "name": "广州沙面岛",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "文化中心",
+    "address": "荔湾区沙面南街",
+    "transport": "地铁1号线黄沙站",
+    "fee": "免费",
+    "description": "珠江中的小岛，有欧式建筑和领事馆旧址，适合拍照打卡。",
+    "official_url": "",
+    "highlights": [
+      "欧式建筑",
+      "领事馆",
+      "拍照",
+      "免费"
+    ],
+    "id": "广州沙面岛"
+  },
+  {
+    "name": "广州长隆野生动物世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区大石镇",
+    "transport": "地铁3号线汉溪长隆站",
+    "fee": "收费",
+    "description": "全球最大的动物园区之一，可以乘坐小火车或自驾游，近距离观赏野生动物。",
+    "official_url": "",
+    "highlights": [
+      "野生动物",
+      "小火车",
+      "自驾"
+    ],
+    "id": "广州长隆野生动物世界"
+  },
+  {
+    "name": "广州长隆欢乐世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区大石镇",
+    "transport": "地铁3号线汉溪长隆站",
+    "fee": "收费",
+    "description": "大型主题乐园，有刺激项目和儿童区，适合全年龄段游玩。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "刺激项目",
+      "儿童区"
+    ],
+    "id": "广州长隆欢乐世界"
+  },
+  {
+    "name": "广州长隆水上乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区大石镇",
+    "transport": "地铁3号线汉溪长隆站",
+    "fee": "收费",
+    "description": "大型水上乐园，有各种滑道、造浪池、漂流河等，夏季玩水好去处。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "滑道",
+      "造浪池"
+    ],
+    "id": "广州长隆水上乐园"
+  },
+  {
+    "name": "广州长隆飞鸟乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "番禺区大石镇",
+    "transport": "地铁3号线汉溪长隆站",
+    "fee": "收费",
+    "description": "以鸟类为主题的乐园，有各种珍稀鸟类和表演。",
+    "official_url": "",
+    "highlights": [
+      "鸟类",
+      "表演",
+      "珍稀动物"
+    ],
+    "id": "广州长隆飞鸟乐园"
+  },
+  {
+    "name": "广州融创雪世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区凤凰北路78号",
+    "transport": "地铁9号线花城路站",
+    "fee": "收费",
+    "description": "华南地区最大的室内滑雪场，一年四季都可以滑雪。",
+    "official_url": "",
+    "highlights": [
+      "室内滑雪",
+      "四季滑雪"
+    ],
+    "id": "广州融创雪世界"
+  },
+  {
+    "name": "广州融创水世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区凤凰北路78号",
+    "transport": "地铁9号线花城路站",
+    "fee": "收费",
+    "description": "四季恒温的室内水世界，有各种水上项目和儿童戏水区。",
+    "official_url": "",
+    "highlights": [
+      "室内水世界",
+      "四季恒温",
+      "儿童戏水"
+    ],
+    "id": "广州融创水世界"
+  },
+  {
+    "name": "广州融创体育世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区凤凰北路78号",
+    "transport": "地铁9号线花城路站",
+    "fee": "收费",
+    "description": "大型室内体育乐园，有各种运动项目和娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "体育乐园",
+      "运动项目"
+    ],
+    "id": "广州融创体育世界"
+  },
+  {
+    "name": "广州花都湖公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区商业大道",
+    "transport": "地铁9号线花果山公园站",
+    "fee": "免费",
+    "description": "花都区大型公园，有湖景和绿道，适合骑行和散步。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "绿道",
+      "骑行",
+      "免费"
+    ],
+    "id": "广州花都湖公园"
+  },
+  {
+    "name": "广州增城白水寨",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "公园",
+    "address": "增城区派潭镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "有落差428.5米的白水仙瀑，是广东最大的瀑布，适合登山观景。",
+    "official_url": "",
+    "highlights": [
+      "瀑布",
+      "登山",
+      "观景"
+    ],
+    "id": "广州增城白水寨"
+  },
+  {
+    "name": "广州从化温泉",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "从化区温泉镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "著名的温泉度假区，有各种温泉酒店和度假村。",
+    "official_url": "",
+    "highlights": [
+      "温泉",
+      "度假"
+    ],
+    "id": "广州从化温泉"
+  },
+  {
+    "name": "广州从化溪头村",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "从化区良口镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "广州最美乡村之一，有溪流、竹林、田园风光，适合亲子游。",
+    "official_url": "",
+    "highlights": [
+      "乡村",
+      "溪流",
+      "田园风光",
+      "免费"
+    ],
+    "id": "广州从化溪头村"
+  },
+  {
+    "name": "广州南沙湿地公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "公园",
+    "address": "南沙区万顷沙镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大型湿地公园，有红树林、芦苇荡、候鸟栖息地，适合观鸟。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "红树林",
+      "观鸟"
+    ],
+    "id": "广州南沙湿地公园"
+  },
+  {
+    "name": "广州南沙天后宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "文化中心",
+    "address": "南沙区大角山东南麓",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "东南亚最大的妈祖庙，有古建筑和海景，适合祈福和观光。",
+    "official_url": "",
+    "highlights": [
+      "妈祖庙",
+      "古建筑",
+      "海景"
+    ],
+    "id": "广州南沙天后宫"
+  },
+  {
+    "name": "广州黄埔军校旧址",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "博物馆",
+    "address": "黄埔区长洲岛",
+    "transport": "公交383路",
+    "fee": "免费",
+    "description": "中国近代著名军事院校旧址，展示军校历史和文物。",
+    "official_url": "",
+    "highlights": [
+      "军校历史",
+      "文物",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "广州黄埔军校旧址"
+  },
+  {
+    "name": "广州南海神庙",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "文化中心",
+    "address": "黄埔区庙头村",
+    "transport": "地铁13号线夏园站",
+    "fee": "收费",
+    "description": "中国古代海上丝绸之路的起点，有古建筑和庙会活动。",
+    "official_url": "",
+    "highlights": [
+      "海上丝绸之路",
+      "古建筑",
+      "庙会"
+    ],
+    "id": "广州南海神庙"
+  },
+  {
+    "name": "广州南越王宫博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区中山四路316号",
+    "transport": "地铁1号线农讲所站",
+    "fee": "免费",
+    "description": "展示南越王宫遗址和文物，了解南越国历史。",
+    "official_url": "",
+    "highlights": [
+      "王宫遗址",
+      "南越国",
+      "文物",
+      "免费"
+    ],
+    "id": "广州南越王宫博物馆"
+  },
+  {
+    "name": "广州北京路千年古道遗址",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区北京路",
+    "transport": "地铁1号线公园前站",
+    "fee": "免费",
+    "description": "北京路地下的千年古道遗址，展示广州历史变迁。",
+    "official_url": "",
+    "highlights": [
+      "古道遗址",
+      "历史变迁",
+      "免费"
+    ],
+    "id": "广州北京路千年古道遗址"
+  },
+  {
+    "name": "广州粤剧艺术博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "博物馆",
+    "address": "荔湾区恩宁路127号",
+    "transport": "地铁1号线黄沙站",
+    "fee": "免费",
+    "description": "展示粤剧艺术和历史，有粤剧表演和展览。",
+    "official_url": "",
+    "highlights": [
+      "粤剧",
+      "表演",
+      "历史",
+      "免费"
+    ],
+    "id": "广州粤剧艺术博物馆"
+  },
+  {
+    "name": "广州三二九起义指挥部旧址",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区越华路116号",
+    "transport": "地铁1号线公园前站",
+    "fee": "免费",
+    "description": "辛亥革命重要历史遗址，展示起义历史和文物。",
+    "official_url": "",
+    "highlights": [
+      "辛亥革命",
+      "历史遗址",
+      "免费"
+    ],
+    "id": "广州三二九起义指挥部旧址"
+  },
+  {
+    "name": "广州起义烈士陵园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区中山三路",
+    "transport": "地铁1号线烈士陵园站",
+    "fee": "免费",
+    "description": "纪念广州起义的烈士陵园，有纪念碑、纪念馆等。",
+    "official_url": "",
+    "highlights": [
+      "烈士陵园",
+      "纪念",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "广州起义烈士陵园"
+  },
+  {
+    "name": "广州鲁迅纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区文明路215号",
+    "transport": "地铁1号线农讲所站",
+    "fee": "免费",
+    "description": "展示鲁迅先生在广州的生活和工作，有文物和文献。",
+    "official_url": "",
+    "highlights": [
+      "鲁迅",
+      "文物",
+      "文献",
+      "免费"
+    ],
+    "id": "广州鲁迅纪念馆"
+  },
+  {
+    "name": "广州近代史博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区陵园西路2号",
+    "transport": "地铁1号线烈士陵园站",
+    "fee": "免费",
+    "description": "展示广州近代史，有文物和历史资料。",
+    "official_url": "",
+    "highlights": [
+      "近代史",
+      "文物",
+      "历史资料",
+      "免费"
+    ],
+    "id": "广州近代史博物馆"
+  },
+  {
+    "name": "广州农民运动讲习所旧址",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区中山四路42号",
+    "transport": "地铁1号线农讲所站",
+    "fee": "免费",
+    "description": "第一次国内革命战争时期培养农民运动干部的学校旧址。",
+    "official_url": "",
+    "highlights": [
+      "农民运动",
+      "革命历史",
+      "免费"
+    ],
+    "id": "广州农民运动讲习所旧址"
+  },
+  {
+    "name": "广州南越王墓博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "博物馆",
+    "address": "越秀区解放北路867号",
+    "transport": "地铁2号线越秀公园站",
+    "fee": "免费",
+    "description": "展示南越王墓出土文物，包括金缕玉衣等珍贵文物。",
+    "official_url": "",
+    "highlights": [
+      "南越王墓",
+      "金缕玉衣",
+      "文物",
+      "免费"
+    ],
+    "id": "广州南越王墓博物馆"
+  },
+  {
+    "name": "上海图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "图书馆",
+    "address": "徐汇区淮海中路1555号",
+    "transport": "地铁10号线上海图书馆站",
+    "fee": "免费",
+    "description": "上海大型公共图书馆，有丰富的馆藏资源和阅读空间。",
+    "official_url": "",
+    "highlights": [
+      "阅读",
+      "馆藏丰富",
+      "免费"
+    ],
+    "id": "上海图书馆"
+  },
+  {
+    "name": "上海美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "美术馆",
+    "address": "浦东新区上南路205号",
+    "transport": "地铁8号线中华艺术宫站",
+    "fee": "免费",
+    "description": "中华艺术宫内的美术馆，展示国内外优秀美术作品。",
+    "official_url": "",
+    "highlights": [
+      "美术展览",
+      "中华艺术宫",
+      "免费"
+    ],
+    "id": "上海美术馆"
+  },
+  {
+    "name": "上海大剧院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "演出场馆",
+    "address": "黄浦区人民大道300号",
+    "transport": "地铁1号线人民广场站",
+    "fee": "收费",
+    "description": "上海标志性剧院，举办歌剧、音乐剧、音乐会等演出。",
+    "official_url": "",
+    "highlights": [
+      "歌剧",
+      "音乐剧",
+      "建筑设计"
+    ],
+    "id": "上海大剧院"
+  },
+  {
+    "name": "上海音乐厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "演出场馆",
+    "address": "黄浦区延安东路523号",
+    "transport": "地铁1号线人民广场站",
+    "fee": "收费",
+    "description": "上海知名音乐厅，举办交响乐、室内乐等音乐会。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "音乐会"
+    ],
+    "id": "上海音乐厅"
+  },
+  {
+    "name": "上海马戏城",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "演出场馆",
+    "address": "静安区共和新路2266号",
+    "transport": "地铁1号线上海马戏城站",
+    "fee": "收费",
+    "description": "上海大型马戏表演场馆，有精彩的马戏和杂技表演。",
+    "official_url": "",
+    "highlights": [
+      "马戏",
+      "杂技",
+      "表演"
+    ],
+    "id": "上海马戏城"
+  },
+  {
+    "name": "上海儿童艺术剧场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "演出场馆",
+    "address": "黄浦区苗江路800号",
+    "transport": "地铁4号线南浦大桥站",
+    "fee": "收费",
+    "description": "专为儿童设计的剧场，演出儿童剧、亲子剧等。",
+    "official_url": "",
+    "highlights": [
+      "儿童剧",
+      "亲子剧"
+    ],
+    "id": "上海儿童艺术剧场"
+  },
+  {
+    "name": "上海东方艺术中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "演出场馆",
+    "address": "浦东新区丁香路425号",
+    "transport": "地铁2号线上海科技馆站",
+    "fee": "收费",
+    "description": "上海大型艺术中心，有音乐厅、歌剧院、美术馆等。",
+    "official_url": "",
+    "highlights": [
+      "音乐厅",
+      "歌剧院",
+      "艺术"
+    ],
+    "id": "上海东方艺术中心"
+  },
+  {
+    "name": "上海梅赛德斯奔驰文化中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "演出场馆",
+    "address": "浦东新区世博大道1200号",
+    "transport": "地铁8号线中华艺术宫站",
+    "fee": "收费",
+    "description": "大型演艺场馆，举办演唱会、体育赛事等活动。",
+    "official_url": "",
+    "highlights": [
+      "演唱会",
+      "体育赛事"
+    ],
+    "id": "上海梅赛德斯奔驰文化中心"
+  },
+  {
+    "name": "上海八万人体育场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "体育中心",
+    "address": "徐汇区漕溪北路1111号",
+    "transport": "地铁1号线上海体育馆站",
+    "fee": "收费",
+    "description": "上海大型体育场，举办足球比赛和大型活动。",
+    "official_url": "",
+    "highlights": [
+      "足球",
+      "体育赛事"
+    ],
+    "id": "上海八万人体育场"
+  },
+  {
+    "name": "上海体育馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "体育中心",
+    "address": "徐汇区漕溪北路1111号",
+    "transport": "地铁1号线上海体育馆站",
+    "fee": "收费",
+    "description": "大型室内体育馆，举办篮球比赛和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "篮球",
+      "演唱会"
+    ],
+    "id": "上海体育馆"
+  },
+  {
+    "name": "上海源深体育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "体育中心",
+    "address": "浦东新区源深路655号",
+    "transport": "地铁6号线源深体育中心站",
+    "fee": "收费",
+    "description": "浦东新区大型体育中心，有体育馆、游泳馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "游泳",
+      "场馆"
+    ],
+    "id": "上海源深体育中心"
+  },
+  {
+    "name": "上海浦东游泳馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "体育中心",
+    "address": "浦东新区浦东南路3669号",
+    "transport": "地铁7号线云台路站",
+    "fee": "收费",
+    "description": "浦东新区大型游泳馆，有游泳培训和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "游泳",
+      "培训"
+    ],
+    "id": "上海浦东游泳馆"
+  },
+  {
+    "name": "上海静安体育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "体育中心",
+    "address": "静安区汶水路116号",
+    "transport": "地铁1号线汶水路站",
+    "fee": "收费",
+    "description": "静安区大型体育中心，有体育馆、游泳馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "游泳",
+      "场馆"
+    ],
+    "id": "上海静安体育中心"
+  },
+  {
+    "name": "上海长风公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "公园",
+    "address": "普陀区大渡河路189号",
+    "transport": "地铁15号线长风公园站",
+    "fee": "免费",
+    "description": "大型城市公园，有银锄湖、铁臂山，还有长风海洋世界。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "海洋世界",
+      "免费"
+    ],
+    "id": "上海长风公园"
+  },
+  {
+    "name": "上海中山公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "公园",
+    "address": "长宁区长宁路780号",
+    "transport": "地铁2/3/4号线中山公园站",
+    "fee": "免费",
+    "description": "上海著名的城市公园，有草坪、湖景、游乐场等。",
+    "official_url": "",
+    "highlights": [
+      "草坪",
+      "湖景",
+      "游乐场",
+      "免费"
+    ],
+    "id": "上海中山公园"
+  },
+  {
+    "name": "上海人民公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "公园",
+    "address": "黄浦区南京西路231号",
+    "transport": "地铁1号线人民广场站",
+    "fee": "免费",
+    "description": "位于人民广场的公园，有草坪、湖景、相亲角等。",
+    "official_url": "",
+    "highlights": [
+      "草坪",
+      "湖景",
+      "相亲角",
+      "免费"
+    ],
+    "id": "上海人民公园"
+  },
+  {
+    "name": "上海外滩",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "公园",
+    "address": "黄浦区中山东一路",
+    "transport": "地铁10号线南京东路站",
+    "fee": "免费",
+    "description": "上海标志性景点，有万国建筑博览群和黄浦江景。",
+    "official_url": "",
+    "highlights": [
+      "万国建筑",
+      "黄浦江",
+      "夜景",
+      "免费"
+    ],
+    "id": "上海外滩"
+  },
+  {
+    "name": "上海陆家嘴",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区陆家嘴",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "免费",
+    "description": "上海金融中心，有东方明珠、上海中心、金茂大厦等建筑。",
+    "official_url": "",
+    "highlights": [
+      "金融中心",
+      "地标建筑",
+      "免费"
+    ],
+    "id": "上海陆家嘴"
+  },
+  {
+    "name": "上海南京东路步行街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化中心",
+    "address": "黄浦区南京东路",
+    "transport": "地铁1/2/8号线人民广场站",
+    "fee": "免费",
+    "description": "上海著名的商业步行街，有购物、餐饮、娱乐等。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮",
+      "商业"
+    ],
+    "id": "上海南京东路步行街"
+  },
+  {
+    "name": "上海淮海中路",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化中心",
+    "address": "黄浦区淮海中路",
+    "transport": "地铁10号线陕西南路站",
+    "fee": "免费",
+    "description": "上海著名的商业街，有高端购物和特色建筑。",
+    "official_url": "",
+    "highlights": [
+      "高端购物",
+      "特色建筑"
+    ],
+    "id": "上海淮海中路"
+  },
+  {
+    "name": "上海徐家汇商圈",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "文化中心",
+    "address": "徐汇区徐家汇",
+    "transport": "地铁1/9/11号线徐家汇站",
+    "fee": "免费",
+    "description": "上海重要的商业中心，有多个商场和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "商业中心",
+      "购物",
+      "文化"
+    ],
+    "id": "上海徐家汇商圈"
+  },
+  {
+    "name": "上海静安寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "文化中心",
+    "address": "静安区静安寺",
+    "transport": "地铁2/7号线静安寺站",
+    "fee": "收费",
+    "description": "上海著名的佛教寺庙，有古建筑和宗教活动。",
+    "official_url": "",
+    "highlights": [
+      "佛教寺庙",
+      "古建筑",
+      "宗教"
+    ],
+    "id": "上海静安寺"
+  },
+  {
+    "name": "上海城隍庙",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化中心",
+    "address": "黄浦区方浜中路249号",
+    "transport": "地铁10号线豫园站",
+    "fee": "收费",
+    "description": "上海著名的道教寺庙，有古建筑和传统商业街。",
+    "official_url": "",
+    "highlights": [
+      "道教寺庙",
+      "古建筑",
+      "商业街"
+    ],
+    "id": "上海城隍庙"
+  },
+  {
+    "name": "上海豫园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "公园",
+    "address": "黄浦区豫园路100号",
+    "transport": "地铁10号线豫园站",
+    "fee": "收费",
+    "description": "上海著名的古典园林，有亭台楼阁和假山流水。",
+    "official_url": "",
+    "highlights": [
+      "古典园林",
+      "亭台楼阁",
+      "假山"
+    ],
+    "id": "上海豫园"
+  },
+  {
+    "name": "上海古猗园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "公园",
+    "address": "嘉定区南翔镇",
+    "transport": "地铁11号线南翔站",
+    "fee": "收费",
+    "description": "上海著名的古典园林，以猗猗绿竹闻名。",
+    "official_url": "",
+    "highlights": [
+      "古典园林",
+      "竹子",
+      "南翔"
+    ],
+    "id": "上海古猗园"
+  },
+  {
+    "name": "上海大观园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "公园",
+    "address": "青浦区金商公路701号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "以红楼梦为主题的古典园林，有大观园景区和淀山湖。",
+    "official_url": "",
+    "highlights": [
+      "红楼梦",
+      "古典园林",
+      "淀山湖"
+    ],
+    "id": "上海大观园"
+  },
+  {
+    "name": "上海朱家角古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "文化中心",
+    "address": "青浦区朱家角镇",
+    "transport": "地铁17号线朱家角站",
+    "fee": "免费",
+    "description": "上海著名的水乡古镇，有小桥流水和传统建筑。",
+    "official_url": "",
+    "highlights": [
+      "水乡古镇",
+      "小桥流水",
+      "免费"
+    ],
+    "id": "上海朱家角古镇"
+  },
+  {
+    "name": "上海枫泾古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "文化中心",
+    "address": "金山区枫泾镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "上海著名的水乡古镇，有传统建筑和特色美食。",
+    "official_url": "",
+    "highlights": [
+      "水乡古镇",
+      "传统建筑",
+      "美食"
+    ],
+    "id": "上海枫泾古镇"
+  },
+  {
+    "name": "上海七宝古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "文化中心",
+    "address": "闵行区七宝镇",
+    "transport": "地铁9号线七宝站",
+    "fee": "免费",
+    "description": "上海著名的古镇，有传统建筑和特色小吃。",
+    "official_url": "",
+    "highlights": [
+      "古镇",
+      "传统建筑",
+      "小吃",
+      "免费"
+    ],
+    "id": "上海七宝古镇"
+  },
+  {
+    "name": "上海田子坊",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化中心",
+    "address": "黄浦区泰康路210弄",
+    "transport": "地铁9号线打浦桥站",
+    "fee": "免费",
+    "description": "上海文艺创意街区，有画廊、工作室、特色小店等。",
+    "official_url": "",
+    "highlights": [
+      "文艺创意",
+      "画廊",
+      "特色小店",
+      "免费"
+    ],
+    "id": "上海田子坊"
+  },
+  {
+    "name": "上海新天地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "文化中心",
+    "address": "黄浦区太仓路181弄",
+    "transport": "地铁10号线新天地站",
+    "fee": "免费",
+    "description": "上海著名的休闲街区，有石库门建筑和现代商业。",
+    "official_url": "",
+    "highlights": [
+      "石库门",
+      "休闲",
+      "商业",
+      "免费"
+    ],
+    "id": "上海新天地"
+  },
+  {
+    "name": "杭州西湖",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西湖街道",
+    "transport": "地铁1号线龙翔桥站",
+    "fee": "免费",
+    "description": "杭州标志性景点，西湖十景闻名天下，可游船、散步、参观周边景点。",
+    "official_url": "",
+    "highlights": [
+      "西湖十景",
+      "游船",
+      "白堤苏堤",
+      "免费"
+    ],
+    "id": "杭州西湖"
+  },
+  {
+    "name": "杭州灵隐寺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区灵隐路法云弄1号",
+    "transport": "公交7路",
+    "fee": "收费",
+    "description": "杭州著名的佛教寺庙，有古建筑和自然风光。",
+    "official_url": "",
+    "highlights": [
+      "佛教寺庙",
+      "古建筑",
+      "自然风光"
+    ],
+    "id": "杭州灵隐寺"
+  },
+  {
+    "name": "杭州雷峰塔",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区南山路15号",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "杭州著名的古塔，登上塔顶可俯瞰西湖全景。",
+    "official_url": "",
+    "highlights": [
+      "古塔",
+      "俯瞰西湖"
+    ],
+    "id": "杭州雷峰塔"
+  },
+  {
+    "name": "杭州岳庙",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区北山路80号",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "纪念民族英雄岳飞的庙宇，展示岳飞生平事迹。",
+    "official_url": "",
+    "highlights": [
+      "岳飞",
+      "民族英雄",
+      "历史"
+    ],
+    "id": "杭州岳庙"
+  },
+  {
+    "name": "杭州六和塔",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区之江路16号",
+    "transport": "公交308路",
+    "fee": "收费",
+    "description": "杭州著名的古塔，位于钱塘江畔，可登高望远。",
+    "official_url": "",
+    "highlights": [
+      "古塔",
+      "钱塘江",
+      "登高"
+    ],
+    "id": "杭州六和塔"
+  },
+  {
+    "name": "杭州虎跑公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区虎跑路39号",
+    "transport": "公交4路",
+    "fee": "收费",
+    "description": "以虎跑泉闻名的公园，有泉水、茶园、自然风光。",
+    "official_url": "",
+    "highlights": [
+      "虎跑泉",
+      "茶园",
+      "自然风光"
+    ],
+    "id": "杭州虎跑公园"
+  },
+  {
+    "name": "杭州九溪烟树",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区九溪路",
+    "transport": "公交308路",
+    "fee": "免费",
+    "description": "杭州著名的自然景区，有溪流、茶园、瀑布，适合徒步。",
+    "official_url": "",
+    "highlights": [
+      "溪流",
+      "茶园",
+      "瀑布",
+      "徒步",
+      "免费"
+    ],
+    "id": "杭州九溪烟树"
+  },
+  {
+    "name": "杭州云栖竹径",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区梅灵南路8号",
+    "transport": "公交324路",
+    "fee": "收费",
+    "description": "以竹林为特色的景区，有石板路、溪流、竹林，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "竹林",
+      "清幽",
+      "自然风光"
+    ],
+    "id": "杭州云栖竹径"
+  },
+  {
+    "name": "杭州龙井村",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区龙井路",
+    "transport": "公交27路",
+    "fee": "免费",
+    "description": "杭州著名的龙井茶产地，有茶园、农家、茶文化体验。",
+    "official_url": "",
+    "highlights": [
+      "龙井茶",
+      "茶园",
+      "茶文化",
+      "免费"
+    ],
+    "id": "杭州龙井村"
+  },
+  {
+    "name": "杭州满陇桂雨",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区满觉陇路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "以桂花闻名的景区，秋季桂花盛开时香气扑鼻。",
+    "official_url": "",
+    "highlights": [
+      "桂花",
+      "秋季",
+      "免费"
+    ],
+    "id": "杭州满陇桂雨"
+  },
+  {
+    "name": "杭州太子湾公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区南山路5-1号",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "杭州著名的赏花公园，春季樱花和郁金香盛开。",
+    "official_url": "",
+    "highlights": [
+      "樱花",
+      "郁金香",
+      "赏花",
+      "免费"
+    ],
+    "id": "杭州太子湾公园"
+  },
+  {
+    "name": "杭州花港观鱼",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区杨公堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，有牡丹园、红鱼池等景点。",
+    "official_url": "",
+    "highlights": [
+      "红鱼池",
+      "牡丹园",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州花港观鱼"
+  },
+  {
+    "name": "杭州苏堤",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区苏堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，苏轼修建的长堤，适合散步和观赏西湖美景。",
+    "official_url": "",
+    "highlights": [
+      "苏堤春晓",
+      "散步",
+      "西湖美景",
+      "免费"
+    ],
+    "id": "杭州苏堤"
+  },
+  {
+    "name": "杭州白堤",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区白堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，白居易修建的长堤，有断桥残雪等景点。",
+    "official_url": "",
+    "highlights": [
+      "断桥残雪",
+      "散步",
+      "西湖美景",
+      "免费"
+    ],
+    "id": "杭州白堤"
+  },
+  {
+    "name": "杭州曲院风荷",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区北山路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，夏季荷花盛开，景色优美。",
+    "official_url": "",
+    "highlights": [
+      "荷花",
+      "夏季",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州曲院风荷"
+  },
+  {
+    "name": "杭州平湖秋月",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区白堤西端",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，秋季赏月的好去处。",
+    "official_url": "",
+    "highlights": [
+      "赏月",
+      "秋季",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州平湖秋月"
+  },
+  {
+    "name": "杭州柳浪闻莺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区南山路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，有柳树和草坪，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "柳树",
+      "草坪",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州柳浪闻莺"
+  },
+  {
+    "name": "杭州南屏晚钟",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区南山路",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "西湖十景之一，以南屏山和净慈寺钟声闻名。",
+    "official_url": "",
+    "highlights": [
+      "净慈寺",
+      "钟声",
+      "西湖十景"
+    ],
+    "id": "杭州南屏晚钟"
+  },
+  {
+    "name": "杭州双峰插云",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区灵隐路",
+    "transport": "公交7路",
+    "fee": "免费",
+    "description": "西湖十景之一，以南高峰和北高峰闻名。",
+    "official_url": "",
+    "highlights": [
+      "南北高峰",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州双峰插云"
+  },
+  {
+    "name": "杭州吴山天风",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "公园",
+    "address": "上城区吴山路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，位于吴山，可登高远眺西湖。",
+    "official_url": "",
+    "highlights": [
+      "吴山",
+      "登高",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州吴山天风"
+  },
+  {
+    "name": "杭州涌金公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "公园",
+    "address": "上城区涌金路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "位于西湖边的公园，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "杭州涌金公园"
+  },
+  {
+    "name": "杭州钱王祠",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "上城区钱王祠路",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "纪念吴越国王钱镠的祠堂，展示吴越历史文化。",
+    "official_url": "",
+    "highlights": [
+      "吴越历史",
+      "钱镠",
+      "文化"
+    ],
+    "id": "杭州钱王祠"
+  },
+  {
+    "name": "杭州鼓楼",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "文化中心",
+    "address": "上城区中山南路200号",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "杭州古城的南门城楼，有鼓楼和历史展览。",
+    "official_url": "",
+    "highlights": [
+      "古城楼",
+      "历史展览",
+      "免费"
+    ],
+    "id": "杭州鼓楼"
+  },
+  {
+    "name": "杭州河坊街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "文化中心",
+    "address": "上城区河坊街",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "杭州著名的历史街区，有传统店铺、特色小吃和老字号。",
+    "official_url": "",
+    "highlights": [
+      "历史街区",
+      "特色小吃",
+      "老字号",
+      "免费"
+    ],
+    "id": "杭州河坊街"
+  },
+  {
+    "name": "杭州南宋御街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "文化中心",
+    "address": "上城区中山中路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "南宋时期的皇家御街，有历史建筑和现代商业。",
+    "official_url": "",
+    "highlights": [
+      "南宋历史",
+      "历史建筑",
+      "商业",
+      "免费"
+    ],
+    "id": "杭州南宋御街"
+  },
+  {
+    "name": "杭州湖滨银泰",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "文化中心",
+    "address": "上城区延安路",
+    "transport": "地铁1号线龙翔桥站",
+    "fee": "免费",
+    "description": "西湖边的大型购物中心，有购物、餐饮、娱乐等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮",
+      "西湖边"
+    ],
+    "id": "杭州湖滨银泰"
+  },
+  {
+    "name": "杭州武林广场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区武林广场",
+    "transport": "地铁1号线武林广场站",
+    "fee": "免费",
+    "description": "杭州的商业中心，有大型商场和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "商业中心",
+      "购物",
+      "文化"
+    ],
+    "id": "杭州武林广场"
+  },
+  {
+    "name": "杭州运河广场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区金华路",
+    "transport": "地铁5号线大运河站",
+    "fee": "免费",
+    "description": "位于京杭大运河畔的广场，有运河博物馆和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大运河",
+      "运河博物馆",
+      "免费"
+    ],
+    "id": "杭州运河广场"
+  },
+  {
+    "name": "杭州小河直街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区小河直街",
+    "transport": "公交151路",
+    "fee": "免费",
+    "description": "京杭大运河畔的历史街区，有传统建筑和特色小店。",
+    "official_url": "",
+    "highlights": [
+      "历史街区",
+      "运河",
+      "特色小店",
+      "免费"
+    ],
+    "id": "杭州小河直街"
+  },
+  {
+    "name": "杭州桥西直街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区桥西直街",
+    "transport": "公交151路",
+    "fee": "免费",
+    "description": "京杭大运河畔的历史街区，有博物馆和文创店铺。",
+    "official_url": "",
+    "highlights": [
+      "历史街区",
+      "运河",
+      "博物馆",
+      "免费"
+    ],
+    "id": "杭州桥西直街"
+  },
+  {
+    "name": "杭州拱宸桥",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区桥弄街",
+    "transport": "公交151路",
+    "fee": "免费",
+    "description": "京杭大运河上的古桥，是杭州的标志性建筑之一。",
+    "official_url": "",
+    "highlights": [
+      "古桥",
+      "大运河",
+      "地标",
+      "免费"
+    ],
+    "id": "杭州拱宸桥"
+  },
+  {
+    "name": "杭州西溪湿地东区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区天目山路518号",
+    "transport": "地铁3号线西溪湿地南站",
+    "fee": "收费",
+    "description": "西溪国家湿地公园的东区，有湿地景观和文化景点。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "自然景观",
+      "文化"
+    ],
+    "id": "杭州西溪湿地东区"
+  },
+  {
+    "name": "杭州西溪湿地西区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区文二西路",
+    "transport": "地铁3号线西溪湿地北站",
+    "fee": "收费",
+    "description": "西溪国家湿地公园的西区，有湿地景观和自然生态。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "自然生态",
+      "景观"
+    ],
+    "id": "杭州西溪湿地西区"
+  },
+  {
+    "name": "杭州湘湖",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "公园",
+    "address": "萧山区湘湖路",
+    "transport": "地铁1号线湘湖站",
+    "fee": "免费",
+    "description": "杭州的姊妹湖，有湖景和历史文化景点，适合休闲游玩。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "历史文化",
+      "休闲",
+      "免费"
+    ],
+    "id": "杭州湘湖"
+  },
+  {
+    "name": "杭州极地海洋世界",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "科普馆",
+    "address": "萧山区湘湖路777号",
+    "transport": "地铁1号线湘湖站",
+    "fee": "收费",
+    "description": "大型海洋主题公园，有极地动物、海洋生物和表演。",
+    "official_url": "",
+    "highlights": [
+      "极地动物",
+      "海洋生物",
+      "表演"
+    ],
+    "id": "杭州极地海洋世界"
+  },
+  {
+    "name": "杭州跨湖桥遗址博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "博物馆",
+    "address": "萧山区湘湖路978号",
+    "transport": "地铁1号线湘湖站",
+    "fee": "免费",
+    "description": "展示跨湖桥遗址文物，包括8000年前的独木舟。",
+    "official_url": "",
+    "highlights": [
+      "独木舟",
+      "8000年历史",
+      "文物",
+      "免费"
+    ],
+    "id": "杭州跨湖桥遗址博物馆"
+  },
+  {
+    "name": "杭州奥体中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育中心",
+    "address": "滨江区奥体街",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "杭州2022年亚运会主会场，有体育场、体育馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "亚运会",
+      "体育场",
+      "地标"
+    ],
+    "id": "杭州奥体中心"
+  },
+  {
+    "name": "杭州滨江公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "公园",
+    "address": "滨江区闻涛路",
+    "transport": "地铁6号线江汉路站",
+    "fee": "免费",
+    "description": "位于钱塘江畔的公园，有江景和绿道，适合骑行和散步。",
+    "official_url": "",
+    "highlights": [
+      "江景",
+      "绿道",
+      "骑行",
+      "免费"
+    ],
+    "id": "杭州滨江公园"
+  },
+  {
+    "name": "杭州梦想小镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "余杭区仓前街道",
+    "transport": "地铁5号线良睦路站",
+    "fee": "免费",
+    "description": "杭州的创业创新小镇，有创业孵化和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "创业创新",
+      "文化",
+      "免费"
+    ],
+    "id": "杭州梦想小镇"
+  },
+  {
+    "name": "杭州未来科技城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "余杭区文一西路",
+    "transport": "地铁5号线良睦路站",
+    "fee": "免费",
+    "description": "杭州的科技新城，有现代化建筑和科技企业。",
+    "official_url": "",
+    "highlights": [
+      "科技",
+      "现代化",
+      "免费"
+    ],
+    "id": "杭州未来科技城"
+  },
+  {
+    "name": "杭州临平新城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "文化中心",
+    "address": "临平区迎宾路",
+    "transport": "地铁9号线临平站",
+    "fee": "免费",
+    "description": "杭州临平区的新城，有商业和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "商业",
+      "文化",
+      "免费"
+    ],
+    "id": "杭州临平新城"
+  },
+  {
+    "name": "杭州九堡大桥",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化中心",
+    "address": "江干区九堡",
+    "transport": "地铁1号线九堡站",
+    "fee": "免费",
+    "description": "横跨钱塘江的大桥，适合观赏江景。",
+    "official_url": "",
+    "highlights": [
+      "大桥",
+      "江景",
+      "免费"
+    ],
+    "id": "杭州九堡大桥"
+  },
+  {
+    "name": "杭州钱江新城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化中心",
+    "address": "江干区富春路",
+    "transport": "地铁4号线市民中心站",
+    "fee": "免费",
+    "description": "杭州的新城区，有现代化建筑和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "现代化",
+      "城市景观",
+      "免费"
+    ],
+    "id": "杭州钱江新城"
+  },
+  {
+    "name": "杭州城市阳台",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化中心",
+    "address": "江干区富春路",
+    "transport": "地铁4号线市民中心站",
+    "fee": "免费",
+    "description": "位于钱塘江畔的观景平台，可观赏江景和城市天际线。",
+    "official_url": "",
+    "highlights": [
+      "江景",
+      "城市天际线",
+      "观景",
+      "免费"
+    ],
+    "id": "杭州城市阳台"
+  },
+  {
+    "name": "杭州大剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出场馆",
+    "address": "江干区新业路39号",
+    "transport": "地铁4号线市民中心站",
+    "fee": "收费",
+    "description": "杭州标志性剧院，举办歌剧、音乐剧、音乐会等演出。",
+    "official_url": "",
+    "highlights": [
+      "歌剧",
+      "音乐剧",
+      "建筑设计"
+    ],
+    "id": "杭州大剧院"
+  },
+  {
+    "name": "杭州国际会议中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "会展中心",
+    "address": "江干区富春路",
+    "transport": "地铁4号线市民中心站",
+    "fee": "收费",
+    "description": "杭州大型会议中心，举办各类会议和展览。",
+    "official_url": "",
+    "highlights": [
+      "会议",
+      "展览"
+    ],
+    "id": "杭州国际会议中心"
+  },
+  {
+    "name": "杭州奥体博览城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "会展中心",
+    "address": "滨江区江南大道",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "集体育、会展、文化于一体的大型综合体。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "会展",
+      "文化"
+    ],
+    "id": "杭州奥体博览城"
+  },
+  {
+    "name": "杭州白马湖国际会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "会展中心",
+    "address": "滨江区长江南路",
+    "transport": "公交137路",
+    "fee": "收费",
+    "description": "举办各类展览和活动，包括动漫节等。",
+    "official_url": "",
+    "highlights": [
+      "展览",
+      "动漫节"
+    ],
+    "id": "杭州白马湖国际会展中心"
+  },
+  {
+    "name": "杭州之江文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区江涵路300号",
+    "transport": "地铁6号线枫桦西路站",
+    "fee": "免费",
+    "description": "集博物馆、图书馆、美术馆、非遗馆于一体的文化综合体。",
+    "official_url": "",
+    "highlights": [
+      "文化综合体",
+      "博物馆",
+      "图书馆",
+      "免费"
+    ],
+    "id": "杭州之江文化中心"
+  },
+  {
+    "name": "杭州文学馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区江涵路300号之江文化中心",
+    "transport": "地铁6号线枫桦西路站",
+    "fee": "免费",
+    "description": "展示浙江文学历史和作品，有文学展览和活动。",
+    "official_url": "",
+    "highlights": [
+      "文学",
+      "展览",
+      "免费"
+    ],
+    "id": "杭州文学馆"
+  },
+  {
+    "name": "北京城市图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "图书馆",
+    "address": "通州区新华东街",
+    "transport": "地铁6号线北运河西站",
+    "fee": "免费",
+    "description": "北京城市副中心的大型图书馆，建筑设计独特，有丰富的阅读空间。",
+    "official_url": "",
+    "highlights": [
+      "阅读空间",
+      "建筑设计",
+      "免费"
+    ],
+    "id": "北京城市图书馆"
+  },
+  {
+    "name": "北京环球度假区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区环球大道",
+    "transport": "地铁7号线环球度假区站",
+    "fee": "收费",
+    "description": "大型主题度假区，有哈利波特、变形金刚、小黄人等主题园区。",
+    "official_url": "",
+    "highlights": [
+      "哈利波特",
+      "变形金刚",
+      "主题乐园"
+    ],
+    "id": "北京环球度假区"
+  },
+  {
+    "name": "北京运河奥体公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区运河奥体公园",
+    "transport": "地铁6号线北运河西站",
+    "fee": "免费",
+    "description": "位于通州区的运河公园，有运河景观和体育设施。",
+    "official_url": "",
+    "highlights": [
+      "运河",
+      "体育设施",
+      "免费"
+    ],
+    "id": "北京运河奥体公园"
+  },
+  {
+    "name": "北京西海子公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区新华北路",
+    "transport": "地铁6号线通州北关站",
+    "fee": "免费",
+    "description": "通州区的城市公园，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "北京西海子公园"
+  },
+  {
+    "name": "北京运河森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区运河西大街",
+    "transport": "地铁6号线通州北关站",
+    "fee": "免费",
+    "description": "大型森林公园，有运河绿道和自然景观。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "绿道",
+      "自然",
+      "免费"
+    ],
+    "id": "北京运河森林公园"
+  },
+  {
+    "name": "北京东郊湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区宋庄镇",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "大型湿地公园，有湿地景观和自然生态。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "自然生态",
+      "免费"
+    ],
+    "id": "北京东郊湿地公园"
+  },
+  {
+    "name": "北京张家湾公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区张家湾镇",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "位于张家湾镇的公园，有运河景观和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "运河",
+      "休闲",
+      "免费"
+    ],
+    "id": "北京张家湾公园"
+  },
+  {
+    "name": "北京台湖公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区台湖镇",
+    "transport": "地铁7号线台湖站",
+    "fee": "免费",
+    "description": "位于台湖镇的公园，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "北京台湖公园"
+  },
+  {
+    "name": "北京月亮河公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "通州区月亮河河滨路",
+    "transport": "地铁6号线北运河东站",
+    "fee": "免费",
+    "description": "运河畔的公园，有河景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "河景",
+      "休闲",
+      "免费"
+    ],
+    "id": "北京月亮河公园"
+  },
+  {
+    "name": "北京路县故城遗址",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "博物馆",
+    "address": "通州区潞城镇",
+    "transport": "地铁6号线潞城站",
+    "fee": "免费",
+    "description": "汉代路县故城遗址，展示北京城市历史。",
+    "official_url": "",
+    "highlights": [
+      "汉代遗址",
+      "历史",
+      "免费"
+    ],
+    "id": "北京路县故城遗址"
+  },
+  {
+    "name": "北京通州博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "博物馆",
+    "address": "通州区西大街",
+    "transport": "地铁6号线通州西站",
+    "fee": "免费",
+    "description": "展示通州历史文化和文物。",
+    "official_url": "",
+    "highlights": [
+      "通州历史",
+      "文物",
+      "免费"
+    ],
+    "id": "北京通州博物馆"
+  },
+  {
+    "name": "北京汉石桥湿地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "公园",
+    "address": "顺义区杨镇",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "北京最大的湿地自然保护区，有芦苇荡和候鸟栖息地。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "候鸟",
+      "自然",
+      "免费"
+    ],
+    "id": "北京汉石桥湿地"
+  },
+  {
+    "name": "北京奥林匹克水上公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "体育中心",
+    "address": "顺义区白马路",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "2008年奥运会水上项目举办地，有水上运动和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "水上运动",
+      "奥运会",
+      "休闲"
+    ],
+    "id": "北京奥林匹克水上公园"
+  },
+  {
+    "name": "北京顺义公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "公园",
+    "address": "顺义区光明南街",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "顺义区的城市公园，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "北京顺义公园"
+  },
+  {
+    "name": "北京顺义新城滨河森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "公园",
+    "address": "顺义区潮白河",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "沿潮白河的森林公园，有绿道和自然景观。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "绿道",
+      "自然",
+      "免费"
+    ],
+    "id": "北京顺义新城滨河森林公园"
+  },
+  {
+    "name": "北京国际鲜花港",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "公园",
+    "address": "顺义区杨镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "大型花卉展览园区，四季有不同花卉展示。",
+    "official_url": "",
+    "highlights": [
+      "花卉",
+      "展览",
+      "四季"
+    ],
+    "id": "北京国际鲜花港"
+  },
+  {
+    "name": "北京张裕爱斐堡国际酒庄",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "文化中心",
+    "address": "密云区巨各庄镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "欧式风格的酒庄，有葡萄酒文化体验和城堡建筑。",
+    "official_url": "",
+    "highlights": [
+      "酒庄",
+      "葡萄酒",
+      "欧式建筑"
+    ],
+    "id": "北京张裕爱斐堡国际酒庄"
+  },
+  {
+    "name": "北京古北水镇",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "文化中心",
+    "address": "密云区古北口镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "北方水乡古镇，有古建筑、温泉、夜景等。",
+    "official_url": "",
+    "highlights": [
+      "水乡古镇",
+      "温泉",
+      "夜景"
+    ],
+    "id": "北京古北水镇"
+  },
+  {
+    "name": "北京司马台长城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "文化中心",
+    "address": "密云区古北口镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "中国唯一保留明代原貌的长城，以险峻著称。",
+    "official_url": "",
+    "highlights": [
+      "长城",
+      "险峻",
+      "明代"
+    ],
+    "id": "北京司马台长城"
+  },
+  {
+    "name": "北京黑龙潭景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "公园",
+    "address": "密云区石城镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有瀑布和潭水的自然景区，适合避暑。",
+    "official_url": "",
+    "highlights": [
+      "瀑布",
+      "潭水",
+      "避暑"
+    ],
+    "id": "北京黑龙潭景区"
+  },
+  {
+    "name": "北京云蒙山景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "公园",
+    "address": "密云区石城镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有高山、森林、瀑布的自然景区，适合登山。",
+    "official_url": "",
+    "highlights": [
+      "高山",
+      "森林",
+      "登山"
+    ],
+    "id": "北京云蒙山景区"
+  },
+  {
+    "name": "北京雾灵山景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "公园",
+    "address": "密云区新城子镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "北京最高峰，有森林、云海、日出等景观。",
+    "official_url": "",
+    "highlights": [
+      "最高峰",
+      "森林",
+      "云海"
+    ],
+    "id": "北京雾灵山景区"
+  },
+  {
+    "name": "北京金海湖景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "平谷区",
+    "type": "公园",
+    "address": "平谷区金海湖镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有湖景和水上运动的景区，适合度假。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "水上运动",
+      "度假"
+    ],
+    "id": "北京金海湖景区"
+  },
+  {
+    "name": "北京京东大峡谷",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "平谷区",
+    "type": "公园",
+    "address": "平谷区山东庄镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有峡谷、瀑布、潭水的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "峡谷",
+      "瀑布",
+      "自然"
+    ],
+    "id": "北京京东大峡谷"
+  },
+  {
+    "name": "北京石林峡景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "平谷区",
+    "type": "公园",
+    "address": "平谷区黄松峪乡",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "以石林和峡谷为特色的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "石林",
+      "峡谷",
+      "自然"
+    ],
+    "id": "北京石林峡景区"
+  },
+  {
+    "name": "广州北京路天河城",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "文化中心",
+    "address": "越秀区北京路",
+    "transport": "地铁1号线公园前站",
+    "fee": "免费",
+    "description": "北京路商圈的购物中心，有购物、餐饮等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮",
+      "北京路"
+    ],
+    "id": "广州北京路天河城"
+  },
+  {
+    "name": "广州天河城百货",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区天河路208号",
+    "transport": "地铁3号线体育西路站",
+    "fee": "免费",
+    "description": "天河区的大型百货商场，有购物、餐饮等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮"
+    ],
+    "id": "广州天河城百货"
+  },
+  {
+    "name": "广州太古汇商场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区天河路383号",
+    "transport": "地铁3号线石牌桥站",
+    "fee": "免费",
+    "description": "高端购物中心，有奢侈品品牌和特色餐饮。",
+    "official_url": "",
+    "highlights": [
+      "高端购物",
+      "奢侈品"
+    ],
+    "id": "广州太古汇商场"
+  },
+  {
+    "name": "广州维多利广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区体育西路103号",
+    "transport": "地铁3号线体育西路站",
+    "fee": "免费",
+    "description": "天河商圈的购物中心，有购物、餐饮等设施。",
+    "official_url": "",
+    "highlights": [
+      "购物",
+      "餐饮"
+    ],
+    "id": "广州维多利广场"
+  },
+  {
+    "name": "广州天河体育中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "体育中心",
+    "address": "天河区天河路299号",
+    "transport": "地铁1号线体育西路站",
+    "fee": "收费",
+    "description": "广州大型体育中心，有体育场、体育馆、游泳馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "游泳",
+      "场馆"
+    ],
+    "id": "广州天河体育中心"
+  },
+  {
+    "name": "广州珠江新城",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区珠江新城",
+    "transport": "地铁3号线珠江新城站",
+    "fee": "免费",
+    "description": "广州的新城区，有现代化建筑和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "现代化",
+      "城市景观",
+      "免费"
+    ],
+    "id": "广州珠江新城"
+  },
+  {
+    "name": "广州花城广场",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区珠江新城",
+    "transport": "地铁3号线珠江新城站",
+    "fee": "免费",
+    "description": "广州的城市广场，有音乐喷泉和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "音乐喷泉",
+      "城市景观",
+      "免费"
+    ],
+    "id": "广州花城广场"
+  },
+  {
+    "name": "广州海心沙",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区珠江新城",
+    "transport": "地铁APM线海心沙站",
+    "fee": "免费",
+    "description": "珠江中的小岛，有亚运会开闭幕式场地和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "亚运会",
+      "城市景观",
+      "免费"
+    ],
+    "id": "广州海心沙"
+  },
+  {
+    "name": "广州琶洲会展中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "会展中心",
+    "address": "海珠区阅江中路",
+    "transport": "地铁8号线琶洲站",
+    "fee": "收费",
+    "description": "广州大型会展中心，举办广交会等大型展览。",
+    "official_url": "",
+    "highlights": [
+      "广交会",
+      "展览"
+    ],
+    "id": "广州琶洲会展中心"
+  },
+  {
+    "name": "广州塔摩天轮",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化中心",
+    "address": "海珠区阅江西路222号广州塔",
+    "transport": "地铁3号线广州塔站",
+    "fee": "收费",
+    "description": "广州塔顶部的摩天轮，可俯瞰广州全景。",
+    "official_url": "",
+    "highlights": [
+      "摩天轮",
+      "俯瞰广州"
+    ],
+    "id": "广州塔摩天轮"
+  },
+  {
+    "name": "广州塔极速云霄",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化中心",
+    "address": "海珠区阅江西路222号广州塔",
+    "transport": "地铁3号线广州塔站",
+    "fee": "收费",
+    "description": "广州塔顶部的极速云霄项目，体验高空速降。",
+    "official_url": "",
+    "highlights": [
+      "极速云霄",
+      "高空体验"
+    ],
+    "id": "广州塔极速云霄"
+  },
+  {
+    "name": "广州塔户外观景平台",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化中心",
+    "address": "海珠区阅江西路222号广州塔",
+    "transport": "地铁3号线广州塔站",
+    "fee": "收费",
+    "description": "广州塔户外观景平台，可俯瞰广州全景和珠江。",
+    "official_url": "",
+    "highlights": [
+      "观景",
+      "俯瞰广州",
+      "珠江"
+    ],
+    "id": "广州塔户外观景平台"
+  },
+  {
+    "name": "广州海心桥",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "文化中心",
+    "address": "天河区珠江新城",
+    "transport": "地铁APM线海心沙站",
+    "fee": "免费",
+    "description": "横跨珠江的步行桥，连接广州塔和海心沙。",
+    "official_url": "",
+    "highlights": [
+      "步行桥",
+      "珠江",
+      "免费"
+    ],
+    "id": "广州海心桥"
+  },
+  {
+    "name": "广州滨江公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "海珠区滨江东路",
+    "transport": "地铁8号线晓港站",
+    "fee": "免费",
+    "description": "沿珠江的公园，有江景和绿道，适合散步和骑行。",
+    "official_url": "",
+    "highlights": [
+      "江景",
+      "绿道",
+      "骑行",
+      "免费"
+    ],
+    "id": "广州滨江公园"
+  },
+  {
+    "name": "广州二沙岛体育公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区二沙岛",
+    "transport": "地铁6号线东湖站",
+    "fee": "免费",
+    "description": "二沙岛上的体育公园，有运动设施和江景。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "江景",
+      "免费"
+    ],
+    "id": "广州二沙岛体育公园"
+  },
+  {
+    "name": "广州二沙岛艺术公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "越秀区二沙岛",
+    "transport": "地铁6号线东湖站",
+    "fee": "免费",
+    "description": "二沙岛上的艺术公园，有雕塑和艺术装置。",
+    "official_url": "",
+    "highlights": [
+      "艺术",
+      "雕塑",
+      "免费"
+    ],
+    "id": "广州二沙岛艺术公园"
+  },
+  {
+    "name": "广州海印公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "海珠区滨江东路",
+    "transport": "地铁8号线晓港站",
+    "fee": "免费",
+    "description": "位于珠江畔的公园，有江景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "江景",
+      "休闲",
+      "免费"
+    ],
+    "id": "广州海印公园"
+  },
+  {
+    "name": "广州晓港公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "海珠区前进路",
+    "transport": "地铁8号线晓港站",
+    "fee": "免费",
+    "description": "有湖景和竹林的公园，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "竹林",
+      "清幽",
+      "免费"
+    ],
+    "id": "广州晓港公园"
+  },
+  {
+    "name": "广州黄埔公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "公园",
+    "address": "黄埔区黄埔东路",
+    "transport": "地铁5号线大沙东站",
+    "fee": "免费",
+    "description": "黄埔区的城市公园，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "广州黄埔公园"
+  },
+  {
+    "name": "广州萝岗香雪公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "公园",
+    "address": "黄埔区萝岗街道",
+    "transport": "地铁6号线香雪站",
+    "fee": "免费",
+    "description": "以梅花闻名的公园，冬季梅花盛开时很美。",
+    "official_url": "",
+    "highlights": [
+      "梅花",
+      "冬季",
+      "免费"
+    ],
+    "id": "广州萝岗香雪公园"
+  },
+  {
+    "name": "广州天鹿湖森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "公园",
+    "address": "黄埔区联和街道",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有森林、湖泊、瀑布的自然景区，适合徒步。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "湖泊",
+      "徒步"
+    ],
+    "id": "广州天鹿湖森林公园"
+  },
+  {
+    "name": "广州九龙湖度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区花东镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "大型度假区，有湖景、高尔夫、酒店等设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "高尔夫",
+      "度假"
+    ],
+    "id": "广州九龙湖度假区"
+  },
+  {
+    "name": "广州花都石头记矿物园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "花都区珠宝城",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "展示各种矿物和宝石的博物馆，有水晶、玉石等展品。",
+    "official_url": "",
+    "highlights": [
+      "矿物",
+      "宝石",
+      "水晶"
+    ],
+    "id": "广州花都石头记矿物园"
+  },
+  {
+    "name": "广州芙蓉嶂风景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区狮岭镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有山、水、森林的自然景区，适合休闲度假。",
+    "official_url": "",
+    "highlights": [
+      "山水",
+      "森林",
+      "度假"
+    ],
+    "id": "广州芙蓉嶂风景区"
+  },
+  {
+    "name": "广州九龙潭森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区北兴镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有森林、湖泊的自然景区，适合露营和休闲。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "湖泊",
+      "露营"
+    ],
+    "id": "广州九龙潭森林公园"
+  },
+  {
+    "name": "上海科技馆主馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科技馆",
+    "address": "浦东新区世纪大道2000号",
+    "transport": "地铁2号线上海科技馆站",
+    "fee": "收费",
+    "description": "上海科技馆主馆，有多个主题展厅和互动体验。",
+    "official_url": "",
+    "highlights": [
+      "互动体验",
+      "科普",
+      "主题展厅"
+    ],
+    "id": "上海科技馆主馆"
+  },
+  {
+    "name": "上海东方明珠太空舱",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区世纪大道1号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "东方明珠塔的太空舱，可俯瞰上海全景。",
+    "official_url": "",
+    "highlights": [
+      "太空舱",
+      "俯瞰上海"
+    ],
+    "id": "上海东方明珠太空舱"
+  },
+  {
+    "name": "上海东方明珠悬空观光廊",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区世纪大道1号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "东方明珠塔的悬空观光廊，体验高空玻璃栈道。",
+    "official_url": "",
+    "highlights": [
+      "悬空廊",
+      "玻璃栈道",
+      "高空"
+    ],
+    "id": "上海东方明珠悬空观光廊"
+  },
+  {
+    "name": "上海中心大厦观光厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区陆家嘴环路1000号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "上海中心大厦118层观光厅，可俯瞰上海全貌。",
+    "official_url": "",
+    "highlights": [
+      "118层",
+      "俯瞰上海",
+      "最高建筑"
+    ],
+    "id": "上海中心大厦观光厅"
+  },
+  {
+    "name": "上海金茂大厦观光厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区世纪大道88号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "金茂大厦88层观光厅，可俯瞰上海全景。",
+    "official_url": "",
+    "highlights": [
+      "88层",
+      "俯瞰上海"
+    ],
+    "id": "上海金茂大厦观光厅"
+  },
+  {
+    "name": "上海环球金融中心观光厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区世纪大道100号",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "收费",
+    "description": "环球金融中心观光厅，可俯瞰上海全景。",
+    "official_url": "",
+    "highlights": [
+      "观光",
+      "俯瞰上海"
+    ],
+    "id": "上海环球金融中心观光厅"
+  },
+  {
+    "name": "上海长风海洋世界",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "科普馆",
+    "address": "普陀区大渡河路451号",
+    "transport": "地铁15号线长风公园站",
+    "fee": "收费",
+    "description": "长风公园内的海洋世界，有白鲸表演和海底隧道。",
+    "official_url": "",
+    "highlights": [
+      "白鲸表演",
+      "海底隧道"
+    ],
+    "id": "上海长风海洋世界"
+  },
+  {
+    "name": "上海野生动物园车行区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区南六公路178号",
+    "transport": "地铁16号线野生动物园站",
+    "fee": "收费",
+    "description": "上海野生动物园的车行区，可自驾或坐观光车游览猛兽区。",
+    "official_url": "",
+    "highlights": [
+      "猛兽区",
+      "自驾",
+      "观光车"
+    ],
+    "id": "上海野生动物园车行区"
+  },
+  {
+    "name": "上海野生动物园步行区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区南六公路178号",
+    "transport": "地铁16号线野生动物园站",
+    "fee": "收费",
+    "description": "上海野生动物园的步行区，可步行观赏和投喂动物。",
+    "official_url": "",
+    "highlights": [
+      "步行观赏",
+      "投喂动物"
+    ],
+    "id": "上海野生动物园步行区"
+  },
+  {
+    "name": "上海海昌海洋公园虎鲸馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科普馆",
+    "address": "浦东新区银飞路166号",
+    "transport": "地铁16号线临港大道站",
+    "fee": "收费",
+    "description": "海昌海洋公园的虎鲸馆，有虎鲸表演和科普展示。",
+    "official_url": "",
+    "highlights": [
+      "虎鲸表演",
+      "科普"
+    ],
+    "id": "上海海昌海洋公园虎鲸馆"
+  },
+  {
+    "name": "上海海昌海洋公园北极熊馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "科普馆",
+    "address": "浦东新区银飞路166号",
+    "transport": "地铁16号线临港大道站",
+    "fee": "收费",
+    "description": "海昌海洋公园的北极熊馆，有北极熊和北极动物展示。",
+    "official_url": "",
+    "highlights": [
+      "北极熊",
+      "北极动物"
+    ],
+    "id": "上海海昌海洋公园北极熊馆"
+  },
+  {
+    "name": "上海迪士尼乐园城堡",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "上海迪士尼乐园的标志性城堡，有灯光秀和烟花表演。",
+    "official_url": "",
+    "highlights": [
+      "城堡",
+      "灯光秀",
+      "烟花"
+    ],
+    "id": "上海迪士尼乐园城堡"
+  },
+  {
+    "name": "上海迪士尼乐园明日世界",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "迪士尼乐园的明日世界园区，有创极速光轮等刺激项目。",
+    "official_url": "",
+    "highlights": [
+      "创极速光轮",
+      "刺激项目"
+    ],
+    "id": "上海迪士尼乐园明日世界"
+  },
+  {
+    "name": "上海迪士尼乐园梦幻世界",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "迪士尼乐园的梦幻世界园区，有小熊维尼、小飞侠等亲子项目。",
+    "official_url": "",
+    "highlights": [
+      "小熊维尼",
+      "小飞侠",
+      "亲子"
+    ],
+    "id": "上海迪士尼乐园梦幻世界"
+  },
+  {
+    "name": "上海迪士尼乐园宝藏湾",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "迪士尼乐园的宝藏湾园区，有加勒比海盗等项目。",
+    "official_url": "",
+    "highlights": [
+      "加勒比海盗",
+      "宝藏"
+    ],
+    "id": "上海迪士尼乐园宝藏湾"
+  },
+  {
+    "name": "上海迪士尼乐园奇想花园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "迪士尼乐园的奇想花园园区，有米奇大街和城堡。",
+    "official_url": "",
+    "highlights": [
+      "米奇大街",
+      "城堡"
+    ],
+    "id": "上海迪士尼乐园奇想花园"
+  },
+  {
+    "name": "上海迪士尼乐园探险岛",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "迪士尼乐园的探险岛园区，有雷鸣山漂流等项目。",
+    "official_url": "",
+    "highlights": [
+      "雷鸣山漂流",
+      "探险"
+    ],
+    "id": "上海迪士尼乐园探险岛"
+  },
+  {
+    "name": "上海迪士尼乐园皮克斯玩具总动员",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区川沙新镇黄赵路310号",
+    "transport": "地铁11号线迪士尼站",
+    "fee": "收费",
+    "description": "迪士尼乐园的皮克斯玩具总动员园区，有胡迪牛仔嘉年华等项目。",
+    "official_url": "",
+    "highlights": [
+      "皮克斯",
+      "玩具总动员",
+      "胡迪"
+    ],
+    "id": "上海迪士尼乐园皮克斯玩具总动员"
+  },
+  {
+    "name": "上海乐高乐园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "公园",
+    "address": "金山区",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大型乐高主题乐园，有乐高积木搭建的建筑和游乐设施。",
+    "official_url": "",
+    "highlights": [
+      "乐高",
+      "积木",
+      "主题乐园"
+    ],
+    "id": "上海乐高乐园"
+  },
+  {
+    "name": "上海欢乐谷谷木游龙",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区林湖路888号",
+    "transport": "地铁9号线佘山站",
+    "fee": "收费",
+    "description": "欢乐谷的木质过山车，是上海著名的刺激项目。",
+    "official_url": "",
+    "highlights": [
+      "过山车",
+      "刺激"
+    ],
+    "id": "上海欢乐谷谷木游龙"
+  },
+  {
+    "name": "上海欢乐谷玛雅海滩水公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区林湖路888号",
+    "transport": "地铁9号线佘山站",
+    "fee": "收费",
+    "description": "欢乐谷的水上乐园，有各种水上项目和造浪池。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "造浪池"
+    ],
+    "id": "上海欢乐谷玛雅海滩水公园"
+  },
+  {
+    "name": "上海辰山植物园温室",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "科普馆",
+    "address": "松江区辰花公路3888号",
+    "transport": "地铁9号线洞泾站",
+    "fee": "收费",
+    "description": "辰山植物园的大型温室，展示热带和亚热带植物。",
+    "official_url": "",
+    "highlights": [
+      "温室",
+      "热带植物"
+    ],
+    "id": "上海辰山植物园温室"
+  },
+  {
+    "name": "上海辰山植物园矿坑花园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区辰花公路3888号",
+    "transport": "地铁9号线洞泾站",
+    "fee": "收费",
+    "description": "辰山植物园的矿坑花园，有瀑布和景观。",
+    "official_url": "",
+    "highlights": [
+      "矿坑",
+      "瀑布",
+      "景观"
+    ],
+    "id": "上海辰山植物园矿坑花园"
+  },
+  {
+    "name": "上海松江大学城",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "文化中心",
+    "address": "松江区大学城",
+    "transport": "地铁9号线松江大学城站",
+    "fee": "免费",
+    "description": "集中了多所大学的区域，有青春气息和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "青春",
+      "文化"
+    ],
+    "id": "上海松江大学城"
+  },
+  {
+    "name": "上海松江方塔园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区中山东路",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有古塔和古典园林的公园，展示松江历史文化。",
+    "official_url": "",
+    "highlights": [
+      "古塔",
+      "古典园林",
+      "历史"
+    ],
+    "id": "上海松江方塔园"
+  },
+  {
+    "name": "上海松江醉白池",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区人民南路",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "松江著名的古典园林，有亭台楼阁和池塘。",
+    "official_url": "",
+    "highlights": [
+      "古典园林",
+      "亭台楼阁"
+    ],
+    "id": "上海松江醉白池"
+  },
+  {
+    "name": "上海泰晤士小镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "文化中心",
+    "address": "松江区三新北路",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "英式风格的小镇，有教堂、广场和商业设施。",
+    "official_url": "",
+    "highlights": [
+      "英式风格",
+      "教堂",
+      "拍照"
+    ],
+    "id": "上海泰晤士小镇"
+  },
+  {
+    "name": "上海欢乐谷魔幻城堡",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "松江区林湖路888号",
+    "transport": "地铁9号线佘山站",
+    "fee": "收费",
+    "description": "欢乐谷的魔幻城堡区，适合儿童游玩。",
+    "official_url": "",
+    "highlights": [
+      "魔幻城堡",
+      "儿童区"
+    ],
+    "id": "上海欢乐谷魔幻城堡"
+  },
+  {
+    "name": "杭州西湖音乐喷泉",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区湖滨",
+    "transport": "地铁1号线龙翔桥站",
+    "fee": "免费",
+    "description": "西湖边的音乐喷泉，每晚有灯光和音乐表演。",
+    "official_url": "",
+    "highlights": [
+      "音乐喷泉",
+      "灯光表演",
+      "免费"
+    ],
+    "id": "杭州西湖音乐喷泉"
+  },
+  {
+    "name": "杭州西湖游船",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西湖",
+    "transport": "地铁1号线龙翔桥站",
+    "fee": "收费",
+    "description": "西湖游船，可游览西湖十景。",
+    "official_url": "",
+    "highlights": [
+      "游船",
+      "西湖十景"
+    ],
+    "id": "杭州西湖游船"
+  },
+  {
+    "name": "杭州西湖三潭印月",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西湖",
+    "transport": "游船",
+    "fee": "收费",
+    "description": "西湖十景之一，有三座石塔，是西湖的标志性景点。",
+    "official_url": "",
+    "highlights": [
+      "三潭印月",
+      "西湖十景",
+      "标志性"
+    ],
+    "id": "杭州西湖三潭印月"
+  },
+  {
+    "name": "杭州西湖湖心亭",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西湖",
+    "transport": "游船",
+    "fee": "收费",
+    "description": "西湖中的小岛，有湖心亭和古建筑。",
+    "official_url": "",
+    "highlights": [
+      "湖心亭",
+      "小岛",
+      "古建筑"
+    ],
+    "id": "杭州西湖湖心亭"
+  },
+  {
+    "name": "杭州西湖阮公墩",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西湖",
+    "transport": "游船",
+    "fee": "收费",
+    "description": "西湖中的小岛，有自然景观和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "小岛",
+      "自然景观"
+    ],
+    "id": "杭州西湖阮公墩"
+  },
+  {
+    "name": "杭州西湖杨公堤",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区杨公堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖的长堤，有苏堤春晓和曲院风荷等景点。",
+    "official_url": "",
+    "highlights": [
+      "长堤",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖杨公堤"
+  },
+  {
+    "name": "杭州西湖苏堤春晓",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区苏堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，春季苏堤上柳树发芽，景色优美。",
+    "official_url": "",
+    "highlights": [
+      "春季",
+      "柳树",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖苏堤春晓"
+  },
+  {
+    "name": "杭州西湖断桥残雪",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区白堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，冬季断桥上积雪，景色如画。",
+    "official_url": "",
+    "highlights": [
+      "冬季",
+      "雪景",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖断桥残雪"
+  },
+  {
+    "name": "杭州西湖雷峰夕照",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区雷峰塔",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "西湖十景之一，傍晚雷峰塔夕阳映照，景色优美。",
+    "official_url": "",
+    "highlights": [
+      "夕阳",
+      "雷峰塔",
+      "西湖十景"
+    ],
+    "id": "杭州西湖雷峰夕照"
+  },
+  {
+    "name": "杭州西湖南屏晚钟",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区南屏山",
+    "transport": "公交Y2路",
+    "fee": "收费",
+    "description": "西湖十景之一，南屏山净慈寺的钟声。",
+    "official_url": "",
+    "highlights": [
+      "钟声",
+      "净慈寺",
+      "西湖十景"
+    ],
+    "id": "杭州西湖南屏晚钟"
+  },
+  {
+    "name": "杭州西湖曲院风荷",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区北山路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，夏季荷花盛开，景色优美。",
+    "official_url": "",
+    "highlights": [
+      "荷花",
+      "夏季",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖曲院风荷"
+  },
+  {
+    "name": "杭州西湖花港观鱼",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区杨公堤",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，有红鱼池和牡丹园。",
+    "official_url": "",
+    "highlights": [
+      "红鱼池",
+      "牡丹园",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖花港观鱼"
+  },
+  {
+    "name": "杭州西湖柳浪闻莺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区南山路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，有柳树和草坪，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "柳树",
+      "草坪",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖柳浪闻莺"
+  },
+  {
+    "name": "杭州西湖双峰插云",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区灵隐路",
+    "transport": "公交7路",
+    "fee": "免费",
+    "description": "西湖十景之一，以南高峰和北高峰闻名。",
+    "official_url": "",
+    "highlights": [
+      "南北高峰",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖双峰插云"
+  },
+  {
+    "name": "杭州西湖平湖秋月",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区白堤西端",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，秋季赏月的好去处。",
+    "official_url": "",
+    "highlights": [
+      "赏月",
+      "秋季",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖平湖秋月"
+  },
+  {
+    "name": "杭州西湖吴山天风",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "公园",
+    "address": "上城区吴山路",
+    "transport": "公交Y2路",
+    "fee": "免费",
+    "description": "西湖十景之一，位于吴山，可登高远眺西湖。",
+    "official_url": "",
+    "highlights": [
+      "吴山",
+      "登高",
+      "西湖十景",
+      "免费"
+    ],
+    "id": "杭州西湖吴山天风"
+  },
+  {
+    "name": "广州花都融创乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区花城大道",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "大型主题乐园，有游乐设施和表演。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "游乐"
+    ],
+    "id": "广州花都融创乐园"
+  },
+  {
+    "name": "广州花都融创雪世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区花城大道",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "室内滑雪场，可体验滑雪和冰雪世界。",
+    "official_url": "",
+    "highlights": [
+      "室内滑雪",
+      "冰雪"
+    ],
+    "id": "广州花都融创雪世界"
+  },
+  {
+    "name": "广州花都融创水世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "花都区花城大道",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "室内水上乐园，有各种水上项目。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "室内"
+    ],
+    "id": "广州花都融创水世界"
+  },
+  {
+    "name": "广州花都融创体育世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "体育中心",
+    "address": "花都区花城大道",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "体育娱乐综合体，有篮球、足球、卡丁车等项目。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "卡丁车"
+    ],
+    "id": "广州花都融创体育世界"
+  },
+  {
+    "name": "广州从化流溪河国家森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "从化区良口镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "有森林、湖泊、瀑布的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "湖泊",
+      "瀑布"
+    ],
+    "id": "广州从化流溪河国家森林公园"
+  },
+  {
+    "name": "广州从化碧水湾温泉",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "从化区良口镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "著名的温泉度假区，有各种温泉池。",
+    "official_url": "",
+    "highlights": [
+      "温泉",
+      "度假"
+    ],
+    "id": "广州从化碧水湾温泉"
+  },
+  {
+    "name": "广州增城正果老街",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "文化中心",
+    "address": "增城区正果镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "有古建筑和美食的老街，适合游玩和品尝。",
+    "official_url": "",
+    "highlights": [
+      "老街",
+      "美食",
+      "免费"
+    ],
+    "id": "广州增城正果老街"
+  },
+  {
+    "name": "上海世纪公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区锦绣路1001号",
+    "transport": "地铁2号线世纪公园站",
+    "fee": "免费",
+    "description": "上海大型城市公园，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "上海世纪公园"
+  },
+  {
+    "name": "上海陆家嘴中心绿地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区陆家嘴环路",
+    "transport": "地铁2号线陆家嘴站",
+    "fee": "免费",
+    "description": "陆家嘴金融中心的绿地，有草坪和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "绿地",
+      "城市景观",
+      "免费"
+    ],
+    "id": "上海陆家嘴中心绿地"
+  },
+  {
+    "name": "上海滨江森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区高桥镇",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "位于长江口的森林公园，有森林和江景。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "江景",
+      "免费"
+    ],
+    "id": "上海滨江森林公园"
+  },
+  {
+    "name": "上海南汇嘴观海公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区南汇新城",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "位于东海之滨的公园，可观赏大海和日出。",
+    "official_url": "",
+    "highlights": [
+      "观海",
+      "日出",
+      "免费"
+    ],
+    "id": "上海南汇嘴观海公园"
+  },
+  {
+    "name": "上海滴水湖",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "浦东新区南汇新城",
+    "transport": "地铁16号线滴水湖站",
+    "fee": "免费",
+    "description": "大型人工湖，有湖景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "休闲",
+      "免费"
+    ],
+    "id": "上海滴水湖"
+  },
+  {
+    "name": "上海临港新城",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区南汇新城",
+    "transport": "地铁16号线滴水湖站",
+    "fee": "免费",
+    "description": "上海的新兴城区，有现代化建筑和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "现代化",
+      "城市景观",
+      "免费"
+    ],
+    "id": "上海临港新城"
+  },
+  {
+    "name": "上海海洋大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "文化中心",
+    "address": "浦东新区沪城环路",
+    "transport": "地铁16号线临港大道站",
+    "fee": "免费",
+    "description": "上海海洋大学临港校区，有海洋博物馆和校园风光。",
+    "official_url": "",
+    "highlights": [
+      "海洋大学",
+      "博物馆"
+    ],
+    "id": "上海海洋大学"
+  },
+  {
+    "name": "上海上海大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "文化中心",
+    "address": "宝山区上大路",
+    "transport": "地铁7号线上海大学站",
+    "fee": "免费",
+    "description": "上海大学宝山校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海上海大学"
+  },
+  {
+    "name": "上海同济大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "文化中心",
+    "address": "杨浦区四平路",
+    "transport": "地铁10号线同济大学站",
+    "fee": "免费",
+    "description": "同济大学四平路校区，有樱花和校园风光。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "樱花",
+      "校园"
+    ],
+    "id": "上海同济大学"
+  },
+  {
+    "name": "上海复旦大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "文化中心",
+    "address": "杨浦区邯郸路",
+    "transport": "地铁10号线国权路站",
+    "fee": "免费",
+    "description": "复旦大学邯郸校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海复旦大学"
+  },
+  {
+    "name": "上海交通大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "文化中心",
+    "address": "徐汇区华山路",
+    "transport": "地铁10号线交通大学站",
+    "fee": "免费",
+    "description": "上海交通大学徐汇校区，有历史建筑和校园风光。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "历史建筑",
+      "校园"
+    ],
+    "id": "上海交通大学"
+  },
+  {
+    "name": "上海华东师范大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "文化中心",
+    "address": "闵行区东川路",
+    "transport": "地铁5号线东川路站",
+    "fee": "免费",
+    "description": "华东师范大学闵行校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海华东师范大学"
+  },
+  {
+    "name": "上海华东理工大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "文化中心",
+    "address": "徐汇区梅陇路",
+    "transport": "地铁15号线华东理工大学站",
+    "fee": "免费",
+    "description": "华东理工大学徐汇校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海华东理工大学"
+  },
+  {
+    "name": "上海上海师范大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "文化中心",
+    "address": "徐汇区桂林路",
+    "transport": "地铁9号线桂林路站",
+    "fee": "免费",
+    "description": "上海师范大学徐汇校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海上海师范大学"
+  },
+  {
+    "name": "上海上海理工大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "文化中心",
+    "address": "杨浦区军工路",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "上海理工大学军工路校区，有历史建筑和校园风光。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "历史建筑",
+      "校园"
+    ],
+    "id": "上海上海理工大学"
+  },
+  {
+    "name": "上海东华大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "文化中心",
+    "address": "松江区人民北路",
+    "transport": "地铁9号线松江大学城站",
+    "fee": "免费",
+    "description": "东华大学松江校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海东华大学"
+  },
+  {
+    "name": "上海上海工程技术大学",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "文化中心",
+    "address": "松江区龙腾路",
+    "transport": "地铁9号线松江大学城站",
+    "fee": "免费",
+    "description": "上海工程技术大学松江校区，有校园风光和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "大学",
+      "校园",
+      "文化"
+    ],
+    "id": "上海上海工程技术大学"
+  },
+  {
+    "name": "杭州运河文化广场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区金华路",
+    "transport": "地铁5号线大运河站",
+    "fee": "免费",
+    "description": "运河边的文化广场，有博物馆和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "运河",
+      "文化",
+      "免费"
+    ],
+    "id": "杭州运河文化广场"
+  },
+  {
+    "name": "杭州运河夜游",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区运河",
+    "transport": "地铁5号线大运河站",
+    "fee": "收费",
+    "description": "运河夜游，可观赏运河两岸夜景。",
+    "official_url": "",
+    "highlights": [
+      "夜游",
+      "运河",
+      "夜景"
+    ],
+    "id": "杭州运河夜游"
+  },
+  {
+    "name": "杭州运河游船",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "文化中心",
+    "address": "拱墅区运河",
+    "transport": "地铁5号线大运河站",
+    "fee": "收费",
+    "description": "运河游船，可游览运河两岸风光。",
+    "official_url": "",
+    "highlights": [
+      "游船",
+      "运河"
+    ],
+    "id": "杭州运河游船"
+  },
+  {
+    "name": "杭州西溪湿地摇橹船",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "西湖区西溪湿地",
+    "transport": "地铁3号线西溪湿地南站",
+    "fee": "收费",
+    "description": "西溪湿地摇橹船，可体验湿地风光。",
+    "official_url": "",
+    "highlights": [
+      "摇橹船",
+      "湿地"
+    ],
+    "id": "杭州西溪湿地摇橹船"
+  },
+  {
+    "name": "杭州西溪湿地龙舟赛",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化中心",
+    "address": "西湖区西溪湿地",
+    "transport": "地铁3号线西溪湿地南站",
+    "fee": "免费",
+    "description": "西溪湿地龙舟赛，每年端午节举办。",
+    "official_url": "",
+    "highlights": [
+      "龙舟赛",
+      "端午节",
+      "免费"
+    ],
+    "id": "杭州西溪湿地龙舟赛"
+  },
+  {
+    "name": "杭州西溪湿地植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "科普馆",
+    "address": "西湖区西溪湿地",
+    "transport": "地铁3号线西溪湿地南站",
+    "fee": "免费",
+    "description": "西溪湿地内的植物园，展示各种湿地植物。",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "湿地植物",
+      "免费"
+    ],
+    "id": "杭州西溪湿地植物园"
+  },
+  {
+    "name": "杭州西溪湿地博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区西溪湿地",
+    "transport": "地铁3号线西溪湿地南站",
+    "fee": "免费",
+    "description": "展示西溪湿地历史和生态的博物馆。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "湿地",
+      "免费"
+    ],
+    "id": "杭州西溪湿地博物馆"
+  },
+  {
+    "name": "杭州湘湖游船",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "公园",
+    "address": "萧山区湘湖",
+    "transport": "地铁1号线湘湖站",
+    "fee": "收费",
+    "description": "湘湖游船，可游览湘湖风光。",
+    "official_url": "",
+    "highlights": [
+      "游船",
+      "湘湖"
+    ],
+    "id": "杭州湘湖游船"
+  },
+  {
+    "name": "杭州湘湖音乐喷泉",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "文化中心",
+    "address": "萧山区湘湖",
+    "transport": "地铁1号线湘湖站",
+    "fee": "免费",
+    "description": "湘湖的音乐喷泉，有灯光和音乐表演。",
+    "official_url": "",
+    "highlights": [
+      "音乐喷泉",
+      "灯光",
+      "免费"
+    ],
+    "id": "杭州湘湖音乐喷泉"
+  },
+  {
+    "name": "杭州极地海洋世界海豚表演",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "科普馆",
+    "address": "萧山区湘湖路",
+    "transport": "地铁1号线湘湖站",
+    "fee": "收费",
+    "description": "极地海洋世界的海豚表演，精彩有趣。",
+    "official_url": "",
+    "highlights": [
+      "海豚表演",
+      "精彩"
+    ],
+    "id": "杭州极地海洋世界海豚表演"
+  },
+  {
+    "name": "杭州极地海洋世界白鲸表演",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "科普馆",
+    "address": "萧山区湘湖路",
+    "transport": "地铁1号线湘湖站",
+    "fee": "收费",
+    "description": "极地海洋世界的白鲸表演，温馨感人。",
+    "official_url": "",
+    "highlights": [
+      "白鲸表演",
+      "温馨"
+    ],
+    "id": "杭州极地海洋世界白鲸表演"
+  },
+  {
+    "name": "杭州奥体中心体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育中心",
+    "address": "滨江区江南大道",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "杭州奥体中心的主体育场，举办大型体育赛事和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "演唱会"
+    ],
+    "id": "杭州奥体中心体育场"
+  },
+  {
+    "name": "杭州奥体中心游泳馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育中心",
+    "address": "滨江区江南大道",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "杭州奥体中心的游泳馆，有游泳比赛和培训。",
+    "official_url": "",
+    "highlights": [
+      "游泳",
+      "比赛"
+    ],
+    "id": "杭州奥体中心游泳馆"
+  },
+  {
+    "name": "杭州奥体中心网球中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育中心",
+    "address": "滨江区江南大道",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "杭州奥体中心的网球中心，举办网球比赛和培训。",
+    "official_url": "",
+    "highlights": [
+      "网球",
+      "比赛"
+    ],
+    "id": "杭州奥体中心网球中心"
+  },
+  {
+    "name": "杭州梦想小镇创业大街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "余杭区文一西路",
+    "transport": "地铁5号线良睦路站",
+    "fee": "免费",
+    "description": "梦想小镇的创业大街，有创业咖啡馆和展示中心。",
+    "official_url": "",
+    "highlights": [
+      "创业",
+      "咖啡馆",
+      "免费"
+    ],
+    "id": "杭州梦想小镇创业大街"
+  },
+  {
+    "name": "杭州未来科技城梦想小镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "余杭区文一西路",
+    "transport": "地铁5号线良睦路站",
+    "fee": "免费",
+    "description": "未来科技城的梦想小镇，有创业孵化和文化设施。",
+    "official_url": "",
+    "highlights": [
+      "创业",
+      "科技",
+      "免费"
+    ],
+    "id": "杭州未来科技城梦想小镇"
+  },
+  {
+    "name": "杭州未来科技城学术交流中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "会展中心",
+    "address": "余杭区文一西路",
+    "transport": "地铁5号线良睦路站",
+    "fee": "收费",
+    "description": "未来科技城的学术交流中心，举办学术会议和展览。",
+    "official_url": "",
+    "highlights": [
+      "学术会议",
+      "展览"
+    ],
+    "id": "杭州未来科技城学术交流中心"
+  },
+  {
+    "name": "杭州未来科技城海创园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "余杭区文一西路",
+    "transport": "地铁5号线良睦路站",
+    "fee": "免费",
+    "description": "未来科技城的海创园，有创业孵化和科技展示。",
+    "official_url": "",
+    "highlights": [
+      "创业",
+      "科技",
+      "免费"
+    ],
+    "id": "杭州未来科技城海创园"
+  },
+  {
+    "name": "杭州未来科技城人才公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "公园",
+    "address": "余杭区文一西路",
+    "transport": "地铁5号线良睦路站",
+    "fee": "免费",
+    "description": "未来科技城的人才公园，有休闲设施和景观。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "休闲",
+      "免费"
+    ],
+    "id": "杭州未来科技城人才公园"
+  },
+  {
+    "name": "杭州临平新城体育公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "公园",
+    "address": "临平区",
+    "transport": "地铁9号线临平站",
+    "fee": "免费",
+    "description": "临平新城的体育公园，有运动设施和休闲空间。",
+    "official_url": "",
+    "highlights": [
+      "体育",
+      "休闲",
+      "免费"
+    ],
+    "id": "杭州临平新城体育公园"
+  },
+  {
+    "name": "杭州临平新城文化艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "文化中心",
+    "address": "临平区",
+    "transport": "地铁9号线临平站",
+    "fee": "免费",
+    "description": "临平新城的文化艺术中心，有展览和演出。",
+    "official_url": "",
+    "highlights": [
+      "文化艺术",
+      "展览",
+      "免费"
+    ],
+    "id": "杭州临平新城文化艺术中心"
+  },
+  {
+    "name": "杭州临平新城市民广场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "文化中心",
+    "address": "临平区",
+    "transport": "地铁9号线临平站",
+    "fee": "免费",
+    "description": "临平新城的市民广场，有休闲设施和城市景观。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "休闲",
+      "免费"
+    ],
+    "id": "杭州临平新城市民广场"
+  },
+  {
+    "name": "杭州九堡大桥公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "公园",
+    "address": "江干区九堡大桥",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "九堡大桥附近的公园，有江景和休闲设施。",
+    "official_url": "",
+    "highlights": [
+      "江景",
+      "休闲",
+      "免费"
+    ],
+    "id": "杭州九堡大桥公园"
+  },
+  {
+    "name": "杭州钱江新城灯光秀",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化中心",
+    "address": "江干区钱江新城",
+    "transport": "地铁4号线市民中心站",
+    "fee": "免费",
+    "description": "钱江新城的灯光秀，每晚有灯光表演。",
+    "official_url": "",
+    "highlights": [
+      "灯光秀",
+      "夜景",
+      "免费"
+    ],
+    "id": "杭州钱江新城灯光秀"
+  },
+  {
+    "name": "杭州城市阳台灯光秀",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "文化中心",
+    "address": "江干区城市阳台",
+    "transport": "地铁4号线市民中心站",
+    "fee": "免费",
+    "description": "城市阳台的灯光秀，可观赏钱江新城夜景。",
+    "official_url": "",
+    "highlights": [
+      "灯光秀",
+      "夜景",
+      "免费"
+    ],
+    "id": "杭州城市阳台灯光秀"
+  },
+  {
+    "name": "杭州大剧院歌剧厅",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出场馆",
+    "address": "江干区新业路",
+    "transport": "地铁4号线市民中心站",
+    "fee": "收费",
+    "description": "杭州大剧院的歌剧厅，举办歌剧和音乐会。",
+    "official_url": "",
+    "highlights": [
+      "歌剧",
+      "音乐会"
+    ],
+    "id": "杭州大剧院歌剧厅"
+  },
+  {
+    "name": "杭州大剧院音乐厅",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出场馆",
+    "address": "江干区新业路",
+    "transport": "地铁4号线市民中心站",
+    "fee": "收费",
+    "description": "杭州大剧院的音乐厅，举办交响乐和室内乐音乐会。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "室内乐"
+    ],
+    "id": "杭州大剧院音乐厅"
+  },
+  {
+    "name": "杭州国际会议中心大剧场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出场馆",
+    "address": "江干区新业路",
+    "transport": "地铁4号线市民中心站",
+    "fee": "收费",
+    "description": "杭州国际会议中心的大剧场，举办大型演出和会议。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "会议"
+    ],
+    "id": "杭州国际会议中心大剧场"
+  },
+  {
+    "name": "杭州奥体博览城网球中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育中心",
+    "address": "滨江区江南大道",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "奥体博览城的网球中心，举办网球比赛和培训。",
+    "official_url": "",
+    "highlights": [
+      "网球",
+      "比赛"
+    ],
+    "id": "杭州奥体博览城网球中心"
+  },
+  {
+    "name": "杭州奥体博览城游泳馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育中心",
+    "address": "滨江区江南大道",
+    "transport": "地铁6号线奥体中心站",
+    "fee": "收费",
+    "description": "奥体博览城的游泳馆，有游泳比赛和培训。",
+    "official_url": "",
+    "highlights": [
+      "游泳",
+      "比赛"
+    ],
+    "id": "杭州奥体博览城游泳馆"
+  },
+  {
+    "name": "杭州白马湖国际会展中心展览厅",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "会展中心",
+    "address": "滨江区长江南路",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "白马湖国际会展中心的展览厅，举办各种展览。",
+    "official_url": "",
+    "highlights": [
+      "展览",
+      "会展"
+    ],
+    "id": "杭州白马湖国际会展中心展览厅"
+  },
+  {
+    "name": "杭州之江文化中心图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "图书馆",
+    "address": "西湖区之江路",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "之江文化中心的图书馆，有丰富的馆藏和阅读空间。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "阅读",
+      "免费"
+    ],
+    "id": "杭州之江文化中心图书馆"
+  },
+  {
+    "name": "杭州之江文化中心博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区之江路",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "之江文化中心的博物馆，展示各种文物和艺术品。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "文物",
+      "免费"
+    ],
+    "id": "杭州之江文化中心博物馆"
+  },
+  {
+    "name": "杭州之江文化中心美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "美术馆",
+    "address": "西湖区之江路",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "之江文化中心的美术馆，展示各种美术作品。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "美术作品",
+      "免费"
+    ],
+    "id": "杭州之江文化中心美术馆"
+  },
+  {
+    "name": "杭州之江文化中心科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "科技馆",
+    "address": "西湖区之江路",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "之江文化中心的科技馆，有互动体验和科普展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "互动体验",
+      "免费"
+    ],
+    "id": "杭州之江文化中心科技馆"
+  },
+  {
+    "name": "杭州文学馆展览厅",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "西湖区",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "杭州文学馆的展览厅，展示杭州文学历史和作品。",
+    "official_url": "",
+    "highlights": [
+      "文学",
+      "展览",
+      "免费"
+    ],
+    "id": "杭州文学馆展览厅"
+  },
+  {
+    "name": "杭州文学馆阅读室",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "图书馆",
+    "address": "西湖区",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "杭州文学馆的阅读室，有丰富的文学书籍和阅读空间。",
+    "official_url": "",
+    "highlights": [
+      "阅读",
+      "文学",
+      "免费"
+    ],
+    "id": "杭州文学馆阅读室"
+  },
+  {
+    "name": "北京延庆奥林匹克园区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "体育中心",
+    "address": "延庆区",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "2022年冬奥会举办地，有滑雪和冰雪项目。",
+    "official_url": "",
+    "highlights": [
+      "冬奥会",
+      "滑雪",
+      "冰雪"
+    ],
+    "id": "北京延庆奥林匹克园区"
+  },
+  {
+    "name": "北京世园公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "公园",
+    "address": "延庆区",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "2019年世界园艺博览会举办地，有各种花卉和景观。",
+    "official_url": "",
+    "highlights": [
+      "园艺",
+      "花卉",
+      "景观"
+    ],
+    "id": "北京世园公园"
+  },
+  {
+    "name": "北京八达岭国家森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "公园",
+    "address": "延庆区八达岭",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "位于八达岭长城附近的森林公园，有森林和自然景观。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "长城",
+      "自然"
+    ],
+    "id": "北京八达岭国家森林公园"
+  },
+  {
+    "name": "北京野鸭湖国家湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "公园",
+    "address": "延庆区康庄镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "大型湿地公园，有湿地景观和候鸟栖息地。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "候鸟",
+      "自然"
+    ],
+    "id": "北京野鸭湖国家湿地公园"
+  },
+  {
+    "name": "北京龙庆峡景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "公园",
+    "address": "延庆区龙庆峡",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有峡谷、瀑布和湖景的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "峡谷",
+      "瀑布",
+      "湖景"
+    ],
+    "id": "北京龙庆峡景区"
+  },
+  {
+    "name": "北京云居寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "文化中心",
+    "address": "房山区张坊镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有千年古刹和石经的佛教寺庙。",
+    "official_url": "",
+    "highlights": [
+      "古刹",
+      "石经",
+      "佛教"
+    ],
+    "id": "北京云居寺"
+  },
+  {
+    "name": "北京十渡景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区十渡镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有山、水、峡谷的自然景区，适合户外和漂流。",
+    "official_url": "",
+    "highlights": [
+      "山水",
+      "峡谷",
+      "漂流"
+    ],
+    "id": "北京十渡景区"
+  },
+  {
+    "name": "北京房山世界地质公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "世界地质公园，展示各种地质景观和化石。",
+    "official_url": "",
+    "highlights": [
+      "地质公园",
+      "化石",
+      "自然"
+    ],
+    "id": "北京房山世界地质公园"
+  },
+  {
+    "name": "北京上方山国家森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区韩村河镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有森林、溶洞和寺庙的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "溶洞",
+      "寺庙"
+    ],
+    "id": "北京上方山国家森林公园"
+  },
+  {
+    "name": "北京石花洞景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区河北镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "大型溶洞景区，展示各种钟乳石和石笋。",
+    "official_url": "",
+    "highlights": [
+      "溶洞",
+      "钟乳石",
+      "石笋"
+    ],
+    "id": "北京石花洞景区"
+  },
+  {
+    "name": "北京银狐洞景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区佛子庄乡",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有银狐形状钟乳石的溶洞景区。",
+    "official_url": "",
+    "highlights": [
+      "溶洞",
+      "银狐",
+      "钟乳石"
+    ],
+    "id": "北京银狐洞景区"
+  },
+  {
+    "name": "北京百花山景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区百花山镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有高山、草甸、森林的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "高山",
+      "草甸",
+      "森林"
+    ],
+    "id": "北京百花山景区"
+  },
+  {
+    "name": "北京圣莲山景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区史家营乡",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有山景和寺庙的自然景区，适合登山和祈福。",
+    "official_url": "",
+    "highlights": [
+      "山景",
+      "寺庙",
+      "登山"
+    ],
+    "id": "北京圣莲山景区"
+  },
+  {
+    "name": "北京青龙湖公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区青龙湖镇",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有湖景和休闲设施的公园，适合划船和露营。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "划船",
+      "露营"
+    ],
+    "id": "北京青龙湖公园"
+  },
+  {
+    "name": "北京蒲洼乡花台景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区蒲洼乡",
+    "transport": "公交",
+    "fee": "免费",
+    "description": "有高山草甸和花海的自然景区。",
+    "official_url": "",
+    "highlights": [
+      "草甸",
+      "花海",
+      "免费"
+    ],
+    "id": "北京蒲洼乡花台景区"
+  },
+  {
+    "name": "北京霞云岭国家森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "房山区霞云岭乡",
+    "transport": "公交",
+    "fee": "收费",
+    "description": "有森林和自然景观的景区，适合徒步和露营。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "徒步",
+      "露营"
+    ],
+    "id": "北京霞云岭国家森林公园"
+  },
+  {
+    "name": "光明区马田街道综合性文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区马田街道综合性文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "name": "龙城街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙城街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "龙城街道文化站"
+  },
+  {
+    "name": "光明区公明街道综合性文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区公明街道综合性文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "光明区公明街道综合性文化服务中心"
+  },
+  {
+    "name": "横岗街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳横岗街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "横岗街道文化站"
+  },
+  {
+    "name": "宝安区文化馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ],
+    "id": "宝安区文化馆"
+  },
+  {
+    "name": "宝安区文化馆新桥街道分馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆新桥街道分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ],
+    "id": "宝安区文化馆新桥街道分馆"
+  },
+  {
+    "name": "宝安区文化馆燕罗街道分馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆燕罗街道分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ],
+    "id": "宝安区文化馆燕罗街道分馆"
+  },
+  {
+    "name": "坂田街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坂田街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "坂田街道文化站"
+  },
+  {
+    "name": "大鹏办事处公共事业服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏办事处公共事业服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "name": "马峦社区公共文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳马峦社区公共文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "马峦社区公共文化服务中心"
+  },
+  {
+    "name": "福田梦工场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田梦工场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "福田梦工场"
+  },
+  {
+    "name": "白花社区综合性文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳白花社区综合性文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "白花社区综合性文化服务中心"
+  },
+  {
+    "name": "桂园街道综合文体中心(桂园街道分馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳桂园街道综合文体中心(桂园街道分馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "桂园街道综合文体中心(桂园街道分馆）"
+  },
+  {
+    "name": "中轴云廊·顶上空间",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳中轴云廊·顶上空间，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "中轴云廊·顶上空间"
+  },
+  {
+    "name": "光明区光明街道综合性文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区光明街道综合性文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "光明区光明街道综合性文化服务中心"
+  },
+  {
+    "name": "龙岗街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "龙岗街道文化站"
+  },
+  {
+    "name": "福田戏剧馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田戏剧馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "福田戏剧馆"
+  },
+  {
+    "name": "福田音乐馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田音乐馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "福田音乐馆"
+  },
+  {
+    "name": "园山街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳园山街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ],
+    "id": "园山街道文化站"
+  },
+  {
+    "name": "成都博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "青羊区小河街1号",
+    "transport": "地铁1/2号线天府广场站",
+    "fee": "免费需预约",
+    "description": "成都市中心综合性博物馆，展示成都历史文化，常设花重锦官城等展览。",
+    "official_url": "",
+    "highlights": [
+      "成都历史",
+      "常设展览",
+      "免费"
+    ],
+    "id": "成都博物馆"
+  },
+  {
+    "name": "四川科技馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "科技馆",
+    "address": "青羊区人民中路一段16号",
+    "transport": "地铁1/2号线天府广场站",
+    "fee": "免费需预约",
+    "description": "四川省大型科普场馆，有航天、机械、机器人等互动展区，适合亲子科普。",
+    "official_url": "",
+    "highlights": [
+      "科普互动",
+      "航天展区",
+      "亲子"
+    ],
+    "id": "四川科技馆"
+  },
+  {
+    "name": "四川博物院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "青羊区浣花南路251号",
+    "transport": "地铁5号线青羊宫站",
+    "fee": "免费需预约",
+    "description": "西南地区最大的综合性博物馆，馆藏丰富，有青铜器、陶瓷、书画等展厅。",
+    "official_url": "",
+    "highlights": [
+      "青铜器",
+      "书画",
+      "免费"
+    ],
+    "id": "四川博物院"
+  },
+  {
+    "name": "成都金沙遗址博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "青羊区金沙遗址路2号",
+    "transport": "地铁7号线金沙遗址博物馆站",
+    "fee": "收费",
+    "description": "展示古蜀金沙文明，太阳神鸟金饰为国宝级文物，遗址原址展示震撼。",
+    "official_url": "",
+    "highlights": [
+      "太阳神鸟",
+      "古蜀文明",
+      "遗址"
+    ],
+    "id": "成都金沙遗址博物馆"
+  },
+  {
+    "name": "成都武侯祠博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "博物馆",
+    "address": "武侯区武侯祠大街231号",
+    "transport": "地铁3号线高升桥站",
+    "fee": "收费",
+    "description": "纪念诸葛亮的祠堂，与刘备惠陵相邻，三国文化圣地，锦里古街相邻。",
+    "official_url": "",
+    "highlights": [
+      "三国文化",
+      "诸葛亮",
+      "刘备惠陵"
+    ],
+    "id": "成都武侯祠博物馆"
+  },
+  {
+    "name": "成都杜甫草堂博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "青羊区青华路37号",
+    "transport": "地铁4号线草堂北路站",
+    "fee": "收费",
+    "description": "唐代诗人杜甫流寓成都时的故居，园林清幽，诗史堂展示杜甫生平。",
+    "official_url": "",
+    "highlights": [
+      "杜甫",
+      "唐代诗人",
+      "园林"
+    ],
+    "id": "成都杜甫草堂博物馆"
+  },
+  {
+    "name": "成都永陵博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "博物馆",
+    "address": "金牛区永陵路10号",
+    "transport": "公交42路",
+    "fee": "免费",
+    "description": "五代十国前蜀王建陵墓，地宫石刻精美，是重要的五代考古遗址。",
+    "official_url": "",
+    "highlights": [
+      "前蜀王建",
+      "地宫石刻",
+      "考古遗址"
+    ],
+    "id": "成都永陵博物馆"
+  },
+  {
+    "name": "成都川剧艺术博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "锦江区华兴正街54号",
+    "transport": "地铁3号线市二医院站",
+    "fee": "免费",
+    "description": "展示川剧艺术历史，有脸谱、戏服、道具等展品，可体验川剧文化。",
+    "official_url": "",
+    "highlights": [
+      "川剧",
+      "脸谱",
+      "戏曲"
+    ],
+    "id": "成都川剧艺术博物馆"
+  },
+  {
+    "name": "成都皮影艺术博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "锦江区水井坊街区",
+    "transport": "地铁2号线东门大桥站",
+    "fee": "免费",
+    "description": "展示成都皮影戏艺术，收藏各地皮影作品，可观看皮影表演。",
+    "official_url": "",
+    "highlights": [
+      "皮影戏",
+      "民间艺术",
+      "非遗"
+    ],
+    "id": "成都皮影艺术博物馆"
+  },
+  {
+    "name": "成都蜀锦织绣博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "青羊区草堂东路2号",
+    "transport": "地铁4号线草堂北路站",
+    "fee": "免费",
+    "description": "展示蜀锦织绣历史与工艺，可观看非遗传承人现场织锦，购买蜀锦文创。",
+    "official_url": "",
+    "highlights": [
+      "蜀锦",
+      "非遗",
+      "织绣工艺"
+    ],
+    "id": "成都蜀锦织绣博物馆"
+  },
+  {
+    "name": "成都理工大学博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "博物馆",
+    "address": "成华区二仙桥东三路1号",
+    "transport": "地铁7号线理工大学站",
+    "fee": "收费",
+    "description": "以恐龙化石和古生物标本闻名，有亚洲最大合川马门溪龙化石。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "古生物",
+      "矿物"
+    ],
+    "id": "成都理工大学博物馆"
+  },
+  {
+    "name": "成都市生命奥秘博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "青羊区天府广场负一层",
+    "transport": "地铁1/2号线天府广场站",
+    "fee": "收费",
+    "description": "展示人体和动物塑化标本，了解生命奥秘，科普教育性强。",
+    "official_url": "",
+    "highlights": [
+      "塑化标本",
+      "生命科学",
+      "科普"
+    ],
+    "id": "成都市生命奥秘博物馆"
+  },
+  {
+    "name": "成都华希昆虫博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "博物馆",
+    "address": "都江堰市青城山游客中心",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "中国最大的昆虫博物馆，收藏大量蝴蝶和昆虫标本，被誉为亚洲最大。",
+    "official_url": "",
+    "highlights": [
+      "蝴蝶标本",
+      "昆虫",
+      "亚洲最大"
+    ],
+    "id": "成都华希昆虫博物馆"
+  },
+  {
+    "name": "四川建川博物馆聚落",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "大邑县",
+    "type": "博物馆",
+    "address": "大邑县安仁镇迎宾路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "中国最大民间博物馆聚落，包含抗战、民俗、地震等多个主题分馆。",
+    "official_url": "",
+    "highlights": [
+      "抗战",
+      "民俗",
+      "民间博物馆"
+    ],
+    "id": "四川建川博物馆聚落"
+  },
+  {
+    "name": "成都水井坊博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "锦江区水井街19号",
+    "transport": "地铁2号线东门大桥站",
+    "fee": "收费",
+    "description": "展示中国白酒第一坊水井坊遗址，可了解传统酿酒工艺和白酒文化。",
+    "official_url": "",
+    "highlights": [
+      "白酒遗址",
+      "酿酒工艺",
+      "非遗"
+    ],
+    "id": "成都水井坊博物馆"
+  },
+  {
+    "name": "许燎源现代设计艺术博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "美术馆",
+    "address": "锦江区三圣花乡红砂村",
+    "transport": "公交56路",
+    "fee": "收费",
+    "description": "展示现代设计与当代艺术，有雕塑、装置艺术等，艺术氛围浓厚。",
+    "official_url": "",
+    "highlights": [
+      "现代设计",
+      "当代艺术",
+      "装置艺术"
+    ],
+    "id": "许燎源现代设计艺术博物馆"
+  },
+  {
+    "name": "成都知美术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新津区",
+    "type": "美术馆",
+    "address": "新津区君山路1号",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "由隈研吾设计的当代美术馆，建筑与自然融合，举办当代艺术展览。",
+    "official_url": "",
+    "highlights": [
+      "隈研吾设计",
+      "当代艺术",
+      "建筑美学"
+    ],
+    "id": "成都知美术馆"
+  },
+  {
+    "name": "四川美术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "美术馆",
+    "address": "青羊区东城根街6号",
+    "transport": "地铁2号线人民公园站",
+    "fee": "免费",
+    "description": "四川省省级美术馆，展示四川版画、国画等美术作品，常设与临时展览丰富。",
+    "official_url": "",
+    "highlights": [
+      "版画",
+      "国画",
+      "免费"
+    ],
+    "id": "四川美术馆"
+  },
+  {
+    "name": "成都当代美术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "美术馆",
+    "address": "高新区天府大道天府软件园C1楼",
+    "transport": "地铁1号线世纪城站",
+    "fee": "免费",
+    "description": "专注于当代艺术展览，展示国内外当代艺术家的先锋作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "先锋展览",
+      "免费"
+    ],
+    "id": "成都当代美术馆"
+  },
+  {
+    "name": "刘氏庄园博物馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "大邑县",
+    "type": "博物馆",
+    "address": "大邑县安仁镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "中国近现代社会历史重要遗址，展示川西地主庄园建筑和近代社会历史。",
+    "official_url": "",
+    "highlights": [
+      "地主庄园",
+      "近代历史",
+      "川西建筑"
+    ],
+    "id": "刘氏庄园博物馆"
+  },
+  {
+    "name": "人民公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "青羊区少城路12号",
+    "transport": "地铁2号线人民公园站",
+    "fee": "免费",
+    "description": "成都历史最悠久的城市公园，鹤鸣茶社体验成都悠闲茶文化，有相亲角。",
+    "official_url": "",
+    "highlights": [
+      "鹤鸣茶社",
+      "茶文化",
+      "免费"
+    ],
+    "id": "人民公园"
+  },
+  {
+    "name": "浣花溪公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "青羊区青华路9号",
+    "transport": "地铁4号线草堂北路站",
+    "fee": "免费",
+    "description": "成都最大的开放式城市森林公园，与杜甫草堂相邻，白鹭洲观鸟胜地。",
+    "official_url": "",
+    "highlights": [
+      "白鹭洲",
+      "森林公园",
+      "免费"
+    ],
+    "id": "浣花溪公园"
+  },
+  {
+    "name": "成都大熊猫繁育研究基地",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "公园",
+    "address": "成华区熊猫大道1375号",
+    "transport": "地铁3号线熊猫大道站",
+    "fee": "收费",
+    "description": "世界著名的大熊猫保护研究基地，可近距离观赏大熊猫和熊猫幼崽。",
+    "official_url": "",
+    "highlights": [
+      "大熊猫",
+      "熊猫幼崽",
+      "国宝"
+    ],
+    "id": "成都大熊猫繁育研究基地"
+  },
+  {
+    "name": "成都动物园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "公园",
+    "address": "成华区昭觉寺南路234号",
+    "transport": "地铁3号线动物园站",
+    "fee": "收费",
+    "description": "四川省最大的动物园，饲养各类珍稀动物，适合亲子游玩和科普教育。",
+    "official_url": "",
+    "highlights": [
+      "珍稀动物",
+      "亲子",
+      "科普"
+    ],
+    "id": "成都动物园"
+  },
+  {
+    "name": "成都植物园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "公园",
+    "address": "新都区蓉都大道天回路1116号",
+    "transport": "地铁3号线植物园站",
+    "fee": "收费",
+    "description": "收集保存四川及国内外植物，有芙蓉园、梅花园等专类园，春季赏花胜地。",
+    "official_url": "",
+    "highlights": [
+      "芙蓉园",
+      "赏花",
+      "植物科普"
+    ],
+    "id": "成都植物园"
+  },
+  {
+    "name": "白鹭湾湿地公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "公园",
+    "address": "锦江区三圣花乡白鹭湾",
+    "transport": "公交186路",
+    "fee": "免费",
+    "description": "成都首个国家城市湿地公园，有湖泊、芦苇荡、白鹭栖息，骑行徒步好去处。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "白鹭",
+      "骑行",
+      "免费"
+    ],
+    "id": "白鹭湾湿地公园"
+  },
+  {
+    "name": "望江楼公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "公园",
+    "address": "武侯区望江路30号",
+    "transport": "地铁6号线三官堂站",
+    "fee": "部分免费",
+    "description": "纪念唐代女诗人薛涛的园林，竹林众多，崇丽阁为成都标志性建筑。",
+    "official_url": "",
+    "highlights": [
+      "薛涛",
+      "竹林",
+      "崇丽阁"
+    ],
+    "id": "望江楼公园"
+  },
+  {
+    "name": "百花潭公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "青羊区一环路西一段175号",
+    "transport": "地铁5号线青羊宫站",
+    "fee": "免费",
+    "description": "以盆景和兰花闻名的古典园林，慧园展示巴金故居场景，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "盆景",
+      "兰花",
+      "古典园林",
+      "免费"
+    ],
+    "id": "百花潭公园"
+  },
+  {
+    "name": "塔子山公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "公园",
+    "address": "锦江区迎晖路222号",
+    "transport": "地铁7号线大观站",
+    "fee": "免费",
+    "description": "成都城区最大综合性公园，九天塔为标志性建筑，有腊梅园和野餐区。",
+    "official_url": "",
+    "highlights": [
+      "九天塔",
+      "腊梅",
+      "野餐",
+      "免费"
+    ],
+    "id": "塔子山公园"
+  },
+  {
+    "name": "青龙湖湿地公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "公园",
+    "address": "龙泉驿区成洛路",
+    "transport": "地铁4号线十陵站",
+    "fee": "免费",
+    "description": "成都环城生态区最大湖泊公园，湖面广阔，环湖绿道适合骑行和露营。",
+    "official_url": "",
+    "highlights": [
+      "湖泊",
+      "绿道",
+      "骑行",
+      "免费"
+    ],
+    "id": "青龙湖湿地公园"
+  },
+  {
+    "name": "锦城湖公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "高新区锦城大道",
+    "transport": "地铁5号线锦城大道站",
+    "fee": "免费",
+    "description": "高新南区大型湖泊公园，环湖步道适合跑步，夜景灯光秀优美。",
+    "official_url": "",
+    "highlights": [
+      "湖泊",
+      "跑步",
+      "夜景",
+      "免费"
+    ],
+    "id": "锦城湖公园"
+  },
+  {
+    "name": "桂溪生态公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "高新区天府大道北段",
+    "transport": "地铁1号线锦城广场站",
+    "fee": "免费",
+    "description": "成都中央城市森林公园，大面积草坪适合野餐和飞盘运动，亲子友好。",
+    "official_url": "",
+    "highlights": [
+      "草坪",
+      "野餐",
+      "飞盘",
+      "免费"
+    ],
+    "id": "桂溪生态公园"
+  },
+  {
+    "name": "北湖公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "公园",
+    "address": "成华区龙潭寺北湖",
+    "transport": "公交85路",
+    "fee": "免费",
+    "description": "成都北郊生态公园，湖面宽阔，有观鸟岛和环湖步道，鸟类资源丰富。",
+    "official_url": "",
+    "highlights": [
+      "观鸟",
+      "湖泊",
+      "生态",
+      "免费"
+    ],
+    "id": "北湖公园"
+  },
+  {
+    "name": "天府公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "天府新区天府大道南段",
+    "transport": "地铁1号线天府公园站",
+    "fee": "免费",
+    "description": "天府新区中央公园，山水相融，有音乐喷泉和花海，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "音乐喷泉",
+      "花海",
+      "免费"
+    ],
+    "id": "天府公园"
+  },
+  {
+    "name": "兴隆湖湿地公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "天府新区湖畔路北段",
+    "transport": "地铁1号线兴隆湖站",
+    "fee": "免费",
+    "description": "成都最大人工湖，环湖绿道10公里，可玩桨板和皮划艇，是西部热门休闲地。",
+    "official_url": "",
+    "highlights": [
+      "环湖绿道",
+      "桨板",
+      "皮划艇",
+      "免费"
+    ],
+    "id": "兴隆湖湿地公园"
+  },
+  {
+    "name": "东郊记忆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "文化中心",
+    "address": "成华区建设南路中段4号",
+    "transport": "地铁8号线东郊记忆站",
+    "fee": "免费",
+    "description": "由老工业厂房改造的文创园区，有音乐演出、艺术展览和网红打卡点。",
+    "official_url": "",
+    "highlights": [
+      "文创园",
+      "音乐演出",
+      "工业遗址",
+      "免费"
+    ],
+    "id": "东郊记忆"
+  },
+  {
+    "name": "成都三圣花乡",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "公园",
+    "address": "锦江区三圣街道",
+    "transport": "公交56路",
+    "fee": "免费",
+    "description": "成都近郊著名花乡，有花乡农居、荷塘月色等五大景区，农家乐和赏花胜地。",
+    "official_url": "",
+    "highlights": [
+      "赏花",
+      "农家乐",
+      "花乡",
+      "免费"
+    ],
+    "id": "成都三圣花乡"
+  },
+  {
+    "name": "麓湖艺展中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "文化中心",
+    "address": "天府新区天府大道南一段",
+    "transport": "地铁1号线麓湖站",
+    "fee": "部分免费",
+    "description": "湖畔艺术展览空间，建筑造型独特，有水上剧场和当代艺术展。",
+    "official_url": "",
+    "highlights": [
+      "湖畔艺术",
+      "建筑美学",
+      "水上剧场"
+    ],
+    "id": "麓湖艺展中心"
+  },
+  {
+    "name": "鹿溪河生态区",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "天府新区鹿溪河",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "天府新区生态绿廊，沿河湿地和花海，适合徒步和自然观察。",
+    "official_url": "",
+    "highlights": [
+      "生态绿廊",
+      "花海",
+      "徒步",
+      "免费"
+    ],
+    "id": "鹿溪河生态区"
+  },
+  {
+    "name": "江家艺苑",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "公园",
+    "address": "锦江区三圣街道",
+    "transport": "公交31路",
+    "fee": "免费",
+    "description": "三圣花乡艺术主题公园，有大草坪、儿童游乐设施和艺术装置。",
+    "official_url": "",
+    "highlights": [
+      "艺术装置",
+      "儿童游乐",
+      "草坪",
+      "免费"
+    ],
+    "id": "江家艺苑"
+  },
+  {
+    "name": "天府绿道",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "高新区锦城湖至青龙湖",
+    "transport": "地铁5号线锦城大道站",
+    "fee": "免费",
+    "description": "成都世界最长城市绿道，可骑行和徒步，串联多个公园和湖泊。",
+    "official_url": "",
+    "highlights": [
+      "城市绿道",
+      "骑行",
+      "徒步",
+      "免费"
+    ],
+    "id": "天府绿道"
+  },
+  {
+    "name": "神仙树公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "高新区紫瑞大道",
+    "transport": "地铁5号线神仙树站",
+    "fee": "免费",
+    "description": "高新南区社区公园，绿树成荫，有儿童游乐设施和健身步道。",
+    "official_url": "",
+    "highlights": [
+      "社区公园",
+      "健身",
+      "儿童游乐",
+      "免费"
+    ],
+    "id": "神仙树公园"
+  },
+  {
+    "name": "永康森林公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "公园",
+    "address": "武侯区永康大道",
+    "transport": "公交208路",
+    "fee": "免费",
+    "description": "武侯区森林公园，有湖泊和竹林，适合散步和周末休闲。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "湖泊",
+      "散步",
+      "免费"
+    ],
+    "id": "永康森林公园"
+  },
+  {
+    "name": "清水河公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "公园",
+    "address": "武侯区武青北路",
+    "transport": "公交83路",
+    "fee": "免费",
+    "description": "沿清水河的带状公园，有湿地和花境，适合骑行和休闲。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "花境",
+      "骑行",
+      "免费"
+    ],
+    "id": "清水河公园"
+  },
+  {
+    "name": "新华公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "公园",
+    "address": "成华区双林路338号",
+    "transport": "地铁6号线新鸿路站",
+    "fee": "免费",
+    "description": "成华区老牌城市公园，有游乐设施、湖泊和花展，适合亲子休闲。",
+    "official_url": "",
+    "highlights": [
+      "游乐设施",
+      "湖泊",
+      "亲子",
+      "免费"
+    ],
+    "id": "新华公园"
+  },
+  {
+    "name": "沙河公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "公园",
+    "address": "成华区沙河沿线",
+    "transport": "地铁7号线八里庄站",
+    "fee": "免费",
+    "description": "沿沙河的带状生态公园，绿道贯穿，适合散步和骑行。",
+    "official_url": "",
+    "highlights": [
+      "绿道",
+      "生态",
+      "骑行",
+      "免费"
+    ],
+    "id": "沙河公园"
+  },
+  {
+    "name": "天府芙蓉园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "公园",
+    "address": "武侯区水隐桥路",
+    "transport": "公交10路",
+    "fee": "免费",
+    "description": "以芙蓉花为主题的公园，秋季芙蓉花盛开，是成都市花最佳观赏地。",
+    "official_url": "",
+    "highlights": [
+      "芙蓉花",
+      "成都市花",
+      "秋季赏花",
+      "免费"
+    ],
+    "id": "天府芙蓉园"
+  },
+  {
+    "name": "涌泉公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "温江区涌泉街道",
+    "transport": "地铁17号线涌泉站",
+    "fee": "免费",
+    "description": "温江区社区公园，有湖泊和绿道，环境优美，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "湖泊",
+      "绿道",
+      "休闲",
+      "免费"
+    ],
+    "id": "涌泉公园"
+  },
+  {
+    "name": "温江公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "温江区文化路",
+    "transport": "公交W15路",
+    "fee": "免费",
+    "description": "温江区中心公园，有古树和湖泊，是市民休闲健身的好去处。",
+    "official_url": "",
+    "highlights": [
+      "古树",
+      "湖泊",
+      "健身",
+      "免费"
+    ],
+    "id": "温江公园"
+  },
+  {
+    "name": "光华公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "青羊区光华大道",
+    "transport": "地铁4号线中坝站",
+    "fee": "免费",
+    "description": "光华大道沿线大型公园，有草坪和儿童游乐设施，适合亲子活动。",
+    "official_url": "",
+    "highlights": [
+      "草坪",
+      "亲子",
+      "免费"
+    ],
+    "id": "光华公园"
+  },
+  {
+    "name": "簇锦公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "公园",
+    "address": "武侯区簇桥街道",
+    "transport": "公交10路",
+    "fee": "免费",
+    "description": "武侯区簇桥社区公园，有湖泊和健身步道，是周边居民休闲好去处。",
+    "official_url": "",
+    "highlights": [
+      "社区公园",
+      "健身",
+      "湖泊",
+      "免费"
+    ],
+    "id": "簇锦公园"
+  },
+  {
+    "name": "文殊院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "文化中心",
+    "address": "青羊区文殊院街66号",
+    "transport": "地铁1号线文殊院站",
+    "fee": "免费",
+    "description": "川西第一禅林，始建于隋朝，寺内藏有玄奘法师顶骨舍利，素斋闻名。",
+    "official_url": "",
+    "highlights": [
+      "佛教寺院",
+      "玄奘舍利",
+      "素斋",
+      "免费"
+    ],
+    "id": "文殊院"
+  },
+  {
+    "name": "青羊宫",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "文化中心",
+    "address": "青羊区一环路西二段9号",
+    "transport": "地铁5号线青羊宫站",
+    "fee": "收费",
+    "description": "成都最古老的道观，始建于周朝，铜铸青羊为镇宫之宝，道教圣地。",
+    "official_url": "",
+    "highlights": [
+      "道教",
+      "青羊铜像",
+      "古观"
+    ],
+    "id": "青羊宫"
+  },
+  {
+    "name": "大慈寺",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "文化中心",
+    "address": "锦江区纱帽街",
+    "transport": "地铁2号线春熙路站",
+    "fee": "免费",
+    "description": "始建于魏晋的古寺，玄奘曾在此受戒，现位于太古里商圈，闹中取静。",
+    "official_url": "",
+    "highlights": [
+      "玄奘受戒",
+      "古寺",
+      "免费"
+    ],
+    "id": "大慈寺"
+  },
+  {
+    "name": "昭觉寺",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "文化中心",
+    "address": "成华区昭青路333号",
+    "transport": "地铁3号线动物园站",
+    "fee": "免费",
+    "description": "川西第一禅林，素有川西第一禅林之誉，殿宇宏伟，香火旺盛。",
+    "official_url": "",
+    "highlights": [
+      "禅林",
+      "古寺",
+      "免费"
+    ],
+    "id": "昭觉寺"
+  },
+  {
+    "name": "金沙遗址",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "文化中心",
+    "address": "青羊区金沙遗址路2号",
+    "transport": "地铁7号线金沙遗址博物馆站",
+    "fee": "收费",
+    "description": "三千年前古蜀王都遗址，出土太阳神鸟金饰等千余件珍贵文物。",
+    "official_url": "",
+    "highlights": [
+      "古蜀王都",
+      "太阳神鸟",
+      "考古遗址"
+    ],
+    "id": "金沙遗址"
+  },
+  {
+    "name": "宽窄巷子",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "文化中心",
+    "address": "青羊区宽窄巷子",
+    "transport": "地铁4号线宽窄巷子站",
+    "fee": "免费",
+    "description": "成都三大历史文化保护区之一，宽巷子、窄巷子、井巷子展示老成都生活。",
+    "official_url": "",
+    "highlights": [
+      "老成都",
+      "历史文化街区",
+      "免费"
+    ],
+    "id": "宽窄巷子"
+  },
+  {
+    "name": "锦里古街",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化中心",
+    "address": "武侯区武侯祠大街",
+    "transport": "地铁3号线高升桥站",
+    "fee": "免费",
+    "description": "成都著名民俗休闲街，以三国文化为主题，有小吃、手工艺品和川剧表演。",
+    "official_url": "",
+    "highlights": [
+      "三国文化",
+      "民俗小吃",
+      "免费"
+    ],
+    "id": "锦里古街"
+  },
+  {
+    "name": "黄龙溪古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化中心",
+    "address": "双流区黄龙溪镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "千年水乡古镇，有古街、古庙、古榕树，夏季可戏水，川西风情浓郁。",
+    "official_url": "",
+    "highlights": [
+      "水乡古镇",
+      "古榕树",
+      "戏水",
+      "免费"
+    ],
+    "id": "黄龙溪古镇"
+  },
+  {
+    "name": "平乐古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "邛崃市",
+    "type": "文化中心",
+    "address": "邛崃市平乐镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "南方丝绸之路第一驿站，有古桥、古榕、古街，白沫江穿镇而过。",
+    "official_url": "",
+    "highlights": [
+      "丝绸之路",
+      "古桥",
+      "白沫江",
+      "免费"
+    ],
+    "id": "平乐古镇"
+  },
+  {
+    "name": "安仁古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "大邑县",
+    "type": "文化中心",
+    "address": "大邑县安仁镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "中国博物馆小镇，有民国公馆老街和建川博物馆聚落，民国风情浓郁。",
+    "official_url": "",
+    "highlights": [
+      "民国公馆",
+      "博物馆小镇",
+      "老街",
+      "免费"
+    ],
+    "id": "安仁古镇"
+  },
+  {
+    "name": "洛带古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "文化中心",
+    "address": "龙泉驿区洛带镇",
+    "transport": "地铁4号线西河站",
+    "fee": "免费",
+    "description": "中国西部客家第一镇，有客家土楼、会馆和古镇老街，伤心凉粉闻名。",
+    "official_url": "",
+    "highlights": [
+      "客家文化",
+      "土楼",
+      "古镇",
+      "免费"
+    ],
+    "id": "洛带古镇"
+  },
+  {
+    "name": "街子古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "崇州市",
+    "type": "文化中心",
+    "address": "崇州市街子镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "青城后花园，有古寺、古街、古塔，光严禅院和千年银杏闻名。",
+    "official_url": "",
+    "highlights": [
+      "古寺",
+      "千年银杏",
+      "古街",
+      "免费"
+    ],
+    "id": "街子古镇"
+  },
+  {
+    "name": "元通古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "崇州市",
+    "type": "文化中心",
+    "address": "崇州市元通镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "千年小成都，三江汇流处，有会馆、古塔和清末民初建筑群。",
+    "official_url": "",
+    "highlights": [
+      "三江汇流",
+      "会馆",
+      "古建筑",
+      "免费"
+    ],
+    "id": "元通古镇"
+  },
+  {
+    "name": "新场古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "大邑县",
+    "type": "文化中心",
+    "address": "大邑县新场镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "四川现存规模最大、保存最完好的西蜀水乡古镇，有古街和七仙桥。",
+    "official_url": "",
+    "highlights": [
+      "西蜀水乡",
+      "古街",
+      "七仙桥",
+      "免费"
+    ],
+    "id": "新场古镇"
+  },
+  {
+    "name": "宝光寺",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "文化中心",
+    "address": "新都区宝光街",
+    "transport": "地铁3号线钟楼站",
+    "fee": "免费",
+    "description": "中国南方四大佛教丛林之一，舍利塔和五百罗汉堂闻名，有清代禅林建筑。",
+    "official_url": "",
+    "highlights": [
+      "佛教丛林",
+      "舍利塔",
+      "五百罗汉",
+      "免费"
+    ],
+    "id": "宝光寺"
+  },
+  {
+    "name": "成都欢乐谷",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "公园",
+    "address": "金牛区西华大道16号",
+    "transport": "地铁6号线西华大道站",
+    "fee": "收费",
+    "description": "大型现代主题乐园，有阳光港、欢乐时光等七大主题区，适合全年龄段游玩。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "过山车",
+      "亲子"
+    ],
+    "id": "成都欢乐谷"
+  },
+  {
+    "name": "成都融创乐园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "公园",
+    "address": "都江堰市玉融路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "蜀文化主题乐园，有天府耍都、蜀汉群英等主题区，融合科技与游乐。",
+    "official_url": "",
+    "highlights": [
+      "蜀文化主题",
+      "科技游乐",
+      "亲子"
+    ],
+    "id": "成都融创乐园"
+  },
+  {
+    "name": "成都融创水世界",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "公园",
+    "address": "都江堰市玉融路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "室内恒温水上乐园，有造浪池、漂流河和多种水上滑道，四季皆宜。",
+    "official_url": "",
+    "highlights": [
+      "室内水世界",
+      "恒温",
+      "造浪池"
+    ],
+    "id": "成都融创水世界"
+  },
+  {
+    "name": "成都海昌极地海洋公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "天府新区海洋路68号",
+    "transport": "地铁1号线海昌路站",
+    "fee": "收费",
+    "description": "极地动物和海洋生物主题公园，有企鹅、北极熊、白鲸和海豚表演。",
+    "official_url": "",
+    "highlights": [
+      "极地动物",
+      "企鹅",
+      "海豚表演"
+    ],
+    "id": "成都海昌极地海洋公园"
+  },
+  {
+    "name": "浩海立方海洋馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "公园",
+    "address": "双流区蛟龙港双九路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "创两项吉尼斯世界纪录的海洋馆，有巨型海洋观景窗和鲨鱼隧道。",
+    "official_url": "",
+    "highlights": [
+      "吉尼斯纪录",
+      "海洋观景窗",
+      "鲨鱼"
+    ],
+    "id": "浩海立方海洋馆"
+  },
+  {
+    "name": "成都国色天乡乐园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "温江区万春镇",
+    "transport": "地铁17号线国色天乡站",
+    "fee": "收费",
+    "description": "大型主题乐园，有陆地乐园和水上乐园，适合亲子和年轻人游玩。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "水上乐园",
+      "亲子"
+    ],
+    "id": "成都国色天乡乐园"
+  },
+  {
+    "name": "成都南湖梦幻岛",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "公园",
+    "address": "双流区华阳南湖",
+    "transport": "地铁1号线华阳站",
+    "fee": "收费",
+    "description": "梦幻主题乐园，有旋转木马、过山车和戏水区，适合亲子家庭。",
+    "official_url": "",
+    "highlights": [
+      "梦幻主题",
+      "旋转木马",
+      "亲子"
+    ],
+    "id": "成都南湖梦幻岛"
+  },
+  {
+    "name": "环球中心天堂岛海洋乐园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "高新区天府大道北段1700号",
+    "transport": "地铁1号线锦城广场站",
+    "fee": "收费",
+    "description": "全球最大单体建筑内的室内人造海洋乐园，有沙滩和造浪池。",
+    "official_url": "",
+    "highlights": [
+      "室内海洋",
+      "人造沙滩",
+      "造浪池"
+    ],
+    "id": "环球中心天堂岛海洋乐园"
+  },
+  {
+    "name": "松鼠部落森林假日公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "公园",
+    "address": "双流区永安森林公园",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "森林主题亲子乐园，有萌宠互动、丛林探险和户外拓展项目。",
+    "official_url": "",
+    "highlights": [
+      "森林主题",
+      "萌宠",
+      "亲子探险"
+    ],
+    "id": "松鼠部落森林假日公园"
+  },
+  {
+    "name": "成都图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "图书馆",
+    "address": "锦江区瑞联路139号",
+    "transport": "地铁4号线清江西路站",
+    "fee": "免费",
+    "description": "成都市公共图书馆，馆藏丰富，提供阅览、借阅和文化讲座等服务。",
+    "official_url": "",
+    "highlights": [
+      "公共图书馆",
+      "阅读",
+      "讲座",
+      "免费"
+    ],
+    "id": "成都图书馆"
+  },
+  {
+    "name": "四川省图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "图书馆",
+    "address": "锦江区学道街35号",
+    "transport": "地铁1号线锦江宾馆站",
+    "fee": "免费需预约",
+    "description": "四川省省级公共图书馆，馆藏古籍善本丰富，有少儿阅览区和数字资源。",
+    "official_url": "",
+    "highlights": [
+      "省级图书馆",
+      "古籍善本",
+      "免费"
+    ],
+    "id": "四川省图书馆"
+  },
+  {
+    "name": "天府人文艺术图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "图书馆",
+    "address": "天府新区华府大道",
+    "transport": "地铁1号线华府大道站",
+    "fee": "免费",
+    "description": "集阅读、艺术展览于一体的现代图书馆，建筑设计独特，环境优美。",
+    "official_url": "",
+    "highlights": [
+      "艺术图书馆",
+      "建筑设计",
+      "免费"
+    ],
+    "id": "天府人文艺术图书馆"
+  },
+  {
+    "name": "锦江区图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "图书馆",
+    "address": "锦江区锦兴路91号",
+    "transport": "地铁1号线锦江宾馆站",
+    "fee": "免费",
+    "description": "锦江区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "阅读推广",
+      "免费"
+    ],
+    "id": "锦江区图书馆"
+  },
+  {
+    "name": "青羊区图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "图书馆",
+    "address": "青羊区瑞联路139号",
+    "transport": "地铁4号线清江西路站",
+    "fee": "免费",
+    "description": "青羊区公共图书馆，提供图书借阅和数字阅读服务，有少儿阅览区。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "少儿阅览",
+      "免费"
+    ],
+    "id": "青羊区图书馆"
+  },
+  {
+    "name": "武侯区图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "图书馆",
+    "address": "武侯区高升桥东路12号",
+    "transport": "地铁3号线高升桥站",
+    "fee": "免费",
+    "description": "武侯区公共图书馆，藏书丰富，定期举办文化讲座和阅读活动。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "文化讲座",
+      "免费"
+    ],
+    "id": "武侯区图书馆"
+  },
+  {
+    "name": "金牛区图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "图书馆",
+    "address": "金牛区营门口路6号",
+    "transport": "地铁7号线花照壁站",
+    "fee": "免费",
+    "description": "金牛区公共图书馆，有阅览室和亲子阅读区，环境安静舒适。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "亲子阅读",
+      "免费"
+    ],
+    "id": "金牛区图书馆"
+  },
+  {
+    "name": "成华区图书馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "图书馆",
+    "address": "成华区双林路55号",
+    "transport": "地铁6号线新鸿路站",
+    "fee": "免费",
+    "description": "成华区公共图书馆，提供图书借阅和文化活动，有电子阅览室。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "电子阅览",
+      "免费"
+    ],
+    "id": "成华区图书馆"
+  },
+  {
+    "name": "成都IFS国际金融中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "文化中心",
+    "address": "锦江区红星路三段1号",
+    "transport": "地铁2/3号线春熙路站",
+    "fee": "免费",
+    "description": "成都地标性商业综合体，屋顶熊猫雕塑是网红打卡点，汇聚奢侈品和餐饮。",
+    "official_url": "",
+    "highlights": [
+      "地标建筑",
+      "屋顶熊猫",
+      "购物"
+    ],
+    "id": "成都IFS国际金融中心"
+  },
+  {
+    "name": "成都远洋太古里",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "文化中心",
+    "address": "锦江区中纱帽街8号",
+    "transport": "地铁2/3号线春熙路站",
+    "fee": "免费",
+    "description": "开放式低密度街区，融合传统川西建筑与现代商业，大慈寺坐落其中。",
+    "official_url": "",
+    "highlights": [
+      "川西建筑",
+      "开放式街区",
+      "大慈寺",
+      "免费"
+    ],
+    "id": "成都远洋太古里"
+  },
+  {
+    "name": "成都环球中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "文化中心",
+    "address": "高新区天府大道北段1700号",
+    "transport": "地铁1号线锦城广场站",
+    "fee": "免费",
+    "description": "全球最大单体建筑，集购物、酒店、海洋乐园于一体，是成都地标。",
+    "official_url": "",
+    "highlights": [
+      "全球最大单体",
+      "购物中心",
+      "地标",
+      "免费"
+    ],
+    "id": "成都环球中心"
+  },
+  {
+    "name": "成都万象城",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "文化中心",
+    "address": "成华区双庆路8号",
+    "transport": "地铁4号线双桥路站",
+    "fee": "免费",
+    "description": "大型商业综合体，有购物、餐饮、影院和亲子娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "亲子",
+      "免费"
+    ],
+    "id": "成都万象城"
+  },
+  {
+    "name": "成都大悦城",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化中心",
+    "address": "武侯区大悦路518号",
+    "transport": "地铁3号线川藏立交站",
+    "fee": "免费",
+    "description": "以青年为主题的大型商业综合体，有潮玩、餐饮和创意市集。",
+    "official_url": "",
+    "highlights": [
+      "青年主题",
+      "潮玩",
+      "创意市集",
+      "免费"
+    ],
+    "id": "成都大悦城"
+  },
+  {
+    "name": "成都SKP",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化中心",
+    "address": "武侯区天府大道北段1700号",
+    "transport": "地铁1号线锦城广场站",
+    "fee": "免费",
+    "description": "亚洲最大下沉式高端百货，有水舞秀和樱花山景观，汇聚顶级奢侈品牌。",
+    "official_url": "",
+    "highlights": [
+      "下沉式百货",
+      "水舞秀",
+      "奢侈品",
+      "免费"
+    ],
+    "id": "成都SKP"
+  },
+  {
+    "name": "成都银泰in99",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "文化中心",
+    "address": "高新区天府大道北段1199号",
+    "transport": "地铁1号线世纪城站",
+    "fee": "免费",
+    "description": "高新南区高端商业综合体，有购物、餐饮和钟书阁书店。",
+    "official_url": "",
+    "highlights": [
+      "高端商业",
+      "钟书阁",
+      "购物",
+      "免费"
+    ],
+    "id": "成都银泰in99"
+  },
+  {
+    "name": "成都来福士广场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化中心",
+    "address": "武侯区人民南路四段3号",
+    "transport": "地铁1号线省体育馆站",
+    "fee": "免费",
+    "description": "由斯蒂文·霍尔设计的建筑综合体，灵感来自杜甫诗句，购物与文化结合。",
+    "official_url": "",
+    "highlights": [
+      "建筑美学",
+      "杜甫灵感",
+      "购物",
+      "免费"
+    ],
+    "id": "成都来福士广场"
+  },
+  {
+    "name": "成都城市音乐厅",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "演出场馆",
+    "address": "武侯区一环路南一段",
+    "transport": "地铁3号线磨子桥站",
+    "fee": "收费",
+    "description": "西部地区最大音乐厅，有歌剧厅、音乐厅和戏剧厅，举办世界级演出。",
+    "official_url": "",
+    "highlights": [
+      "歌剧厅",
+      "交响乐",
+      "建筑美学"
+    ],
+    "id": "成都城市音乐厅"
+  },
+  {
+    "name": "四川大剧院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "演出场馆",
+    "address": "青羊区人民中路一段1号",
+    "transport": "地铁1/2号线天府广场站",
+    "fee": "收费",
+    "description": "四川省标志性文化建筑，举办歌剧、舞剧、音乐会等大型演出。",
+    "official_url": "",
+    "highlights": [
+      "歌剧",
+      "舞剧",
+      "标志性建筑"
+    ],
+    "id": "四川大剧院"
+  },
+  {
+    "name": "特仑苏音乐厅",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "演出场馆",
+    "address": "金牛区金府路",
+    "transport": "地铁6号线金府站",
+    "fee": "收费",
+    "description": "成都专业音乐厅，音响效果出色，举办交响乐和室内乐演出。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "室内乐",
+      "专业音响"
+    ],
+    "id": "特仑苏音乐厅"
+  },
+  {
+    "name": "蜀风雅韵川剧院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "演出场馆",
+    "address": "青羊区琴台路23号",
+    "transport": "地铁5号线青羊宫站",
+    "fee": "收费",
+    "description": "百年川剧戏园，可观看变脸、吐火等川剧绝活表演，体验巴蜀文化。",
+    "official_url": "",
+    "highlights": [
+      "川剧变脸",
+      "吐火",
+      "巴蜀文化"
+    ],
+    "id": "蜀风雅韵川剧院"
+  },
+  {
+    "name": "成都开心麻花剧场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "演出场馆",
+    "address": "锦江区东大街99号",
+    "transport": "地铁2号线东门大桥站",
+    "fee": "收费",
+    "description": "开心麻花驻场剧场，演出喜剧、话剧，适合年轻人休闲观演。",
+    "official_url": "",
+    "highlights": [
+      "喜剧",
+      "话剧",
+      "开心麻花"
+    ],
+    "id": "成都开心麻花剧场"
+  },
+  {
+    "name": "成都凤凰山体育公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育中心",
+    "address": "金牛区北星大道",
+    "transport": "地铁5号线杜家碾站",
+    "fee": "收费",
+    "description": "2023年大运会主场馆，有专业足球场和综合体育馆，举办赛事和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "大运会",
+      "足球场",
+      "演唱会"
+    ],
+    "id": "成都凤凰山体育公园"
+  },
+  {
+    "name": "双流体育中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "体育中心",
+    "address": "双流区花园路",
+    "transport": "地铁3号线双流广场站",
+    "fee": "收费",
+    "description": "双流区大型体育中心，有体育场、游泳馆和羽毛球馆，举办赛事和活动。",
+    "official_url": "",
+    "highlights": [
+      "体育场",
+      "游泳",
+      "赛事"
+    ],
+    "id": "双流体育中心"
+  },
+  {
+    "name": "成都现代五项赛事中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "体育中心",
+    "address": "天府新区正兴街道",
+    "transport": "地铁1号线广都站",
+    "fee": "收费",
+    "description": "国际标准现代五项赛事场馆，有游泳、击剑、马术等设施，举办大型赛事。",
+    "official_url": "",
+    "highlights": [
+      "现代五项",
+      "马术",
+      "国际赛事"
+    ],
+    "id": "成都现代五项赛事中心"
+  },
+  {
+    "name": "四川省体育馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "体育中心",
+    "address": "武侯区人民南路四段8号",
+    "transport": "地铁1号线省体育馆站",
+    "fee": "收费",
+    "description": "四川省标志性体育场馆，举办篮球、排球等赛事和大型演唱会。",
+    "official_url": "",
+    "highlights": [
+      "篮球",
+      "演唱会",
+      "标志性场馆"
+    ],
+    "id": "四川省体育馆"
+  },
+  {
+    "name": "都江堰景区",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "文化中心",
+    "address": "都江堰市公园路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界文化遗产，两千多年前李冰修建的水利工程，鱼嘴、飞沙堰、宝瓶口闻名于世。",
+    "official_url": "",
+    "highlights": [
+      "世界遗产",
+      "水利工程",
+      "李冰"
+    ],
+    "id": "都江堰景区"
+  },
+  {
+    "name": "青城山景区",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "文化中心",
+    "address": "都江堰市青城山镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界文化遗产，中国道教发源地之一，有前山道教宫观和后山自然风光。",
+    "official_url": "",
+    "highlights": [
+      "道教名山",
+      "世界遗产",
+      "自然风光"
+    ],
+    "id": "青城山景区"
+  },
+  {
+    "name": "熊猫谷",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "公园",
+    "address": "都江堰市青城山路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大熊猫野放研究中心，可观赏大熊猫在自然环境中生活，与小熊猫近距离接触。",
+    "official_url": "",
+    "highlights": [
+      "大熊猫",
+      "野放研究",
+      "小熊猫"
+    ],
+    "id": "熊猫谷"
+  },
+  {
+    "name": "西岭雪山",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "大邑县",
+    "type": "公园",
+    "address": "大邑县西岭镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "成都第一高峰，杜甫窗含西岭千秋雪即指此山，冬季滑雪夏季避暑胜地。",
+    "official_url": "",
+    "highlights": [
+      "滑雪",
+      "杜甫诗意",
+      "避暑"
+    ],
+    "id": "西岭雪山"
+  },
+  {
+    "name": "石象湖",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "蒲江县",
+    "type": "公园",
+    "address": "蒲江县石象湖",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "湖泊型生态景区，春季郁金香花海和夏季向日葵花海闻名，适合赏花和游船。",
+    "official_url": "",
+    "highlights": [
+      "郁金香花海",
+      "向日葵",
+      "游船"
+    ],
+    "id": "石象湖"
+  },
+  {
+    "name": "桃花故里",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "公园",
+    "address": "龙泉驿区山泉镇",
+    "transport": "地铁2号线龙泉驿站",
+    "fee": "免费",
+    "description": "中国水蜜桃之乡，春季万亩桃花盛开，是成都近郊赏桃花的绝佳去处。",
+    "official_url": "",
+    "highlights": [
+      "桃花",
+      "春季赏花",
+      "水蜜桃",
+      "免费"
+    ],
+    "id": "桃花故里"
+  },
+  {
+    "name": "丹景山景区",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "简阳市",
+    "type": "公园",
+    "address": "简阳市丹景街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "龙泉山城市森林公园最高观景点，可俯瞰三岔湖和成都天府国际机场。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "观景台",
+      "三岔湖",
+      "免费"
+    ],
+    "id": "丹景山景区"
+  },
+  {
+    "name": "空港花田",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "公园",
+    "address": "双流区牧华路",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "飞机起降观赏地，花田与跑道相邻，可近距离观看飞机起降，网红打卡点。",
+    "official_url": "",
+    "highlights": [
+      "飞机观赏",
+      "花田",
+      "网红打卡",
+      "免费"
+    ],
+    "id": "空港花田"
+  },
+  {
+    "name": "麓湖水城",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "天府新区麓湖",
+    "transport": "地铁1号线麓湖站",
+    "fee": "部分免费",
+    "description": "湖城一体的生态景区，可玩皮划艇和桨板，有黑珍珠餐厅和艺术展。",
+    "official_url": "",
+    "highlights": [
+      "皮划艇",
+      "桨板",
+      "湖城一体"
+    ],
+    "id": "麓湖水城"
+  },
+  {
+    "name": "白鹤滩国家湿地公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "新津区",
+    "type": "公园",
+    "address": "新津区花桥街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "成都首个国家湿地公园，有湖泊、芦苇荡和候鸟栖息地，生态优美。",
+    "official_url": "",
+    "highlights": [
+      "湿地公园",
+      "芦苇荡",
+      "候鸟",
+      "免费"
+    ],
+    "id": "白鹤滩国家湿地公园"
+  },
+  {
+    "name": "桤木河湿地公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "崇州市",
+    "type": "公园",
+    "address": "崇州市隆兴镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "崇州大型湿地公园，有栈道、花海和稻田景观，适合徒步和骑行。",
+    "official_url": "",
+    "highlights": [
+      "湿地栈道",
+      "花海",
+      "稻田",
+      "免费"
+    ],
+    "id": "桤木河湿地公园"
+  },
+  {
+    "name": "北林绿道",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "温江区北林环线",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "温江区环城绿道，串联多个乡村和花田，适合骑行和乡村休闲。",
+    "official_url": "",
+    "highlights": [
+      "环城绿道",
+      "骑行",
+      "乡村",
+      "免费"
+    ],
+    "id": "北林绿道"
+  },
+  {
+    "name": "三道堰古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "文化中心",
+    "address": "郫都区三道堰镇",
+    "transport": "公交P22路",
+    "fee": "免费",
+    "description": "千年水乡古镇，徐堰河和柏条河穿镇而过，有古堰、古桥和川西民居。",
+    "official_url": "",
+    "highlights": [
+      "水乡古镇",
+      "古堰",
+      "川西民居",
+      "免费"
+    ],
+    "id": "三道堰古镇"
+  },
+  {
+    "name": "战旗村",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "文化中心",
+    "address": "郫都区唐昌镇",
+    "transport": "公交P22路",
+    "fee": "免费",
+    "description": "乡村振兴示范村，有妈妈农庄和乡村十八坊，体验川西农耕文化。",
+    "official_url": "",
+    "highlights": [
+      "乡村振兴",
+      "农耕文化",
+      "乡村十八坊",
+      "免费"
+    ],
+    "id": "战旗村"
+  },
+  {
+    "name": "望丛祠",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "文化中心",
+    "address": "郫都区望丛中路5号",
+    "transport": "公交P21路",
+    "fee": "免费",
+    "description": "纪念古蜀国望帝杜宇和丛帝鳖灵的祠堂，是寻根祭祖的重要场所。",
+    "official_url": "",
+    "highlights": [
+      "古蜀文化",
+      "望帝丛帝",
+      "寻根",
+      "免费"
+    ],
+    "id": "望丛祠"
+  },
+  {
+    "name": "罨画池公园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "崇州市",
+    "type": "公园",
+    "address": "崇州市大东街",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "始建于唐代的川西名园，陆游曾在此理政，有亭台楼阁和梅园。",
+    "official_url": "",
+    "highlights": [
+      "川西名园",
+      "陆游",
+      "梅园"
+    ],
+    "id": "罨画池公园"
+  },
+  {
+    "name": "街子古镇银杏广场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "崇州市",
+    "type": "公园",
+    "address": "崇州市街子镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "街子古镇中心广场，有千年银杏古树，秋季金黄壮观，是古镇标志。",
+    "official_url": "",
+    "highlights": [
+      "千年银杏",
+      "秋季金黄",
+      "古镇广场",
+      "免费"
+    ],
+    "id": "街子古镇银杏广场"
+  },
+  {
+    "name": "白岩寺",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "大邑县",
+    "type": "文化中心",
+    "address": "大邑县金星乡",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "藏传佛教寺院，有九子银杏等千年古树，秋季银杏金黄时最美。",
+    "official_url": "",
+    "highlights": [
+      "藏传佛教",
+      "九子银杏",
+      "秋季银杏",
+      "免费"
+    ],
+    "id": "白岩寺"
+  },
+  {
+    "name": "云顶石城",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金堂县",
+    "type": "文化中心",
+    "address": "金堂县淮口镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "宋代抗蒙山城遗址，与合川钓鱼城齐名，有古城墙和慈云寺。",
+    "official_url": "",
+    "highlights": [
+      "宋元古城",
+      "抗蒙遗址",
+      "慈云寺"
+    ],
+    "id": "云顶石城"
+  },
+  {
+    "name": "五凤溪古镇",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金堂县",
+    "type": "文化中心",
+    "address": "金堂县五凤镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "成都唯一山地古镇，五条街道依山而建，有教堂和会馆，沱江风光优美。",
+    "official_url": "",
+    "highlights": [
+      "山地古镇",
+      "教堂",
+      "沱江",
+      "免费"
+    ],
+    "id": "五凤溪古镇"
+  },
+  {
+    "name": "南京博物院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区中山东路321号",
+    "transport": "地铁2号线明故宫站",
+    "fee": "免费需预约",
+    "description": "中国三大博物馆之一，馆藏丰富，有历史馆、艺术馆、民国馆和非遗馆。",
+    "official_url": "",
+    "highlights": [
+      "三大博物馆",
+      "民国馆",
+      "非遗馆",
+      "免费"
+    ],
+    "id": "南京博物院"
+  },
+  {
+    "name": "南京市博物馆(朝天宫)",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "秦淮区王府大街朝天宫4号",
+    "transport": "地铁1号线张府园站",
+    "fee": "收费",
+    "description": "江南地区现存规模最大的古建筑群，展示南京城市历史，大成殿宏伟壮观。",
+    "official_url": "",
+    "highlights": [
+      "古建筑群",
+      "朝天宫",
+      "大成殿"
+    ],
+    "id": "南京市博物馆(朝天宫)"
+  },
+  {
+    "name": "南京中国科举博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "秦淮区金陵西路1号",
+    "transport": "地铁3号线夫子庙站",
+    "fee": "收费",
+    "description": "建在古代科举考场江南贡院遗址上，展示科举制度和科举文物，地下展厅设计独特。",
+    "official_url": "",
+    "highlights": [
+      "科举制度",
+      "江南贡院",
+      "地下展厅"
+    ],
+    "id": "南京中国科举博物馆"
+  },
+  {
+    "name": "六朝博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区长江路302号",
+    "transport": "地铁2/3号线大行宫站",
+    "fee": "收费",
+    "description": "展示六朝历史文化，由贝聿铭团队设计，馆藏六朝青瓷和陶俑等珍贵文物。",
+    "official_url": "",
+    "highlights": [
+      "六朝文化",
+      "贝聿铭设计",
+      "青瓷"
+    ],
+    "id": "六朝博物馆"
+  },
+  {
+    "name": "江宁织造博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区长江路123号",
+    "transport": "地铁2/3号线大行宫站",
+    "fee": "收费",
+    "description": "在江宁织造署旧址上建设，展示红楼梦文化和云锦织造工艺，园林优美。",
+    "official_url": "",
+    "highlights": [
+      "红楼梦",
+      "云锦",
+      "园林"
+    ],
+    "id": "江宁织造博物馆"
+  },
+  {
+    "name": "南京云锦博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "博物馆",
+    "address": "建邺区茶亭东街240号",
+    "transport": "地铁2号线云锦路站",
+    "fee": "免费",
+    "description": "展示世界非遗南京云锦，可观看大花楼木织机现场织造，购买云锦文创。",
+    "official_url": "",
+    "highlights": [
+      "云锦",
+      "非遗",
+      "木织机",
+      "免费"
+    ],
+    "id": "南京云锦博物馆"
+  },
+  {
+    "name": "南京古生物博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区北京东路39号",
+    "transport": "地铁3号线鸡鸣寺站",
+    "fee": "收费",
+    "description": "中国科学院古生物研究所所属，展示化石标本和生命演化历程，科普性强。",
+    "official_url": "",
+    "highlights": [
+      "化石",
+      "生命演化",
+      "科普"
+    ],
+    "id": "南京古生物博物馆"
+  },
+  {
+    "name": "南京地质博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区珠江路700号",
+    "transport": "地铁2号线下马坊站",
+    "fee": "免费",
+    "description": "中国历史最悠久的地质博物馆，展示矿物、岩石和恐龙化石标本。",
+    "official_url": "",
+    "highlights": [
+      "矿物",
+      "恐龙化石",
+      "地质",
+      "免费"
+    ],
+    "id": "南京地质博物馆"
+  },
+  {
+    "name": "南京科技馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "科技馆",
+    "address": "雨花台区紫荆花路9号",
+    "transport": "地铁1号线花神庙站",
+    "fee": "免费需预约",
+    "description": "南京市科普教育主阵地，有主题展厅、IMAX球幕影院和4D影院。",
+    "official_url": "",
+    "highlights": [
+      "科普",
+      "球幕影院",
+      "4D影院",
+      "免费"
+    ],
+    "id": "南京科技馆"
+  },
+  {
+    "name": "江苏省科学技术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "科技馆",
+    "address": "鼓楼区石头城路",
+    "transport": "地铁2号线莫愁湖站",
+    "fee": "免费需预约",
+    "description": "省级综合性科技馆，有信息、能源、生命等展区，互动体验丰富。",
+    "official_url": "",
+    "highlights": [
+      "科技互动",
+      "能源展区",
+      "免费"
+    ],
+    "id": "江苏省科学技术馆"
+  },
+  {
+    "name": "南京国防园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "博物馆",
+    "address": "鼓楼区虎锯路87号",
+    "transport": "地铁2号线汉中门站",
+    "fee": "免费",
+    "description": "展示国防装备和军事历史，有退役坦克、飞机和导弹实物展出。",
+    "official_url": "",
+    "highlights": [
+      "军事装备",
+      "退役坦克",
+      "国防教育",
+      "免费"
+    ],
+    "id": "南京国防园"
+  },
+  {
+    "name": "南京大屠杀遇难同胞纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "博物馆",
+    "address": "建邺区水西门大街418号",
+    "transport": "地铁2号线云锦路站",
+    "fee": "免费需预约",
+    "description": "国家公祭仪式举办地，展示南京大屠杀历史，铭记历史珍爱和平。",
+    "official_url": "",
+    "highlights": [
+      "国家公祭",
+      "历史铭记",
+      "免费"
+    ],
+    "id": "南京大屠杀遇难同胞纪念馆"
+  },
+  {
+    "name": "南京市民俗博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "秦淮区南捕厅15号",
+    "transport": "地铁1号线三山街站",
+    "fee": "免费",
+    "description": "展示南京民俗文化和非遗，甘熙宅第为南京现存最大私人民居。",
+    "official_url": "",
+    "highlights": [
+      "民俗",
+      "甘熙宅第",
+      "非遗",
+      "免费"
+    ],
+    "id": "南京市民俗博物馆"
+  },
+  {
+    "name": "太平天国历史博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "秦淮区瞻园路128号",
+    "transport": "地铁3号线夫子庙站",
+    "fee": "收费",
+    "description": "太平天国专题博物馆，瞻园为江南名园，展示太平天国历史文物。",
+    "official_url": "",
+    "highlights": [
+      "太平天国",
+      "瞻园",
+      "江南名园"
+    ],
+    "id": "太平天国历史博物馆"
+  },
+  {
+    "name": "南京渡江胜利纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "博物馆",
+    "address": "鼓楼区渡江路1号",
+    "transport": "地铁3号线五塘广场站",
+    "fee": "免费",
+    "description": "纪念渡江战役胜利的专题纪念馆，展示渡江战役历史和文物。",
+    "official_url": "",
+    "highlights": [
+      "渡江战役",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "南京渡江胜利纪念馆"
+  },
+  {
+    "name": "中国共产党代表团梅园新村纪念馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区汉府街18号",
+    "transport": "地铁2号线大行宫站",
+    "fee": "免费",
+    "description": "国共谈判期间中共代表团办公旧址，展示南京谈判历史和革命文物。",
+    "official_url": "",
+    "highlights": [
+      "国共谈判",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "中国共产党代表团梅园新村纪念馆"
+  },
+  {
+    "name": "南京市明城垣史博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "玄武区解放门8号",
+    "transport": "地铁1号线玄武门站",
+    "fee": "收费",
+    "description": "位于台城段城墙上，展示南京城墙历史和城砖铭文，可登城俯瞰玄武湖。",
+    "official_url": "",
+    "highlights": [
+      "明城墙",
+      "城砖铭文",
+      "登城"
+    ],
+    "id": "南京市明城垣史博物馆"
+  },
+  {
+    "name": "南京直立人化石遗址博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "博物馆",
+    "address": "江宁区汤山街道",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "南京直立人头骨化石发现地，展示古人类演化历史和汤山地质。",
+    "official_url": "",
+    "highlights": [
+      "直立人化石",
+      "古人类",
+      "地质"
+    ],
+    "id": "南京直立人化石遗址博物馆"
+  },
+  {
+    "name": "江南贡院历史陈列馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "秦淮区贡院街",
+    "transport": "地铁3号线夫子庙站",
+    "fee": "收费",
+    "description": "中国古代最大科举考场，展示科举考试历史和号舍遗迹。",
+    "official_url": "",
+    "highlights": [
+      "科举考场",
+      "号舍",
+      "科举历史"
+    ],
+    "id": "江南贡院历史陈列馆"
+  },
+  {
+    "name": "南京越剧博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "秦淮区老门东",
+    "transport": "地铁3号线武定门站",
+    "fee": "免费",
+    "description": "展示越剧在南京的发展历史，有戏服、剧本和演出史料。",
+    "official_url": "",
+    "highlights": [
+      "越剧",
+      "戏曲",
+      "免费"
+    ],
+    "id": "南京越剧博物馆"
+  },
+  {
+    "name": "玄武湖公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区玄武巷1号",
+    "transport": "地铁1号线玄武门站",
+    "fee": "免费",
+    "description": "南京最大的城内公园，五洲相连，可游船赏景，是城市绿肺。",
+    "official_url": "",
+    "highlights": [
+      "五洲",
+      "游船",
+      "城市绿肺",
+      "免费"
+    ],
+    "id": "玄武湖公园"
+  },
+  {
+    "name": "中山植物园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区前湖后村1号",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "收费",
+    "description": "中国第一座国立植物园，保存植物三千余种，有红枫岗和蔷薇园。",
+    "official_url": "",
+    "highlights": [
+      "国立植物园",
+      "红枫",
+      "植物科普"
+    ],
+    "id": "中山植物园"
+  },
+  {
+    "name": "红山森林动物园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "鼓楼区和燕路168号",
+    "transport": "地铁1号线红山动物园站",
+    "fee": "收费",
+    "description": "中国唯一取消动物表演的动物园，注重动物福利，理念先进，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "动物福利",
+      "亲子",
+      "理念先进"
+    ],
+    "id": "红山森林动物园"
+  },
+  {
+    "name": "栖霞山风景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区栖霞街88号",
+    "transport": "地铁7号线仙鹤门站",
+    "fee": "收费",
+    "description": "金陵第一明秀山，秋季红枫闻名天下，有栖霞寺和千佛岩石窟。",
+    "official_url": "",
+    "highlights": [
+      "红枫",
+      "栖霞寺",
+      "千佛岩"
+    ],
+    "id": "栖霞山风景区"
+  },
+  {
+    "name": "莫愁湖公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "建邺区水西门大街132号",
+    "transport": "地铁2号线莫愁湖站",
+    "fee": "免费",
+    "description": "金陵第一名湖，有胜棋楼和郁金堂，春季海棠花展是赏花胜地。",
+    "official_url": "",
+    "highlights": [
+      "金陵名湖",
+      "胜棋楼",
+      "海棠花展",
+      "免费"
+    ],
+    "id": "莫愁湖公园"
+  },
+  {
+    "name": "南京绿博园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "建邺区扬子江大道228号",
+    "transport": "地铁10号线绿博园站",
+    "fee": "免费",
+    "description": "中国绿化博览会举办地，有全国各地园林景观和植物专类园。",
+    "official_url": "",
+    "highlights": [
+      "绿博会",
+      "园林景观",
+      "植物专类园",
+      "免费"
+    ],
+    "id": "南京绿博园"
+  },
+  {
+    "name": "滨江公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "建邺区扬子江大道",
+    "transport": "地铁10号线绿博园站",
+    "fee": "免费",
+    "description": "长江滨江风光带，有栈道和观景平台，可观赏长江日落和南京眼。",
+    "official_url": "",
+    "highlights": [
+      "长江风光",
+      "南京眼",
+      "滨江栈道",
+      "免费"
+    ],
+    "id": "滨江公园"
+  },
+  {
+    "name": "珍珠泉风景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "浦口区珍珠街182号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "泉水如珍珠涌出的自然风景区，有野生动物园和竹排漂流。",
+    "official_url": "",
+    "highlights": [
+      "珍珠泉",
+      "野生动物",
+      "竹排漂流"
+    ],
+    "id": "珍珠泉风景区"
+  },
+  {
+    "name": "老山国家森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "浦口区黄山岭路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "南京最大森林公园，有山峰、溶洞和珍稀植物，适合徒步和避暑。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "溶洞",
+      "徒步"
+    ],
+    "id": "老山国家森林公园"
+  },
+  {
+    "name": "牛首山文化旅游区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "江宁区宁丹大道",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "佛教文化名山，佛顶宫供奉释迦牟尼顶骨舍利，建筑宏伟壮观。",
+    "official_url": "",
+    "highlights": [
+      "佛顶宫",
+      "释迦牟尼舍利",
+      "佛教文化"
+    ],
+    "id": "牛首山文化旅游区"
+  },
+  {
+    "name": "燕子矶公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区临江街3号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "长江三大名矶之首，乾隆曾六下江南登燕子矶，可俯瞰长江壮景。",
+    "official_url": "",
+    "highlights": [
+      "长江名矶",
+      "乾隆题诗",
+      "观江景"
+    ],
+    "id": "燕子矶公园"
+  },
+  {
+    "name": "幕燕滨江风貌区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区幕燕路",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "燕子矶至幕府山滨江风光带，有观音阁和达摩洞，沿江栈道观景佳。",
+    "official_url": "",
+    "highlights": [
+      "滨江风光",
+      "观音阁",
+      "达摩洞",
+      "免费"
+    ],
+    "id": "幕燕滨江风貌区"
+  },
+  {
+    "name": "白马公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区白马村1号",
+    "transport": "地铁4号线蒋王庙站",
+    "fee": "免费",
+    "description": "紫金山脚下公园，有石刻艺术博物馆，适合休闲和登山起点。",
+    "official_url": "",
+    "highlights": [
+      "紫金山",
+      "石刻博物馆",
+      "登山起点",
+      "免费"
+    ],
+    "id": "白马公园"
+  },
+  {
+    "name": "南京眼旅游区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "文化中心",
+    "address": "建邺区扬子江大道",
+    "transport": "地铁10号线绿博园站",
+    "fee": "免费",
+    "description": "南京首座长江步行桥，夜景灯光秀壮观，是河西新城地标建筑。",
+    "official_url": "",
+    "highlights": [
+      "步行桥",
+      "夜景灯光",
+      "地标",
+      "免费"
+    ],
+    "id": "南京眼旅游区"
+  },
+  {
+    "name": "鱼嘴湿地公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "建邺区扬子江大道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "长江夹江湿地，观日落和江豚最佳地点，有灯塔和栈道。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "江豚",
+      "日落",
+      "免费"
+    ],
+    "id": "鱼嘴湿地公园"
+  },
+  {
+    "name": "浦口公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "浦口区浦园路",
+    "transport": "地铁3号线林场站",
+    "fee": "免费",
+    "description": "浦口区城市公园，有湖泊和草坪，适合休闲散步和亲子活动。",
+    "official_url": "",
+    "highlights": [
+      "湖泊",
+      "草坪",
+      "亲子",
+      "免费"
+    ],
+    "id": "浦口公园"
+  },
+  {
+    "name": "宝船厂遗址公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "鼓楼区漓江路57号",
+    "transport": "地铁4号线龙江站",
+    "fee": "免费",
+    "description": "明代郑和宝船建造遗址，展示古代造船工艺和郑和下西洋历史。",
+    "official_url": "",
+    "highlights": [
+      "郑和宝船",
+      "造船遗址",
+      "明代",
+      "免费"
+    ],
+    "id": "宝船厂遗址公园"
+  },
+  {
+    "name": "古林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "鼓楼区虎踞北路21号",
+    "transport": "地铁1号线草场门站",
+    "fee": "免费",
+    "description": "南京老牌公园，有牡丹园和梅花山，春季赏花胜地。",
+    "official_url": "",
+    "highlights": [
+      "牡丹园",
+      "梅花山",
+      "赏花",
+      "免费"
+    ],
+    "id": "古林公园"
+  },
+  {
+    "name": "清凉山公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "鼓楼区广州路83号",
+    "transport": "地铁2号线汉中门站",
+    "fee": "免费",
+    "description": "金陵历史名山，有崇正书院和扫叶楼，秋季银杏金黄壮观。",
+    "official_url": "",
+    "highlights": [
+      "崇正书院",
+      "银杏",
+      "历史名山",
+      "免费"
+    ],
+    "id": "清凉山公园"
+  },
+  {
+    "name": "石头城遗址公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "鼓楼区石头城路",
+    "transport": "地铁2号线莫愁湖站",
+    "fee": "免费",
+    "description": "三国东吴石头城遗址，鬼脸城为天然岩壁奇观，沿秦淮河风光优美。",
+    "official_url": "",
+    "highlights": [
+      "石头城",
+      "鬼脸城",
+      "三国遗址",
+      "免费"
+    ],
+    "id": "石头城遗址公园"
+  },
+  {
+    "name": "雨花台烈士陵园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "公园",
+    "address": "雨花台区雨花路215号",
+    "transport": "地铁1号线中华门站",
+    "fee": "免费",
+    "description": "纪念革命烈士的陵园，有纪念碑、纪念馆和雨花石文化区。",
+    "official_url": "",
+    "highlights": [
+      "烈士陵园",
+      "红色旅游",
+      "雨花石",
+      "免费"
+    ],
+    "id": "雨花台烈士陵园"
+  },
+  {
+    "name": "菊花台公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "公园",
+    "address": "雨花台区纬九路",
+    "transport": "地铁1号线软件大道站",
+    "fee": "免费",
+    "description": "南京九烈士墓所在地，有竹林和菊花展，环境清幽肃穆。",
+    "official_url": "",
+    "highlights": [
+      "九烈士墓",
+      "竹林",
+      "菊花展",
+      "免费"
+    ],
+    "id": "菊花台公园"
+  },
+  {
+    "name": "聚宝山森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区纬一路",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "紫金山余脉森林公园，有登山步道和森林景观，适合徒步健身。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "登山步道",
+      "徒步",
+      "免费"
+    ],
+    "id": "聚宝山森林公园"
+  },
+  {
+    "name": "聚龙山公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区仙林大道",
+    "transport": "地铁2号线南大仙林校区站",
+    "fee": "免费",
+    "description": "仙林大学城公园，有湖泊和草坪，适合学生和居民休闲。",
+    "official_url": "",
+    "highlights": [
+      "仙林",
+      "湖泊",
+      "草坪",
+      "免费"
+    ],
+    "id": "聚龙山公园"
+  },
+  {
+    "name": "中山陵",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区石象路7号",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "免费需预约",
+    "description": "孙中山先生陵寝，依山而建气势磅礴，392级台阶直达祭堂，为南京地标。",
+    "official_url": "",
+    "highlights": [
+      "孙中山",
+      "392级台阶",
+      "地标",
+      "免费"
+    ],
+    "id": "中山陵"
+  },
+  {
+    "name": "明孝陵",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区石象路",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "收费",
+    "description": "世界文化遗产，明太祖朱元璋陵墓，神道石刻和梅花山闻名。",
+    "official_url": "",
+    "highlights": [
+      "世界遗产",
+      "朱元璋",
+      "神道石刻"
+    ],
+    "id": "明孝陵"
+  },
+  {
+    "name": "夫子庙秦淮风光带",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区贡院街",
+    "transport": "地铁3号线夫子庙站",
+    "fee": "免费",
+    "description": "中国四大文庙之一，秦淮河夜游和灯会闻名，是南京文化名片。",
+    "official_url": "",
+    "highlights": [
+      "文庙",
+      "秦淮夜游",
+      "灯会",
+      "免费"
+    ],
+    "id": "夫子庙秦淮风光带"
+  },
+  {
+    "name": "总统府",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区长江路292号",
+    "transport": "地铁2/3号线大行宫站",
+    "fee": "收费",
+    "description": "中国近代史重要遗址，太平天国天王府和民国总统府旧址，园林中西合璧。",
+    "official_url": "",
+    "highlights": [
+      "近代史",
+      "天王府",
+      "中西园林"
+    ],
+    "id": "总统府"
+  },
+  {
+    "name": "中华门瓮城",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区中华门",
+    "transport": "地铁1号线中华门站",
+    "fee": "收费",
+    "description": "中国现存最大古城堡，明城墙代表性建筑，有藏兵洞和登城步道。",
+    "official_url": "",
+    "highlights": [
+      "古城堡",
+      "明城墙",
+      "藏兵洞"
+    ],
+    "id": "中华门瓮城"
+  },
+  {
+    "name": "阅江楼",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "文化中心",
+    "address": "鼓楼区建宁路202号",
+    "transport": "地铁1号线小粉桥站",
+    "fee": "收费",
+    "description": "江南四大名楼之一，登楼可俯瞰长江和南京长江大桥，朱元璋曾撰阅江楼记。",
+    "official_url": "",
+    "highlights": [
+      "江南名楼",
+      "长江大桥",
+      "观江景"
+    ],
+    "id": "阅江楼"
+  },
+  {
+    "name": "瞻园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区瞻园路128号",
+    "transport": "地铁3号线夫子庙站",
+    "fee": "收费",
+    "description": "江南四大名园之一，金陵第一园，有假山和太平天国历史陈列。",
+    "official_url": "",
+    "highlights": [
+      "江南名园",
+      "假山",
+      "金陵第一园"
+    ],
+    "id": "瞻园"
+  },
+  {
+    "name": "大报恩寺遗址公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区雨花路1号",
+    "transport": "地铁1号线中华门站",
+    "fee": "收费",
+    "description": "明代皇家寺院遗址，有琉璃塔和地宫出土文物，现代博物馆展示震撼。",
+    "official_url": "",
+    "highlights": [
+      "琉璃塔",
+      "地宫",
+      "明代寺院"
+    ],
+    "id": "大报恩寺遗址公园"
+  },
+  {
+    "name": "鸡鸣寺",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区鸡鸣寺路1号",
+    "transport": "地铁3号线鸡鸣寺站",
+    "fee": "免费",
+    "description": "南京最古老梵刹之一，春季樱花大道闻名，素斋和药师佛塔为特色。",
+    "official_url": "",
+    "highlights": [
+      "樱花大道",
+      "素斋",
+      "药师佛塔",
+      "免费"
+    ],
+    "id": "鸡鸣寺"
+  },
+  {
+    "name": "灵谷寺",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区灵谷寺路",
+    "transport": "地铁2号线钟灵街站",
+    "fee": "收费",
+    "description": "紫金山名刹，有无量殿和灵谷塔，无梁殿为明代砖石建筑杰作。",
+    "official_url": "",
+    "highlights": [
+      "无梁殿",
+      "灵谷塔",
+      "名刹"
+    ],
+    "id": "灵谷寺"
+  },
+  {
+    "name": "栖霞寺",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化中心",
+    "address": "栖霞区栖霞街84号",
+    "transport": "地铁7号线仙鹤门站",
+    "fee": "收费",
+    "description": "江南三论宗祖庭，千佛岩石窟和舍利塔闻名，秋季红枫最美。",
+    "official_url": "",
+    "highlights": [
+      "三论宗",
+      "千佛岩",
+      "舍利塔"
+    ],
+    "id": "栖霞寺"
+  },
+  {
+    "name": "毗卢寺",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区汉府街4号",
+    "transport": "地铁2号线西安门站",
+    "fee": "免费",
+    "description": "民国时期全国佛教总会所在地，有万佛楼和五百罗汉像。",
+    "official_url": "",
+    "highlights": [
+      "万佛楼",
+      "五百罗汉",
+      "佛教总会",
+      "免费"
+    ],
+    "id": "毗卢寺"
+  },
+  {
+    "name": "朝天宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区王府大街朝天宫4号",
+    "transport": "地铁1号线张府园站",
+    "fee": "收费",
+    "description": "江南规模最大古建筑群，明代朝天宫遗址，现为南京市博物馆。",
+    "official_url": "",
+    "highlights": [
+      "古建筑群",
+      "明代",
+      "博物馆"
+    ],
+    "id": "朝天宫"
+  },
+  {
+    "name": "明故宫遗址公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区中山东路311号",
+    "transport": "地铁2号线明故宫站",
+    "fee": "免费",
+    "description": "北京故宫蓝本，明初皇宫遗址，现仅存柱础和遗址，历史意义重大。",
+    "official_url": "",
+    "highlights": [
+      "明皇宫",
+      "遗址",
+      "北京故宫蓝本",
+      "免费"
+    ],
+    "id": "明故宫遗址公园"
+  },
+  {
+    "name": "甘熙宅第",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区南捕厅15号",
+    "transport": "地铁1号线三山街站",
+    "fee": "免费",
+    "description": "南京现存最大最完整私人民居，有九十九间半之称，展示民俗文化。",
+    "official_url": "",
+    "highlights": [
+      "私人民居",
+      "九十九间半",
+      "民俗",
+      "免费"
+    ],
+    "id": "甘熙宅第"
+  },
+  {
+    "name": "老门东历史街区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区剪子巷54号",
+    "transport": "地铁3号线武定门站",
+    "fee": "免费",
+    "description": "南京传统民居聚落，有老字号、手工艺和小吃，是城南文化缩影。",
+    "official_url": "",
+    "highlights": [
+      "历史街区",
+      "老字号",
+      "民俗小吃",
+      "免费"
+    ],
+    "id": "老门东历史街区"
+  },
+  {
+    "name": "熙南里历史文化街区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区中山南路",
+    "transport": "地铁1号线三山街站",
+    "fee": "免费",
+    "description": "以甘熙宅第为核心的文化街区，有明清建筑和评弹书场。",
+    "official_url": "",
+    "highlights": [
+      "明清建筑",
+      "评弹",
+      "文化街区",
+      "免费"
+    ],
+    "id": "熙南里历史文化街区"
+  },
+  {
+    "name": "高淳老街",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "文化中心",
+    "address": "高淳区淳溪镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "金陵第一古街，保存完好的明清古建筑群，有商铺、戏台和关王庙。",
+    "official_url": "",
+    "highlights": [
+      "金陵古街",
+      "明清建筑",
+      "关王庙",
+      "免费"
+    ],
+    "id": "高淳老街"
+  },
+  {
+    "name": "漆桥古村落",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "文化中心",
+    "address": "高淳区漆桥镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "汉代古村落，老街保存完好，有孔子后裔聚居地和古井古桥。",
+    "official_url": "",
+    "highlights": [
+      "汉代古村",
+      "孔子后裔",
+      "古街",
+      "免费"
+    ],
+    "id": "漆桥古村落"
+  },
+  {
+    "name": "杨柳村古建筑群",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "文化中心",
+    "address": "江宁区湖熟街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "南京现存最大明清民居建筑群，九十九间半格局，展示江南民居文化。",
+    "official_url": "",
+    "highlights": [
+      "明清民居",
+      "九十九间半",
+      "江南民居",
+      "免费"
+    ],
+    "id": "杨柳村古建筑群"
+  },
+  {
+    "name": "浦口火车站历史街区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "文化中心",
+    "address": "浦口区津浦路",
+    "transport": "地铁3号线林场站",
+    "fee": "免费",
+    "description": "民国老火车站，《背影》取景地，有老站房和轮渡码头遗址。",
+    "official_url": "",
+    "highlights": [
+      "民国火车站",
+      "背影取景",
+      "轮渡",
+      "免费"
+    ],
+    "id": "浦口火车站历史街区"
+  },
+  {
+    "name": "长江大桥南堡公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "鼓楼区大桥南路",
+    "transport": "地铁1号线大桥站",
+    "fee": "免费",
+    "description": "南京长江大桥南桥头堡公园，可登堡观江景，大桥为新中国建设成就象征。",
+    "official_url": "",
+    "highlights": [
+      "长江大桥",
+      "桥头堡",
+      "观江景",
+      "免费"
+    ],
+    "id": "长江大桥南堡公园"
+  },
+  {
+    "name": "南京欢乐谷",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区欢乐谷大道",
+    "transport": "地铁4号线仙林湖站",
+    "fee": "收费",
+    "description": "大型主题乐园，有六大主题区，过山车和水上项目刺激，适合全年龄段。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "过山车",
+      "水上项目"
+    ],
+    "id": "南京欢乐谷"
+  },
+  {
+    "name": "银杏湖乐园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "江宁区谷里街道",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "生态主题乐园，有游乐设施、高尔夫球场和生态景区，春季樱花银杏闻名。",
+    "official_url": "",
+    "highlights": [
+      "生态乐园",
+      "高尔夫",
+      "樱花银杏"
+    ],
+    "id": "银杏湖乐园"
+  },
+  {
+    "name": "南京海底世界",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区四方城8号",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "收费",
+    "description": "紫金山脚下海洋馆，有海底隧道、企鹅馆和海豚表演，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "海底隧道",
+      "企鹅",
+      "海豚表演"
+    ],
+    "id": "南京海底世界"
+  },
+  {
+    "name": "弘阳欢乐世界",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "浦口区大桥北路48号",
+    "transport": "地铁3号线泰冯路站",
+    "fee": "收费",
+    "description": "大型室内外主题乐园，有摩天轮和过山车，适合亲子家庭游玩。",
+    "official_url": "",
+    "highlights": [
+      "摩天轮",
+      "室内乐园",
+      "亲子"
+    ],
+    "id": "弘阳欢乐世界"
+  },
+  {
+    "name": "南京玛雅海滩水公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区欢乐谷大道",
+    "transport": "地铁4号线仙林湖站",
+    "fee": "收费",
+    "description": "夏季水上乐园，有造浪池、漂流河和多种水上滑道，消暑胜地。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "造浪池",
+      "夏季消暑"
+    ],
+    "id": "南京玛雅海滩水公园"
+  },
+  {
+    "name": "南京龙之谷主题乐园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "浦口区龙谷路",
+    "transport": "地铁3号线泰冯路站",
+    "fee": "收费",
+    "description": "亚洲最大室内主题乐园，有溶洞漂流和室内过山车，四季皆宜。",
+    "official_url": "",
+    "highlights": [
+      "室内乐园",
+      "溶洞漂流",
+      "亚洲最大"
+    ],
+    "id": "南京龙之谷主题乐园"
+  },
+  {
+    "name": "南京图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "图书馆",
+    "address": "玄武区中山东路189号",
+    "transport": "地铁2/3号线大行宫站",
+    "fee": "免费需预约",
+    "description": "中国第三大图书馆，江苏省省级公共图书馆，古籍善本收藏丰富。",
+    "official_url": "",
+    "highlights": [
+      "省级图书馆",
+      "古籍善本",
+      "免费"
+    ],
+    "id": "南京图书馆"
+  },
+  {
+    "name": "金陵图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "图书馆",
+    "address": "建邺区乐山路158号",
+    "transport": "地铁10号线奥体中心站",
+    "fee": "免费",
+    "description": "南京市公共图书馆，建筑设计独特，有少儿馆和数字阅读服务。",
+    "official_url": "",
+    "highlights": [
+      "公共图书馆",
+      "少儿馆",
+      "建筑设计"
+    ],
+    "id": "金陵图书馆"
+  },
+  {
+    "name": "南京市少年儿童图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "图书馆",
+    "address": "玄武区中山北路105号",
+    "transport": "地铁1号线鼓楼站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，有绘本馆和亲子阅读区。",
+    "official_url": "",
+    "highlights": [
+      "少儿图书馆",
+      "绘本馆",
+      "亲子阅读",
+      "免费"
+    ],
+    "id": "南京市少年儿童图书馆"
+  },
+  {
+    "name": "江宁区图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "图书馆",
+    "address": "江宁区竹山路",
+    "transport": "地铁1号线竹山路站",
+    "fee": "免费",
+    "description": "江宁区公共图书馆，提供图书借阅和文化活动，有少儿阅览区。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "少儿阅览",
+      "免费"
+    ],
+    "id": "江宁区图书馆"
+  },
+  {
+    "name": "栖霞区图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "图书馆",
+    "address": "栖霞区尧化门街",
+    "transport": "地铁2号线学则路站",
+    "fee": "免费",
+    "description": "栖霞区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "阅读推广",
+      "免费"
+    ],
+    "id": "栖霞区图书馆"
+  },
+  {
+    "name": "建邺区图书馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "图书馆",
+    "address": "建邺区雨润大街",
+    "transport": "地铁2号线雨润大街站",
+    "fee": "免费",
+    "description": "建邺区公共图书馆，环境现代，有亲子阅读区和电子阅览室。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "亲子阅读",
+      "免费"
+    ],
+    "id": "建邺区图书馆"
+  },
+  {
+    "name": "江苏省美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "美术馆",
+    "address": "玄武区长江路333号",
+    "transport": "地铁2/3号线大行宫站",
+    "fee": "免费",
+    "description": "中国近现代第一座国家级美术馆，收藏和展示中外美术作品。",
+    "official_url": "",
+    "highlights": [
+      "国家级美术馆",
+      "美术展览",
+      "免费"
+    ],
+    "id": "江苏省美术馆"
+  },
+  {
+    "name": "南京博物院艺术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "美术馆",
+    "address": "玄武区中山东路321号",
+    "transport": "地铁2号线明故宫站",
+    "fee": "免费需预约",
+    "description": "南京博物院艺术馆部分，展示历代绘画、书法和雕塑精品。",
+    "official_url": "",
+    "highlights": [
+      "历代书画",
+      "雕塑",
+      "免费"
+    ],
+    "id": "南京博物院艺术馆"
+  },
+  {
+    "name": "南京艺术学院美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "美术馆",
+    "address": "鼓楼区虎踞北路15号",
+    "transport": "地铁1号线草场门站",
+    "fee": "免费",
+    "description": "高校美术馆，展示当代艺术和国际交流展览，学术性强。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "高校美术馆",
+      "国际展览",
+      "免费"
+    ],
+    "id": "南京艺术学院美术馆"
+  },
+  {
+    "name": "四方当代美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "美术馆",
+    "address": "浦口区珍七路9号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "位于四方当代艺术湖区，建筑由斯蒂文·霍尔设计，展示当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "斯蒂文霍尔",
+      "建筑美学"
+    ],
+    "id": "四方当代美术馆"
+  },
+  {
+    "name": "德基美术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "美术馆",
+    "address": "玄武区中山路18号德基广场",
+    "transport": "地铁1/2号线新街口站",
+    "fee": "收费",
+    "description": "位于德基广场的私人美术馆，展示古代文物和当代艺术，展陈精美。",
+    "official_url": "",
+    "highlights": [
+      "私人美术馆",
+      "古代文物",
+      "当代艺术"
+    ],
+    "id": "德基美术馆"
+  },
+  {
+    "name": "南京艺术学院实验剧场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "演出场馆",
+    "address": "鼓楼区虎踞北路15号",
+    "transport": "地铁1号线草场门站",
+    "fee": "收费",
+    "description": "南京艺术学院专业剧场，演出话剧、舞蹈和音乐会，艺术水准高。",
+    "official_url": "",
+    "highlights": [
+      "话剧",
+      "舞蹈",
+      "音乐会"
+    ],
+    "id": "南京艺术学院实验剧场"
+  },
+  {
+    "name": "江苏大剧院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "演出场馆",
+    "address": "建邺区梦都大街181号",
+    "transport": "地铁10号线奥体中心站",
+    "fee": "收费",
+    "description": "亚洲最大剧院综合体，有歌剧厅、音乐厅和戏剧厅，建筑如荷叶飘于水上。",
+    "official_url": "",
+    "highlights": [
+      "歌剧厅",
+      "音乐厅",
+      "荷叶建筑"
+    ],
+    "id": "江苏大剧院"
+  },
+  {
+    "name": "南京文化艺术中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "演出场馆",
+    "address": "玄武区长江路101号",
+    "transport": "地铁2/3号线大行宫站",
+    "fee": "收费",
+    "description": "南京市文化演出场馆，举办话剧、音乐会和戏曲等演出。",
+    "official_url": "",
+    "highlights": [
+      "话剧",
+      "音乐会",
+      "戏曲"
+    ],
+    "id": "南京文化艺术中心"
+  },
+  {
+    "name": "紫金大戏院",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "演出场馆",
+    "address": "玄武区小火瓦巷20号",
+    "transport": "地铁1号线张府园站",
+    "fee": "收费",
+    "description": "南京老牌戏院，演出京剧、越剧和话剧等传统戏曲。",
+    "official_url": "",
+    "highlights": [
+      "京剧",
+      "越剧",
+      "传统戏曲"
+    ],
+    "id": "紫金大戏院"
+  },
+  {
+    "name": "南京奥体中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "体育中心",
+    "address": "建邺区梦都大街",
+    "transport": "地铁10号线奥体中心站",
+    "fee": "收费",
+    "description": "2005年全运会主场馆，有体育场、体育馆和游泳馆，举办赛事和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "全运会",
+      "体育场",
+      "演唱会"
+    ],
+    "id": "南京奥体中心"
+  },
+  {
+    "name": "五台山体育中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "体育中心",
+    "address": "鼓楼区广州路173号",
+    "transport": "地铁1号线珠江路站",
+    "fee": "收费",
+    "description": "南京老牌体育中心，有体育场、体育馆和游泳馆，是市民健身好去处。",
+    "official_url": "",
+    "highlights": [
+      "体育场",
+      "健身",
+      "老牌场馆"
+    ],
+    "id": "五台山体育中心"
+  },
+  {
+    "name": "南京青奥体育公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "体育中心",
+    "address": "浦口区江北大道",
+    "transport": "地铁10号线临江站",
+    "fee": "收费",
+    "description": "2014年青奥会场馆，有体育馆和体育场，是江北新区体育地标。",
+    "official_url": "",
+    "highlights": [
+      "青奥会",
+      "体育馆",
+      "江北地标"
+    ],
+    "id": "南京青奥体育公园"
+  },
+  {
+    "name": "新街口商圈",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "玄武区中山路",
+    "transport": "地铁1/2号线新街口站",
+    "fee": "免费",
+    "description": "中华第一商圈，有德基广场、中央商场等，是南京商业和文化中心。",
+    "official_url": "",
+    "highlights": [
+      "中华第一商圈",
+      "德基广场",
+      "购物",
+      "免费"
+    ],
+    "id": "新街口商圈"
+  },
+  {
+    "name": "河西万达广场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "文化中心",
+    "address": "建邺区江东中路98号",
+    "transport": "地铁2号线集庆门大街站",
+    "fee": "免费",
+    "description": "河西大型商业综合体，有购物、餐饮和影院，适合家庭休闲。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "影院",
+      "免费"
+    ],
+    "id": "河西万达广场"
+  },
+  {
+    "name": "南京仙林金鹰湖滨天地",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化中心",
+    "address": "栖霞区仙林大学城",
+    "transport": "地铁2号线仙林中心站",
+    "fee": "免费",
+    "description": "仙林大学城商业中心，临湖而建，有购物、餐饮和书店。",
+    "official_url": "",
+    "highlights": [
+      "大学城商业",
+      "湖景",
+      "购物",
+      "免费"
+    ],
+    "id": "南京仙林金鹰湖滨天地"
+  },
+  {
+    "name": "南京水游城",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "秦淮区建康路1号",
+    "transport": "地铁1号线三山街站",
+    "fee": "免费",
+    "description": "夫子庙旁大型购物中心，有水景中庭和屋顶花园，购物餐饮一体。",
+    "official_url": "",
+    "highlights": [
+      "水景中庭",
+      "屋顶花园",
+      "购物",
+      "免费"
+    ],
+    "id": "南京水游城"
+  },
+  {
+    "name": "南京虹悦城",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "文化中心",
+    "address": "雨花台区长虹路222号",
+    "transport": "地铁1号线中华门站",
+    "fee": "免费",
+    "description": "城南大型商业综合体，有购物、餐饮和亲子娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "亲子",
+      "购物",
+      "免费"
+    ],
+    "id": "南京虹悦城"
+  },
+  {
+    "name": "南京江宁万达广场",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "文化中心",
+    "address": "江宁区竹山路",
+    "transport": "地铁1号线竹山路站",
+    "fee": "免费",
+    "description": "江宁区大型商业综合体，有购物、餐饮和影院。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "影院",
+      "免费"
+    ],
+    "id": "南京江宁万达广场"
+  },
+  {
+    "name": "南京仙林湖滨天地公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "栖霞区仙林湖",
+    "transport": "地铁4号线仙林湖站",
+    "fee": "免费",
+    "description": "仙林湖公园，环湖步道适合散步和骑行，湖景优美。",
+    "official_url": "",
+    "highlights": [
+      "仙林湖",
+      "环湖步道",
+      "骑行",
+      "免费"
+    ],
+    "id": "南京仙林湖滨天地公园"
+  },
+  {
+    "name": "钟山风景名胜区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区石象路7号",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "免费",
+    "description": "中国著名风景名胜区，含中山陵、明孝陵、灵谷寺等景点，世界文化遗产。",
+    "official_url": "",
+    "highlights": [
+      "风景名胜区",
+      "世界遗产",
+      "中山陵",
+      "免费"
+    ],
+    "id": "钟山风景名胜区"
+  },
+  {
+    "name": "紫金山绿道",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区紫金山",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "免费",
+    "description": "紫金山环山绿道，串联多个景点，适合徒步和骑行，自然风光优美。",
+    "official_url": "",
+    "highlights": [
+      "环山绿道",
+      "徒步",
+      "骑行",
+      "免费"
+    ],
+    "id": "紫金山绿道"
+  },
+  {
+    "name": "明故宫公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区中山东路",
+    "transport": "地铁2号线明故宫站",
+    "fee": "免费",
+    "description": "明初皇宫遗址公园，有柱础和午门遗址，是北京故宫的蓝本。",
+    "official_url": "",
+    "highlights": [
+      "皇宫遗址",
+      "午门",
+      "历史",
+      "免费"
+    ],
+    "id": "明故宫公园"
+  },
+  {
+    "name": "南京眼步行桥公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "建邺区扬子江大道",
+    "transport": "地铁10号线绿博园站",
+    "fee": "免费",
+    "description": "南京眼步行桥两端公园，有草坪和观江平台，夜景灯光秀壮观。",
+    "official_url": "",
+    "highlights": [
+      "步行桥",
+      "观江平台",
+      "夜景",
+      "免费"
+    ],
+    "id": "南京眼步行桥公园"
+  },
+  {
+    "name": "玄武湖菱洲生态乐园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "玄武区玄武湖菱洲",
+    "transport": "地铁1号线玄武门站",
+    "fee": "收费",
+    "description": "玄武湖五洲之一，有儿童游乐设施和动物园旧址，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "五洲之一",
+      "儿童游乐",
+      "亲子"
+    ],
+    "id": "玄武湖菱洲生态乐园"
+  },
+  {
+    "name": "紫金山天文台",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "科普馆",
+    "address": "玄武区钟山",
+    "transport": "地铁2号线苜蓿园站",
+    "fee": "收费",
+    "description": "中国现代天文学摇篮，有古代天文仪器和陨石展品，科普教育性强。",
+    "official_url": "",
+    "highlights": [
+      "天文",
+      "古代仪器",
+      "陨石"
+    ],
+    "id": "紫金山天文台"
+  },
+  {
+    "name": "南京直立人地质公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "江宁区汤山街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "汤山直立人化石遗址公园，有地质剖面和化石展示，自然风光优美。",
+    "official_url": "",
+    "highlights": [
+      "直立人",
+      "地质剖面",
+      "化石",
+      "免费"
+    ],
+    "id": "南京直立人地质公园"
+  },
+  {
+    "name": "将军山风景区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "江宁区将军大道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "南京近郊风景区，有湖泊和山林，适合徒步和休闲度假。",
+    "official_url": "",
+    "highlights": [
+      "湖泊",
+      "山林",
+      "徒步",
+      "免费"
+    ],
+    "id": "将军山风景区"
+  },
+  {
+    "name": "方山地质公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "江宁区天阔路",
+    "transport": "地铁1号线南医大·江苏经贸学院站",
+    "fee": "免费",
+    "description": "死火山地质公园，有火山口遗迹和定林寺斜塔，地质科普价值高。",
+    "official_url": "",
+    "highlights": [
+      "火山地质",
+      "定林寺斜塔",
+      "科普",
+      "免费"
+    ],
+    "id": "方山地质公园"
+  },
+  {
+    "name": "湖北省博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武昌区东湖路160号",
+    "transport": "地铁8号线省博湖北日报站",
+    "fee": "免费需预约",
+    "description": "中国八大国家级博物馆之一，曾侯乙编钟和越王勾践剑为国宝级文物。",
+    "official_url": "",
+    "highlights": [
+      "曾侯乙编钟",
+      "越王勾践剑",
+      "国宝",
+      "免费"
+    ],
+    "id": "湖北省博物馆"
+  },
+  {
+    "name": "武汉科技馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "科技馆",
+    "address": "江岸区沿江大道91号",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费需预约",
+    "description": "由武汉客运港改造的科技馆，有宇宙、生命、水展厅，互动体验丰富。",
+    "official_url": "",
+    "highlights": [
+      "宇宙展厅",
+      "互动体验",
+      "免费"
+    ],
+    "id": "武汉科技馆"
+  },
+  {
+    "name": "湖北省科学技术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "科技馆",
+    "address": "洪山区高新大道",
+    "transport": "地铁11号线光谷五路站",
+    "fee": "免费需预约",
+    "description": "湖北新省科技馆，有数理世界、科技与生活等展厅，建筑造型独特。",
+    "official_url": "",
+    "highlights": [
+      "数理世界",
+      "科技生活",
+      "免费"
+    ],
+    "id": "湖北省科学技术馆"
+  },
+  {
+    "name": "武汉自然博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "博物馆",
+    "address": "硚口区金南二路8号",
+    "transport": "地铁3号线云飞路站",
+    "fee": "收费",
+    "description": "由贝林基金会捐赠标本建馆，展示世界河流流域自然生态和野生动物。",
+    "official_url": "",
+    "highlights": [
+      "河流生态",
+      "野生动物标本",
+      "贝林基金会"
+    ],
+    "id": "武汉自然博物馆"
+  },
+  {
+    "name": "武汉博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "博物馆",
+    "address": "江汉区青年路373号",
+    "transport": "地铁2号线汉口火车站",
+    "fee": "免费",
+    "description": "武汉市综合性博物馆，展示武汉历史文化和江汉地区文物。",
+    "official_url": "",
+    "highlights": [
+      "武汉历史",
+      "江汉文物",
+      "免费"
+    ],
+    "id": "武汉博物馆"
+  },
+  {
+    "name": "湖北美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "美术馆",
+    "address": "武昌区东湖路三官殿1号",
+    "transport": "地铁8号线省博湖北日报站",
+    "fee": "免费",
+    "description": "省级美术馆，展示湖北当代艺术和美术作品，与省博物馆相邻。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "美术作品",
+      "免费"
+    ],
+    "id": "湖北美术馆"
+  },
+  {
+    "name": "武汉美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "美术馆",
+    "address": "江汉区保华街2号",
+    "transport": "地铁2号线江汉路站",
+    "fee": "免费",
+    "description": "由汉口金城银行旧址改造，展示现当代美术作品，建筑为优秀历史建筑。",
+    "official_url": "",
+    "highlights": [
+      "金城银行旧址",
+      "当代美术",
+      "免费"
+    ],
+    "id": "武汉美术馆"
+  },
+  {
+    "name": "辛亥革命武昌起义纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武昌区武珞路1号",
+    "transport": "地铁4号线首义路站",
+    "fee": "免费",
+    "description": "辛亥革命武昌起义旧址，红楼为中华民国军政府鄂军都督府旧址。",
+    "official_url": "",
+    "highlights": [
+      "辛亥革命",
+      "红楼",
+      "鄂军都督府",
+      "免费"
+    ],
+    "id": "辛亥革命武昌起义纪念馆"
+  },
+  {
+    "name": "辛亥革命博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武昌区彭刘杨路151号",
+    "transport": "地铁4号线首义路站",
+    "fee": "免费",
+    "description": "纪念辛亥革命百年而建，展示辛亥革命历史和文物，建筑为红色V字造型。",
+    "official_url": "",
+    "highlights": [
+      "辛亥革命",
+      "红色V字",
+      "免费"
+    ],
+    "id": "辛亥革命博物馆"
+  },
+  {
+    "name": "中山舰博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "博物馆",
+    "address": "江夏区金口街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "中国近现代名舰中山舰出水修复后的专题博物馆，展示舰体和出水文物。",
+    "official_url": "",
+    "highlights": [
+      "中山舰",
+      "近现代海军",
+      "出水文物",
+      "免费"
+    ],
+    "id": "中山舰博物馆"
+  },
+  {
+    "name": "江汉关博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区沿江大道129号",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "江汉关大楼为武汉近代地标建筑，展示武汉开埠和海关历史，钟声悠扬。",
+    "official_url": "",
+    "highlights": [
+      "江汉关",
+      "开埠历史",
+      "海关钟声",
+      "免费"
+    ],
+    "id": "江汉关博物馆"
+  },
+  {
+    "name": "盘龙城遗址博物院",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "博物馆",
+    "address": "黄陂区盘龙城经济开发区",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "长江流域发现的商代古城遗址，展示商代青铜文明，为武汉城市之根。",
+    "official_url": "",
+    "highlights": [
+      "商代遗址",
+      "青铜文明",
+      "武汉之根",
+      "免费"
+    ],
+    "id": "盘龙城遗址博物院"
+  },
+  {
+    "name": "武汉革命博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武昌区红巷13号",
+    "transport": "地铁5号线昙华林站",
+    "fee": "免费",
+    "description": "由农讲所、毛泽东旧居等革命旧址组成，展示武汉革命历史。",
+    "official_url": "",
+    "highlights": [
+      "农讲所",
+      "毛泽东旧居",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "武汉革命博物馆"
+  },
+  {
+    "name": "八七会议会址纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区鄱阳街139号",
+    "transport": "地铁1号线大智路站",
+    "fee": "免费",
+    "description": "八七会议旧址，会议确定了土地革命和武装斗争方针，历史意义重大。",
+    "official_url": "",
+    "highlights": [
+      "八七会议",
+      "土地革命",
+      "免费"
+    ],
+    "id": "八七会议会址纪念馆"
+  },
+  {
+    "name": "八路军武汉办事处旧址纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区长春街57号",
+    "transport": "地铁1号线头道街站",
+    "fee": "免费",
+    "description": "抗战时期八路军武汉办事处旧址，展示抗战历史和周恩来等革命家事迹。",
+    "official_url": "",
+    "highlights": [
+      "八路军办事处",
+      "抗战",
+      "免费"
+    ],
+    "id": "八路军武汉办事处旧址纪念馆"
+  },
+  {
+    "name": "武汉二七纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区解放大道2499号",
+    "transport": "地铁1号线二七路站",
+    "fee": "免费",
+    "description": "纪念二七大罢工的专题纪念馆，有二七烈士纪念碑和工人运动历史陈列。",
+    "official_url": "",
+    "highlights": [
+      "二七大罢工",
+      "工人运动",
+      "免费"
+    ],
+    "id": "武汉二七纪念馆"
+  },
+  {
+    "name": "姚家山新四军纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "博物馆",
+    "address": "黄陂区蔡店街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "新四军第五师司政机关旧址，展示抗战时期李先念领导的抗日斗争。",
+    "official_url": "",
+    "highlights": [
+      "新四军",
+      "李先念",
+      "抗战",
+      "免费"
+    ],
+    "id": "姚家山新四军纪念馆"
+  },
+  {
+    "name": "武汉中共中央机关旧址纪念馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区胜利街165号",
+    "transport": "地铁1号线六渡桥站",
+    "fee": "免费",
+    "description": "中共中央在武汉的办公旧址，展示大革命时期中共中央在武汉的历史。",
+    "official_url": "",
+    "highlights": [
+      "中共中央旧址",
+      "大革命时期",
+      "免费"
+    ],
+    "id": "武汉中共中央机关旧址纪念馆"
+  },
+  {
+    "name": "武汉詹天佑故居博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区洞庭街65号",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "中国铁路之父詹天佑武汉故居，展示其生平和中国铁路建设历史。",
+    "official_url": "",
+    "highlights": [
+      "詹天佑",
+      "铁路历史",
+      "免费"
+    ],
+    "id": "武汉詹天佑故居博物馆"
+  },
+  {
+    "name": "武汉警察博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "博物馆",
+    "address": "江岸区胜利街271号",
+    "transport": "地铁1号线大智路站",
+    "fee": "免费",
+    "description": "由原德租界工部局巡捕房改造，展示武汉警察历史和公安文物。",
+    "official_url": "",
+    "highlights": [
+      "警察历史",
+      "工部局旧址",
+      "免费"
+    ],
+    "id": "武汉警察博物馆"
+  },
+  {
+    "name": "东湖风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区沿湖大道",
+    "transport": "地铁8号线梨园站",
+    "fee": "免费",
+    "description": "中国最大城中湖，有听涛、磨山、落雁、吹笛四大景区，樱花和荷花闻名。",
+    "official_url": "",
+    "highlights": [
+      "最大城中湖",
+      "樱花",
+      "荷花",
+      "免费"
+    ],
+    "id": "东湖风景区"
+  },
+  {
+    "name": "黄鹤楼公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区蛇山坡",
+    "transport": "地铁4号线复兴路站",
+    "fee": "收费",
+    "description": "江南三大名楼之首，崔颢黄鹤一去不复返名扬天下，登楼可俯瞰长江。",
+    "official_url": "",
+    "highlights": [
+      "江南名楼",
+      "崔颢诗",
+      "观长江"
+    ],
+    "id": "黄鹤楼公园"
+  },
+  {
+    "name": "武汉动物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "汉阳区动物园路特1号",
+    "transport": "地铁4号线五里墩站",
+    "fee": "收费",
+    "description": "武汉大型动物园，饲养各类珍稀动物，适合亲子游玩和科普教育。",
+    "official_url": "",
+    "highlights": [
+      "珍稀动物",
+      "亲子",
+      "科普"
+    ],
+    "id": "武汉动物园"
+  },
+  {
+    "name": "中科院武汉植物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "洪山区鲁磨路特1号",
+    "transport": "公交402路",
+    "fee": "收费",
+    "description": "中国三大核心植物园之一，收集水生植物和药用植物，春季郁金香闻名。",
+    "official_url": "",
+    "highlights": [
+      "水生植物",
+      "郁金香",
+      "植物科普"
+    ],
+    "id": "中科院武汉植物园"
+  },
+  {
+    "name": "武汉中山公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "公园",
+    "address": "江汉区解放大道1265号",
+    "transport": "地铁2号线中山公园站",
+    "fee": "免费",
+    "description": "武汉历史最悠久的城市公园，有游乐设施、湖泊和受降堂，承载市民记忆。",
+    "official_url": "",
+    "highlights": [
+      "城市公园",
+      "游乐设施",
+      "受降堂",
+      "免费"
+    ],
+    "id": "武汉中山公园"
+  },
+  {
+    "name": "解放公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "公园",
+    "address": "江岸区解放大道1861号",
+    "transport": "地铁1/8号线黄浦路站",
+    "fee": "免费",
+    "description": "武汉市中心大型公园，有中华名塔园和鸽子广场，环境优美。",
+    "official_url": "",
+    "highlights": [
+      "名塔园",
+      "鸽子广场",
+      "免费"
+    ],
+    "id": "解放公园"
+  },
+  {
+    "name": "沙湖公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区秦园路",
+    "transport": "地铁7号线螃蟹岬站",
+    "fee": "免费",
+    "description": "武汉市内大型湖泊公园，环湖绿道适合散步骑行，夏季荷花盛开。",
+    "official_url": "",
+    "highlights": [
+      "湖泊",
+      "绿道",
+      "荷花",
+      "免费"
+    ],
+    "id": "沙湖公园"
+  },
+  {
+    "name": "汉口江滩公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "公园",
+    "address": "江岸区沿江大道",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "亚洲最大江滩公园，秋季芦荻花海壮观，可观赏长江和两岸灯光秀。",
+    "official_url": "",
+    "highlights": [
+      "江滩",
+      "芦花",
+      "灯光秀",
+      "免费"
+    ],
+    "id": "汉口江滩公园"
+  },
+  {
+    "name": "月湖公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "汉阳区琴台大道",
+    "transport": "地铁4号线钟家村站",
+    "fee": "免费",
+    "description": "以月湖为中心的公园，有古琴台和琴台大剧院，文化底蕴深厚。",
+    "official_url": "",
+    "highlights": [
+      "月湖",
+      "古琴台",
+      "琴台剧院",
+      "免费"
+    ],
+    "id": "月湖公园"
+  },
+  {
+    "name": "木兰山",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "公园",
+    "address": "黄陂区木兰山",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "木兰将军故里，道教佛教圣地，有金顶和古建筑群，登高可俯瞰黄陂。",
+    "official_url": "",
+    "highlights": [
+      "木兰将军",
+      "金顶",
+      "道教佛教"
+    ],
+    "id": "木兰山"
+  },
+  {
+    "name": "木兰天池",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "公园",
+    "address": "黄陂区长轩岭街道",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "木兰外婆家，有高山湖泊和瀑布森林，适合登山和避暑度假。",
+    "official_url": "",
+    "highlights": [
+      "高山湖泊",
+      "瀑布",
+      "避暑"
+    ],
+    "id": "木兰天池"
+  },
+  {
+    "name": "木兰草原",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "公园",
+    "address": "黄陂区王家河街道",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "华中唯一草原景区，可露营骑马，有篝火晚会和滑草项目。",
+    "official_url": "",
+    "highlights": [
+      "草原",
+      "露营",
+      "骑马"
+    ],
+    "id": "木兰草原"
+  },
+  {
+    "name": "马鞍山森林公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "洪山区珞喻东路",
+    "transport": "公交518路",
+    "fee": "免费",
+    "description": "武汉近郊森林公园，有烧烤区和猴山，适合亲子和户外活动。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "烧烤",
+      "亲子",
+      "免费"
+    ],
+    "id": "马鞍山森林公园"
+  },
+  {
+    "name": "九峰森林动物园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "洪山区九峰乡",
+    "transport": "公交518路",
+    "fee": "收费",
+    "description": "森林中动物园，可自驾观赏动物，有猛兽区和草食动物区。",
+    "official_url": "",
+    "highlights": [
+      "森林动物园",
+      "自驾观赏",
+      "猛兽"
+    ],
+    "id": "九峰森林动物园"
+  },
+  {
+    "name": "青山江滩公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "公园",
+    "address": "青山区临江大道",
+    "transport": "地铁5号线红钢城站",
+    "fee": "免费",
+    "description": "青山长江大堤公园，有草坪和健身步道，可观赏长江日落。",
+    "official_url": "",
+    "highlights": [
+      "江滩",
+      "健身步道",
+      "日落",
+      "免费"
+    ],
+    "id": "青山江滩公园"
+  },
+  {
+    "name": "藏龙岛湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江夏区",
+    "type": "公园",
+    "address": "江夏区藏龙岛",
+    "transport": "地铁2号线佛祖岭站",
+    "fee": "免费",
+    "description": "江夏区大型湿地公园，有湖泊和候鸟栖息地，适合徒步和观鸟。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "观鸟",
+      "徒步",
+      "免费"
+    ],
+    "id": "藏龙岛湿地公园"
+  },
+  {
+    "name": "金银湖湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "公园",
+    "address": "东西湖区金山大道",
+    "transport": "地铁6号线金银湖公园站",
+    "fee": "免费",
+    "description": "东西湖区国家城市湿地公园，有湖泊、芦苇荡和环湖绿道。",
+    "official_url": "",
+    "highlights": [
+      "城市湿地",
+      "芦苇荡",
+      "绿道",
+      "免费"
+    ],
+    "id": "金银湖湿地公园"
+  },
+  {
+    "name": "戴家湖公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "公园",
+    "address": "青山区建设十路",
+    "transport": "地铁5号线建设二路站",
+    "fee": "免费",
+    "description": "由粉煤灰堆场改造的生态公园，有工业遗迹和绿皮火车。",
+    "official_url": "",
+    "highlights": [
+      "生态修复",
+      "工业遗迹",
+      "绿皮火车",
+      "免费"
+    ],
+    "id": "戴家湖公园"
+  },
+  {
+    "name": "后襄河公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "公园",
+    "address": "江汉区常青路",
+    "transport": "地铁2号线汉口火车站",
+    "fee": "免费",
+    "description": "江汉区社区公园，有湖泊和健身设施，是周边居民休闲好去处。",
+    "official_url": "",
+    "highlights": [
+      "社区公园",
+      "湖泊",
+      "健身",
+      "免费"
+    ],
+    "id": "后襄河公园"
+  },
+  {
+    "name": "堤角公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "公园",
+    "address": "江岸区解放大道2058号",
+    "transport": "地铁1号线新荣站",
+    "fee": "免费",
+    "description": "武汉江南古典园林，有盆景园和樱花园，春季樱花盛开。",
+    "official_url": "",
+    "highlights": [
+      "古典园林",
+      "盆景园",
+      "樱花",
+      "免费"
+    ],
+    "id": "堤角公园"
+  },
+  {
+    "name": "武昌江滩公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区临江大道",
+    "transport": "地铁5号线昙华林站",
+    "fee": "免费",
+    "description": "武昌长江沿岸公园，可观赏长江和黄鹤楼，有观景平台和步道。",
+    "official_url": "",
+    "highlights": [
+      "长江风光",
+      "黄鹤楼",
+      "观景平台",
+      "免费"
+    ],
+    "id": "武昌江滩公园"
+  },
+  {
+    "name": "汉阳江滩公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "汉阳区晴川大道",
+    "transport": "地铁4号线拦江路站",
+    "fee": "免费",
+    "description": "汉阳长江沿岸公园，可观赏长江和龟山电视塔，秋季芦苇花海。",
+    "official_url": "",
+    "highlights": [
+      "长江风光",
+      "龟山电视塔",
+      "芦苇",
+      "免费"
+    ],
+    "id": "汉阳江滩公园"
+  },
+  {
+    "name": "龙王庙公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "公园",
+    "address": "硚口区沿河大道",
+    "transport": "地铁6号线六渡桥站",
+    "fee": "免费",
+    "description": "汉江与长江交汇处的公园，有龙王庙和观景平台，可观赏两江交汇。",
+    "official_url": "",
+    "highlights": [
+      "两江交汇",
+      "龙王庙",
+      "观景",
+      "免费"
+    ],
+    "id": "龙王庙公园"
+  },
+  {
+    "name": "龟山风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "公园",
+    "address": "汉阳区龟山北路",
+    "transport": "地铁4号线钟家村站",
+    "fee": "免费",
+    "description": "武汉城市山林，有三国鲁肃墓和电视塔，可俯瞰长江汉江交汇。",
+    "official_url": "",
+    "highlights": [
+      "三国鲁肃墓",
+      "电视塔",
+      "两江交汇",
+      "免费"
+    ],
+    "id": "龟山风景区"
+  },
+  {
+    "name": "蛇山风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区武珞路",
+    "transport": "地铁4号线首义路站",
+    "fee": "免费",
+    "description": "黄鹤楼所在山体，有岳飞亭和首义炮台，是武汉历史文化名山。",
+    "official_url": "",
+    "highlights": [
+      "黄鹤楼",
+      "岳飞亭",
+      "首义炮台",
+      "免费"
+    ],
+    "id": "蛇山风景区"
+  },
+  {
+    "name": "洪山公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "洪山区珞喻路",
+    "transport": "地铁2号线宝通寺站",
+    "fee": "免费",
+    "description": "以洪山宝塔为核心的城市公园，有宝通寺和无影塔。",
+    "official_url": "",
+    "highlights": [
+      "洪山宝塔",
+      "宝通寺",
+      "无影塔",
+      "免费"
+    ],
+    "id": "洪山公园"
+  },
+  {
+    "name": "黄鹤楼",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区蛇山坡",
+    "transport": "地铁4号线复兴路站",
+    "fee": "收费",
+    "description": "江南三大名楼之首，李白崔颢题诗名扬天下，登楼可俯瞰长江和武汉三镇。",
+    "official_url": "",
+    "highlights": [
+      "江南名楼",
+      "李白崔颢",
+      "观长江"
+    ],
+    "id": "黄鹤楼"
+  },
+  {
+    "name": "归元禅寺",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化中心",
+    "address": "汉阳区翠微街20号",
+    "transport": "地铁4号线钟家村站",
+    "fee": "免费",
+    "description": "武汉四大佛教丛林之一，有五百罗汉堂和双面观音像，数罗汉求签闻名。",
+    "official_url": "",
+    "highlights": [
+      "五百罗汉",
+      "佛教丛林",
+      "数罗汉",
+      "免费"
+    ],
+    "id": "归元禅寺"
+  },
+  {
+    "name": "古琴台",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化中心",
+    "address": "汉阳区琴台大道",
+    "transport": "地铁4号线钟家村站",
+    "fee": "收费",
+    "description": "纪念俞伯牙抚琴遇钟子期的知音圣地，高山流水觅知音典故发源地。",
+    "official_url": "",
+    "highlights": [
+      "知音文化",
+      "伯牙子期",
+      "高山流水"
+    ],
+    "id": "古琴台"
+  },
+  {
+    "name": "晴川阁",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化中心",
+    "address": "汉阳区洗马长街",
+    "transport": "地铁4号线拦江路站",
+    "fee": "免费",
+    "description": "与黄鹤楼隔江相望，崔颢晴川历历汉阳树即指此，有禹稷行宫。",
+    "official_url": "",
+    "highlights": [
+      "崔颢诗意",
+      "禹稷行宫",
+      "观黄鹤楼",
+      "免费"
+    ],
+    "id": "晴川阁"
+  },
+  {
+    "name": "长春观",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区武珞路269号",
+    "transport": "地铁4号线梅苑小区站",
+    "fee": "收费",
+    "description": "武汉道教名观，因丘处机曾在此修炼得名，有道藏阁和太清殿。",
+    "official_url": "",
+    "highlights": [
+      "道教",
+      "丘处机",
+      "道藏阁"
+    ],
+    "id": "长春观"
+  },
+  {
+    "name": "宝通禅寺",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "文化中心",
+    "address": "洪山区珞喻路339号",
+    "transport": "地铁2号线宝通寺站",
+    "fee": "收费",
+    "description": "武汉最古老寺院，有洪山宝塔和宋代铁钟，登塔可俯瞰武昌。",
+    "official_url": "",
+    "highlights": [
+      "最古寺院",
+      "洪山宝塔",
+      "宋代铁钟"
+    ],
+    "id": "宝通禅寺"
+  },
+  {
+    "name": "江汉关大楼",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化中心",
+    "address": "江岸区沿江大道129号",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "武汉近代地标建筑，新古典主义风格，现为江汉关博物馆，钟声悠扬。",
+    "official_url": "",
+    "highlights": [
+      "近代地标",
+      "新古典主义",
+      "海关钟声",
+      "免费"
+    ],
+    "id": "江汉关大楼"
+  },
+  {
+    "name": "黎黄陂路",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化中心",
+    "address": "江岸区黎黄陂路",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "街头博物馆历史街区，有俄式和欧式老建筑，文艺气息浓厚。",
+    "official_url": "",
+    "highlights": [
+      "街头博物馆",
+      "欧式建筑",
+      "文艺",
+      "免费"
+    ],
+    "id": "黎黄陂路"
+  },
+  {
+    "name": "江汉路步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "文化中心",
+    "address": "江汉区江汉路",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "武汉百年商业老街，有近代优秀建筑群，是武汉商业和文化名片。",
+    "official_url": "",
+    "highlights": [
+      "百年商业街",
+      "近代建筑",
+      "商业",
+      "免费"
+    ],
+    "id": "江汉路步行街"
+  },
+  {
+    "name": "昙华林",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区昙华林路",
+    "transport": "地铁5号线昙华林站",
+    "fee": "免费",
+    "description": "武汉文艺历史街区，有教堂、医院旧址和文创小店，文艺青年聚集地。",
+    "official_url": "",
+    "highlights": [
+      "文艺街区",
+      "教堂",
+      "文创",
+      "免费"
+    ],
+    "id": "昙华林"
+  },
+  {
+    "name": "楚河汉街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区中北路",
+    "transport": "地铁4号线楚河汉街站",
+    "fee": "免费",
+    "description": "民国风格商业文化街，沿楚河而建，有杜莎夫人蜡像馆和汉秀剧场。",
+    "official_url": "",
+    "highlights": [
+      "民国风情",
+      "楚河",
+      "杜莎蜡像馆",
+      "免费"
+    ],
+    "id": "楚河汉街"
+  },
+  {
+    "name": "汉口里",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "文化中心",
+    "address": "硚口区园博园东路",
+    "transport": "地铁6号线园博园北站",
+    "fee": "免费",
+    "description": "园博园旁老汉口风貌街区，复建老字号和汉口老建筑，体验老汉口风情。",
+    "official_url": "",
+    "highlights": [
+      "老汉口风貌",
+      "老字号",
+      "免费"
+    ],
+    "id": "汉口里"
+  },
+  {
+    "name": "中山大道",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "文化中心",
+    "address": "江汉区中山大道",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "武汉百年商业老街，有水塔和亨达利钟表等老字号，建筑文化底蕴深厚。",
+    "official_url": "",
+    "highlights": [
+      "百年老街",
+      "水塔",
+      "老字号",
+      "免费"
+    ],
+    "id": "中山大道"
+  },
+  {
+    "name": "古德寺",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化中心",
+    "address": "江岸区黄浦路上滑坡74号",
+    "transport": "地铁1号线头道街站",
+    "fee": "免费",
+    "description": "混合欧亚宗教建筑风格的独特寺院，有印缅和哥特式建筑元素，拍照胜地。",
+    "official_url": "",
+    "highlights": [
+      "欧亚建筑",
+      "哥特式",
+      "拍照",
+      "免费"
+    ],
+    "id": "古德寺"
+  },
+  {
+    "name": "大智门火车站旧址",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化中心",
+    "address": "江岸区京汉大道",
+    "transport": "地铁1号线大智路站",
+    "fee": "免费",
+    "description": "中国早期火车站，法式建筑风格，是卢汉铁路终点站，现为历史保护建筑。",
+    "official_url": "",
+    "highlights": [
+      "法式建筑",
+      "卢汉铁路",
+      "历史建筑",
+      "免费"
+    ],
+    "id": "大智门火车站旧址"
+  },
+  {
+    "name": "武汉大学",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区八一路299号",
+    "transport": "地铁2号线街道口站",
+    "fee": "免费需预约",
+    "description": "中国最美大学之一，珞珈山樱花闻名天下，有民国建筑群和老图书馆。",
+    "official_url": "",
+    "highlights": [
+      "珞珈山樱花",
+      "民国建筑",
+      "最美大学",
+      "免费"
+    ],
+    "id": "武汉大学"
+  },
+  {
+    "name": "宝岛公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "公园",
+    "address": "江岸区台北路",
+    "transport": "地铁6号线苗栗路站",
+    "fee": "免费",
+    "description": "以台湾风情为主题的社区公园，有湖泊和健身步道，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "台湾风情",
+      "湖泊",
+      "健身",
+      "免费"
+    ],
+    "id": "宝岛公园"
+  },
+  {
+    "name": "汉阳造文化创意园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化中心",
+    "address": "汉阳区龟山北路",
+    "transport": "地铁4号线钟家村站",
+    "fee": "免费",
+    "description": "由国营824厂改造的文创园区，有艺术工作室、咖啡馆和涂鸦墙。",
+    "official_url": "",
+    "highlights": [
+      "文创园",
+      "涂鸦",
+      "艺术工作室",
+      "免费"
+    ],
+    "id": "汉阳造文化创意园"
+  },
+  {
+    "name": "平和打包厂旧址",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化中心",
+    "address": "江岸区青岛路10号",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "英国商人开设的打包厂旧址，现为书店和文化空间，工业遗产活化典范。",
+    "official_url": "",
+    "highlights": [
+      "工业遗产",
+      "书店",
+      "打包厂",
+      "免费"
+    ],
+    "id": "平和打包厂旧址"
+  },
+  {
+    "name": "翟雅阁健身博物馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "博物馆",
+    "address": "武昌区昙华林路",
+    "transport": "地铁5号线昙华林站",
+    "fee": "免费",
+    "description": "武汉近代教育建筑，由美国设计师设计，现展示体育健身文化。",
+    "official_url": "",
+    "highlights": [
+      "近代教育建筑",
+      "健身文化",
+      "免费"
+    ],
+    "id": "翟雅阁健身博物馆"
+  },
+  {
+    "name": "武汉欢乐谷",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东湖高新区",
+    "type": "公园",
+    "address": "东湖高新区欢乐大道196号",
+    "transport": "地铁4号线工业四路站",
+    "fee": "收费",
+    "description": "大型主题乐园，有极速世界、飓风湾等主题区，木质过山车刺激。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "木质过山车",
+      "亲子"
+    ],
+    "id": "武汉欢乐谷"
+  },
+  {
+    "name": "武汉玛雅海滩水公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东湖高新区",
+    "type": "公园",
+    "address": "东湖高新区欢乐大道",
+    "transport": "地铁4号线工业四路站",
+    "fee": "收费",
+    "description": "夏季水上乐园，有造浪池、漂流河和多种滑道，暑期消暑胜地。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "造浪池",
+      "夏季消暑"
+    ],
+    "id": "武汉玛雅海滩水公园"
+  },
+  {
+    "name": "武汉海昌极地海洋公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "公园",
+    "address": "东西湖区金银潭大道",
+    "transport": "地铁2号线金银潭站",
+    "fee": "收费",
+    "description": "极地动物和海洋生物主题公园，有企鹅、白鲸和海豚表演。",
+    "official_url": "",
+    "highlights": [
+      "极地动物",
+      "企鹅",
+      "海豚表演"
+    ],
+    "id": "武汉海昌极地海洋公园"
+  },
+  {
+    "name": "武汉东湖海洋世界",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区沿湖大道20号",
+    "transport": "地铁8号线梨园站",
+    "fee": "收费",
+    "description": "东湖风景区内海洋馆，有海底隧道和企鹅馆，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "海底隧道",
+      "企鹅",
+      "亲子"
+    ],
+    "id": "武汉东湖海洋世界"
+  },
+  {
+    "name": "武汉野生动物王国",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "公园",
+    "address": "蔡甸区张湾街",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大型野生动物园，可自驾或乘车观赏动物，有猛兽区和草食动物区。",
+    "official_url": "",
+    "highlights": [
+      "野生动物",
+      "自驾观赏",
+      "猛兽"
+    ],
+    "id": "武汉野生动物王国"
+  },
+  {
+    "name": "汉秀剧场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "演出场馆",
+    "address": "武昌区水果湖街",
+    "transport": "地铁4号线楚河汉街站",
+    "fee": "收费",
+    "description": "由马克·费舍尔设计的水秀剧场，有水下舞台和高空跳水表演，视觉震撼。",
+    "official_url": "",
+    "highlights": [
+      "水秀",
+      "水下舞台",
+      "高空跳水"
+    ],
+    "id": "汉秀剧场"
+  },
+  {
+    "name": "湖北省图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "图书馆",
+    "address": "武昌区公正路25号",
+    "transport": "地铁2号线小龟山站",
+    "fee": "免费",
+    "description": "中国最早建立的省级公共图书馆，古籍善本丰富，有少儿阅览区。",
+    "official_url": "",
+    "highlights": [
+      "省级图书馆",
+      "古籍善本",
+      "免费"
+    ],
+    "id": "湖北省图书馆"
+  },
+  {
+    "name": "武汉图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "图书馆",
+    "address": "江汉区建设大道861号",
+    "transport": "地铁3号线菱角湖站",
+    "fee": "免费",
+    "description": "武汉市公共图书馆，馆藏丰富，提供阅览、借阅和文化讲座服务。",
+    "official_url": "",
+    "highlights": [
+      "公共图书馆",
+      "阅读",
+      "讲座",
+      "免费"
+    ],
+    "id": "武汉图书馆"
+  },
+  {
+    "name": "武汉市少年儿童图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "图书馆",
+    "address": "江岸区南京路64号",
+    "transport": "地铁2/6号线江汉路站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，有绘本馆和亲子阅读活动。",
+    "official_url": "",
+    "highlights": [
+      "少儿图书馆",
+      "绘本馆",
+      "亲子阅读",
+      "免费"
+    ],
+    "id": "武汉市少年儿童图书馆"
+  },
+  {
+    "name": "汤湖图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "图书馆",
+    "address": "蔡甸区兴华路",
+    "transport": "地铁3号线沌阳大道站",
+    "fee": "免费",
+    "description": "由日本设计师设计的湖畔图书馆，环境优美，有少儿区和咖啡吧。",
+    "official_url": "",
+    "highlights": [
+      "湖畔图书馆",
+      "建筑设计",
+      "少儿区",
+      "免费"
+    ],
+    "id": "汤湖图书馆"
+  },
+  {
+    "name": "青山图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "青山区",
+    "type": "图书馆",
+    "address": "青山区和平大道",
+    "transport": "地铁5号线红钢城站",
+    "fee": "免费",
+    "description": "青山区公共图书馆，提供图书借阅和文化活动，有电子阅览室。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "电子阅览",
+      "免费"
+    ],
+    "id": "青山图书馆"
+  },
+  {
+    "name": "武昌区图书馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "图书馆",
+    "address": "武昌区三道街",
+    "transport": "地铁5号线昙华林站",
+    "fee": "免费",
+    "description": "武昌区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "阅读推广",
+      "免费"
+    ],
+    "id": "武昌区图书馆"
+  },
+  {
+    "name": "合美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "美术馆",
+    "address": "洪山区野芷湖西路",
+    "transport": "地铁8号线马房山站",
+    "fee": "免费",
+    "description": "由光谷联合集团创办的当代美术馆，展示当代艺术和摄影作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "摄影",
+      "免费"
+    ],
+    "id": "合美术馆"
+  },
+  {
+    "name": "汤湖美术馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "美术馆",
+    "address": "蔡甸区兴华路",
+    "transport": "地铁3号线沌阳大道站",
+    "fee": "免费",
+    "description": "汤湖公园内美术馆，展示当代艺术和书法绘画作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "书法绘画",
+      "免费"
+    ],
+    "id": "汤湖美术馆"
+  },
+  {
+    "name": "武汉体育中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "体育中心",
+    "address": "蔡甸区车城北路",
+    "transport": "地铁3号线体育中心站",
+    "fee": "收费",
+    "description": "大型体育中心，有体育场、体育馆和游泳馆，举办中超赛事和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "体育场",
+      "中超赛事",
+      "演唱会"
+    ],
+    "id": "武汉体育中心"
+  },
+  {
+    "name": "武汉五环体育中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "type": "体育中心",
+    "address": "东西湖区金山大道",
+    "transport": "地铁6号线五环体育中心站",
+    "fee": "收费",
+    "description": "东西湖区大型体育中心，有体育场和体育馆，举办赛事和活动。",
+    "official_url": "",
+    "highlights": [
+      "体育场",
+      "体育馆",
+      "赛事"
+    ],
+    "id": "武汉五环体育中心"
+  },
+  {
+    "name": "光谷国际网球中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "体育中心",
+    "address": "洪山区高新二路",
+    "transport": "地铁11号线光谷生物园站",
+    "fee": "收费",
+    "description": "WTA武汉网球公开赛举办地，有中央球场和室内训练馆。",
+    "official_url": "",
+    "highlights": [
+      "WTA赛事",
+      "网球",
+      "中央球场"
+    ],
+    "id": "光谷国际网球中心"
+  },
+  {
+    "name": "武汉全民健身中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "体育中心",
+    "address": "江岸区后湖大道",
+    "transport": "地铁3号线后湖大道站",
+    "fee": "收费",
+    "description": "市民健身综合场馆，有游泳、羽毛球和乒乓球等设施。",
+    "official_url": "",
+    "highlights": [
+      "全民健身",
+      "游泳",
+      "羽毛球"
+    ],
+    "id": "武汉全民健身中心"
+  },
+  {
+    "name": "武汉天地",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "文化中心",
+    "address": "江岸区芦沟桥路28号",
+    "transport": "地铁1号线黄浦路站",
+    "fee": "免费",
+    "description": "由老厂房改造的商业文化街区，有餐饮、艺术展览和江景，时尚休闲地。",
+    "official_url": "",
+    "highlights": [
+      "老厂房改造",
+      "艺术展览",
+      "江景",
+      "免费"
+    ],
+    "id": "武汉天地"
+  },
+  {
+    "name": "光谷步行街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "文化中心",
+    "address": "洪山区珞喻路",
+    "transport": "地铁2号线光谷广场站",
+    "fee": "免费",
+    "description": "世界最长步行街，有世界城、西班牙风情街和意大利风情街。",
+    "official_url": "",
+    "highlights": [
+      "最长步行街",
+      "风情街",
+      "购物",
+      "免费"
+    ],
+    "id": "光谷步行街"
+  },
+  {
+    "name": "楚河汉街万达广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区中北路",
+    "transport": "地铁4号线楚河汉街站",
+    "fee": "免费",
+    "description": "楚河汉街大型商业综合体，有购物、餐饮和汉秀剧场。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "汉秀",
+      "免费"
+    ],
+    "id": "楚河汉街万达广场"
+  },
+  {
+    "name": "武汉国际广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "文化中心",
+    "address": "江汉区解放大道690号",
+    "transport": "地铁2号线中山公园站",
+    "fee": "免费",
+    "description": "武汉高端商业综合体，汇聚奢侈品品牌和米其林餐饮。",
+    "official_url": "",
+    "highlights": [
+      "高端商业",
+      "奢侈品",
+      "米其林",
+      "免费"
+    ],
+    "id": "武汉国际广场"
+  },
+  {
+    "name": "武汉群星城",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区徐东大街",
+    "transport": "地铁8号线徐东站",
+    "fee": "免费",
+    "description": "以生态为主题的大型购物中心，有屋顶花园和室内瀑布。",
+    "official_url": "",
+    "highlights": [
+      "生态主题",
+      "屋顶花园",
+      "室内瀑布",
+      "免费"
+    ],
+    "id": "武汉群星城"
+  },
+  {
+    "name": "武汉K11 Select",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "文化中心",
+    "address": "洪山区关山大道",
+    "transport": "地铁2号线光谷大道站",
+    "fee": "免费",
+    "description": "光谷艺术购物中心，融合艺术与商业，有创意设计和文化空间。",
+    "official_url": "",
+    "highlights": [
+      "艺术商业",
+      "创意设计",
+      "文化空间",
+      "免费"
+    ],
+    "id": "武汉K11 Select"
+  },
+  {
+    "name": "武汉荟聚中心",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "文化中心",
+    "address": "硚口区园博园东路",
+    "transport": "地铁6号线园博园北站",
+    "fee": "免费",
+    "description": "大型家居购物中心，有宜家和亲子娱乐设施，适合家庭购物。",
+    "official_url": "",
+    "highlights": [
+      "家居购物",
+      "宜家",
+      "亲子",
+      "免费"
+    ],
+    "id": "武汉荟聚中心"
+  },
+  {
+    "name": "武汉梦时代广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区武珞路",
+    "transport": "地铁2号线宝通寺站",
+    "fee": "免费",
+    "description": "全球最大纯商业体，有室内滑雪场和过山车，购物娱乐一体。",
+    "official_url": "",
+    "highlights": [
+      "全球最大商业体",
+      "室内滑雪",
+      "过山车",
+      "免费"
+    ],
+    "id": "武汉梦时代广场"
+  },
+  {
+    "name": "东湖绿道",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区东湖",
+    "transport": "地铁8号线梨园站",
+    "fee": "免费",
+    "description": "世界级环湖绿道，全长101公里，可骑行和徒步，串联东湖各景区。",
+    "official_url": "",
+    "highlights": [
+      "环湖绿道",
+      "骑行",
+      "徒步",
+      "免费"
+    ],
+    "id": "东湖绿道"
+  },
+  {
+    "name": "武汉长江大桥",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "文化中心",
+    "address": "武昌区临江大道",
+    "transport": "地铁5号线司门口黄鹤楼站",
+    "fee": "免费",
+    "description": "万里长江第一桥，1957年建成，可步行过江观赏长江和黄鹤楼。",
+    "official_url": "",
+    "highlights": [
+      "长江第一桥",
+      "步行过江",
+      "观江景",
+      "免费"
+    ],
+    "id": "武汉长江大桥"
+  },
+  {
+    "name": "晴川桥",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "文化中心",
+    "address": "汉阳区晴川大道",
+    "transport": "地铁4号线拦江路站",
+    "fee": "免费",
+    "description": "汉江上拱桥，连接汉口和汉阳，可观赏汉江和两江交汇。",
+    "official_url": "",
+    "highlights": [
+      "汉江拱桥",
+      "两江交汇",
+      "观景",
+      "免费"
+    ],
+    "id": "晴川桥"
+  },
+  {
+    "name": "武汉大学樱花大道",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区八一路299号",
+    "transport": "地铁2号线街道口站",
+    "fee": "免费需预约",
+    "description": "武大樱花闻名全国，春季樱花盛开时如云似霞，是赏樱胜地。",
+    "official_url": "",
+    "highlights": [
+      "樱花",
+      "春季赏花",
+      "大学",
+      "免费"
+    ],
+    "id": "武汉大学樱花大道"
+  },
+  {
+    "name": "磨山风景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区沿湖大道",
+    "transport": "地铁8号线磨山站",
+    "fee": "免费",
+    "description": "东湖核心景区，有樱花园、梅花园和楚城，春季赏花胜地。",
+    "official_url": "",
+    "highlights": [
+      "樱花园",
+      "梅花园",
+      "楚城",
+      "免费"
+    ],
+    "id": "磨山风景区"
+  },
+  {
+    "name": "落雁景区",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区落雁路",
+    "transport": "公交513路",
+    "fee": "免费",
+    "description": "东湖生态最好的景区，有湿地和候鸟栖息地，秋季芦荻花海壮观。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "候鸟",
+      "芦荻花海",
+      "免费"
+    ],
+    "id": "落雁景区"
+  },
+  {
+    "name": "吹笛景区(马鞍山)",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "公园",
+    "address": "洪山区珞喻东路",
+    "transport": "公交518路",
+    "fee": "免费",
+    "description": "东湖最大景区，有森林和烧烤区，适合户外拓展和亲子活动。",
+    "official_url": "",
+    "highlights": [
+      "森林",
+      "烧烤",
+      "户外拓展",
+      "免费"
+    ],
+    "id": "吹笛景区(马鞍山)"
+  },
+  {
+    "name": "武汉园博园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "公园",
+    "address": "硚口区金山大道",
+    "transport": "地铁6号线园博园北站",
+    "fee": "收费",
+    "description": "园林博览会举办地，有全国各地园林景观和长江文明馆。",
+    "official_url": "",
+    "highlights": [
+      "园林景观",
+      "长江文明馆",
+      "园博会"
+    ],
+    "id": "武汉园博园"
+  },
+  {
+    "name": "武汉紫阳湖公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "公园",
+    "address": "武昌区紫阳路",
+    "transport": "地铁5号线昙华林站",
+    "fee": "免费",
+    "description": "武昌区历史名湖公园，有紫阳湖和古桥，夏季荷花盛开，承载老武昌记忆。",
+    "official_url": "",
+    "highlights": [
+      "紫阳湖",
+      "荷花",
+      "老武昌记忆",
+      "免费"
+    ],
+    "id": "武汉紫阳湖公园"
+  },
+  {
+    "name": "武汉西北湖绿化广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "公园",
+    "address": "江汉区建设大道",
+    "transport": "地铁3号线菱角湖站",
+    "fee": "免费",
+    "description": "江汉区城市绿化广场，有湖景和健身步道，是商务区休闲好去处。",
+    "official_url": "",
+    "highlights": [
+      "绿化广场",
+      "湖景",
+      "健身",
+      "免费"
+    ],
+    "id": "武汉西北湖绿化广场"
+  },
+  {
+    "name": "武汉光谷广场",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "洪山区",
+    "type": "文化中心",
+    "address": "洪山区珞喻路",
+    "transport": "地铁2号线光谷广场站",
+    "fee": "免费",
+    "description": "光谷核心商圈广场，有星河雕塑和地下通道，是武汉科技和商业地标。",
+    "official_url": "",
+    "highlights": [
+      "光谷地标",
+      "星河雕塑",
+      "科技商圈",
+      "免费"
+    ],
+    "id": "武汉光谷广场"
+  },
+  {
+    "name": "陕西历史博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "博物馆",
+    "address": "雁塔区小寨东路91号",
+    "transport": "地铁2号线小寨站",
+    "fee": "免费需预约",
+    "description": "中国第一座大型现代化国家级博物馆，馆藏文物170余万件，何家村窖藏闻名。",
+    "official_url": "",
+    "highlights": [
+      "国家级博物馆",
+      "何家村窖藏",
+      "免费"
+    ],
+    "id": "陕西历史博物馆"
+  },
+  {
+    "name": "西安博物院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "碑林区友谊西路72号",
+    "transport": "地铁2号线南稍门站",
+    "fee": "免费需预约",
+    "description": "与小雁塔一体的博物馆，馆藏唐代金银器和佛教造像，园林优美。",
+    "official_url": "",
+    "highlights": [
+      "小雁塔",
+      "唐代金银器",
+      "免费"
+    ],
+    "id": "西安博物院"
+  },
+  {
+    "name": "陕西科技馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "科技馆",
+    "address": "新城区西新街8号",
+    "transport": "地铁2号线钟楼站",
+    "fee": "免费需预约",
+    "description": "陕西省科普教育场馆，有机械、声光电磁等互动展区，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "科普互动",
+      "声光电磁",
+      "免费"
+    ],
+    "id": "陕西科技馆"
+  },
+  {
+    "name": "秦始皇帝陵博物院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "博物馆",
+    "address": "临潼区秦陵北路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界第八大奇迹，秦始皇兵马俑坑和铜车马闻名于世，为世界文化遗产。",
+    "official_url": "",
+    "highlights": [
+      "兵马俑",
+      "世界遗产",
+      "铜车马"
+    ],
+    "id": "秦始皇帝陵博物院"
+  },
+  {
+    "name": "西安碑林博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "碑林区三学街15号",
+    "transport": "地铁2号线永宁门站",
+    "fee": "收费",
+    "description": "中国收藏碑石最多博物馆，有开成石经和大秦景教流行中国碑。",
+    "official_url": "",
+    "highlights": [
+      "碑石",
+      "开成石经",
+      "大秦景教碑"
+    ],
+    "id": "西安碑林博物馆"
+  },
+  {
+    "name": "半坡遗址博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "博物馆",
+    "address": "灞桥区半引路155号",
+    "transport": "地铁1号线半坡站",
+    "fee": "收费",
+    "description": "中国第一座史前遗址博物馆，展示六千年前仰韶文化母系氏族聚落遗址。",
+    "official_url": "",
+    "highlights": [
+      "仰韶文化",
+      "史前遗址",
+      "母系氏族"
+    ],
+    "id": "半坡遗址博物馆"
+  },
+  {
+    "name": "大明宫遗址博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "博物馆",
+    "address": "未央区自强东路585号",
+    "transport": "地铁4号线大明宫站",
+    "fee": "免费",
+    "description": "唐大明宫遗址博物馆，展示唐代皇宫遗址和出土文物，含丹凤门遗址。",
+    "official_url": "",
+    "highlights": [
+      "唐大明宫",
+      "丹凤门",
+      "遗址",
+      "免费"
+    ],
+    "id": "大明宫遗址博物馆"
+  },
+  {
+    "name": "汉阳陵博物院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "咸阳市",
+    "type": "博物馆",
+    "address": "咸阳市渭城区正阳镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "汉景帝刘启陵墓博物馆，地下遗址展厅可观赏汉代陶俑和文物。",
+    "official_url": "",
+    "highlights": [
+      "汉景帝",
+      "陶俑",
+      "地下展厅"
+    ],
+    "id": "汉阳陵博物院"
+  },
+  {
+    "name": "陕西自然博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "博物馆",
+    "address": "雁塔区长安南路88号",
+    "transport": "地铁2号线会展中心站",
+    "fee": "收费",
+    "description": "展示自然历史和科学技术，有肯尼斯·贝林展馆和煤海之光展馆。",
+    "official_url": "",
+    "highlights": [
+      "自然历史",
+      "贝林展馆",
+      "科技"
+    ],
+    "id": "陕西自然博物馆"
+  },
+  {
+    "name": "西安市钟鼓楼博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "碑林区西大街",
+    "transport": "地铁2号线钟楼站",
+    "fee": "收费",
+    "description": "西安钟楼和鼓楼，钟楼为中国现存最大钟楼，登楼可俯瞰古城四方。",
+    "official_url": "",
+    "highlights": [
+      "钟楼",
+      "鼓楼",
+      "俯瞰古城"
+    ],
+    "id": "西安市钟鼓楼博物馆"
+  },
+  {
+    "name": "大唐西市博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "博物馆",
+    "address": "莲湖区劳动南路118号",
+    "transport": "地铁1号线劳动路站",
+    "fee": "免费",
+    "description": "建在唐代西市遗址上的民办博物馆，展示丝绸之路起点和唐代市井文化。",
+    "official_url": "",
+    "highlights": [
+      "丝绸之路",
+      "唐代西市",
+      "免费"
+    ],
+    "id": "大唐西市博物馆"
+  },
+  {
+    "name": "西安事变纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "碑林区建国路69号",
+    "transport": "地铁4号线大差市站",
+    "fee": "免费",
+    "description": "张学良公馆旧址，展示西安事变历史和张学良将军生平事迹。",
+    "official_url": "",
+    "highlights": [
+      "西安事变",
+      "张学良",
+      "免费"
+    ],
+    "id": "西安事变纪念馆"
+  },
+  {
+    "name": "八路军西安办事处纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "博物馆",
+    "address": "新城区北新街七贤庄",
+    "transport": "地铁1号线五路口站",
+    "fee": "免费",
+    "description": "抗战时期八路军西安办事处旧址，展示抗战历史和革命文物。",
+    "official_url": "",
+    "highlights": [
+      "八路军办事处",
+      "抗战",
+      "免费"
+    ],
+    "id": "八路军西安办事处纪念馆"
+  },
+  {
+    "name": "西安博物院(小雁塔)",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "博物馆",
+    "address": "碑林区友谊西路",
+    "transport": "地铁2号线南稍门站",
+    "fee": "免费需预约",
+    "description": "小雁塔和西安博物院一体，荐福寺塔历经地震裂合奇迹。",
+    "official_url": "",
+    "highlights": [
+      "小雁塔",
+      "荐福寺",
+      "裂合奇迹",
+      "免费"
+    ],
+    "id": "西安博物院(小雁塔)"
+  },
+  {
+    "name": "陕西美术博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "美术馆",
+    "address": "碑林区长安北路14号",
+    "transport": "地铁2号线省体育场站",
+    "fee": "免费",
+    "description": "陕西省美术博物馆，展示陕西历代美术作品和当代艺术展览。",
+    "official_url": "",
+    "highlights": [
+      "美术作品",
+      "当代艺术",
+      "免费"
+    ],
+    "id": "陕西美术博物馆"
+  },
+  {
+    "name": "曲江艺术博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "美术馆",
+    "address": "雁塔区大雁塔南广场",
+    "transport": "地铁4号线大雁塔站",
+    "fee": "收费",
+    "description": "曲江新区艺术博物馆，展示古代壁画和当代艺术，有金缕玉衣展览。",
+    "official_url": "",
+    "highlights": [
+      "古代壁画",
+      "金缕玉衣",
+      "当代艺术"
+    ],
+    "id": "曲江艺术博物馆"
+  },
+  {
+    "name": "西安美术馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "美术馆",
+    "address": "雁塔区曲江新区",
+    "transport": "地铁4号线大唐芙蓉园站",
+    "fee": "免费",
+    "description": "曲江新区当代美术馆，展示当代艺术和实验艺术作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "实验艺术",
+      "免费"
+    ],
+    "id": "西安美术馆"
+  },
+  {
+    "name": "西安大唐西市博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "博物馆",
+    "address": "莲湖区劳动南路",
+    "transport": "地铁1号线劳动路站",
+    "fee": "免费",
+    "description": "丝绸之路东方起点的唐代西市遗址博物馆，展示唐代商业和丝路文化。",
+    "official_url": "",
+    "highlights": [
+      "丝路起点",
+      "唐代商业",
+      "免费"
+    ],
+    "id": "西安大唐西市博物馆"
+  },
+  {
+    "name": "西北农林科技大学博览园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "杨凌区",
+    "type": "博物馆",
+    "address": "杨凌示范区邰城路3号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "中国最大农业博物馆群，有昆虫馆、动物馆和土壤馆，科普性强。",
+    "official_url": "",
+    "highlights": [
+      "农业博物馆",
+      "昆虫",
+      "动物标本"
+    ],
+    "id": "西北农林科技大学博览园"
+  },
+  {
+    "name": "西安城市规划展览馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "博物馆",
+    "address": "未央区张家堡",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "展示西安城市规划历史和未来发展，有城市模型和沙盘。",
+    "official_url": "",
+    "highlights": [
+      "城市规划",
+      "城市模型",
+      "免费"
+    ],
+    "id": "西安城市规划展览馆"
+  },
+  {
+    "name": "大雁塔景区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区慈恩西路",
+    "transport": "地铁4号线大雁塔站",
+    "fee": "免费",
+    "description": "大雁塔和南北广场，亚洲最大矩阵音乐喷泉闻名，是西安地标。",
+    "official_url": "",
+    "highlights": [
+      "大雁塔",
+      "音乐喷泉",
+      "地标",
+      "免费"
+    ],
+    "id": "大雁塔景区"
+  },
+  {
+    "name": "曲江池遗址公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区曲江池西路",
+    "transport": "地铁4号线曲江池西站",
+    "fee": "免费",
+    "description": "唐代曲江池皇家园林遗址，环湖景观优美，有阅江楼和石羊。",
+    "official_url": "",
+    "highlights": [
+      "唐代园林",
+      "环湖景观",
+      "阅江楼",
+      "免费"
+    ],
+    "id": "曲江池遗址公园"
+  },
+  {
+    "name": "西安植物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区翠华南路",
+    "transport": "地铁2号线会展中心站",
+    "fee": "收费",
+    "description": "陕西省植物园，有郁金香、牡丹、樱花等专类园，春季赏花胜地。",
+    "official_url": "",
+    "highlights": [
+      "郁金香",
+      "牡丹",
+      "樱花"
+    ],
+    "id": "西安植物园"
+  },
+  {
+    "name": "大唐芙蓉园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区芙蓉西路99号",
+    "transport": "地铁4号线大唐芙蓉园站",
+    "fee": "收费",
+    "description": "中国第一个全方位展示盛唐风貌的大型皇家园林，夜景灯光和水幕电影闻名。",
+    "official_url": "",
+    "highlights": [
+      "盛唐园林",
+      "夜景灯光",
+      "水幕电影"
+    ],
+    "id": "大唐芙蓉园"
+  },
+  {
+    "name": "兴庆宫公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "公园",
+    "address": "碑林区咸宁西路55号",
+    "transport": "地铁6号线交通大学站",
+    "fee": "免费",
+    "description": "唐代兴庆宫遗址公园，有沉香亭和阿培仲麻吕纪念碑，西安老牌公园。",
+    "official_url": "",
+    "highlights": [
+      "兴庆宫",
+      "沉香亭",
+      "唐代遗址",
+      "免费"
+    ],
+    "id": "兴庆宫公园"
+  },
+  {
+    "name": "环城公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "公园",
+    "address": "碑林区环城南路",
+    "transport": "地铁2号线永宁门站",
+    "fee": "免费",
+    "description": "沿西安城墙环绕的公园，有护城河和环城林带，适合散步和观赏城墙。",
+    "official_url": "",
+    "highlights": [
+      "城墙",
+      "护城河",
+      "环城林带",
+      "免费"
+    ],
+    "id": "环城公园"
+  },
+  {
+    "name": "莲湖公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "公园",
+    "address": "莲湖区莲湖路18号",
+    "transport": "地铁1号线洒金桥站",
+    "fee": "免费",
+    "description": "西安老牌公园，有荷花池和茶社，夏季荷花盛开，承载老西安记忆。",
+    "official_url": "",
+    "highlights": [
+      "荷花池",
+      "茶社",
+      "老牌公园",
+      "免费"
+    ],
+    "id": "莲湖公园"
+  },
+  {
+    "name": "浐灞国家湿地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "未央区浐灞生态区",
+    "transport": "地铁3号线浐灞中心站",
+    "fee": "免费",
+    "description": "国家级湿地公园，有湖泊、芦苇荡和候鸟栖息地，生态优美。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "候鸟",
+      "生态",
+      "免费"
+    ],
+    "id": "浐灞国家湿地公园"
+  },
+  {
+    "name": "汉城湖公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "未央区凤城三路",
+    "transport": "地铁4号线凤城九路站",
+    "fee": "免费",
+    "description": "以汉长安城护城河为基础的公园，有大风阁和汉武大帝雕像，汉文化主题。",
+    "official_url": "",
+    "highlights": [
+      "汉文化",
+      "大风阁",
+      "护城河",
+      "免费"
+    ],
+    "id": "汉城湖公园"
+  },
+  {
+    "name": "昆明池七夕公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "长安区斗门街道",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "中国第一大型人工湖昆明池遗址，牛郎织女发源地，七夕文化主题。",
+    "official_url": "",
+    "highlights": [
+      "昆明池",
+      "七夕文化",
+      "牛郎织女",
+      "免费"
+    ],
+    "id": "昆明池七夕公园"
+  },
+  {
+    "name": "翠华山国家地质公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "长安区太乙宫街道",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "中国山崩地质奇观，有冰洞、风洞和天池，是西安近郊登山胜地。",
+    "official_url": "",
+    "highlights": [
+      "山崩地质",
+      "冰洞",
+      "天池"
+    ],
+    "id": "翠华山国家地质公园"
+  },
+  {
+    "name": "南湖公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区曲江池西路",
+    "transport": "地铁4号线曲江池西站",
+    "fee": "免费",
+    "description": "曲江池遗址公园核心景区，湖面宽阔，有亭台和石桥，夜景优美。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "亭台",
+      "夜景",
+      "免费"
+    ],
+    "id": "南湖公园"
+  },
+  {
+    "name": "革命公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "公园",
+    "address": "新城区西五路",
+    "transport": "地铁1号线五路口站",
+    "fee": "免费",
+    "description": "为纪念北伐战争烈士而建，有革命亭和杨虎城将军雕像。",
+    "official_url": "",
+    "highlights": [
+      "革命烈士",
+      "革命亭",
+      "杨虎城",
+      "免费"
+    ],
+    "id": "革命公园"
+  },
+  {
+    "name": "长乐公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "公园",
+    "address": "新城区长乐路",
+    "transport": "地铁1号线长乐坡站",
+    "fee": "免费",
+    "description": "由老动物园改造的城市公园，有湖泊和健身设施，是周边居民休闲地。",
+    "official_url": "",
+    "highlights": [
+      "城市公园",
+      "湖泊",
+      "健身",
+      "免费"
+    ],
+    "id": "长乐公园"
+  },
+  {
+    "name": "丰庆公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "公园",
+    "address": "莲湖区丰庆路",
+    "transport": "地铁1号线开远门站",
+    "fee": "免费",
+    "description": "西安老牌公园，有湖景和竹林，秋季银杏和红枫景色优美。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "银杏",
+      "红枫",
+      "免费"
+    ],
+    "id": "丰庆公园"
+  },
+  {
+    "name": "文景山公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "未央区文景路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "由建筑垃圾堆改造的生态公园，有山丘和草坪，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "生态公园",
+      "山丘",
+      "草坪",
+      "免费"
+    ],
+    "id": "文景山公园"
+  },
+  {
+    "name": "灞桥生态湿地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "公园",
+    "address": "灞桥区灞河",
+    "transport": "地铁1号线纺织城站",
+    "fee": "免费",
+    "description": "沿灞河的湿地公园，有芦苇荡和栈道，是观鸟和散步的好去处。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "灞河",
+      "观鸟",
+      "免费"
+    ],
+    "id": "灞桥生态湿地公园"
+  },
+  {
+    "name": "文景公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "社区公园，有湖泊和儿童游乐设施，适合亲子休闲。",
+    "official_url": "",
+    "highlights": [
+      "社区公园",
+      "儿童游乐",
+      "亲子",
+      "免费"
+    ],
+    "id": "文景公园"
+  },
+  {
+    "name": "老城根G park公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "公园",
+    "address": "莲湖区星火路",
+    "transport": "地铁1号线洒金桥站",
+    "fee": "免费",
+    "description": "老城根商业区公园，有水景和艺术装置，适合拍照打卡。",
+    "official_url": "",
+    "highlights": [
+      "商业区公园",
+      "艺术装置",
+      "拍照",
+      "免费"
+    ],
+    "id": "老城根G park公园"
+  },
+  {
+    "name": "杜邑遗址公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区杜陵",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "汉代杜陵遗址公园，有大草坪和花海，是露营和踏青胜地。",
+    "official_url": "",
+    "highlights": [
+      "杜陵遗址",
+      "草坪",
+      "露营",
+      "免费"
+    ],
+    "id": "杜邑遗址公园"
+  },
+  {
+    "name": "雁鸣湖湿地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "公园",
+    "address": "灞桥区浐河",
+    "transport": "地铁5号线雁鸣湖站",
+    "fee": "免费",
+    "description": "浐河沿线湿地公园，有湖泊和候鸟，适合散步和骑行。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "候鸟",
+      "骑行",
+      "免费"
+    ],
+    "id": "雁鸣湖湿地公园"
+  },
+  {
+    "name": "世博园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "公园",
+    "address": "灞桥区世博大道1号",
+    "transport": "地铁3号线香湖湾站",
+    "fee": "免费",
+    "description": "2011世园会旧址，有长安塔、创意馆和自然馆，湖光山色优美。",
+    "official_url": "",
+    "highlights": [
+      "世园会",
+      "长安塔",
+      "湖景",
+      "免费"
+    ],
+    "id": "世博园"
+  },
+  {
+    "name": "木塔寺公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区科技六路",
+    "transport": "地铁6号线木塔寺站",
+    "fee": "免费",
+    "description": "唐代木塔寺遗址公园，有古塔遗址和园林景观，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "木塔寺遗址",
+      "唐代园林",
+      "免费"
+    ],
+    "id": "木塔寺公园"
+  },
+  {
+    "name": "新纪元公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "未央区社区公园，有草坪和健身步道，是市民休闲好去处。",
+    "official_url": "",
+    "highlights": [
+      "社区公园",
+      "草坪",
+      "健身",
+      "免费"
+    ],
+    "id": "新纪元公园"
+  },
+  {
+    "name": "樱花广场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "长安区韦曲北街",
+    "transport": "地铁2号线航天城站",
+    "fee": "免费",
+    "description": "长安区以樱花为主题的广场，春季樱花盛开，是赏樱胜地。",
+    "official_url": "",
+    "highlights": [
+      "樱花",
+      "春季赏花",
+      "广场",
+      "免费"
+    ],
+    "id": "樱花广场"
+  },
+  {
+    "name": "航天城中湖公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "长安区航天大道",
+    "transport": "地铁4号线航天大道站",
+    "fee": "免费",
+    "description": "航天新城中央公园，有湖泊和草坪，适合亲子和休闲。",
+    "official_url": "",
+    "highlights": [
+      "中央公园",
+      "湖泊",
+      "亲子",
+      "免费"
+    ],
+    "id": "航天城中湖公园"
+  },
+  {
+    "name": "潏河公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "长安区潏河",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "沿潏河的生态公园，有湿地和花海，适合散步和露营。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "花海",
+      "露营",
+      "免费"
+    ],
+    "id": "潏河公园"
+  },
+  {
+    "name": "紫薇城市运动公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "体育中心",
+    "address": "雁塔区科技路",
+    "transport": "地铁3号线科技路站",
+    "fee": "免费",
+    "description": "高新区运动主题公园，有网球场和篮球场，适合运动健身。",
+    "official_url": "",
+    "highlights": [
+      "运动主题",
+      "网球",
+      "篮球",
+      "免费"
+    ],
+    "id": "紫薇城市运动公园"
+  },
+  {
+    "name": "唐城墙遗址公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区唐延路",
+    "transport": "地铁3号线延平门站",
+    "fee": "免费",
+    "description": "唐代城墙遗址公园，沿唐延路带状分布，有绿化和步道，适合散步。",
+    "official_url": "",
+    "highlights": [
+      "唐城墙遗址",
+      "步道",
+      "绿化",
+      "免费"
+    ],
+    "id": "唐城墙遗址公园"
+  },
+  {
+    "name": "秦始皇兵马俑",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "文化中心",
+    "address": "临潼区秦陵北路",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界第八大奇迹，秦始皇陵兵马俑坑，数千陶俑陶马栩栩如生。",
+    "official_url": "",
+    "highlights": [
+      "世界奇迹",
+      "陶俑",
+      "秦始皇陵"
+    ],
+    "id": "秦始皇兵马俑"
+  },
+  {
+    "name": "大雁塔",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区慈恩西路",
+    "transport": "地铁4号线大雁塔站",
+    "fee": "收费",
+    "description": "唐代玄奘为藏经译经而建，七层楼阁式砖塔，为西安标志性建筑。",
+    "official_url": "",
+    "highlights": [
+      "玄奘",
+      "藏经译经",
+      "标志性建筑"
+    ],
+    "id": "大雁塔"
+  },
+  {
+    "name": "小雁塔",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区友谊西路72号",
+    "transport": "地铁2号线南稍门站",
+    "fee": "免费需预约",
+    "description": "唐代荐福寺塔，密檐式砖塔，历经地震裂合堪称奇迹，为世界遗产。",
+    "official_url": "",
+    "highlights": [
+      "荐福寺",
+      "密檐砖塔",
+      "世界遗产",
+      "免费"
+    ],
+    "id": "小雁塔"
+  },
+  {
+    "name": "西安城墙",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区南大街",
+    "transport": "地铁2号线永宁门站",
+    "fee": "收费",
+    "description": "中国现存最完整古代城垣，可骑行和漫步城墙，夜景灯光秀壮观。",
+    "official_url": "",
+    "highlights": [
+      "古代城垣",
+      "城墙骑行",
+      "夜景灯光"
+    ],
+    "id": "西安城墙"
+  },
+  {
+    "name": "华清宫",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "临潼区",
+    "type": "文化中心",
+    "address": "临潼区华清路38号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "唐代皇家温泉行宫，杨贵妃赐浴处，有长恨歌实景演出和骊山兵谏亭。",
+    "official_url": "",
+    "highlights": [
+      "皇家温泉",
+      "杨贵妃",
+      "长恨歌演出"
+    ],
+    "id": "华清宫"
+  },
+  {
+    "name": "钟楼",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区东西南北大街",
+    "transport": "地铁2号线钟楼站",
+    "fee": "收费",
+    "description": "中国现存最大最完整古代钟楼，登楼可俯瞰古城四方，夜景壮观。",
+    "official_url": "",
+    "highlights": [
+      "最大钟楼",
+      "俯瞰古城",
+      "夜景"
+    ],
+    "id": "钟楼"
+  },
+  {
+    "name": "鼓楼",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区北院门",
+    "transport": "地铁2号线钟楼站",
+    "fee": "收费",
+    "description": "中国现存最大古代鼓楼，与钟楼相望，晨钟暮鼓，回民街相邻。",
+    "official_url": "",
+    "highlights": [
+      "最大鼓楼",
+      "晨钟暮鼓",
+      "回民街"
+    ],
+    "id": "鼓楼"
+  },
+  {
+    "name": "回民街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区北院门",
+    "transport": "地铁2号线钟楼站",
+    "fee": "免费",
+    "description": "西安著名美食文化街区，有牛羊肉泡馍、肉夹馍等西北美食，热闹非凡。",
+    "official_url": "",
+    "highlights": [
+      "美食街区",
+      "肉夹馍",
+      "羊肉泡馍",
+      "免费"
+    ],
+    "id": "回民街"
+  },
+  {
+    "name": "大唐不夜城",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区慈恩路",
+    "transport": "地铁4号线大雁塔站",
+    "fee": "免费",
+    "description": "以盛唐文化为主题的步行街，有不倒翁小姐姐和灯光秀，网红打卡地。",
+    "official_url": "",
+    "highlights": [
+      "盛唐文化",
+      "不倒翁",
+      "灯光秀",
+      "免费"
+    ],
+    "id": "大唐不夜城"
+  },
+  {
+    "name": "大明宫国家遗址公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化中心",
+    "address": "未央区自强东路585号",
+    "transport": "地铁4号线大明宫站",
+    "fee": "免费",
+    "description": "唐代大明宫遗址，含丹凤门和含元殿遗址，是唐代最大皇宫。",
+    "official_url": "",
+    "highlights": [
+      "唐大明宫",
+      "丹凤门",
+      "含元殿",
+      "免费"
+    ],
+    "id": "大明宫国家遗址公园"
+  },
+  {
+    "name": "大唐西市",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区劳动南路",
+    "transport": "地铁1号线劳动路站",
+    "fee": "免费",
+    "description": "丝绸之路东方起点，再现唐代西市商业繁华，有博物馆和商业街。",
+    "official_url": "",
+    "highlights": [
+      "丝路起点",
+      "唐代西市",
+      "商业街",
+      "免费"
+    ],
+    "id": "大唐西市"
+  },
+  {
+    "name": "永兴坊",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "文化中心",
+    "address": "新城区中山门",
+    "transport": "地铁1号线朝阳门站",
+    "fee": "免费",
+    "description": "陕西非遗美食街区，有摔碗酒和各地特色小吃，体验关中民俗。",
+    "official_url": "",
+    "highlights": [
+      "非遗美食",
+      "摔碗酒",
+      "关中民俗",
+      "免费"
+    ],
+    "id": "永兴坊"
+  },
+  {
+    "name": "书院门",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区书院门",
+    "transport": "地铁2号线永宁门站",
+    "fee": "免费",
+    "description": "西安文化古街，有碑林和文房四宝店铺，文化氛围浓厚。",
+    "official_url": "",
+    "highlights": [
+      "文化古街",
+      "文房四宝",
+      "碑林",
+      "免费"
+    ],
+    "id": "书院门"
+  },
+  {
+    "name": "德福巷",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区德福巷",
+    "transport": "地铁2号线永宁门站",
+    "fee": "免费",
+    "description": "西安咖啡馆一条街，有文艺小店和特色咖啡馆，适合休闲。",
+    "official_url": "",
+    "highlights": [
+      "咖啡馆街",
+      "文艺小店",
+      "休闲",
+      "免费"
+    ],
+    "id": "德福巷"
+  },
+  {
+    "name": "湘子庙街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区湘子庙街",
+    "transport": "地铁2号线永宁门站",
+    "fee": "免费",
+    "description": "西安老街巷，有韩湘子庙和传统民居，闹中取静，文艺气息浓。",
+    "official_url": "",
+    "highlights": [
+      "韩湘子庙",
+      "老街巷",
+      "文艺",
+      "免费"
+    ],
+    "id": "湘子庙街"
+  },
+  {
+    "name": "大兴善寺",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区兴善寺西街55号",
+    "transport": "地铁2号线小寨站",
+    "fee": "免费",
+    "description": "中国佛教密宗祖庭，隋唐长安三大译经场之一，历史悠久香火旺盛。",
+    "official_url": "",
+    "highlights": [
+      "密宗祖庭",
+      "译经场",
+      "免费"
+    ],
+    "id": "大兴善寺"
+  },
+  {
+    "name": "青龙寺",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区西影路",
+    "transport": "地铁3号线青龙寺站",
+    "fee": "免费需预约",
+    "description": "唐代佛教密宗祖庭，日本佛教真言宗祖庭，春季樱花闻名。",
+    "official_url": "",
+    "highlights": [
+      "密宗祖庭",
+      "樱花",
+      "真言宗",
+      "免费"
+    ],
+    "id": "青龙寺"
+  },
+  {
+    "name": "广仁寺",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区西北一路152号",
+    "transport": "地铁1号线玉祥门站",
+    "fee": "免费",
+    "description": "陕西唯一藏传佛教寺院，有千佛殿和康熙御碑，环境清幽。",
+    "official_url": "",
+    "highlights": [
+      "藏传佛教",
+      "千佛殿",
+      "康熙御碑",
+      "免费"
+    ],
+    "id": "广仁寺"
+  },
+  {
+    "name": "八仙庵",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区北火巷",
+    "transport": "地铁1号线朝阳门站",
+    "fee": "免费",
+    "description": "西安最大道教宫观，又名万寿八仙宫，相传吕洞宾在此遇汉钟离。",
+    "official_url": "",
+    "highlights": [
+      "道教宫观",
+      "八仙",
+      "吕洞宾",
+      "免费"
+    ],
+    "id": "八仙庵"
+  },
+  {
+    "name": "都城隍庙",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区西大街",
+    "transport": "地铁2号线钟楼站",
+    "fee": "免费",
+    "description": "天下三大都城隍庙之一，始建于明代，有戏楼和牌坊，道教圣地。",
+    "official_url": "",
+    "highlights": [
+      "城隍庙",
+      "道教",
+      "戏楼",
+      "免费"
+    ],
+    "id": "都城隍庙"
+  },
+  {
+    "name": "西安事变旧址张学良公馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区建国路69号",
+    "transport": "地铁4号线大差市站",
+    "fee": "免费",
+    "description": "西安事变发生地，张学良在此指挥兵谏，展示事变历史。",
+    "official_url": "",
+    "highlights": [
+      "西安事变",
+      "张学良",
+      "兵谏",
+      "免费"
+    ],
+    "id": "西安事变旧址张学良公馆"
+  },
+  {
+    "name": "杨虎城将军纪念馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区青年路止园",
+    "transport": "地铁1号线洒金桥站",
+    "fee": "免费",
+    "description": "杨虎城将军止园别墅旧址，展示将军生平和西安事变历史。",
+    "official_url": "",
+    "highlights": [
+      "杨虎城",
+      "止园别墅",
+      "免费"
+    ],
+    "id": "杨虎城将军纪念馆"
+  },
+  {
+    "name": "八路军西安办事处旧址",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "文化中心",
+    "address": "新城区北新街七贤庄",
+    "transport": "地铁1号线五路口站",
+    "fee": "免费",
+    "description": "抗战时期八路军西安办事处旧址，展示抗战和革命历史。",
+    "official_url": "",
+    "highlights": [
+      "八路军办事处",
+      "抗战",
+      "免费"
+    ],
+    "id": "八路军西安办事处旧址"
+  },
+  {
+    "name": "化觉巷清真大寺",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区化觉巷30号",
+    "transport": "地铁2号线钟楼站",
+    "fee": "收费",
+    "description": "中国四大清真寺之一，始建于唐代，融合中式与伊斯兰建筑风格。",
+    "official_url": "",
+    "highlights": [
+      "清真寺",
+      "四大清真寺",
+      "中式伊斯兰"
+    ],
+    "id": "化觉巷清真大寺"
+  },
+  {
+    "name": "高家大院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区北院门144号",
+    "transport": "地铁2号线钟楼站",
+    "fee": "收费",
+    "description": "西安保存最完整的明清民居大院，有皮影戏和华阴老腔表演。",
+    "official_url": "",
+    "highlights": [
+      "明清民居",
+      "皮影戏",
+      "华阴老腔"
+    ],
+    "id": "高家大院"
+  },
+  {
+    "name": "关中民俗艺术博物院",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "博物馆",
+    "address": "长安区五台街道",
+    "transport": "地铁4号线东长安街站",
+    "fee": "收费",
+    "description": "收集搬迁复建关中明清民居四十余院，展示关中民俗和拴马桩。",
+    "official_url": "",
+    "highlights": [
+      "关中民居",
+      "拴马桩",
+      "民俗"
+    ],
+    "id": "关中民俗艺术博物院"
+  },
+  {
+    "name": "乐华城",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "泾阳县",
+    "type": "公园",
+    "address": "泾阳县泾河新城",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大型主题乐园，有乐华恒业欢乐世界和88度温泉乐园，过山车刺激。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "过山车",
+      "温泉"
+    ],
+    "id": "乐华城"
+  },
+  {
+    "name": "华夏文旅海洋公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "公园",
+    "address": "灞桥区华夏文旅景区",
+    "transport": "地铁3号线香湖湾站",
+    "fee": "收费",
+    "description": "大型海洋主题公园，有海洋馆和驼铃传奇秀演出。",
+    "official_url": "",
+    "highlights": [
+      "海洋馆",
+      "驼铃传奇",
+      "主题乐园"
+    ],
+    "id": "华夏文旅海洋公园"
+  },
+  {
+    "name": "西安欢乐谷",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "西咸新区",
+    "type": "公园",
+    "address": "西咸新区沣东新城",
+    "transport": "地铁5号线沣东文化广场站",
+    "fee": "收费",
+    "description": "华侨城大型主题乐园，有过山车和水上项目，适合全年龄段。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "过山车",
+      "水上项目"
+    ],
+    "id": "西安欢乐谷"
+  },
+  {
+    "name": "玛雅海滩水公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "西咸新区",
+    "type": "公园",
+    "address": "西咸新区沣东新城",
+    "transport": "地铁5号线沣东文化广场站",
+    "fee": "收费",
+    "description": "夏季水上乐园，有造浪池和多种水上滑道，暑期消暑胜地。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "造浪池",
+      "消暑"
+    ],
+    "id": "玛雅海滩水公园"
+  },
+  {
+    "name": "秦岭野生动物园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "公园",
+    "address": "长安区滦镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "西北最大野生动物园，可乘车观赏猛兽，有熊猫馆和金丝猴馆。",
+    "official_url": "",
+    "highlights": [
+      "野生动物",
+      "熊猫",
+      "金丝猴"
+    ],
+    "id": "秦岭野生动物园"
+  },
+  {
+    "name": "曲江海洋极地公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区曲江二路1号",
+    "transport": "地铁3号线青龙寺站",
+    "fee": "收费",
+    "description": "海洋和极地动物主题公园，有企鹅、海豚和海底隧道。",
+    "official_url": "",
+    "highlights": [
+      "极地动物",
+      "企鹅",
+      "海豚表演"
+    ],
+    "id": "曲江海洋极地公园"
+  },
+  {
+    "name": "幻太奇海洋馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "公园",
+    "address": "未央区大明宫万达广场",
+    "transport": "地铁4号线大明宫站",
+    "fee": "收费",
+    "description": "室内海洋馆，有海洋生物展示和美人鱼表演，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "室内海洋馆",
+      "美人鱼",
+      "亲子"
+    ],
+    "id": "幻太奇海洋馆"
+  },
+  {
+    "name": "乐华城88度温泉乐园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "泾阳县",
+    "type": "公园",
+    "address": "泾阳县泾河新城",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大型温泉水乐园，有温泉和水上项目，四季皆宜休闲度假。",
+    "official_url": "",
+    "highlights": [
+      "温泉",
+      "水乐园",
+      "度假"
+    ],
+    "id": "乐华城88度温泉乐园"
+  },
+  {
+    "name": "陕西省图书馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "图书馆",
+    "address": "碑林区长安北路14号",
+    "transport": "地铁2号线省体育场站",
+    "fee": "免费",
+    "description": "陕西省省级公共图书馆，古籍善本丰富，有少儿阅览区和数字资源。",
+    "official_url": "",
+    "highlights": [
+      "省级图书馆",
+      "古籍善本",
+      "免费"
+    ],
+    "id": "陕西省图书馆"
+  },
+  {
+    "name": "西安图书馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "图书馆",
+    "address": "未央区经济技术开发区",
+    "transport": "地铁2号线市图书馆站",
+    "fee": "免费",
+    "description": "西安市公共图书馆，馆藏丰富，提供阅览、借阅和文化讲座服务。",
+    "official_url": "",
+    "highlights": [
+      "公共图书馆",
+      "阅览借阅",
+      "免费"
+    ],
+    "id": "西安图书馆"
+  },
+  {
+    "name": "曲江书城",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "图书馆",
+    "address": "雁塔区芙蓉南路",
+    "transport": "地铁4号线大唐芙蓉园站",
+    "fee": "免费",
+    "description": "大型复合式书店，有图书、文创和咖啡，环境优美，是网红书店。",
+    "official_url": "",
+    "highlights": [
+      "复合书店",
+      "文创",
+      "网红",
+      "免费"
+    ],
+    "id": "曲江书城"
+  },
+  {
+    "name": "蓝海风漫巷书店",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "图书馆",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "西安最美书店之一，有百米书墙和阅读空间，文艺气息浓厚。",
+    "official_url": "",
+    "highlights": [
+      "百米书墙",
+      "阅读空间",
+      "最美书店",
+      "免费"
+    ],
+    "id": "蓝海风漫巷书店"
+  },
+  {
+    "name": "陕西省图书馆高新分馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "图书馆",
+    "address": "雁塔区高新路",
+    "transport": "地铁3号线科技路站",
+    "fee": "免费",
+    "description": "陕西省图书馆高新区分馆，提供图书借阅和数字阅读服务。",
+    "official_url": "",
+    "highlights": [
+      "图书馆分馆",
+      "数字阅读",
+      "免费"
+    ],
+    "id": "陕西省图书馆高新分馆"
+  },
+  {
+    "name": "碑林区图书馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "图书馆",
+    "address": "碑林区南院门",
+    "transport": "地铁2号线钟楼站",
+    "fee": "免费",
+    "description": "碑林区公共图书馆，有阅览室和自习室，定期举办阅读活动。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "阅读活动",
+      "免费"
+    ],
+    "id": "碑林区图书馆"
+  },
+  {
+    "name": "陕西省体育场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "体育中心",
+    "address": "碑林区长安北路14号",
+    "transport": "地铁2号线省体育场站",
+    "fee": "收费",
+    "description": "陕西省标志性体育场馆，举办足球赛事和大型演唱会。",
+    "official_url": "",
+    "highlights": [
+      "足球赛事",
+      "演唱会",
+      "标志性场馆"
+    ],
+    "id": "陕西省体育场"
+  },
+  {
+    "name": "西安奥体中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "国际港务区",
+    "type": "体育中心",
+    "address": "国际港务区杏渭路",
+    "transport": "地铁14号线奥体中心站",
+    "fee": "收费",
+    "description": "2021年全运会主场馆，有体育场、体育馆和游泳馆，建筑造型独特。",
+    "official_url": "",
+    "highlights": [
+      "全运会",
+      "体育场",
+      "体育馆"
+    ],
+    "id": "西安奥体中心"
+  },
+  {
+    "name": "西安城市运动公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "体育中心",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "西安市运动主题公园，有网球场、篮球场和健身步道。",
+    "official_url": "",
+    "highlights": [
+      "运动主题",
+      "网球",
+      "篮球",
+      "免费"
+    ],
+    "id": "西安城市运动公园"
+  },
+  {
+    "name": "长安国际体育馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "长安区",
+    "type": "体育中心",
+    "address": "长安区航天大道",
+    "transport": "地铁4号线航天大道站",
+    "fee": "收费",
+    "description": "长安区大型体育馆，举办赛事和演出活动。",
+    "official_url": "",
+    "highlights": [
+      "体育馆",
+      "赛事",
+      "演出"
+    ],
+    "id": "长安国际体育馆"
+  },
+  {
+    "name": "大唐不夜城步行街",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区慈恩路",
+    "transport": "地铁4号线大雁塔站",
+    "fee": "免费",
+    "description": "盛唐文化主题步行街，有雕塑群和灯光秀，是西安夜游名片。",
+    "official_url": "",
+    "highlights": [
+      "盛唐文化",
+      "灯光秀",
+      "夜游",
+      "免费"
+    ],
+    "id": "大唐不夜城步行街"
+  },
+  {
+    "name": "小寨赛格国际购物中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区长安中路",
+    "transport": "地铁2号线小寨站",
+    "fee": "免费",
+    "description": "西安人气最旺购物中心，有室内瀑布和亚洲最长扶梯。",
+    "official_url": "",
+    "highlights": [
+      "室内瀑布",
+      "最长扶梯",
+      "购物",
+      "免费"
+    ],
+    "id": "小寨赛格国际购物中心"
+  },
+  {
+    "name": "西安大悦城",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区慈恩路",
+    "transport": "地铁4号线大雁塔站",
+    "fee": "免费",
+    "description": "大雁塔旁大型商业综合体，有购物、餐饮和艺术展览。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "艺术展览",
+      "免费"
+    ],
+    "id": "西安大悦城"
+  },
+  {
+    "name": "西安SKP",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区长安北路",
+    "transport": "地铁2号线省体育场站",
+    "fee": "免费",
+    "description": "高端百货商场，汇聚顶级奢侈品牌和特色餐饮，是西安高端购物地标。",
+    "official_url": "",
+    "highlights": [
+      "高端百货",
+      "奢侈品",
+      "购物地标",
+      "免费"
+    ],
+    "id": "西安SKP"
+  },
+  {
+    "name": "西安万达广场(大明宫)",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化中心",
+    "address": "未央区太华北路",
+    "transport": "地铁4号线大明宫站",
+    "fee": "免费",
+    "description": "未央区大型商业综合体，有购物、餐饮和影院。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "影院",
+      "免费"
+    ],
+    "id": "西安万达广场(大明宫)"
+  },
+  {
+    "name": "熙地港购物中心",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化中心",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "未央区大型购物中心，有购物、餐饮和亲子娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "购物中心",
+      "亲子",
+      "购物",
+      "免费"
+    ],
+    "id": "熙地港购物中心"
+  },
+  {
+    "name": "大融城",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化中心",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "未央区商业综合体，有购物、餐饮和文创空间。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "文创",
+      "购物",
+      "免费"
+    ],
+    "id": "大融城"
+  },
+  {
+    "name": "老城根G park",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "文化中心",
+    "address": "莲湖区星火路",
+    "transport": "地铁1号线洒金桥站",
+    "fee": "免费",
+    "description": "西安潮玩商业街区，有水景广场和艺术装置，年轻人聚集地。",
+    "official_url": "",
+    "highlights": [
+      "潮玩街区",
+      "水景广场",
+      "艺术装置",
+      "免费"
+    ],
+    "id": "老城根G park"
+  },
+  {
+    "name": "中大国际",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区南大街",
+    "transport": "地铁2号线钟楼站",
+    "fee": "免费",
+    "description": "西安高端商业中心，汇聚奢侈品和高端餐饮。",
+    "official_url": "",
+    "highlights": [
+      "高端商业",
+      "奢侈品",
+      "餐饮",
+      "免费"
+    ],
+    "id": "中大国际"
+  },
+  {
+    "name": "西安益田假日世界",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "文化中心",
+    "address": "新城区长乐西路",
+    "transport": "地铁1号线朝阳门站",
+    "fee": "免费",
+    "description": "城东大型商业综合体，有购物、餐饮和亲子娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "亲子",
+      "免费"
+    ],
+    "id": "西安益田假日世界"
+  },
+  {
+    "name": "汉神购物广场",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化中心",
+    "address": "未央区凤城八路",
+    "transport": "地铁2号线行政中心站",
+    "fee": "免费",
+    "description": "未央区大型购物中心，有购物、餐饮和影院。",
+    "official_url": "",
+    "highlights": [
+      "购物中心",
+      "购物",
+      "影院",
+      "免费"
+    ],
+    "id": "汉神购物广场"
+  },
+  {
+    "name": "西安锦业路",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "文化中心",
+    "address": "雁塔区锦业路",
+    "transport": "地铁6号线锦业路站",
+    "fee": "免费",
+    "description": "高新区写字楼聚集区，有现代建筑和城市景观，夜景灯光秀壮观。",
+    "official_url": "",
+    "highlights": [
+      "高新区",
+      "现代建筑",
+      "夜景",
+      "免费"
+    ],
+    "id": "西安锦业路"
+  },
+  {
+    "name": "永宁门",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "碑林区",
+    "type": "文化中心",
+    "address": "碑林区南大街",
+    "transport": "地铁2号线永宁门站",
+    "fee": "收费",
+    "description": "西安城墙南门，有迎宾入城仪式，是西安城墙最重要城门。",
+    "official_url": "",
+    "highlights": [
+      "城墙南门",
+      "迎宾仪式",
+      "城门"
+    ],
+    "id": "永宁门"
+  },
+  {
+    "name": "汉城湖大风阁",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "未央区",
+    "type": "文化中心",
+    "address": "未央区汉城湖",
+    "transport": "地铁4号线凤城九路站",
+    "fee": "收费",
+    "description": "汉城湖景区标志性建筑，登阁可俯瞰汉长安城遗址全景。",
+    "official_url": "",
+    "highlights": [
+      "大风阁",
+      "汉城湖",
+      "俯瞰遗址"
+    ],
+    "id": "汉城湖大风阁"
+  },
+  {
+    "name": "曲江海洋世界",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "公园",
+    "address": "雁塔区曲江二路",
+    "transport": "地铁3号线青龙寺站",
+    "fee": "收费",
+    "description": "海洋生物主题场馆，有海豚表演和海底隧道，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "海豚表演",
+      "海底隧道",
+      "亲子"
+    ],
+    "id": "曲江海洋世界"
+  },
+  {
+    "name": "西安世博园长安塔",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "灞桥区",
+    "type": "文化中心",
+    "address": "灞桥区世博大道",
+    "transport": "地铁3号线香湖湾站",
+    "fee": "免费",
+    "description": "世博园标志性建筑，唐代风格宝塔，可登塔俯瞰世博园。",
+    "official_url": "",
+    "highlights": [
+      "长安塔",
+      "世博园",
+      "俯瞰",
+      "免费"
+    ],
+    "id": "西安世博园长安塔"
+  },
+  {
+    "name": "重庆中国三峡博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区人民路236号",
+    "transport": "地铁2号线曾家岩站",
+    "fee": "免费需预约",
+    "description": "展示三峡历史文化和重庆城市历史，有乌杨阙和汉代画像砖等国宝。",
+    "official_url": "",
+    "highlights": [
+      "三峡文化",
+      "乌杨阙",
+      "汉代画像砖",
+      "免费"
+    ],
+    "id": "重庆中国三峡博物馆"
+  },
+  {
+    "name": "重庆科技馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "科技馆",
+    "address": "江北区文星门街7号",
+    "transport": "地铁6号线大剧院站",
+    "fee": "免费需预约",
+    "description": "重庆大型科普场馆，有生活科技、防灾科技等展区，互动体验丰富。",
+    "official_url": "",
+    "highlights": [
+      "科普互动",
+      "防灾科技",
+      "免费"
+    ],
+    "id": "重庆科技馆"
+  },
+  {
+    "name": "重庆自然博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "博物馆",
+    "address": "北碚区金华路398号",
+    "transport": "地铁6号线状元碑站",
+    "fee": "免费需预约",
+    "description": "中国自然博物馆先驱，有恐龙化石和矿物标本，马门溪龙骨架闻名。",
+    "official_url": "",
+    "highlights": [
+      "恐龙化石",
+      "马门溪龙",
+      "矿物标本",
+      "免费"
+    ],
+    "id": "重庆自然博物馆"
+  },
+  {
+    "name": "重庆美术馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "美术馆",
+    "address": "渝中区临江路1号",
+    "transport": "地铁1/6号线小什字站",
+    "fee": "免费",
+    "description": "重庆直辖后建立的市级美术馆，展示当代艺术和重庆本土美术作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土美术",
+      "免费"
+    ],
+    "id": "重庆美术馆"
+  },
+  {
+    "name": "重庆工业博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "博物馆",
+    "address": "大渡口区钢花路",
+    "transport": "地铁2号线大渡口站",
+    "fee": "免费",
+    "description": "由重钢老厂区改造，展示重庆工业历史和钢铁工业遗产，工业风浓厚。",
+    "official_url": "",
+    "highlights": [
+      "工业遗产",
+      "钢铁工业",
+      "重钢旧址",
+      "免费"
+    ],
+    "id": "重庆工业博物馆"
+  },
+  {
+    "name": "重庆建川博物馆聚落",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "九龙坡区谢家湾街道",
+    "transport": "地铁2号线谢家湾站",
+    "fee": "收费",
+    "description": "由兵工署第一工厂旧址改建的民间博物馆聚落，有抗战、兵工等主题分馆。",
+    "official_url": "",
+    "highlights": [
+      "抗战",
+      "兵工厂旧址",
+      "民间博物馆"
+    ],
+    "id": "重庆建川博物馆聚落"
+  },
+  {
+    "name": "重庆火锅博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "九龙坡区九龙广场",
+    "transport": "地铁2号线动物园站",
+    "fee": "免费",
+    "description": "以重庆火锅文化为主题的博物馆，展示火锅历史和器具，可体验火锅文化。",
+    "official_url": "",
+    "highlights": [
+      "火锅文化",
+      "美食",
+      "免费"
+    ],
+    "id": "重庆火锅博物馆"
+  },
+  {
+    "name": "重庆红岩革命历史博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区红岩村13号",
+    "transport": "地铁9号线红岩村站",
+    "fee": "免费",
+    "description": "展示中共中央南方局和红岩革命历史，是红岩精神发源地。",
+    "official_url": "",
+    "highlights": [
+      "红岩精神",
+      "南方局",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "重庆红岩革命历史博物馆"
+  },
+  {
+    "name": "重庆大轰炸惨案遗址",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区磁器街",
+    "transport": "地铁1号线较场口站",
+    "fee": "免费",
+    "description": "纪念重庆大轰炸的历史遗址，铭记抗战时期重庆人民的苦难与抗争。",
+    "official_url": "",
+    "highlights": [
+      "大轰炸",
+      "抗战历史",
+      "免费"
+    ],
+    "id": "重庆大轰炸惨案遗址"
+  },
+  {
+    "name": "重庆三峡古人类博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区人民路236号",
+    "transport": "地铁2号线曾家岩站",
+    "fee": "免费",
+    "description": "展示三峡地区古人类演化历史，有巫山人和奉节人的考古发现。",
+    "official_url": "",
+    "highlights": [
+      "古人类",
+      "三峡考古",
+      "免费"
+    ],
+    "id": "重庆三峡古人类博物馆"
+  },
+  {
+    "name": "重庆巴渝民俗博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "博物馆",
+    "address": "渝北区双龙大道",
+    "transport": "地铁3号线双龙站",
+    "fee": "免费",
+    "description": "展示巴渝地区民俗文化和传统生活，有民居复原和民俗器物展。",
+    "official_url": "",
+    "highlights": [
+      "巴渝民俗",
+      "民居复原",
+      "免费"
+    ],
+    "id": "重庆巴渝民俗博物馆"
+  },
+  {
+    "name": "史迪威博物馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区嘉陵新路63号",
+    "transport": "地铁2号线李子坝站",
+    "fee": "免费",
+    "description": "纪念二战美军将领史迪威将军，展示中美抗战合作历史。",
+    "official_url": "",
+    "highlights": [
+      "史迪威将军",
+      "中美合作",
+      "二战",
+      "免费"
+    ],
+    "id": "史迪威博物馆"
+  },
+  {
+    "name": "重庆飞虎队展览馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区李子坝公园",
+    "transport": "地铁2号线李子坝站",
+    "fee": "免费",
+    "description": "展示飞虎队在重庆的抗战历史，有文物和图片资料。",
+    "official_url": "",
+    "highlights": [
+      "飞虎队",
+      "抗战",
+      "免费"
+    ],
+    "id": "重庆飞虎队展览馆"
+  },
+  {
+    "name": "重庆桂园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区中山四路",
+    "transport": "地铁2号线曾家岩站",
+    "fee": "免费",
+    "description": "国共重庆谈判签订双十协定旧址，展示国共谈判历史和文物。",
+    "official_url": "",
+    "highlights": [
+      "双十协定",
+      "重庆谈判",
+      "免费"
+    ],
+    "id": "重庆桂园"
+  },
+  {
+    "name": "重庆湖广会馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区芭蕉园1号",
+    "transport": "地铁1号线小什字站",
+    "fee": "收费",
+    "description": "城市中心移民文化博物馆，展示湖广填四川移民历史和会馆建筑。",
+    "official_url": "",
+    "highlights": [
+      "湖广填四川",
+      "移民文化",
+      "会馆建筑"
+    ],
+    "id": "重庆湖广会馆"
+  },
+  {
+    "name": "大韩民国临时政府旧址",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "渝中区莲花池38号",
+    "transport": "地铁1号线七星岗站",
+    "fee": "收费",
+    "description": "韩国临时政府在重庆的办公旧址，展示韩国独立运动历史。",
+    "official_url": "",
+    "highlights": [
+      "韩国临时政府",
+      "独立运动",
+      "抗战"
+    ],
+    "id": "大韩民国临时政府旧址"
+  },
+  {
+    "name": "南山植物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "公园",
+    "address": "南岸区南山公园路101号",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "重庆最大的植物园，有蔷薇园、山茶园和梅花园，春季樱花闻名。",
+    "official_url": "",
+    "highlights": [
+      "蔷薇园",
+      "樱花",
+      "山茶园"
+    ],
+    "id": "南山植物园"
+  },
+  {
+    "name": "重庆动物园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "公园",
+    "address": "九龙坡区杨家坪西郊一村1号",
+    "transport": "地铁2号线动物园站",
+    "fee": "收费",
+    "description": "西南地区大型动物园，饲养大熊猫、金丝猴等珍稀动物，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "大熊猫",
+      "金丝猴",
+      "亲子"
+    ],
+    "id": "重庆动物园"
+  },
+  {
+    "name": "鹅岭公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "公园",
+    "address": "渝中区鹅岭正街176号",
+    "transport": "地铁1号线鹅岭站",
+    "fee": "免费",
+    "description": "重庆老牌公园，瞰胜楼可俯瞰两江风光，园林清幽。",
+    "official_url": "",
+    "highlights": [
+      "瞰胜楼",
+      "两江风光",
+      "免费"
+    ],
+    "id": "鹅岭公园"
+  },
+  {
+    "name": "重庆园博园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区龙景路1号",
+    "transport": "地铁3号线园博园站",
+    "fee": "收费",
+    "description": "第九届中国园林博览会举办地，有全国各地园林景观和龙景湖。",
+    "official_url": "",
+    "highlights": [
+      "园林景观",
+      "园博会",
+      "龙景湖"
+    ],
+    "id": "重庆园博园"
+  },
+  {
+    "name": "重庆中央公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区同茂大道",
+    "transport": "地铁10号线中央公园西站",
+    "fee": "免费",
+    "description": "亚洲最大城市中央公园，有大草坪和湖泊，适合休闲和运动。",
+    "official_url": "",
+    "highlights": [
+      "亚洲最大",
+      "大草坪",
+      "免费"
+    ],
+    "id": "重庆中央公园"
+  },
+  {
+    "name": "缙云山自然保护区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "公园",
+    "address": "北碚区缙云路",
+    "transport": "地铁6号线状元碑站",
+    "fee": "收费",
+    "description": "重庆天然屏障，有古寺、森林和云海，是避暑和登山胜地。",
+    "official_url": "",
+    "highlights": [
+      "自然保护区",
+      "古寺",
+      "云海"
+    ],
+    "id": "缙云山自然保护区"
+  },
+  {
+    "name": "碧津公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区双龙大道",
+    "transport": "地铁3号线碧津站",
+    "fee": "免费",
+    "description": "渝北区城市公园，有湖景和巴渝民俗文化村，环境优美。",
+    "official_url": "",
+    "highlights": [
+      "湖景",
+      "民俗文化村",
+      "免费"
+    ],
+    "id": "碧津公园"
+  },
+  {
+    "name": "彩云湖湿地公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "公园",
+    "address": "九龙坡区彩云大道",
+    "transport": "地铁环线彩云湖站",
+    "fee": "免费",
+    "description": "主城最大湿地公园，有湖泊和环湖步道，适合散步和观鸟。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "观鸟",
+      "环湖步道",
+      "免费"
+    ],
+    "id": "彩云湖湿地公园"
+  },
+  {
+    "name": "歌乐山国家森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "沙坪坝区歌乐山",
+    "transport": "地铁1号线烈士墓站",
+    "fee": "免费",
+    "description": "重庆近郊森林公园，有白公馆、渣滓洞等红色遗址和森林景观。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "红色遗址",
+      "免费"
+    ],
+    "id": "歌乐山国家森林公园"
+  },
+  {
+    "name": "铁山坪森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "江北区铁山坪",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "主城最大森林公园，有步道和草坪，适合登山和露营。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "登山",
+      "露营",
+      "免费"
+    ],
+    "id": "铁山坪森林公园"
+  },
+  {
+    "name": "鸿恩寺公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "江北区鸿恩路",
+    "transport": "地铁5号线大石坝站",
+    "fee": "免费",
+    "description": "主城最大开放式公园，鸿恩阁为重庆主城最高观景点。",
+    "official_url": "",
+    "highlights": [
+      "鸿恩阁",
+      "观景点",
+      "免费"
+    ],
+    "id": "鸿恩寺公园"
+  },
+  {
+    "name": "龙头寺公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区玉兰路",
+    "transport": "地铁3号线龙头寺站",
+    "fee": "免费",
+    "description": "渝北区城市公园，有科普展板和健身步道，适合亲子休闲。",
+    "official_url": "",
+    "highlights": [
+      "科普",
+      "健身步道",
+      "免费"
+    ],
+    "id": "龙头寺公园"
+  },
+  {
+    "name": "照母山森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区金开大道",
+    "transport": "地铁5号线人和站",
+    "fee": "免费",
+    "description": "两江新区森林公园，有植被库和登山步道，是市民健身好去处。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "登山步道",
+      "健身",
+      "免费"
+    ],
+    "id": "照母山森林公园"
+  },
+  {
+    "name": "江北嘴中央公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "江北区江北城",
+    "transport": "地铁6号线大剧院站",
+    "fee": "免费",
+    "description": "两江交汇处城市公园，可观赏洪崖洞和对岸朝天门夜景。",
+    "official_url": "",
+    "highlights": [
+      "两江交汇",
+      "洪崖洞夜景",
+      "免费"
+    ],
+    "id": "江北嘴中央公园"
+  },
+  {
+    "name": "礼嘉智慧公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区礼嘉商务区",
+    "transport": "地铁6号线礼嘉站",
+    "fee": "免费",
+    "description": "智慧城市主题公园，有智能体验馆和云尚花海，科技感十足。",
+    "official_url": "",
+    "highlights": [
+      "智慧城市",
+      "智能体验",
+      "花海",
+      "免费"
+    ],
+    "id": "礼嘉智慧公园"
+  },
+  {
+    "name": "悦来会展公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区悦来大道",
+    "transport": "地铁10号线悦来站",
+    "fee": "免费",
+    "description": "国博中心旁生态公园，有草坪和步道，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "生态公园",
+      "草坪",
+      "免费"
+    ],
+    "id": "悦来会展公园"
+  },
+  {
+    "name": "金海湾公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区金海湾滨江",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "嘉陵江滨江公园，有江景和花海，适合骑行和观江。",
+    "official_url": "",
+    "highlights": [
+      "滨江",
+      "江景",
+      "骑行",
+      "免费"
+    ],
+    "id": "金海湾公园"
+  },
+  {
+    "name": "九曲河湿地公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区九曲河",
+    "transport": "地铁6号线九曲河站",
+    "fee": "免费",
+    "description": "两江新区湿地公园，有河流和湿地景观，适合徒步和观鸟。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "观鸟",
+      "徒步",
+      "免费"
+    ],
+    "id": "九曲河湿地公园"
+  },
+  {
+    "name": "平顶山文化公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "沙坪坝区平顶山",
+    "transport": "地铁1号线沙坪坝站",
+    "fee": "免费",
+    "description": "沙坪坝区山顶公园，可俯瞰沙坪坝城市风光，适合登山健身。",
+    "official_url": "",
+    "highlights": [
+      "山顶公园",
+      "俯瞰",
+      "健身",
+      "免费"
+    ],
+    "id": "平顶山文化公园"
+  },
+  {
+    "name": "北仓文创街区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "江北区塔坪105号",
+    "transport": "地铁3号线观音桥站",
+    "fee": "免费",
+    "description": "由老旧小区改造的文创街区，有书店、咖啡馆和艺术展览。",
+    "official_url": "",
+    "highlights": [
+      "文创街区",
+      "书店",
+      "艺术展览",
+      "免费"
+    ],
+    "id": "北仓文创街区"
+  },
+  {
+    "name": "洪崖洞",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区沧白路",
+    "transport": "地铁1/6号线小什字站",
+    "fee": "免费",
+    "description": "巴渝传统吊脚楼建筑群，夜景灯光如千与千寻，是重庆夜景名片和网红打卡地。",
+    "official_url": "",
+    "highlights": [
+      "吊脚楼",
+      "夜景灯光",
+      "网红打卡",
+      "免费"
+    ],
+    "id": "洪崖洞"
+  },
+  {
+    "name": "磁器口古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化中心",
+    "address": "沙坪坝区磁器口",
+    "transport": "地铁1号线磁器口站",
+    "fee": "免费",
+    "description": "千年古镇，有明清古街、宝轮寺和传统小吃，陈麻花闻名，是重庆文化名片。",
+    "official_url": "",
+    "highlights": [
+      "千年古镇",
+      "宝轮寺",
+      "陈麻花",
+      "免费"
+    ],
+    "id": "磁器口古镇"
+  },
+  {
+    "name": "大足石刻",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "文化中心",
+    "address": "大足区宝顶镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界文化遗产，唐宋石窟艺术宝库，千手观音和卧佛闻名于世。",
+    "official_url": "",
+    "highlights": [
+      "世界遗产",
+      "千手观音",
+      "石窟艺术"
+    ],
+    "id": "大足石刻"
+  },
+  {
+    "name": "朝天门广场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区朝天门",
+    "transport": "地铁1号线朝天门站",
+    "fee": "免费",
+    "description": "长江和嘉陵江交汇处，可观赏两江汇流奇观和来福士建筑群，是重庆地标。",
+    "official_url": "",
+    "highlights": [
+      "两江交汇",
+      "来福士",
+      "地标",
+      "免费"
+    ],
+    "id": "朝天门广场"
+  },
+  {
+    "name": "解放碑步行街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区民族路",
+    "transport": "地铁1号线较场口站",
+    "fee": "免费",
+    "description": "中国唯一纪念抗战胜利的纪念碑，周边是重庆最繁华商圈和美食聚集地。",
+    "official_url": "",
+    "highlights": [
+      "抗战纪念碑",
+      "繁华商圈",
+      "免费"
+    ],
+    "id": "解放碑步行街"
+  },
+  {
+    "name": "十八梯",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区十八梯",
+    "transport": "地铁1/2号线较场口站",
+    "fee": "免费",
+    "description": "重庆老街巷改造的文化景区，展示老重庆吊脚楼和市井生活，怀旧感十足。",
+    "official_url": "",
+    "highlights": [
+      "老街巷",
+      "吊脚楼",
+      "市井文化",
+      "免费"
+    ],
+    "id": "十八梯"
+  },
+  {
+    "name": "白公馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化中心",
+    "address": "沙坪坝区歌乐山",
+    "transport": "地铁1号线烈士墓站",
+    "fee": "免费",
+    "description": "军统监狱旧址，革命烈士殉难地，红岩精神象征，红色旅游胜地。",
+    "official_url": "",
+    "highlights": [
+      "军统监狱",
+      "红岩精神",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "白公馆"
+  },
+  {
+    "name": "渣滓洞",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化中心",
+    "address": "沙坪坝区歌乐山",
+    "transport": "地铁1号线烈士墓站",
+    "fee": "免费",
+    "description": "国民党军统集中营旧址，江姐等革命烈士关押地，红色教育基地。",
+    "official_url": "",
+    "highlights": [
+      "集中营",
+      "江姐",
+      "红色教育",
+      "免费"
+    ],
+    "id": "渣滓洞"
+  },
+  {
+    "name": "歌乐山烈士陵园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化中心",
+    "address": "沙坪坝区歌乐山",
+    "transport": "地铁1号线烈士墓站",
+    "fee": "免费",
+    "description": "纪念红岩烈士的陵园，有纪念碑和陈列馆，缅怀革命先烈。",
+    "official_url": "",
+    "highlights": [
+      "烈士陵园",
+      "红岩烈士",
+      "红色旅游",
+      "免费"
+    ],
+    "id": "歌乐山烈士陵园"
+  },
+  {
+    "name": "红岩村",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区红岩村13号",
+    "transport": "地铁9号线红岩村站",
+    "fee": "免费",
+    "description": "八路军重庆办事处旧址，毛泽东曾在此办公，红岩精神发源地。",
+    "official_url": "",
+    "highlights": [
+      "八路军办事处",
+      "毛泽东旧居",
+      "免费"
+    ],
+    "id": "红岩村"
+  },
+  {
+    "name": "曾家岩50号周公馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区中山四路",
+    "transport": "地铁2号线曾家岩站",
+    "fee": "免费",
+    "description": "周恩来在重庆的办公住所，展示南方局抗战历史和周总理生平。",
+    "official_url": "",
+    "highlights": [
+      "周公馆",
+      "周恩来",
+      "南方局",
+      "免费"
+    ],
+    "id": "曾家岩50号周公馆"
+  },
+  {
+    "name": "李子坝轻轨穿楼观景平台",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区李子坝",
+    "transport": "地铁2号线李子坝站",
+    "fee": "免费",
+    "description": "轻轨穿楼而过的网红观景点，可观看2号线穿越居民楼的奇观。",
+    "official_url": "",
+    "highlights": [
+      "轻轨穿楼",
+      "网红打卡",
+      "免费"
+    ],
+    "id": "李子坝轻轨穿楼观景平台"
+  },
+  {
+    "name": "弹子石老街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化中心",
+    "address": "南岸区弹子石",
+    "transport": "地铁环线上新街站",
+    "fee": "免费",
+    "description": "百年老街改造的文化街区，有观景台可观赏两江和朝天门夜景。",
+    "official_url": "",
+    "highlights": [
+      "百年老街",
+      "观景台",
+      "免费"
+    ],
+    "id": "弹子石老街"
+  },
+  {
+    "name": "龙门浩老街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化中心",
+    "address": "南岸区龙门浩",
+    "transport": "地铁环线上新街站",
+    "fee": "免费",
+    "description": "百年开埠老街，有使馆旧址和老建筑，可观赏东水门大桥和轻轨。",
+    "official_url": "",
+    "highlights": [
+      "开埠老街",
+      "使馆旧址",
+      "免费"
+    ],
+    "id": "龙门浩老街"
+  },
+  {
+    "name": "龙兴古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "文化中心",
+    "address": "渝北区龙兴镇",
+    "transport": "地铁4号线唐家沱站",
+    "fee": "免费",
+    "description": "千年古镇，有刘家祠堂和华夏宗祠，明清建筑保存完好。",
+    "official_url": "",
+    "highlights": [
+      "千年古镇",
+      "祠堂",
+      "明清建筑",
+      "免费"
+    ],
+    "id": "龙兴古镇"
+  },
+  {
+    "name": "松溉古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "永川区",
+    "type": "文化中心",
+    "address": "永川区松溉镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "长江上游千年古镇，有祠堂、古街和罗家祠堂，长江文化深厚。",
+    "official_url": "",
+    "highlights": [
+      "长江古镇",
+      "祠堂",
+      "免费"
+    ],
+    "id": "松溉古镇"
+  },
+  {
+    "name": "中山古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江津区",
+    "type": "文化中心",
+    "address": "江津区中山镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "千年古商贸古镇，有古街、吊脚楼和爱情天梯，自然环境优美。",
+    "official_url": "",
+    "highlights": [
+      "商贸古镇",
+      "吊脚楼",
+      "爱情天梯",
+      "免费"
+    ],
+    "id": "中山古镇"
+  },
+  {
+    "name": "塘河古镇",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江津区",
+    "type": "文化中心",
+    "address": "江津区塘河镇",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "渝川黔古道驿站古镇，有古街和王爷庙，明清建筑保存完好。",
+    "official_url": "",
+    "highlights": [
+      "古道驿站",
+      "王爷庙",
+      "免费"
+    ],
+    "id": "塘河古镇"
+  },
+  {
+    "name": "鹅岭二厂文创公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区鹅岭正街1号",
+    "transport": "地铁1号线鹅岭站",
+    "fee": "免费",
+    "description": "由印钞厂改造的文创园区，有艺术展览、咖啡馆和网红天台。",
+    "official_url": "",
+    "highlights": [
+      "印钞厂改造",
+      "艺术展览",
+      "网红天台",
+      "免费"
+    ],
+    "id": "鹅岭二厂文创公园"
+  },
+  {
+    "name": "白象街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区白象街",
+    "transport": "地铁1号线小什字站",
+    "fee": "免费",
+    "description": "重庆开埠时期老街，有近代建筑和江景，复古风情浓厚。",
+    "official_url": "",
+    "highlights": [
+      "开埠老街",
+      "近代建筑",
+      "江景",
+      "免费"
+    ],
+    "id": "白象街"
+  },
+  {
+    "name": "东水门大桥观景",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区东水门",
+    "transport": "地铁1号线小什字站",
+    "fee": "免费",
+    "description": "东水门古城门和大桥，可观赏长江和对岸南岸风光。",
+    "official_url": "",
+    "highlights": [
+      "古城门",
+      "长江大桥",
+      "免费"
+    ],
+    "id": "东水门大桥观景"
+  },
+  {
+    "name": "通远门城墙遗址",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区七星岗",
+    "transport": "地铁1号线七星岗站",
+    "fee": "免费",
+    "description": "重庆现存唯一陆路古城门，有城墙遗址和通远楼，历史价值高。",
+    "official_url": "",
+    "highlights": [
+      "古城门",
+      "城墙遗址",
+      "免费"
+    ],
+    "id": "通远门城墙遗址"
+  },
+  {
+    "name": "湖广会馆及东水门历史文化街区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区芭蕉园",
+    "transport": "地铁1号线小什字站",
+    "fee": "收费",
+    "description": "保存最完整的古会馆建筑群，展示移民文化和明清建筑艺术。",
+    "official_url": "",
+    "highlights": [
+      "古会馆",
+      "移民文化",
+      "明清建筑"
+    ],
+    "id": "湖广会馆及东水门历史文化街区"
+  },
+  {
+    "name": "重庆欢乐谷",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区金渝大道",
+    "transport": "地铁10号线欢乐谷站",
+    "fee": "收费",
+    "description": "大型主题乐园，有丛林冒险、欢乐时光等主题区，过山车和水上项目刺激。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "过山车",
+      "水上项目"
+    ],
+    "id": "重庆欢乐谷"
+  },
+  {
+    "name": "重庆融创乐园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "沙坪坝区土主镇",
+    "transport": "地铁1号线赖家桥站",
+    "fee": "收费",
+    "description": "巴渝文化主题乐园，有云霄飞车和漂流，适合全年龄段游玩。",
+    "official_url": "",
+    "highlights": [
+      "巴渝主题",
+      "云霄飞车",
+      "漂流"
+    ],
+    "id": "重庆融创乐园"
+  },
+  {
+    "name": "重庆融创海世界",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "沙坪坝区土主镇",
+    "transport": "地铁1号线赖家桥站",
+    "fee": "收费",
+    "description": "室内海洋主题乐园，有海洋生物展示、海豚表演和水上项目。",
+    "official_url": "",
+    "highlights": [
+      "室内海洋",
+      "海豚表演",
+      "海洋生物"
+    ],
+    "id": "重庆融创海世界"
+  },
+  {
+    "name": "重庆融创雪世界",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "沙坪坝区土主镇",
+    "transport": "地铁1号线赖家桥站",
+    "fee": "收费",
+    "description": "室内滑雪场，一年四季可滑雪，有雪道和娱雪项目，重庆室内冰雪胜地。",
+    "official_url": "",
+    "highlights": [
+      "室内滑雪",
+      "四季滑雪",
+      "娱雪"
+    ],
+    "id": "重庆融创雪世界"
+  },
+  {
+    "name": "重庆汉海海洋公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "巴南区龙洲湾",
+    "transport": "地铁3号线学堂湾站",
+    "fee": "收费",
+    "description": "大型海洋公园，有企鹅馆、白鲸馆和海底隧道，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "企鹅馆",
+      "白鲸",
+      "海底隧道"
+    ],
+    "id": "重庆汉海海洋公园"
+  },
+  {
+    "name": "重庆欢乐海底世界",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "公园",
+    "address": "渝中区化龙桥",
+    "transport": "地铁9号线化龙桥站",
+    "fee": "收费",
+    "description": "位于企业天地内的海洋馆，有海洋生物展示和美人鱼表演。",
+    "official_url": "",
+    "highlights": [
+      "海洋馆",
+      "美人鱼表演",
+      "亲子"
+    ],
+    "id": "重庆欢乐海底世界"
+  },
+  {
+    "name": "重庆乐和乐园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "巴南区界石镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "大型亲子主题乐园，有萌宠乐园、游乐设施和户外拓展项目。",
+    "official_url": "",
+    "highlights": [
+      "亲子乐园",
+      "萌宠",
+      "户外拓展"
+    ],
+    "id": "重庆乐和乐园"
+  },
+  {
+    "name": "重庆玛雅海滩水公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "渝北区金渝大道",
+    "transport": "地铁10号线欢乐谷站",
+    "fee": "收费",
+    "description": "夏季水上乐园，有造浪池、漂流河和多种滑道，消暑胜地。",
+    "official_url": "",
+    "highlights": [
+      "水上乐园",
+      "造浪池",
+      "消暑"
+    ],
+    "id": "重庆玛雅海滩水公园"
+  },
+  {
+    "name": "重庆图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "图书馆",
+    "address": "沙坪坝区凤天大道106号",
+    "transport": "地铁环线重庆图书馆站",
+    "fee": "免费",
+    "description": "重庆最大公共图书馆，古籍善本丰富，有少儿馆和数字阅读服务。",
+    "official_url": "",
+    "highlights": [
+      "公共图书馆",
+      "古籍善本",
+      "少儿馆",
+      "免费"
+    ],
+    "id": "重庆图书馆"
+  },
+  {
+    "name": "重庆少年儿童图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "图书馆",
+    "address": "渝中区中山二路70号",
+    "transport": "地铁1号线七星岗站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，有绘本馆和亲子阅读活动。",
+    "official_url": "",
+    "highlights": [
+      "少儿图书馆",
+      "绘本馆",
+      "亲子阅读",
+      "免费"
+    ],
+    "id": "重庆少年儿童图书馆"
+  },
+  {
+    "name": "江北区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "图书馆",
+    "address": "江北区建新北路",
+    "transport": "地铁3号线观音桥站",
+    "fee": "免费",
+    "description": "江北区公共图书馆，提供图书借阅和文化活动，有少儿阅览区。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "少儿阅览",
+      "免费"
+    ],
+    "id": "江北区图书馆"
+  },
+  {
+    "name": "渝中区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "图书馆",
+    "address": "渝中区中山二路",
+    "transport": "地铁1号线七星岗站",
+    "fee": "免费",
+    "description": "渝中区公共图书馆，有阅览室和自习室，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "阅读推广",
+      "免费"
+    ],
+    "id": "渝中区图书馆"
+  },
+  {
+    "name": "沙坪坝区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "图书馆",
+    "address": "沙坪坝区凤天大道",
+    "transport": "地铁环线重庆图书馆站",
+    "fee": "免费",
+    "description": "沙坪坝区公共图书馆，藏书丰富，有亲子阅读区和电子阅览室。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "亲子阅读",
+      "免费"
+    ],
+    "id": "沙坪坝区图书馆"
+  },
+  {
+    "name": "南岸区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "图书馆",
+    "address": "南岸区南坪",
+    "transport": "地铁环线南湖站",
+    "fee": "免费",
+    "description": "南岸区公共图书馆，提供图书借阅和文化讲座服务。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "文化讲座",
+      "免费"
+    ],
+    "id": "南岸区图书馆"
+  },
+  {
+    "name": "渝北区图书馆",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "图书馆",
+    "address": "渝北区双凤桥",
+    "transport": "地铁3号线双凤桥站",
+    "fee": "免费",
+    "description": "渝北区公共图书馆，有阅览室和自习室，环境现代舒适。",
+    "official_url": "",
+    "highlights": [
+      "区级图书馆",
+      "阅览自习",
+      "免费"
+    ],
+    "id": "渝北区图书馆"
+  },
+  {
+    "name": "重庆大剧院",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "演出场馆",
+    "address": "江北区文星门街4号",
+    "transport": "地铁6号线大剧院站",
+    "fee": "收费",
+    "description": "重庆标志性文化建筑，有歌剧厅和戏剧厅，可观赏两江夜景。",
+    "official_url": "",
+    "highlights": [
+      "歌剧厅",
+      "两江夜景",
+      "标志性建筑"
+    ],
+    "id": "重庆大剧院"
+  },
+  {
+    "name": "重庆国泰艺术中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "演出场馆",
+    "address": "渝中区临江路1号",
+    "transport": "地铁1/6号线小什字站",
+    "fee": "收费",
+    "description": "红色建筑造型独特，有剧院和音乐厅，举办话剧、音乐会等演出。",
+    "official_url": "",
+    "highlights": [
+      "红色建筑",
+      "话剧",
+      "音乐会"
+    ],
+    "id": "重庆国泰艺术中心"
+  },
+  {
+    "name": "重庆国际马戏城",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "演出场馆",
+    "address": "南岸区弹子石",
+    "transport": "地铁环线上新街站",
+    "fee": "收费",
+    "description": "中国最大专业马戏城，有马戏、杂技和动物表演，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "马戏",
+      "杂技",
+      "动物表演"
+    ],
+    "id": "重庆国际马戏城"
+  },
+  {
+    "name": "重庆川剧艺术中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "演出场馆",
+    "address": "渝中区民生路",
+    "transport": "地铁1号线七星岗站",
+    "fee": "收费",
+    "description": "川剧专业演出场所，可观看变脸、吐火等川剧绝活表演。",
+    "official_url": "",
+    "highlights": [
+      "川剧",
+      "变脸",
+      "吐火"
+    ],
+    "id": "重庆川剧艺术中心"
+  },
+  {
+    "name": "重庆奥体中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "体育中心",
+    "address": "九龙坡区袁家岗",
+    "transport": "地铁2号线袁家岗站",
+    "fee": "收费",
+    "description": "大型体育中心，有体育场、体育馆和游泳馆，举办中超赛事和演唱会。",
+    "official_url": "",
+    "highlights": [
+      "体育场",
+      "中超赛事",
+      "演唱会"
+    ],
+    "id": "重庆奥体中心"
+  },
+  {
+    "name": "重庆国际博览中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "体育中心",
+    "address": "渝北区悦来大道",
+    "transport": "地铁10号线悦来站",
+    "fee": "收费",
+    "description": "西部最大会展中心，举办车展、房展等大型展览和活动。",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "车展",
+      "大型展览"
+    ],
+    "id": "重庆国际博览中心"
+  },
+  {
+    "name": "华熙LIVE鱼洞",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "体育中心",
+    "address": "巴南区鱼洞",
+    "transport": "地铁2号线鱼洞站",
+    "fee": "收费",
+    "description": "大型体育娱乐综合体，有篮球馆和演唱会场馆，举办赛事和演出。",
+    "official_url": "",
+    "highlights": [
+      "篮球",
+      "演唱会",
+      "体育娱乐"
+    ],
+    "id": "华熙LIVE鱼洞"
+  },
+  {
+    "name": "重庆大田湾体育场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "体育中心",
+    "address": "渝中区体育村",
+    "transport": "地铁1号线两路口站",
+    "fee": "免费",
+    "description": "重庆最早的体育场，贺龙将军主持修建，承载重庆体育记忆。",
+    "official_url": "",
+    "highlights": [
+      "老体育场",
+      "贺龙修建",
+      "免费"
+    ],
+    "id": "重庆大田湾体育场"
+  },
+  {
+    "name": "解放碑商圈",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区民族路",
+    "transport": "地铁1号线较场口站",
+    "fee": "免费",
+    "description": "重庆最繁华商圈，有八一好吃街和来福士，购物美食天堂。",
+    "official_url": "",
+    "highlights": [
+      "繁华商圈",
+      "八一好吃街",
+      "购物",
+      "免费"
+    ],
+    "id": "解放碑商圈"
+  },
+  {
+    "name": "观音桥商圈",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化中心",
+    "address": "江北区观音桥",
+    "transport": "地铁3号线观音桥站",
+    "fee": "免费",
+    "description": "西部第一大步行街，有购物、餐饮和3D大屏，人流如织。",
+    "official_url": "",
+    "highlights": [
+      "西部第一步行街",
+      "3D大屏",
+      "购物",
+      "免费"
+    ],
+    "id": "观音桥商圈"
+  },
+  {
+    "name": "龙湖时代天街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区大坪",
+    "transport": "地铁1/9号线石油路站",
+    "fee": "免费",
+    "description": "亚洲最大超级商圈，有购物、餐饮和娱乐设施，是年轻人聚集地。",
+    "official_url": "",
+    "highlights": [
+      "亚洲最大商圈",
+      "购物",
+      "娱乐",
+      "免费"
+    ],
+    "id": "龙湖时代天街"
+  },
+  {
+    "name": "重庆来福士",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区朝天门",
+    "transport": "地铁1号线朝天门站",
+    "fee": "免费",
+    "description": "世界知名建筑群，水晶连廊观景台可俯瞰两江交汇，重庆新地标。",
+    "official_url": "",
+    "highlights": [
+      "水晶连廊",
+      "两江观景",
+      "新地标",
+      "免费"
+    ],
+    "id": "重庆来福士"
+  },
+  {
+    "name": "重庆IFS国金中心",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化中心",
+    "address": "江北区江北城",
+    "transport": "地铁6号线大剧院站",
+    "fee": "免费",
+    "description": "江北嘴高端商业综合体，汇聚奢侈品和特色餐饮。",
+    "official_url": "",
+    "highlights": [
+      "高端商业",
+      "奢侈品",
+      "餐饮",
+      "免费"
+    ],
+    "id": "重庆IFS国金中心"
+  },
+  {
+    "name": "重庆万象城",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "文化中心",
+    "address": "九龙坡区谢家湾",
+    "transport": "地铁2号线谢家湾站",
+    "fee": "收费",
+    "description": "大型商业综合体，有购物、餐饮和亲子娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "商业综合体",
+      "购物",
+      "亲子",
+      "收费"
+    ],
+    "id": "重庆万象城"
+  },
+  {
+    "name": "北城天街",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化中心",
+    "address": "江北区观音桥",
+    "transport": "地铁3号线观音桥站",
+    "fee": "免费",
+    "description": "观音桥商圈核心购物中心，有购物、餐饮和影院。",
+    "official_url": "",
+    "highlights": [
+      "购物中心",
+      "购物",
+      "影院",
+      "免费"
+    ],
+    "id": "北城天街"
+  },
+  {
+    "name": "新光天地",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "文化中心",
+    "address": "渝北区红锦大道",
+    "transport": "地铁3号线嘉州路站",
+    "fee": "免费",
+    "description": "渝北区高端商业综合体，有购物、餐饮和空中花园。",
+    "official_url": "",
+    "highlights": [
+      "高端商业",
+      "空中花园",
+      "购物",
+      "免费"
+    ],
+    "id": "新光天地"
+  },
+  {
+    "name": "星光时代广场",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化中心",
+    "address": "南岸区江南大道",
+    "transport": "地铁3号线南坪站",
+    "fee": "免费",
+    "description": "南岸区大型购物中心，有购物、餐饮和娱乐设施。",
+    "official_url": "",
+    "highlights": [
+      "购物中心",
+      "购物",
+      "娱乐",
+      "免费"
+    ],
+    "id": "星光时代广场"
+  },
+  {
+    "name": "东原1891",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化中心",
+    "address": "南岸区南滨路",
+    "transport": "地铁环线上新街站",
+    "fee": "免费",
+    "description": "南滨路文创商业街区，有艺术空间和江景餐厅，文艺氛围浓厚。",
+    "official_url": "",
+    "highlights": [
+      "文创街区",
+      "艺术空间",
+      "江景",
+      "免费"
+    ],
+    "id": "东原1891"
+  },
+  {
+    "name": "南山一棵树观景台",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化中心",
+    "address": "南岸区南山龙黄公路",
+    "transport": "自驾",
+    "fee": "免费",
+    "description": "观赏重庆夜景最佳地点，可俯瞰渝中半岛万家灯火，夜景如繁星。",
+    "official_url": "",
+    "highlights": [
+      "夜景最佳",
+      "渝中半岛",
+      "万家灯火",
+      "免费"
+    ],
+    "id": "南山一棵树观景台"
+  },
+  {
+    "name": "长江索道",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区新华路",
+    "transport": "地铁1号线小什字站",
+    "fee": "收费",
+    "description": "万里长江第一条跨江索道，空中观赏两江风光和山城夜景，网红体验。",
+    "official_url": "",
+    "highlights": [
+      "跨江索道",
+      "空中观景",
+      "网红体验"
+    ],
+    "id": "长江索道"
+  },
+  {
+    "name": "两江游船",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区朝天门码头",
+    "transport": "地铁1号线朝天门站",
+    "fee": "收费",
+    "description": "乘坐游船观赏重庆两江夜景和洪崖洞，是重庆夜游必体验项目。",
+    "official_url": "",
+    "highlights": [
+      "夜游",
+      "两江夜景",
+      "洪崖洞"
+    ],
+    "id": "两江游船"
+  },
+  {
+    "name": "千厮门大桥观景",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化中心",
+    "address": "江北区江北城",
+    "transport": "地铁6号线大剧院站",
+    "fee": "免费",
+    "description": "千厮门大桥是观赏洪崖洞夜景最佳位置，网红拍照打卡地。",
+    "official_url": "",
+    "highlights": [
+      "洪崖洞夜景",
+      "拍照打卡",
+      "免费"
+    ],
+    "id": "千厮门大桥观景"
+  },
+  {
+    "name": "东水门长江大桥观景",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "渝中区东水门",
+    "transport": "地铁1号线小什字站",
+    "fee": "免费",
+    "description": "东水门大桥可观赏长江和两岸风光，是城市观景好去处。",
+    "official_url": "",
+    "highlights": [
+      "长江大桥",
+      "城市观景",
+      "免费"
+    ],
+    "id": "东水门长江大桥观景"
+  },
+  {
+    "name": "南滨路风景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "公园",
+    "address": "南岸区南滨路",
+    "transport": "地铁环线上新街站",
+    "fee": "免费",
+    "description": "重庆外滩，沿长江滨江大道，可观赏渝中半岛夜景和对岸来福士。",
+    "official_url": "",
+    "highlights": [
+      "重庆外滩",
+      "滨江",
+      "夜景",
+      "免费"
+    ],
+    "id": "南滨路风景区"
+  },
+  {
+    "name": "嘉陵江滨江路",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "江北区北滨路",
+    "transport": "地铁6号线大剧院站",
+    "fee": "免费",
+    "description": "嘉陵江北滨江路，可观赏对岸渝中半岛和洪崖洞夜景。",
+    "official_url": "",
+    "highlights": [
+      "滨江",
+      "夜景",
+      "免费"
+    ],
+    "id": "嘉陵江滨江路"
+  },
+  {
+    "name": "重庆游乐园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "公园",
+    "address": "南岸区南坪",
+    "transport": "地铁3号线南坪站",
+    "fee": "收费",
+    "description": "重庆老牌游乐园，有摩天轮、过山车等游乐设施，适合亲子。",
+    "official_url": "",
+    "highlights": [
+      "老牌游乐园",
+      "摩天轮",
+      "亲子"
+    ],
+    "id": "重庆游乐园"
+  },
+  {
+    "name": "圣灯山森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "巴南区圣灯山镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "重庆近郊森林公园，有奇峰怪石和森林步道，适合登山和避暑。",
+    "official_url": "",
+    "highlights": [
+      "森林公园",
+      "奇峰",
+      "登山避暑"
+    ],
+    "id": "圣灯山森林公园"
+  },
+  {
+    "name": "金佛山风景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "公园",
+    "address": "南川区金佛山",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界自然遗产，有高山杜鹃、云海和古佛洞，是重庆避暑和赏雪胜地。",
+    "official_url": "",
+    "highlights": [
+      "世界遗产",
+      "高山杜鹃",
+      "云海"
+    ],
+    "id": "金佛山风景区"
+  },
+  {
+    "name": "四面山风景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江津区",
+    "type": "公园",
+    "address": "江津区四面山镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "丹霞地貌和瀑布群景区，有望乡台瀑布和土地岩壁画，自然风光壮美。",
+    "official_url": "",
+    "highlights": [
+      "丹霞地貌",
+      "瀑布",
+      "望乡台"
+    ],
+    "id": "四面山风景区"
+  },
+  {
+    "name": "武隆喀斯特景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "公园",
+    "address": "武隆区仙女山镇",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "世界自然遗产，有天生三桥、仙女山和芙蓉洞，变形金刚取景地。",
+    "official_url": "",
+    "highlights": [
+      "世界遗产",
+      "天生三桥",
+      "变形金刚取景"
+    ],
+    "id": "武隆喀斯特景区"
+  },
+  {
+    "name": "云阳龙缸景区",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "云阳县",
+    "type": "公园",
+    "address": "云阳县清水乡",
+    "transport": "自驾",
+    "fee": "收费",
+    "description": "国家地质公园，有云端廊桥和龙缸天坑，玻璃廊桥惊险刺激。",
+    "official_url": "",
+    "highlights": [
+      "云端廊桥",
+      "天坑",
+      "玻璃桥"
+    ],
+    "id": "云阳龙缸景区"
+  },
+  {
+    "name": "成都川剧院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成都川剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ],
+    "id": "成都川剧院"
+  },
+  {
+    "name": "国际非遗博览园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都国际非遗博览园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "国际非遗博览园"
+  },
+  {
+    "name": "锦江绿道",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江绿道，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "锦江绿道"
+  },
+  {
+    "name": "成都足球训练基地",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都足球训练基地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都足球训练基地"
+  },
+  {
+    "name": "成都体育馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "体育场馆",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成都体育馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "体育场馆",
+      "成都"
+    ],
+    "id": "成都体育馆"
+  },
+  {
+    "name": "成都市游泳馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都市游泳馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都市游泳馆"
+  },
+  {
+    "name": "成都体育学院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "教育机构",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都体育学院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "教育机构",
+      "成都"
+    ],
+    "id": "成都体育学院"
+  },
+  {
+    "name": "成都攀岩馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都攀岩馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都攀岩馆"
+  },
+  {
+    "name": "成都轮滑场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都轮滑场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都轮滑场"
+  },
+  {
+    "name": "成都击剑馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都击剑馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都击剑馆"
+  },
+  {
+    "name": "成都跆拳道馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都跆拳道馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都跆拳道馆"
+  },
+  {
+    "name": "成都武术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都武术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都武术馆"
+  },
+  {
+    "name": "成都瑜伽馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都瑜伽馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都瑜伽馆"
+  },
+  {
+    "name": "成都高尔夫球场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都高尔夫球场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都高尔夫球场"
+  },
+  {
+    "name": "成都冰场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都冰场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都冰场"
+  },
+  {
+    "name": "成都平衡车场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都平衡车场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都平衡车场"
+  },
+  {
+    "name": "成都射箭馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都射箭馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都射箭馆"
+  },
+  {
+    "name": "成都蹦床馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都蹦床馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都蹦床馆"
+  },
+  {
+    "name": "成都跑酷场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都跑酷场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都跑酷场"
+  },
+  {
+    "name": "成都亲子游泳馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都亲子游泳馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都亲子游泳馆"
+  },
+  {
+    "name": "成都滑板场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都滑板场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都滑板场"
+  },
+  {
+    "name": "成都马术俱乐部",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都马术俱乐部，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都马术俱乐部"
+  },
+  {
+    "name": "成都银泰中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都银泰中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ],
+    "id": "成都银泰中心"
+  },
+  {
+    "name": "秦淮非遗馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮非遗馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "秦淮非遗馆"
+  },
+  {
+    "name": "南京金箔艺术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京金箔艺术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "南京金箔艺术馆"
+  },
+  {
+    "name": "高淳陶瓷小镇",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳陶瓷小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "高淳陶瓷小镇"
+  },
+  {
+    "name": "南京城墙博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京城墙博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ],
+    "id": "南京城墙博物馆"
+  },
+  {
+    "name": "颐和路",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京颐和路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "颐和路"
+  },
+  {
+    "name": "美龄宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京美龄宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "南京"
+    ],
+    "id": "美龄宫"
+  },
+  {
+    "name": "南京奥林匹克体育中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京奥林匹克体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "南京奥林匹克体育中心"
+  },
+  {
+    "name": "青奥公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京青奥公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ],
+    "id": "青奥公园"
+  },
+  {
+    "name": "汤山温泉旅游度假区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京汤山温泉旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "南京"
+    ],
+    "id": "汤山温泉旅游度假区"
+  },
+  {
+    "name": "汤山古猿人洞",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京汤山古猿人洞，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "汤山古猿人洞"
+  },
+  {
+    "name": "阳山碑材",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京阳山碑材，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "阳山碑材"
+  },
+  {
+    "name": "桠溪国际慢城",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京桠溪国际慢城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "桠溪国际慢城"
+  },
+  {
+    "name": "游子山",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京游子山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "游子山"
+  },
+  {
+    "name": "固城湖",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京固城湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "固城湖"
+  },
+  {
+    "name": "周园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京周园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "周园"
+  },
+  {
+    "name": "天生桥",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京天生桥，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "天生桥"
+  },
+  {
+    "name": "无想山",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京无想山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "无想山"
+  },
+  {
+    "name": "傅家边",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京傅家边，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "傅家边"
+  },
+  {
+    "name": "东庐山",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京东庐山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "东庐山"
+  },
+  {
+    "name": "金牛湖",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京金牛湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "金牛湖"
+  },
+  {
+    "name": "南京平山森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京平山森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ],
+    "id": "南京平山森林公园"
+  },
+  {
+    "name": "桂子山石柱林",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京桂子山石柱林，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "桂子山石柱林"
+  },
+  {
+    "name": "大金山国防园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京大金山国防园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ],
+    "id": "大金山国防园"
+  },
+  {
+    "name": "后官湖湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉后官湖湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉"
+    ],
+    "id": "后官湖湿地公园"
+  },
+  {
+    "name": "武汉杂技厅",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武汉杂技厅，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "武汉杂技厅"
+  },
+  {
+    "name": "武汉体育馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "体育场馆",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武汉体育馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "体育场馆",
+      "武汉"
+    ],
+    "id": "武汉体育馆"
+  },
+  {
+    "name": "木兰清凉寨",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉木兰清凉寨，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "木兰清凉寨"
+  },
+  {
+    "name": "锦里沟",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉锦里沟，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "锦里沟"
+  },
+  {
+    "name": "武汉港码头",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武汉港码头，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "武汉港码头"
+  },
+  {
+    "name": "硚口江滩公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口江滩公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉"
+    ],
+    "id": "硚口江滩公园"
+  },
+  {
+    "name": "鹦鹉洲长江大桥",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉鹦鹉洲长江大桥，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "鹦鹉洲长江大桥"
+  },
+  {
+    "name": "户部巷",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉户部巷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "户部巷"
+  },
+  {
+    "name": "粮道街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉粮道街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "粮道街"
+  },
+  {
+    "name": "万松园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉万松园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ],
+    "id": "万松园"
+  },
+  {
+    "name": "长安十二时辰主题街区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安十二时辰主题街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "西安"
+    ],
+    "id": "长安十二时辰主题街区"
+  },
+  {
+    "name": "易俗社文化街区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安易俗社文化街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "西安"
+    ],
+    "id": "易俗社文化街区"
+  },
+  {
+    "name": "朱雀国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安朱雀国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ],
+    "id": "朱雀国家森林公园"
+  },
+  {
+    "name": "太平国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安太平国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ],
+    "id": "太平国家森林公园"
+  },
+  {
+    "name": "黑河国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "周至县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安黑河国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ],
+    "id": "黑河国家森林公园"
+  },
+  {
+    "name": "楼观台森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "周至县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安楼观台森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ],
+    "id": "楼观台森林公园"
+  },
+  {
+    "name": "王顺山国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "蓝田县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安王顺山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ],
+    "id": "王顺山国家森林公园"
+  },
+  {
+    "name": "重庆际华园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆重庆际华园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ],
+    "id": "重庆际华园"
+  },
+  {
+    "name": "北滨路",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北滨路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ],
+    "id": "北滨路"
+  },
+  {
+    "name": "仙女山国家森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆仙女山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ],
+    "id": "仙女山国家森林公园"
+  },
+  {
+    "name": "恭王府博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京恭王府博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "恭王府博物馆"
+  },
+  {
+    "name": "雍和宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京雍和宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "雍和宫"
+  },
+  {
+    "name": "孔庙和国子监博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京孔庙和国子监博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "孔庙和国子监博物馆"
+  },
+  {
+    "name": "北京鲁迅博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京鲁迅博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京鲁迅博物馆"
+  },
+  {
+    "name": "宋庆龄同志故居",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京宋庆龄同志故居，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "北京"
+    ],
+    "id": "宋庆龄同志故居"
+  },
+  {
+    "name": "郭沫若纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京郭沫若纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ],
+    "id": "郭沫若纪念馆"
+  },
+  {
+    "name": "茅盾故居",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京茅盾故居，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "北京"
+    ],
+    "id": "茅盾故居"
+  },
+  {
+    "name": "老舍纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京老舍纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ],
+    "id": "老舍纪念馆"
+  },
+  {
+    "name": "北京画院美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京画院美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ],
+    "id": "北京画院美术馆"
+  },
+  {
+    "name": "今日美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京今日美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ],
+    "id": "今日美术馆"
+  },
+  {
+    "name": "红砖美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京红砖美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ],
+    "id": "红砖美术馆"
+  },
+  {
+    "name": "松美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京松美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ],
+    "id": "松美术馆"
+  },
+  {
+    "name": "中国邮政邮票博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国邮政邮票博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "中国邮政邮票博物馆"
+  },
+  {
+    "name": "中国铁道博物馆正阳门馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国铁道博物馆正阳门馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "中国铁道博物馆正阳门馆"
+  },
+  {
+    "name": "北京古观象台",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京古观象台，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "北京古观象台"
+  },
+  {
+    "name": "智化寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京智化寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "智化寺"
+  },
+  {
+    "name": "大钟寺古钟博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京大钟寺古钟博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "大钟寺古钟博物馆"
+  },
+  {
+    "name": "北京石刻艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京石刻艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京石刻艺术博物馆"
+  },
+  {
+    "name": "北京艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京艺术博物馆"
+  },
+  {
+    "name": "妙应寺白塔",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京妙应寺白塔，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "妙应寺白塔"
+  },
+  {
+    "name": "北京民俗博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京民俗博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京民俗博物馆"
+  },
+  {
+    "name": "白云观",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京白云观，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "白云观"
+  },
+  {
+    "name": "牛街礼拜寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京牛街礼拜寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "牛街礼拜寺"
+  },
+  {
+    "name": "潭柘寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京潭柘寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "潭柘寺"
+  },
+  {
+    "name": "戒台寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京戒台寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "戒台寺"
+  },
+  {
+    "name": "红螺寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京红螺寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "红螺寺"
+  },
+  {
+    "name": "北京大运河博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京大运河博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京大运河博物馆"
+  },
+  {
+    "name": "首都博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京首都博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "首都博物馆"
+  },
+  {
+    "name": "北京艺术博物馆（万寿寺）",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京艺术博物馆（万寿寺），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京艺术博物馆（万寿寺）"
+  },
+  {
+    "name": "北京自然博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京自然博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京自然博物馆"
+  },
+  {
+    "name": "北京大运河博物馆（首都博物馆东馆）",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京大运河博物馆（首都博物馆东馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京大运河博物馆（首都博物馆东馆）"
+  },
+  {
+    "name": "圆明园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京圆明园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "圆明园"
+  },
+  {
+    "name": "中国科技馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "北京"
+    ],
+    "id": "中国科技馆"
+  },
+  {
+    "name": "北京数字文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京数字文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ],
+    "id": "北京数字文化馆"
+  },
+  {
+    "name": "朝阳区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "朝阳区图书馆"
+  },
+  {
+    "name": "通州运河文化广场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州运河文化广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "北京"
+    ],
+    "id": "通州运河文化广场"
+  },
+  {
+    "name": "东城区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "东城区图书馆"
+  },
+  {
+    "name": "西城区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京西城区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "西城区图书馆"
+  },
+  {
+    "name": "海淀区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "海淀区图书馆"
+  },
+  {
+    "name": "丰台区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "丰台区图书馆"
+  },
+  {
+    "name": "石景山区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京石景山区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "石景山区图书馆"
+  },
+  {
+    "name": "通州区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ],
+    "id": "通州区图书馆"
+  },
+  {
+    "name": "北京古代建筑博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京古代建筑博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京古代建筑博物馆"
+  },
+  {
+    "name": "北京规划展览馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京规划展览馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "北京规划展览馆"
+  },
+  {
+    "name": "北京消防科普教育基地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京消防科普教育基地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "北京消防科普教育基地"
+  },
+  {
+    "name": "北京市少年宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "北京市少年宫"
+  },
+  {
+    "name": "北京市青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "北京市青少年活动中心"
+  },
+  {
+    "name": "朝阳区青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "朝阳区青少年活动中心"
+  },
+  {
+    "name": "海淀区青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "海淀区青少年活动中心"
+  },
+  {
+    "name": "丰台区青少年宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区青少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "丰台区青少年宫"
+  },
+  {
+    "name": "通州区青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "通州区青少年活动中心"
+  },
+  {
+    "name": "东城区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ],
+    "id": "东城区文化馆"
+  },
+  {
+    "name": "西城区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京西城区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ],
+    "id": "西城区文化馆"
+  },
+  {
+    "name": "朝阳区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ],
+    "id": "朝阳区文化馆"
+  },
+  {
+    "name": "北京市文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ],
+    "id": "北京市文化馆"
+  },
+  {
+    "name": "朝阳体育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "朝阳体育中心"
+  },
+  {
+    "name": "海淀体育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "海淀体育中心"
+  },
+  {
+    "name": "通州体育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "通州体育中心"
+  },
+  {
+    "name": "太阳宫市民活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京太阳宫市民活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ],
+    "id": "太阳宫市民活动中心"
+  },
+  {
+    "name": "温榆河公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京温榆河公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "温榆河公园"
+  },
+  {
+    "name": "东小口森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东小口森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "东小口森林公园"
+  },
+  {
+    "name": "大望京公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京大望京公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "大望京公园"
+  },
+  {
+    "name": "三里屯太古里北区下沉广场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京三里屯太古里北区下沉广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "北京"
+    ],
+    "id": "三里屯太古里北区下沉广场"
+  },
+  {
+    "name": "亮马河滨水步道",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京亮马河滨水步道，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "亮马河滨水步道"
+  },
+  {
+    "name": "永定河休闲森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京永定河休闲森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "永定河休闲森林公园"
+  },
+  {
+    "name": "南海子公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京南海子公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "南海子公园"
+  },
+  {
+    "name": "念坛公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京念坛公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "念坛公园"
+  },
+  {
+    "name": "城市绿心森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京城市绿心森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "城市绿心森林公园"
+  },
+  {
+    "name": "沙河滨河公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京沙河滨河公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "沙河滨河公园"
+  },
+  {
+    "name": "望和公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京望和公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "望和公园"
+  },
+  {
+    "name": "马家湾湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京马家湾湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "马家湾湿地公园"
+  },
+  {
+    "name": "玉渊潭公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京玉渊潭公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "玉渊潭公园"
+  },
+  {
+    "name": "紫竹院公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京紫竹院公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "紫竹院公园"
+  },
+  {
+    "name": "莲石湖公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京莲石湖公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "莲石湖公园"
+  },
+  {
+    "name": "亦庄滨河森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京亦庄滨河森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "亦庄滨河森林公园"
+  },
+  {
+    "name": "鸿博公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京鸿博公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "鸿博公园"
+  },
+  {
+    "name": "老君堂公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京老君堂公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "老君堂公园"
+  },
+  {
+    "name": "潮白河森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京潮白河森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "潮白河森林公园"
+  },
+  {
+    "name": "长沟湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京长沟湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "长沟湿地公园"
+  },
+  {
+    "name": "云居城市休闲公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京云居城市休闲公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "云居城市休闲公园"
+  },
+  {
+    "name": "首都剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京首都剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "首都剧场"
+  },
+  {
+    "name": "中国电影博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国电影博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "中国电影博物馆"
+  },
+  {
+    "name": "中华世纪坛",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中华世纪坛，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "中华世纪坛"
+  },
+  {
+    "name": "北京国际戏剧中心·人艺小剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京国际戏剧中心·人艺小剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "北京国际戏剧中心·人艺小剧场"
+  },
+  {
+    "name": "中国人民革命军事博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国人民革命军事博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "中国人民革命军事博物馆"
+  },
+  {
+    "name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京鲁迅博物馆（北京新文化运动纪念馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "北京鲁迅博物馆（北京新文化运动纪念馆）"
+  },
+  {
+    "name": "三山五园文化艺术中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京三山五园文化艺术中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "三山五园文化艺术中心"
+  },
+  {
+    "name": "清华大学艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京清华大学艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ],
+    "id": "清华大学艺术博物馆"
+  },
+  {
+    "name": "八达岭长城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京八达岭长城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "八达岭长城"
+  },
+  {
+    "name": "日坛公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京日坛公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "日坛公园"
+  },
+  {
+    "name": "什刹海",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京什刹海，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "什刹海"
+  },
+  {
+    "name": "南锣鼓巷",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京南锣鼓巷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "南锣鼓巷"
+  },
+  {
+    "name": "前门大街",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京前门大街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "前门大街"
+  },
+  {
+    "name": "王府井",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京王府井，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "王府井"
+  },
+  {
+    "name": "国贸商城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京国贸商城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "国贸商城"
+  },
+  {
+    "name": "三里屯",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京三里屯，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "三里屯"
+  },
+  {
+    "name": "蓝色港湾",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京蓝色港湾，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "蓝色港湾"
+  },
+  {
+    "name": "国家体育场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "体育场馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京国家体育场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "体育场馆",
+      "北京"
+    ],
+    "id": "国家体育场"
+  },
+  {
+    "name": "国家游泳中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京国家游泳中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ],
+    "id": "国家游泳中心"
+  },
+  {
+    "name": "国家体育馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "体育场馆",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京国家体育馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "体育场馆",
+      "北京"
+    ],
+    "id": "国家体育馆"
+  },
+  {
+    "name": "陶然亭公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京陶然亭公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "陶然亭公园"
+  },
+  {
+    "name": "龙潭湖公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "密云区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京龙潭湖公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ],
+    "id": "龙潭湖公园"
+  },
+  {
+    "name": "上海玻璃博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海玻璃博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海玻璃博物馆"
+  },
+  {
+    "name": "上海电影博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海电影博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海电影博物馆"
+  },
+  {
+    "name": "上海公安博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海公安博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海公安博物馆"
+  },
+  {
+    "name": "上海中医药博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海中医药博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海中医药博物馆"
+  },
+  {
+    "name": "上海地震科普馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海地震科普馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "上海地震科普馆"
+  },
+  {
+    "name": "中国航海博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中国航海博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "中国航海博物馆"
+  },
+  {
+    "name": "上海工艺美术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海工艺美术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海工艺美术博物馆"
+  },
+  {
+    "name": "上海隧道科技馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海隧道科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "上海"
+    ],
+    "id": "上海隧道科技馆"
+  },
+  {
+    "name": "上海城市规划展示馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海城市规划展示馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "上海城市规划展示馆"
+  },
+  {
+    "name": "上海杜莎夫人蜡像馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海杜莎夫人蜡像馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "上海杜莎夫人蜡像馆"
+  },
+  {
+    "name": "上海惊魂密境",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海惊魂密境，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "上海惊魂密境"
+  },
+  {
+    "name": "中共一大纪念馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中共一大纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "上海"
+    ],
+    "id": "中共一大纪念馆"
+  },
+  {
+    "name": "浦东美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ],
+    "id": "浦东美术馆"
+  },
+  {
+    "name": "上海迪士尼度假区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海上海迪士尼度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "上海"
+    ],
+    "id": "上海迪士尼度假区"
+  },
+  {
+    "name": "上海动物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "动物园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海上海动物园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "上海"
+    ],
+    "id": "上海动物园"
+  },
+  {
+    "name": "上海当代艺术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海当代艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海当代艺术博物馆"
+  },
+  {
+    "name": "上海市群众艺术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市群众艺术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "上海市群众艺术馆"
+  },
+  {
+    "name": "徐汇区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ],
+    "id": "徐汇区图书馆"
+  },
+  {
+    "name": "前滩太古里",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海前滩太古里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "前滩太古里"
+  },
+  {
+    "name": "徐汇西岸滨江",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇西岸滨江，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "徐汇西岸滨江"
+  },
+  {
+    "name": "北外滩来福士广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海北外滩来福士广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ],
+    "id": "北外滩来福士广场"
+  },
+  {
+    "name": "浦东新区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ],
+    "id": "浦东新区图书馆"
+  },
+  {
+    "name": "杨浦区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ],
+    "id": "杨浦区图书馆"
+  },
+  {
+    "name": "普陀区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ],
+    "id": "普陀区图书馆"
+  },
+  {
+    "name": "闵行区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ],
+    "id": "闵行区图书馆"
+  },
+  {
+    "name": "宝山区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ],
+    "id": "宝山区图书馆"
+  },
+  {
+    "name": "普陀青少年水主题科普基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀青少年水主题科普基地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "普陀青少年水主题科普基地"
+  },
+  {
+    "name": "上海铁路博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海铁路博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海铁路博物馆"
+  },
+  {
+    "name": "闵行博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "闵行博物馆"
+  },
+  {
+    "name": "浦东博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "浦东博物馆"
+  },
+  {
+    "name": "宝山博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "宝山博物馆"
+  },
+  {
+    "name": "嘉定博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "嘉定博物馆"
+  },
+  {
+    "name": "松江博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "松江博物馆"
+  },
+  {
+    "name": "上海市少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ],
+    "id": "上海市少年宫"
+  },
+  {
+    "name": "浦东新区青少年活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "浦东新区青少年活动中心"
+  },
+  {
+    "name": "杨浦区青少年活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "杨浦区青少年活动中心"
+  },
+  {
+    "name": "普陀区青少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区青少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ],
+    "id": "普陀区青少年宫"
+  },
+  {
+    "name": "闵行区青少年活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "闵行区青少年活动中心"
+  },
+  {
+    "name": "宝山区文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "上海"
+    ],
+    "id": "宝山区文化馆"
+  },
+  {
+    "name": "嘉定区文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "上海"
+    ],
+    "id": "嘉定区文化馆"
+  },
+  {
+    "name": "松江文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "上海"
+    ],
+    "id": "松江文化馆"
+  },
+  {
+    "name": "浦东体育公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东体育公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ],
+    "id": "浦东体育公园"
+  },
+  {
+    "name": "杨浦体育活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦体育活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "杨浦体育活动中心"
+  },
+  {
+    "name": "闵行体育公园文体中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行体育公园文体中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ],
+    "id": "闵行体育公园文体中心"
+  },
+  {
+    "name": "宝山体育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "宝山体育中心"
+  },
+  {
+    "name": "上海市历史博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市历史博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海市历史博物馆"
+  },
+  {
+    "name": "中华艺术宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中华艺术宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ],
+    "id": "中华艺术宫"
+  },
+  {
+    "name": "捷豹上海交响音乐厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海捷豹上海交响音乐厅，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "捷豹上海交响音乐厅"
+  },
+  {
+    "name": "上海世博会博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海世博会博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海世博会博物馆"
+  },
+  {
+    "name": "上海文化广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海文化广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ],
+    "id": "上海文化广场"
+  },
+  {
+    "name": "上海展览中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海展览中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "上海展览中心"
+  },
+  {
+    "name": "上海航海博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海航海博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ],
+    "id": "上海航海博物馆"
+  },
+  {
+    "name": "静安雕塑公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海静安雕塑公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ],
+    "id": "静安雕塑公园"
+  },
+  {
+    "name": "人民广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海人民广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ],
+    "id": "人民广场"
+  },
+  {
+    "name": "南京路",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海南京路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "南京路"
+  },
+  {
+    "name": "淮海路",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海淮海路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ],
+    "id": "淮海路"
+  },
+  {
+    "name": "云台花园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州云台花园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "云台花园"
+  },
+  {
+    "name": "莲花山旅游区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州莲花山旅游区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "莲花山旅游区"
+  },
+  {
+    "name": "白水寨风景名胜区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白水寨风景名胜区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "白水寨风景名胜区"
+  },
+  {
+    "name": "宝墨园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州宝墨园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "宝墨园"
+  },
+  {
+    "name": "余荫山房",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州余荫山房，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "余荫山房"
+  },
+  {
+    "name": "广州起义纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州起义纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ],
+    "id": "广州起义纪念馆"
+  },
+  {
+    "name": "广州民俗博物馆（花都）",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州民俗博物馆（花都），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ],
+    "id": "广州民俗博物馆（花都）"
+  },
+  {
+    "name": "南汉二陵博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南汉二陵博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ],
+    "id": "南汉二陵博物馆"
+  },
+  {
+    "name": "广东美术馆（二沙岛本馆）",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东美术馆（二沙岛本馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "广州"
+    ],
+    "id": "广东美术馆（二沙岛本馆）"
+  },
+  {
+    "name": "毛泽东同志主办农民运动讲习所旧址纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州毛泽东同志主办农民运动讲习所旧址纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ],
+    "id": "毛泽东同志主办农民运动讲习所旧址纪念馆"
+  },
+  {
+    "name": "正佳大剧院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州正佳大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "广州"
+    ],
+    "id": "正佳大剧院"
+  },
+  {
+    "name": "长隆旅游度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州长隆旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "广州"
+    ],
+    "id": "长隆旅游度假区"
+  },
+  {
+    "name": "广州市文化馆（新馆）",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市文化馆（新馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "广州"
+    ],
+    "id": "广州市文化馆（新馆）"
+  },
+  {
+    "name": "花都区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ],
+    "id": "花都区图书馆"
+  },
+  {
+    "name": "南沙湿地景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙湿地景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ],
+    "id": "南沙湿地景区"
+  },
+  {
+    "name": "从化区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ],
+    "id": "从化区图书馆"
+  },
+  {
+    "name": "南沙区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ],
+    "id": "南沙区图书馆"
+  },
+  {
+    "name": "黄埔军校旧址纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔军校旧址纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ],
+    "id": "黄埔军校旧址纪念馆"
+  },
+  {
+    "name": "广东省立中山图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东省立中山图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ],
+    "id": "广东省立中山图书馆"
+  },
+  {
+    "name": "广东美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "广州"
+    ],
+    "id": "广东美术馆"
+  },
+  {
+    "name": "增城区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ],
+    "id": "增城区图书馆"
+  },
+  {
+    "name": "孙中山大元帅府纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州孙中山大元帅府纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ],
+    "id": "孙中山大元帅府纪念馆"
+  },
+  {
+    "name": "星海音乐厅",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州星海音乐厅，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "星海音乐厅"
+  },
+  {
+    "name": "从化温泉旅游度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化温泉旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "广州"
+    ],
+    "id": "从化温泉旅游度假区"
+  },
+  {
+    "name": "增城1978文化创意园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城1978文化创意园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ],
+    "id": "增城1978文化创意园"
+  },
+  {
+    "name": "沙湾古镇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州沙湾古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "广州"
+    ],
+    "id": "沙湾古镇"
+  },
+  {
+    "name": "浙江自然博物院杭州馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江自然博物院杭州馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "浙江自然博物院杭州馆"
+  },
+  {
+    "name": "南宋官窑博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州南宋官窑博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "南宋官窑博物馆"
+  },
+  {
+    "name": "胡庆余堂中药博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州胡庆余堂中药博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "胡庆余堂中药博物馆"
+  },
+  {
+    "name": "中国杭帮菜博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国杭帮菜博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "中国杭帮菜博物馆"
+  },
+  {
+    "name": "中国京杭大运河博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国京杭大运河博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "中国京杭大运河博物馆"
+  },
+  {
+    "name": "中国刀剪剑博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国刀剪剑博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "中国刀剪剑博物馆"
+  },
+  {
+    "name": "中国伞博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国伞博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "中国伞博物馆"
+  },
+  {
+    "name": "中国扇博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国扇博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "中国扇博物馆"
+  },
+  {
+    "name": "浙江美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "杭州"
+    ],
+    "id": "浙江美术馆"
+  },
+  {
+    "name": "中国美术学院美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国美术学院美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "杭州"
+    ],
+    "id": "中国美术学院美术馆"
+  },
+  {
+    "name": "韩美林艺术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州韩美林艺术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "韩美林艺术馆"
+  },
+  {
+    "name": "西湖音乐节",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖音乐节，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "西湖音乐节"
+  },
+  {
+    "name": "宋城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州宋城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "宋城"
+  },
+  {
+    "name": "烂苹果乐园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州烂苹果乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "杭州"
+    ],
+    "id": "烂苹果乐园"
+  },
+  {
+    "name": "长乔极地海洋公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州长乔极地海洋公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ],
+    "id": "长乔极地海洋公园"
+  },
+  {
+    "name": "东方文化园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州东方文化园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "东方文化园"
+  },
+  {
+    "name": "湘湖旅游度假区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州湘湖旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "杭州"
+    ],
+    "id": "湘湖旅游度假区"
+  },
+  {
+    "name": "灵山风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州灵山风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ],
+    "id": "灵山风景区"
+  },
+  {
+    "name": "白龙潭景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州白龙潭景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ],
+    "id": "白龙潭景区"
+  },
+  {
+    "name": "西溪湿地洪园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西溪湿地洪园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ],
+    "id": "西溪湿地洪园"
+  },
+  {
+    "name": "西湖景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州西湖景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ],
+    "id": "西湖景区"
+  },
+  {
+    "name": "满觉陇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州满觉陇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "满觉陇"
+  },
+  {
+    "name": "超山风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州超山风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ],
+    "id": "超山风景区"
+  },
+  {
+    "name": "九溪十八涧",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州九溪十八涧，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "九溪十八涧"
+  },
+  {
+    "name": "湖滨步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州湖滨步行街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "湖滨步行街"
+  },
+  {
+    "name": "清河坊街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州清河坊街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "清河坊街"
+  },
+  {
+    "name": "京杭大运河杭州景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州京杭大运河杭州景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ],
+    "id": "京杭大运河杭州景区"
+  },
+  {
+    "name": "浙江省文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江省文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "杭州"
+    ],
+    "id": "浙江省文化馆"
+  },
+  {
+    "name": "中国印学博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国印学博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ],
+    "id": "中国印学博物馆"
+  },
+  {
+    "name": "杭州图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "杭州"
+    ],
+    "id": "杭州图书馆"
+  },
+  {
+    "name": "杭州动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "动物园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州杭州动物园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "杭州"
+    ],
+    "id": "杭州动物园"
+  },
+  {
+    "name": "西溪湿地公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西溪湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ],
+    "id": "西溪湿地公园"
+  },
+  {
+    "name": "天目里",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州天目里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "天目里"
+  },
+  {
+    "name": "上城区图书馆（青少年分馆）",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区图书馆（青少年分馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "杭州"
+    ],
+    "id": "上城区图书馆（青少年分馆）"
+  },
+  {
+    "name": "余杭区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区青少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ],
+    "id": "余杭区青少年宫"
+  },
+  {
+    "name": "杭州宋城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州宋城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "杭州宋城"
+  },
+  {
+    "name": "西湖区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "杭州"
+    ],
+    "id": "西湖区文化馆"
+  },
+  {
+    "name": "杭州图书馆少儿分馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州图书馆少儿分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "杭州"
+    ],
+    "id": "杭州图书馆少儿分馆"
+  },
+  {
+    "name": "杭州国际博览中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州国际博览中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ],
+    "id": "杭州国际博览中心"
+  },
+  {
+    "name": "杭州运河大剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州杭州运河大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "杭州"
+    ],
+    "id": "杭州运河大剧院"
+  },
+  {
+    "name": "杭州野生动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "动物园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州杭州野生动物园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "杭州"
+    ],
+    "id": "杭州野生动物园"
+  }
+];
