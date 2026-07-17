@@ -58,10 +58,12 @@ exports.main = async (event, context) => {
   const _ = (city && city !== '全部') ? city : null
   if (_) result = result.filter(a => a.city === _)
   if (district && district !== 'all') result = result.filter(a => a.district === district)
-  if (category && category !== '全部') result = result.filter(a => a.category === category)
+  // 分类：云端用 type 字段（旧数据用 category 兜底）
+  if (category && category !== '全部') result = result.filter(a => (a.type || a.category) === category)
   if (fee === '免费') result = result.filter(a => ['免费', '免费需预约'].includes(a.fee))
   else if (fee === '收费') result = result.filter(a => !['免费', '免费需预约'].includes(a.fee))
-  if (familyOnly) result = result.filter(a => a.family_friendly)
+  // 亲子：云端用 is_family_friendly（旧数据用 family_friendly 兜底）
+  if (familyOnly) result = result.filter(a => a.is_family_friendly === true || a.family_friendly === true)
 
   return {
     success: true,

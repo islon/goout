@@ -15,16 +15,20 @@ Page({
     activeCity: '全部',
     activeTime: 'upcoming',
     activeDistrict: 'all',
-    categories: ['全部', '展览', '讲座阅读', '科普活动', '演出', '影视放映', '体育赛事', '亲子活动'],
+    // 分类对齐云端 type 字段（含新增「研学」）
+    categories: ['全部', '展览', '讲座阅读', '科普活动', '演出', '影视放映', '体育赛事', '亲子活动', '研学'],
     fees: ['全部', '免费', '收费'],
     times: ['upcoming', 'today', 'tomorrow', 'week', 'month'],
     timeLabels: { upcoming: '最近', today: '今天', tomorrow: '明天', week: '本周', month: '本月' },
-    cities: ['全部', '深圳', '北京', '上海', '广州', '杭州'],
+    // 城市：10 城（含云端新增 成都/重庆/南京/武汉/西安）
+    cities: ['全部', '深圳', '北京', '上海', '广州', '杭州', '成都', '重庆', '南京', '武汉', '西安'],
     cityMap: {
-      '深圳': 'shenzhen', '北京': 'beijing', '上海': 'shanghai', '广州': 'guangzhou', '杭州': 'hangzhou'
+      '深圳': 'shenzhen', '北京': 'beijing', '上海': 'shanghai', '广州': 'guangzhou', '杭州': 'hangzhou',
+      '成都': 'chengdu', '重庆': 'chongqing', '南京': 'nanjing', '武汉': 'wuhan', '西安': 'xian'
     },
     cityReverseMap: {
-      'shenzhen': '深圳', 'beijing': '北京', 'shanghai': '上海', 'guangzhou': '广州', 'hangzhou': '杭州'
+      'shenzhen': '深圳', 'beijing': '北京', 'shanghai': '上海', 'guangzhou': '广州', 'hangzhou': '杭州',
+      'chengdu': '成都', 'chongqing': '重庆', 'nanjing': '南京', 'wuhan': '武汉', 'xian': '西安'
     },
     districtOptions: ['全部区县'],
     loading: true
@@ -82,15 +86,26 @@ Page({
     })
   },
 
+  // 字段归一化：兼容云端新结构(type/is_family_friendly/url)与本地旧结构(category/family_friendly/link)
+  normalize(a) {
+    const category = a.type || a.category || '其他'
+    const familyFriendly = a.is_family_friendly === true || a.family_friendly === true
+    const link = a.link || a.url || ''
+    return { ...a, category, family_friendly, link }
+  },
+
   initData(source) {
-    const enriched = source.map((a, idx) => ({
-      ...a,
-      _id: idx,
-      _cityName: this.data.cityReverseMap[a.city] || a.city,
-      _dateRange: this.formatDateRange(a.start_date, a.end_date),
-      _isFree: a.fee === '免费' || a.fee === '免费需预约',
-      _isFamily: a.family_friendly === true
-    }))
+    const enriched = source.map((a, idx) => {
+      const n = this.normalize(a)
+      return {
+        ...n,
+        _id: idx,
+        _cityName: this.data.cityReverseMap[a.city] || a.city,
+        _dateRange: this.formatDateRange(a.start_date, a.end_date),
+        _isFree: a.fee === '免费' || a.fee === '免费需预约',
+        _isFamily: n.familyFriendly
+      }
+    })
     this._allActivities = enriched
     this.setData({ activities: enriched, loading: false })
     this.applyFilters()

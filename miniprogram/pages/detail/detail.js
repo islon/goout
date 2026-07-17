@@ -29,9 +29,15 @@ Page({
     const startDate = new Date(activity.start_date)
     const daysUntil = Math.ceil((startDate - today) / (1000 * 60 * 60 * 24))
 
+    // 字段归一化：兼容云端新结构(is_family_friendly/url)与本地旧结构(family_friendly/link)
+    const familyFriendly = activity.is_family_friendly === true || activity.family_friendly === true
+    const link = activity.link || activity.url || ''
+
     this.setData({
       activity: {
         ...activity,
+        family_friendly: familyFriendly,
+        link: link,
         _id: id,
         _dateRange: activity.start_date === activity.end_date 
           ? activity.start_date 

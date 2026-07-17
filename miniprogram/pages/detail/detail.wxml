@@ -38,7 +38,7 @@
       <view class="info-icon">🏙️</view>
       <view class="info-content">
         <view class="info-label">城市</view>
-        <view class="info-value">{{activity.city === 'shenzhen' ? '深圳' : activity.city === 'beijing' ? '北京' : activity.city === 'shanghai' ? '上海' : activity.city === 'guangzhou' ? '广州' : activity.city === 'hangzhou' ? '杭州' : activity.city}}<text wx:if="{{activity.venue_type && activity.venue_type !== '其他'}}"> · {{activity.venue_type}}</text></view>
+        <view class="info-value">{{activity.city === 'shenzhen' ? '深圳' : activity.city === 'beijing' ? '北京' : activity.city === 'shanghai' ? '上海' : activity.city === 'guangzhou' ? '广州' : activity.city === 'hangzhou' ? '杭州' : activity.city === 'chengdu' ? '成都' : activity.city === 'chongqing' ? '重庆' : activity.city === 'nanjing' ? '南京' : activity.city === 'wuhan' ? '武汉' : activity.city === 'xian' ? '西安' : activity.city}}</view>
       </view>
     </view>
 
@@ -48,6 +48,14 @@
         <view class="info-label">联系方式</view>
         <view class="info-value">{{activity.contact}}</view>
       </view>
+    </view>
+  </view>
+
+  <!-- 活动亮点 -->
+  <view class="desc-card" wx:if="{{activity.highlights && activity.highlights.length}}">
+    <view class="desc-title">活动亮点</view>
+    <view class="highlight-tags">
+      <text class="highlight-tag" wx:for="{{activity.highlights}}" wx:key="*this">{{item}}</text>
     </view>
   </view>
 
