@@ -1467,5 +1467,44 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳少年儿童图书馆公众号"
+  },
+  {
+    "title": "宠·爱——猫猫狗狗的世界",
+    "venue": "深圳博物馆（历史民俗馆）",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "link": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+    "description": "汇聚80件/套展品，梳理人与猫狗跨越万年的相伴历程。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科学可视、可玩、可体验。暑期延时开放至21:00。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳特区报/深圳新闻网"
+  },
+  {
+    "title": "歌剧双生的火焰与星标《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会",
+    "venue": "深圳音乐厅",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-17",
+    "link": "https://www.szyyt.com/performance/show_100000937342526.html",
+    "description": "深圳交响乐团2025-2026音乐季闭幕音乐会，两大经典歌剧同台。演出时间19:30，需购票入场。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "漫步古典夜 时光的褶皱——长笛与吉他二重奏音乐会",
+    "venue": "深圳音乐厅",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://www.szyyt.com/performance/show_100000954193225.html",
+    "description": "漫步古典夜系列，长笛与吉他二重奏，演绎时光的褶皱。演出时间19:30，需购票入场。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳音乐厅官网"
   }
 ]
