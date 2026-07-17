@@ -19568,5 +19568,8853 @@
       "科技商圈",
       "免费"
     ]
+  },
+  {
+    "name": "上海玻璃博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海玻璃博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "中共一大纪念馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中共一大纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "浦东美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海迪士尼度假区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海上海迪士尼度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海动物园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "动物园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海上海动物园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海当代艺术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海当代艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海市群众艺术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市群众艺术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "徐汇区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "前滩太古里",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海前滩太古里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "徐汇西岸滨江",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海徐汇西岸滨江，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "北外滩来福士广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海北外滩来福士广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ]
+  },
+  {
+    "name": "浦东新区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "杨浦区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "普陀区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "闵行区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "宝山区图书馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "普陀青少年水主题科普基地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀青少年水主题科普基地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海铁路博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海铁路博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "闵行博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "浦东博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "宝山博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "嘉定博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "松江博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海城市规划展示馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海城市规划展示馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海市少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "浦东新区青少年活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东新区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "杨浦区青少年活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "普陀区青少年宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海普陀区青少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "闵行区青少年活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "宝山区文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "嘉定区文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海嘉定区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "松江文化馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海松江文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海体育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "浦东体育公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海浦东体育公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "杨浦体育活动中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海杨浦体育活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "闵行体育公园文体中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海闵行体育公园文体中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "宝山体育中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海宝山体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海市历史博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市历史博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "中华艺术宫",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中华艺术宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "捷豹上海交响音乐厅",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海捷豹上海交响音乐厅，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海世博会博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海世博会博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海市历史博物馆（上海革命历史博物馆）",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海市历史博物馆（上海革命历史博物馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海文化广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海文化广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海展览中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海展览中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海琉璃艺术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海琉璃艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海周虎臣曹素功笔墨博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海周虎臣曹素功笔墨博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "国际乒联博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海国际乒联博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "西岸美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海西岸美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "马利美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海马利美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海保利大剧院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海上海保利大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "上海"
+    ]
+  },
+  {
+    "name": "奉贤博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海奉贤博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "西岸梦中心水岸剧场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海西岸梦中心水岸剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "世博文化公园申园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海世博文化公园申园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海温室花园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海温室花园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海真静传统木作博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海真静传统木作博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "周虎臣曹素功笔墨博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海周虎臣曹素功笔墨博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "苏州河游船",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海苏州河游船，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海城市草坪音乐广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海城市草坪音乐广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ]
+  },
+  {
+    "name": "九棵树未来艺术中心",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海九棵树未来艺术中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "保利上海城市剧院",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海保利上海城市剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海民生现代美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海民生现代美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海久事美术馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海久事美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "龙美术馆西岸馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海龙美术馆西岸馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海佘山国家旅游度假区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海上海佘山国家旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "上海"
+    ]
+  },
+  {
+    "name": "花米庄行景区",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海花米庄行景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "上海"
+    ]
+  },
+  {
+    "name": "大宁公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海大宁公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "放鹤谷鲜花农场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海放鹤谷鲜花农场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海全域",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海全域，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "海滨新天地",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海海滨新天地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "碧海金沙",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海碧海金沙，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海之鱼泡泡公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海之鱼泡泡公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海之鱼年丰公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海之鱼年丰公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海杜莎夫人蜡像馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海杜莎夫人蜡像馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "锦江乐园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "上海锦江乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "上海"
+    ]
+  },
+  {
+    "name": "东方明珠广播电视塔",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海东方明珠广播电视塔，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "崇明西沙湿地公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "崇明区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海崇明西沙湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "南京路步行街",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海南京路步行街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "武康路",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海武康路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "思南公馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海思南公馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "召稼楼古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海召稼楼古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "上海"
+    ]
+  },
+  {
+    "name": "佘山国家森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海佘山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "东滩湿地公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "崇明区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海东滩湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "东平国家森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "崇明区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海东平国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "顾村公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海顾村公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "海湾国家森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海海湾国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海电影博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海电影博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海公安博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海公安博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海中医药博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海中医药博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海地震科普馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海地震科普馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "中国航海博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中国航海博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海工艺美术博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海工艺美术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海隧道科技馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海隧道科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "上海"
+    ]
+  },
+  {
+    "name": "上海惊魂密境",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海上海惊魂密境，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "玉佛禅寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海玉佛禅寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "龙华寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海龙华寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "真如寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海真如寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "法华禅寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海法华禅寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "东林寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海东林寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "西林禅寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "松江区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海西林禅寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "报国寺",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海报国寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "上海"
+    ]
+  },
+  {
+    "name": "人民广场",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海人民广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "上海"
+    ]
+  },
+  {
+    "name": "共青国家森林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海共青国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "曲水园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "青浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海曲水园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "上海"
+    ]
+  },
+  {
+    "name": "桂林公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海桂林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "鲁迅公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海鲁迅公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "和平公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海和平公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "静安公园",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海静安公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "上海"
+    ]
+  },
+  {
+    "name": "罗店古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海罗店古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "上海"
+    ]
+  },
+  {
+    "name": "高桥古镇",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海高桥古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "上海"
+    ]
+  },
+  {
+    "name": "广州民俗博物馆（花都）",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州民俗博物馆（花都），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "南汉二陵博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南汉二陵博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广东革命历史博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东革命历史博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广东美术馆（二沙岛本馆）",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东美术馆（二沙岛本馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "毛泽东同志主办农民运动讲习所旧址纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州毛泽东同志主办农民运动讲习所旧址纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "正佳大剧院",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州正佳大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "广州"
+    ]
+  },
+  {
+    "name": "长隆旅游度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州长隆旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市文化馆（新馆）",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市文化馆（新馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "花都区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "南沙湿地景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙湿地景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "从化区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "南沙区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "黄埔军校旧址纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄埔军校旧址纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广东省立中山图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东省立中山图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广东美术馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广东美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "增城区图书馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "孙中山大元帅府纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州孙中山大元帅府纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "白水寨风景名胜区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白水寨风景名胜区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "星海音乐厅",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州星海音乐厅，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "从化温泉旅游度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化温泉旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "广州"
+    ]
+  },
+  {
+    "name": "增城1978文化创意园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城1978文化创意园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "从化荔枝球乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化荔枝球乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州人民艺术中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州人民艺术中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "农讲所纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州农讲所纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州起义纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州起义纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州海事博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州海事博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州科学中心",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州科学中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "正佳企鹅冰雪世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州正佳企鹅冰雪世界，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "正佳中华文明探索馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州正佳中华文明探索馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "正佳科学馆天文馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州正佳科学馆天文馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "白江湖森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州白江湖森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "石门国家森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州石门国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州各大森林公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州各大森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州星罗纪大森林景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州广州星罗纪大森林景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "广州"
+    ]
+  },
+  {
+    "name": "森林海旅游度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州森林海旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "广州"
+    ]
+  },
+  {
+    "name": "增城区大丰水峡谷乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州增城区大丰水峡谷乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "广州"
+    ]
+  },
+  {
+    "name": "珠江游",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州珠江游，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "宝墨园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州宝墨园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "余荫山房",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州余荫山房，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "沙湾古镇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州沙湾古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州民俗博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州民俗博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "辛亥革命纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州辛亥革命纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "莲花山旅游区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州莲花山旅游区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "百万葵园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州百万葵园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "从化温泉度假区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州从化温泉度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "广州"
+    ]
+  },
+  {
+    "name": "云台花园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州云台花园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "六榕寺",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州六榕寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "广州"
+    ]
+  },
+  {
+    "name": "光孝寺",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州光孝寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "广州"
+    ]
+  },
+  {
+    "name": "海幢寺",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州海幢寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "广州"
+    ]
+  },
+  {
+    "name": "大佛寺",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州大佛寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "广州"
+    ]
+  },
+  {
+    "name": "三元宫",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州三元宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "广州"
+    ]
+  },
+  {
+    "name": "纯阳观",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州纯阳观，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "怀圣寺",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州怀圣寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "广州"
+    ]
+  },
+  {
+    "name": "五仙观",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州五仙观，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "西关古老大屋",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "荔湾区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州西关古老大屋，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "石室圣心大教堂",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州石室圣心大教堂，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "中山纪念堂",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州中山纪念堂，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "黄花岗公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州黄花岗公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "三元里抗英纪念馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州三元里抗英纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州雕塑公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州雕塑公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "兰圃",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "越秀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州兰圃，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "挂绿湖",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州挂绿湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "长隆国际大马戏",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州长隆国际大马戏，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "塱头古村",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州塱头古村，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州鳄鱼公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州鳄鱼公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州气象卫星地面站",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州气象卫星地面站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州抽水蓄能电站",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州抽水蓄能电站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "洪秀全故居",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州洪秀全故居，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "广州"
+    ]
+  },
+  {
+    "name": "番禺博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州番禺博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "增城博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州增城博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "从化博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州从化博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "花都博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州花都博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "南沙博物馆",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州南沙博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市白云儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市白云儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市海珠儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市海珠儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市番禺儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市番禺儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市天河儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市天河儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市黄埔儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "黄埔区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市黄埔儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市花都儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "花都区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市花都儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市增城儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市增城儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市从化儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市从化儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州市南沙儿童公园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "南沙区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州市南沙儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "广州"
+    ]
+  },
+  {
+    "name": "大丰门景区",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州大丰门景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "广州"
+    ]
+  },
+  {
+    "name": "碧水湾温泉度假村",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "从化区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州碧水湾温泉度假村，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "锦绣香江温泉城",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "增城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州锦绣香江温泉城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "MAG环球魔幻世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "天河区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州MAG环球魔幻世界，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "星期8小镇",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州星期8小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "奥园英德巧克力王国",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "番禺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州奥园英德巧克力王国，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "南湖游乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州南湖游乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "广州"
+    ]
+  },
+  {
+    "name": "黄金海岸水上乐园",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "广州黄金海岸水上乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "广州"
+    ]
+  },
+  {
+    "name": "大河马水上世界",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "白云区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州大河马水上世界，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "广州国际生物岛",
+    "source": "广州本地宝",
+    "city": "guangzhou",
+    "district": "海珠区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "广州广州国际生物岛，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "广州"
+    ]
+  },
+  {
+    "name": "光明区马田街道综合性文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区马田街道综合性文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "龙岗文博展览馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗文博展览馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "龙城街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙城街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "光明区公明街道综合性文化服务中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳光明区公明街道综合性文化服务中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "坂田街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坂田街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "横岗街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳横岗街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安滨海文化公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安滨海文化公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ]
+  },
+  {
+    "name": "华侨城创意文化园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳华侨城创意文化园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "深圳科技馆（光明馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳深圳科技馆（光明馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "南山区图书馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳南山区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安区图书馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "深圳科技馆（光明新馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳深圳科技馆（光明新馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "深圳市科学馆（福田老馆）",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳深圳市科学馆（福田老馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "龙岗红立方科技馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗红立方科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "龙华科技馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "龙华文体中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙华文体中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "前海石公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳前海石公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ]
+  },
+  {
+    "name": "沙井京基百纳榕下童趣乐园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "深圳沙井京基百纳榕下童趣乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "深圳"
+    ]
+  },
+  {
+    "name": "莲花山公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳莲花山公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ]
+  },
+  {
+    "name": "甘坑客家小镇",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳甘坑客家小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "观澜河湿地公园",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳观澜河湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "深圳"
+    ]
+  },
+  {
+    "name": "大鹏半岛国家地质公园博物馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳大鹏半岛国家地质公园博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "坪山城市书房",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山城市书房，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安大仟里",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安大仟里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安区文化馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安区文化馆新桥街道分馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆新桥街道分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安区文化馆燕罗街道分馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆燕罗街道分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "坪山区体育中心",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳坪山区体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安区文化馆航城街道分馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆航城街道分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "宝安区文化馆西乡街道分馆",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳宝安区文化馆西乡街道分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "深圳"
+    ]
+  },
+  {
+    "name": "福田梦工场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳福田梦工场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "中轴云廊·顶上空间",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳中轴云廊·顶上空间，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "龙岗街道文化站",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳龙岗街道文化站，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "茅洲河体育艺术中心剧场",
+    "source": "深圳本地宝",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳茅洲河体育艺术中心剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "深圳"
+    ]
+  },
+  {
+    "name": "北京大运河博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京大运河博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "首都博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京首都博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京艺术博物馆（万寿寺）",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京艺术博物馆（万寿寺），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "恭王府博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京恭王府博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京自然博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京自然博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京大运河博物馆（首都博物馆东馆）",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京大运河博物馆（首都博物馆东馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "圆明园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京圆明园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国科技馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国科技馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京数字文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京数字文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "朝阳区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "通州运河文化广场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州运河文化广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "北京"
+    ]
+  },
+  {
+    "name": "东城区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "西城区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京西城区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "海淀区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "丰台区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "石景山区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京石景山区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "通州区图书馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京古代建筑博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京古代建筑博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京规划展览馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京规划展览馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京消防科普教育基地",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京消防科普教育基地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京市少年宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京市青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "朝阳区青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "海淀区青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "丰台区青少年宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "丰台区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京丰台区青少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "通州区青少年活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州区青少年活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "东城区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东城区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "西城区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京西城区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "朝阳区文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京市文化馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "朝阳体育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京朝阳体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "海淀体育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京海淀体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "通州体育中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京通州体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "太阳宫市民活动中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京太阳宫市民活动中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "温榆河公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京温榆河公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "东小口森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东小口森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "大望京公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京大望京公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "三里屯太古里北区下沉广场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "广场",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京三里屯太古里北区下沉广场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "北京"
+    ]
+  },
+  {
+    "name": "亮马河滨水步道",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京亮马河滨水步道，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "永定河休闲森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京永定河休闲森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "南海子公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京南海子公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "念坛公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京念坛公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "城市绿心森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京城市绿心森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "沙河滨河公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京沙河滨河公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "望和公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京望和公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "马家湾湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京马家湾湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "玉渊潭公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京玉渊潭公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "紫竹院公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京紫竹院公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "莲石湖公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "石景山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京莲石湖公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "亦庄滨河森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京亦庄滨河森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "鸿博公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "大兴区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京鸿博公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "老君堂公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京老君堂公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "潮白河森林公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京潮白河森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "长沟湿地公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京长沟湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "云居城市休闲公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京云居城市休闲公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "首都剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京首都剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国电影博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国电影博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中华世纪坛",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中华世纪坛，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京国际戏剧中心·人艺小剧场",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京国际戏剧中心·人艺小剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国人民革命军事博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国人民革命军事博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京鲁迅博物馆（北京新文化运动纪念馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "三山五园文化艺术中心",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京三山五园文化艺术中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "清华大学艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京清华大学艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国农业博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国农业博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国现代文学馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国现代文学馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京大学百周年纪念讲堂",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京大学百周年纪念讲堂，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "珐琅厂",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京珐琅厂，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国国家版本馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国国家版本馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国共产党早期北京革命活动纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国共产党早期北京革命活动纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "龙潭中湖公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京龙潭中湖公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "昌平区玖耀里",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京昌平区玖耀里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "魏公芳华里",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京魏公芳华里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "万寿寺博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京万寿寺博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国铁道博物馆东郊展馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国铁道博物馆东郊展馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "香山革命纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京香山革命纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国共产党早期革命活动纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国共产党早期革命活动纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国工艺美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国工艺美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "五棵松爱乐汇艺术空间",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京五棵松爱乐汇艺术空间，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "天坛神乐署",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京天坛神乐署，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "明城墙遗址公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京明城墙遗址公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "东四胡同博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京东四胡同博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "老舍故居纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京老舍故居纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京环球影城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "通州区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京环球影城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "圆明园遗址公园",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京圆明园遗址公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "北京"
+    ]
+  },
+  {
+    "name": "居庸关长城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京居庸关长城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "明十三陵",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "昌平区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京明十三陵，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "周口店北京人遗址博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京周口店北京人遗址博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "什刹海",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京什刹海，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "南锣鼓巷",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京南锣鼓巷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "798艺术区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京798艺术区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "蓝色港湾",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京蓝色港湾，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京杜莎夫人蜡像馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京杜莎夫人蜡像馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京市规划展览馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京市规划展览馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "慕田峪长城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京慕田峪长城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "八达岭长城",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "延庆区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京八达岭长城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "十渡风景区",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "房山区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "北京十渡风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "北京"
+    ]
+  },
+  {
+    "name": "雍和宫",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京雍和宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "孔庙和国子监博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京孔庙和国子监博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京鲁迅博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京鲁迅博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "宋庆龄同志故居",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京宋庆龄同志故居，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "北京"
+    ]
+  },
+  {
+    "name": "郭沫若纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京郭沫若纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "茅盾故居",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京茅盾故居，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "北京"
+    ]
+  },
+  {
+    "name": "老舍纪念馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京老舍纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京画院美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京画院美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "今日美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京今日美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "红砖美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京红砖美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "松美术馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "顺义区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京松美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国邮政邮票博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国邮政邮票博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "中国铁道博物馆正阳门馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京中国铁道博物馆正阳门馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京古观象台",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京古观象台，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "智化寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "东城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京智化寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "大钟寺古钟博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京大钟寺古钟博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京石刻艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京石刻艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京艺术博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "海淀区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京艺术博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "妙应寺白塔",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京妙应寺白塔，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "北京民俗博物馆",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "朝阳区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京北京民俗博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "北京"
+    ]
+  },
+  {
+    "name": "白云观",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京白云观，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "北京"
+    ]
+  },
+  {
+    "name": "牛街礼拜寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "西城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京牛街礼拜寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "潭柘寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京潭柘寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "戒台寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "门头沟区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京戒台寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "红螺寺",
+    "source": "北京本地宝",
+    "city": "beijing",
+    "district": "怀柔区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "北京红螺寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "北京"
+    ]
+  },
+  {
+    "name": "浙江省文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江省文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国京杭大运河博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国京杭大运河博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国印学博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国印学博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州图书馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "动物园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州杭州动物园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西溪湿地公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西溪湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "天目里",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州天目里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "上城区图书馆（青少年分馆）",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区图书馆（青少年分馆），提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "余杭区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区青少年宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ]
+  },
+  {
+    "name": "浙江美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州宋城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州宋城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西湖区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区文化馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州图书馆少儿分馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州图书馆少儿分馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州国际博览中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州国际博览中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州运河大剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州杭州运河大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "杭州"
+    ]
+  },
+  {
+    "name": "金沙湖大剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "钱塘区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州金沙湖大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州临平大剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州杭州临平大剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "杭州"
+    ]
+  },
+  {
+    "name": "小百花越剧场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州小百花越剧场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "阿里巴巴全球总部",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州阿里巴巴全球总部，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "上城坊巷",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城坊巷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "拱墅运河",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅运河，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "临安天目未来谷",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安天目未来谷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "临平平行世界",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临平平行世界，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "桐庐开元森泊",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐开元森泊，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "浙江省非遗馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江省非遗馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "虎啸峡漂流",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州虎啸峡漂流，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "建德卧龙胜境",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德卧龙胜境，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "灵山幻境",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州灵山幻境，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "建德灵栖洞",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德灵栖洞，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "垂云通天河",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州垂云通天河，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州全域",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州全域，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西泠印社美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西泠印社美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "临安博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国刀剪剑博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国刀剪剑博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "浙江大学艺术与考古博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江大学艺术与考古博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "盖叫天故居",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州盖叫天故居，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州各文旅点位",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州各文旅点位，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "上城区历史街区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区历史街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "拱墅区运河",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区运河，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "晓风书屋阅见西湖",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州晓风书屋阅见西湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州全城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州全城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "吴越里",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州吴越里，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西湖绿道",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖绿道，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "千岛湖",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州千岛湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "钱塘江游船",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州钱塘江游船，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州孔庙",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州孔庙，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ]
+  },
+  {
+    "name": "吴山景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州吴山景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "小河直街历史街区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州小河直街历史街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "机器人小镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州机器人小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "天目山",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州天目山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "莫干山",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州莫干山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "东信和创园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州东信和创园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国美术学院美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国美术学院美术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州市临平博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州市临平博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "宋城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州宋城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "烂苹果乐园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "主题乐园",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州烂苹果乐园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "长乔极地海洋公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州长乔极地海洋公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "浙江自然博物院安吉馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "安吉县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江自然博物院安吉馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "京杭大运河杭州段",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州京杭大运河杭州段，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "千岛湖风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州千岛湖风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "乌镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐乡市",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州乌镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "横店影视城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "东阳市",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州横店影视城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州少年儿童公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州少年儿童公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州海底世界",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州海底世界，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "浙西大峡谷",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙西大峡谷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "双溪竹海漂流景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州双溪竹海漂流景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "雷峰塔景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州雷峰塔景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "飞来峰景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州飞来峰景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "岳王庙",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州岳王庙，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ]
+  },
+  {
+    "name": "桥西历史街区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桥西历史街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "超山风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州超山风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "瑶琳仙境",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州瑶琳仙境，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "大奇山国家森林公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州大奇山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "富春江",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富春江，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "新安江",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州新安江，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "梅家坞",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州梅家坞，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "浙江自然博物院杭州馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江自然博物院杭州馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "南宋官窑博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州南宋官窑博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "胡庆余堂中药博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州胡庆余堂中药博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国杭帮菜博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国杭帮菜博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国伞博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国伞博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "中国扇博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国扇博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "韩美林艺术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州韩美林艺术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西湖音乐节",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖音乐节，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "灵顺寺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州灵顺寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ]
+  },
+  {
+    "name": "净慈寺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州净慈寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ]
+  },
+  {
+    "name": "玉泉",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州玉泉，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "满觉陇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州满觉陇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "宝石山",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州宝石山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "玉皇山",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州玉皇山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "黄龙洞",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州黄龙洞，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "杭州市科学技术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖文化广场",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州市科学技术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西湖博览会博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖博览会博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "苏东坡纪念馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州苏东坡纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "章太炎纪念馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "纪念馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州章太炎纪念馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "杭州"
+    ]
+  },
+  {
+    "name": "于谦祠",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州于谦祠，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "张苍水先生祠",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州张苍水先生祠，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "白塔公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州白塔公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "江洋畈生态公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江洋畈生态公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "半山国家森林公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州半山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "皋亭山景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州皋亭山景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "山沟沟景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州山沟沟景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "径山寺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州径山寺，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西溪湿地洪园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西溪湿地洪园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西湖国宾馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖国宾馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "千岛湖啤酒小镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州千岛湖啤酒小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "千岛湖石林景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州千岛湖石林景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "大慈岩风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州大慈岩风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "灵栖洞景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州灵栖洞景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "太湖源景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州太湖源景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "大明山景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州大明山景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "龙门古镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州龙门古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "黄公望隐居地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州黄公望隐居地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "严子陵钓台",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州严子陵钓台，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "文渊狮城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州文渊狮城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "梅城古镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州梅城古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "塘栖古镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州塘栖古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "河桥古镇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州河桥古镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "杭州"
+    ]
+  },
+  {
+    "name": "瓶窑老街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州瓶窑老街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "东方文化园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州东方文化园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "湘湖旅游度假区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州湘湖旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "杭州"
+    ]
+  },
+  {
+    "name": "灵山风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州灵山风景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "白龙潭景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州白龙潭景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "西湖景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州西湖景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "九溪十八涧",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州九溪十八涧，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "湖滨步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州湖滨步行街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "清河坊街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州清河坊街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "杭州"
+    ]
+  },
+  {
+    "name": "京杭大运河杭州景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "风景区",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "杭州京杭大运河杭州景区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "风景区",
+      "杭州"
+    ]
+  },
+  {
+    "name": "后官湖湿地公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉后官湖湿地公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉"
+    ]
+  },
+  {
+    "name": "武汉杂技厅",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武汉杂技厅，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "武汉体育馆",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "体育场馆",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "武汉武汉体育馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "体育场馆",
+      "武汉"
+    ]
+  },
+  {
+    "name": "木兰清凉寨",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉木兰清凉寨，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "锦里沟",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉锦里沟，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "武汉港码头",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江岸区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉武汉港码头，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "硚口江滩公园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "硚口区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉硚口江滩公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "武汉"
+    ]
+  },
+  {
+    "name": "鹦鹉洲长江大桥",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "汉阳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉鹦鹉洲长江大桥，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "户部巷",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉户部巷，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "粮道街",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "武昌区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉粮道街，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "万松园",
+    "source": "武汉本地宝",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "武汉万松园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "武汉"
+    ]
+  },
+  {
+    "name": "成都川剧院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "剧场",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成都川剧院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "国际非遗博览园",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都国际非遗博览园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "锦江绿道",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都锦江绿道，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都足球训练基地",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都足球训练基地，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都体育馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "体育场馆",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "成都成都体育馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "体育场馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都市游泳馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都市游泳馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都体育学院",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "教育机构",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都体育学院，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "教育机构",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都攀岩馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都攀岩馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都轮滑场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都轮滑场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都击剑馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都击剑馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都跆拳道馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都跆拳道馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武术馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都武术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都瑜伽馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都瑜伽馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高尔夫球场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都高尔夫球场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都冰场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都冰场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都平衡车场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都平衡车场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都射箭馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都射箭馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都蹦床馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都蹦床馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都跑酷场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都跑酷场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都亲子游泳馆",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都亲子游泳馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都滑板场",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都滑板场，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都马术俱乐部",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都马术俱乐部，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都银泰中心",
+    "source": "成都本地宝",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "成都成都银泰中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "秦淮非遗馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京秦淮非遗馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京金箔艺术馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京金箔艺术馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "高淳陶瓷小镇",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京高淳陶瓷小镇，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京城墙博物馆",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京城墙博物馆，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "颐和路",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京颐和路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "美龄宫",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "宗教场所",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京美龄宫，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "宗教场所",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京奥林匹克体育中心",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京奥林匹克体育中心，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "青奥公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京青奥公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "汤山温泉旅游度假区",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "度假村",
+    "address": "",
+    "transport": "",
+    "fee": "收费",
+    "description": "南京汤山温泉旅游度假区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "度假村",
+      "南京"
+    ]
+  },
+  {
+    "name": "汤山古猿人洞",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京汤山古猿人洞，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "阳山碑材",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京阳山碑材，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "桠溪国际慢城",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京桠溪国际慢城，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "游子山",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京游子山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "固城湖",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京固城湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "周园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京周园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "天生桥",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京天生桥，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "无想山",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京无想山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "傅家边",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京傅家边，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "东庐山",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京东庐山，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "金牛湖",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京金牛湖，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京平山森林公园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京南京平山森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "桂子山石柱林",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京桂子山石柱林，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "大金山国防园",
+    "source": "南京本地宝",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "南京大金山国防园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "长安十二时辰主题街区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "雁塔区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安长安十二时辰主题街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "西安"
+    ]
+  },
+  {
+    "name": "易俗社文化街区",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "新城区",
+    "type": "历史文化景点",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安易俗社文化街区，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "西安"
+    ]
+  },
+  {
+    "name": "朱雀国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安朱雀国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ]
+  },
+  {
+    "name": "太平国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "鄠邑区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安太平国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ]
+  },
+  {
+    "name": "黑河国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "周至县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安黑河国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ]
+  },
+  {
+    "name": "楼观台森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "周至县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安楼观台森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ]
+  },
+  {
+    "name": "王顺山国家森林公园",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "蓝田县",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安王顺山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "西安"
+    ]
+  },
+  {
+    "name": "重庆际华园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆重庆际华园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "北滨路",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆北滨路，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "仙女山国家森林公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆仙女山国家森林公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆光环购物公园",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆重庆光环购物公园，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆龙门阵欢乐水魔方",
+    "source": "重庆本地宝",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "重庆重庆龙门阵欢乐水魔方，提供各类亲子活动和展览。",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   }
 ]
