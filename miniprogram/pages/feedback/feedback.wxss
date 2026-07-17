@@ -97,17 +97,6 @@
   margin-top: 12rpx;
 }
 
-.contact-input {
-  width: 100%;
-  height: 80rpx;
-  padding: 0 20rpx;
-  background: #FAFAF8;
-  border-radius: 16rpx;
-  font-size: 28rpx;
-  color: #4A403A;
-  box-sizing: border-box;
-}
-
 .copy-section {
   margin-bottom: 24rpx;
 }

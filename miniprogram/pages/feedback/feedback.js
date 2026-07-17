@@ -11,7 +11,6 @@ Page({
     ],
     category: 'data',
     content: '',
-    contact: '',
     target: ''
   },
 
@@ -44,10 +43,6 @@ Page({
     this.setData({ content: e.detail.value });
   },
 
-  onContactInput(e) {
-    this.setData({ contact: e.detail.value });
-  },
-
   buildFeedbackText() {
     const categoryName = this.getCategoryName(this.data.category);
     let text = '【反馈类型】' + categoryName + '\\n';
@@ -55,9 +50,6 @@ Page({
       text += '【反馈对象】' + this.data.target + '\\n';
     }
     text += '【反馈内容】\\n' + (this.data.content || '（未填写）') + '\\n';
-    if (this.data.contact) {
-      text += '【联系方式】' + this.data.contact + '\\n';
-    }
     text += '【来自】童行小程序\\n';
     return text;
   },

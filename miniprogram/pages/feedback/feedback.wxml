@@ -24,12 +24,6 @@
     <view class="content-hint">{{content.length || 0}} / 800</view>
   </view>
 
-  <!-- 联系方式 -->
-  <view class="form-card">
-    <view class="form-label">联系方式（选填）</view>
-    <input class="contact-input" type="text" placeholder="微信 / 邮箱 / 手机号，方便我们回复你" value="{{contact}}" bindinput="onContactInput" maxlength="60" />
-  </view>
-
   <!-- 复制反馈 -->
   <view class="copy-section" bindtap="onCopyFeedback">
     <view class="copy-btn">复制整理好的反馈文本</view>
