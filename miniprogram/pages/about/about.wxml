@@ -137,22 +137,6 @@
     </view>
   </view>
 
-  <!-- 场馆指南 -->
-  <view class="section">
-    <view class="section-title">场馆指南</view>
-    <view class="subscribe-tip">
-      没有活动也想去逛逛？看看这些场馆的介绍、地址、交通和亮点。
-    </view>
-    <view class="venue-guide-card" bindtap="onGoVenues">
-      <image class="venue-guide-icon" src="/assets/about-museum.png" mode="aspectFit"></image>
-      <view class="venue-guide-content">
-        <view class="venue-guide-title">浏览全部场馆</view>
-        <view class="venue-guide-desc">覆盖深圳、北京、上海、广州、杭州</view>
-      </view>
-      <view class="venue-guide-action">去看看</view>
-    </view>
-  </view>
-
   <!-- 意见反馈 -->
   <view class="section">
     <view class="section-title">意见反馈</view>

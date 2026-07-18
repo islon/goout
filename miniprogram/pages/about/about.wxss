@@ -327,7 +327,6 @@
   border-bottom: none;
 }
 
-.venue-guide-card,
 .feedback-card {
   display: flex;
   align-items: center;
@@ -337,7 +336,6 @@
   box-shadow: 0 4rpx 16rpx rgba(0, 0, 0, 0.05);
 }
 
-.venue-guide-icon,
 .feedback-icon {
   width: 60rpx;
   height: 60rpx;
@@ -345,12 +343,10 @@
   flex-shrink: 0;
 }
 
-.venue-guide-content,
 .feedback-content {
   flex: 1;
 }
 
-.venue-guide-title,
 .feedback-title {
   font-size: 28rpx;
   font-weight: 600;
@@ -358,13 +354,11 @@
   margin-bottom: 8rpx;
 }
 
-.venue-guide-desc,
 .feedback-desc {
   font-size: 24rpx;
   color: #8C7E70;
 }
 
-.venue-guide-action,
 .feedback-arrow {
   font-size: 26rpx;
   color: #D4A373;

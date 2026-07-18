@@ -108,12 +108,6 @@ Page({
     });
   },
 
-  onGoVenues() {
-    wx.switchTab({
-      url: '/pages/venues/venues'
-    });
-  },
-
   onGoFeedback() {
     wx.navigateTo({
       url: '/pages/feedback/feedback'

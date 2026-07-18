@@ -6,19 +6,25 @@ const { precomputeDerived } = require('./utils/helpers.js');
 // 预计算离线兜底数据的派生字段（运行期更新后的数据也会在 applyExhibitions 里预计算）
 precomputeDerived(localExhibitions);
 
-// 远程数据地址（GitHub raw 直连）
+// 远程数据地址：多数据源容灾（见下方 DATA_SOURCES）。
 // 小程序直接读取各城市分文件 exhibitions_{城市}.json —— 与网页版同源（网页只读分城市文件）。
 // 新增城市只需在 filters.js 的 cities 数组加一项，取数与筛选 UI 同步生效，无需维护主文件。
-const CITY_FILE_BASE = 'https://raw.githubusercontent.com/islon/goout/main/output/exhibitions_';
-const REMOTE_VENUE_URL = 'https://raw.githubusercontent.com/islon/goout/main/output/venue_info.json';
-// 近期活动小文件（按 start_date 升序、每城最早未结束前 80 条，约 800 条）：首屏优先拉取，单请求、体积极小
-const RECENT_URL = 'https://raw.githubusercontent.com/islon/goout/main/output/exhibitions_recent.json';
-// 城市清单远程地址（与网页版同源）：运行时拉取，新增城市无需重新发布小程序版本
-const CITIES_URL = 'https://raw.githubusercontent.com/islon/goout/main/output/cities.json';
+// 近期活动小文件（每城最早未结束前 80 条，约 800 条）：首屏优先拉取，单请求、体积极小。
+// 城市清单：运行时拉取，新增城市无需重新发布小程序版本。
+// 场馆库：2964 个真实场馆。
+// 以上文件均通过 DATA_SOURCES 多源顺序拉取（jsDelivr 镜像优先、raw.githubusercontent 兜底），
+// 彻底规避“单一域名被墙导致全量拉不到、卡在近期子集”的问题。
 // 打包内城市清单：仅作离线兜底（首启/网络不可达时用）
 const { cities: bundledCities } = require('./data/filters.js');
 // 运行期生效的城市清单（模块级，驱动取数）：默认用打包兜底，成功拉取 cities.json 后覆盖
 var activeCities = bundledCities;
+
+// 多数据源容灾：国内优先 jsDelivr 镜像，raw.githubusercontent 兜底。
+// 两者被墙相互独立——任一可达即可加载，根治“单源被墙导致全量拉不到/卡在近期子集”的问题。
+const DATA_SOURCES = [
+  { base: 'https://cdn.jsdelivr.net/gh/islon/goout@main/', bust: false },
+  { base: 'https://raw.githubusercontent.com/islon/goout/main/', bust: true }
+];
 
 // 缓存 key（v3：数据已净化移除合成条目、场馆库扩充至2964个，旧缓存需重新播种）
 const CACHE_KEY = 'goout_exhibitions_cache_v3';
@@ -26,12 +32,7 @@ const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v3';
 const VENUE_CACHE_KEY = 'goout_venues_cache_v3';
 const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.18.5';
-
-// 加时间戳，绕过 CDN 缓存
-function getFreshUrl(base) {
-  return base + '?t=' + Date.now();
-}
+const APP_VERSION = '2026.07.18.6';
 
 // 带重试的 wx.request 封装：GitHub raw 在中国大陆常被拦截/超时，
 // 这里做指数退避重试（默认 3 次，间隔 0.7s / 1.4s / 2.1s），显著提升首屏拉取成功率。
@@ -75,6 +76,31 @@ function requestWithRetry(url, options) {
   });
 }
 
+// 多数据源顺序容灾拉取 relPath（相对仓库根路径）：依次尝试 DATA_SOURCES 中每个源，
+// 每个源内部由 requestWithRetry 做指数退避重试；全部失败 resolve(null)。
+// 任一源返回有效 JSON 数组即胜出，彻底规避“单一域名被墙则全盘拉取失败”。
+function fetchJsonFromSources(relPath, opts) {
+  opts = opts || {};
+  return new Promise(function(resolve) {
+    var idx = 0;
+    function tryNext() {
+      if (idx >= DATA_SOURCES.length) { resolve(null); return; }
+      var s = DATA_SOURCES[idx++];
+      var url = s.base + relPath + (s.bust ? ('?t=' + Date.now()) : '');
+      requestWithRetry(url, opts).then(function(res) {
+        var arr = toArray(res && res.data);
+        if (res && res.statusCode === 200 && arr && arr.length > 0) {
+          resolve(res);
+        } else {
+          console.warn('[童行] 数据源不可达，切换下一个:', (s.base || '').split('/')[2], (res && res.statusCode));
+          tryNext();
+        }
+      });
+    }
+    tryNext();
+  });
+}
+
 // 把远程/缓存数据统一规整为数组：数组原样返回；对象(按值)转数组；其余返回 null
 // 防止 GitHub raw 被拦截返回 HTML 字符串时，直接赋值字符串导致页面 .filter 崩溃白屏
 function toArray(data) {
@@ -109,37 +135,45 @@ function sameCityKeys(a, b) {
 
 // 运行时拉取城市清单 cities.json；成功且结构合法则更新模块级 activeCities 并返回该数组，否则返回 null（保持兜底）
 function fetchCities() {
-  return requestWithRetry(getFreshUrl(CITIES_URL), { timeout: 15000, maxRetries: 3 }).then(function(res) {
+  return fetchJsonFromSources('output/cities.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+    if (!res) {
+      console.warn('[童行] cities.json 全部数据源不可用，沿用打包城市清单');
+      return null;
+    }
     var arr = toArray(res.data);
-    if (res.statusCode === 200 && isValidCities(arr)) {
+    if (isValidCities(arr)) {
       activeCities = arr;
       return arr;
     }
-    console.warn('[童行] cities.json 不可用或结构异常，沿用打包城市清单', res.statusCode);
+    console.warn('[童行] cities.json 结构异常，沿用打包城市清单', res.statusCode);
     return null;
   });
 }
 
 // 拉取单个城市分文件，规整为数组；被墙/非数组时返回 null（不污染整体）
 function fetchCityArray(key) {
-  return requestWithRetry(getFreshUrl(CITY_FILE_BASE + key + '.json'), { timeout: 15000, maxRetries: 3 }).then(function(res) {
-    var arr = toArray(res.data);
-    if (res.statusCode === 200 && arr && arr.length > 0) {
-      return arr;
+  return fetchJsonFromSources('output/exhibitions_' + key + '.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+    if (!res) {
+      console.warn('[童行] 城市分文件全部数据源不可用:', key);
+      return null;
     }
-    console.warn('[童行] 城市分文件不可用:', key, res.statusCode);
+    var arr = toArray(res.data);
+    if (arr && arr.length > 0) return arr;
+    console.warn('[童行] 城市分文件为空:', key, res.statusCode);
     return null;
   });
 }
 
 // 拉取「近期活动」小文件（首屏优先，单请求、体积小）；被墙/非数组时返回 null
 function fetchRecent() {
-  return requestWithRetry(getFreshUrl(RECENT_URL), { timeout: 15000, maxRetries: 3 }).then(function(res) {
-    var arr = toArray(res.data);
-    if (res.statusCode === 200 && arr && arr.length > 0) {
-      return arr;
+  return fetchJsonFromSources('output/exhibitions_recent.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+    if (!res) {
+      console.warn('[童行] 近期活动文件全部数据源不可用');
+      return null;
     }
-    console.warn('[童行] 近期活动文件不可用:', res.statusCode);
+    var arr = toArray(res.data);
+    if (arr && arr.length > 0) return arr;
+    console.warn('[童行] 近期活动文件为空', res.statusCode);
     return null;
   });
 }
@@ -347,17 +381,36 @@ App({
           console.log('[童行] 活动数据已更新至最新，共', merged.length, '条');
           self.notifyDataUpdated();
         } else {
-          console.warn('[童行] 远程全量活动数据不可用，继续使用近期/缓存数据');
+          console.warn('[童行] 远程全量活动数据暂不可用，8s 后自动重试补全');
+          // 自愈：瞬时被墙/抖动时，稍后重试一次全量（不重复拉近期），避免长期卡在近期子集
+          setTimeout(function() { self.retryFullExhibitions(); }, 8000);
         }
       });
     });
   },
 
+  // 仅重试全量分城市文件（用于 silentUpdateExhibitions 自愈）
+  retryFullExhibitions() {
+    var self = this;
+    fetchAllExhibitions().then(function(merged) {
+      if (self.applyExhibitions(merged, false)) {
+        console.log('[童行] 全量重试成功，活动已补全，共', merged.length, '条');
+        self.notifyDataUpdated();
+      } else {
+        console.warn('[童行] 全量重试仍不可用，保持近期/缓存数据');
+      }
+    });
+  },
+
   silentUpdateVenues() {
     var self = this;
-    requestWithRetry(getFreshUrl(REMOTE_VENUE_URL), { timeout: 15000, maxRetries: 3 }).then(function(res) {
+    fetchJsonFromSources('output/venue_info.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+      if (!res) {
+        console.warn('[童行] 场馆数据全部数据源不可用，保持本地数据');
+        return;
+      }
       var arr = toArray(res.data);
-      if (res.statusCode === 200 && self.applyVenues(arr)) {
+      if (self.applyVenues(arr)) {
         console.log('[童行] 场馆数据已更新至最新，共', arr.length, '条');
       } else {
         console.warn('[童行] 远程场馆数据异常(非数组或为空)，保持本地数据', res.statusCode);
@@ -392,10 +445,14 @@ App({
       });
     });
 
-    // 同时刷新场馆（带重试）
-    requestWithRetry(getFreshUrl(REMOTE_VENUE_URL), { timeout: 15000, maxRetries: 3 }).then(function(res) {
+    // 同时刷新场馆（多数据源容灾）
+    fetchJsonFromSources('output/venue_info.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+      if (!res) {
+        console.warn('[童行] 场馆数据全部数据源不可用，保持本地数据');
+        return;
+      }
       var arr = toArray(res.data);
-      if (res.statusCode === 200 && self.applyVenues(arr)) {
+      if (self.applyVenues(arr)) {
         console.log('[童行] 场馆数据已更新至最新，共', arr.length, '条');
       }
     });
