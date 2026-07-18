@@ -67,6 +67,19 @@ def main():
         if not isinstance(arr, list):
             arr = list(arr.values())
         city = os.path.basename(fp).replace('exhibitions_', '').replace('.json', '')
+
+        # Tier 1 「近期」排序键：让「离当前时间最近的活动」排在最前
+        #   - 正在进行中(start<=今天<=end)：最优先，按结束日期升序（最快结束的在前）
+        #   - 即将开始(start>今天)：其次，按开始日期升序（最快开始的在前）
+        # 这样即使某城有大量"很早开始、至今仍在展"的长期展览，首屏也优先露出
+        # 正在发生 / 马上开始的活动，而不是最早开场的老活动。
+        def recent_key(x):
+            sd = parse_date(x.get('start_date'))
+            ed = parse_date(x.get('end_date') or x.get('start_date'))
+            if sd and sd <= today:
+                return (0, ed or sd)          # 正在进行：结束越早越靠前
+            return (1, sd or date.max)         # 即将开始：开始越早越靠前
+
         alive = []
         for x in arr:
             sd = parse_date(x.get('start_date'))
@@ -78,15 +91,21 @@ def main():
                 past.append(x)
             elif ed and ed >= today:
                 alive.append(x)
-        # 仅保留「未结束」并按 start_date 升序取前 N（Tier 1）
-        alive.sort(key=lambda x: (x.get('start_date') or '9999', x.get('city') or ''))
+        alive.sort(key=recent_key)
         per_city_recent[city] = alive[:PER_CITY_CAP]
 
-    # ---- Tier 1：近期活动（每个城市最早 N 条），按 start_date 升序合并 ----
+    # ---- Tier 1：近期活动（每个城市离当前最近的前 N 条），按 recent_key 合并 ----
+    def merged_key(x):
+        sd = parse_date(x.get('start_date'))
+        ed = parse_date(x.get('end_date') or x.get('start_date'))
+        if sd and sd <= today:
+            return (0, ed or sd)
+        return (1, sd or date.max)
+
     merged_recent = []
     for city in sorted(per_city_recent.keys()):
         merged_recent.extend(per_city_recent[city])
-    merged_recent.sort(key=lambda x: (x.get('start_date') or '9999', x.get('city') or ''))
+    merged_recent.sort(key=merged_key)
 
     with open(RECENT_FILE, 'w', encoding='utf-8') as f:
         json.dump(merged_recent, f, ensure_ascii=False, indent=2)

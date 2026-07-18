@@ -29,10 +29,11 @@ const DATA_SOURCES = [
 // 缓存 key（v3：数据已净化移除合成条目、场馆库扩充至2964个，旧缓存需重新播种）
 const CACHE_KEY = 'goout_exhibitions_cache_v3';
 const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v3';
+const CACHE_PARTIAL_KEY = 'goout_exhibitions_cache_partial_v3'; // true=缓存仅近期子集(残缺)，下次启动应强制补齐
 const VENUE_CACHE_KEY = 'goout_venues_cache_v3';
 const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.18.7';
+const APP_VERSION = '2026.07.18.8';
 
 // 带重试的 wx.request 封装：GitHub raw 在中国大陆常被拦截/超时，
 // 这里做指数退避重试（默认 3 次，间隔 0.7s / 1.4s / 2.1s），显著提升首屏拉取成功率。
@@ -188,16 +189,41 @@ function fetchPast() {
   });
 }
 
-// 并行拉取所有城市分文件并合并为统一数组；任一城市失败不影响其他城市
-function fetchAllExhibitions() {
-  var promises = (activeCities || []).map(function(c) { return fetchCityArray(c.key); });
-  return Promise.all(promises).then(function(lists) {
-    var merged = [];
-    lists.forEach(function(arr) {
-      if (arr && arr.length > 0) merged = merged.concat(arr);
-    });
-    return merged;
+// 并发受限的 Promise pool：限制同时进行的请求数，降低 jsDelivr 对 10 个并行请求的限流概率
+function poolAll(items, limit, worker) {
+  var i = 0;
+  var results = new Array(items.length);
+  return new Promise(function(resolve) {
+    function next() {
+      if (i >= items.length) { resolve(results); return; }
+      var idx = i++;
+      Promise.resolve(worker(items[idx]))
+        .then(function(r) { results[idx] = r; })
+        .catch(function() { results[idx] = null; })
+        .then(next);
+    }
+    var start = Math.min(limit, items.length);
+    for (var k = 0; k < start; k++) next();
   });
+}
+
+// 拉取一批城市分文件，返回 { merged: 合并数组, failed: 失败的城市 key 列表 }
+// 与 fetchAllExhibitions 的区别：明确报告哪些城市没取到，便于后续「补齐」而非默默丢弃。
+function fetchCityBatch(cities) {
+  return poolAll(cities, 3, function(c) { return fetchCityArray(c.key); }).then(function(lists) {
+    var merged = [];
+    var failed = [];
+    lists.forEach(function(arr, i) {
+      if (arr && arr.length > 0) merged = merged.concat(arr);
+      else failed.push(cities[i].key);
+    });
+    return { merged: merged, failed: failed };
+  });
+}
+
+// 并行拉取所有城市分文件并合并；返回 { merged, failed }（failed 为空表示全部取到）
+function fetchAllExhibitions() {
+  return fetchCityBatch(activeCities || []);
 }
 
 App({
@@ -296,6 +322,8 @@ App({
       this.globalData.exhibitions = cached;
       // 若缓存已是完整 10 城数据（来自此前远程），则视为可信数据源，城市筛选器可正常置灰
       if (datasetHasAllCities(cached)) this.globalData.isRemoteData = true;
+      // 还原缓存的「是否残缺」标记：残缺缓存应在本次启动强制补齐，而非当作完整数据沿用
+      this.globalData.isPartial = !!wx.getStorageSync(CACHE_PARTIAL_KEY);
       loadedAny = true;
       var ct = wx.getStorageSync(CACHE_TIME_KEY);
       if (ct) {
@@ -335,7 +363,7 @@ App({
       // 城市清单有增减时，或“首次启动/升级后”时，即便缓存较新也强制拉数据；否则按 TTL 节流
       var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
       var fresh = cacheTime && (Date.now() - cacheTime) < self.SILENT_TTL_MS;
-      var force = self._seededThisLaunch || self._versionChanged;
+      var force = self._seededThisLaunch || self._versionChanged || self.globalData.isPartial;
       if (fresh && !changed && !force) {
         console.log('[童行] 缓存较新(<5分钟)且城市清单无变化，跳过静默更新');
         return;
@@ -359,6 +387,7 @@ App({
     try {
       wx.setStorageSync(CACHE_KEY, merged);
       wx.setStorageSync(CACHE_TIME_KEY, now);
+      wx.setStorageSync(CACHE_PARTIAL_KEY, !!isPartial); // 记录是否残缺，避免下次启动误判为已完整
     } catch (e) {}
     return true;
   },
@@ -384,10 +413,10 @@ App({
     this.loadStagedData(false);
   },
 
-  // staged 加载；onDone(ok) 在最后一级完成后回调（ok=是否拿到全量当前活动）
+  // staged 加载；onDone(ok) 在最后一级完成后回调（ok=是否所有城市全量都取到）
   loadStagedData(force, onDone) {
     var self = this;
-    self._staged = { recent: null, full: null, past: null };
+    self._staged = { recent: null, full: null, past: null, fullCities: {} };
 
     // Tier1：近期活动（首屏最优先，离当前时间最近、即将举办）
     fetchRecent().then(function(recent) {
@@ -399,12 +428,21 @@ App({
       }
       // Tier2：后续剩余活动（全量分城市文件，后台并行拉取补全）
       return fetchAllExhibitions();
-    }).then(function(merged) {
+    }).then(function(result) {
+      var merged = result.merged, failed = result.failed;
       if (merged && merged.length) {
         self._staged.full = merged;
-        self.flushStaged(false); // 全量当前活动已到 → 视为完整（历史仅收尾）
-        console.log('[童行] Tier2 全量活动已加载，共', merged.length, '条');
+        // 记录已加载到的城市，用于判断全量是否“真的完整”
+        merged.forEach(function(x) { if (x.city) self._staged.fullCities[x.city] = true; });
+        var complete = failed.length === 0;
+        self.flushStaged(!complete); // 有城市缺失时仍视为 partial（不污染缓存为“完整”）
+        console.log('[童行] Tier2 全量活动已加载，共', merged.length, '条' + (complete ? '' : ('，缺失城市：' + failed.join(','))));
         self.notifyDataUpdated();
+        // 关键修复：部分城市拉取失败时，单独补齐这些城市（带退避重试），而非默默丢弃
+        if (failed.length) {
+          console.warn('[童行] Tier2 部分城市未取到，开始补齐：', failed.join(','));
+          self._fillMissingCities(failed, 3);
+        }
       }
       // Tier3：历史活动（已结束），最后再拉，不挤占首屏带宽
       return fetchPast();
@@ -415,15 +453,50 @@ App({
         console.log('[童行] Tier3 历史活动已加载，共', past.length, '条');
       }
       self.notifyDataUpdated();
-      if (onDone) onDone(!!self._staged.full);
-      // 自愈：若全量(后续活动)未取到，稍后重试（近期已保证首屏可用）
-      if (!self._staged.full) {
-        console.warn('[童行] 全量活动暂不可用，8s 后自动重试补全');
-        setTimeout(function() { self.retryFullExhibitions(); }, 8000);
-      }
+      if (onDone) onDone(self._allCitiesLoaded());
     }).catch(function() {
-      if (onDone) onDone(!!self._staged.full);
-      if (!self._staged.full) self.retryFullExhibitions();
+      if (onDone) onDone(self._allCitiesLoaded());
+      // 整体异常：重试仍未加载到的城市
+      self._fillMissingCities(self._missingCities(), 3);
+    });
+  },
+
+  // 当前已加载的城市 key 集合是否覆盖全部 activeCities
+  _allCitiesLoaded() {
+    var loaded = (this._staged && this._staged.fullCities) || {};
+    return (activeCities || []).every(function(c) { return loaded[c.key]; });
+  },
+
+  // 还缺失哪些城市（用于补齐/重试）
+  _missingCities() {
+    var loaded = (this._staged && this._staged.fullCities) || {};
+    return (activeCities || []).filter(function(c) { return !loaded[c.key]; }).map(function(c) { return c.key; });
+  },
+
+  // 补齐缺失城市：单独重拉这些城市分文件，成功则合并进 full 并刷新；
+  // 仍有缺失则退避后递归重试（rounds 递减），直到全部补齐或次数耗尽。
+  // 这样即便某次并行请求被限流/抖动导致部分城市失败，最终也能补全，不会永远停在 80 条。
+  _fillMissingCities(keys, rounds) {
+    var self = this;
+    if (!keys || !keys.length) return;
+    fetchCityBatch(keys.map(function(k) { return { key: k }; })).then(function(res) {
+      if (res.merged.length) {
+        self._staged = self._staged || { fullCities: {} };
+        self._staged.full = (self._staged.full || []).concat(res.merged);
+        res.merged.forEach(function(x) { if (x.city) self._staged.fullCities[x.city] = true; });
+        var stillMissing = self._missingCities();
+        var complete = stillMissing.length === 0;
+        self.flushStaged(!complete);
+        console.log('[童行] 补齐成功 +' + res.merged.length + '条' + (stillMissing.length ? ('，仍缺：' + stillMissing.join(',')) : '，已全部补齐'));
+        self.notifyDataUpdated();
+        if (stillMissing.length && rounds > 1) {
+          setTimeout(function() { self._fillMissingCities(stillMissing, rounds - 1); }, 3000);
+        } else if (stillMissing.length) {
+          console.warn('[童行] 缺失城市经多次重试仍不可用，保留近期子集：', stillMissing.join(','));
+        }
+      } else if (rounds > 1) {
+        setTimeout(function() { self._fillMissingCities(keys, rounds - 1); }, 3000);
+      }
     });
   },
 
@@ -447,19 +520,19 @@ App({
     if (order.length) this.applyExhibitions(order, isPartial);
   },
 
-  // 仅重试 Tier2 全量 + Tier3 历史（用于自愈）
+  // 仅重试全量 + Tier3 历史（用于异常自愈）：合并而非覆盖，避免丢失已加载城市
   retryFullExhibitions() {
     var self = this;
-    fetchAllExhibitions().then(function(merged) {
+    fetchAllExhibitions().then(function(result) {
+      var merged = result.merged;
       if (merged && merged.length) {
-        self._staged = self._staged || {};
-        self._staged.full = merged;
-        fetchPast().then(function(past) {
-          if (past && past.length) self._staged.past = past;
-          self.flushStaged(false);
-          console.log('[童行] 全量重试成功，活动已补全，共', merged.length, '条');
-          self.notifyDataUpdated();
-        });
+        self._staged = self._staged || { fullCities: {} };
+        self._staged.full = (self._staged.full || []).concat(merged);
+        merged.forEach(function(x) { if (x.city) self._staged.fullCities[x.city] = true; });
+        if (result.failed.length) self._fillMissingCities(result.failed, 3);
+        else self.flushStaged(false);
+        console.log('[童行] 全量重试完成，已合并', merged.length, '条');
+        self.notifyDataUpdated();
       } else {
         console.warn('[童行] 全量重试仍不可用，保持近期/缓存数据');
       }
