@@ -51,7 +51,9 @@
   "compileType": "miniprogram",
   "simulatorPluginLibVersion": {},
   "packOptions": {
-    "ignore": [],
+    "ignore": [
+      { "type": "file", "value": "data/venues_dev.js" }
+    ],
     "include": []
   },
   "editorSetting": {}

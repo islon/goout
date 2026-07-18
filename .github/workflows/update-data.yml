@@ -62,12 +62,15 @@ jobs:
       - name: Generate data version meta (小程序：云侧无更新则不下载)
         run: python3 scripts/generate_data_meta.py
 
+      - name: Generate dev-only full venue bundle (开发者工具本地验证用，上传时由 packOptions.ignore 剔除)
+        run: python3 scripts/gen_dev_venues_bundle.py
+
       - name: Commit and push
         run: |
           git config --global user.name "Auto Update Bot"
           git config --global user.email "bot@example.com"
           git add output/ 2>/dev/null || true
-          git add miniprogram/data/exhibitions.js miniprogram/data/venues.js 2>/dev/null || true
+          git add miniprogram/data/exhibitions.js miniprogram/data/venues.js miniprogram/data/venues_dev.js 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
