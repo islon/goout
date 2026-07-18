@@ -457,7 +457,7 @@ App({
       // 跳过下载：云侧数据无变化 + 城市清单无增减 + 非强制（首启/升级/上次残缺）
       // 注意：即便云侧无变化，只要本地场馆明显未拉满(<90% 预期)也要继续尝试补齐，
       // 否则活动曾成功缓存并落盘版本号后，场馆会永久被"跳过下载"卡在打包兜底(378)。
-      var venuesSatisfied = !r.meta || !r.meta.venues || (self.globalData.venues.length >= r.meta.venues * 0.9);
+      var venuesSatisfied = r.meta && r.meta.venues && (self.globalData.venues.length >= r.meta.venues * 0.9);
       if (!dataChanged && !citiesChanged && !force && venuesSatisfied) {
         console.log('[童行] 云侧数据无更新且场馆已拉满，跳过下载，复用本地缓存');
         return;
@@ -785,7 +785,7 @@ App({
       var dataChanged = r.changed;
       var force = self._seededThisLaunch || self._versionChanged;
       // 主动刷新时，即便云侧无变化，只要场馆未拉满也要继续补齐（避免被活动缓存版本号永久跳过）
-      var venuesSatisfied = !r.meta || !r.meta.venues || (self.globalData.venues.length >= r.meta.venues * 0.9);
+      var venuesSatisfied = r.meta && r.meta.venues && (self.globalData.venues.length >= r.meta.venues * 0.9);
       if (!dataChanged && !force && venuesSatisfied) {
         self._setLoading(false);
         console.log('[童行] 强制刷新：云侧数据无更新，已是最新');
