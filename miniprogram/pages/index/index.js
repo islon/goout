@@ -72,6 +72,12 @@ Page({
         self.loadData();
       });
     }
+    // 后台正在刷新/下载数据时，让搜索框后的刷新图标旋转（体验提示）
+    if (app && typeof app.onLoadingChange === 'function') {
+      app.onLoadingChange(function(loading) {
+        self.setData({ refreshing: loading });
+      });
+    }
   },
 
   // 将运行期城市清单（app.getCities()，回退打包兜底）同步进页面 data.cities，
@@ -127,21 +133,22 @@ Page({
 
   // 点击刷新按钮
   onRefreshTap() {
-    if (this.data.refreshing) return;
+    if (this._refreshing) return;
     this.doRefresh(false);
   },
 
   // 统一刷新逻辑：委托 app.js 拉取最新数据并写缓存
+  // 刷新图标的旋转由 app 的 isLoading 全局状态驱动（onLoadingChange 订阅），此处不手动切换
   doRefresh(isPullDown) {
     const self = this;
-    if (this.data.refreshing) return;
-    this.setData({ refreshing: true });
+    if (self._refreshing) return;
+    self._refreshing = true;
 
     app.forceRefresh(function(success) {
+      self._refreshing = false;
       self.loadData();
       self.updateDistrictsAndVenues();
       self.updateLastUpdateText();
-      self.setData({ refreshing: false });
       if (isPullDown) wx.stopPullDownRefresh();
       wx.showToast({
         title: success ? '数据已更新' : '网络不给力',

@@ -43,7 +43,8 @@ Page({
     cities: [],
     subscribeLinks: [],
     appVersion: '',       // 小程序版本号
-    buildDate: ''         // 构建/发布日期
+    buildDate: '',        // 构建/发布日期
+    lastUpdateTime: ''    // 数据最后刷新时间（让用户了解数据实效性）
   },
 
   onLoad() {
@@ -73,7 +74,8 @@ Page({
         cities: r.cityList,
         subscribeLinks: r.links,
         appVersion: (app.globalData && app.globalData.appVersion) || '',
-        buildDate: (app.globalData && app.globalData.buildDate) || ''
+        buildDate: (app.globalData && app.globalData.buildDate) || '',
+        lastUpdateTime: (app.globalData && app.globalData.lastUpdateTime) || ''
       });
       // 重新登记，等下一级加载完成（notifyDataUpdated）再次刷新计数
       if (app.onDataUpdated) app.onDataUpdated(render);

@@ -59,6 +59,9 @@ jobs:
       - name: Generate cities manifest (网页/小程序统一城市清单)
         run: node scripts/generate_cities_manifest.js
 
+      - name: Generate data version meta (小程序：云侧无更新则不下载)
+        run: python3 scripts/generate_data_meta.py
+
       - name: Commit and push
         run: |
           git config --global user.name "Auto Update Bot"

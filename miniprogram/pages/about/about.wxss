@@ -348,3 +348,9 @@
   color: #C2BEB8;
   letter-spacing: 1rpx;
 }
+
+.footer-data {
+  margin-top: 4rpx;
+  font-size: 20rpx;
+  color: #A8C3A0;
+}
