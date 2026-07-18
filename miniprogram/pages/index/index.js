@@ -167,7 +167,8 @@ Page({
     } else {
       text = Math.floor(diff / 86400000) + '天前更新';
     }
-    this.setData({ lastUpdateText: text + ' · 共 ' + (app.globalData.exhibitions || []).length + ' 条活动' });
+    var partialHint = app.globalData.isPartial ? ' · 全部加载中…' : '';
+    this.setData({ lastUpdateText: text + ' · 共 ' + (app.globalData.exhibitions || []).length + ' 条活动' + partialHint });
   },
 
   // 更新区县和场馆列表

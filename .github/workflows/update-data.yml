@@ -39,6 +39,9 @@ jobs:
       - name: Generate per-city ICS subscription files
         run: python3 scripts/generate_city_ics.py
 
+      - name: Generate recent activities snapshot (小程序首屏优先加载)
+        run: python3 scripts/generate_recent.py
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
