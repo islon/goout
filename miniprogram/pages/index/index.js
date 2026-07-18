@@ -40,7 +40,8 @@ Page({
     showAllSources: false,
     loading: false,
     refreshing: false,
-    lastUpdateText: ''
+    lastUpdateText: '',
+    emptyHint: ''
   },
 
   onLoad() {
@@ -238,7 +239,19 @@ Page({
     };
 
     const allExhibitions = app.globalData.exhibitions || [];
-    const filtered = getFilteredExhibitions(allExhibitions, filters);
+    let filtered = getFilteredExhibitions(allExhibitions, filters);
+
+    // 首屏/弱网安全网：当前时间筛选在某城市结果为 0，但该城市实际有活动（多为打包兜底日期偏旧
+    // 或弱网仅加载到部分数据），则自动放宽到「全部」并提示，确保用户第一时间看到内容而非空白。
+    let emptyHint = '';
+    if (filtered.length === 0 && filters.time !== 'all') {
+      const allOfCity = getFilteredExhibitions(allExhibitions, Object.assign({}, filters, { time: 'all' }));
+      if (allOfCity.length > 0) {
+        filtered = allOfCity;
+        emptyHint = '该时段活动较少，已为你显示全部活动';
+      }
+    }
+
     filtered.sort(function(a, b) { return a.start_date.localeCompare(b.start_date); });
 
     const displayItems = buildDisplayItems(filtered);
@@ -251,7 +264,8 @@ Page({
       totalPages: totalPages,
       currentPage: 1,
       pageItems: displayItems.slice(0, PAGE_SIZE),
-      loading: false
+      loading: false,
+      emptyHint: emptyHint
     });
 
     this.updateFilterAvailability(filtered);
@@ -284,9 +298,9 @@ Page({
       return getFilteredExhibitions(allExhibitions, testFilters).length > 0;
     }
 
-    // 城市置灰仅在“远程/完整数据已加载”后才生效；本地兜底(默认5城)阶段不置灰，
-    // 否则西安/重庆等尚未加载到本地的城市会被永久置灰、无法点击
-    const isRemote = app.globalData.isRemoteData;
+    // 城市置灰仅在“远程/完整数据已加载”后才生效；本地兜底阶段、或仅加载到「近期」子集
+    // (isPartial) 时不置灰——否则加载途中某城在子集里恰好为 0 会被误置灰、无法点击。
+    const isRemote = app.globalData.isRemoteData && !app.globalData.isPartial;
     const citiesAvail = this.data.cities.map(function(c) {
       return Object.assign({}, c, { disabled: isRemote && !checkResult('city', c.key) && c.key !== self.data.cityFilter });
     });

@@ -113,6 +113,16 @@
   text-align: right;
 }
 
+.empty-hint-banner {
+  margin: 8rpx 24rpx 0;
+  padding: 12rpx 20rpx;
+  font-size: 22rpx;
+  color: #8a6d3b;
+  background: #FFF7E6;
+  border-left: 6rpx solid #FFB84D;
+  border-radius: 8rpx;
+}
+
 /* 筛选区 */
 .filter-section {
   background: #FFFFFF;

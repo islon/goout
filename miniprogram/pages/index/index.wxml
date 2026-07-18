@@ -24,6 +24,11 @@
     {{lastUpdateText}}
   </view>
 
+  <!-- 首屏/弱网提示：当前时段无活动但已放宽展示全部 -->
+  <view wx:if="{{emptyHint}}" class="empty-hint-banner">
+    {{emptyHint}}
+  </view>
+
   <!-- 城市筛选 -->
   <view class="filter-section">
     <view class="filter-label">城市</view>
