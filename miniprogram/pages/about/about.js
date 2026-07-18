@@ -41,7 +41,9 @@ function buildCityLists(exhibitions, venues, cityDefs) {
 Page({
   data: {
     cities: [],
-    subscribeLinks: []
+    subscribeLinks: [],
+    appVersion: '',       // 小程序版本号
+    buildDate: ''         // 构建/发布日期
   },
 
   onLoad() {
@@ -67,7 +69,12 @@ Page({
       const ex = (app.globalData && app.globalData.exhibitions) || [];
       const ve = (app.globalData && app.globalData.venues) || [];
       const r = buildCityLists(ex, ve, getCityDefs());
-      self.setData({ cities: r.cityList, subscribeLinks: r.links });
+      self.setData({
+        cities: r.cityList,
+        subscribeLinks: r.links,
+        appVersion: (app.globalData && app.globalData.appVersion) || '',
+        buildDate: (app.globalData && app.globalData.buildDate) || ''
+      });
       // 重新登记，等下一级加载完成（notifyDataUpdated）再次刷新计数
       if (app.onDataUpdated) app.onDataUpdated(render);
     };

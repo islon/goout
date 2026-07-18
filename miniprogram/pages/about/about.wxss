@@ -341,3 +341,10 @@
   font-size: 22rpx;
   color: #A8A29E;
 }
+
+.footer-version {
+  margin-top: 10rpx;
+  font-size: 20rpx;
+  color: #C2BEB8;
+  letter-spacing: 1rpx;
+}

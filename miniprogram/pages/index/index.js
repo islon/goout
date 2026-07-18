@@ -50,19 +50,20 @@ Page({
     this.syncCities();
     this.updateDistrictsAndVenues();
     this.updateLastUpdateText();
-    // 等待数据准备完成后加载
-    app.onReady(function() {
-      self.syncCities();
-      self.loadData();
-      self.updateLastUpdateText();
-    });
-    // 后台静默更新到最新数据后，自动刷新列表（用户无感）
-    app.onDataUpdated(function() {
+    // 统一刷新入口：从 globalData 取数重渲染，并在 render 后重新登记 onDataUpdated。
+    // 关键：onDataUpdated 是一次性回调（每次 notify 即清空），必须每次刷新后重订，
+    // 否则首屏静默更新(分级加载各级/Tier完成/场馆补齐)只触达一次，之后列表不再自动刷新。
+    const refresh = function() {
       self.syncCities();
       self.loadData();
       self.updateDistrictsAndVenues();
       self.updateLastUpdateText();
-    });
+      if (app && typeof app.onDataUpdated === 'function') app.onDataUpdated(refresh);
+    };
+    // 等待数据准备完成后首次加载
+    app.onReady(refresh);
+    // 后台静默更新到最新数据后，自动刷新列表（用户无感）
+    app.onDataUpdated(refresh);
     // 云侧新增/减少城市时（app 拉到新的 cities.json）刷新城市 tab
     if (app && typeof app.onCitiesUpdated === 'function') {
       app.onCitiesUpdated(function() {

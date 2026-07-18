@@ -132,6 +132,7 @@
     <image class="footer-logo" src="/assets/logo-icon.png" mode="aspectFit"></image>
     <view class="footer-text">最好的成长是一路相伴</view>
     <view class="footer-sub">童行 © 2026 · islon.github.io/goout</view>
+    <view class="footer-version" wx:if="{{appVersion}}">版本 v{{appVersion}} · 发布于 {{buildDate}}</view>
   </view>
 
   <view style="height: 60rpx;"></view>
