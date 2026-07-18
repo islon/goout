@@ -121,22 +121,45 @@
   margin-bottom: 20rpx;
 }
 
+.link-actions {
+  display: flex;
+  gap: 16rpx;
+  align-items: stretch;
+}
+
 .link-btn {
-  display: block;
-  width: 100%;
+  flex: 1;
   padding: 28rpx 0;
-  background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
-  color: #FFFFFF;
   border-radius: 20rpx;
   font-size: 30rpx;
   font-weight: 600;
   text-align: center;
   border: none;
-  box-shadow: 0 4rpx 16rpx rgba(212, 163, 115, 0.3);
+  line-height: 1.2;
 }
 
 .link-btn::after {
   border: none;
+}
+
+/* 原始链接按钮（次要，浅色边框样式） */
+.link-btn-origin {
+  background: #FFFFFF;
+  color: #D4A373;
+  border: 2rpx solid #D4A373;
+  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.1);
+}
+
+/* 报名入口按钮（主要，渐变色突出） */
+.link-btn-booking {
+  background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
+  color: #FFFFFF;
+  box-shadow: 0 4rpx 16rpx rgba(212, 163, 115, 0.3);
+  flex: 1.4;
+}
+
+.link-btn-booking:active {
+  transform: scale(0.98);
 }
 
 .link-hint {
@@ -144,6 +167,30 @@
   font-size: 22rpx;
   color: #A8A29E;
   margin-top: 12rpx;
+  line-height: 1.5;
+}
+
+.booking-hint {
+  background: #FFF8F0;
+  border: 2rpx solid #F5E4D0;
+  border-radius: 12rpx;
+  padding: 16rpx 20rpx;
+  color: #78716C;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 6rpx;
+}
+
+.booking-app {
+  font-size: 24rpx;
+  font-weight: 600;
+  color: #B8895A;
+}
+
+.booking-step {
+  font-size: 22rpx;
+  color: #78716C;
 }
 
 /* 活动提醒 */

@@ -69,10 +69,17 @@
     <view class="desc-content">{{activity.description}}</view>
   </view>
 
-  <!-- 原始链接 -->
-  <view class="link-section" wx:if="{{showLink}}">
-    <button class="link-btn" bindtap="onCopyLink">复制原始活动链接</button>
-    <view class="link-hint">复制后在浏览器中打开查看官方详情</view>
+  <!-- 原始链接 + 报名入口 -->
+  <view class="link-section" wx:if="{{showLink || showBooking}}">
+    <view class="link-actions">
+      <button wx:if="{{showLink}}" class="link-btn link-btn-origin" bindtap="onCopyLink">原始链接</button>
+      <button wx:if="{{showBooking}}" class="link-btn link-btn-booking" bindtap="onBookingTap">报名入口</button>
+    </view>
+    <view wx:if="{{showLink}}" class="link-hint">复制原始链接后，在浏览器中打开查看官方详情</view>
+    <view wx:if="{{showBooking}}" class="link-hint booking-hint">
+      <text class="booking-app">{{bookingApp}}</text>
+      <text class="booking-step">{{bookingHint}}</text>
+    </view>
   </view>
 
   <!-- 活动提醒 -->

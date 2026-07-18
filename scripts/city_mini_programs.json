@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "description": "10城市官方聚合小程序/公众号配置 - 用于活动报名入口指引",
+    "updated_at": "2026-07-18",
+    "data_source": "WebSearch from official government sources"
+  },
+
+  "cities": {
+    "shenzhen": {
+      "city_name": "深圳",
+      "primary": {
+        "app_name": "深圳读书月",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
+        "platform_url": null,
+        "evidence": "wtl.sz.gov.cn 深圳市文化广电旅游体育局官方推荐"
+      },
+      "fallback": {
+        "app_name": "深圳出版集团",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「深圳出版集团」公众号",
+        "platform_url": null
+      }
+    },
+
+    "shanghai": {
+      "city_name": "上海",
+      "primary": {
+        "app_name": "沪小游",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「沪小游」小程序",
+        "platform_url": null,
+        "evidence": "whlyj.sh.gov.cn 上海市文旅局官方推荐"
+      },
+      "fallback": {
+        "app_name": "乐游上海",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「乐游上海」公众号",
+        "platform_url": null
+      }
+    },
+
+    "beijing": {
+      "city_name": "北京",
+      "primary": {
+        "app_name": "首都教育",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「首都教育」公众号→看展指南",
+        "platform_url": null,
+        "evidence": "beijing.gov.cn 北京市政府官方推荐"
+      },
+      "fallback": {
+        "app_name": "文旅北京",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「文旅北京」公众号",
+        "platform_url": null
+      }
+    },
+
+    "guangzhou": {
+      "city_name": "广州",
+      "primary": {
+        "app_name": "育文游",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「育文游」小程序→向美而行",
+        "platform_url": null,
+        "evidence": "广州市文化广电旅游局官方推荐"
+      },
+      "fallback": {
+        "app_name": "美育圈",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「美育圈」小程序→广东省文化馆",
+        "platform_url": null
+      }
+    },
+
+    "hangzhou": {
+      "city_name": "杭州",
+      "primary": {
+        "app_name": "浙里文化圈",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「浙里文化圈」小程序→艺培→线下课程",
+        "platform_url": null,
+        "evidence": "浙江省文化馆官方推荐"
+      },
+      "fallback": {
+        "app_name": "杭州党群之家",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「杭州党群之家」小程序→党群服务预约",
+        "platform_url": null
+      }
+    },
+
+    "chengdu": {
+      "city_name": "成都",
+      "primary": {
+        "app_name": "安逸学艺",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「安逸学艺」小程序→四川省文化馆",
+        "platform_url": null,
+        "evidence": "四川省文化馆官方推荐"
+      },
+      "fallback": {
+        "app_name": "文化天府",
+        "app_type": "app",
+        "search_hint": "下载「文化天府」云平台App或关注「成都市文化馆」公众号",
+        "platform_url": null
+      }
+    },
+
+    "chongqing": {
+      "city_name": "重庆",
+      "primary": {
+        "app_name": "重庆群众文化云",
+        "app_type": "web",
+        "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+        "platform_url": "https://www.cqqyg.cn/",
+        "evidence": "重庆市文旅局官方推荐"
+      },
+      "fallback": {
+        "app_name": "渝快办→青春重庆→官方带娃",
+        "app_type": "app",
+        "search_hint": "渝快办APP→搜索「青春重庆」→「官方带娃」",
+        "platform_url": null
+      }
+    },
+
+    "wuhan": {
+      "city_name": "武汉",
+      "primary": {
+        "app_name": "武汉文旅码",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+        "platform_url": null,
+        "evidence": "武汉市文旅局官方推荐"
+      },
+      "fallback": {
+        "app_name": "湖北省科技馆",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「湖北省科技馆」公众号→票务预约",
+        "platform_url": null
+      }
+    },
+
+    "nanjing": {
+      "city_name": "南京",
+      "primary": {
+        "app_name": "江苏公共文化云",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+        "platform_url": null,
+        "evidence": "江苏省文化馆官方推荐"
+      },
+      "fallback": {
+        "app_name": "南京市文化馆",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「南京市文化馆」公众号",
+        "platform_url": null
+      }
+    },
+
+    "xian": {
+      "city_name": "西安",
+      "primary": {
+        "app_name": "西安儿艺·梦想剧场",
+        "app_type": "wechat_mini_program",
+        "search_hint": "微信搜索「西安儿艺·梦想剧场」小程序在线预约",
+        "platform_url": null,
+        "evidence": "陕西省文化和旅游厅官方推荐"
+      },
+      "fallback": {
+        "app_name": "西安市群众艺术馆",
+        "app_type": "wechat_official_account",
+        "search_hint": "微信搜索「西安市群众艺术馆」公众号→艺暖长安",
+        "platform_url": null
+      }
+    }
+  },
+
+  "venue_keywords": [
+    {"keyword": "图书馆", "use_primary": true, "note": "图书馆活动用城市级小程序入口"},
+    {"keyword": "文化馆", "use_primary": true, "note": "文化馆活动用城市级小程序入口"},
+    {"keyword": "博物馆", "use_primary": true, "note": "博物馆活动用城市级小程序入口"},
+    {"keyword": "美术馆", "use_primary": true, "note": "美术馆活动用城市级小程序入口"},
+    {"keyword": "科技馆", "use_primary": true, "note": "科技馆活动用城市级小程序入口"},
+    {"keyword": "少年宫", "use_primary": true, "note": "少年宫活动用城市级小程序入口"},
+    {"keyword": "艺术中心", "use_primary": true, "note": "艺术中心活动用城市级小程序入口"},
+    {"keyword": "剧院", "use_primary": true, "note": "剧院演出用城市级小程序入口"},
+    {"keyword": "音乐厅", "use_primary": true, "note": "音乐厅演出用城市级小程序入口"},
+    {"keyword": "书城", "use_primary": true, "note": "深圳书城等用城市级入口（深圳读书月）"},
+    {"keyword": "书店", "use_primary": true, "note": "书店活动用城市级入口"},
+    {"keyword": "党群", "use_primary": true, "note": "党群服务中心活动"},
+    {"keyword": "街道", "use_primary": true, "note": "街道办活动用城市级入口"},
+    {"keyword": "社区", "use_primary": true, "note": "社区活动用城市级入口"},
+    {"keyword": "大学", "use_primary": true, "note": "大学活动用城市级入口"},
+    {"keyword": "学校", "use_primary": true, "note": "学校活动用城市级入口"},
+    {"keyword": "公园", "use_primary": true, "note": "公园活动用城市级入口"},
+    {"keyword": "景区", "use_primary": true, "note": "景区活动用城市级入口"},
+    {"keyword": "体育馆", "use_primary": true, "note": "体育场馆用城市级入口"}
+  ]
+}

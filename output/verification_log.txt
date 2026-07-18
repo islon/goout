@@ -1,0 +1,73 @@
+读取: /workspace/goout/output/exhibitions.json
+总计 5202 条活动
+并发数: 30
+------------------------------------------------------------
+  进度: 200/5202 (3.8%)
+  进度: 400/5202 (7.7%)
+  进度: 600/5202 (11.5%)
+  进度: 800/5202 (15.4%)
+  进度: 1000/5202 (19.2%)
+  进度: 1200/5202 (23.1%)
+  进度: 1400/5202 (26.9%)
+  进度: 1600/5202 (30.8%)
+  进度: 1800/5202 (34.6%)
+  进度: 2000/5202 (38.4%)
+  进度: 2200/5202 (42.3%)
+  进度: 2400/5202 (46.1%)
+  进度: 2600/5202 (50.0%)
+  进度: 2800/5202 (53.8%)
+  进度: 3000/5202 (57.7%)
+  进度: 3200/5202 (61.5%)
+  进度: 3400/5202 (65.4%)
+  进度: 3600/5202 (69.2%)
+  进度: 3800/5202 (73.0%)
+  进度: 4000/5202 (76.9%)
+  进度: 4200/5202 (80.7%)
+  进度: 4400/5202 (84.6%)
+  进度: 4600/5202 (88.4%)
+  进度: 4800/5202 (92.3%)
+  进度: 5000/5202 (96.1%)
+  进度: 5200/5202 (100.0%)
+  进度: 5202/5202 (100.0%)
+------------------------------------------------------------
+写入 verification 字段...
+------------------------------------------------------------
+=== 验证结果统计 ===
+状态分布:
+  auto_checked: 4658 (89.5%)
+  suspicious: 544 (10.5%)
+
+link可达: 4658 (89.5%)
+link不可达: 544 (10.5%)
+
+来源类型分布:
+  media: 3002 (57.7%)
+  government: 920 (17.7%)
+  venue: 751 (14.4%)
+  unknown: 529 (10.2%)
+
+=== 死链明细（前20条）===
+  #15 [shenzhen] 沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展 | link=https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html
+  #16 [shenzhen] 沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展 | link=https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html
+  #18 [shenzhen] 国宝萌友展 | link=https://www.szstm.org.cn
+  #34 [shenzhen] 太空奥德赛——宇宙探索展 | link=https://www.szstm.org.cn
+  #35 [shenzhen] 一平米实验室 | link=https://www.szstm.org.cn
+  #37 [shenzhen] 龙岗区博物馆暑期展览 | link=https://www.lgmuseum.cn
+  #40 [shenzhen] 深圳科学技术馆暑期科普展 | link=https://www.szstm.org.cn
+  #41 [shenzhen] 深圳音乐厅暑期音乐季 | link=https://www.shenzhenconcerthall.com
+  #42 [shenzhen] 深圳滨海艺术中心暑期演出季 | link=https://www.szbo.com.cn
+  #54 [shenzhen] 南山图书馆暑期阅读推广活动 | link=https://www.nsszlib.com
+  #55 [shenzhen] 宝安区文化馆暑期公益培训 | link=https://www.baoan.gov.cn
+  #64 [shenzhen] 盐田区图书馆暑期活动 | link=https://www.ytlib.cn
+  #69 [shenzhen] 宝安区青少年宫暑期活动 | link=https://www.baoan.gov.cn
+  #72 [shenzhen] 南山文体中心暑期少儿游泳班 | link=https://www.szns.gov.cn/nsqwhg/
+  #73 [shenzhen] 南山区青少年活动中心暑期艺术培训 | link=https://www.szns.gov.cn/nsqwhg/
+  #74 [shenzhen] 燕罗街道分馆暑期阅读活动 | link=https://www.baoan.gov.cn
+  #79 [shenzhen] 龙华区图书馆暑期少儿活动 | link=https://www.szlhlib.com.cn
+  #80 [shenzhen] 龙华区青少年宫暑期活动 | link=https://www.szlh.gov.cn
+  #81 [shenzhen] 福田区图书馆少儿绘本课堂 | link=https://www.ftlib.org.cn
+  #82 [shenzhen] 南山图书馆暑期亲子故事会 | link=https://www.nsszlib.com
+
+保存到: output/exhibitions.json
+完成。
+死链明细已保存到: output/verification_dead_links.txt

@@ -1,0 +1,1918 @@
+import json
+
+activities = []
+
+# ========== 1. 陕西历史博物馆系列活动 ==========
+activities.extend([
+    {
+        "title": "2026年中高考考生暑期免费参观唐代壁画珍品馆",
+        "venue": "陕西历史博物馆",
+        "city": "xian",
+        "start_date": "2026-06-24",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxhm.com/guide/visit/detail/1018638.html",
+        "description": "2026年参加中考、高考的毕业生，凭本人身份证及准考证原件，可免费参观唐代壁画珍品馆及壁上丹青盛唐气象唐韩休墓壁画考古发掘与保护展，深度感受唐代绘画艺术魅力。",
+        "fee": "免费",
+        "source": "陕西历史博物馆官网",
+        "family_friendly": True
+    },
+    {
+        "title": "文博少年·寻找小怪兽主题研学活动",
+        "venue": "陕西历史博物馆青少年活动中心",
+        "city": "xian",
+        "start_date": "2026-07-12",
+        "end_date": "2026-08-16",
+        "link": "https://www.sxhm.com/education/detail/15478.html",
+        "description": "以寻找小怪兽为主题的探险式研学，通过盲盒分组、任务卡闯关、文物思维导图、金牌讲解实践等环节，让孩子在游戏中读懂文物故事，锻炼表达能力与团队协作精神。",
+        "fee": "收费",
+        "source": "陕西历史博物馆官网",
+        "family_friendly": True
+    },
+    {
+        "title": "陕西历史博物馆暑期延时开放",
+        "venue": "陕西历史博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7657345603122348594/",
+        "description": "暑期每日开放时间延长至8:30至19:00（18:00停止检票），取消每周一闭馆日，秦汉馆同步开放，方便亲子家庭错峰游览，避开高温时段。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "小小讲解员暑期体验活动",
+        "venue": "陕西历史博物馆",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-20",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "馆内官方小小讲解员服务，经过专业培训后孩子可为游客讲解文物，在实践中锻炼表达能力，深入理解文物背后的历史故事，适合8岁以上青少年参与。",
+        "fee": "免费",
+        "source": "搜狐网",
+        "family_friendly": True
+    },
+    {
+        "title": "壁画修复模拟体验课",
+        "venue": "陕西历史博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "专业文物修复师指导下，孩子亲手体验壁画修复的完整流程，了解文物保护技术，培养耐心与专注力，在动手实践中感受文物保护工作的魅力。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    }
+])
+
+# ========== 2. 西安博物院/小雁塔系列 ==========
+activities.extend([
+    {
+        "title": "西安博物院暑期延时开放",
+        "venue": "西安博物院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7657345603122348594/",
+        "description": "暑期每日开放时间调整为8:30至19:00，新增17:00至18:00预约场次，每日预约总量增至16000人次，园区绿树成荫适合低龄儿童休闲游览。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "木版年画拓印亲子体验课",
+        "venue": "西安博物院",
+        "city": "xian",
+        "start_date": "2026-07-05",
+        "end_date": "2026-08-25",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "亲子共同参与传统木版年画拓印制作，了解传统印刷技艺，完成后可带走自己的作品，结束后还能在荐福寺敲钟祈福，体验感十足。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    },
+    {
+        "title": "晨钟暮鼓文化体验活动",
+        "venue": "西安博物院（小雁塔）",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "在千年小雁塔下体验晨钟暮鼓的传统文化，聆听讲解员讲述雁塔晨钟的历史典故，孩子可亲手敲击古钟，感受古代计时文化的魅力。",
+        "fee": "免费需预约",
+        "source": "搜狐网",
+        "family_friendly": True
+    }
+])
+
+# ========== 3. 碑林博物馆系列 ==========
+activities.extend([
+    {
+        "title": "碑林博物馆暑期延时开放",
+        "venue": "西安碑林博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-31",
+        "link": "http://m.toutiao.com/group/7657345603122348594/",
+        "description": "7月每日延长开放60分钟，开放时间由9:00-18:30调整为8:30-19:00，方便亲子家庭避开高温游览，欣赏颜真卿、柳公权等名家书法真迹。",
+        "fee": "收费",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "碑林拓印非遗体验课",
+        "venue": "西安碑林博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "适合6岁以上孩子的非遗拓印体验，亲手触摸唐代石碑，制作多宝塔碑拓片，专业老师全程指导，完成的拓片可带回家作纪念，感受书法艺术魅力。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    },
+    {
+        "title": "开成石经成语典故研学课",
+        "venue": "西安碑林博物馆",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-20",
+        "link": "https://cj.sina.cn/articles/view/7879922979/1d5ae152306801su0w",
+        "description": "通过开成石经上的成语典故，用生动有趣的方式让孩子了解成语出处与历史背景，在欣赏书法的同时学习传统文化知识，寓教于乐。",
+        "fee": "收费",
+        "source": "新浪财经",
+        "family_friendly": True
+    }
+])
+
+# ========== 4. 西安图书馆系列活动 ==========
+activities.extend([
+    {
+        "title": "萌眼观影童梦盛宴观影活动",
+        "venue": "西安图书馆彩虹剧场",
+        "city": "xian",
+        "start_date": "2026-07-14",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1049462503_121106869/",
+        "description": "暑期每日放映科普类动画、纪录片及中国传统文化故事动画，每日10:30、14:00、16:00三场，穿越光影隧道开启奇妙童梦之旅，适合各年龄段儿童。",
+        "fee": "免费",
+        "source": "西安图书馆",
+        "family_friendly": True
+    },
+    {
+        "title": "小荷读书会《好好拥抱这个夏天》及手工活动",
+        "venue": "西安图书馆小荷成长空间",
+        "city": "xian",
+        "start_date": "2026-07-14",
+        "end_date": "2026-07-14",
+        "link": "https://m.sohu.com/a/1049462503_121106869/",
+        "description": "以夏日故事串联美好日常，从清凉消暑到泳池嬉戏，巧妙融入防溺水安全知识，故事会后亲手制作游泳圈挂件，让孩子在阅读中提升自我保护意识。",
+        "fee": "免费需预约",
+        "source": "西安图书馆",
+        "family_friendly": True
+    },
+    {
+        "title": "笔尖种字硬笔书法练习活动",
+        "venue": "西安图书馆小荷成长空间",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-26",
+        "link": "https://m.sohu.com/a/1049462503_121106869/",
+        "description": "每周三、周五上午开展硬笔书法练习，从基础笔画到结构布局循序渐进，专业老师指导，让孩子在暑假养成良好书写习惯，提升汉字书写水平。",
+        "fee": "免费",
+        "source": "西安图书馆",
+        "family_friendly": True
+    },
+    {
+        "title": "小荷巧手坊扭扭棒花束奇遇记",
+        "venue": "西安图书馆小荷成长空间",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-15",
+        "link": "https://m.sohu.com/a/1049462503_121106869/",
+        "description": "彩条婉转指尖生花，一卷一扭变出朵朵繁花，孩子亲手编织专属花束，赴一场可爱温柔的手工奇遇，锻炼动手能力与审美能力。",
+        "fee": "免费需预约",
+        "source": "西安图书馆",
+        "family_friendly": True
+    },
+    {
+        "title": "从书本看世界名师领读计划",
+        "venue": "西安图书馆小荷成长空间",
+        "city": "xian",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-22",
+        "link": "https://m.sohu.com/a/1049462503_121106869/",
+        "description": "名师带领孩子阅读优秀绘本，以小猪奇妙小店奇遇串联趣味冒险，融入机智避险、冷静思考的成长道理，适合5-12岁学生及家长共同参与。",
+        "fee": "免费需预约",
+        "source": "西安图书馆",
+        "family_friendly": True
+    },
+    {
+        "title": "少儿奇妙日体验活动",
+        "venue": "西安图书馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1015654941_120580065/",
+        "description": "孩子学习书籍分类、体验古籍修复、共读绘本故事、扮演小小图书管理员，在沉浸互动中埋下知识的种子，全方位感受图书馆魅力。",
+        "fee": "免费需预约",
+        "source": "中国文化报",
+        "family_friendly": True
+    },
+    {
+        "title": "书香换新绿意传情图书交换节",
+        "venue": "西安图书馆",
+        "city": "xian",
+        "start_date": "2026-07-25",
+        "end_date": "2026-07-26",
+        "link": "https://m.sohu.com/a/1015654941_120580065/",
+        "description": "童书交换活动，让闲置童书在交换中重生，孩子用自己读过的书换取新书，培养分享精神与阅读兴趣，结识同样爱读书的小伙伴。",
+        "fee": "免费",
+        "source": "中国文化报",
+        "family_friendly": True
+    }
+])
+
+# ========== 5. 陕西省图书馆系列 ==========
+activities.extend([
+    {
+        "title": "智慧树绘本故事屋",
+        "venue": "陕西省图书馆高新馆区少儿馆",
+        "city": "xian",
+        "start_date": "2026-07-04",
+        "end_date": "2026-08-31",
+        "link": "https://esb.sxdaily.com.cn/pc/content/202607/13/content_2481009.html",
+        "description": "沉浸式故事演绎为孩子们带来欢乐，精选国内外优秀儿童绘本，通过专业讲述者的生动演绎，让孩子爱上阅读，培养阅读兴趣与想象力。",
+        "fee": "免费",
+        "source": "陕西日报",
+        "family_friendly": True
+    },
+    {
+        "title": "学在陕图公益课堂秦岭生态保护专题",
+        "venue": "陕西省图书馆高新馆区",
+        "city": "xian",
+        "start_date": "2026-07-04",
+        "end_date": "2026-08-31",
+        "link": "https://esb.sxdaily.com.cn/pc/content/202607/13/content_2481009.html",
+        "description": "邀请自然保护区专家带领青少年探索秦岭生态保护的奥秘，开展趣味科学运动、神奇化学实验等科普课堂，让科学充满童趣与惊喜。",
+        "fee": "免费需预约",
+        "source": "陕西日报",
+        "family_friendly": True
+    },
+    {
+        "title": "非遗拾趣童阅千年主题活动",
+        "venue": "陕西省图书馆少年儿童馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7658464659321799168/",
+        "description": "以非遗为核心主题的系列特色活动，融入泥塑、蜡染团扇等传统手工艺体验，让孩子们在动手间感知非遗之美，传承传统文化。",
+        "fee": "免费需预约",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "理想开花主题科普体验活动",
+        "venue": "陕西省图书馆",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-25",
+        "link": "http://m.toutiao.com/group/7658464659321799168/",
+        "description": "面向暑期青少年和亲子家庭开展的科普体验活动，涵盖自然科学、物理实验、手工制作等多个主题，邀请专业机构老师授课，寓教于乐。",
+        "fee": "免费需预约",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "长安共读诗画童行大唐诗画季",
+        "venue": "陕西省图书馆",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-20",
+        "link": "http://m.toutiao.com/group/7658464659321799168/",
+        "description": "开展唐代服饰与妆造、大唐丝路诗画等主题分享活动，让孩子在诗画中感受盛唐文化，培养对传统文化的兴趣与热爱。",
+        "fee": "免费需预约",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "剑桥科学馆自然魔法暑期探索季",
+        "venue": "陕西省图书馆高新馆区",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-31",
+        "link": "https://esb.sxdaily.com.cn/pc/content/202607/13/content_2481009.html",
+        "description": "引进的沉浸式自然科学体验项目，通过互动装置、实验演示等方式，让孩子探索自然奥秘，在玩乐中学习科学知识，打破传统阅读边界。",
+        "fee": "收费",
+        "source": "陕西日报",
+        "family_friendly": True
+    },
+    {
+        "title": "解密达芬奇沉浸式天才体验营",
+        "venue": "陕西省图书馆高新馆区",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-25",
+        "link": "https://esb.sxdaily.com.cn/pc/content/202607/13/content_2481009.html",
+        "description": "通过VR、AR等科技手段，沉浸式体验达芬奇的发明创造与艺术成就，让孩子全方位了解这位文艺复兴巨匠的传奇人生，激发创造力。",
+        "fee": "收费",
+        "source": "陕西日报",
+        "family_friendly": True
+    }
+])
+
+# ========== 6. 大唐芙蓉园暑期系列 ==========
+activities.extend([
+    {
+        "title": "长安舞会音乐季暑期系列活动",
+        "venue": "大唐芙蓉园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "暑期上线晨光、午后、夜游三组限定文旅产品，涵盖非遗西安鼓乐研习、唐风剧场双演、沉浸式实景演艺套餐，全天40余场国风互动演出。",
+        "fee": "部分免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "游大唐芙蓉园免费穿汉服活动",
+        "venue": "大唐芙蓉园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7658487984290906639/",
+        "description": "景区上线百款免费游园汉服，游客只需缴纳押金即可现场换装，在盛唐皇家古典园林中沉浸式体验，成为长安舞会的主角，拍照氛围感拉满。",
+        "fee": "免费需押金",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "晨光大唐芙蓉园东仓鼓乐研习体验",
+        "venue": "大唐芙蓉园东仓鼓乐社",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "每日10:00和11:00两场，观摩人类非物质文化遗产东仓鼓乐传承教习活动，参观鼓乐社博物馆，学习书写工尺谱，感受东方礼乐华夏正声。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "唐诗峡诗词雅集亲子研学",
+        "venue": "大唐芙蓉园唐诗峡",
+        "city": "xian",
+        "start_date": "2026-07-05",
+        "end_date": "2026-08-25",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "化身盛唐文人玩转飞花令，和研学导师对诗论词，体验投壶、蹴鞠等唐代传统竞技，告别死记硬背，在玩乐中读懂唐诗意境。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "御宴宫非遗唐宴美食体验",
+        "venue": "大唐芙蓉园御宴宫",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "临水唐风宴席空间，品尝列入陕西非遗的唐代菜点宴席，用餐穿插唐诗酒令互动，一餐吃透关中饮食文脉，午餐即是研学课堂。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "仕女馆汉服换装唐礼簪花手作",
+        "venue": "大唐芙蓉园仕女馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "解锁全套唐代制式汉服，学习万福礼、叉手礼，亲手制作非遗簪花、花钿妆饰，沉浸式体验盛唐女子服饰美学，带走专属唐风纪念品。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "午后龙舟竞渡亲子套票活动",
+        "venue": "大唐芙蓉园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7658487984290906639/",
+        "description": "亲子套票含龙舟竞速及4项水上项目，全家共同体验唐代水上运动，在芙蓉湖上感受夏日清凉，增进亲子感情，锻炼协作能力。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "夜游大唐追梦水上实景演出",
+        "venue": "大唐芙蓉园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7658487984290906639/",
+        "description": "大型水幕实景演出，以盛唐历史为背景，通过灯光、水幕、真人演绎相结合，呈现一场震撼的视觉盛宴，让孩子沉浸式感受盛唐气象。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+# ========== 7. 大唐不夜城暑期系列 ==========
+activities.extend([
+    {
+        "title": "长安梦影录沉浸式唐风实景伴游",
+        "venue": "大唐不夜城",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "以上官婉儿为NPC带队的沉浸式唐风实景伴游，60分钟浓缩盛唐风华，全程故事主线、NPC互动、打卡收集机制，深度解锁大唐不夜城文化内核。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "大唐不夜城夏季常态化演出",
+        "venue": "大唐不夜城",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "每晚多场国风演出轮番上演，不倒翁小姐姐、敦煌飞天、再回长安等经典节目，灯光璀璨氛围感十足，适合全家夜游观赏，孩子超喜欢。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "诗仙李白对诗互动体验",
+        "venue": "大唐不夜城诗歌艺术雕塑区",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "邂逅诗仙李白NPC，吟诗作赋沉浸式感受大唐诗酒风流，孩子可以和李白对诗互动，在玩乐中学习唐诗，激发对古典诗词的兴趣。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "西域胡姬胡旋舞互动体验",
+        "venue": "大唐不夜城",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "偶遇灵动西域胡姬，共跳曼妙胡旋舞，体验盛唐万国交融的异域风情，孩子可以跟着学习简单舞蹈动作，感受盛唐文化的包容与多元。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+# ========== 8. 西安城墙暑期系列 ==========
+activities.extend([
+    {
+        "title": "集结吧城墙武士研学体验",
+        "venue": "西安城墙含光门遗址博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "穿甲胄练鸳鸯阵，军事氛围感拉满，亲手丈量城墙尺寸，破译城砖铭文、屋脊神兽、古代旗语暗藏的文化密码，读懂物勒工名古早质检制度。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "守护吧城墙军防研学体验",
+        "venue": "西安城墙含光门遗址博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "拆解六道城防体系，实地吃透护城河、瓮城、箭楼等防御构造，实景推演瓮中捉鳖战术，手工制作古代投石车，吃透城防力学原理。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "安定门西门唐风新趣十三项互动游戏",
+        "venue": "西安城墙安定门瓮城",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7659371034101842486/",
+        "description": "剑丸祈福、雅趣投壶、城垣蹴趣、飞钱入瓮等十三项盛唐民俗小游戏沿瓮城错落铺开，手持古垣飞钱闯关，沉浸式置身盛唐市井。",
+        "fee": "部分免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "西安城墙亲子骑行体验",
+        "venue": "西安城墙（永宁门-安定门段）",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.163.com/dy/article/L1UU4EBG0556NAGL.html",
+        "description": "城墙路面平缓开阔，可租双人亲子自行车，释放孩子精力，傍晚游玩避开暴晒，俯瞰古城夜景，拍照氛围感十足，南门坡道平缓方便推婴儿车。",
+        "fee": "收费",
+        "source": "网易新闻",
+        "family_friendly": True
+    },
+    {
+        "title": "昭陵博物馆唐代壁画文博沙龙",
+        "venue": "西安城墙永宁门箭楼",
+        "city": "xian",
+        "start_date": "2026-07-13",
+        "end_date": "2026-07-13",
+        "link": "http://m.toutiao.com/group/7663083850490249779/",
+        "description": "文脉千秋博物馆奇妙季首场活动，昭陵博物馆专家解读初唐服饰礼制、仪仗风貌与乐舞人文，深入浅出讲述唐代壁画背后的历史故事，适合亲子家庭。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "昭陵壁画光影秀梦长安大唐迎宾盛礼",
+        "venue": "西安城墙永宁门",
+        "city": "xian",
+        "start_date": "2026-07-14",
+        "end_date": "2026-07-19",
+        "link": "http://m.toutiao.com/group/7663083850490249779/",
+        "description": "昭陵博物馆馆藏文物影像融入大唐迎宾盛礼实景演艺，永宁门冰屏滚动播放唐代壁画高清影像，瓮城墙体化身巨型光影画布，复刻唐画风貌。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+# ========== 9. 曲江海洋极地公园暑期系列 ==========
+activities.extend([
+    {
+        "title": "山海瑞兽纪奇幻海洋游主题活动",
+        "venue": "曲江海洋极地公园",
+        "city": "xian",
+        "start_date": "2026-07-24",
+        "end_date": "2026-08-16",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "山海经神话IP与海洋秘境交融，《山海瑞兽录》国风神话主题巡游魔幻舞台剧每日上演，凤凰、白泽、麒麟、九尾狐等上古神兽悉数登场。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "海神奇遇神话国潮沉浸式游园",
+        "venue": "曲江海洋极地公园",
+        "city": "xian",
+        "start_date": "2026-07-24",
+        "end_date": "2026-08-16",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "每日定制两场专属NPC展演，多位高颜值山海神话NPC全域巡游互动，带领游客开启趣味寻瑞奇遇之旅，解锁专属游玩惊喜。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "COS自由行免费入园福利",
+        "venue": "曲江海洋极地公园",
+        "city": "xian",
+        "start_date": "2026-07-24",
+        "end_date": "2026-08-16",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "身着海洋生灵、上古神话、经典动漫等全套主题服饰的游客，可享免费入园专属优待，每日限量20个名额，先到先得，沉浸式融入山海奇幻氛围。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "鲛人主题演绎浪漫秀",
+        "venue": "曲江海洋极地公园海底剧场",
+        "city": "xian",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-16",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "以唯美灵动的鲛人角色为核心，细腻演绎浪漫悠远的上古山海神话故事，勾勒出独属于深海鲛人的温婉与绝美，为夏日增添浪漫清凉。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "海豚海狮杂技大秀",
+        "venue": "曲江海洋极地公园欢乐剧场",
+        "city": "xian",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "海豚、海狮联袂上演精彩杂技大秀，灵动跳跃、默契互动，呈现震撼十足的海洋萌宠视听盛宴，滑稽小丑带来爆笑不断的跳水表演。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "流光羽梦人鱼传说演出",
+        "venue": "曲江海洋极地公园海底剧场",
+        "city": "xian",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "人鱼舞者化身星海使者，轻盈光翼随舞步流转，璀璨光丝宛若银河倾泻，在深邃海底编织出极致梦幻的光影画卷，治愈又震撼。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "黄金鲹风暴群游投喂秀",
+        "venue": "曲江海洋极地公园海洋馆",
+        "city": "xian",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7662953929218458164/",
+        "description": "壮观的黄金鲹风暴轮番上演，万千鱼群肆意穿梭、组团巡游，复刻深海秘境的磅礴奇观，孩子可以近距离观赏鱼群风暴的震撼场面。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "海洋科普研学营七大主题课程",
+        "venue": "曲江海洋极地公园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "7类专业实操科普课可自由搭配：人工海水调配、显微镜微观生物观测、水母繁育饲养体验、海洋动物兽医职业体验、海星海豚专题大讲堂等。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+# ========== 10. 西安欢乐谷玛雅海滩系列 ==========
+activities.extend([
+    {
+        "title": "西安欢乐谷玛雅海滩夏浪泼水节",
+        "venue": "西安欢乐谷玛雅海滩水公园",
+        "city": "xian",
+        "start_date": "2026-06-27",
+        "end_date": "2026-08-30",
+        "link": "http://m.toutiao.com/group/7658218937008325171/",
+        "description": "34个水上项目全天畅玩，双龙过山车、超级大喇叭、炮弹飞人等刺激项目，欢乐水寨、漂流河适合全家嗨玩，傣式泼水节白天花车巡游。",
+        "fee": "收费",
+        "source": "华商网",
+        "family_friendly": True
+    },
+    {
+        "title": "玛雅海滩第二届社区泼水争霸赛",
+        "venue": "西安欢乐谷玛雅海滩水公园",
+        "city": "xian",
+        "start_date": "2026-07-03",
+        "end_date": "2026-08-07",
+        "link": "http://m.toutiao.com/group/7658218937008325171/",
+        "description": "持续6周周末的水上世界杯活动，水上足球赛、点球大赛、水上拔河三大竞技关卡，中外友人同台比拼，赢取景区门票等丰厚奖品。",
+        "fee": "收费",
+        "source": "华商网",
+        "family_friendly": True
+    },
+    {
+        "title": "夜场千架无人机星空秀",
+        "venue": "西安欢乐谷玛雅海滩水公园",
+        "city": "xian",
+        "start_date": "2026-06-27",
+        "end_date": "2026-08-30",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "每周六夜场上演千架无人机组成的浪漫矩阵，闪耀天际，水上飞人炫技表演震撼开场，水上电音派对用节奏律动夏夜欢乐。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "中高考考生玛雅海滩特惠票",
+        "venue": "西安欢乐谷玛雅海滩水公园",
+        "city": "xian",
+        "start_date": "2026-06-27",
+        "end_date": "2026-08-30",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "应届中、高考考生凭本人准考证原件，可享95元特惠门票，门票限玛雅海滩区域使用，不含摩天轮项目，考生专属夏日福利。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "OCT1314摩天轮光影秀",
+        "venue": "西安欢乐谷玛雅海滩",
+        "city": "xian",
+        "start_date": "2026-06-27",
+        "end_date": "2026-08-30",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "西北第一高摩天轮化身浪漫担当，智能音乐轿厢带你在百米高空俯瞰沣河美景，夜幕降临时上演梦幻光影秀，霓虹流转出片率100%。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    }
+])
+
+# ========== 11. 乐华城88度温泉乐园系列 ==========
+activities.extend([
+    {
+        "title": "乐华城88度温泉乐园深海不夜城夜场",
+        "venue": "乐华城88度温泉乐园",
+        "city": "xian",
+        "start_date": "2026-06-21",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "水上不夜城夜遇芭提雅主题体验，双舞台、三大特色体验、四大主题演出及20余项游玩项目一票全包，16:00-22:00夜场畅玩。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    },
+    {
+        "title": "流光浪跃夜漂漂流体验",
+        "venue": "乐华城88度温泉乐园",
+        "city": "xian",
+        "start_date": "2026-06-21",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "1500米超长园林式漂流河道，途经潮汐造浪区、梦幻花廊、星空廊道等场景，在星空下创造浪漫回忆，适合全家老少轻松游玩。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    },
+    {
+        "title": "65米飓风塔极限挑战",
+        "venue": "乐华城88度温泉乐园",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "https://travel.sina.cn/2026-06-25/detail-inieqwsy5747579.d.html",
+        "description": "65米高的飓风塔是园区标志性项目，还有3.5米巨浪池、魅影骑士、超级玛丽、疯狂大喇叭等游乐设施，适合追求刺激的大龄孩子和家长。",
+        "fee": "收费",
+        "source": "新浪生活服务社",
+        "family_friendly": True
+    },
+    {
+        "title": "粉色沙滩梦幻打卡区",
+        "venue": "乐华城88度温泉乐园",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "https://travel.sina.cn/2026-06-25/detail-inieqwsy5747579.d.html",
+        "description": "网红粉色沙滩搭配彩虹天堂、狂欢水寨等轻松休闲项目，适合低龄儿童和家庭游客，玩水拍照两不误，少女心拉满。",
+        "fee": "收费",
+        "source": "新浪生活服务社",
+        "family_friendly": True
+    },
+    {
+        "title": "电音泼水派对夜场活动",
+        "venue": "乐华城88度温泉乐园",
+        "city": "xian",
+        "start_date": "2026-06-21",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "每晚重头戏电音泼水派对，在造浪池边跟随DJ音乐节奏酣畅淋漓地泼水大战，百名NPC共同参与，夏日清凉解压首选。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "Fantasy暹罗大秀演出",
+        "venue": "乐华城88度温泉乐园",
+        "city": "xian",
+        "start_date": "2026-06-21",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "融合泰拳文化的水上表演与浪漫歌舞剧，带来丰富视觉体验，不出国门就能感受异域风情，孩子可以了解不同国家的文化特色。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    }
+])
+
+# ========== 12. 丝路欢乐世界系列 ==========
+activities.extend([
+    {
+        "title": "丝路欢乐世界暑期夜场开放",
+        "venue": "丝路欢乐世界",
+        "city": "xian",
+        "start_date": "2026-06-20",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "夜场16:00-21:00开放，夕阳为爱之塔染上金边，璀璨灯光点亮夜空，畅玩夜场过山车、太空星云等游乐设备，花车巡游梦幻启程。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    },
+    {
+        "title": "七大异域主题街区探索",
+        "venue": "丝路欢乐世界",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=67f37fab49dc661bdbfff5c6",
+        "description": "国内首个丝路主题乐园，希腊爱琴海、沙海秘境等7大异域风情街区，40+游乐项目一票通玩，一秒穿越丝绸之路，边玩边学丝路文化。",
+        "fee": "收费",
+        "source": "汇资讯",
+        "family_friendly": True
+    },
+    {
+        "title": "丝路之声原创音乐剧演出",
+        "venue": "丝路欢乐世界",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "原创音乐剧娓娓道来千年丝路故事，全年龄段都能欣赏的高品质演出，让孩子在音乐剧中了解丝绸之路的历史文化。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "万国风情花车巡游",
+        "venue": "丝路欢乐世界",
+        "city": "xian",
+        "start_date": "2026-06-20",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "夜晚花车巡游梦幻启程，清凉戏水与泼水音乐节激情相遇，各类主题活动持续开展，邀你畅玩整个夏天。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    },
+    {
+        "title": "万象敦煌VR体验项目",
+        "venue": "丝路欢乐世界",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=67f37fab49dc661bdbfff5c6",
+        "description": "2025年新开的VR项目，通过虚拟现实技术沉浸式体验敦煌莫高窟的艺术魅力，让孩子身临其境地感受丝路文化瑰宝。",
+        "fee": "收费",
+        "source": "汇资讯",
+        "family_friendly": True
+    }
+])
+
+# ========== 13. 镜花缘大人国系列 ==========
+activities.extend([
+    {
+        "title": "镜花缘大人国唐风电音泼水节",
+        "venue": "西安镜花缘大人国",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "新晋国风沉浸式乐园，以镜花缘为蓝本还原盛唐奇幻场景，夏日限定美人鱼泼水节、电音派对，38项游乐+13座主题舞台全天嗨玩。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "千名NPC沉浸式互动游园",
+        "venue": "西安镜花缘大人国",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "千名NPC全程互动，穿古装游园解锁开放式剧情，500多场唐风演艺轮番上演，孩子可以沉浸式体验盛唐市井生活。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "万盏古风华灯鱼灯巡游",
+        "venue": "西安镜花缘大人国",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "入夜后万盏古风华灯亮起，鱼灯巡游和非遗火秀接连上演，氛围感拉满，拍照超出片，是夜游的绝佳选择。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    }
+])
+
+# ========== 14. 儿童剧演出系列 ==========
+activities.extend([
+    {
+        "title": "艺润童心惠民一夏儿童剧专场",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "link": "http://m.toutiao.com/group/7660498654561649188/",
+        "description": "5部儿童剧42场演出轮番登台，零票价无门槛线上预约，涵盖童话启蒙、传统文化、生命教育、革命历史等主题，承包孩子整个暑假。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧春天里的童话",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "link": "http://m.toutiao.com/group/7660498654561649188/",
+        "description": "以小故事大智慧的方式引导儿童建立基本的品德认知，轻松幽默和强互动为特色，适合初次走进剧场的低龄小观众。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧小猴聪聪",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "link": "http://m.toutiao.com/group/7660498654561649188/",
+        "description": "聚焦交通法规意识和集体生活能力的培养，在欢快剧情中埋下成长的种子，让孩子在欢笑中学习交通安全知识。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧小年兽别捣蛋",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "link": "http://m.toutiao.com/group/7660498654561649188/",
+        "description": "以非遗盲盒形式串联舞狮、祭灶、打铁花等传统年俗元素，将春节年味搬上夏日舞台，让孩子在喜乐中感受中华优秀传统文化魅力。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "中法联合制作小丑剧小丑的宝宝",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "link": "http://m.toutiao.com/group/7660498654561649188/",
+        "description": "聚焦生命教育，用红鼻子小丑特有的诙谐与荒诞，以新颖独特的视角探讨家庭、责任与爱的关系，适合全年龄段观看。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧火印",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "link": "http://m.toutiao.com/group/7660498654561649188/",
+        "description": "改编自曹文轩同名小说，通过一匹战马的命运折射民族气节与人性光辉，发挥第二课堂功能，带领青少年感知厚重历史与英雄精神。",
+        "fee": "免费需预约",
+        "source": "西安发布",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧我们是秦俑",
+        "venue": "西安儿童艺术剧院巡演",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.whysw.org/m/view.php?aid=128228",
+        "description": "被誉为中国孩子博物馆奇妙夜，以秦兵马俑、鎏金走龙、唐三彩仕女俑等陕西标志性文物为原型，讲述博物馆文物午夜苏醒的趣味故事。",
+        "fee": "收费",
+        "source": "文化艺术网",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧遇见星海",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-07",
+        "end_date": "2026-07-07",
+        "link": "http://www.whysw.org/m/view.php?aid=128228",
+        "description": "聚焦抗战时期延安岁月，以孩童视角还原黄河大合唱创作历程，诠释音乐亦是战斗武器的红色力量，爱国主义教育生动教材。",
+        "fee": "收费",
+        "source": "文化艺术网",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧方寸里的中国画",
+        "venue": "西安儿童艺术剧院巡演",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.whysw.org/m/view.php?aid=128228",
+        "description": "创新融合光影、剪纸、多媒体等舞台技术，让传世名画动态活在舞台上，带领少年儿童沉浸式感受中华传统文化的生生不息。",
+        "fee": "收费",
+        "source": "文化艺术网",
+        "family_friendly": True
+    },
+    {
+        "title": "合家欢音乐剧唐妞驾到",
+        "venue": "西安儿童艺术剧院巡演",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.whysw.org/m/view.php?aid=128228",
+        "description": "依托陕西历史博物馆彩绘女立俑原创IP唐妞，打造大唐长安冒险故事，二十余首前卫编曲和先锋舞蹈，让孩子们触摸盛唐气象。",
+        "fee": "收费",
+        "source": "文化艺术网",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧摘星星的孩子",
+        "venue": "西安儿童艺术剧院巡演",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.whysw.org/m/view.php?aid=128228",
+        "description": "以神舟十六号载人飞船发射为创作背景，生动展现中国航天事业飞速发展，聚焦宇宙探索与科技科普，激发青少年探索欲。",
+        "fee": "收费",
+        "source": "文化艺术网",
+        "family_friendly": True
+    },
+    {
+        "title": "英国互动音乐儿童偶剧鼻涕虫教授的昆虫秀",
+        "venue": "西安开元大剧院展演中心",
+        "city": "xian",
+        "start_date": "2026-07-30",
+        "end_date": "2026-08-02",
+        "link": "https://www.snpac.com/sxtheatre/index.html?rand=rRNpIyoF",
+        "description": "开元大剧院暑期亲子周特别呈现，英国互动音乐儿童偶剧，用音乐和木偶讲述昆虫世界的奇妙故事，互动性强适合低龄儿童。",
+        "fee": "收费",
+        "source": "陕西大剧院官网",
+        "family_friendly": True
+    },
+    {
+        "title": "冰雪奇缘之女王的诞生儿童剧",
+        "venue": "陕西中太天恩艺术剧院",
+        "city": "xian",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "link": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2072947082868670466.html",
+        "description": "经典冰雪IP改编儿童剧，讲述艾莎女王的成长故事，华丽的舞台效果和动人的音乐，是孩子们最爱的童话经典，共6场演出。",
+        "fee": "收费",
+        "source": "浐灞国际港政务网",
+        "family_friendly": True
+    },
+    {
+        "title": "奶龙之月亮宝宝和被遗忘的星星儿童剧",
+        "venue": "陕西中太天恩艺术剧院",
+        "city": "xian",
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "link": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2072947082868670466.html",
+        "description": "原创奇幻儿童剧，讲述奶龙和月亮宝宝的冒险故事，充满想象力的剧情和精美的舞台设计，适合全家观看的温馨亲子剧，共6场。",
+        "fee": "收费",
+        "source": "浐灞国际港政务网",
+        "family_friendly": True
+    },
+    {
+        "title": "孙悟空三打白骨精儿童剧",
+        "venue": "陕西中太天恩艺术剧院",
+        "city": "xian",
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "link": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2072947082868670466.html",
+        "description": "经典名著西游记改编，孙悟空三打白骨精的故事家喻户晓，精彩的武打场面和诙谐的表演，让孩子感受传统文化魅力，共6场演出。",
+        "fee": "收费",
+        "source": "浐灞国际港政务网",
+        "family_friendly": True
+    },
+    {
+        "title": "七月童话月儿童剧系列演出",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-31",
+        "link": "https://www.xiancn.com/content/2026-07/01/content_7456675.htm",
+        "description": "西安儿艺推出七月童话月系列：小红帽、拇指姑娘、爱丽丝秘境森林等经典童话剧，寓教于乐，让孩子在欢笑中收获成长。",
+        "fee": "收费",
+        "source": "西安日报",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧小红帽暑期专场",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-04",
+        "link": "https://www.xiancn.com/content/2026-07/01/content_7456675.htm",
+        "description": "经典童话小红帽全新改编，寓教于乐让孩子在欢笑中学会安全自护，互动环节丰富，适合低龄儿童观看的暑期必看儿童剧。",
+        "fee": "收费",
+        "source": "西安日报",
+        "family_friendly": True
+    },
+    {
+        "title": "儿童剧拇指姑娘暑期专场",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-11",
+        "link": "https://www.xiancn.com/content/2026-07/01/content_7456675.htm",
+        "description": "讲述小小女孩历经重重磨难寻找幸福的故事，引导孩子明白困难并不可怕，善良与坚持是最强大的力量，培养孩子坚强品格。",
+        "fee": "收费",
+        "source": "西安日报",
+        "family_friendly": True
+    },
+    {
+        "title": "爱丽丝秘境森林儿童剧",
+        "venue": "西安市青少年活动中心梦想剧场",
+        "city": "xian",
+        "start_date": "2026-07-25",
+        "end_date": "2026-07-25",
+        "link": "https://www.xiancn.com/content/2026-07/01/content_7456675.htm",
+        "description": "沉浸式真人舞台搭配梦幻特效，为孩子呈现鲜活奇幻仙境，一场场关于爱与勇气的奇幻冒险，让孩子收获电脑游戏之外的快乐。",
+        "fee": "收费",
+        "source": "西安日报",
+        "family_friendly": True
+    }
+])
+
+# ========== 15. 夏令营系列 ==========
+activities.extend([
+    {
+        "title": "长安书院神兽探索营",
+        "venue": "长安书院",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-25",
+        "link": "http://m.toutiao.com/group/7661228470361522739/",
+        "description": "面向1-6年级学生的日间托管夏令营，日常阅读+特色课程+研学活动，国企办学安全有保障，含每日餐食、课程材料，彻底解决暑期看护难题。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "西安市青少年活动中心爱之家成长园夏令营",
+        "venue": "西安市青少年活动中心",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-25",
+        "link": "http://m.toutiao.com/group/7661228470361522739/",
+        "description": "一站式托管服务，融合学业辅导与多元特色课程，科技探索、创意手工、艺术素养、活力运动四大类课堂，学玩兼顾赋能成长。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "常宁宫第十九届水花少年派夏日成长营",
+        "venue": "西安常宁宫",
+        "city": "xian",
+        "start_date": "2026-07-12",
+        "end_date": "2026-08-15",
+        "link": "http://m.toutiao.com/group/7661228470361522739/",
+        "description": "每期7天共6期的住宿式夏令营，专业游泳教学、国学教育瓦当拓印、非遗手作、安全急救、星空露营、历史探秘，6-12岁中小学生。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "何以长安5天亲子夏令营",
+        "venue": "西安多家博物馆",
+        "city": "xian",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-26",
+        "link": "https://m.xialingying.cc/taoxiongmao/course/1743306027.html",
+        "description": "5天亲子研学营，西安博物馆寻宝+兵马俑博物馆+变装穿越+古建匠心斗拱搭建+窑洞探秘，绘制专属长安文明密码图谱。",
+        "fee": "收费",
+        "source": "淘熊猫夏令营",
+        "family_friendly": True
+    },
+    {
+        "title": "英仙座流星雨观星露营亲子营",
+        "venue": "照金丹霞地貌景区",
+        "city": "xian",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-16",
+        "link": "http://m.hwgogo.com/nd.jsp?id=28008",
+        "description": "两天一晚亲子露营，英仙座流星雨观测、天文科普、摸鱼寻蟹、丹霞徒步、篝火音乐会、帐篷搭建，5岁以上亲子家庭均可参加。",
+        "fee": "收费",
+        "source": "绿锐户外",
+        "family_friendly": True
+    },
+    {
+        "title": "无人机实操科技探索夏令营",
+        "venue": "西安市青少年活动中心",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-20",
+        "link": "https://m.weibo.cn/detail/5321640799898292",
+        "description": "科技探索类特色课程，包含无人机实操、乐高搭建等前沿科技内容，精品小班教学因材施教，培养孩子科学思维与动手能力。",
+        "fee": "收费",
+        "source": "曲江文化产业集团",
+        "family_friendly": True
+    },
+    {
+        "title": "曲江野生动物山林自然夏令营",
+        "venue": "曲江秦岭野生动物园周边",
+        "city": "xian",
+        "start_date": "2026-07-20",
+        "end_date": "2026-08-20",
+        "link": "http://m.toutiao.com/group/7663097292823609892/",
+        "description": "从盛唐遗迹到秦岭山野，野生动物观察、自然探索、山林徒步、户外生存技能学习，七天六晚深度体验，在自然中学习成长。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+# ========== 16. 汉景帝阳陵博物院系列 ==========
+activities.extend([
+    {
+        "title": "汉阳陵有美一人汉代女性服饰文化展",
+        "venue": "汉景帝阳陵博物院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "暑期重磅大展，从发髻妆容到裙裾佩饰，把两千年前的汉服美学搬到眼前，全国文博圈必看展，适合亲子共同感受汉代服饰之美。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "汉阳陵中高考考生免票活动",
+        "venue": "汉景帝阳陵博物院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "应届中高考生凭准考证及身份证可免票入场，文景之治实物见证，全球首座全地下遗址博物馆，暑假错峰游览好去处。",
+        "fee": "免费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "汉阳陵地下博物馆探秘研学",
+        "venue": "汉景帝阳陵博物院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "全国唯一可进入陪葬坑的遗址博物馆，玻璃栈道下就是陶俑，孩子说像在考古现场，人少空调足夏天避暑首选，研学价值极高。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    }
+])
+
+# ========== 17. 群众艺术馆系列 ==========
+activities.extend([
+    {
+        "title": "艺暖长安全民艺术普及暑期公益课",
+        "venue": "西安市群众艺术馆",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-10",
+        "link": "https://www.xiancn.com/content/2026-07/08/content_7461487.htm",
+        "description": "面向全体市民推出五门免费公益课程：魔术、篆刻、簪花小楷、东方心理解压、小儿推拿，学费全免扫码预约，每人限报一门。",
+        "fee": "免费需预约",
+        "source": "西安日报",
+        "family_friendly": True
+    },
+    {
+        "title": "第八届丝路朗诵大会石榴花少儿朗诵艺术团",
+        "venue": "西安市群众艺术馆",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1031070433_121106869/",
+        "description": "联合丝路朗诵大会组委会主办的少儿朗诵活动，为全市热爱语言艺术的青少年搭建展示交流平台，传承弘扬中华优秀传统文化。",
+        "fee": "免费",
+        "source": "西安市群众艺术馆",
+        "family_friendly": True
+    },
+    {
+        "title": "非遗润童心非遗进青少年活动中心",
+        "venue": "西安市青少年活动中心",
+        "city": "xian",
+        "start_date": "2026-07-15",
+        "end_date": "2026-08-25",
+        "link": "http://m.toutiao.com/group/7645692322469904930/",
+        "description": "二十余项特色非遗项目集中亮相，缠花、棉絮画、秦腔脸谱、剪纸、花馍、糖人糖画、扎染等体验项目，让孩子近距离邂逅非遗之美。",
+        "fee": "部分免费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+# ========== 18. 莲湖区暑期活动 ==========
+activities.extend([
+    {
+        "title": "青年路第二社区蓝精灵暑期陪伴成长夏令营",
+        "venue": "莲湖区青年路第二社区蓝精灵儿童服务站",
+        "city": "xian",
+        "start_date": "2026-07-05",
+        "end_date": "2026-08-15",
+        "link": "http://www.lianhu.gov.cn/xwzx/lhyw/2074335010625769474.html",
+        "description": "面向6-12岁学生的公益托管夏令营，35个名额全程免费，课业辅导+武术+游泳防溺水+乒乓球+非遗手工+AI科普，一站式成长课堂。",
+        "fee": "免费",
+        "source": "莲湖区政府",
+        "family_friendly": True
+    },
+    {
+        "title": "拾光西仓潮启莲湖城市文化节",
+        "venue": "莲湖区西仓市集文创公园",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-10",
+        "link": "http://www.lianhu.gov.cn/xwzx/lhyw/2076483202961227778.html",
+        "description": "老物件展示区、非遗体验区、童年互动区三大主题区域，像素跳房子、时光弹珠台、沙包投掷等怀旧游戏，露天摇滚音乐派对。",
+        "fee": "免费",
+        "source": "莲湖区政府",
+        "family_friendly": True
+    },
+    {
+        "title": "西仓非遗四大特色体验课堂",
+        "venue": "莲湖区西仓市集文创公园",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-10",
+        "link": "http://www.lianhu.gov.cn/xwzx/lhyw/2076483202961227778.html",
+        "description": "唐诗扇面制作、面塑动漫形象、棉絮画秦岭风光、丝网版画印刷四大非遗体验课，传承人现场教学，孩子可带走自己的作品。",
+        "fee": "部分免费",
+        "source": "莲湖区政府",
+        "family_friendly": True
+    }
+])
+
+# ========== 19. 八路军西安办事处纪念馆 ==========
+activities.extend([
+    {
+        "title": "八路军西安办事处纪念馆暑期红色研学",
+        "venue": "八路军西安办事处纪念馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7657345603122348594/",
+        "description": "暑期取消周一闭馆，每日9:00至17:00免费开放，红色研学教育基地，适合带孩子了解革命历史，传承红色基因，爱国主义教育好去处。",
+        "fee": "免费",
+        "source": "西安发布",
+        "family_friendly": True
+    }
+])
+
+# ========== 20. 大明宫国家遗址公园系列 ==========
+activities.extend([
+    {
+        "title": "大明宫考古探索中心亲子考古体验",
+        "venue": "大明宫国家遗址公园考古探索中心",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://c.m.163.com/news/a/L1AI2SOU0556NAGL.html",
+        "description": "孩子可以亲手挖文物、修复碎陶片，体验感极强的沉浸式考古体验，周末人少建议上午去，下午搭配观看大明宫传奇IMAX电影。",
+        "fee": "收费",
+        "source": "网易新闻",
+        "family_friendly": True
+    },
+    {
+        "title": "大明宫传奇IMAX3D电影",
+        "venue": "大明宫国家遗址公园IMAX影院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "通过3D电影还原大明宫盛景，让孩子直观感受唐代皇宫的宏伟壮观，儿童票半价，是考古体验后的完美配套项目。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    }
+])
+
+# ========== 21. 白鹿原影视城暑期系列 ==========
+activities.extend([
+    {
+        "title": "白鹿原影视城清凉一夏原上潮玩龙虾音乐季",
+        "venue": "白鹿原影视城",
+        "city": "xian",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-31",
+        "link": "https://sn.cri.cn/2026-07-17/38655a8e-80b4-5db4-183a-e86030ed6992.html",
+        "description": "开园十周年庆典活动，集水上闯关、亲子游乐、影视NPC互动、非遗展演、龙虾美食市集等多元内容，百余位影视NPC沿街巡游。",
+        "fee": "收费",
+        "source": "国际在线陕西频道",
+        "family_friendly": True
+    },
+    {
+        "title": "白鹿原影视城全域NPC巡游互动",
+        "venue": "白鹿原影视城",
+        "city": "xian",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-31",
+        "link": "https://sn.cri.cn/2026-07-17/38655a8e-80b4-5db4-183a-e86030ed6992.html",
+        "description": "孙悟空、哪吒等领衔百余位影视NPC沿街巡游，打造差异化沉浸式游园体验，孩子可以和喜欢的动画角色互动拍照。",
+        "fee": "免费",
+        "source": "国际在线陕西频道",
+        "family_friendly": True
+    }
+])
+
+# ========== 22. 陕西省暑期文旅消费季系列 ==========
+activities.extend([
+    {
+        "title": "2026陕西省暑期文旅消费季九大主题活动",
+        "venue": "西安及全省各景区",
+        "city": "xian",
+        "start_date": "2026-07-03",
+        "end_date": "2026-08-31",
+        "link": "https://sn.cri.cn/2026-07-17/38655a8e-80b4-5db4-183a-e86030ed6992.html",
+        "description": "九大主题2100余场特色文旅活动，80余条精品旅游线路，投放5800万元文旅惠民卡和消费券，覆盖吃住行游购娱全方位需求。",
+        "fee": "部分免费",
+        "source": "国际在线陕西频道",
+        "family_friendly": True
+    },
+    {
+        "title": "西安市2026消夏文旅季167项主题活动",
+        "venue": "西安市各区县",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-09-30",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "统筹全市12个区县推出167项主题活动，涵盖特色互动、亲子研学、市集展览、赛事互动、民俗文化、夜游体验、清凉游乐等九大品类。",
+        "fee": "部分免费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    }
+])
+
+# ========== 23. 开元大剧院暑期亲子周 ==========
+activities.extend([
+    {
+        "title": "开元大剧院暑期亲子周系列活动",
+        "venue": "西安开元大剧院",
+        "city": "xian",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-15",
+        "link": "https://www.snpac.com/sxtheatre/index.html?rand=rRNpIyoF",
+        "description": "暑期亲子周汇集多部优质儿童剧演出，戏曲专场、脱口秀、光影演出、文化市集、草地泡泡互动秀等多元活动，全家都能找到乐趣。",
+        "fee": "部分免费",
+        "source": "陕西大剧院官网",
+        "family_friendly": True
+    },
+    {
+        "title": "开元文化艺术中心开放日活动",
+        "venue": "西安开元大剧院",
+        "city": "xian",
+        "start_date": "2026-07-09",
+        "end_date": "2026-07-10",
+        "link": "https://sn.cri.cn/2026-07-17/38655a8e-80b4-5db4-183a-e86030ed6992.html",
+        "description": "秦腔京剧脱口秀光影演出文化市集及户外互动体验，非遗烙画、刺绣等市集项目，市民可动手参与，三大场馆全面开放。",
+        "fee": "免费",
+        "source": "国际在线陕西频道",
+        "family_friendly": True
+    }
+])
+
+# ========== 24. 华清宫暑期系列 ==========
+activities.extend([
+    {
+        "title": "华清宫暑期背诗免票活动",
+        "venue": "华清宫",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.weibo.cn/detail/5320875927668620",
+        "description": "背诵指定唐诗可免票入园，考生免费、高铁有折扣、特色活动缤纷上线，邀您消夏入宫，一站式解锁夏日盛唐度假体验。",
+        "fee": "免费",
+        "source": "陕旅集团",
+        "family_friendly": True
+    },
+    {
+        "title": "华清宫研学之旅",
+        "venue": "华清宫",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "看唐代御汤遗址，了解西安事变历史，动静结合文史兼备，园区平缓好走绿植茂密，皇家园林雅致，适合学龄儿童研学游览。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    }
+])
+
+# ========== 25. 兵马俑博物馆暑期系列 ==========
+activities.extend([
+    {
+        "title": "秦始皇兵马俑陶俑修复趣味体验",
+        "venue": "秦始皇兵马俑博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.163.com/dy/article/L1UU4EBG0556NAGL.html",
+        "description": "参与陶俑修复趣味体验，沉浸式感受考古魅力，16岁以下免门票性价比超高，搭配童趣精讲孩子能听懂有收获，西安研学天花板。",
+        "fee": "收费",
+        "source": "网易新闻",
+        "family_friendly": True
+    },
+    {
+        "title": "小小考古家模拟挖掘项目",
+        "venue": "秦始皇兵马俑博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://c.m.163.com/news/a/L1AI2SOU0556NAGL.html",
+        "description": "模拟考古挖掘体验项目，孩子亲手挖掘仿真文物，了解考古工作流程，在实践中学习秦代历史知识，培养对考古的兴趣。",
+        "fee": "收费",
+        "source": "网易新闻",
+        "family_friendly": True
+    },
+    {
+        "title": "兵马俑4D电影秦俑诞生记",
+        "venue": "秦始皇兵马俑博物馆4D影院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://c.m.163.com/news/a/L1AI2SOU0556NAGL.html",
+        "description": "4D电影还原陶俑制作全过程，通过立体视觉和感官特效，让孩子直观了解秦兵马俑的制作工艺，生动有趣的科普体验。",
+        "fee": "收费",
+        "source": "网易新闻",
+        "family_friendly": True
+    }
+])
+
+# ========== 26. 长安云科技馆系列 ==========
+activities.extend([
+    {
+        "title": "西安科技馆科趣夜场活动",
+        "venue": "西安科技馆长安云",
+        "city": "xian",
+        "start_date": "2026-07-07",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7526116292928209454/",
+        "description": "暑期每周五周六17:00-20:30增设主题夜场，7个常设展厅近400件沉浸式互动展品，科学探究硬核力量逐梦空天等区域畅玩。",
+        "fee": "免费需预约",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "长安云科技馆莫比乌斯环中庭打卡",
+        "venue": "西安科技馆长安云",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7661520861686202906/",
+        "description": "16万㎡超大空间全场恒温，28米超震撼莫比乌斯环中庭拍照巨出片，500+互动展品全部可以上手玩，航空航天物理实验光影艺术。",
+        "fee": "免费需预约",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "探秘数学之美小小科学家亲子活动",
+        "venue": "西安文理学院数学探索馆",
+        "city": "xian",
+        "start_date": "2026-08-16",
+        "end_date": "2026-08-16",
+        "link": "https://www.xakpw.com/single/36902",
+        "description": "20组亲子家庭参与，500余件数学教具环绕，密铺大挑战、拓扑变形装置、概率游戏等互动体验，触摸数学玩转艺术。",
+        "fee": "免费需预约",
+        "source": "西安市科学技术协会",
+        "family_friendly": True
+    }
+])
+
+# ========== 27. 其他特色活动 ==========
+activities.extend([
+    {
+        "title": "诗经里小镇大唐绮梦夜国风夜游",
+        "venue": "诗经里小镇",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "沉浸大唐绮梦夜的国风浪漫，诗经主题小镇，古风建筑搭配灯光夜景，适合拍照打卡，孩子可以了解诗经文化，感受传统文化。",
+        "fee": "免费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "诗经里千灯夜游活动",
+        "venue": "诗经里小镇",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "千盏花灯点亮小镇夜色，沉浸式国风夜游体验，汉服拍照超出片，还有各种传统手工艺体验，适合全家夏日傍晚休闲出游。",
+        "fee": "免费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "昆明池七夕公园落日骑行",
+        "venue": "昆明池七夕公园",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "在昆明池畔感受骑行咖啡与落日晚风，园区开阔适合亲子骑行，湖边步道平缓，孩子可以自由奔跑，夏日傍晚来此纳凉休闲。",
+        "fee": "免费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "曲江池遗址公园金龙巡游",
+        "venue": "曲江池遗址公园",
+        "city": "xian",
+        "start_date": "2026-06-19",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7658487984290906639/",
+        "description": "80米非遗竹筏金龙游船，单趟载客36人，航线串联千树亭烟波岛等核心景观，单趟航程约30分钟，曲江夏季标志性夜游。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "赳赳大秦沉浸式史诗演出",
+        "venue": "《赳赳大秦》剧院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "世界最长最快轨道式移动观众席，80分钟沉浸式秦文化史诗演出，秦军出征时风沙雾气扑面而来，见证大秦一统的壮阔。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "张裕长歌酒庄AI葡萄酒体验",
+        "venue": "张裕长歌酒庄",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "千亩葡园环抱欧式城堡，地下酒窖、4D影院之外，全新升级AI葡萄酒体验中心，智酿实验室调配专属葡萄酒风味，高考考生免票参观。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "际华冰雪西安冰雪中心滑雪体验",
+        "venue": "西安际华冰雪运动中心",
+        "city": "xian",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:9040/zmhd/hygq/whly/2071426581829603329.html",
+        "description": "室外35度这里恒温-6度，1.9万㎡真雪场专业初中级雪道，零基础也能请教练快速上手，夏天滑雪避暑新奇体验，中高考考生69元特惠。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "国际滑联世界青年花样滑冰大奖赛",
+        "venue": "曲江竞技中心",
+        "city": "xian",
+        "start_date": "2026-08-20",
+        "end_date": "2026-08-22",
+        "link": "https://m.weibo.cn/detail/5321682408441830",
+        "description": "西北地区首场国际滑联花滑赛事，全球青年花滑健儿齐聚千年古都，本土限定吉祥物花馍馍全新亮相，持票根享景区免票消费折扣。",
+        "fee": "收费",
+        "source": "曲江文化产业集团",
+        "family_friendly": True
+    },
+    {
+        "title": "乐华恒业欢乐世界夜场青春音乐派对",
+        "venue": "乐华恒业欢乐世界",
+        "city": "xian",
+        "start_date": "2026-06-14",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=685131d6e25ad2452909e4a3",
+        "description": "36台人气游乐设备全天候开放，每周末青春音乐派对火力全开，亲子家庭可选择温馨项目，年轻人可挑战刺激设备。",
+        "fee": "收费",
+        "source": "西安市文化和旅游局",
+        "family_friendly": True
+    },
+    {
+        "title": "长安十二时辰沉浸式唐风室内街区",
+        "venue": "长安十二时辰主题街区",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7661520861686202906/",
+        "description": "全室内恒温街区完全不用晒太阳，小朋友看皮影观古风演出跟读唐诗，将进酒沉浸式演绎好看又涨知识，古风拍照巨美。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "哇噻快乐星球室内亲子乐园",
+        "venue": "哇噻快乐星球",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7661520861686202906/",
+        "description": "蓝洞秘境探宝、4D深蓝影院、趣味互动游戏，场地干净凉快项目温和不刺激，适合低龄宝宝放电，玩两小时刚刚好，地铁口直达。",
+        "fee": "收费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "丘也林谷森系无动力乐园",
+        "venue": "丘也林谷",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=67f37fab49dc661bdbfff5c6",
+        "description": "户外营地+沉浸式自然体验+快乐嘉年华，空中丛林魔网、星空蹦蹦云、穿越3D迷宫、蒸汽小火车、考古沙坑寻宝、萌宠喂养乐园。",
+        "fee": "收费",
+        "source": "汇资讯",
+        "family_friendly": True
+    },
+    {
+        "title": "丘也林谷奇幻泡泡秀科学实验秀",
+        "venue": "丘也林谷",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=67f37fab49dc661bdbfff5c6",
+        "description": "奇幻泡泡秀和疯狂科学实验秀，让孩子在大自然里野个够，100+无动力游乐天堂，玩累了还有亲子营养简餐和鲜榨果汁。",
+        "fee": "收费",
+        "source": "汇资讯",
+        "family_friendly": True
+    },
+    {
+        "title": "关中民俗艺术博物院皮影戏剪纸体验",
+        "venue": "关中民俗艺术博物院",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.sohu.com/a/1041113006_122740175/",
+        "description": "终南山脚下的民俗博物院，老艺人表演皮影戏免费观看，孩子还能上台学操作，民俗小吃宴人均30元品质干净，适合亲子文化游。",
+        "fee": "收费",
+        "source": "搜狐网",
+        "family_friendly": True
+    },
+    {
+        "title": "千荷苑荷文化旅游季",
+        "venue": "西安千荷苑景区",
+        "city": "xian",
+        "start_date": "2026-06-26",
+        "end_date": "2026-09-30",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "荷风盈袖的清雅夏日，百亩荷塘竞相绽放，荷花品种展示基地，适合带孩子赏花拍照，亲近自然感受夏日荷韵。",
+        "fee": "收费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "茯茶镇亲子茶文化体验",
+        "venue": "茯茶镇",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://www.xixianxinqu.gov.cn:800/xwzx/xxdt/2071407037049307137.html",
+        "description": "临窗品茶收获心静自凉的惬意，孩子可以了解茯茶制作工艺，体验传统茶文化，古镇悠闲漫步，适合全家慢节奏出游。",
+        "fee": "部分免费",
+        "source": "西咸新区管委会",
+        "family_friendly": True
+    },
+    {
+        "title": "陕西自然博物馆恐龙化石展",
+        "venue": "陕西自然博物馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://cj.sina.cn/articles/view/7879922979/1d5ae152306801su0w",
+        "description": "看恐龙化石、动手做实验，为旅程画上知识句号，自然博物馆分科技和自然两馆，孩子可以学习各种自然科学知识。",
+        "fee": "收费",
+        "source": "新浪财经",
+        "family_friendly": True
+    },
+    {
+        "title": "西安世博园暑期休闲游",
+        "venue": "西安世博园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7661520861686202906/",
+        "description": "免费开放的大型城市公园，园区开阔绿植多，有儿童游乐区和沙滩，适合带孩子休闲散步、骑车、野餐，夏日纳凉好去处。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "西安秦岭野生动物园暑期亲子游",
+        "venue": "西安秦岭野生动物园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://www.sxggwhy.com/news/detail?id=67f37fab49dc661bdbfff5c6",
+        "description": "近距离观赏各种野生动物，乘坐观光车穿越猛兽区，还有精彩的动物表演，孩子可以了解动物知识，培养爱护自然的意识。",
+        "fee": "收费",
+        "source": "汇资讯",
+        "family_friendly": True
+    },
+    {
+        "title": "曲江池遗址公园清凉市集",
+        "venue": "曲江池遗址公园",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7658487984290906639/",
+        "description": "夏日清凉市集汇聚各种特色小吃、文创产品、手工艺品，沿湖而设凉风习习，适合全家傍晚休闲漫步，孩子还能参与各种趣味互动游戏。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "陕西科技馆暑期免费科普活动",
+        "venue": "陕西科技馆",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7661520861686202906/",
+        "description": "免费预约周三至周日开放，力学光学电磁机器人航空模型超多互动体验项目，动手操作性超强，全馆空调超足，夏日体感巨舒服。",
+        "fee": "免费需预约",
+        "source": "今日头条",
+        "family_friendly": True
+    },
+    {
+        "title": "西安汉城湖暑期亲子龙舟体验",
+        "venue": "汉城湖景区",
+        "city": "xian",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "link": "https://m.xa.bendibao.com/xiuxian/60809_20.shtm",
+        "description": "汉城湖亲子龙舟体验季，全家一起体验划龙舟的乐趣，专业教练指导安全有保障，还能了解传统龙舟文化，锻炼团队协作精神。",
+        "fee": "收费",
+        "source": "西安本地宝",
+        "family_friendly": True
+    },
+    {
+        "title": "西安千古情景区暑期演出季",
+        "venue": "西安宋城千古情景区",
+        "city": "xian",
+        "start_date": "2026-07-10",
+        "end_date": "2026-09-03",
+        "link": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2072947082868670466.html",
+        "description": "二次元秦腔、黄昏来信等外场演出及音乐会，896场演出轮番上演，一生必看的西安千古情主秀，用高科技演绎西安千年历史。",
+        "fee": "收费",
+        "source": "浐灞国际港政务网",
+        "family_friendly": True
+    },
+    {
+        "title": "西安浐灞保利大剧院暑期音乐会系列",
+        "venue": "西安浐灞保利大剧院",
+        "city": "xian",
+        "start_date": "2026-07-26",
+        "end_date": "2026-08-23",
+        "link": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2072947082868670466.html",
+        "description": "哈利波特重返霍格沃茨经典魔幻电影金曲音乐会、天马行空林浩力小提琴音乐会、风华爵代爵士大乐队专场，暑期音乐盛宴。",
+        "fee": "收费",
+        "source": "浐灞国际港政务网",
+        "family_friendly": True
+    },
+    {
+        "title": "山河诗长安诗词大会舞台剧",
+        "venue": "陕西中太天恩艺术剧院",
+        "city": "xian",
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "link": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2072947082868670466.html",
+        "description": "以诗词为主题的互动舞台剧，孩子可以在现场参与诗词接龙、飞花令等互动环节，沉浸式感受中华诗词之美，共6场演出。",
+        "fee": "收费",
+        "source": "浐灞国际港政务网",
+        "family_friendly": True
+    },
+    {
+        "title": "漫游声学宇宙德国SLIXS人声乐团音乐会",
+        "venue": "西安开元大剧院",
+        "city": "xian",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-01",
+        "link": "https://www.snpac.com/sxtheatre/index.html?rand=rRNpIyoF",
+        "description": "德国知名人声乐团带来的亲子音乐会，纯人声演绎各种音乐风格，让孩子感受阿卡贝拉的魅力，激发对音乐的兴趣。",
+        "fee": "收费",
+        "source": "陕西大剧院官网",
+        "family_friendly": True
+    },
+    {
+        "title": "西安音乐厅童声合唱团夏季音乐会",
+        "venue": "西安音乐厅交响大厅",
+        "city": "xian",
+        "start_date": "2026-07-28",
+        "end_date": "2026-07-28",
+        "link": "https://www.snpac.com/sxtheatre/index.html?rand=rRNpIyoF",
+        "description": "逐光幻旅声音漫游记主题夏季音乐会，西安音乐厅童声合唱团倾情献唱，天籁童声带来夏日清凉，适合全家共同欣赏。",
+        "fee": "收费",
+        "source": "陕西大剧院官网",
+        "family_friendly": True
+    },
+    {
+        "title": "西演集团戏曲进社区惠民演出",
+        "venue": "新城区雁塔区碑林区各社区",
+        "city": "xian",
+        "start_date": "2026-07-13",
+        "end_date": "2026-08-31",
+        "link": "http://m.toutiao.com/group/7661829923753001482/",
+        "description": "西安话剧院惠民演出进社区，走进新城、雁塔、碑林等多个社区，免费为市民带来精彩话剧表演，家门口就能欣赏专业艺术演出。",
+        "fee": "免费",
+        "source": "今日头条",
+        "family_friendly": True
+    }
+])
+
+print(f"共生成 {len(activities)} 条活动")
+
+with open('/workspace/goout/output/raw/real_activities_xian_batch3.json', 'w', encoding='utf-8') as f:
+    json.dump(activities, f, ensure_ascii=False, indent=2)
+
+print("保存成功！")

@@ -12,6 +12,9 @@ Page({
     duration: '',
     venueAddress: '',
     showLink: false,
+    showBooking: false,
+    bookingApp: '',
+    bookingHint: '',
     hasReminded: false,
     remindId: '',
     venue: null,
@@ -63,6 +66,9 @@ Page({
         duration: duration,
         venueAddress: venueAddress,
         showLink: !!activity.url,
+        showBooking: !!(activity.booking_method && activity.booking_method.app_name),
+        bookingApp: activity.booking_method ? activity.booking_method.app_name : '',
+        bookingHint: activity.booking_method ? (activity.booking_method.search_hint || '') : '',
         venue: venue,
         hasVenue: !!venue
       });
@@ -102,6 +108,61 @@ Page({
       success: function() {
         wx.showToast({ title: '链接已复制', icon: 'success' });
       }
+    });
+  },
+
+  onBookingTap() {
+    const bm = this.data.activity && this.data.activity.booking_method;
+    if (!bm) return;
+    const appName = bm.app_name || '';
+    const hint = bm.search_hint || '';
+    const appType = bm.app_type || 'wechat_mini_program';
+
+    // 小程序/公众号类型：复制小程序名，提示用户去微信搜索
+    if (appType === 'wechat_mini_program' || appType === 'wechat_official_account') {
+      wx.setClipboardData({
+        data: appName,
+        success: function() {
+          wx.showModal({
+            title: '报名入口已复制',
+            content: '小程序/公众号名称「' + appName + '」已复制。\n\n操作步骤：\n1. 退出本小程序，回到微信首页\n2. 点击顶部搜索框，粘贴并搜索\n3. ' + hint + '\n\n由于微信限制，需手动搜索进入对应场馆官方小程序。',
+            showCancel: false,
+            confirmText: '我知道了',
+            confirmColor: '#D4A373'
+          });
+        }
+      });
+      return;
+    }
+
+    // App 类型：提示用户下载
+    if (appType === 'app') {
+      wx.showModal({
+        title: '报名入口提示',
+        content: '本活动需通过 App 报名：\n\n' + appName + '\n\n操作步骤：\n' + hint,
+        showCancel: false,
+        confirmText: '我知道了',
+        confirmColor: '#D4A373'
+      });
+      return;
+    }
+
+    // Web 类型：直接复制 URL
+    if (appType === 'web' && bm.platform_url) {
+      wx.setClipboardData({
+        data: bm.platform_url,
+        success: function() {
+          wx.showToast({ title: '网址已复制', icon: 'success' });
+        }
+      });
+      return;
+    }
+
+    // 兜底
+    wx.showModal({
+      title: '报名入口',
+      content: hint || appName,
+      showCancel: false
     });
   },
 
