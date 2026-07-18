@@ -16,14 +16,26 @@
     </view>
   </scroll-view>
 
-  <!-- 类型筛选 -->
-  <scroll-view class="filter-scroll type-filter" scroll-x enhanced show-scrollbar="{{false}}">
+  <!-- 区县筛选（仅在选定具体城市时显示） -->
+  <scroll-view wx:if="{{cityFilter !== 'all'}}" class="filter-scroll district-filter" scroll-x enhanced show-scrollbar="{{false}}">
     <view class="filter-list">
+      <view wx:for="{{districts}}" wx:key="*this" class="filter-chip {{(districtFilter === item || (districtFilter === 'all' && item === '全部区县')) ? 'active' : ''}}" bindtap="onDistrictTap" data-key="{{item}}">
+        {{item}}
+      </view>
+    </view>
+  </scroll-view>
+
+  <!-- 类型筛选（多行展示，可展开/收起） -->
+  <view class="type-filter-block">
+    <view class="filter-list type-list {{typeExpanded ? '' : 'collapsed'}}">
       <view wx:for="{{types}}" wx:key="key" class="filter-chip {{typeFilter === item.key ? 'active' : ''}}" bindtap="onTypeTap" data-key="{{item.key}}">
         {{item.name}}
       </view>
     </view>
-  </scroll-view>
+    <view wx:if="{{types.length > typeCollapseThreshold}}" class="type-toggle {{typeExpanded ? 'expanded' : ''}}" bindtap="onToggleType">
+      {{typeExpanded ? '收起' : '展开'}}
+    </view>
+  </view>
 
   <!-- 统计条 -->
   <view class="stats-bar">

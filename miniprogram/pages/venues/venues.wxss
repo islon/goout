@@ -33,13 +33,54 @@
   white-space: nowrap;
 }
 
-.type-filter {
-  margin-bottom: 20rpx;
-}
-
 .filter-list {
   display: inline-flex;
   padding-right: 24rpx;
+}
+
+/* 类型筛选：多行换行 + 折叠 */
+.type-filter-block {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20rpx;
+}
+
+.type-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.type-list .filter-chip {
+  margin-bottom: 12rpx;
+}
+
+/* 折叠态：仅显示第一行 */
+.type-list.collapsed {
+  max-height: 64rpx;
+  overflow: hidden;
+}
+
+.type-toggle {
+  align-self: flex-end;
+  display: inline-flex;
+  align-items: center;
+  margin-top: 4rpx;
+  font-size: 24rpx;
+  color: #A67B5B;
+  padding: 6rpx 4rpx;
+}
+
+.type-toggle::after {
+  content: '';
+  margin-left: 6rpx;
+  border-left: 8rpx solid transparent;
+  border-right: 8rpx solid transparent;
+  border-top: 10rpx solid #A67B5B;
+}
+
+.type-toggle.expanded::after {
+  border-top: none;
+  border-bottom: 10rpx solid #A67B5B;
 }
 
 .filter-chip {

@@ -34,18 +34,25 @@ function buildCityTabs(list) {
 var cityNameMap = buildCityNameMap(getRuntimeCities());
 
 const FILTER_STORAGE_KEY = 'goout_venue_filter_state';
-const FILTER_KEYS = ['cityFilter', 'typeFilter', 'searchQuery'];
+const FILTER_KEYS = ['cityFilter', 'districtFilter', 'typeFilter', 'searchQuery'];
+
+// 类型筛选超过该数量时，默认折叠成一行并出现「展开/收起」按钮
+const TYPE_COLLAPSE_THRESHOLD = 8;
 
 Page({
   data: {
     cityFilter: 'all',
+    districtFilter: 'all',
     typeFilter: 'all',
     searchQuery: '',
     cities: [],
+    districts: [],
     types: [],
     venues: [],
     activityCounts: {},
     cityNameMap: cityNameMap,
+    typeExpanded: false,
+    typeCollapseThreshold: TYPE_COLLAPSE_THRESHOLD,
     loading: true
   },
 
@@ -118,13 +125,20 @@ Page({
 
     const activityCounts = buildVenueActivityCounts(allVenues, allExhibitions);
 
-    this.setData({
+    // 选定“全部”城市时不再保留残留的区县筛选
+    const patch = {
       cities: cityTabs,
       cityNameMap: cityNameMap,
       types: types,
       activityCounts: activityCounts,
       loading: false
-    }, () => {
+    };
+    if (this.data.cityFilter === 'all' && this.data.districtFilter !== 'all') {
+      patch.districtFilter = 'all';
+    }
+
+    this.setData(patch, () => {
+      this.rebuildDistricts();
       this.applyFilters();
       // onDataUpdated 是一次性的，每次统计后重新登记自身，使场馆补齐/刷新后本页实时更新
       if (app && typeof app.onDataUpdated === 'function') {
@@ -137,11 +151,14 @@ Page({
   applyFilters() {
     const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
     const cityFilter = this.data.cityFilter;
+    const districtFilter = this.data.districtFilter;
     const typeFilter = this.data.typeFilter;
     const query = this.data.searchQuery.toLowerCase().trim();
 
     const filtered = allVenues.filter(v => {
       if (cityFilter !== 'all' && v.city !== cityFilter) return false;
+      // 区县筛选仅在选定具体城市时生效
+      if (cityFilter !== 'all' && districtFilter !== 'all' && v.district !== districtFilter) return false;
       if (typeFilter !== 'all' && v.type !== typeFilter) return false;
       if (query) {
         const name = (v.name || '').toLowerCase();
@@ -167,13 +184,46 @@ Page({
   },
 
   onCityTap(e) {
-    this.setData({ cityFilter: e.currentTarget.dataset.key }, () => this.applyFilters());
+    const key = e.currentTarget.dataset.key;
+    // 切换城市时重置区县筛选（区县仅在该城市内有意义）
+    this.setData({ cityFilter: key, districtFilter: 'all' }, () => {
+      this.rebuildDistricts();
+      this.applyFilters();
+    });
+    this.saveFilters();
+  },
+
+  // 根据当前选定城市，从场馆数据动态汇总实际存在的区县（不含空/“其他”）
+  rebuildDistricts() {
+    const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
+    const city = this.data.cityFilter;
+    if (city === 'all') {
+      this.setData({ districts: [] });
+      return;
+    }
+    const found = {};
+    for (let i = 0; i < allVenues.length; i++) {
+      const v = allVenues[i];
+      if (v.city !== city) continue;
+      const d = v.district;
+      if (d && d !== '其他') found[d] = true;
+    }
+    const districts = ['全部区县'].concat(Object.keys(found).sort());
+    this.setData({ districts: districts });
+  },
+
+  onDistrictTap(e) {
+    this.setData({ districtFilter: e.currentTarget.dataset.key }, () => this.applyFilters());
     this.saveFilters();
   },
 
   onTypeTap(e) {
     this.setData({ typeFilter: e.currentTarget.dataset.key }, () => this.applyFilters());
     this.saveFilters();
+  },
+
+  onToggleType() {
+    this.setData({ typeExpanded: !this.data.typeExpanded });
   },
 
   onSearchInput(e) {
