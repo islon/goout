@@ -47,7 +47,9 @@ Page({
     this.refreshFromGlobal();
   },
 
-  // 从 globalData 取数填充；若数据尚未就绪，注册更新回调等首次拉取后再刷新
+  // 从 globalData 取数填充；只要数据有更新（含分级加载 Tier1→Tier2→Tier3 各级到达）就重新统计，
+  // 避免停留在首屏 80 条子集不再刷新。onDataUpdated 是一次性回调（每次 notify 即清空），
+  // 故每次 render 后重新登记自身，确保后续每一级加载都能触达本页。
   refreshFromGlobal() {
     const app = getApp();
     const self = this;
@@ -65,15 +67,12 @@ Page({
       const ve = (app.globalData && app.globalData.venues) || [];
       const r = buildCityLists(ex, ve, getCityDefs());
       self.setData({ cities: r.cityList, subscribeLinks: r.links });
+      // 重新登记，等下一级加载完成（notifyDataUpdated）再次刷新计数
+      if (app.onDataUpdated) app.onDataUpdated(render);
     };
 
     render();
 
-    const exhibitions = (app.globalData && app.globalData.exhibitions) || [];
-    const venues = (app.globalData && app.globalData.venues) || [];
-    if ((!exhibitions.length || !venues.length) && app.onDataUpdated) {
-      app.onDataUpdated(render);
-    }
     // 云侧新增/减少城市时刷新订阅列表
     if (app.onCitiesUpdated) {
       app.onCitiesUpdated(render);
