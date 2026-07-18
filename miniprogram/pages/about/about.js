@@ -30,6 +30,7 @@ function buildCityLists(exhibitions, venues, cityDefs) {
     return {
       city: c.name,
       count: (actCount[c.key] || 0) + '条活动',
+      venues: (venCount[c.key] || 0) + '个场馆',
       url: 'webcal://islon.github.io/goout/output/exhibitions_' + c.key + '.ics'
     };
   });
@@ -107,9 +108,12 @@ Page({
     });
   },
 
-  onGoFeedback() {
-    wx.navigateTo({
-      url: '/pages/feedback/feedback'
+  onCopyGitHub() {
+    wx.setClipboardData({
+      data: 'https://github.com/islon/goout/issues',
+      success: function() {
+        wx.showToast({ title: 'GitHub 链接已复制', icon: 'success' });
+      }
     });
   },
 

@@ -240,73 +240,6 @@
   flex-shrink: 0;
 }
 
-/* 城市卡片 */
-.city-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16rpx;
-}
-
-.city-card {
-  background: #FFFFFF;
-  border-radius: 20rpx;
-  padding: 24rpx;
-  width: calc(50% - 8rpx);
-  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
-  box-sizing: border-box;
-}
-
-.city-name {
-  font-size: 32rpx;
-  font-weight: 700;
-  color: #292524;
-  margin-bottom: 8rpx;
-}
-
-.city-stats {
-  font-size: 22rpx;
-  color: #78716C;
-  margin-bottom: 8rpx;
-}
-
-.stat-divider {
-  margin: 0 6rpx;
-  color: #E7DFD3;
-}
-
-.city-status {
-  font-size: 20rpx;
-  font-weight: 600;
-}
-
-/* FAQ */
-.faq-list {
-  display: flex;
-  flex-direction: column;
-  gap: 16rpx;
-}
-
-.faq-item {
-  background: #FFFFFF;
-  border-radius: 16rpx;
-  padding: 24rpx;
-  border: 2rpx solid #F5F0E8;
-}
-
-.faq-q {
-  font-size: 26rpx;
-  font-weight: 600;
-  color: #292524;
-  margin-bottom: 8rpx;
-}
-
-.faq-a {
-  font-size: 24rpx;
-  color: #78716C;
-  line-height: 1.6;
-}
-
 /* 数据说明 */
 .data-info {
   background: #FFFFFF;
@@ -359,8 +292,26 @@
   color: #8C7E70;
 }
 
-.feedback-arrow {
-  font-size: 26rpx;
+/* 微信反馈按钮 */
+.feedback-wx-btn {
+  background: #07C160;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: 600;
+  border-radius: 16rpx;
+  margin: 0 0 16rpx;
+  padding: 0;
+  line-height: 88rpx;
+  height: 88rpx;
+  border: none;
+}
+
+.feedback-wx-btn::after {
+  border: none;
+}
+
+.feedback-action {
+  font-size: 24rpx;
   color: #D4A373;
   font-weight: 500;
   flex-shrink: 0;

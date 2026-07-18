@@ -65,7 +65,7 @@
       <view wx:for="{{subscribeLinks}}" wx:key="city" class="subscribe-item" bindtap="onCopyUrl" data-url="{{item.url}}">
         <view class="subscribe-left">
           <view class="subscribe-city">{{item.city}}</view>
-          <view class="subscribe-count">{{item.count}}</view>
+          <view class="subscribe-count">{{item.count}} · {{item.venues}}</view>
         </view>
         <view class="subscribe-action">
           <image class="action-icon" src="/assets/about-copy.png" mode="aspectFit"></image>
@@ -99,33 +99,6 @@
     </view>
   </view>
 
-  <!-- 城市覆盖 -->
-  <view class="section">
-    <view class="section-title">覆盖城市</view>
-    <view class="city-grid">
-      <view wx:for="{{cities}}" wx:key="name" class="city-card">
-        <view class="city-name">{{item.name}}</view>
-        <view class="city-stats">
-          <text class="stat">{{item.count}}</text>
-          <text class="stat-divider">·</text>
-          <text class="stat">{{item.venues}}</text>
-        </view>
-        <view class="city-status" style="color: {{item.color}};">{{item.status}}</view>
-      </view>
-    </view>
-  </view>
-
-  <!-- 常见问题 -->
-  <view class="section">
-    <view class="section-title">常见问题</view>
-    <view class="faq-list">
-      <view wx:for="{{faqs}}" wx:key="q" class="faq-item">
-        <view class="faq-q">Q: {{item.q}}</view>
-        <view class="faq-a">A: {{item.a}}</view>
-      </view>
-    </view>
-  </view>
-
   <!-- 数据说明 -->
   <view class="section">
     <view class="section-title">数据说明</view>
@@ -141,15 +114,16 @@
   <view class="section">
     <view class="section-title">意见反馈</view>
     <view class="subscribe-tip">
-      遇到活动信息错误、功能问题，或想补充场馆？欢迎告诉我们。
+      遇到活动信息错误、功能问题，或想补充场馆？欢迎通过以下渠道联系我们。
     </view>
-    <view class="feedback-card" bindtap="onGoFeedback">
-      <image class="feedback-icon" src="/assets/about-note.png" mode="aspectFit"></image>
+    <button class="feedback-wx-btn" open-type="feedback">微信反馈</button>
+    <view class="feedback-card" bindtap="onCopyGitHub">
+      <image class="feedback-icon" src="/assets/about-link.png" mode="aspectFit"></image>
       <view class="feedback-content">
-        <view class="feedback-title">提交反馈</view>
-        <view class="feedback-desc">数据报错、功能建议、场馆补充都可以说</view>
+        <view class="feedback-title">GitHub Issues</view>
+        <view class="feedback-desc">适合数据报错、功能建议，公开可追踪</view>
       </view>
-      <view class="feedback-arrow">→</view>
+      <view class="feedback-action">复制链接</view>
     </view>
   </view>
 
