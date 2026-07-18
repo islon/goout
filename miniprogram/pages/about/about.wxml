@@ -131,7 +131,7 @@
     <view class="section-title">数据说明</view>
     <view class="data-info">
       <view class="data-row">数据来源：各场馆官方渠道（官网、公众号）</view>
-      <view class="data-row">更新频率：每日自动抓取，并经官方核实</view>
+      <view class="data-row">更新频率：每日自动抓取，来自官方和网络，请注意核实</view>
       <view class="data-row">隐私说明：不收集个人信息</view>
       <view class="data-row">开源许可：MIT License</view>
     </view>
