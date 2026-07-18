@@ -44,7 +44,9 @@ Page({
     subscribeLinks: [],
     appVersion: '',       // 小程序版本号
     buildDate: '',        // 构建/发布日期
-    lastUpdateTime: ''    // 数据最后刷新时间（让用户了解数据实效性）
+    lastUpdateTime: '',   // 数据最后刷新时间（让用户了解数据实效性）
+    venuesCount: 0,       // 当前已加载场馆数
+    venuesExpected: ''    // 预期场馆数（来自 data_meta，取不到时按 2964 兜底）
   },
 
   onLoad() {
@@ -75,7 +77,9 @@ Page({
         subscribeLinks: r.links,
         appVersion: (app.globalData && app.globalData.appVersion) || '',
         buildDate: (app.globalData && app.globalData.buildDate) || '',
-        lastUpdateTime: (app.globalData && app.globalData.lastUpdateTime) || ''
+        lastUpdateTime: (app.globalData && app.globalData.lastUpdateTime) || '',
+        venuesCount: ve.length,
+        venuesExpected: ((app.globalData && app.globalData.dataMeta && app.globalData.dataMeta.venues) || 2964)
       });
       // 重新登记，等下一级加载完成（notifyDataUpdated）再次刷新计数
       if (app.onDataUpdated) app.onDataUpdated(render);

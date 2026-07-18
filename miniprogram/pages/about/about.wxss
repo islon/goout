@@ -354,3 +354,9 @@
   font-size: 20rpx;
   color: #A8C3A0;
 }
+
+.footer-venues {
+  margin-top: 4rpx;
+  font-size: 20rpx;
+  color: #C2BEB8;
+}
