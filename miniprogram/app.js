@@ -18,14 +18,13 @@ const { cities: bundledCities } = require('./data/filters.js');
 // 运行期生效的城市清单（模块级，驱动取数）：默认用打包兜底，成功拉取 cities.json 后覆盖
 var activeCities = bundledCities;
 
-// 缓存 key（v2：打包数据已扩为 10 城场馆，旧 v1 缓存需重新播种，故升版本号）
-const CACHE_KEY = 'goout_exhibitions_cache_v2';
-const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v2';
-const VENUE_CACHE_KEY = 'goout_venues_cache_v2';
-const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v2';
+// 缓存 key（v3：数据已净化移除合成条目、场馆库扩充至2964个，旧缓存需重新播种）
+const CACHE_KEY = 'goout_exhibitions_cache_v3';
+const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v3';
+const VENUE_CACHE_KEY = 'goout_venues_cache_v3';
+const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-// 日后有重要数据/结构变更需强制用户刷新时，手动 +1 即可（如 '2026.07.18.2'）。
-const APP_VERSION = '2026.07.18.1';
+const APP_VERSION = '2026.07.18.2';
 
 // 加时间戳，绕过 CDN 缓存
 function getFreshUrl(base) {
