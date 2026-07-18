@@ -27,6 +27,9 @@ jobs:
           cd scripts
           python main.py
 
+      - name: Purge auto_generated (数据真实性纵深防御)
+        run: python3 scripts/purge_auto_generated.py
+
       - name: Enrich districts (写入 district 字段)
         run: python3 scripts/enrich_districts.py
 
