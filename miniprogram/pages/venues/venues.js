@@ -57,6 +57,10 @@ Page({
     if (app && typeof app.onCitiesUpdated === 'function') {
       app.onCitiesUpdated(function() { self.loadData(); });
     }
+    // 场馆数据异步加载/补齐完成后刷新本页（避免打开时仍显示裁剪兜底数）
+    if (app && typeof app.onDataUpdated === 'function') {
+      app.onDataUpdated(function() { self.loadData(); });
+    }
   },
 
   onShow() {
@@ -122,6 +126,11 @@ Page({
       loading: false
     }, () => {
       this.applyFilters();
+      // onDataUpdated 是一次性的，每次统计后重新登记自身，使场馆补齐/刷新后本页实时更新
+      if (app && typeof app.onDataUpdated === 'function') {
+        const self = this;
+        app.onDataUpdated(function() { self.loadData(); });
+      }
     });
   },
 

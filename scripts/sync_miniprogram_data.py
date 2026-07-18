@@ -39,7 +39,7 @@ OUTPUT_DIR = os.path.join(PROJECT_ROOT, "output")
 MINIPROGRAM_DATA_DIR = os.path.join(PROJECT_ROOT, "miniprogram", "data")
 
 # 离线兜底最多打包的活动条数（控制 exhibitions.js 体积，保证主包 < 2MB）
-MAX_FALLBACK_ACTIVITIES = 800
+MAX_FALLBACK_ACTIVITIES = 600
 
 
 def load_json(path, name):
@@ -115,11 +115,16 @@ def sync_exhibitions(data):
 
 
 def sync_venues(data):
-    """从裁剪后的场馆列表生成 venues.js"""
+    """从裁剪后的场馆列表生成 venues.js（离线兜底·裁剪快照）
+
+    注意：线上场馆数据走「分城市文件」(output/venue_info_{city}.json) 实时并行拉取，
+    因此打包进小程序的兜底只需保留被离线活动引用到的场馆（控制主包体积 < 2MB）。
+    """
     out_path = os.path.join(MINIPROGRAM_DATA_DIR, "venues.js")
     header = (
         "// 童行小程序 - 场馆信息本地兜底（离线兜底·裁剪快照）\n"
         f"// 共 {len(data)} 条（来源：islon/goout/output/venue_info.json）\n"
+        "// 注：线上数据走 GitHub raw/jsDelivr 实时拉取（分城市文件），本文件仅断网兜底。\n"
         "module.exports = "
     )
     with open(out_path, "w", encoding="utf-8") as f:
@@ -145,7 +150,7 @@ def main():
     exhibitions_trimmed = trim_exhibitions(exhibitions)
     act_kb = sync_exhibitions(exhibitions_trimmed)
 
-    # 2. 场馆：全量加载 → 仅保留被打包活动引用到的 → 写文件
+    # 2. 场馆：全量加载 → 仅保留被打包活动引用到的 → 写文件（线上走分城市文件全量）
     print("\n[2/2] 同步场馆数据（仅保留关联场馆）...")
     venues = normalize_venues(load_json("venue_info.json", "venue_info.json"))
     venues_selected = select_venues_for(exhibitions_trimmed, venues)

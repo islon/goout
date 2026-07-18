@@ -45,6 +45,9 @@ jobs:
       - name: Generate per-city ICS subscription files
         run: python3 scripts/generate_city_ics.py
 
+      - name: Generate per-city venue files (小程序场馆指南分城市并行加载)
+        run: python3 scripts/generate_city_venues.py
+
       - name: Generate tiered activity snapshots (小程序三级优先加载)
         run: python3 scripts/generate_tiered.py
 
