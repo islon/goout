@@ -142,6 +142,119 @@
             transform: translateY(-1px);
         }
 
+        .miniapp-link {
+            padding: 6px 14px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            color: white;
+            border-radius: 20px;
+            font-size: 12px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s;
+            backdrop-filter: blur(10px);
+            cursor: pointer;
+        }
+
+        .miniapp-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+
+        .miniapp-modal-mask {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .miniapp-modal-mask.active {
+            display: flex;
+        }
+
+        .miniapp-modal {
+            background: var(--surface);
+            border-radius: 20px;
+            padding: 32px 28px 28px;
+            max-width: 340px;
+            width: 100%;
+            text-align: center;
+            box-shadow: var(--shadow-xl);
+            position: relative;
+        }
+
+        .miniapp-modal-close {
+            position: absolute;
+            top: 14px;
+            right: 16px;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            background: var(--sand-100);
+            color: var(--text-secondary);
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
+        }
+
+        .miniapp-modal-close:hover {
+            background: var(--sand-200);
+        }
+
+        .miniapp-modal h3 {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 4px;
+        }
+
+        .miniapp-modal-desc {
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-bottom: 20px;
+        }
+
+        .miniapp-qrcode {
+            width: 200px;
+            height: 200px;
+            margin: 0 auto 16px;
+            border-radius: 12px;
+            background: var(--sand-50);
+            border: 1px solid var(--border);
+            padding: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .miniapp-qrcode img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border-radius: 8px;
+        }
+
+        .miniapp-modal-tip {
+            font-size: 12px;
+            color: var(--text-muted);
+            line-height: 1.6;
+        }
+
+        .miniapp-modal-tip strong {
+            color: var(--sand-dark);
+        }
+
         .header h1 {
             font-size: 20px;
             font-weight: 700;
@@ -1082,8 +1195,11 @@
     <div class="header">
         <div class="header-top">
             <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
-            <a href="venue-guide.html" class="subscribe-link">🏛️ 场馆指南</a>
-            <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
+            <div>
+                <a href="venue-guide.html" class="subscribe-link">🏛️ 场馆指南</a>
+                <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
+                <span class="miniapp-link" onclick="showMiniappModal()">📱 小程序</span>
+            </div>
         </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
         <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div>
@@ -1802,7 +1918,7 @@
         async function ensureVenueInfoLoaded() {
             if (_venueInfoMap) return _venueInfoMap;
             try {
-                const resp = await fetch('output/venue_info.json');
+                const resp = await fetch('output/venue_info.json', { cache: 'no-cache' });
                 if (!resp.ok) return null;
                 const list = await resp.json();
                 _venueInfoList = list;
@@ -2516,9 +2632,9 @@
             }
         }
 
-        // 确保当前城市的区县/来源筛选按钮存在：缺失则从活动数据动态生成（新城市全自动）
-        // - 区县：所有城市都按数据补充缺失项（区县数量少、干净）
-        // - 来源：仅当该城市没有任何写死的来源按钮时才由数据生成（避免给已知城市追加上百个来源造成拥挤）
+        // 确保当前城市的区县/来源筛选按钮存在：缺失则从活动数据动态生成
+        // - 区县：所有城市都按数据补充缺失项
+        // - 来源：所有城市都按数据补充缺失的场馆按钮（已有写死按钮的保留，只补充新增的）
         // - 同时处理顶部筛选栏与侧边栏（移动端）两组容器
         function ensureCityFilters(city) {
             if (!allExhibitions || !allExhibitions.length) return;
@@ -2565,23 +2681,21 @@
 
                 const sBar = pair.sBar;
                 if (sBar) {
-                    const hardcoded = sBar.querySelectorAll('[data-source]:not([data-source="all"])[data-city="' + city + '"]').length;
-                    if (hardcoded === 0) {
-                        const existing = {};
-                        sBar.querySelectorAll('[data-source]:not([data-source="all"])').forEach(b => { existing[b.dataset.source + '|' + (b.dataset.city || '')] = true; });
-                        sources.forEach((info, s) => {
-                            if (!existing[s + '|' + city]) {
-                                const btn = document.createElement('button');
-                                btn.className = 'filter-btn';
-                                btn.setAttribute('data-source', s);
-                                btn.setAttribute('data-city', city);
-                                if (info.district && info.district !== '其他') btn.setAttribute('data-district', info.district);
-                                btn.textContent = info.label;
-                                bindSourceButton(btn);
-                                sBar.appendChild(btn);
-                            }
-                        });
-                    }
+                    // 所有城市都按数据补充缺失的场馆按钮（保留已有写死按钮，只补充新增的）
+                    const existing = {};
+                    sBar.querySelectorAll('[data-source]:not([data-source="all"])').forEach(b => { existing[b.dataset.source + '|' + (b.dataset.city || '')] = true; });
+                    sources.forEach((info, s) => {
+                        if (!existing[s + '|' + city]) {
+                            const btn = document.createElement('button');
+                            btn.className = 'filter-btn';
+                            btn.setAttribute('data-source', s);
+                            btn.setAttribute('data-city', city);
+                            if (info.district && info.district !== '其他') btn.setAttribute('data-district', info.district);
+                            btn.textContent = info.label;
+                            bindSourceButton(btn);
+                            sBar.appendChild(btn);
+                        }
+                    });
                 }
             });
 
@@ -2845,6 +2959,36 @@
             loadExhibitions();
             loadVenueInfo();
         });
+
+        // 小程序弹窗
+        function showMiniappModal() {
+            document.getElementById('miniapp-modal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function hideMiniappModal() {
+            document.getElementById('miniapp-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') hideMiniappModal();
+        });
     </script>
+
+    <div class="miniapp-modal-mask" id="miniapp-modal" onclick="hideMiniappModal()">
+        <div class="miniapp-modal" onclick="event.stopPropagation()">
+            <button class="miniapp-modal-close" onclick="hideMiniappModal()">×</button>
+            <h3>📱 童行小程序</h3>
+            <p class="miniapp-modal-desc">微信扫码，打开小程序</p>
+            <div class="miniapp-qrcode">
+                <img src="miniapp-qrcode.png" alt="童行小程序码" onerror="this.parentElement.innerHTML='<div style=&quot;font-size:14px;color:#A8A29E;padding:40px 0;&quot;>小程序码加载中...</div>'">
+            </div>
+            <div class="miniapp-modal-tip">
+                <strong>微信「扫一扫」</strong>上方小程序码<br>
+                或在微信中搜索「童行亲子日历」
+            </div>
+        </div>
+    </div>
 </body>
 </html>

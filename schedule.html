@@ -1020,7 +1020,7 @@
         async function loadScheduleVenueInfo() {
             if (scheduleVenueInfo) return scheduleVenueInfo;
             try {
-                const resp = await fetch('output/venue_info.json');
+                const resp = await fetch('output/venue_info.json', { cache: 'no-cache' });
                 if (!resp.ok) return null;
                 const list = await resp.json();
                 scheduleVenueInfo = {};
@@ -1039,7 +1039,7 @@
             listContainer.style.display = 'block';
             errorContainer.style.display = 'none';
             
-            fetch(`output/exhibitions_${currentCity}.json`)
+            fetch(`output/exhibitions_${currentCity}.json`, { cache: 'no-cache' })
                 .then(response => response.json())
                 .then(exhibitions => {
                     listContainer.innerHTML = '';

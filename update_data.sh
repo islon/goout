@@ -7,7 +7,7 @@
 #                 → miniprogram/data/*.js（小程序离线打包兜底，由本脚本同步）
 #   一条命令，网页版 & 小程序同时更新
 
-cd /workspace/goout 2>/dev/null || cd "$(dirname "$0")"
+cd "$(dirname "$0")"
 
 echo "=== 开始自动更新童行数据 ==="
 echo "时间: $(date)"
@@ -32,6 +32,15 @@ if python3 -c "import json; json.load(open('output/exhibitions.json'))" 2>/dev/n
         echo "⚠️  同步脚本不存在，跳过小程序数据"
     fi
 
+    # 3.1 动态生成小程序筛选器映射表（从 venue_info.json 自动生成）
+    #     城市列表(cities)保持手动维护，其余映射全部自动生成
+    if [ -f "scripts/generate_filters.py" ]; then
+        echo ""
+        python3 scripts/generate_filters.py
+    else
+        echo "⚠️  筛选器生成脚本不存在，跳过"
+    fi
+
     # 3.5 生成各城市 ICS 订阅文件
     if [ -f "scripts/generate_city_ics.py" ]; then
         echo ""
@@ -47,7 +56,7 @@ if python3 -c "import json; json.load(open('output/exhibitions.json'))" 2>/dev/n
     #    注意：网页版只读 output/exhibitions_{城市}.json 分城市文件，必须整体提交 output/，
     #    否则只提交主文件会导致网页刷新不到最新数据
     git add output/
-    git add miniprogram/data/exhibitions.js miniprogram/data/venues.js 2>/dev/null || true
+    git add miniprogram/data/exhibitions.js miniprogram/data/venues.js miniprogram/data/filters.js 2>/dev/null || true
     git commit -m "chore: 自动更新活动数据 & 同步小程序兜底 $(date '+%Y-%m-%d %H:%M')"
     git push
     echo "✅ 已推送到 GitHub（网页版 + 小程序）"

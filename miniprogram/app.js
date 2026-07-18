@@ -443,6 +443,7 @@ App({
         citiesChanged = !sameCityKeys(self.globalData.cities, arr);
         self.globalData.cities = arr;
         if (citiesChanged) {
+          resetCityMaps(); // 清除 normalizeCity 缓存，用新城市列表重建映射（新增城市用中文名筛选也能命中）
           console.log('[童行] 城市清单已更新，共', arr.length, '城');
           self.notifyCitiesUpdated();
         }
@@ -774,6 +775,7 @@ App({
     fetchCities().then(function(arr) {
       if (arr && !sameCityKeys(self.globalData.cities, arr)) {
         self.globalData.cities = arr;
+        resetCityMaps(); // 强制刷新时同样清除 normalizeCity 缓存
         self.notifyCitiesUpdated();
         console.log('[童行] 城市清单已更新，共', arr.length, '城');
       }

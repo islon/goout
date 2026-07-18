@@ -313,7 +313,12 @@
                 { key: 'guangzhou', name: '广州' },
                 { key: 'shanghai', name: '上海' },
                 { key: 'beijing', name: '北京' },
-                { key: 'hangzhou', name: '杭州' }
+                { key: 'hangzhou', name: '杭州' },
+                { key: 'chengdu', name: '成都' },
+                { key: 'chongqing', name: '重庆' },
+                { key: 'nanjing', name: '南京' },
+                { key: 'wuhan', name: '武汉' },
+                { key: 'xian', name: '西安' }
             ];
             try {
                 const resp = await fetch('output/cities.json', { cache: 'no-cache' });
@@ -332,7 +337,7 @@
 
         async function loadData() {
             try {
-                const resp = await fetch('output/venue_info.json');
+                const resp = await fetch('output/venue_info.json', { cache: 'no-cache' });
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
                 venueList = await resp.json();
                 venueList.forEach(v => { v._district = v.district || extractDistrict(v.address); });

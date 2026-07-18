@@ -1,19 +1,37 @@
 // 童行小程序 - 工具函数
 const { districtMapping, sourceToVenue, sourceChineseToDistrict, districtKeywords, districtsByCity } = require('../data/filters.js');
 
+// 城市映射缓存：从 globalData.cities 动态构建，支持中文名/英文key/拼音缩写互转
+var _cityKeyMap = null;
+var _cityNameMap = null;
+
+function buildCityMaps() {
+  var app = getApp();
+  var cities = (app && app.globalData && app.globalData.cities) || [];
+  _cityKeyMap = {};
+  _cityNameMap = {};
+  for (var i = 0; i < cities.length; i++) {
+    var c = cities[i];
+    var key = c.key;
+    var name = c.name;
+    _cityKeyMap[key] = key;
+    _cityKeyMap[name] = key;
+    _cityKeyMap[name.toLowerCase()] = key;
+    _cityNameMap[key] = name;
+  }
+}
+
 function normalizeCity(city) {
   if (!city) return 'shenzhen';
-  const c = city.toLowerCase().trim();
-  if (c === '深圳' || c === 'sz' || c === 'shenzhen') return 'shenzhen';
-  if (c === '广州' || c === 'gz' || c === 'guangzhou') return 'guangzhou';
-  if (c === '上海' || c === 'sh' || c === 'shanghai') return 'shanghai';
-  if (c === '北京' || c === 'bj' || c === 'beijing') return 'beijing';
-  if (c === '杭州' || c === 'hz' || c === 'hangzhou') return 'hangzhou';
-  if (c === '成都' || c === 'cd' || c === 'chengdu') return 'chengdu';
-  if (c === '南京' || c === 'nj' || c === 'nanjing') return 'nanjing';
-  if (c === '武汉' || c === 'wh' || c === 'wuhan') return 'wuhan';
-  if (c === '西安' || c === 'xa' || c === 'xian') return 'xian';
-  if (c === '重庆' || c === 'cq' || c === 'chongqing') return 'chongqing';
+  var c = String(city).toLowerCase().trim();
+  // 动态映射：从 globalData.cities 构建
+  if (!_cityKeyMap) buildCityMaps();
+  if (_cityKeyMap) {
+    // 精确匹配（中文原名、英文key、小写）
+    if (_cityKeyMap[c]) return _cityKeyMap[c];
+    if (_cityKeyMap[city]) return _cityKeyMap[city];
+  }
+  // 兜底：如果输入本身就是某个城市的 key（英文），直接返回
   return c;
 }
 
@@ -357,8 +375,15 @@ function buildVenueActivityCounts(venues, exhibitions) {
   return counts;
 }
 
+// 城市列表更新后调用，清除缓存让 normalizeCity 重建映射
+function resetCityMaps() {
+  _cityKeyMap = null;
+  _cityNameMap = null;
+}
+
 module.exports = {
   normalizeCity,
+  resetCityMaps,
   getDistrict,
   getPresentDistricts,
   matchSource,
