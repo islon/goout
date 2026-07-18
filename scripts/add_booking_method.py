@@ -54,20 +54,19 @@ def match_booking(activity, config):
 
     return booking
 
-def main():
-    config = load_config()
+def process_file(path, config, city_fallback=None, verbose=False):
+    """给单个 exhibitions 文件的每条活动加 booking_method，返回 (total, matched)。
 
-    with open(EXHIBITIONS_FILE, 'r', encoding='utf-8') as f:
+    city_fallback: 分城市文件里若某条活动缺 city 字段，用文件名推断的城市兜底。
+    """
+    with open(path, 'r', encoding='utf-8') as f:
         data = json.load(f)
-
-    print(f'加载活动: {len(data)} 条')
-    print(f'城市配置: {len(config["cities"])} 个城市')
-    print('-' * 60)
 
     matched_count = 0
     unmatched_cities = []
-
     for activity in data:
+        if city_fallback and not activity.get('city'):
+            activity['city'] = city_fallback
         booking = match_booking(activity, config)
         if booking:
             activity['booking_method'] = booking
@@ -75,41 +74,40 @@ def main():
         else:
             unmatched_cities.append(activity.get('city', 'unknown'))
 
-    print(f'匹配成功: {matched_count}/{len(data)} ({matched_count/len(data)*100:.1f}%)')
-
-    if unmatched_cities:
-        from collections import Counter
-        print(f'未匹配城市分布: {dict(Counter(unmatched_cities))}')
-
-    # 各城市匹配数
-    from collections import Counter
-    city_match = Counter()
-    for a in data:
-        if a.get('booking_method'):
-            city_match[a.get('city', '')] += 1
-    print()
-    print('各城市匹配数:')
-    for c, n in city_match.most_common():
-        print(f'  {c}: {n}')
-
-    # venue_type 分布
-    venue_type_match = Counter()
-    for a in data:
-        bm = a.get('booking_method', {})
-        vt = bm.get('matched_venue_type', '(无关键词)')
-        venue_type_match[vt] += 1
-    print()
-    print('venue类型分布:')
-    for v, n in venue_type_match.most_common():
-        print(f'  {v}: {n}')
-
-    # 写回
-    with open(EXHIBITIONS_FILE, 'w', encoding='utf-8') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print()
-    print(f'已写入: {EXHIBITIONS_FILE}')
-    print(f'文件大小: {EXHIBITIONS_FILE.stat().st_size / 1024:.1f} KB')
+    if verbose and unmatched_cities:
+        from collections import Counter
+        print(f'  未匹配城市分布: {dict(Counter(unmatched_cities))}')
+    return len(data), matched_count
+
+
+def main():
+    config = load_config()
+    print(f'城市配置: {len(config["cities"])} 个城市')
+    print('=' * 60)
+
+    # 1) 主文件
+    total, matched = process_file(EXHIBITIONS_FILE, config, verbose=True)
+    print(f'[主文件] exhibitions.json: {matched}/{total} '
+          f'({matched/total*100:.1f}%) 已写入 booking_method')
+
+    # 2) 所有分城市文件（小程序/网页运行时实际读取的就是它们）
+    print('-' * 60)
+    output_dir = PROJECT_ROOT / 'output'
+    city_files = sorted(output_dir.glob('exhibitions_*.json'))
+    grand_total, grand_matched = total, matched
+    for cf in city_files:
+        city = cf.stem.replace('exhibitions_', '')
+        t, m = process_file(cf, config, city_fallback=city)
+        grand_total += t
+        grand_matched += m
+        print(f'[分文件] {cf.name}: {m}/{t} ({m/t*100:.1f}%)')
+
+    print('=' * 60)
+    print(f'合计写入 booking_method: {grand_matched}/{grand_total} '
+          f'({grand_matched/grand_total*100:.1f}%)')
 
 if __name__ == '__main__':
     main()

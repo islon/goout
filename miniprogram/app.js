@@ -24,7 +24,7 @@ const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v3';
 const VENUE_CACHE_KEY = 'goout_venues_cache_v3';
 const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.18.2';
+const APP_VERSION = '2026.07.18.3';
 
 // 加时间戳，绕过 CDN 缓存
 function getFreshUrl(base) {
