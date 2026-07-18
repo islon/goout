@@ -1805,5 +1805,57 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "百老汇儿童剧《原始人大冒险》",
+    "venue": "光明区玉塘文体中心",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-19",
+    "link": "https://m.sohu.com/a/1037850628_122892870/",
+    "description": "百老汇风格儿童剧，带领小朋友穿越原始时代开启冒险。演出时间：15:30。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gmwhg"
+  },
+  {
+    "title": "科普绘本剧《肚子里的火车站》",
+    "venue": "光明区茅洲河体育艺术中心剧场",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "link": "https://m.sohu.com/a/1037850628_122892870/",
+    "description": "根据德国经典科普绘本改编，让孩子了解消化系统的奥秘，趣味科学舞台。演出时间：15:30。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gmwhg"
+  },
+  {
+    "title": "国风儿童剧《少年诗词游之李白》",
+    "venue": "光明区茅洲河体育艺术中心剧场",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-12",
+    "link": "https://m.sohu.com/a/1037850628_122892870/",
+    "description": "诗词大会式的国风儿童剧，带孩子走进诗仙李白的世界，寓教于乐。演出时间：15:30。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gmwhg"
+  },
+  {
+    "title": "陈萨钢琴音乐会《自然之诗》",
+    "venue": "光明区光明文化艺术中心演艺中心大剧场",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "http://m.toutiao.com/group/7659324778305684020/",
+    "description": "唯一包揽三大国际钢琴赛事大奖的中国钢琴家陈萨，携手宁一古筝与国家大剧院管弦乐团室内乐团强强联合，演绎德沃夏克与常安作品。演出时间：20:00。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gmwhg"
   }
 ]
