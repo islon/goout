@@ -33,14 +33,20 @@ jobs:
       - name: Enrich districts (写入 district 字段)
         run: python3 scripts/enrich_districts.py
 
+      - name: Add booking_method (报名入口，避免重抓后丢失)
+        run: python3 scripts/add_booking_method.py
+
+      - name: Verify activities against official sources (官方核实，替代人工核实)
+        run: python3 scripts/verify_activities.py
+
       - name: Sync mini-program fallback data
         run: python3 scripts/sync_miniprogram_data.py
 
       - name: Generate per-city ICS subscription files
         run: python3 scripts/generate_city_ics.py
 
-      - name: Generate recent activities snapshot (小程序首屏优先加载)
-        run: python3 scripts/generate_recent.py
+      - name: Generate tiered activity snapshots (小程序三级优先加载)
+        run: python3 scripts/generate_tiered.py
 
       - name: Set up Node
         uses: actions/setup-node@v4

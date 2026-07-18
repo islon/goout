@@ -22,7 +22,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -47,7 +56,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -72,7 +90,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳改革开放史展览",
@@ -97,7 +124,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -122,7 +158,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -147,7 +192,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳民俗文化展",
@@ -172,7 +226,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "世界野生动物标本展",
@@ -197,7 +260,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -222,7 +294,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -247,7 +328,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年光明区群众文艺团队培育提升系列活动",
@@ -272,7 +362,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
@@ -297,7 +396,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
@@ -322,7 +430,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "来处与归途：三燕百年",
@@ -347,7 +464,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -372,7 +498,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -397,7 +532,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -422,7 +566,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026光明街道迳口社区笔墨光影-迳口古村书法摄影展",
@@ -447,7 +600,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "社区"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "国宝萌友展",
@@ -471,7 +633,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -496,7 +667,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区文化馆吉华街道中海怡翠社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -521,7 +701,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）",
@@ -546,7 +735,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "公明街道 “活力专场  舞动青春”文化活动暨文化馆总分馆联动活动",
@@ -571,7 +769,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆六约北社区服务点饶常明速写展（一）",
@@ -596,7 +803,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"山水风景水彩画巡展",
@@ -621,7 +837,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "笔墨颂党恩・奋进新征程 —— 庆祝建党 105 周年主题书画展",
@@ -646,7 +871,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "公明街道“军鼓与戏曲的邂逅，邀您同行，共赴艺术盛宴”",
@@ -671,7 +905,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展",
@@ -696,7 +939,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展",
@@ -721,7 +973,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年龙岗区“艺术微展厅”吉华街道分馆摄影展览——城市棱镜",
@@ -746,7 +1007,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展",
@@ -771,7 +1041,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你 共赏龙城”街景速写巡展",
@@ -796,7 +1075,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
@@ -821,7 +1109,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -846,7 +1143,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -870,7 +1176,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "一平米实验室",
@@ -894,7 +1209,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -919,7 +1243,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -944,7 +1277,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -969,7 +1311,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -994,7 +1345,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -1018,7 +1378,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -1043,7 +1412,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -1068,7 +1446,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "红星闪闪耀童心——线上答题活动",
@@ -1093,7 +1480,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": null,
+      "source_type": "wechat",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -1118,7 +1514,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": null,
+      "source_type": "wechat",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
@@ -1143,7 +1548,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "气球王国——比利时国宝漫画百年庆典",
@@ -1168,7 +1582,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "美术馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "media",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -1193,7 +1616,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": null,
+      "source_type": "wechat",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -1218,7 +1650,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -1243,7 +1684,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -1268,7 +1718,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "小奶牛故事绘",
@@ -1293,7 +1752,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -1318,7 +1786,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -1343,7 +1820,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
@@ -1368,7 +1854,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -1393,7 +1888,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -1418,7 +1922,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": null,
+      "source_type": "wechat",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
@@ -1443,7 +1956,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年坪地街道分馆“艺术微展厅”巡展——高桥社区服务点“童心造境·彩绘青春”创意绘画作品展",
@@ -1468,7 +1990,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "新桥街道“文化春雨行动”新桥新梦公益课堂.",
@@ -1493,7 +2024,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "小太阳i阅读故事会",
@@ -1518,7 +2058,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -1543,7 +2092,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -1568,7 +2126,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": null,
+      "source_type": "wechat",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿国际象棋公益班",
@@ -1593,7 +2160,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -1618,7 +2194,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -1643,7 +2228,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展",
@@ -1668,7 +2262,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "成人古典舞公益班",
@@ -1693,7 +2296,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -1718,7 +2330,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -1743,7 +2364,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -1767,7 +2397,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -1792,7 +2431,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
@@ -1816,7 +2464,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
@@ -1840,7 +2497,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -1865,7 +2531,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿民族打击乐A班（面向7-9岁少年招募）",
@@ -1890,7 +2565,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -1915,7 +2599,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "成人零基础芭蕾形体（10节课程，自备舞蹈练功服）",
@@ -1940,7 +2633,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "读剧公益班",
@@ -1965,7 +2667,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -1990,7 +2701,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -2015,7 +2735,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
@@ -2040,7 +2769,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "南山图书馆暑期亲子故事会",
@@ -2065,7 +2803,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "成人书法（6节课程，需自备材料）",
@@ -2090,7 +2837,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
@@ -2115,7 +2871,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿声乐（3节课程）",
@@ -2140,7 +2905,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "朗诵艺术公益班",
@@ -2165,7 +2939,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -2190,7 +2973,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -2215,7 +3007,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "科技馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -2239,7 +3040,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -2264,7 +3074,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -2289,7 +3108,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -2314,7 +3142,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -2338,7 +3175,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -2362,7 +3208,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 403,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -2386,7 +3241,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "桃源街道综合性文化服务中心暑期活动",
@@ -2411,7 +3275,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -2436,7 +3309,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
@@ -2460,7 +3342,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -2485,7 +3376,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -2510,7 +3410,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -2535,7 +3444,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -2560,7 +3478,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -2585,7 +3512,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -2610,7 +3546,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "福田区图书馆暑期电影放映",
@@ -2635,7 +3580,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
@@ -2660,7 +3614,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -2684,7 +3647,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -2708,7 +3680,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆杨美社区服务点7月“童心奇境”儿童绘画作品展",
@@ -2733,7 +3714,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -2758,7 +3748,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -2783,7 +3782,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -2808,7 +3816,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -2833,7 +3850,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "中国科幻史里程碑展",
@@ -2857,7 +3883,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -2882,7 +3917,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -2906,7 +3950,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 403,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -2931,7 +3984,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -2956,7 +4018,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
@@ -2981,7 +4052,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -3006,7 +4086,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "科技馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -3031,7 +4120,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -3056,7 +4154,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳市体育中心暑期运动营",
@@ -3080,7 +4187,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
@@ -3105,7 +4221,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -3130,7 +4255,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -3154,7 +4288,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展",
@@ -3179,7 +4322,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第二十七届深圳国际医疗旅游展览会",
@@ -3203,7 +4355,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -3228,7 +4389,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "象棋课",
@@ -3252,7 +4422,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美术素描班",
@@ -3276,7 +4455,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "硬笔书法",
@@ -3300,7 +4488,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿篮球提高班",
@@ -3324,7 +4521,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美术启智班",
@@ -3348,7 +4554,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "主持暑假特色课",
@@ -3372,7 +4587,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "软笔书法",
@@ -3396,7 +4620,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿钢琴",
@@ -3420,7 +4653,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美术启蒙班",
@@ -3444,7 +4686,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿街舞",
@@ -3468,7 +4719,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "少儿篮球基础班",
@@ -3492,7 +4752,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美术创想班",
@@ -3516,7 +4785,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "主持考级",
@@ -3540,7 +4818,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -3564,7 +4851,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
@@ -3588,7 +4884,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -3613,7 +4918,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年光明街道亲子美术公益课堂",
@@ -3638,7 +4952,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "园岭街道全民阅动系列活动——双语绘本《Say Cheese》",
@@ -3663,7 +4986,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——潮彩拾光・匠造美好",
@@ -3688,7 +5020,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“无米也有粿，巧手暖心房”--江岭社区慢飞工作室潮汕美食制作工作坊",
@@ -3713,7 +5054,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "社区"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "合家欢剧场第十期《熊猫计划之部落奇遇记》",
@@ -3738,7 +5088,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“舞韵芳华，童绽国风”舞蹈美育活动",
@@ -3763,7 +5122,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "抢票 | 声声载初心，礼赞新征程，2026“爱的有声礼”公益朗诵会启幕",
@@ -3788,7 +5156,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动",
@@ -3813,7 +5190,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "社区"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "领展中心城暑期趣味赛事｜随地大小赛欢乐开启！夏日解压玩法全解锁",
@@ -3837,7 +5223,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026“星光大浪”青年歌手大赛--周赛",
@@ -3862,7 +5257,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第85场",
@@ -3887,7 +5291,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "绘本半小时：《阿圆的家》",
@@ -3912,7 +5325,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第638场",
@@ -3937,7 +5359,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第86场",
@@ -3962,7 +5393,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "律师公益咨询活动",
@@ -3987,7 +5427,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第150期：“感知四季”自然主题读书会",
@@ -4012,7 +5461,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "艺术疗愈工作坊第4期：边界与共生——在关系中建立健康自我",
@@ -4037,7 +5495,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第639场",
@@ -4062,7 +5529,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "海上花",
@@ -4087,7 +5563,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第87场",
@@ -4112,7 +5597,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "百姓健康讲堂|​八段锦养身，中医护安康",
@@ -4137,7 +5631,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
@@ -4162,7 +5665,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "跟名师读名著系列丨《古灵精怪动物园》",
@@ -4187,7 +5699,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -4212,7 +5733,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "博物馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -4237,7 +5767,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "北京舞蹈学院原创舞剧《灼灼韶华》",
@@ -4262,7 +5801,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "media",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“以舞润心，传承经典”舞蹈美育活动",
@@ -4287,7 +5835,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“夏日如歌”音乐会—— 万物自有节奏",
@@ -4311,7 +5868,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026 不止于攀登·深圳珠峰登顶者分享会",
@@ -4336,7 +5902,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第88场",
@@ -4361,7 +5936,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "家长课堂：读懂孩子行为背后的“无声语言”",
@@ -4386,7 +5970,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第640场",
@@ -4411,7 +6004,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -4436,7 +6038,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -4461,7 +6072,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第89场",
@@ -4486,7 +6106,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "她影：《女人世界》",
@@ -4511,7 +6140,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "苏格拉底思辨荟第二季第1期：从“虚拟陪伴”到“物理在场”：当机器人走进家门",
@@ -4536,7 +6174,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“走进何宇鹏的拓绘世界”——拓绘艺术分享与现场体验活动",
@@ -4561,7 +6208,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "寻找智美更登",
@@ -4586,7 +6242,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第641场",
@@ -4611,7 +6276,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第90场",
@@ -4636,7 +6310,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“深读”读书沙龙 | AI时代，普通人如何让自己被看见？ ——打造属于你的个人IP",
@@ -4661,7 +6344,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "法律咨询",
@@ -4686,7 +6378,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "践书+|《认知驱动》",
@@ -4711,7 +6412,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "科普小讲堂丨高楼不倒的秘密",
@@ -4736,7 +6446,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "抢票 | 大湾鸡驾到，“鸡” 不可失！《萌动奇迹》门票开抢，手慢无～",
@@ -4761,7 +6480,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年光明街道白花社区杨梅荔枝汤水手工绘画活动",
@@ -4786,7 +6514,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "社区"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年光明街道白花社区墨韵白花·诗写少年”硬笔书法比赛主题活动",
@@ -4811,7 +6548,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "社区"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -4836,7 +6582,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
@@ -4861,7 +6616,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "《自媒体时代，如何打造爆款、打通内容营销》",
@@ -4886,7 +6650,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -4911,7 +6684,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -4936,7 +6718,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "成人汉唐舞（4节课程，自备舞蹈练功服）",
@@ -4961,7 +6752,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "文化馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——吉华街道专场",
@@ -4986,7 +6786,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "视障儿童夏令营南科大校园科普实验",
@@ -5011,7 +6820,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -5036,7 +6854,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -5061,7 +6888,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场",
@@ -5086,7 +6922,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -5111,7 +6956,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -5136,7 +6990,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦答阅经典",
@@ -5161,7 +7024,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦答阅经典",
@@ -5186,7 +7058,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -5211,7 +7092,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -5236,7 +7126,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "国学小讲堂丨大暑，跟着狐狸读七月岁时",
@@ -5261,7 +7160,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "寻找智美更登",
@@ -5286,7 +7194,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "东方幻境之旅：《照明商店》",
@@ -5311,7 +7228,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -5336,7 +7262,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《卑鄙的我》",
@@ -5361,7 +7296,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -5386,7 +7330,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -5411,7 +7364,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "读剧：中华少儿经典故事",
@@ -5436,7 +7398,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "心理咨询",
@@ -5461,7 +7432,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第十五届深圳动漫节",
@@ -5485,7 +7465,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展",
@@ -5509,7 +7498,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季）",
@@ -5533,7 +7531,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "国防科普博览会暨军迷嘉年华",
@@ -5557,7 +7564,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "绘本半小时：《阿兔的小瓷碗》",
@@ -5582,7 +7598,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第642场",
@@ -5607,7 +7632,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "律师公益咨询活动",
@@ -5632,7 +7666,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "原版BOOK快乐读：乐于助人的Bella",
@@ -5657,7 +7700,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "胭脂扣",
@@ -5682,7 +7734,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第643场",
@@ -5707,7 +7768,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第151期：“不一样，也很好”创意主题读书会",
@@ -5732,7 +7802,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“圳作一夏”主题系列活动 |  企业实地参访之斯达高瓷艺",
@@ -5757,7 +7836,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -5782,7 +7870,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
@@ -5807,7 +7904,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026粤港澳大湾区（深圳）婚博会（夏季）",
@@ -5831,7 +7937,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第二十四届中外艺术精品演出季 舒曼尼科夫《天鹅湖》主题音乐会",
@@ -5856,7 +7971,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -5881,7 +8005,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "巫婆读书会 | 追逐候鸟的人：在旷野与书页间重拾好奇",
@@ -5906,7 +8039,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第644场",
@@ -5931,7 +8073,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -5956,7 +8107,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "她影：《七月与安生》",
@@ -5981,7 +8141,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第152期：“夏天的故事”陈伯吹获奖图书读书会",
@@ -6006,7 +8175,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "像鸡毛一样飞",
@@ -6031,7 +8209,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "书海探底——智慧书库参观体验活动第645场",
@@ -6056,7 +8243,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“深读”读书沙龙 | 在文学中疗愈和成长自己",
@@ -6081,7 +8277,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美丽星期天——民乐鉴赏",
@@ -6106,7 +8311,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -6131,7 +8345,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6156,7 +8379,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -6181,7 +8413,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2025年桃源公益形体培训活动",
@@ -6206,7 +8447,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -6231,7 +8481,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6256,7 +8515,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -6281,7 +8549,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -6306,7 +8583,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6331,7 +8617,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -6356,7 +8651,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "胭脂扣",
@@ -6381,7 +8685,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "东方幻境之旅：《侍神令》",
@@ -6406,7 +8719,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -6431,7 +8753,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "艺术疗愈人生",
@@ -6456,7 +8787,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《哪吒之魔童闹海》",
@@ -6481,7 +8821,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -6506,7 +8855,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6531,7 +8889,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -6556,7 +8923,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
@@ -6581,7 +8957,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦讲：奇境世界变形记",
@@ -6606,7 +8991,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
@@ -6630,7 +9024,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -6655,7 +9058,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《沙丘》",
@@ -6680,7 +9092,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦讲：《爱丽丝漫游奇境》创意读写",
@@ -6705,7 +9126,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
@@ -6730,7 +9160,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美丽星期天——合唱音乐会",
@@ -6755,7 +9194,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（一）",
@@ -6780,7 +9228,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6805,7 +9262,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "KACE 2026 AI赋能跨境电商与海外达人合作展览会",
@@ -6829,7 +9295,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（二）",
@@ -6854,7 +9329,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6879,7 +9363,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -6904,7 +9397,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（三）",
@@ -6929,7 +9431,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -6954,7 +9465,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -6979,7 +9499,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "马安堂社区暑期夏令营--“财富流沙盘推演”儿童财商启导与生涯规划体验",
@@ -7004,7 +9533,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（四）",
@@ -7029,7 +9567,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《明日战纪》",
@@ -7054,7 +9601,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -7079,7 +9635,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《龙猫》",
@@ -7104,7 +9669,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《妈妈咪鸭》",
@@ -7129,7 +9703,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026（秋）深圳国际家居软装博览会",
@@ -7153,7 +9736,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -7178,7 +9770,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "悦读《骑鹅旅行记》",
@@ -7203,7 +9804,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦读《骑鹅旅行记》",
@@ -7228,7 +9838,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "绘本半小时：《世界上最懒的国王》",
@@ -7253,7 +9872,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第153期：“神奇魔法”想象力主题图书会",
@@ -7278,7 +9906,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -7303,7 +9940,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "鼻涕虫教授的昆虫秀",
@@ -7328,7 +9974,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -7353,7 +10008,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《明日之战》",
@@ -7378,7 +10042,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -7403,7 +10076,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "艺术中心"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "美丽星期天——钢琴独奏会",
@@ -7428,7 +10110,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第一天）",
@@ -7453,7 +10144,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "马安堂社区暑期夏令营--小记者议事团培育活动",
@@ -7478,7 +10178,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第二天）",
@@ -7503,7 +10212,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第三天）",
@@ -7528,7 +10246,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第四天）",
@@ -7553,7 +10280,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《愤怒的小鸟大电影》",
@@ -7578,7 +10314,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《星际宝贝》",
@@ -7603,7 +10348,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第五十五届深圳家装节",
@@ -7627,7 +10381,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "IWF2026深圳国际健身展暨运动用品外贸出口与跨境选品展",
@@ -7651,7 +10414,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第二十届 SIAS 深圳国际音频展",
@@ -7675,7 +10447,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "马安堂社区荷美书社公益读书会",
@@ -7700,7 +10481,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦讲：一场走遍瑞典的成长旅行",
@@ -7725,7 +10515,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第154期：“勇敢做自己”入学准备主题图书会",
@@ -7750,7 +10549,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "26|27赛季HYROX健身跑深圳站",
@@ -7774,7 +10582,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -7799,7 +10616,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "少年宫"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "马安堂社区幸福陪伴·父母成长公益课堂",
@@ -7824,7 +10650,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "街道"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -7849,7 +10684,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《月球陨落》",
@@ -7874,7 +10718,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦讲：藏在山河里的童话与生命寓言",
@@ -7899,7 +10752,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -7924,7 +10786,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "悦创手工课：骑鹅旅行记（一）",
@@ -7949,7 +10820,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦创手工课：骑鹅旅行记（二）",
@@ -7974,7 +10854,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦创手工课：骑鹅旅行记（三）",
@@ -7999,7 +10888,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "悦创手工课：骑鹅旅行记（四）",
@@ -8024,7 +10922,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《流浪地球》",
@@ -8049,7 +10956,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《萤火奇兵》",
@@ -8074,7 +10990,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《星际宝贝2》",
@@ -8099,7 +11024,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "原版BOOK快乐读：拼图里的大发现",
@@ -8124,7 +11058,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
@@ -8149,7 +11092,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
@@ -8173,7 +11125,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -8198,7 +11159,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《流浪地球2》",
@@ -8223,7 +11193,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "故事小讲堂第156期：“泥巴会唱歌”陈伯吹获奖图书读书会",
@@ -8248,7 +11227,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -8273,7 +11261,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "第八届精密陶瓷产业链展览会",
@@ -8297,7 +11294,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际新能源连接器及线束加工技术展览会",
@@ -8321,7 +11327,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第5届国际文创新品及潮玩（深圳）展览会",
@@ -8345,7 +11360,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第14届国际IP授权产业(深圳)博览会",
@@ -8369,7 +11393,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "AGIC 2026深圳国际通用人工智能大会暨深圳国际通用人工智能产业博览会",
@@ -8393,7 +11426,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "IOTE®2026 第二十五届国际物联网展•深圳站",
@@ -8417,7 +11459,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "IOTE®2026国际物联网展·智能传感器与嵌入式展",
@@ -8441,7 +11492,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "IOTE®2026国际物联网展·通信定位展",
@@ -8465,7 +11525,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "IOTE®2026国际物联网展·RFID自动识别展",
@@ -8489,7 +11558,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "PCIM Asia Shenzhen — 深圳国际电力元件、可再生能源管理展览会暨研讨会",
@@ -8513,7 +11591,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "SETE深圳国际储能技术展览会",
@@ -8537,7 +11624,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "ARE第18届深圳国际工业自动化及机器人展览会",
@@ -8561,7 +11657,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "ICH第18届深圳国际连接器、线缆线束及加工设备展览会",
@@ -8585,7 +11690,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第十届深圳国际智能装备产业博览会<br/>第十三届深圳国际电子装备产业博览会",
@@ -8609,7 +11723,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳国际3D打印、增材制造及精密成型展览会",
@@ -8633,7 +11756,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《蜘蛛侠》",
@@ -8658,7 +11790,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《黑猫警长之翡翠之星》",
@@ -8683,7 +11824,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "观影《借物少女艾莉缇》",
@@ -8708,7 +11858,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
@@ -8732,7 +11891,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "绘本半小时：《阿兔的小瓷碗》",
@@ -8757,7 +11925,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳法律服务博览会（2026）",
@@ -8781,7 +11958,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -8806,7 +11992,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "夏日科幻季——《星际探索》",
@@ -8831,7 +12026,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -8856,7 +12060,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "音乐厅"
-    }
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
   },
   {
     "title": "第七届CHWE出海网全球跨境电商展（深圳）",
@@ -8880,7 +12093,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳国际消费类电子及家用电器展（秋季）",
@@ -8904,7 +12126,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际珠宝展",
@@ -8928,7 +12159,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "elexcon 2026 第23届深圳国际电子展暨嵌入式展",
@@ -8952,7 +12192,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026 IICIE国际集成电路创新博览会（简称：IC创新博览会）",
@@ -8976,7 +12225,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第二十七届中国国际光电博览会（简称：CIOE中国光博会）",
@@ -9000,7 +12258,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳华夏家博会秋季展",
@@ -9024,7 +12291,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026国际数字能源展",
@@ -9048,7 +12324,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "CPHI &amp; PMEC制药工业展（深圳）(CPHI &amp; PMEC Shenzhen)",
@@ -9072,7 +12357,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026第四届深圳eVTOL产业发展大会暨低空经济展览会（简称：深圳eVTOL展）",
@@ -9096,7 +12390,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026年深圳跨境电商展览会（CCBEC）",
@@ -9120,7 +12423,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳国际成人健康保健用品展览会",
@@ -9144,7 +12456,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -9169,7 +12490,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第十六届深圳国际宠物用品展览会暨全球宠业跨境电商交易会",
@@ -9193,7 +12523,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第五十六届深圳家装节",
@@ -9217,7 +12556,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "WESEMIBAY湾区半导体产业生态博览会（深圳）",
@@ -9241,7 +12589,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026华南国际粉末冶金与先进陶瓷展览会",
@@ -9265,7 +12622,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "华南3D打印、增材制造展览会",
@@ -9289,7 +12655,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第18届深圳国际移动电子展",
@@ -9313,7 +12688,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第34届中国（深圳）国际礼品及家居用品展览会",
@@ -9337,7 +12721,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026亚洲具身机器人应用及供应链展",
@@ -9361,7 +12754,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026智能工厂及自动化技术展览会",
@@ -9385,7 +12787,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳商用显示技术展",
@@ -9409,7 +12820,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际全触与显示展",
@@ -9433,7 +12853,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际薄膜与胶带展",
@@ -9457,7 +12886,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际胶粘剂及化工原料展",
@@ -9481,7 +12919,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第十届国际新材料新工艺及色彩(简称CMF)展览会",
@@ -9505,7 +12952,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际AI+AR智能眼镜产业展",
@@ -9529,7 +12985,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际智能网联汽车产业展览会",
@@ -9553,7 +13018,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "深圳国际半导体及电子元器件展览会暨深圳国际未来电子产业展览会",
@@ -9577,7 +13051,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "中国（深圳）机器视觉展暨机器视觉技术及工业应用研讨会",
@@ -9601,7 +13084,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026亚洲电子生产设备暨微电子工业展览会",
@@ -9625,7 +13117,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026电子半导体产业创新发展大会暨国际电子电路（大湾区）展览会",
@@ -9649,7 +13150,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "ICBE 2026深圳国际跨境电商交易博览会",
@@ -9673,7 +13183,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026全球品牌创新峰会",
@@ -9697,7 +13216,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026第九届深圳国际充换电、光储充、储能、氢能展暨电池技术展览会",
@@ -9721,7 +13249,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第二十八届中国国际高新技术成果交易会",
@@ -9745,7 +13282,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "第六届疗愈博览会（深圳）",
@@ -9769,7 +13315,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -9794,7 +13349,16 @@
       "platform_url": null,
       "city": "深圳",
       "matched_venue_type": "图书馆"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026第二十届中国（深圳）国际物流与供应链博览会",
@@ -9818,7 +13382,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026国际电子电路（深圳）展览会",
@@ -9842,7 +13415,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026华南国际标签与包装印刷展览会",
@@ -9866,7 +13448,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "DMP大湾区工业博览会",
@@ -9890,7 +13481,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "核能高质量发展大会暨深圳国际核能产业创新博览会",
@@ -9914,7 +13514,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际心血管病技术展览会",
@@ -9938,7 +13547,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "SDHE 深圳国际口腔医学高新技术博览会",
@@ -9962,7 +13580,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际健康产业博览会",
@@ -9986,7 +13613,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际家庭医疗健康用品展览会",
@@ -10010,7 +13646,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际养老产业及康复博览会",
@@ -10034,7 +13679,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际医疗器械展览会",
@@ -10058,7 +13712,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026中国(深圳)国际秋季茶产业博览会",
@@ -10082,7 +13745,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026第15届深圳生态农业暨食材、营养与健康产业博览会",
@@ -10106,7 +13778,16 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "2026深圳国际珠宝玉石首饰展暨大湾区时尚珠宝消费季",
@@ -10130,6 +13811,15 @@
       "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
       "platform_url": null,
       "city": "深圳"
-    }
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
   }
 ]

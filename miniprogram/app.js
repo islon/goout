@@ -32,7 +32,7 @@ const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v3';
 const VENUE_CACHE_KEY = 'goout_venues_cache_v3';
 const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.18.6';
+const APP_VERSION = '2026.07.18.7';
 
 // 带重试的 wx.request 封装：GitHub raw 在中国大陆常被拦截/超时，
 // 这里做指数退避重试（默认 3 次，间隔 0.7s / 1.4s / 2.1s），显著提升首屏拉取成功率。
@@ -164,7 +164,7 @@ function fetchCityArray(key) {
   });
 }
 
-// 拉取「近期活动」小文件（首屏优先，单请求、体积小）；被墙/非数组时返回 null
+// 拉取「近期活动」小文件（首屏优先·Tier1：离当前时间最近、即将举办的活动），单请求、体积小
 function fetchRecent() {
   return fetchJsonFromSources('output/exhibitions_recent.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
     if (!res) {
@@ -175,6 +175,16 @@ function fetchRecent() {
     if (arr && arr.length > 0) return arr;
     console.warn('[童行] 近期活动文件为空', res.statusCode);
     return null;
+  });
+}
+
+// 拉取「历史活动」小文件（Tier3：已结束的活动），优先级最低、最后再拉取，不挤占首屏带宽。
+// 历史活动可能为空（都还是未来活动），此时返回 null，不影响“已完整加载”判定。
+function fetchPast() {
+  return fetchJsonFromSources('output/exhibitions_past.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+    if (!res) return null;
+    var arr = toArray(res.data);
+    return (arr && arr.length > 0) ? arr : null;
   });
 }
 
@@ -366,36 +376,90 @@ App({
     return true;
   },
 
+  // ========== 三级分级加载（按时间紧迫度，优先级从高到低）==========
+  // Tier1 近期活动(exhibitions_recent.json) → Tier2 全量分城市文件 → Tier3 历史活动(exhibitions_past.json)
+  // 用户最关心「最近有什么可去的」，所以最先出近期；历史活动优先级最低，最后再填。
+  // 三级累积合并、去重；isPartial 在全量(Tier2)到达后转 false（历史仅收尾，不影响置灰判定）。
   silentUpdateExhibitions() {
+    this.loadStagedData(false);
+  },
+
+  // staged 加载；onDone(ok) 在最后一级完成后回调（ok=是否拿到全量当前活动）
+  loadStagedData(force, onDone) {
     var self = this;
-    // 1) 先拉「近期活动」小文件（约 800 条、单请求），秒出首屏
+    self._staged = { recent: null, full: null, past: null };
+
+    // Tier1：近期活动（首屏最优先，离当前时间最近、即将举办）
     fetchRecent().then(function(recent) {
       if (recent && recent.length) {
-        self.applyExhibitions(recent, true);
-        console.log('[童行] 近期活动已加载（首屏），共', recent.length, '条');
+        self._staged.recent = recent;
+        self.flushStaged(true);
+        console.log('[童行] Tier1 近期活动已加载（首屏），共', recent.length, '条');
         self.notifyDataUpdated();
       }
-      // 2) 后台静默拉取全量分城市文件；拉到后刷新为完整数据（不影响首屏已渲染）
-      fetchAllExhibitions().then(function(merged) {
-        if (self.applyExhibitions(merged, false)) {
-          console.log('[童行] 活动数据已更新至最新，共', merged.length, '条');
-          self.notifyDataUpdated();
-        } else {
-          console.warn('[童行] 远程全量活动数据暂不可用，8s 后自动重试补全');
-          // 自愈：瞬时被墙/抖动时，稍后重试一次全量（不重复拉近期），避免长期卡在近期子集
-          setTimeout(function() { self.retryFullExhibitions(); }, 8000);
-        }
-      });
+      // Tier2：后续剩余活动（全量分城市文件，后台并行拉取补全）
+      return fetchAllExhibitions();
+    }).then(function(merged) {
+      if (merged && merged.length) {
+        self._staged.full = merged;
+        self.flushStaged(false); // 全量当前活动已到 → 视为完整（历史仅收尾）
+        console.log('[童行] Tier2 全量活动已加载，共', merged.length, '条');
+        self.notifyDataUpdated();
+      }
+      // Tier3：历史活动（已结束），最后再拉，不挤占首屏带宽
+      return fetchPast();
+    }).then(function(past) {
+      if (past && past.length) {
+        self._staged.past = past;
+        self.flushStaged(false);
+        console.log('[童行] Tier3 历史活动已加载，共', past.length, '条');
+      }
+      self.notifyDataUpdated();
+      if (onDone) onDone(!!self._staged.full);
+      // 自愈：若全量(后续活动)未取到，稍后重试（近期已保证首屏可用）
+      if (!self._staged.full) {
+        console.warn('[童行] 全量活动暂不可用，8s 后自动重试补全');
+        setTimeout(function() { self.retryFullExhibitions(); }, 8000);
+      }
+    }).catch(function() {
+      if (onDone) onDone(!!self._staged.full);
+      if (!self._staged.full) self.retryFullExhibitions();
     });
   },
 
-  // 仅重试全量分城市文件（用于 silentUpdateExhibitions 自愈）
+  // 累积合并三级数据并写入：full 为全集（已含 Tier1 子集）优先；recent 仅在 full 未到时补充；
+  // past 最后补。按 (city|name|start_date) 去重，避免 Tier1 与 Tier2 重叠导致重复渲染。
+  flushStaged(isPartial) {
+    var s = this._staged || {};
+    if (!s.recent && !s.full && !s.past) return;
+    var seen = {};
+    var order = [];
+    function add(arr) {
+      if (!arr) return;
+      arr.forEach(function(x) {
+        var k = (x.city || '') + '|' + (x.name || x.title || '') + '|' + (x.start_date || '');
+        if (!seen[k]) { seen[k] = true; order.push(x); }
+      });
+    }
+    add(s.full);    // 全集优先（含近期子集）
+    add(s.recent);  // 仅当 full 未加载时补充近期
+    add(s.past);    // 历史最后补
+    if (order.length) this.applyExhibitions(order, isPartial);
+  },
+
+  // 仅重试 Tier2 全量 + Tier3 历史（用于自愈）
   retryFullExhibitions() {
     var self = this;
     fetchAllExhibitions().then(function(merged) {
-      if (self.applyExhibitions(merged, false)) {
-        console.log('[童行] 全量重试成功，活动已补全，共', merged.length, '条');
-        self.notifyDataUpdated();
+      if (merged && merged.length) {
+        self._staged = self._staged || {};
+        self._staged.full = merged;
+        fetchPast().then(function(past) {
+          if (past && past.length) self._staged.past = past;
+          self.flushStaged(false);
+          console.log('[童行] 全量重试成功，活动已补全，共', merged.length, '条');
+          self.notifyDataUpdated();
+        });
       } else {
         console.warn('[童行] 全量重试仍不可用，保持近期/缓存数据');
       }
@@ -430,18 +494,10 @@ App({
         self.notifyCitiesUpdated();
         console.log('[童行] 城市清单已更新，共', arr.length, '城');
       }
-      // 先秒出近期活动首屏
-      fetchRecent().then(function(recent) {
-        if (recent && recent.length) {
-          self.applyExhibitions(recent, true);
-          self.notifyDataUpdated();
-        }
-        // 再拉全量分城市文件
-        fetchAllExhibitions().then(function(merged) {
-          var ok = self.applyExhibitions(merged, false);
-          if (ok) console.log('[童行] 强制刷新完成，共', merged.length, '条');
-          if (callback) callback(ok);
-        });
+      // 三级分级拉取：近期 → 全量 → 历史；完成后回调成功与否
+      self.loadStagedData(true, function(ok) {
+        if (ok) console.log('[童行] 强制刷新完成');
+        if (callback) callback(ok);
       });
     });
 

@@ -29,3 +29,5 @@ Thumbs.db
 
 # ===== 一次性采集脚本与中间产物（不进 CI，纯历史遗留，移出跟踪以减仓库体积）=====
 output/raw/
+# 官方核实脚本生成的死链明细（调试用，每次运行都会变，不进库）
+output/verification_dead_links.txt

@@ -57,6 +57,22 @@
   color: #9D174D;
 }
 
+/* 官方核实徽标 */
+.badge-verify-ok {
+  background: #DCFCE7;
+  color: #15803D;
+}
+
+.badge-verify-warn {
+  background: #FEF3C7;
+  color: #B45309;
+}
+
+.badge-verify-gray {
+  background: #F1F1F0;
+  color: #78716C;
+}
+
 /* 信息卡片 */
 .info-card {
   background: #FFFFFF;

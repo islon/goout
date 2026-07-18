@@ -58,6 +58,18 @@ Page({
         ? venue.address
         : (venueAddressMap[activity.source] || '');
 
+      // 官方核实徽标：auto_checked/verified=true → 已核实；suspicious → 链接待核实；其余 → 待核实
+      const vState = activity.verification && activity.verification.status;
+      let verifiedLabel = '待核实';
+      let verifiedClass = 'gray';
+      if (activity.verified === true || vState === 'auto_checked') {
+        verifiedLabel = '官方已核实';
+        verifiedClass = 'ok';
+      } else if (vState === 'suspicious') {
+        verifiedLabel = '链接待核实';
+        verifiedClass = 'warn';
+      }
+
       self.setData({
         activity: activity,
         activityType: activityType,
@@ -70,7 +82,9 @@ Page({
         bookingApp: activity.booking_method ? activity.booking_method.app_name : '',
         bookingHint: activity.booking_method ? (activity.booking_method.search_hint || '') : '',
         venue: venue,
-        hasVenue: !!venue
+        hasVenue: !!venue,
+        verifiedLabel: verifiedLabel,
+        verifiedClass: verifiedClass
       });
 
       wx.setNavigationBarTitle({ title: activity.name || '活动详情' });

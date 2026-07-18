@@ -9,6 +9,7 @@
       <text wx:if="{{feeType === 'free'}}" class="badge badge-free">免费</text>
       <text wx:if="{{feeType === 'paid'}}" class="badge badge-paid">收费</text>
       <text wx:if="{{activity.family_friendly === true && activityType !== '亲子活动'}}" class="badge badge-family">适合亲子</text>
+      <text class="badge badge-verify badge-verify-{{verifiedClass}}">{{verifiedLabel}}</text>
     </view>
   </view>
 
