@@ -389,59 +389,38 @@
   margin-bottom: 28rpx;
 }
 
-/* 信息卡：统一展示 版本 / 更新 / 场馆状态，取代原先三行零散文字 */
-.footer-card {
-  max-width: 560rpx;
-  margin: 0 auto;
-  background: #FFFFFF;
-  border: 2rpx solid #F0E9DF;
-  border-radius: 18rpx;
-  padding: 4rpx 28rpx;
-  text-align: left;
-  box-shadow: 0 2rpx 10rpx rgba(212, 163, 115, 0.05);
+/* 信息区：置于图标上方，精简展示 版本/更新/场馆 */
+.footer-meta {
+  text-align: center;
+  margin-bottom: 28rpx;
 }
 
-.footer-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 18rpx 0;
-  border-bottom: 2rpx solid #F7F2EA;
-}
-
-.footer-row:last-child {
-  border-bottom: none;
-}
-
-.footer-key {
-  font-size: 24rpx;
+.meta-line {
+  display: block;
+  font-size: 22rpx;
   color: #A8A29E;
-  flex-shrink: 0;
+  line-height: 1.9;
 }
 
-.footer-val {
-  font-size: 24rpx;
-  color: #57534E;
-  text-align: right;
-  display: flex;
-  align-items: center;
-  gap: 12rpx;
-}
-
-.footer-badge {
+.meta-badge {
   font-size: 20rpx;
-  padding: 4rpx 14rpx;
-  border-radius: 20rpx;
+  padding: 2rpx 12rpx;
+  border-radius: 16rpx;
+  margin-left: 8rpx;
   font-weight: 600;
-  flex-shrink: 0;
 }
 
-.footer-badge.ok {
+.meta-badge.ok {
   background: #E7F6EC;
   color: #166534;
 }
 
-.footer-badge.pending {
+.meta-badge.pending {
   background: #FEF3C7;
   color: #B45309;
+}
+
+.meta-badge.partial {
+  background: #F0EDE8;
+  color: #78716C;
 }

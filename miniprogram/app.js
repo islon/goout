@@ -859,6 +859,10 @@ App({
     try { callback(this.globalData.isLoading); } catch (e) {}
   },
 
+  offLoadingChange(callback) {
+    this.loadingCallbacks = this.loadingCallbacks.filter(function(cb) { return cb !== callback; });
+  },
+
   _setLoading(v) {
     v = !!v;
     if (this.globalData.isLoading === v) return;

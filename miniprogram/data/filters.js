@@ -3,47 +3,19 @@
 // 城市列表(cities)手动维护，其余映射表自动生成
 
 // 城市列表（手动维护，新增城市需确认）
+// 城市列表（手动维护，新增城市需确认）。population 为常住人口(万人，2023 年近似)，
+// 用于在订阅页等列表按人口/GDP 降序展示，人口多的城市排在前面。
 const cities = [
-  {
-    key: 'beijing',
-    name: '北京'
-  },
-  {
-    key: 'shanghai',
-    name: '上海'
-  },
-  {
-    key: 'guangzhou',
-    name: '广州'
-  },
-  {
-    key: 'shenzhen',
-    name: '深圳'
-  },
-  {
-    key: 'hangzhou',
-    name: '杭州'
-  },
-  {
-    key: 'chengdu',
-    name: '成都'
-  },
-  {
-    key: 'chongqing',
-    name: '重庆'
-  },
-  {
-    key: 'nanjing',
-    name: '南京'
-  },
-  {
-    key: 'wuhan',
-    name: '武汉'
-  },
-  {
-    key: 'xian',
-    name: '西安'
-  }
+  { key: 'chongqing', name: '重庆', population: 3213 },
+  { key: 'shanghai', name: '上海', population: 2487 },
+  { key: 'beijing', name: '北京', population: 2186 },
+  { key: 'chengdu', name: '成都', population: 2126 },
+  { key: 'guangzhou', name: '广州', population: 1873 },
+  { key: 'shenzhen', name: '深圳', population: 1756 },
+  { key: 'wuhan', name: '武汉', population: 1374 },
+  { key: 'xian', name: '西安', population: 1316 },
+  { key: 'hangzhou', name: '杭州', population: 1237 },
+  { key: 'nanjing', name: '南京', population: 942 }
 ];
 
 // 时间筛选
