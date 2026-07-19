@@ -84,6 +84,7 @@ class Venue(BaseModel):
     latitude: Optional[float] = None
     longitude: Optional[float] = None
     highlights: Optional[List[str]] = None
+    links: Optional[List[dict]] = None  # 核验链接 [{url, label}]
     created_at: str
     updated_at: str
 

@@ -132,9 +132,64 @@
   line-height: 1.7;
 }
 
-/* 链接按钮 */
+/* 链接区域 */
 .link-section {
   margin-bottom: 20rpx;
+}
+
+.link-title {
+  font-size: 28rpx;
+  font-weight: 700;
+  color: #292524;
+  margin-bottom: 16rpx;
+}
+
+.link-card {
+  display: flex;
+  flex-direction: column;
+  padding: 20rpx;
+  margin-bottom: 12rpx;
+  background: #FAFAF8;
+  border-radius: 12rpx;
+  border: 1rpx solid #F0ECE5;
+}
+
+.link-label {
+  font-size: 24rpx;
+  color: #D4A373;
+  font-weight: 600;
+  margin-bottom: 8rpx;
+}
+
+.link-url {
+  font-size: 22rpx;
+  color: #78716C;
+  word-break: break-all;
+  line-height: 1.5;
+  margin-bottom: 12rpx;
+}
+
+.link-copy-btn {
+  align-self: flex-start;
+  padding: 8rpx 24rpx;
+  font-size: 22rpx;
+  color: #D4A373;
+  background: #FFF8F0;
+  border: 1rpx solid #E8D5BC;
+  border-radius: 8rpx;
+  line-height: 1.4;
+}
+
+.link-copy-btn::after {
+  border: none;
+}
+
+.link-hint {
+  text-align: center;
+  font-size: 22rpx;
+  color: #A8A29E;
+  margin-top: 8rpx;
+  line-height: 1.5;
 }
 
 .link-actions {
@@ -156,14 +211,6 @@
 
 .link-btn::after {
   border: none;
-}
-
-/* 原始链接按钮（次要，浅色边框样式） */
-.link-btn-origin {
-  background: #FFFFFF;
-  color: #D4A373;
-  border: 2rpx solid #D4A373;
-  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.1);
 }
 
 /* 报名入口按钮（主要，渐变色突出） */

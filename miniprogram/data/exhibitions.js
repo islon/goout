@@ -9,8 +9,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2025-12-30",
     "end_date": "2026-09-30",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "山西宋金壁画艺术展览，展现古代壁画中的众生百态。",
     "category": "展览",
     "fee": "免费",
@@ -34,7 +32,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -43,8 +47,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳博物馆藏铜器常设展，展出商周至明清铜器精品。同心路馆10号展厅。",
     "category": "展览",
     "fee": "免费需预约",
@@ -68,7 +70,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -77,8 +85,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳博物馆藏陶瓷常设展，涵盖新石器时代到明清各时期陶瓷。同心路馆11号展厅。",
     "category": "展览",
     "fee": "免费需预约",
@@ -102,7 +108,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳改革开放史展览",
@@ -111,8 +123,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳改革开放主题常设展，展示深圳从边陲小镇到国际化大都市的发展历程。",
     "category": "展览",
     "fee": "免费需预约",
@@ -136,7 +146,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -145,8 +161,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳古代历史常设展，展示深圳7000年人类活动史和1700年城市史。",
     "category": "展览",
     "fee": "免费需预约",
@@ -170,7 +184,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -179,8 +199,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳近代历史常设展，展示深圳从鸦片战争到解放战争时期的历史。",
     "category": "展览",
     "fee": "免费需预约",
@@ -204,7 +222,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳民俗文化展",
@@ -213,8 +237,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳民俗文化常设展，展示广府、客家、海洋等多元民俗文化。",
     "category": "展览",
     "fee": "免费需预约",
@@ -238,7 +260,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "世界野生动物标本展",
@@ -247,8 +275,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "深圳博物馆世界野生动物标本常设展，展出非洲、美洲、澳洲等地的珍稀动物标本，亲子友好。",
     "category": "展览",
     "fee": "免费需预约",
@@ -272,7 +298,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -281,8 +313,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-02-07",
     "end_date": "2026-08-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "中国古代瓷器艺术精品展览。",
     "category": "展览",
     "fee": "免费",
@@ -306,7 +336,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -315,8 +351,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-02-13",
     "end_date": "2026-10-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "大唐历史文化主题展览，展现盛唐风貌。",
     "category": "展览",
     "fee": "免费",
@@ -340,7 +374,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明区群众文艺团队培育提升系列活动",
@@ -349,8 +389,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-03-13",
     "end_date": "2027-03-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2",
     "description": "培训，深圳市光明区文化广电旅游体育局，在光明区文化馆举办",
     "category": "亲子活动",
     "fee": "免费",
@@ -374,7 +412,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
@@ -383,8 +427,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-03-27",
     "end_date": "2026-12-25",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5",
     "description": "演出，光明区公共文化艺术和体育中心（区文化馆），在光明区文化馆举办",
     "category": "演出",
     "fee": "免费",
@@ -408,7 +450,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
@@ -417,8 +465,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-04-22",
     "end_date": "2026-12-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fb99268cc44c4f2ebda74282dd8be798",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fb99268cc44c4f2ebda74282dd8be798",
     "description": "综合，光明区马田街道办事处，在光明区马田街道综合性文化服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -442,7 +488,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fb99268cc44c4f2ebda74282dd8be798",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "来处与归途：三燕百年",
@@ -451,8 +503,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-05-18",
     "end_date": "2026-07-26",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "三燕历史文化特展，深圳博物馆金田路馆。",
     "category": "展览",
     "fee": "免费需预约",
@@ -476,7 +526,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -485,8 +541,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-05-18",
     "end_date": "2026-07-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "唐三彩马主题特展，深圳博物馆同心路馆。",
     "category": "展览",
     "fee": "免费需预约",
@@ -510,7 +564,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -519,8 +579,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-06-12",
     "end_date": "2026-10-07",
-    "link": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
-    "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
     "description": "精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。展期至10月7日，免费免预约。定点讲解：每个开馆日10:50。",
     "category": "展览",
     "fee": "免费",
@@ -544,7 +602,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -553,8 +617,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-06-12",
     "end_date": "2026-10-07",
-    "link": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
-    "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
     "description": "精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。",
     "category": "展览",
     "fee": "免费",
@@ -578,7 +640,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026光明街道迳口社区笔墨光影-迳口古村书法摄影展",
@@ -587,8 +655,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-06-18",
     "end_date": "2026-12-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=215c7cf11b9643fcb76756036a947c7f",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=215c7cf11b9643fcb76756036a947c7f",
     "description": "展览，光明区公共文化艺术和体育中心，在迳口社区综合性文化服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -612,7 +678,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=215c7cf11b9643fcb76756036a947c7f",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国宝萌友展",
@@ -621,8 +693,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-06-20",
     "end_date": "2026-10-08",
-    "link": "https://www.szstm.org.cn",
-    "url": "https://www.szstm.org.cn",
     "description": "沉浸式体验+活体昆虫互动展，亲子友好。光明新馆特展。",
     "category": "展览",
     "fee": "免费需预约",
@@ -645,7 +715,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -654,8 +730,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f",
     "description": "展览，龙岗区文化馆总馆，在吉华街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -679,7 +753,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区文化馆吉华街道中海怡翠社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -688,8 +768,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a",
     "description": "展览，龙岗区文化馆总馆，在吉华街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -713,7 +791,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）",
@@ -722,8 +806,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -747,7 +829,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "公明街道 “活力专场  舞动青春”文化活动暨文化馆总分馆联动活动",
@@ -756,8 +844,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c",
     "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
     "category": "亲子活动",
     "fee": "免费",
@@ -781,7 +867,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆六约北社区服务点饶常明速写展（一）",
@@ -790,8 +882,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2",
     "description": "展览，龙岗区文化馆，在横岗街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -815,7 +905,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"山水风景水彩画巡展",
@@ -824,8 +920,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1",
     "description": "展览，龙岗区文化馆总馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -849,7 +943,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "笔墨颂党恩・奋进新征程 —— 庆祝建党 105 周年主题书画展",
@@ -858,8 +958,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=86641289ad9d4156a674a065ab533496",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=86641289ad9d4156a674a065ab533496",
     "description": "展览，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -883,7 +981,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=86641289ad9d4156a674a065ab533496",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "公明街道“军鼓与戏曲的邂逅，邀您同行，共赴艺术盛宴”",
@@ -892,8 +996,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6",
     "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
     "category": "演出",
     "fee": "免费",
@@ -917,7 +1019,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展",
@@ -926,8 +1034,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -951,7 +1057,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展",
@@ -960,8 +1072,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956",
     "description": "展览，龙岗区文化馆，在吉华街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -985,7 +1095,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年龙岗区“艺术微展厅”吉华街道分馆摄影展览——城市棱镜",
@@ -994,8 +1110,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7",
     "description": "展览，龙岗区文化馆总馆，在吉华街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -1019,7 +1133,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展",
@@ -1028,8 +1148,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -1053,7 +1171,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你 共赏龙城”街景速写巡展",
@@ -1062,8 +1186,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -1087,7 +1209,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
@@ -1096,8 +1224,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e",
     "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -1121,7 +1247,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -1130,8 +1262,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
     "description": "金田路馆与同心路馆延时开放至21:00（20:30停止入场），改革开放展览馆10:00-21:00。逢周一闭馆。",
     "category": "展览",
     "fee": "免费需预约",
@@ -1155,7 +1285,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -1164,8 +1300,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-12-31",
-    "link": "https://www.szstm.org.cn",
-    "url": "https://www.szstm.org.cn",
     "description": "宇宙探索主题科普展，含航天器模型、太空体验区。光明新馆常设展。",
     "category": "科普活动",
     "fee": "免费需预约",
@@ -1188,7 +1322,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "一平米实验室",
@@ -1197,8 +1337,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-12-31",
-    "link": "https://www.szstm.org.cn",
-    "url": "https://www.szstm.org.cn",
     "description": "小型科学实验互动展，适合儿童动手探索。光明新馆互动区。",
     "category": "科普活动",
     "fee": "免费需预约",
@@ -1221,7 +1359,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -1230,8 +1374,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn",
-    "url": "https://www.szlib.org.cn",
     "description": "暑期公益培训课、AI训练营、经典故事奇遇之旅、走读深圳、少儿阅经典等系列活动。详见深圳图书馆官网活动日历。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1255,7 +1397,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -1264,8 +1412,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.lgmuseum.cn",
-    "url": "https://www.lgmuseum.cn",
     "description": "龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。",
     "category": "展览",
     "fee": "免费",
@@ -1289,7 +1435,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.lgmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -1298,8 +1450,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szclib.org.cn",
-    "url": "https://www.szclib.org.cn",
     "description": "深圳少年儿童图书馆暑期系列活动，包含绘本故事会、科普讲座、手工制作等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1323,7 +1473,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szclib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -1332,8 +1488,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "http://www.szcp.com",
-    "url": "http://www.szcp.com",
     "description": "深圳市少年宫暑期科普活动，包含科技展览、科学实验、机器人体验等。免费参观。",
     "category": "科普活动",
     "fee": "免费",
@@ -1357,7 +1511,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://www.szcp.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -1366,8 +1526,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szstm.org.cn",
-    "url": "https://www.szstm.org.cn",
     "description": "深圳科学技术馆暑期科普活动，包含常设展厅参观、科学实验室、互动体验等。免费需预约。",
     "category": "科普活动",
     "fee": "免费需预约",
@@ -1390,7 +1548,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -1399,8 +1563,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.shenzhenconcerthall.com",
-    "url": "https://www.shenzhenconcerthall.com",
     "description": "深圳音乐厅暑期音乐季，包含美丽星期天系列公益音乐会、交响乐、室内乐、民乐等演出。详见官网排期。",
     "category": "演出",
     "fee": "部分免费",
@@ -1424,7 +1586,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.shenzhenconcerthall.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -1433,8 +1601,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szbo.com.cn",
-    "url": "https://www.szbo.com.cn",
     "description": "深圳滨海艺术中心暑期演出季，包含儿童剧、芭蕾舞、音乐会等演出。详见官网排期。",
     "category": "演出",
     "fee": "收费",
@@ -1458,7 +1624,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szbo.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "红星闪闪耀童心——线上答题活动",
@@ -1467,8 +1639,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "link": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
-    "url": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
     "description": "庆祝中国共产党成立105周年线上答题活动，寓教于乐，适合青少年参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1492,7 +1662,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -1501,8 +1677,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://mp.weixin.qq.com/s/1fWZCNRmmp-cO1gZ_ZA1Uw",
-    "url": "https://mp.weixin.qq.com/s/1fWZCNRmmp-cO1gZ_ZA1Uw",
     "description": "深圳少年儿童图书馆暑期科普展览，展示中国航天航海科技成果，包含模型展示和互动体验。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1526,7 +1700,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/1fWZCNRmmp-cO1gZ_ZA1Uw",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
@@ -1535,8 +1715,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-02",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea",
     "description": "展览，深圳市龙岗区文化馆总馆，在南湾街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -1560,7 +1738,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "气球王国——比利时国宝漫画百年庆典",
@@ -1569,8 +1753,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-02",
     "end_date": "2026-09-19",
-    "link": "http://m.toutiao.com/group/7658235446731784744/",
-    "url": "http://m.toutiao.com/group/7658235446731784744/",
     "description": "荟萃《丁丁历险记》《蓝精灵》等九比利时国宝级漫画IP，十万件珍贵手稿、版画、雕塑。免费开放，适合全年龄段。蓝精灵户外装置同步展出。",
     "category": "展览",
     "fee": "免费",
@@ -1594,7 +1776,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7658235446731784744/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -1603,8 +1791,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-03",
     "end_date": "2026-08-31",
-    "link": "https://mp.weixin.qq.com/s/v8RvHOaMKlgmus7DyIBOjA",
-    "url": "https://mp.weixin.qq.com/s/v8RvHOaMKlgmus7DyIBOjA",
     "description": "深圳少年儿童图书馆国艺团2026暑期系列免费公益活动，包含传统艺术体验、国学课程等。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1628,7 +1814,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/v8RvHOaMKlgmus7DyIBOjA",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -1637,8 +1829,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-04",
     "end_date": "2026-08-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "7月4日至8月31日，新增周五、周日夜间延时开放。周二至周日10:00-18:00，周五至周日夜间至21:00。免费免预约。",
     "category": "科普活动",
     "fee": "免费",
@@ -1662,7 +1852,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -1671,8 +1867,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-04",
     "end_date": "2026-08-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "7月4日至8月31日，新增周五、周日夜间延时开放。周二至周日10:00-18:00，周五至周日夜间至21:00。免费免预约。",
     "category": "科普活动",
     "fee": "免费",
@@ -1696,7 +1890,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -1705,8 +1905,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-05",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a",
     "description": "展览，龙岗区文化馆总馆，在坪地街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -1730,7 +1928,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "小奶牛故事绘",
@@ -1739,8 +1943,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-30",
-    "link": "https://www.szgmlib.com.cn",
-    "url": "https://www.szgmlib.com.cn",
     "description": "光明区图书馆少儿绘本故事会，每周六上午10:00。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1764,7 +1966,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgmlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -1773,8 +1981,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-30",
-    "link": "https://www.szclib.org.cn",
-    "url": "https://www.szclib.org.cn",
     "description": "深圳少年儿童图书馆暑期阅读挑战赛，完成阅读任务可获得奖励。适合6-14岁儿童。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1798,7 +2004,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szclib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -1807,8 +2019,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-31",
-    "link": "https://www.szgmlib.com.cn",
-    "url": "https://www.szgmlib.com.cn",
     "description": "光明区图书馆暑期阅读推广活动，包含小太阳i阅读故事会、小奶牛故事绘等。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -1832,7 +2042,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgmlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
@@ -1841,8 +2057,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-31",
-    "link": "https://www.nsszlib.com",
-    "url": "https://www.nsszlib.com",
     "description": "南山图书馆暑期阅读推广活动，包含少儿阅读、读书分享会、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -1866,7 +2080,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.nsszlib.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -1875,8 +2095,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-30",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安区文化馆暑期公益艺术培训，包含舞蹈、声乐、器乐、书法、美术等课程。免费报名。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -1900,7 +2118,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -1909,8 +2133,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-30",
-    "link": "https://mp.weixin.qq.com/s/lnibmBR9jlku1o3tO10z3g",
-    "url": "https://mp.weixin.qq.com/s/lnibmBR9jlku1o3tO10z3g",
     "description": "深圳少年儿童图书馆「岭动手作」暑期手工系列活动，每周六举行，包含剪纸、折纸、黏土等手工制作。适合5-12岁儿童。",
     "category": "亲子活动",
     "fee": "免费",
@@ -1934,7 +2156,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/lnibmBR9jlku1o3tO10z3g",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
@@ -1943,8 +2171,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd",
     "description": "展览，龙岗区文化馆，在坪地街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -1968,7 +2194,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年坪地街道分馆“艺术微展厅”巡展——高桥社区服务点“童心造境·彩绘青春”创意绘画作品展",
@@ -1977,8 +2209,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f",
     "description": "展览，龙岗区文化馆，在坪地街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -2002,7 +2232,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "新桥街道“文化春雨行动”新桥新梦公益课堂.",
@@ -2011,8 +2247,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-08-02",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=55afc0d24dc64104b91bb3e15fbd9530",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=55afc0d24dc64104b91bb3e15fbd9530",
     "description": "展览，新桥街道办事处，在宝安区文化馆新桥街道分馆举办",
     "category": "展览",
     "fee": "免费",
@@ -2036,7 +2270,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=55afc0d24dc64104b91bb3e15fbd9530",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "小太阳i阅读故事会",
@@ -2045,8 +2285,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-08-31",
-    "link": "https://www.szgmlib.com.cn",
-    "url": "https://www.szgmlib.com.cn",
     "description": "光明区图书馆少儿阅读推广活动，每周日上午。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -2070,7 +2308,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgmlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -2079,8 +2323,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-08-31",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
     "description": "宝安图书馆少儿绘本故事会，每周六上午10:30。适合3-6岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2104,7 +2346,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -2113,8 +2361,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-06",
     "end_date": "2026-08-31",
-    "link": "https://mp.weixin.qq.com/s/ddyC0lKxVF5V1aY4n-Hl5w",
-    "url": "https://mp.weixin.qq.com/s/ddyC0lKxVF5V1aY4n-Hl5w",
     "description": "深圳少年儿童图书馆「岭阅书香」暑期读书会系列活动，每周六举行，包含亲子共读、阅读分享、好书推荐等。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2138,7 +2384,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/ddyC0lKxVF5V1aY4n-Hl5w",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿国际象棋公益班",
@@ -2147,8 +2399,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-07",
     "end_date": "2026-08-25",
-    "link": "https://www.szmassart.com",
-    "url": "https://www.szmassart.com",
     "description": "深圳市文化馆2026暑假公益培训班，少儿国际象棋入门。每周一上课。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2172,7 +2422,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szmassart.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -2181,8 +2437,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-07",
     "end_date": "2026-08-30",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
     "description": "盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2206,7 +2460,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.ytlib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -2215,8 +2475,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-07",
     "end_date": "2026-08-25",
-    "link": "https://www.szmassart.com",
-    "url": "https://www.szmassart.com",
     "description": "深圳市文化馆2026暑期公益培训班，包含少儿国际象棋、成人古典舞、读剧、朗诵艺术等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2240,7 +2498,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szmassart.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展",
@@ -2249,8 +2513,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff",
     "description": "展览，龙岗区文化馆总馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -2274,7 +2536,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "成人古典舞公益班",
@@ -2283,8 +2551,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-26",
-    "link": "https://www.szmassart.com",
-    "url": "https://www.szmassart.com",
     "description": "深圳市文化馆2026暑假公益培训班，成人古典舞基础。每周二上课。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2308,7 +2574,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szmassart.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -2317,8 +2589,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://szlhlib.org.cn",
-    "url": "https://szlhlib.org.cn",
     "description": "罗湖区图书馆暑期少儿阅读活动，包含故事屋、手工坊、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -2342,7 +2612,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://szlhlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -2351,8 +2627,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安区青少年宫暑期系列活动，包含书法、绘画、科技制作、舞蹈等公益课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2376,7 +2650,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -2385,8 +2665,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://www.szaac.com",
-    "url": "https://www.szaac.com",
     "description": "深圳市青少年活动中心暑期系列活动，包含艺术培训、科技活动、体育锻炼等。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2409,7 +2687,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szaac.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -2418,8 +2702,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-26",
-    "link": "https://www.szmassart.com",
-    "url": "https://www.szmassart.com",
     "description": "深圳市文化馆暑期美术公益培训班，包含素描、水彩、国画基础等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2443,7 +2725,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szmassart.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
@@ -2452,8 +2740,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山文体中心暑期少儿游泳培训班，面向6-14岁儿童。收费课程。",
     "category": "亲子活动",
     "fee": "收费",
@@ -2476,7 +2762,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
@@ -2485,8 +2777,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-28",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区青少年活动中心暑期艺术培训，包含美术、书法、舞蹈、声乐等课程。免费报名。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -2509,7 +2799,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -2518,8 +2814,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-28",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安区文化馆燕罗街道分馆暑期阅读活动，包含绘本故事、手工制作、亲子阅读等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2543,7 +2837,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿民族打击乐A班（面向7-9岁少年招募）",
@@ -2552,8 +2852,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-07-24",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
     "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
     "category": "亲子活动",
     "fee": "免费需预约",
@@ -2577,7 +2875,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -2586,8 +2890,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-07-24",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
     "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
     "category": "亲子活动",
     "fee": "免费需预约",
@@ -2611,7 +2913,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "成人零基础芭蕾形体（10节课程，自备舞蹈练功服）",
@@ -2620,8 +2928,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-07-30",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fe47c03b33074a99a5029c7256ce4ed3",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fe47c03b33074a99a5029c7256ce4ed3",
     "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
     "category": "演出",
     "fee": "免费需预约",
@@ -2645,7 +2951,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fe47c03b33074a99a5029c7256ce4ed3",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "读剧公益班",
@@ -2654,8 +2966,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-27",
-    "link": "https://www.szmassart.com",
-    "url": "https://www.szmassart.com",
     "description": "深圳市文化馆2026暑假公益培训班，读剧表演体验。每周三上课。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2679,7 +2989,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szmassart.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -2688,8 +3004,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-31",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
     "description": "龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2713,7 +3027,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlhlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -2722,8 +3042,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-31",
-    "link": "https://www.szlh.gov.cn",
-    "url": "https://www.szlh.gov.cn",
     "description": "龙华区青少年宫暑期系列活动，包含舞蹈、音乐、科技等公益课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2747,7 +3065,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlh.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
@@ -2756,8 +3080,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-30",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期少儿绘本课堂，每周二、周五上午10:00，适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2781,7 +3103,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.ftlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山图书馆暑期亲子故事会",
@@ -2790,8 +3118,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-27",
-    "link": "https://www.nsszlib.com",
-    "url": "https://www.nsszlib.com",
     "description": "南山图书馆暑期亲子绘本故事会，每周四、周日上午10:00。适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2815,7 +3141,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.nsszlib.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "成人书法（6节课程，需自备材料）",
@@ -2824,8 +3156,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-07-29",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
     "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
     "category": "讲座阅读",
     "fee": "免费需预约",
@@ -2849,7 +3179,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
@@ -2858,8 +3194,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-07-25",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962",
     "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -2883,7 +3217,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿声乐（3节课程）",
@@ -2892,8 +3232,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-07-24",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
     "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
     "category": "讲座阅读",
     "fee": "免费需预约",
@@ -2917,7 +3255,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "朗诵艺术公益班",
@@ -2926,8 +3270,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.szmassart.com",
-    "url": "https://www.szmassart.com",
     "description": "深圳市文化馆2026暑假公益培训班，朗诵技巧入门。每周四上课。免费报名。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -2951,7 +3293,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szmassart.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -2960,8 +3308,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -2985,7 +3331,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.ftlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -2994,8 +3346,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安科技馆暑期科普活动，包含科学实验、机器人体验、科普讲座等。免费参与。",
     "category": "科普活动",
     "fee": "免费",
@@ -3019,7 +3369,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -3028,8 +3384,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn",
-    "url": "https://www.szns.gov.cn",
     "description": "深圳湾体育中心暑期青少年体育培训，包含篮球、羽毛球、游泳等项目。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
@@ -3052,7 +3406,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -3061,8 +3421,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.szgm.gov.cn",
-    "url": "https://www.szgm.gov.cn",
     "description": "光明区文化馆暑期公益艺术培训，包含书法、国画、舞蹈、声乐等课程。免费报名。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3086,7 +3444,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgm.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -3095,8 +3459,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
     "description": "宝安图书馆创客空间暑期开放，3D打印、激光切割、编程体验等活动。免费参与。",
     "category": "科普活动",
     "fee": "免费",
@@ -3120,7 +3482,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -3129,8 +3497,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.szclib.org.cn",
-    "url": "https://www.szclib.org.cn",
     "description": "深圳少年儿童图书馆暑期经典儿童电影展映，每周五下午14:30。免费观影。",
     "category": "亲子活动",
     "fee": "免费",
@@ -3154,7 +3520,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szclib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -3163,8 +3535,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-30",
-    "link": "https://www.szstm.org.cn",
-    "url": "https://www.szstm.org.cn",
     "description": "深圳科学技术馆暑期科学小课堂，包含物理、化学、生物趣味实验，每周六日举行。免费需预约。",
     "category": "科普活动",
     "fee": "免费需预约",
@@ -3187,7 +3557,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -3196,8 +3572,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
     "description": "宝安体育中心暑期篮球训练营，面向8-16岁青少年。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
@@ -3220,7 +3594,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "http://www.baoan.gov.cn/bawtlyj/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -3229,8 +3609,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山文体中心暑期公益培训，包含羽毛球、乒乓球、游泳、舞蹈等课程。免费报名。",
     "category": "体育赛事",
     "fee": "免费",
@@ -3253,7 +3631,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "桃源街道综合性文化服务中心暑期活动",
@@ -3262,8 +3646,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn",
-    "url": "https://www.szns.gov.cn",
     "description": "桃源街道综合性文化服务中心暑期社区活动，包含亲子手工、读书分享、健康讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3287,7 +3669,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -3296,8 +3684,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安区文化馆暑期少儿艺术团招募和培训，包含合唱、舞蹈、戏剧表演等。免费报名。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3321,7 +3707,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
@@ -3330,8 +3722,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-11",
     "end_date": "2026-08-21",
-    "link": "https://www.szcec.com",
-    "url": "https://www.szcec.com",
     "description": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华），2026-07-11至2026-08-21，深圳会展中心。赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
     "category": "展览",
     "fee": "免费",
@@ -3354,7 +3744,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -3363,8 +3759,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-11",
     "end_date": "2026-08-29",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
     "description": "坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3388,7 +3782,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szpslib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -3397,8 +3797,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-11",
     "end_date": "2026-08-28",
-    "link": "https://www.lg.gov.cn",
-    "url": "https://www.lg.gov.cn",
     "description": "龙岗区青少年宫暑期公益课程，包含艺术、科技、体育等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -3422,7 +3820,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.lg.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -3431,8 +3835,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-11",
     "end_date": "2026-08-29",
-    "link": "https://szlhlib.org.cn",
-    "url": "https://szlhlib.org.cn",
     "description": "罗湖区图书馆暑期国学课堂，包含书法、诗词诵读、传统礼仪体验等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3456,7 +3858,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://szlhlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -3465,8 +3873,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.szgmlib.com.cn",
-    "url": "https://www.szgmlib.com.cn",
     "description": "光明区图书馆音乐主题读书分享会，隔周六下午。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3490,7 +3896,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgmlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -3499,8 +3911,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
     "description": "龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3524,7 +3934,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlglib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -3533,8 +3949,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
     "description": "大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3558,7 +3972,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.dapeng.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "福田区图书馆暑期电影放映",
@@ -3567,8 +3987,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期少儿电影放映，每周日下午14:30。免费观影。",
     "category": "影视放映",
     "fee": "免费",
@@ -3592,7 +4010,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.ftlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
@@ -3601,8 +4025,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
     "description": "盐田区图书馆暑期海洋文化系列讲座，结合盐田滨海特色，开展海洋知识科普。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3626,7 +4048,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.ytlib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -3635,8 +4063,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-28",
-    "link": "https://www.szns.gov.cn",
-    "url": "https://www.szns.gov.cn",
     "description": "深圳湾体育中心暑期网球培训班，面向6-14岁儿童。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
@@ -3659,7 +4085,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -3668,8 +4100,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-22",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区青少年活动中心暑期科技营，包含编程、机器人、3D打印等课程。免费报名。",
     "category": "科普活动",
     "fee": "免费",
@@ -3692,7 +4122,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆杨美社区服务点7月“童心奇境”儿童绘画作品展",
@@ -3701,8 +4137,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-13",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0",
     "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -3726,7 +4160,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -3735,8 +4175,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-13",
     "end_date": "2026-08-27",
-    "link": "https://www.dplib.org.cn",
-    "url": "https://www.dplib.org.cn",
     "description": "大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3760,7 +4198,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.dplib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -3769,8 +4213,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-13",
     "end_date": "2026-08-24",
-    "link": "https://www.szgmlib.com.cn",
-    "url": "https://www.szgmlib.com.cn",
     "description": "光明区图书馆品牌讲座「光明大讲堂」暑期系列，邀请各界名家开讲。每周日下午举行。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3794,7 +4236,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgmlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -3803,8 +4251,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-13",
     "end_date": "2026-08-24",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "南山博物馆暑期学术讲座系列，邀请文博专家讲述展览背后的故事。每周六下午。免费参与。",
     "category": "展览",
     "fee": "免费",
@@ -3828,7 +4274,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -3837,8 +4289,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-14",
     "end_date": "2026-08-25",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
     "description": "坪山区图书馆暑期少儿手工工坊，包含折纸、剪纸、模型制作等。每周三下午举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -3862,7 +4312,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szpslib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国科幻史里程碑展",
@@ -3871,8 +4327,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-10-15",
-    "link": "https://www.szstm.org.cn",
-    "url": "https://www.szstm.org.cn",
     "description": "中国科幻文学与影视发展历程展览，含经典科幻道具展示。",
     "category": "展览",
     "fee": "免费需预约",
@@ -3895,7 +4349,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -3904,8 +4364,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-23",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
     "description": "宝安图书馆暑期阅读夏令营，包含绘本故事、手工制作、科普讲座等活动。每周三、周五举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3929,7 +4387,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -3938,8 +4402,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
     "description": "宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
@@ -3962,7 +4424,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "http://www.baoan.gov.cn/bawtlyj/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -3971,8 +4439,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区文化馆暑期公益艺术培训，包含舞蹈、声乐、书法、国画、摄影等课程。免费报名。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3996,7 +4462,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -4005,8 +4477,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.szgm.gov.cn",
-    "url": "https://www.szgm.gov.cn",
     "description": "光明区文化馆少儿暑期活动营，包含手工制作、科普实验、绘本阅读等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -4030,7 +4500,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szgm.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
@@ -4039,8 +4515,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
     "description": "龙岗区图书馆暑期少儿编程体验课，Scratch和Python入门，适合7-14岁。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -4064,7 +4538,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlglib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -4073,8 +4553,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安科技馆暑期创客工坊，包含3D打印、电子制作、编程入门等动手实践课程。",
     "category": "科普活动",
     "fee": "免费",
@@ -4098,7 +4576,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -4107,8 +4591,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.lg.gov.cn",
-    "url": "https://www.lg.gov.cn",
     "description": "龙岗区青少年宫暑期体育训练营，包含篮球、羽毛球、跆拳道等课程。免费报名。",
     "category": "体育赛事",
     "fee": "免费",
@@ -4132,7 +4614,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.lg.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -4141,8 +4629,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "http://www.szcp.com",
-    "url": "http://www.szcp.com",
     "description": "深圳市少年宫暑期少儿剧场，包含儿童剧、木偶戏、魔术表演等。免费领票。",
     "category": "亲子活动",
     "fee": "免费",
@@ -4166,7 +4652,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://www.szcp.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市体育中心暑期运动营",
@@ -4175,8 +4667,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "https://www.szsportscenter.com",
-    "url": "https://www.szsportscenter.com",
     "description": "深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。",
     "category": "体育赛事",
     "fee": "收费",
@@ -4199,7 +4689,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szsportscenter.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
@@ -4208,8 +4704,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
     "description": "大鹏地质公园博物馆暑期青少年探索营，包含火山地质考察、化石挖掘体验、海岸地貌观察。",
     "category": "亲子活动",
     "fee": "免费",
@@ -4233,7 +4727,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.dapeng.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -4242,8 +4742,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "南山博物馆暑期少儿手工工作坊，结合展览内容开展陶艺、拓印、绘画等体验活动。免费需预约。",
     "category": "亲子活动",
     "fee": "免费需预约",
@@ -4267,7 +4765,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -4276,8 +4780,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "https://www.szaac.com",
-    "url": "https://www.szaac.com",
     "description": "深圳市青少年活动中心暑期科技体验活动，包含VR体验、机器人编程、无人机飞行等。免费报名。",
     "category": "科普活动",
     "fee": "免费",
@@ -4300,7 +4802,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szaac.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展",
@@ -4309,8 +4817,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-16",
     "end_date": "2026-07-31",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
@@ -4334,7 +4840,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第二十七届深圳国际医疗旅游展览会",
@@ -4343,8 +4855,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-16",
     "end_date": "2026-07-18",
-    "link": "https://www.szcec.com",
-    "url": "https://www.szcec.com",
     "description": "第二十七届深圳国际医疗旅游展览会，2026-07-16至2026-07-18，深圳会展中心。深圳正和会展服务有限公司 020-84138131/15820700062",
     "category": "展览",
     "fee": "免费",
@@ -4367,7 +4877,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -4376,8 +4892,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-16",
     "end_date": "2026-08-27",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
     "description": "龙华区图书馆暑期科普讲座系列活动，包含天文、地理、生物等主题。每周六下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -4401,7 +4915,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlhlib.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家大剧院原创喜歌剧《三打白骨精》",
@@ -4410,8 +4930,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-17",
     "end_date": "2026-07-20",
-    "link": "https://ticket.chncpa.org",
-    "url": "https://ticket.chncpa.org",
     "description": "国家大剧院原创喜歌剧《三打白骨精》，取材西游记经典故事。戏剧场，票价100-500元。地铁1号线天安门西站。",
     "category": "演出",
     "fee": "收费",
@@ -4436,7 +4954,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://ticket.chncpa.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "三圣花乡花艺手作课堂",
@@ -4472,7 +4996,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "天府人文艺术图书馆亲子手工",
@@ -4509,7 +5034,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武侯祠三国兵器展研学",
@@ -4546,7 +5072,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金沙遗址玉器文化课堂",
@@ -4583,7 +5110,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "锦城湖皮划艇体验",
@@ -4620,7 +5148,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都蹦床公园",
@@ -4656,7 +5185,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "街子古镇光严禅院探秘",
@@ -4692,7 +5222,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都IFS屋顶花园派对",
@@ -4728,7 +5259,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "环球中心亲子冰场",
@@ -4764,7 +5296,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都大悦城暑期乐园",
@@ -4800,7 +5333,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "虫友：寻访甲虫世界",
@@ -4809,8 +5343,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-17",
     "end_date": "2026-08-30",
-    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
-    "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
     "description": "汇聚昆虫、鸟类、植物等1000余件自然标本及20余件套精美文物，打造趣味横生的昆虫星球。暑期自然科普之夜配套戏剧表演、科普互动与创意市集。地铁3号线珠江新城站。",
     "category": "科普活动",
     "fee": "免费需预约",
@@ -4835,7 +5367,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
@@ -4844,8 +5382,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-17",
     "end_date": "2026-07-18",
-    "link": "http://www.gzdjy.org/",
-    "url": "http://www.gzdjy.org/",
     "description": "敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。",
     "category": "其他",
     "fee": "收费",
@@ -4870,7 +5406,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
@@ -4879,8 +5421,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-17",
     "end_date": "2026-07-18",
-    "link": "http://m.toutiao.com/group/7660419048286487086/",
-    "url": "http://m.toutiao.com/group/7660419048286487086/",
     "description": "纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。",
     "category": "其他",
     "fee": "收费",
@@ -4905,7 +5445,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7660419048286487086/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "象棋课",
@@ -4914,8 +5460,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1357da32df184164996168d7981f186c",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1357da32df184164996168d7981f186c",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -4938,7 +5482,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1357da32df184164996168d7981f186c",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "美术素描班",
@@ -4947,8 +5497,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1795cbb1580a44e885342f19b334bf66",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1795cbb1580a44e885342f19b334bf66",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -4971,7 +5519,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1795cbb1580a44e885342f19b334bf66",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "硬笔书法",
@@ -4980,8 +5534,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4d511d4a74a14440845abdcdcb4e616f",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4d511d4a74a14440845abdcdcb4e616f",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "讲座阅读",
     "fee": "免费",
@@ -5004,7 +5556,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4d511d4a74a14440845abdcdcb4e616f",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿篮球提高班",
@@ -5013,8 +5571,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=522a080fa373427d9704e5c18333c17c",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=522a080fa373427d9704e5c18333c17c",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5037,7 +5593,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=522a080fa373427d9704e5c18333c17c",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "美术启智班",
@@ -5046,8 +5608,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53adb88c46a94137a8f48a105eb502e9",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53adb88c46a94137a8f48a105eb502e9",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5070,7 +5630,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53adb88c46a94137a8f48a105eb502e9",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "主持暑假特色课",
@@ -5079,8 +5645,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57d157777e344c4781fbad3f871eceac",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57d157777e344c4781fbad3f871eceac",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5103,7 +5667,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57d157777e344c4781fbad3f871eceac",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "软笔书法",
@@ -5112,8 +5682,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5895da3978b54f0c9cb4b104ea4caa5e",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5895da3978b54f0c9cb4b104ea4caa5e",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "讲座阅读",
     "fee": "免费",
@@ -5136,7 +5704,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5895da3978b54f0c9cb4b104ea4caa5e",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿钢琴",
@@ -5145,8 +5719,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=943ae2b5ffa5440081f81a9375cd1ccb",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=943ae2b5ffa5440081f81a9375cd1ccb",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5169,7 +5741,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=943ae2b5ffa5440081f81a9375cd1ccb",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "美术启蒙班",
@@ -5178,8 +5756,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c14df5a8bda541888a9e7fd68733f047",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c14df5a8bda541888a9e7fd68733f047",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5202,7 +5778,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c14df5a8bda541888a9e7fd68733f047",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿街舞",
@@ -5211,8 +5793,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d03b6003006946e59c3a5b84af830982",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d03b6003006946e59c3a5b84af830982",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5235,7 +5815,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d03b6003006946e59c3a5b84af830982",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "少儿篮球基础班",
@@ -5244,8 +5830,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ddacec7e5d6d457fb2a792480964e8a8",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ddacec7e5d6d457fb2a792480964e8a8",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5268,7 +5852,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ddacec7e5d6d457fb2a792480964e8a8",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "美术创想班",
@@ -5277,8 +5867,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec70d3910e034b4b8116c587d01a3c05",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec70d3910e034b4b8116c587d01a3c05",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5301,7 +5889,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec70d3910e034b4b8116c587d01a3c05",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "主持考级",
@@ -5310,8 +5904,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-10-15",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f546f9c1058748baa8c8ed2e72765e0a",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f546f9c1058748baa8c8ed2e72765e0a",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
@@ -5334,7 +5926,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f546f9c1058748baa8c8ed2e72765e0a",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -5343,8 +5941,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-17",
     "end_date": "2026-07-19",
-    "link": "https://www.szcec.com",
-    "url": "https://www.szcec.com",
     "description": "第九届紫亚兰国际抗衰老医美大会，2026-07-17至2026-07-19，深圳会展中心。紫亚兰国际会展（深圳）有限公司 杨先生&nbsp; 18926034908",
     "category": "展览",
     "fee": "免费",
@@ -5367,7 +5963,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
@@ -5403,7 +6005,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "碑林书法研学营",
@@ -5440,7 +6043,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -5449,8 +6053,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-18",
     "end_date": "2026-09-17",
-    "link": "https://www.gardenmuseum.cn",
-    "url": "https://www.gardenmuseum.cn",
     "description": "中国第一座以园林为主题的国家级博物馆，含室内展园与室外展区，展示中国园林悠久历史和艺术魅力，暑期举办古琴文化展等活动。",
     "category": "亲子活动",
     "fee": "免费",
@@ -5475,7 +6077,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.gardenmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第三十一届圆明园荷花节暨“荷你有约”荷花主题中国画名家邀请展",
@@ -5484,8 +6092,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-18",
     "end_date": "2026-09-06",
-    "link": "https://mp.weixin.qq.com/s?__biz=MjM5NDU4NTA2Mw==&mid=2687185633&idx=1&sn=b6a36a1eda2c02d5875041af6828e2be&chksm=82734e46c6ebbb34f7a7bd25f4455bb6a6f5fd515660f7db01eae437212baf9db9aeebca2c46",
-    "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU4NTA2Mw==&mid=2687185633&idx=1&sn=b6a36a1eda2c02d5875041af6828e2be&chksm=82734e46c6ebbb34f7a7bd25f4455bb6a6f5fd515660f7db01eae437212baf9db9aeebca2c46",
     "description": "第三十一届荷花节配套名家画展，海棠书院展出，适合亲子夏日赏荷与文化体验，购公园门票入园。",
     "category": "亲子活动",
     "fee": "收费",
@@ -5509,7 +6115,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU4NTA2Mw==&mid=2687185633&idx=1&sn=b6a36a1eda2c02d5875041af6828e2be&chksm=82734e46c6ebbb34f7a7bd25f4455bb6a6f5fd515660f7db01eae437212baf9db9aeebca2c46",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童北京大兴区演出课程",
@@ -5545,7 +6157,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式北京密云区科普活动探索",
@@ -5581,7 +6194,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都博物馆青铜器探秘",
@@ -5618,7 +6232,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金沙遗址博物馆古蜀文明夏令营",
@@ -5655,7 +6270,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川科技馆天文观星夜",
@@ -5692,7 +6308,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "环球中心海洋乐园科普日",
@@ -5728,7 +6345,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青龙湖湿地公园皮划艇体验",
@@ -5765,7 +6383,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都植物园药用植物探秘",
@@ -5801,7 +6420,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都欢乐谷夏日电音节",
@@ -5837,7 +6457,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都融创水世界滑道挑战赛",
@@ -5873,7 +6494,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都国色天乡乐园童话节",
@@ -5909,7 +6531,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都海昌极地海洋公园亲子嘉年华",
@@ -5946,7 +6569,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "非遗博览园蜀绣研学",
@@ -5982,7 +6606,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都图书馆亲子电影日",
@@ -6019,7 +6644,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "杜甫草堂诗圣文化探秘",
@@ -6056,7 +6682,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都博物馆古钱币探秘",
@@ -6093,7 +6720,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都网球培训营",
@@ -6130,7 +6758,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都跆拳道夏令营",
@@ -6166,7 +6795,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "黄龙溪古镇亲子漂流",
@@ -6202,7 +6832,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "洛带古镇会馆探秘",
@@ -6238,7 +6869,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "平乐古镇竹海探秘",
@@ -6274,7 +6906,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "平乐古镇民俗体验",
@@ -6310,7 +6943,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "环球中心室内冲浪体验",
@@ -6346,7 +6980,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "来福士广场儿童剧场",
@@ -6382,7 +7017,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探秘成都金牛区影视放映月",
@@ -6419,7 +7055,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "三峡民俗文化亲子课堂",
@@ -6456,7 +7093,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆园博园园林文化研学",
@@ -6492,7 +7130,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "少儿图书馆手工坊",
@@ -6529,7 +7168,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭重庆武隆区科普活动研学营",
@@ -6565,7 +7205,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式重庆北碚区科普活动探索",
@@ -6601,7 +7242,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "趣味重庆巴南区科普活动展览",
@@ -6638,7 +7280,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "国风亲子音乐会（二沙岛音乐夏日）",
@@ -6647,8 +7290,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-18",
     "end_date": "2026-07-19",
-    "link": "https://news.qq.com/rain/a/20260713A0AT2Q00",
-    "url": "https://news.qq.com/rain/a/20260713A0AT2Q00",
     "description": "星海音乐厅“音乐夏日”周末专场之一，以国风为主题打造亲子音乐会，寓教于乐带孩子在旋律中感受传统音乐之美，需购票。",
     "category": "演出",
     "fee": "需购票",
@@ -6673,7 +7314,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://news.qq.com/rain/a/20260713A0AT2Q00",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭广州广东美术馆亲子活动-32",
@@ -6710,7 +7357,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式广州广州博物馆展览-91",
@@ -6747,7 +7395,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "广州荔湾湖公园演出-100",
@@ -6784,7 +7433,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青少年杭州淳安县影视放映讲座",
@@ -6820,7 +7470,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "周末杭州临安区科普活动活动",
@@ -6857,7 +7508,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探秘杭州桐庐县演出月",
@@ -6894,7 +7546,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "江苏科技馆奇妙科学夜",
@@ -6930,7 +7583,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "玄武湖亲子骑行",
@@ -6967,7 +7621,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "红山动物园灵长类科普",
@@ -7003,7 +7658,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "玛雅海滩水上电音节",
@@ -7040,7 +7696,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京泥人非遗手作",
@@ -7076,7 +7733,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京鸭文化体验",
@@ -7112,7 +7770,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京图书馆经典诵读",
@@ -7149,7 +7808,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金陵图书馆科普阅读",
@@ -7186,7 +7846,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京市少儿图书馆亲子手工",
@@ -7223,7 +7884,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "奥体中心击剑体验",
@@ -7259,7 +7921,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探秘南京高淳区影视放映月",
@@ -7296,7 +7959,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游南京溧水区影视放映季",
@@ -7333,7 +7997,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩南京浦口区体育赛事节",
@@ -7369,7 +8034,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "恐龙化石与生物观察",
@@ -7378,8 +8044,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-18",
     "end_date": "2026-09-17",
-    "link": "https://mp.weixin.qq.com/s?__biz=上海自然博物馆",
-    "url": "https://mp.weixin.qq.com/s?__biz=上海自然博物馆",
     "description": "恐龙化石、生物观察、自然手工。",
     "category": "亲子活动",
     "fee": "免费需预约",
@@ -7404,7 +8068,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=上海自然博物馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现上海上海迪士尼乐园展览-42",
@@ -7440,7 +8110,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
@@ -7449,8 +8120,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4",
     "description": "讲座，福田区公共文化体育发展中心、公园之友，在中轴云廊·顶上空间举办",
     "category": "讲座阅读",
     "fee": "免费需预约",
@@ -7473,7 +8142,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -7482,8 +8157,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22f60f5f8ef649f7a4786e3c77f2d393",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22f60f5f8ef649f7a4786e3c77f2d393",
     "description": "综合，龙岗区坂田街道马安堂社区党群服务中心，在坂田街道文化站举办",
     "category": "讲座阅读",
     "fee": "免费",
@@ -7507,7 +8180,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22f60f5f8ef649f7a4786e3c77f2d393",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明街道亲子美术公益课堂",
@@ -7516,8 +8195,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b78a5acd67d4c2cbc6ae12a17bf41f8",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b78a5acd67d4c2cbc6ae12a17bf41f8",
     "description": "培训，光明区光明街道办事处，在光明区光明街道综合性文化服务中心举办",
     "category": "亲子活动",
     "fee": "免费",
@@ -7541,7 +8218,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b78a5acd67d4c2cbc6ae12a17bf41f8",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "园岭街道全民阅动系列活动——双语绘本《Say Cheese》",
@@ -7550,8 +8233,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4e3417dd4ea24e88888e8393c4422ee0",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4e3417dd4ea24e88888e8393c4422ee0",
     "description": "阅读推广活动，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办",
     "category": "讲座阅读",
     "fee": "免费",
@@ -7575,7 +8256,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4e3417dd4ea24e88888e8393c4422ee0",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——潮彩拾光・匠造美好",
@@ -7584,8 +8271,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=524765905216464b9092227472259539",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=524765905216464b9092227472259539",
     "description": "非遗课堂，深圳市龙岗区文化广电旅游体育局，在龙岗街道文化站举办",
     "category": "体育赛事",
     "fee": "免费需预约",
@@ -7609,7 +8294,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=524765905216464b9092227472259539",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“无米也有粿，巧手暖心房”--江岭社区慢飞工作室潮汕美食制作工作坊",
@@ -7618,8 +8309,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=746beeaf7b21439f8cfa83191f8ace90",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=746beeaf7b21439f8cfa83191f8ace90",
     "description": "综合，坪山区文化馆、马峦街道公共文化服务中心，在江岭社区公共文化服务中心举办",
     "category": "其他",
     "fee": "免费",
@@ -7643,7 +8332,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=746beeaf7b21439f8cfa83191f8ace90",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "合家欢剧场第十期《熊猫计划之部落奇遇记》",
@@ -7652,8 +8347,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7d548284dc4b4737bc8fc8fe46f56043",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7d548284dc4b4737bc8fc8fe46f56043",
     "description": "公益，石井街道公共服务办公室，在深圳市坪山区石井街道公共文化服务中心举办",
     "category": "演出",
     "fee": "免费",
@@ -7677,7 +8370,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7d548284dc4b4737bc8fc8fe46f56043",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“舞韵芳华，童绽国风”舞蹈美育活动",
@@ -7686,8 +8385,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8329120f9c654daa936f6e71ece1f741",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8329120f9c654daa936f6e71ece1f741",
     "description": "培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
     "category": "讲座阅读",
     "fee": "免费",
@@ -7711,7 +8408,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8329120f9c654daa936f6e71ece1f741",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "抢票 | 声声载初心，礼赞新征程，2026“爱的有声礼”公益朗诵会启幕",
@@ -7720,8 +8423,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c21c983cbc2b4eca96add85ae36c6c26",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c21c983cbc2b4eca96add85ae36c6c26",
     "description": "演出，深圳市盐田区文化馆、深圳市作家协会、深圳市福田区朗诵艺术家协会，在盐田区文化馆举办",
     "category": "讲座阅读",
     "fee": "免费需预约",
@@ -7745,7 +8446,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c21c983cbc2b4eca96add85ae36c6c26",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动",
@@ -7754,8 +8461,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5",
     "description": "综合，坪山区文化馆、马峦街道公共文化服务中心，在江岭社区公共文化服务中心举办",
     "category": "亲子活动",
     "fee": "免费",
@@ -7779,7 +8484,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "领展中心城暑期趣味赛事｜随地大小赛欢乐开启！夏日解压玩法全解锁",
@@ -7788,8 +8499,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-19",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ece9323c7ff3485f8490fa0f20e0b741",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ece9323c7ff3485f8490fa0f20e0b741",
     "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
     "category": "体育赛事",
     "fee": "免费需预约",
@@ -7812,7 +8521,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ece9323c7ff3485f8490fa0f20e0b741",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026“星光大浪”青年歌手大赛--周赛",
@@ -7821,8 +8536,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef8609a1a2ba43febb8f5ddff83ad5bc",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef8609a1a2ba43febb8f5ddff83ad5bc",
     "description": "演出，深圳市龙华区文化广电旅游体育局、深圳市龙华区群团工作部、深圳市龙华区大浪街道党工委、办事处，在大浪街道综合文化服务中心举办",
     "category": "演出",
     "fee": "免费需预约",
@@ -7846,7 +8559,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef8609a1a2ba43febb8f5ddff83ad5bc",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第85场",
@@ -7855,8 +8574,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655050&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655050&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
     "category": "亲子活动",
     "fee": "免费",
@@ -7880,7 +8597,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655050&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "绘本半小时：《阿圆的家》",
@@ -7889,8 +8612,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654300&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654300&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：活动无需预约，场地有限，座位先到先得。",
     "category": "亲子活动",
     "fee": "免费",
@@ -7914,7 +8635,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654300&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "书海探底——智慧书库参观体验活动第638场",
@@ -7923,8 +8650,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654636&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654636&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
     "category": "讲座阅读",
     "fee": "免费",
@@ -7948,7 +8673,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654636&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第86场",
@@ -7957,8 +8688,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655051&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655051&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
     "category": "亲子活动",
     "fee": "免费",
@@ -7982,7 +8711,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655051&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "律师公益咨询活动",
@@ -7991,8 +8726,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655107&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655107&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆  深圳市律师协会\n地点：中心馆 一楼展厅\n地址：福田区福中一路2001号深圳图书馆一楼展厅",
     "category": "展览",
     "fee": "免费",
@@ -8016,7 +8749,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655107&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "故事小讲堂第150期：“感知四季”自然主题读书会",
@@ -8025,8 +8764,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654135&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654135&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：面向3-8岁少儿读者及家长",
     "category": "讲座阅读",
     "fee": "免费",
@@ -8050,7 +8787,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654135&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "艺术疗愈工作坊第4期：边界与共生——在关系中建立健康自我",
@@ -8059,8 +8802,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647681&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647681&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约",
     "category": "讲座阅读",
     "fee": "免费",
@@ -8084,7 +8825,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647681&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "书海探底——智慧书库参观体验活动第639场",
@@ -8093,8 +8840,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654637&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654637&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
     "category": "讲座阅读",
     "fee": "免费",
@@ -8118,7 +8863,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654637&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "海上花",
@@ -8127,8 +8878,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654168&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654168&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 3F观影厅\n地址：龙华区腾龙路30号\n备注：年龄要求：年满12周岁以上。",
     "category": "影视放映",
     "fee": "免费",
@@ -8152,7 +8901,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654168&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第87场",
@@ -8161,8 +8916,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655052&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655052&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
     "category": "亲子活动",
     "fee": "免费",
@@ -8186,7 +8939,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655052&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "百姓健康讲堂|​八段锦养身，中医护安康",
@@ -8195,8 +8954,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://activity.nslib.cn/activity/info/11666",
-    "url": "https://activity.nslib.cn/activity/info/11666",
     "description": "需预约报名。百姓健康讲堂|​八段锦养身，中医护安康",
     "category": "讲座阅读",
     "fee": "免费",
@@ -8220,7 +8977,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11666",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
@@ -8229,8 +8992,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://activity.nslib.cn/activity/info/11663",
-    "url": "https://activity.nslib.cn/activity/info/11663",
     "description": "需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼",
     "category": "讲座阅读",
     "fee": "免费",
@@ -8254,7 +9015,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11663",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "跟名师读名著系列丨《古灵精怪动物园》",
@@ -8263,8 +9030,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "link": "https://activity.nslib.cn/activity/info/11621",
-    "url": "https://activity.nslib.cn/activity/info/11621",
     "description": "需预约报名。跟名师读名著系列丨《古灵精怪动物园》",
     "category": "其他",
     "fee": "免费",
@@ -8288,7 +9053,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11621",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -8297,8 +9068,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-08-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
     "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
     "category": "科普活动",
     "fee": "免费",
@@ -8322,7 +9091,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -8331,8 +9106,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-08-15",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
     "description": "宝安区青少年宫暑期科技夏令营，包含机器人编程、无人机体验、科学实验等。免费报名。",
     "category": "科普活动",
     "fee": "免费",
@@ -8356,7 +9129,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京舞蹈学院原创舞剧《灼灼韶华》",
@@ -8365,8 +9144,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-18",
     "end_date": "2026-07-19",
-    "link": "http://m.toutiao.com/group/7659324778305684020/",
-    "url": "http://m.toutiao.com/group/7659324778305684020/",
     "description": "阿里云主题曲《守望》，马薇龙、孙科等实力舞者加盟。以韶华门下一家五代人命运流转，铺展中国近现代史长卷。",
     "category": "展览",
     "fee": "需购票",
@@ -8390,7 +9167,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7659324778305684020/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "盘龙城遗址博物院青铜冶炼体验",
@@ -8426,7 +9209,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉科技馆机器人体验夏令营",
@@ -8463,7 +9247,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "中科院武汉植物园夜探",
@@ -8499,7 +9284,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "后官湖湿地公园观鸟营",
@@ -8536,7 +9322,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉海昌极地海洋公园极地探险营",
@@ -8573,7 +9360,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "汉秀剧场亲子专场",
@@ -8609,7 +9397,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉市少年儿童图书馆亲子阅读营",
@@ -8646,7 +9435,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "木兰清凉寨萤火虫夜观",
@@ -8682,7 +9472,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "黎黄陂路夜游",
@@ -8718,7 +9509,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式武汉黄陂区科普活动探索",
@@ -8754,7 +9546,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "大唐西市博物馆商贸体验",
@@ -8791,7 +9584,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆天文观测活动",
@@ -8828,7 +9622,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆力学科普秀",
@@ -8865,7 +9660,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆新能源科普",
@@ -8902,7 +9698,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "兴庆宫公园唐文化课堂",
@@ -8939,7 +9736,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "华夏文旅海洋公园极地动物展",
@@ -8976,7 +9774,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "唐代茶道体验课堂",
@@ -9012,7 +9811,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "曲江书城绘本手工课",
@@ -9049,7 +9849,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "西安奥体中心篮球营",
@@ -9085,7 +9886,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "黑河森林公园亲子漂流",
@@ -9122,7 +9924,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "西安城墙夜景灯光秀",
@@ -9158,7 +9961,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "解读西安高陵区演出周",
@@ -9195,7 +9999,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "欢乐北京蓝色港湾亲子活动",
@@ -9231,7 +10036,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川博物院巴蜀青铜文化探秘",
@@ -9267,7 +10073,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川科技馆VR太空漫步",
@@ -9304,7 +10111,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "锦里三国主题巡游",
@@ -9340,7 +10148,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "黄龙溪古镇玩水节",
@@ -9376,7 +10185,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "震撼成都成华区演出发现-157",
@@ -9413,7 +10223,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "机器人编程体验工作坊",
@@ -9450,7 +10261,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆动物园猛兽区导览",
@@ -9486,7 +10298,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "川剧变脸体验工作坊",
@@ -9522,7 +10335,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "亲子共读时光活动",
@@ -9559,7 +10373,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "际华园攀岩挑战赛",
@@ -9595,7 +10410,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆融创乐园夜场",
@@ -9631,7 +10447,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典重庆大渡口区体育赛事探秘",
@@ -9667,7 +10484,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "震撼重庆北碚区亲子活动发现",
@@ -9703,7 +10521,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭重庆北碚区影视放映研学营",
@@ -9740,7 +10559,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "周末重庆大足区体育赛事活动",
@@ -9777,7 +10597,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典重庆江北区展览探秘",
@@ -9814,7 +10635,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "互利天下：广东外贸一千年",
@@ -9823,8 +10645,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-19",
     "end_date": "2027-07-19",
-    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
-    "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
     "description": "广东外贸一千年历史文化展，展示海上丝绸之路贸易历史。常设展，免费参观。地铁3号线珠江新城站。",
     "category": "展览",
     "fee": "免费需预约",
@@ -9849,7 +10669,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026夏日美乐——维也纳圆舞曲交响音乐会",
@@ -9858,8 +10684,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://ysln.ycwb.com/content/2026-07/14/content_54227914.html",
-    "url": "https://ysln.ycwb.com/content/2026-07/14/content_54227914.html",
     "description": "7月19日20:00于交响乐演奏大厅上演，广州交响乐团新生代指挥崔琳涵执棒，演绎维也纳圆舞曲，家庭夏日音乐消暑之选。",
     "category": "演出",
     "fee": "需购票",
@@ -9884,7 +10708,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://ysln.ycwb.com/content/2026-07/14/content_54227914.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "从化温泉文化节",
@@ -9893,8 +10723,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-19",
     "end_date": "2026-08-18",
-    "link": "https://www.chlib.cn",
-    "url": "https://www.chlib.cn",
     "description": "从化温泉旅游度假区温泉文化节，温泉体验与文旅活动，免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -9918,7 +10746,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.chlib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味广州白云区体育赛事展览",
@@ -9955,7 +10789,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "杭州宋城映山红",
@@ -9991,7 +10826,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "杭州野生动物园森林剧场",
@@ -10027,7 +10863,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "叩石问印·浦东篆刻会十周年特展",
@@ -10036,8 +10873,6 @@ module.exports = [
     "city": "hangzhou",
     "start_date": "2026-07-19",
     "end_date": "2026-10-24",
-    "link": "http://www.xlys.org.cn/xxgg/index.jhtml",
-    "url": "http://www.xlys.org.cn/xxgg/index.jhtml",
     "description": "由中国印学博物馆与浦东篆刻会主办的篆刻特展，展出99件篆刻作品，于孤山西泠印社开幕，免费开放，适合书法篆刻爱好者。（结束日期估算）",
     "category": "展览",
     "fee": "免费",
@@ -10062,7 +10897,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://www.xlys.org.cn/xxgg/index.jhtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "西湖非遗体验周",
@@ -10071,8 +10912,6 @@ module.exports = [
     "city": "hangzhou",
     "start_date": "2026-07-19",
     "end_date": "2026-07-26",
-    "link": "https://www.xhwhg.cn/",
-    "url": "https://www.xhwhg.cn/",
     "description": "龙井茶艺/丝绸刺绣，需提前预约。",
     "category": "亲子活动",
     "fee": "免费需预约",
@@ -10097,7 +10936,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.xhwhg.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩杭州西湖区体育赛事节",
@@ -10134,7 +10979,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式杭州上城区讲座阅读探索",
@@ -10171,7 +11017,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "走进杭州萧山区体育赛事日",
@@ -10207,7 +11054,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京科技馆机械原理实验",
@@ -10244,7 +11092,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "玄武湖环湖亲子跑",
@@ -10281,7 +11130,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "老门东民俗体验",
@@ -10317,7 +11167,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京白局体验",
@@ -10353,7 +11204,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京图书馆少儿英语角",
@@ -10390,7 +11242,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "乌衣巷历史文化研学",
@@ -10426,7 +11279,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青奥公园定向越野",
@@ -10463,7 +11317,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青奥公园攀岩体验",
@@ -10500,7 +11355,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "奥体中心射箭体验",
@@ -10536,7 +11392,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "阳山碑材研学",
@@ -10572,7 +11429,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "游子山登山",
@@ -10608,7 +11466,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "互动南京江宁区影视放映科普",
@@ -10645,7 +11504,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "震撼南京鼓楼区讲座阅读发现",
@@ -10681,7 +11541,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭南京雨花台区体育赛事研学营",
@@ -10718,7 +11579,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "上海玻璃博物馆",
@@ -10755,7 +11617,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "上海乐高乐园开园一周年暑期活动",
@@ -10764,8 +11627,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-19",
     "end_date": "2026-09-18",
-    "link": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
-    "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
     "description": "庆祝开园一周年，周五至周日营业时间延长至20:00，无人机表演生日蛋糕、乐高人仔图案。亲子骑乘、F1赛车竞速等限时活动。地铁22号线金山站。",
     "category": "亲子活动",
     "fee": "收费",
@@ -10789,7 +11650,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索上海淮海路研学-53",
@@ -10825,7 +11692,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“以舞润心，传承经典”舞蹈美育活动",
@@ -10834,8 +11702,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=88478fb76629484c82f3a535ba54aee9",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=88478fb76629484c82f3a535ba54aee9",
     "description": "培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
     "category": "讲座阅读",
     "fee": "免费",
@@ -10859,7 +11725,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=88478fb76629484c82f3a535ba54aee9",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“夏日如歌”音乐会—— 万物自有节奏",
@@ -10868,8 +11740,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e511dc460d124acbb2b9c5d0791fcdd2",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e511dc460d124acbb2b9c5d0791fcdd2",
     "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
     "category": "演出",
     "fee": "免费需预约",
@@ -10892,7 +11762,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e511dc460d124acbb2b9c5d0791fcdd2",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026 不止于攀登·深圳珠峰登顶者分享会",
@@ -10901,8 +11777,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654303&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654303&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆、深圳市登山户外运动协会\n地点：中心馆 五楼报告厅\n地址：福田区福中一路2001号深圳图书馆五楼报告厅\n需预约\n备注：活动面向6周岁以上读者开放，6-12周岁读者参与活动需提前预约，预约成功后现场出示预约信息进行核验，并由家长陪同进馆参加。12周岁以上读者参与活动无需预约。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -10926,7 +11800,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654303&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第88场",
@@ -10935,8 +11815,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655053&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655053&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
     "category": "亲子活动",
     "fee": "免费",
@@ -10960,7 +11838,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655053&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "家长课堂：读懂孩子行为背后的“无声语言”",
@@ -10969,8 +11853,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647128&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647128&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
     "category": "讲座阅读",
     "fee": "免费",
@@ -10994,7 +11876,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647128&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "书海探底——智慧书库参观体验活动第640场",
@@ -11003,8 +11891,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654640&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654640&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11028,7 +11914,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654640&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -11037,8 +11929,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654141&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654141&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：6-12岁少儿读者",
     "category": "亲子活动",
     "fee": "免费",
@@ -11062,7 +11952,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654141&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -11071,8 +11967,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=650335&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=650335&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + LPCD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
     "category": "演出",
     "fee": "免费",
@@ -11096,7 +11990,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=650335&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第89场",
@@ -11105,8 +12005,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655054&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655054&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
     "category": "亲子活动",
     "fee": "免费",
@@ -11130,7 +12028,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655054&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "她影：《女人世界》",
@@ -11139,8 +12043,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652259&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652259&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
     "category": "影视放映",
     "fee": "免费",
@@ -11164,7 +12066,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652259&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "苏格拉底思辨荟第二季第1期：从“虚拟陪伴”到“物理在场”：当机器人走进家门",
@@ -11173,8 +12081,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652220&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652220&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 1F北书房\n地址：深圳市龙华区腾龙路30号\n备注：具体报名方式详见深圳图书馆微信公众号推文",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11198,7 +12104,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652220&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“走进何宇鹏的拓绘世界”——拓绘艺术分享与现场体验活动",
@@ -11207,8 +12119,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655560&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655560&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 4F报告厅\n地址：深圳市龙华区腾龙路30号",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11232,7 +12142,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655560&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "寻找智美更登",
@@ -11241,8 +12157,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654169&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654169&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 3F观影厅\n地址：龙华区腾龙路30号\n备注：年龄要求：年满12周岁以上。",
     "category": "影视放映",
     "fee": "免费",
@@ -11266,7 +12180,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654169&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "书海探底——智慧书库参观体验活动第641场",
@@ -11275,8 +12195,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654641&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654641&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11300,7 +12218,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654641&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“醒狮跃鹏城·非遗通四海”国家级非遗舞狮文化展——定点讲解参观第90场",
@@ -11309,8 +12233,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655055&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655055&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
     "category": "亲子活动",
     "fee": "免费",
@@ -11334,7 +12256,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655055&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“深读”读书沙龙 | AI时代，普通人如何让自己被看见？ ——打造属于你的个人IP",
@@ -11343,8 +12271,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639636&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639636&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼南书房\n地址：福田区福中一路2001号深圳图书馆一楼南书房",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11368,7 +12294,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639636&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "法律咨询",
@@ -11377,8 +12309,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11640",
-    "url": "https://activity.nslib.cn/activity/info/11640",
     "description": "法律咨询。南山图书馆举办。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11402,7 +12332,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11640",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "践书+|《认知驱动》",
@@ -11411,8 +12347,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11662",
-    "url": "https://activity.nslib.cn/activity/info/11662",
     "description": "践书+|《认知驱动》。南山图书馆举办。",
     "category": "其他",
     "fee": "免费",
@@ -11436,7 +12370,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11662",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科普小讲堂丨高楼不倒的秘密",
@@ -11445,8 +12385,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "link": "https://activity.nslib.cn/activity/info/11665",
-    "url": "https://activity.nslib.cn/activity/info/11665",
     "description": "需预约报名。科普小讲堂丨高楼不倒的秘密",
     "category": "讲座阅读",
     "fee": "免费",
@@ -11470,7 +12408,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11665",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉博物馆江汉揽胜展厅课堂",
@@ -11507,7 +12451,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉科技馆物理实验秀",
@@ -11544,7 +12489,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "中山公园亲子定向越野",
@@ -11581,7 +12527,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉欢乐谷亲子过山车体验",
@@ -11617,7 +12564,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "湖北美术馆亲子导览",
@@ -11654,7 +12602,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "湖北省图书馆亲子共读营",
@@ -11691,7 +12640,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉图书馆公益书法班",
@@ -11728,7 +12678,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉体育中心田径体验",
@@ -11764,7 +12715,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉全民健身中心亲子瑜伽",
@@ -11800,7 +12752,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "木兰草原热气球体验",
@@ -11836,7 +12789,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "互动武汉东西湖区体育赛事科普",
@@ -11873,7 +12827,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游武汉江夏区亲子活动季",
@@ -11910,7 +12865,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "碑林博物馆古代科举研学",
@@ -11947,7 +12903,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆声学体验营",
@@ -11984,7 +12941,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "昆明池七夕公园星空露营",
@@ -12021,7 +12979,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "乐华城欢乐世界亲子日",
@@ -12057,7 +13016,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "关中面花制作",
@@ -12093,7 +13053,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "半坡原始文化研学",
@@ -12130,7 +13091,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "雁鸣湖亲子钓鱼",
@@ -12166,7 +13128,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "儿童西安灞桥区亲子活动课程",
@@ -12203,7 +13166,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "轮滑与乒乓球免费体验",
@@ -12212,8 +13176,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-20",
     "end_date": "2026-09-19",
-    "link": "https://mp.weixin.qq.com/s?__biz=海淀体育",
-    "url": "https://mp.weixin.qq.com/s?__biz=海淀体育",
     "description": "轮滑、乒乓球免费体验、亲子徒步。",
     "category": "亲子活动",
     "fee": "免费",
@@ -12237,7 +13199,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=海淀体育",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国科技馆科学之夜",
@@ -12246,8 +13214,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-20",
     "end_date": "2026-08-25",
-    "link": "https://www.cstm.cn/",
-    "url": "https://www.cstm.cn/",
     "description": "夜场开放，体验科学实验秀、机器人表演、沉浸式科学剧场。",
     "category": "科普活动",
     "fee": "收费",
@@ -12271,7 +13237,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.cstm.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味北京门头沟区体育赛事展览",
@@ -12308,7 +13280,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "走进北京石景山区讲座阅读日",
@@ -12344,7 +13317,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典北京西城区亲子活动探秘",
@@ -12380,7 +13354,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "儿童北京大兴区展览课程",
@@ -12416,7 +13391,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都博物馆陶器修复体验",
@@ -12453,7 +13429,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "海昌极地海洋公园深海夜宿",
@@ -12490,7 +13467,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "白鹭湾湿地夏日观鹭",
@@ -12527,7 +13505,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "宽窄巷子糖画手作",
@@ -12563,7 +13542,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都图书馆国学经典诵读",
@@ -12600,7 +13580,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川省图书馆亲子共读日",
@@ -12637,7 +13618,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "安仁古镇民国服饰体验",
@@ -12673,7 +13655,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都太古里亲子DIY工坊",
@@ -12709,7 +13692,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "万象城暑期童玩节",
@@ -12745,7 +13729,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "万象城亲子科技展",
@@ -12781,7 +13766,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游成都高新区体育赛事季",
@@ -12817,7 +13803,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游成都新都区影视放映季",
@@ -12854,7 +13841,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游成都新都区影视放映季-193",
@@ -12890,7 +13878,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "工业博物馆机械探秘研学",
@@ -12927,7 +13916,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "彩云湖湿地公园观鸟活动",
@@ -12964,7 +13954,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆融创海世界海豚表演",
@@ -13000,7 +13991,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆汉海海洋公园触摸池",
@@ -13037,7 +14029,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "仙女山森林探险营",
@@ -13074,7 +14067,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南山植物园夜游会",
@@ -13110,7 +14104,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游重庆江北区影视放映季",
@@ -13147,7 +14142,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游重庆大足区影视放映季",
@@ -13183,7 +14179,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "南沙天后宫妈祖文化节",
@@ -13192,8 +14189,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-20",
     "end_date": "2026-07-22",
-    "link": "https://www.ns-thp.com.cn",
-    "url": "https://www.ns-thp.com.cn",
     "description": "南沙天后宫妈祖文化节，含祭祀典礼、民俗表演与文化展览，免费开放。",
     "category": "展览",
     "fee": "免费",
@@ -13217,7 +14212,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.ns-thp.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "增城1978文化创意园暑期市集",
@@ -13226,8 +14227,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-20",
     "end_date": "2026-08-25",
-    "link": "https://www.zc1978.com",
-    "url": "https://www.zc1978.com",
     "description": "增城1978文化创意园暑期市集，文创手作、美食与亲子互动，免费入场。",
     "category": "亲子活动",
     "fee": "免费",
@@ -13251,7 +14250,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.zc1978.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子广州永庆坊亲子活动-116",
@@ -13287,7 +14292,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "梦幻广州流花湖公园亲子活动-129",
@@ -13324,7 +14330,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探索广州花都区展览演出",
@@ -13360,7 +14367,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩广州番禺区演出节",
@@ -13397,7 +14405,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "发现广州花都区科普活动比赛",
@@ -13434,7 +14443,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "《宋城千古情》大型演艺",
@@ -13443,8 +14453,6 @@ module.exports = [
     "city": "hangzhou",
     "start_date": "2026-07-20",
     "end_date": "2027-01-06",
-    "link": "https://www.songcn.com/",
-    "url": "https://www.songcn.com/",
     "description": "宋城演艺王牌演出《宋城千古情》，以杭州历史为脉络的视听盛宴，每日多场，适合全家观看，需购票入园。",
     "category": "演出",
     "fee": "收费",
@@ -13468,7 +14476,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.songcn.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-92",
@@ -13505,7 +14519,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验杭州余杭区展览嘉年华",
@@ -13542,7 +14557,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "朝天宫馆藏精品文物研学",
@@ -13579,7 +14595,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "六朝博物馆小小讲解员",
@@ -13616,7 +14633,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京科技馆航天主题研学",
@@ -13653,7 +14671,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "江苏科技馆环保主题研学",
@@ -13689,7 +14708,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "莫愁湖公园植物寻宝",
@@ -13726,7 +14746,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "银杏湖乐园主题夏令营",
@@ -13762,7 +14783,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京绒花非遗手作体验",
@@ -13798,7 +14820,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "奥体中心足球夏令营",
@@ -13834,7 +14857,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "五台山体育中心跆拳道",
@@ -13870,7 +14894,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "雨花台红色夏令营",
@@ -13906,7 +14931,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "梅园新村小小讲解员",
@@ -13942,7 +14968,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "大金山国防园军事夏令营",
@@ -13978,7 +15005,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探秘南京六合区演出月",
@@ -14015,7 +15043,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式南京建邺区科普活动探索",
@@ -14051,7 +15080,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭南京六合区展览研学营",
@@ -14087,7 +15117,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "解读南京高淳区体育赛事周",
@@ -14123,7 +15154,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金茂大厦观光",
@@ -14159,7 +15191,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "上海自然博物馆夜宿奇妙夜",
@@ -14168,8 +15201,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-20",
     "end_date": "2026-08-20",
-    "link": "https://www.snhm.org/",
-    "url": "https://www.snhm.org/",
     "description": "夜宿博物馆，探索自然奥秘，参与化石挖掘体验。",
     "category": "科普活动",
     "fee": "收费",
@@ -14194,7 +15225,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.snhm.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子上海东方明珠亲子活动",
@@ -14230,7 +15267,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典上海金茂大厦演出-58",
@@ -14266,7 +15304,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "抢票 | 大湾鸡驾到，“鸡” 不可失！《萌动奇迹》门票开抢，手慢无～",
@@ -14275,8 +15314,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf613b0fc58247329302063a6d6c4b6b",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf613b0fc58247329302063a6d6c4b6b",
     "description": "演出，深圳市盐田区文化广电旅游体育局，在盐田区文化馆举办",
     "category": "演出",
     "fee": "免费需预约",
@@ -14300,7 +15337,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf613b0fc58247329302063a6d6c4b6b",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明街道白花社区杨梅荔枝汤水手工绘画活动",
@@ -14309,8 +15352,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c9759ffc0adc4d6bb9b2bbbeaf43b93f",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c9759ffc0adc4d6bb9b2bbbeaf43b93f",
     "description": "公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办",
     "category": "亲子活动",
     "fee": "免费",
@@ -14334,7 +15375,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c9759ffc0adc4d6bb9b2bbbeaf43b93f",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明街道白花社区墨韵白花·诗写少年”硬笔书法比赛主题活动",
@@ -14343,8 +15390,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc8c1fb6e07640459453fbcac742287d",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc8c1fb6e07640459453fbcac742287d",
     "description": "公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办",
     "category": "亲子活动",
     "fee": "免费",
@@ -14368,7 +15413,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc8c1fb6e07640459453fbcac742287d",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -14377,8 +15428,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
-    "link": "https://www.shenzhenconcerthall.com",
-    "url": "https://www.shenzhenconcerthall.com",
     "description": "弦乐四重奏室内乐公益演出，15:00。免费领票。",
     "category": "演出",
     "fee": "免费",
@@ -14402,7 +15451,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.shenzhenconcerthall.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
@@ -14411,8 +15466,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区文化馆暑期少儿艺术营，包含儿童绘画、手工制作、音乐启蒙等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
@@ -14436,7 +15489,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省博物馆考古小达人体验",
@@ -14473,7 +15532,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "东湖落雁景区观鸟",
@@ -14510,7 +15570,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉欢乐谷儿童剧专场",
@@ -14546,7 +15607,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉美术馆暑期艺术夏令营",
@@ -14583,7 +15645,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "黄鹤楼公园登楼揽胜课堂",
@@ -14620,7 +15683,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "木兰草原夏令营",
@@ -14656,7 +15720,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "汉阳陵博物院考古夏令营",
@@ -14692,7 +15757,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆无人机飞行体验",
@@ -14729,7 +15795,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "大雁塔景区禅茶体验",
@@ -14766,7 +15833,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "玛雅海滩亲子泼水节",
@@ -14803,7 +15871,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "古法造纸体验",
@@ -14840,7 +15909,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西省图唐诗品读会",
@@ -14877,7 +15947,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "环城公园健身操",
@@ -14914,7 +15985,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "楼观台老子文化研学",
@@ -14951,7 +16023,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "大唐芙蓉园灯光秀",
@@ -14987,7 +16060,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "大唐不夜城盛唐天街夜宴",
@@ -15023,7 +16097,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "周末西安新城区展览活动",
@@ -15060,7 +16135,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "潭柘寺千年古刹",
@@ -15096,7 +16172,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "大运河研学与风筝手工",
@@ -15105,8 +16182,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-21",
     "end_date": "2026-09-20",
-    "link": "https://mp.weixin.qq.com/s?__biz=通州青少年活动中心",
-    "url": "https://mp.weixin.qq.com/s?__biz=通州青少年活动中心",
     "description": "大运河研学、风筝手工、民乐体验。",
     "category": "亲子活动",
     "fee": "免费",
@@ -15130,7 +16205,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=通州青少年活动中心",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年北京北京自然博物馆亲子活动",
@@ -15167,7 +16248,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验北京大兴区科普活动嘉年华",
@@ -15204,7 +16286,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "儿童北京丰台区科普活动课程",
@@ -15241,7 +16324,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都博物馆文物拓印体验",
@@ -15278,7 +16362,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川博物院民族服饰体验",
@@ -15314,7 +16399,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金沙遗址博物馆金面具探秘",
@@ -15351,7 +16437,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都动物园动物科普大讲堂",
@@ -15387,7 +16474,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川科技馆火箭模型制作",
@@ -15424,7 +16512,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "天府人文艺术图书馆美术绘本课",
@@ -15461,7 +16550,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武侯祠刘备惠陵探秘",
@@ -15498,7 +16588,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金沙遗址青铜面具研学",
@@ -15535,7 +16626,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "锦城湖亲子帆船",
@@ -15572,7 +16664,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都跑酷训练营",
@@ -15608,7 +16701,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "街子古镇康道寻幽",
@@ -15644,7 +16738,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都大悦城亲子手作日",
@@ -15680,7 +16775,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "三峡博物馆少数民族文化展",
@@ -15717,7 +16813,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "太空生活体验展",
@@ -15754,7 +16851,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "缙云山森林课堂夏令营",
@@ -15790,7 +16888,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆欢乐海底世界水母宫",
@@ -15826,7 +16925,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "白公馆历史研学活动",
@@ -15862,7 +16962,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "仙女山骑马体验",
@@ -15899,7 +17000,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式重庆南岸区影视放映探索",
@@ -15936,7 +17038,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "免费少儿艺术培训与非遗市集",
@@ -15945,8 +17048,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-21",
     "end_date": "2026-09-20",
-    "link": "https://www.gzwhg.org",
-    "url": "https://www.gzwhg.org",
     "description": "免费少儿艺术培训、非遗市集、露天亲子惠民演出、园林自然研学。",
     "category": "亲子活动",
     "fee": "免费",
@@ -15971,7 +17072,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.gzwhg.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州长隆野生动物世界亲子活动",
@@ -16007,7 +17114,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "广州沙湾古镇展览",
@@ -16043,7 +17151,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "研学广州天河公园研学-41",
@@ -16080,7 +17189,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "儿童广州黄埔区亲子活动课程",
@@ -16117,7 +17227,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探索杭州西溪湿地研学-173",
@@ -16153,7 +17264,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭南京溧水区科普活动研学营",
@@ -16190,7 +17302,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "上海迪士尼度假区10周年夏日狂欢",
@@ -16199,8 +17312,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-21",
     "end_date": "2026-10-04",
-    "link": "https://www.shanghaidisneyresort.com/zh-cn/",
-    "url": "https://www.shanghaidisneyresort.com/zh-cn/",
     "description": "十周年庆典叠加《玩具总动员5》全球首映，推出夏季限定娱乐演出、达菲新花车与疯狂动物城季节活动，适合全家亲子避暑游玩。",
     "category": "演出",
     "fee": "需购票",
@@ -16224,7 +17335,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.shanghaidisneyresort.com/zh-cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味上海外滩亲子活动-51",
@@ -16260,7 +17377,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探索上海淮海路研学-83",
@@ -16296,7 +17414,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "震撼上海长宁区演出发现",
@@ -16333,7 +17452,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "暑期上海徐汇区体育赛事体验营",
@@ -16370,7 +17490,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩上海奉贤区讲座阅读节",
@@ -16407,7 +17528,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "趣味上海金山区亲子活动展览",
@@ -16444,7 +17566,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "《自媒体时代，如何打造爆款、打通内容营销》",
@@ -16453,8 +17576,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bed7ca0ba2b7481fa986596fc4ae14fb",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bed7ca0ba2b7481fa986596fc4ae14fb",
     "description": "综合，深圳市文化馆，在深圳市文化馆举办",
     "category": "其他",
     "fee": "免费需预约",
@@ -16478,7 +17599,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bed7ca0ba2b7481fa986596fc4ae14fb",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -16487,8 +17614,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654470&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654470&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
     "category": "演出",
     "fee": "免费",
@@ -16512,7 +17637,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654470&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -16521,8 +17652,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654474&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654474&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
     "category": "演出",
     "fee": "免费",
@@ -16546,7 +17675,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654474&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "中山舰博物馆舰艇模型制作",
@@ -16583,7 +17718,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "湖北省科学技术馆暑期科学营",
@@ -16619,7 +17755,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉图书馆童书漂流",
@@ -16656,7 +17793,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "辛亥革命武昌起义纪念馆历史课堂",
@@ -16692,7 +17830,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉体育馆篮球训练营",
@@ -16729,7 +17868,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "木兰草原滑草嘉年华",
@@ -16765,7 +17905,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "木兰清凉寨古寨探秘",
@@ -16801,7 +17942,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "走进武汉黄陂区演出日",
@@ -16838,7 +17980,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "互动武汉汉阳区讲座阅读科普",
@@ -16875,7 +18018,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩武汉洪山区亲子活动节",
@@ -16912,7 +18056,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆气象科普活动",
@@ -16949,7 +18094,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "乐华城夏日电音节",
@@ -16985,7 +18131,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "秦腔脸谱绘制",
@@ -17021,7 +18168,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕历博唐代历史研学",
@@ -17058,7 +18206,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "汉城湖亲子骑行",
@@ -17095,7 +18244,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "华清宫12·12西安事变演出",
@@ -17131,7 +18281,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "儿童西安莲湖区演出课程",
@@ -17167,7 +18318,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "亲子西安碑林区演出工作坊",
@@ -17204,7 +18356,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "颐和园暑期活动",
@@ -17213,8 +18366,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-22",
     "end_date": "2026-09-21",
-    "link": "https://www.summerpalace-china.com",
-    "url": "https://www.summerpalace-china.com",
     "description": "暑期推出长廊讲解、昆明湖游船、古代园林知识科普等活动，孩子可以在石舫附近参与画扇面体验，感受皇家园林的魅力。",
     "category": "亲子活动",
     "fee": "收费",
@@ -17238,7 +18389,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.summerpalace-china.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "苍穹记忆——南天门计划科幻科普主题展",
@@ -17247,8 +18404,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-22",
     "end_date": "2026-10-25",
-    "link": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
-    "url": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
     "description": "中航环球航空科幻IP南天门计划，3000平方米沉浸式展区，1:1实体机甲战机，23处互动体验。早鸟票68元，原价108元。地铁1号线/9号线军事博物馆站。",
     "category": "科普活动",
     "fee": "收费",
@@ -17272,7 +18427,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "解读北京奥林匹克森林公园展览",
@@ -17309,7 +18470,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式北京日坛公园展览",
@@ -17346,7 +18508,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典北京西城区科普活动探秘",
@@ -17382,7 +18545,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "走进北京石景山区体育赛事日",
@@ -17418,7 +18582,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭北京海淀区影视放映研学营",
@@ -17455,7 +18620,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验北京大兴区展览嘉年华",
@@ -17492,7 +18658,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式北京海淀区科普活动探索",
@@ -17528,7 +18695,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都博物馆汉代画像砖研学",
@@ -17565,7 +18733,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "金沙遗址博物馆象牙发掘体验",
@@ -17602,7 +18771,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川科技馆电磁大探索",
@@ -17639,7 +18809,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都植物园亲子插花课",
@@ -17675,7 +18846,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都欢乐谷亲子游乐挑战",
@@ -17711,7 +18883,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都国色天乡乐园旋转木马派对",
@@ -17747,7 +18920,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都融创乐园主题游乐日",
@@ -17783,7 +18957,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "非遗博览园糖画体验",
@@ -17819,7 +18994,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "非遗博览园川剧脸谱体验",
@@ -17855,7 +19031,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "四川省图书馆作家见面会",
@@ -17892,7 +19069,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "杜甫草堂唐代生活体验",
@@ -17929,7 +19107,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武侯祠锦里三国文化游",
@@ -17966,7 +19145,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "成都武术体验营",
@@ -18002,7 +19182,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "黄龙溪古镇古街寻宝",
@@ -18038,7 +19219,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "洛带古镇古街亲子游",
@@ -18074,7 +19256,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "平乐古镇夜游古街",
@@ -18110,7 +19293,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "IFS夏日亲子艺术市集",
@@ -18146,7 +19330,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青少年成都高新区体育赛事讲座",
@@ -18183,7 +19368,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验成都龙泉驿区展览嘉年华",
@@ -18220,7 +19406,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "互动成都成华区演出科普",
@@ -18256,7 +19443,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "三峡博物馆书画鉴赏讲座",
@@ -18293,7 +19481,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "蜀绣手作工坊",
@@ -18329,7 +19518,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "少儿编程启蒙课",
@@ -18366,7 +19556,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "广州市文化馆新馆暑期文化体验",
@@ -18375,8 +19566,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-22",
     "end_date": "2026-09-21",
-    "link": "https://www.gzwhg.cn",
-    "url": "https://www.gzwhg.cn",
     "description": "汉唐风格与岭南风情融合的文化园区，含翰墨园、广绣园等主题园区，暑期举办各类文化体验活动和展览，需公众号预约。",
     "category": "展览",
     "fee": "免费",
@@ -18401,7 +19590,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.gzwhg.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索广州宝墨园研学-203",
@@ -18437,7 +19632,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "发现广州荔湾区体育赛事比赛",
@@ -18474,7 +19670,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "家庭广州荔湾区影视放映研学营",
@@ -18511,7 +19708,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游杭州六和塔展览-109",
@@ -18547,7 +19745,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "儿童杭州滨江区科普活动课程",
@@ -18584,7 +19783,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "发现杭州临安区亲子活动比赛",
@@ -18621,7 +19821,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游杭州下城区影视放映季",
@@ -18658,7 +19859,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "南京科技馆少儿编程营",
@@ -18695,7 +19897,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "中山植物园热带植物探秘",
@@ -18731,7 +19934,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "流徽榭民国建筑研学",
@@ -18767,7 +19971,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "发现南京江宁区展览比赛",
@@ -18803,7 +20008,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩南京江宁区演出节",
@@ -18840,7 +20046,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "发现南京浦口区科普活动比赛",
@@ -18877,7 +20084,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -18886,8 +20094,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-22",
     "end_date": "2027-11-27",
-    "link": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
-    "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
     "description": "上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。",
     "category": "展览",
     "fee": "收费",
@@ -18912,7 +20118,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海博物馆展览",
@@ -18949,7 +20161,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "成人汉唐舞（4节课程，自备舞蹈练功服）",
@@ -18958,8 +20171,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-22",
     "end_date": "2026-08-12",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227",
     "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
     "category": "讲座阅读",
     "fee": "免费需预约",
@@ -18983,7 +20194,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——吉华街道专场",
@@ -18992,8 +20209,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2",
     "description": "演出，深圳市龙岗区文化广电旅游体育局，在吉华街道文化站举办",
     "category": "演出",
     "fee": "免费需预约",
@@ -19017,7 +20232,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "视障儿童夏令营南科大校园科普实验",
@@ -19026,8 +20247,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆、深圳市盲人协会、深圳广电娃公益金\n地点：馆外（具体见简介）\n地址：具体见活动简介或活动备注",
     "category": "科普活动",
     "fee": "免费",
@@ -19051,7 +20270,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -19060,8 +20285,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
     "category": "演出",
     "fee": "免费",
@@ -19085,7 +20308,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -19094,8 +20323,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
     "category": "演出",
     "fee": "免费",
@@ -19119,7 +20346,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省博物馆元青花四爱图梅瓶鉴赏",
@@ -19156,7 +20389,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉动物园小小饲养员体验",
@@ -19192,7 +20426,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉玛雅海滩水公园亲子水寨",
@@ -19229,7 +20464,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "辛亥革命博物馆近代史课堂",
@@ -19266,7 +20502,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "武汉体育中心网球培训",
@@ -19302,7 +20539,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "木兰天池森林夏令营",
@@ -19338,7 +20576,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "汉口江滩灯光秀夜游",
@@ -19375,7 +20614,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验武汉江夏区演出嘉年华",
@@ -19412,7 +20652,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕历博古代钱币识别课堂",
@@ -19449,7 +20690,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "陕西科技馆人工智能启蒙",
@@ -19486,7 +20728,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "曲江池遗址公园定向越野",
@@ -19523,7 +20766,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "华夏文旅海洋公园亲子潜水体验",
@@ -19560,7 +20804,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "篆刻艺术体验",
@@ -19596,7 +20841,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "西安图书馆小记者营",
@@ -19633,7 +20879,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "兴庆宫公园亲子跑",
@@ -19670,7 +20917,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "王顺山蓝田玉研学",
@@ -19707,7 +20955,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青少年西安未央区亲子活动讲座",
@@ -19743,7 +20992,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探秘西安高陵区体育赛事月",
@@ -19779,7 +21029,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "免费美术舞蹈科创公益课",
@@ -19788,8 +21039,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-23",
     "end_date": "2026-09-22",
-    "link": "https://mp.weixin.qq.com/s?__biz=北京市少年宫",
-    "url": "https://mp.weixin.qq.com/s?__biz=北京市少年宫",
     "description": "免费美术、舞蹈、科创公益课。",
     "category": "演出",
     "fee": "免费",
@@ -19814,7 +21063,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京市少年宫",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "四季植物课与观鸟",
@@ -19823,8 +21078,6 @@ module.exports = [
     "city": "beijing",
     "start_date": "2026-07-23",
     "end_date": "2026-09-22",
-    "link": "https://mp.weixin.qq.com/s?__biz=奥森公园",
-    "url": "https://mp.weixin.qq.com/s?__biz=奥森公园",
     "description": "四季植物课、观鸟、徒步、免费游乐区、风筝活动。",
     "category": "其他",
     "fee": "免费",
@@ -19849,7 +21102,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=奥森公园",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味北京国家体育馆亲子活动",
@@ -19886,7 +21145,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "北京地坛公园展览",
@@ -19923,7 +21183,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "互动北京丰台区科普活动科普",
@@ -19959,7 +21220,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "梦幻北京石景山区影视放映之旅",
@@ -19996,7 +21258,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游北京昌平区讲座阅读季",
@@ -20032,7 +21295,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "梦幻北京房山区演出之旅",
@@ -20068,7 +21332,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验北京丰台区讲座阅读嘉年华",
@@ -20104,7 +21369,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "海昌极地海洋公园鲨鱼科普",
@@ -20141,7 +21407,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "白鹭湾湿地夏日露营节",
@@ -20178,7 +21445,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "三圣花乡亲子绘画写生",
@@ -20214,7 +21482,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "锦里茶艺表演",
@@ -20250,7 +21519,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "青少年成都双流区科普活动讲座",
@@ -20287,7 +21557,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "趣味成都天府新区亲子活动展览-146",
@@ -20324,7 +21595,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验成都龙泉驿区展览嘉年华-189",
@@ -20361,7 +21633,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "重庆欢乐海底世界鲨鱼馆",
@@ -20397,7 +21670,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "鹅岭公园夜景游园",
@@ -20434,7 +21708,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "体验重庆武隆区展览嘉年华",
@@ -20471,7 +21746,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "互动重庆沙坪坝区演出科普",
@@ -20507,7 +21783,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "机器人创客与数学嘉年华",
@@ -20516,8 +21793,6 @@ module.exports = [
     "city": "guangzhou",
     "start_date": "2026-07-23",
     "end_date": "2026-09-22",
-    "link": "https://mp.weixin.qq.com/s?__biz=科普广州",
-    "url": "https://mp.weixin.qq.com/s?__biz=科普广州",
     "description": "机器人创客、数学嘉年华、地质化石手工、AI智能小车体验，暑期科普周全免费。",
     "category": "科普活动",
     "fee": "免费需预约",
@@ -20542,7 +21817,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=科普广州",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子广州永庆坊亲子活动-86",
@@ -20578,7 +21859,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "解读广州余荫山房展览-114",
@@ -20614,7 +21896,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩广州越秀区亲子活动节",
@@ -20651,7 +21934,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "趣味广州天河区演出展览",
@@ -20688,7 +21972,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探索广州越秀区影视放映演出",
@@ -20724,7 +22009,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "走进广州海珠区讲座阅读日",
@@ -20761,7 +22047,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "杭州烂苹果乐园荒诞小镇",
@@ -20797,7 +22084,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览",
@@ -20834,7 +22122,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-31",
@@ -20871,7 +22160,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-123",
@@ -20908,7 +22198,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典杭州下城区展览探秘",
@@ -20945,7 +22236,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "朝天宫明代建筑研学",
@@ -20982,7 +22274,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "精彩南京雨花台区科普活动节",
@@ -21018,7 +22311,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "暑期南京玄武区科普活动体验营",
@@ -21055,7 +22349,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -21064,8 +22359,6 @@ module.exports = [
     "city": "shanghai",
     "start_date": "2026-07-23",
     "end_date": "2026-10-27",
-    "link": "https://www.jfdaily.com/sgh/detail?id=4015071",
-    "url": "https://www.jfdaily.com/sgh/detail?id=4015071",
     "description": "马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。",
     "category": "展览",
     "fee": "收费",
@@ -21089,7 +22382,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.jfdaily.com/sgh/detail?id=4015071",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践上海长风公园研学-77",
@@ -21126,7 +22425,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "漫游上海青浦区展览季",
@@ -21163,7 +22463,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "经典上海徐汇区演出探秘",
@@ -21200,7 +22501,8 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场",
@@ -21209,8 +22511,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-23",
     "end_date": "2026-07-23",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4",
     "description": "演出，深圳市龙岗区文化广电旅游体育局，在园山街道文化站举办",
     "category": "演出",
     "fee": "免费",
@@ -21234,7 +22534,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -21243,8 +22549,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-23",
     "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
     "category": "展览",
     "fee": "免费",
@@ -21268,7 +22572,13 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -21277,8 +22587,6 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-23",
     "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
     "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
     "category": "展览",
     "fee": "免费",
@@ -21302,6 +22610,12 @@ module.exports = [
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ]
   }
 ];

@@ -2326,6 +2326,15 @@
         // ========== 场馆信息功能 ==========
         // 使用上面定义的 _venueInfoMap / _venueInfoList，不再重复加载
 
+        // 提取链接数组（向后兼容 official_url / link / url 旧格式）
+        function getLinks(item) {
+            if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+            if (item.official_url && item.official_url.trim()) return [{ url: item.official_url.trim(), label: '官方网站' }];
+            var url = item.link || item.url;
+            if (url && url.trim()) return [{ url: url.trim(), label: '活动详情' }];
+            return [];
+        }
+
         async function loadVenueInfo() {
             return await ensureVenueInfoLoaded();
         }
@@ -2345,8 +2354,18 @@
                 html += '<div class="modal-info-row" style="flex-direction:column;align-items:flex-start;"><div class="modal-info-label">💡 介绍</div><div class="modal-info-value" style="margin-top:4px;line-height:1.6;">' + info.description + '</div></div>';
             if (info.highlights && info.highlights.length)
                 html += '<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:6px;">' + info.highlights.map(h => '<span style="font-size:12px;padding:2px 8px;background:var(--sand-100);border-radius:10px;color:var(--sand-dark);">' + h + '</span>').join('') + '</div>';
-            if (info.official_url)
-                html += '<div style="margin-top:8px;"><a href="' + info.official_url + '" target="_blank" rel="noopener" style="font-size:13px;color:var(--ocean);text-decoration:none;">🔗 场馆官网 →</a></div>';
+            var links = getLinks(info);
+            if (links.length > 0) {
+                html += '<div style="margin-top:10px;padding-top:8px;border-top:1px dashed var(--border);">';
+                html += '<div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:6px;">🔗 核验链接</div>';
+                links.forEach(function(l) {
+                    html += '<div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;padding:4px 8px;background:var(--sand-50);border-radius:6px;font-size:12px;">' +
+                        '<span style="font-size:11px;font-weight:600;color:var(--sand-dark);white-space:nowrap;padding:1px 5px;background:var(--sand-200);border-radius:3px;">' + l.label + '</span>' +
+                        '<a href="' + l.url + '" target="_blank" rel="noopener" style="flex:1;color:var(--ocean);text-decoration:none;word-break:break-all;">' + l.url + '</a>' +
+                    '</div>';
+                });
+                html += '</div>';
+            }
             return html;
         }
 
@@ -2407,11 +2426,16 @@
                     ${getVenueInfoHTML(exhibition)}
                 </div>
                 ` : ''}
-                ${(exhibition.link || exhibition.url) ? `
+                ${getLinks(exhibition).length > 0 ? `
                 <div class="modal-original-link">
-                    <a href="${exhibition.link || exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
-                        🔗 查看原始活动详情
-                    </a>
+                    ${getLinks(exhibition).map(function(l, i) {
+                        var isFirst = i === 0;
+                        return '<div style="margin-bottom:6px;">' +
+                            '<a href="' + l.url + '" target="_blank" rel="noopener" class="original-link-btn"' + (isFirst ? ' id="original-link-btn"' : '') + '>' +
+                                '🔗 ' + l.label + '：查看详情' +
+                            '</a>' +
+                        '</div>';
+                    }).join('')}
                     <div style="font-size: 11px; color: #999; margin-top: 6px;" id="click-stats-display"></div>
                 </div>
                 ` : ''}
@@ -2419,7 +2443,6 @@
                     <div class="modal-contact-title">📞 联系信息</div>
                     <div class="modal-contact-info">
                         ${exhibition.contact ? `<div>电话：${exhibition.contact}</div>` : ''}
-                        ${!(exhibition.link || exhibition.url) && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
                     </div>
                 </div>
             `;
@@ -2429,7 +2452,7 @@
             // 绑定点击统计
             const linkBtn = document.getElementById('original-link-btn');
             const statsDisplay = document.getElementById('click-stats-display');
-            if (linkBtn && (exhibition.link || exhibition.url)) {
+            if (linkBtn) {
                 const currentSource = exhibition.source;
                 const stats = getClickStats();
                 const count = stats[currentSource] || 0;

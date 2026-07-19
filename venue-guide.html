@@ -194,7 +194,7 @@
         .venue-link {
             display: inline-flex;
             align-items: center;
-            margin-top: 12px;
+            margin-top: 8px;
             padding: 8px 16px;
             font-size: 13px;
             color: white;
@@ -209,6 +209,44 @@
             transform: translateY(-1px);
             box-shadow: 0 4px 10px rgba(8, 145, 178, 0.4);
         }
+        .venue-links {
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px dashed var(--border);
+        }
+        .venue-links-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+        .venue-link-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 6px;
+            padding: 6px 10px;
+            background: var(--sand-50);
+            border-radius: 8px;
+            font-size: 12px;
+        }
+        .venue-link-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--sand-dark);
+            white-space: nowrap;
+            padding: 2px 6px;
+            background: var(--sand-200);
+            border-radius: 4px;
+        }
+        .venue-link-url {
+            flex: 1;
+            color: var(--ocean);
+            text-decoration: none;
+            word-break: break-all;
+            font-size: 12px;
+        }
+        .venue-link-url:hover { text-decoration: underline; }
         .venue-detail {
             font-size: 12px;
             color: var(--text-muted);
@@ -387,6 +425,13 @@
             return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
         }
 
+        // 提取链接数组（向后兼容 official_url 旧格式）
+        function getLinks(item) {
+            if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+            if (item.official_url && item.official_url.trim()) return [{ url: item.official_url.trim(), label: '官方网站' }];
+            return [];
+        }
+
         function render() {
             const grid = document.getElementById('venue-grid');
             const stats = document.getElementById('stats-bar');
@@ -442,7 +487,18 @@
                     }
                     let detail = '';
                     if (v.fee) detail += '<div class="venue-detail-row"><span class="venue-detail-label">门票</span><span>' + escapeHtml(v.fee) + '</span></div>';
-                    const link = v.official_url ? '<a href="' + escapeHtml(v.official_url) + '" target="_blank" rel="noopener" class="venue-link">🔗 访问官网</a>' : '';
+                    let linkHtml = '';
+                    var links = getLinks(v);
+                    if (links.length > 0) {
+                        linkHtml += '<div class="venue-links"><div class="venue-links-title">🔗 核验链接</div>';
+                        links.forEach(function(l) {
+                            linkHtml += '<div class="venue-link-item">' +
+                                '<span class="venue-link-label">' + escapeHtml(l.label) + '</span>' +
+                                '<a href="' + escapeHtml(l.url) + '" target="_blank" rel="noopener" class="venue-link-url">' + escapeHtml(l.url) + '</a>' +
+                            '</div>';
+                        });
+                        linkHtml += '</div>';
+                    }
 
                     html += '<div class="venue-card">' +
                         '<div class="venue-name">' + escapeHtml(v.name) + '</div>' +
@@ -454,7 +510,7 @@
                         (v.description ? '<div class="venue-desc">' + escapeHtml(v.description) + '</div>' : '') +
                         highlights +
                         (detail ? '<div class="venue-detail">' + detail + '</div>' : '') +
-                        link +
+                        linkHtml +
                     '</div>';
                 });
             });

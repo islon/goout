@@ -1017,6 +1017,14 @@
 
         let scheduleVenueInfo = null;
 
+        // 提取链接数组（向后兼容 link/url 旧格式）
+        function getLinks(item) {
+            if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+            var url = item.link || item.url;
+            if (url && url.trim()) return [{ url: url.trim(), label: '活动详情' }];
+            return [];
+        }
+
         async function loadScheduleVenueInfo() {
             if (scheduleVenueInfo) return scheduleVenueInfo;
             try {
@@ -1080,7 +1088,7 @@
                             </div>
                             ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
                             ${venueDesc}
-                            ${(exhibition.link || exhibition.url) ? `<a href="${exhibition.link || exhibition.url}" target="_blank" class="exhibition-link">🔗 查看详情</a>` : ''}
+                            ${getLinks(exhibition).map(l => `<a href="${l.url}" target="_blank" class="exhibition-link">🔗 ${l.label}：查看详情</a>`).join('')}
                         `;
 
                         listContainer.appendChild(card);

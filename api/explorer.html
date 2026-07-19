@@ -117,7 +117,7 @@ async function run(){
       ${r.family_friendly?'<span class="tag">亲子</span>':''}</div>
       <div class="meta">📍 ${r.venue||"-"}　🗓 ${r.start_date||"?"} ~ ${r.end_date||"?"}
       ${r.venue_url?`<br>🔗 <a href="${r.venue_url}" target="_blank">场馆官网</a>`:""}
-      ${r.link?` · <a href="${r.link}" target="_blank">活动页</a>`:""}</div>`;
+      ${r.links && r.links.length > 0 ? r.links.map(l => ' · <a href="' + l.url + '" target="_blank">' + l.label + '</a>').join('') : ''}</div>`;
     box.appendChild(div);
   });
   if(data.length>60) box.insertAdjacentHTML("beforeend",`<div class="meta" style="grid-column:1/-1">…仅显示前 60 条，完整数据请直接 fetch 对应 JSON。</div>`);

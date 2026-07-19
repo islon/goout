@@ -129,11 +129,15 @@ async function buildActivities(base) {
 function finalizeVenue(v) {
   const official = v.venue_url || "";
   const third = v.third_party_url || "";
+  const links = [];
+  if (official) links.push({ url: official, label: '官方网站' });
+  if (third) links.push({ url: third, label: '活动详情' });
   return {
     ...v,
     official_url: official,
     url: official || third,
     url_source: official ? "official" : (third ? "third_party" : ""),
+    links: links,
   };
 }
 

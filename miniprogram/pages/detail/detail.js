@@ -3,6 +3,14 @@ const { getActivityType, getFeeType, formatDate, getDuration, normalizeCity, fin
 
 const app = getApp();
 
+// 提取链接数组（向后兼容 link/url 旧格式）
+function getLinks(item) {
+  if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+  var url = item.link || item.url;
+  if (url && url.trim()) return [{ url: url.trim(), label: '活动详情' }];
+  return [];
+}
+
 Page({
   data: {
     activity: null,
@@ -11,7 +19,8 @@ Page({
     dateDisplay: '',
     duration: '',
     venueAddress: '',
-    showLink: false,
+    hasLinks: false,
+    links: [],
     showBooking: false,
     bookingApp: '',
     bookingHint: '',
@@ -70,6 +79,8 @@ Page({
         verifiedClass = 'warn';
       }
 
+      const links = getLinks(activity);
+
       self.setData({
         activity: activity,
         activityType: activityType,
@@ -77,7 +88,8 @@ Page({
         dateDisplay: dateDisplay,
         duration: duration,
         venueAddress: venueAddress,
-        showLink: !!activity.url,
+        hasLinks: links.length > 0,
+        links: links,
         showBooking: !!(activity.booking_method && activity.booking_method.app_name),
         bookingApp: activity.booking_method ? activity.booking_method.app_name : '',
         bookingHint: activity.booking_method ? (activity.booking_method.search_hint || '') : '',
@@ -115,10 +127,11 @@ Page({
     });
   },
 
-  onCopyLink() {
-    if (!this.data.activity || !this.data.activity.url) return;
+  onCopyLink(e) {
+    const url = e.currentTarget.dataset.url;
+    if (!url) return;
     wx.setClipboardData({
-      data: this.data.activity.url,
+      data: url,
       success: function() {
         wx.showToast({ title: '链接已复制', icon: 'success' });
       }

@@ -1281,6 +1281,10 @@ def generate_venue_info_json(output_path=None):
     """生成 venue_info.json 格式的数据"""
     venues = []
     for v in VENUES:
+        official_url = v.get('official_url', '')
+        links = v.get('links', [])
+        if not links and official_url:
+            links = [{'url': official_url, 'label': '官方网站'}]
         venues.append({
             'name': v['name'],
             'source': v['source_code'],
@@ -1291,7 +1295,8 @@ def generate_venue_info_json(output_path=None):
             'transport': v.get('transport', ''),
             'fee': v.get('fee', '免费'),
             'description': v.get('description', ''),
-            'official_url': v.get('official_url', ''),
+            'official_url': official_url,
+            'links': links,
             'highlights': v.get('highlights', []),
         })
     if output_path:

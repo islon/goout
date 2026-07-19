@@ -4,6 +4,13 @@ const { findVenue, formatDate } = require('../../utils/helpers.js');
 const { cities: bundledCities } = require('../../data/filters.js');
 const app = getApp();
 
+// 提取链接数组（向后兼容 official_url 旧格式）
+function getLinks(item) {
+  if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+  if (item.official_url && item.official_url.trim()) return [{ url: item.official_url.trim(), label: '官方网站' }];
+  return [];
+}
+
 // 运行时构建城市名映射：优先 app.getCities()，回退打包兜底
 function buildCityNames() {
   const map = {};
@@ -22,7 +29,8 @@ Page({
   data: {
     venue: null,
     cityName: '',
-    hasOfficialUrl: false,
+    hasLinks: false,
+    links: [],
     hasHighlights: false,
     hasAddress: false,
     hasTransport: false,
@@ -76,10 +84,12 @@ Page({
     activities.sort((a, b) => (a.start_date || '').localeCompare(b.start_date || ''));
 
     const cityNames = buildCityNames();
+    const links = getLinks(venue);
     this.setData({
       venue: venue,
       cityName: cityNames[venue.city] || venue.city,
-      hasOfficialUrl: !!(venue.official_url && venue.official_url.length > 0),
+      hasLinks: links.length > 0,
+      links: links,
       hasHighlights: !!(venue.highlights && venue.highlights.length > 0),
       hasAddress: !!(venue.address && venue.address.length > 0),
       hasTransport: !!(venue.transport && venue.transport.length > 0),
@@ -91,11 +101,12 @@ Page({
     wx.setNavigationBarTitle({ title: venue.name || '场馆介绍' });
   },
 
-  onCopyUrl() {
-    if (!this.data.venue || !this.data.venue.official_url) return;
+  onCopyLink(e) {
+    const url = e.currentTarget.dataset.url;
+    if (!url) return;
     wx.setClipboardData({
-      data: this.data.venue.official_url,
-      success: () => wx.showToast({ title: '官网链接已复制', icon: 'success' })
+      data: url,
+      success: () => wx.showToast({ title: '链接已复制', icon: 'success' })
     });
   },
 

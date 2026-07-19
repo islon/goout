@@ -45,10 +45,15 @@
     <view class="info-desc">{{venue.description}}</view>
   </view>
 
-  <!-- 官网链接 -->
-  <view class="link-section" wx:if="{{hasOfficialUrl}}">
-    <button class="link-btn" bindtap="onCopyUrl">复制官网链接</button>
-    <view class="link-hint">复制后在浏览器中打开</view>
+  <!-- 核验链接 -->
+  <view class="link-section" wx:if="{{hasLinks}}">
+    <view class="link-title">🔗 核验链接</view>
+    <view wx:for="{{links}}" wx:key="url" class="link-card">
+      <view class="link-label">{{item.label}}</view>
+      <view class="link-url">{{item.url}}</view>
+      <button class="link-copy-btn" bindtap="onCopyLink" data-url="{{item.url}}">复制链接</button>
+    </view>
+    <view class="link-hint">复制后在浏览器中打开查看详情</view>
   </view>
 
   <!-- 该场馆的活动 -->

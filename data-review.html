@@ -535,7 +535,7 @@
                         <tr>
                             <td>${start + i + 1}</td>
                             <td><span style="font-size:12px;padding:2px 8px;background:#f0f7ff;color:#0891b2;border-radius:4px;">${e._cityName || ''}</span></td>
-                            <td><a href="${e.link || e.url || '#'}" target="_blank" style="color: #667eea; text-decoration: none;">${title}</a></td>
+                            <td>${(() => { var lks = e.links; var href = (lks && lks.length > 0) ? lks[0].url : (e.link || e.url || '#'); return '<a href="' + href + '" target="_blank" style="color: #667eea; text-decoration: none;">' + title + '</a>'; })()}</td>
                             <td title="${vTitle}">${e.venue || ''}</td>
                             <td>${vType ? '<span style="font-size:11px;padding:2px 6px;background:#f0f7ff;color:#0891b2;border-radius:4px;">' + vType + '</span>' : ''}</td>
                             <td>${e.start_date || ''}</td>

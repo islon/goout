@@ -332,6 +332,7 @@ ul{{margin:6px 0;padding-left:20px}}li{{margin:3px 0}}
 <tr><td class="k">third_party_url</td><td class="t">string</td><td><b>三方链接</b>（活动来源页，如本地宝），官方缺失时兜底</td></tr>
 <tr><td class="k">url</td><td class="t">string</td><td><b>对外展示链接：优先 official_url，其次 third_party_url</b></td></tr>
 <tr><td class="k">url_source</td><td class="t">string</td><td>official / third_party / 空</td></tr>
+<tr><td class="k">links</td><td class="t">list</td><td><b>核验链接列表</b> [{url, label}]，优先官方，其次三方</td></tr>
 <tr><td class="k">activity_count</td><td class="t">int</td><td>该场馆活动数</td></tr>
 <tr><td class="k">activity_ids</td><td class="t">list</td><td>该场馆活动 id 列表</td></tr>
 </table></div>
@@ -361,6 +362,7 @@ def venue_public(v):
       third_party_url  活动来源页（如本地宝汇总页），作为兜底
       url              优先官方、其次三方（对外展示用）
       url_source       'official' / 'third_party' / ''
+      links            核验链接列表 [{url, label}]
     """
     out = {k: val for k, val in v.items() if k != "activity_ids"}
     official = (v.get("venue_url") or "").strip()
@@ -369,6 +371,10 @@ def venue_public(v):
     out["third_party_url"] = third
     out["url"] = official or third
     out["url_source"] = "official" if official else ("third_party" if third else "")
+    links = []
+    if official: links.append({"url": official, "label": "官方网站"})
+    if third: links.append({"url": third, "label": "活动详情"})
+    out["links"] = links
     return out
 
 

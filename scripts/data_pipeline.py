@@ -322,6 +322,7 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
         'end_date': end_date,
         'link': link,
         'url': link,
+        'links': [{'url': link, 'label': '活动详情'}] if link else [],
         'description': description,
         'category': category,
         'fee': fee,
