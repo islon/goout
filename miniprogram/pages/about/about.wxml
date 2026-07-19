@@ -9,17 +9,14 @@
     <view class="header-tag">每日自动更新 · 无需手动操作</view>
   </view>
 
-  <!-- 方式一：微信内提醒 -->
+  <!-- 方式一：微信提醒 -->
   <view class="section">
     <view class="section-title">方式一：微信提醒</view>
-    <view class="subscribe-tip">
-      在活动详情页点击「提醒我」，活动前1天收到微信通知
-    </view>
     <view class="remind-card">
       <image class="remind-icon" src="/assets/about-bell.png" mode="aspectFit"></image>
       <view class="remind-text">
-        <view class="remind-title">微信订阅消息</view>
-        <view class="remind-desc">活动前1天自动推送提醒到微信</view>
+        <view class="remind-title">活动前1天微信通知</view>
+        <view class="remind-desc">在活动详情页点击「提醒我」按钮即可开启</view>
       </view>
     </view>
   </view>
@@ -27,9 +24,7 @@
   <!-- 方式二：日历订阅 -->
   <view class="section">
     <view class="section-title">方式二：日历订阅</view>
-    <view class="subscribe-tip">
-      复制链接，在手机日历中添加订阅
-    </view>
+    <view class="subscribe-tip">复制链接，在手机日历 App 中添加为订阅日历</view>
 
     <!-- iOS 用户 -->
     <view class="platform-card">
@@ -38,7 +33,10 @@
         <text class="platform-name">iPhone / iPad</text>
       </view>
       <view class="platform-steps">
-        <view class="step">设置 → 日历 → 账户 → 添加订阅日历 → 粘贴链接</view>
+        <view class="step"><text class="step-num">1</text>复制下方对应城市的订阅链接</view>
+        <view class="step"><text class="step-num">2</text>打开「设置」→「日历」→「账户」</view>
+        <view class="step"><text class="step-num">3</text>选择「添加账户」→「其他」→「添加订阅日历」</view>
+        <view class="step"><text class="step-num">4</text>粘贴链接并保存</view>
       </view>
     </view>
 
@@ -49,7 +47,11 @@
         <text class="platform-name">Android</text>
       </view>
       <view class="platform-steps">
-        <view class="step">推荐 Google Calendar，在 App 中添加订阅</view>
+        <view class="step"><text class="step-num">1</text>推荐安装 Google Calendar 或 Sol Calendar</view>
+        <view class="step"><text class="step-num">2</text>复制下方链接，在日历 App 中添加订阅</view>
+      </view>
+      <view class="platform-note">
+        华为/小米/OPPO 等自带日历通常不支持订阅，建议用「微信提醒」或安装第三方日历
       </view>
     </view>
 
@@ -71,48 +73,35 @@
   <!-- 方式三：网页版 -->
   <view class="section">
     <view class="section-title">方式三：网页版</view>
-    <view class="subscribe-tip">
-      在浏览器中查看和订阅全部城市的活动日历
-    </view>
-    <view class="h5-card" bindtap="onCopyH5Url">
-      <image class="h5-icon" src="/assets/about-link.png" mode="aspectFit"></image>
-      <view class="h5-content">
-        <view class="h5-title">童行网页版</view>
-        <view class="h5-url">islon.github.io/goout</view>
-      </view>
-      <view class="h5-action">复制</view>
-    </view>
-    <view class="h5-schedule-card" bindtap="onCopyScheduleUrl">
+    <view class="h5-card" bindtap="onCopyScheduleUrl">
       <image class="h5-icon" src="/assets/about-cal.png" mode="aspectFit"></image>
       <view class="h5-content">
-        <view class="h5-title">日历订阅页</view>
+        <view class="h5-title">日历订阅页面</view>
+        <view class="h5-desc">浏览器中查看和订阅全部城市活动</view>
         <view class="h5-url">islon.github.io/goout/schedule.html</view>
       </view>
       <view class="h5-action">复制</view>
     </view>
   </view>
 
-  <!-- 数据说明 -->
+  <!-- 数据说明 + 反馈 -->
   <view class="section">
-    <view class="section-title">数据说明</view>
+    <view class="section-title">说明与反馈</view>
     <view class="data-info">
-      <view class="data-row">数据来源：各场馆官方渠道</view>
-      <view class="data-row">更新频率：每日自动抓取，请以官方为准</view>
-      <view class="data-row">隐私说明：不收集个人信息</view>
+      <view class="data-row"><text class="data-label">数据来源</text><text class="data-value">各场馆官方渠道</text></view>
+      <view class="data-row"><text class="data-label">更新频率</text><text class="data-value">每日自动抓取，请以官方为准</text></view>
+      <view class="data-row"><text class="data-label">隐私说明</text><text class="data-value">不收集个人信息</text></view>
     </view>
-  </view>
-
-  <!-- 意见反馈 -->
-  <view class="section">
-    <view class="section-title">意见反馈</view>
-    <button class="feedback-wx-btn" open-type="feedback">微信反馈</button>
-    <view class="feedback-card" bindtap="onCopyGitHub">
-      <image class="feedback-icon" src="/assets/about-link.png" mode="aspectFit"></image>
-      <view class="feedback-content">
-        <view class="feedback-title">GitHub Issues</view>
-        <view class="feedback-desc">数据报错、功能建议</view>
+    <view class="feedback-row">
+      <button class="feedback-wx-btn" open-type="feedback">微信反馈</button>
+      <view class="feedback-card" bindtap="onCopyGitHub">
+        <image class="feedback-icon" src="/assets/about-link.png" mode="aspectFit"></image>
+        <view class="feedback-content">
+          <view class="feedback-title">GitHub Issues</view>
+          <view class="feedback-desc">数据报错、功能建议</view>
+        </view>
+        <view class="feedback-action">复制</view>
       </view>
-      <view class="feedback-action">复制</view>
     </view>
   </view>
 
@@ -121,9 +110,9 @@
     <image class="footer-logo" src="/assets/logo-icon.png" mode="aspectFit"></image>
     <view class="footer-text">最好的成长是一路相伴</view>
     <view class="footer-sub">童行 © 2026 · islon.github.io/goout</view>
-    <view class="footer-version" wx:if="{{appVersion}}">版本 v{{appVersion}} · 发布于 {{buildDate}}</view>
+    <view class="footer-version" wx:if="{{appVersion}}">版本 v{{appVersion}} · {{buildDate}}</view>
     <view class="footer-data" wx:if="{{lastUpdateTime}}">数据更新于 {{lastUpdateTime}}</view>
-    <view class="footer-venues" wx:if="{{venuesCount}}">已加载场馆 {{venuesCount}} / 预期 {{venuesExpected}}</view>
+    <view class="footer-venues" wx:if="{{venuesCount}}">已加载场馆 {{venuesCount}} / {{venuesExpected}}</view>
   </view>
 
   <view style="height: 60rpx;"></view>
