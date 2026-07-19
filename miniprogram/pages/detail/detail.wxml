@@ -77,9 +77,13 @@
       <button wx:if="{{showBooking}}" class="link-btn link-btn-booking" bindtap="onBookingTap">报名入口</button>
     </view>
     <view wx:if="{{showLink}}" class="link-hint">复制原始链接后，在浏览器中打开查看官方详情</view>
-    <view wx:if="{{showBooking}}" class="link-hint booking-hint">
-      <text class="booking-app">{{bookingApp}}</text>
-      <text class="booking-step">{{bookingHint}}</text>
+    <view wx:if="{{showBooking}}" class="booking-card" bindtap="onBookingTap">
+      <view class="booking-card-icon">📱</view>
+      <view class="booking-card-content">
+        <view class="booking-card-title">{{bookingApp}}</view>
+        <view class="booking-card-desc">{{bookingHint}}</view>
+      </view>
+      <view class="booking-card-arrow">复制 →</view>
     </view>
   </view>
 
