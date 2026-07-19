@@ -1,7 +1,7 @@
 // 童行小程序 - 场馆指南列表页
 // 打包内城市清单仅作离线兜底；运行期优先用 app.getCities()（来自远程 cities.json），
 // 这样云侧新增城市后无需重新发布小程序版本即可出现在城市 tab。
-const { cities: bundledCities } = require('../../data/filters.js');
+const { cities: bundledCities, districtPopulation } = require('../../data/filters.js');
 const { findVenue, buildVenueActivityCounts } = require('../../utils/helpers.js');
 const app = getApp();
 
@@ -208,7 +208,11 @@ Page({
       const d = v.district;
       if (d && d !== '其他') found[d] = true;
     }
-    const districts = ['全部区县'].concat(Object.keys(found).sort());
+    // 区县按常住人口(万人)降序排列，人口多的排在前面；未收录的排末尾
+    const districtKeys = Object.keys(found).sort(function(a, b) {
+      return (districtPopulation[b] || 0) - (districtPopulation[a] || 0);
+    });
+    const districts = ['全部区县'].concat(districtKeys);
     this.setData({ districts: districts });
   },
 

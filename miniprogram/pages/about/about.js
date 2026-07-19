@@ -26,12 +26,8 @@ function buildCityLists(exhibitions, venues, cityDefs) {
   });
 
   const cities = (Array.isArray(cityDefs) && cityDefs.length) ? cityDefs : bundledCities;
-  // 按人口/GDP 降序，人口多的城市排在前面（无 population 字段时保持原顺序）
-  const sorted = cities.slice().sort(function(a, b) {
-    return (b.population || 0) - (a.population || 0);
-  });
 
-  const cityList = sorted.map(function(c) {
+  const cityList = cities.map(function(c) {
     return {
       name: c.name,
       count: (actCount[c.key] || 0) + '条',
@@ -41,7 +37,7 @@ function buildCityLists(exhibitions, venues, cityDefs) {
     };
   });
 
-  const links = sorted.map(function(c) {
+  const links = cities.map(function(c) {
     return {
       city: c.name,
       count: (actCount[c.key] || 0) + '条活动',
