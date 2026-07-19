@@ -132,36 +132,27 @@ Page({
     const hint = bm.search_hint || '';
     const appType = bm.app_type || 'wechat_mini_program';
 
-    // 小程序/公众号类型：复制小程序名，提示用户去微信搜索
     if (appType === 'wechat_mini_program' || appType === 'wechat_official_account') {
       wx.setClipboardData({
         data: appName,
         success: function() {
-          wx.showModal({
-            title: '报名入口已复制',
-            content: '小程序/公众号名称「' + appName + '」已复制。\n\n操作步骤：\n1. 退出本小程序，回到微信首页\n2. 点击顶部搜索框，粘贴并搜索\n3. ' + hint + '\n\n由于微信限制，需手动搜索进入对应场馆官方小程序。',
-            showCancel: false,
-            confirmText: '我知道了',
-            confirmColor: '#D4A373'
-          });
+          wx.showToast({ title: '已复制「' + appName + '」', icon: 'success' });
         }
       });
       return;
     }
 
-    // App 类型：提示用户下载
     if (appType === 'app') {
       wx.showModal({
-        title: '报名入口提示',
-        content: '本活动需通过 App 报名：\n\n' + appName + '\n\n操作步骤：\n' + hint,
+        title: '报名入口',
+        content: '通过「' + appName + '」App 报名\n\n' + hint,
         showCancel: false,
-        confirmText: '我知道了',
+        confirmText: '知道了',
         confirmColor: '#D4A373'
       });
       return;
     }
 
-    // Web 类型：直接复制 URL
     if (appType === 'web' && bm.platform_url) {
       wx.setClipboardData({
         data: bm.platform_url,
@@ -172,7 +163,6 @@ Page({
       return;
     }
 
-    // 兜底
     wx.showModal({
       title: '报名入口',
       content: hint || appName,

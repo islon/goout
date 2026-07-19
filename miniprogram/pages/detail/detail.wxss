@@ -186,27 +186,50 @@
   line-height: 1.5;
 }
 
-.booking-hint {
-  background: #FFF8F0;
-  border: 2rpx solid #F5E4D0;
-  border-radius: 12rpx;
-  padding: 16rpx 20rpx;
-  color: #78716C;
-  text-align: left;
+.booking-card {
   display: flex;
-  flex-direction: column;
-  gap: 6rpx;
+  align-items: center;
+  gap: 16rpx;
+  background: linear-gradient(135deg, #FFF9F5 0%, #FFFFFF 100%);
+  border: 2rpx solid #F5E4D0;
+  border-radius: 16rpx;
+  padding: 20rpx 24rpx;
+  margin-top: 12rpx;
 }
 
-.booking-app {
-  font-size: 24rpx;
+.booking-card:active {
+  background: #FFF0E5;
+}
+
+.booking-card-icon {
+  font-size: 40rpx;
+  flex-shrink: 0;
+}
+
+.booking-card-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4rpx;
+}
+
+.booking-card-title {
+  font-size: 26rpx;
   font-weight: 600;
   color: #B8895A;
 }
 
-.booking-step {
+.booking-card-desc {
   font-size: 22rpx;
   color: #78716C;
+  line-height: 1.5;
+}
+
+.booking-card-arrow {
+  font-size: 24rpx;
+  color: #D4A373;
+  font-weight: 600;
+  flex-shrink: 0;
 }
 
 /* 活动提醒 */
