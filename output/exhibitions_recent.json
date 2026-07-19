@@ -13251,7 +13251,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "venue_url": "https://www.worldartmuseum.cn/"
   },
   {
     "name": "解读北京奥林匹克森林公园展览",

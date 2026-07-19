@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>童行 API 调试台</title>
+<style>
+:root{--bg:#0f1420;--card:#1a2233;--fg:#e6edf6;--mut:#8aa0bd;--acc:#5ac8fa;--line:#2a3650;--ok:#9be3a0}
+*{box-sizing:border-box}body{margin:0;font:14px/1.6 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--fg)}
+header{padding:24px 20px 8px} h1{margin:0;font-size:20px} p.sub{color:var(--mut);margin:4px 0 0}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px 60px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:14px 0}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end}
+label{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--mut)}
+select,input{background:#0c1220;color:var(--fg);border:1px solid var(--line);border-radius:7px;padding:7px 9px;font-size:14px}
+button{background:var(--acc);color:#06121c;border:0;border-radius:7px;padding:8px 16px;font-weight:700;cursor:pointer}
+button.ghost{background:transparent;color:var(--acc);border:1px solid var(--acc)}
+.code{background:#0c1220;border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin-top:8px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;color:var(--ok);white-space:pre-wrap;word-break:break-all}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin-top:12px}
+.act{background:#0c1220;border:1px solid var(--line);border-radius:9px;padding:12px}
+.act h3{margin:0 0 6px;font-size:15px}
+.tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;margin:2px 4px 2px 0;background:#16233a;color:var(--acc)}
+.tag.free{background:#16331f;color:var(--ok)} .tag.paid{background:#33261a;color:#ffcf8a}
+.meta{color:var(--mut);font-size:12px;margin-top:6px}
+a{color:var(--acc)}
+.count{color:var(--mut);font-size:13px}
+</style>
+</head>
+<body>
+<header><h1>童行 (goout) 活动 / 场馆数据 · API 调试台</h1>
+<p class="sub">数据来自 GitHub Pages 公开 JSON（已开 CORS）。本页纯前端，可直接调用，无需服务器。</p></header>
+<div class="wrap">
+
+<div class="panel">
+  <div class="row">
+    <label>城市
+      <select id="city">
+        <option value="beijing">北京</option><option value="shanghai">上海</option>
+        <option value="guangzhou">广州</option><option value="shenzhen">深圳</option>
+        <option value="hangzhou">杭州</option><option value="chengdu">成都</option>
+        <option value="chongqing">重庆</option><option value="nanjing">南京</option>
+        <option value="wuhan">武汉</option><option value="xian">西安</option>
+      </select>
+    </label>
+    <label>收费
+      <select id="fee"><option value="">不限</option><option>免费</option><option>免费需预约</option><option>收费</option><option>部分免费</option><option>需购票</option></select>
+    </label>
+    <label>状态
+      <select id="status"><option value="">不限</option><option value="ongoing">进行中</option><option value="upcoming">未开始</option><option value="ended">已结束</option></select>
+    </label>
+    <label>亲子
+      <select id="ff"><option value="">不限</option><option value="true">亲子友好</option><option value="false">非亲子</option></select>
+    </label>
+    <label>关键词
+      <input id="kw" placeholder="标题/场馆/描述" style="min-width:160px">
+    </label>
+    <button id="go">查询</button>
+    <button id="copy" class="ghost">复制 fetch 代码</button>
+  </div>
+  <div class="count" id="count" style="margin-top:10px"></div>
+  <div class="code" id="snippet"></div>
+</div>
+
+<div class="grid" id="results"></div>
+
+<p class="sub" style="margin-top:24px">
+想要带过滤的真·REST 接口（如 <code>/api/activities?city=beijing&fee=免费</code>）？
+把仓库里的 <code>api/worker.js</code> 用 <code>npx wrangler deploy</code> 部署为 Cloudflare Worker 即可，免费、自带公网域名与 CORS。详见 <code>api/PUBLIC_API.md</code>。
+</p>
+</div>
+
+<script>
+const BASE = "https://islon.github.io/goout/output";
+const $ = (id) => document.getElementById(id);
+function statusOf(s,e,today){ if(s&&s>today) return "upcoming"; if(e&&e<today) return "ended"; return "ongoing"; }
+function buildSnippet(city, fee, status, ff, kw){
+  const params = new URLSearchParams();
+  if(city) params.set("city", city);
+  if(fee) params.set("fee", fee);
+  if(status) params.set("status", status);
+  if(ff) params.set("family_friendly", ff);
+  if(kw) params.set("keyword", kw);
+  const q = params.toString();
+  return `// 直接 fetch 公开 JSON（无需 token，已开 CORS）
+const url = "${BASE}/exhibitions_${city}.json";
+const res = await fetch(url);
+const data = await res.json();
+// 然后在浏览器端按 fee/status/keyword 过滤（参考本页源码）`;
+}
+async function run(){
+  const city=$("city").value, fee=$("fee").value, status=$("status").value,
+        ff=$("ff").value, kw=$("kw").value.trim();
+  $("snippet").textContent = buildSnippet(city, fee, status, ff, kw);
+  const res = await fetch(`${BASE}/exhibitions_${city}.json`);
+  let data = await res.json();
+  const today = new Date().toISOString().slice(0,10);
+  data = data.map(r=>({...r, status:statusOf(r.start_date||"", r.end_date||"", today)}));
+  const fk = kw.toLowerCase();
+  data = data.filter(r=>{
+    if(fee && (r.fee||"")!==fee) return false;
+    if(status && r.status!==status) return false;
+    if(ff==="true" && !r.family_friendly) return false;
+    if(ff==="false" && r.family_friendly) return false;
+    if(fk){ const hay=[r.title,r.name,r.venue,r.description,r.category].join(" ").toLowerCase();
+      if(!hay.includes(fk)) return false; }
+    return true;
+  });
+  $("count").textContent = `共 ${data.length} 条`;
+  const box=$("results"); box.innerHTML="";
+  data.slice(0,60).forEach(r=>{
+    const div=document.createElement("div"); div.className="act";
+    const fclass = (r.fee==="免费"||r.fee==="免费需预约"||r.fee==="部分免费")?"free":"paid";
+    div.innerHTML = `<h3>${r.title||r.name||"(无标题)"}</h3>
+      <div><span class="tag">${r.city_name||r.city||""}</span>
+      <span class="tag ${fclass}">${r.fee||"未知"}</span>
+      <span class="tag">${r.status==="ongoing"?"进行中":r.status==="upcoming"?"未开始":"已结束"}</span>
+      ${r.family_friendly?'<span class="tag">亲子</span>':''}</div>
+      <div class="meta">📍 ${r.venue||"-"}　🗓 ${r.start_date||"?"} ~ ${r.end_date||"?"}
+      ${r.venue_url?`<br>🔗 <a href="${r.venue_url}" target="_blank">场馆官网</a>`:""}
+      ${r.link?` · <a href="${r.link}" target="_blank">活动页</a>`:""}</div>`;
+    box.appendChild(div);
+  });
+  if(data.length>60) box.insertAdjacentHTML("beforeend",`<div class="meta" style="grid-column:1/-1">…仅显示前 60 条，完整数据请直接 fetch 对应 JSON。</div>`);
+}
+$("go").onclick = run;
+$("copy").onclick = ()=>{ navigator.clipboard.writeText($("snippet").textContent); $("copy").textContent="已复制✓"; setTimeout(()=>$("copy").textContent="复制 fetch 代码",1500); };
+run();
+</script>
+</body>
+</html>
