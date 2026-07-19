@@ -2513,5 +2513,839 @@
     "address": "",
     "description": "广州市交响乐团演出，以新世纪音乐风格呈现舒曼尼科夫《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。",
     "source": "深圳音乐厅官网"
+  },
+  {
+    "name": "宝安区图书馆（总馆）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区宝兴路1号",
+    "fee": "免费",
+    "description": "宝安区总图书馆，超大少儿绘本区、婴幼儿阅览空间，每周绘本共读、古文公益课堂。周一闭馆。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "绘本共读",
+      "古文公益课堂",
+      "少儿绘本区",
+      "婴幼儿阅览"
+    ]
+  },
+  {
+    "name": "宝安区城市规划展览馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "展览馆",
+    "address": "宝安区宝兴路1号（图书馆同栋）",
+    "fee": "免费",
+    "description": "宝安区城市规划展示馆，VR漫游宝安、城市沙盘、小小讲解员公益服务，定期科普小课堂。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "VR漫游",
+      "城市沙盘",
+      "小小讲解员",
+      "科普小课堂"
+    ]
+  },
+  {
+    "name": "宝安1990文化馆（区文化馆总馆）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "宝安区新湾一路",
+    "fee": "免费",
+    "description": "宝安区文化馆总馆，非遗手作、国画、儿童戏剧免费公益培训班，周末剧场亲子演出常态化开展。",
+    "official_url": "https://www.baoan.gov.cn/whg/",
+    "highlights": [
+      "非遗手作",
+      "儿童戏剧",
+      "公益培训班",
+      "周末剧场"
+    ]
+  },
+  {
+    "name": "宝安博物馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区新湾一路",
+    "fee": "免费",
+    "description": "宝安博物馆位于宝安1990文化区，展示宝安华侨历史、文物常设展，寒暑假文博研学夏令营、小小考古家活动。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "华侨历史",
+      "文博研学",
+      "小小考古家",
+      "文物展览"
+    ]
+  },
+  {
+    "name": "宝安美术馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "美术馆",
+    "address": "宝安区新湾一路",
+    "fee": "免费",
+    "description": "宝安美术馆，美术画展、儿童写生工坊、少儿美育公益体验课。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "美术画展",
+      "儿童写生",
+      "少儿美育",
+      "公益体验"
+    ]
+  },
+  {
+    "name": "宝安区青少年宫（滨海）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "青少年宫",
+    "address": "宝安区新安街道海滨文化公园内",
+    "fee": "免费",
+    "description": "宝安区青少年宫，艺术课堂、法治安全教育展厅、消防灭火VR体验、禁毒科普互动区。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "艺术课堂",
+      "法治安全教育",
+      "消防VR体验",
+      "禁毒科普"
+    ]
+  },
+  {
+    "name": "湾区书城（深圳书城湾区城）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区宝兴路滨海文化公园",
+    "fee": "免费",
+    "description": "深圳书城湾区城，30万册藏书、星空阅读空间、沉浸式童书展览，亲子阅读打卡首选。",
+    "official_url": "https://www.szbookmall.com/",
+    "highlights": [
+      "星空阅读",
+      "沉浸式童书",
+      "亲子阅读打卡",
+      "30万册藏书"
+    ]
+  },
+  {
+    "name": "茅洲河展示馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "展览馆",
+    "address": "宝安区燕罗街道燕罗湿地公园旁",
+    "fee": "免费",
+    "description": "茅洲河展示馆，河流生态治水科普、湿地动植物介绍，自然环保研学点位。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "生态治水",
+      "湿地科普",
+      "自然环保",
+      "研学点位"
+    ]
+  },
+  {
+    "name": "西湾红树林科普馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "展览馆",
+    "address": "宝安区西乡金湾大道西湾公园二期",
+    "fee": "免费",
+    "description": "西湾红树林科普馆，红树林湿地生态、候鸟科普展厅，近海海洋知识讲解。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "红树林生态",
+      "候鸟科普",
+      "海洋知识",
+      "湿地展厅"
+    ]
+  },
+  {
+    "name": "福海安全生产警示教育中心",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "安全教育馆",
+    "address": "宝安区福海街道桥和路300号二层",
+    "fee": "免费",
+    "description": "6000㎡综合安全体验馆，消防、交通、居家避险VR实景演练，中小学安全教育定点基地。",
+    "official_url": "https://yjgl.sz.gov.cn/",
+    "highlights": [
+      "消防演练",
+      "交通避险",
+      "VR实景",
+      "安全教育"
+    ]
+  },
+  {
+    "name": "福永街道安全警示教育基地",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "安全教育馆",
+    "address": "宝安区福永街道立新湖南门停车场旁",
+    "fee": "免费",
+    "description": "7大安全体验分区，地震、台风逃生模拟，低龄儿童安全互动游戏区。",
+    "official_url": "https://yjgl.sz.gov.cn/",
+    "highlights": [
+      "地震模拟",
+      "台风逃生",
+      "安全互动",
+      "儿童游戏区"
+    ]
+  },
+  {
+    "name": "宝安图书馆西乡街道分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区前进二路197号桃源居对面",
+    "fee": "免费",
+    "description": "西乡街道图书馆分馆，三层空间，少儿阅览区、国学诵读、周末手工公益课，融入非遗文化设计。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "少儿阅览",
+      "国学诵读",
+      "周末手工",
+      "非遗文化"
+    ]
+  },
+  {
+    "name": "新安街道分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区新安街道兴东片区",
+    "fee": "免费",
+    "description": "新安街道图书馆分馆，亲子共读专区、少儿绘本借阅，日常小型故事会。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "亲子共读",
+      "绘本借阅",
+      "故事会"
+    ]
+  },
+  {
+    "name": "新安中洲分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区中洲中央城邦社区",
+    "fee": "免费",
+    "description": "新安中洲社区图书馆，社区迷你图书馆，低龄宝宝专属阅读角。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "低龄阅读",
+      "社区图书馆",
+      "宝宝阅读角"
+    ]
+  },
+  {
+    "name": "翻身社区阅读中心",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区翻身片区",
+    "fee": "免费",
+    "description": "翻身社区阅读中心，温馨亲子阅览区，午后绘本沙龙常态化举办。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "亲子阅览",
+      "绘本沙龙"
+    ]
+  },
+  {
+    "name": "宝民社区阅读中心",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区宝民一路",
+    "fee": "免费",
+    "description": "宝民社区阅读中心，社区公益阅读空间，少儿图画书专区。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "公益阅读",
+      "少儿图画书"
+    ]
+  },
+  {
+    "name": "大仟里未来书屋",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区西乡大仟里商场内",
+    "fee": "免费",
+    "description": "大仟里未来书屋，沉浸式童书空间，亲子打卡免费阅读。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "沉浸式童书",
+      "亲子打卡"
+    ]
+  },
+  {
+    "name": "宝读书房·旭书店",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区西乡碧海湾片区",
+    "fee": "免费",
+    "description": "宝读书房·旭书店，文创+阅读结合，周末亲子美育分享会。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "文创阅读",
+      "亲子美育",
+      "分享会"
+    ]
+  },
+  {
+    "name": "沙井街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区沙井街道市民广场内",
+    "fee": "免费",
+    "description": "沙井街道图书馆分馆，西部片区核心街道馆，少儿读物齐全。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "少儿读物",
+      "西部片区"
+    ]
+  },
+  {
+    "name": "松岗街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区松岗文化艺术中心内",
+    "fee": "免费",
+    "description": "松岗街道图书馆分馆，山区街道阅读中心，寒暑假少儿阅读营。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "少儿阅读营",
+      "寒暑假活动"
+    ]
+  },
+  {
+    "name": "石岩街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区石岩文化艺术中心",
+    "fee": "免费",
+    "description": "石岩街道图书馆分馆，自然科普书籍专区，适配山林生态主题阅读。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "自然科普",
+      "山林生态"
+    ]
+  },
+  {
+    "name": "福永街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区福永怀德南路福永文化中心",
+    "fee": "免费",
+    "description": "福永街道图书馆分馆，配套爱心课堂，免费少儿艺术培训。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "爱心课堂",
+      "少儿艺术培训"
+    ]
+  },
+  {
+    "name": "燕罗街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区燕罗街道党群服务中心",
+    "fee": "免费",
+    "description": "燕罗街道图书馆分馆，茅洲河生态主题藏书专区。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "茅洲河生态",
+      "主题藏书"
+    ]
+  },
+  {
+    "name": "航城街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区航城街道文化中心",
+    "fee": "免费",
+    "description": "航城街道图书馆分馆，空港航空科普书籍专区。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "航空科普",
+      "空港主题"
+    ]
+  },
+  {
+    "name": "新桥街道图书馆分馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区新桥清平古墟旁",
+    "fee": "免费",
+    "description": "新桥街道图书馆分馆，岭南民俗、蚝文化主题藏书。",
+    "official_url": "https://www.balib.cn/",
+    "highlights": [
+      "岭南民俗",
+      "蚝文化"
+    ]
+  },
+  {
+    "name": "滨海文化公园（欢乐港湾）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区宝兴路8号",
+    "fee": "免费",
+    "description": "滨海文化公园欢乐港湾，海边大草坪、儿童沙滩、亲水步道、周末灯光水秀，免费全域入园。",
+    "official_url": "https://www.oasisbay.com.cn/",
+    "highlights": [
+      "海边草坪",
+      "儿童沙滩",
+      "灯光水秀",
+      "亲水步道"
+    ]
+  },
+  {
+    "name": "宝安公园（醒狮乐园）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区上川路493号东门",
+    "fee": "免费",
+    "description": "宝安公园醒狮乐园，深圳首个醒狮非遗主题无动力乐园，分龄游乐区、粉色沙池、攀爬设施全天免费。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "醒狮非遗",
+      "无动力乐园",
+      "分龄游乐",
+      "攀爬设施"
+    ]
+  },
+  {
+    "name": "新安公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区新安街道公园路",
+    "fee": "免费",
+    "description": "新安公园，1800㎡超大儿童乐园：木屋沙坑、地面蹦床、攀岩组合，中心湖景观适合散步。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "儿童乐园",
+      "木屋沙坑",
+      "地面蹦床",
+      "攀岩组合"
+    ]
+  },
+  {
+    "name": "西湾公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区西乡金湾大道沿线",
+    "fee": "免费",
+    "description": "西湾公园一二期，滨海步道、观鸟台、沙滩玩耍、落日海景，骑行亲子徒步绝佳路线。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "滨海步道",
+      "观鸟台",
+      "落日海景",
+      "亲子徒步"
+    ]
+  },
+  {
+    "name": "蚝乡湖公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区沙井北环路与宝安大道交汇处",
+    "fee": "免费",
+    "description": "蚝乡湖公园，15万㎡亲水公园，儿童游乐区、帐篷露营区、电厂改造文创展馆，治水生态科普标杆。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "亲水公园",
+      "露营区",
+      "文创展馆",
+      "生态科普"
+    ]
+  },
+  {
+    "name": "立新湖公园（立新湖儿童乐园）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区福永街道立新湖环湖",
+    "fee": "免费",
+    "description": "立新湖公园，深圳小西湖，环湖8.8km绿道、湖畔沙池滑梯、湖心岛骑行，免费开放。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "环湖绿道",
+      "湖畔滑梯",
+      "湖心岛骑行",
+      "深圳小西湖"
+    ]
+  },
+  {
+    "name": "凤凰山人才林公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区福永凤凰山南麓",
+    "fee": "免费",
+    "description": "凤凰山人才林公园，童心园+童趣园两大儿童区，攀爬架、沙池、大草坪露营，山林自然探索。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "童心童趣园",
+      "攀爬架",
+      "草坪露营",
+      "山林探索"
+    ]
+  },
+  {
+    "name": "五指耙体育主题公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区松岗大田洋六路",
+    "fee": "免费",
+    "description": "五指耙体育主题公园，环山步道、玻璃观景桥、月季花海、儿童游乐区，骑行登山一站式遛娃。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "环山步道",
+      "玻璃观景桥",
+      "月季花海",
+      "骑行登山"
+    ]
+  },
+  {
+    "name": "铁仔山公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区西乡片区",
+    "fee": "免费",
+    "description": "铁仔山公园，山顶观景台可眺望深中通道，平缓登山道、山间小型游乐区，日出打卡胜地。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "山顶观景",
+      "深中通道",
+      "日出打卡",
+      "登山道"
+    ]
+  },
+  {
+    "name": "福海河公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区福海街道会展片区",
+    "fee": "免费",
+    "description": "福海河公园，6.4公里滨河景观带，儿童乐园、宠物营地、骑行道，空港片区就近遛娃首选。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "滨河景观",
+      "儿童乐园",
+      "骑行道",
+      "宠物营地"
+    ]
+  },
+  {
+    "name": "钓鱼嘴原木亲子乐园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区大渡口区大滨路沿江",
+    "fee": "免费",
+    "description": "钓鱼嘴原木亲子乐园，全实木攀爬迷宫、沙坑、沿江骑行道，江景休闲全天免费。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "原木攀爬",
+      "沙坑",
+      "沿江骑行",
+      "江景休闲"
+    ]
+  },
+  {
+    "name": "沙井市民广场",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区沙井中心路",
+    "fee": "免费",
+    "description": "沙井市民广场，超大公共广场、小型儿童游乐设施、节假日主题市集活动。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "公共广场",
+      "儿童游乐",
+      "主题市集"
+    ]
+  },
+  {
+    "name": "新桥市民广场",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区沙井中心路29号",
+    "fee": "免费",
+    "description": "新桥市民广场，欧式长廊、星座壁画、休闲游乐区，适合低龄孩童散步玩耍。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "欧式长廊",
+      "星座壁画",
+      "休闲游乐"
+    ]
+  },
+  {
+    "name": "燕罗湿地公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区燕罗街道茅洲河沿岸",
+    "fee": "免费",
+    "description": "燕罗湿地公园，湿地观鸟、水生植物观察、平缓亲水栈道，自然教育户外课堂。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "湿地观鸟",
+      "水生植物",
+      "亲水栈道",
+      "自然教育"
+    ]
+  },
+  {
+    "name": "航城公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区航城街道",
+    "fee": "免费",
+    "description": "航城公园，空港主题公园，航空科普小品、儿童游乐区。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "空港主题",
+      "航空科普",
+      "儿童游乐"
+    ]
+  },
+  {
+    "name": "石岩湿地公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区石岩河沿岸",
+    "fee": "免费",
+    "description": "石岩湿地公园，山林湿地生态、溪流戏水区域，夏日清凉遛娃。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "山林湿地",
+      "溪流戏水",
+      "夏日清凉"
+    ]
+  },
+  {
+    "name": "松岗公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区松岗街道",
+    "fee": "免费",
+    "description": "松岗公园，大型城市综合公园，多片儿童游乐区、草坪野餐空间。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "综合公园",
+      "儿童游乐区",
+      "草坪野餐"
+    ]
+  },
+  {
+    "name": "桥头公园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区新桥街道清平古墟旁",
+    "fee": "免费",
+    "description": "桥头公园，岭南园林风格，休闲步道、小型亲子游乐设施。",
+    "official_url": "https://www.sz.gov.cn/",
+    "highlights": [
+      "岭南园林",
+      "休闲步道",
+      "亲子游乐"
+    ]
+  },
+  {
+    "name": "清平古墟影视小镇",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区新桥街道新颜路",
+    "fee": "免费",
+    "description": "清平古墟影视小镇，深圳四大古墟之一，清代永兴石拱桥、广安当铺旧址，岭南民俗历史科普、汉服古风打卡免费入园。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "岭南古墟",
+      "石拱桥",
+      "历史科普",
+      "汉服打卡"
+    ]
+  },
+  {
+    "name": "王大中丞祠",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区西乡老城区",
+    "fee": "免费",
+    "description": "王大中丞祠，清代岭南宗祠建筑，深圳本土宗族历史轻量化讲解，小众人文研学点位。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "岭南宗祠",
+      "宗族历史",
+      "人文研学"
+    ]
+  },
+  {
+    "name": "西乡北帝古庙",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区西乡步行街",
+    "fee": "免费",
+    "description": "西乡北帝古庙，百年庙宇非遗民俗展示，传统节庆文化科普，传统手工艺体验活动定期举办。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "非遗民俗",
+      "传统节庆",
+      "手工艺体验"
+    ]
+  },
+  {
+    "name": "沙井蚝文化博物馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区沙井街道蚝乡湖片区",
+    "fee": "免费",
+    "description": "沙井蚝文化博物馆，千年沙井蚝养殖历史展厅，贝类标本展示，滨海农耕文化亲子研学。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "蚝文化",
+      "贝类标本",
+      "农耕文化",
+      "亲子研学"
+    ]
+  },
+  {
+    "name": "福永凤凰古村",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区福永凤凰山脚下",
+    "fee": "免费",
+    "description": "福永凤凰古村，明清客家古民居建筑群，非遗剪纸、客家美食体验，古建筑写生亲子活动。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "客家古村",
+      "非遗剪纸",
+      "古建筑写生",
+      "客家美食"
+    ]
+  },
+  {
+    "name": "松岗琥珀博物馆（公益展厅）",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区松岗街道琥珀产业园",
+    "fee": "免费",
+    "description": "松岗琥珀博物馆公益展厅，天然矿石、琥珀化石科普展厅，地质知识讲解，基础参观免费。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "琥珀化石",
+      "矿石科普",
+      "地质知识"
+    ]
+  },
+  {
+    "name": "燕罗红色文化纪念馆",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区燕罗街道",
+    "fee": "免费",
+    "description": "燕罗红色文化纪念馆，深圳革命历史红色研学基地，青少年爱国主义教育公益场馆。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "红色文化",
+      "革命历史",
+      "爱国主义教育"
+    ]
+  },
+  {
+    "name": "上合孝德园",
+    "source": "baoan",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区新安上合社区",
+    "fee": "免费",
+    "description": "上合孝德园，中华孝道文化主题公园，国学礼仪体验、传统德育公益课堂，适合学龄儿童德育启蒙。",
+    "official_url": "https://www.baoan.gov.cn/",
+    "highlights": [
+      "孝道文化",
+      "国学礼仪",
+      "德育启蒙",
+      "公益课堂"
+    ]
   }
 ]
