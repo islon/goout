@@ -1,5 +1,40 @@
 [
   {
+    "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
+    "name": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
+    "venue": "上海大剧院",
+    "city": "shanghai",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "url": "http://m.toutiao.com/group/7660419048286487086/",
+    "description": "纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shgtheatre",
+    "is_family_friendly": false,
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "沪小游",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「沪小游」小程序",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "剧院"
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "media",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false
+  },
+  {
     "title": "恐龙化石与生物观察",
     "name": "恐龙化石与生物观察",
     "venue": "上海自然博物馆",

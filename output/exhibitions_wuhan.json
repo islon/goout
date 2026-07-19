@@ -1,5 +1,77 @@
 [
   {
+    "name": "湖北省科学技术馆机器人竞技赛",
+    "venue": "湖北省科学技术馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "fee": "收费",
+    "description": "组队参与机器人竞技挑战，比拼编程与操控能力。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "机器人",
+      "竞技",
+      "编程"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "湖北省科学技术馆机器人竞技赛",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
+    "name": "盘龙城遗址博物院青铜冶炼体验",
+    "venue": "盘龙城遗址博物院",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "收费",
+    "description": "模拟青铜冶炼与铸造过程，了解商代青铜工艺。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "青铜",
+      "冶炼",
+      "体验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "盘龙城遗址博物院青铜冶炼体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
     "name": "武汉科技馆机器人体验夏令营",
     "venue": "武汉科技馆",
     "city": "wuhan",
@@ -73,6 +145,43 @@
     "verified": true
   },
   {
+    "name": "后官湖湿地公园观鸟营",
+    "venue": "后官湖湿地公园",
+    "city": "wuhan",
+    "district": "蔡甸区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "免费",
+    "description": "在后官湖湿地观察候鸟，学习湿地生态保护。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "观鸟",
+      "湿地",
+      "候鸟"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "后官湖湿地公园观鸟营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
     "name": "武汉海昌极地海洋公园极地探险营",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
@@ -98,6 +207,79 @@
       "platform_url": null,
       "city": "武汉",
       "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
+    "name": "汉秀剧场亲子专场",
+    "venue": "汉秀剧场",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "需购票",
+    "description": "汉秀亲子专场演出，适合全家共同观赏的视听盛宴。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "亲子专场",
+      "汉秀",
+      "视听"
+    ],
+    "type": "演出",
+    "is_family_friendly": true,
+    "title": "汉秀剧场亲子专场",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
+    "name": "武汉市少年儿童图书馆亲子阅读营",
+    "venue": "武汉市少年儿童图书馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "免费",
+    "description": "亲子阅读营指导家长选书与共读方法。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "亲子",
+      "共读",
+      "选书"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "武汉市少年儿童图书馆亲子阅读营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "图书馆"
     },
     "verification": {
       "status": "auto_checked",

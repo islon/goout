@@ -1,5 +1,78 @@
 [
   {
+    "name": "三峡民俗文化亲子课堂",
+    "venue": "重庆中国三峡博物馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "免费",
+    "description": "通过手工制作与互动游戏，让亲子家庭了解三峡地区传统民俗与节庆文化。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "民俗",
+      "亲子",
+      "手工"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "三峡民俗文化亲子课堂",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
+    "name": "重庆园博园园林文化研学",
+    "venue": "重庆园博园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "fee": "收费",
+    "description": "研学导师带领解读各展园造园手法，学习中国古典园林艺术精髓。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "园林",
+      "研学",
+      "造园"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "重庆园博园园林文化研学",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
+  },
+  {
     "name": "少儿图书馆手工坊",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",

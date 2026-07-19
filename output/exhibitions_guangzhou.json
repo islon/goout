@@ -35,6 +35,41 @@
     "verified": true
   },
   {
+    "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
+    "name": "2026广州艺术季 华人之光·芭蕾明星GALA",
+    "venue": "广州大剧院",
+    "city": "guangzhou",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "link": "http://www.gzdjy.org/",
+    "url": "http://www.gzdjy.org/",
+    "description": "敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "gzdjy",
+    "is_family_friendly": false,
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "育文游",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「育文游」小程序→向美而行",
+      "platform_url": null,
+      "city": "广州",
+      "matched_venue_type": "剧院"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "国风亲子音乐会（二沙岛音乐夏日）",
     "name": "国风亲子音乐会（二沙岛音乐夏日）",
     "venue": "星海音乐厅",
