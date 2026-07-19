@@ -1805,5 +1805,57 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳梦/搜狐"
+  },
+  {
+    "title": "锦绣中华民俗村·夏日狂欢节",
+    "venue": "锦绣中华民俗村",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-15",
+    "link": "https://m.sohu.com/a/1045463665_675420/",
+    "description": "7位网红主播每周轮值，全程带领游客沉浸式游玩互动。暑期亲子热门目的地，包含泼水狂欢、民俗表演、美食市集等精彩活动。",
+    "category": "亲子活动",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳梦/搜狐"
+  },
+  {
+    "title": "深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节",
+    "venue": "深圳世界之窗",
+    "start_date": "2026-06-18",
+    "end_date": "2026-08-30",
+    "link": "https://m.sohu.com/a/1045463665_675420/",
+    "description": "33天露天音乐节，汇集谢霆锋、HIGH5、周深等艺人，罗马假日广场冰雕啤酒+烧烤+音乐派对。每周五至周日举办。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳梦/搜狐"
+  },
+  {
+    "title": "深圳欢乐海岸·夏日狂欢节",
+    "venue": "深圳欢乐海岸",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-15",
+    "link": "https://m.sohu.com/a/1045463665_675420/",
+    "description": "全网爆火大水牛天团空降，夏日音乐节周周有大牌，清澈水战+电音派对+明星演出。票价130-228元。每周五至周日及法定节假日举办。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳梦/搜狐"
+  },
+  {
+    "title": "《海洋奇缘：起航》迪士尼电影主题展",
+    "venue": "深圳人才公园潮汐广场",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "http://m.toutiao.com/group/7658324154139148850/",
+    "description": "还原莫安娜同款航海木船、巨型莫阿娜气球、寻梦花环等电影场景，拍照打卡。免费免预约。地铁13号线人才公园站B1出口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南山融媒体中心"
   }
 ]
