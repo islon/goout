@@ -220,6 +220,18 @@ Page({
       );
     }
 
+    // 过滤掉没有任何活动的场馆——首页日程筛选只展示有活动的场馆；
+    // 全部场馆(含无活动的)仍在场馆指南页完整显示，不受影响。
+    var activeVenueNames = {};
+    (app.globalData.exhibitions || []).forEach(function(e) {
+      if ((e._cityKey || normalizeCity(e.city)) === city && e.venue) {
+        activeVenueNames[String(e.venue).trim()] = true;
+      }
+    });
+    allVenues = allVenues.filter(function(v) {
+      return v.key === 'all' || activeVenueNames[v.name] || activeVenueNames[v.key];
+    });
+
     const displayVenues = this.data.showAllSources
       ? allVenues
       : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
