@@ -19,12 +19,26 @@ const { cities: bundledCities } = require('./data/filters.js');
 // 运行期生效的城市清单（模块级，驱动取数）：默认用打包兜底，成功拉取 cities.json 后覆盖
 var activeCities = bundledCities;
 
-// 多数据源容灾：国内优先 jsDelivr 镜像，raw.githubusercontent 兜底。
-// 两者被墙相互独立——任一可达即可加载，根治“单源被墙导致全量拉不到/卡在近期子集”的问题。
+// 多数据源容灾：依次尝试多个独立镜像，任一可达即加载全量，根治“单源被墙导致全量拉不到/卡在打包兜底”的问题。
+// 优先顺序（针对中国大陆手机网络优化）：
+//   1) jsDelivr 镜像        —— 国内 CDN，通常可达（需在小程序后台配置 request 合法域名 cdn.jsdelivr.net）
+//   2) GitHub Pages         —— 与仓库同源同数据，国内非常稳（需配置 islon.github.io）
+//   3) raw.githubusercontent —— 国内常被墙，仅作最后兜底
 const DATA_SOURCES = [
   { base: 'https://cdn.jsdelivr.net/gh/islon/goout@main/', bust: false },
+  { base: 'https://islon.github.io/goout/', bust: false },
   { base: 'https://raw.githubusercontent.com/islon/goout/main/', bust: true }
 ];
+
+// 数据源顺序（针对中国大陆手机网络优化，见上 DATA_SOURCES 注释）。
+// 注：原「开发者工具走 127.0.0.1 本地源」方案已移除——
+//   ① 用户未在本机起静态服务，每次请求都因 127.0.0.1 不可达多走一次失败回退、污染日志；
+//   ② 手机「预览/体验版」的 envVersion 也是 develop/trial，极易误插 127.0.0.1 本地源，
+//      导致手机每次请求先连自身回环再回退 CDN，既无效又吃掉超时预算、场馆超时卡 378。
+// 真正解法是 fetchVenueFullFallback 超时放宽到 60s（861KB 的 venue_info.json 在 jsDelivr 实测 ~29s）。
+function getActiveDataSources() {
+  return DATA_SOURCES;
+}
 
 // 缓存 key（v3：数据已净化移除合成条目、场馆库扩充至2964个，旧缓存需重新播种）
 const CACHE_KEY = 'goout_exhibitions_cache_v3';
@@ -86,11 +100,12 @@ function requestWithRetry(url, options) {
 // 任一源返回有效 JSON 数组即胜出，彻底规避“单一域名被墙则全盘拉取失败”。
 function fetchJsonFromSources(relPath, opts) {
   opts = opts || {};
+  var sources = getActiveDataSources();
   return new Promise(function(resolve) {
     var idx = 0;
     function tryNext() {
-      if (idx >= DATA_SOURCES.length) { resolve(null); return; }
-      var s = DATA_SOURCES[idx++];
+      if (idx >= sources.length) { resolve(null); return; }
+      var s = sources[idx++];
       var url = s.base + relPath + (s.bust ? ('?t=' + Date.now()) : '');
       requestWithRetry(url, opts).then(function(res) {
         var arr = toArray(res && res.data);
@@ -375,6 +390,8 @@ App({
       }
       // 场馆数据
       if (!wx.getStorageSync(VENUE_CACHE_TIME_KEY)) {
+        // 标记“本次启动刚播种打包基线”——与活动同理，首次进入应强制拉最新，而非沿用旧基线后跳过静默更新
+        this._seededThisLaunch = true;
         wx.setStorageSync(VENUE_CACHE_KEY, localVenues);
         wx.setStorageSync(VENUE_CACHE_TIME_KEY, Date.now());
         console.log('[童行] 已将', localVenues.length, '条场馆数据写入缓存基线');
@@ -700,11 +717,12 @@ App({
     });
   },
 
-  // 场馆兜底：单文件 venue_info.json（全量 2964，CDN 已长期缓存）。
+  // 场馆兜底：单文件 venue_info.json（全量 2964）。
   // 当分城市小文件整体/部分不可达时，用一次请求拿到完整场馆库，根治真机长期停在打包兜底(378) 的问题。
+  // 注意：该文件 861KB，在 jsDelivr 上实测下载约 29s，故超时须 ≥ 60s，否则必超时失败、兜底失效。
   fetchVenueFullFallback() {
     var self = this;
-    fetchJsonFromSources('output/venue_info.json', { timeout: 25000, maxRetries: 3 }).then(function(res) {
+    fetchJsonFromSources('output/venue_info.json', { timeout: 60000, maxRetries: 1 }).then(function(res) {
       var arr = toArray(res && res.data);
       if (arr && arr.length) {
         self._venueStaged = self._venueStaged || { fullCities: {} };
