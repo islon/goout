@@ -88,9 +88,8 @@
   <view class="section">
     <view class="section-title">说明与反馈</view>
     <view class="data-info">
-      <view class="data-row"><text class="data-label">数据来源</text><text class="data-value">各场馆官方渠道</text></view>
-      <view class="data-row"><text class="data-label">更新频率</text><text class="data-value">每日自动抓取，请以官方为准</text></view>
-      <view class="data-row"><text class="data-label">隐私说明</text><text class="data-value">不收集个人信息</text></view>
+      <view class="data-row"><text class="data-label">数据来源</text><text class="data-value">各场馆官方渠道或网络，最终请以官方为准</text></view>
+      <view class="data-row"><text class="data-label">更新频率</text><text class="data-value">每日自动抓取</text></view>
     </view>
     <view class="feedback-row">
       <button class="feedback-wx-btn" open-type="feedback">微信反馈</button>

@@ -97,7 +97,11 @@ Page({
       const venuesCnt = ve.length;
       const venuesExp = ((app.globalData && app.globalData.dataMeta && app.globalData.dataMeta.venues) || 2964);
       const isLoading = !!(app.globalData && app.globalData.isLoading);
-      const synced = venuesCnt >= venuesExp;
+      const partial = !!(app.globalData && app.globalData.venuesPartial);
+      // 已同步 = 有数据且全量加载完成(非部分)且当前不在下载中。
+      // 用 venuesPartial 而非数量比较，避免数据源少量差异(如跨城市重复/边缘缓存少1条)
+      // 导致永远 2963<2964、徽标卡在「同步中」的不一致。
+      const synced = venuesCnt > 0 && !partial && !isLoading;
       const syncing = isLoading && !synced;
       self.setData({
         cities: r.cityList,
