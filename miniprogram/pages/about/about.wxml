@@ -132,9 +132,23 @@
     <image class="footer-logo" src="/assets/logo-icon.png" mode="aspectFit"></image>
     <view class="footer-text">最好的成长是一路相伴</view>
     <view class="footer-sub">童行 © 2026 · islon.github.io/goout</view>
-    <view class="footer-version" wx:if="{{appVersion}}">版本 v{{appVersion}} · 发布于 {{buildDate}}</view>
-    <view class="footer-data" wx:if="{{lastUpdateTime}}">数据更新于 {{lastUpdateTime}}</view>
-    <view class="footer-venues" wx:if="{{venuesCount}}">已加载场馆 {{venuesCount}} / 预期 {{venuesExpected}}</view>
+
+    <view class="footer-card">
+      <view class="footer-row" wx:if="{{appVersionFormatted}}">
+        <text class="footer-key">版本</text>
+        <text class="footer-val">v{{appVersionFormatted}}</text>
+      </view>
+      <view class="footer-row" wx:if="{{lastUpdateTime}}">
+        <text class="footer-key">更新</text>
+        <text class="footer-val">{{lastUpdateTime}}</text>
+      </view>
+      <view class="footer-row">
+        <text class="footer-key">场馆</text>
+        <text class="footer-val">{{venuesCount}} / {{venuesExpected}}
+          <text class="footer-badge {{venuesSynced ? 'ok' : 'pending'}}">{{venuesSynced ? '已同步' : '同步中'}}</text>
+        </text>
+      </view>
+    </view>
   </view>
 
   <view style="height: 60rpx;"></view>

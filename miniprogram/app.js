@@ -348,15 +348,15 @@ App({
     // 6. 检测小程序新版本（真机 / 体验版 / 正式版生效）
     this.checkForUpdate();
 
-    // 7. 场馆数保险：启动数秒后若场馆仍未拉满（远少于全量），强制用单文件全量兜底再试一次，
-    //    覆盖分城市请求慢/部分卡住等时序边界，避免长期停在打包兜底(378)。
+    // 7. 场馆数保险：启动数秒后若仍有城市场馆未加载（按城市覆盖判断，非数量阈值），
+    //    触发缺失城市补齐重试，覆盖分城市请求慢/部分卡住的时序边界，避免长期停在打包兜底(378)。
     var self = this;
     setTimeout(function() {
-      var v = self.globalData.venues || [];
-      var expect = (self._pendingMeta && self._pendingMeta.venues) || 2500;
-      if (v.length < expect * 0.6) {
-        console.warn('[童行] 启动后场馆数仍偏少(' + v.length + ')，触发单文件兜底保险');
-        self.fetchVenueFullFallback();
+      // 用「是否所有城市都已加载」判断，而非数量阈值；避免首屏渲染(打包378)被误判为偏少去拉 861KB 大单文件
+      if (!self._allVenueCitiesLoaded()) {
+        var missing = self._missingVenueCities();
+        console.warn('[童行] 启动后仍有城市场馆未加载(' + missing.join(',') + ')，触发补齐');
+        self._fillMissingVenueCities(missing, 6);
       }
     }, 5000);
   },
@@ -509,7 +509,8 @@ App({
       console.warn('[童行] 远程场馆数(' + arr.length + ')远少于当前(' + cur.length + ')，疑似异常，保留现有数据');
       return false;
     }
-    precomputeDerived(arr);
+    // 注意：场馆数据不含 start_date 等字段，不可调用活动的 precomputeDerived（会读 start_date.substring 崩溃）。
+    // 场馆页面仅依赖 name/city/type 等原始字段，无需派生字段预计算。
     this.globalData.venues = arr;
     this.globalData.venuesPartial = !!isPartial;
     this.buildVenueMap();
@@ -671,28 +672,23 @@ App({
   silentUpdateVenues() {
     var self = this;
     self._venueStaged = { fullCities: {} };
-    // 基于 data_meta 的场馆计数（真实全量），用于判断“是否拉满”；取不到时按 2500 兜底阈值
-    var expect = (self._pendingMeta && self._pendingMeta.venues) || 2500;
     fetchAllVenues().then(function(result) {
       var merged = result.merged, failed = result.failed;
-      var loaded = (merged && merged.length) || 0;
-      if (loaded) {
+      if (merged && merged.length) {
+        // 分城市部分成功：先显示已拉到的子集，再补缺失城市（与活动加载策略一致，不依赖大单文件）
         merged.forEach(function(v) { if (v.city) self._venueStaged.fullCities[v.city] = true; });
         var ok = self.applyVenues(merged, failed.length > 0);
         if (ok) {
           self.notifyDataUpdated();
-          console.log('[童行] 场馆已加载', loaded, '条' + (failed.length ? ('，缺失城市：' + failed.join(',')) : ''));
+          console.log('[童行] 场馆已加载', merged.length, '条' + (failed.length ? ('，缺失城市：' + failed.join(',')) : ''));
         }
-      }
-      // 任何“未拉满”的情况：分城市有失败 或 数量明显偏少(<90% 预期) → 用单文件全量兜底补全到 ~2964，
-      // 避免分城市冷缓存/弱网部分失败却长期停在打包兜底(378)。
-      if (failed.length || loaded < expect * 0.9) {
         if (failed.length) {
           console.warn('[童行] 部分城市场馆未取到，开始补齐：', failed.join(','));
-          self._fillMissingVenueCities(failed, 6); // 分城市补齐与单文件兜底双管齐下
-        } else {
-          console.warn('[童行] 场馆加载量(' + loaded + ')低于预期(' + expect + ')，启用单文件全量兜底');
+          self._fillMissingVenueCities(failed, 6);
         }
+      } else {
+        // 分城市全部失败（弱网/被墙）：最后才用单文件全量兜底，而非放弃分城市数据
+        console.warn('[童行] 场馆分城市全部未取到，启用单文件全量兜底');
         self.fetchVenueFullFallback();
       }
     }).catch(function() {
@@ -704,7 +700,7 @@ App({
   // 当分城市小文件整体/部分不可达时，用一次请求拿到完整场馆库，根治真机长期停在打包兜底(378) 的问题。
   fetchVenueFullFallback() {
     var self = this;
-    fetchJsonFromSources('output/venue_info.json', { timeout: 25000, maxRetries: 3 }).then(function(res) {
+    fetchJsonFromSources('output/venue_info.json', { timeout: 60000, maxRetries: 2 }).then(function(res) {
       var arr = toArray(res && res.data);
       if (arr && arr.length) {
         self._venueStaged = self._venueStaged || { fullCities: {} };

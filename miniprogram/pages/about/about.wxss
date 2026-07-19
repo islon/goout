@@ -320,14 +320,15 @@
 /* 底部 */
 .footer {
   text-align: center;
-  padding: 48rpx 24rpx 0;
+  padding: 56rpx 24rpx 0;
 }
 
 .footer-logo {
-  width: 120rpx;
-  height: 120rpx;
-  margin-bottom: 16rpx;
+  width: 110rpx;
+  height: 110rpx;
+  margin-bottom: 14rpx;
   border-radius: 24rpx;
+  box-shadow: 0 4rpx 12rpx rgba(212, 163, 115, 0.15);
 }
 
 .footer-text {
@@ -340,23 +341,62 @@
 .footer-sub {
   font-size: 22rpx;
   color: #A8A29E;
+  margin-bottom: 28rpx;
 }
 
-.footer-version {
-  margin-top: 10rpx;
-  font-size: 20rpx;
-  color: #C2BEB8;
-  letter-spacing: 1rpx;
+/* 信息卡：统一展示 版本 / 更新 / 场馆状态，取代原先三行零散文字 */
+.footer-card {
+  max-width: 560rpx;
+  margin: 0 auto;
+  background: #FFFFFF;
+  border: 2rpx solid #F0E9DF;
+  border-radius: 18rpx;
+  padding: 4rpx 28rpx;
+  text-align: left;
+  box-shadow: 0 2rpx 10rpx rgba(212, 163, 115, 0.05);
 }
 
-.footer-data {
-  margin-top: 4rpx;
-  font-size: 20rpx;
-  color: #A8C3A0;
+.footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18rpx 0;
+  border-bottom: 2rpx solid #F7F2EA;
 }
 
-.footer-venues {
-  margin-top: 4rpx;
+.footer-row:last-child {
+  border-bottom: none;
+}
+
+.footer-key {
+  font-size: 24rpx;
+  color: #A8A29E;
+  flex-shrink: 0;
+}
+
+.footer-val {
+  font-size: 24rpx;
+  color: #57534E;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  gap: 12rpx;
+}
+
+.footer-badge {
   font-size: 20rpx;
-  color: #C2BEB8;
+  padding: 4rpx 14rpx;
+  border-radius: 20rpx;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.footer-badge.ok {
+  background: #E7F6EC;
+  color: #166534;
+}
+
+.footer-badge.pending {
+  background: #FEF3C7;
+  color: #B45309;
 }

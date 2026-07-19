@@ -42,11 +42,12 @@ Page({
   data: {
     cities: [],
     subscribeLinks: [],
-    appVersion: '',       // 小程序版本号
-    buildDate: '',        // 构建/发布日期
+    appVersion: '',          // 小程序版本号（原始，如 2026.07.18.16）
+    appVersionFormatted: '', // 版本号展示用（截取到日期，如 2026.07.18）
     lastUpdateTime: '',   // 数据最后刷新时间（让用户了解数据实效性）
     venuesCount: 0,       // 当前已加载场馆数
-    venuesExpected: ''    // 预期场馆数（来自 data_meta，取不到时按 2964 兜底）
+    venuesExpected: '',   // 预期场馆数（来自 data_meta，取不到时按 2964 兜底）
+    venuesSynced: false   // 已加载数是否已达预期（决定「已同步/同步中」标签）
   },
 
   onLoad() {
@@ -72,14 +73,18 @@ Page({
       const ex = (app.globalData && app.globalData.exhibitions) || [];
       const ve = (app.globalData && app.globalData.venues) || [];
       const r = buildCityLists(ex, ve, getCityDefs());
+      const rawVer = (app.globalData && app.globalData.appVersion) || '';
+      const venuesCnt = ve.length;
+      const venuesExp = ((app.globalData && app.globalData.dataMeta && app.globalData.dataMeta.venues) || 2964);
       self.setData({
         cities: r.cityList,
         subscribeLinks: r.links,
-        appVersion: (app.globalData && app.globalData.appVersion) || '',
-        buildDate: (app.globalData && app.globalData.buildDate) || '',
+        appVersion: rawVer,
+        appVersionFormatted: rawVer ? rawVer.split('.').slice(0, 3).join('.') : '',
         lastUpdateTime: (app.globalData && app.globalData.lastUpdateTime) || '',
-        venuesCount: ve.length,
-        venuesExpected: ((app.globalData && app.globalData.dataMeta && app.globalData.dataMeta.venues) || 2964)
+        venuesCount: venuesCnt,
+        venuesExpected: venuesExp,
+        venuesSynced: venuesCnt >= venuesExp
       });
       // 重新登记，等下一级加载完成（notifyDataUpdated）再次刷新计数
       if (app.onDataUpdated) app.onDataUpdated(render);
