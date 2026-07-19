@@ -48,12 +48,12 @@
   <!-- 官网链接 -->
   <view class="link-section" wx:if="{{hasOfficialUrl}}">
     <button class="link-btn" bindtap="onCopyUrl">复制官网链接</button>
-    <view class="link-hint">复制后在浏览器中打开查看场馆官网</view>
+    <view class="link-hint">复制后在浏览器中打开</view>
   </view>
 
   <!-- 该场馆的活动 -->
   <view class="activities-section" wx:if="{{hasActivities}}">
-    <view class="section-title">该场馆的近期活动</view>
+    <view class="section-title">近期活动</view>
     <view class="activity-list">
       <view wx:for="{{activities}}" wx:key="cardId" class="activity-item" bindtap="onActivityTap" data-id="{{item.cardId}}">
         <view class="activity-title">{{item.name}}</view>
@@ -69,12 +69,12 @@
   <view class="empty-tip" wx:if="{{!hasActivities}}">
     <image class="empty-icon" src="/assets/about-cal.png" mode="aspectFit"></image>
     <view class="empty-title">暂无近期活动</view>
-    <view class="empty-desc">这个场馆本身就值得逛逛，可以先收藏，有活动再来~</view>
+    <view class="empty-desc">场馆本身就值得逛逛</view>
   </view>
 
   <!-- 反馈入口 -->
   <view class="feedback-bar" bindtap="onFeedbackTap">
-    <view class="feedback-text">场馆信息有误或想补充？</view>
+    <view class="feedback-text">信息有误或想补充？</view>
     <view class="feedback-action">提交反馈</view>
   </view>
 

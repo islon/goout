@@ -4,7 +4,7 @@
   <!-- 加载状态 -->
   <view wx:if="{{loading}}" class="loading-mask">
     <view class="loading-spinner"></view>
-    <text class="loading-text">正在加载最新活动数据...</text>
+    <text class="loading-text">加载中...</text>
   </view>
 
   <!-- 搜索框 -->

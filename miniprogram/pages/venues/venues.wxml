@@ -57,7 +57,7 @@
       <view class="venue-footer">
         <view class="venue-fee">{{item.fee || '费用未知'}}</view>
         <view class="venue-count {{item.hasActivity ? 'has' : ''}}">
-          {{item.hasActivity ? item.activityCount + ' 个近期活动' : '暂无活动 · 场馆也值得逛'}}
+          {{item.hasActivity ? item.activityCount + ' 个活动' : '暂无活动'}}
         </view>
       </view>
     </view>
