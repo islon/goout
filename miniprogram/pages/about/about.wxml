@@ -109,7 +109,6 @@
     <!-- 信息区：版本 / 更新 / 场馆（置于图标上方，简化展示） -->
     <view class="footer-meta">
       <text class="meta-line" wx:if="{{appVersionFormatted || lastUpdateShort}}">v{{appVersionFormatted}} · 更新于 {{lastUpdateShort}}</text>
-      <text class="meta-line">场馆 {{venuesCount}}{{venuesSynced ? '' : ' / ' + venuesExpected}}<text class="meta-badge {{venuesSyncing ? 'pending' : (venuesSynced ? 'ok' : 'partial')}}">{{venuesSyncing ? '同步中' : (venuesSynced ? '已同步' : '已加载')}}</text></text>
     </view>
 
     <image class="footer-logo" src="/assets/logo-icon.png" mode="aspectFit"></image>
