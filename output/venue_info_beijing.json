@@ -10,6 +10,7 @@
     "fee": "免费",
     "description": "中国国家博物馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "国家历史",
       "古代文物"
@@ -26,6 +27,7 @@
     "fee": "收费",
     "description": "故宫博物院。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "明清宫廷",
       "古代文物"
@@ -1994,7 +1996,8 @@
     "type": "",
     "address": "",
     "description": "第三十一届荷花节配套名家画展，海棠书院展出，适合亲子夏日赏荷与文化体验，购公园门票入园。",
-    "source": "圆明园"
+    "source": "圆明园",
+    "official_url": ""
   },
   {
     "name": "北京大兴区动物园",
@@ -2003,7 +2006,8 @@
     "type": "演出",
     "address": "",
     "description": "北京大兴区的儿童演出课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区动物园",
@@ -2012,7 +2016,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京密云区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "蓝色港湾",
@@ -2021,7 +2026,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京蓝色港湾的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "海淀体育中心",
@@ -2030,7 +2036,8 @@
     "type": "",
     "address": "",
     "description": "轮滑、乒乓球免费体验、亲子徒步。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区剧院",
@@ -2039,7 +2046,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京门头沟区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区创意园",
@@ -2048,7 +2056,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京石景山区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区海洋馆",
@@ -2057,7 +2066,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京西城区的经典亲子活动探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区创意园",
@@ -2066,7 +2076,8 @@
     "type": "展览",
     "address": "",
     "description": "北京大兴区的儿童展览课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "潭柘寺",
@@ -2075,7 +2086,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "先有潭柘寺后有北京城，千年古刹，帝王树银杏树。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "通州区青少年活动中心",
@@ -2084,7 +2096,8 @@
     "type": "",
     "address": "",
     "description": "大运河研学、风筝手工、民乐体验。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京自然博物馆",
@@ -2093,7 +2106,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京北京自然博物馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区剧院",
@@ -2102,7 +2116,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京大兴区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区艺术中心",
@@ -2111,7 +2126,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京丰台区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中华世纪坛",
@@ -2120,7 +2136,8 @@
     "type": "",
     "address": "",
     "description": "中航环球航空科幻IP南天门计划，3000平方米沉浸式展区，1:1实体机甲战机，23处互动体验。早鸟票68元，原价108元。地铁1号线/9号线军事博物馆站。",
-    "source": "centuryaltar"
+    "source": "centuryaltar",
+    "official_url": ""
   },
   {
     "name": "日坛公园",
@@ -2129,7 +2146,8 @@
     "type": "展览",
     "address": "",
     "description": "北京日坛公园的精彩展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区创意园",
@@ -2138,7 +2156,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京西城区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区海洋馆",
@@ -2147,7 +2166,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京石景山区的走进体育赛事日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区文化馆",
@@ -2156,7 +2176,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京海淀区的家庭影视放映研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区美术馆",
@@ -2165,7 +2186,8 @@
     "type": "展览",
     "address": "",
     "description": "北京大兴区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区体育场",
@@ -2174,7 +2196,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京海淀区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京市少年宫",
@@ -2183,7 +2206,8 @@
     "type": "",
     "address": "",
     "description": "免费美术、舞蹈、科创公益课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "国家体育馆",
@@ -2192,7 +2216,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京国家体育馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区体育场",
@@ -2201,7 +2226,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京丰台区的互动科普活动科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区体育馆",
@@ -2210,7 +2236,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京石景山区的梦幻影视放映之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区体育场",
@@ -2219,7 +2246,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京昌平区的漫游讲座阅读季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区文化中心",
@@ -2228,7 +2256,8 @@
     "type": "演出",
     "address": "",
     "description": "北京房山区的梦幻演出之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区创意园",
@@ -2237,7 +2266,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京丰台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中国人民革命军事博物馆",
@@ -2246,7 +2276,8 @@
     "type": "",
     "address": "",
     "description": "国内首个综合类军事博物馆常设陈列，复兴路9号，免费提供公益讲解，适合亲子红色研学，需预约。",
-    "source": "中国人民革命军事博物馆"
+    "source": "中国人民革命军事博物馆",
+    "official_url": ""
   },
   {
     "name": "北京东城区博物馆",
@@ -2255,7 +2286,8 @@
     "type": "展览",
     "address": "",
     "description": "北京东城区的周末展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区公园",
@@ -2264,7 +2296,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京大兴区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区剧院",
@@ -2273,7 +2306,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京昌平区的发现科普活动比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "西城区图书馆",
@@ -2282,7 +2316,8 @@
     "type": "",
     "address": "",
     "description": "亲子阅读、少儿书画、故事剧场。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京房山区公园",
@@ -2291,7 +2326,8 @@
     "type": "展览",
     "address": "",
     "description": "北京房山区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "松美术馆",
@@ -2300,7 +2336,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京松美术馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区体育场",
@@ -2309,7 +2346,8 @@
     "type": "演出",
     "address": "",
     "description": "北京东城区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区美术馆",
@@ -2318,7 +2356,8 @@
     "type": "展览",
     "address": "",
     "description": "北京房山区的走进展览日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区科技馆",
@@ -2327,7 +2366,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京门头沟区的趣味科普活动展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区植物园",
@@ -2336,7 +2376,8 @@
     "type": "演出",
     "address": "",
     "description": "北京海淀区的发现演出比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区文化馆",
@@ -2345,7 +2386,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京门头沟区的解读科普活动周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "东城区图书馆",
@@ -2354,7 +2396,8 @@
     "type": "",
     "address": "",
     "description": "绘本共读、诗词手工、科普实验。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区植物园",
@@ -2363,7 +2406,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京门头沟区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京规划展览馆",
@@ -2372,7 +2416,8 @@
     "type": "",
     "address": "",
     "description": "城市手绘、北京历史导览。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京通州区植物园",
@@ -2381,7 +2426,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京通州区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区海洋馆",
@@ -2390,7 +2436,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京房山区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区创意园",
@@ -2399,7 +2446,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京顺义区的探索影视放映演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区体育馆",
@@ -2408,7 +2456,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京门头沟区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区会展中心",
@@ -2417,7 +2466,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京密云区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区图书馆",
@@ -2426,7 +2476,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京通州区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中国铁道博物馆正阳门馆",
@@ -2435,7 +2486,8 @@
     "type": "展览",
     "address": "",
     "description": "中国铁路发展史，蒸汽机车到高铁，铁路科普教育。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "东城区文化馆",
@@ -2444,7 +2496,8 @@
     "type": "",
     "address": "",
     "description": "皮影、剪纸、少儿惠民演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "望和公园",
@@ -2453,7 +2506,8 @@
     "type": "",
     "address": "",
     "description": "儿童游乐区、花海写生、户外绘本分享。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "龙潭湖公园",
@@ -2462,7 +2516,8 @@
     "type": "演出",
     "address": "",
     "description": "北京龙潭湖公园的精彩演出活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "国贸商城",
@@ -2471,7 +2526,8 @@
     "type": "展览",
     "address": "",
     "description": "北京国贸商城的精彩展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "王府井",
@@ -2480,7 +2536,8 @@
     "type": "研学",
     "address": "",
     "description": "北京王府井的精彩研学活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区体育场",
@@ -2489,7 +2546,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京门头沟区的解读影视放映周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "鸿博公园",
@@ -2498,7 +2556,8 @@
     "type": "",
     "address": "",
     "description": "草坪游乐、户外亲子运动会、植物辨识课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京西城区植物园",
@@ -2507,7 +2566,8 @@
     "type": "展览",
     "address": "",
     "description": "北京西城区的解读展览周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区美术馆",
@@ -2516,7 +2576,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京石景山区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京数字文化馆",
@@ -2525,7 +2586,8 @@
     "type": "",
     "address": "",
     "description": "非遗剪纸/皮影手工、少儿合唱公益课、露天惠民亲子演出、国风研学。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "国家图书馆（国家典籍博物馆）",
@@ -2534,7 +2596,8 @@
     "type": "",
     "address": "",
     "description": "故宫博物院联合主办，首次以数字光影技术复原乾隆花园全域风貌。五境游园17处交互展项，每日10:30、14:00免费公益讲解。海淀区中关村南大街33号。地铁4号线国家图书馆站。",
-    "source": "gugong"
+    "source": "gugong",
+    "official_url": ""
   },
   {
     "name": "前门大街",
@@ -2543,7 +2606,8 @@
     "type": "演出",
     "address": "",
     "description": "北京前门大街的精彩演出活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区博物馆",
@@ -2552,7 +2616,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京丰台区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区会展中心",
@@ -2561,7 +2626,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京西城区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "国家体育场",
@@ -2570,7 +2636,8 @@
     "type": "展览",
     "address": "",
     "description": "北京国家体育场的精彩展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区文化馆",
@@ -2579,7 +2646,8 @@
     "type": "演出",
     "address": "",
     "description": "北京昌平区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区文化中心",
@@ -2588,7 +2656,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京怀柔区的探秘亲子活动月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "大观园",
@@ -2597,7 +2666,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京大观园的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中国科技馆",
@@ -2606,7 +2676,8 @@
     "type": "演出",
     "address": "",
     "description": "北京中国科技馆的精彩演出活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区图书馆",
@@ -2615,7 +2686,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京房山区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区青少年宫",
@@ -2624,7 +2696,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京东城区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区图书馆",
@@ -2633,7 +2706,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京石景山区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区剧院",
@@ -2642,7 +2716,8 @@
     "type": "演出",
     "address": "",
     "description": "北京丰台区的精彩演出节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区公园",
@@ -2651,7 +2726,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京朝阳区的探索科普活动演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区艺术中心",
@@ -2660,7 +2736,8 @@
     "type": "展览",
     "address": "",
     "description": "北京延庆区的精彩展览节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区文化馆",
@@ -2669,7 +2746,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京房山区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区青少年宫",
@@ -2678,7 +2756,8 @@
     "type": "演出",
     "address": "",
     "description": "北京石景山区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "恭王府博物馆",
@@ -2687,7 +2766,8 @@
     "type": "展览",
     "address": "",
     "description": "清代规模最大的一座王府，和珅故居，一座恭王府半部清朝史。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "玉渊潭公园",
@@ -2696,7 +2776,8 @@
     "type": "研学",
     "address": "",
     "description": "北京玉渊潭公园的精彩研学活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区会展中心",
@@ -2705,7 +2786,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京延庆区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "老君堂公园",
@@ -2714,7 +2796,8 @@
     "type": "",
     "address": "",
     "description": "森林徒步、风筝活动、自然科普小课堂。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京海淀区文化中心",
@@ -2723,7 +2806,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京海淀区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "朝阳区图书馆",
@@ -2732,7 +2816,8 @@
     "type": "",
     "address": "",
     "description": "亲子阅读、自然研学、编程体验。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京延庆区体育场",
@@ -2741,7 +2826,8 @@
     "type": "演出",
     "address": "",
     "description": "北京延庆区的儿童演出课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "孔庙和国子监博物馆",
@@ -2750,7 +2836,8 @@
     "type": "展览",
     "address": "",
     "description": "元明清三代国家最高学府，孔子文化，古代科举制度展。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "通州运河文化广场",
@@ -2759,7 +2846,8 @@
     "type": "",
     "address": "",
     "description": "大运河展览、风筝、非遗手工、滨河无动力乐园。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "首都博物馆",
@@ -2768,7 +2856,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京首都博物馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区青少年宫",
@@ -2777,7 +2866,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京房山区的周末科普活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "红螺寺",
@@ -2786,7 +2876,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "京北第一古刹，红螺三绝，雌雄银杏，紫藤寄松。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "永定河休闲森林公园",
@@ -2795,7 +2886,8 @@
     "type": "",
     "address": "",
     "description": "山林徒步、湿地科普、户外亲子游戏。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京丰台区文化中心",
@@ -2804,7 +2896,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京丰台区的儿童讲座阅读课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区文化馆",
@@ -2813,7 +2906,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京西城区的趣味讲座阅读展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区图书馆",
@@ -2822,7 +2916,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京丰台区的互动亲子活动科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区青少年宫",
@@ -2831,7 +2926,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京西城区的解读影视放映周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "什刹海",
@@ -2840,7 +2936,8 @@
     "type": "演出",
     "address": "",
     "description": "北京什刹海的精彩演出活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区植物园",
@@ -2849,7 +2946,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京石景山区的青少年亲子活动讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区体育馆",
@@ -2858,7 +2956,8 @@
     "type": "展览",
     "address": "",
     "description": "北京顺义区的探秘展览月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区会展中心",
@@ -2867,7 +2966,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京大兴区的精彩科普活动节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区体育场",
@@ -2876,7 +2976,8 @@
     "type": "展览",
     "address": "",
     "description": "北京密云区的发现展览比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "今日美术馆",
@@ -2885,7 +2986,8 @@
     "type": "展览",
     "address": "",
     "description": "北京今日美术馆的精彩展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区海洋馆",
@@ -2894,7 +2996,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京昌平区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "西城区文化馆",
@@ -2903,7 +3006,8 @@
     "type": "",
     "address": "",
     "description": "非遗市集、国风绘画、亲子舞台剧。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京丰台区文化馆",
@@ -2912,7 +3016,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京丰台区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区美术馆",
@@ -2921,7 +3026,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京通州区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区植物园",
@@ -2930,7 +3036,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京房山区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区图书馆",
@@ -2939,7 +3046,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京大兴区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区体育馆",
@@ -2948,7 +3056,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京西城区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区图书馆",
@@ -2957,7 +3066,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京密云区的发现影视放映比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区公园",
@@ -2966,7 +3076,8 @@
     "type": "演出",
     "address": "",
     "description": "北京怀柔区的探秘演出月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中国邮政邮票博物馆",
@@ -2975,7 +3086,8 @@
     "type": "展览",
     "address": "",
     "description": "中国邮票发展史，珍贵邮票收藏，集邮爱好者的天堂。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "大钟寺古钟博物馆",
@@ -2984,7 +3096,8 @@
     "type": "展览",
     "address": "",
     "description": "永乐大钟，古钟收藏，钟文化展，觉生寺古建筑。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "丰台区青少年宫",
@@ -2993,7 +3106,8 @@
     "type": "",
     "address": "",
     "description": "自然科普、陶艺、少儿合唱。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京故宫博物院",
@@ -3002,7 +3116,8 @@
     "type": "研学",
     "address": "",
     "description": "北京北京故宫博物院的精彩研学活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区体育馆",
@@ -3011,7 +3126,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京怀柔区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区青少年宫",
@@ -3020,7 +3136,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京昌平区的家庭亲子活动研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区图书馆",
@@ -3029,7 +3146,8 @@
     "type": "演出",
     "address": "",
     "description": "北京朝阳区的亲子演出工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大运河博物馆",
@@ -3038,7 +3156,8 @@
     "type": "",
     "address": "",
     "description": "聚焦北方游牧民族青铜文明，见证中华文明多元一体格局，首博东馆举办，适合亲子与历史爱好者。",
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "official_url": ""
   },
   {
     "name": "郭沫若纪念馆",
@@ -3047,7 +3166,8 @@
     "type": "展览",
     "address": "",
     "description": "前海西街，郭沫若故居，文学与史学成就展。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "太阳宫市民活动中心",
@@ -3056,7 +3176,8 @@
     "type": "",
     "address": "",
     "description": "儿童活动区、手工、绘本公益课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "红砖美术馆",
@@ -3065,7 +3186,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京红砖美术馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区会展中心",
@@ -3074,7 +3196,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京门头沟区的解读体育赛事周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区剧院",
@@ -3083,7 +3206,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京房山区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京古观象台",
@@ -3092,7 +3216,8 @@
     "type": "展览",
     "address": "",
     "description": "明清两代皇家天文台，古代天文仪器，世界现存最古老天文台之一。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "亮马河滨水步道",
@@ -3101,7 +3226,8 @@
     "type": "",
     "address": "",
     "description": "河边写生、露天小型演出、亲子骑行、自然观察。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京昌平区图书馆",
@@ -3110,7 +3236,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京昌平区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "通州区图书馆",
@@ -3119,7 +3246,8 @@
     "type": "",
     "address": "",
     "description": "大运河文化、亲子风筝手工。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区博物馆",
@@ -3128,7 +3256,8 @@
     "type": "演出",
     "address": "",
     "description": "北京朝阳区的震撼演出发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区科技馆",
@@ -3137,7 +3266,8 @@
     "type": "展览",
     "address": "",
     "description": "北京石景山区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区动物园",
@@ -3146,7 +3276,8 @@
     "type": "展览",
     "address": "",
     "description": "北京通州区的趣味展览展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区公园",
@@ -3155,7 +3286,8 @@
     "type": "展览",
     "address": "",
     "description": "北京门头沟区的经典展览探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区剧院",
@@ -3164,7 +3296,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京通州区的解读亲子活动周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区博物馆",
@@ -3173,7 +3306,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京海淀区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区植物园",
@@ -3182,7 +3316,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京大兴区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "八达岭长城",
@@ -3191,7 +3326,8 @@
     "type": "展览",
     "address": "",
     "description": "北京八达岭长城的精彩展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区图书馆",
@@ -3200,7 +3336,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京顺义区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "海淀区图书馆",
@@ -3209,7 +3346,8 @@
     "type": "",
     "address": "",
     "description": "科学工坊、外文绘本、国学课堂。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区青少年宫",
@@ -3218,7 +3356,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京怀柔区的震撼体育赛事发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区动物园",
@@ -3227,7 +3366,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京房山区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区体育馆",
@@ -3236,7 +3376,8 @@
     "type": "演出",
     "address": "",
     "description": "北京房山区的走进演出日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区艺术中心",
@@ -3245,7 +3386,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京门头沟区的经典影视放映探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "云居寺",
@@ -3254,7 +3396,8 @@
     "type": "展览",
     "address": "",
     "description": "北京敦煌，石经宝库，千年刻经史，佛教圣地。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "朝阳区青少年活动中心",
@@ -3263,7 +3406,8 @@
     "type": "",
     "address": "",
     "description": "绘画、乐器、体能免费体验。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "莲石湖公园",
@@ -3272,7 +3416,8 @@
     "type": "",
     "address": "",
     "description": "河滩沙池、自然研学、露天音乐会。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京丰台区科技馆",
@@ -3281,7 +3426,8 @@
     "type": "展览",
     "address": "",
     "description": "北京丰台区的精彩展览节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区文化馆",
@@ -3290,7 +3436,8 @@
     "type": "演出",
     "address": "",
     "description": "北京顺义区的震撼演出发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "西海子公园",
@@ -3299,7 +3446,8 @@
     "type": "",
     "address": "",
     "description": "运河历史科普、湖边游乐区、亲子写生。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "潮白河森林公园",
@@ -3308,7 +3456,8 @@
     "type": "",
     "address": "",
     "description": "河滩玩水、观鸟、徒步、亲子野餐。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京密云区文化中心",
@@ -3317,7 +3466,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京密云区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区海洋馆",
@@ -3326,7 +3476,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京海淀区的漫游科普活动季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区体育场",
@@ -3335,7 +3486,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京房山区的走进影视放映日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "牛街礼拜寺",
@@ -3344,7 +3496,8 @@
     "type": "展览",
     "address": "",
     "description": "北京最古老最著名的清真寺，伊斯兰文化建筑。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区文化中心",
@@ -3353,7 +3506,8 @@
     "type": "展览",
     "address": "",
     "description": "北京昌平区的沉浸式展览探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区美术馆",
@@ -3362,7 +3516,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京海淀区的沉浸式体育赛事探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区美术馆",
@@ -3371,7 +3526,8 @@
     "type": "演出",
     "address": "",
     "description": "北京怀柔区的探索演出演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区艺术中心",
@@ -3380,7 +3536,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京朝阳区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区剧院",
@@ -3389,7 +3546,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京东城区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京房山区博物馆",
@@ -3398,7 +3556,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京房山区的青少年讲座阅读讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区体育场",
@@ -3407,7 +3566,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京通州区的经典体育赛事探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区海洋馆",
@@ -3416,7 +3576,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京顺义区的探索讲座阅读演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区博物馆",
@@ -3425,7 +3586,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京石景山区的走进科普活动日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "陶然亭公园",
@@ -3434,7 +3596,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京陶然亭公园的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区科技馆",
@@ -3443,7 +3606,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京大兴区的体验亲子活动嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区体育馆",
@@ -3452,7 +3616,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京东城区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区动物园",
@@ -3461,7 +3626,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京延庆区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区海洋馆",
@@ -3470,7 +3636,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京东城区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区图书馆",
@@ -3479,7 +3646,8 @@
     "type": "演出",
     "address": "",
     "description": "北京海淀区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区动物园",
@@ -3488,7 +3656,8 @@
     "type": "展览",
     "address": "",
     "description": "北京顺义区的探索展览演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区艺术中心",
@@ -3497,7 +3666,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京顺义区的亲子体育赛事工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区艺术中心",
@@ -3506,7 +3676,8 @@
     "type": "展览",
     "address": "",
     "description": "北京密云区的漫游展览季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区动物园",
@@ -3515,7 +3686,8 @@
     "type": "演出",
     "address": "",
     "description": "北京昌平区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "白云观",
@@ -3524,7 +3696,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "道教全真派祖庭，中国道教协会所在地，道教文化圣地。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区公园",
@@ -3533,7 +3706,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京石景山区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区剧院",
@@ -3542,7 +3716,8 @@
     "type": "展览",
     "address": "",
     "description": "北京朝阳区的震撼展览发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区文化中心",
@@ -3551,7 +3726,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京通州区的暑期影视放映体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区科技馆",
@@ -3560,7 +3736,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京朝阳区的震撼影视放映发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区剧院",
@@ -3569,7 +3746,8 @@
     "type": "展览",
     "address": "",
     "description": "北京西城区的经典展览探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "南锣鼓巷",
@@ -3578,7 +3756,8 @@
     "type": "演出",
     "address": "",
     "description": "北京南锣鼓巷的精彩演出活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "三里屯",
@@ -3587,7 +3766,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京三里屯的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区科技馆",
@@ -3596,7 +3776,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京西城区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区博物馆",
@@ -3605,7 +3786,8 @@
     "type": "展览",
     "address": "",
     "description": "北京延庆区的互动展览科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "首都剧场",
@@ -3614,7 +3796,8 @@
     "type": "",
     "address": "",
     "description": "北京人民艺术剧院话剧《杜甫》，郭启宏编剧，冯远征导演并主演。票价80-680元，学生票40元。地铁5号线/6号线东四站。",
-    "source": "bjry"
+    "source": "bjry",
+    "official_url": ""
   },
   {
     "name": "北京东城区创意园",
@@ -3623,7 +3806,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京东城区的梦幻科普活动之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区剧院",
@@ -3632,7 +3816,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京延庆区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "紫竹院公园",
@@ -3641,7 +3826,8 @@
     "type": "",
     "address": "",
     "description": "竹文化科普、划船、亲子徒步、书法公益课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "顺义新城滨河森林公园",
@@ -3650,7 +3836,8 @@
     "type": "",
     "address": "",
     "description": "湖泊科普、儿童游乐区、周末公益市集。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区动物园",
@@ -3659,7 +3846,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京门头沟区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区会展中心",
@@ -3668,7 +3856,8 @@
     "type": "展览",
     "address": "",
     "description": "北京海淀区的家庭展览研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区创意园",
@@ -3677,7 +3866,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京海淀区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区植物园",
@@ -3686,7 +3876,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京怀柔区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区体育场",
@@ -3695,7 +3886,8 @@
     "type": "展览",
     "address": "",
     "description": "北京怀柔区的探索展览演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区体育馆",
@@ -3704,7 +3896,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京密云区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "雍和宫",
@@ -3713,7 +3906,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京最大的藏传佛教寺院，香火最旺的寺庙之一，祈福胜地。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京市青少年活动中心",
@@ -3722,7 +3916,8 @@
     "type": "",
     "address": "",
     "description": "非遗、户外研学、少儿汇演。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "念坛公园",
@@ -3731,7 +3926,8 @@
     "type": "",
     "address": "",
     "description": "湖泊生态课、风筝、骑行、免费游乐设施。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京延庆区青少年宫",
@@ -3740,7 +3936,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京延庆区的精彩讲座阅读节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区文化中心",
@@ -3749,7 +3946,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京延庆区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区美术馆",
@@ -3758,7 +3956,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京顺义区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "三里屯太古里北区下沉广场",
@@ -3767,7 +3966,8 @@
     "type": "",
     "address": "",
     "description": "儿童艺术展、亲子手作、绘本朗读会。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京西城区博物馆",
@@ -3776,7 +3976,8 @@
     "type": "演出",
     "address": "",
     "description": "北京西城区的经典演出探秘，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区文化中心",
@@ -3785,7 +3986,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京西城区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区科技馆",
@@ -3794,7 +3996,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京昌平区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "智化寺",
@@ -3803,7 +4006,8 @@
     "type": "演出",
     "address": "",
     "description": "明代古刹，京音乐非遗传承，智化寺梨花，古建筑艺术。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "国家图书馆少年儿童馆",
@@ -3812,7 +4016,8 @@
     "type": "",
     "address": "",
     "description": "暑期少儿阅读推广活动，包含绘本故事会、科普讲座、手工制作等，在国家图书馆少儿馆区域举办，免费参与。",
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "official_url": ""
   },
   {
     "name": "北京顺义区公园",
@@ -3821,7 +4026,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京顺义区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区海洋馆",
@@ -3830,7 +4036,8 @@
     "type": "展览",
     "address": "",
     "description": "北京门头沟区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区青少年宫",
@@ -3839,7 +4046,8 @@
     "type": "展览",
     "address": "",
     "description": "北京海淀区的发现展览比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "国家游泳中心",
@@ -3848,7 +4056,8 @@
     "type": "展览",
     "address": "",
     "description": "北京国家游泳中心的精彩展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区体育馆",
@@ -3857,7 +4066,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京延庆区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区动物园",
@@ -3866,7 +4076,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京丰台区的体验影视放映嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石刻艺术博物馆",
@@ -3875,7 +4086,8 @@
     "type": "展览",
     "address": "",
     "description": "真觉寺金刚宝座塔，北京石刻艺术，银杏秋天最美。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区博物馆",
@@ -3884,7 +4096,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京怀柔区的亲子影视放映工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "温榆河公园",
@@ -3893,7 +4106,8 @@
     "type": "",
     "address": "",
     "description": "超大草坪、沙池、森林徒步、自然研学、露营野餐。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "马家湾湿地公园",
@@ -3902,7 +4116,8 @@
     "type": "",
     "address": "",
     "description": "湿地鸟类观察、植物手工、河边野餐。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京海淀区科技馆",
@@ -3911,7 +4126,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京海淀区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区文化馆",
@@ -3920,7 +4136,8 @@
     "type": "展览",
     "address": "",
     "description": "北京通州区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京海淀区体育馆",
@@ -3929,7 +4146,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京海淀区的沉浸式讲座阅读探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区美术馆",
@@ -3938,7 +4156,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京西城区的暑期科普活动体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京画院美术馆",
@@ -3947,7 +4166,8 @@
     "type": "展览",
     "address": "",
     "description": "齐白石艺术陈列，北京画院藏品展，近现代书画。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区美术馆",
@@ -3956,7 +4176,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京延庆区的儿童亲子活动课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "沙河滨河公园",
@@ -3965,7 +4186,8 @@
     "type": "",
     "address": "",
     "description": "河道科普、沙池、亲子徒步、草坪市集。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "戒台寺",
@@ -3974,7 +4196,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "天下第一戒坛，千年古松，辽代佛教建筑。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "云居城市休闲公园",
@@ -3983,7 +4206,8 @@
     "type": "",
     "address": "",
     "description": "无动力乐园、自然手工、露天少儿演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "清华大学艺术博物馆",
@@ -3992,7 +4216,8 @@
     "type": "",
     "address": "",
     "description": "以馆藏织绣书画分五大单元呈现传统工艺之美，四层9号展厅，适合亲子与艺术爱好者，购校博门票。",
-    "source": "清华大学艺术博物馆"
+    "source": "清华大学艺术博物馆",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区文化中心",
@@ -4001,7 +4226,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京朝阳区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区文化馆",
@@ -4010,7 +4236,8 @@
     "type": "展览",
     "address": "",
     "description": "北京石景山区的周末展览活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区植物园",
@@ -4019,7 +4246,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京顺义区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区美术馆",
@@ -4028,7 +4256,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京朝阳区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区公园",
@@ -4037,7 +4266,8 @@
     "type": "演出",
     "address": "",
     "description": "北京密云区的漫游演出季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区植物园",
@@ -4046,7 +4276,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京延庆区的精彩影视放映节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京国际戏剧中心·人艺小剧场",
@@ -4055,7 +4286,8 @@
     "type": "",
     "address": "",
     "description": "北京人艺小剧场话剧《罗密欧与朱丽叶》，莎士比亚经典，魏嘉诚导演。票价180-280元，学生票60元。地铁5号线/6号线东四站。",
-    "source": "bjry"
+    "source": "bjry",
+    "official_url": ""
   },
   {
     "name": "北京顺义区科技馆",
@@ -4064,7 +4296,8 @@
     "type": "演出",
     "address": "",
     "description": "北京顺义区的探秘演出月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区创意园",
@@ -4073,7 +4306,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京密云区的沉浸式亲子活动探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京西城区体育场",
@@ -4082,7 +4316,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京西城区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京鲁迅博物馆",
@@ -4091,7 +4326,8 @@
     "type": "展览",
     "address": "",
     "description": "鲁迅故居，鲁迅生平事迹展，新文化运动纪念。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "东小口森林公园",
@@ -4100,7 +4336,8 @@
     "type": "",
     "address": "",
     "description": "免费球场、儿童沙坑、森林步道、亲子骑行。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
@@ -4109,7 +4346,8 @@
     "type": "",
     "address": "",
     "description": "北大红楼常设展，展现新文化运动和五四历史，五四大街29号，适合亲子爱国主义教育，免费需预约。",
-    "source": "北京鲁迅博物馆（北京新文化运动纪念馆）"
+    "source": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "official_url": ""
   },
   {
     "name": "北京大兴区海洋馆",
@@ -4118,7 +4356,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京大兴区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区青少年宫",
@@ -4127,7 +4366,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京朝阳区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区博物馆",
@@ -4136,7 +4376,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京昌平区的发现体育赛事比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区图书馆",
@@ -4145,7 +4386,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京门头沟区的解读讲座阅读周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "老舍纪念馆",
@@ -4154,7 +4396,8 @@
     "type": "展览",
     "address": "",
     "description": "丰富胡同丹柿小院，老舍故居，人民艺术家纪念。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区青少年宫",
@@ -4163,7 +4406,8 @@
     "type": "展览",
     "address": "",
     "description": "北京丰台区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京古代建筑博物馆",
@@ -4172,7 +4416,8 @@
     "type": "",
     "address": "",
     "description": "古建模型、斗拱手工、建筑科普。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区文化馆",
@@ -4181,7 +4426,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京怀柔区的探秘科普活动月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区会展中心",
@@ -4190,7 +4436,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京顺义区的震撼亲子活动发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区科技馆",
@@ -4199,7 +4446,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京东城区的周末讲座阅读活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区创意园",
@@ -4208,7 +4456,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京朝阳区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中国电影博物馆",
@@ -4217,7 +4466,8 @@
     "type": "",
     "address": "",
     "description": "暑期周一、三、四正常开放，周五至周日及节假日延时开放，适合亲子观影与电影文化体验，免费。",
-    "source": "中国电影博物馆"
+    "source": "中国电影博物馆",
+    "official_url": ""
   },
   {
     "name": "北京东城区文化中心",
@@ -4226,7 +4476,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京东城区的走进科普活动日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区动物园",
@@ -4235,7 +4486,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京东城区的梦幻体育赛事之旅，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京艺术博物馆",
@@ -4244,7 +4496,8 @@
     "type": "展览",
     "address": "",
     "description": "京西小故宫万寿寺，明清古建筑群，艺术收藏展。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "石景山区图书馆",
@@ -4253,7 +4506,8 @@
     "type": "",
     "address": "",
     "description": "工业科普、绘本剧、自然观察。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区体育馆",
@@ -4262,7 +4516,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京朝阳区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京市文化馆",
@@ -4271,7 +4526,8 @@
     "type": "",
     "address": "",
     "description": "非遗活动、免费艺术培训、露天演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "首钢园·六工汇",
@@ -4280,7 +4536,8 @@
     "type": "",
     "address": "",
     "description": "工业儿童乐园、非遗市集、露天音乐会、工业导览、露天电影。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京昌平区美术馆",
@@ -4289,7 +4546,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京昌平区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区体育场",
@@ -4298,7 +4556,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京朝阳区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "南海子公园",
@@ -4307,7 +4566,8 @@
     "type": "",
     "address": "",
     "description": "麋鹿科普、环湖步道、儿童沙池、野餐露营。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区动物园",
@@ -4316,7 +4576,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京朝阳区的探秘讲座阅读月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京艺术博物馆（万寿寺）",
@@ -4325,7 +4586,8 @@
     "type": "",
     "address": "",
     "description": "以乾隆宫廷文物为核心展现古代审美，万寿寺大禅堂小禅堂影堂，适合亲子感受传统文化，购门票。",
-    "source": "北京艺术博物馆（万寿寺）"
+    "source": "北京艺术博物馆（万寿寺）",
+    "official_url": ""
   },
   {
     "name": "朝阳体育中心",
@@ -4334,7 +4596,8 @@
     "type": "",
     "address": "",
     "description": "亲子球类、体能公益课、趣味运动会。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "丰台区图书馆",
@@ -4343,7 +4606,8 @@
     "type": "",
     "address": "",
     "description": "节气手工、亲子观影、红色阅读。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京消防科普教育基地",
@@ -4352,7 +4616,8 @@
     "type": "",
     "address": "",
     "description": "消防模拟、逃生演练、安全手工。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京海淀区艺术中心",
@@ -4361,7 +4626,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京海淀区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "海淀区青少年活动中心",
@@ -4370,7 +4636,8 @@
     "type": "",
     "address": "",
     "description": "编程、机器人、国风手工。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京西城区艺术中心",
@@ -4379,7 +4646,8 @@
     "type": "演出",
     "address": "",
     "description": "北京西城区的解读演出周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区艺术中心",
@@ -4388,7 +4656,8 @@
     "type": "演出",
     "address": "",
     "description": "北京东城区的走进演出日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区剧院",
@@ -4397,7 +4666,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京怀柔区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区创意园",
@@ -4406,7 +4676,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京通州区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区会展中心",
@@ -4415,7 +4686,8 @@
     "type": "演出",
     "address": "",
     "description": "北京丰台区的互动演出科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "茅盾故居",
@@ -4424,7 +4696,8 @@
     "type": "展览",
     "address": "",
     "description": "后圆恩寺胡同，茅盾晚年居住地，文学大师故居。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "妙应寺白塔",
@@ -4433,7 +4706,8 @@
     "type": "展览",
     "address": "",
     "description": "元代藏式佛塔，中国现存最早最大的藏式佛塔。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区植物园",
@@ -4442,7 +4716,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京昌平区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京延庆区海洋馆",
@@ -4451,7 +4726,8 @@
     "type": "演出",
     "address": "",
     "description": "北京延庆区的互动演出科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区科技馆",
@@ -4460,7 +4736,8 @@
     "type": "演出",
     "address": "",
     "description": "北京通州区的解读演出周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "三山五园文化艺术中心",
@@ -4469,7 +4746,8 @@
     "type": "",
     "address": "",
     "description": "汇集6国二十余件数字艺术作品，围绕AI与生命主题沉浸叙事，适合亲子科技艺术体验。",
-    "source": "三山五园文化艺术中心"
+    "source": "三山五园文化艺术中心",
+    "official_url": ""
   },
   {
     "name": "北京密云区剧院",
@@ -4478,7 +4756,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京密云区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大运河博物馆（首都博物馆东馆）",
@@ -4487,7 +4766,8 @@
     "type": "",
     "address": "",
     "description": "鄂尔多斯青铜器展，11、12号展厅。北方草原文化代表性器物。地铁6号线北运河东站。",
-    "source": "bjmuseum"
+    "source": "bjmuseum",
+    "official_url": ""
   },
   {
     "name": "北京通州区博物馆",
@@ -4496,7 +4776,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京通州区的解读科普活动周，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区公园",
@@ -4505,7 +4786,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京东城区的走进亲子活动日，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区图书馆",
@@ -4514,7 +4796,8 @@
     "type": "展览",
     "address": "",
     "description": "北京东城区的青少年展览讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "城市绿心森林公园",
@@ -4523,7 +4806,8 @@
     "type": "",
     "address": "",
     "description": "森林研学、无动力乐园、露天电影、节气活动。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区海洋馆",
@@ -4532,7 +4816,8 @@
     "type": "展览",
     "address": "",
     "description": "北京怀柔区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京石景山区会展中心",
@@ -4541,7 +4826,8 @@
     "type": "演出",
     "address": "",
     "description": "北京石景山区的周末演出活动，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区文化馆",
@@ -4550,7 +4836,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "北京大兴区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区海洋馆",
@@ -4559,7 +4846,8 @@
     "type": "演出",
     "address": "",
     "description": "北京密云区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区艺术中心",
@@ -4568,7 +4856,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京大兴区的互动讲座阅读科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区公园",
@@ -4577,7 +4866,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京丰台区的儿童体育赛事课程，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区植物园",
@@ -4586,7 +4876,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京密云区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "宋庆龄同志故居",
@@ -4595,7 +4886,8 @@
     "type": "展览",
     "address": "",
     "description": "后海北沿，清代王府花园，宋庆龄生平事迹展。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "大望京公园",
@@ -4604,7 +4896,8 @@
     "type": "",
     "address": "",
     "description": "草坪露营、儿童游乐区、露天朗读、节气市集。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区会展中心",
@@ -4613,7 +4906,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京怀柔区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京大兴区体育馆",
@@ -4622,7 +4916,8 @@
     "type": "演出",
     "address": "",
     "description": "北京大兴区的体验演出嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "中山公园音乐堂",
@@ -4631,7 +4926,8 @@
     "type": "",
     "address": "",
     "description": "第32届暑期艺术节，交响乐、民乐、儿童剧、戏曲、杂技等低票价惠民演出，适合亲子观演，需购票。",
-    "source": "中山公园音乐堂"
+    "source": "中山公园音乐堂",
+    "official_url": ""
   },
   {
     "name": "北京延庆区文化馆",
@@ -4640,7 +4936,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京延庆区的体验体育赛事嘉年华，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京昌平区公园",
@@ -4649,7 +4946,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京昌平区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京民俗博物馆",
@@ -4658,7 +4956,8 @@
     "type": "展览",
     "address": "",
     "description": "道教正一道派，北京民俗博物馆，老北京民俗文化。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "亦庄滨河森林公园",
@@ -4667,7 +4966,8 @@
     "type": "",
     "address": "",
     "description": "森林骑行、昆虫观察、亲子露营、免费手工市集。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京石景山区艺术中心",
@@ -4676,7 +4976,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京石景山区的青少年科普活动讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京通州区青少年宫",
@@ -4685,7 +4986,8 @@
     "type": "演出",
     "address": "",
     "description": "北京通州区的趣味演出展览，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京怀柔区动物园",
@@ -4694,7 +4996,8 @@
     "type": "科普活动",
     "address": "",
     "description": "北京怀柔区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "朝阳区文化馆",
@@ -4703,7 +5006,8 @@
     "type": "",
     "address": "",
     "description": "街头艺术、手工市集、公益音乐会。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "通州体育中心",
@@ -4712,7 +5016,8 @@
     "type": "",
     "address": "",
     "description": "滨河亲子运动、户外健身课堂。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京朝阳区会展中心",
@@ -4721,7 +5026,8 @@
     "type": "展览",
     "address": "",
     "description": "北京朝阳区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京顺义区博物馆",
@@ -4730,7 +5036,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京顺义区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京门头沟区创意园",
@@ -4739,7 +5046,8 @@
     "type": "演出",
     "address": "",
     "description": "北京门头沟区的暑期演出体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "长沟湿地公园",
@@ -4748,7 +5056,8 @@
     "type": "",
     "address": "",
     "description": "湿地生态研学、荷花写生、湖边沙池。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北京通州区公园",
@@ -4757,7 +5066,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "北京通州区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京东城区会展中心",
@@ -4766,7 +5076,8 @@
     "type": "影视放映",
     "address": "",
     "description": "北京东城区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京丰台区美术馆",
@@ -4775,7 +5086,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京丰台区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   },
   {
     "name": "北京密云区科技馆",
@@ -4784,6 +5096,7 @@
     "type": "体育赛事",
     "address": "",
     "description": "北京密云区的家庭体育赛事研学营，适合亲子家庭参与。",
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "official_url": ""
   }
 ]

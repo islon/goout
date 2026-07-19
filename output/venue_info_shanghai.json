@@ -10,6 +10,7 @@
     "fee": "免费",
     "description": "上海博物馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "中国古代艺术"
     ]
@@ -25,6 +26,7 @@
     "fee": "收费",
     "description": "上海科技馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验"
@@ -1757,7 +1759,8 @@
     "type": "展览",
     "address": "",
     "description": "玻璃艺术殿堂，热玻璃表演，DIY玻璃制作体验。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "淮海路",
@@ -1766,7 +1769,8 @@
     "type": "研学",
     "address": "",
     "description": "上海淮海路的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "金茂大厦",
@@ -1775,7 +1779,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "88层观光厅，云中漫步，浦东地标建筑。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "东方明珠",
@@ -1784,7 +1789,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海东方明珠的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海迪士尼度假区",
@@ -1793,7 +1799,8 @@
     "type": "",
     "address": "",
     "description": "十周年庆典叠加《玩具总动员5》全球首映，推出夏季限定娱乐演出、达菲新花车与疯狂动物城季节活动，适合全家亲子避暑游玩。",
-    "source": "上海迪士尼度假区"
+    "source": "上海迪士尼度假区",
+    "official_url": ""
   },
   {
     "name": "外滩",
@@ -1802,7 +1809,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海外滩的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区博物馆",
@@ -1811,7 +1819,8 @@
     "type": "演出",
     "address": "",
     "description": "上海长宁区的震撼演出发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区体育馆",
@@ -1820,7 +1829,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海徐汇区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区青少年宫",
@@ -1829,7 +1839,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海奉贤区的精彩讲座阅读节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区体育馆",
@@ -1838,7 +1849,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海金山区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海博物馆（人民广场馆）",
@@ -1847,7 +1859,8 @@
     "type": "",
     "address": "",
     "description": "上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。",
-    "source": "shanghaimuseum"
+    "source": "shanghaimuseum",
+    "official_url": ""
   },
   {
     "name": "中华艺术宫",
@@ -1856,7 +1869,8 @@
     "type": "",
     "address": "",
     "description": "马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。",
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "official_url": ""
   },
   {
     "name": "长风公园",
@@ -1865,7 +1879,8 @@
     "type": "研学",
     "address": "",
     "description": "上海长风公园的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区艺术中心",
@@ -1874,7 +1889,8 @@
     "type": "展览",
     "address": "",
     "description": "上海青浦区的漫游展览季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区博物馆",
@@ -1883,7 +1899,8 @@
     "type": "演出",
     "address": "",
     "description": "上海徐汇区的经典演出探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海航海博物馆",
@@ -1892,7 +1909,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海上海航海博物馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区美术馆",
@@ -1901,7 +1919,8 @@
     "type": "展览",
     "address": "",
     "description": "上海嘉定区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "徐家汇",
@@ -1910,7 +1929,8 @@
     "type": "展览",
     "address": "",
     "description": "上海徐家汇的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区会展中心",
@@ -1919,7 +1939,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海闵行区的震撼亲子活动发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区海洋馆",
@@ -1928,7 +1949,8 @@
     "type": "展览",
     "address": "",
     "description": "上海金山区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "杨浦区图书馆",
@@ -1937,7 +1959,8 @@
     "type": "",
     "address": "",
     "description": "民国建筑导览、绘本剧、非遗手工。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海电影博物馆",
@@ -1946,7 +1969,8 @@
     "type": "展览",
     "address": "",
     "description": "上海上海电影博物馆的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区体育馆",
@@ -1955,7 +1979,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海奉贤区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区图书馆",
@@ -1964,7 +1989,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海金山区的解读讲座阅读周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区植物园",
@@ -1973,7 +1999,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海杨浦区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区科技馆",
@@ -1982,7 +2009,8 @@
     "type": "展览",
     "address": "",
     "description": "上海虹口区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区体育场",
@@ -1991,7 +2019,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海普陀区的互动科普活动科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区青少年宫",
@@ -2000,7 +2029,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海宝山区的家庭亲子活动研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区植物园",
@@ -2009,7 +2039,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海嘉定区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海公安博物馆",
@@ -2018,7 +2049,8 @@
     "type": "展览",
     "address": "",
     "description": "公安发展史，警械装备，特种警用车辆。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "人民广场",
@@ -2027,7 +2059,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海人民广场的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区动物园",
@@ -2036,7 +2069,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海普陀区的体验影视放映嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区创意园",
@@ -2045,7 +2079,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海黄浦区的梦幻科普活动之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "静安雕塑公园",
@@ -2054,7 +2089,8 @@
     "type": "展览",
     "address": "",
     "description": "上海静安雕塑公园的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区公园",
@@ -2063,7 +2099,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海嘉定区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区美术馆",
@@ -2072,7 +2109,8 @@
     "type": "展览",
     "address": "",
     "description": "上海浦东新区的走进展览日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区科技馆",
@@ -2081,7 +2119,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海黄浦区的周末讲座阅读活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海文化广场",
@@ -2090,7 +2129,8 @@
     "type": "",
     "address": "",
     "description": "音乐剧《粉丝来信》中文版，八轮演出口碑之作。票价80-680元。地铁9号线/12号线嘉善路站。",
-    "source": "shcstheatre"
+    "source": "shcstheatre",
+    "official_url": ""
   },
   {
     "name": "上海宝山区科技馆",
@@ -2099,7 +2139,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海宝山区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "环球金融中心",
@@ -2108,7 +2149,8 @@
     "type": "研学",
     "address": "",
     "description": "上海环球金融中心的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区剧院",
@@ -2117,7 +2159,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海奉贤区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "陆家嘴",
@@ -2126,7 +2169,8 @@
     "type": "展览",
     "address": "",
     "description": "上海陆家嘴的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区创意园",
@@ -2135,7 +2179,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海徐汇区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "浦东美术馆",
@@ -2144,7 +2189,8 @@
     "type": "",
     "address": "",
     "description": "浦东美术馆与意大利博洛尼亚莫兰迪博物馆合作，展出超200件作品含140余件莫兰迪原作，逾120件系中国首展，适合绘画与静物艺术爱好者。",
-    "source": "浦东美术馆"
+    "source": "浦东美术馆",
+    "official_url": ""
   },
   {
     "name": "上海宝山区植物园",
@@ -2153,7 +2199,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海宝山区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区创意园",
@@ -2162,7 +2209,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海静安区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区公园",
@@ -2171,7 +2219,8 @@
     "type": "展览",
     "address": "",
     "description": "上海金山区的经典展览探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区文化中心",
@@ -2180,7 +2229,8 @@
     "type": "展览",
     "address": "",
     "description": "上海宝山区的沉浸式展览探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区文化中心",
@@ -2189,7 +2239,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海静安区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "中共一大纪念馆",
@@ -2198,7 +2249,8 @@
     "type": "",
     "address": "",
     "description": "中共一大纪念馆发布的VR沉浸式体验，构建一大会址、天宫空间站等虚实交融场景，传承建党与“两弹一星”精神，适合青少年红色研学。",
-    "source": "中共一大纪念馆"
+    "source": "中共一大纪念馆",
+    "official_url": ""
   },
   {
     "name": "南京路",
@@ -2207,7 +2259,8 @@
     "type": "演出",
     "address": "",
     "description": "上海南京路的精彩演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区博物馆",
@@ -2216,7 +2269,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海宝山区的发现体育赛事比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区会展中心",
@@ -2225,7 +2279,8 @@
     "type": "演出",
     "address": "",
     "description": "上海虹口区的周末演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区文化馆",
@@ -2234,7 +2289,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海奉贤区的体验体育赛事嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区剧院",
@@ -2243,7 +2299,8 @@
     "type": "演出",
     "address": "",
     "description": "上海普陀区的精彩演出节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区文化中心",
@@ -2252,7 +2309,8 @@
     "type": "演出",
     "address": "",
     "description": "上海浦东新区的梦幻演出之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区公园",
@@ -2261,7 +2319,8 @@
     "type": "展览",
     "address": "",
     "description": "上海浦东新区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "浦东新区图书馆",
@@ -2270,7 +2329,8 @@
     "type": "",
     "address": "",
     "description": "航天科普、少儿编程、户外阅读营。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海宝山区海洋馆",
@@ -2279,7 +2339,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海宝山区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区博物馆",
@@ -2288,7 +2349,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海普陀区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区动物园",
@@ -2297,7 +2359,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海青浦区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "徐汇西岸滨江",
@@ -2306,7 +2369,8 @@
     "type": "",
     "address": "",
     "description": "流动艺术科普展、户外免费攀爬场地、绘本长廊分享会、露天小型公益演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海城市规划展示馆",
@@ -2315,7 +2379,8 @@
     "type": "演出",
     "address": "",
     "description": "上海上海城市规划展示馆的精彩演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区博物馆",
@@ -2324,7 +2389,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海虹口区的走进科普活动日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区博物馆",
@@ -2333,7 +2399,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海闵行区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "嘉定博物馆",
@@ -2342,7 +2409,8 @@
     "type": "",
     "address": "",
     "description": "科举文化、古建筑手工、园林科普。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海世博会博物馆",
@@ -2351,7 +2419,8 @@
     "type": "",
     "address": "",
     "description": "携手故宫博物院推出'国采：故宫藏清代帝后服饰展'，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等最高等级帝后服装，九成从未出京，超三成首次面世。",
-    "source": "上海世博会博物馆"
+    "source": "上海世博会博物馆",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区博物馆",
@@ -2360,7 +2429,8 @@
     "type": "展览",
     "address": "",
     "description": "上海黄浦区的周末展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区青少年宫",
@@ -2369,7 +2439,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海浦东新区的周末科普活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区动物园",
@@ -2378,7 +2449,8 @@
     "type": "展览",
     "address": "",
     "description": "上海杨浦区的趣味展览展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区青少年宫",
@@ -2387,7 +2459,8 @@
     "type": "展览",
     "address": "",
     "description": "上海普陀区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区科技馆",
@@ -2396,7 +2469,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海青浦区的家庭体育赛事研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区剧院",
@@ -2405,7 +2479,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海松江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区海洋馆",
@@ -2414,7 +2489,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海黄浦区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区博物馆",
@@ -2423,7 +2499,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海松江区的亲子影视放映工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区文化馆",
@@ -2432,7 +2509,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海静安区的家庭影视放映研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区海洋馆",
@@ -2441,7 +2519,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海闵行区的探索讲座阅读演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区图书馆",
@@ -2450,7 +2529,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海闵行区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区科技馆",
@@ -2459,7 +2539,8 @@
     "type": "演出",
     "address": "",
     "description": "上海闵行区的探秘演出月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区科技馆",
@@ -2468,7 +2549,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海静安区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区海洋馆",
@@ -2477,7 +2559,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海静安区的漫游科普活动季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海图书馆总馆",
@@ -2486,7 +2569,8 @@
     "type": "",
     "address": "",
     "description": "亲子共读、科创手工、暑期研学、外文沙龙。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "浦东体育公园",
@@ -2495,7 +2579,8 @@
     "type": "",
     "address": "",
     "description": "轮滑、滑板、儿童游乐区、户外亲子运动。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海普陀区会展中心",
@@ -2504,7 +2589,8 @@
     "type": "演出",
     "address": "",
     "description": "上海普陀区的互动演出科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海展览中心",
@@ -2513,7 +2599,8 @@
     "type": "",
     "address": "",
     "description": "上海展览中心与上海书城双主场，早9点至晚9点全天开放，约380家出版机构参展，全市设分会场，适合亲子阅读与青少年购书研学。",
-    "source": "上海展览中心"
+    "source": "上海展览中心",
+    "official_url": ""
   },
   {
     "name": "上海长宁区青少年宫",
@@ -2522,7 +2609,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海长宁区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区植物园",
@@ -2531,7 +2619,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海松江区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区剧院",
@@ -2540,7 +2629,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海杨浦区的解读亲子活动周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区公园",
@@ -2549,7 +2639,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海杨浦区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区艺术中心",
@@ -2558,7 +2649,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海长宁区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海博物馆东馆",
@@ -2567,7 +2659,8 @@
     "type": "展览",
     "address": "",
     "description": "上博新馆，更大展厅更多文物，上海文化新地标。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区体育馆",
@@ -2576,7 +2669,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海松江区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区文化馆",
@@ -2585,7 +2679,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海浦东新区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区图书馆",
@@ -2594,7 +2689,8 @@
     "type": "展览",
     "address": "",
     "description": "上海黄浦区的青少年展览讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海美术馆（中华艺术宫）",
@@ -2603,7 +2699,8 @@
     "type": "",
     "address": "",
     "description": "马王堆汉墓50余年考古史上规模最大、等级最高的湖南省外展出。195件套472件展品，3件禁止出境文物，一级文物31件套。展现汉代生活极致风雅。地铁8号线中华艺术宫站。",
-    "source": "chinaartmuseum"
+    "source": "chinaartmuseum",
+    "official_url": ""
   },
   {
     "name": "上海中医药博物馆",
@@ -2612,7 +2709,8 @@
     "type": "展览",
     "address": "",
     "description": "中医中药发展史，中草药标本，养生文化。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海工艺美术博物馆",
@@ -2621,7 +2719,8 @@
     "type": "展览",
     "address": "",
     "description": "法租界小白宫，绒绣面塑剪纸，上海工艺美术精品。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "闵行体育公园文体中心",
@@ -2630,7 +2729,8 @@
     "type": "",
     "address": "",
     "description": "环湖徒步、球类公益课、草坪亲子市集。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区海洋馆",
@@ -2639,7 +2739,8 @@
     "type": "演出",
     "address": "",
     "description": "上海奉贤区的互动演出科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区体育场",
@@ -2648,7 +2749,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海徐汇区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海市群众艺术馆",
@@ -2657,7 +2759,8 @@
     "type": "",
     "address": "",
     "description": "非遗手作市集、少儿国风绘画、露天公益亲子演出、民乐免费体验课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区青少年宫",
@@ -2666,7 +2769,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海黄浦区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区科技馆",
@@ -2675,7 +2779,8 @@
     "type": "展览",
     "address": "",
     "description": "上海普陀区的精彩展览节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区创意园",
@@ -2684,7 +2789,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海杨浦区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区动物园",
@@ -2693,7 +2799,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海奉贤区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区海洋馆",
@@ -2702,7 +2809,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海虹口区的走进体育赛事日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区动物园",
@@ -2711,7 +2819,8 @@
     "type": "演出",
     "address": "",
     "description": "上海嘉定区的儿童演出课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区海洋馆",
@@ -2720,7 +2829,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海浦东新区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区图书馆",
@@ -2729,7 +2839,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海普陀区的互动亲子活动科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海当代艺术博物馆",
@@ -2738,7 +2849,8 @@
     "type": "",
     "address": "",
     "description": "呈现常玉、马蒂斯、达利、沃霍尔、赵无极等艺术大师的“艺术家手作书”，展现书籍作为复合型艺术形态，适合艺术与阅读爱好者亲子参观。",
-    "source": "上海当代艺术博物馆"
+    "source": "上海当代艺术博物馆",
+    "official_url": ""
   },
   {
     "name": "上海普陀区艺术中心",
@@ -2747,7 +2859,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海普陀区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "普陀区图书馆",
@@ -2756,7 +2869,8 @@
     "type": "",
     "address": "",
     "description": "水主题科普、诗词手工、亲子观影。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海动物园",
@@ -2765,7 +2879,8 @@
     "type": "演出",
     "address": "",
     "description": "上海上海动物园的精彩演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "中国航海博物馆",
@@ -2774,7 +2889,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海中国航海博物馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区艺术中心",
@@ -2783,7 +2899,8 @@
     "type": "展览",
     "address": "",
     "description": "上海奉贤区的精彩展览节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区会展中心",
@@ -2792,7 +2909,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海嘉定区的精彩科普活动节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "普陀青少年水主题科普基地",
@@ -2801,7 +2919,8 @@
     "type": "",
     "address": "",
     "description": "净水实验、水科学探究、手工工坊。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区会展中心",
@@ -2810,7 +2929,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海奉贤区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区植物园",
@@ -2819,7 +2939,8 @@
     "type": "演出",
     "address": "",
     "description": "上海静安区的发现演出比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区文化中心",
@@ -2828,7 +2949,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海长宁区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区艺术中心",
@@ -2837,7 +2959,8 @@
     "type": "演出",
     "address": "",
     "description": "上海黄浦区的走进演出日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区图书馆",
@@ -2846,7 +2969,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海浦东新区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海铁路博物馆",
@@ -2855,7 +2979,8 @@
     "type": "",
     "address": "",
     "description": "火车模型、机械科普、铁路历史导览。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海静安区艺术中心",
@@ -2864,7 +2989,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海静安区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区创意园",
@@ -2873,7 +2999,8 @@
     "type": "演出",
     "address": "",
     "description": "上海金山区的暑期演出体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区青少年宫",
@@ -2882,7 +3009,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海松江区的震撼体育赛事发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区创意园",
@@ -2891,7 +3019,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海长宁区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区文化馆",
@@ -2900,7 +3029,8 @@
     "type": "演出",
     "address": "",
     "description": "上海闵行区的震撼演出发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杜莎夫人蜡像馆",
@@ -2909,7 +3039,8 @@
     "type": "研学",
     "address": "",
     "description": "上海上海杜莎夫人蜡像馆的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区文化馆",
@@ -2918,7 +3049,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海松江区的探秘科普活动月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区会展中心",
@@ -2927,7 +3059,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海松江区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区动物园",
@@ -2936,7 +3069,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海金山区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区文化中心",
@@ -2945,7 +3079,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海杨浦区的暑期影视放映体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区科技馆",
@@ -2954,7 +3089,8 @@
     "type": "演出",
     "address": "",
     "description": "上海杨浦区的解读演出周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区美术馆",
@@ -2963,7 +3099,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海闵行区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区体育馆",
@@ -2972,7 +3109,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海黄浦区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区体育场",
@@ -2981,7 +3119,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海静安区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "松江文化馆",
@@ -2990,7 +3129,8 @@
     "type": "",
     "address": "",
     "description": "农耕科普、民俗手工、亲子舞台剧。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区美术馆",
@@ -2999,7 +3139,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海奉贤区的儿童亲子活动课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区剧院",
@@ -3008,7 +3149,8 @@
     "type": "展览",
     "address": "",
     "description": "上海徐汇区的经典展览探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "杨浦区青少年活动中心",
@@ -3017,7 +3159,8 @@
     "type": "",
     "address": "",
     "description": "机器人、陶艺、户外自然研学。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "宝山区图书馆",
@@ -3026,7 +3169,8 @@
     "type": "",
     "address": "",
     "description": "矿石科普、红色研学、少儿书画。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海金山区会展中心",
@@ -3035,7 +3179,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海金山区的解读体育赛事周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区青少年宫",
@@ -3044,7 +3189,8 @@
     "type": "展览",
     "address": "",
     "description": "上海静安区的发现展览比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "浦东新区青少年活动中心",
@@ -3053,7 +3199,8 @@
     "type": "",
     "address": "",
     "description": "科创、美术、轮滑免费体验课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海青浦区剧院",
@@ -3062,7 +3209,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海青浦区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区图书馆",
@@ -3071,7 +3219,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海青浦区的发现影视放映比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区文化馆",
@@ -3080,7 +3229,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海徐汇区的趣味讲座阅读展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区图书馆",
@@ -3089,7 +3239,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海宝山区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区体育馆",
@@ -3098,7 +3249,8 @@
     "type": "演出",
     "address": "",
     "description": "上海浦东新区的走进演出日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区美术馆",
@@ -3107,7 +3259,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海宝山区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区体育场",
@@ -3116,7 +3269,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海长宁区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区图书馆",
@@ -3125,7 +3279,8 @@
     "type": "演出",
     "address": "",
     "description": "上海静安区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区文化馆",
@@ -3134,7 +3289,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海普陀区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区艺术中心",
@@ -3143,7 +3299,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海虹口区的青少年科普活动讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区植物园",
@@ -3152,7 +3309,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海金山区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "宝山区文化馆",
@@ -3161,7 +3319,8 @@
     "type": "",
     "address": "",
     "description": "剪纸、皮影、少儿惠民文艺演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "北外滩来福士广场",
@@ -3170,7 +3329,8 @@
     "type": "",
     "address": "",
     "description": "复古里弄免费打卡、少儿国风公益展、露天亲子手作市集、户外少儿舞台演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "前滩太古里",
@@ -3179,7 +3339,8 @@
     "type": "",
     "address": "",
     "description": "屋顶免费儿童乐园、艺术公益展、江边写生、露天音乐会、节气市集。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "捷豹上海交响音乐厅",
@@ -3188,7 +3349,8 @@
     "type": "",
     "address": "",
     "description": "第37届上海夏季音乐节，33场现场演出+25场线上直播。开幕大戏为余隆执棒、濮存昕主演音乐与戏剧文学《哈姆雷特》。电影音乐、跨界舞台、国际大咖齐聚。地铁10号线上海图书馆站。",
-    "source": "misa"
+    "source": "misa",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区文化馆",
@@ -3197,7 +3359,8 @@
     "type": "展览",
     "address": "",
     "description": "上海杨浦区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区文化馆",
@@ -3206,7 +3369,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海金山区的解读科普活动周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区体育场",
@@ -3215,7 +3379,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海金山区的解读影视放映周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区公园",
@@ -3224,7 +3389,8 @@
     "type": "演出",
     "address": "",
     "description": "上海青浦区的漫游演出季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区图书馆",
@@ -3233,7 +3399,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海杨浦区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区文化馆",
@@ -3242,7 +3409,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海嘉定区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海市历史博物馆",
@@ -3251,7 +3419,8 @@
     "type": "",
     "address": "",
     "description": "苏州河历史文化展，西楼临展厅延长开放至20:00。小浪花讲解团、苏州河夜游Citywalk、徽州非遗工坊。地铁1号线/2号线/8号线人民广场站。",
-    "source": "shhistorymuseum"
+    "source": "shhistorymuseum",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区海洋馆",
@@ -3260,7 +3429,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海徐汇区的经典亲子活动探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区剧院",
@@ -3269,7 +3439,8 @@
     "type": "展览",
     "address": "",
     "description": "上海长宁区的震撼展览发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "闵行区图书馆",
@@ -3278,7 +3449,8 @@
     "type": "",
     "address": "",
     "description": "海洋绘本、植物手工、科创体验课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海宝山区动物园",
@@ -3287,7 +3459,8 @@
     "type": "演出",
     "address": "",
     "description": "上海宝山区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区体育场",
@@ -3296,7 +3469,8 @@
     "type": "演出",
     "address": "",
     "description": "上海奉贤区的儿童演出课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区植物园",
@@ -3305,7 +3479,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海青浦区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区体育馆",
@@ -3314,7 +3489,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海虹口区的梦幻影视放映之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区公园",
@@ -3323,7 +3499,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海虹口区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区文化馆",
@@ -3332,7 +3509,8 @@
     "type": "演出",
     "address": "",
     "description": "上海宝山区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区体育馆",
@@ -3341,7 +3519,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海青浦区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海环球金融中心",
@@ -3350,7 +3529,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "100层观光厅，空中走廊，俯瞰陆家嘴全景。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "松江博物馆",
@@ -3359,7 +3539,8 @@
     "type": "",
     "address": "",
     "description": "广富林文化、考古模拟、矿石彩绘。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海长宁区美术馆",
@@ -3368,7 +3549,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海长宁区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区剧院",
@@ -3377,7 +3559,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海金山区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区美术馆",
@@ -3386,7 +3569,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海杨浦区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区创意园",
@@ -3395,7 +3579,8 @@
     "type": "展览",
     "address": "",
     "description": "上海嘉定区的儿童展览课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区青少年宫",
@@ -3404,7 +3589,8 @@
     "type": "演出",
     "address": "",
     "description": "上海虹口区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "徐汇区图书馆",
@@ -3413,7 +3599,8 @@
     "type": "",
     "address": "",
     "description": "周末亲子读书会、自然写生、科普小实验、节气手工活动。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "嘉定区文化馆",
@@ -3422,7 +3609,8 @@
     "type": "",
     "address": "",
     "description": "国风手工、露天音乐会、非遗体验。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海宝山区公园",
@@ -3431,7 +3619,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海宝山区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区青少年宫",
@@ -3440,7 +3629,8 @@
     "type": "演出",
     "address": "",
     "description": "上海杨浦区的趣味演出展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区博物馆",
@@ -3449,7 +3639,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海浦东新区的青少年讲座阅读讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区文化中心",
@@ -3458,7 +3649,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海徐汇区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区会展中心",
@@ -3467,7 +3659,8 @@
     "type": "展览",
     "address": "",
     "description": "上海长宁区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "中华艺术宫（上海美术馆）",
@@ -3476,7 +3669,8 @@
     "type": "",
     "address": "",
     "description": "马王堆汉墓50余年考古史上规模最大、等级最高国宝艺术大展，九大稀世珍宝、十大重点展品上海首展，含帛画原件，适合历史与亲子家庭观众。",
-    "source": "中华艺术宫（上海美术馆）"
+    "source": "中华艺术宫（上海美术馆）",
+    "official_url": ""
   },
   {
     "name": "上海市少年宫",
@@ -3485,7 +3679,8 @@
     "type": "",
     "address": "",
     "description": "艺术、科技、舞蹈公益课程、少儿汇演。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区植物园",
@@ -3494,7 +3689,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海奉贤区的精彩影视放映节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区博物馆",
@@ -3503,7 +3699,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海静安区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区会展中心",
@@ -3512,7 +3709,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海黄浦区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海博物馆人民广场馆",
@@ -3521,7 +3719,8 @@
     "type": "展览",
     "address": "",
     "description": "中国四大博物馆之一，青铜器陶瓷书画玉器，中国古代艺术宝库。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海地震科普馆",
@@ -3530,7 +3729,8 @@
     "type": "展览",
     "address": "",
     "description": "地震知识科普，地震模拟体验，防灾教育。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海惊魂密境",
@@ -3539,7 +3739,8 @@
     "type": "演出",
     "address": "",
     "description": "沉浸式惊悚体验，老上海传说故事，惊魂冒险。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "宝山博物馆",
@@ -3548,7 +3749,8 @@
     "type": "",
     "address": "",
     "description": "江南民俗、陶艺DIY、文物导览。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区艺术中心",
@@ -3557,7 +3759,8 @@
     "type": "演出",
     "address": "",
     "description": "上海徐汇区的解读演出周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区美术馆",
@@ -3566,7 +3769,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海普陀区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区剧院",
@@ -3575,7 +3779,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海黄浦区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区体育场",
@@ -3584,7 +3789,8 @@
     "type": "展览",
     "address": "",
     "description": "上海松江区的探索展览演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区体育场",
@@ -3593,7 +3799,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海杨浦区的经典体育赛事探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区美术馆",
@@ -3602,7 +3809,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海徐汇区的暑期科普活动体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区图书馆",
@@ -3611,7 +3819,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海嘉定区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区动物园",
@@ -3620,7 +3829,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海松江区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区图书馆",
@@ -3629,7 +3839,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海虹口区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区美术馆",
@@ -3638,7 +3849,8 @@
     "type": "演出",
     "address": "",
     "description": "上海松江区的探索演出演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区艺术中心",
@@ -3647,7 +3859,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海嘉定区的互动讲座阅读科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区公园",
@@ -3656,7 +3869,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海长宁区的探索科普活动演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区剧院",
@@ -3665,7 +3879,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海嘉定区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区动物园",
@@ -3674,7 +3889,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海黄浦区的梦幻体育赛事之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区博物馆",
@@ -3683,7 +3899,8 @@
     "type": "展览",
     "address": "",
     "description": "上海奉贤区的互动展览科普，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "闵行区青少年活动中心",
@@ -3692,7 +3909,8 @@
     "type": "",
     "address": "",
     "description": "海洋科普、手工、编程体验。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区会展中心",
@@ -3701,7 +3919,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海徐汇区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海奉贤区文化中心",
@@ -3710,7 +3929,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海奉贤区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "普陀区青少年宫",
@@ -3719,7 +3939,8 @@
     "type": "",
     "address": "",
     "description": "水科学、绘画、少儿合唱公益课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区体育场",
@@ -3728,7 +3949,8 @@
     "type": "演出",
     "address": "",
     "description": "上海黄浦区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区会展中心",
@@ -3737,7 +3959,8 @@
     "type": "展览",
     "address": "",
     "description": "上海静安区的家庭展览研学营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区创意园",
@@ -3746,7 +3969,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海闵行区的探索影视放映演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区公园",
@@ -3755,7 +3979,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海黄浦区的走进亲子活动日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海宝山区体育场",
@@ -3764,7 +3989,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海宝山区的漫游讲座阅读季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区公园",
@@ -3773,7 +3999,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海闵行区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区海洋馆",
@@ -3782,7 +4009,8 @@
     "type": "演出",
     "address": "",
     "description": "上海青浦区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区文化中心",
@@ -3791,7 +4019,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海松江区的探秘亲子活动月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "宝山体育中心",
@@ -3800,7 +4029,8 @@
     "type": "",
     "address": "",
     "description": "少儿篮球、体能训练、露天亲子演出。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海闵行区动物园",
@@ -3809,7 +4039,8 @@
     "type": "展览",
     "address": "",
     "description": "上海闵行区的探索展览演出，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区文化中心",
@@ -3818,7 +4049,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海普陀区的儿童讲座阅读课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区体育馆",
@@ -3827,7 +4059,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海静安区的沉浸式讲座阅读探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海静安区美术馆",
@@ -3836,7 +4069,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海静安区的沉浸式体育赛事探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区植物园",
@@ -3845,7 +4079,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海闵行区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区体育馆",
@@ -3854,7 +4089,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海长宁区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "闵行博物馆",
@@ -3863,7 +4099,8 @@
     "type": "",
     "address": "",
     "description": "马桥文化手工、古陶临摹、少儿历史课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海虹口区植物园",
@@ -3872,7 +4109,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海虹口区的青少年亲子活动讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区动物园",
@@ -3881,7 +4119,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海长宁区的探秘讲座阅读月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区公园",
@@ -3890,7 +4129,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海普陀区的儿童体育赛事课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海少年儿童图书馆新馆",
@@ -3899,7 +4139,8 @@
     "type": "",
     "address": "",
     "description": "阅读沙龙、童话舞台剧、艺术公益课。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区体育场",
@@ -3908,7 +4149,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海浦东新区的走进影视放映日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海普陀区创意园",
@@ -3917,7 +4159,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海普陀区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区体育场",
@@ -3926,7 +4169,8 @@
     "type": "展览",
     "address": "",
     "description": "上海青浦区的发现展览比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区科技馆",
@@ -3935,7 +4179,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海嘉定区的体验亲子活动嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区创意园",
@@ -3944,7 +4189,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海青浦区的沉浸式亲子活动探索，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区公园",
@@ -3953,7 +4199,8 @@
     "type": "演出",
     "address": "",
     "description": "上海松江区的探秘演出月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区体育馆",
@@ -3962,7 +4209,8 @@
     "type": "演出",
     "address": "",
     "description": "上海嘉定区的体验演出嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海嘉定区海洋馆",
@@ -3971,7 +4219,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海嘉定区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区艺术中心",
@@ -3980,7 +4229,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海金山区的经典影视放映探秘，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区会展中心",
@@ -3989,7 +4239,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海青浦区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海杨浦区博物馆",
@@ -3998,7 +4249,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海杨浦区的解读科普活动周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区植物园",
@@ -4007,7 +4259,8 @@
     "type": "展览",
     "address": "",
     "description": "上海徐汇区的解读展览周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区体育馆",
@@ -4016,7 +4269,8 @@
     "type": "展览",
     "address": "",
     "description": "上海闵行区的探秘展览月，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区剧院",
@@ -4025,7 +4279,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海浦东新区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海闵行区艺术中心",
@@ -4034,7 +4289,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海闵行区的亲子体育赛事工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区图书馆",
@@ -4043,7 +4299,8 @@
     "type": "演出",
     "address": "",
     "description": "上海长宁区的亲子演出工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海长宁区科技馆",
@@ -4052,7 +4309,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海长宁区的震撼影视放映发现，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区青少年宫",
@@ -4061,7 +4319,8 @@
     "type": "影视放映",
     "address": "",
     "description": "上海徐汇区的解读影视放映周，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海青浦区文化中心",
@@ -4070,7 +4329,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海青浦区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区文化馆",
@@ -4079,7 +4339,8 @@
     "type": "展览",
     "address": "",
     "description": "上海虹口区的周末展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "浦东博物馆",
@@ -4088,7 +4349,8 @@
     "type": "",
     "address": "",
     "description": "海洋文化、航海科普、贝壳手工。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海宝山区剧院",
@@ -4097,7 +4359,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海宝山区的发现科普活动比赛，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海松江区海洋馆",
@@ -4106,7 +4369,8 @@
     "type": "展览",
     "address": "",
     "description": "上海松江区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海徐汇区科技馆",
@@ -4115,7 +4379,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海徐汇区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区植物园",
@@ -4124,7 +4389,8 @@
     "type": "体育赛事",
     "address": "",
     "description": "上海浦东新区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海金山区科技馆",
@@ -4133,7 +4399,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海金山区的趣味科普活动展览，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海虹口区美术馆",
@@ -4142,7 +4409,8 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海虹口区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海隧道科技馆",
@@ -4151,7 +4419,8 @@
     "type": "展览",
     "address": "",
     "description": "隧道建设技术，盾构机模型，地下工程科普。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海黄浦区文化中心",
@@ -4160,7 +4429,8 @@
     "type": "科普活动",
     "address": "",
     "description": "上海黄浦区的走进科普活动日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "上海浦东新区动物园",
@@ -4169,7 +4439,8 @@
     "type": "亲子活动",
     "address": "",
     "description": "上海浦东新区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   },
   {
     "name": "杨浦体育活动中心",
@@ -4178,7 +4449,8 @@
     "type": "",
     "address": "",
     "description": "乒乓球、羽毛球免费体验、亲子骑行。",
-    "source": "manual"
+    "source": "manual",
+    "official_url": ""
   },
   {
     "name": "上海虹口区创意园",
@@ -4187,6 +4459,7 @@
     "type": "讲座阅读",
     "address": "",
     "description": "上海虹口区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "official_url": ""
   }
 ]

@@ -10,6 +10,12 @@
     "fee": "免费",
     "description": "深圳中心图书馆，含中心馆和北馆，常设阅览、展览、讲座等活动。",
     "official_url": "https://www.szlib.org.cn",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn",
+        "label": "官方网站"
+      }
+    ],
     "highlights": [
       "阅读推广",
       "讲座展览",
@@ -27,6 +33,7 @@
     "fee": "免费",
     "description": "专为少年儿童服务的公共图书馆，定期举办绘本故事会、阅读推广等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "儿童阅读",
       "绘本故事",
@@ -44,6 +51,12 @@
     "fee": "免费",
     "description": "深圳综合性博物馆，常设古代深圳、近代深圳、深圳民俗等展览。",
     "official_url": "https://www.shenzhenmuseum.com",
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "官方网站"
+      }
+    ],
     "highlights": [
       "深圳历史",
       "古代深圳",
@@ -61,6 +74,7 @@
     "fee": "免费",
     "description": "深圳新建科技馆，含互动体验展区、科学实验区等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验",
@@ -78,6 +92,7 @@
     "fee": "收费",
     "description": "宝安滨海文化公园内的大型演艺中心，定期举办音乐会、音乐剧等演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "滨海演艺",
       "音乐剧",
@@ -95,6 +110,7 @@
     "fee": "收费",
     "description": "深圳专业音乐演出场馆，定期举办交响乐、室内乐等音乐会。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古典音乐",
       "交响乐"
@@ -111,6 +127,7 @@
     "fee": "免费",
     "description": "集当代艺术展览与城市规划展示于一体的综合性场馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "当代艺术",
       "城市规划"
@@ -127,6 +144,7 @@
     "fee": "收费",
     "description": "深圳市级体育中心，含体育馆、游泳馆等设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动健身"
@@ -143,6 +161,7 @@
     "fee": "免费",
     "description": "深圳市级文化馆，举办各类公益文化活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益文化",
       "艺术培训"
@@ -159,6 +178,7 @@
     "fee": "免费",
     "description": "深圳新建自然博物馆，展示自然历史、生态环境等内容。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "自然科学",
       "生态环境"
@@ -175,6 +195,7 @@
     "fee": "免费",
     "description": "南山区公共图书馆，定期举办阅读推广、讲座等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -191,6 +212,7 @@
     "fee": "免费",
     "description": "南山区综合性博物馆，常设古代南山、近代南山展览，定期举办特展。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "南山历史",
       "特色特展"
@@ -207,6 +229,7 @@
     "fee": "免费",
     "description": "南山区文化馆，举办公益文化培训、演出等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -223,6 +246,7 @@
     "fee": "免费",
     "description": "南山区青少年校外活动场所，开展各类兴趣培训。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -239,6 +263,7 @@
     "fee": "收费",
     "description": "南山文体中心，含大剧院、聚橙剧院等演出场馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "演出",
       "体育"
@@ -255,6 +280,7 @@
     "fee": "免费需预约",
     "description": "安全主题沉浸式体验展，含消防、交通、自然灾害等互动体验区。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "安全教育",
       "互动体验"
@@ -271,6 +297,7 @@
     "fee": "免费",
     "description": "蛇口海洋科普馆，展示海洋生物标本、珊瑚等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "海洋生物",
       "标本展览"
@@ -287,6 +314,7 @@
     "fee": "免费",
     "description": "展示深圳人才政策和科技创新成果。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "人才政策",
       "科技创新"
@@ -303,6 +331,7 @@
     "fee": "免费",
     "description": "南头古城内多个主题博物馆群，展示深圳1700年城市历史。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古城历史",
       "考古发现"
@@ -319,6 +348,7 @@
     "fee": "免费",
     "description": "展示招商局150年发展历程和中国近代航运史。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "招商局历史",
       "航运史"
@@ -335,6 +365,7 @@
     "fee": "免费",
     "description": "南山区社区阅读空间，提供自助阅览服务。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区阅读",
       "自助阅览"
@@ -351,6 +382,7 @@
     "fee": "免费需预约",
     "description": "华侨城湿地公园，开展自然教育、观鸟等亲子活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地生态",
       "观鸟",
@@ -368,6 +400,7 @@
     "fee": "收费",
     "description": "深圳湾体育中心（春茧），含体育馆、游泳馆等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动培训"
@@ -384,6 +417,7 @@
     "fee": "免费",
     "description": "宝安滨海文化公园，含摩天轮、商业综合体等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "滨海休闲",
       "摩天轮"
@@ -400,6 +434,7 @@
     "fee": "免费",
     "description": "福田区公共图书馆，定期举办阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -416,6 +451,7 @@
     "fee": "免费",
     "description": "福田区文化馆，举办公益文化培训、演出等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -432,6 +468,7 @@
     "fee": "免费",
     "description": "福田区美术馆，展示当代艺术和本土艺术家作品。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "当代艺术",
       "本土艺术"
@@ -448,6 +485,7 @@
     "fee": "免费",
     "description": "展示恐龙化石、三叶虫等古生物标本，介绍地球生命演化历程。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古生物化石",
       "恐龙",
@@ -465,6 +503,7 @@
     "fee": "免费",
     "description": "罗湖区公共图书馆，定期举办阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -481,6 +520,7 @@
     "fee": "免费",
     "description": "罗湖区文化馆，举办公益文化培训、演出等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -497,6 +537,7 @@
     "fee": "需购票",
     "description": "深圳老牌演出场馆，定期举办京剧、儿童剧等演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "京剧",
       "儿童剧",
@@ -514,6 +555,7 @@
     "fee": "需购票",
     "description": "深圳大剧院，举办音乐会、歌剧、芭蕾等高端演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "交响乐",
       "歌剧",
@@ -531,6 +573,7 @@
     "fee": "免费",
     "description": "宝安区公共图书馆，含总馆和多个街道分馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -547,6 +590,7 @@
     "fee": "免费",
     "description": "宝安区博物馆，展示宝安历史文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "宝安历史",
       "地方文化"
@@ -563,6 +607,7 @@
     "fee": "免费",
     "description": "宝安1990文化馆，含文化馆、博物馆、美术馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "展览"
@@ -579,6 +624,7 @@
     "fee": "免费",
     "description": "宝安区科技馆，含互动体验展区。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验"
@@ -595,6 +641,7 @@
     "fee": "收费",
     "description": "宝安区体育中心，含体育馆、游泳馆等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动培训"
@@ -611,6 +658,7 @@
     "fee": "免费",
     "description": "宝安区青少年校外活动场所。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -627,6 +675,7 @@
     "fee": "免费",
     "description": "展示宝安区城市规划建设成就。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "城市规划",
       "建设成就"
@@ -643,6 +692,7 @@
     "fee": "免费",
     "description": "湾区文化综合体，含图书馆、展览等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "文化综合体",
       "阅读空间"
@@ -659,6 +709,7 @@
     "fee": "免费",
     "description": "龙岗区公共图书馆，定期举办阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -675,6 +726,7 @@
     "fee": "免费",
     "description": "龙岗区博物馆，展示龙岗历史文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "龙岗历史",
       "地方文化"
@@ -691,6 +743,7 @@
     "fee": "免费",
     "description": "龙岗区文化馆，举办公益文化培训、演出等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -707,6 +760,7 @@
     "fee": "免费",
     "description": "龙岗区青少年校外活动场所。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -723,6 +777,7 @@
     "fee": "免费",
     "description": "全国最大的客家围屋之一，展示客家迁徙历史和民俗文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "客家文化",
       "鹤湖新居",
@@ -740,6 +795,7 @@
     "fee": "收费",
     "description": "龙岗区体育中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动培训"
@@ -756,6 +812,7 @@
     "fee": "收费",
     "description": "龙岗区国际艺术中心，举办高端演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "国际演出",
       "艺术交流"
@@ -772,6 +829,7 @@
     "fee": "免费",
     "description": "龙岗区科技馆（红立方）。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验"
@@ -788,6 +846,7 @@
     "fee": "免费",
     "description": "龙岗区儿童主题公园，适合亲子游玩。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "亲子游乐",
       "无动力乐园"
@@ -804,6 +863,7 @@
     "fee": "免费",
     "description": "龙华区公共图书馆，定期举办阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -820,6 +880,7 @@
     "fee": "免费",
     "description": "龙华区青少年校外活动场所。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -836,6 +897,7 @@
     "fee": "免费",
     "description": "龙华区文化馆，举办公益文化培训、演出等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -852,6 +914,7 @@
     "fee": "免费需预约",
     "description": "全国首个专业版画博物馆，紧邻观澜版画村。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "版画艺术",
       "国际馆藏",
@@ -869,6 +932,7 @@
     "fee": "免费",
     "description": "展示龙华区生态文明建设成果。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "生态文明",
       "环保科技"
@@ -885,6 +949,7 @@
     "fee": "免费",
     "description": "龙华区科技馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验"
@@ -901,6 +966,7 @@
     "fee": "免费",
     "description": "龙华白石龙中国文化名人大营救纪念馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红色文化",
       "历史纪念"
@@ -917,6 +983,7 @@
     "fee": "免费",
     "description": "光明区公共图书馆，定期举办阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "社区文化"
@@ -933,6 +1000,7 @@
     "fee": "免费需预约",
     "description": "光明区科技馆，含互动科技体验展。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验"
@@ -949,6 +1017,7 @@
     "fee": "免费",
     "description": "光明区文化馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -965,6 +1034,7 @@
     "fee": "收费",
     "description": "光明文化艺术中心，含大剧场、音乐厅、美术馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "演出",
       "展览",
@@ -982,6 +1052,7 @@
     "fee": "免费",
     "description": "光明区青少年校外活动场所。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -998,6 +1069,7 @@
     "fee": "收费",
     "description": "光明区群众体育中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动培训"
@@ -1014,6 +1086,7 @@
     "fee": "免费",
     "description": "光明区虹桥公园，以红色空中廊桥著称。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "虹桥步道",
       "休闲健身"
@@ -1030,6 +1103,7 @@
     "fee": "免费",
     "description": "光明区玉塘街道文体中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化",
       "体育"
@@ -1046,6 +1120,7 @@
     "fee": "免费",
     "description": "坪山区公共图书馆，定期举办阅读推广、暑期活动等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "暑期活动",
@@ -1063,6 +1138,7 @@
     "fee": "免费",
     "description": "坪山美术馆，展示当代艺术作品。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "当代艺术",
       "湾区艺术"
@@ -1079,6 +1155,7 @@
     "fee": "收费",
     "description": "坪山大剧院，举办舞剧、音乐剧、儿童剧等演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "舞剧",
       "音乐剧",
@@ -1096,6 +1173,7 @@
     "fee": "免费需预约",
     "description": "坪山区科技馆，含科普体验区。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科普教育",
       "互动体验"
@@ -1112,6 +1190,7 @@
     "fee": "收费",
     "description": "坪山区体育中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动培训"
@@ -1128,6 +1207,7 @@
     "fee": "免费",
     "description": "展示东江纵队抗战历史。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红色文化",
       "抗战历史"
@@ -1144,6 +1224,7 @@
     "fee": "免费",
     "description": "坪山中心公园，含环湖步道、无动力乐园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "环湖步道",
       "无动力乐园",
@@ -1161,6 +1242,7 @@
     "fee": "免费",
     "description": "马峦山郊野公园，可观瀑布、探访客家古村落。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "徒步",
       "瀑布",
@@ -1178,6 +1260,7 @@
     "fee": "免费需预约",
     "description": "聚龙山生态公园，定期开展自然课堂。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "自然教育",
       "植物识别",
@@ -1195,6 +1278,7 @@
     "fee": "免费",
     "description": "坪山燕子湖国际会展中心，承办各类博览会。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "会展",
       "博览"
@@ -1211,6 +1295,7 @@
     "fee": "免费",
     "description": "盐田区公共图书馆，定期举办海洋主题阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "海洋主题"
@@ -1227,6 +1312,7 @@
     "fee": "免费",
     "description": "盐田区文化馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -1243,6 +1329,7 @@
     "fee": "免费",
     "description": "展示中英街百年沧桑历史和深港边境文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "中英街历史",
       "深港文化"
@@ -1259,6 +1346,7 @@
     "fee": "免费",
     "description": "盐田区科技馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学实验",
       "互动体验"
@@ -1275,6 +1363,7 @@
     "fee": "收费",
     "description": "盐田区体育中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "运动培训"
@@ -1291,6 +1380,7 @@
     "fee": "免费",
     "description": "盐田中央公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "休闲散步"
     ]
@@ -1306,6 +1396,7 @@
     "fee": "免费",
     "description": "大鹏半岛国家地质公园博物馆，展示地质演化和古生物化石。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "地质科普",
       "古生物化石",
@@ -1323,6 +1414,7 @@
     "fee": "免费需预约",
     "description": "大亚湾核能科技馆，展示核能发电原理和核安全知识。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "核能科普",
       "清洁能源",
@@ -1340,6 +1432,7 @@
     "fee": "免费",
     "description": "大鹏新区公共图书馆，定期举办海洋主题阅读推广活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读推广",
       "海洋主题"
@@ -1356,6 +1449,7 @@
     "fee": "免费",
     "description": "大鹏所城历史博物馆，展示海防文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古城历史",
       "海防文化"
@@ -1372,6 +1466,7 @@
     "fee": "免费",
     "description": "大鹏新区文化馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公益培训",
       "群众文化"
@@ -1388,6 +1483,7 @@
     "fee": "免费需预约",
     "description": "深圳西涌天文台，定期对公众开放，可观星。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "天文观测",
       "科普教育",
@@ -1405,6 +1501,7 @@
     "fee": "免费",
     "description": "东涌红树林湿地公园，开展红树林生态科普、观鸟等自然教育。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红树林",
       "观鸟",
@@ -1422,6 +1519,7 @@
     "fee": "免费",
     "description": "深圳面积最大的红树林保护区，有观鸟平台和科普栈道。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红树林",
       "观鸟",
@@ -1439,6 +1537,7 @@
     "fee": "收费",
     "description": "玫瑰海岸滨海度假区，举办沙滩嘉年华等活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "沙滩",
       "水上运动",
@@ -1456,6 +1555,7 @@
     "fee": "免费",
     "description": "杨梅坑海滨栈道，可徒步、骑行、探访鹿嘴山庄。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "滨海徒步",
       "骑行",
@@ -1473,6 +1573,7 @@
     "fee": "免费",
     "description": "深圳第二高峰，登山步道沿途有地质科普解说牌。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "登山",
       "地质科普",
@@ -1490,6 +1591,7 @@
     "fee": "免费",
     "description": "官湖村国际艺术园区，含海边画廊、儿童艺术工坊。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "艺术园区",
       "海边画廊",
@@ -1507,6 +1609,7 @@
     "fee": "收费",
     "description": "金沙湾国际乐园，含水世界、冰雪世界等多个主题园区。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "水世界",
       "冰雪世界",
@@ -1524,6 +1627,7 @@
     "fee": "免费需预约",
     "description": "大鹏新区科学馆，开展海洋科学、天文观测等科普活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "海洋科学",
       "天文观测",
@@ -1541,6 +1645,7 @@
     "fee": "免费",
     "description": "较场尾滨海度假村，有沙滩、民宿、海鲜等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "沙滩",
       "民宿",
@@ -1558,6 +1663,7 @@
     "fee": "免费",
     "description": "葵涌生态公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "生态",
       "休闲"
@@ -1574,6 +1680,7 @@
     "fee": "免费需预约",
     "description": "深圳市安全教育基地，含交通安全、消防安全等主题体验区。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "安全教育",
       "互动体验"
@@ -1590,6 +1697,7 @@
     "fee": "免费",
     "description": "华侨城片区文化艺术综合体，集展览、市集、创意零售于一体。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "文艺市集",
       "创意展览"
@@ -1606,6 +1714,7 @@
     "fee": "免费",
     "description": "坪山区青少年校外活动场所。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -1622,6 +1731,7 @@
     "fee": "免费",
     "description": "何香凝美术馆，展示何香凝书画作品及当代艺术。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "何香凝书画",
       "当代艺术"
@@ -1638,6 +1748,7 @@
     "fee": "免费",
     "description": "关山月美术馆，展示关山月画作及当代美术。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "关山月画作",
       "当代美术"
@@ -1654,6 +1765,7 @@
     "fee": "免费",
     "description": "深圳美术馆，展示当代艺术和本土艺术家作品。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "当代艺术",
       "本土艺术"
@@ -1670,6 +1782,7 @@
     "fee": "需购票",
     "description": "深圳保利剧院，举办音乐会、音乐剧等演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "音乐会",
       "音乐剧"
@@ -1686,6 +1799,7 @@
     "fee": "免费",
     "description": "深圳会展中心，承办各类大型展览和博览会。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "展览",
       "博览"
@@ -1702,6 +1816,7 @@
     "fee": "免费",
     "description": "深圳国际会展中心（新馆），承办大型国际展览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "国际展览",
       "博览"
@@ -1718,6 +1833,7 @@
     "fee": "收费",
     "description": "锦绣中华民俗村，含微缩景区和少数民族村寨。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "微缩景观",
       "民俗文化",
@@ -1735,6 +1851,7 @@
     "fee": "免费",
     "description": "深圳市少年宫，含科技展馆和培训课程。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科技展馆",
       "青少年培训"
@@ -1751,6 +1868,7 @@
     "fee": "免费",
     "description": "深圳市青少年活动中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "青少年培训",
       "兴趣课程"
@@ -1767,6 +1885,7 @@
     "fee": "免费",
     "description": "深圳书城中心城，大型图书零售和文化活动空间。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "图书",
       "文化活动"
@@ -1783,6 +1902,7 @@
     "fee": "免费",
     "description": "深圳湾滨海休闲带，适合散步骑行。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "滨海休闲",
       "骑行"
@@ -1799,6 +1919,7 @@
     "fee": "免费",
     "description": "海上世界文化艺术中心，展示当代艺术。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "当代艺术",
       "滨海文化"
@@ -1815,6 +1936,7 @@
     "fee": "免费",
     "description": "展示中医药文化和历史。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "中医药文化",
       "健康科普"
@@ -1831,6 +1953,7 @@
     "fee": "免费",
     "description": "展示珠宝首饰文化和工艺。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "珠宝",
       "工艺"
@@ -1847,6 +1970,7 @@
     "fee": "收费",
     "description": "大型主题游乐园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "主题游乐",
       "刺激项目"
@@ -1863,6 +1987,7 @@
     "fee": "免费",
     "description": "华侨城欢乐海岸，集文化、商业、休闲于一体。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "滨海休闲",
       "商业文化"
@@ -1879,6 +2004,7 @@
     "fee": "收费",
     "description": "世界微缩景观主题公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "微缩景观",
       "世界文化"
@@ -1895,6 +2021,7 @@
     "fee": "免费",
     "description": "以荷花著称的公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "荷花",
       "观鸟"
@@ -1911,6 +2038,7 @@
     "fee": "免费",
     "description": "大沙河沿河生态绿道。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "生态绿道",
       "骑行"
@@ -1927,6 +2055,7 @@
     "fee": "免费",
     "description": "淘金山绿道，适合徒步。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "徒步",
       "山林"
@@ -1943,6 +2072,7 @@
     "fee": "免费",
     "description": "西湾红树林湿地公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红树林",
       "观鸟"
@@ -1959,6 +2089,7 @@
     "fee": "免费",
     "description": "茅洲河碧道，适合散步骑行。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "碧道",
       "生态"
@@ -1975,6 +2106,7 @@
     "fee": "免费",
     "description": "石岩湖湿地公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地",
       "观鸟"
@@ -1991,6 +2123,7 @@
     "fee": "免费",
     "description": "石岩街道文化艺术中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2006,6 +2139,7 @@
     "fee": "免费",
     "description": "坪山区红花山公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "休闲",
       "登高"
@@ -2022,6 +2156,7 @@
     "fee": "收费",
     "description": "深圳大运中心体育场和体育馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "大型活动"
@@ -2038,6 +2173,7 @@
     "fee": "免费",
     "description": "大运中心公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "休闲",
       "运动"
@@ -2054,6 +2190,7 @@
     "fee": "免费",
     "description": "安托山公共文化中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2069,6 +2206,7 @@
     "fee": "免费",
     "description": "深圳北站中心公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "休闲",
       "城市公园"
@@ -2085,6 +2223,7 @@
     "fee": "免费",
     "description": "深圳科学公园南翼。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科学",
       "休闲"
@@ -2101,6 +2240,7 @@
     "fee": "免费",
     "description": "深圳人才公园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "人才主题",
       "滨海休闲"
@@ -2117,6 +2257,7 @@
     "fee": "免费",
     "description": "龙岗区吉华街道文化站。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2132,6 +2273,7 @@
     "fee": "免费",
     "description": "龙岗区南湾街道文化站。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2147,6 +2289,7 @@
     "fee": "免费",
     "description": "龙岗区坪地街道文化站。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2162,6 +2305,7 @@
     "fee": "免费",
     "description": "福田区园岭街道综合性文化服务中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2177,6 +2321,7 @@
     "fee": "免费",
     "description": "南山区桃源街道综合性文化服务中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2192,6 +2337,7 @@
     "fee": "免费",
     "description": "光明区凤凰街道综合性文化服务中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2207,6 +2353,7 @@
     "fee": "免费",
     "description": "坪山区江岭社区公共文化服务中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2222,6 +2369,7 @@
     "fee": "免费",
     "description": "光明区迳口社区综合性文化服务中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "社区文化"
     ]
@@ -2233,7 +2381,8 @@
     "type": "",
     "address": "",
     "description": "山西宋金壁画艺术展览，展现古代壁画中的众生百态。",
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "official_url": ""
   },
   {
     "name": "深圳博物馆（古代艺术馆）",
@@ -2242,7 +2391,8 @@
     "type": "",
     "address": "",
     "description": "深圳博物馆藏铜器常设展，展出商周至明清铜器精品。同心路馆10号展厅。",
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "official_url": ""
   },
   {
     "name": "深圳博物馆（改革开放展览馆）",
@@ -2251,7 +2401,8 @@
     "type": "",
     "address": "",
     "description": "深圳改革开放主题常设展，展示深圳从边陲小镇到国际化大都市的发展历程。",
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "official_url": ""
   },
   {
     "name": "深圳博物馆（历史民俗馆）",
@@ -2260,7 +2411,8 @@
     "type": "",
     "address": "",
     "description": "深圳古代历史常设展，展示深圳7000年人类活动史和1700年城市史。",
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "official_url": ""
   },
   {
     "name": "南山博物馆二层三号展厅",
@@ -2269,7 +2421,8 @@
     "type": "",
     "address": "",
     "description": "中国古代瓷器艺术精品展览。",
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "official_url": ""
   },
   {
     "name": "南山博物馆二层二号展厅",
@@ -2278,7 +2431,8 @@
     "type": "",
     "address": "",
     "description": "大唐历史文化主题展览，展现盛唐风貌。",
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "official_url": ""
   },
   {
     "name": "光明区马田街道综合性文化服务中心",
@@ -2287,7 +2441,8 @@
     "type": "",
     "address": "",
     "description": "综合，光明区马田街道办事处，在光明区马田街道综合性文化服务中心举办",
-    "source": "光明区马田街道综合性文化服务中心"
+    "source": "光明区马田街道综合性文化服务中心",
+    "official_url": ""
   },
   {
     "name": "南山博物馆一层一号专题展厅",
@@ -2296,7 +2451,8 @@
     "type": "",
     "address": "",
     "description": "精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。展期至10月7日，免费免预约。定点讲解：每个开馆日10:50。",
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "official_url": ""
   },
   {
     "name": "深圳科学技术馆（光明新馆）",
@@ -2305,7 +2461,8 @@
     "type": "",
     "address": "",
     "description": "沉浸式体验+活体昆虫互动展，亲子友好。光明新馆特展。",
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆官网",
+    "official_url": ""
   },
   {
     "name": "龙城街道文化站",
@@ -2314,7 +2471,8 @@
     "type": "",
     "address": "",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
-    "source": "龙城街道文化站"
+    "source": "龙城街道文化站",
+    "official_url": ""
   },
   {
     "name": "光明区公明街道综合性文化服务中心",
@@ -2323,7 +2481,8 @@
     "type": "",
     "address": "",
     "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
-    "source": "光明区公明街道综合性文化服务中心"
+    "source": "光明区公明街道综合性文化服务中心",
+    "official_url": ""
   },
   {
     "name": "横岗街道文化站",
@@ -2332,7 +2491,8 @@
     "type": "",
     "address": "",
     "description": "展览，龙岗区文化馆，在横岗街道文化站举办",
-    "source": "横岗街道文化站"
+    "source": "横岗街道文化站",
+    "official_url": ""
   },
   {
     "name": "光明文化艺术中心美术馆",
@@ -2341,7 +2501,8 @@
     "type": "",
     "address": "",
     "description": "荟萃《丁丁历险记》《蓝精灵》等九比利时国宝级漫画IP，十万件珍贵手稿、版画、雕塑。免费开放，适合全年龄段。蓝精灵户外装置同步展出。",
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "official_url": ""
   },
   {
     "name": "宝安区文化馆",
@@ -2350,7 +2511,8 @@
     "type": "",
     "address": "",
     "description": "宝安区文化馆暑期公益艺术培训，包含舞蹈、声乐、器乐、书法、美术等课程。免费报名。",
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "official_url": ""
   },
   {
     "name": "宝安区文化馆新桥街道分馆",
@@ -2359,7 +2521,8 @@
     "type": "",
     "address": "",
     "description": "展览，新桥街道办事处，在宝安区文化馆新桥街道分馆举办",
-    "source": "宝安区文化馆新桥街道分馆"
+    "source": "宝安区文化馆新桥街道分馆",
+    "official_url": ""
   },
   {
     "name": "宝安区文化馆燕罗街道分馆",
@@ -2368,7 +2531,8 @@
     "type": "",
     "address": "",
     "description": "宝安区文化馆燕罗街道分馆暑期阅读活动，包含绘本故事、手工制作、亲子阅读等。免费参与。",
-    "source": "宝安区文化馆燕罗分馆"
+    "source": "宝安区文化馆燕罗分馆",
+    "official_url": ""
   },
   {
     "name": "坂田街道文化站",
@@ -2377,7 +2541,8 @@
     "type": "",
     "address": "",
     "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "official_url": ""
   },
   {
     "name": "深圳市体育中心体育场",
@@ -2386,7 +2551,8 @@
     "type": "",
     "address": "",
     "description": "深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。",
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "official_url": ""
   },
   {
     "name": "大鹏办事处公共事业服务中心",
@@ -2395,7 +2561,8 @@
     "type": "",
     "address": "",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
-    "source": "大鹏办事处公共事业服务中心"
+    "source": "大鹏办事处公共事业服务中心",
+    "official_url": ""
   },
   {
     "name": "中轴云廊·顶上空间",
@@ -2404,7 +2571,8 @@
     "type": "",
     "address": "",
     "description": "讲座，福田区公共文化体育发展中心、公园之友，在中轴云廊·顶上空间举办",
-    "source": "中轴云廊·顶上空间"
+    "source": "中轴云廊·顶上空间",
+    "official_url": ""
   },
   {
     "name": "光明区光明街道综合性文化服务中心",
@@ -2413,7 +2581,8 @@
     "type": "",
     "address": "",
     "description": "培训，光明区光明街道办事处，在光明区光明街道综合性文化服务中心举办",
-    "source": "光明区光明街道综合性文化服务中心"
+    "source": "光明区光明街道综合性文化服务中心",
+    "official_url": ""
   },
   {
     "name": "龙岗街道文化站",
@@ -2422,7 +2591,8 @@
     "type": "",
     "address": "",
     "description": "非遗课堂，深圳市龙岗区文化广电旅游体育局，在龙岗街道文化站举办",
-    "source": "龙岗街道文化站"
+    "source": "龙岗街道文化站",
+    "official_url": ""
   },
   {
     "name": "深圳市坪山区石井街道公共文化服务中心",
@@ -2431,7 +2601,8 @@
     "type": "",
     "address": "",
     "description": "公益，石井街道公共服务办公室，在深圳市坪山区石井街道公共文化服务中心举办",
-    "source": "深圳市坪山区石井街道公共文化服务中心"
+    "source": "深圳市坪山区石井街道公共文化服务中心",
+    "official_url": ""
   },
   {
     "name": "福田戏剧馆",
@@ -2440,7 +2611,8 @@
     "type": "",
     "address": "",
     "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
-    "source": "福田戏剧馆"
+    "source": "福田戏剧馆",
+    "official_url": ""
   },
   {
     "name": "大浪街道综合文化服务中心",
@@ -2449,7 +2621,8 @@
     "type": "",
     "address": "",
     "description": "演出，深圳市龙华区文化广电旅游体育局、深圳市龙华区群团工作部、深圳市龙华区大浪街道党工委、办事处，在大浪街道综合文化服务中心举办",
-    "source": "大浪街道综合文化服务中心"
+    "source": "大浪街道综合文化服务中心",
+    "official_url": ""
   },
   {
     "name": "深圳图书馆 (深圳图书馆中心馆)",
@@ -2458,7 +2631,8 @@
     "type": "",
     "address": "",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "official_url": ""
   },
   {
     "name": "深圳图书馆 (深圳图书馆北馆)",
@@ -2467,7 +2641,8 @@
     "type": "",
     "address": "",
     "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "official_url": ""
   },
   {
     "name": "光明文化艺术中心·演艺中心·大剧院",
@@ -2476,7 +2651,8 @@
     "type": "",
     "address": "",
     "description": "阿里云主题曲《守望》，马薇龙、孙科等实力舞者加盟。以韶华门下一家五代人命运流转，铺展中国近现代史长卷。",
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "official_url": ""
   },
   {
     "name": "福田音乐馆",
@@ -2485,7 +2661,8 @@
     "type": "",
     "address": "",
     "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
-    "source": "福田音乐馆"
+    "source": "福田音乐馆",
+    "official_url": ""
   },
   {
     "name": "白花社区综合性文化服务中心",
@@ -2494,7 +2671,8 @@
     "type": "",
     "address": "",
     "description": "公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办",
-    "source": "白花社区综合性文化服务中心"
+    "source": "白花社区综合性文化服务中心",
+    "official_url": ""
   },
   {
     "name": "园山街道文化站",
@@ -2503,7 +2681,8 @@
     "type": "",
     "address": "",
     "description": "演出，深圳市龙岗区文化广电旅游体育局，在园山街道文化站举办",
-    "source": "园山街道文化站"
+    "source": "园山街道文化站",
+    "official_url": ""
   },
   {
     "name": "深圳音乐厅五楼小剧场",
@@ -2512,7 +2691,8 @@
     "type": "",
     "address": "",
     "description": "广州市交响乐团演出，以新世纪音乐风格呈现舒曼尼科夫《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。",
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "official_url": ""
   },
   {
     "name": "宝安区图书馆（总馆）",
@@ -2529,6 +2709,12 @@
       "古文公益课堂",
       "少儿绘本区",
       "婴幼儿阅览"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2546,6 +2732,12 @@
       "城市沙盘",
       "小小讲解员",
       "科普小课堂"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2563,6 +2755,12 @@
       "儿童戏剧",
       "公益培训班",
       "周末剧场"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/whg/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2580,6 +2778,12 @@
       "文博研学",
       "小小考古家",
       "文物展览"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2597,6 +2801,12 @@
       "儿童写生",
       "少儿美育",
       "公益体验"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2614,6 +2824,12 @@
       "法治安全教育",
       "消防VR体验",
       "禁毒科普"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2631,6 +2847,12 @@
       "沉浸式童书",
       "亲子阅读打卡",
       "30万册藏书"
+    ],
+    "links": [
+      {
+        "url": "https://www.szbookmall.com/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2648,6 +2870,12 @@
       "湿地科普",
       "自然环保",
       "研学点位"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2665,6 +2893,12 @@
       "候鸟科普",
       "海洋知识",
       "湿地展厅"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2682,6 +2916,12 @@
       "交通避险",
       "VR实景",
       "安全教育"
+    ],
+    "links": [
+      {
+        "url": "https://yjgl.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2699,6 +2939,12 @@
       "台风逃生",
       "安全互动",
       "儿童游戏区"
+    ],
+    "links": [
+      {
+        "url": "https://yjgl.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2716,6 +2962,12 @@
       "国学诵读",
       "周末手工",
       "非遗文化"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2732,6 +2984,12 @@
       "亲子共读",
       "绘本借阅",
       "故事会"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2748,6 +3006,12 @@
       "低龄阅读",
       "社区图书馆",
       "宝宝阅读角"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2763,6 +3027,12 @@
     "highlights": [
       "亲子阅览",
       "绘本沙龙"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2778,6 +3048,12 @@
     "highlights": [
       "公益阅读",
       "少儿图画书"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2793,6 +3069,12 @@
     "highlights": [
       "沉浸式童书",
       "亲子打卡"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2809,6 +3091,12 @@
       "文创阅读",
       "亲子美育",
       "分享会"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2824,6 +3112,12 @@
     "highlights": [
       "少儿读物",
       "西部片区"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2839,6 +3133,12 @@
     "highlights": [
       "少儿阅读营",
       "寒暑假活动"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2854,6 +3154,12 @@
     "highlights": [
       "自然科普",
       "山林生态"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2869,6 +3175,12 @@
     "highlights": [
       "爱心课堂",
       "少儿艺术培训"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2884,6 +3196,12 @@
     "highlights": [
       "茅洲河生态",
       "主题藏书"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2899,6 +3217,12 @@
     "highlights": [
       "航空科普",
       "空港主题"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2914,6 +3238,12 @@
     "highlights": [
       "岭南民俗",
       "蚝文化"
+    ],
+    "links": [
+      {
+        "url": "https://www.balib.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2931,6 +3261,12 @@
       "儿童沙滩",
       "灯光水秀",
       "亲水步道"
+    ],
+    "links": [
+      {
+        "url": "https://www.oasisbay.com.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2948,6 +3284,12 @@
       "无动力乐园",
       "分龄游乐",
       "攀爬设施"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2965,6 +3307,12 @@
       "木屋沙坑",
       "地面蹦床",
       "攀岩组合"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2982,6 +3330,12 @@
       "观鸟台",
       "落日海景",
       "亲子徒步"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -2999,6 +3353,12 @@
       "露营区",
       "文创展馆",
       "生态科普"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3016,6 +3376,12 @@
       "湖畔滑梯",
       "湖心岛骑行",
       "深圳小西湖"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3033,6 +3399,12 @@
       "攀爬架",
       "草坪露营",
       "山林探索"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3050,6 +3422,12 @@
       "玻璃观景桥",
       "月季花海",
       "骑行登山"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3067,6 +3445,12 @@
       "深中通道",
       "日出打卡",
       "登山道"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3084,6 +3468,12 @@
       "儿童乐园",
       "骑行道",
       "宠物营地"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3101,6 +3491,12 @@
       "沙坑",
       "沿江骑行",
       "江景休闲"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3117,6 +3513,12 @@
       "公共广场",
       "儿童游乐",
       "主题市集"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3133,6 +3535,12 @@
       "欧式长廊",
       "星座壁画",
       "休闲游乐"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3150,6 +3558,12 @@
       "水生植物",
       "亲水栈道",
       "自然教育"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3166,6 +3580,12 @@
       "空港主题",
       "航空科普",
       "儿童游乐"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3182,6 +3602,12 @@
       "山林湿地",
       "溪流戏水",
       "夏日清凉"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3198,6 +3624,12 @@
       "综合公园",
       "儿童游乐区",
       "草坪野餐"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3214,6 +3646,12 @@
       "岭南园林",
       "休闲步道",
       "亲子游乐"
+    ],
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3231,6 +3669,12 @@
       "石拱桥",
       "历史科普",
       "汉服打卡"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3247,6 +3691,12 @@
       "岭南宗祠",
       "宗族历史",
       "人文研学"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3263,6 +3713,12 @@
       "非遗民俗",
       "传统节庆",
       "手工艺体验"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3280,6 +3736,12 @@
       "贝类标本",
       "农耕文化",
       "亲子研学"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3297,6 +3759,12 @@
       "非遗剪纸",
       "古建筑写生",
       "客家美食"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3313,6 +3781,12 @@
       "琥珀化石",
       "矿石科普",
       "地质知识"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3329,6 +3803,12 @@
       "红色文化",
       "革命历史",
       "爱国主义教育"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   },
   {
@@ -3346,6 +3826,12 @@
       "国学礼仪",
       "德育启蒙",
       "公益课堂"
+    ],
+    "links": [
+      {
+        "url": "https://www.baoan.gov.cn/",
+        "label": "官方网站"
+      }
     ]
   }
 ]
