@@ -67,7 +67,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.hubeimuseum.net/"
+    "venue_url": "https://www.hubeimuseum.net/",
+    "district": "武昌区"
   },
   {
     "title": "2026（武汉站）航空航天体验中心",
@@ -136,7 +137,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://wh.happyvalley.cn/"
+    "venue_url": "https://wh.happyvalley.cn/",
+    "district": "武昌区"
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
@@ -1265,7 +1267,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.hubeimuseum.net/"
+    "venue_url": "https://www.hubeimuseum.net/",
+    "district": "武昌区"
   },
   {
     "name": "中山舰博物馆舰艇模型制作",
@@ -2434,7 +2437,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "http://www.covcec.com/"
+    "venue_url": "http://www.covcec.com/",
+    "district": "福田区"
   },
   {
     "name": "武汉科技馆VR虚拟现实体验",

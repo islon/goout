@@ -119,7 +119,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "景山公园"
+    "source": "景山公园",
+    "district": "西城区"
   },
   {
     "title": "金湾区图书馆「云」自习室体验",
@@ -1777,7 +1778,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "景山公园"
+    "source": "景山公园",
+    "district": "西城区"
   },
   {
     "title": "斗门区文化馆非遗传承展",

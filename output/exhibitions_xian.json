@@ -32,7 +32,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.beilin-museum.com/"
+    "venue_url": "https://www.beilin-museum.com/",
+    "district": "碑林区"
   },
   {
     "title": "过期儿童：玩具、壳与失效情绪",
@@ -101,7 +102,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.sxhm.com/"
+    "venue_url": "https://www.sxhm.com/",
+    "district": "雁塔区"
   },
   {
     "title": "伯乐相马 特色展览",
@@ -136,7 +138,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.sxhm.com/"
+    "venue_url": "https://www.sxhm.com/",
+    "district": "雁塔区"
   },
   {
     "title": "文明以止——希腊化时期的黄金艺术",
@@ -7820,7 +7823,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.xianicec.com/"
+    "venue_url": "https://www.xianicec.com/",
+    "district": "福田区"
   },
   {
     "title": "张韶涵 玩家巡回演唱会-西安站",

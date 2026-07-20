@@ -32,7 +32,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.3gmuseum.cn/"
+    "venue_url": "https://www.3gmuseum.cn/",
+    "district": "渝中区"
   },
   {
     "title": "多彩巴蜀——巴蜀文化旅游走廊美术作品展",
@@ -206,7 +207,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cqkjg.com/"
+    "venue_url": "https://www.cqkjg.com/",
+    "district": "江北区"
   },
   {
     "title": "重庆欢乐谷 夏浪狂欢节·夜猫子音乐公园",
@@ -241,7 +243,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://cq.happyvalley.cn/"
+    "venue_url": "https://cq.happyvalley.cn/",
+    "district": "渝北区"
   },
   {
     "name": "三峡民俗文化亲子课堂",

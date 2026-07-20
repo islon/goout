@@ -66,7 +66,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.njmuseum.com/"
+    "venue_url": "https://www.njmuseum.com/",
+    "district": "玄武区"
   },
   {
     "title": "灯影——南京博物院藏陕西皮影艺术展",
@@ -101,7 +102,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.njmuseum.com/"
+    "venue_url": "https://www.njmuseum.com/",
+    "district": "玄武区"
   },
   {
     "title": "银杏湖乐园 暑期亲子",

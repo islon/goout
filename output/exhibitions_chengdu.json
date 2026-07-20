@@ -344,7 +344,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://cd.happyvalley.cn/"
+    "venue_url": "https://cd.happyvalley.cn/",
+    "district": "金牛区"
   },
   {
     "title": "成都海昌极地海洋公园 16周年庆+冰淇淋狂欢节",
@@ -379,7 +380,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.haichangoceanpark.com/chengdu"
+    "venue_url": "https://www.haichangoceanpark.com/chengdu",
+    "district": "天府新区"
   },
   {
     "title": "成都融创文旅城 融创水世界\"神仙玩水季\"",

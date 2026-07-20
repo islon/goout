@@ -36,7 +36,7 @@
   {
     "name": "三里屯太古里北区下沉广场",
     "city": "beijing",
-    "district": "",
+    "district": "门头沟区",
     "type": "",
     "address": "",
     "description": "儿童艺术展、亲子手作、绘本朗读会。",
@@ -71,7 +71,7 @@
   {
     "name": "东城区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "东城区",
     "type": "",
     "address": "",
     "description": "绘本共读、诗词手工、科普实验。",
@@ -464,7 +464,7 @@
   {
     "name": "中山公园音乐堂",
     "city": "beijing",
-    "district": "",
+    "district": "西城区",
     "type": "",
     "address": "",
     "description": "第32届暑期艺术节，交响乐、民乐、儿童剧、戏曲、杂技等低票价惠民演出，适合亲子观演，需购票。",
@@ -481,7 +481,7 @@
   {
     "name": "丰台区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "丰台区",
     "type": "",
     "address": "",
     "description": "节气手工、亲子观影、红色阅读。",
@@ -498,7 +498,7 @@
   {
     "name": "丰台区青少年宫",
     "city": "beijing",
-    "district": "",
+    "district": "丰台区",
     "type": "",
     "address": "",
     "description": "自然科普、陶艺、少儿合唱。",
@@ -1849,7 +1849,7 @@
   {
     "name": "北京大运河博物馆",
     "city": "beijing",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "聚焦北方游牧民族青铜文明，见证中华文明多元一体格局，首博东馆举办，适合亲子与历史爱好者。",
@@ -1866,7 +1866,7 @@
   {
     "name": "北京大运河博物馆（首都博物馆东馆）",
     "city": "beijing",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "鄂尔多斯青铜器展，11、12号展厅。北方草原文化代表性器物。地铁6号线北运河东站。",
@@ -2280,7 +2280,7 @@
   {
     "name": "北京市少年宫",
     "city": "beijing",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "免费美术、舞蹈、科创公益课。",
@@ -4377,7 +4377,7 @@
   {
     "name": "北京艺术博物馆（万寿寺）",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "以乾隆宫廷文物为核心展现古代审美，万寿寺大禅堂小禅堂影堂，适合亲子感受传统文化，购门票。",
@@ -5637,7 +5637,7 @@
   {
     "name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
     "city": "beijing",
-    "district": "",
+    "district": "西城区",
     "type": "",
     "address": "",
     "description": "北大红楼常设展，展现新文化运动和五四历史，五四大街29号，适合亲子爱国主义教育，免费需预约。",
@@ -5831,7 +5831,7 @@
   {
     "name": "国家图书馆少年儿童馆",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "暑期少儿阅读推广活动，包含绘本故事会、科普讲座、手工制作等，在国家图书馆少儿馆区域举办，免费参与。",
@@ -5848,7 +5848,7 @@
   {
     "name": "国家图书馆（国家典籍博物馆）",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "故宫博物院联合主办，首次以数字光影技术复原乾隆花园全域风貌。五境游园17处交互展项，每日10:30、14:00免费公益讲解。海淀区中关村南大街33号。地铁4号线国家图书馆站。",
@@ -6354,7 +6354,7 @@
   {
     "name": "朝阳区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "朝阳区",
     "type": "",
     "address": "",
     "description": "亲子阅读、自然研学、编程体验。",
@@ -6494,7 +6494,7 @@
   {
     "name": "沙河滨河公园",
     "city": "beijing",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "河道科普、沙池、亲子徒步、草坪市集。",
@@ -6583,7 +6583,7 @@
   {
     "name": "海淀区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "科学工坊、外文绘本、国学课堂。",
@@ -6771,7 +6771,7 @@
   {
     "name": "石景山区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "石景山区",
     "type": "",
     "address": "",
     "description": "工业科普、绘本剧、自然观察。",
@@ -6977,7 +6977,7 @@
   {
     "name": "西城区文化馆",
     "city": "beijing",
-    "district": "",
+    "district": "西城区",
     "type": "",
     "address": "",
     "description": "非遗市集、国风绘画、亲子舞台剧。",
@@ -6994,7 +6994,7 @@
   {
     "name": "西海子公园",
     "city": "beijing",
-    "district": "",
+    "district": "通州区",
     "type": "",
     "address": "",
     "description": "运河历史科普、湖边游乐区、亲子写生。",
@@ -7028,7 +7028,7 @@
   {
     "name": "通州区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "通州区",
     "type": "",
     "address": "",
     "description": "大运河文化、亲子风筝手工。",
@@ -7183,7 +7183,7 @@
   {
     "name": "顺义新城滨河森林公园",
     "city": "beijing",
-    "district": "",
+    "district": "顺义区",
     "type": "",
     "address": "",
     "description": "湖泊科普、儿童游乐区、周末公益市集。",
@@ -7289,7 +7289,7 @@
   {
     "name": "首钢园·六工汇",
     "city": "beijing",
-    "district": "",
+    "district": "石景山区",
     "type": "",
     "address": "",
     "description": "工业儿童乐园、非遗市集、露天音乐会、工业导览、露天电影。",

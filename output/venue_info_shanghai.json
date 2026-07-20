@@ -571,7 +571,7 @@
   {
     "name": "上海博物馆（人民广场馆）",
     "city": "shanghai",
-    "district": "",
+    "district": "黄浦区",
     "type": "",
     "address": "",
     "description": "上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。",
@@ -863,7 +863,7 @@
   {
     "name": "上海图书馆总馆",
     "city": "shanghai",
-    "district": "",
+    "district": "徐汇区",
     "type": "",
     "address": "",
     "description": "亲子共读、科创手工、暑期研学、外文沙龙。",
@@ -1504,7 +1504,7 @@
   {
     "name": "上海少年儿童图书馆新馆",
     "city": "shanghai",
-    "district": "",
+    "district": "长宁区",
     "type": "",
     "address": "",
     "description": "阅读沙龙、童话舞台剧、艺术公益课。",
@@ -1572,7 +1572,7 @@
   {
     "name": "上海市少年宫",
     "city": "shanghai",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "艺术、科技、舞蹈公益课程、少儿汇演。",
@@ -3453,7 +3453,7 @@
   {
     "name": "上海美术馆（中华艺术宫）",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "马王堆汉墓50余年考古史上规模最大、等级最高的湖南省外展出。195件套472件展品，3件禁止出境文物，一级文物31件套。展现汉代生活极致风雅。地铁8号线中华艺术宫站。",
@@ -5653,7 +5653,7 @@
   {
     "name": "中华艺术宫",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。",
@@ -5670,7 +5670,7 @@
   {
     "name": "中华艺术宫（上海美术馆）",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "马王堆汉墓50余年考古史上规模最大、等级最高国宝艺术大展，九大稀世珍宝、十大重点展品上海首展，含帛画原件，适合历史与亲子家庭观众。",
@@ -5776,7 +5776,7 @@
   {
     "name": "北外滩来福士广场",
     "city": "shanghai",
-    "district": "",
+    "district": "杨浦区",
     "type": "",
     "address": "",
     "description": "复古里弄免费打卡、少儿国风公益展、露天亲子手作市集、户外少儿舞台演出。",
@@ -5810,7 +5810,7 @@
   {
     "name": "嘉定区文化馆",
     "city": "shanghai",
-    "district": "",
+    "district": "嘉定区",
     "type": "",
     "address": "",
     "description": "国风手工、露天音乐会、非遗体验。",
@@ -5878,7 +5878,7 @@
   {
     "name": "宝山区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "宝山区",
     "type": "",
     "address": "",
     "description": "矿石科普、红色研学、少儿书画。",
@@ -5895,7 +5895,7 @@
   {
     "name": "宝山区文化馆",
     "city": "shanghai",
-    "district": "",
+    "district": "宝山区",
     "type": "",
     "address": "",
     "description": "剪纸、皮影、少儿惠民文艺演出。",
@@ -6035,7 +6035,7 @@
   {
     "name": "普陀区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "普陀区",
     "type": "",
     "address": "",
     "description": "水主题科普、诗词手工、亲子观影。",
@@ -6052,7 +6052,7 @@
   {
     "name": "普陀区青少年宫",
     "city": "shanghai",
-    "district": "",
+    "district": "普陀区",
     "type": "",
     "address": "",
     "description": "水科学、绘画、少儿合唱公益课。",
@@ -6103,7 +6103,7 @@
   {
     "name": "杨浦区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "杨浦区",
     "type": "",
     "address": "",
     "description": "民国建筑导览、绘本剧、非遗手工。",
@@ -6205,7 +6205,7 @@
   {
     "name": "浦东新区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "航天科普、少儿编程、户外阅读营。",
@@ -6378,7 +6378,7 @@
   {
     "name": "闵行区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "闵行区",
     "type": "",
     "address": "",
     "description": "海洋绘本、植物手工、科创体验课。",

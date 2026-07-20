@@ -36,7 +36,7 @@
   {
     "name": "三里屯太古里北区下沉广场",
     "city": "beijing",
-    "district": "",
+    "district": "门头沟区",
     "type": "",
     "address": "",
     "description": "儿童艺术展、亲子手作、绘本朗读会。",
@@ -71,7 +71,7 @@
   {
     "name": "东城区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "东城区",
     "type": "",
     "address": "",
     "description": "绘本共读、诗词手工、科普实验。",
@@ -464,7 +464,7 @@
   {
     "name": "中山公园音乐堂",
     "city": "beijing",
-    "district": "",
+    "district": "西城区",
     "type": "",
     "address": "",
     "description": "第32届暑期艺术节，交响乐、民乐、儿童剧、戏曲、杂技等低票价惠民演出，适合亲子观演，需购票。",
@@ -481,7 +481,7 @@
   {
     "name": "丰台区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "丰台区",
     "type": "",
     "address": "",
     "description": "节气手工、亲子观影、红色阅读。",
@@ -498,7 +498,7 @@
   {
     "name": "丰台区青少年宫",
     "city": "beijing",
-    "district": "",
+    "district": "丰台区",
     "type": "",
     "address": "",
     "description": "自然科普、陶艺、少儿合唱。",
@@ -1849,7 +1849,7 @@
   {
     "name": "北京大运河博物馆",
     "city": "beijing",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "聚焦北方游牧民族青铜文明，见证中华文明多元一体格局，首博东馆举办，适合亲子与历史爱好者。",
@@ -1866,7 +1866,7 @@
   {
     "name": "北京大运河博物馆（首都博物馆东馆）",
     "city": "beijing",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "鄂尔多斯青铜器展，11、12号展厅。北方草原文化代表性器物。地铁6号线北运河东站。",
@@ -2280,7 +2280,7 @@
   {
     "name": "北京市少年宫",
     "city": "beijing",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "免费美术、舞蹈、科创公益课。",
@@ -4377,7 +4377,7 @@
   {
     "name": "北京艺术博物馆（万寿寺）",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "以乾隆宫廷文物为核心展现古代审美，万寿寺大禅堂小禅堂影堂，适合亲子感受传统文化，购门票。",
@@ -5637,7 +5637,7 @@
   {
     "name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
     "city": "beijing",
-    "district": "",
+    "district": "西城区",
     "type": "",
     "address": "",
     "description": "北大红楼常设展，展现新文化运动和五四历史，五四大街29号，适合亲子爱国主义教育，免费需预约。",
@@ -5831,7 +5831,7 @@
   {
     "name": "国家图书馆少年儿童馆",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "暑期少儿阅读推广活动，包含绘本故事会、科普讲座、手工制作等，在国家图书馆少儿馆区域举办，免费参与。",
@@ -5848,7 +5848,7 @@
   {
     "name": "国家图书馆（国家典籍博物馆）",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "故宫博物院联合主办，首次以数字光影技术复原乾隆花园全域风貌。五境游园17处交互展项，每日10:30、14:00免费公益讲解。海淀区中关村南大街33号。地铁4号线国家图书馆站。",
@@ -6354,7 +6354,7 @@
   {
     "name": "朝阳区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "朝阳区",
     "type": "",
     "address": "",
     "description": "亲子阅读、自然研学、编程体验。",
@@ -6494,7 +6494,7 @@
   {
     "name": "沙河滨河公园",
     "city": "beijing",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "河道科普、沙池、亲子徒步、草坪市集。",
@@ -6583,7 +6583,7 @@
   {
     "name": "海淀区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "海淀区",
     "type": "",
     "address": "",
     "description": "科学工坊、外文绘本、国学课堂。",
@@ -6771,7 +6771,7 @@
   {
     "name": "石景山区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "石景山区",
     "type": "",
     "address": "",
     "description": "工业科普、绘本剧、自然观察。",
@@ -6977,7 +6977,7 @@
   {
     "name": "西城区文化馆",
     "city": "beijing",
-    "district": "",
+    "district": "西城区",
     "type": "",
     "address": "",
     "description": "非遗市集、国风绘画、亲子舞台剧。",
@@ -6994,7 +6994,7 @@
   {
     "name": "西海子公园",
     "city": "beijing",
-    "district": "",
+    "district": "通州区",
     "type": "",
     "address": "",
     "description": "运河历史科普、湖边游乐区、亲子写生。",
@@ -7028,7 +7028,7 @@
   {
     "name": "通州区图书馆",
     "city": "beijing",
-    "district": "",
+    "district": "通州区",
     "type": "",
     "address": "",
     "description": "大运河文化、亲子风筝手工。",
@@ -7183,7 +7183,7 @@
   {
     "name": "顺义新城滨河森林公园",
     "city": "beijing",
-    "district": "",
+    "district": "顺义区",
     "type": "",
     "address": "",
     "description": "湖泊科普、儿童游乐区、周末公益市集。",
@@ -7289,7 +7289,7 @@
   {
     "name": "首钢园·六工汇",
     "city": "beijing",
-    "district": "",
+    "district": "石景山区",
     "type": "",
     "address": "",
     "description": "工业儿童乐园、非遗市集、露天音乐会、工业导览、露天电影。",
@@ -7962,7 +7962,7 @@
   {
     "name": "上海博物馆（人民广场馆）",
     "city": "shanghai",
-    "district": "",
+    "district": "黄浦区",
     "type": "",
     "address": "",
     "description": "上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。",
@@ -8254,7 +8254,7 @@
   {
     "name": "上海图书馆总馆",
     "city": "shanghai",
-    "district": "",
+    "district": "徐汇区",
     "type": "",
     "address": "",
     "description": "亲子共读、科创手工、暑期研学、外文沙龙。",
@@ -8895,7 +8895,7 @@
   {
     "name": "上海少年儿童图书馆新馆",
     "city": "shanghai",
-    "district": "",
+    "district": "长宁区",
     "type": "",
     "address": "",
     "description": "阅读沙龙、童话舞台剧、艺术公益课。",
@@ -8963,7 +8963,7 @@
   {
     "name": "上海市少年宫",
     "city": "shanghai",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "艺术、科技、舞蹈公益课程、少儿汇演。",
@@ -10844,7 +10844,7 @@
   {
     "name": "上海美术馆（中华艺术宫）",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "马王堆汉墓50余年考古史上规模最大、等级最高的湖南省外展出。195件套472件展品，3件禁止出境文物，一级文物31件套。展现汉代生活极致风雅。地铁8号线中华艺术宫站。",
@@ -13044,7 +13044,7 @@
   {
     "name": "中华艺术宫",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。",
@@ -13061,7 +13061,7 @@
   {
     "name": "中华艺术宫（上海美术馆）",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "马王堆汉墓50余年考古史上规模最大、等级最高国宝艺术大展，九大稀世珍宝、十大重点展品上海首展，含帛画原件，适合历史与亲子家庭观众。",
@@ -13167,7 +13167,7 @@
   {
     "name": "北外滩来福士广场",
     "city": "shanghai",
-    "district": "",
+    "district": "杨浦区",
     "type": "",
     "address": "",
     "description": "复古里弄免费打卡、少儿国风公益展、露天亲子手作市集、户外少儿舞台演出。",
@@ -13201,7 +13201,7 @@
   {
     "name": "嘉定区文化馆",
     "city": "shanghai",
-    "district": "",
+    "district": "嘉定区",
     "type": "",
     "address": "",
     "description": "国风手工、露天音乐会、非遗体验。",
@@ -13269,7 +13269,7 @@
   {
     "name": "宝山区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "宝山区",
     "type": "",
     "address": "",
     "description": "矿石科普、红色研学、少儿书画。",
@@ -13286,7 +13286,7 @@
   {
     "name": "宝山区文化馆",
     "city": "shanghai",
-    "district": "",
+    "district": "宝山区",
     "type": "",
     "address": "",
     "description": "剪纸、皮影、少儿惠民文艺演出。",
@@ -13426,7 +13426,7 @@
   {
     "name": "普陀区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "普陀区",
     "type": "",
     "address": "",
     "description": "水主题科普、诗词手工、亲子观影。",
@@ -13443,7 +13443,7 @@
   {
     "name": "普陀区青少年宫",
     "city": "shanghai",
-    "district": "",
+    "district": "普陀区",
     "type": "",
     "address": "",
     "description": "水科学、绘画、少儿合唱公益课。",
@@ -13494,7 +13494,7 @@
   {
     "name": "杨浦区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "杨浦区",
     "type": "",
     "address": "",
     "description": "民国建筑导览、绘本剧、非遗手工。",
@@ -13596,7 +13596,7 @@
   {
     "name": "浦东新区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "浦东新区",
     "type": "",
     "address": "",
     "description": "航天科普、少儿编程、户外阅读营。",
@@ -13769,7 +13769,7 @@
   {
     "name": "闵行区图书馆",
     "city": "shanghai",
-    "district": "",
+    "district": "闵行区",
     "type": "",
     "address": "",
     "description": "海洋绘本、植物手工、科创体验课。",
@@ -13871,7 +13871,7 @@
   {
     "name": "中国科学院华南植物园",
     "city": "guangzhou",
-    "district": "",
+    "district": "天河区",
     "type": "",
     "address": "",
     "description": "夏季园内生态环境佳，是广州观萤“顶流”地，可观察萤火虫与夜行生物，园方设围栏限流保护，亲子自然教育生动一课（入园需票）。",
@@ -13905,7 +13905,7 @@
   {
     "name": "从化区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "从化区",
     "type": "",
     "address": "",
     "description": "从化区图书馆暑期阅读打卡活动，亲子阅读挑战与积分奖励，免费参加。",
@@ -14009,7 +14009,7 @@
   {
     "name": "南沙区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "南沙区",
     "type": "",
     "address": "",
     "description": "南沙区图书馆暑期绘本工坊，亲子共读与手工创作，免费参加。",
@@ -14026,7 +14026,7 @@
   {
     "name": "南沙天后宫",
     "city": "guangzhou",
-    "district": "",
+    "district": "南沙区",
     "type": "",
     "address": "",
     "description": "南沙天后宫妈祖文化节，含祭祀典礼、民俗表演与文化展览，免费开放。",
@@ -14095,7 +14095,7 @@
   {
     "name": "南越王博物院（王墓展区）",
     "city": "guangzhou",
-    "district": "",
+    "district": "越秀区",
     "type": "",
     "address": "",
     "description": "古埃及文物与数字艺术体验展，古埃及文物珍品+数字沉浸式体验。地铁2号线越秀公园站。",
@@ -14129,7 +14129,7 @@
   {
     "name": "增城区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "增城区",
     "type": "",
     "address": "",
     "description": "增城区图书馆暑期科学实验课，亲子科普讲座与动手实验，免费参加。",
@@ -14252,7 +14252,7 @@
   {
     "name": "广东民间工艺博物馆（陈家祠）",
     "city": "guangzhou",
-    "district": "",
+    "district": "荔湾区",
     "type": "",
     "address": "",
     "description": "遴选馆藏竹、牙、角、玉雕诸器，展示由明至今各类雕刻工艺精品，与陈家祠建筑装饰相映成趣，亲子感受岭南工艺之美（含门票）。",
@@ -14339,7 +14339,7 @@
   {
     "name": "广东美术馆（二沙岛本馆）",
     "city": "guangzhou",
-    "district": "",
+    "district": "从化区",
     "type": "",
     "address": "",
     "description": "联动越秀区八所幼儿园打造的儿童公共艺术季，首次将户外雕塑园开拓成孩子共创现场。引导孩子探寻自然秩序与生命韵律，树立生态保护理念。配套自然工作坊、亲子共创活动。二沙岛本馆暑期不延时。",
@@ -15402,7 +15402,7 @@
   {
     "name": "广州博物馆（镇海楼展区）",
     "city": "guangzhou",
-    "district": "",
+    "district": "越秀区",
     "type": "",
     "address": "",
     "description": "第三期广州之宝文物特展，以羊城之夏为主题。邹伯奇日冕钟、居廉越女采菱图扇面、广彩描金荔枝纹瓷盘等珍贵文物。地铁2号线越秀公园站。",
@@ -15542,7 +15542,7 @@
   {
     "name": "广州塔珠江滨水步道",
     "city": "guangzhou",
-    "district": "",
+    "district": "海珠区",
     "type": "",
     "address": "",
     "description": "江边非遗亲子市集、少儿写生公益活动、灯光打卡展、生态科普免费讲解。",
@@ -16353,7 +16353,7 @@
   {
     "name": "广州市文化馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "海珠区",
     "type": "",
     "address": "",
     "description": "广州市文化馆7月惠民活动之一，邀讲师讲解“星腔”形成与背景，另有数字文化体验等公益场次，免费预约参与，亲子感受岭南曲艺。",
@@ -16389,7 +16389,7 @@
   {
     "name": "广州市文化馆（新馆）",
     "city": "guangzhou",
-    "district": "",
+    "district": "海珠区",
     "type": "",
     "address": "",
     "description": "免费少儿艺术培训、非遗市集、露天亲子惠民演出、园林自然研学。",
@@ -19412,7 +19412,7 @@
   {
     "name": "永庆坊（西关非遗街区）",
     "city": "guangzhou",
-    "district": "",
+    "district": "荔湾区",
     "type": "",
     "address": "",
     "description": "岭南民俗免费展览、周末剪纸/广彩公益体验、少儿粤剧露天演出、古建筑亲子导览。",
@@ -19605,7 +19605,7 @@
   {
     "name": "花都区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "花都区",
     "type": "",
     "address": "",
     "description": "花都区图书馆暑期阅读节，含主题书展、阅读打卡与亲子故事会，免费需预约。",
@@ -19622,7 +19622,7 @@
   {
     "name": "花都湖公园",
     "city": "guangzhou",
-    "district": "",
+    "district": "花都区",
     "type": "",
     "address": "",
     "description": "花都湖公园暑期灯光秀，夜间光影互动适合亲子游玩，免费开放。",
@@ -19918,7 +19918,7 @@
   {
     "name": "中轴云廊·顶上空间",
     "city": "shenzhen",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "讲座，福田区公共文化体育发展中心、公园之友，在中轴云廊·顶上空间举办",
@@ -19988,7 +19988,7 @@
   {
     "name": "光明区光明街道综合性文化服务中心",
     "city": "shenzhen",
-    "district": "",
+    "district": "光明区",
     "type": "",
     "address": "",
     "description": "培训，光明区光明街道办事处，在光明区光明街道综合性文化服务中心举办",
@@ -20005,7 +20005,7 @@
   {
     "name": "光明区公明街道综合性文化服务中心",
     "city": "shenzhen",
-    "district": "",
+    "district": "光明区",
     "type": "",
     "address": "",
     "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
@@ -20107,7 +20107,7 @@
   {
     "name": "光明区马田街道综合性文化服务中心",
     "city": "shenzhen",
-    "district": "",
+    "district": "光明区",
     "type": "",
     "address": "",
     "description": "综合，光明区马田街道办事处，在光明区马田街道综合性文化服务中心举办",
@@ -20142,7 +20142,7 @@
   {
     "name": "光明文化艺术中心·演艺中心·大剧院",
     "city": "shenzhen",
-    "district": "",
+    "district": "光明区",
     "type": "",
     "address": "",
     "description": "阿里云主题曲《守望》，马薇龙、孙科等实力舞者加盟。以韶华门下一家五代人命运流转，铺展中国近现代史长卷。",
@@ -20159,7 +20159,7 @@
   {
     "name": "光明文化艺术中心美术馆",
     "city": "shenzhen",
-    "district": "",
+    "district": "光明区",
     "type": "",
     "address": "",
     "description": "荟萃《丁丁历险记》《蓝精灵》等九比利时国宝级漫画IP，十万件珍贵手稿、版画、雕塑。免费开放，适合全年龄段。蓝精灵户外装置同步展出。",
@@ -20365,7 +20365,7 @@
   {
     "name": "南山博物馆一层一号专题展厅",
     "city": "shenzhen",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。展期至10月7日，免费免预约。定点讲解：每个开馆日10:50。",
@@ -20382,7 +20382,7 @@
   {
     "name": "南山博物馆一层一号展厅",
     "city": "shenzhen",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "山西宋金壁画艺术展览，展现古代壁画中的众生百态。",
@@ -20399,7 +20399,7 @@
   {
     "name": "南山博物馆二层三号展厅",
     "city": "shenzhen",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "中国古代瓷器艺术精品展览。",
@@ -20416,7 +20416,7 @@
   {
     "name": "南山博物馆二层二号展厅",
     "city": "shenzhen",
-    "district": "",
+    "district": "南山区",
     "type": "",
     "address": "",
     "description": "大唐历史文化主题展览，展现盛唐风貌。",
@@ -20549,7 +20549,7 @@
   {
     "name": "坂田街道文化站",
     "city": "shenzhen",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
@@ -20791,7 +20791,7 @@
   {
     "name": "大浪街道综合文化服务中心",
     "city": "shenzhen",
-    "district": "",
+    "district": "龙华区",
     "type": "",
     "address": "",
     "description": "演出，深圳市龙华区文化广电旅游体育局、深圳市龙华区群团工作部、深圳市龙华区大浪街道党工委、办事处，在大浪街道综合文化服务中心举办",
@@ -20825,7 +20825,7 @@
   {
     "name": "大鹏办事处公共事业服务中心",
     "city": "shenzhen",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
@@ -21108,7 +21108,7 @@
   {
     "name": "宝安区文化馆",
     "city": "shenzhen",
-    "district": "",
+    "district": "宝安区",
     "type": "",
     "address": "",
     "description": "宝安区文化馆暑期公益艺术培训，包含舞蹈、声乐、器乐、书法、美术等课程。免费报名。",
@@ -21125,7 +21125,7 @@
   {
     "name": "宝安区文化馆新桥街道分馆",
     "city": "shenzhen",
-    "district": "",
+    "district": "宝安区",
     "type": "",
     "address": "",
     "description": "展览，新桥街道办事处，在宝安区文化馆新桥街道分馆举办",
@@ -21142,7 +21142,7 @@
   {
     "name": "宝安区文化馆燕罗街道分馆",
     "city": "shenzhen",
-    "district": "",
+    "district": "宝安区",
     "type": "",
     "address": "",
     "description": "宝安区文化馆燕罗街道分馆暑期阅读活动，包含绘本故事、手工制作、亲子阅读等。免费参与。",
@@ -21550,7 +21550,7 @@
   {
     "name": "横岗街道文化站",
     "city": "shenzhen",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "展览，龙岗区文化馆，在横岗街道文化站举办",
@@ -21808,7 +21808,7 @@
   {
     "name": "深圳博物馆（历史民俗馆）",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "深圳古代历史常设展，展示深圳7000年人类活动史和1700年城市史。",
@@ -21825,7 +21825,7 @@
   {
     "name": "深圳博物馆（古代艺术馆）",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "深圳博物馆藏铜器常设展，展出商周至明清铜器精品。同心路馆10号展厅。",
@@ -21842,7 +21842,7 @@
   {
     "name": "深圳博物馆（改革开放展览馆）",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "深圳改革开放主题常设展，展示深圳从边陲小镇到国际化大都市的发展历程。",
@@ -21912,7 +21912,7 @@
   {
     "name": "深圳图书馆 (深圳图书馆中心馆)",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "主办方：深圳图书馆\n地点：中心馆 一楼文旅融合专区\n地址：福田区福中一路2001号深圳图书馆一楼大厅\n需预约\n备注：本次定向讲解每位成人可携带1-3名12岁以下儿童参加，请提前在活动系统预约。预约仅限本人使用；讲解准时开始、过时不候；无法按时参与请提前取消预约；少儿需家长陪同并听从工作人员引导；家长自愿承担孩子进入深圳图书馆主馆舍的全部监护责任及潜在风险；活动结束后及时离场；报名即视同接受群像、特写等拍摄及传播。",
@@ -21929,7 +21929,7 @@
   {
     "name": "深圳图书馆 (深圳图书馆北馆)",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
@@ -22016,7 +22016,7 @@
   {
     "name": "深圳市体育中心体育场",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。",
@@ -22033,7 +22033,7 @@
   {
     "name": "深圳市坪山区石井街道公共文化服务中心",
     "city": "shenzhen",
-    "district": "",
+    "district": "坪山区",
     "type": "",
     "address": "",
     "description": "公益，石井街道公共服务办公室，在深圳市坪山区石井街道公共文化服务中心举办",
@@ -22291,7 +22291,7 @@
   {
     "name": "深圳科学技术馆（光明新馆）",
     "city": "shenzhen",
-    "district": "",
+    "district": "光明区",
     "type": "",
     "address": "",
     "description": "沉浸式体验+活体昆虫互动展，亲子友好。光明新馆特展。",
@@ -22377,7 +22377,7 @@
   {
     "name": "深圳音乐厅五楼小剧场",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "广州市交响乐团演出，以新世纪音乐风格呈现舒曼尼科夫《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。",
@@ -22922,7 +22922,7 @@
   {
     "name": "福田戏剧馆",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
@@ -22956,7 +22956,7 @@
   {
     "name": "福田音乐馆",
     "city": "shenzhen",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
@@ -23485,7 +23485,7 @@
   {
     "name": "龙城街道文化站",
     "city": "shenzhen",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
@@ -23639,7 +23639,7 @@
   {
     "name": "龙岗街道文化站",
     "city": "shenzhen",
-    "district": "",
+    "district": "龙岗区",
     "type": "",
     "address": "",
     "description": "非遗课堂，深圳市龙岗区文化广电旅游体育局，在龙岗街道文化站举办",
@@ -23991,7 +23991,7 @@
   {
     "name": "余杭区青少年宫",
     "city": "hangzhou",
-    "district": "",
+    "district": "福田区",
     "type": "",
     "address": "",
     "description": "玉器纹样拓印+陶器制作，分龄段教学。",
@@ -25988,7 +25988,7 @@
   {
     "name": "杭州宋城",
     "city": "hangzhou",
-    "district": "",
+    "district": "西湖区",
     "type": "",
     "address": "",
     "description": "宋城演艺王牌演出《宋城千古情》，以杭州历史为脉络的视听盛宴，每日多场，适合全家观看，需购票入园。",
@@ -29818,7 +29818,7 @@
   {
     "name": "浙江省博物馆之江馆",
     "city": "hangzhou",
-    "district": "",
+    "district": "西湖区",
     "type": "",
     "address": "",
     "description": "融合实物文物、数字展陈与沉浸式演出的交互艺术大展。",
@@ -29998,7 +29998,7 @@
   {
     "name": "浙江自然博物院",
     "city": "hangzhou",
-    "district": "",
+    "district": "下城区",
     "type": "",
     "address": "",
     "description": "展出三叶虫、鱼龙、猛犸象化石骨架，配套化石挖掘体验、火山爆发科学实验秀、AR恐龙互动。",
@@ -30293,7 +30293,7 @@
   {
     "name": "西湖区文化馆",
     "city": "hangzhou",
-    "district": "",
+    "district": "西湖区",
     "type": "",
     "address": "",
     "description": "龙井茶艺/丝绸刺绣，需提前预约。",
@@ -30433,7 +30433,7 @@
   {
     "name": "西溪湿地公园",
     "city": "hangzhou",
-    "district": "",
+    "district": "江干区",
     "type": "",
     "address": "",
     "description": "自然导览课程，暑期每周末。",

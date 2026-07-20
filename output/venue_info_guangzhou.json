@@ -19,7 +19,7 @@
   {
     "name": "中国科学院华南植物园",
     "city": "guangzhou",
-    "district": "",
+    "district": "天河区",
     "type": "",
     "address": "",
     "description": "夏季园内生态环境佳，是广州观萤“顶流”地，可观察萤火虫与夜行生物，园方设围栏限流保护，亲子自然教育生动一课（入园需票）。",
@@ -53,7 +53,7 @@
   {
     "name": "从化区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "从化区",
     "type": "",
     "address": "",
     "description": "从化区图书馆暑期阅读打卡活动，亲子阅读挑战与积分奖励，免费参加。",
@@ -157,7 +157,7 @@
   {
     "name": "南沙区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "南沙区",
     "type": "",
     "address": "",
     "description": "南沙区图书馆暑期绘本工坊，亲子共读与手工创作，免费参加。",
@@ -174,7 +174,7 @@
   {
     "name": "南沙天后宫",
     "city": "guangzhou",
-    "district": "",
+    "district": "南沙区",
     "type": "",
     "address": "",
     "description": "南沙天后宫妈祖文化节，含祭祀典礼、民俗表演与文化展览，免费开放。",
@@ -243,7 +243,7 @@
   {
     "name": "南越王博物院（王墓展区）",
     "city": "guangzhou",
-    "district": "",
+    "district": "越秀区",
     "type": "",
     "address": "",
     "description": "古埃及文物与数字艺术体验展，古埃及文物珍品+数字沉浸式体验。地铁2号线越秀公园站。",
@@ -277,7 +277,7 @@
   {
     "name": "增城区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "增城区",
     "type": "",
     "address": "",
     "description": "增城区图书馆暑期科学实验课，亲子科普讲座与动手实验，免费参加。",
@@ -400,7 +400,7 @@
   {
     "name": "广东民间工艺博物馆（陈家祠）",
     "city": "guangzhou",
-    "district": "",
+    "district": "荔湾区",
     "type": "",
     "address": "",
     "description": "遴选馆藏竹、牙、角、玉雕诸器，展示由明至今各类雕刻工艺精品，与陈家祠建筑装饰相映成趣，亲子感受岭南工艺之美（含门票）。",
@@ -487,7 +487,7 @@
   {
     "name": "广东美术馆（二沙岛本馆）",
     "city": "guangzhou",
-    "district": "",
+    "district": "从化区",
     "type": "",
     "address": "",
     "description": "联动越秀区八所幼儿园打造的儿童公共艺术季，首次将户外雕塑园开拓成孩子共创现场。引导孩子探寻自然秩序与生命韵律，树立生态保护理念。配套自然工作坊、亲子共创活动。二沙岛本馆暑期不延时。",
@@ -1550,7 +1550,7 @@
   {
     "name": "广州博物馆（镇海楼展区）",
     "city": "guangzhou",
-    "district": "",
+    "district": "越秀区",
     "type": "",
     "address": "",
     "description": "第三期广州之宝文物特展，以羊城之夏为主题。邹伯奇日冕钟、居廉越女采菱图扇面、广彩描金荔枝纹瓷盘等珍贵文物。地铁2号线越秀公园站。",
@@ -1690,7 +1690,7 @@
   {
     "name": "广州塔珠江滨水步道",
     "city": "guangzhou",
-    "district": "",
+    "district": "海珠区",
     "type": "",
     "address": "",
     "description": "江边非遗亲子市集、少儿写生公益活动、灯光打卡展、生态科普免费讲解。",
@@ -2501,7 +2501,7 @@
   {
     "name": "广州市文化馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "海珠区",
     "type": "",
     "address": "",
     "description": "广州市文化馆7月惠民活动之一，邀讲师讲解“星腔”形成与背景，另有数字文化体验等公益场次，免费预约参与，亲子感受岭南曲艺。",
@@ -2537,7 +2537,7 @@
   {
     "name": "广州市文化馆（新馆）",
     "city": "guangzhou",
-    "district": "",
+    "district": "海珠区",
     "type": "",
     "address": "",
     "description": "免费少儿艺术培训、非遗市集、露天亲子惠民演出、园林自然研学。",
@@ -5560,7 +5560,7 @@
   {
     "name": "永庆坊（西关非遗街区）",
     "city": "guangzhou",
-    "district": "",
+    "district": "荔湾区",
     "type": "",
     "address": "",
     "description": "岭南民俗免费展览、周末剪纸/广彩公益体验、少儿粤剧露天演出、古建筑亲子导览。",
@@ -5753,7 +5753,7 @@
   {
     "name": "花都区图书馆",
     "city": "guangzhou",
-    "district": "",
+    "district": "花都区",
     "type": "",
     "address": "",
     "description": "花都区图书馆暑期阅读节，含主题书展、阅读打卡与亲子故事会，免费需预约。",
@@ -5770,7 +5770,7 @@
   {
     "name": "花都湖公园",
     "city": "guangzhou",
-    "district": "",
+    "district": "花都区",
     "type": "",
     "address": "",
     "description": "花都湖公园暑期灯光秀，夜间光影互动适合亲子游玩，免费开放。",
