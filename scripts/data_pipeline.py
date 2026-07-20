@@ -588,6 +588,10 @@ def main():
         city = a.get('city', '')
         key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
         if city != 'shenzhen' or key not in new_activity_keys:
+            if not a.get('name') and a.get('title'):
+                a['name'] = a['title']
+            if not city:
+                a['city'] = 'shenzhen'
             preserved_activities.append(a)
 
     all_combined = preserved_activities + activities

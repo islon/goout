@@ -1927,5 +1927,44 @@
     "family_friendly": true,
     "source": "罗湖发布",
     "city": "shenzhen"
+  },
+  {
+    "title": "沉浸式互动亲子科学剧《数学秀》",
+    "venue": "龙岗区深圳龙岗国际艺术中心",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "",
+    "description": "沉浸式互动亲子科学剧，带领孩子探索数学的奥秘，寓教于乐。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "自动化发现"
+  },
+  {
+    "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
+    "venue": "光明区光明文化艺术中心·演艺中心·大剧场",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "",
+    "description": "钢琴家陈萨与指挥家孙一凡携手国家大剧院管弦乐团室内乐团，演绎瓦格纳与常乐的作品。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "自动化发现"
+  },
+  {
+    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "venue": "福田区深圳音乐厅五楼小剧场",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "",
+    "description": "柴可夫斯基经典作品《天鹅湖》主题音乐会，在深圳音乐厅上演。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "自动化发现"
   }
 ]
