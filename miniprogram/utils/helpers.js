@@ -68,7 +68,9 @@ function getDistrict(input) {
 // 将区县列表按常住人口(万人)降序排列，人口多的排在前面；'全部区县' 始终置顶，未收录的排末尾
 function sortDistrictsByPopulation(list) {
   const body = list.filter(function(d) { return d !== '全部区县'; });
-  body.sort(function(a, b) { return (districtPopulation[b] || 0) - (districtPopulation[a] || 0); });
+  // 防御：districtPopulation 可能因数据层未导出而缺失，缺失时退化为配置顺序（不崩溃）
+  const pop = (typeof districtPopulation !== 'undefined' && districtPopulation) ? districtPopulation : null;
+  body.sort(function(a, b) { return ((pop && pop[b]) || 0) - ((pop && pop[a]) || 0); });
   return ['全部区县'].concat(body);
 }
 

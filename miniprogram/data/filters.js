@@ -16708,8 +16708,22 @@ const venuesByCity = {
   ]
 };
 
+// 区县人口权重（万人）：districtsByCity 配置顺序已按常住人口降序排列，据此推导权重。
+// 用于区县筛选/场馆页区县排序时「人口多者靠前」；同时覆盖所有真实区县名，
+// 避免 sortDistrictsByPopulation / rebuildDistricts 因 districtPopulation 未定义而崩溃。
+const districtPopulation = {};
+Object.keys(districtsByCity).forEach(function(city) {
+  const list = districtsByCity[city];
+  for (let i = 0; i < list.length; i++) {
+    const d = list[i];
+    if (d === '全部区县') continue;
+    if (districtPopulation[d] === undefined) districtPopulation[d] = 100000 - i * 100;
+  }
+});
+
 module.exports = {
   cities,
+  districtPopulation,
   timeFilters,
   familyFilters,
   typeFilters,

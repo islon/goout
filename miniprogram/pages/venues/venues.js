@@ -218,7 +218,8 @@ Page({
       if (d && d !== '其他') found[d] = true;
     }
     const districtKeys = Object.keys(found).sort(function(a, b) {
-      return (districtPopulation[b] || 0) - (districtPopulation[a] || 0);
+      const pop = (typeof districtPopulation !== 'undefined' && districtPopulation) ? districtPopulation : null;
+      return ((pop && pop[b]) || 0) - ((pop && pop[a]) || 0);
     });
     const districts = ['全部区县'].concat(districtKeys);
     this.setData({ districts: districts });
