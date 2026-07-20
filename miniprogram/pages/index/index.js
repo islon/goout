@@ -285,7 +285,15 @@ Page({
       emptyHint: emptyHint
     });
 
-    this.updateFilterAvailability(filtered);
+    // 选项置灰是重计算（对每个筛选项各跑一次全量过滤），异步化 + 防抖：
+    // 列表已先 setData 渲染（用户立即看到切换结果），置灰推到下一 tick 计算，
+    // 不阻塞点击的即时反馈，从根本上消除筛选切换的卡顿感。
+    const self = this;
+    if (this._availTimer) clearTimeout(this._availTimer);
+    this._availTimer = setTimeout(function() {
+      self._availTimer = null;
+      self.updateFilterAvailability(filtered);
+    }, 0);
   },
 
   // 检查筛选器是否有结果
@@ -301,17 +309,26 @@ Page({
       search: this.data.searchQuery
     };
 
+    const allExhibitions = app.globalData.exhibitions || [];
+    // 城市池：本城活动子集。非城市维度(时间/类型/费用/区县)的置灰测试只需在本城池上跑，
+    // 基数从「全量数千条(11城)」降到「单城数百条」，约 10 倍提速；仅城市维度需全量。
+    const cityPool = allExhibitions.filter(function(e) {
+      return (e._cityKey || normalizeCity(e.city)) === baseFilters.city;
+    });
+
     function checkResult(type, testValue) {
       const testFilters = Object.assign({}, baseFilters);
+      var pool;
       if (type === 'city') {
         testFilters.city = testValue;
         testFilters.district = 'all';
         testFilters.source = 'all';
+        pool = allExhibitions;
       } else {
         testFilters[type] = testValue;
+        pool = cityPool;
       }
-      const allExhibitions = app.globalData.exhibitions || [];
-      return getFilteredExhibitions(allExhibitions, testFilters).length > 0;
+      return getFilteredExhibitions(pool, testFilters).length > 0;
     }
 
     // 城市置灰仅在“远程/完整数据已加载”后才生效；本地兜底阶段、或仅加载到「近期」子集
