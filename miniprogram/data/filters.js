@@ -77,7 +77,8 @@ const typeFilters = [
   { key: '演出', name: '演出' },
   { key: '影视放映', name: '影视放映' },
   { key: '体育赛事', name: '体育赛事' },
-  { key: '亲子活动', name: '亲子活动' }
+  { key: '亲子活动', name: '亲子活动' },
+  { key: '其他', name: '其他' }
 ];
 
 // 费用筛选
