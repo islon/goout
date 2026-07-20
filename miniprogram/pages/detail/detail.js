@@ -33,6 +33,7 @@ Page({
   onLoad(options) {
     const self = this;
     const id = decodeURIComponent(options.id || '');
+    this._activityId = id;
 
     function findActivity() {
       const allExhibitions = app.globalData.exhibitions || [];
@@ -48,6 +49,12 @@ Page({
       }
 
       if (!activity) {
+        // 数据还在加载中（isPartial=true）时不报错，等 onDataUpdated 再试
+        // 只有数据全部加载完仍找不到，才提示"活动不存在"
+        var isPartial = app.globalData.isPartial;
+        if (isPartial) {
+          return;
+        }
         wx.showToast({ title: '活动不存在', icon: 'none' });
         setTimeout(function() { wx.navigateBack(); }, 1500);
         return;
@@ -57,7 +64,7 @@ Page({
       const endDate = activity.end_date;
       const dateDisplay = startDate === endDate
         ? formatDate(startDate)
-        : formatDate(startDate) + ' ~ ' + formatDate(endDate);
+        : formatDate(startDate) + ' ~ ' + formatDate(end_date);
       const duration = getDuration(startDate, endDate);
       const activityType = getActivityType(activity);
       const feeType = getFeeType(activity);
@@ -112,6 +119,13 @@ Page({
     app.onReady(function() {
       findActivity();
     });
+
+    // 订阅数据更新：Tier2/Tier3 加载完成后重新查找活动（避免从分享链接进入时找不到）
+    if (app && typeof app.onDataUpdated === 'function') {
+      app.onDataUpdated(function() {
+        findActivity();
+      });
+    }
   },
 
   onVenueTap() {
