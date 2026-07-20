@@ -35,9 +35,11 @@ const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 const VENUE_PARTIAL_KEY = 'goout_venues_cache_partial_v3'; // true=场馆缓存残缺(部分城市缺失)，下次启动应强制补齐
 // 云端数据版本标记：CI 生成的 data_meta.json 里的 version(数据内容哈希)。本地存上次成功拉到的版本，
 // 下次启动先比版本——相同则说明云侧数据无变化，直接复用本地缓存、不再下载几 MB 的分城市大文件。
-const DATA_META_VERSION_KEY = 'goout_data_meta_version_v1';
+// 注意：活动与场馆分别落盘独立版本号，避免活动先成功而场馆残缺时版本号被提前覆盖、场馆永不重试。
+const DATA_META_VERSION_KEY = 'goout_data_meta_version_v1';       // 活动版本号
+const VENUE_META_VERSION_KEY = 'goout_venue_meta_version_v1';     // 场馆版本号（独立）
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.18.16';
+const APP_VERSION = '2026.07.20.17';
 
 // 带重试的 wx.request 封装：GitHub raw 在中国大陆常被拦截/超时，
 // 这里做指数退避重试（默认 3 次，间隔 0.7s / 1.4s / 2.1s），显著提升首屏拉取成功率。
@@ -329,11 +331,12 @@ App({
       if (!lastVer || lastVer !== APP_VERSION) {
         this._versionChanged = true;
         wx.setStorageSync('goout_app_version', APP_VERSION);
-        // 清掉可能过期的场馆缓存（避免旧裁剪兜底 481 被当成完整数据沿用），升级后重新拉全量分城市场馆
+        // 清掉可能过期的场馆缓存与版本号（避免旧裁剪兜底被当成完整数据沿用），升级后重新拉全量分城市场馆
         try {
           wx.removeStorageSync(VENUE_CACHE_KEY);
           wx.removeStorageSync(VENUE_CACHE_TIME_KEY);
           wx.removeStorageSync(VENUE_PARTIAL_KEY);
+          wx.removeStorageSync(VENUE_META_VERSION_KEY); // 清除场馆版本号，强制重新拉取
         } catch (e) {}
         console.log('[童行] 检测到版本变化/首次使用，将强制拉取最新数据');
       }
@@ -426,12 +429,18 @@ App({
 
   // 拉取云端数据版本清单并与本地比对：返回 { meta, changed }
   // changed=true 表示云侧数据相对本地有变化（或拿不到版本信息，按“需下载”处理，等价于旧 TTL 行为）
+  // venueChanged=true 表示场馆需要重新拉取（独立版本号判定，避免活动先成功导致场馆被跳过）
   _checkMeta() {
     var self = this;
     return fetchDataMeta().then(function(meta) {
-      var cached = wx.getStorageSync(DATA_META_VERSION_KEY) || '';
-      var changed = !meta || !meta.version || meta.version !== cached;
-      return { meta: meta, changed: changed };
+      var cachedAct = wx.getStorageSync(DATA_META_VERSION_KEY) || '';
+      var cachedVen = wx.getStorageSync(VENUE_META_VERSION_KEY) || '';
+      var version = (meta && meta.version) || '';
+      var changed = !meta || !version || version !== cachedAct;
+      // 场馆独立判定：场馆版本号未落盘 / 与云端不同 / 场馆标记为残缺 => 需要重新拉取
+      var venuePartial = !!wx.getStorageSync(VENUE_PARTIAL_KEY);
+      var venueChanged = !version || version !== cachedVen || venuePartial;
+      return { meta: meta, changed: changed, venueChanged: venueChanged };
     });
   },
 
@@ -452,26 +461,36 @@ App({
       // 拉取云端数据版本清单，与本地比对：版本相同 => 云侧数据无变化，直接复用缓存、不再下载几 MB 大文件
       self._checkMeta().then(function(r) {
         var dataChanged = r.changed;
+        var venueChanged = r.venueChanged;
         var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
         var fresh = cacheTime && (Date.now() - cacheTime) < self.SILENT_TTL_MS;
         var force = self._seededThisLaunch || self._versionChanged || self.globalData.isPartial || self.globalData.venuesPartial;
-      // 跳过下载：云侧数据无变化 + 城市清单无增减 + 非强制（首启/升级/上次残缺）
-      // 注意：即便云侧无变化，只要本地场馆明显未拉满(<90% 预期)也要继续尝试补齐，
-      // 否则活动曾成功缓存并落盘版本号后，场馆会永久被"跳过下载"卡在打包兜底(378)。
-      var venuesSatisfied = r.meta && r.meta.venues && (self.globalData.venues.length >= r.meta.venues * 0.9);
-      if (!dataChanged && !citiesChanged && !force && venuesSatisfied) {
-        console.log('[童行] 云侧数据无更新且场馆已拉满，跳过下载，复用本地缓存');
-        return;
-      }
-      if (!dataChanged && !citiesChanged && !force) {
-        console.warn('[童行] 云侧数据无更新，但本地场馆仅 ' + self.globalData.venues.length + ' 条(预期~' + (r.meta && r.meta.venues) + ')，仍尝试补齐场馆');
-      }
-        // 有更新或强制 => 下载最新数据；成功写入后把版本号落盘，供下次启动精准比对
         self._pendingMeta = r.meta || null;
         self._pendingMetaVersion = (r.meta && r.meta.version) || null;
         self.globalData.dataMeta = r.meta || null; // 供关于页展示“预期场馆数”
-        self.silentUpdateExhibitions();
-        self.silentUpdateVenues();
+
+        // 活动判定：云侧有变化 / 强制 / 城市清单变化 => 重新拉取活动
+        var needExhibitions = dataChanged || force || citiesChanged;
+        // 场馆判定：场馆版本变化 / 强制 / 城市清单变化 => 重新拉取场馆
+        // 场馆用独立版本号，不再因活动先成功就认为场馆也无变化
+        var needVenues = venueChanged || force || citiesChanged;
+
+        if (!needExhibitions && !needVenues) {
+          console.log('[童行] 云侧活动与场馆均无更新，跳过下载，复用本地缓存');
+          return;
+        }
+        if (needExhibitions) {
+          console.log('[童行] 开始更新活动数据' + (dataChanged ? '(云侧有更新)' : '(强制/残缺)'));
+          self.silentUpdateExhibitions();
+        } else {
+          console.log('[童行] 活动数据无更新，跳过活动拉取');
+        }
+        if (needVenues) {
+          console.log('[童行] 开始更新场馆数据' + (venueChanged ? '(场馆版本有更新/残缺)' : '(强制)'));
+          self.silentUpdateVenues();
+        } else {
+          console.log('[童行] 场馆数据无更新，跳过场馆拉取');
+        }
       });
     });
   },
@@ -519,9 +538,9 @@ App({
       wx.setStorageSync(VENUE_CACHE_KEY, arr);
       wx.setStorageSync(VENUE_CACHE_TIME_KEY, Date.now());
       wx.setStorageSync(VENUE_PARTIAL_KEY, !!isPartial);
-      // 全量写入成功 => 同步落盘云端数据版本号（与活动同理，避免下次误判为有变化而重下）
+      // 场馆全量写入成功 => 落盘场馆独立版本号（不与活动共用，避免活动先成功而场馆残缺时被跳过）
       if (!isPartial && this._pendingMetaVersion) {
-        wx.setStorageSync(DATA_META_VERSION_KEY, this._pendingMetaVersion);
+        wx.setStorageSync(VENUE_META_VERSION_KEY, this._pendingMetaVersion);
       }
     } catch (e) {}
     return true;
