@@ -3,2358 +3,4454 @@
     "name": "三圣花乡",
     "city": "chengdu",
     "district": "锦江区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
     "description": "花艺手作课堂，制作干花书签与花环，留下夏日记忆。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "天府人文艺术图书馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子手工，结合阅读主题做手工，动手又动脑。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯祠博物馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "研学",
-    "address": "",
-    "description": "三国兵器展研学，了解古代兵器与冷兵器战争。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金沙遗址博物馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "研学",
-    "address": "",
-    "description": "玉器文化课堂，研究玉琮玉璋，理解古蜀玉礼文化。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "锦城湖公园",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "锦城湖皮划艇体验，城市湖泊划艇，亲近水面。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都蹦床馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "蹦床公园，自由蹦跳与花式动作，释放活力。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "街子古镇",
-    "city": "chengdu",
-    "district": "崇州市",
-    "type": "研学",
-    "address": "",
-    "description": "光严禅院探秘，访无漏秋山古寺，了解禅宗文化。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都IFS国际金融中心",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "屋顶花园派对，七楼雕塑庭院亲子活动，城市观景。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都环球中心",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子冰场，环球中心真冰场，全家滑冰欢乐时光。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都大悦城",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "暑期乐园，大悦城室内乐园，旋转木马与海洋球。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都博物馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "研学",
-    "address": "",
-    "description": "探索古蜀青铜器奥秘，了解青铜铸造工艺与纹饰含义。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "四川科技馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "天文观星夜，使用天文望远镜观测星空，认识星座。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "环球中心天堂岛海洋乐园",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "海洋乐园科普日，了解海洋生态，亲子戏水学知识。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "青龙湖湿地公园",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "皮划艇体验，在青龙湖上划艇，感受水上运动乐趣。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都植物园",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "研学",
-    "address": "",
-    "description": "药用植物探秘，了解身边的中草药，学习传统药理。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都欢乐谷",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "演出",
-    "address": "",
-    "description": "夏日电音节，DJ现场打碟，灯光舞美震撼演出。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都融创水世界",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "滑道挑战赛，多条刺激滑道比拼速度与勇气。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都国色天乡乐园",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "童话节，经典童话人物齐聚，沉浸式童话体验。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都海昌极地海洋公园",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子嘉年华，海洋知识闯关与亲子游戏相结合。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "国际非遗博览园",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "研学",
-    "address": "",
-    "description": "非遗博览园蜀绣研学，深度了解蜀绣传承与针法。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都图书馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子电影日，放映经典儿童电影，观影后分享讨论。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都杜甫草堂博物馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "研学",
-    "address": "",
-    "description": "诗圣文化探秘，了解杜甫生平与成都草堂岁月。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "四川省体育馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "网球培训营，学习网球基本功，体验网球运动。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都跆拳道馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "跆拳道夏令营，学习跆拳道品势与腿法，强身健体。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "黄龙溪古镇",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子漂流，古镇溪流漂流戏水，清凉又刺激。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "洛带古镇",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "研学",
-    "address": "",
-    "description": "会馆探秘，参观四大会馆，了解客家会馆建筑与文化。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "平乐古镇",
-    "city": "chengdu",
-    "district": "邛崃市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "竹海探秘，游览芦沟竹海，感受川西竹乡清幽。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都来福士广场",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "演出",
-    "address": "",
-    "description": "儿童剧场，来福士小型儿童剧演出，互动观剧。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区青少年宫",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "四川博物院",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "研学",
-    "address": "",
-    "description": "巴蜀青铜文化探秘，了解古蜀文明与青铜礼器。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "锦里",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "三国主题巡游，人物扮演巡游古街，沉浸式体验。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区文化馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "白鹭湾湿地公园",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "研学",
-    "address": "",
-    "description": "夏日观鹭，定点观察白鹭栖息，了解鹭鸟生态。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "宽窄巷子",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "糖画手作，跟随糖画艺人用糖稀绘制生肖图案。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "四川省图书馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子共读日，全家共读一本书，分享阅读感悟。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "安仁古镇",
-    "city": "chengdu",
-    "district": "大邑县",
-    "type": "亲子活动",
-    "address": "",
-    "description": "民国服饰体验，换上旗袍长衫，公馆前拍复古照。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都远洋太古里",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子DIY工坊，太古里品牌手作活动，动手创作。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都万象城",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "暑期童玩节，万象城童玩体验区，怀旧与新潮结合。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区创意园",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区美术馆",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区植物园",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都动物园",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "动物科普大讲堂，专家讲解动物习性，激发科学兴趣。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都跑酷场",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "跑酷训练营，学习跑酷基础翻越动作，挑战障碍。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武术馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "武术体验营，学习传统武术基本功，传承国术。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区公园",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区青少年宫",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区海洋馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区艺术中心",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的青少年科普活动讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区体育馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区美术馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "兴隆湖湿地公园",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "帆船体验，专业教练指导，感受帆船运动魅力。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区会展中心",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的家庭展览研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区青少年宫",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的周末科普活动活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区文化馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都川剧院",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "脸谱绘画课堂，学习川剧脸谱色彩含义，手绘脸谱。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "天府绿道",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子马拉松，绿道欢乐跑，全家齐参与锻炼毅力。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都亲子游泳馆",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子游泳日，亲子共游，水中游戏增进感情。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都银泰中心",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子手作课堂，银泰中心手工课，制作夏日手作。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区美术馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区图书馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的解读讲座阅读周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区植物园",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的解读展览周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区美术馆",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的暑期科普活动体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都轮滑场",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "轮滑培训营，学习轮滑基础动作，安全畅滑。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都瑜伽馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "瑜伽亲子课，亲子共练瑜伽，增进感情放松身心。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区博物馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区图书馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区公园",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区体育场",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区科技馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区青少年宫",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的精彩讲座阅读节，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
     "name": "人民公园",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "亲子活动",
+    "type": "公园",
     "address": "",
     "description": "荷塘摄影日，夏日荷花盛开，亲子摄影打卡。",
-    "source": "成都本地宝"
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
   },
   {
-    "name": "成都高尔夫球场",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "高尔夫体验日，学习挥杆基本动作，体验优雅运动。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都滑板场",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "滑板体验营，学习滑板基础动作，街头潮流运动。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区科技馆",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的震撼影视放映发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "浣花溪公园",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "夏日寻虫记，观察昆虫生活，了解城市昆虫生态。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区植物园",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区会展中心",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "锦江绿道",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "锦江绿道亲子骑行，沿锦江绿道骑行，享受沿途风景。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区艺术中心",
+    "name": "兴隆湖湿地公园",
     "city": "chengdu",
     "district": "天府新区",
-    "type": "亲子活动",
+    "type": "公园",
     "address": "",
-    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "帆船体验，专业教练指导，感受帆船运动魅力。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
   },
   {
-    "name": "成都马术俱乐部",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "马术体验日，学习马术基础骑行，与马匹亲密接触。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区海洋馆",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区动物园",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区文化中心",
+    "name": "四川博物院",
     "city": "chengdu",
     "district": "武侯区",
-    "type": "科普活动",
+    "type": "其他",
     "address": "",
-    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "巴蜀青铜文化探秘，了解古蜀文明与青铜礼器。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都双流区剧院",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区公园",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区文化馆",
+    "name": "四川省体育馆",
     "city": "chengdu",
     "district": "武侯区",
-    "type": "科普活动",
+    "type": "体育中心",
     "address": "",
-    "description": "成都武侯区的探秘科普活动月，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "网球培训营，学习网球基本功，体验网球运动。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
   },
   {
-    "name": "成都青羊区海洋馆",
+    "name": "四川省图书馆",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "讲座阅读",
+    "type": "图书馆",
     "address": "",
-    "description": "成都青羊区的探索讲座阅读演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "亲子共读日，全家共读一本书，分享阅读感悟。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
   },
   {
-    "name": "成都锦江区创意园",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的儿童展览课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区博物馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的互动展览科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区公园",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区体育场",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市海洋馆",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的走进体育赛事日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都体育馆",
+    "name": "四川科技馆",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "亲子活动",
+    "type": "科技馆",
     "address": "",
-    "description": "篮球夏令营，系统训练篮球基本功，提升球技。",
-    "source": "成都本地宝"
+    "description": "天文观星夜，使用天文望远镜观测星空，认识星座。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
   },
   {
-    "name": "成都都江堰市剧院",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区剧院",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的精彩演出节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区海洋馆",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区体育场",
+    "name": "国际非遗博览园",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "讲座阅读",
+    "type": "其他",
     "address": "",
-    "description": "成都青羊区的漫游讲座阅读季，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "非遗博览园蜀绣研学，深度了解蜀绣传承与针法。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都高新区文化中心",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市图书馆",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的互动亲子活动科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区会展中心",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区植物园",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市文化馆",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区会展中心",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的解读体育赛事周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区科技馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区会展中心",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区青少年宫",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区美术馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的走进展览日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市创意园",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区公园",
+    "name": "天府人文艺术图书馆",
     "city": "chengdu",
     "district": "金牛区",
-    "type": "影视放映",
+    "type": "图书馆",
     "address": "",
-    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "亲子手工，结合阅读主题做手工，动手又动脑。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
   },
   {
-    "name": "成都成华区艺术中心",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区美术馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的探索演出演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区青少年宫",
+    "name": "天府绿道",
     "city": "chengdu",
     "district": "高新区",
-    "type": "体育赛事",
+    "type": "其他",
     "address": "",
-    "description": "成都高新区的震撼体育赛事发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "亲子马拉松，绿道欢乐跑，全家齐参与锻炼毅力。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都双流区文化馆",
+    "name": "安仁古镇",
     "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
+    "district": "大邑县",
+    "type": "历史文化景点",
     "address": "",
-    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "民国服饰体验，换上旗袍长衫，公馆前拍复古照。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "成都"
+    ]
   },
   {
-    "name": "成都彭州市动物园",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市博物馆",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的发现体育赛事比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区动物园",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的梦幻体育赛事之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市图书馆",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市艺术中心",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的亲子体育赛事工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区艺术中心",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的经典影视放映探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市艺术中心",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区海洋馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区文化中心",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的儿童讲座阅读课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区体育馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的体验演出嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区剧院",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都平衡车场",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "平衡车培训，幼儿平衡车教学，锻炼平衡与协调。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区体育场",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的走进影视放映日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区动物园",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市动物园",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区公园",
+    "name": "宽窄巷子",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "讲座阅读",
+    "type": "其他",
     "address": "",
-    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "糖画手作，跟随糖画艺人用糖稀绘制生肖图案。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都金牛区会展中心",
+    "name": "平乐古镇",
     "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
+    "district": "邛崃市",
+    "type": "历史文化景点",
     "address": "",
-    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "竹海探秘，游览芦沟竹海，感受川西竹乡清幽。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "成都"
+    ]
   },
   {
-    "name": "成都天府新区公园",
+    "name": "成都IFS国际金融中心",
     "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
+    "district": "锦江区",
+    "type": "文化中心",
     "address": "",
-    "description": "成都天府新区的走进亲子活动日，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "屋顶花园派对，七楼雕塑庭院亲子活动，城市观景。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
   },
   {
-    "name": "成都天府新区植物园",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区博物馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区植物园",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的精彩影视放映节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区会展中心",
+    "name": "成都万象城",
     "city": "chengdu",
     "district": "成华区",
-    "type": "演出",
+    "type": "其他",
     "address": "",
-    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "暑期童玩节，万象城童玩体验区，怀旧与新潮结合。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都天府新区博物馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市青少年宫",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的家庭亲子活动研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区文化馆",
+    "name": "成都亲子游泳馆",
     "city": "chengdu",
     "district": "高新区",
-    "type": "体育赛事",
+    "type": "体育中心",
     "address": "",
-    "description": "成都高新区的体验体育赛事嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市剧院",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的解读亲子活动周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区创意园",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的沉浸式亲子活动探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区图书馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区植物园",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区剧院",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的震撼展览发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区文化馆",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的趣味讲座阅读展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区艺术中心",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区博物馆",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区文化中心",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的暑期影视放映体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区创意园",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区文化中心",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的探秘亲子活动月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区美术馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区动物园",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区体育馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区创意园",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的暑期演出体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区公园",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区海洋馆",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市文化中心",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区博物馆",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的经典演出探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区创意园",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区艺术中心",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区创意园",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区博物馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市植物园",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区美术馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的儿童亲子活动课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区体育馆",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的探秘展览月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区植物园",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区科技馆",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都击剑馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "击剑体验日，学习击剑礼仪与基本剑法，绅士运动。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区剧院",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的发现科普活动比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区体育场",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市文化中心",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区青少年宫",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的趣味演出展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区动物园",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区图书馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的发现影视放映比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区动物园",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的体验影视放映嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区文化馆",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的家庭影视放映研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区科技馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市会展中心",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区博物馆",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区植物园",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的发现演出比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市公园",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的儿童体育赛事课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区体育场",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "亲子游泳日，亲子共游，水中游戏增进感情。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
   },
   {
     "name": "成都体育学院",
     "city": "chengdu",
     "district": "武侯区",
-    "type": "亲子活动",
+    "type": "教育机构",
     "address": "",
     "description": "羽毛球夏令营，专业教练指导，提升羽毛球水平。",
-    "source": "成都本地宝"
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "教育机构",
+      "成都"
+    ]
   },
   {
-    "name": "成都郫都区文化馆",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市会展中心",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的震撼亲子活动发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区创意园",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的探索影视放映演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区青少年宫",
+    "name": "成都体育馆",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "讲座阅读",
+    "type": "体育中心",
     "address": "",
-    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区剧院",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区创意园",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的梦幻科普活动之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区剧院",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区科技馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区科技馆",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的周末讲座阅读活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区美术馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市体育场",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区文化馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区文化中心",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的梦幻演出之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区文化中心",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市博物馆",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区海洋馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区艺术中心",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的互动讲座阅读科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市体育馆",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区公园",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的漫游演出季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区剧院",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区科技馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的趣味科普活动展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "篮球夏令营，系统训练篮球基本功，提升球技。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
   },
   {
     "name": "成都冰场",
     "city": "chengdu",
     "district": "锦江区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
     "description": "滑冰体验，室内真冰场滑冰，炎夏感受冰上乐趣。",
-    "source": "成都本地宝"
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都青羊区会展中心",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区图书馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的青少年展览讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区动物园",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的趣味展览展览，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市体育馆",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区公园",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区会展中心",
+    "name": "成都击剑馆",
     "city": "chengdu",
     "district": "武侯区",
-    "type": "科普活动",
+    "type": "其他",
     "address": "",
-    "description": "成都武侯区的精彩科普活动节，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "击剑体验日，学习击剑礼仪与基本剑法，绅士运动。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
   },
   {
-    "name": "成都都江堰市美术馆",
+    "name": "成都动物园",
     "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
+    "district": "成华区",
+    "type": "动物园",
     "address": "",
-    "description": "成都都江堰市的沉浸式体育赛事探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "动物科普大讲堂，专家讲解动物习性，激发科学兴趣。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
   },
   {
-    "name": "成都高新区图书馆",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区科技馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区文化馆",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区图书馆",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市科技馆",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的体验亲子活动嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都射箭馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "射箭体验日，学习射箭基本姿势，专注力训练。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区青少年宫",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市海洋馆",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "蜀锦织绣博物馆",
+    "name": "成都博物馆",
     "city": "chengdu",
     "district": "青羊区",
-    "type": "研学",
+    "type": "博物馆",
     "address": "",
-    "description": "非遗研学，系统了解蜀锦历史与四大名锦文化。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区动物园",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的探秘讲座阅读月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区文化中心",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的沉浸式展览探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区图书馆",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的亲子演出工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都彭州市植物园",
-    "city": "chengdu",
-    "district": "彭州市",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都彭州市的青少年亲子活动讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区青少年宫",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区图书馆",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区海洋馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的经典亲子活动探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区体育馆",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的沉浸式讲座阅读探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都锦江区剧院",
-    "city": "chengdu",
-    "district": "锦江区",
-    "type": "展览",
-    "address": "",
-    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区体育馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区海洋馆",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的漫游科普活动季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区文化中心",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都攀岩馆",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "攀岩体验日，专业保护下挑战攀岩墙，锻炼勇气。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都武侯区动物园",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区体育馆",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "description": "探索古蜀青铜器奥秘，了解青铜铸造工艺与纹饰含义。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
   },
   {
     "name": "成都双流区体育场",
     "city": "chengdu",
     "district": "双流区",
-    "type": "科普活动",
+    "type": "体育中心",
     "address": "",
     "description": "成都双流区的互动科普活动科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区海洋馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区剧院",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区体育场",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区科技馆",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都足球训练基地",
-    "city": "chengdu",
-    "district": "武侯区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "足球夏令营，专业教练带队，提升足球技能与团队意识。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区体育馆",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的梦幻影视放映之旅，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区体育馆",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都新都区体育场",
-    "city": "chengdu",
-    "district": "新都区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都金牛区博物馆",
-    "city": "chengdu",
-    "district": "金牛区",
-    "type": "影视放映",
-    "address": "",
-    "description": "成都金牛区的亲子影视放映工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都龙泉驿区艺术中心",
-    "city": "chengdu",
-    "district": "龙泉驿区",
-    "type": "展览",
-    "address": "",
-    "description": "成都龙泉驿区的漫游展览季，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区植物园",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区文化馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区图书馆",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区创意园",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都青羊区博物馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都青羊区的青少年讲座阅读讲座，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区科技馆",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的家庭体育赛事研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区艺术中心",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都温江区美术馆",
-    "city": "chengdu",
-    "district": "温江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都天府新区体育场",
-    "city": "chengdu",
-    "district": "天府新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "成都天府新区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都郫都区会展中心",
-    "city": "chengdu",
-    "district": "郫都区",
-    "type": "演出",
-    "address": "",
-    "description": "成都郫都区的周末演出活动，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都都江堰市体育场",
-    "city": "chengdu",
-    "district": "都江堰市",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都都江堰市的经典体育赛事探秘，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都成华区动物园",
-    "city": "chengdu",
-    "district": "成华区",
-    "type": "演出",
-    "address": "",
-    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都市游泳馆",
-    "city": "chengdu",
-    "district": "青羊区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "游泳培训班，分龄教学，让孩子掌握游泳技能。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都高新区美术馆",
-    "city": "chengdu",
-    "district": "高新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "成都本地宝"
-  },
-  {
-    "name": "成都双流区公园",
-    "city": "chengdu",
-    "district": "双流区",
-    "type": "科普活动",
-    "address": "",
-    "description": "成都双流区的探索科普活动演出，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
   },
   {
     "name": "成都双流区体育馆",
     "city": "chengdu",
     "district": "双流区",
-    "type": "科普活动",
+    "type": "体育中心",
     "address": "",
     "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "成都本地宝"
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区公园",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "公园",
+    "address": "",
+    "description": "成都双流区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区创意园",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "description": "成都双流区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区剧院",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区动物园",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区博物馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区图书馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都双流区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区文化中心",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都双流区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区文化馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都双流区的解读科普活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区植物园",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都双流区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区海洋馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "description": "成都双流区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区美术馆",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都双流区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都双流区艺术中心",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都双流区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都国色天乡乐园",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "主题乐园",
+    "address": "",
+    "description": "童话节，经典童话人物齐聚，沉浸式童话体验。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都图书馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "图书馆",
+    "address": "",
+    "description": "亲子电影日，放映经典儿童电影，观影后分享讨论。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都大悦城",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "暑期乐园，大悦城室内乐园，旋转木马与海洋球。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区体育场",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都天府新区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区体育馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区公园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "",
+    "description": "成都天府新区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区创意园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "其他",
+    "address": "",
+    "description": "成都天府新区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区动物园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区博物馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区图书馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都天府新区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区文化中心",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都天府新区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区文化馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都天府新区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区植物园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都天府新区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区海洋馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "其他",
+    "address": "",
+    "description": "成都天府新区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区科技馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区美术馆",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都天府新区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都天府新区艺术中心",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都天府新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都射箭馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "射箭体验日，学习射箭基本姿势，专注力训练。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都川剧院",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "剧场",
+    "address": "",
+    "description": "脸谱绘画课堂，学习川剧脸谱色彩含义，手绘脸谱。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都市游泳馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "体育中心",
+    "address": "",
+    "description": "游泳培训班，分龄教学，让孩子掌握游泳技能。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都平衡车场",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "平衡车培训，幼儿平衡车教学，锻炼平衡与协调。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市会展中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都彭州市的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市体育场",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市体育馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市剧院",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "剧场",
+    "address": "",
+    "description": "成都彭州市的解读亲子活动周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市动物园",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "动物园",
+    "address": "",
+    "description": "成都彭州市的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市博物馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市图书馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都彭州市的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市文化中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都彭州市的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市文化馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市植物园",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "植物园",
+    "address": "",
+    "description": "成都彭州市的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市海洋馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "其他",
+    "address": "",
+    "description": "成都彭州市的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市科技馆",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都彭州市的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市艺术中心",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都彭州市的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都彭州市青少年宫",
+    "city": "chengdu",
+    "district": "彭州市",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都彭州市的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区会展中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区体育场",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区体育馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都成华区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区公园",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "公园",
+    "address": "",
+    "description": "成都成华区的漫游演出季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区创意园",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "description": "成都成华区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区动物园",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区博物馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区图书馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都成华区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区文化中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都成华区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区文化馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都成华区的震撼演出发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区海洋馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "description": "成都成华区的互动演出科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区科技馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区美术馆",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都成华区的探索演出演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区艺术中心",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都成华区的解读演出周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都成华区青少年宫",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都成华区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都攀岩馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "攀岩体验日，专业保护下挑战攀岩墙，锻炼勇气。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区会展中心",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区体育场",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区体育馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都新都区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区公园",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "公园",
+    "address": "",
+    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区创意园",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "其他",
+    "address": "",
+    "description": "成都新都区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区剧院",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都新都区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区动物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都新都区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区文化中心",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都新都区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区文化馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都新都区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区植物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区海洋馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "其他",
+    "address": "",
+    "description": "成都新都区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区科技馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都新都区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区美术馆",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都新都区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都新都区青少年宫",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都新都区的解读影视放映周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都杜甫草堂博物馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "",
+    "description": "诗圣文化探秘，了解杜甫生平与成都草堂岁月。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都来福士广场",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "广场",
+    "address": "",
+    "description": "儿童剧场，来福士小型儿童剧演出，互动观剧。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都植物园",
+    "city": "chengdu",
+    "district": "新都区",
+    "type": "植物园",
+    "address": "",
+    "description": "药用植物探秘，了解身边的中草药，学习传统药理。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都欢乐谷",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "其他",
+    "address": "",
+    "description": "夏日电音节，DJ现场打碟，灯光舞美震撼演出。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区会展中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都武侯区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区体育场",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区体育馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区创意园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区剧院",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都武侯区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区动物园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都武侯区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区博物馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区图书馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都武侯区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区文化中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都武侯区的走进科普活动日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区文化馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都武侯区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区植物园",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区科技馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都武侯区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区美术馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都武侯区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区艺术中心",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都武侯区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯区青少年宫",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都武侯区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武侯祠博物馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "博物馆",
+    "address": "",
+    "description": "三国兵器展研学，了解古代兵器与冷兵器战争。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都武术馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "description": "武术体验营，学习传统武术基本功，传承国术。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都海昌极地海洋公园",
+    "city": "chengdu",
+    "district": "天府新区",
+    "type": "公园",
+    "address": "",
+    "description": "亲子嘉年华，海洋知识闯关与亲子游戏相结合。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区会展中心",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区体育馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都温江区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区公园",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "公园",
+    "address": "",
+    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区创意园",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "其他",
+    "address": "",
+    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区剧院",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都温江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区动物园",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都温江区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区图书馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都温江区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区文化中心",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都温江区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区文化馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都温江区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区植物园",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区海洋馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "其他",
+    "address": "",
+    "description": "成都温江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区科技馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都温江区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区美术馆",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都温江区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都温江区青少年宫",
+    "city": "chengdu",
+    "district": "温江区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都温江区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都滑板场",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "description": "滑板体验营，学习滑板基础动作，街头潮流运动。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都环球中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "文化中心",
+    "address": "",
+    "description": "亲子冰场，环球中心真冰场，全家滑冰欢乐时光。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都瑜伽馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "description": "瑜伽亲子课，亲子共练瑜伽，增进感情放松身心。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都融创水世界",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "其他",
+    "address": "",
+    "description": "滑道挑战赛，多条刺激滑道比拼速度与勇气。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都足球训练基地",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "足球夏令营，专业教练带队，提升足球技能与团队意识。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都跆拳道馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "跆拳道夏令营，学习跆拳道品势与腿法，强身健体。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都跑酷场",
+    "city": "chengdu",
+    "district": "成华区",
+    "type": "其他",
+    "address": "",
+    "description": "跑酷训练营，学习跑酷基础翻越动作，挑战障碍。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都蹦床馆",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "蹦床公园，自由蹦跳与花式动作，释放活力。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都轮滑场",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "其他",
+    "address": "",
+    "description": "轮滑培训营，学习轮滑基础动作，安全畅滑。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都远洋太古里",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "description": "亲子DIY工坊，太古里品牌手作活动，动手创作。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区会展中心",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都郫都区的周末演出活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区体育场",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区体育馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区公园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "公园",
+    "address": "",
+    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区剧院",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都郫都区的精彩演出节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区动物园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都郫都区的儿童演出课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区博物馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都郫都区的经典演出探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区图书馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都郫都区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区文化馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区植物园",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都郫都区的发现演出比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区海洋馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "其他",
+    "address": "",
+    "description": "成都郫都区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区科技馆",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都郫都区的探秘演出月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区艺术中心",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都郫都区的走进演出日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都郫都区青少年宫",
+    "city": "chengdu",
+    "district": "郫都区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都郫都区的趣味演出展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市会展中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市体育场",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都都江堰市的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市体育馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市公园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "公园",
+    "address": "",
+    "description": "成都都江堰市的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市创意园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "其他",
+    "address": "",
+    "description": "成都都江堰市的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市剧院",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "剧场",
+    "address": "",
+    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市动物园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "动物园",
+    "address": "",
+    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市博物馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都都江堰市的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市图书馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都都江堰市的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市文化中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都都江堰市的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市植物园",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "植物园",
+    "address": "",
+    "description": "成都都江堰市的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市海洋馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "其他",
+    "address": "",
+    "description": "成都都江堰市的走进体育赛事日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市美术馆",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都都江堰市的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都都江堰市艺术中心",
+    "city": "chengdu",
+    "district": "都江堰市",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都都江堰市的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金沙遗址博物馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "",
+    "description": "玉器文化课堂，研究玉琮玉璋，理解古蜀玉礼文化。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区会展中心",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区体育场",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都金牛区的走进影视放映日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区公园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "公园",
+    "address": "",
+    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区创意园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "其他",
+    "address": "",
+    "description": "成都金牛区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区剧院",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都金牛区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区博物馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都金牛区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区图书馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都金牛区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区文化馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区植物园",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都金牛区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区海洋馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "其他",
+    "address": "",
+    "description": "成都金牛区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区科技馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都金牛区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区美术馆",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区艺术中心",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都金牛区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都金牛区青少年宫",
+    "city": "chengdu",
+    "district": "金牛区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都金牛区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都银泰中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "文化中心",
+    "address": "",
+    "description": "亲子手作课堂，银泰中心手工课，制作夏日手作。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区会展中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区体育场",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区体育馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都锦江区的探秘展览月，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区公园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "公园",
+    "address": "",
+    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区创意园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "description": "成都锦江区的儿童展览课程，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区剧院",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都锦江区的经典展览探秘，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区动物园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都锦江区的趣味展览展览，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区博物馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区文化中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都锦江区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区文化馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都锦江区的周末展览活动，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区海洋馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "description": "成都锦江区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区科技馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区美术馆",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都锦江区的走进展览日，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区艺术中心",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都锦江区的精彩展览节，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都锦江区青少年宫",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都锦江区的发现展览比赛，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区会展中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区体育场",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都青羊区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区体育馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区公园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "",
+    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区创意园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "description": "成都青羊区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区剧院",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区博物馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都青羊区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区图书馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都青羊区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区文化中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都青羊区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区植物园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都青羊区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区海洋馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "其他",
+    "address": "",
+    "description": "成都青羊区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区科技馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都青羊区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区美术馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区艺术中心",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都青羊区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都青羊区青少年宫",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都青羊区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都马术俱乐部",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "description": "马术体验日，学习马术基础骑行，与马匹亲密接触。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高尔夫球场",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "其他",
+    "address": "",
+    "description": "高尔夫体验日，学习挥杆基本动作，体验优雅运动。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区会展中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都高新区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区体育馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都高新区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区公园",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "",
+    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区创意园",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "其他",
+    "address": "",
+    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区剧院",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都高新区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区动物园",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都高新区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区博物馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区图书馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都高新区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区文化中心",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "文化中心",
+    "address": "",
+    "description": "成都高新区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区文化馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都高新区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区植物园",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区科技馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都高新区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区美术馆",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都高新区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都高新区青少年宫",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都高新区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区会展中心",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "会展中心",
+    "address": "",
+    "description": "成都龙泉驿区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区体育场",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "体育中心",
+    "address": "",
+    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区公园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "公园",
+    "address": "",
+    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区剧院",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "剧场",
+    "address": "",
+    "description": "成都龙泉驿区的震撼展览发现，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区动物园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "动物园",
+    "address": "",
+    "description": "成都龙泉驿区的探索展览演出，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区博物馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "博物馆",
+    "address": "",
+    "description": "成都龙泉驿区的互动展览科普，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区图书馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "图书馆",
+    "address": "",
+    "description": "成都龙泉驿区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区文化馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "文化馆",
+    "address": "",
+    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区植物园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "植物园",
+    "address": "",
+    "description": "成都龙泉驿区的解读展览周，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区海洋馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "其他",
+    "address": "",
+    "description": "成都龙泉驿区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区科技馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "科技馆",
+    "address": "",
+    "description": "成都龙泉驿区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区美术馆",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "美术馆",
+    "address": "",
+    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区艺术中心",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "成都龙泉驿区的漫游展览季，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "成都"
+    ]
+  },
+  {
+    "name": "成都龙泉驿区青少年宫",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "寺庙",
+    "address": "",
+    "description": "成都龙泉驿区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "成都"
+    ]
+  },
+  {
+    "name": "洛带古镇",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "历史文化景点",
+    "address": "",
+    "description": "会馆探秘，参观四大会馆，了解客家会馆建筑与文化。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "成都"
+    ]
+  },
+  {
+    "name": "浣花溪公园",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "公园",
+    "address": "",
+    "description": "夏日寻虫记，观察昆虫生活，了解城市昆虫生态。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "环球中心天堂岛海洋乐园",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "主题乐园",
+    "address": "",
+    "description": "海洋乐园科普日，了解海洋生态，亲子戏水学知识。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "成都"
+    ]
+  },
+  {
+    "name": "白鹭湾湿地公园",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "公园",
+    "address": "",
+    "description": "夏日观鹭，定点观察白鹭栖息，了解鹭鸟生态。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "蜀锦织绣博物馆",
+    "city": "chengdu",
+    "district": "青羊区",
+    "type": "博物馆",
+    "address": "",
+    "description": "非遗研学，系统了解蜀锦历史与四大名锦文化。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "成都"
+    ]
+  },
+  {
+    "name": "街子古镇",
+    "city": "chengdu",
+    "district": "崇州市",
+    "type": "历史文化景点",
+    "address": "",
+    "description": "光严禅院探秘，访无漏秋山古寺，了解禅宗文化。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "成都"
+    ]
+  },
+  {
+    "name": "锦城湖公园",
+    "city": "chengdu",
+    "district": "高新区",
+    "type": "公园",
+    "address": "",
+    "description": "锦城湖皮划艇体验，城市湖泊划艇，亲近水面。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "锦江绿道",
+    "city": "chengdu",
+    "district": "锦江区",
+    "type": "其他",
+    "address": "",
+    "description": "锦江绿道亲子骑行，沿锦江绿道骑行，享受沿途风景。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "锦里",
+    "city": "chengdu",
+    "district": "武侯区",
+    "type": "其他",
+    "address": "",
+    "description": "三国主题巡游，人物扮演巡游古街，沉浸式体验。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "成都"
+    ]
+  },
+  {
+    "name": "青龙湖湿地公园",
+    "city": "chengdu",
+    "district": "龙泉驿区",
+    "type": "公园",
+    "address": "",
+    "description": "皮划艇体验，在青龙湖上划艇，感受水上运动乐趣。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "成都"
+    ]
+  },
+  {
+    "name": "黄龙溪古镇",
+    "city": "chengdu",
+    "district": "双流区",
+    "type": "历史文化景点",
+    "address": "",
+    "description": "亲子漂流，古镇溪流漂流戏水，清凉又刺激。",
+    "source": "成都本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "成都"
+    ]
   }
 ]

@@ -1,2297 +1,4337 @@
 [
   {
-    "name": "江苏省科学技术馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "夜宿江苏科技馆，在展品间搭建帐篷，开展夜探展品、科学影院、密室闯关等夜间专属活动。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "玄武湖公园",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "玄武湖环湖绿道亲子骑行活动，沿湖欣赏湖光山色，全程约10公里，适合家庭休闲运动。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "红山森林动物园",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "灵长类科普专场，介绍猩猩、长臂猿、猕猴等灵长类动物的智慧与社会行为，观察族群互动。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "玛雅海滩水公园",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "演出",
-    "address": "",
-    "description": "每周末水上电音节邀请知名DJ现场打碟，搭配激光灯光与水幕秀，打造夏日最潮水上派对。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "秦淮非遗馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京泥人手作体验，用惠山泥塑造憨态可掬的小动物，学习捏塑与彩绘技法，作品可带走。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "夫子庙秦淮风光带",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京鸭文化体验在夫子庙老字号店铺讲述南京人食鸭千年历史，亲子家庭可观摩盐水鸭制作。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京图书馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "经典诵读活动带领孩子朗诵唐诗宋词与古文名篇，老师讲解节奏韵律，提升语言感受力。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "金陵图书馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "科普阅读推荐优秀少儿科普读物，配合简单科学实验演示，让孩子在阅读中探索科学奥秘。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京市少年儿童图书馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子手工活动结合绘本主题，制作折纸、黏土等手工作品，培养孩子动手与创造能力。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京奥林匹克体育中心",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "击剑体验课介绍花剑、佩剑、重剑区别，穿戴装备实战对练，感受优雅与力量并存的剑客运动。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区青少年宫",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京高淳区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区美术馆",
+    "name": "东庐山",
     "city": "nanjing",
     "district": "溧水区",
-    "type": "影视放映",
+    "type": "其他",
     "address": "",
-    "description": "南京溧水区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区动物园",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京浦口区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京科技馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "机械原理实验通过齿轮、杠杆、滑轮等教具，让孩子在动手拼装中理解简单机械的工作原理。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "老门东",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "老门东历史街区推出民俗体验活动，糖画、捏面人、草编等老手艺现场展示，孩子可付费参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "青奥公园",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "青奥公园定向越野设置家庭组，使用地图寻找打卡点，锻炼孩子读图与决策能力。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "阳山碑材",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "研学",
-    "address": "",
-    "description": "阳山碑材为明成祖朱棣开凿的天下第一碑，研学讲解碑材开采过程与历史谜团，感受古代工程奇迹。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "游子山",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "游子山为高淳第一高峰，登山步道平缓适合亲子，山顶可俯瞰固城湖与高淳全貌。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区公园",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京江宁区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区植物园",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京鼓楼区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区科技馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京雨花台区的家庭体育赛事研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京市博物馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "研学",
-    "address": "",
-    "description": "精选南京市博物馆馆藏元青花、明代金银器等精品文物，开展深度研学课程，辅以文物拓印体验。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "六朝博物馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "六朝博物馆面向9-12岁学生招募小小讲解员，培训六朝历史知识与讲解礼仪，结业后可周末上岗。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "莫愁湖公园",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "植物寻宝活动发放寻宝地图，亲子家庭按图索骥寻找园内特色植物，集齐印章兑换奖品。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "银杏湖乐园",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "银杏湖主题夏令营结合游乐与自然探索，白天玩项目，夜晚观星露营，丰富孩子暑期生活。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "五台山体育中心",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "跆拳道培训班教授基本腿法与品势，培养孩子礼仪、自信与自卫能力，可考级认证。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "雨花台烈士陵园",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "五日红色夏令营结合雨花英烈学习与军事训练，培养孩子坚强意志与家国情怀，全程免费。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "梅园新村纪念馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "梅园新村小小讲解员培训班面向9-13岁学生，培训国共谈判史与讲解技能，结业后周末上岗。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "大金山国防园",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "大金山军事夏令营五日营含军事训练、野外生存与CS对抗，让孩子在军事化生活中磨炼意志。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区科技馆",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "演出",
-    "address": "",
-    "description": "南京六合区的探秘演出月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区动物园",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京建邺区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区会展中心",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "展览",
-    "address": "",
-    "description": "南京六合区的家庭展览研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区会展中心",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京高淳区的解读体育赛事周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区体育馆",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京溧水区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "中山植物园",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "走进热带植物温室，认识见血封喉、面包树、可可等热带奇花异木，了解热带雨林生态系统。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "中山陵",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "流徽榭研学讲解这座民国水上建筑的构造之美，孩子在湖畔写生，感受中山陵附属建筑群。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区体育场",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "展览",
-    "address": "",
-    "description": "南京江宁区的发现展览比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区剧院",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "演出",
-    "address": "",
-    "description": "南京江宁区的精彩演出节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区剧院",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京浦口区的发现科普活动比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区会展中心",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京雨花台区的精彩科普活动节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区美术馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京玄武区的暑期科普活动体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "江宁织造博物馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "经纬书签手作活动展示古代织造流程，孩子可操作小型织布机织出书签，感受经纬交错的智慧。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京国防园",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "国防园国防教育主题活动含升旗仪式、国防知识讲座与武器装备参观，强化全民国防观念。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区艺术中心",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "演出",
-    "address": "",
-    "description": "南京溧水区的解读演出周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区创意园",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京溧水区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京海底世界",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "触摸池体验区可亲手触摸海星、海参、鲨鱼卵等海洋生物，在安全范围内感受海洋生命的质感。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "明孝陵",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "明孝陵神道全长800米，研学活动沿线讲解石兽石人的象征意义，孩子完成神道写生与拓印。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区剧院",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京雨花台区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区体育馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京玄武区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区创意园",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "演出",
-    "address": "",
-    "description": "南京鼓楼区的暑期演出体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "总统府",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "总统府曾为太平天国天朝宫殿，研学活动讲解洪秀全与天国兴衰，参观金龙殿遗址。",
-    "source": "南京本地宝"
+    "description": "东庐山为秦淮河发源地之一，徒步登山可探访观音寺与百里秦淮源头，了解南京母亲河的起源。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
   },
   {
     "name": "中华门瓮城",
     "city": "nanjing",
     "district": "秦淮区",
-    "type": "研学",
+    "type": "其他",
     "address": "",
     "description": "中华门段研学深入瓮城内部，讲解藏兵洞与防御体系，孩子参与守城策略沙盘推演。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
   },
   {
-    "name": "珍珠泉风景区",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "珍珠泉野营体验区提供帐篷租赁与烧烤场地，亲子家庭在星空下露营过夜，次日晨起观泉赏景。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区图书馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京雨花台区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京云锦博物馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "云锦博物馆织造体验活动，由非遗传承人现场指导，亲子家庭可上手操作简易织机，织出专属小样。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区会展中心",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京浦口区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区图书馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "演出",
-    "address": "",
-    "description": "南京秦淮区的亲子演出工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区博物馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "演出",
-    "address": "",
-    "description": "南京雨花台区的经典演出探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区图书馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京鼓楼区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区会展中心",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "展览",
-    "address": "",
-    "description": "南京江宁区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京博物院",
+    "name": "中山植物园",
     "city": "nanjing",
     "district": "玄武区",
-    "type": "研学",
+    "type": "植物园",
     "address": "",
-    "description": "由资深讲解员带领亲子家庭深度参观南博镇院之宝，了解战国错金银重络铜壶、东汉广陵王玺金印等国宝背后的故事。",
-    "source": "南京本地宝"
+    "description": "走进热带植物温室，认识见血封喉、面包树、可可等热带奇花异木，了解热带雨林生态系统。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
   },
   {
-    "name": "南京雨花台区文化中心",
+    "name": "中山陵",
     "city": "nanjing",
-    "district": "雨花台区",
-    "type": "影视放映",
+    "district": "玄武区",
+    "type": "其他",
     "address": "",
-    "description": "南京雨花台区的暑期影视放映体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "流徽榭研学讲解这座民国水上建筑的构造之美，孩子在湖畔写生，感受中山陵附属建筑群。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
   },
   {
-    "name": "南京建邺区植物园",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "展览",
-    "address": "",
-    "description": "南京建邺区的解读展览周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区文化馆",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京浦口区的趣味讲座阅读展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区文化中心",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京江宁区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区海洋馆",
+    "name": "五台山体育中心",
     "city": "nanjing",
     "district": "鼓楼区",
-    "type": "演出",
+    "type": "文化中心",
     "address": "",
-    "description": "南京鼓楼区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区文化中心",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京浦口区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "跆拳道培训班教授基本腿法与品势，培养孩子礼仪、自信与自卫能力，可考级认证。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
   },
   {
     "name": "侵华日军南京大屠杀遇难同胞纪念馆",
     "city": "nanjing",
     "district": "建邺区",
-    "type": "研学",
+    "type": "纪念馆",
     "address": "",
     "description": "纪念馆研学在肃穆氛围中铭记历史，参观史料陈列与万人坑遗址，培养孩子珍爱和平的信念。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区体育馆",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京浦口区的梦幻影视放映之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区植物园",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京江宁区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京欢乐谷",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "演出",
-    "address": "",
-    "description": "南京欢乐谷暑期狂欢节延长夜场开放，电音派对、水上乐园、烟花秀轮番上演，掀起夏日狂欢热潮。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区美术馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "展览",
-    "address": "",
-    "description": "南京雨花台区的走进展览日，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区体育馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "展览",
-    "address": "",
-    "description": "南京鼓楼区的探秘展览月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区博物馆",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京高淳区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "南京"
+    ]
   },
   {
     "name": "傅家边",
     "city": "nanjing",
     "district": "溧水区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
     "description": "傅家边农业科技园夏季开放葡萄、蓝莓采摘，亲子体验果园劳作乐趣，采摘水果按斤计价。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
   },
   {
-    "name": "桂子山石柱林",
+    "name": "六朝博物馆",
     "city": "nanjing",
-    "district": "六合区",
-    "type": "研学",
+    "district": "玄武区",
+    "type": "博物馆",
     "address": "",
-    "description": "桂子山石柱林为火山喷发形成的玄武岩石柱，研学讲解地质成因，感受大自然的鬼斧神工。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区科技馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京建邺区的体验亲子活动嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区公园",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "演出",
-    "address": "",
-    "description": "南京栖霞区的探秘演出月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区会展中心",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "演出",
-    "address": "",
-    "description": "南京秦淮区的互动演出科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京平山森林公园",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "平山森林公园徒步穿越水杉林与茶园，山中翠茗湖倒映山林，亲子享受天然氧吧的清新。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "颐和路",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "研学",
-    "address": "",
-    "description": "颐和路十二片区公馆开放参观，研学活动选取代表性建筑深度讲解，孩子绘制建筑速写。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "阅江楼",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "研学",
-    "address": "",
-    "description": "朱元璋故事研学讲述明太祖建都南京的传奇人生，从草莽到帝王，参观阅江楼记碑刻。",
-    "source": "南京本地宝"
+    "description": "六朝博物馆面向9-12岁学生招募小小讲解员，培训六朝历史知识与讲解礼仪，结业后可周末上岗。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
   },
   {
     "name": "南京中国科举博物馆",
     "city": "nanjing",
     "district": "秦淮区",
-    "type": "亲子活动",
+    "type": "博物馆",
     "address": "",
     "description": "每周六开设科举文化专题课堂，讲解科举制度对中国古代社会的影响，搭配号舍实地体验。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
   },
   {
-    "name": "南京绿博园",
+    "name": "南京云锦博物馆",
     "city": "nanjing",
     "district": "建邺区",
-    "type": "亲子活动",
+    "type": "博物馆",
     "address": "",
-    "description": "亲子定向越野使用地图与指北针在绿博园内寻找打卡点，锻炼孩子的方向感与团队协作能力。",
-    "source": "南京本地宝"
+    "description": "云锦博物馆织造体验活动，由非遗传承人现场指导，亲子家庭可上手操作简易织机，织出专属小样。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
   },
   {
-    "name": "渡江胜利纪念馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "研学",
-    "address": "",
-    "description": "五日红色研学营系统学习渡江战役全过程，结合情景剧演绎与口述史访谈，深度理解革命历史。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "东庐山",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "东庐山为秦淮河发源地之一，徒步登山可探访观音寺与百里秦淮源头，了解南京母亲河的起源。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区图书馆",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京溧水区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区博物馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京秦淮区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区体育场",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "展览",
-    "address": "",
-    "description": "南京雨花台区的探索展览演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区青少年宫",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京鼓楼区的精彩讲座阅读节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区博物馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "展览",
-    "address": "",
-    "description": "南京玄武区的周末展览活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区文化馆",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "演出",
-    "address": "",
-    "description": "南京栖霞区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区文化馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京江宁区的探秘科普活动月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区青少年宫",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "演出",
-    "address": "",
-    "description": "南京溧水区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区科技馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京秦淮区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "牛首山文化旅游区",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "牛首山徒步登山线路穿越佛顶宫、佛顶塔与隐龙湖，全程约6公里，适合亲子户外锻炼。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区美术馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京江宁区的沉浸式体育赛事探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区博物馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "演出",
-    "address": "",
-    "description": "南京江宁区的震撼演出发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区美术馆",
+    "name": "南京六合区会展中心",
     "city": "nanjing",
     "district": "六合区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京六合区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区图书馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "展览",
-    "address": "",
-    "description": "南京江宁区的青少年展览讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区博物馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京鼓楼区的发现体育赛事比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区体育馆",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "演出",
-    "address": "",
-    "description": "南京六合区的体验演出嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区植物园",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京秦淮区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区图书馆",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京六合区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "老山国家森林公园",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "研学",
-    "address": "",
-    "description": "植物认知活动由植物学家带领，识别老山常见乔木与灌木，学习植物与环境的相互关系。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "弘阳欢乐世界",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "弘阳欢乐世界集室内外游乐于一体，亲子家庭可一站式体验过山车、摩天轮、旋转木马等项目。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区植物园",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京六合区的精彩影视放映节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区文化中心",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京玄武区的探秘亲子活动月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京地质博物馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "地质博物馆矿物厅开展矿物探秘研学，认识水晶、萤石、孔雀石等矿物，并设置寻宝闯关游戏。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "高淳老街",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "展览",
-    "address": "",
-    "description": "高淳老街非遗市集展销羽扇、陶瓷、螃蟹画等本土非遗与文创，亲子感受慢城手作温度。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "栖霞山风景区",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "研学",
-    "address": "",
-    "description": "千佛岩为南朝石窟造像群，研学讲解造像艺术与南朝佛教文化，孩子临摹造像线条。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区植物园",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京浦口区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区艺术中心",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京江宁区的经典影视放映探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京古生物博物馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "邀请古生物学家开讲达尔文与进化论，结合馆藏标本讲解生物进化证据，激发孩子科学探究兴趣。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区图书馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京玄武区的发现影视放映比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区图书馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "演出",
-    "address": "",
-    "description": "南京建邺区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区美术馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京建邺区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区文化中心",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "演出",
-    "address": "",
-    "description": "南京栖霞区的梦幻演出之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区美术馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京秦淮区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区青少年宫",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "展览",
-    "address": "",
-    "description": "南京建邺区的发现展览比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京城墙博物馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "南京城墙博物馆系统展示明城墙历史与保护，研学活动配合多媒体与实物，完成城墙拼图任务。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区公园",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "演出",
-    "address": "",
-    "description": "南京浦口区的漫游演出季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区文化馆",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "展览",
-    "address": "",
-    "description": "南京六合区的周末展览活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区科技馆",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京溧水区的趣味科普活动展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区体育场",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京栖霞区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区剧院",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "展览",
-    "address": "",
-    "description": "南京玄武区的震撼展览发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "大报恩寺遗址公园",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "研学",
-    "address": "",
-    "description": "琉璃塔文化研学讲述大报恩寺琉璃塔的历史与海外影响，参观出土琉璃构件并完成研学手册。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "金牛湖",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "金牛湖为南京最大人工湖，游船环湖观赏湖光山色，可远眺金牛山，是亲子休闲好去处。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区体育场",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京鼓楼区的互动科普活动科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区科技馆",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京高淳区的周末讲座阅读活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区会展中心",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京玄武区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区艺术中心",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京六合区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区体育场",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京玄武区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区剧院",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京栖霞区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区公园",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京建邺区的儿童体育赛事课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "瞻园",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "研学",
-    "address": "",
-    "description": "太平天国历史博物馆位于瞻园，研学活动结合馆藏文物讲述太平天国兴衰，完成历史时间轴。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区体育场",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京浦口区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区体育馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京雨花台区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "汤山古猿人洞",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "研学",
-    "address": "",
-    "description": "古猿人洞探秘深入葫芦洞喀斯特溶洞，观赏石笋钟乳，了解溶洞形成与古人类栖息环境。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "天生桥",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "天生桥游船沿胭脂河航行，欣赏明代人工开凿的运河与天生石桥奇观，了解古代水利智慧。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区文化馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京秦淮区的体验体育赛事嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区科技馆",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京栖霞区的震撼影视放映发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区海洋馆",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京六合区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区体育场",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京溧水区的走进影视放映日，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区剧院",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京六合区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区美术馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京鼓楼区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区海洋馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京玄武区的走进体育赛事日，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区剧院",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京鼓楼区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区文化馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "演出",
-    "address": "",
-    "description": "南京建邺区的震撼演出发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区青少年宫",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京六合区的解读影视放映周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区科技馆",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京浦口区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区体育馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京秦淮区的沉浸式讲座阅读探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区创意园",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京雨花台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区文化馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京雨花台区的解读科普活动周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区体育馆",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京高淳区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区剧院",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京高淳区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区艺术中心",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京栖霞区的亲子体育赛事工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区会展中心",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京溧水区的震撼亲子活动发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区文化中心",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "展览",
-    "address": "",
-    "description": "南京高淳区的沉浸式展览探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区科技馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "演出",
-    "address": "",
-    "description": "南京江宁区的解读演出周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区动物园",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京秦淮区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区创意园",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京高淳区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区植物园",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京高淳区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区体育馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京建邺区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区会展中心",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "演出",
-    "address": "",
-    "description": "南京建邺区的周末演出活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区创意园",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京建邺区的梦幻科普活动之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区海洋馆",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "展览",
-    "address": "",
-    "description": "南京浦口区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "高淳陶瓷小镇",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "高淳陶瓷小镇陶艺体验，亲子家庭拉坯、捏塑、彩绘，亲手制作专属陶瓷器物并烧制寄送。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区青少年宫",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京江宁区的家庭亲子活动研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "type": "会展中心",
+    "address": "",
+    "description": "南京六合区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
   },
   {
     "name": "南京六合区体育场",
     "city": "nanjing",
     "district": "六合区",
-    "type": "体育赛事",
+    "type": "体育中心",
     "address": "",
     "description": "南京六合区的经典体育赛事探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
   },
   {
-    "name": "南京玄武区创意园",
+    "name": "南京六合区体育馆",
     "city": "nanjing",
-    "district": "玄武区",
-    "type": "体育赛事",
+    "district": "六合区",
+    "type": "体育中心",
     "address": "",
-    "description": "南京玄武区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区公园",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "展览",
-    "address": "",
-    "description": "南京秦淮区的经典展览探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区创意园",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京秦淮区的探索影视放映演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区植物园",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "演出",
-    "address": "",
-    "description": "南京溧水区的发现演出比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区科技馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "展览",
-    "address": "",
-    "description": "南京玄武区的精彩展览节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区美术馆",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京浦口区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "汤山温泉旅游度假区",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "汤山温泉亲子游开放夏日冷泉与常温汤池，设有儿童戏水池与水滑梯，全家泡汤消暑两不误。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区剧院",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "展览",
-    "address": "",
-    "description": "南京溧水区的经典展览探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区文化中心",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京秦淮区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区创意园",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京栖霞区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区海洋馆",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "展览",
-    "address": "",
-    "description": "南京溧水区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区创意园",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "展览",
-    "address": "",
-    "description": "南京浦口区的儿童展览课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区青少年宫",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京秦淮区的周末科普活动活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区博物馆",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "展览",
-    "address": "",
-    "description": "南京溧水区的互动展览科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区青少年宫",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "展览",
-    "address": "",
-    "description": "南京栖霞区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京金箔艺术馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京金箔锻制技艺为国家级非遗，体验活动展示打箔全过程，孩子可亲手为小物件贴金。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区文化中心",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京鼓楼区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区青少年宫",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京雨花台区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区公园",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京玄武区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区博物馆",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京浦口区的解读科普活动周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区艺术中心",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京鼓楼区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京六合区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
   },
   {
     "name": "南京六合区公园",
     "city": "nanjing",
     "district": "六合区",
-    "type": "科普活动",
+    "type": "公园",
     "address": "",
     "description": "南京六合区的探索科普活动演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区动物园",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京六合区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区文化中心",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京溧水区的儿童讲座阅读课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京浦口区艺术中心",
-    "city": "nanjing",
-    "district": "浦口区",
-    "type": "演出",
-    "address": "",
-    "description": "南京浦口区的走进演出日，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "美龄宫",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "美龄宫建筑艺术研学从空中俯瞰如项链上的宝石，讲解其设计巧思与建筑工艺。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "桠溪国际慢城",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "桠溪慢城观光可乘观光车游览大山自然村、桃花扇广场等景点，体验慢城田园生活。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区体育馆",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京栖霞区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区海洋馆",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "演出",
-    "address": "",
-    "description": "南京雨花台区的互动演出科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区图书馆",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京栖霞区的解读讲座阅读周，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区海洋馆",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京高淳区的经典亲子活动探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区体育场",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京建邺区的漫游讲座阅读季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区图书馆",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京高淳区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区体育馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京江宁区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京直立人化石遗址博物馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "研学",
-    "address": "",
-    "description": "直立人化石遗址博物馆研学讲述南京直立人发现过程，参观葫芦洞原始化石出土地点。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区文化馆",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "展览",
-    "address": "",
-    "description": "南京高淳区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区动物园",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "演出",
-    "address": "",
-    "description": "南京鼓楼区的儿童演出课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区植物园",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京雨花台区的青少年亲子活动讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区海洋馆",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京秦淮区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "周园",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "周园为国内最大私人收藏馆，文化游讲解佛教石雕、红木家具与宫殿建筑，感受民间收藏之巨。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区文化馆",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京玄武区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区艺术中心",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京玄武区的互动讲座阅读科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区博物馆",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京栖霞区的走进科普活动日，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京六合区博物馆",
-    "city": "nanjing",
-    "district": "六合区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京六合区的青少年讲座阅读讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区剧院",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京秦淮区的解读亲子活动周，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
   },
   {
     "name": "南京六合区创意园",
     "city": "nanjing",
     "district": "六合区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
     "description": "南京六合区的沉浸式亲子活动探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
   },
   {
-    "name": "南京栖霞区动物园",
+    "name": "南京六合区剧院",
     "city": "nanjing",
-    "district": "栖霞区",
-    "type": "展览",
+    "district": "六合区",
+    "type": "剧场",
     "address": "",
-    "description": "南京栖霞区的趣味展览展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京六合区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
   },
   {
-    "name": "南京浦口区图书馆",
+    "name": "南京六合区动物园",
     "city": "nanjing",
-    "district": "浦口区",
-    "type": "亲子活动",
+    "district": "六合区",
+    "type": "动物园",
     "address": "",
-    "description": "南京浦口区的互动亲子活动科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京六合区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
   },
   {
-    "name": "南京溧水区公园",
+    "name": "南京六合区博物馆",
     "city": "nanjing",
-    "district": "溧水区",
-    "type": "讲座阅读",
+    "district": "六合区",
+    "type": "博物馆",
     "address": "",
-    "description": "南京溧水区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京六合区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
   },
   {
-    "name": "南京高淳区公园",
+    "name": "南京六合区图书馆",
     "city": "nanjing",
-    "district": "高淳区",
-    "type": "展览",
+    "district": "六合区",
+    "type": "图书馆",
     "address": "",
-    "description": "南京高淳区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区艺术中心",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "展览",
-    "address": "",
-    "description": "南京秦淮区的漫游展览季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区动物园",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京江宁区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区公园",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京雨花台区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区艺术中心",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南京雨花台区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区植物园",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京栖霞区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京秦淮区体育场",
-    "city": "nanjing",
-    "district": "秦淮区",
-    "type": "演出",
-    "address": "",
-    "description": "南京秦淮区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京溧水区动物园",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "南京溧水区的梦幻体育赛事之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区剧院",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京建邺区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区科技馆",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "展览",
-    "address": "",
-    "description": "南京鼓楼区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京鼓楼区会展中心",
-    "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京鼓楼区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区博物馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京建邺区的亲子影视放映工作坊，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区体育场",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "演出",
-    "address": "",
-    "description": "南京高淳区的儿童演出课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区艺术中心",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "展览",
-    "address": "",
-    "description": "南京建邺区的精彩展览节，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京建邺区海洋馆",
-    "city": "nanjing",
-    "district": "建邺区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京建邺区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京高淳区动物园",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "影视放映",
-    "address": "",
-    "description": "南京高淳区的体验影视放映嘉年华，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京雨花台区动物园",
-    "city": "nanjing",
-    "district": "雨花台区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京雨花台区的探秘讲座阅读月，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京栖霞区海洋馆",
-    "city": "nanjing",
-    "district": "栖霞区",
-    "type": "科普活动",
-    "address": "",
-    "description": "南京栖霞区的漫游科普活动季，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "鸡鸣寺",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "研学",
-    "address": "",
-    "description": "鸡鸣寺有南朝四百八十寺之首之称，研学讲解寺庙历史与南朝佛教文化，远眺台城城墙。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "无想山",
-    "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "无想山国家森林公园徒步穿越竹海与水库，沿途空气清新，是亲子远离城市喧嚣的清幽去处。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区创意园",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京江宁区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京江宁区海洋馆",
-    "city": "nanjing",
-    "district": "江宁区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京江宁区的探索讲座阅读演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "南京玄武区植物园",
-    "city": "nanjing",
-    "district": "玄武区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "南京玄武区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "南京本地宝"
-  },
-  {
-    "name": "固城湖",
-    "city": "nanjing",
-    "district": "高淳区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "固城湖湿地观鸟活动由观鸟爱好者带领，使用望远镜观察白鹭、苍鹭等水鸟，了解湿地生态。",
-    "source": "南京本地宝"
+    "description": "南京六合区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
   },
   {
     "name": "南京六合区文化中心",
     "city": "nanjing",
     "district": "六合区",
-    "type": "科普活动",
+    "type": "文化中心",
     "address": "",
     "description": "南京六合区的走进科普活动日，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区文化馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京六合区的周末展览活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区植物园",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京六合区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区海洋馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "description": "南京六合区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区科技馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京六合区的探秘演出月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区美术馆",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京六合区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区艺术中心",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京六合区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京六合区青少年宫",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京六合区的解读影视放映周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京博物院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "其他",
+    "address": "",
+    "description": "由资深讲解员带领亲子家庭深度参观南博镇院之宝，了解战国错金银重络铜壶、东汉广陵王玺金印等国宝背后的故事。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京古生物博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "description": "邀请古生物学家开讲达尔文与进化论，结合馆藏标本讲解生物进化证据，激发孩子科学探究兴趣。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京国防园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "description": "国防园国防教育主题活动含升旗仪式、国防知识讲座与武器装备参观，强化全民国防观念。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "图书馆",
+    "address": "",
+    "description": "经典诵读活动带领孩子朗诵唐诗宋词与古文名篇，老师讲解节奏韵律，提升语言感受力。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京地质博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "description": "地质博物馆矿物厅开展矿物探秘研学，认识水晶、萤石、孔雀石等矿物，并设置寻宝闯关游戏。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京城墙博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京城墙博物馆系统展示明城墙历史与保护，研学活动配合多媒体与实物，完成城墙拼图任务。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "文化中心",
+    "address": "",
+    "description": "击剑体验课介绍花剑、佩剑、重剑区别，穿戴装备实战对练，感受优雅与力量并存的剑客运动。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京市博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "",
+    "description": "精选南京市博物馆馆藏元青花、明代金银器等精品文物，开展深度研学课程，辅以文物拓印体验。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京市少年儿童图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "图书馆",
+    "address": "",
+    "description": "亲子手工活动结合绘本主题，制作折纸、黏土等手工作品，培养孩子动手与创造能力。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京平山森林公园",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "公园",
+    "address": "",
+    "description": "平山森林公园徒步穿越水杉林与茶园，山中翠茗湖倒映山林，亲子享受天然氧吧的清新。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区会展中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京建邺区的周末演出活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区体育场",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京建邺区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区体育馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京建邺区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "",
+    "description": "南京建邺区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区创意园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "其他",
+    "address": "",
+    "description": "南京建邺区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区剧院",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京建邺区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区动物园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京建邺区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区博物馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京建邺区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京建邺区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
   },
   {
     "name": "南京建邺区文化中心",
     "city": "nanjing",
     "district": "建邺区",
-    "type": "体育赛事",
+    "type": "文化中心",
     "address": "",
     "description": "南京建邺区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
   },
   {
-    "name": "南京玄武区青少年宫",
+    "name": "南京建邺区文化馆",
     "city": "nanjing",
-    "district": "玄武区",
-    "type": "演出",
+    "district": "建邺区",
+    "type": "文化馆",
     "address": "",
-    "description": "南京玄武区的趣味演出展览，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京建邺区的震撼演出发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
   },
   {
-    "name": "南京玄武区动物园",
+    "name": "南京建邺区植物园",
     "city": "nanjing",
-    "district": "玄武区",
-    "type": "演出",
+    "district": "建邺区",
+    "type": "植物园",
     "address": "",
-    "description": "南京玄武区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京建邺区的解读展览周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
   },
   {
-    "name": "南京鼓楼区公园",
+    "name": "南京建邺区海洋馆",
     "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "亲子活动",
+    "district": "建邺区",
+    "type": "其他",
     "address": "",
-    "description": "南京鼓楼区的走进亲子活动日，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京建邺区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
   },
   {
-    "name": "南京鼓楼区文化馆",
+    "name": "南京建邺区科技馆",
     "city": "nanjing",
-    "district": "鼓楼区",
-    "type": "影视放映",
+    "district": "建邺区",
+    "type": "科技馆",
     "address": "",
-    "description": "南京鼓楼区的家庭影视放映研学营，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京建邺区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
   },
   {
-    "name": "南京溧水区文化馆",
+    "name": "南京建邺区美术馆",
     "city": "nanjing",
-    "district": "溧水区",
-    "type": "亲子活动",
+    "district": "建邺区",
+    "type": "美术馆",
     "address": "",
-    "description": "南京溧水区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京建邺区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
   },
   {
-    "name": "南京浦口区青少年宫",
+    "name": "南京建邺区艺术中心",
     "city": "nanjing",
-    "district": "浦口区",
-    "type": "体育赛事",
+    "district": "建邺区",
+    "type": "艺术中心",
     "address": "",
-    "description": "南京浦口区的震撼体育赛事发现，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京建邺区的精彩展览节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京建邺区青少年宫",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京建邺区的发现展览比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
   },
   {
     "name": "南京栖霞区会展中心",
     "city": "nanjing",
     "district": "栖霞区",
-    "type": "讲座阅读",
+    "type": "会展中心",
     "address": "",
     "description": "南京栖霞区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
   },
   {
-    "name": "南京高淳区艺术中心",
+    "name": "南京栖霞区体育场",
     "city": "nanjing",
-    "district": "高淳区",
-    "type": "科普活动",
+    "district": "栖霞区",
+    "type": "体育中心",
     "address": "",
-    "description": "南京高淳区的青少年科普活动讲座，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京栖霞区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
   },
   {
-    "name": "南京高淳区美术馆",
+    "name": "南京栖霞区体育馆",
     "city": "nanjing",
-    "district": "高淳区",
-    "type": "演出",
+    "district": "栖霞区",
+    "type": "体育中心",
     "address": "",
-    "description": "南京高淳区的探索演出演出，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "description": "南京栖霞区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "",
+    "description": "南京栖霞区的探秘演出月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区创意园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "其他",
+    "address": "",
+    "description": "南京栖霞区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区剧院",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京栖霞区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区动物园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京栖霞区的趣味展览展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区博物馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京栖霞区的走进科普活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区图书馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京栖霞区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区文化中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京栖霞区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区文化馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京栖霞区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区植物园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京栖霞区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区海洋馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "其他",
+    "address": "",
+    "description": "南京栖霞区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区科技馆",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京栖霞区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
   },
   {
     "name": "南京栖霞区美术馆",
     "city": "nanjing",
     "district": "栖霞区",
-    "type": "亲子活动",
+    "type": "美术馆",
     "address": "",
     "description": "南京栖霞区的儿童亲子活动课程，适合亲子家庭参与。",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区艺术中心",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京栖霞区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京栖霞区青少年宫",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京栖霞区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京欢乐谷",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "其他",
+    "address": "",
+    "description": "南京欢乐谷暑期狂欢节延长夜场开放，电音派对、水上乐园、烟花秀轮番上演，掀起夏日狂欢热潮。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区会展中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京江宁区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区体育场",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京江宁区的发现展览比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区体育馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京江宁区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区公园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "公园",
+    "address": "",
+    "description": "南京江宁区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区创意园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "description": "南京江宁区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区剧院",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京江宁区的精彩演出节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区动物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京江宁区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区博物馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京江宁区的震撼演出发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区图书馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京江宁区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区文化中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京江宁区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区文化馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京江宁区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区植物园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京江宁区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区海洋馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "description": "南京江宁区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区科技馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京江宁区的解读演出周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区美术馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京江宁区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区艺术中心",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京江宁区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京江宁区青少年宫",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京江宁区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区会展中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京浦口区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区体育场",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京浦口区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区体育馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京浦口区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "",
+    "description": "南京浦口区的漫游演出季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区创意园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "其他",
+    "address": "",
+    "description": "南京浦口区的儿童展览课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区剧院",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京浦口区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区动物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京浦口区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区博物馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京浦口区的解读科普活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区图书馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京浦口区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区文化中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京浦口区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区文化馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京浦口区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区植物园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京浦口区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区海洋馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "其他",
+    "address": "",
+    "description": "南京浦口区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区科技馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京浦口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区美术馆",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京浦口区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区艺术中心",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京浦口区的走进演出日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京浦口区青少年宫",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京浦口区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京海底世界",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "其他",
+    "address": "",
+    "description": "触摸池体验区可亲手触摸海星、海参、鲨鱼卵等海洋生物，在安全范围内感受海洋生命的质感。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区会展中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京溧水区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区体育场",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京溧水区的走进影视放映日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区体育馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京溧水区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区公园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "公园",
+    "address": "",
+    "description": "南京溧水区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区创意园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "description": "南京溧水区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区剧院",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京溧水区的经典展览探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区动物园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京溧水区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区博物馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京溧水区的互动展览科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区图书馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京溧水区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区文化中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京溧水区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区文化馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京溧水区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区植物园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京溧水区的发现演出比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区海洋馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "description": "南京溧水区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区科技馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京溧水区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区美术馆",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京溧水区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区艺术中心",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京溧水区的解读演出周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京溧水区青少年宫",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京溧水区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区会展中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京玄武区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区体育场",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京玄武区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区体育馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京玄武区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "",
+    "description": "南京玄武区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区创意园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "其他",
+    "address": "",
+    "description": "南京玄武区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区剧院",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京玄武区的震撼展览发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京玄武区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京玄武区的周末展览活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区图书馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京玄武区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区文化中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京玄武区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区文化馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京玄武区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区植物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京玄武区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区海洋馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "其他",
+    "address": "",
+    "description": "南京玄武区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区科技馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京玄武区的精彩展览节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区美术馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京玄武区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区艺术中心",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京玄武区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京玄武区青少年宫",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京玄武区的趣味演出展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京直立人化石遗址博物馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "博物馆",
+    "address": "",
+    "description": "直立人化石遗址博物馆研学讲述南京直立人发现过程，参观葫芦洞原始化石出土地点。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "科技馆",
+    "address": "",
+    "description": "机械原理实验通过齿轮、杠杆、滑轮等教具，让孩子在动手拼装中理解简单机械的工作原理。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区会展中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京秦淮区的互动演出科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区体育场",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京秦淮区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区体育馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京秦淮区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "公园",
+    "address": "",
+    "description": "南京秦淮区的经典展览探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区创意园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "description": "南京秦淮区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区剧院",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京秦淮区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区动物园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京秦淮区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区博物馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京秦淮区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区图书馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京秦淮区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区文化中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京秦淮区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区文化馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京秦淮区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区植物园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京秦淮区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区海洋馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "description": "南京秦淮区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区科技馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京秦淮区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区美术馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京秦淮区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区艺术中心",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京秦淮区的漫游展览季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京秦淮区青少年宫",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京秦淮区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京绿博园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "其他",
+    "address": "",
+    "description": "亲子定向越野使用地图与指北针在绿博园内寻找打卡点，锻炼孩子的方向感与团队协作能力。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京金箔艺术馆",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "description": "南京金箔锻制技艺为国家级非遗，体验活动展示打箔全过程，孩子可亲手为小物件贴金。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区会展中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京雨花台区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区体育场",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京雨花台区的探索展览演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区体育馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京雨花台区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区公园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "公园",
+    "address": "",
+    "description": "南京雨花台区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区创意园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "其他",
+    "address": "",
+    "description": "南京雨花台区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区剧院",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京雨花台区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区动物园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京雨花台区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区博物馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京雨花台区的经典演出探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区图书馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京雨花台区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区文化中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京雨花台区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区文化馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京雨花台区的解读科普活动周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区植物园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京雨花台区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区海洋馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "其他",
+    "address": "",
+    "description": "南京雨花台区的互动演出科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京雨花台区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区美术馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京雨花台区的走进展览日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区艺术中心",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京雨花台区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京雨花台区青少年宫",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京雨花台区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区会展中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京高淳区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区体育场",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京高淳区的儿童演出课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区体育馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京高淳区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区公园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "公园",
+    "address": "",
+    "description": "南京高淳区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区创意园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "南京高淳区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区剧院",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京高淳区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区动物园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京高淳区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区博物馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京高淳区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区图书馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京高淳区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区文化中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京高淳区的沉浸式展览探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区文化馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京高淳区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区植物园",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京高淳区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区海洋馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "南京高淳区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区科技馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京高淳区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区美术馆",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京高淳区的探索演出演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区艺术中心",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京高淳区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京高淳区青少年宫",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京高淳区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区会展中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "会展中心",
+    "address": "",
+    "description": "南京鼓楼区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区体育场",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京鼓楼区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区体育馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "体育中心",
+    "address": "",
+    "description": "南京鼓楼区的探秘展览月，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区公园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "公园",
+    "address": "",
+    "description": "南京鼓楼区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区创意园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "description": "南京鼓楼区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区剧院",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "剧场",
+    "address": "",
+    "description": "南京鼓楼区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区动物园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "动物园",
+    "address": "",
+    "description": "南京鼓楼区的儿童演出课程，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区博物馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "博物馆",
+    "address": "",
+    "description": "南京鼓楼区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区图书馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "图书馆",
+    "address": "",
+    "description": "南京鼓楼区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区文化中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "文化中心",
+    "address": "",
+    "description": "南京鼓楼区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区文化馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "文化馆",
+    "address": "",
+    "description": "南京鼓楼区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区植物园",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "植物园",
+    "address": "",
+    "description": "南京鼓楼区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区海洋馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "description": "南京鼓楼区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区科技馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "科技馆",
+    "address": "",
+    "description": "南京鼓楼区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区美术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "美术馆",
+    "address": "",
+    "description": "南京鼓楼区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区艺术中心",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "南京鼓楼区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "南京"
+    ]
+  },
+  {
+    "name": "南京鼓楼区青少年宫",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京鼓楼区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "周园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "description": "周园为国内最大私人收藏馆，文化游讲解佛教石雕、红木家具与宫殿建筑，感受民间收藏之巨。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "固城湖",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "固城湖湿地观鸟活动由观鸟爱好者带领，使用望远镜观察白鹭、苍鹭等水鸟，了解湿地生态。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "大报恩寺遗址公园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "公园",
+    "address": "",
+    "description": "琉璃塔文化研学讲述大报恩寺琉璃塔的历史与海外影响，参观出土琉璃构件并完成研学手册。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "大金山国防园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "description": "大金山军事夏令营五日营含军事训练、野外生存与CS对抗，让孩子在军事化生活中磨炼意志。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "天生桥",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "description": "天生桥游船沿胭脂河航行，欣赏明代人工开凿的运河与天生石桥奇观，了解古代水利智慧。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "夫子庙秦淮风光带",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "寺庙",
+    "address": "",
+    "description": "南京鸭文化体验在夫子庙老字号店铺讲述南京人食鸭千年历史，亲子家庭可观摩盐水鸭制作。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "弘阳欢乐世界",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "其他",
+    "address": "",
+    "description": "弘阳欢乐世界集室内外游乐于一体，亲子家庭可一站式体验过山车、摩天轮、旋转木马等项目。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "总统府",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "其他",
+    "address": "",
+    "description": "总统府曾为太平天国天朝宫殿，研学活动讲解洪秀全与天国兴衰，参观金龙殿遗址。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "无想山",
+    "city": "nanjing",
+    "district": "溧水区",
+    "type": "其他",
+    "address": "",
+    "description": "无想山国家森林公园徒步穿越竹海与水库，沿途空气清新，是亲子远离城市喧嚣的清幽去处。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "明孝陵",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "其他",
+    "address": "",
+    "description": "明孝陵神道全长800米，研学活动沿线讲解石兽石人的象征意义，孩子完成神道写生与拓印。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "栖霞山风景区",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "",
+    "description": "千佛岩为南朝石窟造像群，研学讲解造像艺术与南朝佛教文化，孩子临摹造像线条。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "桂子山石柱林",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "description": "桂子山石柱林为火山喷发形成的玄武岩石柱，研学讲解地质成因，感受大自然的鬼斧神工。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "桠溪国际慢城",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "桠溪慢城观光可乘观光车游览大山自然村、桃花扇广场等景点，体验慢城田园生活。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "梅园新村纪念馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "纪念馆",
+    "address": "",
+    "description": "梅园新村小小讲解员培训班面向9-13岁学生，培训国共谈判史与讲解技能，结业后周末上岗。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "江宁织造博物馆",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "博物馆",
+    "address": "",
+    "description": "经纬书签手作活动展示古代织造流程，孩子可操作小型织布机织出书签，感受经纬交错的智慧。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "description": "夜宿江苏科技馆，在展品间搭建帐篷，开展夜探展品、科学影院、密室闯关等夜间专属活动。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "汤山古猿人洞",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "description": "古猿人洞探秘深入葫芦洞喀斯特溶洞，观赏石笋钟乳，了解溶洞形成与古人类栖息环境。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "汤山温泉旅游度假区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "度假区",
+    "address": "",
+    "description": "汤山温泉亲子游开放夏日冷泉与常温汤池，设有儿童戏水池与水滑梯，全家泡汤消暑两不误。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "度假区",
+      "南京"
+    ]
+  },
+  {
+    "name": "渡江胜利纪念馆",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "纪念馆",
+    "address": "",
+    "description": "五日红色研学营系统学习渡江战役全过程，结合情景剧演绎与口述史访谈，深度理解革命历史。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "纪念馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "游子山",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "游子山为高淳第一高峰，登山步道平缓适合亲子，山顶可俯瞰固城湖与高淳全貌。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "牛首山文化旅游区",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "description": "牛首山徒步登山线路穿越佛顶宫、佛顶塔与隐龙湖，全程约6公里，适合亲子户外锻炼。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "公园",
+    "address": "",
+    "description": "玄武湖环湖绿道亲子骑行活动，沿湖欣赏湖光山色，全程约10公里，适合家庭休闲运动。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "玛雅海滩水公园",
+    "city": "nanjing",
+    "district": "栖霞区",
+    "type": "公园",
+    "address": "",
+    "description": "每周末水上电音节邀请知名DJ现场打碟，搭配激光灯光与水幕秀，打造夏日最潮水上派对。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "珍珠泉风景区",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "",
+    "description": "珍珠泉野营体验区提供帐篷租赁与烧烤场地，亲子家庭在星空下露营过夜，次日晨起观泉赏景。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "瞻园",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "description": "太平天国历史博物馆位于瞻园，研学活动结合馆藏文物讲述太平天国兴衰，完成历史时间轴。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "秦淮非遗馆",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "description": "南京泥人手作体验，用惠山泥塑造憨态可掬的小动物，学习捏塑与彩绘技法，作品可带走。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "红山森林动物园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "动物园",
+    "address": "",
+    "description": "灵长类科普专场，介绍猩猩、长臂猿、猕猴等灵长类动物的智慧与社会行为，观察族群互动。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "南京"
+    ]
+  },
+  {
+    "name": "美龄宫",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "寺庙",
+    "address": "",
+    "description": "美龄宫建筑艺术研学从空中俯瞰如项链上的宝石，讲解其设计巧思与建筑工艺。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
+  },
+  {
+    "name": "老山国家森林公园",
+    "city": "nanjing",
+    "district": "浦口区",
+    "type": "公园",
+    "address": "",
+    "description": "植物认知活动由植物学家带领，识别老山常见乔木与灌木，学习植物与环境的相互关系。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "老门东",
+    "city": "nanjing",
+    "district": "秦淮区",
+    "type": "其他",
+    "address": "",
+    "description": "老门东历史街区推出民俗体验活动，糖画、捏面人、草编等老手艺现场展示，孩子可付费参与。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "莫愁湖公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "",
+    "description": "植物寻宝活动发放寻宝地图，亲子家庭按图索骥寻找园内特色植物，集齐印章兑换奖品。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "金牛湖",
+    "city": "nanjing",
+    "district": "六合区",
+    "type": "其他",
+    "address": "",
+    "description": "金牛湖为南京最大人工湖，游船环湖观赏湖光山色，可远眺金牛山，是亲子休闲好去处。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "金陵图书馆",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "图书馆",
+    "address": "",
+    "description": "科普阅读推荐优秀少儿科普读物，配合简单科学实验演示，让孩子在阅读中探索科学奥秘。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "南京"
+    ]
+  },
+  {
+    "name": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "主题乐园",
+    "address": "",
+    "description": "银杏湖主题夏令营结合游乐与自然探索，白天玩项目，夜晚观星露营，丰富孩子暑期生活。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "南京"
+    ]
+  },
+  {
+    "name": "阅江楼",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "description": "朱元璋故事研学讲述明太祖建都南京的传奇人生，从草莽到帝王，参观阅江楼记碑刻。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "阳山碑材",
+    "city": "nanjing",
+    "district": "江宁区",
+    "type": "其他",
+    "address": "",
+    "description": "阳山碑材为明成祖朱棣开凿的天下第一碑，研学讲解碑材开采过程与历史谜团，感受古代工程奇迹。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "type": "其他",
+    "address": "",
+    "description": "五日红色夏令营结合雨花英烈学习与军事训练，培养孩子坚强意志与家国情怀，全程免费。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "青奥公园",
+    "city": "nanjing",
+    "district": "建邺区",
+    "type": "公园",
+    "address": "",
+    "description": "青奥公园定向越野设置家庭组，使用地图寻找打卡点，锻炼孩子读图与决策能力。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "南京"
+    ]
+  },
+  {
+    "name": "颐和路",
+    "city": "nanjing",
+    "district": "鼓楼区",
+    "type": "其他",
+    "address": "",
+    "description": "颐和路十二片区公馆开放参观，研学活动选取代表性建筑深度讲解，孩子绘制建筑速写。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "高淳老街",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "高淳老街非遗市集展销羽扇、陶瓷、螃蟹画等本土非遗与文创，亲子感受慢城手作温度。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "高淳陶瓷小镇",
+    "city": "nanjing",
+    "district": "高淳区",
+    "type": "其他",
+    "address": "",
+    "description": "高淳陶瓷小镇陶艺体验，亲子家庭拉坯、捏塑、彩绘，亲手制作专属陶瓷器物并烧制寄送。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "南京"
+    ]
+  },
+  {
+    "name": "鸡鸣寺",
+    "city": "nanjing",
+    "district": "玄武区",
+    "type": "寺庙",
+    "address": "",
+    "description": "鸡鸣寺有南朝四百八十寺之首之称，研学讲解寺庙历史与南朝佛教文化，远眺台城城墙。",
+    "source": "南京本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "南京"
+    ]
   }
 ]

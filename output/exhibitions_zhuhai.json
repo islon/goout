@@ -19,7 +19,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "香洲区"
   },
   {
     "title": "传统艺文和民俗文化展",
@@ -41,7 +42,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "香洲区"
   },
   {
     "title": "共同的记忆——珠海城市变迁展",
@@ -63,7 +65,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "香洲区"
   },
   {
     "title": "珠海规划展览馆城市记忆展",
@@ -80,7 +83,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海规划展览馆"
+    "source": "珠海规划展览馆",
+    "district": "香洲区"
   },
   {
     "title": "国家方志馆大湾区记忆展",
@@ -97,7 +101,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家方志馆"
+    "source": "国家方志馆",
+    "district": "香洲区"
   },
   {
     "title": "景山公园缆车观景体验",
@@ -131,7 +136,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "金湾区"
   },
   {
     "title": "金湾区博物馆林伟民主题陈列展",
@@ -148,7 +154,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "金湾区"
   },
   {
     "title": "金湾文物展",
@@ -165,7 +172,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "金湾区"
   },
   {
     "title": "斗门区博物馆历史展",
@@ -182,7 +190,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区博物馆"
+    "source": "斗门区博物馆",
+    "district": "斗门区"
   },
   {
     "title": "手作·造物——现代手工艺师生作品展",
@@ -199,7 +208,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "金湾区"
   },
   {
     "title": "童心向党——金湾区青少儿艺术花会优秀作品展",
@@ -216,7 +226,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "金湾区"
   },
   {
     "title": "珠海市图书馆暑期阅读季",
@@ -238,7 +249,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "district": "香洲区"
   },
   {
     "title": "珠海市文化馆公益艺术培训",
@@ -260,7 +272,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "香洲区"
   },
   {
     "title": "古元美术馆版画艺术展",
@@ -282,7 +295,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "香洲区"
   },
   {
     "title": "香山文化艺术中心暑期展览",
@@ -299,7 +313,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香山文化艺术中心"
+    "source": "香山文化艺术中心",
+    "district": "香洲区"
   },
   {
     "title": "圆明新园夏日文化游园会",
@@ -316,7 +331,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明新园"
+    "source": "圆明新园",
+    "district": "香洲区"
   },
   {
     "title": "海滨公园亲子户外活动",
@@ -333,7 +349,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海海滨公园"
+    "source": "珠海海滨公园",
+    "district": "香洲区"
   },
   {
     "title": "汤臣倍健透明工厂参观",
@@ -355,7 +372,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "汤臣倍健透明工厂"
+    "source": "汤臣倍健透明工厂",
+    "district": "金湾区"
   },
   {
     "title": "海泉湾夏日温泉度假活动",
@@ -377,7 +395,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海海泉湾度假区"
+    "source": "珠海海泉湾度假区",
+    "district": "金湾区"
   },
   {
     "title": "斗门旧街历史文化游览",
@@ -394,7 +413,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门旧街"
+    "source": "斗门旧街",
+    "district": "斗门区"
   },
   {
     "title": "金台寺夏日祈福活动",
@@ -411,7 +431,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金台寺"
+    "source": "金台寺",
+    "district": "斗门区"
   },
   {
     "title": "御温泉夏日亲子活动",
@@ -433,7 +454,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "御温泉"
+    "source": "御温泉",
+    "district": "斗门区"
   },
   {
     "title": "珠海长隆海洋王国夏日狂欢节",
@@ -455,7 +477,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "横琴新区"
   },
   {
     "title": "长隆海洋幻彩烟花秀",
@@ -477,7 +500,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "横琴新区"
   },
   {
     "title": "长隆飞船乐园宇宙探索之旅",
@@ -499,7 +523,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆飞船乐园"
+    "source": "珠海长隆飞船乐园",
+    "district": "横琴新区"
   },
   {
     "title": "长隆横琴剧院《长隆秀》",
@@ -521,7 +546,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆横琴剧院"
+    "source": "珠海长隆横琴剧院",
+    "district": "横琴新区"
   },
   {
     "title": "横琴金融岛夜景游览",
@@ -538,7 +564,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴金融岛"
+    "source": "横琴金融岛",
+    "district": "横琴新区"
   },
   {
     "title": "斗门区图书馆暑期阅读活动",
@@ -555,7 +582,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区图书馆"
+    "source": "斗门区图书馆",
+    "district": "斗门区"
   },
   {
     "title": "横琴文化艺术中心艺术展览",
@@ -572,7 +600,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴文化艺术中心"
+    "source": "横琴文化艺术中心",
+    "district": "横琴新区"
   },
   {
     "title": "梅溪牌坊历史文化讲解",
@@ -589,7 +618,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅溪牌坊"
+    "source": "梅溪牌坊",
+    "district": "香洲区"
   },
   {
     "title": "金湾区图书馆暑期阅读营",
@@ -606,7 +636,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "金湾区"
   },
   {
     "title": "斗门区文化馆暑期公益培训",
@@ -623,7 +654,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "district": "斗门区"
   },
   {
     "title": "星乐度露营小镇夏日露营节",
@@ -645,7 +677,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "星乐度露营小镇"
+    "source": "星乐度露营小镇",
+    "district": "横琴新区"
   },
   {
     "title": "广东省第一次全国可移动文物普查成果图片展",
@@ -662,7 +695,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "金湾区"
   },
   {
     "title": "珠海博物馆暑期亲子讲解活动",
@@ -684,7 +718,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "香洲区"
   },
   {
     "title": "齐白石真迹展",
@@ -706,7 +741,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "香洲区"
   },
   {
     "title": "珠海青少年妇女儿童活动中心暑期班",
@@ -723,7 +759,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市青少年妇女儿童活动中心"
+    "source": "珠海市青少年妇女儿童活动中心",
+    "district": "香洲区"
   },
   {
     "title": "珠海国际会展中心暑期展览",
@@ -745,7 +782,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "district": "香洲区"
   },
   {
     "title": "金湾区文化馆非遗体验活动",
@@ -762,7 +800,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "金湾区"
   },
   {
     "title": "金湾体育中心暑期游泳班",
@@ -779,7 +818,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾体育中心"
+    "source": "金湾体育中心",
+    "district": "金湾区"
   },
   {
     "title": "斗门体育中心暑期运动营",
@@ -796,7 +836,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门体育中心"
+    "source": "斗门体育中心",
+    "district": "斗门区"
   },
   {
     "title": "横琴口岸免税购物节",
@@ -813,7 +854,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴口岸"
+    "source": "横琴口岸",
+    "district": "横琴新区"
   },
   {
     "title": "三灶镇文化中心暑期少儿活动",
@@ -830,7 +872,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "三灶镇文化中心"
+    "source": "三灶镇文化中心",
+    "district": "金湾区"
   },
   {
     "title": "横琴湿地公园自然教育活动",
@@ -847,7 +890,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴湿地公园"
+    "source": "横琴湿地公园",
+    "district": "横琴新区"
   },
   {
     "title": "珠海博物馆夜间开放活动",
@@ -869,7 +913,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "香洲区"
   },
   {
     "title": "珠海市文化馆非遗展示活动",
@@ -891,7 +936,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "香洲区"
   },
   {
     "title": "珠海工人文化宫职工文化节",
@@ -908,7 +954,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海市工人文化宫"
+    "source": "珠海市工人文化宫",
+    "district": "香洲区"
   },
   {
     "title": "金湾艺术中心夏季演出季",
@@ -925,7 +972,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "金湾艺术中心"
+    "source": "金湾艺术中心",
+    "district": "金湾区"
   },
   {
     "title": "斗门非遗展示馆水上婚嫁展示",
@@ -942,7 +990,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门非遗展示馆"
+    "source": "斗门非遗展示馆",
+    "district": "斗门区"
   },
   {
     "title": "横琴花海长廊骑行活动",
@@ -959,7 +1008,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴花海长廊"
+    "source": "横琴花海长廊",
+    "district": "横琴新区"
   },
   {
     "title": "古元美术馆少儿美术工作坊",
@@ -981,7 +1031,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "香洲区"
   },
   {
     "title": "金湾区文化馆公益舞蹈培训",
@@ -998,7 +1049,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "金湾区"
   },
   {
     "title": "珠海大剧院交响乐演出季",
@@ -1020,7 +1072,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "district": "香洲区"
   },
   {
     "title": "华发商都夏日文化市集",
@@ -1037,7 +1090,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华发商都"
+    "source": "华发商都",
+    "district": "香洲区"
   },
   {
     "title": "井岸镇文化中心社区活动",
@@ -1054,7 +1108,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "井岸镇文化中心"
+    "source": "井岸镇文化中心",
+    "district": "斗门区"
   },
   {
     "title": "长隆海洋王国海洋科普讲堂",
@@ -1076,7 +1131,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "横琴新区"
   },
   {
     "title": "珠海市图书馆古诗词鉴赏讲座",
@@ -1098,7 +1154,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "district": "香洲区"
   },
   {
     "title": "香山文化艺术中心少儿才艺展演",
@@ -1115,7 +1172,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香山文化艺术中心"
+    "source": "香山文化艺术中心",
+    "district": "香洲区"
   },
   {
     "title": "当代艺术邀请展",
@@ -1137,7 +1195,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "香洲区"
   },
   {
     "title": "珠海市文化馆书画展览",
@@ -1159,7 +1218,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "香洲区"
   },
   {
     "title": "长隆飞船乐园亲子科学实验秀",
@@ -1181,7 +1241,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆飞船乐园"
+    "source": "珠海长隆飞船乐园",
+    "district": "横琴新区"
   },
   {
     "title": "珠海大剧院亲子音乐剧",
@@ -1203,7 +1264,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "district": "香洲区"
   },
   {
     "title": "金海岸文化艺术中心社区文艺汇演",
@@ -1220,7 +1282,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金海岸文化艺术中心"
+    "source": "金海岸文化艺术中心",
+    "district": "金湾区"
   },
   {
     "title": "横琴文化艺术中心亲子工作坊",
@@ -1237,7 +1300,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴文化艺术中心"
+    "source": "横琴文化艺术中心",
+    "district": "横琴新区"
   },
   {
     "title": "珠海博物馆考古体验活动",
@@ -1259,7 +1323,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "香洲区"
   },
   {
     "title": "斗门区文化馆粤剧表演",
@@ -1276,7 +1341,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "district": "斗门区"
   },
   {
     "title": "珠海市图书馆电影放映活动",
@@ -1298,7 +1364,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "district": "香洲区"
   },
   {
     "title": "金湾区博物馆小小讲解员培训",
@@ -1315,7 +1382,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "金湾区"
   },
   {
     "title": "黄杨山登山活动",
@@ -1332,7 +1400,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "黄杨山"
+    "source": "黄杨山",
+    "district": "斗门区"
   },
   {
     "title": "珠海大剧院话剧演出",
@@ -1354,7 +1423,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "district": "香洲区"
   },
   {
     "title": "金湾区图书馆英语角活动",
@@ -1371,7 +1441,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "金湾区"
   },
   {
     "title": "星乐度露营小镇星空观测活动",
@@ -1393,7 +1464,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "星乐度露营小镇"
+    "source": "星乐度露营小镇",
+    "district": "横琴新区"
   },
   {
     "title": "珠海市文化馆广场舞大赛",
@@ -1415,7 +1487,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "香洲区"
   },
   {
     "title": "斗门区图书馆亲子阅读会",
@@ -1432,7 +1505,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区图书馆"
+    "source": "斗门区图书馆",
+    "district": "斗门区"
   },
   {
     "title": "香山文化艺术中心交响音乐会",
@@ -1449,7 +1523,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "香山文化艺术中心"
+    "source": "香山文化艺术中心",
+    "district": "香洲区"
   },
   {
     "title": "金湾区文化馆摄影展",
@@ -1466,7 +1541,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "金湾区"
   },
   {
     "title": "斗门区博物馆小小讲解员",
@@ -1483,7 +1559,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区博物馆"
+    "source": "斗门区博物馆",
+    "district": "斗门区"
   },
   {
     "title": "横琴湿地公园观鸟活动",
@@ -1500,7 +1577,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴湿地公园"
+    "source": "横琴湿地公园",
+    "district": "横琴新区"
   },
   {
     "title": "珠海大剧院芭蕾舞演出",
@@ -1522,7 +1600,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "district": "香洲区"
   },
   {
     "title": "斗门旧街美食文化节",
@@ -1539,7 +1618,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门旧街"
+    "source": "斗门旧街",
+    "district": "斗门区"
   },
   {
     "title": "圆明新园传统文化表演",
@@ -1556,7 +1636,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明新园"
+    "source": "圆明新园",
+    "district": "香洲区"
   },
   {
     "title": "金湾体育中心篮球邀请赛",
@@ -1573,7 +1654,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾体育中心"
+    "source": "金湾体育中心",
+    "district": "金湾区"
   },
   {
     "title": "长隆横琴剧院国际马戏节",
@@ -1595,7 +1677,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆横琴剧院"
+    "source": "珠海长隆横琴剧院",
+    "district": "横琴新区"
   },
   {
     "title": "珠海国际会展中心动漫展",
@@ -1617,7 +1700,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "district": "香洲区"
   },
   {
     "title": "金台寺禅修体验",
@@ -1634,7 +1718,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金台寺"
+    "source": "金台寺",
+    "district": "斗门区"
   },
   {
     "title": "华发商都露天音乐会",
@@ -1651,7 +1736,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华发商都"
+    "source": "华发商都",
+    "district": "香洲区"
   },
   {
     "title": "御温泉夏日花火大会",
@@ -1673,7 +1759,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "御温泉"
+    "source": "御温泉",
+    "district": "斗门区"
   },
   {
     "title": "景山公园日出观景活动",
@@ -1707,7 +1794,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "district": "斗门区"
   },
   {
     "title": "横琴花海长廊摄影比赛",
@@ -1724,7 +1812,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴花海长廊"
+    "source": "横琴花海长廊",
+    "district": "横琴新区"
   },
   {
     "title": "斗门体育中心足球邀请赛",
@@ -1741,7 +1830,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门体育中心"
+    "source": "斗门体育中心",
+    "district": "斗门区"
   },
   {
     "title": "井岸镇文化中心书画展",
@@ -1758,7 +1848,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "井岸镇文化中心"
+    "source": "井岸镇文化中心",
+    "district": "斗门区"
   },
   {
     "title": "横琴文化艺术中心音乐会",
@@ -1775,7 +1866,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴文化艺术中心"
+    "source": "横琴文化艺术中心",
+    "district": "横琴新区"
   },
   {
     "title": "长隆海洋王国万圣节主题活动",
@@ -1797,7 +1889,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "横琴新区"
   },
   {
     "title": "横琴国际网球中心WTA超级精英赛",
@@ -1819,6 +1912,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴国际网球中心"
+    "source": "横琴国际网球中心",
+    "district": "横琴新区"
   }
 ]

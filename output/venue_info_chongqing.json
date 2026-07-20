@@ -1,2306 +1,4354 @@
 [
   {
-    "name": "重庆中国三峡博物馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "通过手工制作与互动游戏，让亲子家庭了解三峡地区传统民俗与节庆文化。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆园博园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "研学",
-    "address": "",
-    "description": "研学导师带领解读各展园造园手法，学习中国古典园林艺术精髓。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆少年儿童图书馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "每周开展折纸、黏土、剪纸等手工活动，培养孩子动手能力与创造力。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区植物园",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆武隆区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区动物园",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆北碚区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区科技馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆巴南区的趣味科普活动展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆科技馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "学习基础图形化编程，操控机器人完成指定任务，启蒙计算思维能力。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆动物园",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "走进虎、狮、豹等猛兽展区，由饲养员讲解猛兽保护与繁育故事。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "洪崖洞",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "川剧演员现场演示变脸绝技，讲解脸谱色彩寓意，指导绘制脸谱。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆图书馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "亲子共读指导活动，阅读推广人分享亲子共读技巧与书单推荐。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆际华园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "室内攀岩挑战赛设不同难度赛道，按完成时间排名颁发奖品。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆融创乐园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "演出",
-    "address": "",
-    "description": "融创乐园夜场含烟火秀与灯光巡游，夜晚游乐项目别有梦幻氛围。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区体育场",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆大渡口区的经典体育赛事探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区会展中心",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆北碚区的震撼亲子活动发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区文化馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆北碚区的家庭影视放映研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区体育馆",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆大足区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区剧院",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆江北区的经典展览探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆工业博物馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "研学",
-    "address": "",
-    "description": "走进老重钢厂房，了解重庆工业发展史，体验机械原理互动展项。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "彩云湖湿地公园",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "携带望远镜观察湿地候鸟与留鸟，学习鸟类辨识技巧与湿地生态知识。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆融创海世界",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "演出",
-    "address": "",
-    "description": "海豚在训练员指挥下完成高空跳跃、顶球等动作，与观众亲密互动。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆汉海海洋公园",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "触摸池可亲手触摸海星、海参、鲎等海洋生物，寓教于乐了解海洋生态。",
-    "source": "重庆本地宝"
-  },
-  {
     "name": "仙女山国家森林公园",
     "city": "chongqing",
     "district": "武隆区",
-    "type": "研学",
+    "type": "公园",
     "address": "",
     "description": "五日森林探险营，含丛林穿越、溯溪与野外生存技能学习。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "南山植物园",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南山植物园夜游，观察夜间开花植物与夜行昆虫，体验不一样的植物园。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区美术馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆江北区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区植物园",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆大足区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "缙云山自然保护区",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "研学",
-    "address": "",
-    "description": "五日森林夏令营，在缙云山开展自然观察、溯溪探险与生态保护实践。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆欢乐海底世界",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "展览",
-    "address": "",
-    "description": "梦幻水母宫展出海月水母、彩色水母等，配合彩色灯光营造梦幻氛围。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "白公馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "研学",
-    "address": "",
-    "description": "走进白公馆旧址，聆听革命烈士事迹，开展爱国主义教育研学。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区公园",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆南岸区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "湖广会馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "蜀绣传承人指导基本针法，参与者完成一幅蜀绣小作品带回家。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "鹅岭公园",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "鹅岭公园夜间开放，园内灯光与瞰胜楼夜景相映成趣，纳凉观景两不误。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区青少年宫",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆武隆区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区会展中心",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆沙坪坝区的互动演出科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆融创雪世界",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "室内滑雪场全年恒温零下，含初级与中级雪道，夏日也能享受滑雪乐趣。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区艺术中心",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆两江新区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区海洋馆",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆大足区的经典亲子活动探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区创意园",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆渝中区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆自然博物馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "在恐龙展厅搭帐篷过夜，体验博物馆奇妙夜，含夜间探索与晨间讲解活动。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "磁器口古镇",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "了解荣昌折扇百年工艺，亲手组装并绘制扇面，制作专属折扇。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区文化中心",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆大渡口区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆中央公园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "轮滑教练现场教学，提供护具与轮滑鞋租赁，适合初学者体验。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "武隆喀斯特",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "研学",
-    "address": "",
-    "description": "探秘亚洲最大天生桥群，三座天然石桥气势磅礴，感受鬼斧神工。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "南山",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "在南山露天火锅店边吃火锅边赏夜景，麻辣鲜香配山城灯火，巴适得很。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区文化中心",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆沙坪坝区的走进科普活动日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区科技馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆九龙坡区的周末讲座阅读活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区海洋馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆渝中区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "歌乐山国家森林公园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "沿着歌乐山步道徒步登山，沿途欣赏森林风光，登顶俯瞰山城景色。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区体育场",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆大足区的解读影视放映周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区文化馆",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆大足区的体验体育赛事嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区图书馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆江北区的青少年展览讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区海洋馆",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆两江新区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区公园",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆武隆区的探秘演出月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "渣滓洞",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "研学",
-    "address": "",
-    "description": "参观渣滓洞监狱旧址，了解狱中斗争历史，缅怀革命先烈。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区图书馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆北碚区的解读讲座阅读周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区艺术中心",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆渝北区的走进演出日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区文化中心",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆渝中区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区动物园",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆大足区的儿童演出课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区创意园",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆南岸区的探索影视放映演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区创意园",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆北碚区的儿童展览课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区植物园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆沙坪坝区的发现演出比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区科技馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆渝北区的震撼影视放映发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区创意园",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆大足区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区博物馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆渝北区的青少年讲座阅读讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区美术馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆巴南区的沉浸式体育赛事探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "南山一棵树观景台",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "南山一棵树观景台是观赏重庆夜景的最佳地点，整个山城灯火尽收眼底。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "江北嘴",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "江北嘴中央商务区高楼灯光联动，对望渝中半岛，构成重庆最美天际线。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区动物园",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆大渡口区的体验影视放映嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区海洋馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆北碚区的走进体育赛事日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "十八梯",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "糖画艺人现场示范，指导用热糖浆绘制生肖图案，甜蜜又有趣。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆红岩革命历史博物馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "研学",
-    "address": "",
-    "description": "走进红岩村十三军办事处旧址，了解周恩来等革命家在渝工作生活。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆奥体中心",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "羽毛球基础与提高训练营，含步伐、挥拍与战术教学，适合青少年。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区图书馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆沙坪坝区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "金佛山",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "在金佛山原始森林漫步呼吸负氧离子，开展森林疗愈与自然冥想。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "南滨路",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "漫步南滨路江边步道，对岸渝中半岛灯火辉煌，是观赏夜景绝佳位置。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区图书馆",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆南岸区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区青少年宫",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆两江新区的周末科普活动活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区文化馆",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆武隆区的周末展览活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区剧院",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆沙坪坝区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区体育场",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆武隆区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区公园",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆南川区的走进亲子活动日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区科技馆",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆南川区的家庭体育赛事研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区文化中心",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆江北区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "歌乐山烈士陵园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "在烈士陵园举行祭扫仪式，敬献花圈，重温革命先烈英勇事迹。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区会展中心",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆武隆区的精彩科普活动节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区艺术中心",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆南川区的经典影视放映探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区图书馆",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆两江新区的互动亲子活动科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区体育馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆九龙坡区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区图书馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆九龙坡区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区博物馆",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆南岸区的互动展览科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆火锅博物馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "讲述重庆火锅的起源与江湖故事，揭秘麻辣鲜香背后的饮食文化密码。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区会展中心",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆江北区的解读体育赛事周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区文化馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆九龙坡区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区艺术中心",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆渝中区的青少年科普活动讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆欢乐谷",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "邀请过山车爱好者挑战木质过山车与翼飞过山车，设挑战证书与纪念品。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "大足石刻",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "研学",
-    "address": "",
-    "description": "重点考察宝顶山摩崖造像，讲解千手观音与卧佛等代表性造像故事。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区动物园",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆武隆区的梦幻体育赛事之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区动物园",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆两江新区的趣味展览展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "江北嘴中央公园",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "组织江边慢跑活动，沿江北嘴江岸线跑步，欣赏两江夜景与城市天际线。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区图书馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆巴南区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区会展中心",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆两江新区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区剧院",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆巴南区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆美术馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "学习版画基础知识，亲手完成一幅版画拓印作品，感受版画艺术魅力。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区海洋馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆大渡口区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区创意园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆渝北区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区科技馆",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆两江新区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区美术馆",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆两江新区的探索演出演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区体育馆",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆南川区的体验演出嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区博物馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆北碚区的经典演出探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区体育场",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆九龙坡区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "铁山坪森林公园",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "在森林中开展定向越野与障碍挑战，锻炼孩子体能与团队协作能力。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "周公馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "研学",
-    "address": "",
-    "description": "参观曾家岩周公馆，了解中共南方局在国统区的统战工作历史。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区动物园",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆江北区的探秘讲座阅读月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区文化中心",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆九龙坡区的暑期影视放映体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区文化馆",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆南岸区的趣味讲座阅读展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区博物馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆江北区的走进科普活动日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区文化馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆大渡口区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区体育场",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆沙坪坝区的探索展览演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区青少年宫",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆巴南区的解读影视放映周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区美术馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆大渡口区的走进展览日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区体育馆",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆南岸区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区植物园",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆北碚区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区图书馆",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆大足区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆欢乐谷玛雅海滩水公园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "专为儿童设计的浅水戏水区，含迷你滑道、水蘑菇、喷水小品等设施。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区创意园",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆九龙坡区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区青少年宫",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆江北区的趣味演出展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区会展中心",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆大渡口区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆建川博物馆聚落",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "研学",
-    "address": "",
-    "description": "深入兵工署旧址洞穴展馆，了解抗战时期兵器制造历史与军工技术发展。",
-    "source": "重庆本地宝"
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
   },
   {
     "name": "北滨路",
     "city": "chongqing",
     "district": "江北区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
     "description": "北滨路江边健步走活动，倡导健康生活方式，适合全年龄段参与。",
-    "source": "重庆本地宝"
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆渝中区公园",
+    "name": "十八梯",
     "city": "chongqing",
     "district": "渝中区",
-    "type": "影视放映",
+    "type": "其他",
     "address": "",
-    "description": "重庆渝中区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "糖画艺人现场示范，指导用热糖浆绘制生肖图案，甜蜜又有趣。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆渝中区图书馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆渝中区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区艺术中心",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆大足区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "朝天门广场",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "在朝天门广场欣赏两江交汇夜景，灯光倒映江面，城市天际线璀璨。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区文化中心",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆南川区的儿童讲座阅读课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区体育场",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆两江新区的漫游讲座阅读季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区动物园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆沙坪坝区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区体育场",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆江北区的互动科普活动科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区剧院",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆渝北区的解读亲子活动周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区剧院",
+    "name": "南山",
     "city": "chongqing",
     "district": "南岸区",
-    "type": "体育赛事",
+    "type": "其他",
     "address": "",
-    "description": "重庆南岸区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "在南山露天火锅店边吃火锅边赏夜景，麻辣鲜香配山城灯火，巴适得很。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆渝中区会展中心",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆渝中区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区文化馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆巴南区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区文化馆",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆南川区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "桂园",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "研学",
-    "address": "",
-    "description": "走进桂园旧址，了解重庆谈判历史背景与双十协定签署过程。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区植物园",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆江北区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区会展中心",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆渝北区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区艺术中心",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆巴南区的互动讲座阅读科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区剧院",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆大足区的发现科普活动比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区动物园",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆渝中区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区会展中心",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆九龙坡区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区科技馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆沙坪坝区的体验亲子活动嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区体育场",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆南川区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区博物馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆大渡口区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆国际马戏城",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "演出",
-    "address": "",
-    "description": "马戏城夜场呈现精彩马戏与杂技表演，含高空绸吊与动物表演，适合全家。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区科技馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆大渡口区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区文化馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆渝北区的探秘科普活动月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区体育馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆巴南区的探秘展览月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区剧院",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆两江新区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区文化中心",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆大足区的梦幻演出之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区公园",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆九龙坡区的探索科普活动演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区植物园",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆南川区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区美术馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆九龙坡区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区艺术中心",
+    "name": "南山一棵树观景台",
     "city": "chongqing",
     "district": "南岸区",
-    "type": "科普活动",
+    "type": "其他",
     "address": "",
-    "description": "重庆南岸区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "南山一棵树观景台是观赏重庆夜景的最佳地点，整个山城灯火尽收眼底。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆江北区科技馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆江北区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区青少年宫",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆北碚区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区剧院",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆南川区的震撼展览发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区文化中心",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆武隆区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区艺术中心",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆北碚区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区艺术中心",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆江北区的精彩展览节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区文化中心",
+    "name": "南山植物园",
     "city": "chongqing",
     "district": "南岸区",
-    "type": "亲子活动",
+    "type": "植物园",
     "address": "",
-    "description": "重庆南岸区的探秘亲子活动月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "南山植物园夜游，观察夜间开花植物与夜行昆虫，体验不一样的植物园。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆巴南区海洋馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆巴南区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区创意园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆沙坪坝区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大剧院",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆大剧院夜晚灯光变幻，建筑如玻璃宝石闪耀江边，是江北嘴地标。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区博物馆",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆巴南区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区海洋馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆渝北区的互动演出科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区艺术中心",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆沙坪坝区的亲子体育赛事工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区创意园",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆武隆区的暑期演出体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区海洋馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆江北区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区公园",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆沙坪坝区的经典展览探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区体育馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆沙坪坝区的梦幻影视放映之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区海洋馆",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆武隆区的探索讲座阅读演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区创意园",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆大渡口区的梦幻科普活动之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区体育馆",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆武隆区的走进演出日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区美术馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆北碚区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区海洋馆",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆南川区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区科技馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆渝中区的探秘演出月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区植物园",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆大渡口区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区文化馆",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆两江新区的解读科普活动周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区图书馆",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆武隆区的发现影视放映比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区美术馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆渝中区的儿童亲子活动课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "鹅岭二厂",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "鹅岭二厂文创园夜游，工业风建筑配霓虹灯光，文艺青年打卡圣地。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区美术馆",
+    "name": "南滨路",
     "city": "chongqing",
     "district": "南岸区",
-    "type": "科普活动",
+    "type": "其他",
     "address": "",
-    "description": "重庆南岸区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "漫步南滨路江边步道，对岸渝中半岛灯火辉煌，是观赏夜景绝佳位置。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆渝北区图书馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆渝北区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区体育场",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆北碚区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区美术馆",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆武隆区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区科技馆",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆南岸区的解读演出周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区公园",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆北碚区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区青少年宫",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆渝北区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区青少年宫",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆南岸区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区体育场",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆巴南区的儿童演出课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区海洋馆",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆南岸区的漫游科普活动季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区剧院",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆北碚区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区美术馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆沙坪坝区的暑期科普活动体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区剧院",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆武隆区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区艺术中心",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆大渡口区的解读演出周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区科技馆",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆北碚区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南岸区动物园",
-    "city": "chongqing",
-    "district": "南岸区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆南岸区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区创意园",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆两江新区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区体育馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆大渡口区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区图书馆",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆大渡口区的亲子演出工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区青少年宫",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆九龙坡区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区文化馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆沙坪坝区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区海洋馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆九龙坡区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区公园",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆两江新区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区植物园",
+    "name": "周公馆",
     "city": "chongqing",
     "district": "渝中区",
-    "type": "展览",
+    "type": "其他",
     "address": "",
-    "description": "重庆渝中区的解读展览周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区公园",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆大足区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区动物园",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆南川区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆武隆区博物馆",
-    "city": "chongqing",
-    "district": "武隆区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆武隆区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区科技馆",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆大足区的精彩展览节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区动物园",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆巴南区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区美术馆",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆南川区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区体育馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆渝北区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区公园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆渝北区的儿童体育赛事课程，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区艺术中心",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆九龙坡区的漫游展览季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区公园",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆大渡口区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区动物园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆渝北区的探索展览演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区博物馆",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆南川区的解读科普活动周，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区体育馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆渝中区的沉浸式讲座阅读探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区体育场",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆渝中区的走进影视放映日，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区会展中心",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆南川区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区剧院",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆渝中区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区植物园",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆渝北区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区青少年宫",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆渝中区的震撼体育赛事发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆北碚区文化中心",
-    "city": "chongqing",
-    "district": "北碚区",
-    "type": "科普活动",
-    "address": "",
-    "description": "重庆北碚区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆南川区青少年宫",
-    "city": "chongqing",
-    "district": "南川区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆南川区的发现展览比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区会展中心",
-    "city": "chongqing",
-    "district": "大足区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆大足区的家庭展览研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区博物馆",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆九龙坡区的发现体育赛事比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区植物园",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "影视放映",
-    "address": "",
-    "description": "重庆两江新区的精彩影视放映节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大渡口区青少年宫",
-    "city": "chongqing",
-    "district": "大渡口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆大渡口区的家庭亲子活动研学营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区植物园",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆巴南区的青少年亲子活动讲座，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "参观曾家岩周公馆，了解中共南方局在国统区的统战工作历史。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
     "name": "国泰艺术中心",
     "city": "chongqing",
     "district": "渝中区",
-    "type": "演出",
+    "type": "艺术中心",
     "address": "",
     "description": "国泰艺术中心夜场演出季，含交响乐、话剧与儿童剧，建筑夜景同样精彩。",
-    "source": "重庆本地宝"
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆九龙坡区植物园",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆九龙坡区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区体育馆",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆江北区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区公园",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆巴南区的漫游演出季，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝中区博物馆",
-    "city": "chongqing",
-    "district": "渝中区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆渝中区的周末展览活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆江北区创意园",
-    "city": "chongqing",
-    "district": "江北区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "重庆江北区的沉浸式亲子活动探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆巴南区文化中心",
-    "city": "chongqing",
-    "district": "巴南区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆巴南区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆九龙坡区剧院",
-    "city": "chongqing",
-    "district": "九龙坡区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆九龙坡区的精彩演出节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区青少年宫",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "重庆沙坪坝区的精彩讲座阅读节，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆渝北区美术馆",
-    "city": "chongqing",
-    "district": "渝北区",
-    "type": "展览",
-    "address": "",
-    "description": "重庆渝北区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆沙坪坝区博物馆",
-    "city": "chongqing",
-    "district": "沙坪坝区",
-    "type": "演出",
-    "address": "",
-    "description": "重庆沙坪坝区的震撼演出发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆两江新区体育馆",
-    "city": "chongqing",
-    "district": "两江新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "重庆两江新区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "重庆本地宝"
-  },
-  {
-    "name": "重庆大足区博物馆",
+    "name": "大足石刻",
     "city": "chongqing",
     "district": "大足区",
-    "type": "影视放映",
+    "type": "其他",
     "address": "",
-    "description": "重庆大足区的亲子影视放映工作坊，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "重点考察宝顶山摩崖造像，讲解千手观音与卧佛等代表性造像故事。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆江北区文化馆",
+    "name": "彩云湖湿地公园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "公园",
+    "address": "",
+    "description": "携带望远镜观察湿地候鸟与留鸟，学习鸟类辨识技巧与湿地生态知识。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "朝天门广场",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "广场",
+    "address": "",
+    "description": "在朝天门广场欣赏两江交汇夜景，灯光倒映江面，城市天际线璀璨。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "广场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "桂园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "走进桂园旧址，了解重庆谈判历史背景与双十协定签署过程。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "歌乐山国家森林公园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "",
+    "description": "沿着歌乐山步道徒步登山，沿途欣赏森林风光，登顶俯瞰山城景色。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "歌乐山烈士陵园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "其他",
+    "address": "",
+    "description": "在烈士陵园举行祭扫仪式，敬献花圈，重温革命先烈英勇事迹。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "武隆喀斯特",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "其他",
+    "address": "",
+    "description": "探秘亚洲最大天生桥群，三座天然石桥气势磅礴，感受鬼斧神工。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "江北嘴",
     "city": "chongqing",
     "district": "江北区",
-    "type": "演出",
+    "type": "其他",
     "address": "",
-    "description": "重庆江北区的震撼演出发现，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "江北嘴中央商务区高楼灯光联动，对望渝中半岛，构成重庆最美天际线。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "江北嘴中央公园",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "",
+    "description": "组织江边慢跑活动，沿江北嘴江岸线跑步，欣赏两江夜景与城市天际线。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "洪崖洞",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "川剧演员现场演示变脸绝技，讲解脸谱色彩寓意，指导绘制脸谱。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "渣滓洞",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "其他",
+    "address": "",
+    "description": "参观渣滓洞监狱旧址，了解狱中斗争历史，缅怀革命先烈。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "湖广会馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "蜀绣传承人指导基本针法，参与者完成一幅蜀绣小作品带回家。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "白公馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "其他",
+    "address": "",
+    "description": "走进白公馆旧址，聆听革命烈士事迹，开展爱国主义教育研学。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "磁器口古镇",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "历史文化景点",
+    "address": "",
+    "description": "了解荣昌折扇百年工艺，亲手组装并绘制扇面，制作专属折扇。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "历史文化景点",
+      "重庆"
+    ]
+  },
+  {
+    "name": "缙云山自然保护区",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "其他",
+    "address": "",
+    "description": "五日森林夏令营，在缙云山开展自然观察、溯溪探险与生态保护实践。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
     "name": "解放碑步行街",
     "city": "chongqing",
     "district": "渝中区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
     "description": "夜游解放碑步行街，霓虹闪烁商圈繁华，感受重庆都市夜生活魅力。",
-    "source": "重庆本地宝"
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
   },
   {
-    "name": "重庆南岸区体育场",
+    "name": "重庆两江新区会展中心",
     "city": "chongqing",
-    "district": "南岸区",
-    "type": "展览",
+    "district": "两江新区",
+    "type": "会展中心",
     "address": "",
-    "description": "重庆南岸区的发现展览比赛，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "description": "重庆两江新区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区体育场",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆两江新区的漫游讲座阅读季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区体育馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆两江新区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区公园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆两江新区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区创意园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆两江新区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区剧院",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆两江新区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区动物园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆两江新区的趣味展览展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区图书馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆两江新区的互动亲子活动科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区文化馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆两江新区的解读科普活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区植物园",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆两江新区的精彩影视放映节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区海洋馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆两江新区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区科技馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆两江新区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区美术馆",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆两江新区的探索演出演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区艺术中心",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆两江新区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆两江新区青少年宫",
+    "city": "chongqing",
+    "district": "两江新区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆两江新区的周末科普活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆中国三峡博物馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "",
+    "description": "通过手工制作与互动游戏，让亲子家庭了解三峡地区传统民俗与节庆文化。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆中央公园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "",
+    "description": "轮滑教练现场教学，提供护具与轮滑鞋租赁，适合初学者体验。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区会展中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆九龙坡区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区体育场",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆九龙坡区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区体育馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆九龙坡区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区公园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆九龙坡区的探索科普活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区创意园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆九龙坡区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区剧院",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆九龙坡区的精彩演出节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区博物馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆九龙坡区的发现体育赛事比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区图书馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆九龙坡区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区文化中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆九龙坡区的暑期影视放映体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区文化馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆九龙坡区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区植物园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆九龙坡区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区海洋馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆九龙坡区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区科技馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆九龙坡区的周末讲座阅读活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区美术馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆九龙坡区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区艺术中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆九龙坡区的漫游展览季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆九龙坡区青少年宫",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆九龙坡区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆动物园",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "动物园",
+    "address": "",
+    "description": "走进虎、狮、豹等猛兽展区，由饲养员讲解猛兽保护与繁育故事。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区会展中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆北碚区的震撼亲子活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区体育场",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆北碚区的青少年演出讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区公园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆北碚区的梦幻展览之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区创意园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆北碚区的儿童展览课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区剧院",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆北碚区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区动物园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆北碚区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区博物馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆北碚区的经典演出探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区图书馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆北碚区的解读讲座阅读周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区文化中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆北碚区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区文化馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆北碚区的家庭影视放映研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区植物园",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆北碚区的趣味亲子活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区海洋馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆北碚区的走进体育赛事日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区科技馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆北碚区的发现亲子活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区美术馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆北碚区的互动体育赛事科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区艺术中心",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆北碚区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆北碚区青少年宫",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆北碚区的探秘影视放映月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
   },
   {
     "name": "重庆南岸区会展中心",
     "city": "chongqing",
     "district": "南岸区",
-    "type": "演出",
+    "type": "会展中心",
     "address": "",
     "description": "重庆南岸区的周末演出活动，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区体育场",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆南岸区的发现展览比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区体育馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆南岸区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区公园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆南岸区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区创意园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆南岸区的探索影视放映演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区剧院",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆南岸区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区动物园",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆南岸区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区博物馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆南岸区的互动展览科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区图书馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆南岸区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区文化中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆南岸区的探秘亲子活动月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区文化馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆南岸区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区海洋馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆南岸区的漫游科普活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区科技馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆南岸区的解读演出周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区美术馆",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆南岸区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区艺术中心",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆南岸区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南岸区青少年宫",
+    "city": "chongqing",
+    "district": "南岸区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆南岸区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区会展中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆南川区的探秘体育赛事月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区体育场",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆南川区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区体育馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆南川区的体验演出嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区公园",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆南川区的走进亲子活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区剧院",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆南川区的震撼展览发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区动物园",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆南川区的精彩体育赛事节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区博物馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆南川区的解读科普活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区文化中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆南川区的儿童讲座阅读课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区文化馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆南川区的沉浸式演出探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区植物园",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆南川区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区海洋馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆南川区的青少年影视放映讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区科技馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆南川区的家庭体育赛事研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区美术馆",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆南川区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区艺术中心",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆南川区的经典影视放映探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆南川区青少年宫",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆南川区的发现展览比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆园博园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "description": "研学导师带领解读各展园造园手法，学习中国古典园林艺术精髓。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆国际马戏城",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "其他",
+    "address": "",
+    "description": "马戏城夜场呈现精彩马戏与杂技表演，含高空绸吊与动物表演，适合全家。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆图书馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "图书馆",
+    "address": "",
+    "description": "亲子共读指导活动，阅读推广人分享亲子共读技巧与书单推荐。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大剧院",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆大剧院夜晚灯光变幻，建筑如玻璃宝石闪耀江边，是江北嘴地标。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区会展中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆大渡口区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区体育场",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆大渡口区的经典体育赛事探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区体育馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆大渡口区的儿童科普活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区公园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆大渡口区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区创意园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆大渡口区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区动物园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆大渡口区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区博物馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆大渡口区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区图书馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆大渡口区的亲子演出工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区文化中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆大渡口区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区文化馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆大渡口区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区植物园",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆大渡口区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区海洋馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆大渡口区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区科技馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆大渡口区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区美术馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆大渡口区的走进展览日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区艺术中心",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆大渡口区的解读演出周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大渡口区青少年宫",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆大渡口区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区会展中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆大足区的家庭展览研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区体育场",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆大足区的解读影视放映周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区体育馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆大足区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区公园",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆大足区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区创意园",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆大足区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区剧院",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆大足区的发现科普活动比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区动物园",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆大足区的儿童演出课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区博物馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆大足区的亲子影视放映工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区图书馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆大足区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区文化中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆大足区的梦幻演出之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区文化馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆大足区的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区植物园",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆大足区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区海洋馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆大足区的经典亲子活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区科技馆",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆大足区的精彩展览节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆大足区艺术中心",
+    "city": "chongqing",
+    "district": "大足区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆大足区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆奥体中心",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "体育中心",
+    "address": "",
+    "description": "羽毛球基础与提高训练营，含步伐、挥拍与战术教学，适合青少年。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆少年儿童图书馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "图书馆",
+    "address": "",
+    "description": "每周开展折纸、黏土、剪纸等手工活动，培养孩子动手能力与创造力。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆工业博物馆",
+    "city": "chongqing",
+    "district": "大渡口区",
+    "type": "博物馆",
+    "address": "",
+    "description": "走进老重钢厂房，了解重庆工业发展史，体验机械原理互动展项。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区体育场",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆巴南区的儿童演出课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区体育馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆巴南区的探秘展览月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区公园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆巴南区的漫游演出季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区剧院",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆巴南区的周末影视放映活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区动物园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆巴南区的震撼科普活动发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区博物馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆巴南区的精彩亲子活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区图书馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆巴南区的走进讲座阅读日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区文化中心",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆巴南区的探索体育赛事演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区文化馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆巴南区的暑期展览体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区植物园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆巴南区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区海洋馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆巴南区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区科技馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆巴南区的趣味科普活动展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区美术馆",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆巴南区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区艺术中心",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆巴南区的互动讲座阅读科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆巴南区青少年宫",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆巴南区的解读影视放映周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆建川博物馆聚落",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "",
+    "description": "深入兵工署旧址洞穴展馆，了解抗战时期兵器制造历史与军工技术发展。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆欢乐海底世界",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "梦幻水母宫展出海月水母、彩色水母等，配合彩色灯光营造梦幻氛围。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆欢乐谷",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "description": "邀请过山车爱好者挑战木质过山车与翼飞过山车，设挑战证书与纪念品。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆欢乐谷玛雅海滩水公园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "",
+    "description": "专为儿童设计的浅水戏水区，含迷你滑道、水蘑菇、喷水小品等设施。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区会展中心",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆武隆区的精彩科普活动节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区体育场",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆武隆区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区体育馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆武隆区的走进演出日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区公园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆武隆区的探秘演出月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区创意园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆武隆区的暑期演出体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区剧院",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆武隆区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区动物园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆武隆区的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区博物馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆武隆区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区图书馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆武隆区的发现影视放映比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区文化中心",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆武隆区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区文化馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆武隆区的周末展览活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区植物园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆武隆区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区海洋馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆武隆区的探索讲座阅读演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区美术馆",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆武隆区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆武隆区青少年宫",
+    "city": "chongqing",
+    "district": "武隆区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆武隆区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆汉海海洋公园",
+    "city": "chongqing",
+    "district": "巴南区",
+    "type": "公园",
+    "address": "",
+    "description": "触摸池可亲手触摸海星、海参、鲎等海洋生物，寓教于乐了解海洋生态。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区会展中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆江北区的解读体育赛事周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区体育场",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆江北区的互动科普活动科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区体育馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆江北区的探索亲子活动演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区创意园",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆江北区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区剧院",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆江北区的经典展览探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区动物园",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆江北区的探秘讲座阅读月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区博物馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆江北区的走进科普活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区图书馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆江北区的青少年展览讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区文化中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆江北区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区文化馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆江北区的震撼演出发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区植物园",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆江北区的周末体育赛事活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区海洋馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆江北区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区科技馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆江北区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区美术馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆江北区的漫游影视放映季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区艺术中心",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆江北区的精彩展览节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆江北区青少年宫",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆江北区的趣味演出展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区会展中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆沙坪坝区的互动演出科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区体育场",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆沙坪坝区的探索展览演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区体育馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆沙坪坝区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区公园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆沙坪坝区的经典展览探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区创意园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆沙坪坝区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区剧院",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆沙坪坝区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区动物园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆沙坪坝区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区博物馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆沙坪坝区的震撼演出发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区图书馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆沙坪坝区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区文化中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆沙坪坝区的走进科普活动日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区文化馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆沙坪坝区的儿童影视放映课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区植物园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆沙坪坝区的发现演出比赛，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区科技馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆沙坪坝区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区美术馆",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆沙坪坝区的暑期科普活动体验营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区艺术中心",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆沙坪坝区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆沙坪坝区青少年宫",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆沙坪坝区的精彩讲座阅读节，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区会展中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆渝中区的亲子展览工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区体育场",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆渝中区的走进影视放映日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区体育馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆渝中区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区公园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆渝中区的互动影视放映科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区创意园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆渝中区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区剧院",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆渝中区的趣味体育赛事展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区动物园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆渝中区的家庭演出研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区博物馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆渝中区的周末展览活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区图书馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆渝中区的经典科普活动探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区文化中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "文化中心",
+    "address": "",
+    "description": "重庆渝中区的漫游亲子活动季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区植物园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆渝中区的解读展览周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区海洋馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆渝中区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区科技馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆渝中区的探秘演出月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区美术馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆渝中区的儿童亲子活动课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区艺术中心",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆渝中区的青少年科普活动讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝中区青少年宫",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆渝中区的震撼体育赛事发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区会展中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "会展中心",
+    "address": "",
+    "description": "重庆渝北区的趣味影视放映展览，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "视展览而定",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "会展中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区体育馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "体育中心",
+    "address": "",
+    "description": "重庆渝北区的家庭科普活动研学营，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "体育中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区公园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "公园",
+    "address": "",
+    "description": "重庆渝北区的儿童体育赛事课程，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区创意园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆渝北区的漫游体育赛事季，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区剧院",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "剧场",
+    "address": "",
+    "description": "重庆渝北区的解读亲子活动周，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "剧场",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区动物园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "动物园",
+    "address": "",
+    "description": "重庆渝北区的探索展览演出，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "动物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区博物馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "博物馆",
+    "address": "",
+    "description": "重庆渝北区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区图书馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "图书馆",
+    "address": "",
+    "description": "重庆渝北区的周末亲子活动活动，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "图书馆",
+      "重庆"
+    ]
   },
   {
     "name": "重庆渝北区文化中心",
     "city": "chongqing",
     "district": "渝北区",
-    "type": "展览",
+    "type": "文化中心",
     "address": "",
     "description": "重庆渝北区的沉浸式展览探索，适合亲子家庭参与。",
-    "source": "重庆本地宝"
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区文化馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "文化馆",
+    "address": "",
+    "description": "重庆渝北区的探秘科普活动月，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "文化馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区植物园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "植物园",
+    "address": "",
+    "description": "重庆渝北区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "植物园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区海洋馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "description": "重庆渝北区的互动演出科普，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区科技馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "科技馆",
+    "address": "",
+    "description": "重庆渝北区的震撼影视放映发现，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区美术馆",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "美术馆",
+    "address": "",
+    "description": "重庆渝北区的体验展览嘉年华，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区艺术中心",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "艺术中心",
+    "address": "",
+    "description": "重庆渝北区的走进演出日，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "艺术中心",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆渝北区青少年宫",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "寺庙",
+    "address": "",
+    "description": "重庆渝北区的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "寺庙",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆火锅博物馆",
+    "city": "chongqing",
+    "district": "九龙坡区",
+    "type": "博物馆",
+    "address": "",
+    "description": "讲述重庆火锅的起源与江湖故事，揭秘麻辣鲜香背后的饮食文化密码。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆科技馆",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "科技馆",
+    "address": "",
+    "description": "学习基础图形化编程，操控机器人完成指定任务，启蒙计算思维能力。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "科技馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆红岩革命历史博物馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "博物馆",
+    "address": "",
+    "description": "走进红岩村十三军办事处旧址，了解周恩来等革命家在渝工作生活。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆美术馆",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "美术馆",
+    "address": "",
+    "description": "学习版画基础知识，亲手完成一幅版画拓印作品，感受版画艺术魅力。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "美术馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆自然博物馆",
+    "city": "chongqing",
+    "district": "北碚区",
+    "type": "博物馆",
+    "address": "",
+    "description": "在恐龙展厅搭帐篷过夜，体验博物馆奇妙夜，含夜间探索与晨间讲解活动。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "博物馆",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆融创乐园",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "主题乐园",
+    "address": "",
+    "description": "融创乐园夜场含烟火秀与灯光巡游，夜晚游乐项目别有梦幻氛围。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "收费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "主题乐园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆融创海世界",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "其他",
+    "address": "",
+    "description": "海豚在训练员指挥下完成高空跳跃、顶球等动作，与观众亲密互动。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆融创雪世界",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "type": "其他",
+    "address": "",
+    "description": "室内滑雪场全年恒温零下，含初级与中级雪道，夏日也能享受滑雪乐趣。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "重庆际华园",
+    "city": "chongqing",
+    "district": "渝北区",
+    "type": "其他",
+    "address": "",
+    "description": "室内攀岩挑战赛设不同难度赛道，按完成时间排名颁发奖品。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "金佛山",
+    "city": "chongqing",
+    "district": "南川区",
+    "type": "其他",
+    "address": "",
+    "description": "在金佛山原始森林漫步呼吸负氧离子，开展森林疗愈与自然冥想。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "铁山坪森林公园",
+    "city": "chongqing",
+    "district": "江北区",
+    "type": "公园",
+    "address": "",
+    "description": "在森林中开展定向越野与障碍挑战，锻炼孩子体能与团队协作能力。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
+  },
+  {
+    "name": "鹅岭二厂",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "其他",
+    "address": "",
+    "description": "鹅岭二厂文创园夜游，工业风建筑配霓虹灯光，文艺青年打卡圣地。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "其他",
+      "重庆"
+    ]
+  },
+  {
+    "name": "鹅岭公园",
+    "city": "chongqing",
+    "district": "渝中区",
+    "type": "公园",
+    "address": "",
+    "description": "鹅岭公园夜间开放，园内灯光与瞰胜楼夜景相映成趣，纳凉观景两不误。",
+    "source": "重庆本地宝",
+    "status": "auto",
+    "fee": "免费",
+    "transport": "",
+    "official_url": "",
+    "highlights": [
+      "公园",
+      "重庆"
+    ]
   }
 ]
