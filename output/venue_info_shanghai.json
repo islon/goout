@@ -13,7 +13,8 @@
     "links": [],
     "highlights": [
       "中国古代艺术"
-    ]
+    ],
+    "status": "curated"
   },
   {
     "name": "上海科技馆",
@@ -30,4436 +31,1042 @@
     "highlights": [
       "科学实验",
       "互动体验"
-    ]
+    ],
+    "status": "curated"
   },
   {
     "name": "上海自然博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "博物馆",
-    "address": "静安区北京西路510号",
-    "transport": "地铁13号线自然博物馆站",
-    "fee": "收费",
-    "description": "亚洲最大自然博物馆之一，恐龙模型、非洲动物展区逼真，互动装置多，如化石挖掘体验。",
-    "official_url": "",
-    "highlights": [
-      "恐龙化石",
-      "非洲动物",
-      "化石挖掘",
-      "互动"
-    ]
-  },
-  {
-    "name": "上海天文馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "科普馆",
-    "address": "浦东新区南汇新城环湖北三路388号",
-    "transport": "地铁16号线滴水湖站",
-    "fee": "收费",
-    "description": "世界最大的天文馆，有球幕影院、太阳系展区、宇宙探索等互动展项，适合天文爱好者。",
-    "official_url": "",
-    "highlights": [
-      "球幕影院",
-      "太阳系",
-      "宇宙探索",
-      "互动"
-    ]
-  },
-  {
-    "name": "上海儿童博物馆",
-    "source": "上海本地宝",
+    "source": "auto_sha_v",
     "city": "shanghai",
     "district": "长宁区",
     "type": "博物馆",
-    "address": "长宁区宋园路61号",
-    "transport": "地铁10号线宋园路站",
+    "address": "",
+    "transport": "",
     "fee": "免费",
-    "description": "专为3-10岁儿童设计，有太空舱模拟、航海体验区，免费且人少。",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
     "official_url": "",
-    "highlights": [
-      "太空舱",
-      "航海体验",
-      "免费",
-      "儿童专属"
-    ]
-  },
-  {
-    "name": "上海地铁博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "博物馆",
-    "address": "闵行区吴中路1799-7号",
-    "transport": "地铁10号线龙溪路站",
-    "fee": "免费",
-    "description": "中国第一家展示城市轨道交通发展历程的专业展馆，有模拟驾驶、VR互动体验等项目。",
-    "official_url": "",
-    "highlights": [
-      "地铁发展",
-      "模拟驾驶",
-      "VR体验",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海海洋水族馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "科普馆",
-    "address": "浦东新区陆家嘴环路1388号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "展示各种海洋生物，有海底隧道、鲨鱼馆、水母馆等，适合亲子海洋探索。",
-    "official_url": "",
-    "highlights": [
-      "海底隧道",
-      "鲨鱼",
-      "水母",
-      "海洋生物"
-    ]
-  },
-  {
-    "name": "上海海昌海洋公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区银飞路166号",
-    "transport": "地铁16号线临港大道站",
-    "fee": "收费",
-    "description": "一站式海洋亲子乐园，有虎鲸表演、北极熊展馆、海底隧道，还有儿童游乐设施。",
-    "official_url": "",
-    "highlights": [
-      "虎鲸表演",
-      "北极熊",
-      "海底隧道",
-      "亲子游乐"
-    ]
-  },
-  {
-    "name": "上海野生动物园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区南六公路178号",
-    "transport": "地铁16号线野生动物园站",
-    "fee": "收费",
-    "description": "国家级野生动物园，车行猛兽区+步行萌宠区双模式，能近距离投喂互动。",
-    "official_url": "",
-    "highlights": [
-      "猛兽区",
-      "步行区",
-      "互动投喂",
-      "大熊猫"
-    ]
-  },
-  {
-    "name": "上海欢乐谷",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区林湖路888号",
-    "transport": "地铁9号线佘山站",
-    "fee": "收费",
-    "description": "大型主题乐园，有刺激项目和儿童区，适合不同年龄段的孩子游玩。",
-    "official_url": "",
-    "highlights": [
-      "主题乐园",
-      "刺激项目",
-      "儿童区",
-      "亲子"
-    ]
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海迪士尼乐园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "全球知名主题乐园，适合全年龄段儿童，有梦幻城堡、花车巡游和亲子项目。",
-    "official_url": "",
-    "highlights": [
-      "梦幻城堡",
-      "花车巡游",
-      "亲子项目",
-      "主题乐园"
-    ]
-  },
-  {
-    "name": "乐高探索中心",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "公园",
-    "address": "普陀区大渡河路196号长风大悦城",
-    "transport": "地铁15号线长风公园站",
-    "fee": "收费",
-    "description": "室内乐高主题乐园，有4D电影、迷你上海积木展，适合低龄儿童动手创作。",
-    "official_url": "",
-    "highlights": [
-      "乐高积木",
-      "4D电影",
-      "迷你上海",
-      "动手创作"
-    ]
-  },
-  {
-    "name": "上海汽车博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "博物馆",
-    "address": "嘉定区安亭博园路7565号",
-    "transport": "地铁11号线安亭站",
-    "fee": "收费",
-    "description": "男孩最爱！古董车收藏丰富，可体验儿童驾驶项目。",
-    "official_url": "",
-    "highlights": [
-      "古董车",
-      "儿童驾驶",
-      "汽车文化"
-    ]
-  },
-  {
-    "name": "东方明珠塔",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区世纪大道1号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "上海标志性建筑，可登塔俯瞰上海全景，有悬空观光廊、历史陈列馆等。",
-    "official_url": "",
-    "highlights": [
-      "登高观光",
-      "悬空廊",
-      "历史陈列",
-      "地标"
-    ]
-  },
-  {
-    "name": "上海中心大厦",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区陆家嘴环路1000号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "上海最高建筑，118层观光厅可俯瞰上海全貌，适合亲子登高体验。",
-    "official_url": "",
-    "highlights": [
-      "最高建筑",
-      "118层",
-      "俯瞰上海",
-      "观光"
-    ]
-  },
-  {
-    "name": "徐家汇书院",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "图书馆",
-    "address": "徐汇区漕溪北路158号",
-    "transport": "地铁1/9/11号线徐家汇站",
-    "fee": "免费",
-    "description": "现代化图书馆，建筑设计精美，有丰富的阅读空间和展览活动。",
-    "official_url": "",
-    "highlights": [
-      "阅读空间",
-      "建筑设计",
-      "展览",
-      "免费"
-    ]
-  },
-  {
-    "name": "世纪公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区锦绣路1001号",
-    "transport": "地铁2号线世纪公园站",
-    "fee": "免费",
-    "description": "超大绿地公园，可搭帐篷、放风筝、踢球，园内有儿童乐园。",
-    "official_url": "",
-    "highlights": [
-      "草坪",
-      "儿童乐园",
-      "野餐",
-      "免费"
-    ]
-  },
-  {
-    "name": "共青森林公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "公园",
-    "address": "杨浦区军工路2000号",
-    "transport": "地铁8号线翔殷路站",
-    "fee": "免费",
-    "description": "市区内超大森林绿地，可野餐、划船、骑亲子自行车，常有花卉展。",
-    "official_url": "",
-    "highlights": [
-      "森林",
-      "划船",
-      "骑行",
-      "花卉展"
-    ]
-  },
-  {
-    "name": "辰山植物园",
-    "source": "上海本地宝",
+    "source": "auto_sha_v1",
     "city": "shanghai",
     "district": "松江区",
-    "type": "公园",
-    "address": "松江区辰花公路3888号",
-    "transport": "地铁9号线洞泾站",
-    "fee": "收费",
-    "description": "超大温室花园、矿坑瀑布，儿童可奔跑玩耍，适合亲子自然探索。",
-    "official_url": "",
-    "highlights": [
-      "温室花园",
-      "矿坑瀑布",
-      "自然探索",
-      "亲子"
-    ]
-  },
-  {
-    "name": "徐汇滨江滑板公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "公园",
-    "address": "徐汇区龙腾大道",
-    "transport": "地铁7号线龙华中路站",
+    "type": "其他",
+    "address": "",
+    "transport": "",
     "fee": "免费",
-    "description": "滨江骑行道+专业滑板场地，可带娃骑车、玩滑板，欣赏黄浦江景。",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
     "official_url": "",
-    "highlights": [
-      "滑板",
-      "骑行",
-      "黄浦江",
-      "免费"
-    ]
-  },
-  {
-    "name": "长风海洋世界",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "科普馆",
-    "address": "普陀区大渡河路451号",
-    "transport": "地铁15号线长风公园站",
-    "fee": "收费",
-    "description": "长风公园内的海洋世界，有白鲸表演、海底隧道，适合亲子海洋探索。",
-    "official_url": "",
-    "highlights": [
-      "白鲸表演",
-      "海底隧道",
-      "海洋生物"
-    ]
-  },
-  {
-    "name": "上海植物园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "公园",
-    "address": "徐汇区龙吴路1111号",
-    "transport": "地铁3号线石龙路站",
-    "fee": "收费",
-    "description": "上海市中心的植物园，有多个专类园，可认识各种植物，适合自然教育。",
-    "official_url": "",
-    "highlights": [
-      "植物",
-      "自然教育",
-      "专类园"
-    ]
-  },
-  {
-    "name": "上海昆虫博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "博物馆",
-    "address": "徐汇区枫林路300号",
-    "transport": "地铁7号线东安路站",
-    "fee": "收费",
-    "description": "展示各种昆虫标本，有蝴蝶、甲虫等，适合对昆虫感兴趣的孩子。",
-    "official_url": "",
-    "highlights": [
-      "昆虫标本",
-      "蝴蝶",
-      "甲虫",
-      "科普"
-    ]
-  },
-  {
-    "name": "上海消防博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "博物馆",
-    "address": "长宁区中山西路229号",
-    "transport": "地铁3/4号线延安西路站",
-    "fee": "免费",
-    "description": "展示上海消防历史，有消防车、消防装备等展品，还有互动体验区。",
-    "official_url": "",
-    "highlights": [
-      "消防历史",
-      "消防车",
-      "互动体验",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海科技馆分馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "科技馆",
-    "address": "静安区北京西路510号",
-    "transport": "地铁13号线自然博物馆站",
-    "fee": "收费",
-    "description": "上海科技馆分馆，以自然科学为主题，有丰富的互动展项和科普活动。",
-    "official_url": "",
-    "highlights": [
-      "自然科学",
-      "互动展项",
-      "科普活动"
-    ]
-  },
-  {
-    "name": "上海少年儿童图书馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "图书馆",
-    "address": "长宁区延安西路1538号",
-    "transport": "地铁3/4号线延安西路站",
-    "fee": "免费",
-    "description": "专为少年儿童服务的公共图书馆，有丰富的儿童读物和阅读活动。",
-    "official_url": "",
-    "highlights": [
-      "儿童阅读",
-      "读物",
-      "阅读活动",
-      "免费"
-    ]
-  },
-  {
-    "name": "世界技能博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "博物馆",
-    "address": "杨浦区黄兴路221号",
-    "transport": "地铁12号线隆昌路站",
-    "fee": "免费",
-    "description": "展示世界技能大赛相关内容，有各种技能互动体验，适合青少年职业启蒙。",
-    "official_url": "",
-    "highlights": [
-      "技能体验",
-      "职业启蒙",
-      "互动",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海图书馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "图书馆",
-    "address": "徐汇区淮海中路1555号",
-    "transport": "地铁10号线上海图书馆站",
-    "fee": "免费",
-    "description": "上海大型公共图书馆，有丰富的馆藏资源和阅读空间。",
-    "official_url": "",
-    "highlights": [
-      "阅读",
-      "馆藏丰富",
-      "免费"
-    ]
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海美术馆",
-    "source": "上海本地宝",
+    "source": "auto_sha_v2",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "静安区",
     "type": "美术馆",
-    "address": "浦东新区上南路205号",
-    "transport": "地铁8号线中华艺术宫站",
+    "address": "",
+    "transport": "",
     "fee": "免费",
-    "description": "中华艺术宫内的美术馆，展示国内外优秀美术作品。",
-    "official_url": "",
-    "highlights": [
-      "美术展览",
-      "中华艺术宫",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海大剧院",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "演出场馆",
-    "address": "黄浦区人民大道300号",
-    "transport": "地铁1号线人民广场站",
-    "fee": "收费",
-    "description": "上海标志性剧院，举办歌剧、音乐剧、音乐会等演出。",
-    "official_url": "",
-    "highlights": [
-      "歌剧",
-      "音乐剧",
-      "建筑设计"
-    ]
-  },
-  {
-    "name": "上海音乐厅",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "演出场馆",
-    "address": "黄浦区延安东路523号",
-    "transport": "地铁1号线人民广场站",
-    "fee": "收费",
-    "description": "上海知名音乐厅，举办交响乐、室内乐等音乐会。",
-    "official_url": "",
-    "highlights": [
-      "交响乐",
-      "音乐会"
-    ]
-  },
-  {
-    "name": "上海马戏城",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "演出场馆",
-    "address": "静安区共和新路2266号",
-    "transport": "地铁1号线上海马戏城站",
-    "fee": "收费",
-    "description": "上海大型马戏表演场馆，有精彩的马戏和杂技表演。",
-    "official_url": "",
-    "highlights": [
-      "马戏",
-      "杂技",
-      "表演"
-    ]
-  },
-  {
-    "name": "上海儿童艺术剧场",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "演出场馆",
-    "address": "黄浦区苗江路800号",
-    "transport": "地铁4号线南浦大桥站",
-    "fee": "收费",
-    "description": "专为儿童设计的剧场，演出儿童剧、亲子剧等。",
-    "official_url": "",
-    "highlights": [
-      "儿童剧",
-      "亲子剧"
-    ]
-  },
-  {
-    "name": "上海东方艺术中心",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "演出场馆",
-    "address": "浦东新区丁香路425号",
-    "transport": "地铁2号线上海科技馆站",
-    "fee": "收费",
-    "description": "上海大型艺术中心，有音乐厅、歌剧院、美术馆等。",
-    "official_url": "",
-    "highlights": [
-      "音乐厅",
-      "歌剧院",
-      "艺术"
-    ]
-  },
-  {
-    "name": "上海梅赛德斯奔驰文化中心",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "演出场馆",
-    "address": "浦东新区世博大道1200号",
-    "transport": "地铁8号线中华艺术宫站",
-    "fee": "收费",
-    "description": "大型演艺场馆，举办演唱会、体育赛事等活动。",
-    "official_url": "",
-    "highlights": [
-      "演唱会",
-      "体育赛事"
-    ]
-  },
-  {
-    "name": "上海八万人体育场",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "体育中心",
-    "address": "徐汇区漕溪北路1111号",
-    "transport": "地铁1号线上海体育馆站",
-    "fee": "收费",
-    "description": "上海大型体育场，举办足球比赛和大型活动。",
-    "official_url": "",
-    "highlights": [
-      "足球",
-      "体育赛事"
-    ]
-  },
-  {
-    "name": "上海体育馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "体育中心",
-    "address": "徐汇区漕溪北路1111号",
-    "transport": "地铁1号线上海体育馆站",
-    "fee": "收费",
-    "description": "大型室内体育馆，举办篮球比赛和演唱会。",
-    "official_url": "",
-    "highlights": [
-      "篮球",
-      "演唱会"
-    ]
-  },
-  {
-    "name": "上海源深体育中心",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "体育中心",
-    "address": "浦东新区源深路655号",
-    "transport": "地铁6号线源深体育中心站",
-    "fee": "收费",
-    "description": "浦东新区大型体育中心，有体育馆、游泳馆等设施。",
-    "official_url": "",
-    "highlights": [
-      "体育",
-      "游泳",
-      "场馆"
-    ]
-  },
-  {
-    "name": "上海浦东游泳馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "体育中心",
-    "address": "浦东新区浦东南路3669号",
-    "transport": "地铁7号线云台路站",
-    "fee": "收费",
-    "description": "浦东新区大型游泳馆，有游泳培训和休闲设施。",
-    "official_url": "",
-    "highlights": [
-      "游泳",
-      "培训"
-    ]
-  },
-  {
-    "name": "上海静安体育中心",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "体育中心",
-    "address": "静安区汶水路116号",
-    "transport": "地铁1号线汶水路站",
-    "fee": "收费",
-    "description": "静安区大型体育中心，有体育馆、游泳馆等设施。",
-    "official_url": "",
-    "highlights": [
-      "体育",
-      "游泳",
-      "场馆"
-    ]
-  },
-  {
-    "name": "上海长风公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "公园",
-    "address": "普陀区大渡河路189号",
-    "transport": "地铁15号线长风公园站",
-    "fee": "免费",
-    "description": "大型城市公园，有银锄湖、铁臂山，还有长风海洋世界。",
-    "official_url": "",
-    "highlights": [
-      "湖景",
-      "海洋世界",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海中山公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "公园",
-    "address": "长宁区长宁路780号",
-    "transport": "地铁2/3/4号线中山公园站",
-    "fee": "免费",
-    "description": "上海著名的城市公园，有草坪、湖景、游乐场等。",
-    "official_url": "",
-    "highlights": [
-      "草坪",
-      "湖景",
-      "游乐场",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海人民公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "公园",
-    "address": "黄浦区南京西路231号",
-    "transport": "地铁1号线人民广场站",
-    "fee": "免费",
-    "description": "位于人民广场的公园，有草坪、湖景、相亲角等。",
-    "official_url": "",
-    "highlights": [
-      "草坪",
-      "湖景",
-      "相亲角",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海外滩",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "公园",
-    "address": "黄浦区中山东一路",
-    "transport": "地铁10号线南京东路站",
-    "fee": "免费",
-    "description": "上海标志性景点，有万国建筑博览群和黄浦江景。",
-    "official_url": "",
-    "highlights": [
-      "万国建筑",
-      "黄浦江",
-      "夜景",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海陆家嘴",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区陆家嘴",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "免费",
-    "description": "上海金融中心，有东方明珠、上海中心、金茂大厦等建筑。",
-    "official_url": "",
-    "highlights": [
-      "金融中心",
-      "地标建筑",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海南京东路步行街",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区南京东路",
-    "transport": "地铁1/2/8号线人民广场站",
-    "fee": "免费",
-    "description": "上海著名的商业步行街，有购物、餐饮、娱乐等。",
-    "official_url": "",
-    "highlights": [
-      "购物",
-      "餐饮",
-      "商业"
-    ]
-  },
-  {
-    "name": "上海淮海中路",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区淮海中路",
-    "transport": "地铁10号线陕西南路站",
-    "fee": "免费",
-    "description": "上海著名的商业街，有高端购物和特色建筑。",
-    "official_url": "",
-    "highlights": [
-      "高端购物",
-      "特色建筑"
-    ]
-  },
-  {
-    "name": "上海徐家汇商圈",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "文化中心",
-    "address": "徐汇区徐家汇",
-    "transport": "地铁1/9/11号线徐家汇站",
-    "fee": "免费",
-    "description": "上海重要的商业中心，有多个商场和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "商业中心",
-      "购物",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海静安寺",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "文化中心",
-    "address": "静安区静安寺",
-    "transport": "地铁2/7号线静安寺站",
-    "fee": "收费",
-    "description": "上海著名的佛教寺庙，有古建筑和宗教活动。",
-    "official_url": "",
-    "highlights": [
-      "佛教寺庙",
-      "古建筑",
-      "宗教"
-    ]
-  },
-  {
-    "name": "上海城隍庙",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区方浜中路249号",
-    "transport": "地铁10号线豫园站",
-    "fee": "收费",
-    "description": "上海著名的道教寺庙，有古建筑和传统商业街。",
-    "official_url": "",
-    "highlights": [
-      "道教寺庙",
-      "古建筑",
-      "商业街"
-    ]
-  },
-  {
-    "name": "上海豫园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "公园",
-    "address": "黄浦区豫园路100号",
-    "transport": "地铁10号线豫园站",
-    "fee": "收费",
-    "description": "上海著名的古典园林，有亭台楼阁和假山流水。",
-    "official_url": "",
-    "highlights": [
-      "古典园林",
-      "亭台楼阁",
-      "假山"
-    ]
-  },
-  {
-    "name": "上海古猗园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "公园",
-    "address": "嘉定区南翔镇",
-    "transport": "地铁11号线南翔站",
-    "fee": "收费",
-    "description": "上海著名的古典园林，以猗猗绿竹闻名。",
-    "official_url": "",
-    "highlights": [
-      "古典园林",
-      "竹子",
-      "南翔"
-    ]
-  },
-  {
-    "name": "上海大观园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "公园",
-    "address": "青浦区金商公路701号",
-    "transport": "自驾",
-    "fee": "收费",
-    "description": "以红楼梦为主题的古典园林，有大观园景区和淀山湖。",
-    "official_url": "",
-    "highlights": [
-      "红楼梦",
-      "古典园林",
-      "淀山湖"
-    ]
-  },
-  {
-    "name": "上海朱家角古镇",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "文化中心",
-    "address": "青浦区朱家角镇",
-    "transport": "地铁17号线朱家角站",
-    "fee": "免费",
-    "description": "上海著名的水乡古镇，有小桥流水和传统建筑。",
-    "official_url": "",
-    "highlights": [
-      "水乡古镇",
-      "小桥流水",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海枫泾古镇",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "文化中心",
-    "address": "金山区枫泾镇",
-    "transport": "自驾",
-    "fee": "收费",
-    "description": "上海著名的水乡古镇，有传统建筑和特色美食。",
-    "official_url": "",
-    "highlights": [
-      "水乡古镇",
-      "传统建筑",
-      "美食"
-    ]
-  },
-  {
-    "name": "上海七宝古镇",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "文化中心",
-    "address": "闵行区七宝镇",
-    "transport": "地铁9号线七宝站",
-    "fee": "免费",
-    "description": "上海著名的古镇，有传统建筑和特色小吃。",
-    "official_url": "",
-    "highlights": [
-      "古镇",
-      "传统建筑",
-      "小吃",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海田子坊",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区泰康路210弄",
-    "transport": "地铁9号线打浦桥站",
-    "fee": "免费",
-    "description": "上海文艺创意街区，有画廊、工作室、特色小店等。",
-    "official_url": "",
-    "highlights": [
-      "文艺创意",
-      "画廊",
-      "特色小店",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海新天地",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区太仓路181弄",
-    "transport": "地铁10号线新天地站",
-    "fee": "免费",
-    "description": "上海著名的休闲街区，有石库门建筑和现代商业。",
-    "official_url": "",
-    "highlights": [
-      "石库门",
-      "休闲",
-      "商业",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海科技馆主馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "科技馆",
-    "address": "浦东新区世纪大道2000号",
-    "transport": "地铁2号线上海科技馆站",
-    "fee": "收费",
-    "description": "上海科技馆主馆，有多个主题展厅和互动体验。",
-    "official_url": "",
-    "highlights": [
-      "互动体验",
-      "科普",
-      "主题展厅"
-    ]
-  },
-  {
-    "name": "上海东方明珠太空舱",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区世纪大道1号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "东方明珠塔的太空舱，可俯瞰上海全景。",
-    "official_url": "",
-    "highlights": [
-      "太空舱",
-      "俯瞰上海"
-    ]
-  },
-  {
-    "name": "上海东方明珠悬空观光廊",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区世纪大道1号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "东方明珠塔的悬空观光廊，体验高空玻璃栈道。",
-    "official_url": "",
-    "highlights": [
-      "悬空廊",
-      "玻璃栈道",
-      "高空"
-    ]
-  },
-  {
-    "name": "上海中心大厦观光厅",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区陆家嘴环路1000号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "上海中心大厦118层观光厅，可俯瞰上海全貌。",
-    "official_url": "",
-    "highlights": [
-      "118层",
-      "俯瞰上海",
-      "最高建筑"
-    ]
-  },
-  {
-    "name": "上海金茂大厦观光厅",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区世纪大道88号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "金茂大厦88层观光厅，可俯瞰上海全景。",
-    "official_url": "",
-    "highlights": [
-      "88层",
-      "俯瞰上海"
-    ]
-  },
-  {
-    "name": "上海环球金融中心观光厅",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区世纪大道100号",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "收费",
-    "description": "环球金融中心观光厅，可俯瞰上海全景。",
-    "official_url": "",
-    "highlights": [
-      "观光",
-      "俯瞰上海"
-    ]
-  },
-  {
-    "name": "上海长风海洋世界",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "科普馆",
-    "address": "普陀区大渡河路451号",
-    "transport": "地铁15号线长风公园站",
-    "fee": "收费",
-    "description": "长风公园内的海洋世界，有白鲸表演和海底隧道。",
-    "official_url": "",
-    "highlights": [
-      "白鲸表演",
-      "海底隧道"
-    ]
-  },
-  {
-    "name": "上海野生动物园车行区",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区南六公路178号",
-    "transport": "地铁16号线野生动物园站",
-    "fee": "收费",
-    "description": "上海野生动物园的车行区，可自驾或坐观光车游览猛兽区。",
-    "official_url": "",
-    "highlights": [
-      "猛兽区",
-      "自驾",
-      "观光车"
-    ]
-  },
-  {
-    "name": "上海野生动物园步行区",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区南六公路178号",
-    "transport": "地铁16号线野生动物园站",
-    "fee": "收费",
-    "description": "上海野生动物园的步行区，可步行观赏和投喂动物。",
-    "official_url": "",
-    "highlights": [
-      "步行观赏",
-      "投喂动物"
-    ]
-  },
-  {
-    "name": "上海海昌海洋公园虎鲸馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "科普馆",
-    "address": "浦东新区银飞路166号",
-    "transport": "地铁16号线临港大道站",
-    "fee": "收费",
-    "description": "海昌海洋公园的虎鲸馆，有虎鲸表演和科普展示。",
-    "official_url": "",
-    "highlights": [
-      "虎鲸表演",
-      "科普"
-    ]
-  },
-  {
-    "name": "上海海昌海洋公园北极熊馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "科普馆",
-    "address": "浦东新区银飞路166号",
-    "transport": "地铁16号线临港大道站",
-    "fee": "收费",
-    "description": "海昌海洋公园的北极熊馆，有北极熊和北极动物展示。",
-    "official_url": "",
-    "highlights": [
-      "北极熊",
-      "北极动物"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园城堡",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "上海迪士尼乐园的标志性城堡，有灯光秀和烟花表演。",
-    "official_url": "",
-    "highlights": [
-      "城堡",
-      "灯光秀",
-      "烟花"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园明日世界",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "迪士尼乐园的明日世界园区，有创极速光轮等刺激项目。",
-    "official_url": "",
-    "highlights": [
-      "创极速光轮",
-      "刺激项目"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园梦幻世界",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "迪士尼乐园的梦幻世界园区，有小熊维尼、小飞侠等亲子项目。",
-    "official_url": "",
-    "highlights": [
-      "小熊维尼",
-      "小飞侠",
-      "亲子"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园宝藏湾",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "迪士尼乐园的宝藏湾园区，有加勒比海盗等项目。",
-    "official_url": "",
-    "highlights": [
-      "加勒比海盗",
-      "宝藏"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园奇想花园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "迪士尼乐园的奇想花园园区，有米奇大街和城堡。",
-    "official_url": "",
-    "highlights": [
-      "米奇大街",
-      "城堡"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园探险岛",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "迪士尼乐园的探险岛园区，有雷鸣山漂流等项目。",
-    "official_url": "",
-    "highlights": [
-      "雷鸣山漂流",
-      "探险"
-    ]
-  },
-  {
-    "name": "上海迪士尼乐园皮克斯玩具总动员",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区川沙新镇黄赵路310号",
-    "transport": "地铁11号线迪士尼站",
-    "fee": "收费",
-    "description": "迪士尼乐园的皮克斯玩具总动员园区，有胡迪牛仔嘉年华等项目。",
-    "official_url": "",
-    "highlights": [
-      "皮克斯",
-      "玩具总动员",
-      "胡迪"
-    ]
-  },
-  {
-    "name": "上海乐高乐园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "公园",
-    "address": "金山区",
-    "transport": "自驾",
-    "fee": "收费",
-    "description": "大型乐高主题乐园，有乐高积木搭建的建筑和游乐设施。",
-    "official_url": "",
-    "highlights": [
-      "乐高",
-      "积木",
-      "主题乐园"
-    ]
-  },
-  {
-    "name": "上海欢乐谷谷木游龙",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区林湖路888号",
-    "transport": "地铁9号线佘山站",
-    "fee": "收费",
-    "description": "欢乐谷的木质过山车，是上海著名的刺激项目。",
-    "official_url": "",
-    "highlights": [
-      "过山车",
-      "刺激"
-    ]
-  },
-  {
-    "name": "上海欢乐谷玛雅海滩水公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区林湖路888号",
-    "transport": "地铁9号线佘山站",
-    "fee": "收费",
-    "description": "欢乐谷的水上乐园，有各种水上项目和造浪池。",
-    "official_url": "",
-    "highlights": [
-      "水上乐园",
-      "造浪池"
-    ]
-  },
-  {
-    "name": "上海辰山植物园温室",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "科普馆",
-    "address": "松江区辰花公路3888号",
-    "transport": "地铁9号线洞泾站",
-    "fee": "收费",
-    "description": "辰山植物园的大型温室，展示热带和亚热带植物。",
-    "official_url": "",
-    "highlights": [
-      "温室",
-      "热带植物"
-    ]
-  },
-  {
-    "name": "上海辰山植物园矿坑花园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区辰花公路3888号",
-    "transport": "地铁9号线洞泾站",
-    "fee": "收费",
-    "description": "辰山植物园的矿坑花园，有瀑布和景观。",
-    "official_url": "",
-    "highlights": [
-      "矿坑",
-      "瀑布",
-      "景观"
-    ]
-  },
-  {
-    "name": "上海松江大学城",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "文化中心",
-    "address": "松江区大学城",
-    "transport": "地铁9号线松江大学城站",
-    "fee": "免费",
-    "description": "集中了多所大学的区域，有青春气息和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "青春",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海松江方塔园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区中山东路",
-    "transport": "公交",
-    "fee": "收费",
-    "description": "有古塔和古典园林的公园，展示松江历史文化。",
-    "official_url": "",
-    "highlights": [
-      "古塔",
-      "古典园林",
-      "历史"
-    ]
-  },
-  {
-    "name": "上海松江醉白池",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区人民南路",
-    "transport": "公交",
-    "fee": "收费",
-    "description": "松江著名的古典园林，有亭台楼阁和池塘。",
-    "official_url": "",
-    "highlights": [
-      "古典园林",
-      "亭台楼阁"
-    ]
-  },
-  {
-    "name": "上海泰晤士小镇",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "文化中心",
-    "address": "松江区三新北路",
-    "transport": "公交",
-    "fee": "免费",
-    "description": "英式风格的小镇，有教堂、广场和商业设施。",
-    "official_url": "",
-    "highlights": [
-      "英式风格",
-      "教堂",
-      "拍照"
-    ]
-  },
-  {
-    "name": "上海欢乐谷魔幻城堡",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "公园",
-    "address": "松江区林湖路888号",
-    "transport": "地铁9号线佘山站",
-    "fee": "收费",
-    "description": "欢乐谷的魔幻城堡区，适合儿童游玩。",
-    "official_url": "",
-    "highlights": [
-      "魔幻城堡",
-      "儿童区"
-    ]
-  },
-  {
-    "name": "上海世纪公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区锦绣路1001号",
-    "transport": "地铁2号线世纪公园站",
-    "fee": "免费",
-    "description": "上海大型城市公园，有湖景和休闲设施。",
-    "official_url": "",
-    "highlights": [
-      "湖景",
-      "休闲",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海陆家嘴中心绿地",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区陆家嘴环路",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "免费",
-    "description": "陆家嘴金融中心的绿地，有草坪和城市景观。",
-    "official_url": "",
-    "highlights": [
-      "绿地",
-      "城市景观",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海滨江森林公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区高桥镇",
-    "transport": "公交",
-    "fee": "免费",
-    "description": "位于长江口的森林公园，有森林和江景。",
-    "official_url": "",
-    "highlights": [
-      "森林",
-      "江景",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海南汇嘴观海公园",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区南汇新城",
-    "transport": "公交",
-    "fee": "免费",
-    "description": "位于东海之滨的公园，可观赏大海和日出。",
-    "official_url": "",
-    "highlights": [
-      "观海",
-      "日出",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海滴水湖",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "公园",
-    "address": "浦东新区南汇新城",
-    "transport": "地铁16号线滴水湖站",
-    "fee": "免费",
-    "description": "大型人工湖，有湖景和休闲设施。",
-    "official_url": "",
-    "highlights": [
-      "湖景",
-      "休闲",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海临港新城",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区南汇新城",
-    "transport": "地铁16号线滴水湖站",
-    "fee": "免费",
-    "description": "上海的新兴城区，有现代化建筑和城市景观。",
-    "official_url": "",
-    "highlights": [
-      "现代化",
-      "城市景观",
-      "免费"
-    ]
-  },
-  {
-    "name": "上海海洋大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区沪城环路",
-    "transport": "地铁16号线临港大道站",
-    "fee": "免费",
-    "description": "上海海洋大学临港校区，有海洋博物馆和校园风光。",
-    "official_url": "",
-    "highlights": [
-      "海洋大学",
-      "博物馆"
-    ]
-  },
-  {
-    "name": "上海上海大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "文化中心",
-    "address": "宝山区上大路",
-    "transport": "地铁7号线上海大学站",
-    "fee": "免费",
-    "description": "上海大学宝山校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海同济大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "文化中心",
-    "address": "杨浦区四平路",
-    "transport": "地铁10号线同济大学站",
-    "fee": "免费",
-    "description": "同济大学四平路校区，有樱花和校园风光。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "樱花",
-      "校园"
-    ]
-  },
-  {
-    "name": "上海复旦大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "文化中心",
-    "address": "杨浦区邯郸路",
-    "transport": "地铁10号线国权路站",
-    "fee": "免费",
-    "description": "复旦大学邯郸校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海交通大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "文化中心",
-    "address": "徐汇区华山路",
-    "transport": "地铁10号线交通大学站",
-    "fee": "免费",
-    "description": "上海交通大学徐汇校区，有历史建筑和校园风光。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "历史建筑",
-      "校园"
-    ]
-  },
-  {
-    "name": "上海华东师范大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "文化中心",
-    "address": "闵行区东川路",
-    "transport": "地铁5号线东川路站",
-    "fee": "免费",
-    "description": "华东师范大学闵行校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海华东理工大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "文化中心",
-    "address": "徐汇区梅陇路",
-    "transport": "地铁15号线华东理工大学站",
-    "fee": "免费",
-    "description": "华东理工大学徐汇校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海上海师范大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "文化中心",
-    "address": "徐汇区桂林路",
-    "transport": "地铁9号线桂林路站",
-    "fee": "免费",
-    "description": "上海师范大学徐汇校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海上海理工大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "文化中心",
-    "address": "杨浦区军工路",
-    "transport": "公交",
-    "fee": "免费",
-    "description": "上海理工大学军工路校区，有历史建筑和校园风光。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "历史建筑",
-      "校园"
-    ]
-  },
-  {
-    "name": "上海东华大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "文化中心",
-    "address": "松江区人民北路",
-    "transport": "地铁9号线松江大学城站",
-    "fee": "免费",
-    "description": "东华大学松江校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
-  },
-  {
-    "name": "上海上海工程技术大学",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "文化中心",
-    "address": "松江区龙腾路",
-    "transport": "地铁9号线松江大学城站",
-    "fee": "免费",
-    "description": "上海工程技术大学松江校区，有校园风光和文化设施。",
-    "official_url": "",
-    "highlights": [
-      "大学",
-      "校园",
-      "文化"
-    ]
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海玻璃博物馆",
+    "source": "auto_sha_v3",
     "city": "shanghai",
-    "district": "宝山区",
-    "type": "展览",
+    "district": "虹口区",
+    "type": "博物馆",
     "address": "",
-    "description": "玻璃艺术殿堂，热玻璃表演，DIY玻璃制作体验。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "淮海路",
+    "source": "auto_sha_v4",
     "city": "shanghai",
     "district": "宝山区",
-    "type": "研学",
+    "type": "其他",
     "address": "",
-    "description": "上海淮海路的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "金茂大厦",
+    "name": "上海中心大厦",
+    "source": "auto_sha_v5",
     "city": "shanghai",
-    "district": "浦东新区",
-    "type": "亲子活动",
+    "district": "松江区",
+    "type": "其他",
     "address": "",
-    "description": "88层观光厅，云中漫步，浦东地标建筑。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "东方明珠",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海东方明珠的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海迪士尼度假区",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "十周年庆典叠加《玩具总动员5》全球首映，推出夏季限定娱乐演出、达菲新花车与疯狂动物城季节活动，适合全家亲子避暑游玩。",
-    "source": "上海迪士尼度假区",
-    "official_url": ""
-  },
-  {
-    "name": "外滩",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海外滩的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区博物馆",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "演出",
-    "address": "",
-    "description": "上海长宁区的震撼演出发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区体育馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海徐汇区的暑期体育赛事体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区青少年宫",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海奉贤区的精彩讲座阅读节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区体育馆",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海金山区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海博物馆（人民广场馆）",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "上海博物馆对话世界系列第六展，联合墨西哥、秘鲁顶尖文博机构，1129组近3000件文物，全景式勾勒古代中南美洲文明长卷。全球史上规模最大、等级最高的美洲古代文明大展。夜场17:00-21:00收费开放。地铁1号线/2号线/8号线人民广场站。",
-    "source": "shanghaimuseum",
-    "official_url": ""
-  },
-  {
-    "name": "中华艺术宫",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "马王堆汉墓出土文物国宝级特展，含T形帛画原件等珍贵文物。",
-    "source": "上观新闻",
-    "official_url": ""
-  },
-  {
-    "name": "长风公园",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "研学",
-    "address": "",
-    "description": "上海长风公园的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区艺术中心",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "展览",
-    "address": "",
-    "description": "上海青浦区的漫游展览季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区博物馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "演出",
-    "address": "",
-    "description": "上海徐汇区的经典演出探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海航海博物馆",
+    "source": "auto_sha_v6",
     "city": "shanghai",
     "district": "宝山区",
-    "type": "亲子活动",
+    "type": "博物馆",
     "address": "",
-    "description": "上海上海航海博物馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海嘉定区美术馆",
+    "name": "上海欢乐谷",
+    "source": "auto_sha_v7",
     "city": "shanghai",
-    "district": "嘉定区",
-    "type": "展览",
+    "district": "青浦区",
+    "type": "其他",
     "address": "",
-    "description": "上海嘉定区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "徐家汇",
+    "name": "金茂大厦",
+    "source": "auto_sha_v8",
     "city": "shanghai",
-    "district": "嘉定区",
-    "type": "展览",
+    "district": "青浦区",
+    "type": "其他",
     "address": "",
-    "description": "上海徐家汇的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海闵行区会展中心",
+    "name": "上海野生动物园",
+    "source": "auto_sha_v9",
     "city": "shanghai",
-    "district": "闵行区",
-    "type": "亲子活动",
+    "district": "奉贤区",
+    "type": "公园",
     "address": "",
-    "description": "上海闵行区的震撼亲子活动发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海金山区海洋馆",
+    "name": "上海汽车博物馆",
+    "source": "auto_sha_v10",
     "city": "shanghai",
-    "district": "金山区",
-    "type": "展览",
+    "district": "杨浦区",
+    "type": "博物馆",
     "address": "",
-    "description": "上海金山区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "杨浦区图书馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "民国建筑导览、绘本剧、非遗手工。",
-    "source": "manual",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海电影博物馆",
+    "source": "auto_sha_v11",
     "city": "shanghai",
     "district": "闵行区",
-    "type": "展览",
+    "type": "博物馆",
     "address": "",
-    "description": "上海上海电影博物馆的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海奉贤区体育馆",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海奉贤区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区图书馆",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海金山区的解读讲座阅读周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区植物园",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海杨浦区的趣味亲子活动展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区科技馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "展览",
-    "address": "",
-    "description": "上海虹口区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区体育场",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海普陀区的互动科普活动科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区青少年宫",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海宝山区的家庭亲子活动研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区植物园",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海嘉定区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海公安博物馆",
+    "name": "上海植物园",
+    "source": "auto_sha_v12",
     "city": "shanghai",
     "district": "黄浦区",
-    "type": "展览",
+    "type": "公园",
     "address": "",
-    "description": "公安发展史，警械装备，特种警用车辆。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "人民广场",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海人民广场的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区动物园",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海普陀区的体验影视放映嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区创意园",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海黄浦区的梦幻科普活动之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "静安雕塑公园",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "展览",
-    "address": "",
-    "description": "上海静安雕塑公园的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区公园",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海嘉定区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区美术馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "展览",
-    "address": "",
-    "description": "上海浦东新区的走进展览日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区科技馆",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海黄浦区的周末讲座阅读活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海文化广场",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "音乐剧《粉丝来信》中文版，八轮演出口碑之作。票价80-680元。地铁9号线/12号线嘉善路站。",
-    "source": "shcstheatre",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区科技馆",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海宝山区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "环球金融中心",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "研学",
-    "address": "",
-    "description": "上海环球金融中心的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区剧院",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海奉贤区的互动影视放映科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "陆家嘴",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "展览",
-    "address": "",
-    "description": "上海陆家嘴的精彩展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区创意园",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海徐汇区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "浦东美术馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "浦东美术馆与意大利博洛尼亚莫兰迪博物馆合作，展出超200件作品含140余件莫兰迪原作，逾120件系中国首展，适合绘画与静物艺术爱好者。",
-    "source": "浦东美术馆",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区植物园",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海宝山区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区创意园",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海静安区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区公园",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "展览",
-    "address": "",
-    "description": "上海金山区的经典展览探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区文化中心",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "展览",
-    "address": "",
-    "description": "上海宝山区的沉浸式展览探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区文化中心",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海静安区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "中共一大纪念馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "中共一大纪念馆发布的VR沉浸式体验，构建一大会址、天宫空间站等虚实交融场景，传承建党与“两弹一星”精神，适合青少年红色研学。",
-    "source": "中共一大纪念馆",
-    "official_url": ""
-  },
-  {
-    "name": "南京路",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "演出",
-    "address": "",
-    "description": "上海南京路的精彩演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区博物馆",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海宝山区的发现体育赛事比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区会展中心",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "演出",
-    "address": "",
-    "description": "上海虹口区的周末演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区文化馆",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海奉贤区的体验体育赛事嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区剧院",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "演出",
-    "address": "",
-    "description": "上海普陀区的精彩演出节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区文化中心",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "演出",
-    "address": "",
-    "description": "上海浦东新区的梦幻演出之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区公园",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "展览",
-    "address": "",
-    "description": "上海浦东新区的梦幻展览之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "浦东新区图书馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "航天科普、少儿编程、户外阅读营。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区海洋馆",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海宝山区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区博物馆",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海普陀区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区动物园",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海青浦区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "徐汇西岸滨江",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "流动艺术科普展、户外免费攀爬场地、绘本长廊分享会、露天小型公益演出。",
-    "source": "manual",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海城市规划展示馆",
+    "source": "auto_sha_v13",
     "city": "shanghai",
     "district": "浦东新区",
-    "type": "演出",
+    "type": "其他",
     "address": "",
-    "description": "上海上海城市规划展示馆的精彩演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区博物馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海虹口区的走进科普活动日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区博物馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海闵行区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "嘉定博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "科举文化、古建筑手工、园林科普。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海世博会博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "携手故宫博物院推出'国采：故宫藏清代帝后服饰展'，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等最高等级帝后服装，九成从未出京，超三成首次面世。",
-    "source": "上海世博会博物馆",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区博物馆",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "展览",
-    "address": "",
-    "description": "上海黄浦区的周末展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区青少年宫",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海浦东新区的周末科普活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区动物园",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "展览",
-    "address": "",
-    "description": "上海杨浦区的趣味展览展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区青少年宫",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "展览",
-    "address": "",
-    "description": "上海普陀区的体验展览嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区科技馆",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海青浦区的家庭体育赛事研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区剧院",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海松江区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区海洋馆",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海黄浦区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区博物馆",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海松江区的亲子影视放映工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区文化馆",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海静安区的家庭影视放映研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区海洋馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海闵行区的探索讲座阅读演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区图书馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海闵行区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区科技馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "演出",
-    "address": "",
-    "description": "上海闵行区的探秘演出月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区科技馆",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海静安区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区海洋馆",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海静安区的漫游科普活动季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海图书馆总馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "亲子共读、科创手工、暑期研学、外文沙龙。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "浦东体育公园",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "轮滑、滑板、儿童游乐区、户外亲子运动。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区会展中心",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "演出",
-    "address": "",
-    "description": "上海普陀区的互动演出科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海展览中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "上海展览中心与上海书城双主场，早9点至晚9点全天开放，约380家出版机构参展，全市设分会场，适合亲子阅读与青少年购书研学。",
-    "source": "上海展览中心",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区青少年宫",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海长宁区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区植物园",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海松江区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区剧院",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海杨浦区的解读亲子活动周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区公园",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海杨浦区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区艺术中心",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海长宁区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海博物馆东馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "展览",
-    "address": "",
-    "description": "上博新馆，更大展厅更多文物，上海文化新地标。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区体育馆",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海松江区的探索亲子活动演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区文化馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海浦东新区的梦幻亲子活动之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区图书馆",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "展览",
-    "address": "",
-    "description": "上海黄浦区的青少年展览讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海美术馆（中华艺术宫）",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "马王堆汉墓50余年考古史上规模最大、等级最高的湖南省外展出。195件套472件展品，3件禁止出境文物，一级文物31件套。展现汉代生活极致风雅。地铁8号线中华艺术宫站。",
-    "source": "chinaartmuseum",
-    "official_url": ""
-  },
-  {
-    "name": "上海中医药博物馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "展览",
-    "address": "",
-    "description": "中医中药发展史，中草药标本，养生文化。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海工艺美术博物馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "展览",
-    "address": "",
-    "description": "法租界小白宫，绒绣面塑剪纸，上海工艺美术精品。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "闵行体育公园文体中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "环湖徒步、球类公益课、草坪亲子市集。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区海洋馆",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "演出",
-    "address": "",
-    "description": "上海奉贤区的互动演出科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区体育场",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海徐汇区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海市群众艺术馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "非遗手作市集、少儿国风绘画、露天公益亲子演出、民乐免费体验课。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区青少年宫",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海黄浦区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区科技馆",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "展览",
-    "address": "",
-    "description": "上海普陀区的精彩展览节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区创意园",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海杨浦区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区动物园",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海奉贤区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区海洋馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海虹口区的走进体育赛事日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区动物园",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "演出",
-    "address": "",
-    "description": "上海嘉定区的儿童演出课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区海洋馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海浦东新区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区图书馆",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海普陀区的互动亲子活动科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海当代艺术博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "呈现常玉、马蒂斯、达利、沃霍尔、赵无极等艺术大师的“艺术家手作书”，展现书籍作为复合型艺术形态，适合艺术与阅读爱好者亲子参观。",
-    "source": "上海当代艺术博物馆",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区艺术中心",
+    "source": "auto_sha_v14",
     "city": "shanghai",
     "district": "普陀区",
-    "type": "科普活动",
+    "type": "博物馆",
     "address": "",
-    "description": "上海普陀区的儿童科普活动课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "普陀区图书馆",
+    "name": "世纪公园",
+    "source": "auto_sha_v15",
     "city": "shanghai",
-    "district": "",
-    "type": "",
+    "district": "静安区",
+    "type": "公园",
     "address": "",
-    "description": "水主题科普、诗词手工、亲子观影。",
-    "source": "manual",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "人民广场",
+    "source": "auto_sha_v16",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "静安雕塑公园",
+    "source": "auto_sha_v17",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海动物园",
+    "source": "auto_sha_v18",
     "city": "shanghai",
     "district": "徐汇区",
-    "type": "演出",
+    "type": "公园",
     "address": "",
-    "description": "上海上海动物园的精彩演出活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "中国航海博物馆",
+    "source": "auto_sha_v19",
     "city": "shanghai",
     "district": "嘉定区",
-    "type": "亲子活动",
+    "type": "博物馆",
     "address": "",
-    "description": "上海中国航海博物馆的精彩亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区艺术中心",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "展览",
-    "address": "",
-    "description": "上海奉贤区的精彩展览节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区会展中心",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海嘉定区的精彩科普活动节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "普陀青少年水主题科普基地",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "净水实验、水科学探究、手工工坊。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区会展中心",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海奉贤区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区植物园",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "演出",
-    "address": "",
-    "description": "上海静安区的发现演出比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区文化中心",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海长宁区的探索体育赛事演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区艺术中心",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "演出",
-    "address": "",
-    "description": "上海黄浦区的走进演出日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区图书馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海浦东新区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海铁路博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "火车模型、机械科普、铁路历史导览。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区艺术中心",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海静安区的发现亲子活动比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区创意园",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "演出",
-    "address": "",
-    "description": "上海金山区的暑期演出体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区青少年宫",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海松江区的震撼体育赛事发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区创意园",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海长宁区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区文化馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "演出",
-    "address": "",
-    "description": "上海闵行区的震撼演出发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海杜莎夫人蜡像馆",
+    "source": "auto_sha_v20",
     "city": "shanghai",
     "district": "金山区",
-    "type": "研学",
+    "type": "其他",
     "address": "",
-    "description": "上海上海杜莎夫人蜡像馆的精彩研学活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海松江区文化馆",
+    "name": "上海大剧院",
+    "source": "auto_sha_v21",
     "city": "shanghai",
-    "district": "松江区",
-    "type": "科普活动",
+    "district": "",
+    "type": "演出场馆",
     "address": "",
-    "description": "上海松江区的探秘科普活动月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海松江区会展中心",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海松江区的探秘体育赛事月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区动物园",
+    "name": "东方明珠",
+    "source": "auto_sha_v22",
     "city": "shanghai",
     "district": "金山区",
-    "type": "亲子活动",
+    "type": "其他",
     "address": "",
-    "description": "上海金山区的暑期亲子活动体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海杨浦区文化中心",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海杨浦区的暑期影视放映体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区科技馆",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "演出",
-    "address": "",
-    "description": "上海杨浦区的解读演出周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区美术馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海闵行区的探秘影视放映月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区体育馆",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海黄浦区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区体育场",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海静安区的沉浸式科普活动探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "松江文化馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "农耕科普、民俗手工、亲子舞台剧。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区美术馆",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海奉贤区的儿童亲子活动课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区剧院",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "展览",
-    "address": "",
-    "description": "上海徐汇区的经典展览探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "杨浦区青少年活动中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "机器人、陶艺、户外自然研学。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "宝山区图书馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "矿石科普、红色研学、少儿书画。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区会展中心",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海金山区的解读体育赛事周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区青少年宫",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "展览",
-    "address": "",
-    "description": "上海静安区的发现展览比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "浦东新区青少年活动中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "科创、美术、轮滑免费体验课。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区剧院",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海青浦区的家庭讲座阅读研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区图书馆",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海青浦区的发现影视放映比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区文化馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海徐汇区的趣味讲座阅读展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区图书馆",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海宝山区的漫游体育赛事季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区体育馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "演出",
-    "address": "",
-    "description": "上海浦东新区的走进演出日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区美术馆",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海宝山区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区体育场",
+    "name": "长风公园",
+    "source": "auto_sha_v23",
     "city": "shanghai",
     "district": "长宁区",
-    "type": "亲子活动",
+    "type": "公园",
     "address": "",
-    "description": "上海长宁区的亲子亲子活动工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海静安区图书馆",
+    "name": "徐家汇",
+    "source": "auto_sha_v24",
     "city": "shanghai",
-    "district": "静安区",
-    "type": "演出",
+    "district": "嘉定区",
+    "type": "其他",
     "address": "",
-    "description": "上海静安区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海普陀区文化馆",
+    "name": "环球金融中心",
+    "source": "auto_sha_v25",
     "city": "shanghai",
-    "district": "普陀区",
-    "type": "影视放映",
+    "district": "奉贤区",
+    "type": "其他",
     "address": "",
-    "description": "上海普陀区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海虹口区艺术中心",
+    "name": "陆家嘴",
+    "source": "auto_sha_v26",
     "city": "shanghai",
-    "district": "虹口区",
-    "type": "科普活动",
+    "district": "浦东新区",
+    "type": "其他",
     "address": "",
-    "description": "上海虹口区的青少年科普活动讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海金山区植物园",
+    "name": "上海少年儿童图书馆",
+    "source": "auto_sha_v27",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海文化广场",
+    "source": "auto_sha_v28",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "南京路",
+    "source": "auto_sha_v29",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中华艺术宫",
+    "source": "auto_sha_v30",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海乐高乐园",
+    "source": "auto_sha_v31",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浦东美术馆",
+    "source": "auto_sha_v32",
+    "city": "shanghai",
+    "district": "",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海迪士尼度假区",
+    "source": "auto_sha_v33",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海长宁区博物馆",
+    "source": "auto_sha_v34",
+    "city": "shanghai",
+    "district": "长宁区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海徐汇区体育馆",
+    "source": "auto_sha_v35",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "体育中心",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海奉贤区青少年宫",
+    "source": "auto_sha_v36",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "青少年宫",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海金山区体育馆",
+    "source": "auto_sha_v37",
     "city": "shanghai",
     "district": "金山区",
-    "type": "讲座阅读",
+    "type": "体育中心",
     "address": "",
-    "description": "上海金山区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "宝山区文化馆",
+    "name": "上海青浦区艺术中心",
+    "source": "auto_sha_v38",
     "city": "shanghai",
-    "district": "",
-    "type": "",
+    "district": "青浦区",
+    "type": "其他",
     "address": "",
-    "description": "剪纸、皮影、少儿惠民文艺演出。",
-    "source": "manual",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "北外滩来福士广场",
+    "name": "上海徐汇区博物馆",
+    "source": "auto_sha_v39",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海嘉定区美术馆",
+    "source": "auto_sha_v40",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海闵行区会展中心",
+    "source": "auto_sha_v41",
+    "city": "shanghai",
+    "district": "闵行区",
+    "type": "会展中心",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海金山区海洋馆",
+    "source": "auto_sha_v42",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杨浦区图书馆",
+    "source": "auto_sha_v43",
     "city": "shanghai",
     "district": "",
-    "type": "",
+    "type": "图书馆",
     "address": "",
-    "description": "复古里弄免费打卡、少儿国风公益展、露天亲子手作市集、户外少儿舞台演出。",
-    "source": "manual",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海奉贤区体育馆",
+    "source": "auto_sha_v44",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "体育中心",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海金山区图书馆",
+    "source": "auto_sha_v45",
+    "city": "shanghai",
+    "district": "金山区",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海杨浦区植物园",
+    "source": "auto_sha_v46",
+    "city": "shanghai",
+    "district": "杨浦区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海虹口区科技馆",
+    "source": "auto_sha_v47",
+    "city": "shanghai",
+    "district": "虹口区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海普陀区体育场",
+    "source": "auto_sha_v48",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "体育中心",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海宝山区青少年宫",
+    "source": "auto_sha_v49",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "青少年宫",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海嘉定区植物园",
+    "source": "auto_sha_v50",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海公安博物馆",
+    "source": "auto_sha_v51",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海普陀区动物园",
+    "source": "auto_sha_v52",
+    "city": "shanghai",
+    "district": "普陀区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海黄浦区创意园",
+    "source": "auto_sha_v53",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海嘉定区公园",
+    "source": "auto_sha_v54",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "公园",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海浦东新区美术馆",
+    "source": "auto_sha_v55",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "美术馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海黄浦区科技馆",
+    "source": "auto_sha_v56",
+    "city": "shanghai",
+    "district": "黄浦区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海宝山区科技馆",
+    "source": "auto_sha_v57",
+    "city": "shanghai",
+    "district": "宝山区",
+    "type": "科技馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海奉贤区剧院",
+    "source": "auto_sha_v58",
+    "city": "shanghai",
+    "district": "奉贤区",
+    "type": "演出场馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海徐汇区创意园",
+    "source": "auto_sha_v59",
+    "city": "shanghai",
+    "district": "徐汇区",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "徐家汇书院",
+    "source": "auto_sha_v60",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海天文馆",
+    "source": "auto_sha_v61",
+    "city": "shanghai",
+    "district": "",
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海世博会博物馆",
+    "source": "auto_sha_v62",
+    "city": "shanghai",
+    "district": "",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海博物馆东馆",
+    "source": "auto_sha_v63",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上海图书馆",
+    "source": "auto_sha_v64",
+    "city": "shanghai",
+    "district": "",
+    "type": "图书馆",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "前滩太古里",
+    "source": "auto_sha_v65",
     "city": "shanghai",
     "district": "",
-    "type": "",
+    "type": "其他",
     "address": "",
-    "description": "屋顶免费儿童乐园、艺术公益展、江边写生、露天音乐会、节气市集。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "捷豹上海交响音乐厅",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "第37届上海夏季音乐节，33场现场演出+25场线上直播。开幕大戏为余隆执棒、濮存昕主演音乐与戏剧文学《哈姆雷特》。电影音乐、跨界舞台、国际大咖齐聚。地铁10号线上海图书馆站。",
-    "source": "misa",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区文化馆",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "展览",
-    "address": "",
-    "description": "上海杨浦区的暑期展览体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区文化馆",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海金山区的解读科普活动周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区体育场",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海金山区的解读影视放映周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区公园",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "演出",
-    "address": "",
-    "description": "上海青浦区的漫游演出季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区图书馆",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海杨浦区的经典科普活动探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区文化馆",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海嘉定区的精彩亲子活动节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海市历史博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "苏州河历史文化展，西楼临展厅延长开放至20:00。小浪花讲解团、苏州河夜游Citywalk、徽州非遗工坊。地铁1号线/2号线/8号线人民广场站。",
-    "source": "shhistorymuseum",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区海洋馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海徐汇区的经典亲子活动探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区剧院",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "展览",
-    "address": "",
-    "description": "上海长宁区的震撼展览发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "闵行区图书馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "海洋绘本、植物手工、科创体验课。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区动物园",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "演出",
-    "address": "",
-    "description": "上海宝山区的家庭演出研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区体育场",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "演出",
-    "address": "",
-    "description": "上海奉贤区的儿童演出课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区植物园",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海青浦区的漫游影视放映季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区体育馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海虹口区的梦幻影视放映之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区公园",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海虹口区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区文化馆",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "演出",
-    "address": "",
-    "description": "上海宝山区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区体育馆",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海青浦区的家庭科普活动研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海环球金融中心",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "100层观光厅，空中走廊，俯瞰陆家嘴全景。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "松江博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "广富林文化、考古模拟、矿石彩绘。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区美术馆",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海长宁区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区剧院",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海金山区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区美术馆",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海杨浦区的经典讲座阅读探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区创意园",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "展览",
-    "address": "",
-    "description": "上海嘉定区的儿童展览课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区青少年宫",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "演出",
-    "address": "",
-    "description": "上海虹口区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "徐汇区图书馆",
+    "source": "auto_sha_v66",
     "city": "shanghai",
     "district": "",
-    "type": "",
+    "type": "图书馆",
     "address": "",
-    "description": "周末亲子读书会、自然写生、科普小实验、节气手工活动。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "嘉定区文化馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "国风手工、露天音乐会、非遗体验。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区公园",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海宝山区的沉浸式影视放映探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区青少年宫",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "演出",
-    "address": "",
-    "description": "上海杨浦区的趣味演出展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区博物馆",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海浦东新区的青少年讲座阅读讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区文化中心",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海徐汇区的趣味体育赛事展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区会展中心",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "展览",
-    "address": "",
-    "description": "上海长宁区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "中华艺术宫（上海美术馆）",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "马王堆汉墓50余年考古史上规模最大、等级最高国宝艺术大展，九大稀世珍宝、十大重点展品上海首展，含帛画原件，适合历史与亲子家庭观众。",
-    "source": "中华艺术宫（上海美术馆）",
-    "official_url": ""
-  },
-  {
-    "name": "上海市少年宫",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "艺术、科技、舞蹈公益课程、少儿汇演。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区植物园",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海奉贤区的精彩影视放映节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区博物馆",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海静安区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区会展中心",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海黄浦区的青少年影视放映讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
     "name": "上海博物馆人民广场馆",
+    "source": "auto_sha_v67",
     "city": "shanghai",
     "district": "黄浦区",
-    "type": "展览",
+    "type": "博物馆",
     "address": "",
-    "description": "中国四大博物馆之一，青铜器陶瓷书画玉器，中国古代艺术宝库。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   },
   {
-    "name": "上海地震科普馆",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "展览",
-    "address": "",
-    "description": "地震知识科普，地震模拟体验，防灾教育。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海惊魂密境",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "演出",
-    "address": "",
-    "description": "沉浸式惊悚体验，老上海传说故事，惊魂冒险。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "宝山博物馆",
+    "name": "上海海洋水族馆",
+    "source": "auto_sha_v68",
     "city": "shanghai",
     "district": "",
-    "type": "",
-    "address": "",
-    "description": "江南民俗、陶艺DIY、文物导览。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区艺术中心",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "演出",
-    "address": "",
-    "description": "上海徐汇区的解读演出周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区美术馆",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海普陀区的互动体育赛事科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区剧院",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海黄浦区的周末影视放映活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区体育场",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "展览",
-    "address": "",
-    "description": "上海松江区的探索展览演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区体育场",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海杨浦区的经典体育赛事探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区美术馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海徐汇区的暑期科普活动体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区图书馆",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海嘉定区的精彩体育赛事节，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区动物园",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海松江区的震撼科普活动发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区图书馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海虹口区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区美术馆",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "演出",
-    "address": "",
-    "description": "上海松江区的探索演出演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区艺术中心",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海嘉定区的互动讲座阅读科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区公园",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海长宁区的探索科普活动演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区剧院",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海嘉定区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区动物园",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海黄浦区的梦幻体育赛事之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区博物馆",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "展览",
-    "address": "",
-    "description": "上海奉贤区的互动展览科普，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "闵行区青少年活动中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "海洋科普、手工、编程体验。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区会展中心",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海徐汇区的趣味影视放映展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海奉贤区文化中心",
-    "city": "shanghai",
-    "district": "奉贤区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海奉贤区的体验科普活动嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "普陀区青少年宫",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "水科学、绘画、少儿合唱公益课。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区体育场",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "演出",
-    "address": "",
-    "description": "上海黄浦区的青少年演出讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区会展中心",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "展览",
-    "address": "",
-    "description": "上海静安区的家庭展览研学营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区创意园",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海闵行区的探索影视放映演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区公园",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海黄浦区的走进亲子活动日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区体育场",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海宝山区的漫游讲座阅读季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区公园",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海闵行区的亲子讲座阅读工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区海洋馆",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "演出",
-    "address": "",
-    "description": "上海青浦区的沉浸式演出探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区文化中心",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海松江区的探秘亲子活动月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "宝山体育中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "少儿篮球、体能训练、露天亲子演出。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区动物园",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "展览",
-    "address": "",
-    "description": "上海闵行区的探索展览演出，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区文化中心",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海普陀区的儿童讲座阅读课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区体育馆",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海静安区的沉浸式讲座阅读探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海静安区美术馆",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海静安区的沉浸式体育赛事探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区植物园",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海闵行区的亲子科普活动工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区体育馆",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海长宁区的震撼讲座阅读发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "闵行博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "马桥文化手工、古陶临摹、少儿历史课。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区植物园",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海虹口区的青少年亲子活动讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区动物园",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海长宁区的探秘讲座阅读月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区公园",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海普陀区的儿童体育赛事课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海少年儿童图书馆新馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "阅读沙龙、童话舞台剧、艺术公益课。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区体育场",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海浦东新区的走进影视放映日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海普陀区创意园",
-    "city": "shanghai",
-    "district": "普陀区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海普陀区的体验讲座阅读嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区体育场",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "展览",
-    "address": "",
-    "description": "上海青浦区的发现展览比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区科技馆",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海嘉定区的体验亲子活动嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区创意园",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海青浦区的沉浸式亲子活动探索，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区公园",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "演出",
-    "address": "",
-    "description": "上海松江区的探秘演出月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区体育馆",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "演出",
-    "address": "",
-    "description": "上海嘉定区的体验演出嘉年华，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海嘉定区海洋馆",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海嘉定区的儿童影视放映课程，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区艺术中心",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海金山区的经典影视放映探秘，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区会展中心",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海青浦区的发现讲座阅读比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海杨浦区博物馆",
-    "city": "shanghai",
-    "district": "杨浦区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海杨浦区的解读科普活动周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区植物园",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "展览",
-    "address": "",
-    "description": "上海徐汇区的解读展览周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区体育馆",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "展览",
-    "address": "",
-    "description": "上海闵行区的探秘展览月，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区剧院",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海浦东新区的青少年体育赛事讲座，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海闵行区艺术中心",
-    "city": "shanghai",
-    "district": "闵行区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海闵行区的亲子体育赛事工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区图书馆",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "演出",
-    "address": "",
-    "description": "上海长宁区的亲子演出工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海长宁区科技馆",
-    "city": "shanghai",
-    "district": "长宁区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海长宁区的震撼影视放映发现，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区青少年宫",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "影视放映",
-    "address": "",
-    "description": "上海徐汇区的解读影视放映周，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海青浦区文化中心",
-    "city": "shanghai",
-    "district": "青浦区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海青浦区的漫游亲子活动季，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区文化馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "展览",
-    "address": "",
-    "description": "上海虹口区的周末展览活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "浦东博物馆",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "海洋文化、航海科普、贝壳手工。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海宝山区剧院",
-    "city": "shanghai",
-    "district": "宝山区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海宝山区的发现科普活动比赛，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海松江区海洋馆",
-    "city": "shanghai",
-    "district": "松江区",
-    "type": "展览",
-    "address": "",
-    "description": "上海松江区的亲子展览工作坊，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海徐汇区科技馆",
-    "city": "shanghai",
-    "district": "徐汇区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海徐汇区的暑期讲座阅读体验营，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区植物园",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "体育赛事",
-    "address": "",
-    "description": "上海浦东新区的周末体育赛事活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海金山区科技馆",
-    "city": "shanghai",
-    "district": "金山区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海金山区的趣味科普活动展览，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区美术馆",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海虹口区的梦幻讲座阅读之旅，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海隧道科技馆",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "展览",
-    "address": "",
-    "description": "隧道建设技术，盾构机模型，地下工程科普。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海黄浦区文化中心",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "科普活动",
-    "address": "",
-    "description": "上海黄浦区的走进科普活动日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "上海浦东新区动物园",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "亲子活动",
-    "address": "",
-    "description": "上海浦东新区的周末亲子活动活动，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
-  },
-  {
-    "name": "杨浦体育活动中心",
-    "city": "shanghai",
-    "district": "",
-    "type": "",
-    "address": "",
-    "description": "乒乓球、羽毛球免费体验、亲子骑行。",
-    "source": "manual",
-    "official_url": ""
-  },
-  {
-    "name": "上海虹口区创意园",
-    "city": "shanghai",
-    "district": "虹口区",
-    "type": "讲座阅读",
-    "address": "",
-    "description": "上海虹口区的走进讲座阅读日，适合亲子家庭参与。",
-    "source": "上海本地宝",
-    "official_url": ""
+    "type": "其他",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由活动语料自动普查收录的shanghai场馆，常态举办亲子/文化活动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
   }
 ]

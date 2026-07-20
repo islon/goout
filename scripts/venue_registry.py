@@ -1277,8 +1277,19 @@ def get_venues_by_district(district):
     return [v for v in VENUES if v['district'] == district]
 
 
+def _load_auto_venues():
+    """读取场馆普查脚本产出的自动场馆池（status='auto'）。"""
+    auto_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'auto_venues.json')
+    if os.path.exists(auto_file):
+        try:
+            return json.loads(open(auto_file, 'r', encoding='utf-8').read())
+        except Exception:
+            return []
+    return []
+
+
 def generate_venue_info_json(output_path=None):
-    """生成 venue_info.json 格式的数据"""
+    """生成 venue_info.json 格式的数据（精选 registry + 自动普查池合并）"""
     venues = []
     for v in VENUES:
         official_url = v.get('official_url', '')
@@ -1298,6 +1309,28 @@ def generate_venue_info_json(output_path=None):
             'official_url': official_url,
             'links': links,
             'highlights': v.get('highlights', []),
+            'status': 'curated',
+        })
+    # 合并自动普查场馆（status='auto'），实现「覆盖城市里的所有场馆」
+    for v in _load_auto_venues():
+        official_url = v.get('official_url', '')
+        links = v.get('links', [])
+        if not links and official_url:
+            links = [{'url': official_url, 'label': '官方网站'}]
+        venues.append({
+            'name': v['name'],
+            'source': v['source_code'],
+            'city': v['city'],
+            'district': v.get('district', ''),
+            'type': v.get('type', '其他'),
+            'address': v.get('address', ''),
+            'transport': v.get('transport', ''),
+            'fee': v.get('fee', '免费'),
+            'description': v.get('description', ''),
+            'official_url': official_url,
+            'links': links,
+            'highlights': v.get('highlights', []),
+            'status': 'auto',
         })
     if output_path:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
