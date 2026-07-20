@@ -43,6 +43,20 @@
     </scroll-view>
   </view>
 
+  <!-- 区县筛选 -->
+  <view class="filter-section">
+    <view class="filter-label">区县</view>
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{districts}}" wx:key="name"
+          class="filter-btn {{(item.name === '全部区县' && districtFilter === 'all') || districtFilter === item.name ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-name="{{item.name}}" data-disabled="{{item.disabled}}" bindtap="onDistrictTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
   <!-- 时间筛选 -->
   <view class="filter-section">
     <view class="filter-label">时间筛选</view>
@@ -57,18 +71,6 @@
     </scroll-view>
   </view>
 
-  <!-- 亲子筛选 -->
-  <view class="filter-section">
-    <view class="filter-label">亲子筛选</view>
-    <view class="filter-bar">
-      <view wx:for="{{familyFilters}}" wx:key="key"
-        class="filter-btn {{familyFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
-        data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onFamilyTap">
-        {{item.name}}
-      </view>
-    </view>
-  </view>
-
   <!-- 类型筛选 -->
   <view class="filter-section">
     <view class="filter-label">类型筛选</view>
@@ -77,20 +79,6 @@
         <view wx:for="{{typeFilters}}" wx:key="key"
           class="filter-btn {{typeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
           data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTypeTap">
-          {{item.name}}
-        </view>
-      </view>
-    </scroll-view>
-  </view>
-
-  <!-- 区县筛选 -->
-  <view class="filter-section">
-    <view class="filter-label">区县</view>
-    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
-      <view class="filter-bar">
-        <view wx:for="{{districts}}" wx:key="name"
-          class="filter-btn {{(item.name === '全部区县' && districtFilter === 'all') || districtFilter === item.name ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
-          data-name="{{item.name}}" data-disabled="{{item.disabled}}" bindtap="onDistrictTap">
           {{item.name}}
         </view>
       </view>

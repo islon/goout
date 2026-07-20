@@ -286,6 +286,7 @@ App({
     searchQuery: '',
     exhibitions: localExhibitions,
     venues: localVenues,
+    _bundledVenues: localVenues,  // 打包内离线兜底（场馆页CDN未到达时用于判断是否需显示loading）
     venueMap: {},
     cities: bundledCities,  // 运行期城市清单：默认打包兜底，拉取 cities.json 后覆盖（各页面 tab 据此渲染）
     dataReady: false,

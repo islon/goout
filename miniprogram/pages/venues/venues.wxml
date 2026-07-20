@@ -63,6 +63,13 @@
     </view>
   </view>
 
+  <!-- 加载中 -->
+  <view class="empty-state" wx:if="{{loading}}">
+    <image class="empty-icon" src="/assets/about-museum.png" mode="aspectFit"></image>
+    <view class="empty-text">场馆数据加载中...</view>
+    <view class="empty-hint">首次加载可能需要几秒钟</view>
+  </view>
+
   <!-- 空态 -->
   <view class="empty-state" wx:if="{{!loading && venues.length === 0}}">
     <image class="empty-icon" src="/assets/about-museum.png" mode="aspectFit"></image>

@@ -1,18 +1,17 @@
 // 打包内 cities 仅作离线兜底；运行期优先用 app.getCities()（远程 cities.json），
 // 云侧新增城市后无需重新发布小程序版本即可出现在城市 tab。
-const { cities: bundledCities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
+const { cities: bundledCities, timeFilters, typeFilters, feeFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
 const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, getPresentDistricts, matchSource, normalizeCity } = require('../../utils/helpers.js');
 
 const PAGE_SIZE = 20;
 const FILTER_STORAGE_KEY = 'goout_filter_state';
-const FILTER_KEYS = ['cityFilter', 'timeFilter', 'familyFilter', 'typeFilter', 'districtFilter', 'sourceFilter', 'feeFilter', 'searchQuery'];
+const FILTER_KEYS = ['cityFilter', 'timeFilter', 'typeFilter', 'districtFilter', 'sourceFilter', 'feeFilter', 'searchQuery'];
 const app = getApp();
 
 Page({
   data: {
     cities: bundledCities,
     timeFilters,
-    familyFilters,
     typeFilters,
     feeFilters,
     districts: [],
@@ -22,7 +21,6 @@ Page({
     // 当前筛选状态
     cityFilter: 'shenzhen',
     timeFilter: 'upcoming',
-    familyFilter: 'all',
     typeFilter: 'all',
     districtFilter: 'all',
     sourceFilter: 'all',
@@ -99,7 +97,7 @@ Page({
     // 如果从详情页返回，不需要重新加载
   },
 
-  // 恢复上次保存的筛选条件（城市/时间/亲子/类型/区县/场馆/费用/搜索）
+  // 恢复上次保存的筛选条件（城市/时间/类型/区县/场馆/费用/搜索）
   restoreFilters() {
     try {
       const saved = wx.getStorageSync(FILTER_STORAGE_KEY);
@@ -250,7 +248,6 @@ Page({
     const filters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
-      family: this.data.familyFilter,
       type: this.data.typeFilter,
       district: this.data.districtFilter,
       source: this.data.sourceFilter,
@@ -297,7 +294,6 @@ Page({
     const baseFilters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
-      family: this.data.familyFilter,
       type: this.data.typeFilter,
       district: this.data.districtFilter,
       source: this.data.sourceFilter,
@@ -337,10 +333,6 @@ Page({
       return Object.assign({}, f, { disabled: !checkResult('fee', f.key) && f.key !== self.data.feeFilter });
     });
 
-    const familyAvail = this.data.familyFilters.map(function(f) {
-      return Object.assign({}, f, { disabled: !checkResult('family', f.key) && f.key !== self.data.familyFilter });
-    });
-
     const districtsAvail = (this.data.districts || []).map(function(d) {
       const name = d.name || d;
       return { name: name, disabled: name !== '全部区县' && !checkResult('district', name) && name !== self.data.districtFilter };
@@ -351,7 +343,6 @@ Page({
       timeFilters: timeAvail,
       typeFilters: typeAvail,
       feeFilters: feeAvail,
-      familyFilters: familyAvail,
       districts: districtsAvail
     });
   },
@@ -378,15 +369,6 @@ Page({
     const key = e.currentTarget.dataset.key;
     if (key === this.data.timeFilter) return;
     this.setData({ timeFilter: key, currentPage: 1 });
-    this.saveFilters();
-    this.loadData();
-  },
-
-  onFamilyTap(e) {
-    if (e.currentTarget.dataset.disabled) return;
-    const key = e.currentTarget.dataset.key;
-    if (key === this.data.familyFilter) return;
-    this.setData({ familyFilter: key, currentPage: 1 });
     this.saveFilters();
     this.loadData();
   },

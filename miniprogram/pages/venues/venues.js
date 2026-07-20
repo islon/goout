@@ -116,6 +116,10 @@ Page({
     const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
     const allExhibitions = Array.isArray(app.globalData.exhibitions) ? app.globalData.exhibitions : [];
 
+    // 判断是否仍在使用打包内兜底（CDN 全量场馆尚未到达）
+    const bundled = Array.isArray(app.globalData._bundledVenues) ? app.globalData._bundledVenues : [];
+    const stillLoadingBundled = allVenues.length <= bundled.length && app.globalData.isLoading;
+
     const typeSet = {};
     for (let i = 0; i < allVenues.length; i++) {
       const v = allVenues[i];
@@ -134,7 +138,7 @@ Page({
       cityNameMap: cityNameMap,
       types: types,
       activityCounts: activityCounts,
-      loading: false
+      loading: stillLoadingBundled  // CDN 未到达时保持 loading 态，避免显示"没有找到"
     };
 
     this.setData(patch, () => {
@@ -149,14 +153,22 @@ Page({
   },
 
   applyFilters() {
-    const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
+    const rawVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
+    // 兜底：若 globalData 尚未加载（CDN 未返回），用打包内离线兜底保证不白屏
+    const allVenues = rawVenues.length > 0 ? rawVenues : (Array.isArray(app.globalData._bundledVenues) ? app.globalData._bundledVenues : []);
     const cityFilter = this.data.cityFilter;
     const districtFilter = this.data.districtFilter;
     const typeFilter = this.data.typeFilter;
     const query = this.data.searchQuery.toLowerCase().trim();
 
+    // 城市匹配：兼容英文key / 中文名（防御数据源格式不一致）
+    function cityMatch(v) {
+      return v.city === cityFilter
+        || v.city === (cityNameMap[cityFilter] || cityFilter);
+    }
+
     const filtered = allVenues.filter(v => {
-      if (v.city !== cityFilter) return false;
+      if (!cityMatch(v)) return false;
       if (districtFilter !== 'all' && v.district !== districtFilter) return false;
       if (typeFilter !== 'all' && v.type !== typeFilter) return false;
       if (query) {
@@ -178,7 +190,9 @@ Page({
           activityCount: count,
           hasActivity: count > 0
         });
-      })
+      }),
+      // 数据已到位后关闭加载态（避免全局数据就绪后仍卡在loading）
+      loading: false
     });
   },
 

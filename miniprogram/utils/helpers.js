@@ -84,11 +84,17 @@ function getPresentDistricts(city, exhibitions) {
     const d = getDistrict(e);
     if (d && d !== '其他') found[d] = true;
   });
+  var result;
   if (configured && configured.length) {
-    return sortDistrictsByPopulation(configured.filter(function(d) { return d === '全部区县' || found[d]; }));
+    result = configured.filter(function(d) { return d === '全部区县' || found[d]; });
+  } else {
+    // 未配置：从数据动态生成（全部区县 + 实际出现的区县）
+    result = ['全部区县'].concat(Object.keys(found));
   }
-  // 未配置：从数据动态生成（全部区县 + 实际出现的区县）
-  return sortDistrictsByPopulation(['全部区县'].concat(Object.keys(found)));
+  // 防御保底：确保「全部区县」永远存在、结果永不为空
+  if (result.indexOf('全部区县') < 0) result.unshift('全部区县');
+  if (result.length === 0) result = ['全部区县'];
+  return sortDistrictsByPopulation(result);
 }
 
 function matchSource(exhibition, sourceKey) {
