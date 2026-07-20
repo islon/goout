@@ -48,9 +48,17 @@ Page({
       return;
     }
 
+    this._venueId = rawId;
+
     app.onReady(function() {
       self.loadVenue(rawId);
     });
+
+    if (app && typeof app.onDataUpdated === 'function') {
+      app.onDataUpdated(function() {
+        self.loadVenue(rawId);
+      });
+    }
   },
 
   loadVenue(rawId) {
