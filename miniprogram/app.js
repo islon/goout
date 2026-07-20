@@ -767,7 +767,8 @@ App({
     var self = this;
     self._setLoading(true);
     console.log('[童行] 强制刷新中...');
-    // 先拉城市清单（新增城市立即可见）
+    // 先拉城市清单（新增城市立即可见）；必须等城市清单更新完成再拉场馆，
+    // 否则 fetchAllVenues 仍用旧 activeCities（不含新增城市），导致新城市场馆永远拉不到。
     fetchCities().then(function(arr) {
       if (arr && !sameCityKeys(self.globalData.cities, arr)) {
         self.globalData.cities = arr;
@@ -775,9 +776,9 @@ App({
         self.notifyCitiesUpdated();
         console.log('[童行] 城市清单已更新，共', arr.length, '城');
       }
-    });
-    // 拉云端数据版本清单，决定是否真的需要下载（云侧无更新则提示已是最新、不下载）
-    self._checkMeta().then(function(r) {
+      // 城市清单就绪后再拉数据版本清单，决定是否真的需要下载
+      return self._checkMeta();
+    }).then(function(r) {
       var dataChanged = r.changed;
       var force = self._seededThisLaunch || self._versionChanged;
       // 主动刷新时，即便云侧无变化，只要场馆未拉满也要继续补齐（避免被活动缓存版本号永久跳过）
@@ -801,18 +802,53 @@ App({
         if (callback) callback(ok);
       });
       // 同时刷新场馆（分城市并行拉取 + 缺失补齐 + 单文件兜底）
-      self._venueStaged = self._venueStaged || { fullCities: {} };
+      // 此时 activeCities 已被 fetchCities 更新，fetchAllVenues 会覆盖新增城市
+      self._venueStaged = { fullCities: {} };
       fetchAllVenues().then(function(result) {
         var merged = result.merged, failed = result.failed;
         if (merged && merged.length) {
           merged.forEach(function(v) { if (v.city) self._venueStaged.fullCities[v.city] = true; });
           self.applyVenues(merged, failed.length > 0);
+          self.notifyDataUpdated();
           console.log('[童行] 场馆已刷新', merged.length, '条' + (failed.length ? ('，缺失：' + failed.join(',')) : ''));
         }
         if (failed.length) {
           self._fillMissingVenueCities(failed, 6);
           self.fetchVenueFullFallback();
         }
+      });
+    }).catch(function(err) {
+      // fetchCities 失败时回退到旧的并行逻辑，保证刷新不中断
+      console.warn('[童行] 城市清单拉取失败，沿用旧清单继续刷新', err);
+      self._checkMeta().then(function(r) {
+        var dataChanged = r.changed;
+        var force = self._seededThisLaunch || self._versionChanged;
+        var venuesSatisfied = r.meta && r.meta.venues && (self.globalData.venues.length >= r.meta.venues * 0.9);
+        if (!dataChanged && !force && venuesSatisfied) {
+          self._setLoading(false);
+          self.notifyDataUpdated();
+          if (callback) callback(true);
+          return;
+        }
+        self._pendingMetaVersion = (r.meta && r.meta.version) || null;
+        self.globalData.dataMeta = r.meta || null;
+        self.loadStagedData(true, function(ok) {
+          self._setLoading(false);
+          if (callback) callback(ok);
+        });
+        self._venueStaged = self._venueStaged || { fullCities: {} };
+        fetchAllVenues().then(function(result) {
+          var merged = result.merged, failed = result.failed;
+          if (merged && merged.length) {
+            merged.forEach(function(v) { if (v.city) self._venueStaged.fullCities[v.city] = true; });
+            self.applyVenues(merged, failed.length > 0);
+            self.notifyDataUpdated();
+          }
+          if (failed.length) {
+            self._fillMissingVenueCities(failed, 6);
+            self.fetchVenueFullFallback();
+          }
+        });
       });
     });
   },
