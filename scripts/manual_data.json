@@ -1769,7 +1769,7 @@
   },
   {
     "title": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展",
-    "venue": "深圳美术馆",
+    "venue": "罗湖区深圳美术馆",
     "start_date": "2026-05-29",
     "end_date": "2026-10-31",
     "link": "http://m.toutiao.com/group/7658324154139148850/",
@@ -1778,7 +1778,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心"
+    "source": "深圳美术馆"
   },
   {
     "title": "笔墨同心·林甘泉、萧华作品展",
@@ -1857,5 +1857,75 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山融媒体中心"
+  },
+  {
+    "title": "罗湖一站式普惠托育集市",
+    "venue": "罗湖区翠湖文体公园拾光草坪",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "link": "http://m.toutiao.com/group/7660412037217993243/",
+    "description": "备案托育机构现场驻点、儿童保健义诊、童话游园（九宫格扔沙包、套大鹅、跳房子、投壶）、舞台汇演。适合0-3岁宝宝家庭。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "罗湖发布",
+    "city": "shenzhen"
+  },
+  {
+    "title": "宝安大仟里首届暑期儿童戏剧节",
+    "venue": "宝安大仟里",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-31",
+    "link": "https://sz.ifeng.com/c/8uQvmmWyQO0",
+    "description": "联袂小橙堡儿童艺术剧团，连续8周30场活动。五大剧目轮番登场：《和风一起散步》《吹牛大王历险记》《小红帽》《丑小鸭》等。免费儿童用品、星空楼梯乐园、白鸽广场等亲子设施。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "凤凰网深圳",
+    "city": "shenzhen"
+  },
+  {
+    "title": "深圳图书馆第十二届\"暑期缤纷季\"——近300场阅读活动",
+    "venue": "深圳图书馆（中心馆+北馆）",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "http://www.sznews.com/news/content/2026-07/08/content_32114626.htm",
+    "description": "含8大类69节免费公益培训课（语言朗诵、创意美术、魔方、棋艺、科创等）、人文通识课、走读深圳研学、AI训练营、成语小课堂等近300场活动。面向5-16岁青少年。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳新闻网",
+    "city": "shenzhen"
+  },
+  {
+    "title": "炫彩青春——优秀青年京剧演员展演",
+    "venue": "罗湖区深圳戏院",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-19",
+    "link": "https://m.sohu.com/a/1047290911_122091088/",
+    "description": "中国京剧艺术基金会与深圳京剧院联合主办，剧目包括《满江红》《寻觅清照》《杨门女将》，张建国等名家领衔。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "罗湖发布",
+    "city": "shenzhen"
+  },
+  {
+    "title": "儿童音乐皮影戏",
+    "venue": "罗湖区深圳戏院",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-12",
+    "link": "https://m.sohu.com/a/1047290911_122091088/",
+    "description": "深圳戏院\"少儿演出季\"系列，传统皮影戏融合音乐元素，适合亲子观看。地铁1/3号线老街站F出口。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "罗湖发布",
+    "city": "shenzhen"
   }
 ]

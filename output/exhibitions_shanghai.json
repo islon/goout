@@ -32,7 +32,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "黄浦区"
   },
   {
     "title": "恐龙化石与生物观察",
@@ -67,13 +68,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "静安区"
   },
   {
     "name": "发现上海上海迪士尼乐园展览-42",
     "venue": "上海迪士尼乐园",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -109,7 +111,7 @@
     "name": "上海玻璃博物馆",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "收费",
@@ -174,13 +176,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "金山区"
   },
   {
     "name": "探索上海淮海路研学-53",
     "venue": "淮海路",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "收费",
@@ -216,7 +219,7 @@
     "name": "金茂大厦观光",
     "venue": "金茂大厦",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "收费",
@@ -281,13 +284,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "静安区"
   },
   {
     "name": "亲子上海东方明珠亲子活动",
     "venue": "东方明珠",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "免费",
@@ -323,7 +327,7 @@
     "name": "经典上海金茂大厦演出-58",
     "venue": "金茂大厦",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "收费",
@@ -387,13 +391,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "趣味上海外滩亲子活动-51",
     "venue": "外滩",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -429,7 +434,7 @@
     "name": "探索上海淮海路研学-83",
     "venue": "淮海路",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -465,7 +470,7 @@
     "name": "震撼上海长宁区演出发现",
     "venue": "上海长宁区博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -502,7 +507,7 @@
     "name": "暑期上海徐汇区体育赛事体验营",
     "venue": "上海徐汇区体育馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -539,7 +544,7 @@
     "name": "精彩上海奉贤区讲座阅读节",
     "venue": "上海奉贤区青少年宫",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "免费",
@@ -576,7 +581,7 @@
     "name": "趣味上海金山区亲子活动展览",
     "venue": "上海金山区体育馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -642,7 +647,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "上海上海博物馆展览",
@@ -713,13 +719,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "实践上海长风公园研学-77",
     "venue": "长风公园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -756,7 +763,7 @@
     "name": "漫游上海青浦区展览季",
     "venue": "上海青浦区艺术中心",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "免费",
@@ -793,7 +800,7 @@
     "name": "经典上海徐汇区演出探秘",
     "venue": "上海徐汇区博物馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -830,7 +837,7 @@
     "name": "欢乐上海上海中心大厦亲子活动",
     "venue": "上海中心大厦",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -866,7 +873,7 @@
     "name": "沉浸式上海上海科技馆展览-61",
     "venue": "上海科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "浦东新区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -903,7 +910,7 @@
     "name": "儿童上海上海航海博物馆亲子活动-158",
     "venue": "上海航海博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "免费",
@@ -940,7 +947,7 @@
     "name": "体验上海嘉定区展览嘉年华",
     "venue": "上海嘉定区美术馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "免费",
@@ -1006,13 +1013,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "青少年上海上海野生动物园亲子活动",
     "venue": "上海野生动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "浦东新区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "免费",
@@ -1048,7 +1056,7 @@
     "name": "解读上海徐家汇展览-84",
     "venue": "徐家汇",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "免费",
@@ -1084,7 +1092,7 @@
     "name": "欢乐上海上海中心大厦亲子活动-147",
     "venue": "上海中心大厦",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "收费",
@@ -1120,7 +1128,7 @@
     "name": "震撼上海闵行区亲子活动发现",
     "venue": "上海闵行区会展中心",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "收费",
@@ -1156,7 +1164,7 @@
     "name": "暑期上海金山区展览体验营",
     "venue": "上海金山区海洋馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "免费",
@@ -1221,13 +1229,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "杨浦区"
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-33",
     "venue": "上海美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "收费",
@@ -1264,7 +1273,7 @@
     "name": "探索上海上海汽车博物馆展览-66",
     "venue": "上海汽车博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "嘉定区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "免费",
@@ -1301,7 +1310,7 @@
     "name": "体验上海上海电影博物馆展览-97",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "收费",
@@ -1338,7 +1347,7 @@
     "name": "走进上海世纪公园展览-138",
     "venue": "世纪公园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "免费",
@@ -1375,7 +1384,7 @@
     "name": "儿童上海奉贤区科普活动课程",
     "venue": "上海奉贤区体育馆",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "免费",
@@ -1412,7 +1421,7 @@
     "name": "解读上海金山区讲座阅读周",
     "venue": "上海金山区图书馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "免费",
@@ -1449,7 +1458,7 @@
     "name": "家庭上海上海自然博物馆亲子活动-92",
     "venue": "上海自然博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "静安区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "免费",
@@ -1486,7 +1495,7 @@
     "name": "趣味上海杨浦区亲子活动展览",
     "venue": "上海杨浦区植物园",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -1522,7 +1531,7 @@
     "name": "梦幻上海虹口区展览之旅",
     "venue": "上海虹口区科技馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "免费",
@@ -1559,7 +1568,7 @@
     "name": "互动上海普陀区科普活动科普",
     "venue": "上海普陀区体育场",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "免费",
@@ -1595,7 +1604,7 @@
     "name": "家庭上海宝山区亲子活动研学营",
     "venue": "上海宝山区青少年宫",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -1632,7 +1641,7 @@
     "name": "互动上海嘉定区体育赛事科普",
     "venue": "上海嘉定区植物园",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -1668,7 +1677,7 @@
     "name": "上海公安博物馆",
     "venue": "上海公安博物馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -1705,7 +1714,7 @@
     "name": "奇妙上海上海美术馆亲子活动-93",
     "venue": "上海美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -1742,7 +1751,7 @@
     "name": "上海人民广场亲子活动-140",
     "venue": "人民广场",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -1778,7 +1787,7 @@
     "name": "体验上海普陀区影视放映嘉年华",
     "venue": "上海普陀区动物园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -1814,7 +1823,7 @@
     "name": "梦幻上海黄浦区科普活动之旅",
     "venue": "上海黄浦区创意园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -1915,13 +1924,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "长宁区"
   },
   {
     "name": "上海人民广场亲子活动",
     "venue": "人民广场",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "免费",
@@ -1957,7 +1967,7 @@
     "name": "漫游上海静安雕塑公园展览-139",
     "venue": "静安雕塑公园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -1994,7 +2004,7 @@
     "name": "趣味上海外滩亲子活动-141",
     "venue": "外滩",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2030,7 +2040,7 @@
     "name": "互动上海嘉定区影视放映科普",
     "venue": "上海嘉定区公园",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2067,7 +2077,7 @@
     "name": "走进上海浦东新区展览日",
     "venue": "上海浦东新区美术馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "免费",
@@ -2104,7 +2114,7 @@
     "name": "周末上海黄浦区讲座阅读活动",
     "venue": "上海黄浦区科技馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "免费",
@@ -2170,7 +2180,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "静安区"
   },
   {
     "title": "话剧《无墙》",
@@ -2205,7 +2216,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "黄浦区"
   },
   {
     "title": "音乐剧《粉丝来信》中文版",
@@ -2239,13 +2251,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动",
     "venue": "上海航海博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "免费",
@@ -2282,7 +2295,7 @@
     "name": "探索上海淮海路研学-113",
     "venue": "淮海路",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2318,7 +2331,7 @@
     "name": "儿童上海上海航海博物馆亲子活动-128",
     "venue": "上海航海博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "免费",
@@ -2355,7 +2368,7 @@
     "name": "探索上海淮海路研学-143",
     "venue": "淮海路",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2391,7 +2404,7 @@
     "name": "发现上海宝山区亲子活动比赛",
     "venue": "上海宝山区科技馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2428,7 +2441,7 @@
     "name": "发现上海上海迪士尼乐园展览-72",
     "venue": "上海迪士尼乐园",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "免费",
@@ -2464,7 +2477,7 @@
     "name": "体验上海环球金融中心研学-89",
     "venue": "环球金融中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "收费",
@@ -2500,7 +2513,7 @@
     "name": "探秘上海上海欢乐谷展览-163",
     "venue": "上海欢乐谷",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "收费",
@@ -2536,7 +2549,7 @@
     "name": "互动上海奉贤区影视放映科普",
     "venue": "上海奉贤区剧院",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "收费",
@@ -2602,13 +2615,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "长宁区"
   },
   {
     "name": "漫游上海静安雕塑公园展览-49",
     "venue": "静安雕塑公园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -2645,7 +2659,7 @@
     "name": "上海上海玻璃博物馆研学-65",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -2682,7 +2696,7 @@
     "name": "上海陆家嘴展览-115",
     "venue": "陆家嘴",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -2718,7 +2732,7 @@
     "name": "经典上海徐汇区科普活动探秘",
     "venue": "上海徐汇区创意园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "免费",
@@ -2783,7 +2797,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -2817,13 +2832,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "徐汇区"
   },
   {
     "name": "走进上海世纪公园展览",
     "venue": "世纪公园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -2860,7 +2876,7 @@
     "name": "奇妙上海上海美术馆亲子活动-153",
     "venue": "上海美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "收费",
@@ -2897,7 +2913,7 @@
     "name": "家庭上海宝山区科普活动研学营",
     "venue": "上海宝山区植物园",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -2933,7 +2949,7 @@
     "name": "漫游上海静安区体育赛事季",
     "venue": "上海静安区创意园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "收费",
@@ -2969,7 +2985,7 @@
     "name": "经典上海金山区展览探秘",
     "venue": "上海金山区公园",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -3006,7 +3022,7 @@
     "name": "沉浸式上海宝山区展览探索",
     "venue": "上海宝山区文化中心",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -3042,7 +3058,7 @@
     "name": "家庭上海静安区讲座阅读研学营",
     "venue": "上海静安区文化中心",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -3106,7 +3122,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "雨林探秘：玛雅大冒险（沉浸式体验展）",
@@ -3141,7 +3158,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "上海上海博物馆展览-30",
@@ -3184,7 +3202,7 @@
     "name": "上海上海植物园亲子活动-45",
     "venue": "上海植物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "徐汇区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3220,7 +3238,7 @@
     "name": "梦幻上海南京路演出-52",
     "venue": "南京路",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3256,7 +3274,7 @@
     "name": "家庭上海上海自然博物馆亲子活动-62",
     "venue": "上海自然博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "静安区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "免费",
@@ -3293,7 +3311,7 @@
     "name": "儿童上海上海航海博物馆亲子活动-98",
     "venue": "上海航海博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "免费",
@@ -3330,7 +3348,7 @@
     "name": "上海陆家嘴展览-145",
     "venue": "陆家嘴",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3366,7 +3384,7 @@
     "name": "发现上海宝山区体育赛事比赛",
     "venue": "上海宝山区博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3403,7 +3421,7 @@
     "name": "周末上海虹口区演出活动",
     "venue": "上海虹口区会展中心",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3439,7 +3457,7 @@
     "name": "体验上海奉贤区体育赛事嘉年华",
     "venue": "上海奉贤区文化馆",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3476,7 +3494,7 @@
     "name": "精彩上海普陀区演出节",
     "venue": "上海普陀区剧院",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3513,7 +3531,7 @@
     "name": "梦幻上海浦东新区演出之旅",
     "venue": "上海浦东新区文化中心",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3549,7 +3567,7 @@
     "name": "梦幻上海浦东新区展览之旅",
     "venue": "上海浦东新区公园",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "免费",
@@ -3615,13 +3633,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "发现上海宝山区讲座阅读比赛",
     "venue": "上海宝山区海洋馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -3657,7 +3676,7 @@
     "name": "精彩上海普陀区亲子活动节",
     "venue": "上海普陀区博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3694,7 +3713,7 @@
     "name": "沉浸式上海青浦区科普活动探索",
     "venue": "上海青浦区动物园",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -3758,13 +3777,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "name": "上海上海城市规划展示馆演出-40",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "收费",
@@ -3800,7 +3820,7 @@
     "name": "青少年上海上海野生动物园亲子活动-44",
     "venue": "上海野生动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "浦东新区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "免费",
@@ -3836,7 +3856,7 @@
     "name": "探索上海上海汽车博物馆展览-96",
     "venue": "上海汽车博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "嘉定区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "免费",
@@ -3873,7 +3893,7 @@
     "name": "走进上海虹口区科普活动日",
     "venue": "上海虹口区博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "免费",
@@ -3910,7 +3930,7 @@
     "name": "探索上海闵行区体育赛事演出",
     "venue": "上海闵行区博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "收费",
@@ -3975,7 +3995,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "科举文化与古建筑手工",
@@ -4010,7 +4031,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "嘉定区"
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -4045,13 +4067,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "黄浦区"
   },
   {
     "name": "上海上海植物园亲子活动-135",
     "venue": "上海植物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "徐汇区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -4087,7 +4110,7 @@
     "name": "周末上海黄浦区展览活动",
     "venue": "上海黄浦区博物馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "免费",
@@ -4124,7 +4147,7 @@
     "name": "周末上海浦东新区科普活动活动",
     "venue": "上海浦东新区青少年宫",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "免费",
@@ -4161,7 +4184,7 @@
     "name": "趣味上海杨浦区展览展览",
     "venue": "上海杨浦区动物园",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "免费",
@@ -4226,13 +4249,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "体验上海普陀区展览嘉年华",
     "venue": "上海普陀区青少年宫",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "免费",
@@ -4269,7 +4293,7 @@
     "name": "家庭上海青浦区体育赛事研学营",
     "venue": "上海青浦区科技馆",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -4343,7 +4367,7 @@
     "name": "梦幻上海黄浦区亲子活动之旅",
     "venue": "上海黄浦区海洋馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -4416,7 +4440,7 @@
     "name": "家庭上海静安区影视放映研学营",
     "venue": "上海静安区文化馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -4453,7 +4477,7 @@
     "name": "探索上海闵行区讲座阅读演出",
     "venue": "上海闵行区海洋馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "免费",
@@ -4489,7 +4513,7 @@
     "name": "走进上海世纪公园展览-48",
     "venue": "世纪公园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "免费",
@@ -4526,7 +4550,7 @@
     "name": "体验上海环球金融中心研学-59",
     "venue": "环球金融中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "收费",
@@ -4562,7 +4586,7 @@
     "name": "震撼上海闵行区科普活动发现",
     "venue": "上海闵行区图书馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "免费",
@@ -4599,7 +4623,7 @@
     "name": "探秘上海闵行区演出月",
     "venue": "上海闵行区科技馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "收费",
@@ -4636,7 +4660,7 @@
     "name": "沉浸式上海静安区影视放映探索",
     "venue": "上海静安区科技馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4673,7 +4697,7 @@
     "name": "漫游上海静安区科普活动季",
     "venue": "上海静安区海洋馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -4709,7 +4733,7 @@
     "name": "上海电影博物馆",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4775,7 +4799,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "title": "轮滑与滑板",
@@ -4810,13 +4835,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "实践上海长风公园研学",
     "venue": "长风公园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4853,7 +4879,7 @@
     "name": "互动上海普陀区演出科普",
     "venue": "上海普陀区会展中心",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4917,13 +4943,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "静安区"
   },
   {
     "name": "探秘上海长宁区影视放映月",
     "venue": "上海长宁区青少年宫",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "收费",
@@ -4996,7 +5023,7 @@
     "name": "解读上海杨浦区亲子活动周",
     "venue": "上海杨浦区剧院",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "收费",
@@ -5062,13 +5089,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "宝山区"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-32",
     "venue": "上海自然博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "静安区",
     "start_date": "2026-08-13",
     "end_date": "2027-02-12",
     "fee": "免费",
@@ -5105,7 +5133,7 @@
     "name": "上海上海玻璃博物馆研学-35",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-08-13",
     "end_date": "2027-02-12",
     "fee": "收费",
@@ -5142,7 +5170,7 @@
     "name": "暑期上海杨浦区讲座阅读体验营",
     "venue": "上海杨浦区公园",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-08-13",
     "end_date": "2027-02-12",
     "fee": "免费",
@@ -5179,7 +5207,7 @@
     "name": "探索上海长宁区亲子活动演出",
     "venue": "上海长宁区艺术中心",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-08-13",
     "end_date": "2027-02-12",
     "fee": "收费",
@@ -5216,7 +5244,7 @@
     "name": "上海博物馆东馆",
     "venue": "上海博物馆东馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5281,13 +5309,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "奇妙上海上海美术馆亲子活动",
     "venue": "上海美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5324,7 +5353,7 @@
     "name": "梦幻上海南京路演出",
     "venue": "南京路",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5360,7 +5389,7 @@
     "name": "体验上海上海电影博物馆展览-37",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5397,7 +5426,7 @@
     "name": "体验上海环球金融中心研学-119",
     "venue": "环球金融中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5499,13 +5528,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "静安区"
   },
   {
     "name": "上海上海植物园亲子活动-75",
     "venue": "上海植物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "徐汇区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "收费",
@@ -5541,7 +5571,7 @@
     "name": "梦幻上海浦东新区亲子活动之旅",
     "venue": "上海浦东新区文化馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "收费",
@@ -5578,7 +5608,7 @@
     "name": "青少年上海黄浦区展览讲座",
     "venue": "上海黄浦区图书馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "免费",
@@ -5644,13 +5674,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-38",
     "venue": "上海航海博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "免费",
@@ -5687,7 +5718,7 @@
     "name": "家庭上海上海自然博物馆亲子活动-122",
     "venue": "上海自然博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "静安区",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "免费",
@@ -5724,7 +5755,7 @@
     "name": "上海中医药博物馆",
     "venue": "上海中医药博物馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "免费",
@@ -5761,7 +5792,7 @@
     "name": "上海工艺美术博物馆",
     "venue": "上海工艺美术博物馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5827,7 +5858,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "title": "环湖徒步与球类公益课",
@@ -5862,13 +5894,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "闵行区"
   },
   {
     "name": "探索上海上海汽车博物馆展览",
     "venue": "上海汽车博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "嘉定区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "免费",
@@ -5905,7 +5938,7 @@
     "name": "上海陆家嘴展览-55",
     "venue": "陆家嘴",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5941,7 +5974,7 @@
     "name": "互动上海奉贤区演出科普",
     "venue": "上海奉贤区海洋馆",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5977,7 +6010,7 @@
     "name": "暑期上海徐汇区亲子活动体验营",
     "venue": "上海徐汇区体育场",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -6041,13 +6074,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "徐汇区"
   },
   {
     "name": "体验上海环球金融中心研学",
     "venue": "环球金融中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "收费",
@@ -6083,7 +6117,7 @@
     "name": "梦幻上海黄浦区讲座阅读之旅",
     "venue": "上海黄浦区青少年宫",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "免费",
@@ -6120,7 +6154,7 @@
     "name": "精彩上海普陀区展览节",
     "venue": "上海普陀区科技馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "免费",
@@ -6157,7 +6191,7 @@
     "name": "趣味上海杨浦区影视放映展览",
     "venue": "上海杨浦区创意园",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "收费",
@@ -6193,7 +6227,7 @@
     "name": "精彩上海奉贤区体育赛事节",
     "venue": "上海奉贤区动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "收费",
@@ -6229,7 +6263,7 @@
     "name": "实践上海长风公园研学-47",
     "venue": "长风公园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6266,7 +6300,7 @@
     "name": "探秘上海上海欢乐谷展览-133",
     "venue": "上海欢乐谷",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6302,7 +6336,7 @@
     "name": "走进上海虹口区体育赛事日",
     "venue": "上海虹口区海洋馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6412,7 +6446,7 @@
     "name": "儿童上海嘉定区演出课程",
     "venue": "上海嘉定区动物园",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6448,7 +6482,7 @@
     "name": "青少年上海浦东新区影视放映讲座",
     "venue": "上海浦东新区海洋馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6484,7 +6518,7 @@
     "name": "互动上海普陀区亲子活动科普",
     "venue": "上海普陀区图书馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6550,7 +6584,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "书之奇遇：艺术家手作书（PSA等等图书馆特别项目）",
@@ -6585,7 +6620,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "机器人互动与动物标本",
@@ -6620,13 +6656,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "儿童上海普陀区科普活动课程",
     "venue": "上海普陀区艺术中心",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "免费",
@@ -6766,13 +6803,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "普陀区"
   },
   {
     "name": "精彩上海上海动物园演出",
     "venue": "上海动物园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "收费",
@@ -6808,7 +6846,7 @@
     "name": "探秘上海上海欢乐谷展览-43",
     "venue": "上海欢乐谷",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "收费",
@@ -6844,7 +6882,7 @@
     "name": "梦幻上海中国航海博物馆亲子活动-99",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "收费",
@@ -6881,7 +6919,7 @@
     "name": "精彩上海奉贤区展览节",
     "venue": "上海奉贤区艺术中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "免费",
@@ -6918,7 +6956,7 @@
     "name": "精彩上海嘉定区科普活动节",
     "venue": "上海嘉定区会展中心",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "免费",
@@ -6982,7 +7020,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "title": "净水实验与水科学探究",
@@ -7016,13 +7055,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "普陀区"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-159",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -7059,7 +7099,7 @@
     "name": "体验上海奉贤区讲座阅读嘉年华",
     "venue": "上海奉贤区会展中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "免费",
@@ -7095,7 +7135,7 @@
     "name": "发现上海静安区演出比赛",
     "venue": "上海静安区植物园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -7195,13 +7235,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "name": "走进上海世纪公园展览-108",
     "venue": "世纪公园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "免费",
@@ -7238,7 +7279,7 @@
     "name": "探索上海长宁区体育赛事演出",
     "venue": "上海长宁区文化中心",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7274,7 +7315,7 @@
     "name": "走进上海黄浦区演出日",
     "venue": "上海黄浦区艺术中心",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7311,7 +7352,7 @@
     "name": "走进上海浦东新区讲座阅读日",
     "venue": "上海浦东新区图书馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "免费",
@@ -7377,13 +7418,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "静安区"
   },
   {
     "name": "上海人民广场亲子活动-80",
     "venue": "人民广场",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -7419,7 +7461,7 @@
     "name": "发现上海静安区亲子活动比赛",
     "venue": "上海静安区艺术中心",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -7456,7 +7498,7 @@
     "name": "暑期上海金山区演出体验营",
     "venue": "上海金山区创意园",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -7529,7 +7571,7 @@
     "name": "探秘上海长宁区体育赛事月",
     "venue": "上海长宁区创意园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -7565,7 +7607,7 @@
     "name": "震撼上海闵行区演出发现",
     "venue": "上海闵行区文化馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -7630,13 +7672,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-161",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7738,13 +7781,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-129",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7781,7 +7825,7 @@
     "name": "研学上海上海杜莎夫人蜡像馆研学-131",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7853,7 +7897,7 @@
     "name": "暑期上海金山区亲子活动体验营",
     "venue": "上海金山区动物园",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7889,7 +7933,7 @@
     "name": "暑期上海杨浦区影视放映体验营",
     "venue": "上海杨浦区文化中心",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7925,7 +7969,7 @@
     "name": "解读上海杨浦区演出周",
     "venue": "上海杨浦区科技馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7962,7 +8006,7 @@
     "name": "探秘上海闵行区影视放映月",
     "venue": "上海闵行区美术馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7999,7 +8043,7 @@
     "name": "周末上海黄浦区体育赛事活动",
     "venue": "上海黄浦区体育馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -8036,7 +8080,7 @@
     "name": "沉浸式上海静安区科普活动探索",
     "venue": "上海静安区体育场",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "免费",
@@ -8101,13 +8145,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "松江区"
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-57",
     "venue": "上海中心大厦",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -8143,7 +8188,7 @@
     "name": "震撼上海上海当代艺术博物馆演出-94",
     "venue": "上海当代艺术博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -8180,7 +8225,7 @@
     "name": "青少年上海上海野生动物园亲子活动-104",
     "venue": "上海野生动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "浦东新区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -8216,7 +8261,7 @@
     "name": "儿童上海奉贤区亲子活动课程",
     "venue": "上海奉贤区美术馆",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -8253,7 +8298,7 @@
     "name": "经典上海徐汇区展览探秘",
     "venue": "上海徐汇区剧院",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -8318,7 +8363,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "杨浦区"
   },
   {
     "title": "上海科技馆机器人总动员",
@@ -8353,13 +8399,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "name": "经典上海金茂大厦演出",
     "venue": "金茂大厦",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8395,7 +8442,7 @@
     "name": "梦幻上海中国航海博物馆亲子活动-39",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8432,7 +8479,7 @@
     "name": "沉浸式上海上海科技馆展览-151",
     "venue": "上海科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "浦东新区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8535,13 +8582,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "宝山区"
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-124",
     "venue": "上海当代艺术博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "收费",
@@ -8578,7 +8626,7 @@
     "name": "解读上海金山区体育赛事周",
     "venue": "上海金山区会展中心",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "收费",
@@ -8614,7 +8662,7 @@
     "name": "发现上海静安区展览比赛",
     "venue": "上海静安区青少年宫",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8679,13 +8727,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "家庭上海青浦区讲座阅读研学营",
     "venue": "上海青浦区剧院",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "免费",
@@ -8722,7 +8771,7 @@
     "name": "发现上海青浦区影视放映比赛",
     "venue": "上海青浦区图书馆",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "收费",
@@ -8759,7 +8808,7 @@
     "name": "趣味上海徐汇区讲座阅读展览",
     "venue": "上海徐汇区文化馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "免费",
@@ -8796,7 +8845,7 @@
     "name": "漫游上海宝山区体育赛事季",
     "venue": "上海宝山区图书馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "收费",
@@ -8899,7 +8948,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "来自喜马拉雅的瑰宝：西藏萨迦文物精品展",
@@ -8934,13 +8984,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "探秘上海上海欢乐谷展览",
     "venue": "上海欢乐谷",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "收费",
@@ -8976,7 +9027,7 @@
     "name": "解读上海徐家汇展览-54",
     "venue": "徐家汇",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "免费",
@@ -9012,7 +9063,7 @@
     "name": "上海上海玻璃博物馆研学-155",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "收费",
@@ -9049,7 +9100,7 @@
     "name": "发现上海上海迪士尼乐园展览-162",
     "venue": "上海迪士尼乐园",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "免费",
@@ -9113,13 +9164,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "体验上海上海电影博物馆展览",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -9156,7 +9208,7 @@
     "name": "梦幻上海中国航海博物馆亲子活动-69",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -9193,7 +9245,7 @@
     "name": "走进上海浦东新区演出日",
     "venue": "上海浦东新区体育馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -9230,7 +9282,7 @@
     "name": "漫游上海宝山区影视放映季",
     "venue": "上海宝山区美术馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -9267,7 +9319,7 @@
     "name": "亲子上海长宁区亲子活动工作坊",
     "venue": "上海长宁区体育场",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -9303,7 +9355,7 @@
     "name": "家庭上海上海自然博物馆亲子活动",
     "venue": "上海自然博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "静安区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9340,7 +9392,7 @@
     "name": "上海上海城市规划展示馆演出",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9376,7 +9428,7 @@
     "name": "青少年上海上海野生动物园亲子活动-134",
     "venue": "上海野生动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "浦东新区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9412,7 +9464,7 @@
     "name": "解读上海徐家汇展览-144",
     "venue": "徐家汇",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9448,7 +9500,7 @@
     "name": "家庭上海静安区演出研学营",
     "venue": "上海静安区图书馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9485,7 +9537,7 @@
     "name": "儿童上海普陀区影视放映课程",
     "venue": "上海普陀区文化馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9522,7 +9574,7 @@
     "name": "青少年上海虹口区科普活动讲座",
     "venue": "上海虹口区艺术中心",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9559,7 +9611,7 @@
     "name": "经典上海金山区讲座阅读探秘",
     "venue": "上海金山区植物园",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9624,7 +9676,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "宝山区"
   },
   {
     "title": "夏日山茶惊艳盛放——杜鹃红山茶花事",
@@ -9658,13 +9711,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "name": "上海上海植物园亲子活动-105",
     "venue": "上海植物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "徐汇区",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "收费",
@@ -9728,7 +9782,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "虹口区"
   },
   {
     "title": "屋顶免费儿童乐园与艺术公益展",
@@ -9762,7 +9817,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "2026上海夏季音乐节（MISA）",
@@ -9797,13 +9853,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "name": "暑期上海杨浦区展览体验营",
     "venue": "上海杨浦区文化馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9840,7 +9897,7 @@
     "name": "解读上海金山区科普活动周",
     "venue": "上海金山区文化馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9877,7 +9934,7 @@
     "name": "上海上海植物园亲子活动",
     "venue": "上海植物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "徐汇区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "收费",
@@ -9913,7 +9970,7 @@
     "name": "解读上海金山区影视放映周",
     "venue": "上海金山区体育场",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "收费",
@@ -9949,7 +10006,7 @@
     "name": "漫游上海青浦区演出季",
     "venue": "上海青浦区公园",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "收费",
@@ -9986,7 +10043,7 @@
     "name": "亲子上海东方明珠亲子活动-86",
     "venue": "东方明珠",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "免费",
@@ -10022,7 +10079,7 @@
     "name": "探索上海上海汽车博物馆展览-126",
     "venue": "上海汽车博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "嘉定区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "免费",
@@ -10059,7 +10116,7 @@
     "name": "经典上海杨浦区科普活动探秘",
     "venue": "上海杨浦区图书馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "免费",
@@ -10096,7 +10153,7 @@
     "name": "精彩上海嘉定区亲子活动节",
     "venue": "上海嘉定区文化馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "收费",
@@ -10199,7 +10256,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -10234,13 +10292,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-123",
     "venue": "上海美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -10277,7 +10336,7 @@
     "name": "震撼上海上海当代艺术博物馆演出-154",
     "venue": "上海当代艺术博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -10314,7 +10373,7 @@
     "name": "经典上海徐汇区亲子活动探秘",
     "venue": "上海徐汇区海洋馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -10350,7 +10409,7 @@
     "name": "震撼上海长宁区展览发现",
     "venue": "上海长宁区剧院",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "免费",
@@ -10415,7 +10474,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "长宁区"
   },
   {
     "title": "海洋绘本与植物手工",
@@ -10450,13 +10510,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "闵行区"
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-63",
     "venue": "上海美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10493,7 +10554,7 @@
     "name": "体验上海上海电影博物馆展览-127",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10530,7 +10591,7 @@
     "name": "家庭上海宝山区演出研学营",
     "venue": "上海宝山区动物园",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10566,7 +10627,7 @@
     "name": "儿童上海奉贤区演出课程",
     "venue": "上海奉贤区体育场",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10602,7 +10663,7 @@
     "name": "漫游上海青浦区影视放映季",
     "venue": "上海青浦区植物园",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10638,7 +10699,7 @@
     "name": "欢乐上海上海中心大厦亲子活动-87",
     "venue": "上海中心大厦",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10674,7 +10735,7 @@
     "name": "上海上海城市规划展示馆演出-130",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10710,7 +10771,7 @@
     "name": "体验上海上海电影博物馆展览-157",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10747,7 +10808,7 @@
     "name": "梦幻上海南京路演出-112",
     "venue": "南京路",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "收费",
@@ -10820,7 +10881,7 @@
     "name": "梦幻上海南京路演出-142",
     "venue": "南京路",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "收费",
@@ -10856,7 +10917,7 @@
     "name": "梦幻上海虹口区影视放映之旅",
     "venue": "上海虹口区体育馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "收费",
@@ -10922,7 +10983,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "静安区"
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -10957,13 +11019,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出",
     "venue": "上海当代艺术博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11000,7 +11063,7 @@
     "name": "上海上海玻璃博物馆研学",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11037,7 +11100,7 @@
     "name": "沉浸式上海上海科技馆展览-91",
     "venue": "上海科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "浦东新区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11074,7 +11137,7 @@
     "name": "青少年上海虹口区体育赛事讲座",
     "venue": "上海虹口区公园",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11111,7 +11174,7 @@
     "name": "沉浸式上海宝山区演出探索",
     "venue": "上海宝山区文化馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11148,7 +11211,7 @@
     "name": "家庭上海青浦区科普活动研学营",
     "venue": "上海青浦区体育馆",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "免费",
@@ -11185,7 +11248,7 @@
     "name": "上海环球金融中心观光",
     "venue": "上海环球金融中心",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11250,13 +11313,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "松江区"
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-68",
     "venue": "上海航海博物馆",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11293,7 +11357,7 @@
     "name": "探秘上海上海欢乐谷展览-73",
     "venue": "上海欢乐谷",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11329,7 +11393,7 @@
     "name": "沉浸式上海上海科技馆展览-121",
     "venue": "上海科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "浦东新区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11366,7 +11430,7 @@
     "name": "亲子上海长宁区科普活动工作坊",
     "venue": "上海长宁区美术馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11403,7 +11467,7 @@
     "name": "趣味上海金山区体育赛事展览",
     "venue": "上海金山区剧院",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11440,7 +11504,7 @@
     "name": "经典上海杨浦区讲座阅读探秘",
     "venue": "上海杨浦区美术馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11477,7 +11541,7 @@
     "name": "儿童上海嘉定区展览课程",
     "venue": "上海嘉定区创意园",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11513,7 +11577,7 @@
     "name": "青少年上海虹口区演出讲座",
     "venue": "上海虹口区青少年宫",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11579,7 +11643,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "title": "国风手工与露天音乐会",
@@ -11614,7 +11679,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "嘉定区"
   },
   {
     "title": "龙马社原创话剧《断金》",
@@ -11648,13 +11714,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "漫游上海静安雕塑公园展览",
     "venue": "静安雕塑公园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11691,7 +11758,7 @@
     "name": "趣味上海外滩亲子活动-81",
     "venue": "外滩",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11727,7 +11794,7 @@
     "name": "漫游上海静安雕塑公园展览-109",
     "venue": "静安雕塑公园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11764,7 +11831,7 @@
     "name": "上海上海玻璃博物馆研学-125",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11801,7 +11868,7 @@
     "name": "沉浸式上海宝山区影视放映探索",
     "venue": "上海宝山区公园",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11867,13 +11934,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "杨浦区"
   },
   {
     "name": "趣味上海杨浦区演出展览",
     "venue": "上海杨浦区青少年宫",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11910,7 +11978,7 @@
     "name": "青少年上海浦东新区讲座阅读讲座",
     "venue": "上海浦东新区博物馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "免费",
@@ -11947,7 +12015,7 @@
     "name": "趣味上海徐汇区体育赛事展览",
     "venue": "上海徐汇区文化中心",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11983,7 +12051,7 @@
     "name": "亲子上海长宁区展览工作坊",
     "venue": "上海长宁区会展中心",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "免费",
@@ -12019,7 +12087,7 @@
     "name": "上海城市规划展示馆",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -12084,7 +12152,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成",
@@ -12119,13 +12188,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "体验上海上海电影博物馆展览-67",
     "venue": "上海电影博物馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -12162,7 +12232,7 @@
     "name": "实践上海长风公园研学-137",
     "venue": "长风公园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -12228,7 +12298,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "长宁区"
   },
   {
     "title": "艺术科技舞蹈公益课程",
@@ -12263,13 +12334,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "黄浦区"
   },
   {
     "name": "上海陆家嘴展览-85",
     "venue": "陆家嘴",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -12305,7 +12377,7 @@
     "name": "精彩上海奉贤区影视放映节",
     "venue": "上海奉贤区植物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -12341,7 +12413,7 @@
     "name": "漫游上海静安区亲子活动季",
     "venue": "上海静安区博物馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -12378,7 +12450,7 @@
     "name": "青少年上海黄浦区影视放映讲座",
     "venue": "上海黄浦区会展中心",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -12414,7 +12486,7 @@
     "name": "上海博物馆人民广场馆",
     "venue": "上海博物馆人民广场馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-18",
     "end_date": "2027-03-20",
     "fee": "免费",
@@ -12487,7 +12559,7 @@
     "name": "上海惊魂密境",
     "venue": "上海惊魂密境",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-18",
     "end_date": "2027-03-20",
     "fee": "收费",
@@ -12552,7 +12624,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "江南民俗与陶艺DIY",
@@ -12587,7 +12660,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "宝山区"
   },
   {
     "name": "上海上海博物馆展览-90",
@@ -12630,7 +12704,7 @@
     "name": "解读上海徐汇区演出周",
     "venue": "上海徐汇区艺术中心",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-09-18",
     "end_date": "2027-03-20",
     "fee": "收费",
@@ -12695,7 +12769,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "“拼了！真功夫”乐高探索中心十周年暑期活动",
@@ -12729,13 +12804,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "普陀区"
   },
   {
     "name": "互动上海普陀区体育赛事科普",
     "venue": "上海普陀区美术馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "收费",
@@ -12772,7 +12848,7 @@
     "name": "周末上海黄浦区影视放映活动",
     "venue": "上海黄浦区剧院",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "收费",
@@ -12874,7 +12950,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "飞越马丘比丘：云端印加之旅（沉浸式体验展）",
@@ -12909,13 +12986,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-74",
     "venue": "上海野生动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "浦东新区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "免费",
@@ -12951,7 +13029,7 @@
     "name": "上海人民广场亲子活动-110",
     "venue": "人民广场",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "免费",
@@ -12987,7 +13065,7 @@
     "name": "上海上海植物园亲子活动-165",
     "venue": "上海植物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "徐汇区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -13023,7 +13101,7 @@
     "name": "经典上海杨浦区体育赛事探秘",
     "venue": "上海杨浦区体育场",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -13059,7 +13137,7 @@
     "name": "暑期上海徐汇区科普活动体验营",
     "venue": "上海徐汇区美术馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "免费",
@@ -13124,7 +13202,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "title": "亲子读书会与自然写生",
@@ -13159,13 +13238,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "name": "上海上海城市规划展示馆演出-70",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -13201,7 +13281,7 @@
     "name": "精彩上海嘉定区体育赛事节",
     "venue": "上海嘉定区图书馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -13311,7 +13391,7 @@
     "name": "漫游上海静安雕塑公园展览-79",
     "venue": "静安雕塑公园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "收费",
@@ -13348,7 +13428,7 @@
     "name": "周末上海虹口区亲子活动活动",
     "venue": "上海虹口区图书馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "收费",
@@ -13422,7 +13502,7 @@
     "name": "互动上海嘉定区讲座阅读科普",
     "venue": "上海嘉定区艺术中心",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "免费",
@@ -13459,7 +13539,7 @@
     "name": "探索上海长宁区科普活动演出",
     "venue": "上海长宁区公园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "免费",
@@ -13525,13 +13605,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-64",
     "venue": "上海当代艺术博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13568,7 +13649,7 @@
     "name": "实践上海长风公园研学-107",
     "venue": "长风公园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13605,7 +13686,7 @@
     "name": "体验上海嘉定区科普活动嘉年华",
     "venue": "上海嘉定区剧院",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "免费",
@@ -13642,7 +13723,7 @@
     "name": "梦幻上海黄浦区体育赛事之旅",
     "venue": "上海黄浦区动物园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13706,13 +13787,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "互动上海奉贤区展览科普",
     "venue": "上海奉贤区博物馆",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "免费",
@@ -13777,13 +13859,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "闵行区"
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13819,7 +13902,7 @@
     "name": "精彩上海上海动物园演出-46",
     "venue": "上海动物园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13855,7 +13938,7 @@
     "name": "趣味上海徐汇区影视放映展览",
     "venue": "上海徐汇区会展中心",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13891,7 +13974,7 @@
     "name": "体验上海奉贤区科普活动嘉年华",
     "venue": "上海奉贤区文化中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "免费",
@@ -13956,7 +14039,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -13991,7 +14075,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "珠归海上：庄万里家族捐赠两塗轩书画展（第二期）",
@@ -14026,7 +14111,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "title": "屋顶免费儿童乐园与儿童艺术公益展",
@@ -14060,7 +14146,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "水科学与绘画",
@@ -14095,13 +14182,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "普陀区"
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-34",
     "venue": "上海当代艺术博物馆",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -14138,7 +14226,7 @@
     "name": "探秘上海上海欢乐谷展览-103",
     "venue": "上海欢乐谷",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -14174,7 +14262,7 @@
     "name": "经典上海金茂大厦演出-118",
     "venue": "金茂大厦",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -14210,7 +14298,7 @@
     "name": "青少年上海黄浦区演出讲座",
     "venue": "上海黄浦区体育场",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -14246,7 +14334,7 @@
     "name": "家庭上海静安区展览研学营",
     "venue": "上海静安区会展中心",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "免费",
@@ -14282,7 +14370,7 @@
     "name": "探索上海闵行区影视放映演出",
     "venue": "上海闵行区创意园",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -14318,7 +14406,7 @@
     "name": "走进上海黄浦区亲子活动日",
     "venue": "上海黄浦区公园",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -14355,7 +14443,7 @@
     "name": "漫游上海宝山区讲座阅读季",
     "venue": "上海宝山区体育场",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "免费",
@@ -14428,7 +14516,7 @@
     "name": "上海航海博物馆",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -14465,7 +14553,7 @@
     "name": "亲子上海东方明珠亲子活动-146",
     "venue": "东方明珠",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "免费",
@@ -14501,7 +14589,7 @@
     "name": "体验上海环球金融中心研学-149",
     "venue": "环球金融中心",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "松江区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -14574,7 +14662,7 @@
     "name": "亲子上海闵行区讲座阅读工作坊",
     "venue": "上海闵行区公园",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "免费",
@@ -14611,7 +14699,7 @@
     "name": "沉浸式上海青浦区演出探索",
     "venue": "上海青浦区海洋馆",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -14647,7 +14735,7 @@
     "name": "沉浸式上海上海科技馆展览-31",
     "venue": "上海科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "浦东新区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "收费",
@@ -14748,13 +14836,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "宝山区"
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-164",
     "venue": "上海野生动物园",
     "city": "shanghai",
-    "district": "奉贤区",
+    "district": "浦东新区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14790,7 +14879,7 @@
     "name": "探索上海闵行区展览演出",
     "venue": "上海闵行区动物园",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14826,7 +14915,7 @@
     "name": "儿童上海普陀区讲座阅读课程",
     "venue": "上海普陀区文化中心",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14862,7 +14951,7 @@
     "name": "沉浸式上海静安区讲座阅读探索",
     "venue": "上海静安区体育馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14899,7 +14988,7 @@
     "name": "沉浸式上海静安区体育赛事探索",
     "venue": "上海静安区美术馆",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "松江区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "收费",
@@ -14936,7 +15025,7 @@
     "name": "亲子上海闵行区科普活动工作坊",
     "venue": "上海闵行区植物园",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14972,7 +15061,7 @@
     "name": "震撼上海长宁区讲座阅读发现",
     "venue": "上海长宁区体育馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -15038,13 +15127,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "闵行区"
   },
   {
     "name": "发现上海上海迪士尼乐园展览-102",
     "venue": "上海迪士尼乐园",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "免费",
@@ -15080,7 +15170,7 @@
     "name": "青少年上海虹口区亲子活动讲座",
     "venue": "上海虹口区植物园",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "收费",
@@ -15181,7 +15271,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "长宁区"
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -15216,13 +15307,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "探索上海上海汽车博物馆展览-36",
     "venue": "上海汽车博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "嘉定区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "免费",
@@ -15259,7 +15351,7 @@
     "name": "亲子上海东方明珠亲子活动-56",
     "venue": "东方明珠",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "免费",
@@ -15295,7 +15387,7 @@
     "name": "研学上海上海杜莎夫人蜡像馆研学-71",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "收费",
@@ -15331,7 +15423,7 @@
     "name": "经典上海金茂大厦演出-148",
     "venue": "金茂大厦",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "收费",
@@ -15367,7 +15459,7 @@
     "name": "探秘上海长宁区讲座阅读月",
     "venue": "上海长宁区动物园",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "免费",
@@ -15403,7 +15495,7 @@
     "name": "儿童上海普陀区体育赛事课程",
     "venue": "上海普陀区公园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "收费",
@@ -15506,13 +15598,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "静安区"
   },
   {
     "name": "上海陆家嘴展览",
     "venue": "陆家嘴",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -15548,7 +15641,7 @@
     "name": "研学上海上海杜莎夫人蜡像馆研学-41",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -15584,7 +15677,7 @@
     "name": "精彩上海上海动物园演出-106",
     "venue": "上海动物园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -15620,7 +15713,7 @@
     "name": "上海上海城市规划展示馆演出-160",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -15685,13 +15778,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "上海上海玻璃博物馆研学-95",
     "venue": "上海玻璃博物馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15728,7 +15822,7 @@
     "name": "趣味上海外滩亲子活动-111",
     "venue": "外滩",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15764,7 +15858,7 @@
     "name": "走进上海浦东新区影视放映日",
     "venue": "上海浦东新区体育场",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15800,7 +15894,7 @@
     "name": "体验上海普陀区讲座阅读嘉年华",
     "venue": "上海普陀区创意园",
     "city": "shanghai",
-    "district": "普陀区",
+    "district": "松江区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -15836,7 +15930,7 @@
     "name": "精彩上海上海动物园演出-76",
     "venue": "上海动物园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15872,7 +15966,7 @@
     "name": "发现上海青浦区展览比赛",
     "venue": "上海青浦区体育场",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15908,7 +16002,7 @@
     "name": "体验上海嘉定区亲子活动嘉年华",
     "venue": "上海嘉定区科技馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15945,7 +16039,7 @@
     "name": "沉浸式上海青浦区亲子活动探索",
     "venue": "上海青浦区创意园",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -16018,7 +16112,7 @@
     "name": "上海上海城市规划展示馆演出-100",
     "venue": "上海城市规划展示馆",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "收费",
@@ -16054,7 +16148,7 @@
     "name": "体验上海嘉定区演出嘉年华",
     "venue": "上海嘉定区体育馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "收费",
@@ -16091,7 +16185,7 @@
     "name": "儿童上海嘉定区影视放映课程",
     "venue": "上海嘉定区海洋馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "收费",
@@ -16156,13 +16250,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "name": "经典上海金山区影视放映探秘",
     "venue": "上海金山区艺术中心",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "收费",
@@ -16199,7 +16294,7 @@
     "name": "发现上海青浦区讲座阅读比赛",
     "venue": "上海青浦区会展中心",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "免费",
@@ -16235,7 +16330,7 @@
     "name": "解读上海徐家汇展览",
     "venue": "徐家汇",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -16271,7 +16366,7 @@
     "name": "研学上海上海杜莎夫人蜡像馆研学-101",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -16307,7 +16402,7 @@
     "name": "解读上海杨浦区科普活动周",
     "venue": "上海杨浦区博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -16344,7 +16439,7 @@
     "name": "解读上海徐汇区展览周",
     "venue": "上海徐汇区植物园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -16380,7 +16475,7 @@
     "name": "探秘上海闵行区展览月",
     "venue": "上海闵行区体育馆",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -16417,7 +16512,7 @@
     "name": "青少年上海浦东新区体育赛事讲座",
     "venue": "上海浦东新区剧院",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -16454,7 +16549,7 @@
     "name": "上海杜莎夫人蜡像馆",
     "venue": "上海杜莎夫人蜡像馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16518,13 +16613,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "长宁区"
   },
   {
     "name": "发现上海上海迪士尼乐园展览",
     "venue": "上海迪士尼乐园",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "免费",
@@ -16560,7 +16656,7 @@
     "name": "探索上海淮海路研学",
     "venue": "淮海路",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16596,7 +16692,7 @@
     "name": "梦幻上海南京路演出-82",
     "venue": "南京路",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16632,7 +16728,7 @@
     "name": "亲子上海闵行区体育赛事工作坊",
     "venue": "上海闵行区艺术中心",
     "city": "shanghai",
-    "district": "闵行区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16669,7 +16765,7 @@
     "name": "亲子上海长宁区演出工作坊",
     "venue": "上海长宁区图书馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16706,7 +16802,7 @@
     "name": "震撼上海长宁区影视放映发现",
     "venue": "上海长宁区科技馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16743,7 +16839,7 @@
     "name": "解读上海徐汇区影视放映周",
     "venue": "上海徐汇区青少年宫",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16809,13 +16905,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "亲子上海东方明珠亲子活动-116",
     "venue": "东方明珠",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "免费",
@@ -16851,7 +16948,7 @@
     "name": "欢乐上海上海中心大厦亲子活动-117",
     "venue": "上海中心大厦",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16887,7 +16984,7 @@
     "name": "漫游上海青浦区亲子活动季",
     "venue": "上海青浦区文化中心",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16923,7 +17020,7 @@
     "name": "周末上海虹口区展览活动",
     "venue": "上海虹口区文化馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "免费",
@@ -16989,7 +17086,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -17023,13 +17121,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "金山区"
   },
   {
     "name": "趣味上海外滩亲子活动",
     "venue": "外滩",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "松江区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "收费",
@@ -17065,7 +17164,7 @@
     "name": "上海人民广场亲子活动-50",
     "venue": "人民广场",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "免费",
@@ -17101,7 +17200,7 @@
     "name": "走进上海世纪公园展览-78",
     "venue": "世纪公园",
     "city": "shanghai",
-    "district": "静安区",
+    "district": "浦东新区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "免费",
@@ -17138,7 +17237,7 @@
     "name": "发现上海宝山区科普活动比赛",
     "venue": "上海宝山区剧院",
     "city": "shanghai",
-    "district": "宝山区",
+    "district": "松江区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "免费",
@@ -17175,7 +17274,7 @@
     "name": "发现上海上海迪士尼乐园展览-132",
     "venue": "上海迪士尼乐园",
     "city": "shanghai",
-    "district": "松江区",
+    "district": "浦东新区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "免费",
@@ -17211,7 +17310,7 @@
     "name": "家庭上海上海自然博物馆亲子活动-152",
     "venue": "上海自然博物馆",
     "city": "shanghai",
-    "district": "长宁区",
+    "district": "静安区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "免费",
@@ -17248,7 +17347,7 @@
     "name": "探索上海上海汽车博物馆展览-156",
     "venue": "上海汽车博物馆",
     "city": "shanghai",
-    "district": "杨浦区",
+    "district": "嘉定区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "免费",
@@ -17321,7 +17420,7 @@
     "name": "暑期上海徐汇区讲座阅读体验营",
     "venue": "上海徐汇区科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "免费",
@@ -17358,7 +17457,7 @@
     "name": "梦幻上海中国航海博物馆亲子活动",
     "venue": "中国航海博物馆",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17395,7 +17494,7 @@
     "name": "经典上海金茂大厦演出-88",
     "venue": "金茂大厦",
     "city": "shanghai",
-    "district": "青浦区",
+    "district": "松江区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17431,7 +17530,7 @@
     "name": "精彩上海上海动物园演出-136",
     "venue": "上海动物园",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "松江区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17467,7 +17566,7 @@
     "name": "周末上海浦东新区体育赛事活动",
     "venue": "上海浦东新区植物园",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17503,7 +17602,7 @@
     "name": "趣味上海金山区科普活动展览",
     "venue": "上海金山区科技馆",
     "city": "shanghai",
-    "district": "金山区",
+    "district": "松江区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17540,7 +17639,7 @@
     "name": "梦幻上海虹口区讲座阅读之旅",
     "venue": "上海虹口区美术馆",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17577,7 +17676,7 @@
     "name": "上海隧道科技馆",
     "venue": "上海隧道科技馆",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "免费",
@@ -17614,7 +17713,7 @@
     "name": "沉浸式上海上海科技馆展览",
     "venue": "上海科技馆",
     "city": "shanghai",
-    "district": "徐汇区",
+    "district": "浦东新区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "收费",
@@ -17651,7 +17750,7 @@
     "name": "走进上海黄浦区科普活动日",
     "venue": "上海黄浦区文化中心",
     "city": "shanghai",
-    "district": "黄浦区",
+    "district": "松江区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "免费",
@@ -17687,7 +17786,7 @@
     "name": "周末上海浦东新区亲子活动活动",
     "venue": "上海浦东新区动物园",
     "city": "shanghai",
-    "district": "浦东新区",
+    "district": "松江区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "收费",
@@ -17789,7 +17888,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "浦东新区"
   },
   {
     "title": "乒乓球与羽毛球免费体验",
@@ -17823,13 +17923,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "杨浦区"
   },
   {
     "name": "解读上海徐家汇展览-114",
     "venue": "徐家汇",
     "city": "shanghai",
-    "district": "嘉定区",
+    "district": "松江区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "免费",
@@ -17865,7 +17966,7 @@
     "name": "走进上海虹口区讲座阅读日",
     "venue": "上海虹口区创意园",
     "city": "shanghai",
-    "district": "虹口区",
+    "district": "松江区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "免费",
@@ -17930,7 +18031,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "上海欢乐谷跨年灯会",
@@ -18001,7 +18103,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "黄浦区"
   },
   {
     "name": "上海迪士尼乐园春日",
@@ -18072,7 +18175,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "徐汇区"
   },
   {
     "title": "奉贤博物馆 宝硕流光 故宫博物院藏乾隆时期文物特展",
@@ -18106,7 +18210,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "松江区"
   },
   {
     "title": "历史的星辉 长安画派与海派绘画研究展",
@@ -18141,7 +18246,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.sh-artmuseum.org.cn/"
+    "venue_url": "https://www.sh-artmuseum.org.cn/",
+    "district": "松江区"
   },
   {
     "title": "丽娜·波·巴蒂 生存的诗学",
@@ -18176,7 +18282,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.powerstationofart.com/"
+    "venue_url": "https://www.powerstationofart.com/",
+    "district": "松江区"
   },
   {
     "title": "塑我此生 贾科梅蒂艺术大展",
@@ -18211,7 +18318,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://minshengart.com/"
+    "venue_url": "https://minshengart.com/",
+    "district": "松江区"
   },
   {
     "title": "肇兴中国 秦·大一统之路文物考古特展",
@@ -18246,7 +18354,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.shanghaimuseum.net/"
+    "venue_url": "https://www.shanghaimuseum.net/",
+    "district": "松江区"
   },
   {
     "title": "世界树之巅·美洲古代文明大展",
@@ -18281,7 +18390,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.shanghaimuseum.net/"
+    "venue_url": "https://www.shanghaimuseum.net/",
+    "district": "松江区"
   },
   {
     "title": "上海迪士尼乐园夏日缤纷主题体验",
@@ -18316,7 +18426,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.shanghaidisneyresort.com/"
+    "venue_url": "https://www.shanghaidisneyresort.com/",
+    "district": "浦东新区"
   },
   {
     "title": "上海欢乐谷&玛雅海滩水公园 水陆双园夏日狂欢",
@@ -18351,7 +18462,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://sh.happyvalley.cn/"
+    "venue_url": "https://sh.happyvalley.cn/",
+    "district": "松江区"
   },
   {
     "title": "上海野生动物园夏日野趣夜游",
@@ -18386,7 +18498,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.shwildlife.com/"
+    "venue_url": "https://www.shwildlife.com/",
+    "district": "浦东新区"
   },
   {
     "title": "2026上海暑假\"博物馆奇妙夜\"系列活动",
@@ -18421,6 +18534,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.shanghaimuseum.net/"
+    "venue_url": "https://www.shanghaimuseum.net/",
+    "district": "松江区"
   }
 ]

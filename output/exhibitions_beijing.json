@@ -32,7 +32,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "文津阅新2026年第四期：《中国兵学二十讲》新书分享会",
@@ -67,7 +68,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "中国典籍与文化系列讲座：丝绸之路上的“口袋书”",
@@ -102,7 +104,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -137,7 +140,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "丰台区"
   },
   {
     "title": "第三十一届圆明园荷花节暨“荷你有约”荷花主题中国画名家邀请展",
@@ -171,13 +175,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "儿童北京大兴区演出课程",
     "venue": "北京大兴区动物园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "收费",
@@ -213,7 +218,7 @@
     "name": "沉浸式北京密云区科普活动探索",
     "venue": "北京密云区动物园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -249,7 +254,7 @@
     "name": "欢乐北京蓝色港湾亲子活动",
     "venue": "蓝色港湾",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "收费",
@@ -313,7 +318,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "中国科技馆科学之夜",
@@ -347,13 +353,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "name": "趣味北京门头沟区体育赛事展览",
     "venue": "北京门头沟区剧院",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "收费",
@@ -390,7 +397,7 @@
     "name": "走进北京石景山区讲座阅读日",
     "venue": "北京石景山区创意园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "免费",
@@ -426,7 +433,7 @@
     "name": "经典北京西城区亲子活动探秘",
     "venue": "北京西城区海洋馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "收费",
@@ -462,7 +469,7 @@
     "name": "儿童北京大兴区展览课程",
     "venue": "北京大兴区创意园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "免费",
@@ -498,7 +505,7 @@
     "name": "潭柘寺千年古刹",
     "venue": "潭柘寺",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -562,13 +569,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "name": "青少年北京北京自然博物馆亲子活动",
     "venue": "北京自然博物馆",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "免费",
@@ -605,7 +613,7 @@
     "name": "体验北京大兴区科普活动嘉年华",
     "venue": "北京大兴区剧院",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "免费",
@@ -642,7 +650,7 @@
     "name": "儿童北京丰台区科普活动课程",
     "venue": "北京丰台区艺术中心",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "免费",
@@ -707,7 +715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "海淀区"
   },
   {
     "title": "苍穹记忆——南天门计划科幻科普主题展",
@@ -742,13 +751,14 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.worldartmuseum.cn/"
+    "venue_url": "https://www.worldartmuseum.cn/",
+    "district": "海淀区"
   },
   {
     "name": "解读北京奥林匹克森林公园展览",
     "venue": "奥林匹克森林公园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "朝阳区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "免费",
@@ -785,7 +795,7 @@
     "name": "沉浸式北京日坛公园展览",
     "venue": "日坛公园",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "收费",
@@ -822,7 +832,7 @@
     "name": "经典北京西城区科普活动探秘",
     "venue": "北京西城区创意园",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "免费",
@@ -858,7 +868,7 @@
     "name": "走进北京石景山区体育赛事日",
     "venue": "北京石景山区海洋馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "收费",
@@ -894,7 +904,7 @@
     "name": "家庭北京海淀区影视放映研学营",
     "venue": "北京海淀区文化馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "收费",
@@ -931,7 +941,7 @@
     "name": "体验北京大兴区展览嘉年华",
     "venue": "北京大兴区美术馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "免费",
@@ -968,7 +978,7 @@
     "name": "沉浸式北京海淀区科普活动探索",
     "venue": "北京海淀区体育场",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "免费",
@@ -1033,7 +1043,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "四季植物课与观鸟",
@@ -1068,13 +1079,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "趣味北京国家体育馆亲子活动",
     "venue": "国家体育馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -1148,7 +1160,7 @@
     "name": "互动北京丰台区科普活动科普",
     "venue": "北京丰台区体育场",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "免费",
@@ -1184,7 +1196,7 @@
     "name": "梦幻北京石景山区影视放映之旅",
     "venue": "北京石景山区体育馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -1221,7 +1233,7 @@
     "name": "漫游北京昌平区讲座阅读季",
     "venue": "北京昌平区体育场",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "免费",
@@ -1293,7 +1305,7 @@
     "name": "体验北京丰台区讲座阅读嘉年华",
     "venue": "北京丰台区创意园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "免费",
@@ -1358,7 +1370,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "国家博物馆奇妙夜——探秘古代文明",
@@ -1393,13 +1406,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "沉浸式北京颐和园展览",
     "venue": "颐和园",
     "city": "beijing",
-    "district": "西城区",
+    "district": "海淀区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1435,7 +1449,7 @@
     "name": "周末北京东城区展览活动",
     "venue": "北京东城区博物馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "免费",
@@ -1472,7 +1486,7 @@
     "name": "互动北京大兴区影视放映科普",
     "venue": "北京大兴区公园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1509,7 +1523,7 @@
     "name": "发现北京昌平区科普活动比赛",
     "venue": "北京昌平区剧院",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "免费",
@@ -1575,7 +1589,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "亲子阅读与少儿书画",
@@ -1610,7 +1625,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "name": "梦幻北京房山区展览之旅",
@@ -1653,7 +1669,7 @@
     "name": "趣味北京松美术馆亲子活动",
     "venue": "松美术馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "收费",
@@ -1690,7 +1706,7 @@
     "name": "青少年北京东城区演出讲座",
     "venue": "北京东城区体育场",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "收费",
@@ -1763,7 +1779,7 @@
     "name": "趣味北京门头沟区科普活动展览",
     "venue": "北京门头沟区科技馆",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "免费",
@@ -1800,7 +1816,7 @@
     "name": "发现北京海淀区演出比赛",
     "venue": "北京海淀区植物园",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "收费",
@@ -1836,7 +1852,7 @@
     "name": "解读北京门头沟区科普活动周",
     "venue": "北京门头沟区文化馆",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "免费",
@@ -1902,7 +1918,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "北京欢乐谷暑期活动",
@@ -1936,7 +1953,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "绘本共读与诗词手工",
@@ -1971,13 +1989,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "name": "实践北京景山公园研学",
     "venue": "景山公园",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "西城区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -2014,7 +2033,7 @@
     "name": "经典北京门头沟区讲座阅读探秘",
     "venue": "北京门头沟区植物园",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "免费",
@@ -2079,7 +2098,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "城市手绘与北京历史导览",
@@ -2113,13 +2133,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "趣味北京通州区亲子活动展览",
     "venue": "北京通州区植物园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -2191,7 +2212,7 @@
     "name": "探索北京顺义区影视放映演出",
     "venue": "北京顺义区创意园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -2227,7 +2248,7 @@
     "name": "趣味北京门头沟区亲子活动展览",
     "venue": "北京门头沟区体育馆",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -2264,7 +2285,7 @@
     "name": "发现北京密云区讲座阅读比赛",
     "venue": "北京密云区会展中心",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -2300,7 +2321,7 @@
     "name": "经典北京通州区科普活动探秘",
     "venue": "北京通州区图书馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -2337,7 +2358,7 @@
     "name": "中国铁道博物馆正阳门馆",
     "venue": "中国铁道博物馆正阳门馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "免费",
@@ -2403,7 +2424,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "儿童游乐区与花海写生",
@@ -2438,7 +2460,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "快乐暑期，科海扬帆——北京科学中心暑期活动",
@@ -2472,13 +2495,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "name": "经典北京龙潭湖公园演出",
     "venue": "龙潭湖公园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2580,13 +2604,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "走进北京奥林匹克公园展览",
     "venue": "奥林匹克公园",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "朝阳区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "免费",
@@ -2623,7 +2648,7 @@
     "name": "北京王府井研学",
     "venue": "王府井",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2659,7 +2684,7 @@
     "name": "北京龙潭湖公园亲子活动",
     "venue": "龙潭湖公园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "免费",
@@ -2696,7 +2721,7 @@
     "name": "解读北京门头沟区影视放映周",
     "venue": "北京门头沟区体育场",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2761,13 +2786,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "大兴区"
   },
   {
     "name": "北京朝阳公园演出",
     "venue": "朝阳公园",
     "city": "beijing",
-    "district": "房山区",
+    "district": "朝阳区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "收费",
@@ -2804,7 +2830,7 @@
     "name": "解读北京西城区展览周",
     "venue": "北京西城区植物园",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "免费",
@@ -2840,7 +2866,7 @@
     "name": "梦幻北京石景山区讲座阅读之旅",
     "venue": "北京石景山区美术馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "免费",
@@ -2906,7 +2932,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "归心一园——故宫乾隆花园沉浸式光影展",
@@ -2941,13 +2968,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "name": "北京圆明园亲子活动",
     "venue": "圆明园",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -2983,7 +3011,7 @@
     "name": "经典北京景山公园演出",
     "venue": "景山公园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "西城区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -3020,7 +3048,7 @@
     "name": "震撼北京前门大街演出",
     "venue": "前门大街",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -3056,7 +3084,7 @@
     "name": "精彩北京丰台区亲子活动节",
     "venue": "北京丰台区博物馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -3093,7 +3121,7 @@
     "name": "趣味北京西城区影视放映展览",
     "venue": "北京西城区会展中心",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -3158,7 +3186,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "儿童科学乐园与航天实验",
@@ -3192,13 +3221,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "北京国家体育场展览",
     "venue": "国家体育场",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -3235,7 +3265,7 @@
     "name": "沉浸式北京昌平区演出探索",
     "venue": "北京昌平区文化馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "收费",
@@ -3272,7 +3302,7 @@
     "name": "探秘北京怀柔区亲子活动月",
     "venue": "北京怀柔区文化中心",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "收费",
@@ -3308,7 +3338,7 @@
     "name": "欢乐北京大观园亲子活动",
     "venue": "大观园",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3344,7 +3374,7 @@
     "name": "震撼北京中国科技馆演出",
     "venue": "中国科技馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3418,7 +3448,7 @@
     "name": "精彩北京蓝色港湾演出",
     "venue": "蓝色港湾",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3454,7 +3484,7 @@
     "name": "体验北京中山公园研学",
     "venue": "中山公园",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "西城区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3491,7 +3521,7 @@
     "name": "儿童北京蓝色港湾亲子活动",
     "venue": "蓝色港湾",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -3527,7 +3557,7 @@
     "name": "梦幻北京东城区讲座阅读之旅",
     "venue": "北京东城区青少年宫",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -3564,7 +3594,7 @@
     "name": "周末北京石景山区亲子活动活动",
     "venue": "北京石景山区图书馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3601,7 +3631,7 @@
     "name": "精彩北京丰台区演出节",
     "venue": "北京丰台区剧院",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3638,7 +3668,7 @@
     "name": "探索北京朝阳区科普活动演出",
     "venue": "北京朝阳区公园",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -3704,13 +3734,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "name": "走进北京中山公园展览",
     "venue": "中山公园",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "西城区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "免费",
@@ -3747,7 +3778,7 @@
     "name": "精彩北京延庆区展览节",
     "venue": "北京延庆区艺术中心",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "免费",
@@ -3821,7 +3852,7 @@
     "name": "青少年北京石景山区演出讲座",
     "venue": "北京石景山区青少年宫",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "收费",
@@ -3858,7 +3889,7 @@
     "name": "恭王府博物馆",
     "venue": "恭王府博物馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3924,13 +3955,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "实践北京玉渊潭公园研学",
     "venue": "玉渊潭公园",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3967,7 +3999,7 @@
     "name": "体验北京延庆区讲座阅读嘉年华",
     "venue": "北京延庆区会展中心",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "免费",
@@ -4031,7 +4063,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -4065,7 +4098,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "森林徒步与风筝活动",
@@ -4100,13 +4134,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "家庭北京海淀区讲座阅读研学营",
     "venue": "北京海淀区文化中心",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "免费",
@@ -4171,7 +4206,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "name": "北京松美术馆演出",
@@ -4214,7 +4250,7 @@
     "name": "儿童北京延庆区演出课程",
     "venue": "北京延庆区体育场",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -4250,7 +4286,7 @@
     "name": "孔庙和国子监博物馆",
     "venue": "孔庙和国子监博物馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "收费",
@@ -4315,7 +4351,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "大运河展览与风筝",
@@ -4349,13 +4386,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "name": "家庭北京首都博物馆亲子活动",
     "venue": "首都博物馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "免费",
@@ -4429,7 +4467,7 @@
     "name": "红螺寺秋景",
     "venue": "红螺寺",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4494,13 +4532,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "石景山区"
   },
   {
     "name": "儿童北京丰台区讲座阅读课程",
     "venue": "北京丰台区文化中心",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -4536,7 +4575,7 @@
     "name": "趣味北京西城区讲座阅读展览",
     "venue": "北京西城区文化馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -4573,7 +4612,7 @@
     "name": "互动北京丰台区亲子活动科普",
     "venue": "北京丰台区图书馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4610,7 +4649,7 @@
     "name": "解读北京西城区影视放映周",
     "venue": "北京西城区青少年宫",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4676,7 +4715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "北京什刹海演出",
@@ -4718,7 +4758,7 @@
     "name": "青少年北京石景山区亲子活动讲座",
     "venue": "北京石景山区植物园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4782,13 +4822,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "奇妙北京北京自然博物馆亲子活动",
     "venue": "北京自然博物馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "收费",
@@ -4825,7 +4866,7 @@
     "name": "探秘北京顺义区展览月",
     "venue": "北京顺义区体育馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "免费",
@@ -4862,7 +4903,7 @@
     "name": "精彩北京大兴区科普活动节",
     "venue": "北京大兴区会展中心",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "免费",
@@ -4927,7 +4968,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "第十九届“良辰美景·恭王府非遗演出季”",
@@ -4962,13 +5004,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "发现北京密云区展览比赛",
     "venue": "北京密云区体育场",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "免费",
@@ -5033,7 +5076,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "低龄绘本共读与暑期自然研学",
@@ -5068,13 +5112,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "name": "儿童北京地坛公园亲子活动",
     "venue": "地坛公园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "东城区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "免费",
@@ -5111,7 +5156,7 @@
     "name": "漫游北京地坛公园展览",
     "venue": "地坛公园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "东城区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "收费",
@@ -5148,7 +5193,7 @@
     "name": "漫游北京今日美术馆展览",
     "venue": "今日美术馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "收费",
@@ -5185,7 +5230,7 @@
     "name": "发现北京昌平区讲座阅读比赛",
     "venue": "北京昌平区海洋馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "免费",
@@ -5249,7 +5294,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "海淀区"
   },
   {
     "title": "北京动物园熊猫科学探秘",
@@ -5283,7 +5329,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "非遗市集与国风绘画",
@@ -5318,13 +5365,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "北京北海公园研学",
     "venue": "北海公园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "西城区",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "收费",
@@ -5361,7 +5409,7 @@
     "name": "发现北京中国国家博物馆展览",
     "venue": "中国国家博物馆",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "东城区",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "免费",
@@ -5426,13 +5474,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "name": "探索北京国贸商城展览",
     "venue": "国贸商城",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "免费",
@@ -5468,7 +5517,7 @@
     "name": "儿童北京丰台区影视放映课程",
     "venue": "北京丰台区文化馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5505,7 +5554,7 @@
     "name": "经典北京通州区讲座阅读探秘",
     "venue": "北京通州区美术馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "免费",
@@ -5578,7 +5627,7 @@
     "name": "精彩北京大兴区体育赛事节",
     "venue": "北京大兴区图书馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5615,7 +5664,7 @@
     "name": "暑期北京西城区体育赛事体验营",
     "venue": "北京西城区体育馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5652,7 +5701,7 @@
     "name": "发现北京密云区影视放映比赛",
     "venue": "北京密云区图书馆",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5689,7 +5738,7 @@
     "name": "探秘北京怀柔区演出月",
     "venue": "北京怀柔区公园",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5726,7 +5775,7 @@
     "name": "中国邮政邮票博物馆",
     "venue": "中国邮政邮票博物馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "免费",
@@ -5763,7 +5812,7 @@
     "name": "大钟寺古钟博物馆",
     "venue": "大钟寺古钟博物馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "收费",
@@ -5829,7 +5878,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "自然科普与陶艺",
@@ -5864,7 +5914,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "丰台区"
   },
   {
     "title": "北科剧院科学剧场",
@@ -5898,13 +5949,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "name": "发现北京前门大街展览",
     "venue": "前门大街",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "免费",
@@ -5940,7 +5992,7 @@
     "name": "研学北京北京故宫博物院研学",
     "venue": "北京故宫博物院",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -5976,7 +6028,7 @@
     "name": "探索北京怀柔区亲子活动演出",
     "venue": "北京怀柔区体育馆",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6013,7 +6065,7 @@
     "name": "家庭北京昌平区亲子活动研学营",
     "venue": "北京昌平区青少年宫",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6050,7 +6102,7 @@
     "name": "亲子北京朝阳区演出工作坊",
     "venue": "北京朝阳区图书馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6116,7 +6168,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "鄂尔多斯青铜器展",
@@ -6151,13 +6204,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "经典北京朝阳公园演出",
     "venue": "朝阳公园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "朝阳区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6194,7 +6248,7 @@
     "name": "北京奥林匹克森林公园研学",
     "venue": "奥林匹克森林公园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "朝阳区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6231,7 +6285,7 @@
     "name": "郭沫若纪念馆",
     "venue": "郭沫若纪念馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "免费",
@@ -6267,7 +6321,7 @@
     "name": "松美术馆",
     "venue": "松美术馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "收费",
@@ -6332,7 +6386,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "title": "力学装置与科创实验",
@@ -6366,7 +6421,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "儿童活动区与绘本公益课",
@@ -6400,13 +6456,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "梦幻北京红砖美术馆亲子活动",
     "venue": "红砖美术馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "收费",
@@ -6443,7 +6500,7 @@
     "name": "解读北京门头沟区体育赛事周",
     "venue": "北京门头沟区会展中心",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "收费",
@@ -6516,7 +6573,7 @@
     "name": "北京古观象台",
     "venue": "北京古观象台",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "收费",
@@ -6580,13 +6637,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "解读北京首都博物馆展览",
     "venue": "首都博物馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "免费",
@@ -6623,7 +6681,7 @@
     "name": "漫游北京昌平区体育赛事季",
     "venue": "北京昌平区图书馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "收费",
@@ -6689,7 +6747,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -6724,7 +6783,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "title": "大运河文化与亲子风筝手工",
@@ -6759,7 +6819,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "title": "大匠之道——熊松涛掐丝珐琅艺术展",
@@ -6794,13 +6855,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "震撼北京圆明园演出",
     "venue": "圆明园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6836,7 +6898,7 @@
     "name": "震撼北京朝阳区演出发现",
     "venue": "北京朝阳区博物馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6873,7 +6935,7 @@
     "name": "梦幻北京石景山区展览之旅",
     "venue": "北京石景山区科技馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "免费",
@@ -6910,7 +6972,7 @@
     "name": "趣味北京通州区展览展览",
     "venue": "北京通州区动物园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "免费",
@@ -6975,13 +7037,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "name": "体验北京朝阳公园研学",
     "venue": "朝阳公园",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "朝阳区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7018,7 +7081,7 @@
     "name": "探秘北京天坛公园展览",
     "venue": "天坛公园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "东城区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7055,7 +7118,7 @@
     "name": "经典北京门头沟区展览探秘",
     "venue": "北京门头沟区公园",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "免费",
@@ -7092,7 +7155,7 @@
     "name": "解读北京通州区亲子活动周",
     "venue": "北京通州区剧院",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7129,7 +7192,7 @@
     "name": "漫游北京海淀区亲子活动季",
     "venue": "北京海淀区博物馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7166,7 +7229,7 @@
     "name": "互动北京大兴区体育赛事科普",
     "venue": "北京大兴区植物园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7231,7 +7294,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "星空穹顶与陨石观察",
@@ -7265,7 +7329,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "北京八达岭长城展览",
@@ -7307,7 +7372,7 @@
     "name": "家庭北京什刹海亲子活动",
     "venue": "什刹海",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -7343,7 +7408,7 @@
     "name": "震撼北京顺义区科普活动发现",
     "venue": "北京顺义区图书馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -7409,7 +7474,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "科学工坊与外文绘本",
@@ -7444,13 +7510,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "海淀区"
   },
   {
     "name": "梦幻北京北京动物园演出",
     "venue": "北京动物园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "西城区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7486,7 +7553,7 @@
     "name": "震撼北京怀柔区体育赛事发现",
     "venue": "北京怀柔区青少年宫",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7587,7 +7654,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "name": "走进北京房山区演出日",
@@ -7630,7 +7698,7 @@
     "name": "经典北京门头沟区影视放映探秘",
     "venue": "北京门头沟区艺术中心",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-08-27",
     "end_date": "2027-02-26",
     "fee": "收费",
@@ -7768,7 +7836,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "河滩沙池与自然研学",
@@ -7803,7 +7872,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "石景山区"
   },
   {
     "title": "2026颐和园荷花文化节",
@@ -7837,13 +7907,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "北京北京天文馆展览",
     "venue": "北京天文馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "西城区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -7879,7 +7950,7 @@
     "name": "实践北京中国美术馆研学",
     "venue": "中国美术馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "东城区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -7916,7 +7987,7 @@
     "name": "精彩北京丰台区展览节",
     "venue": "北京丰台区科技馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -7953,7 +8024,7 @@
     "name": "震撼北京顺义区演出发现",
     "venue": "北京顺义区文化馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -8019,7 +8090,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "title": "河滩玩水与观鸟",
@@ -8054,13 +8126,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "顺义区"
   },
   {
     "name": "漫游北京密云区亲子活动季",
     "venue": "北京密云区文化中心",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8096,7 +8169,7 @@
     "name": "漫游北京海淀区科普活动季",
     "venue": "北京海淀区海洋馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "免费",
@@ -8168,7 +8241,7 @@
     "name": "牛街礼拜寺",
     "venue": "牛街礼拜寺",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8204,7 +8277,7 @@
     "name": "青少年北京八达岭长城亲子活动",
     "venue": "八达岭长城",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8240,7 +8313,7 @@
     "name": "沉浸式北京昌平区展览探索",
     "venue": "北京昌平区文化中心",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8276,7 +8349,7 @@
     "name": "沉浸式北京海淀区体育赛事探索",
     "venue": "北京海淀区美术馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "收费",
@@ -8342,13 +8415,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "探索北京怀柔区演出演出",
     "venue": "北京怀柔区美术馆",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "收费",
@@ -8385,7 +8459,7 @@
     "name": "探索北京朝阳区亲子活动演出",
     "venue": "北京朝阳区艺术中心",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "收费",
@@ -8422,7 +8496,7 @@
     "name": "体验北京中山公园展览",
     "venue": "中山公园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "西城区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "收费",
@@ -8459,7 +8533,7 @@
     "name": "周末北京东城区影视放映活动",
     "venue": "北京东城区剧院",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "收费",
@@ -8533,7 +8607,7 @@
     "name": "经典北京通州区体育赛事探秘",
     "venue": "北京通州区体育场",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "收费",
@@ -8569,7 +8643,7 @@
     "name": "探索北京顺义区讲座阅读演出",
     "venue": "北京顺义区海洋馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "免费",
@@ -8605,7 +8679,7 @@
     "name": "走进北京石景山区科普活动日",
     "venue": "北京石景山区博物馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-09-01",
     "end_date": "2027-03-03",
     "fee": "免费",
@@ -8671,13 +8745,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "亲子北京陶然亭公园亲子活动",
     "venue": "陶然亭公园",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "免费",
@@ -8714,7 +8789,7 @@
     "name": "探索北京中国美术馆展览",
     "venue": "中国美术馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "东城区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "免费",
@@ -8751,7 +8826,7 @@
     "name": "解读北京王府井展览",
     "venue": "王府井",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "免费",
@@ -8787,7 +8862,7 @@
     "name": "体验北京大兴区亲子活动嘉年华",
     "venue": "北京大兴区科技馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -8824,7 +8899,7 @@
     "name": "周末北京东城区体育赛事活动",
     "venue": "北京东城区体育馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -8861,7 +8936,7 @@
     "name": "精彩北京延庆区体育赛事节",
     "venue": "北京延庆区动物园",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -8897,7 +8972,7 @@
     "name": "梦幻北京东城区亲子活动之旅",
     "venue": "北京东城区海洋馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -8933,7 +9008,7 @@
     "name": "家庭北京国家体育馆亲子活动",
     "venue": "国家体育馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -8970,7 +9045,7 @@
     "name": "梦幻北京龙潭湖公园亲子活动",
     "venue": "龙潭湖公园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9007,7 +9082,7 @@
     "name": "研学北京国家体育场研学",
     "venue": "国家体育场",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9044,7 +9119,7 @@
     "name": "家庭北京海淀区演出研学营",
     "venue": "北京海淀区图书馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9081,7 +9156,7 @@
     "name": "探索北京顺义区展览演出",
     "venue": "北京顺义区动物园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9117,7 +9192,7 @@
     "name": "亲子北京顺义区体育赛事工作坊",
     "venue": "北京顺义区艺术中心",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9154,7 +9229,7 @@
     "name": "漫游北京密云区展览季",
     "venue": "北京密云区艺术中心",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9191,7 +9266,7 @@
     "name": "家庭北京昌平区演出研学营",
     "venue": "北京昌平区动物园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9227,7 +9302,7 @@
     "name": "白云观道教",
     "venue": "白云观",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "收费",
@@ -9292,13 +9367,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "体验北京陶然亭公园展览",
     "venue": "陶然亭公园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "收费",
@@ -9335,7 +9411,7 @@
     "name": "梦幻北京朝阳公园亲子活动",
     "venue": "朝阳公园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "朝阳区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "收费",
@@ -9372,7 +9448,7 @@
     "name": "青少年北京石景山区体育赛事讲座",
     "venue": "北京石景山区公园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "收费",
@@ -9409,7 +9485,7 @@
     "name": "震撼北京朝阳区展览发现",
     "venue": "北京朝阳区剧院",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9446,7 +9522,7 @@
     "name": "暑期北京通州区影视放映体验营",
     "venue": "北京通州区文化中心",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "收费",
@@ -9482,7 +9558,7 @@
     "name": "震撼北京朝阳区影视放映发现",
     "venue": "北京朝阳区科技馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "收费",
@@ -9519,7 +9595,7 @@
     "name": "经典北京西城区展览探秘",
     "venue": "北京西城区剧院",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9556,7 +9632,7 @@
     "name": "梦幻北京南锣鼓巷演出",
     "venue": "南锣鼓巷",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "收费",
@@ -9592,7 +9668,7 @@
     "name": "亲子北京三里屯亲子活动",
     "venue": "三里屯",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -9628,7 +9704,7 @@
     "name": "暑期北京西城区讲座阅读体验营",
     "venue": "北京西城区科技馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -9665,7 +9741,7 @@
     "name": "互动北京延庆区展览科普",
     "venue": "北京延庆区博物馆",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -9731,7 +9807,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "title": "话剧《杜甫》",
@@ -9765,7 +9842,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "北京天文馆暑期星空探索营",
@@ -9799,13 +9877,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "梦幻北京东城区科普活动之旅",
     "venue": "北京东城区创意园",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "免费",
@@ -9841,7 +9920,7 @@
     "name": "互动北京延庆区影视放映科普",
     "venue": "北京延庆区剧院",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "收费",
@@ -9907,7 +9986,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "竹文化科普与划船",
@@ -9942,7 +10022,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "湖泊科普与儿童游乐区",
@@ -9977,7 +10058,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "顺义区"
   },
   {
     "title": "“星际奇观：太阳系”VR大空间沉浸式展览",
@@ -10011,13 +10093,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "欢乐北京北海公园亲子活动",
     "venue": "北海公园",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "西城区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -10054,7 +10137,7 @@
     "name": "探索北京中国国家博物馆研学",
     "venue": "中国国家博物馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "东城区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -10120,13 +10203,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "丰台区"
   },
   {
     "name": "沉浸式北京中国国家博物馆展览",
     "venue": "中国国家博物馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "东城区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10163,7 +10247,7 @@
     "name": "北京北京植物园亲子活动",
     "venue": "北京植物园",
     "city": "beijing",
-    "district": "东城区",
+    "district": "海淀区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10199,7 +10283,7 @@
     "name": "走进北京陶然亭公园展览",
     "venue": "陶然亭公园",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "免费",
@@ -10236,7 +10320,7 @@
     "name": "暑期北京门头沟区亲子活动体验营",
     "venue": "北京门头沟区动物园",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10272,7 +10356,7 @@
     "name": "家庭北京海淀区展览研学营",
     "venue": "北京海淀区会展中心",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "免费",
@@ -10337,7 +10421,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "文物拓印DIY与古代历史亲子寻宝",
@@ -10372,13 +10457,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "漫游北京海淀区体育赛事季",
     "venue": "北京海淀区创意园",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10414,7 +10500,7 @@
     "name": "震撼北京怀柔区讲座阅读发现",
     "venue": "北京怀柔区植物园",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "免费",
@@ -10450,7 +10536,7 @@
     "name": "探索北京怀柔区展览演出",
     "venue": "北京怀柔区体育场",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "免费",
@@ -10486,7 +10572,7 @@
     "name": "家庭北京密云区科普活动研学营",
     "venue": "北京密云区体育馆",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "免费",
@@ -10523,7 +10609,7 @@
     "name": "雍和宫祈福",
     "venue": "雍和宫",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "收费",
@@ -10559,7 +10645,7 @@
     "name": "今日美术馆",
     "venue": "今日美术馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "收费",
@@ -10624,7 +10710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "湖泊生态课与风筝",
@@ -10659,13 +10746,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "大兴区"
   },
   {
     "name": "精彩北京延庆区讲座阅读节",
     "venue": "北京延庆区青少年宫",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "免费",
@@ -10702,7 +10790,7 @@
     "name": "体验北京延庆区科普活动嘉年华",
     "venue": "北京延庆区文化中心",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "免费",
@@ -10738,7 +10826,7 @@
     "name": "探秘北京顺义区影视放映月",
     "venue": "北京顺义区美术馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "收费",
@@ -10804,7 +10892,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "文物拓印与历史寻宝",
@@ -10839,7 +10928,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "汽车模型手工与机械科普",
@@ -10874,7 +10964,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "丰台区"
   },
   {
     "title": "儿童艺术展与亲子手作",
@@ -10908,7 +10999,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "首都博物馆小小讲解员训练营",
@@ -10943,13 +11035,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "探索北京北京植物园研学",
     "venue": "北京植物园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "海淀区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -10985,7 +11078,7 @@
     "name": "经典北京西城区演出探秘",
     "venue": "北京西城区博物馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11022,7 +11115,7 @@
     "name": "趣味北京西城区体育赛事展览",
     "venue": "北京西城区文化中心",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11058,7 +11151,7 @@
     "name": "发现北京昌平区亲子活动比赛",
     "venue": "北京昌平区科技馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -11095,7 +11188,7 @@
     "name": "智化寺古建音乐",
     "venue": "智化寺",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11160,7 +11253,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "丰台区"
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -11195,13 +11289,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "亲子北京顺义区讲座阅读工作坊",
     "venue": "北京顺义区公园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11238,7 +11333,7 @@
     "name": "暑期北京门头沟区展览体验营",
     "venue": "北京门头沟区海洋馆",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11274,7 +11369,7 @@
     "name": "发现北京海淀区展览比赛",
     "venue": "北京海淀区青少年宫",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -11339,7 +11434,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "通州区"
   },
   {
     "title": "2026漫步经典系列音乐会",
@@ -11374,13 +11470,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "沉浸式北京国家游泳中心展览",
     "venue": "国家游泳中心",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11416,7 +11513,7 @@
     "name": "北京奥林匹克公园演出",
     "venue": "奥林匹克公园",
     "city": "beijing",
-    "district": "房山区",
+    "district": "朝阳区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11453,7 +11550,7 @@
     "name": "儿童北京延庆区科普活动课程",
     "venue": "北京延庆区体育馆",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "免费",
@@ -11490,7 +11587,7 @@
     "name": "体验北京丰台区影视放映嘉年华",
     "venue": "北京丰台区动物园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11563,7 +11660,7 @@
     "name": "五塔寺石刻博物馆",
     "venue": "北京石刻艺术博物馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "免费",
@@ -11629,7 +11726,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "中国科学技术馆2026年暑期系列活动",
@@ -11663,7 +11761,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "精彩北京北海公园演出",
@@ -11706,7 +11805,7 @@
     "name": "探索北京颐和园研学",
     "venue": "颐和园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "海淀区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11742,7 +11841,7 @@
     "name": "亲子北京怀柔区影视放映工作坊",
     "venue": "北京怀柔区博物馆",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11807,7 +11906,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "超大草坪与森林徒步",
@@ -11842,7 +11942,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "湿地鸟类观察与植物手工",
@@ -11877,13 +11978,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "探秘北京首都博物馆展览",
     "venue": "首都博物馆",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -11920,7 +12022,7 @@
     "name": "沉浸式北京海淀区影视放映探索",
     "venue": "北京海淀区科技馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -11957,7 +12059,7 @@
     "name": "暑期北京通州区展览体验营",
     "venue": "北京通州区文化馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -11994,7 +12096,7 @@
     "name": "沉浸式北京海淀区讲座阅读探索",
     "venue": "北京海淀区体育馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -12031,7 +12133,7 @@
     "name": "暑期北京西城区科普活动体验营",
     "venue": "北京西城区美术馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -12068,7 +12170,7 @@
     "name": "北京画院美术馆",
     "venue": "北京画院美术馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "免费",
@@ -12105,7 +12207,7 @@
     "name": "发现北京颐和园展览",
     "venue": "颐和园",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "海淀区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "免费",
@@ -12141,7 +12243,7 @@
     "name": "儿童北京延庆区亲子活动课程",
     "venue": "北京延庆区美术馆",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -12207,13 +12309,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "昌平区"
   },
   {
     "name": "趣味北京朝阳公园亲子活动",
     "venue": "朝阳公园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "朝阳区",
     "start_date": "2026-09-18",
     "end_date": "2027-03-20",
     "fee": "收费",
@@ -12250,7 +12353,7 @@
     "name": "戒台寺古松",
     "venue": "戒台寺",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "收费",
@@ -12315,7 +12418,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "无动力乐园与自然手工",
@@ -12350,7 +12454,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "房山区"
   },
   {
     "title": "以丝造境：清华大学艺术博物馆藏织绣书画展",
@@ -12385,13 +12490,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "奇妙北京八达岭长城亲子活动",
     "venue": "八达岭长城",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "收费",
@@ -12427,7 +12533,7 @@
     "name": "奇妙北京南锣鼓巷亲子活动",
     "venue": "南锣鼓巷",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "收费",
@@ -12463,7 +12569,7 @@
     "name": "探索北京朝阳区体育赛事演出",
     "venue": "北京朝阳区文化中心",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "收费",
@@ -12499,7 +12605,7 @@
     "name": "周末北京石景山区展览活动",
     "venue": "北京石景山区文化馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "免费",
@@ -12536,7 +12642,7 @@
     "name": "亲子北京顺义区科普活动工作坊",
     "venue": "北京顺义区植物园",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "免费",
@@ -12601,13 +12707,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "丰台区"
   },
   {
     "name": "儿童北京今日美术馆亲子活动",
     "venue": "今日美术馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "免费",
@@ -12644,7 +12751,7 @@
     "name": "亲子北京朝阳区科普活动工作坊",
     "venue": "北京朝阳区美术馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "免费",
@@ -12681,7 +12788,7 @@
     "name": "漫游北京密云区演出季",
     "venue": "北京密云区公园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -12718,7 +12825,7 @@
     "name": "精彩北京延庆区影视放映节",
     "venue": "北京延庆区植物园",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -12782,13 +12889,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "探秘北京顺义区演出月",
     "venue": "北京顺义区科技馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -12825,7 +12933,7 @@
     "name": "沉浸式北京密云区亲子活动探索",
     "venue": "北京密云区创意园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -12861,7 +12969,7 @@
     "name": "暑期北京西城区亲子活动体验营",
     "venue": "北京西城区体育场",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -12897,7 +13005,7 @@
     "name": "北京鲁迅博物馆",
     "venue": "北京鲁迅博物馆",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "免费",
@@ -12963,7 +13071,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "免费球场与儿童沙坑",
@@ -12998,7 +13107,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "昌平区"
   },
   {
     "title": "百年红楼历史文化展",
@@ -13033,13 +13143,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "儿童北京大兴区影视放映课程",
     "venue": "北京大兴区海洋馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "收费",
@@ -13075,7 +13186,7 @@
     "name": "体验北京北京画院美术馆展览",
     "venue": "北京画院美术馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13112,7 +13223,7 @@
     "name": "探秘北京朝阳区影视放映月",
     "venue": "北京朝阳区青少年宫",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13149,7 +13260,7 @@
     "name": "发现北京昌平区体育赛事比赛",
     "venue": "北京昌平区博物馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13186,7 +13297,7 @@
     "name": "解读北京门头沟区讲座阅读周",
     "venue": "北京门头沟区图书馆",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "免费",
@@ -13223,7 +13334,7 @@
     "name": "老舍纪念馆",
     "venue": "老舍纪念馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "免费",
@@ -13259,7 +13370,7 @@
     "name": "体验北京奥林匹克公园研学",
     "venue": "奥林匹克公园",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "朝阳区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "收费",
@@ -13296,7 +13407,7 @@
     "name": "体验北京三里屯展览",
     "venue": "三里屯",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "收费",
@@ -13332,7 +13443,7 @@
     "name": "体验北京丰台区展览嘉年华",
     "venue": "北京丰台区青少年宫",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "免费",
@@ -13397,7 +13508,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "古建模型与斗拱手工",
@@ -13432,7 +13544,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "古代中国（基本陈列）",
@@ -13467,13 +13580,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "北京北京科学中心研学",
     "venue": "北京科学中心",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "西城区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13509,7 +13623,7 @@
     "name": "青少年北京北京动物园亲子活动",
     "venue": "北京动物园",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "西城区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "免费",
@@ -13545,7 +13659,7 @@
     "name": "探秘北京怀柔区科普活动月",
     "venue": "北京怀柔区文化馆",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "免费",
@@ -13582,7 +13696,7 @@
     "name": "震撼北京顺义区亲子活动发现",
     "venue": "北京顺义区会展中心",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13618,7 +13732,7 @@
     "name": "周末北京东城区讲座阅读活动",
     "venue": "北京东城区科技馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "免费",
@@ -13655,7 +13769,7 @@
     "name": "探秘北京朝阳区体育赛事月",
     "venue": "北京朝阳区创意园",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13720,7 +13834,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "title": "中国电影博物馆2026年暑期错时开放",
@@ -13755,13 +13870,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "走进北京东城区科普活动日",
     "venue": "北京东城区文化中心",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "免费",
@@ -13797,7 +13913,7 @@
     "name": "梦幻北京东城区体育赛事之旅",
     "venue": "北京东城区动物园",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -13862,13 +13978,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "探索北京前门大街研学",
     "venue": "前门大街",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -13940,7 +14057,7 @@
     "name": "万寿寺北京艺术博物馆",
     "venue": "北京艺术博物馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "免费",
@@ -14006,7 +14123,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "工业科普与绘本剧",
@@ -14041,13 +14159,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "石景山区"
   },
   {
     "name": "震撼北京朝阳区讲座阅读发现",
     "venue": "北京朝阳区体育馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "免费",
@@ -14113,7 +14232,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "工业儿童乐园与非遗市集",
@@ -14147,13 +14267,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "石景山区"
   },
   {
     "name": "漫游北京昌平区影视放映季",
     "venue": "北京昌平区美术馆",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "收费",
@@ -14190,7 +14311,7 @@
     "name": "亲子北京朝阳区亲子活动工作坊",
     "venue": "北京朝阳区体育场",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "收费",
@@ -14255,7 +14376,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "大兴区"
   },
   {
     "name": "北京玉渊潭公园展览",
@@ -14298,7 +14420,7 @@
     "name": "探索北京玉渊潭公园展览",
     "venue": "玉渊潭公园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "免费",
@@ -14335,7 +14457,7 @@
     "name": "探秘北京朝阳区讲座阅读月",
     "venue": "北京朝阳区动物园",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "免费",
@@ -14371,7 +14493,7 @@
     "name": "红砖美术馆",
     "venue": "红砖美术馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "收费",
@@ -14437,7 +14559,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "“奇趣书海 夏梦成荫”首都图书馆2026暑期系列文化活动",
@@ -14472,7 +14595,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "亲子球类与体能公益课",
@@ -14506,13 +14630,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "精彩北京奥林匹克森林公园演出",
     "venue": "奥林匹克森林公园",
     "city": "beijing",
-    "district": "西城区",
+    "district": "朝阳区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "收费",
@@ -14578,7 +14703,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "中国国家博物馆暑期展览",
@@ -14613,7 +14739,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "节气手工与亲子观影",
@@ -14648,7 +14775,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "丰台区"
   },
   {
     "title": "消防模拟与逃生演练",
@@ -14682,13 +14810,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "name": "发现北京海淀区亲子活动比赛",
     "venue": "北京海淀区艺术中心",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -14753,7 +14882,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "编程机器人国风手工",
@@ -14787,13 +14917,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "家庭北京天坛公园亲子活动",
     "venue": "天坛公园",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "东城区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -14830,7 +14961,7 @@
     "name": "探索北京景山公园展览",
     "venue": "景山公园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "西城区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -14867,7 +14998,7 @@
     "name": "解读北京西城区演出周",
     "venue": "北京西城区艺术中心",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -14904,7 +15035,7 @@
     "name": "走进北京东城区演出日",
     "venue": "北京东城区艺术中心",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -14941,7 +15072,7 @@
     "name": "亲子北京怀柔区讲座阅读工作坊",
     "venue": "北京怀柔区剧院",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -14978,7 +15109,7 @@
     "name": "趣味北京通州区影视放映展览",
     "venue": "北京通州区创意园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15014,7 +15145,7 @@
     "name": "互动北京丰台区演出科普",
     "venue": "北京丰台区会展中心",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15050,7 +15181,7 @@
     "name": "茅盾故居",
     "venue": "茅盾故居",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15086,7 +15217,7 @@
     "name": "白塔寺妙应寺",
     "venue": "妙应寺白塔",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15151,13 +15282,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "走进北京北京画院美术馆展览",
     "venue": "北京画院美术馆",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "房山区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15194,7 +15326,7 @@
     "name": "梦幻北京北京天文馆演出",
     "venue": "北京天文馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "西城区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15230,7 +15362,7 @@
     "name": "家庭北京昌平区科普活动研学营",
     "venue": "北京昌平区植物园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15266,7 +15398,7 @@
     "name": "互动北京延庆区演出科普",
     "venue": "北京延庆区海洋馆",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15302,7 +15434,7 @@
     "name": "解读北京通州区演出周",
     "venue": "北京通州区科技馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15368,7 +15500,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "title": "看·见——中国国家博物馆藏海外中国图像展",
@@ -15403,7 +15536,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "title": "亚洲数字艺术展（人有人的用处）",
@@ -15438,13 +15572,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "name": "研学北京南锣鼓巷研学",
     "venue": "南锣鼓巷",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "收费",
@@ -15480,7 +15615,7 @@
     "name": "北京中国科技馆亲子活动",
     "venue": "中国科技馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "收费",
@@ -15517,7 +15652,7 @@
     "name": "家庭北京密云区讲座阅读研学营",
     "venue": "北京密云区剧院",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "免费",
@@ -15583,7 +15718,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "title": "国图讲坛2026年“非遗讲座月”",
@@ -15618,7 +15754,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "海淀区"
   },
   {
     "title": "敦煌艺术大展——从藏经洞到数字敦煌",
@@ -15652,7 +15789,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "name": "实践北京朝阳公园研学",
@@ -15695,7 +15833,7 @@
     "name": "漫游北京国家体育场展览",
     "venue": "国家体育场",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "收费",
@@ -15732,7 +15870,7 @@
     "name": "解读北京通州区科普活动周",
     "venue": "北京通州区博物馆",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "免费",
@@ -15769,7 +15907,7 @@
     "name": "走进北京东城区亲子活动日",
     "venue": "北京东城区公园",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "收费",
@@ -15806,7 +15944,7 @@
     "name": "青少年北京东城区展览讲座",
     "venue": "北京东城区图书馆",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "免费",
@@ -15872,13 +16010,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "name": "梦幻北京日坛公园亲子活动",
     "venue": "日坛公园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -15915,7 +16054,7 @@
     "name": "儿童北京大观园亲子活动",
     "venue": "大观园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -15951,7 +16090,7 @@
     "name": "梦幻北京北京故宫博物院演出",
     "venue": "北京故宫博物院",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -15987,7 +16126,7 @@
     "name": "亲子北京怀柔区展览工作坊",
     "venue": "北京怀柔区海洋馆",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -16023,7 +16162,7 @@
     "name": "周末北京石景山区演出活动",
     "venue": "北京石景山区会展中心",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -16059,7 +16198,7 @@
     "name": "精彩北京大兴区亲子活动节",
     "venue": "北京大兴区文化馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -16096,7 +16235,7 @@
     "name": "沉浸式北京密云区演出探索",
     "venue": "北京密云区海洋馆",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -16160,13 +16299,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "石景山区"
   },
   {
     "name": "北京国家游泳中心亲子活动",
     "venue": "国家游泳中心",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "免费",
@@ -16202,7 +16342,7 @@
     "name": "北京红砖美术馆亲子活动",
     "venue": "红砖美术馆",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "免费",
@@ -16239,7 +16379,7 @@
     "name": "互动北京大兴区讲座阅读科普",
     "venue": "北京大兴区艺术中心",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "免费",
@@ -16276,7 +16416,7 @@
     "name": "儿童北京丰台区体育赛事课程",
     "venue": "北京丰台区公园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16313,7 +16453,7 @@
     "name": "漫游北京密云区影视放映季",
     "venue": "北京密云区植物园",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16349,7 +16489,7 @@
     "name": "宋庆龄同志故居",
     "venue": "宋庆龄同志故居",
     "city": "beijing",
-    "district": "西城区",
+    "district": "房山区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16414,13 +16554,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "name": "亲子北京圆明园亲子活动",
     "venue": "圆明园",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "免费",
@@ -16456,7 +16597,7 @@
     "name": "漫游北京大观园展览",
     "venue": "大观园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16492,7 +16633,7 @@
     "name": "探秘北京怀柔区体育赛事月",
     "venue": "北京怀柔区会展中心",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16528,7 +16669,7 @@
     "name": "体验北京大兴区演出嘉年华",
     "venue": "北京大兴区体育馆",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "房山区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16593,7 +16734,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "2026国家大剧院国际戏剧季",
@@ -16628,7 +16770,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "八喜·打开艺术之门—2026暑期艺术节",
@@ -16663,7 +16806,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "故宫博物院暑期未成年人团队预约",
@@ -16697,13 +16841,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "青少年北京国贸商城亲子活动",
     "venue": "国贸商城",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "免费",
@@ -16739,7 +16884,7 @@
     "name": "体验北京延庆区体育赛事嘉年华",
     "venue": "北京延庆区文化馆",
     "city": "beijing",
-    "district": "延庆区",
+    "district": "房山区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "收费",
@@ -16776,7 +16921,7 @@
     "name": "沉浸式北京昌平区影视放映探索",
     "venue": "北京昌平区公园",
     "city": "beijing",
-    "district": "昌平区",
+    "district": "房山区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "收费",
@@ -16813,7 +16958,7 @@
     "name": "北京东岳庙",
     "venue": "北京民俗博物馆",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -16879,13 +17024,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "大兴区"
   },
   {
     "name": "发现北京国家游泳中心展览",
     "venue": "国家游泳中心",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "免费",
@@ -16921,7 +17067,7 @@
     "name": "青少年北京石景山区科普活动讲座",
     "venue": "北京石景山区艺术中心",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "免费",
@@ -16958,7 +17104,7 @@
     "name": "趣味北京通州区演出展览",
     "venue": "北京通州区青少年宫",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -16995,7 +17141,7 @@
     "name": "震撼北京怀柔区科普活动发现",
     "venue": "北京怀柔区动物园",
     "city": "beijing",
-    "district": "怀柔区",
+    "district": "房山区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "免费",
@@ -17060,7 +17206,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "朝阳区"
   },
   {
     "title": "滨河亲子运动与户外健身课堂",
@@ -17094,13 +17241,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "通州区"
   },
   {
     "name": "探秘北京王府井展览",
     "venue": "王府井",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17136,7 +17284,7 @@
     "name": "北京日坛公园亲子活动",
     "venue": "日坛公园",
     "city": "beijing",
-    "district": "石景山区",
+    "district": "房山区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "免费",
@@ -17173,7 +17321,7 @@
     "name": "趣味北京什刹海亲子活动",
     "venue": "什刹海",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17209,7 +17357,7 @@
     "name": "奇妙北京北京动物园亲子活动",
     "venue": "北京动物园",
     "city": "beijing",
-    "district": "海淀区",
+    "district": "西城区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17245,7 +17393,7 @@
     "name": "震撼北京北京植物园演出",
     "venue": "北京植物园",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "海淀区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17281,7 +17429,7 @@
     "name": "研学北京北京天文馆研学",
     "venue": "北京天文馆",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "西城区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17317,7 +17465,7 @@
     "name": "亲子北京朝阳区展览工作坊",
     "venue": "北京朝阳区会展中心",
     "city": "beijing",
-    "district": "朝阳区",
+    "district": "房山区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "免费",
@@ -17353,7 +17501,7 @@
     "name": "探索北京顺义区体育赛事演出",
     "venue": "北京顺义区博物馆",
     "city": "beijing",
-    "district": "顺义区",
+    "district": "房山区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17419,13 +17567,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "东城区"
   },
   {
     "name": "北京北京故宫博物院展览",
     "venue": "北京故宫博物院",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17461,7 +17610,7 @@
     "name": "北京三里屯亲子活动",
     "venue": "三里屯",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17497,7 +17646,7 @@
     "name": "暑期北京门头沟区演出体验营",
     "venue": "北京门头沟区创意园",
     "city": "beijing",
-    "district": "门头沟区",
+    "district": "房山区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17561,7 +17710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "古生物标本与化石DIY",
@@ -17596,7 +17746,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "东城区"
   },
   {
     "title": "湿地生态研学与荷花写生",
@@ -17631,13 +17782,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "房山区"
   },
   {
     "name": "暑期北京通州区讲座阅读体验营",
     "venue": "北京通州区公园",
     "city": "beijing",
-    "district": "通州区",
+    "district": "房山区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "免费",
@@ -17674,7 +17826,7 @@
     "name": "青少年北京东城区影视放映讲座",
     "venue": "北京东城区会展中心",
     "city": "beijing",
-    "district": "东城区",
+    "district": "房山区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "收费",
@@ -17775,7 +17927,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西城区"
   },
   {
     "title": "考古探秘与文物修复体验",
@@ -17810,13 +17963,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "朝阳区"
   },
   {
     "name": "解读北京天坛公园展览",
     "venue": "天坛公园",
     "city": "beijing",
-    "district": "大兴区",
+    "district": "东城区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "免费",
@@ -17853,7 +18007,7 @@
     "name": "探秘北京国家体育馆展览",
     "venue": "国家体育馆",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17890,7 +18044,7 @@
     "name": "互动北京丰台区体育赛事科普",
     "venue": "北京丰台区美术馆",
     "city": "beijing",
-    "district": "丰台区",
+    "district": "房山区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17927,7 +18081,7 @@
     "name": "家庭北京密云区体育赛事研学营",
     "venue": "北京密云区科技馆",
     "city": "beijing",
-    "district": "密云区",
+    "district": "房山区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17993,7 +18147,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西城区"
   },
   {
     "title": "中华世纪坛 南天门计划科幻科普主题展",
@@ -18028,7 +18183,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.worldartmuseum.cn/"
+    "venue_url": "https://www.worldartmuseum.cn/",
+    "district": "房山区"
   },
   {
     "title": "明十三陵明代文物主题展",
@@ -18063,7 +18219,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.mingshisanling.com/"
+    "venue_url": "https://www.mingshisanling.com/",
+    "district": "房山区"
   },
   {
     "title": "中国美术馆 从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -18098,7 +18255,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.namoc.org/"
+    "venue_url": "https://www.namoc.org/",
+    "district": "东城区"
   },
   {
     "title": "首都博物馆 玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -18133,7 +18291,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.capitalmuseum.org.cn/"
+    "venue_url": "https://www.capitalmuseum.org.cn/",
+    "district": "房山区"
   },
   {
     "title": "中国国家博物馆 行·迹——卡塔尔游牧生活与文化展",
@@ -18168,7 +18327,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.chnmuseum.cn/"
+    "venue_url": "https://www.chnmuseum.cn/",
+    "district": "房山区"
   },
   {
     "title": "中国国家博物馆 巴西魂——波尔蒂纳里艺术展",
@@ -18203,7 +18363,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.chnmuseum.cn/"
+    "venue_url": "https://www.chnmuseum.cn/",
+    "district": "房山区"
   },
   {
     "title": "第八届梦幻景泰蓝夜场文化体验季",
@@ -18237,7 +18398,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "房山区"
   },
   {
     "title": "北京水长城暑期活动",
@@ -18272,7 +18434,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.huanghuacheng.com/"
+    "venue_url": "https://www.huanghuacheng.com/",
+    "district": "房山区"
   },
   {
     "title": "呀路古热带植物园第十一届泼水节",
@@ -18306,7 +18469,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "房山区"
   },
   {
     "title": "2026世界机器人大会",
@@ -18340,7 +18504,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "房山区"
   },
   {
     "title": "薛之谦\"万兽之王\"演唱会-北京站",
@@ -18375,7 +18540,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.n-s.cn/"
+    "venue_url": "https://www.n-s.cn/",
+    "district": "房山区"
   },
   {
     "title": "汪苏泷2026\"明日世界\"演唱会-北京站",
@@ -18410,7 +18576,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.n-s.cn/"
+    "venue_url": "https://www.n-s.cn/",
+    "district": "房山区"
   },
   {
     "title": "刘宇2026\"宇宙诗人\"演唱会·北京站",
@@ -18445,7 +18612,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://wks.bloomagelive.com/live/"
+    "venue_url": "https://wks.bloomagelive.com/live/",
+    "district": "房山区"
   },
   {
     "title": "北京开瓶·独立酿造节",
@@ -18479,6 +18647,7 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "房山区"
   }
 ]
