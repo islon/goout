@@ -34,11 +34,13 @@ CITY_NAME_TO_CODE = {
     '上海': 'shanghai',
     '北京': 'beijing',
     '杭州': 'hangzhou',
+    '珠海': 'zhuhai',
     'shenzhen': 'shenzhen',
     'guangzhou': 'guangzhou',
     'shanghai': 'shanghai',
     'beijing': 'beijing',
     'hangzhou': 'hangzhou',
+    'zhuhai': 'zhuhai',
 }
 
 REAL_SCRAPERS = [
@@ -82,6 +84,8 @@ REAL_SCRAPERS = [
 ]
 
 MANUAL_DATA_FILE = os.path.join(os.path.dirname(__file__), 'manual_data.json')
+ZHUHAI_DATA_FILE = os.path.join(os.path.dirname(__file__), 'zhuhai_activities.json')
+ZHUHAI_VENUES_FILE = os.path.join(os.path.dirname(__file__), 'zhuhai_venues.json')
 
 VALID_FEE_VALUES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
 
@@ -431,6 +435,21 @@ def load_manual_data():
         return []
 
 
+def load_zhuhai_data():
+    """加载珠海活动数据"""
+    if not os.path.exists(ZHUHAI_DATA_FILE):
+        return []
+    try:
+        with open(ZHUHAI_DATA_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        for item in data:
+            item['city'] = 'zhuhai'
+        return data
+    except Exception as e:
+        print(f"加载珠海数据失败: {e}")
+        return []
+
+
 def fetch_wechat_activities(max_accounts=10, max_articles_per_account=5):
     try:
         from wechat_crawler import crawl_wechat_articles
@@ -513,6 +532,16 @@ def collect_all_activities():
             manual_valid.append(activity)
     print(f"有效活动: {len(manual_valid)} 条")
     all_activities.extend(manual_valid)
+
+    print("\n=== 加载珠海活动数据 ===")
+    zhuhai_data = load_zhuhai_data()
+    zhuhai_valid = []
+    for raw in zhuhai_data:
+        activity = normalize_activity(raw, city='zhuhai')
+        if activity and is_valid_activity(activity):
+            zhuhai_valid.append(activity)
+    print(f"有效活动: {len(zhuhai_valid)} 条")
+    all_activities.extend(zhuhai_valid)
 
     print("\n=== 抓取微信公众号数据 ===")
     wechat_data = fetch_wechat_activities(max_accounts=10, max_articles_per_account=3)
@@ -618,7 +647,7 @@ def main():
         f.write(ics_content)
     print(f"ICS日历已生成到 {ics_path}")
 
-    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing']
+    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing', 'zhuhai']
     for city_code in city_codes:
         city_activities = [a for a in activities if a.get('city') == city_code]
         if not city_activities:

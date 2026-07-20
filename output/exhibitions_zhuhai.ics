@@ -1,0 +1,888 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:38a6dec1559c4709@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:珠海历史常设展
+LOCATION:珠海博物馆
+DESCRIPTION:从新石器时代先民用具到近代香山名人手稿，展示珠海从远古到近代的完整历史印记，常设展览免费参观。\n地点: 珠海博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.zhsm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:41328f642fa7f8df@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:传统艺文和民俗文化展
+LOCATION:珠海博物馆
+DESCRIPTION:展示珠海传统艺文和民俗文化，含香山文化、客家文化、水上人家等主题内容。\n地点: 珠海博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.zhsm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:10c7a32e5b217dd0@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:共同的记忆——珠海城市变迁展
+LOCATION:珠海博物馆
+DESCRIPTION:回顾珠海城市发展的共同记忆，从渔村到现代化城市的变迁历程。\n地点: 珠海博物馆\n时间: 2026-01-01 至 2026-12-31\n详情: https://www.zhsm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:16e47d905005bb33@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:珠海规划展览馆城市记忆展
+LOCATION:珠海规划展览馆
+DESCRIPTION:展示珠海从渔村到现代化城市的规划建设成就，含互动模型、多媒体展示等。\n地点: 珠海规划展览馆\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f1022fe9d9e731f6@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:国家方志馆大湾区记忆展
+LOCATION:国家方志馆粤港澳大湾区分馆
+DESCRIPTION:华南地区首家国家方志馆分馆，馆藏图书超5.3万册，展示大湾区历史文化和城市记忆。\n地点: 国家方志馆粤港澳大湾区分馆\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:f0c301df77bb69d1@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:景山公园缆车观景体验
+LOCATION:景山公园
+DESCRIPTION:景山公园缆车索道观景体验，登高俯瞰珠海城市景观和海景，天气晴好时视野极佳。\n地点: 景山公园\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:eb199f2b9b733660@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:金湾区图书馆「云」自习室体验
+LOCATION:金湾区图书馆
+DESCRIPTION:金湾区图书馆「云」自习室和24小时「开卷」自习室，提供专注学习空间。\n地点: 金湾区图书馆\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:c6aed2a9e46f5318@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:金湾区博物馆林伟民主题陈列展
+LOCATION:金湾区博物馆
+DESCRIPTION:以林伟民生平为线索，分五个篇章串起珍贵历史照片与场景复原，了解早期工人运动历史。\n地点: 金湾区博物馆\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:7897917b53d5cae1@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:金湾文物展
+LOCATION:金湾区博物馆
+DESCRIPTION:金湾文物展，展示数千年的海洋文明，探寻先民在珠海创造的海岛文明。\n地点: 金湾区博物馆\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5b1018b3432bb9@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:斗门区博物馆历史展
+LOCATION:斗门区博物馆
+DESCRIPTION:斗门区博物馆常设展览，展示斗门历史文化和民俗风情，含斗门旧事、民俗文化等。\n地点: 斗门区博物馆\n时间: 2026-01-01 至 2026-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd5b88a4ae570a9@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260730
+SUMMARY:手作·造物——现代手工艺师生作品展
+LOCATION:金湾区图书馆
+DESCRIPTION:陶瓷、广府金绣、掐丝珐琅与非遗点翠等20余个门类的工艺美术作品在一楼中庭展出。\n地点: 金湾区图书馆\n时间: 2026-06-15 至 2026-07-29
+END:VEVENT
+BEGIN:VEVENT
+UID:47fe77fd54b037db@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260801
+SUMMARY:童心向党——金湾区青少儿艺术花会优秀作品展
+LOCATION:金湾区文化馆
+DESCRIPTION:金湾区青少儿艺术花会优秀作品展，展出813件艺术感十足的青少儿艺术作品。\n地点: 金湾区文化馆\n时间: 2026-06-15 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:15919f324f445c1b@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:珠海市图书馆暑期阅读季
+LOCATION:珠海市图书馆
+DESCRIPTION:珠海市图书馆暑期阅读推广活动，含阅读分享会、亲子故事会、好书推荐等系列活动。\n地点: 珠海市图书馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.zhlib.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf0d210af7f4bdb@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:珠海市文化馆公益艺术培训
+LOCATION:珠海市文化馆
+DESCRIPTION:暑期公益艺术培训班，含书法、绘画、舞蹈、声乐等课程，面向市民免费开放。\n地点: 珠海市文化馆\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.zhwhg.com
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8df6ac3f6ef379@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:古元美术馆版画艺术展
+LOCATION:古元美术馆
+DESCRIPTION:古元版画艺术精品展，展示珠海版画大师古元的经典作品及当代版画创作。\n地点: 古元美术馆\n时间: 2026-07-01 至 2026-09-30\n详情: https://www.gymuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ae474738adb87b3f@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:香山文化艺术中心暑期展览
+LOCATION:香山文化艺术中心
+DESCRIPTION:香山文化艺术中心暑期系列展览，含书画展、摄影展、手工艺品展等。\n地点: 香山文化艺术中心\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:eb33ba3ea7d41253@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:圆明新园夏日文化游园会
+LOCATION:圆明新园
+DESCRIPTION:圆明新园夏日文化游园会，免费开放，含皇家建筑参观、园林游览、文化表演等。\n地点: 圆明新园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:6576363eda950d12@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:海滨公园亲子户外活动
+LOCATION:珠海海滨公园
+DESCRIPTION:情侣路海滨公园亲子户外活动，海景优美，适合放风筝、散步、观海等休闲活动。\n地点: 珠海海滨公园\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:1157ba96aa457d94@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:汤臣倍健透明工厂参观
+LOCATION:汤臣倍健透明工厂
+DESCRIPTION:营养健康科普参观，生产车间免费参观，营养探索馆互动体验收费，了解营养健康知识。\n地点: 汤臣倍健透明工厂\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.by-health.com
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd79b4f3f1c535e@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:海泉湾夏日温泉度假活动
+LOCATION:珠海海泉湾度假区
+DESCRIPTION:海泉湾夏日温泉度假活动，含海洋温泉、水上乐园、主题酒店等，适合亲子度假。\n地点: 珠海海泉湾度假区\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.hotspringbay.com
+END:VEVENT
+BEGIN:VEVENT
+UID:f44f47369880d6dd@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:斗门旧街历史文化游览
+LOCATION:斗门旧街
+DESCRIPTION:斗门旧街历史文化游览，珠海保存最完整的骑楼街之一，中西合璧建筑风格，免费参观。\n地点: 斗门旧街\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:51a51b9a67f6a93d@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:金台寺夏日祈福活动
+LOCATION:金台寺
+DESCRIPTION:金台寺夏日祈福活动，黄杨山风景区著名寺庙，环境清幽，免费参观。\n地点: 金台寺\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1acf7697367e18@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:御温泉夏日亲子活动
+LOCATION:御温泉
+DESCRIPTION:御温泉夏日亲子活动，日式温泉度假村，含多种温泉池、日式住宿、美食体验。\n地点: 御温泉\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.yuwengquan.com
+END:VEVENT
+BEGIN:VEVENT
+UID:af20a1e3e6b480ff@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:珠海长隆海洋王国夏日狂欢节
+LOCATION:珠海长隆海洋王国
+DESCRIPTION:长隆海洋王国夏日狂欢节，八大主题园区全面开放，含海洋动物展示、大型演艺和海洋幻彩烟花秀。\n地点: 珠海长隆海洋王国\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:512408ca11be2f20@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:长隆海洋幻彩烟花秀
+LOCATION:珠海长隆海洋王国
+DESCRIPTION:每晚海洋幻彩烟花秀，一场令人难忘的烟花盛宴，结合灯光和音乐，绚丽多彩。\n地点: 珠海长隆海洋王国\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e5c3e9e2ccfddc@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:长隆飞船乐园宇宙探索之旅
+LOCATION:珠海长隆飞船乐园
+DESCRIPTION:15大主题区域宇宙探索之旅，含宇宙世界、峡谷星球、星际站台、珊瑚秘境等，10:00-18:00。\n地点: 珠海长隆飞船乐园\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c430f92d6b42d323@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:长隆横琴剧院《长隆秀》
+LOCATION:珠海长隆横琴剧院
+DESCRIPTION:国际顶尖团队打造的大马戏节目《长隆秀》，俄罗斯马戏世家传人执导，常规开演时间17:00。\n地点: 珠海长隆横琴剧院\n时间: 2026-07-01 至 2026-08-31\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b89ed13231207b1d@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:横琴金融岛夜景游览
+LOCATION:横琴金融岛
+DESCRIPTION:横琴金融岛夜景游览，现代建筑景观，海景优美，适合夜游拍照。\n地点: 横琴金融岛\n时间: 2026-07-01 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:5206d54eb9c85d61@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260901
+SUMMARY:斗门区图书馆暑期阅读活动
+LOCATION:斗门区图书馆
+DESCRIPTION:斗门区图书馆暑期阅读推广活动，含读书会、绘本故事、好书推荐等系列活动。\n地点: 斗门区图书馆\n时间: 2026-07-05 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e3d025f892e7b96c@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260831
+SUMMARY:横琴文化艺术中心艺术展览
+LOCATION:横琴文化艺术中心
+DESCRIPTION:横琴文化艺术中心夏季艺术展览，含当代艺术、摄影、装置等多种艺术形式，免费参观。\n地点: 横琴文化艺术中心\n时间: 2026-07-05 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd451e2ddd8afc7@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260901
+SUMMARY:梅溪牌坊历史文化讲解
+LOCATION:梅溪牌坊
+DESCRIPTION:梅溪牌坊历史文化讲解活动，了解首任驻外大使陈芳的传奇人生和珠海华侨历史。\n地点: 梅溪牌坊\n时间: 2026-07-10 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:ed50ac3dd95e4774@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260901
+SUMMARY:金湾区图书馆暑期阅读营
+LOCATION:金湾区图书馆
+DESCRIPTION:金湾区图书馆暑期阅读营活动，含阅读分享、亲子共读、好书推荐等，少儿阅览区免费参与。\n地点: 金湾区图书馆\n时间: 2026-07-10 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:196066e06f995822@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260821
+SUMMARY:斗门区文化馆暑期公益培训
+LOCATION:斗门区文化馆
+DESCRIPTION:斗门区文化馆暑期公益培训班，含书法、国画、舞蹈、声乐等课程，免费报名。\n地点: 斗门区文化馆\n时间: 2026-07-10 至 2026-08-20
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7547cf3408116b@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260901
+SUMMARY:星乐度露营小镇夏日露营节
+LOCATION:星乐度露营小镇
+DESCRIPTION:星乐度露营小镇夏日露营节，含房车、木屋、星空露营等住宿体验，亲子户外活动。\n地点: 星乐度露营小镇\n时间: 2026-07-10 至 2026-08-31\n详情: https://www.starryland.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:da6629ea7c2e3739@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20261019
+SUMMARY:广东省第一次全国可移动文物普查成果图片展
+LOCATION:金湾区博物馆
+DESCRIPTION:近百幅图表展示岭南文物精华，带你一次看遍广东省可移动文物普查成果。\n地点: 金湾区博物馆\n时间: 2026-07-14 至 2026-10-18
+END:VEVENT
+BEGIN:VEVENT
+UID:e0cc3d445275ee61@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260901
+SUMMARY:珠海博物馆暑期亲子讲解活动
+LOCATION:珠海博物馆
+DESCRIPTION:暑期期间珠海博物馆推出亲子讲解活动，专业讲解员带领小朋友了解珠海历史，寓教于乐。\n地点: 珠海博物馆\n时间: 2026-07-15 至 2026-08-31\n详情: https://www.zhsm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc826aafc4fb9b8@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260816
+SUMMARY:齐白石真迹展
+LOCATION:古元美术馆
+DESCRIPTION:齐白石真迹精品展，展示齐白石先生的绘画真迹，感受国画大师的艺术魅力。\n地点: 古元美术馆\n时间: 2026-07-15 至 2026-08-15\n详情: https://www.gymuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:67f688a106ebfd42@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:珠海青少年妇女儿童活动中心暑期班
+LOCATION:珠海市青少年妇女儿童活动中心
+DESCRIPTION:暑期兴趣培训班，含美术、音乐、舞蹈、科技等课程，面向青少年和妇女儿童。\n地点: 珠海市青少年妇女儿童活动中心\n时间: 2026-07-15 至 2026-08-25
+END:VEVENT
+BEGIN:VEVENT
+UID:5a2219da254ff6a0@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260831
+SUMMARY:珠海国际会展中心暑期展览
+LOCATION:珠海国际会展中心
+DESCRIPTION:珠海国际会展中心暑期系列展览，含文创展、家居展、美食展等，具体以现场为准。\n地点: 珠海国际会展中心\n时间: 2026-07-15 至 2026-08-30\n详情: https://www.zicec.com
+END:VEVENT
+BEGIN:VEVENT
+UID:152dc08241371805@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260831
+SUMMARY:金湾区文化馆非遗体验活动
+LOCATION:金湾区文化馆
+DESCRIPTION:三灶鹤舞、竹草编织、狮舞民歌等12个非遗项目体验活动，边看边玩。\n地点: 金湾区文化馆\n时间: 2026-07-15 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:5a118ecd2171b0ab@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:金湾体育中心暑期游泳班
+LOCATION:金湾体育中心
+DESCRIPTION:金湾体育中心暑期游泳培训班，专业教练指导，适合青少年及成人报名。\n地点: 金湾体育中心\n时间: 2026-07-15 至 2026-08-25
+END:VEVENT
+BEGIN:VEVENT
+UID:419fefa85b7d28cc@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260826
+SUMMARY:斗门体育中心暑期运动营
+LOCATION:斗门体育中心
+DESCRIPTION:斗门体育中心暑期运动营，含足球、篮球、游泳等项目，专业教练指导。\n地点: 斗门体育中心\n时间: 2026-07-15 至 2026-08-25
+END:VEVENT
+BEGIN:VEVENT
+UID:e84caa3448d8de6e@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260816
+SUMMARY:横琴口岸免税购物节
+LOCATION:横琴口岸
+DESCRIPTION:横琴口岸免税购物节，连接珠海横琴与澳门的口岸，含免税购物区，24小时通关。\n地点: 横琴口岸\n时间: 2026-07-15 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:5e799040dbcce991@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260819
+SUMMARY:三灶镇文化中心暑期少儿活动
+LOCATION:三灶镇文化中心
+DESCRIPTION:三灶镇文化中心暑期少儿系列活动，含书法、绘画、阅读等，免费参与。\n地点: 三灶镇文化中心\n时间: 2026-07-18 至 2026-08-18
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b5615cf81da8ea@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260819
+SUMMARY:横琴湿地公园自然教育活动
+LOCATION:横琴湿地公园
+DESCRIPTION:横琴湿地公园自然教育活动，红树林湿地生态公园，观鸟、赏红树林、自然教育。\n地点: 横琴湿地公园\n时间: 2026-07-18 至 2026-08-18
+END:VEVENT
+BEGIN:VEVENT
+UID:3948279887573d69@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260831
+SUMMARY:珠海博物馆夜间开放活动
+LOCATION:珠海博物馆
+DESCRIPTION:暑期周五夜间开放活动，夜游博物馆，感受不同于白天的观展体验。\n地点: 珠海博物馆\n时间: 2026-07-19 至 2026-08-30\n详情: https://www.zhsm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b643287e0244bffb@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:珠海市文化馆非遗展示活动
+LOCATION:珠海市文化馆
+DESCRIPTION:珠海非物质文化遗产展示活动，含粤剧、醒狮、茶果制作等非遗项目体验。\n地点: 珠海市文化馆\n时间: 2026-07-20 至 2026-07-20\n详情: https://www.zhwhg.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4f2cf9115adf0a@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260821
+SUMMARY:珠海工人文化宫职工文化节
+LOCATION:珠海市工人文化宫
+DESCRIPTION:职工文化节系列活动，含文艺汇演、体育比赛、技能展示等，丰富职工文化生活。\n地点: 珠海市工人文化宫\n时间: 2026-07-20 至 2026-08-20
+END:VEVENT
+BEGIN:VEVENT
+UID:fdd888ad9092c749@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260901
+SUMMARY:金湾艺术中心夏季演出季
+LOCATION:金湾艺术中心
+DESCRIPTION:金湾艺术中心夏季演出季，含音乐会、话剧、舞蹈等多种演出形式。\n地点: 金湾艺术中心\n时间: 2026-07-20 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:283e1ff9c0b3eef7@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260831
+SUMMARY:斗门非遗展示馆水上婚嫁展示
+LOCATION:斗门非遗展示馆
+DESCRIPTION:斗门非遗展示馆水上婚嫁展示，了解斗门独特的疍家水上婚嫁民俗文化。\n地点: 斗门非遗展示馆\n时间: 2026-07-20 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:35a3431bf56b98b3@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260901
+SUMMARY:横琴花海长廊骑行活动
+LOCATION:横琴花海长廊
+DESCRIPTION:五公里花海长廊骑行活动，四季花开，适合骑行、散步、拍照，免费参与。\n地点: 横琴花海长廊\n时间: 2026-07-20 至 2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c2b8f4ee295871@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:古元美术馆少儿美术工作坊
+LOCATION:古元美术馆
+DESCRIPTION:古元美术馆少儿美术工作坊，专业老师指导小朋友学习版画、绘画等艺术创作。\n地点: 古元美术馆\n时间: 2026-07-22 至 2026-07-22\n详情: https://www.gymuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bd48c423beaf87@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260827
+SUMMARY:金湾区文化馆公益舞蹈培训
+LOCATION:金湾区文化馆
+DESCRIPTION:金湾区文化馆暑期公益舞蹈培训班，含民族舞、现代舞等课程，面向市民免费开放。\n地点: 金湾区文化馆\n时间: 2026-07-22 至 2026-08-26
+END:VEVENT
+BEGIN:VEVENT
+UID:23aceb301ac8c352@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:珠海大剧院交响乐演出季
+LOCATION:珠海大剧院
+DESCRIPTION:珠海大剧院夏季交响乐演出，知名交响乐团带来经典曲目，海上歌剧院享受音乐盛宴。\n地点: 珠海大剧院\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.zhgrandtheatre.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c11933d4437a4130@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260816
+SUMMARY:华发商都夏日文化市集
+LOCATION:华发商都
+DESCRIPTION:华发商都夏日文化市集，含文创摊位、手作体验、街头表演等，适合全家参与。\n地点: 华发商都\n时间: 2026-07-25 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:3a27b0740b612d71@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260826
+SUMMARY:井岸镇文化中心社区活动
+LOCATION:井岸镇文化中心
+DESCRIPTION:井岸镇文化中心暑期社区文化活动，含文艺演出、图书阅览、兴趣培训等。\n地点: 井岸镇文化中心\n时间: 2026-07-25 至 2026-08-25
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1ce870f8d4311a@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:长隆海洋王国海洋科普讲堂
+LOCATION:珠海长隆海洋王国
+DESCRIPTION:长隆海洋王国海洋科普讲堂，专业讲解员介绍海洋生物知识，适合中小学生参与。\n地点: 珠海长隆海洋王国\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b41dda2b1d71e737@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:珠海市图书馆古诗词鉴赏讲座
+LOCATION:珠海市图书馆
+DESCRIPTION:古诗词鉴赏公益讲座，邀请文学专家解读经典诗词，感受中华传统文化之美。\n地点: 珠海市图书馆\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.zhlib.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:7d50e28d33c37ad6@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:香山文化艺术中心少儿才艺展演
+LOCATION:香山文化艺术中心
+DESCRIPTION:香山文化艺术中心少儿才艺展演活动，为孩子们提供展示才艺的舞台。\n地点: 香山文化艺术中心\n时间: 2026-07-28 至 2026-07-28
+END:VEVENT
+BEGIN:VEVENT
+UID:320eeeec10799997@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20261001
+SUMMARY:当代艺术邀请展
+LOCATION:古元美术馆
+DESCRIPTION:当代艺术邀请展，汇聚多位当代艺术家的先锋创作，从传统水墨到现代装置艺术。\n地点: 古元美术馆\n时间: 2026-08-01 至 2026-09-30\n详情: https://www.gymuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c5564b5d797e9e64@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260901
+SUMMARY:珠海市文化馆书画展览
+LOCATION:珠海市文化馆
+DESCRIPTION:珠海市文化馆八月书画展览，展示本地书画家作品，含山水、花鸟、书法等。\n地点: 珠海市文化馆\n时间: 2026-08-01 至 2026-08-31\n详情: https://www.zhwhg.com
+END:VEVENT
+BEGIN:VEVENT
+UID:15ad6c5895144095@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260901
+SUMMARY:长隆飞船乐园亲子科学实验秀
+LOCATION:珠海长隆飞船乐园
+DESCRIPTION:长隆飞船乐园亲子科学实验秀，互动科学实验表演，寓教于乐。\n地点: 珠海长隆飞船乐园\n时间: 2026-08-01 至 2026-08-31\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:53e54da2d2d95e86@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:珠海大剧院亲子音乐剧
+LOCATION:珠海大剧院
+DESCRIPTION:适合全家观看的亲子音乐剧，在日月贝造型的海上歌剧院享受亲子时光。\n地点: 珠海大剧院\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.zhgrandtheatre.com
+END:VEVENT
+BEGIN:VEVENT
+UID:dd694730afea03f3@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:金海岸文化艺术中心社区文艺汇演
+LOCATION:金海岸文化艺术中心
+DESCRIPTION:金海岸社区文艺汇演，各社区文艺队伍同台演出，展现社区文化风采。\n地点: 金海岸文化艺术中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a4c6df3edab992@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:横琴文化艺术中心亲子工作坊
+LOCATION:横琴文化艺术中心
+DESCRIPTION:横琴文化艺术中心亲子工作坊，含手工制作、绘画等亲子艺术活动，免费参与。\n地点: 横琴文化艺术中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:f75a586910be38ac@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:珠海博物馆考古体验活动
+LOCATION:珠海博物馆
+DESCRIPTION:珠海博物馆考古体验活动，模拟考古发掘，了解考古知识，适合中小学生参与。\n地点: 珠海博物馆\n时间: 2026-08-03 至 2026-08-03\n详情: https://www.zhsm.org.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:1a36dc66dcf4e270@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:斗门区文化馆粤剧表演
+LOCATION:斗门区文化馆
+DESCRIPTION:斗门区文化馆粤剧表演活动，本地粤剧团体演出经典曲目，免费观看。\n地点: 斗门区文化馆\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:4aeed532d0a106d6@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:珠海市图书馆电影放映活动
+LOCATION:珠海市图书馆
+DESCRIPTION:珠海市图书馆公益电影放映活动，播放经典文化主题电影，免费入场。\n地点: 珠海市图书馆\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.zhlib.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5201908e81262f@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260813
+SUMMARY:金湾区博物馆小小讲解员培训
+LOCATION:金湾区博物馆
+DESCRIPTION:金湾区博物馆小小讲解员培训班，面向中小学生，学习讲解技巧和历史文化知识。\n地点: 金湾区博物馆\n时间: 2026-08-05 至 2026-08-12
+END:VEVENT
+BEGIN:VEVENT
+UID:30b1cd519e7688a3@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:黄杨山登山活动
+LOCATION:黄杨山
+DESCRIPTION:黄杨山登山活动，珠海第一峰，风景秀丽，适合户外运动爱好者，免费参与。\n地点: 黄杨山\n时间: 2026-08-08 至 2026-08-08
+END:VEVENT
+BEGIN:VEVENT
+UID:3f30bb214ea6f339@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:珠海大剧院话剧演出
+LOCATION:珠海大剧院
+DESCRIPTION:知名话剧团体在珠海大剧院演出经典话剧作品，感受戏剧艺术的魅力。\n地点: 珠海大剧院\n时间: 2026-08-09 至 2026-08-09\n详情: https://www.zhgrandtheatre.com
+END:VEVENT
+BEGIN:VEVENT
+UID:10778cbab295d9b8@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:金湾区图书馆英语角活动
+LOCATION:金湾区图书馆
+DESCRIPTION:金湾区图书馆英语角活动，外教带领练习英语口语，适合青少年及英语爱好者。\n地点: 金湾区图书馆\n时间: 2026-08-09 至 2026-08-09
+END:VEVENT
+BEGIN:VEVENT
+UID:e2cc146d496e5204@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:星乐度露营小镇星空观测活动
+LOCATION:星乐度露营小镇
+DESCRIPTION:星乐度露营小镇星空观测活动，专业天文望远镜观测星空，了解天文知识。\n地点: 星乐度露营小镇\n时间: 2026-08-09 至 2026-08-09\n详情: https://www.starryland.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:fddc7482d9b9b918@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:珠海市文化馆广场舞大赛
+LOCATION:珠海市文化馆
+DESCRIPTION:珠海市文化馆广场舞大赛，各社区广场舞队伍同台竞技，展现群众文化风采。\n地点: 珠海市文化馆\n时间: 2026-08-10 至 2026-08-10\n详情: https://www.zhwhg.com
+END:VEVENT
+BEGIN:VEVENT
+UID:2a7dcc554b9fcaa0@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:斗门区图书馆亲子阅读会
+LOCATION:斗门区图书馆
+DESCRIPTION:斗门区图书馆亲子阅读会，适合3-8岁儿童及家长，分享绘本故事。\n地点: 斗门区图书馆\n时间: 2026-08-10 至 2026-08-10
+END:VEVENT
+BEGIN:VEVENT
+UID:8531869d14ae0d8c@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:香山文化艺术中心交响音乐会
+LOCATION:香山文化艺术中心
+DESCRIPTION:香山文化艺术中心夏季交响音乐会，知名乐团演绎经典曲目。\n地点: 香山文化艺术中心\n时间: 2026-08-15 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:b418ea1bb630f738@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260916
+SUMMARY:金湾区文化馆摄影展
+LOCATION:金湾区文化馆
+DESCRIPTION:金湾区文化馆摄影作品展，展示金湾区自然风光、人文风情，免费参观。\n地点: 金湾区文化馆\n时间: 2026-08-15 至 2026-09-15
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9c3334d609d4d8@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260823
+SUMMARY:斗门区博物馆小小讲解员
+LOCATION:斗门区博物馆
+DESCRIPTION:斗门区博物馆小小讲解员培训班，面向中小学生，学习斗门历史和讲解技巧。\n地点: 斗门区博物馆\n时间: 2026-08-15 至 2026-08-22
+END:VEVENT
+BEGIN:VEVENT
+UID:70c5eab03b2fd4ca@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:横琴湿地公园观鸟活动
+LOCATION:横琴湿地公园
+DESCRIPTION:横琴湿地公园观鸟活动，专业导师带领观察红树林湿地鸟类，了解候鸟迁徙知识。\n地点: 横琴湿地公园\n时间: 2026-08-15 至 2026-08-15
+END:VEVENT
+BEGIN:VEVENT
+UID:970e9d0a32cbcd01@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:珠海大剧院芭蕾舞演出
+LOCATION:珠海大剧院
+DESCRIPTION:经典芭蕾舞剧在珠海大剧院上演，在海上日月贝享受优雅的芭蕾艺术。\n地点: 珠海大剧院\n时间: 2026-08-16 至 2026-08-16\n详情: https://www.zhgrandtheatre.com
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9ecf247cec0277@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260819
+SUMMARY:斗门旧街美食文化节
+LOCATION:斗门旧街
+DESCRIPTION:斗门旧街美食文化节，品尝斗门特色美食，体验骑楼街历史文化氛围。\n地点: 斗门旧街\n时间: 2026-08-16 至 2026-08-18
+END:VEVENT
+BEGIN:VEVENT
+UID:efac439a6e67cfc2@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:圆明新园传统文化表演
+LOCATION:圆明新园
+DESCRIPTION:圆明新园传统文化表演，含古典舞蹈、民乐演奏、戏曲等，免费观看。\n地点: 圆明新园\n时间: 2026-08-17 至 2026-08-17
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbee6596fffa845@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:金湾体育中心篮球邀请赛
+LOCATION:金湾体育中心
+DESCRIPTION:金湾体育中心夏季篮球邀请赛，各企事业单位和社区队伍参赛，免费观赛。\n地点: 金湾体育中心\n时间: 2026-08-20 至 2026-08-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2ae977e8f0db9a53@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260828
+SUMMARY:长隆横琴剧院国际马戏节
+LOCATION:珠海长隆横琴剧院
+DESCRIPTION:国际马戏节汇聚世界各地顶尖马戏表演团体，精彩纷呈的马戏盛宴。\n地点: 珠海长隆横琴剧院\n时间: 2026-08-20 至 2026-08-27\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:9d02c6be7e4b7317@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+SUMMARY:珠海国际会展中心动漫展
+LOCATION:珠海国际会展中心
+DESCRIPTION:珠海国际动漫展览，含动漫周边、cosplay、声优见面会等，二次元文化盛宴。\n地点: 珠海国际会展中心\n时间: 2026-08-22 至 2026-08-23\n详情: https://www.zicec.com
+END:VEVENT
+BEGIN:VEVENT
+UID:09804d9fc475986f@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:金台寺禅修体验
+LOCATION:金台寺
+DESCRIPTION:金台寺禅修体验活动，在黄杨山清幽环境中体验禅修文化，需提前报名。\n地点: 金台寺\n时间: 2026-08-23 至 2026-08-23
+END:VEVENT
+BEGIN:VEVENT
+UID:33fb20972e1f2cf7@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:华发商都露天音乐会
+LOCATION:华发商都
+DESCRIPTION:华发商都露天音乐会，本地乐队和歌手现场表演，免费观看，适合夏夜休闲。\n地点: 华发商都\n时间: 2026-08-24 至 2026-08-24
+END:VEVENT
+BEGIN:VEVENT
+UID:dba4a5871e1f2514@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:御温泉夏日花火大会
+LOCATION:御温泉
+DESCRIPTION:御温泉夏日花火大会，日式花火表演结合温泉体验，浪漫夏日夜晚。\n地点: 御温泉\n时间: 2026-08-24 至 2026-08-24\n详情: https://www.yuwengquan.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5f83d8583bd89e@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:景山公园日出观景活动
+LOCATION:景山公园
+DESCRIPTION:景山公园日出观景活动，清晨登高观日出，俯瞰珠海晨景，需提前预约。\n地点: 景山公园\n时间: 2026-08-25 至 2026-08-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2655169dc8c23902@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260926
+SUMMARY:斗门区文化馆非遗传承展
+LOCATION:斗门区文化馆
+DESCRIPTION:斗门区文化馆非遗传承展，展示装泥鱼、水上婚嫁等斗门非遗项目。\n地点: 斗门区文化馆\n时间: 2026-08-25 至 2026-09-25
+END:VEVENT
+BEGIN:VEVENT
+UID:97cd14dfead536c6@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260911
+SUMMARY:横琴花海长廊摄影比赛
+LOCATION:横琴花海长廊
+DESCRIPTION:横琴花海长廊摄影比赛，以花海为主题，面向摄影爱好者征集作品，免费参与。\n地点: 横琴花海长廊\n时间: 2026-08-25 至 2026-09-10
+END:VEVENT
+BEGIN:VEVENT
+UID:b24c54122c3a2bee@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:斗门体育中心足球邀请赛
+LOCATION:斗门体育中心
+DESCRIPTION:斗门体育中心夏季足球邀请赛，各社区和企事业单位队伍参赛，免费观赛。\n地点: 斗门体育中心\n时间: 2026-08-29 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:f266487aefe3c993@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260916
+SUMMARY:井岸镇文化中心书画展
+LOCATION:井岸镇文化中心
+DESCRIPTION:井岸镇文化中心书画作品展，展示本地书画爱好者作品，免费参观。\n地点: 井岸镇文化中心\n时间: 2026-08-30 至 2026-09-15
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8a88e144052453@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:横琴文化艺术中心音乐会
+LOCATION:横琴文化艺术中心
+DESCRIPTION:横琴文化艺术中心夏季音乐会，知名乐团演绎经典曲目，免费领票入场。\n地点: 横琴文化艺术中心\n时间: 2026-08-30 至 2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+UID:fe57c3f603d61307@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:长隆海洋王国万圣节主题活动
+LOCATION:珠海长隆海洋王国
+DESCRIPTION:长隆海洋王国万圣节主题活动，万圣主题装饰、鬼屋体验、夜间巡游等，刺激好玩。\n地点: 珠海长隆海洋王国\n时间: 2026-10-01 至 2026-10-31\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:7647205b216cc93a@shenzhen-exhibitions
+DTSTAMP:20260720T112353Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261027
+SUMMARY:横琴国际网球中心WTA超级精英赛
+LOCATION:横琴国际网球中心
+DESCRIPTION:WTA超级精英赛在横琴国际网球中心举行，世界顶级女子网球选手参赛，精彩赛事不容错过。\n地点: 横琴国际网球中心\n时间: 2026-10-20 至 2026-10-26\n详情: https://www.hengqintennis.com
+END:VEVENT
+END:VCALENDAR

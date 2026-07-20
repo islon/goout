@@ -176,6 +176,191 @@
     "source": "深圳博物馆官网"
   },
   {
+    "title": "珠海历史常设展",
+    "name": "珠海历史常设展",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "https://www.zhsm.org.cn",
+    "url": "https://www.zhsm.org.cn",
+    "links": [
+      {
+        "url": "https://www.zhsm.org.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "从新石器时代先民用具到近代香山名人手稿，展示珠海从远古到近代的完整历史印记，常设展览免费参观。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆"
+  },
+  {
+    "title": "传统艺文和民俗文化展",
+    "name": "传统艺文和民俗文化展",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "https://www.zhsm.org.cn",
+    "url": "https://www.zhsm.org.cn",
+    "links": [
+      {
+        "url": "https://www.zhsm.org.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展示珠海传统艺文和民俗文化，含香山文化、客家文化、水上人家等主题内容。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆"
+  },
+  {
+    "title": "共同的记忆——珠海城市变迁展",
+    "name": "共同的记忆——珠海城市变迁展",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "https://www.zhsm.org.cn",
+    "url": "https://www.zhsm.org.cn",
+    "links": [
+      {
+        "url": "https://www.zhsm.org.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "回顾珠海城市发展的共同记忆，从渔村到现代化城市的变迁历程。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆"
+  },
+  {
+    "title": "珠海规划展览馆城市记忆展",
+    "name": "珠海规划展览馆城市记忆展",
+    "venue": "珠海规划展览馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "展示珠海从渔村到现代化城市的规划建设成就，含互动模型、多媒体展示等。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海规划展览馆"
+  },
+  {
+    "title": "国家方志馆大湾区记忆展",
+    "name": "国家方志馆大湾区记忆展",
+    "venue": "国家方志馆粤港澳大湾区分馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "华南地区首家国家方志馆分馆，馆藏图书超5.3万册，展示大湾区历史文化和城市记忆。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "国家方志馆"
+  },
+  {
+    "title": "景山公园缆车观景体验",
+    "name": "景山公园缆车观景体验",
+    "venue": "景山公园",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "景山公园缆车索道观景体验，登高俯瞰珠海城市景观和海景，天气晴好时视野极佳。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "景山公园"
+  },
+  {
+    "title": "金湾区图书馆「云」自习室体验",
+    "name": "金湾区图书馆「云」自习室体验",
+    "venue": "金湾区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区图书馆「云」自习室和24小时「开卷」自习室，提供专注学习空间。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区图书馆"
+  },
+  {
+    "title": "金湾区博物馆林伟民主题陈列展",
+    "name": "金湾区博物馆林伟民主题陈列展",
+    "venue": "金湾区博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "以林伟民生平为线索，分五个篇章串起珍贵历史照片与场景复原，了解早期工人运动历史。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区博物馆"
+  },
+  {
+    "title": "金湾文物展",
+    "name": "金湾文物展",
+    "venue": "金湾区博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾文物展，展示数千年的海洋文明，探寻先民在珠海创造的海岛文明。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区博物馆"
+  },
+  {
+    "title": "斗门区博物馆历史展",
+    "name": "斗门区博物馆历史展",
+    "venue": "斗门区博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区博物馆常设展览，展示斗门历史文化和民俗风情，含斗门旧事、民俗文化等。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区博物馆"
+  },
+  {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
     "name": "珍瓷萃美——中国古代瓷器艺术特展",
     "venue": "南山博物馆二层三号展厅",
@@ -418,6 +603,40 @@
     "contact": "0755-86700071",
     "family_friendly": true,
     "source": "南山博物馆官网"
+  },
+  {
+    "title": "手作·造物——现代手工艺师生作品展",
+    "name": "手作·造物——现代手工艺师生作品展",
+    "venue": "金湾区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-06-15",
+    "end_date": "2026-07-29",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "陶瓷、广府金绣、掐丝珐琅与非遗点翠等20余个门类的工艺美术作品在一楼中庭展出。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区图书馆"
+  },
+  {
+    "title": "童心向党——金湾区青少儿艺术花会优秀作品展",
+    "name": "童心向党——金湾区青少儿艺术花会优秀作品展",
+    "venue": "金湾区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区青少儿艺术花会优秀作品展，展出813件艺术感十足的青少儿艺术作品。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区文化馆"
   },
   {
     "title": "2026光明街道迳口社区笔墨光影-迳口古村书法摄影展",
@@ -1146,6 +1365,328 @@
     "source": "深圳新闻网"
   },
   {
+    "title": "珠海市图书馆暑期阅读季",
+    "name": "珠海市图书馆暑期阅读季",
+    "venue": "珠海市图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.zhlib.gov.cn",
+    "url": "https://www.zhlib.gov.cn",
+    "links": [
+      {
+        "url": "https://www.zhlib.gov.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海市图书馆暑期阅读推广活动，含阅读分享会、亲子故事会、好书推荐等系列活动。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市图书馆"
+  },
+  {
+    "title": "珠海市文化馆公益艺术培训",
+    "name": "珠海市文化馆公益艺术培训",
+    "venue": "珠海市文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.zhwhg.com",
+    "url": "https://www.zhwhg.com",
+    "links": [
+      {
+        "url": "https://www.zhwhg.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "暑期公益艺术培训班，含书法、绘画、舞蹈、声乐等课程，面向市民免费开放。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市文化馆"
+  },
+  {
+    "title": "古元美术馆版画艺术展",
+    "name": "古元美术馆版画艺术展",
+    "venue": "古元美术馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "link": "https://www.gymuseum.cn",
+    "url": "https://www.gymuseum.cn",
+    "links": [
+      {
+        "url": "https://www.gymuseum.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "古元版画艺术精品展，展示珠海版画大师古元的经典作品及当代版画创作。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "古元美术馆"
+  },
+  {
+    "title": "香山文化艺术中心暑期展览",
+    "name": "香山文化艺术中心暑期展览",
+    "venue": "香山文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "香山文化艺术中心暑期系列展览，含书画展、摄影展、手工艺品展等。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "香山文化艺术中心"
+  },
+  {
+    "title": "圆明新园夏日文化游园会",
+    "name": "圆明新园夏日文化游园会",
+    "venue": "圆明新园",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "圆明新园夏日文化游园会，免费开放，含皇家建筑参观、园林游览、文化表演等。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "圆明新园"
+  },
+  {
+    "title": "海滨公园亲子户外活动",
+    "name": "海滨公园亲子户外活动",
+    "venue": "珠海海滨公园",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "情侣路海滨公园亲子户外活动，海景优美，适合放风筝、散步、观海等休闲活动。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海海滨公园"
+  },
+  {
+    "title": "汤臣倍健透明工厂参观",
+    "name": "汤臣倍健透明工厂参观",
+    "venue": "汤臣倍健透明工厂",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.by-health.com",
+    "url": "https://www.by-health.com",
+    "links": [
+      {
+        "url": "https://www.by-health.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "营养健康科普参观，生产车间免费参观，营养探索馆互动体验收费，了解营养健康知识。",
+    "category": "科普活动",
+    "fee": "部分免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "汤臣倍健透明工厂"
+  },
+  {
+    "title": "海泉湾夏日温泉度假活动",
+    "name": "海泉湾夏日温泉度假活动",
+    "venue": "珠海海泉湾度假区",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.hotspringbay.com",
+    "url": "https://www.hotspringbay.com",
+    "links": [
+      {
+        "url": "https://www.hotspringbay.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "海泉湾夏日温泉度假活动，含海洋温泉、水上乐园、主题酒店等，适合亲子度假。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海海泉湾度假区"
+  },
+  {
+    "title": "斗门旧街历史文化游览",
+    "name": "斗门旧街历史文化游览",
+    "venue": "斗门旧街",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门旧街历史文化游览，珠海保存最完整的骑楼街之一，中西合璧建筑风格，免费参观。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门旧街"
+  },
+  {
+    "title": "金台寺夏日祈福活动",
+    "name": "金台寺夏日祈福活动",
+    "venue": "金台寺",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金台寺夏日祈福活动，黄杨山风景区著名寺庙，环境清幽，免费参观。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金台寺"
+  },
+  {
+    "title": "御温泉夏日亲子活动",
+    "name": "御温泉夏日亲子活动",
+    "venue": "御温泉",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.yuwengquan.com",
+    "url": "https://www.yuwengquan.com",
+    "links": [
+      {
+        "url": "https://www.yuwengquan.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "御温泉夏日亲子活动，日式温泉度假村，含多种温泉池、日式住宿、美食体验。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "御温泉"
+  },
+  {
+    "title": "珠海长隆海洋王国夏日狂欢节",
+    "name": "珠海长隆海洋王国夏日狂欢节",
+    "venue": "珠海长隆海洋王国",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "长隆海洋王国夏日狂欢节，八大主题园区全面开放，含海洋动物展示、大型演艺和海洋幻彩烟花秀。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆海洋王国"
+  },
+  {
+    "title": "长隆海洋幻彩烟花秀",
+    "name": "长隆海洋幻彩烟花秀",
+    "venue": "珠海长隆海洋王国",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "每晚海洋幻彩烟花秀，一场令人难忘的烟花盛宴，结合灯光和音乐，绚丽多彩。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆海洋王国"
+  },
+  {
+    "title": "长隆飞船乐园宇宙探索之旅",
+    "name": "长隆飞船乐园宇宙探索之旅",
+    "venue": "珠海长隆飞船乐园",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "15大主题区域宇宙探索之旅，含宇宙世界、峡谷星球、星际站台、珊瑚秘境等，10:00-18:00。",
+    "category": "科普活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆飞船乐园"
+  },
+  {
+    "title": "长隆横琴剧院《长隆秀》",
+    "name": "长隆横琴剧院《长隆秀》",
+    "venue": "珠海长隆横琴剧院",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "国际顶尖团队打造的大马戏节目《长隆秀》，俄罗斯马戏世家传人执导，常规开演时间17:00。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆横琴剧院"
+  },
+  {
+    "title": "横琴金融岛夜景游览",
+    "name": "横琴金融岛夜景游览",
+    "venue": "横琴金融岛",
+    "city": "zhuhai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴金融岛夜景游览，现代建筑景观，海景优美，适合夜游拍照。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴金融岛"
+  },
+  {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
     "name": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
     "venue": "南湾街道文化站",
@@ -1474,6 +2015,40 @@
     "contact": "",
     "family_friendly": true,
     "source": "南方都市报"
+  },
+  {
+    "title": "斗门区图书馆暑期阅读活动",
+    "name": "斗门区图书馆暑期阅读活动",
+    "venue": "斗门区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-05",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区图书馆暑期阅读推广活动，含读书会、绘本故事、好书推荐等系列活动。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区图书馆"
+  },
+  {
+    "title": "横琴文化艺术中心艺术展览",
+    "name": "横琴文化艺术中心艺术展览",
+    "venue": "横琴文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-05",
+    "end_date": "2026-08-30",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴文化艺术中心夏季艺术展览，含当代艺术、摄影、装置等多种艺术形式，免费参观。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴文化艺术中心"
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
@@ -2378,6 +2953,79 @@
     "source": "宝安区文化馆"
   },
   {
+    "title": "梅溪牌坊历史文化讲解",
+    "name": "梅溪牌坊历史文化讲解",
+    "venue": "梅溪牌坊",
+    "city": "zhuhai",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "梅溪牌坊历史文化讲解活动，了解首任驻外大使陈芳的传奇人生和珠海华侨历史。",
+    "category": "讲座阅读",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "梅溪牌坊"
+  },
+  {
+    "title": "金湾区图书馆暑期阅读营",
+    "name": "金湾区图书馆暑期阅读营",
+    "venue": "金湾区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区图书馆暑期阅读营活动，含阅读分享、亲子共读、好书推荐等，少儿阅览区免费参与。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区图书馆"
+  },
+  {
+    "title": "斗门区文化馆暑期公益培训",
+    "name": "斗门区文化馆暑期公益培训",
+    "venue": "斗门区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-20",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区文化馆暑期公益培训班，含书法、国画、舞蹈、声乐等课程，免费报名。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区文化馆"
+  },
+  {
+    "title": "星乐度露营小镇夏日露营节",
+    "name": "星乐度露营小镇夏日露营节",
+    "venue": "星乐度露营小镇",
+    "city": "zhuhai",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-31",
+    "link": "https://www.starryland.cn",
+    "url": "https://www.starryland.cn",
+    "links": [
+      {
+        "url": "https://www.starryland.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "星乐度露营小镇夏日露营节，含房车、木屋、星空露营等住宿体验，亲子户外活动。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "星乐度露营小镇"
+  },
+  {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
     "name": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
     "venue": "深圳会展中心",
@@ -2730,6 +3378,23 @@
     "source": "坪山区图书馆官网"
   },
   {
+    "title": "广东省第一次全国可移动文物普查成果图片展",
+    "name": "广东省第一次全国可移动文物普查成果图片展",
+    "venue": "金湾区博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-14",
+    "end_date": "2026-10-18",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "近百幅图表展示岭南文物精华，带你一次看遍广东省可移动文物普查成果。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区博物馆"
+  },
+  {
     "title": "中国科幻史里程碑展",
     "name": "中国科幻史里程碑展",
     "venue": "深圳科学技术馆（光明新馆）",
@@ -3014,6 +3679,157 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳市青少年活动中心官网"
+  },
+  {
+    "title": "珠海博物馆暑期亲子讲解活动",
+    "name": "珠海博物馆暑期亲子讲解活动",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-31",
+    "link": "https://www.zhsm.org.cn",
+    "url": "https://www.zhsm.org.cn",
+    "links": [
+      {
+        "url": "https://www.zhsm.org.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "暑期期间珠海博物馆推出亲子讲解活动，专业讲解员带领小朋友了解珠海历史，寓教于乐。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆"
+  },
+  {
+    "title": "齐白石真迹展",
+    "name": "齐白石真迹展",
+    "venue": "古元美术馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-15",
+    "link": "https://www.gymuseum.cn",
+    "url": "https://www.gymuseum.cn",
+    "links": [
+      {
+        "url": "https://www.gymuseum.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "齐白石真迹精品展，展示齐白石先生的绘画真迹，感受国画大师的艺术魅力。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "古元美术馆"
+  },
+  {
+    "title": "珠海青少年妇女儿童活动中心暑期班",
+    "name": "珠海青少年妇女儿童活动中心暑期班",
+    "venue": "珠海市青少年妇女儿童活动中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "暑期兴趣培训班，含美术、音乐、舞蹈、科技等课程，面向青少年和妇女儿童。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市青少年妇女儿童活动中心"
+  },
+  {
+    "title": "珠海国际会展中心暑期展览",
+    "name": "珠海国际会展中心暑期展览",
+    "venue": "珠海国际会展中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-30",
+    "link": "https://www.zicec.com",
+    "url": "https://www.zicec.com",
+    "links": [
+      {
+        "url": "https://www.zicec.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海国际会展中心暑期系列展览，含文创展、家居展、美食展等，具体以现场为准。",
+    "category": "展览",
+    "fee": "部分免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海国际会展中心"
+  },
+  {
+    "title": "金湾区文化馆非遗体验活动",
+    "name": "金湾区文化馆非遗体验活动",
+    "venue": "金湾区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-30",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "三灶鹤舞、竹草编织、狮舞民歌等12个非遗项目体验活动，边看边玩。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区文化馆"
+  },
+  {
+    "title": "金湾体育中心暑期游泳班",
+    "name": "金湾体育中心暑期游泳班",
+    "venue": "金湾体育中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾体育中心暑期游泳培训班，专业教练指导，适合青少年及成人报名。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾体育中心"
+  },
+  {
+    "title": "斗门体育中心暑期运动营",
+    "name": "斗门体育中心暑期运动营",
+    "venue": "斗门体育中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门体育中心暑期运动营，含足球、篮球、游泳等项目，专业教练指导。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门体育中心"
+  },
+  {
+    "title": "横琴口岸免税购物节",
+    "name": "横琴口岸免税购物节",
+    "venue": "横琴口岸",
+    "city": "zhuhai",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-15",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴口岸免税购物节，连接珠海横琴与澳门的口岸，含免税购物区，24小时通关。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴口岸"
   },
   {
     "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展",
@@ -3393,6 +4209,40 @@
     "source": "宝安区青少年宫"
   },
   {
+    "title": "三灶镇文化中心暑期少儿活动",
+    "name": "三灶镇文化中心暑期少儿活动",
+    "venue": "三灶镇文化中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-18",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "三灶镇文化中心暑期少儿系列活动，含书法、绘画、阅读等，免费参与。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "三灶镇文化中心"
+  },
+  {
+    "title": "横琴湿地公园自然教育活动",
+    "name": "横琴湿地公园自然教育活动",
+    "venue": "横琴湿地公园",
+    "city": "zhuhai",
+    "start_date": "2026-07-18",
+    "end_date": "2026-08-18",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴湿地公园自然教育活动，红树林湿地生态公园，观鸟、赏红树林、自然教育。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴湿地公园"
+  },
+  {
     "title": "2026 不止于攀登·深圳珠峰登顶者分享会",
     "name": "2026 不止于攀登·深圳珠峰登顶者分享会",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -3768,6 +4618,28 @@
     "verified": true
   },
   {
+    "title": "珠海博物馆夜间开放活动",
+    "name": "珠海博物馆夜间开放活动",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-19",
+    "end_date": "2026-08-30",
+    "link": "https://www.zhsm.org.cn",
+    "url": "https://www.zhsm.org.cn",
+    "links": [
+      {
+        "url": "https://www.zhsm.org.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "暑期周五夜间开放活动，夜游博物馆，感受不同于白天的观展体验。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆"
+  },
+  {
     "title": "“老兵故事会，童心筑军魂”马峦社区红色文化教育活动",
     "name": "“老兵故事会，童心筑军魂”马峦社区红色文化教育活动",
     "venue": "马峦社区公共文化服务中心",
@@ -4063,6 +4935,96 @@
     "source": "南山区文化馆官网"
   },
   {
+    "title": "珠海市文化馆非遗展示活动",
+    "name": "珠海市文化馆非遗展示活动",
+    "venue": "珠海市文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-20",
+    "link": "https://www.zhwhg.com",
+    "url": "https://www.zhwhg.com",
+    "links": [
+      {
+        "url": "https://www.zhwhg.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海非物质文化遗产展示活动，含粤剧、醒狮、茶果制作等非遗项目体验。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市文化馆"
+  },
+  {
+    "title": "珠海工人文化宫职工文化节",
+    "name": "珠海工人文化宫职工文化节",
+    "venue": "珠海市工人文化宫",
+    "city": "zhuhai",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-20",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "职工文化节系列活动，含文艺汇演、体育比赛、技能展示等，丰富职工文化生活。",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "珠海市工人文化宫"
+  },
+  {
+    "title": "金湾艺术中心夏季演出季",
+    "name": "金湾艺术中心夏季演出季",
+    "venue": "金湾艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾艺术中心夏季演出季，含音乐会、话剧、舞蹈等多种演出形式。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "金湾艺术中心"
+  },
+  {
+    "title": "斗门非遗展示馆水上婚嫁展示",
+    "name": "斗门非遗展示馆水上婚嫁展示",
+    "venue": "斗门非遗展示馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-30",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门非遗展示馆水上婚嫁展示，了解斗门独特的疍家水上婚嫁民俗文化。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门非遗展示馆"
+  },
+  {
+    "title": "横琴花海长廊骑行活动",
+    "name": "横琴花海长廊骑行活动",
+    "venue": "横琴花海长廊",
+    "city": "zhuhai",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "五公里花海长廊骑行活动，四季花开，适合骑行、散步、拍照，免费参与。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴花海长廊"
+  },
+  {
     "title": "2026凤凰街道文化惠民工程系列之“墨韵书香.墨写人生”书法讲座活动",
     "name": "2026凤凰街道文化惠民工程系列之“墨韵书香.墨写人生”书法讲座活动",
     "venue": "凤凰街道综合性文化服务中心",
@@ -4281,6 +5243,45 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "古元美术馆少儿美术工作坊",
+    "name": "古元美术馆少儿美术工作坊",
+    "venue": "古元美术馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-22",
+    "link": "https://www.gymuseum.cn",
+    "url": "https://www.gymuseum.cn",
+    "links": [
+      {
+        "url": "https://www.gymuseum.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "古元美术馆少儿美术工作坊，专业老师指导小朋友学习版画、绘画等艺术创作。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "古元美术馆"
+  },
+  {
+    "title": "金湾区文化馆公益舞蹈培训",
+    "name": "金湾区文化馆公益舞蹈培训",
+    "venue": "金湾区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-22",
+    "end_date": "2026-08-26",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区文化馆暑期公益舞蹈培训班，含民族舞、现代舞等课程，面向市民免费开放。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区文化馆"
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场",
@@ -4965,28 +5966,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
-    "name": "心灵沙龙·艺术疗愈丨和情绪做朋友",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-25",
-    "link": "https://activity.nslib.cn/activity/info/11682",
-    "url": "https://activity.nslib.cn/activity/info/11682",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11682",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
     "name": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
     "venue": "南山图书馆",
@@ -5002,6 +5981,28 @@
       }
     ],
     "description": "需预约报名。书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "name": "心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://activity.nslib.cn/activity/info/11682",
+    "url": "https://activity.nslib.cn/activity/info/11682",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11682",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -5046,6 +6047,84 @@
     "contact": "",
     "family_friendly": false,
     "source": "自动化发现"
+  },
+  {
+    "title": "珠海大剧院交响乐演出季",
+    "name": "珠海大剧院交响乐演出季",
+    "venue": "珠海大剧院",
+    "city": "zhuhai",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.zhgrandtheatre.com",
+    "url": "https://www.zhgrandtheatre.com",
+    "links": [
+      {
+        "url": "https://www.zhgrandtheatre.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海大剧院夏季交响乐演出，知名交响乐团带来经典曲目，海上歌剧院享受音乐盛宴。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "珠海大剧院"
+  },
+  {
+    "title": "华发商都夏日文化市集",
+    "name": "华发商都夏日文化市集",
+    "venue": "华发商都",
+    "city": "zhuhai",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-15",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "华发商都夏日文化市集，含文创摊位、手作体验、街头表演等，适合全家参与。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "华发商都"
+  },
+  {
+    "title": "井岸镇文化中心社区活动",
+    "name": "井岸镇文化中心社区活动",
+    "venue": "井岸镇文化中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-25",
+    "end_date": "2026-08-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "井岸镇文化中心暑期社区文化活动，含文艺演出、图书阅览、兴趣培训等。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "井岸镇文化中心"
+  },
+  {
+    "title": "长隆海洋王国海洋科普讲堂",
+    "name": "长隆海洋王国海洋科普讲堂",
+    "venue": "珠海长隆海洋王国",
+    "city": "zhuhai",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "长隆海洋王国海洋科普讲堂，专业讲解员介绍海洋生物知识，适合中小学生参与。",
+    "category": "讲座阅读",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆海洋王国"
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -5268,6 +6347,28 @@
     "source": "南山图书馆"
   },
   {
+    "title": "艺术荟 | 一藤一夏·包藏清凉",
+    "name": "艺术荟 | 一藤一夏·包藏清凉",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://activity.nslib.cn/activity/info/11685",
+    "url": "https://activity.nslib.cn/activity/info/11685",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11685",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。艺术荟 | 一藤一夏·包藏清凉",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "法律咨询",
     "name": "法律咨询",
     "venue": "南山图书馆",
@@ -5312,28 +6413,6 @@
     "source": "南山图书馆"
   },
   {
-    "title": "艺术荟 | 一藤一夏·包藏清凉",
-    "name": "艺术荟 | 一藤一夏·包藏清凉",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11685",
-    "url": "https://activity.nslib.cn/activity/info/11685",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11685",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。艺术荟 | 一藤一夏·包藏清凉",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
     "name": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
     "venue": "光明区光明文化艺术中心·演艺中心·大剧场",
@@ -5349,6 +6428,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "自动化发现"
+  },
+  {
+    "title": "珠海市图书馆古诗词鉴赏讲座",
+    "name": "珠海市图书馆古诗词鉴赏讲座",
+    "venue": "珠海市图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://www.zhlib.gov.cn",
+    "url": "https://www.zhlib.gov.cn",
+    "links": [
+      {
+        "url": "https://www.zhlib.gov.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "古诗词鉴赏公益讲座，邀请文学专家解读经典诗词，感受中华传统文化之美。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市图书馆"
   },
   {
     "title": "阅见南山·探索成长丨深大校园漫步",
@@ -5459,6 +6560,23 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "香山文化艺术中心少儿才艺展演",
+    "name": "香山文化艺术中心少儿才艺展演",
+    "venue": "香山文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "香山文化艺术中心少儿才艺展演活动，为孩子们提供展示才艺的舞台。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "香山文化艺术中心"
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——麒遇古镇·非遗共赏",
@@ -5948,6 +7066,72 @@
     "source": "深圳市体育中心"
   },
   {
+    "title": "当代艺术邀请展",
+    "name": "当代艺术邀请展",
+    "venue": "古元美术馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-01",
+    "end_date": "2026-09-30",
+    "link": "https://www.gymuseum.cn",
+    "url": "https://www.gymuseum.cn",
+    "links": [
+      {
+        "url": "https://www.gymuseum.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "当代艺术邀请展，汇聚多位当代艺术家的先锋创作，从传统水墨到现代装置艺术。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "古元美术馆"
+  },
+  {
+    "title": "珠海市文化馆书画展览",
+    "name": "珠海市文化馆书画展览",
+    "venue": "珠海市文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.zhwhg.com",
+    "url": "https://www.zhwhg.com",
+    "links": [
+      {
+        "url": "https://www.zhwhg.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海市文化馆八月书画展览，展示本地书画家作品，含山水、花鸟、书法等。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市文化馆"
+  },
+  {
+    "title": "长隆飞船乐园亲子科学实验秀",
+    "name": "长隆飞船乐园亲子科学实验秀",
+    "venue": "珠海长隆飞船乐园",
+    "city": "zhuhai",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "长隆飞船乐园亲子科学实验秀，互动科学实验表演，寓教于乐。",
+    "category": "科普活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆飞船乐园"
+  },
+  {
     "title": "小博士百科知识挑战擂台赛",
     "name": "小博士百科知识挑战擂台赛",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -6014,6 +7198,62 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "珠海大剧院亲子音乐剧",
+    "name": "珠海大剧院亲子音乐剧",
+    "venue": "珠海大剧院",
+    "city": "zhuhai",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://www.zhgrandtheatre.com",
+    "url": "https://www.zhgrandtheatre.com",
+    "links": [
+      {
+        "url": "https://www.zhgrandtheatre.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "适合全家观看的亲子音乐剧，在日月贝造型的海上歌剧院享受亲子时光。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海大剧院"
+  },
+  {
+    "title": "金海岸文化艺术中心社区文艺汇演",
+    "name": "金海岸文化艺术中心社区文艺汇演",
+    "venue": "金海岸文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金海岸社区文艺汇演，各社区文艺队伍同台演出，展现社区文化风采。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金海岸文化艺术中心"
+  },
+  {
+    "title": "横琴文化艺术中心亲子工作坊",
+    "name": "横琴文化艺术中心亲子工作坊",
+    "venue": "横琴文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴文化艺术中心亲子工作坊，含手工制作、绘画等亲子艺术活动，免费参与。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴文化艺术中心"
+  },
+  {
     "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
     "name": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
     "venue": "坂田街道文化站",
@@ -6056,6 +7296,45 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "珠海博物馆考古体验活动",
+    "name": "珠海博物馆考古体验活动",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "link": "https://www.zhsm.org.cn",
+    "url": "https://www.zhsm.org.cn",
+    "links": [
+      {
+        "url": "https://www.zhsm.org.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海博物馆考古体验活动，模拟考古发掘，了解考古知识，适合中小学生参与。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆"
+  },
+  {
+    "title": "斗门区文化馆粤剧表演",
+    "name": "斗门区文化馆粤剧表演",
+    "venue": "斗门区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区文化馆粤剧表演活动，本地粤剧团体演出经典曲目，免费观看。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区文化馆"
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（一）",
@@ -6124,6 +7403,28 @@
     "source": "深圳会展中心"
   },
   {
+    "title": "珠海市图书馆电影放映活动",
+    "name": "珠海市图书馆电影放映活动",
+    "venue": "珠海市图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.zhlib.gov.cn",
+    "url": "https://www.zhlib.gov.cn",
+    "links": [
+      {
+        "url": "https://www.zhlib.gov.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海市图书馆公益电影放映活动，播放经典文化主题电影，免费入场。",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市图书馆"
+  },
+  {
     "title": "悦创手工课：爱丽丝漫游奇境（二）",
     "name": "悦创手工课：爱丽丝漫游奇境（二）",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -6188,6 +7489,23 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳滨海艺术中心官网"
+  },
+  {
+    "title": "金湾区博物馆小小讲解员培训",
+    "name": "金湾区博物馆小小讲解员培训",
+    "venue": "金湾区博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-12",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区博物馆小小讲解员培训班，面向中小学生，学习讲解技巧和历史文化知识。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区博物馆"
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（三）",
@@ -6603,6 +7921,23 @@
     "source": "自动化发现"
   },
   {
+    "title": "黄杨山登山活动",
+    "name": "黄杨山登山活动",
+    "venue": "黄杨山",
+    "city": "zhuhai",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "黄杨山登山活动，珠海第一峰，风景秀丽，适合户外运动爱好者，免费参与。",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "黄杨山"
+  },
+  {
     "title": "小博士百科知识挑战擂台赛",
     "name": "小博士百科知识挑战擂台赛",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -6669,6 +8004,67 @@
     "source": "深圳滨海艺术中心官网"
   },
   {
+    "title": "珠海大剧院话剧演出",
+    "name": "珠海大剧院话剧演出",
+    "venue": "珠海大剧院",
+    "city": "zhuhai",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://www.zhgrandtheatre.com",
+    "url": "https://www.zhgrandtheatre.com",
+    "links": [
+      {
+        "url": "https://www.zhgrandtheatre.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "知名话剧团体在珠海大剧院演出经典话剧作品，感受戏剧艺术的魅力。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "珠海大剧院"
+  },
+  {
+    "title": "金湾区图书馆英语角活动",
+    "name": "金湾区图书馆英语角活动",
+    "venue": "金湾区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区图书馆英语角活动，外教带领练习英语口语，适合青少年及英语爱好者。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区图书馆"
+  },
+  {
+    "title": "星乐度露营小镇星空观测活动",
+    "name": "星乐度露营小镇星空观测活动",
+    "venue": "星乐度露营小镇",
+    "city": "zhuhai",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://www.starryland.cn",
+    "url": "https://www.starryland.cn",
+    "links": [
+      {
+        "url": "https://www.starryland.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "星乐度露营小镇星空观测活动，专业天文望远镜观测星空，了解天文知识。",
+    "category": "科普活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "星乐度露营小镇"
+  },
+  {
     "title": "美丽星期天——钢琴独奏会",
     "name": "美丽星期天——钢琴独奏会",
     "venue": "深圳音乐厅",
@@ -6689,6 +8085,45 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "珠海市文化馆广场舞大赛",
+    "name": "珠海市文化馆广场舞大赛",
+    "venue": "珠海市文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-10",
+    "link": "https://www.zhwhg.com",
+    "url": "https://www.zhwhg.com",
+    "links": [
+      {
+        "url": "https://www.zhwhg.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海市文化馆广场舞大赛，各社区广场舞队伍同台竞技，展现群众文化风采。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市文化馆"
+  },
+  {
+    "title": "斗门区图书馆亲子阅读会",
+    "name": "斗门区图书馆亲子阅读会",
+    "venue": "斗门区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-10",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区图书馆亲子阅读会，适合3-8岁儿童及家长，分享绘本故事。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区图书馆"
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第一天）",
@@ -7021,6 +8456,74 @@
     "source": "龙华区青少年宫"
   },
   {
+    "title": "香山文化艺术中心交响音乐会",
+    "name": "香山文化艺术中心交响音乐会",
+    "venue": "香山文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "香山文化艺术中心夏季交响音乐会，知名乐团演绎经典曲目。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "香山文化艺术中心"
+  },
+  {
+    "title": "金湾区文化馆摄影展",
+    "name": "金湾区文化馆摄影展",
+    "venue": "金湾区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-15",
+    "end_date": "2026-09-15",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区文化馆摄影作品展，展示金湾区自然风光、人文风情，免费参观。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区文化馆"
+  },
+  {
+    "title": "斗门区博物馆小小讲解员",
+    "name": "斗门区博物馆小小讲解员",
+    "venue": "斗门区博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-22",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区博物馆小小讲解员培训班，面向中小学生，学习斗门历史和讲解技巧。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区博物馆"
+  },
+  {
+    "title": "横琴湿地公园观鸟活动",
+    "name": "横琴湿地公园观鸟活动",
+    "venue": "横琴湿地公园",
+    "city": "zhuhai",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴湿地公园观鸟活动，专业导师带领观察红树林湿地鸟类，了解候鸟迁徙知识。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴湿地公园"
+  },
+  {
     "title": "马安堂社区幸福陪伴·父母成长公益课堂",
     "name": "马安堂社区幸福陪伴·父母成长公益课堂",
     "venue": "坂田街道文化站",
@@ -7109,6 +8612,45 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "珠海大剧院芭蕾舞演出",
+    "name": "珠海大剧院芭蕾舞演出",
+    "venue": "珠海大剧院",
+    "city": "zhuhai",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-16",
+    "link": "https://www.zhgrandtheatre.com",
+    "url": "https://www.zhgrandtheatre.com",
+    "links": [
+      {
+        "url": "https://www.zhgrandtheatre.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "经典芭蕾舞剧在珠海大剧院上演，在海上日月贝享受优雅的芭蕾艺术。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海大剧院"
+  },
+  {
+    "title": "斗门旧街美食文化节",
+    "name": "斗门旧街美食文化节",
+    "venue": "斗门旧街",
+    "city": "zhuhai",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-18",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门旧街美食文化节，品尝斗门特色美食，体验骑楼街历史文化氛围。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门旧街"
+  },
+  {
     "title": "美丽星期天——弦乐鉴赏",
     "name": "美丽星期天——弦乐鉴赏",
     "venue": "深圳音乐厅",
@@ -7129,6 +8671,23 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "圆明新园传统文化表演",
+    "name": "圆明新园传统文化表演",
+    "venue": "圆明新园",
+    "city": "zhuhai",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-17",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "圆明新园传统文化表演，含古典舞蹈、民乐演奏、戏曲等，免费观看。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "圆明新园"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（一）",
@@ -7195,6 +8754,45 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "金湾体育中心篮球邀请赛",
+    "name": "金湾体育中心篮球邀请赛",
+    "venue": "金湾体育中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-21",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾体育中心夏季篮球邀请赛，各企事业单位和社区队伍参赛，免费观赛。",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾体育中心"
+  },
+  {
+    "title": "长隆横琴剧院国际马戏节",
+    "name": "长隆横琴剧院国际马戏节",
+    "venue": "珠海长隆横琴剧院",
+    "city": "zhuhai",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-27",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "国际马戏节汇聚世界各地顶尖马戏表演团体，精彩纷呈的马戏盛宴。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆横琴剧院"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（四）",
@@ -7351,6 +8949,28 @@
     "source": "深圳市体育中心"
   },
   {
+    "title": "珠海国际会展中心动漫展",
+    "name": "珠海国际会展中心动漫展",
+    "venue": "珠海国际会展中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-23",
+    "link": "https://www.zicec.com",
+    "url": "https://www.zicec.com",
+    "links": [
+      {
+        "url": "https://www.zicec.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海国际动漫展览，含动漫周边、cosplay、声优见面会等，二次元文化盛宴。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海国际会展中心"
+  },
+  {
     "title": "小博士百科知识挑战擂台赛",
     "name": "小博士百科知识挑战擂台赛",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -7417,6 +9037,23 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "金台寺禅修体验",
+    "name": "金台寺禅修体验",
+    "venue": "金台寺",
+    "city": "zhuhai",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-23",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金台寺禅修体验活动，在黄杨山清幽环境中体验禅修文化，需提前报名。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金台寺"
+  },
+  {
     "title": "美丽星期天——管乐音乐会",
     "name": "美丽星期天——管乐音乐会",
     "venue": "深圳音乐厅",
@@ -7437,6 +9074,96 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "华发商都露天音乐会",
+    "name": "华发商都露天音乐会",
+    "venue": "华发商都",
+    "city": "zhuhai",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-24",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "华发商都露天音乐会，本地乐队和歌手现场表演，免费观看，适合夏夜休闲。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "华发商都"
+  },
+  {
+    "title": "御温泉夏日花火大会",
+    "name": "御温泉夏日花火大会",
+    "venue": "御温泉",
+    "city": "zhuhai",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-24",
+    "link": "https://www.yuwengquan.com",
+    "url": "https://www.yuwengquan.com",
+    "links": [
+      {
+        "url": "https://www.yuwengquan.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "御温泉夏日花火大会，日式花火表演结合温泉体验，浪漫夏日夜晚。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "御温泉"
+  },
+  {
+    "title": "景山公园日出观景活动",
+    "name": "景山公园日出观景活动",
+    "venue": "景山公园",
+    "city": "zhuhai",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "景山公园日出观景活动，清晨登高观日出，俯瞰珠海晨景，需提前预约。",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "景山公园"
+  },
+  {
+    "title": "斗门区文化馆非遗传承展",
+    "name": "斗门区文化馆非遗传承展",
+    "venue": "斗门区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-25",
+    "end_date": "2026-09-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区文化馆非遗传承展，展示装泥鱼、水上婚嫁等斗门非遗项目。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区文化馆"
+  },
+  {
+    "title": "横琴花海长廊摄影比赛",
+    "name": "横琴花海长廊摄影比赛",
+    "venue": "横琴花海长廊",
+    "city": "zhuhai",
+    "start_date": "2026-08-25",
+    "end_date": "2026-09-10",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴花海长廊摄影比赛，以花海为主题，面向摄影爱好者征集作品，免费参与。",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴花海长廊"
   },
   {
     "title": "第八届精密陶瓷产业链展览会",
@@ -7901,6 +9628,23 @@
     "source": "深圳会展中心"
   },
   {
+    "title": "斗门体育中心足球邀请赛",
+    "name": "斗门体育中心足球邀请赛",
+    "venue": "斗门体育中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-30",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门体育中心夏季足球邀请赛，各社区和企事业单位队伍参赛，免费观赛。",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门体育中心"
+  },
+  {
     "title": "小博士百科知识挑战擂台赛",
     "name": "小博士百科知识挑战擂台赛",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -7943,6 +9687,40 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "井岸镇文化中心书画展",
+    "name": "井岸镇文化中心书画展",
+    "venue": "井岸镇文化中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-30",
+    "end_date": "2026-09-15",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "井岸镇文化中心书画作品展，展示本地书画爱好者作品，免费参观。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "井岸镇文化中心"
+  },
+  {
+    "title": "横琴文化艺术中心音乐会",
+    "name": "横琴文化艺术中心音乐会",
+    "venue": "横琴文化艺术中心",
+    "city": "zhuhai",
+    "start_date": "2026-08-30",
+    "end_date": "2026-08-30",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "横琴文化艺术中心夏季音乐会，知名乐团演绎经典曲目，免费领票入场。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴文化艺术中心"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -8297,6 +10075,28 @@
     "source": "深圳会展中心"
   },
   {
+    "title": "长隆海洋王国万圣节主题活动",
+    "name": "长隆海洋王国万圣节主题活动",
+    "venue": "珠海长隆海洋王国",
+    "city": "zhuhai",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "长隆海洋王国万圣节主题活动，万圣主题装饰、鬼屋体验、夜间巡游等，刺激好玩。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆海洋王国"
+  },
+  {
     "title": "WESEMIBAY湾区半导体产业生态博览会（深圳）",
     "name": "WESEMIBAY湾区半导体产业生态博览会（深圳）",
     "venue": "深圳会展中心",
@@ -8405,6 +10205,28 @@
     "contact": "400-680-7088",
     "family_friendly": false,
     "source": "深圳国际会展中心"
+  },
+  {
+    "title": "横琴国际网球中心WTA超级精英赛",
+    "name": "横琴国际网球中心WTA超级精英赛",
+    "venue": "横琴国际网球中心",
+    "city": "zhuhai",
+    "start_date": "2026-10-20",
+    "end_date": "2026-10-26",
+    "link": "https://www.hengqintennis.com",
+    "url": "https://www.hengqintennis.com",
+    "links": [
+      {
+        "url": "https://www.hengqintennis.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "WTA超级精英赛在横琴国际网球中心举行，世界顶级女子网球选手参赛，精彩赛事不容错过。",
+    "category": "体育赛事",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "横琴国际网球中心"
   },
   {
     "title": "2026亚洲具身机器人应用及供应链展",
