@@ -23,11 +23,9 @@ function buildCityNameMap(list) {
   return map;
 }
 
-// 由城市清单构建城市 tab（含“全部”）
+// 由城市清单构建城市 tab（不含“全部”）
 function buildCityTabs(list) {
-  return [{ key: 'all', name: '全部' }].concat(
-    (list || []).map(function(c) { return { key: c.key, name: c.name }; })
-  );
+  return (list || []).map(function(c) { return { key: c.key, name: c.name }; });
 }
 
 // 模块级可变映射：applyFilters 用它把 city key 转显示名；loadData 时会随运行期清单重建
@@ -41,7 +39,7 @@ const TYPE_COLLAPSE_THRESHOLD = 8;
 
 Page({
   data: {
-    cityFilter: 'all',
+    cityFilter: 'shenzhen',
     districtFilter: 'all',
     typeFilter: 'all',
     searchQuery: '',
@@ -81,7 +79,13 @@ Page({
       if (saved && typeof saved === 'object') {
         const patch = {};
         FILTER_KEYS.forEach(function(k) {
-          if (saved[k] !== undefined && saved[k] !== null) patch[k] = saved[k];
+          if (saved[k] !== undefined && saved[k] !== null) {
+            if (k === 'cityFilter' && saved[k] === 'all') {
+              patch[k] = 'shenzhen';
+            } else {
+              patch[k] = saved[k];
+            }
+          }
         });
         if (Object.keys(patch).length) this.setData(patch);
       }
@@ -125,7 +129,6 @@ Page({
 
     const activityCounts = buildVenueActivityCounts(allVenues, allExhibitions);
 
-    // 选定“全部”城市时不再保留残留的区县筛选
     const patch = {
       cities: cityTabs,
       cityNameMap: cityNameMap,
@@ -133,9 +136,6 @@ Page({
       activityCounts: activityCounts,
       loading: false
     };
-    if (this.data.cityFilter === 'all' && this.data.districtFilter !== 'all') {
-      patch.districtFilter = 'all';
-    }
 
     this.setData(patch, () => {
       this.rebuildDistricts();
@@ -156,9 +156,8 @@ Page({
     const query = this.data.searchQuery.toLowerCase().trim();
 
     const filtered = allVenues.filter(v => {
-      if (cityFilter !== 'all' && v.city !== cityFilter) return false;
-      // 区县筛选仅在选定具体城市时生效
-      if (cityFilter !== 'all' && districtFilter !== 'all' && v.district !== districtFilter) return false;
+      if (v.city !== cityFilter) return false;
+      if (districtFilter !== 'all' && v.district !== districtFilter) return false;
       if (typeFilter !== 'all' && v.type !== typeFilter) return false;
       if (query) {
         const name = (v.name || '').toLowerCase();
@@ -197,10 +196,6 @@ Page({
   rebuildDistricts() {
     const allVenues = Array.isArray(app.globalData.venues) ? app.globalData.venues : [];
     const city = this.data.cityFilter;
-    if (city === 'all') {
-      this.setData({ districts: [] });
-      return;
-    }
     const found = {};
     for (let i = 0; i < allVenues.length; i++) {
       const v = allVenues[i];
@@ -208,7 +203,6 @@ Page({
       const d = v.district;
       if (d && d !== '其他') found[d] = true;
     }
-    // 区县按常住人口(万人)降序排列，人口多的排在前面；未收录的排末尾
     const districtKeys = Object.keys(found).sort(function(a, b) {
       return (districtPopulation[b] || 0) - (districtPopulation[a] || 0);
     });

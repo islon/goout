@@ -22,7 +22,7 @@ var activeCities = bundledCities;
 // 多数据源容灾：国内优先 jsDelivr 镜像，raw.githubusercontent 兜底。
 // 两者被墙相互独立——任一可达即可加载，根治“单源被墙导致全量拉不到/卡在近期子集”的问题。
 const DATA_SOURCES = [
-  { base: 'https://cdn.jsdelivr.net/gh/islon/goout@main/', bust: false },
+  { base: 'https://cdn.jsdelivr.net/gh/islon/goout@main/', bust: true },
   { base: 'https://raw.githubusercontent.com/islon/goout/main/', bust: true }
 ];
 
