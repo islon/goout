@@ -31,7 +31,6 @@
 
   <!-- 城市筛选 -->
   <view class="filter-section">
-    <view class="filter-label">城市</view>
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar">
         <view wx:for="{{cities}}" wx:key="key"
@@ -45,7 +44,6 @@
 
   <!-- 区县筛选 -->
   <view class="filter-section">
-    <view class="filter-label">区县</view>
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar">
         <view wx:for="{{districts}}" wx:key="name"
@@ -59,7 +57,6 @@
 
   <!-- 时间筛选 -->
   <view class="filter-section">
-    <view class="filter-label">时间筛选</view>
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar">
         <view wx:for="{{timeFilters}}" wx:key="key"
@@ -73,7 +70,6 @@
 
   <!-- 类型筛选 -->
   <view class="filter-section">
-    <view class="filter-label">类型筛选</view>
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar">
         <view wx:for="{{typeFilters}}" wx:key="key"
@@ -87,7 +83,6 @@
 
   <!-- 地点筛选 -->
   <view class="filter-section">
-    <view class="filter-label">地点</view>
     <!-- 收起状态：横向滚动，只显示前8个 -->
     <scroll-view wx:if="{{!showAllSources}}" scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar filter-bar-inline">
@@ -113,7 +108,6 @@
 
   <!-- 费用筛选 -->
   <view class="filter-section">
-    <view class="filter-label">收费筛选</view>
     <view class="filter-bar">
       <view wx:for="{{feeFilters}}" wx:key="key"
         class="filter-btn {{feeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
