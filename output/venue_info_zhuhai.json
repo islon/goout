@@ -1,1 +1,835 @@
-[]
+[
+  {
+    "name": "珠海博物馆",
+    "source": "zhmuseum",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "博物馆",
+    "address": "香洲区海虹路88号",
+    "transport": "公交4/5/12/14/15/16/204/B2/B3/Z19路海虹总站",
+    "fee": "免费",
+    "description": "珠海文化地标，馆藏陶瓷器、青铜器、书画等21个门类，设《珠海历史》《传统艺文和民俗文化》《共同的记忆》三大固定展厅。",
+    "official_url": "https://www.zhsm.org.cn",
+    "highlights": [
+      "珠海历史",
+      "民俗文化",
+      "常设展览"
+    ]
+  },
+  {
+    "name": "珠海市图书馆",
+    "source": "zhlib",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "图书馆",
+    "address": "香洲区梅华街道迎宾北路3061号",
+    "transport": "公交9/55/B10路市工人文化宫站",
+    "fee": "免费",
+    "description": "珠海中心图书馆，周二至周日9:00-21:00开放，逢周一闭馆，提供阅览、借阅、讲座等服务。",
+    "official_url": "https://www.zhlib.gov.cn",
+    "highlights": [
+      "阅读推广",
+      "讲座展览",
+      "暑期活动"
+    ]
+  },
+  {
+    "name": "珠海市文化馆",
+    "source": "zhwhg",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "文化馆",
+    "address": "香洲区兰埔路164号",
+    "transport": "公交1/13/25/60/62/69/991/992/B7/G991路圆明新园站",
+    "fee": "免费",
+    "description": "中国古典式四合院建筑风格，八大公共服务空间免费开放，含多功能厅、展览厅、免费阅读空间。",
+    "official_url": "https://www.zhwhg.com",
+    "highlights": [
+      "艺术培训",
+      "展览演出",
+      "公益课程"
+    ]
+  },
+  {
+    "name": "古元美术馆",
+    "source": "gymuseum",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "美术馆",
+    "address": "香洲区梅华东路388号",
+    "transport": "公交至梅华东路站",
+    "fee": "免费",
+    "description": "坐落于凤凰山南麓，常设版画、油画、雕塑等多元展览，从齐白石真迹到当代艺术作品。",
+    "official_url": "https://www.gymuseum.cn",
+    "highlights": [
+      "版画收藏",
+      "当代艺术",
+      "网红楼梯"
+    ]
+  },
+  {
+    "name": "珠海大剧院",
+    "source": "zhtheatre",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "剧院",
+    "address": "香洲区情侣路野狸岛海韵城",
+    "transport": "公交至野狸岛站",
+    "fee": "收费",
+    "description": "中国唯一建在海上的歌剧院，日月贝造型，含大剧场和多功能小剧场。",
+    "official_url": "https://www.zhgrandtheatre.com",
+    "highlights": [
+      "海上歌剧院",
+      "日月贝",
+      "演出季"
+    ]
+  },
+  {
+    "name": "香山文化艺术中心",
+    "source": "xsart",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "文化中心",
+    "address": "香洲区建民路868号",
+    "transport": "公交46/B10/B9/Z16路香山文化艺术中心站",
+    "fee": "免费",
+    "description": "综合性文化场馆，09:00-21:00开放，含展览、演出、培训等功能。",
+    "official_url": "",
+    "highlights": [
+      "艺术展览",
+      "演出活动",
+      "文化培训"
+    ]
+  },
+  {
+    "name": "珠海规划展览馆",
+    "source": "zhplan",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "展览馆",
+    "address": "香洲区海虹路88号",
+    "transport": "公交至海虹总站",
+    "fee": "免费",
+    "description": "与珠海博物馆相连，展示珠海城市规划建设成就和发展历程。",
+    "official_url": "",
+    "highlights": [
+      "城市规划",
+      "建设成就",
+      "互动展示"
+    ]
+  },
+  {
+    "name": "国家方志馆粤港澳大湾区分馆",
+    "source": "fzg",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "方志馆",
+    "address": "香洲区",
+    "transport": "公交至附近站点",
+    "fee": "免费",
+    "description": "华南地区首家国家方志馆分馆，珠海首家国字号文化场馆，2万平方米建筑面积，馆藏图书超5.3万册。",
+    "official_url": "",
+    "highlights": [
+      "大湾区记忆",
+      "地方志",
+      "国字号场馆"
+    ]
+  },
+  {
+    "name": "珠海市青少年妇女儿童活动中心",
+    "source": "zhqsng",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "青少年活动中心",
+    "address": "香洲区",
+    "transport": "公交至附近站点",
+    "fee": "免费",
+    "description": "面向青少年妇女儿童的综合性活动中心，提供培训、活动、展览等服务。",
+    "official_url": "",
+    "highlights": [
+      "亲子活动",
+      "兴趣培训",
+      "暑期活动"
+    ]
+  },
+  {
+    "name": "珠海市工人文化宫",
+    "source": "zhgrwhg",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "文化宫",
+    "address": "香洲区",
+    "transport": "公交9/55/B10路市工人文化宫站",
+    "fee": "免费",
+    "description": "职工文化活动阵地，提供文体活动、培训、展览等服务。",
+    "official_url": "",
+    "highlights": [
+      "职工文化",
+      "文体活动",
+      "公益培训"
+    ]
+  },
+  {
+    "name": "圆明新园",
+    "source": "ymxy",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "主题公园",
+    "address": "香洲区兰埔路",
+    "transport": "公交1/13/25/60/62/69路圆明新园站",
+    "fee": "免费",
+    "description": "以北京圆明园为原型的大型主题公园，免费开放，含皇家建筑、江南园林等景观。",
+    "official_url": "",
+    "highlights": [
+      "皇家建筑",
+      "江南园林",
+      "免费开放"
+    ]
+  },
+  {
+    "name": "梅溪牌坊",
+    "source": "mxpf",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "文物保护单位",
+    "address": "香洲区前山镇梅溪村",
+    "transport": "公交至梅溪牌坊站",
+    "fee": "收费",
+    "description": "光绪帝赐建的首任驻外大使陈芳故居，珠海重要历史人文景观。",
+    "official_url": "",
+    "highlights": [
+      "历史人文",
+      "陈芳故居",
+      "牌坊建筑"
+    ]
+  },
+  {
+    "name": "珠海国际会展中心",
+    "source": "zhcec",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "会展中心",
+    "address": "香洲区湾仔南湾南路",
+    "transport": "公交至会展中心站",
+    "fee": "视展览而定",
+    "description": "珠海大型国际会展中心，承办各类展览、会议、活动。",
+    "official_url": "https://www.zicec.com",
+    "highlights": [
+      "国际展览",
+      "会议承办",
+      "大型活动"
+    ]
+  },
+  {
+    "name": "华发商都",
+    "source": "hfsd",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "商业文化综合体",
+    "address": "香洲区珠海大道8号",
+    "transport": "公交至华发商都站",
+    "fee": "免费",
+    "description": "大型商业文化综合体，含文化展览、演出活动等。",
+    "official_url": "",
+    "highlights": [
+      "文化展览",
+      "商业活动",
+      "亲子娱乐"
+    ]
+  },
+  {
+    "name": "珠海海滨公园",
+    "source": "hbgy",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "公园",
+    "address": "香洲区海滨南路",
+    "transport": "公交至海滨公园站",
+    "fee": "免费",
+    "description": "情侣路沿线标志性公园，海景优美，适合休闲散步。",
+    "official_url": "",
+    "highlights": [
+      "海景",
+      "休闲散步",
+      "亲子游玩"
+    ]
+  },
+  {
+    "name": "金湾区图书馆",
+    "source": "jwlib",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "图书馆",
+    "address": "金湾区三灶镇西城社区金河东路530号",
+    "transport": "公交540/541/801/Z102/Z126/Z127路金湾市民中心南站",
+    "fee": "免费",
+    "description": "珠海最大公共图书馆，超100万册藏书，含少儿阅览区、自习室等。",
+    "official_url": "",
+    "highlights": [
+      "百万藏书",
+      "少儿阅览",
+      "自习空间"
+    ]
+  },
+  {
+    "name": "金湾区文化馆",
+    "source": "jwwhg",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "文化馆",
+    "address": "金湾区三灶镇",
+    "transport": "公交K9/Z102/Z103路金岛路东站",
+    "fee": "免费",
+    "description": "展示三灶鹤舞、竹草编织、狮舞民歌等12个非遗项目，9:00-21:00开放。",
+    "official_url": "",
+    "highlights": [
+      "非遗展示",
+      "青少儿艺术",
+      "公益培训"
+    ]
+  },
+  {
+    "name": "金湾区博物馆",
+    "source": "jwmuseum",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "博物馆",
+    "address": "金湾区三灶镇鱼月村",
+    "transport": "公交201/504/801/803/K9路月堂站或唐人街站",
+    "fee": "免费",
+    "description": "展陈面积2060㎡，常设林伟民主题陈列展、金湾文物展，周二至周日9:00-17:30开放。",
+    "official_url": "",
+    "highlights": [
+      "林伟民陈列",
+      "金湾文物",
+      "工人运动史"
+    ]
+  },
+  {
+    "name": "金湾艺术中心",
+    "source": "jwart",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "艺术中心",
+    "address": "金湾区",
+    "transport": "公交至金湾艺术中心站",
+    "fee": "收费",
+    "description": "金湾区标志性文化建筑，含剧场、展厅等功能空间。",
+    "official_url": "",
+    "highlights": [
+      "演出展览",
+      "艺术活动",
+      "地标建筑"
+    ]
+  },
+  {
+    "name": "汤臣倍健透明工厂",
+    "source": "tcbj",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "工业旅游",
+    "address": "金湾区三灶镇星汉路19号",
+    "transport": "公交Z106路汤臣倍健站",
+    "fee": "部分免费",
+    "description": "生产车间参观免费，营养探索馆互动体验收费，工作日9:00-17:00，周末9:00-17:30。",
+    "official_url": "https://www.by-health.com",
+    "highlights": [
+      "工业旅游",
+      "营养科普",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "珠海航展馆",
+    "source": "zhairshow",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "展览馆",
+    "address": "金湾区机场路航展馆",
+    "transport": "航展期间专线",
+    "fee": "需购票",
+    "description": "中国国际航空航天博览会举办地，拥有多个标准化展馆及配套多功能新闻中心。",
+    "official_url": "https://www.airshow.com.cn",
+    "highlights": [
+      "中国航展",
+      "航空航天",
+      "国际展览"
+    ]
+  },
+  {
+    "name": "珠海海泉湾度假区",
+    "source": "hqw",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "度假区",
+    "address": "金湾区平沙镇海泉湾路",
+    "transport": "公交至海泉湾站",
+    "fee": "收费",
+    "description": "海洋温泉主题度假区，含温泉、酒店、主题乐园等。",
+    "official_url": "https://www.hotspringbay.com",
+    "highlights": [
+      "海洋温泉",
+      "主题乐园",
+      "度假休闲"
+    ]
+  },
+  {
+    "name": "金湾体育中心",
+    "source": "jwtyzx",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "体育中心",
+    "address": "金湾区三灶镇",
+    "transport": "公交至金湾体育中心站",
+    "fee": "免费",
+    "description": "金湾区综合性体育场馆，含田径场、游泳馆、体育馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "全民健身",
+      "场馆租赁"
+    ]
+  },
+  {
+    "name": "三灶镇文化中心",
+    "source": "szwhzx",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "文化中心",
+    "address": "金湾区三灶镇",
+    "transport": "公交至三灶站",
+    "fee": "免费",
+    "description": "三灶镇基层文化服务阵地，提供图书阅览、文艺培训等服务。",
+    "official_url": "",
+    "highlights": [
+      "基层文化",
+      "文艺培训",
+      "社区活动"
+    ]
+  },
+  {
+    "name": "金海岸文化艺术中心",
+    "source": "jhawhys",
+    "city": "zhuhai",
+    "district": "金湾区",
+    "type": "文化中心",
+    "address": "金湾区金海岸大道",
+    "transport": "公交至金海岸站",
+    "fee": "免费",
+    "description": "金海岸片区文化活动场所，含展览、演出等功能。",
+    "official_url": "",
+    "highlights": [
+      "社区文化",
+      "展览演出",
+      "文艺活动"
+    ]
+  },
+  {
+    "name": "斗门区图书馆",
+    "source": "dmlib",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "图书馆",
+    "address": "斗门区江湾中路2号",
+    "transport": "公交303/306/405/502/503/504/510/601/B37/K5/T12/Z278路尖峰站",
+    "fee": "免费",
+    "description": "斗门区公共图书馆，周二至周五9:00-21:00，周六至周日9:00-18:00。",
+    "official_url": "",
+    "highlights": [
+      "图书借阅",
+      "阅读推广",
+      "暑期活动"
+    ]
+  },
+  {
+    "name": "斗门区博物馆",
+    "source": "dmmuseum",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "博物馆",
+    "address": "斗门区井岸镇",
+    "transport": "公交至斗门区博物馆站",
+    "fee": "免费",
+    "description": "展示斗门历史文化和民俗风情，含斗门旧事、民俗文化等展览。",
+    "official_url": "",
+    "highlights": [
+      "斗门历史",
+      "民俗文化",
+      "常设展览"
+    ]
+  },
+  {
+    "name": "斗门区文化馆",
+    "source": "dmwhg",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "文化馆",
+    "address": "斗门区井岸镇",
+    "transport": "公交至斗门区文化馆站",
+    "fee": "免费",
+    "description": "斗门区文化活动阵地，提供文艺培训、展览演出等服务。",
+    "official_url": "",
+    "highlights": [
+      "文艺培训",
+      "非遗传承",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "斗门旧街",
+    "source": "dmjj",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "历史文化街区",
+    "address": "斗门区斗门镇",
+    "transport": "公交至斗门旧街站",
+    "fee": "免费",
+    "description": "珠海保存最完整的骑楼街之一，中西合璧建筑风格，充满历史韵味。",
+    "official_url": "",
+    "highlights": [
+      "骑楼建筑",
+      "历史文化",
+      "特色美食"
+    ]
+  },
+  {
+    "name": "金台寺",
+    "source": "jts",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "寺庙",
+    "address": "斗门区乾务镇黄杨山",
+    "transport": "公交至金台寺站",
+    "fee": "免费",
+    "description": "黄杨山风景区著名寺庙，环境清幽，香火旺盛。",
+    "official_url": "",
+    "highlights": [
+      "佛教文化",
+      "黄杨山景",
+      "祈福圣地"
+    ]
+  },
+  {
+    "name": "御温泉",
+    "source": "ywq",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "温泉度假",
+    "address": "斗门区斗门镇",
+    "transport": "公交至御温泉站",
+    "fee": "收费",
+    "description": "日式温泉度假村，含多种温泉池、日式住宿、美食等。",
+    "official_url": "https://www.yuwengquan.com",
+    "highlights": [
+      "日式温泉",
+      "度假休闲",
+      "特色美食"
+    ]
+  },
+  {
+    "name": "斗门体育中心",
+    "source": "dmtyzx",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "体育中心",
+    "address": "斗门区井岸镇",
+    "transport": "公交至斗门体育中心站",
+    "fee": "免费",
+    "description": "斗门区综合性体育场馆，含田径场、游泳馆、体育馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "全民健身",
+      "场馆租赁"
+    ]
+  },
+  {
+    "name": "井岸镇文化中心",
+    "source": "jawhzx",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "文化中心",
+    "address": "斗门区井岸镇",
+    "transport": "公交至井岸镇站",
+    "fee": "免费",
+    "description": "井岸镇基层文化服务阵地，提供图书阅览、文艺培训等服务。",
+    "official_url": "",
+    "highlights": [
+      "基层文化",
+      "文艺培训",
+      "社区活动"
+    ]
+  },
+  {
+    "name": "黄杨山",
+    "source": "hys",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "风景名胜",
+    "address": "斗门区乾务镇",
+    "transport": "公交至黄杨山站",
+    "fee": "免费",
+    "description": "珠海第一峰，风景秀丽，有金台寺、石景山等景点。",
+    "official_url": "",
+    "highlights": [
+      "登山徒步",
+      "自然风光",
+      "金台寺"
+    ]
+  },
+  {
+    "name": "斗门非遗展示馆",
+    "source": "dmfy",
+    "city": "zhuhai",
+    "district": "斗门区",
+    "type": "展览馆",
+    "address": "斗门区斗门镇",
+    "transport": "公交至斗门镇站",
+    "fee": "免费",
+    "description": "展示斗门区非物质文化遗产，含水上婚嫁、装泥鱼等非遗项目。",
+    "official_url": "",
+    "highlights": [
+      "非遗展示",
+      "水上婚嫁",
+      "装泥鱼"
+    ]
+  },
+  {
+    "name": "横琴文化艺术中心",
+    "source": "hqwhys",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "文化中心",
+    "address": "横琴新区琴朗路与琴政路交叉口东南角",
+    "transport": "公交Z50/Z56路横琴文化艺术中心站",
+    "fee": "免费",
+    "description": "横琴新区综合性文化场馆，周二至周日10:00-18:00开放，周一闭馆。",
+    "official_url": "",
+    "highlights": [
+      "艺术展览",
+      "文化培训",
+      "演出活动"
+    ]
+  },
+  {
+    "name": "珠海长隆海洋王国",
+    "source": "zhlh",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "主题乐园",
+    "address": "香洲区横琴镇环岛路长隆大道1号",
+    "transport": "公交至长隆站",
+    "fee": "收费",
+    "description": "世界级海洋主题乐园，八大主题园区，含海洋动物、游乐设备、大型演艺，10:00-20:00。",
+    "official_url": "https://www.chimelong.com",
+    "highlights": [
+      "海洋动物",
+      "大型演艺",
+      "烟花秀"
+    ]
+  },
+  {
+    "name": "珠海长隆飞船乐园",
+    "source": "zhfclc",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "主题乐园",
+    "address": "香洲区环岛东路与长隆大道交叉口西南1500米",
+    "transport": "公交至长隆飞船乐园站",
+    "fee": "收费",
+    "description": "15大主题区域，含宇宙世界、峡谷星球、星际站台、珊瑚秘境等，10:00-18:00。",
+    "official_url": "https://www.chimelong.com",
+    "highlights": [
+      "宇宙主题",
+      "互动体验",
+      "亲子乐园"
+    ]
+  },
+  {
+    "name": "珠海长隆横琴剧院",
+    "source": "zhhqtj",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "剧院",
+    "address": "香洲区环岛路富祥海湾长隆度假区内",
+    "transport": "公交至长隆站",
+    "fee": "收费",
+    "description": "国际顶尖团队打造的大马戏节目《长隆秀》，常规开演时间17:00。",
+    "official_url": "https://www.chimelong.com",
+    "highlights": [
+      "国际马戏",
+      "长隆秀",
+      "演艺盛宴"
+    ]
+  },
+  {
+    "name": "横琴国际网球中心",
+    "source": "hqwlqzx",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "体育中心",
+    "address": "横琴新区横琴大道",
+    "transport": "公交至横琴国际网球中心站",
+    "fee": "视赛事而定",
+    "description": "WTA超级精英赛等国际赛事举办地，含中心球场、训练场等。",
+    "official_url": "https://www.hengqintennis.com",
+    "highlights": [
+      "国际赛事",
+      "WTA网球",
+      "体育演出"
+    ]
+  },
+  {
+    "name": "星乐度露营小镇",
+    "source": "xld",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "露营度假",
+    "address": "横琴新区环岛北路",
+    "transport": "公交至星乐度站",
+    "fee": "收费",
+    "description": "户外露营主题度假小镇，含房车、木屋、星空露营等住宿体验。",
+    "official_url": "https://www.starryland.cn",
+    "highlights": [
+      "户外露营",
+      "房车体验",
+      "亲子活动"
+    ]
+  },
+  {
+    "name": "横琴湿地公园",
+    "source": "hqsdgy",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "公园",
+    "address": "横琴新区琴海北路",
+    "transport": "公交至横琴湿地公园站",
+    "fee": "免费",
+    "description": "红树林湿地生态公园，观鸟、赏红树林、自然教育好去处。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "自然教育"
+    ]
+  },
+  {
+    "name": "横琴花海长廊",
+    "source": "hqhchl",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "公园",
+    "address": "横琴新区环岛北路",
+    "transport": "公交至花海长廊站",
+    "fee": "免费",
+    "description": "五公里花海长廊，四季花开，适合骑行、散步、拍照。",
+    "official_url": "",
+    "highlights": [
+      "花海景观",
+      "骑行散步",
+      "拍照打卡"
+    ]
+  },
+  {
+    "name": "横琴口岸",
+    "source": "hqka",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "口岸",
+    "address": "横琴新区琴朗路",
+    "transport": "公交至横琴口岸站",
+    "fee": "免费",
+    "description": "连接珠海横琴与澳门的口岸，24小时通关，含免税购物区。",
+    "official_url": "",
+    "highlights": [
+      "口岸通关",
+      "免税购物",
+      "珠澳往来"
+    ]
+  },
+  {
+    "name": "横琴金融岛",
+    "source": "hqjrd",
+    "city": "zhuhai",
+    "district": "横琴新区",
+    "type": "商务区",
+    "address": "横琴新区金融岛",
+    "transport": "公交至金融岛站",
+    "fee": "免费",
+    "description": "横琴新区金融商务核心区，现代建筑景观，海景优美。",
+    "official_url": "",
+    "highlights": [
+      "金融商务",
+      "现代建筑",
+      "海景风光"
+    ]
+  },
+  {
+    "name": "珠海渔女景区",
+    "source": "zhyn",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "风景名胜",
+    "address": "香洲区情侣中路",
+    "transport": "公交9/99路珠海渔女站",
+    "fee": "免费",
+    "description": "珠海标志性景点，渔女雕像矗立在海边，是珠海的城市象征。",
+    "official_url": "",
+    "highlights": [
+      "城市地标",
+      "海边雕塑",
+      "拍照打卡"
+    ]
+  },
+  {
+    "name": "野狸岛音乐广场",
+    "source": "yld",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "广场",
+    "address": "香洲区野狸岛",
+    "transport": "公交至野狸岛站",
+    "fee": "免费",
+    "description": "野狸岛海韵城音乐广场，与珠海大剧院相邻，海景广场休闲好去处。",
+    "official_url": "",
+    "highlights": [
+      "海景广场",
+      "音乐活动",
+      "休闲散步"
+    ]
+  },
+  {
+    "name": "珠海市体育中心",
+    "source": "zhtyzx",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "体育中心",
+    "address": "香洲区红山路163号",
+    "transport": "公交至体育中心站",
+    "fee": "免费",
+    "description": "珠海市综合性体育场馆，含体育场、体育馆、游泳馆等，承办各类体育赛事和演出。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "大型演出",
+      "全民健身"
+    ]
+  },
+  {
+    "name": "香洲区文化馆",
+    "source": "xzwhg",
+    "city": "zhuhai",
+    "district": "香洲区",
+    "type": "文化馆",
+    "address": "香洲区",
+    "transport": "公交至香洲区文化馆站",
+    "fee": "免费",
+    "description": "香洲区文化服务阵地，提供文艺培训、展览演出、图书阅览等服务。",
+    "official_url": "",
+    "highlights": [
+      "群众文化",
+      "文艺培训",
+      "社区活动"
+    ]
+  }
+]
