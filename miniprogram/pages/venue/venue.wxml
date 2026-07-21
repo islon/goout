@@ -3,7 +3,7 @@
 
   <!-- 头部 -->
   <view class="venue-header">
-    <view class="venue-name">{{venue.name}}</view>
+    <view class="venue-name" bindlongpress="onCopyName">{{venue.name}}</view>
     <view class="venue-badges">
       <view class="badge badge-type">{{venue.type}}</view>
       <view class="badge badge-city">{{cityName}}</view>
@@ -25,8 +25,11 @@
     <view wx:if="{{hasAddress}}" class="info-row">
       <view class="info-label">地址</view>
       <view class="info-value">
-        <text>{{venue.address}}</text>
-        <text class="copy-link" bindtap="onCopyAddress">复制</text>
+        <text class="addr-text" bindlongpress="onCopyAddress">{{venue.address}}</text>
+        <view class="addr-actions">
+          <text class="copy-link" bindtap="onCopyAddress">复制</text>
+          <text class="map-link" bindtap="onOpenMap">导航</text>
+        </view>
       </view>
     </view>
     <view wx:if="{{hasTransport}}" class="info-row">
@@ -81,6 +84,14 @@
   <view class="feedback-bar" bindtap="onFeedbackTap">
     <view class="feedback-text">信息有误或想补充？</view>
     <view class="feedback-action">提交反馈</view>
+  </view>
+
+  <!-- 分享入口 -->
+  <view class="share-section">
+    <button class="share-btn" open-type="share">
+      <image class="share-icon" src="/assets/about-share.png" mode="aspectFit"></image>
+      <text class="share-text">分享给朋友</text>
+    </button>
   </view>
 
   <view style="height: 60rpx;"></view>

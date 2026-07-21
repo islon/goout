@@ -109,6 +109,44 @@
   line-height: 1.5;
 }
 
+/* 地址相关操作（复制/导航） */
+.addr-text {
+  display: block;
+  margin-bottom: 8rpx;
+}
+
+.addr-actions {
+  display: flex;
+  gap: 16rpx;
+  align-items: center;
+}
+
+.copy-link,
+.map-link {
+  display: inline-block;
+  padding: 4rpx 16rpx;
+  font-size: 22rpx;
+  border-radius: 8rpx;
+  line-height: 1.6;
+}
+
+.copy-link {
+  color: #D4A373;
+  background: #FFF8F0;
+  border: 1rpx solid #E8D5BC;
+}
+
+.map-link {
+  color: #0891B2;
+  background: #E0F2F7;
+  border: 1rpx solid #B9E4F0;
+}
+
+.intro-row .map-link {
+  margin-left: 12rpx;
+  vertical-align: middle;
+}
+
 /* 活动介绍 */
 .desc-card {
   background: #FFFFFF;
@@ -336,6 +374,44 @@
 
 .remind-card.reminded .remind-arrow {
   color: #16A34A;
+}
+
+/* 分享入口 */
+.share-section {
+  margin-bottom: 20rpx;
+}
+
+.share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16rpx;
+  background: linear-gradient(135deg, #FCD34D 0%, #F59E0B 100%);
+  border-radius: 20rpx;
+  padding: 28rpx;
+  border: none;
+  box-shadow: 0 4rpx 16rpx rgba(245, 158, 11, 0.25);
+  width: 100%;
+}
+
+.share-btn:active {
+  transform: scale(0.98);
+  opacity: 0.9;
+}
+
+.share-btn::after {
+  border: none;
+}
+
+.share-icon {
+  width: 48rpx;
+  height: 48rpx;
+}
+
+.share-text {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #92400E;
 }
 
 /* 场馆介绍 */

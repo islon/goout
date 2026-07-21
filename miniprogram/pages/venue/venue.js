@@ -126,6 +126,47 @@ Page({
     });
   },
 
+  onCopyName() {
+    const name = this.data.venue && this.data.venue.name;
+    if (!name) return;
+    wx.setClipboardData({
+      data: name,
+      success: () => wx.showToast({ title: '场馆名称已复制', icon: 'success' })
+    });
+  },
+
+  onOpenMap() {
+    const venue = this.data.venue;
+    if (!venue) return;
+    const lat = venue.latitude;
+    const lng = venue.longitude;
+    // 有坐标：直接打开微信内置地图导航
+    if (lat && lng) {
+      wx.openLocation({
+        latitude: Number(lat),
+        longitude: Number(lng),
+        name: venue.name || '',
+        address: venue.address || '',
+        scale: 16
+      });
+      return;
+    }
+    // 无坐标：复制名称+地址，提示去地图APP搜索
+    const searchText = venue.name + (venue.address ? (' ' + venue.address) : '');
+    wx.setClipboardData({
+      data: searchText,
+      success: () => {
+        wx.showModal({
+          title: '已复制地址',
+          content: '暂无精确坐标，已复制「' + searchText + '」\n请打开地图APP粘贴搜索',
+          showCancel: false,
+          confirmText: '知道了',
+          confirmColor: '#D4A373'
+        });
+      }
+    });
+  },
+
   onActivityTap(e) {
     const cardId = e.currentTarget.dataset.id;
     wx.navigateTo({

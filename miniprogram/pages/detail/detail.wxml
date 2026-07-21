@@ -3,7 +3,7 @@
 
   <!-- 标题区 -->
   <view class="detail-header">
-    <view class="detail-title">{{activity.name}}</view>
+    <view class="detail-title" bindlongpress="onCopyName">{{activity.name}}</view>
     <view class="detail-badges">
       <text class="badge badge-type">{{activityType}}</text>
       <text wx:if="{{feeType === 'free'}}" class="badge badge-free">免费</text>
@@ -21,11 +21,19 @@
     </view>
     <view class="info-row">
       <view class="info-label">地点</view>
-      <view class="info-value">{{activity.venue}}</view>
+      <view class="info-value">
+        <text bindlongpress="onCopyVenue">{{activity.venue}}</text>
+      </view>
     </view>
     <view wx:if="{{venueAddress}}" class="info-row">
       <view class="info-label">地址</view>
-      <view class="info-value">{{venueAddress}}</view>
+      <view class="info-value">
+        <text class="addr-text" bindlongpress="onCopyAddress">{{venueAddress}}</text>
+        <view class="addr-actions">
+          <text class="copy-link" bindtap="onCopyAddress">复制</text>
+          <text class="map-link" bindtap="onOpenMap">导航</text>
+        </view>
+      </view>
     </view>
     <view class="info-row">
       <view class="info-label">时长</view>
@@ -43,8 +51,11 @@
       <view class="intro-title">场馆介绍</view>
       <view class="intro-more">详情 →</view>
     </view>
-    <view class="intro-name">{{venue.name}}</view>
-    <view wx:if="{{venue.address}}" class="intro-row">{{venue.address}}</view>
+    <view class="intro-name" bindlongpress="onCopyVenue">{{venue.name}}</view>
+    <view wx:if="{{venue.address}}" class="intro-row">
+      <text bindlongpress="onCopyAddress">{{venue.address}}</text>
+      <text class="map-link" catchtap="onOpenMap">导航</text>
+    </view>
     <view wx:if="{{venue.transport}}" class="intro-row">{{venue.transport}}</view>
     <view wx:if="{{venue.description}}" class="intro-desc">{{venue.description}}</view>
     <view class="intro-highlights" wx:if="{{hasHighlights}}">
@@ -103,6 +114,14 @@
       </view>
       <view class="remind-arrow">{{hasReminded ? '✓' : '→'}}</view>
     </view>
+  </view>
+
+  <!-- 分享入口 -->
+  <view class="share-section">
+    <button class="share-btn" open-type="share">
+      <image class="share-icon" src="/assets/about-share.png" mode="aspectFit"></image>
+      <text class="share-text">分享给朋友</text>
+    </button>
   </view>
 
   <!-- 联系信息 -->
