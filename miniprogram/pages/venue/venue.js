@@ -118,20 +118,13 @@ Page({
     });
   },
 
-  onCopyAddress() {
-    if (!this.data.venue || !this.data.venue.address) return;
+  // 通用复制：通过 data-text 传入要复制的文本，确保复制内容与显示一致
+  onCopyText(e) {
+    const text = e.currentTarget.dataset.text;
+    if (!text) return;
     wx.setClipboardData({
-      data: this.data.venue.address,
-      success: () => wx.showToast({ title: '地址已复制', icon: 'success' })
-    });
-  },
-
-  onCopyName() {
-    const name = this.data.venue && this.data.venue.name;
-    if (!name) return;
-    wx.setClipboardData({
-      data: name,
-      success: () => wx.showToast({ title: '场馆名称已复制', icon: 'success' })
+      data: text,
+      success: () => wx.showToast({ title: '已复制', icon: 'success' })
     });
   },
 

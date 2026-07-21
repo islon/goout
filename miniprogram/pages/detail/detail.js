@@ -152,30 +152,13 @@ Page({
     });
   },
 
-  onCopyName() {
-    const name = this.data.activity && this.data.activity.name;
-    if (!name) return;
+  // 通用复制：通过 data-text 传入要复制的文本，确保复制内容与显示一致
+  onCopyText(e) {
+    const text = e.currentTarget.dataset.text;
+    if (!text) return;
     wx.setClipboardData({
-      data: name,
-      success: () => wx.showToast({ title: '活动名称已复制', icon: 'success' })
-    });
-  },
-
-  onCopyVenue() {
-    const name = this.data.venue ? this.data.venue.name : (this.data.activity && this.data.activity.venue);
-    if (!name) return;
-    wx.setClipboardData({
-      data: name,
-      success: () => wx.showToast({ title: '场馆名称已复制', icon: 'success' })
-    });
-  },
-
-  onCopyAddress() {
-    const addr = this.data.venueAddress || (this.data.venue && this.data.venue.address);
-    if (!addr) return;
-    wx.setClipboardData({
-      data: addr,
-      success: () => wx.showToast({ title: '地址已复制', icon: 'success' })
+      data: text,
+      success: () => wx.showToast({ title: '已复制', icon: 'success' })
     });
   },
 
