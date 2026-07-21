@@ -2613,8 +2613,23 @@
 
         function openMap(text) {
             const encoded = encodeURIComponent(text);
-            const url = 'https://maps.google.com/?q=' + encoded;
-            window.open(url, '_blank');
+            const mapOptions = [
+                { name: '微信地图', url: 'https://map.weixin.qq.com/mapsearch/mapsearch/index?query=' + encoded },
+                { name: '高德地图', url: 'https://uri.amap.com/search?keyword=' + encoded },
+                { name: '百度地图', url: 'https://api.map.baidu.com/search?query=' + encoded + '&output=html' },
+                { name: '腾讯地图', url: 'https://map.qq.com/marker?marker=coord:,;title:' + encoded + '&zoom=16' },
+                { name: 'Google Maps', url: 'https://maps.google.com/?q=' + encoded }
+            ];
+            
+            const mapNames = mapOptions.map(m => m.name).join('|');
+            const choice = prompt('选择导航地图：\n' + mapOptions.map((m, i) => (i + 1) + '. ' + m.name).join('\n'), '1');
+            
+            if (choice && !isNaN(choice)) {
+                const index = parseInt(choice) - 1;
+                if (index >= 0 && index < mapOptions.length) {
+                    window.open(mapOptions[index].url, '_blank');
+                }
+            }
         }
 
         function shareActivity(name, venue) {
