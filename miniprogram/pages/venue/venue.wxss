@@ -13,12 +13,44 @@
   box-shadow: 0 4rpx 16rpx rgba(0, 0, 0, 0.05);
 }
 
+.venue-name-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16rpx;
+  margin-bottom: 20rpx;
+}
+
 .venue-name {
   font-size: 40rpx;
   font-weight: 700;
   color: #3D3229;
-  margin-bottom: 20rpx;
   line-height: 1.4;
+  flex: 1;
+}
+
+.venue-name-actions {
+  display: flex;
+  gap: 12rpx;
+  flex-shrink: 0;
+  margin-top: 6rpx;
+}
+
+.venue-action-btn {
+  padding: 8rpx 20rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  font-weight: 600;
+  background: var(--sand-100, #FAF5EE);
+  color: #B8895A;
+  border: 1rpx solid #E8DDD0;
+  line-height: 1.4;
+}
+
+.venue-action-btn.primary {
+  background: linear-gradient(135deg, #7DD3FC 0%, #0891B2 100%);
+  color: #fff;
+  border-color: #0891B2;
 }
 
 .venue-badges {
@@ -335,6 +367,11 @@
   border: none;
   box-shadow: 0 4rpx 16rpx rgba(245, 158, 11, 0.25);
   width: 100%;
+  line-height: 1.2;
+}
+
+.share-btn .share-icon {
+  display: block;
 }
 
 .share-btn:active {

@@ -2489,6 +2489,8 @@
                 : `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
 
             const address = getVenueAddress(exhibition.source);
+            const venueInfo = _venueInfoMap ? (_venueInfoMap[exhibition.source] || _venueInfoMap[exhibition.venue]) : null;
+            const hasVenueCoords = !!(venueInfo && venueInfo.latitude && venueInfo.longitude);
 
             body.innerHTML = `
                 <div class="modal-info-row">
@@ -2546,7 +2548,7 @@
             actionArea.innerHTML = `
                 <div class="modal-action-bar">
                     <button class="modal-action-btn btn-copy" data-text="${encodeURIComponent(activityName)}">📋 复制名称</button>
-                    ${address ? '<button class="modal-action-btn btn-copy" data-text="' + encodeURIComponent(address) + '">📋 复制地址</button>' : ''}
+                    ${(address && hasVenueCoords) ? '<button class="modal-action-btn btn-copy" data-text="' + encodeURIComponent(address) + '">📋 复制地址</button>' : ''}
                     <button class="modal-action-btn btn-navigate" data-text="${encodeURIComponent(navText)}">🗺️ 导航</button>
                     <button class="modal-action-btn btn-share" data-name="${encodeURIComponent(activityName)}" data-venue="${encodeURIComponent(exhibition.venue)}">📤 分享</button>
                 </div>

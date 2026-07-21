@@ -100,6 +100,7 @@ Page({
       links: links,
       hasHighlights: !!(venue.highlights && venue.highlights.length > 0),
       hasAddress: !!(venue.address && venue.address.length > 0),
+      hasCoords: !!(venue.latitude && venue.longitude),
       hasTransport: !!(venue.transport && venue.transport.length > 0),
       hasDescription: !!(venue.description && venue.description.length > 0),
       activities: activities.slice(0, 50),

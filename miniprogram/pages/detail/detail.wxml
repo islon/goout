@@ -30,7 +30,7 @@
       <view class="info-value">
         <text class="addr-text" bindlongpress="onCopyText" data-text="{{venueAddress}}">{{venueAddress}}</text>
         <view class="addr-actions">
-          <text class="copy-link" bindtap="onCopyText" data-text="{{venueAddress}}">复制</text>
+          <text wx:if="{{hasVenueCoords}}" class="copy-link" bindtap="onCopyText" data-text="{{venueAddress}}">复制</text>
           <text class="map-link" bindtap="onOpenMap">导航</text>
         </view>
       </view>
@@ -51,10 +51,15 @@
       <view class="intro-title">场馆介绍</view>
       <view class="intro-more">详情 →</view>
     </view>
-    <view class="intro-name" bindlongpress="onCopyText" data-text="{{venue.name}}">{{venue.name}}</view>
+    <view class="intro-name-row">
+      <view class="intro-name" bindlongpress="onCopyText" data-text="{{venue.name}}">{{venue.name}}</view>
+      <view class="intro-name-actions" catchtap="noop">
+        <text class="intro-action-btn" catchtap="onCopyText" data-text="{{venue.name}}">复制</text>
+        <text class="intro-action-btn primary" catchtap="onOpenMap">导航</text>
+      </view>
+    </view>
     <view wx:if="{{venue.address}}" class="intro-row">
       <text bindlongpress="onCopyText" data-text="{{venue.address}}">{{venue.address}}</text>
-      <text class="map-link" catchtap="onOpenMap">导航</text>
     </view>
     <view wx:if="{{venue.transport}}" class="intro-row">{{venue.transport}}</view>
     <view wx:if="{{venue.description}}" class="intro-desc">{{venue.description}}</view>

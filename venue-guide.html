@@ -579,11 +579,12 @@
                         linkHtml += '</div>';
                     }
 
+                    const hasCoords = !!(v.latitude && v.longitude);
                     const navText = v.name + (v.address ? ' ' + v.address : '');
                     const actionsHtml = `
                         <div class="venue-actions">
                             <button class="venue-action-btn btn-copy-name" data-text="${encodeURIComponent(v.name)}">📋 复制名称</button>
-                            ${v.address ? '<button class="venue-action-btn btn-copy-addr" data-text="' + encodeURIComponent(v.address) + '">📋 复制地址</button>' : ''}
+                            ${(v.address && hasCoords) ? '<button class="venue-action-btn btn-copy-addr" data-text="' + encodeURIComponent(v.address) + '">📋 复制地址</button>' : ''}
                             <button class="venue-action-btn btn-navigate" data-text="${encodeURIComponent(navText)}">🗺️ 导航</button>
                         </div>
                     `;

@@ -102,6 +102,7 @@ Page({
         bookingHint: activity.booking_method ? (activity.booking_method.search_hint || '') : '',
         venue: venue,
         hasVenue: !!venue,
+        hasVenueCoords: !!(venue && venue.latitude && venue.longitude),
         verifiedLabel: verifiedLabel,
         verifiedClass: verifiedClass
       });
@@ -134,6 +135,8 @@ Page({
       url: '/pages/venue/venue?id=' + encodeURIComponent(this.data.venue.name)
     });
   },
+
+  noop() {},
 
   onGoVenues() {
     wx.switchTab({

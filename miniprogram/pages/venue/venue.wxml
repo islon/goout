@@ -3,7 +3,13 @@
 
   <!-- 头部 -->
   <view class="venue-header">
-    <view class="venue-name" bindlongpress="onCopyText" data-text="{{venue.name}}">{{venue.name}}</view>
+    <view class="venue-name-row">
+      <view class="venue-name" bindlongpress="onCopyText" data-text="{{venue.name}}">{{venue.name}}</view>
+      <view class="venue-name-actions">
+        <text class="venue-action-btn" bindtap="onCopyText" data-text="{{venue.name}}">复制</text>
+        <text class="venue-action-btn primary" bindtap="onOpenMap">导航</text>
+      </view>
+    </view>
     <view class="venue-badges">
       <view class="badge badge-type">{{venue.type}}</view>
       <view class="badge badge-city">{{cityName}}</view>
@@ -27,7 +33,7 @@
       <view class="info-value">
         <text class="addr-text" bindlongpress="onCopyText" data-text="{{venue.address}}">{{venue.address}}</text>
         <view class="addr-actions">
-          <text class="copy-link" bindtap="onCopyText" data-text="{{venue.address}}">复制</text>
+          <text wx:if="{{hasCoords}}" class="copy-link" bindtap="onCopyText" data-text="{{venue.address}}">复制</text>
           <text class="map-link" bindtap="onOpenMap">导航</text>
         </view>
       </view>
