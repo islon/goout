@@ -64,7 +64,7 @@ Page({
       const endDate = activity.end_date;
       const dateDisplay = startDate === endDate
         ? formatDate(startDate)
-        : formatDate(startDate) + ' ~ ' + formatDate(end_date);
+        : formatDate(startDate) + ' ~ ' + formatDate(endDate);
       const duration = getDuration(startDate, endDate);
       const activityType = getActivityType(activity);
       const feeType = getFeeType(activity);
