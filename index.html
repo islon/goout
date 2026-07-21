@@ -1012,6 +1012,11 @@
             border: 1px solid var(--border);
         }
 
+        .modal-action-area {
+            padding: 16px 24px 24px;
+            border-top: 1px solid var(--border);
+        }
+
         .modal-header {
             background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
             color: white;
@@ -1166,6 +1171,88 @@
         .original-link-btn:hover {
             transform: translateY(-2px);
             box-shadow: 0 6px 16px rgba(212, 163, 115, 0.4);
+        }
+
+        /* 复制/导航/分享按钮 */
+        .modal-action-bar {
+            display: flex;
+            gap: 10px;
+            margin-top: 16px;
+            flex-wrap: wrap;
+        }
+
+        .modal-action-btn {
+            flex: 1;
+            min-width: 100px;
+            padding: 10px 14px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            transition: all 0.2s;
+        }
+
+        .modal-action-btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .modal-action-btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-copy {
+            background: var(--sand-100);
+            color: var(--sand-dark);
+            border: 1px solid var(--sand-light);
+        }
+
+        .btn-copy:hover {
+            background: var(--sand-200);
+        }
+
+        .btn-navigate {
+            background: var(--ocean-light);
+            color: var(--ocean);
+            border: 1px solid rgba(8, 145, 178, 0.2);
+        }
+
+        .btn-navigate:hover {
+            background: rgba(8, 145, 178, 0.15);
+        }
+
+        .btn-share {
+            background: linear-gradient(135deg, #FCD34D 0%, #F59E0B 100%);
+            color: #92400E;
+            box-shadow: 0 2px 8px rgba(245, 158, 11, 0.25);
+        }
+
+        .btn-share:hover {
+            box-shadow: 0 4px 12px rgba(245, 158, 11, 0.35);
+        }
+
+        .modal-copied-toast {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.75);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            z-index: 2000;
+            opacity: 0;
+            transition: opacity 0.2s;
+            pointer-events: none;
+        }
+
+        .modal-copied-toast.show {
+            opacity: 1;
         }
     </style>
     <!-- 不蒜子统计 -->
@@ -1848,8 +1935,10 @@
                 <button class="modal-close" onclick="closeModal()">×</button>
             </div>
             <div class="modal-body" id="modal-body"></div>
+            <div class="modal-action-area" id="modal-action-area"></div>
         </div>
     </div>
+    <div class="modal-copied-toast" id="modal-copied-toast">已复制</div>
 
     <script>
         // 兼容隐私模式/受限环境：localStorage 不可用时用内存替代，避免抛 SecurityError 中断脚本
@@ -2380,8 +2469,10 @@
             const title = document.getElementById('modal-title');
             const badges = document.getElementById('modal-badges');
             const body = document.getElementById('modal-body');
+            const actionArea = document.getElementById('modal-action-area');
 
-            title.textContent = exhibition.title || exhibition.name || '';
+            const activityName = exhibition.title || exhibition.name || '';
+            title.textContent = activityName;
 
             const feeType = getFeeType(exhibition);
             const activityType = getActivityType(exhibition);
@@ -2397,6 +2488,8 @@
                 ? formatDate(startDate) 
                 : `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
 
+            const address = getVenueAddress(exhibition.source);
+
             body.innerHTML = `
                 <div class="modal-info-row">
                     <div class="modal-info-label">📅 时间</div>
@@ -2404,12 +2497,12 @@
                 </div>
                 <div class="modal-info-row">
                     <div class="modal-info-label">📍 地点</div>
-                    <div class="modal-info-value">${exhibition.venue}</div>
+                    <div class="modal-info-value" onclick="copyText('${activityName}')" style="cursor:pointer;">${exhibition.venue}</div>
                 </div>
-                ${getVenueAddress(exhibition.source) ? `
+                ${address ? `
                 <div class="modal-info-row">
                     <div class="modal-info-label">🏠 地址</div>
-                    <div class="modal-info-value">${getVenueAddress(exhibition.source)}</div>
+                    <div class="modal-info-value" onclick="copyText('${address}')" style="cursor:pointer;">${address}</div>
                 </div>
                 ` : ''}
                 <div class="modal-info-row">
@@ -2449,6 +2542,32 @@
                 </div>
             `;
 
+            const navText = exhibition.venue + (address ? ' ' + address : '');
+            actionArea.innerHTML = `
+                <div class="modal-action-bar">
+                    <button class="modal-action-btn btn-copy" data-text="${encodeURIComponent(activityName)}">📋 复制名称</button>
+                    ${address ? '<button class="modal-action-btn btn-copy" data-text="' + encodeURIComponent(address) + '">📋 复制地址</button>' : ''}
+                    <button class="modal-action-btn btn-navigate" data-text="${encodeURIComponent(navText)}">🗺️ 导航</button>
+                    <button class="modal-action-btn btn-share" data-name="${encodeURIComponent(activityName)}" data-venue="${encodeURIComponent(exhibition.venue)}">📤 分享</button>
+                </div>
+            `;
+
+            actionArea.querySelectorAll('.btn-copy').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    copyText(decodeURIComponent(this.dataset.text));
+                });
+            });
+            actionArea.querySelectorAll('.btn-navigate').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    openMap(decodeURIComponent(this.dataset.text));
+                });
+            });
+            actionArea.querySelectorAll('.btn-share').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    shareActivity(decodeURIComponent(this.dataset.name), decodeURIComponent(this.dataset.venue));
+                });
+            });
+
             overlay.classList.add('active');
 
             // 绑定点击统计
@@ -2463,12 +2582,61 @@
                 }
 
                 linkBtn.addEventListener('click', function() {
-                    trackClick(currentSource, exhibition.title || exhibition.name || '');
+                    trackClick(currentSource, activityName);
                     if (statsDisplay) {
                         statsDisplay.textContent = `已点击查看: ${stats[currentSource] || 1} 次`;
                     }
                 }, { once: true });
             }
+        }
+
+        function copyText(text) {
+            if (!text) return;
+            navigator.clipboard.writeText(text).then(function() {
+                showCopiedToast();
+            }).catch(function() {
+                const textarea = document.createElement('textarea');
+                textarea.value = text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                showCopiedToast();
+            });
+        }
+
+        function showCopiedToast() {
+            const toast = document.getElementById('modal-copied-toast');
+            toast.classList.add('show');
+            setTimeout(function() { toast.classList.remove('show'); }, 1500);
+        }
+
+        function openMap(text) {
+            const encoded = encodeURIComponent(text);
+            const url = 'https://maps.google.com/?q=' + encoded;
+            window.open(url, '_blank');
+        }
+
+        function shareActivity(name, venue) {
+            const shareText = name + ' - ' + venue + '\n查看详情：https://islon.github.io/goout/';
+            if (navigator.share) {
+                navigator.share({
+                    title: name,
+                    text: shareText,
+                    url: window.location.href
+                }).catch(function() {
+                    fallbackShare(shareText);
+                });
+            } else {
+                fallbackShare(shareText);
+            }
+        }
+
+        function fallbackShare(text) {
+            copyText(text);
+            setTimeout(function() {
+                alert('分享内容已复制到剪贴板，请粘贴分享给朋友');
+            }, 300);
         }
 
         function closeModal() {

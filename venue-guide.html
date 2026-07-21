@@ -265,6 +265,85 @@
             flex-shrink: 0;
             width: 40px;
         }
+
+        /* 操作按钮 */
+        .venue-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--border);
+        }
+
+        .venue-action-btn {
+            flex: 1;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            transition: all 0.2s;
+        }
+
+        .venue-action-btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .venue-action-btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-copy-name {
+            background: var(--sand-100);
+            color: var(--sand-dark);
+            border: 1px solid var(--sand-light);
+        }
+
+        .btn-copy-addr {
+            background: var(--sand-100);
+            color: var(--sand-dark);
+            border: 1px solid var(--sand-light);
+        }
+
+        .btn-navigate {
+            background: var(--ocean-light);
+            color: var(--ocean);
+            border: 1px solid rgba(8, 145, 178, 0.2);
+        }
+
+        .venue-info-value {
+            cursor: pointer;
+        }
+
+        .venue-info-value:hover {
+            text-decoration: underline;
+            color: var(--sand-dark);
+        }
+
+        .venue-copied-toast {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.75);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.2s;
+            pointer-events: none;
+        }
+
+        .venue-copied-toast.show {
+            opacity: 1;
+        }
         .empty-state {
             grid-column: 1 / -1;
             text-align: center;
@@ -500,8 +579,16 @@
                         linkHtml += '</div>';
                     }
 
+                    const navText = v.name + (v.address ? ' ' + v.address : '');
+                    const actionsHtml = `
+                        <div class="venue-actions">
+                            <button class="venue-action-btn btn-copy-name" data-text="${encodeURIComponent(v.name)}">📋 复制名称</button>
+                            ${v.address ? '<button class="venue-action-btn btn-copy-addr" data-text="' + encodeURIComponent(v.address) + '">📋 复制地址</button>' : ''}
+                            <button class="venue-action-btn btn-navigate" data-text="${encodeURIComponent(navText)}">🗺️ 导航</button>
+                        </div>
+                    `;
                     html += '<div class="venue-card">' +
-                        '<div class="venue-name">' + escapeHtml(v.name) + '</div>' +
+                        '<div class="venue-name" data-text="' + encodeURIComponent(v.name) + '" style="cursor:pointer;">' + escapeHtml(v.name) + '</div>' +
                         '<div class="venue-tags">' +
                             (v.type ? '<span class="tag tag-type">' + escapeHtml(v.type) + '</span>' : '') +
                             feeTag +
@@ -511,6 +598,7 @@
                         highlights +
                         (detail ? '<div class="venue-detail">' + detail + '</div>' : '') +
                         linkHtml +
+                        actionsHtml +
                     '</div>';
                 });
             });
@@ -541,7 +629,67 @@
             render();
         });
 
+        // 复制功能
+        function copyText(text) {
+            if (!text) return;
+            navigator.clipboard.writeText(text).then(function() {
+                showCopiedToast();
+            }).catch(function() {
+                const textarea = document.createElement('textarea');
+                textarea.value = text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                showCopiedToast();
+            });
+        }
+
+        function showCopiedToast() {
+            const toast = document.getElementById('venue-copied-toast');
+            toast.classList.add('show');
+            setTimeout(function() { toast.classList.remove('show'); }, 1500);
+        }
+
+        function openMap(text) {
+            const encoded = encodeURIComponent(text);
+            const url = 'https://maps.google.com/?q=' + encoded;
+            window.open(url, '_blank');
+        }
+
+        // 事件委托：处理动态生成的按钮点击
+        document.getElementById('venue-grid').addEventListener('click', function(e) {
+            const target = e.target;
+            if (target.classList.contains('venue-action-btn')) {
+                e.stopPropagation();
+                if (target.classList.contains('btn-copy-name') || target.classList.contains('btn-copy-addr')) {
+                    copyText(decodeURIComponent(target.dataset.text));
+                } else if (target.classList.contains('btn-navigate')) {
+                    openMap(decodeURIComponent(target.dataset.text));
+                }
+            } else {
+                const btn = target.closest('.venue-action-btn');
+                if (btn) {
+                    e.stopPropagation();
+                    if (btn.classList.contains('btn-copy-name') || btn.classList.contains('btn-copy-addr')) {
+                        copyText(decodeURIComponent(btn.dataset.text));
+                    } else if (btn.classList.contains('btn-navigate')) {
+                        openMap(decodeURIComponent(btn.dataset.text));
+                    }
+                }
+            }
+        });
+
+        // 点击场馆名称复制
+        document.getElementById('venue-grid').addEventListener('click', function(e) {
+            const venueName = e.target.closest('.venue-name');
+            if (venueName && !e.target.classList.contains('venue-action-btn')) {
+                copyText(decodeURIComponent(venueName.dataset.text));
+            }
+        });
+
         loadCities().then(loadData);
     </script>
+    <div class="venue-copied-toast" id="venue-copied-toast">已复制</div>
 </body>
 </html>
