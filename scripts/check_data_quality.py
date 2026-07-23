@@ -22,6 +22,8 @@ def get_district(text):
     if not text:
         return None
     for district, keywords in DISTRICT_MAPPING.items():
+        if district == '深圳':
+            continue
         for keyword in keywords:
             if keyword in text:
                 return district
