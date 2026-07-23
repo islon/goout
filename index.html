@@ -94,71 +94,46 @@
             pointer-events: none;
         }
 
-        .header-top {
+        .footer-nav {
             display: flex;
-            justify-content: space-between;
+            justify-content: space-around;
             align-items: center;
-            margin-bottom: 12px;
-            max-width: 1200px;
-            margin-left: auto;
-            margin-right: auto;
-            flex-wrap: wrap;
-            gap: 8px;
+            background: white;
+            border-top: 1px solid rgba(0,0,0,0.08);
+            padding: 12px 0;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 999;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.03);
         }
 
-        .subscribe-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
+        .footer-nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
             text-decoration: none;
-            font-weight: 500;
+            color: #6B7280;
             transition: all 0.2s;
-            backdrop-filter: blur(10px);
-        }
-
-        .subscribe-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-
-        .feedback-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
-            backdrop-filter: blur(10px);
-        }
-
-        .feedback-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-
-        .miniapp-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
-            backdrop-filter: blur(10px);
             cursor: pointer;
+            padding: 4px 16px;
         }
 
-        .miniapp-link:hover {
-            background: rgba(255, 255, 255, 0.3);
+        .footer-nav-item:hover,
+        .footer-nav-item:active {
+            color: #D97706;
             transform: translateY(-1px);
+        }
+
+        .footer-nav-icon {
+            font-size: 22px;
+        }
+
+        .footer-nav-text {
+            font-size: 11px;
+            font-weight: 500;
         }
 
         .miniapp-modal-mask {
@@ -422,6 +397,7 @@
         .content {
             flex: 1;
             min-width: 0;
+            padding-bottom: 80px;
         }
 
         .count-info {
@@ -1280,14 +1256,6 @@
 </head>
 <body>
     <div class="header">
-        <div class="header-top">
-            <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
-            <div>
-                <a href="venue-guide.html" class="subscribe-link">🏛️ 场馆指南</a>
-                <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
-                <span class="miniapp-link" onclick="showMiniappModal()">📱 小程序</span>
-            </div>
-        </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
         <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div>
         <div class="visit-stats" style="font-size: 12px; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,0.2); margin-top: 10px; text-align: center; font-weight: 500;">
@@ -3199,6 +3167,25 @@
                 或在微信中搜索「童行亲子日历」
             </div>
         </div>
+    </div>
+
+    <div class="footer-nav">
+        <a href="venue-guide.html" class="footer-nav-item">
+            <span class="footer-nav-icon">🏛️</span>
+            <span class="footer-nav-text">场馆指南</span>
+        </a>
+        <a href="https://islon.github.io/goout/schedule.html" class="footer-nav-item" target="_blank">
+            <span class="footer-nav-icon">📅</span>
+            <span class="footer-nav-text">订阅日程</span>
+        </a>
+        <span class="footer-nav-item miniapp-trigger" onclick="showMiniappModal()">
+            <span class="footer-nav-icon">📱</span>
+            <span class="footer-nav-text">小程序</span>
+        </span>
+        <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="footer-nav-item" target="_blank" rel="noopener">
+            <span class="footer-nav-icon">📝</span>
+            <span class="footer-nav-text">反馈</span>
+        </a>
     </div>
 </body>
 </html>
