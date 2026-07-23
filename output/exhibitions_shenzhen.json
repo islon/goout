@@ -195,7 +195,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳"
+    "source": "凤凰网深圳（宝安区）"
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -371,7 +371,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆"
+    "source": "深圳美术馆（罗湖区）"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -481,7 +481,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆（光明新馆）官网"
   },
   {
     "title": "笔墨同心·林甘泉、萧华作品展",
@@ -877,7 +877,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆（光明新馆）官网"
   },
   {
     "title": "一平米实验室",
@@ -899,7 +899,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆（光明新馆）官网"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -1009,7 +1009,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆（光明新馆）官网"
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -1102,7 +1102,7 @@
   {
     "title": "《海洋奇缘：起航》迪士尼电影主题展",
     "name": "《海洋奇缘：起航》迪士尼电影主题展",
-    "venue": "深圳人才公园潮汐广场",
+    "venue": "南山区深圳人才公园潮汐广场",
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
@@ -1119,7 +1119,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳人才公园潮汐广场"
+    "source": "南山融媒体中心"
   },
   {
     "title": "深圳图书馆第十二届\"暑期缤纷季\"——近300场阅读活动",
@@ -1185,7 +1185,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳特区报"
+    "source": "深圳特区报（宝安区）"
   },
   {
     "title": "名家读书沙龙/新书分享会",
@@ -1383,7 +1383,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳"
+    "source": "凤凰网深圳（宝安区）"
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -2373,7 +2373,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆（光明新馆）官网"
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -2838,6 +2838,28 @@
     "source": "宝安区委宣传部"
   },
   {
+    "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展",
+    "name": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展",
+    "venue": "横岗街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在横岗街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "横岗街道文化站"
+  },
+  {
     "title": "中国科幻史里程碑展",
     "name": "中国科幻史里程碑展",
     "venue": "深圳科学技术馆（光明新馆）",
@@ -2857,7 +2879,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆官网"
+    "source": "深圳科学技术馆（光明新馆）官网"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -3476,28 +3498,6 @@
     "source": "宝安区青少年宫"
   },
   {
-    "title": "YUE航城暑期公益艺术培训——爵士舞蹈（第一天）",
-    "name": "YUE航城暑期公益艺术培训——爵士舞蹈（第一天）",
-    "venue": "宝安区文化馆航城街道分馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-20",
-    "end_date": "2026-07-22",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aace44e891004bcc834f45c483f83844",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aace44e891004bcc834f45c483f83844",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aace44e891004bcc834f45c483f83844",
-        "label": "活动详情"
-      }
-    ],
-    "description": "培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安区文化馆航城街道分馆"
-  },
-  {
     "title": "南山区文化馆暑期少儿艺术营",
     "name": "南山区文化馆暑期少儿艺术营",
     "venue": "南山区文化馆",
@@ -3628,182 +3628,6 @@
     "contact": "",
     "family_friendly": false,
     "source": "宝安区文化馆"
-  },
-  {
-    "title": "2026年龙岗区文化馆总分馆联动文艺演出——吉华街道专场",
-    "name": "2026年龙岗区文化馆总分馆联动文艺演出——吉华街道专场",
-    "venue": "吉华街道文化站",
-    "city": "shenzhen",
-    "start_date": "2026-07-22",
-    "end_date": "2026-07-22",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2",
-        "label": "活动详情"
-      }
-    ],
-    "description": "演出，深圳市龙岗区文化广电旅游体育局，在吉华街道文化站举办",
-    "category": "演出",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": false,
-    "source": "吉华街道文化站"
-  },
-  {
-    "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
-    "name": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
-    "venue": "石岩文化艺术中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-22",
-    "end_date": "2026-07-22",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ebac5f38cc284a279f74e41d01d2eef8",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ebac5f38cc284a279f74e41d01d2eef8",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ebac5f38cc284a279f74e41d01d2eef8",
-        "label": "活动详情"
-      }
-    ],
-    "description": "培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "石岩文化艺术中心"
-  },
-  {
-    "title": "视障儿童夏令营南科大校园科普实验",
-    "name": "视障儿童夏令营南科大校园科普实验",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-22",
-    "end_date": "2026-07-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon",
-    "links": [
-      {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654117&year=2026&month=7&customizedUrl=salon",
-        "label": "活动详情"
-      }
-    ],
-    "description": "主办方：深圳图书馆、深圳市盲人协会、深圳广电娃公益金\n地点：馆外（具体见简介）\n地址：具体见活动简介或活动备注",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳图书馆"
-  },
-  {
-    "title": "音乐赏析之费玉清作品【下午场】",
-    "name": "音乐赏析之费玉清作品【下午场】",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-22",
-    "end_date": "2026-07-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon",
-    "links": [
-      {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654479&year=2026&month=7&customizedUrl=salon",
-        "label": "活动详情"
-      }
-    ],
-    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "深圳图书馆"
-  },
-  {
-    "title": "音乐赏析之费玉清作品【晚上场】",
-    "name": "音乐赏析之费玉清作品【晚上场】",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-22",
-    "end_date": "2026-07-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon",
-    "links": [
-      {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654484&year=2026&month=7&customizedUrl=salon",
-        "label": "活动详情"
-      }
-    ],
-    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "深圳图书馆"
-  },
-  {
-    "title": "南山博物馆暑期夜间延时开放",
-    "name": "南山博物馆暑期夜间延时开放",
-    "venue": "南山博物馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-22",
-    "end_date": "2026-08-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
-    "links": [
-      {
-        "url": "https://www.nanshanmuseum.com",
-        "label": "活动详情"
-      }
-    ],
-    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "0755-86700071",
-    "family_friendly": true,
-    "source": "南山博物馆"
-  },
-  {
-    "title": "2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场",
-    "name": "2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场",
-    "venue": "园山街道文化站",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-23",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4",
-        "label": "活动详情"
-      }
-    ],
-    "description": "演出，深圳市龙岗区文化广电旅游体育局，在园山街道文化站举办",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "园山街道文化站"
-  },
-  {
-    "title": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十九期）",
-    "name": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十九期）",
-    "venue": "宝安区文化馆燕罗街道分馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-23",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9dda8c18d18d49fda0499833c13ace6f",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9dda8c18d18d49fda0499833c13ace6f",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9dda8c18d18d49fda0499833c13ace6f",
-        "label": "活动详情"
-      }
-    ],
-    "description": "培训，燕罗街道办事处、宝安区燕罗街道新时代文明实践所，在宝安区文化馆燕罗街道分馆举办",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "宝安区文化馆燕罗街道分馆"
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -3938,26 +3762,114 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "国学小讲堂丨大暑，跟着狐狸读七月岁时",
-    "name": "国学小讲堂丨大暑，跟着狐狸读七月岁时",
-    "venue": "南山图书馆",
+    "title": "南山博物馆暑期夜间延时开放",
+    "name": "南山博物馆暑期夜间延时开放",
+    "venue": "南山博物馆",
     "city": "shenzhen",
     "start_date": "2026-07-23",
-    "end_date": "2026-07-23",
-    "link": "https://activity.nslib.cn/activity/info/11667",
-    "url": "https://activity.nslib.cn/activity/info/11667",
+    "end_date": "2026-08-31",
+    "link": "https://www.nanshanmuseum.com",
+    "url": "https://www.nanshanmuseum.com",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11667",
+        "url": "https://www.nanshanmuseum.com",
         "label": "活动详情"
       }
     ],
-    "description": "需预约报名。国学小讲堂丨大暑，跟着狐狸读七月岁时",
+    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-86700071",
+    "family_friendly": true,
+    "source": "南山博物馆"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
+    "name": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办",
     "category": "讲座阅读",
     "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
+    "contact": "",
+    "family_friendly": false,
+    "source": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "title": "第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦",
+    "name": "第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
+  },
+  {
+    "title": "2026年石岩街道“来深青工技能——古筝公益课”",
+    "name": "2026年石岩街道“来深青工技能——古筝公益课”",
+    "venue": "石岩文化艺术中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "石岩文化艺术中心"
+  },
+  {
+    "title": "2026年“夏日微时光·如‘乐’而至” 草坪音乐会",
+    "name": "2026年“夏日微时光·如‘乐’而至” 草坪音乐会",
+    "venue": "宝安区文化馆沙井分馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，宝安区公共文化体育服务中心--宝安区文化馆、沙井街道党群服务中心（文体），在宝安区文化馆沙井分馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆沙井分馆"
   },
   {
     "title": "“弦动西乡·乐伴成长”——2026年西乡街道“快乐 假期”青少年文艺展演之莎莎小提琴汇报音乐会",
@@ -3980,6 +3892,72 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆西乡街道分馆"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-DIY益智戳戳画",
+    "name": "光明区文化馆总分馆联动活动-DIY益智戳戳画",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-24节气创意画",
+    "name": "光明区文化馆总分馆联动活动-24节气创意画",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "title": "“青春舞浪”·2026凤凰街道青少年爵士舞暑假训练营活动",
+    "name": "“青春舞浪”·2026凤凰街道青少年爵士舞暑假训练营活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "凤凰街道综合性文化服务中心"
   },
   {
     "title": "寻找智美更登",
@@ -4246,6 +4224,226 @@
     "source": "深圳国际会展中心"
   },
   {
+    "title": "领展中心城暑期趣味赛事｜超级扭扭车竞速赛",
+    "name": "领展中心城暑期趣味赛事｜超级扭扭车竞速赛",
+    "venue": "福田戏剧馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-26",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0b76d66098fb48959fa74ff1429c9fac",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0b76d66098fb48959fa74ff1429c9fac",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0b76d66098fb48959fa74ff1429c9fac",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "体育赛事",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "福田戏剧馆"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“巧做状元官帽，祈愿前程似锦”状元帽DIY活动",
+    "name": "2026凤凰街道文化惠民工程系列之“巧做状元官帽，祈愿前程似锦”状元帽DIY活动",
+    "venue": "塘家社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "其它，光明区公共文化艺术和体育中心，在塘家社区综合性文化服务中心举办",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "塘家社区综合性文化服务中心"
+  },
+  {
+    "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆舞动匠心   指尖传承活动",
+    "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆舞动匠心   指尖传承活动",
+    "venue": "桂园街道综合文体中心(桂园街道分馆）",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "桂园街道综合文体中心(桂园街道分馆）"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-杮杮如意",
+    "name": "光明区文化馆总分馆联动活动-杮杮如意",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "title": "领展中心城暑期趣味赛事｜趣味赶猪挑战赛",
+    "name": "领展中心城暑期趣味赛事｜趣味赶猪挑战赛",
+    "venue": "福田戏剧馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-26",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=67fced2386d645b9905ef7f420963b78",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=67fced2386d645b9905ef7f420963b78",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=67fced2386d645b9905ef7f420963b78",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "体育赛事",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "福田戏剧馆"
+  },
+  {
+    "title": "AI 时代，你的下一步怎么走？AI 转型分享会",
+    "name": "AI 时代，你的下一步怎么走？AI 转型分享会",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
+  },
+  {
+    "title": "玉塘街道“巧手童趣，快乐相伴”亲子手工制作活动暨文化馆总分馆联动活动2026年第二场",
+    "name": "玉塘街道“巧手童趣，快乐相伴”亲子手工制作活动暨文化馆总分馆联动活动2026年第二场",
+    "venue": "玉塘街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，玉塘街道办事处，在玉塘街道综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "玉塘街道综合性文化服务中心"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-DIY万花镜",
+    "name": "光明区文化馆总分馆联动活动-DIY万花镜",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“百草入韵・良药抒怀”中草药画作创意DIY活动",
+    "name": "2026凤凰街道文化惠民工程系列之“百草入韵・良药抒怀”中草药画作创意DIY活动",
+    "venue": "塘家社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357",
+        "label": "活动详情"
+      }
+    ],
+    "description": "其它，光明区公共文化艺术和体育中心，在塘家社区综合性文化服务中心举办",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "塘家社区综合性文化服务中心"
+  },
+  {
+    "title": "叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）",
+    "name": "叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d",
+        "label": "活动详情"
+      }
+    ],
+    "description": "讲座，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
+  },
+  {
     "title": "享趣龙岗•艺脉相传2026年龙岗区“非遗在社区”系列活动——“非遗传薪•客韵悠扬”布吉客家音乐会",
     "name": "享趣龙岗•艺脉相传2026年龙岗区“非遗在社区”系列活动——“非遗传薪•客韵悠扬”布吉客家音乐会",
     "venue": "布吉街道文化站",
@@ -4488,28 +4686,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
-    "name": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-25",
-    "link": "https://activity.nslib.cn/activity/info/11683",
-    "url": "https://activity.nslib.cn/activity/info/11683",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11683",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
     "name": "心灵沙龙·艺术疗愈丨和情绪做朋友",
     "venue": "南山图书馆",
@@ -4525,6 +4701,28 @@
       }
     ],
     "description": "需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "name": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://activity.nslib.cn/activity/info/11683",
+    "url": "https://activity.nslib.cn/activity/info/11683",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11683",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -4569,6 +4767,72 @@
     "contact": "",
     "family_friendly": false,
     "source": "自动化发现"
+  },
+  {
+    "title": "“剪影流转，节气生花”光明街道光明社区亲子剪纸活动",
+    "name": "“剪影流转，节气生花”光明街道光明社区亲子剪纸活动",
+    "venue": "光明社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3644f9b23c924602b77ff8ad03cea030",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3644f9b23c924602b77ff8ad03cea030",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3644f9b23c924602b77ff8ad03cea030",
+        "label": "活动详情"
+      }
+    ],
+    "description": "历史非遗，光明区光明街道办事处，在光明社区综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明社区综合性文化服务中心"
+  },
+  {
+    "title": "草木留痕——非遗拓印手作",
+    "name": "草木留痕——非遗拓印手作",
+    "venue": "园岭街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f057ba48698f4425905f68d881dafc54",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f057ba48698f4425905f68d881dafc54",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f057ba48698f4425905f68d881dafc54",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "园岭街道综合性文化服务中心"
+  },
+  {
+    "title": "古今和鸣·合唱音乐会",
+    "name": "古今和鸣·合唱音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
   },
   {
     "title": "探“蜜”深圳研学活动",
@@ -4791,6 +5055,28 @@
     "source": "南山图书馆"
   },
   {
+    "title": "法律咨询",
+    "name": "法律咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://activity.nslib.cn/activity/info/11641",
+    "url": "https://activity.nslib.cn/activity/info/11641",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11641",
+        "label": "活动详情"
+      }
+    ],
+    "description": "法律咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "中国文化第一课|岭南画派与生活美学",
     "name": "中国文化第一课|岭南画派与生活美学",
     "venue": "南山图书馆",
@@ -4835,28 +5121,6 @@
     "source": "南山图书馆"
   },
   {
-    "title": "法律咨询",
-    "name": "法律咨询",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11641",
-    "url": "https://activity.nslib.cn/activity/info/11641",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11641",
-        "label": "活动详情"
-      }
-    ],
-    "description": "法律咨询。南山图书馆举办。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
     "name": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
     "venue": "光明区光明文化艺术中心·演艺中心·大剧场",
@@ -4872,6 +5136,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "自动化发现"
+  },
+  {
+    "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“葫音童趣・少儿葫芦丝”体验活动",
+    "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“葫音童趣・少儿葫芦丝”体验活动",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站"
   },
   {
     "title": "阅见南山·探索成长丨深大校园漫步",
@@ -4916,6 +5202,50 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "“逐梦舞涯”·2026凤凰街道青少年爵士舞暑假训练营活动",
+    "name": "“逐梦舞涯”·2026凤凰街道青少年爵士舞暑假训练营活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=448fd4fc726c4fa1a85b3b26d4fa2f87",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=448fd4fc726c4fa1a85b3b26d4fa2f87",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=448fd4fc726c4fa1a85b3b26d4fa2f87",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“童心绘梦・曼陀罗绘画”体验活动",
+    "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“童心绘梦・曼陀罗绘画”体验活动",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9a8f7d34e9ef4fbf9cecd50af5bd987c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9a8f7d34e9ef4fbf9cecd50af5bd987c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9a8f7d34e9ef4fbf9cecd50af5bd987c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站"
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -4982,6 +5312,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动",
+    "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站"
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——麒遇古镇·非遗共赏",
@@ -5092,6 +5444,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“童声和鸣·以声传爱”少儿 合唱《萱草花》体验活动",
+    "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“童声和鸣·以声传爱”少儿 合唱《萱草花》体验活动",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-30",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8536cd28338a48d7b0ff4e181df87060",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8536cd28338a48d7b0ff4e181df87060",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8536cd28338a48d7b0ff4e181df87060",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -5380,6 +5754,28 @@
     "source": "南山图书馆"
   },
   {
+    "title": "南图双语故事会|Go Away,Floppy",
+    "name": "南图双语故事会|Go Away,Floppy",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11605",
+    "url": "https://activity.nslib.cn/activity/info/11605",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11605",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。南图双语故事会|Go Away,Floppy",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
     "name": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
     "venue": "坂田街道文化站",
@@ -5424,6 +5820,28 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "“不朽的军魂”一一纪念中国人民解放军建军99周年专场朗诵会",
+    "name": "“不朽的军魂”一一纪念中国人民解放军建军99周年专场朗诵会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643572&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643572&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643572&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼报告厅\n地址：福田区福中一路2001号深圳图书馆五楼报告厅",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
     "name": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
     "venue": "深圳市体育中心体育场",
@@ -5465,6 +5883,28 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656878&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656878&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656878&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
     "source": "深圳图书馆"
   },
   {
@@ -5930,28 +6370,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "2026（秋）深圳国际家居软装博览会",
-    "name": "2026（秋）深圳国际家居软装博览会",
-    "venue": "深圳会展中心",
-    "city": "shenzhen",
-    "start_date": "2026-08-07",
-    "end_date": "2026-08-09",
-    "link": "https://www.szcec.com",
-    "url": "https://www.szcec.com",
-    "links": [
-      {
-        "url": "https://www.szcec.com",
-        "label": "活动详情"
-      }
-    ],
-    "description": "2026（秋）深圳国际家居软装博览会，2026-08-07至2026-08-09，深圳会展中心。深圳市博奥展览有限公司 何女士 0757-82363293",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "深圳市博奥展览有限公司 何女士 0757-82363293",
-    "family_friendly": false,
-    "source": "深圳会展中心"
-  },
-  {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
     "name": "跟着音乐去旅行——暑期亲子音乐会",
     "venue": "深圳音乐厅",
@@ -6125,7 +6543,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐"
+    "source": "深圳龙城国际艺术中心"
   },
   {
     "title": "沉浸式互动亲子科学剧《数学秀》",
@@ -6164,6 +6582,28 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656879&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656879&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656879&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
     "source": "深圳图书馆"
   },
   {
@@ -6519,25 +6959,25 @@
     "source": "坂田街道文化站"
   },
   {
-    "title": "悦讲：一场走遍瑞典的成长旅行",
-    "name": "悦讲：一场走遍瑞典的成长旅行",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "title": "内在觉醒时代：如何停止内耗，重新活出来",
+    "name": "内在觉醒时代：如何停止内耗，重新活出来",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
     "city": "shenzhen",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656212&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656212&year=2026&month=8&customizedUrl=salon",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651569&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651569&year=2026&month=8&customizedUrl=salon",
     "links": [
       {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656212&year=2026&month=8&customizedUrl=salon",
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651569&year=2026&month=8&customizedUrl=salon",
         "label": "活动详情"
       }
     ],
-    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约\n备注：参与活动建议提前阅读本书",
-    "category": "讲座阅读",
+    "description": "主办方：深圳图书馆、深圳女报杂志社\n地点：中心馆 一楼南书房\n地址：福田区福中一路2001号深圳图书馆一楼南书房",
+    "category": "其他",
     "fee": "免费",
     "contact": "",
-    "family_friendly": true,
+    "family_friendly": false,
     "source": "深圳图书馆"
   },
   {
@@ -6556,6 +6996,28 @@
       }
     ],
     "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：面向3-8岁少儿读者及家长",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "悦讲：一场走遍瑞典的成长旅行",
+    "name": "悦讲：一场走遍瑞典的成长旅行",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656212&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656212&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656212&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约\n备注：参与活动建议提前阅读本书",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
@@ -6645,6 +7107,28 @@
     ],
     "description": "主办方：深圳图书馆、深圳市彩虹花公益小书房\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
     "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-16",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656880&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656880&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656880&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
@@ -6915,6 +7399,50 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "艺术疗愈工作坊第5期：绘画工坊——“画”解压力",
+    "name": "艺术疗愈工作坊第5期：绘画工坊——“画”解压力",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643084&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643084&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643084&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 2F多功能学习室\n地址：深圳市龙华区腾龙路30号\n需预约",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
+    "name": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：面向3-8岁少儿读者及家长",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
     "title": "原版BOOK快乐读：拼图里的大发现",
     "name": "原版BOOK快乐读：拼图里的大发现",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -6937,21 +7465,21 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
-    "name": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
+    "title": "  “插上声音的翅膀” 第三届少儿朗诵艺术沙龙",
+    "name": "  “插上声音的翅膀” 第三届少儿朗诵艺术沙龙",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
     "city": "shenzhen",
     "start_date": "2026-08-22",
     "end_date": "2026-08-22",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643573&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643573&year=2026&month=8&customizedUrl=salon",
     "links": [
       {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647610&year=2026&month=8&customizedUrl=salon",
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=643573&year=2026&month=8&customizedUrl=salon",
         "label": "活动详情"
       }
     ],
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：面向3-8岁少儿读者及家长",
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼报告厅\n地址：福田区福中一路2001号深圳图书馆五楼报告厅",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
@@ -7000,6 +7528,28 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-23",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656881&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656881&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656881&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
     "source": "深圳图书馆"
   },
   {
@@ -7443,6 +7993,28 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "听音归心，正念自在——在不确定世界安放情绪，回归生命本真",
+    "name": "听音归心，正念自在——在不确定世界安放情绪，回归生命本真",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-28",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642149&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642149&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642149&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆、深圳女报杂志社\n地点：北馆 1F北书房\n地址：深圳市龙华区腾龙路30号",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
     "title": "观影《黑猫警长之翡翠之星》",
     "name": "观影《黑猫警长之翡翠之星》",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -7575,6 +8147,28 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-30",
+    "end_date": "2026-08-30",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656882&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656882&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656882&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
     "title": "夏日科幻季——《星际探索》",
     "name": "夏日科幻季——《星际探索》",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -7683,6 +8277,28 @@
     "contact": "广东潮域展览有限公司 蔡先生 13602600703",
     "family_friendly": false,
     "source": "深圳会展中心"
+  },
+  {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-06",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656884&year=2026&month=9&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656884&year=2026&month=9&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656884&year=2026&month=9&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
   },
   {
     "title": "2026深圳国际珠宝展",
@@ -7795,6 +8411,28 @@
     "source": "深圳会展中心"
   },
   {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-13",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656886&year=2026&month=9&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656886&year=2026&month=9&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656886&year=2026&month=9&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
     "title": "2026国际数字能源展",
     "name": "2026国际数字能源展",
     "venue": "深圳会展中心",
@@ -7905,6 +8543,28 @@
     "source": "深圳国际会展中心"
   },
   {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-20",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656887&year=2026&month=9&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656887&year=2026&month=9&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656887&year=2026&month=9&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
     "title": "“民断是非”大型思辨性公益普法活动",
     "name": "“民断是非”大型思辨性公益普法活动",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -7947,6 +8607,28 @@
     "contact": "深圳市华艺时代文化展览有限公司 宋先生&nbsp; 0755-33654238",
     "family_friendly": false,
     "source": "深圳会展中心"
+  },
+  {
+    "title": "筝韵流芳·沉浸式民乐聆赏会",
+    "name": "筝韵流芳·沉浸式民乐聆赏会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-27",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656889&year=2026&month=9&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656889&year=2026&month=9&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656889&year=2026&month=9&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约\n备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
   },
   {
     "title": "第五十六届深圳家装节",
@@ -8381,10 +9063,32 @@
         "label": "活动详情"
       }
     ],
-    "description": "ICBE 2026深圳国际跨境电商交易博览会，2026-10-28至2026-10-30，深圳会展中心。深圳扩展展览服务有限公司 张先生18516075888",
+    "description": "ICBE 2026深圳国际跨境电商交易博览会，2026-10-28至2026-10-30，深圳会展中心。上海扩展展览服务有限公司 张先生18516075888",
     "category": "展览",
     "fee": "免费",
-    "contact": "深圳扩展展览服务有限公司 张先生18516075888",
+    "contact": "上海扩展展览服务有限公司 张先生18516075888",
+    "family_friendly": false,
+    "source": "深圳会展中心"
+  },
+  {
+    "title": "CPDC2026深圳国际AI算力与数据中心液冷技术展览会",
+    "name": "CPDC2026深圳国际AI算力与数据中心液冷技术展览会",
+    "venue": "深圳会展中心",
+    "city": "shenzhen",
+    "start_date": "2026-10-28",
+    "end_date": "2026-10-30",
+    "link": "https://www.szcec.com",
+    "url": "https://www.szcec.com",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "CPDC2026深圳国际AI算力与数据中心液冷技术展览会，2026-10-28至2026-10-30，深圳会展中心。上海扩展展览服务有限公司 张先生18516075888",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "上海扩展展览服务有限公司 张先生18516075888",
     "family_friendly": false,
     "source": "深圳会展中心"
   },
