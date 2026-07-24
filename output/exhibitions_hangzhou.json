@@ -320,7 +320,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州临安区科普活动活动",
@@ -357,7 +358,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州桐庐县演出月",
@@ -394,7 +396,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州宋城映山红",
@@ -430,7 +433,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "杭州野生动物园森林剧场",
@@ -466,7 +470,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "title": "叩石问印·浦东篆刻会十周年特展",
@@ -575,7 +580,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "沉浸式杭州上城区讲座阅读探索",
@@ -612,7 +618,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进杭州萧山区体育赛事日",
@@ -648,7 +655,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "《宋城千古情》大型演艺",
@@ -720,7 +728,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州余杭区展览嘉年华",
@@ -757,7 +766,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-173",
@@ -793,7 +803,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览-109",
@@ -829,7 +840,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童杭州滨江区科普活动课程",
@@ -866,7 +878,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州临安区亲子活动比赛",
@@ -903,7 +916,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州下城区影视放映季",
@@ -940,7 +954,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州烂苹果乐园荒诞小镇",
@@ -976,7 +991,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览",
@@ -1013,7 +1029,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-31",
@@ -1050,7 +1067,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-123",
@@ -1087,7 +1105,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州下城区展览探秘",
@@ -1124,7 +1143,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州烂苹果乐园爱的故事屋",
@@ -1160,7 +1180,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州白龙潭景区",
@@ -1197,7 +1218,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州小河直街历史街区",
@@ -1233,7 +1255,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "第34届全国书博会",
@@ -1304,7 +1327,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-153",
@@ -1341,7 +1365,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州建德市影视放映周",
@@ -1377,7 +1402,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州江干区演出发现",
@@ -1414,7 +1440,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州浙江省博物馆展览",
@@ -1451,7 +1478,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州西溪湿地研学",
@@ -1487,7 +1515,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州淳安县演出探索",
@@ -1524,7 +1553,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州淳安县影视放映探秘",
@@ -1561,7 +1591,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州西湖区影视放映探索",
@@ -1598,7 +1629,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州富阳区科普活动发现",
@@ -1634,7 +1666,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州西湖区科普活动课程",
@@ -1671,7 +1704,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖荷花展",
@@ -1708,7 +1742,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州龙井亲子活动-51",
@@ -1744,7 +1779,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州云栖竹径避暑",
@@ -1780,7 +1816,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "杭州动物园熊猫主题日",
@@ -1852,7 +1889,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-103",
@@ -1889,7 +1927,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州淳安县讲座阅读之旅",
@@ -1926,7 +1965,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻杭州上城区亲子活动之旅",
@@ -1962,7 +2002,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州扇博物馆",
@@ -1999,7 +2040,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动",
@@ -2036,7 +2078,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-63",
@@ -2073,7 +2116,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-75",
@@ -2109,7 +2153,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州中国扇博物馆展览-162",
@@ -2146,7 +2191,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州余杭区演出日",
@@ -2183,7 +2229,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学",
@@ -2220,7 +2267,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-86",
@@ -2256,7 +2304,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览-169",
@@ -2292,7 +2341,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动杭州上城区影视放映科普",
@@ -2329,7 +2379,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州上城区展览周",
@@ -2365,7 +2416,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩杭州滨江区亲子活动节",
@@ -2402,7 +2454,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国美术学院美术馆",
@@ -2439,7 +2492,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州西溪湿地研学-53",
@@ -2475,7 +2529,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-105",
@@ -2511,7 +2566,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州滨江区影视放映探索",
@@ -2548,7 +2604,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州临安区讲座阅读工作坊",
@@ -2585,7 +2642,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩杭州拱墅区演出节",
@@ -2622,7 +2680,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州野生动物园自驾区",
@@ -2658,7 +2717,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "撒马尔罕：中亚之心的千年古城特展",
@@ -2729,7 +2789,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-158",
@@ -2766,7 +2827,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州萧山区亲子活动展览",
@@ -2802,7 +2864,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州萧山区科普活动探索",
@@ -2838,7 +2901,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州西溪湿地茭芦田庄",
@@ -2875,7 +2939,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读杭州萧山区讲座阅读周",
@@ -2912,7 +2977,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼杭州下城区演出发现",
@@ -2949,7 +3015,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州上城区讲座阅读嘉年华",
@@ -2985,7 +3052,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "浙江自然博物院杭州馆",
@@ -3021,7 +3089,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州博物馆",
@@ -3058,7 +3127,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-160",
@@ -3095,7 +3165,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州下城区亲子活动探索",
@@ -3131,7 +3202,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州桐庐县讲座阅读演出",
@@ -3167,7 +3239,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州烂苹果乐园糖果小镇",
@@ -3203,7 +3276,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州长乔极地海洋公园北极熊",
@@ -3240,7 +3314,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-73",
@@ -3277,7 +3352,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州龙井亲子活动-81",
@@ -3313,7 +3389,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-113",
@@ -3349,7 +3426,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州桐庐县影视放映科普",
@@ -3386,7 +3464,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-101",
@@ -3423,7 +3502,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-151",
@@ -3460,7 +3540,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州滨江区体育赛事讲座",
@@ -3497,7 +3578,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州建德市演出课程",
@@ -3533,7 +3615,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州下城区演出展览",
@@ -3570,7 +3653,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典杭州滨江区体育赛事探秘",
@@ -3606,7 +3690,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩杭州江干区讲座阅读节",
@@ -3643,7 +3728,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "茶和天下 芳传古今——中国传统制茶技艺非遗展",
@@ -3716,7 +3802,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "实践杭州雷峰塔研学-167",
@@ -3752,7 +3839,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州大运河夜游",
@@ -3789,7 +3877,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州拱宸桥夜游船",
@@ -3825,7 +3914,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻杭州九溪演出",
@@ -3861,7 +3951,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-61",
@@ -3898,7 +3989,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现杭州中国扇博物馆展览-102",
@@ -3935,7 +4027,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-116",
@@ -3971,7 +4064,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州萧山区演出探秘",
@@ -4008,7 +4102,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州富阳区演出课程",
@@ -4044,7 +4139,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "杭州图书馆亲子阅读季",
@@ -4117,7 +4213,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-117",
@@ -4154,7 +4251,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出-148",
@@ -4190,7 +4288,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-163",
@@ -4227,7 +4326,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州下城区亲子活动演出",
@@ -4264,7 +4364,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州富阳区演出季",
@@ -4301,7 +4402,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州江干区科普活动体验营",
@@ -4338,7 +4440,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-121",
@@ -4375,7 +4478,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州临安区影视放映讲座",
@@ -4411,7 +4515,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州宋城丽江恋歌",
@@ -4447,7 +4552,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "杭州浙江省博物馆展览-30",
@@ -4484,7 +4590,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州萧山区演出讲座",
@@ -4520,7 +4627,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州富阳区体育赛事演出",
@@ -4556,7 +4664,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "儿童杭州萧山区展览课程",
@@ -4592,7 +4701,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "胡庆余堂中药博物馆",
@@ -4629,7 +4739,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州灵山风景区",
@@ -4666,7 +4777,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州南宋官窑博物馆研学-95",
@@ -4703,7 +4815,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出-118",
@@ -4739,7 +4852,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州淳安县科普活动周",
@@ -4776,7 +4890,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州淳安县展览发现",
@@ -4813,7 +4928,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州江干区影视放映之旅",
@@ -4850,7 +4966,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国茶叶博物馆",
@@ -4887,7 +5004,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "中国杭帮菜博物馆",
@@ -4924,7 +5042,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "韩美林艺术馆",
@@ -4960,7 +5079,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "实践杭州雷峰塔研学",
@@ -4996,7 +5116,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-99",
@@ -5033,7 +5154,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "实践杭州雷峰塔研学-137",
@@ -5069,7 +5191,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州滨江区展览日",
@@ -5106,7 +5229,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭杭州滨江区亲子活动研学营",
@@ -5143,7 +5267,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -5214,7 +5339,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州余杭区体育赛事季",
@@ -5250,7 +5376,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "暑期杭州滨江区展览体验营",
@@ -5286,7 +5413,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州西湖区演出周",
@@ -5323,7 +5451,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国湿地博物馆",
@@ -5360,7 +5489,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-96",
@@ -5397,7 +5527,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州拱墅区亲子活动展览",
@@ -5434,7 +5565,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州建德市影视放映季",
@@ -5470,7 +5602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-100",
@@ -5507,7 +5640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-170",
@@ -5543,7 +5677,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州下城区展览节",
@@ -5580,7 +5715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘杭州西湖区亲子活动月",
@@ -5616,7 +5752,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州拱墅区展览季",
@@ -5653,7 +5790,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "浙江省博物馆之江馆",
@@ -5690,7 +5828,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州宋城失落古城",
@@ -5726,7 +5865,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -5798,7 +5938,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典杭州拱墅区科普活动探秘",
@@ -5834,7 +5975,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州拱墅区展览工作坊",
@@ -5870,7 +6012,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "未命名的房间",
@@ -5943,7 +6086,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-134",
@@ -5980,7 +6124,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州临安区科普活动嘉年华",
@@ -6017,7 +6162,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州淳安县体育赛事研学营",
@@ -6054,7 +6200,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻杭州建德市演出之旅",
@@ -6090,7 +6237,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-32",
@@ -6127,7 +6275,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州桐庐县演出日",
@@ -6164,7 +6313,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州富阳区讲座阅读科普",
@@ -6201,7 +6351,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探索杭州江干区展览演出",
@@ -6237,7 +6388,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "浙江省博物馆武林馆",
@@ -6274,7 +6426,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州西溪湿地洪园摇橹船",
@@ -6310,7 +6463,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "2026浙江省全民艺术季·文艺赋美",
@@ -6453,7 +6607,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-152",
@@ -6490,7 +6645,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州建德市亲子活动探秘",
@@ -6526,7 +6682,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州临安区科普活动周",
@@ -6563,7 +6720,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州桐庐县演出体验营",
@@ -6599,7 +6757,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州余杭区亲子活动周",
@@ -6636,7 +6795,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-164",
@@ -6673,7 +6833,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州下城区讲座阅读体验营",
@@ -6710,7 +6871,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州江干区影视放映课程",
@@ -6747,7 +6909,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州江干区亲子活动嘉年华",
@@ -6784,7 +6947,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州下城区展览讲座",
@@ -6821,7 +6985,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国刀剪剑博物馆",
@@ -6858,7 +7023,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州烂苹果乐园魔法丛林",
@@ -6894,7 +7060,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "良夜寻踪夜游",
@@ -6966,7 +7133,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州野生动物园游乐场",
@@ -7002,7 +7170,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "太平年·天下同宁——交互艺术大展",
@@ -7075,7 +7244,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-41",
@@ -7112,7 +7282,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-57",
@@ -7149,7 +7320,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-130",
@@ -7186,7 +7358,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-143",
@@ -7222,7 +7395,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-161",
@@ -7259,7 +7433,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州富阳区亲子活动节",
@@ -7296,7 +7471,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州桐庐县讲座阅读探秘",
@@ -7333,7 +7509,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末杭州富阳区影视放映活动",
@@ -7370,7 +7547,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖音乐喷泉",
@@ -7406,7 +7584,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州长乔极地海洋公园海豚表演",
@@ -7443,7 +7622,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "title": "良渚文化探索营",
@@ -7551,7 +7731,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州上城区演出月",
@@ -7588,7 +7769,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州西湖区演出活动",
@@ -7624,7 +7806,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州淳安县演出嘉年华",
@@ -7661,7 +7844,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州宋城大地震",
@@ -7697,7 +7881,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州伞博物馆",
@@ -7734,7 +7919,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "茶文化研学",
@@ -7843,7 +8029,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州拱墅区科普活动演出",
@@ -7880,7 +8067,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-68",
@@ -7917,7 +8105,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-76",
@@ -7953,7 +8142,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-94",
@@ -7990,7 +8180,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-135",
@@ -8026,7 +8217,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州拱墅区讲座阅读活动",
@@ -8063,7 +8255,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年杭州富阳区亲子活动讲座",
@@ -8099,7 +8292,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州萧山区亲子活动比赛",
@@ -8136,7 +8330,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国丝绸博物馆",
@@ -8173,7 +8368,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州岳庙展览",
@@ -8209,7 +8405,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州临安区展览之旅",
@@ -8246,7 +8443,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州淳安县亲子活动日",
@@ -8283,7 +8481,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州余杭区展览探索",
@@ -8319,7 +8518,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州桐庐县体育赛事展览",
@@ -8355,7 +8555,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州虎跑亲子活动-50",
@@ -8391,7 +8592,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州九溪演出-52",
@@ -8427,7 +8629,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-62",
@@ -8464,7 +8667,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-80",
@@ -8500,7 +8704,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州余杭区亲子活动活动",
@@ -8537,7 +8742,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州余杭区演出科普",
@@ -8573,7 +8779,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州余杭区科普活动月",
@@ -8610,7 +8817,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州西湖区讲座阅读展览",
@@ -8647,7 +8855,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州跨湖桥遗址博物馆",
@@ -8684,7 +8893,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动",
@@ -8720,7 +8930,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-44",
@@ -8757,7 +8968,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-97",
@@ -8794,7 +9006,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动-111",
@@ -8830,7 +9043,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州下城区科普活动科普",
@@ -8866,7 +9080,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "重逢之约主题展",
@@ -8939,7 +9154,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州九溪演出-172",
@@ -8975,7 +9191,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州拱墅区科普活动探索",
@@ -9011,7 +9228,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州宋城辣椒节",
@@ -9047,7 +9265,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "良渚博物院文明探索之旅",
@@ -9118,7 +9337,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "影视放映"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-39",
@@ -9155,7 +9375,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-91",
@@ -9192,7 +9413,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-93",
@@ -9229,7 +9451,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学-125",
@@ -9266,7 +9489,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州临安区讲座阅读季",
@@ -9302,7 +9526,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩杭州建德市展览节",
@@ -9339,7 +9564,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览",
@@ -9376,7 +9602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-40",
@@ -9413,7 +9640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州岳庙展览-138",
@@ -9449,7 +9677,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-156",
@@ -9486,7 +9715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州上城区影视放映日",
@@ -9522,7 +9752,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州临安区亲子活动科普",
@@ -9559,7 +9790,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "机器狗AI编程夏令营",
@@ -9631,7 +9863,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州杭州乐园展览-115",
@@ -9667,7 +9900,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读杭州宋城展览-144",
@@ -9703,7 +9937,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -9776,7 +10011,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州中国扇博物馆展览-42",
@@ -9813,7 +10049,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-56",
@@ -9849,7 +10086,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州建德市影视放映工作坊",
@@ -9886,7 +10124,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "中国丝绸博物馆丝路文化体验",
@@ -9959,7 +10198,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州桐庐县展览嘉年华",
@@ -9996,7 +10236,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州富阳区讲座阅读日",
@@ -10033,7 +10274,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州虎跑泉水",
@@ -10070,7 +10312,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索杭州临安区演出演出",
@@ -10107,7 +10350,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州下城区讲座阅读月",
@@ -10143,7 +10387,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子杭州滨江区演出工作坊",
@@ -10180,7 +10425,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-43",
@@ -10217,7 +10463,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-124",
@@ -10254,7 +10501,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州萧山区体育赛事科普",
@@ -10291,7 +10539,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "发现杭州西湖区展览比赛",
@@ -10327,7 +10576,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-147",
@@ -10364,7 +10614,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州宋城展览-174",
@@ -10400,7 +10651,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州余杭区影视放映展览",
@@ -10436,7 +10688,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末杭州桐庐县展览活动",
@@ -10473,7 +10726,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期杭州淳安县亲子活动体验营",
@@ -10509,7 +10763,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "自然导览课程",
@@ -10581,7 +10836,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州桐庐县影视放映比赛",
@@ -10618,7 +10874,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州西湖区讲座阅读发现",
@@ -10655,7 +10912,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进杭州岳庙展览-168",
@@ -10691,7 +10949,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州湘湖花海",
@@ -10727,7 +10986,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "AI科学工坊",
@@ -10800,7 +11060,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-34",
@@ -10837,7 +11098,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-122",
@@ -10874,7 +11136,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-128",
@@ -10911,7 +11174,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动-141",
@@ -10947,7 +11211,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州淳安县展览比赛",
@@ -10984,7 +11249,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动",
@@ -11021,7 +11287,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州宋城展览",
@@ -11057,7 +11324,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "研学杭州中国伞博物馆研学-131",
@@ -11094,7 +11362,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-165",
@@ -11130,7 +11399,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动-171",
@@ -11166,7 +11436,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州上城区亲子活动课程",
@@ -11203,7 +11474,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州临安区体育赛事月",
@@ -11239,7 +11511,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典杭州余杭区讲座阅读探秘",
@@ -11275,7 +11548,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "运博20年·何以动人影像与故事展",
@@ -11383,7 +11657,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州临安区影视放映节",
@@ -11419,7 +11694,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州余杭区影视放映发现",
@@ -11456,7 +11732,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州临安区演出探索",
@@ -11492,7 +11769,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州上城区展览工作坊",
@@ -11528,7 +11806,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州西溪湿地火柿节",
@@ -11565,7 +11844,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖桂花节",
@@ -11601,7 +11881,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "印鉴西湖·西湖美学系列展",
@@ -11710,7 +11991,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州九溪演出-142",
@@ -11746,7 +12028,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州拱墅区体育赛事比赛",
@@ -11783,7 +12066,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "互动杭州西湖区展览科普",
@@ -11820,7 +12104,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州江干区影视放映展览",
@@ -11856,7 +12141,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州东方文化园",
@@ -11892,7 +12178,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州虎跑亲子活动",
@@ -11928,7 +12215,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-136",
@@ -11964,7 +12252,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州富阳区展览体验营",
@@ -12001,7 +12290,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州江干区科普活动日",
@@ -12037,7 +12327,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州上城区演出研学营",
@@ -12073,7 +12364,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "京杭大运河博物馆",
@@ -12110,7 +12402,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州湘湖游船",
@@ -12146,7 +12439,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西溪湿地电瓶船",
@@ -12183,7 +12477,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "自然探秘公益课",
@@ -12255,7 +12550,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州滨江区演出周",
@@ -12292,7 +12588,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州萧山区亲子活动发现",
@@ -12328,7 +12625,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州滨江区科普活动之旅",
@@ -12364,7 +12662,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州野生动物园步行区",
@@ -12400,7 +12699,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州九溪烟树漂流",
@@ -12436,7 +12736,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-98",
@@ -12473,7 +12774,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州江干区体育赛事季",
@@ -12510,7 +12812,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "走进杭州建德市讲座阅读日",
@@ -12546,7 +12849,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年杭州上城区科普活动讲座",
@@ -12583,7 +12887,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "2026西溪火柿节",
@@ -12656,7 +12961,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动",
@@ -12692,7 +12998,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出",
@@ -12728,7 +13035,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-106",
@@ -12764,7 +13072,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州乐园展览-145",
@@ -12800,7 +13109,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州西湖区影视放映演出",
@@ -12836,7 +13146,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州余杭区体育赛事课程",
@@ -12873,7 +13184,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州江干区亲子活动活动",
@@ -12909,7 +13221,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州浙江省博物馆展览-90",
@@ -12946,7 +13259,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩杭州灵隐寺演出-166",
@@ -12982,7 +13296,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州建德市体育赛事嘉年华",
@@ -13019,7 +13334,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州萧山区展览之旅",
@@ -13056,7 +13372,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末杭州建德市体育赛事活动",
@@ -13093,7 +13410,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-36",
@@ -13130,7 +13448,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-159",
@@ -13167,7 +13486,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州建德市亲子活动演出",
@@ -13204,7 +13524,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国扇博物馆",
@@ -13241,7 +13562,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学-35",
@@ -13278,7 +13600,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州乐园展览-85",
@@ -13314,7 +13637,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州岳庙展览-108",
@@ -13350,7 +13674,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-146",
@@ -13386,7 +13711,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州上城区亲子活动季",
@@ -13422,7 +13748,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州淳安县讲座阅读课程",
@@ -13458,7 +13785,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读杭州富阳区影视放映周",
@@ -13495,7 +13823,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州桐庐县亲子活动季",
@@ -13532,7 +13861,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖博物馆",
@@ -13569,7 +13899,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州宋城狂欢节",
@@ -13605,7 +13936,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-133",
@@ -13642,7 +13974,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末杭州上城区展览活动",
@@ -13679,7 +14012,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭杭州江干区讲座阅读研学营",
@@ -13716,7 +14050,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童杭州下城区影视放映课程",
@@ -13752,7 +14087,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州余杭区科普活动研学营",
@@ -13789,7 +14125,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "杭州科技馆暑期科学营",
@@ -13861,7 +14198,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州建德市展览研学营",
@@ -13897,7 +14235,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州长乔极地海洋公园白鲸表演",
@@ -13934,7 +14273,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "发现杭州中国扇博物馆展览",
@@ -13971,7 +14311,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-157",
@@ -14008,7 +14349,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州上城区体育赛事展览",
@@ -14045,7 +14387,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州淳安县科普活动工作坊",
@@ -14081,7 +14424,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州拱墅区体育赛事科普",
@@ -14117,7 +14461,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "解读杭州宋城展览-54",
@@ -14153,7 +14498,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "实践杭州雷峰塔研学-77",
@@ -14189,7 +14535,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州西湖区科普活动工作坊",
@@ -14226,7 +14573,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州拱墅区演出讲座",
@@ -14263,7 +14611,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州刀剪剑博物馆",
@@ -14300,7 +14649,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -14373,7 +14723,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期杭州拱墅区影视放映体验营",
@@ -14409,7 +14760,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州上城区科普活动探秘",
@@ -14446,7 +14798,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州下城区讲座阅读研学营",
@@ -14482,7 +14835,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州野生动物园熊猫馆",
@@ -14518,7 +14872,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西湖音乐喷泉夜游",
@@ -14554,7 +14909,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "宋韵故事会",
@@ -14661,7 +15017,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-140",
@@ -14697,7 +15054,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州西湖区亲子活动体验营",
@@ -14733,7 +15091,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州滨江区影视放映嘉年华",
@@ -14769,7 +15128,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州萧山区讲座阅读工作坊",
@@ -14806,7 +15166,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "相无古今——石窟艺术超感沉浸体验",
@@ -14879,7 +15240,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-64",
@@ -14916,7 +15278,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州江干区演出比赛",
@@ -14952,7 +15315,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州拱墅区影视放映月",
@@ -14989,7 +15353,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州淳安县体育赛事节",
@@ -15025,7 +15390,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "中国伞博物馆",
@@ -15062,7 +15428,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州宋城天灯节",
@@ -15098,7 +15465,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "手工艺体验",
@@ -15170,7 +15538,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州工艺美术博物馆",
@@ -15207,7 +15576,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览",
@@ -15244,7 +15614,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-46",
@@ -15280,7 +15651,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-74",
@@ -15317,7 +15689,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州宋城展览-114",
@@ -15353,7 +15726,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州萧山区科普活动嘉年华",
@@ -15389,7 +15763,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览",
@@ -15425,7 +15800,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州浙江省博物馆展览-60",
@@ -15462,7 +15838,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州浙江省博物馆展览-150",
@@ -15499,7 +15876,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼杭州滨江区讲座阅读发现",
@@ -15535,7 +15913,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式杭州富阳区体育赛事探索",
@@ -15572,7 +15951,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览",
@@ -15609,7 +15989,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-37",
@@ -15646,7 +16027,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-129",
@@ -15683,7 +16065,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州余杭区展览演出",
@@ -15719,7 +16102,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州余杭区讲座阅读讲座",
@@ -15756,7 +16140,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读杭州下城区体育赛事周",
@@ -15792,7 +16177,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻杭州九溪演出-112",
@@ -15828,7 +16214,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州浙江省博物馆展览-120",
@@ -15865,7 +16252,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州湖滨步行街夜景",
@@ -15901,7 +16289,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进杭州岳庙展览-48",
@@ -15937,7 +16326,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州长乔极地海洋公园水母宫",
@@ -15974,7 +16364,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "中国湿地博物馆科普艺术季·博物馆临时展览推介案例展",
@@ -16082,7 +16473,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味杭州富阳区科普活动展览",
@@ -16119,7 +16511,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现杭州建德市科普活动比赛",
@@ -16156,7 +16549,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出",
@@ -16193,7 +16587,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州湘湖研学",
@@ -16229,7 +16624,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览-49",
@@ -16265,7 +16661,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游杭州六和塔展览-79",
@@ -16301,7 +16698,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-87",
@@ -16338,7 +16736,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-154",
@@ -16375,7 +16774,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州建德市科普活动发现",
@@ -16412,7 +16812,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州桐庐县亲子活动工作坊",
@@ -16448,7 +16849,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州桐庐县体育赛事之旅",
@@ -16484,7 +16886,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩杭州灵隐寺演出",
@@ -16520,7 +16923,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-69",
@@ -16557,7 +16961,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州拱墅区讲座阅读嘉年华",
@@ -16593,7 +16998,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘杭州萧山区影视放映月",
@@ -16630,7 +17036,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州下城区体育赛事活动",
@@ -16666,7 +17073,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探秘杭州富阳区展览月",
@@ -16703,7 +17111,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "杭州西湖博物馆奇妙夜",
@@ -16775,7 +17184,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学-65",
@@ -16812,7 +17222,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-71",
@@ -16849,7 +17260,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-110",
@@ -16885,7 +17297,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -16957,7 +17370,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出-88",
@@ -16993,7 +17407,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州淳安县体育赛事月",
@@ -17029,7 +17444,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游杭州西湖区科普活动季",
@@ -17065,7 +17481,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州上城区体育赛事发现",
@@ -17102,7 +17519,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年杭州西湖区体育赛事讲座",
@@ -17139,7 +17557,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -17211,7 +17630,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州乐园展览-55",
@@ -17247,7 +17667,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-126",
@@ -17284,7 +17705,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游杭州六和塔展览-139",
@@ -17320,7 +17742,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州江干区体育赛事工作坊",
@@ -17357,7 +17780,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探索杭州滨江区体育赛事演出",
@@ -17394,7 +17818,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "杭州清河坊历史街区",
@@ -17430,7 +17855,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读杭州宋城展览-84",
@@ -17466,7 +17892,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭杭州桐庐县科普活动研学营",
@@ -17502,7 +17929,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州萧山区影视放映研学营",
@@ -17539,7 +17967,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州滨江区讲座阅读比赛",
@@ -17575,7 +18004,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进杭州下城区科普活动日",
@@ -17612,7 +18042,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南宋官窑博物馆",
@@ -17649,7 +18080,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "杭州青少年活动中心2026夏令营·少年长成营",
@@ -17720,7 +18152,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州桐庐县科普活动节",
@@ -17756,7 +18189,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州临安区展览展览",
@@ -17792,7 +18226,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州长乔极地海洋公园企鹅馆",
@@ -17829,7 +18264,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "繁天录——中国动画英雄潮流特展",
@@ -17902,7 +18338,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-83",
@@ -17938,7 +18375,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州拱墅区演出研学营",
@@ -17975,7 +18413,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州建德市讲座阅读体验营",
@@ -18012,7 +18451,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州江干区演出科普",
@@ -18048,7 +18488,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",
@@ -18120,7 +18561,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州宋城火把节",
@@ -18156,7 +18598,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州宋城花灯节",
@@ -18192,7 +18635,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西溪探梅节",
@@ -18229,7 +18673,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州超山探梅",
@@ -18266,7 +18711,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州灵峰探梅",
@@ -18302,7 +18748,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西溪花朝节",
@@ -18339,7 +18786,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州太子湾郁金香展",
@@ -18376,7 +18824,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州太子湾樱花展",
@@ -18413,7 +18862,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州龙井茶园采茶",
@@ -18449,7 +18899,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "西湖音乐节",
@@ -18485,7 +18936,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "欢迎来到恐龙时代——知识视界科普讲座",

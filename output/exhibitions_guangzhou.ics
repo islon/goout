@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//TongXing GoOut//Calendar//ZH
-X-WR-CALNAME:童行 (广州亲子活动)
-X-WR-CALDESC:广州展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+PRODID:-//Shenzhen Exhibitions//Calendar//ZH
+X-WR-CALNAME:童行 (深圳亲子活动)
+X-WR-CALDESC:深圳展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -22,8 +22,8 @@ TZOFFSETTO:+0800
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:65fbb5570ee81aea@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:65fbb5570ee81aea@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260907
 SUMMARY:知齐者，徐君也 徐悲鸿藏齐白石艺术研究展
@@ -31,8 +31,8 @@ LOCATION:广东美术馆（白鹅潭馆区）
 DESCRIPTION:以齐白石与徐悲鸿的知己之情为线索，集结徐悲鸿纪念馆、广东省博物馆藏约100件齐白石艺术珍品。\n地点: 广东美术馆（白鹅潭馆区）\n时间: 2026-04-24 至 2026-09-06\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:7f7ad5f49e58d004@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7f7ad5f49e58d004@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20261101
 SUMMARY:一念敦煌·石窟艺术大展
@@ -40,8 +40,8 @@ LOCATION:广州艺术博物院（广州美术馆）
 DESCRIPTION:创新剧场化沉浸叙事，多维互动展陈完整呈现敦煌文明古今脉络，夜场开放延长至20:30。\n地点: 广州艺术博物院（广州美术馆）\n时间: 2026-05-01 至 2026-10-31\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:ceda4b661b20713e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ceda4b661b20713e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260806
 SUMMARY:四季倒影：光之镜中的自然——赫利顿·希夏个展
@@ -49,8 +49,8 @@ LOCATION:广东美术馆（白鹅潭馆区）
 DESCRIPTION:希夏重写雕塑传统的体量，建构光的回馈场，集中呈现其围绕光、自然与环境的大型雕塑。\n地点: 广东美术馆（白鹅潭馆区）\n时间: 2026-05-28 至 2026-08-05\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:0429aef647795234@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0429aef647795234@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260806
 SUMMARY:风景与想象之间——意大利当代艺术在中国
@@ -58,8 +58,8 @@ LOCATION:广东美术馆（白鹅潭馆区）
 DESCRIPTION:从西方美术史"观看"概念出发，呈现多条相互呼应的创作线索，具地中海文化语境的温和节奏。\n地点: 广东美术馆（白鹅潭馆区）\n时间: 2026-05-29 至 2026-08-05\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:bc3402e5c61db078@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bc3402e5c61db078@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260907
 SUMMARY:葵山——许江艺术展
@@ -67,8 +67,8 @@ LOCATION:广东美术馆（白鹅潭馆区）
 DESCRIPTION:"葵"与"山"两条主线，系统呈现许江精神世界与创作脉络，思考生命、历史与时代。\n地点: 广东美术馆（白鹅潭馆区）\n时间: 2026-05-30 至 2026-09-06\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:ab94201fbd912a1b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ab94201fbd912a1b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260820
 SUMMARY:长风万里——关山月艺术大展
@@ -76,8 +76,8 @@ LOCATION:广东美术馆（二沙岛本馆）
 DESCRIPTION:"其命惟新"名家个案研究首场大展，110余件作品重走关山月艺术长征，含晚年绝笔难得一见。\n地点: 广东美术馆（二沙岛本馆）\n时间: 2026-06-09 至 2026-08-19\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:d84e35d58ce44fec@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d84e35d58ce44fec@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:长隆水上乐园 全球玩水嘉年华
@@ -85,8 +85,8 @@ LOCATION:广州长隆水上乐园
 DESCRIPTION:横跨五大洲洲际主题狂欢，萌娃IP互动、明星水上电音派对，暑期每周有大动作。\n地点: 广州长隆水上乐园\n时间: 2026-07-01 至 2026-08-31\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:eb0976a0dc2d4d26@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:eb0976a0dc2d4d26@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20261001
 SUMMARY:长隆欢乐世界 森巴酷爽嘉年华
@@ -94,8 +94,8 @@ LOCATION:广州长隆欢乐世界
 DESCRIPTION:围绕"玩水、亲子、森巴狂欢"的夏日限定，全天候玩水派对+森巴大巡游+夜间电音狂欢。\n地点: 广州长隆欢乐世界\n时间: 2026-07-01 至 2026-09-30\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:32fbf46ebf01d958@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:32fbf46ebf01d958@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20261001
 SUMMARY:长隆野生动物世界 全球动物科普嘉年华
@@ -103,8 +103,8 @@ LOCATION:广州长隆野生动物世界
 DESCRIPTION:围绕科普开展十项活动，含动物主题日、科普讲堂、便便工坊等，挖掘动物冷知识。\n地点: 广州长隆野生动物世界\n时间: 2026-07-01 至 2026-09-30\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:dda12cee10d143ba@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:dda12cee10d143ba@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260914
 SUMMARY:深度自然：2026广东美术馆儿童公共艺术季
@@ -112,8 +112,8 @@ LOCATION:广东美术馆（户外雕塑园）
 DESCRIPTION:联动幼儿园打造的沉浸式儿童艺术现场，打通室内展厅与户外雕塑园，引导探寻自然秩序与生命韵律。\n地点: 广东美术馆（户外雕塑园）\n时间: 2026-07-03 至 2026-09-13\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:fd990144e17e1270@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fd990144e17e1270@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260831
 SUMMARY:虫友：寻访甲虫世界
@@ -121,8 +121,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:汇聚昆虫、鸟类、植物等1000余件自然标本及20余件套精美文物，打造趣味横生的昆虫星球。暑期自然科普之夜配套戏剧表演、科普互动与创意市集。地铁3号线珠江新城站。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:f1c080a49f637916@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f1c080a49f637916@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260719
 SUMMARY:2026广州艺术季 华人之光·芭蕾明星GALA
@@ -130,8 +130,8 @@ LOCATION:广州大剧院
 DESCRIPTION:敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://www.gzdjy.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ea6df854371551af@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ea6df854371551af@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260831
 SUMMARY:虫友——寻访甲虫世界
@@ -139,8 +139,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:以甲虫为核心搭配动植物标本与多媒体互动，打造趣味昆虫科普展，展现自然生命蜕变。\n地点: 广东省博物馆\n时间: 2026-07-17 至 2026-08-30\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:c6743fe20d8d89dc@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c6743fe20d8d89dc@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
 SUMMARY:国风亲子音乐会（二沙岛音乐夏日）
@@ -148,8 +148,8 @@ LOCATION:星海音乐厅
 DESCRIPTION:星海音乐厅“音乐夏日”周末专场之一，以国风为主题打造亲子音乐会，寓教于乐带孩子在旋律中感受传统音乐之美，需购票。\n地点: 星海音乐厅\n时间: 2026-07-18 至 2026-07-19\n详情: https://news.qq.com/rain/a/20260713A0AT2Q00
 END:VEVENT
 BEGIN:VEVENT
-UID:1129be0d3ba9c33f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1129be0d3ba9c33f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20270118
 SUMMARY:家庭广州广东美术馆亲子活动-32
@@ -157,8 +157,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-07-18 至 2027-01-17
 END:VEVENT
 BEGIN:VEVENT
-UID:5010d85f338a6c6b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5010d85f338a6c6b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20270118
 SUMMARY:沉浸式广州广州博物馆展览-91
@@ -166,8 +166,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-07-18 至 2027-01-17
 END:VEVENT
 BEGIN:VEVENT
-UID:bc914d86aafc0b05@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bc914d86aafc0b05@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20270118
 SUMMARY:广州荔湾湖公园演出-100
@@ -175,8 +175,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-07-18 至 2027-01-17
 END:VEVENT
 BEGIN:VEVENT
-UID:23a4d6ef684693c9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:23a4d6ef684693c9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20270720
 SUMMARY:互利天下：广东外贸一千年
@@ -184,8 +184,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广东外贸一千年历史文化展，展示海上丝绸之路贸易历史。常设展，免费参观。地铁3号线珠江新城站。\n地点: 广东省博物馆\n时间: 2026-07-19 至 2027-07-19\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:b1e47961956bd87c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b1e47961956bd87c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:2026夏日美乐——维也纳圆舞曲交响音乐会
@@ -193,8 +193,8 @@ LOCATION:星海音乐厅
 DESCRIPTION:7月19日20:00于交响乐演奏大厅上演，广州交响乐团新生代指挥崔琳涵执棒，演绎维也纳圆舞曲，家庭夏日音乐消暑之选。\n地点: 星海音乐厅\n时间: 2026-07-19 至 2026-07-19\n详情: https://ysln.ycwb.com/content/2026-07/14/content_54227914.html
 END:VEVENT
 BEGIN:VEVENT
-UID:26c363ea39b5af24@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:26c363ea39b5af24@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260819
 SUMMARY:从化温泉文化节
@@ -202,8 +202,8 @@ LOCATION:从化温泉旅游度假区
 DESCRIPTION:从化温泉旅游度假区温泉文化节，温泉体验与文旅活动，免费参与。\n地点: 从化温泉旅游度假区\n时间: 2026-07-19 至 2026-08-18\n详情: https://www.chlib.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:478073693645c247@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:478073693645c247@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20270119
 SUMMARY:趣味广州白云区体育赛事展览
@@ -211,8 +211,8 @@ LOCATION:广州白云区剧院
 DESCRIPTION:广州白云区的趣味体育赛事展览，适合亲子家庭参与。\n地点: 广州白云区剧院\n时间: 2026-07-19 至 2027-01-18
 END:VEVENT
 BEGIN:VEVENT
-UID:187e5f9ea06002bf@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:187e5f9ea06002bf@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260723
 SUMMARY:南沙天后宫妈祖文化节
@@ -220,8 +220,8 @@ LOCATION:南沙天后宫
 DESCRIPTION:南沙天后宫妈祖文化节，含祭祀典礼、民俗表演与文化展览，免费开放。\n地点: 南沙天后宫\n时间: 2026-07-20 至 2026-07-22\n详情: https://www.ns-thp.com.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:b11229bc46c0537c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b11229bc46c0537c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260826
 SUMMARY:增城1978文化创意园暑期市集
@@ -229,8 +229,8 @@ LOCATION:增城1978文化创意园
 DESCRIPTION:增城1978文化创意园暑期市集，文创手作、美食与亲子互动，免费入场。\n地点: 增城1978文化创意园\n时间: 2026-07-20 至 2026-08-25\n详情: https://www.zc1978.com
 END:VEVENT
 BEGIN:VEVENT
-UID:800b546963f9d8ff@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:800b546963f9d8ff@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20270120
 SUMMARY:亲子广州永庆坊亲子活动-116
@@ -238,8 +238,8 @@ LOCATION:永庆坊
 DESCRIPTION:广州永庆坊的精彩亲子活动活动，适合亲子家庭参与。\n地点: 永庆坊\n时间: 2026-07-20 至 2027-01-19
 END:VEVENT
 BEGIN:VEVENT
-UID:81dc5759f91d7204@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:81dc5759f91d7204@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20270120
 SUMMARY:梦幻广州流花湖公园亲子活动-129
@@ -247,8 +247,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-07-20 至 2027-01-19
 END:VEVENT
 BEGIN:VEVENT
-UID:9d4a41d8db9d093c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9d4a41d8db9d093c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20270120
 SUMMARY:探索广州花都区展览演出
@@ -256,8 +256,8 @@ LOCATION:广州花都区动物园
 DESCRIPTION:广州花都区的探索展览演出，适合亲子家庭参与。\n地点: 广州花都区动物园\n时间: 2026-07-20 至 2027-01-19
 END:VEVENT
 BEGIN:VEVENT
-UID:39af1348982cb161@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:39af1348982cb161@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20270120
 SUMMARY:精彩广州番禺区演出节
@@ -265,8 +265,8 @@ LOCATION:广州番禺区剧院
 DESCRIPTION:广州番禺区的精彩演出节，适合亲子家庭参与。\n地点: 广州番禺区剧院\n时间: 2026-07-20 至 2027-01-19
 END:VEVENT
 BEGIN:VEVENT
-UID:bafff27c085965f0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bafff27c085965f0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20270120
 SUMMARY:发现广州花都区科普活动比赛
@@ -274,8 +274,8 @@ LOCATION:广州花都区剧院
 DESCRIPTION:广州花都区的发现科普活动比赛，适合亲子家庭参与。\n地点: 广州花都区剧院\n时间: 2026-07-20 至 2027-01-19
 END:VEVENT
 BEGIN:VEVENT
-UID:390eb31c65ed2fe3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:390eb31c65ed2fe3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260921
 SUMMARY:免费少儿艺术培训与非遗市集
@@ -283,8 +283,8 @@ LOCATION:广州市文化馆（新馆）
 DESCRIPTION:免费少儿艺术培训、非遗市集、露天亲子惠民演出、园林自然研学。\n地点: 广州市文化馆（新馆）\n时间: 2026-07-21 至 2026-09-20\n详情: https://www.gzwhg.org
 END:VEVENT
 BEGIN:VEVENT
-UID:2ef91e632e69653c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2ef91e632e69653c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20270121
 SUMMARY:广州长隆野生动物世界亲子活动
@@ -292,8 +292,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-07-21 至 2027-01-20
 END:VEVENT
 BEGIN:VEVENT
-UID:c67bce66bfd71f35@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c67bce66bfd71f35@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20270121
 SUMMARY:广州沙湾古镇展览
@@ -301,8 +301,8 @@ LOCATION:沙湾古镇
 DESCRIPTION:广州沙湾古镇的精彩展览活动，适合亲子家庭参与。\n地点: 沙湾古镇\n时间: 2026-07-21 至 2027-01-20
 END:VEVENT
 BEGIN:VEVENT
-UID:416f57eb6c393b5d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:416f57eb6c393b5d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20270121
 SUMMARY:研学广州天河公园研学-41
@@ -310,8 +310,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-07-21 至 2027-01-20
 END:VEVENT
 BEGIN:VEVENT
-UID:7788b1f94756648e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7788b1f94756648e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20270121
 SUMMARY:儿童广州黄埔区亲子活动课程
@@ -319,8 +319,8 @@ LOCATION:广州黄埔区美术馆
 DESCRIPTION:广州黄埔区的儿童亲子活动课程，适合亲子家庭参与。\n地点: 广州黄埔区美术馆\n时间: 2026-07-21 至 2027-01-20
 END:VEVENT
 BEGIN:VEVENT
-UID:d91597e37822b1ec@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d91597e37822b1ec@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260922
 SUMMARY:广州市文化馆新馆暑期文化体验
@@ -328,8 +328,8 @@ LOCATION:广州市文化馆新馆
 DESCRIPTION:汉唐风格与岭南风情融合的文化园区，含翰墨园、广绣园等主题园区，暑期举办各类文化体验活动和展览，需公众号预约。\n地点: 广州市文化馆新馆\n时间: 2026-07-22 至 2026-09-21\n详情: https://www.gzwhg.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:0bb9198beb4d0779@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0bb9198beb4d0779@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20270122
 SUMMARY:探索广州宝墨园研学-203
@@ -337,8 +337,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-07-22 至 2027-01-21
 END:VEVENT
 BEGIN:VEVENT
-UID:5744f2126050ddb4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5744f2126050ddb4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20270122
 SUMMARY:发现广州荔湾区体育赛事比赛
@@ -346,8 +346,8 @@ LOCATION:广州荔湾区博物馆
 DESCRIPTION:广州荔湾区的发现体育赛事比赛，适合亲子家庭参与。\n地点: 广州荔湾区博物馆\n时间: 2026-07-22 至 2027-01-21
 END:VEVENT
 BEGIN:VEVENT
-UID:39be9c391c6af66e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:39be9c391c6af66e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20270122
 SUMMARY:家庭广州荔湾区影视放映研学营
@@ -355,8 +355,8 @@ LOCATION:广州荔湾区文化馆
 DESCRIPTION:广州荔湾区的家庭影视放映研学营，适合亲子家庭参与。\n地点: 广州荔湾区文化馆\n时间: 2026-07-22 至 2027-01-21
 END:VEVENT
 BEGIN:VEVENT
-UID:0c815b48fad06dbc@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0c815b48fad06dbc@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:舞剧《醒·狮》海外巡演版
@@ -364,8 +364,8 @@ LOCATION:广东艺术剧院
 DESCRIPTION:以三元里抗英为背景融合醒狮民俗，讲述家国抗争与民族大义，7月22日广东艺术剧院上演。\n地点: 广东艺术剧院\n时间: 2026-07-22 至 2026-07-22\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:0b84d797aef24464@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0b84d797aef24464@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260923
 SUMMARY:机器人创客与数学嘉年华
@@ -373,8 +373,8 @@ LOCATION:广州青少年科技馆
 DESCRIPTION:机器人创客、数学嘉年华、地质化石手工、AI智能小车体验，暑期科普周全免费。\n地点: 广州青少年科技馆\n时间: 2026-07-23 至 2026-09-22\n详情: https://mp.weixin.qq.com/s?__biz=科普广州
 END:VEVENT
 BEGIN:VEVENT
-UID:c59855fed0dd5bec@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c59855fed0dd5bec@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20270123
 SUMMARY:亲子广州永庆坊亲子活动-86
@@ -382,8 +382,8 @@ LOCATION:永庆坊
 DESCRIPTION:广州永庆坊的精彩亲子活动活动，适合亲子家庭参与。\n地点: 永庆坊\n时间: 2026-07-23 至 2027-01-22
 END:VEVENT
 BEGIN:VEVENT
-UID:fd24b9e5f4227638@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fd24b9e5f4227638@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20270123
 SUMMARY:解读广州余荫山房展览-114
@@ -391,8 +391,8 @@ LOCATION:余荫山房
 DESCRIPTION:广州余荫山房的精彩展览活动，适合亲子家庭参与。\n地点: 余荫山房\n时间: 2026-07-23 至 2027-01-22
 END:VEVENT
 BEGIN:VEVENT
-UID:95f0953f04afb7ab@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:95f0953f04afb7ab@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20270123
 SUMMARY:精彩广州越秀区亲子活动节
@@ -400,8 +400,8 @@ LOCATION:广州越秀区博物馆
 DESCRIPTION:广州越秀区的精彩亲子活动节，适合亲子家庭参与。\n地点: 广州越秀区博物馆\n时间: 2026-07-23 至 2027-01-22
 END:VEVENT
 BEGIN:VEVENT
-UID:59ef442cad8ba796@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:59ef442cad8ba796@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20270123
 SUMMARY:趣味广州天河区演出展览
@@ -409,8 +409,8 @@ LOCATION:广州天河区青少年宫
 DESCRIPTION:广州天河区的趣味演出展览，适合亲子家庭参与。\n地点: 广州天河区青少年宫\n时间: 2026-07-23 至 2027-01-22
 END:VEVENT
 BEGIN:VEVENT
-UID:c1cd52e6c8eaa152@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c1cd52e6c8eaa152@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20270123
 SUMMARY:探索广州越秀区影视放映演出
@@ -418,8 +418,8 @@ LOCATION:广州越秀区创意园
 DESCRIPTION:广州越秀区的探索影视放映演出，适合亲子家庭参与。\n地点: 广州越秀区创意园\n时间: 2026-07-23 至 2027-01-22
 END:VEVENT
 BEGIN:VEVENT
-UID:e45581ff0c36a849@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e45581ff0c36a849@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20270123
 SUMMARY:走进广州海珠区讲座阅读日
@@ -427,8 +427,8 @@ LOCATION:广州海珠区图书馆
 DESCRIPTION:广州海珠区的走进讲座阅读日，适合亲子家庭参与。\n地点: 广州海珠区图书馆\n时间: 2026-07-23 至 2027-01-22
 END:VEVENT
 BEGIN:VEVENT
-UID:319d080994763ce4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:319d080994763ce4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270101
 SUMMARY:馆藏竹牙角玉雕展
@@ -436,8 +436,8 @@ LOCATION:广东民间工艺博物馆（陈家祠）
 DESCRIPTION:遴选馆藏竹、牙、角、玉雕诸器，展示由明至今各类雕刻工艺精品，与陈家祠建筑装饰相映成趣，亲子感受岭南工艺之美（含门票）。\n地点: 广东民间工艺博物馆（陈家祠）\n时间: 2026-07-24 至 2026-12-31\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5d6ebda135ea1fcd@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5d6ebda135ea1fcd@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270124
 SUMMARY:亲子广州永庆坊亲子活动-56
@@ -445,8 +445,8 @@ LOCATION:永庆坊
 DESCRIPTION:广州永庆坊的精彩亲子活动活动，适合亲子家庭参与。\n地点: 永庆坊\n时间: 2026-07-24 至 2027-01-23
 END:VEVENT
 BEGIN:VEVENT
-UID:76e378bc5abc1e43@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:76e378bc5abc1e43@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270124
 SUMMARY:广州广东省博物馆展览-60
@@ -454,8 +454,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-07-24 至 2027-01-23
 END:VEVENT
 BEGIN:VEVENT
-UID:9bfb3736082e05d0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9bfb3736082e05d0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270124
 SUMMARY:经典广州黄埔区科普活动探秘
@@ -463,8 +463,8 @@ LOCATION:广州黄埔区创意园
 DESCRIPTION:广州黄埔区的经典科普活动探秘，适合亲子家庭参与。\n地点: 广州黄埔区创意园\n时间: 2026-07-24 至 2027-01-23
 END:VEVENT
 BEGIN:VEVENT
-UID:4dd019acc120a44d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4dd019acc120a44d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270124
 SUMMARY:震撼广州番禺区演出发现
@@ -472,8 +472,8 @@ LOCATION:广州番禺区博物馆
 DESCRIPTION:广州番禺区的震撼演出发现，适合亲子家庭参与。\n地点: 广州番禺区博物馆\n时间: 2026-07-24 至 2027-01-23
 END:VEVENT
 BEGIN:VEVENT
-UID:acf3b1c942b234b3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:acf3b1c942b234b3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270124
 SUMMARY:经典广州海珠区讲座阅读探秘
@@ -481,8 +481,8 @@ LOCATION:广州海珠区美术馆
 DESCRIPTION:广州海珠区的经典讲座阅读探秘，适合亲子家庭参与。\n地点: 广州海珠区美术馆\n时间: 2026-07-24 至 2027-01-23
 END:VEVENT
 BEGIN:VEVENT
-UID:29af4cad9569a2c6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:29af4cad9569a2c6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20270124
 SUMMARY:探秘广州荔湾区展览月
@@ -490,8 +490,8 @@ LOCATION:广州荔湾区体育馆
 DESCRIPTION:广州荔湾区的探秘展览月，适合亲子家庭参与。\n地点: 广州荔湾区体育馆\n时间: 2026-07-24 至 2027-01-23
 END:VEVENT
 BEGIN:VEVENT
-UID:9a52f61b49ce6033@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9a52f61b49ce6033@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260925
 SUMMARY:江边非遗亲子市集与少儿写生公益活动
@@ -499,8 +499,8 @@ LOCATION:广州塔珠江滨水步道
 DESCRIPTION:江边非遗亲子市集、少儿写生公益活动、灯光打卡展、生态科普免费讲解。\n地点: 广州塔珠江滨水步道\n时间: 2026-07-25 至 2026-09-24\n详情: https://mp.weixin.qq.com/s?__biz=广州塔
 END:VEVENT
 BEGIN:VEVENT
-UID:998b8d5b509a7aad@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:998b8d5b509a7aad@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20270125
 SUMMARY:广州广东省博物馆展览-90
@@ -508,8 +508,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-07-25 至 2027-01-24
 END:VEVENT
 BEGIN:VEVENT
-UID:c9d9c6cc24259302@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c9d9c6cc24259302@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20270125
 SUMMARY:精彩广州华南植物园演出-196
@@ -517,8 +517,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-07-25 至 2027-01-24
 END:VEVENT
 BEGIN:VEVENT
-UID:958ac6b62122fc47@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:958ac6b62122fc47@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20270125
 SUMMARY:周末广州南沙区展览活动
@@ -526,8 +526,8 @@ LOCATION:广州南沙区文化馆
 DESCRIPTION:广州南沙区的周末展览活动，适合亲子家庭参与。\n地点: 广州南沙区文化馆\n时间: 2026-07-25 至 2027-01-24
 END:VEVENT
 BEGIN:VEVENT
-UID:81aec2c4c0670f9d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:81aec2c4c0670f9d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:舞剧《英歌》海外巡演版
@@ -535,8 +535,8 @@ LOCATION:广东艺术剧院
 DESCRIPTION:以英歌舞为载体讲述南洋游子家国情怀，展现潮汕血脉传承，7月25日广东艺术剧院上演。\n地点: 广东艺术剧院\n时间: 2026-07-25 至 2026-07-25\n详情: https://gz.bendibao.com/xiuxian/huodongditu
 END:VEVENT
 BEGIN:VEVENT
-UID:b4e23e2d3974f995@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b4e23e2d3974f995@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260925
 SUMMARY:广东省博物馆暑期延时开放
@@ -544,8 +544,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:暑期延长开放至21:00（20:00停止入馆），推出'粤博之夜'系列活动，包括文艺复兴主题展、红棉之夜、自然科普之夜、创新体验之夜四大主题活动。\n地点: 广东省博物馆\n时间: 2026-07-26 至 2026-09-24\n详情: https://www.gdmuseum.com
 END:VEVENT
 BEGIN:VEVENT
-UID:3ed85fc420b5466e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3ed85fc420b5466e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20270126
 SUMMARY:儿童广州越秀公园亲子活动-38
@@ -553,8 +553,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-07-26 至 2027-01-25
 END:VEVENT
 BEGIN:VEVENT
-UID:755a9a1778129649@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:755a9a1778129649@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20270126
 SUMMARY:梦幻广州流花湖公园亲子活动-189
@@ -562,8 +562,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-07-26 至 2027-01-25
 END:VEVENT
 BEGIN:VEVENT
-UID:91e6f1d37db0b59c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:91e6f1d37db0b59c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270621
 SUMMARY:迴响·Beyond Sound 声音特展
@@ -571,8 +571,8 @@ LOCATION:广东科学中心
 DESCRIPTION:广东科学中心自主研发的沉浸式声音主题展，分惊奇、探索、共鸣三展区、28个互动项，全龄友好可玩可学，亲子感知声音奥秘。\n地点: 广东科学中心\n时间: 2026-07-27 至 2027-06-20\n详情: https://www.sohu.com/a/984560784_121955537
 END:VEVENT
 BEGIN:VEVENT
-UID:45e8a6a11640b942@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:45e8a6a11640b942@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270127
 SUMMARY:梦幻广州长隆水上乐园演出-112
@@ -580,8 +580,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-07-27 至 2027-01-26
 END:VEVENT
 BEGIN:VEVENT
-UID:cfebb7aba21ec6db@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cfebb7aba21ec6db@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270127
 SUMMARY:经典广州上下九演出-118
@@ -589,8 +589,8 @@ LOCATION:上下九
 DESCRIPTION:广州上下九的精彩演出活动，适合亲子家庭参与。\n地点: 上下九\n时间: 2026-07-27 至 2027-01-26
 END:VEVENT
 BEGIN:VEVENT
-UID:f540b79f590b8f36@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f540b79f590b8f36@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270127
 SUMMARY:沉浸式广州广州博物馆展览-151
@@ -598,8 +598,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-07-27 至 2027-01-26
 END:VEVENT
 BEGIN:VEVENT
-UID:797fd8b62e5e4ab3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:797fd8b62e5e4ab3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270127
 SUMMARY:趣味广州长隆欢乐世界亲子活动-171
@@ -607,8 +607,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-07-27 至 2027-01-26
 END:VEVENT
 BEGIN:VEVENT
-UID:4b10386bd8fde710@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4b10386bd8fde710@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270127
 SUMMARY:漫游广州正佳极地海洋世界展览-199
@@ -616,8 +616,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-07-27 至 2027-01-26
 END:VEVENT
 BEGIN:VEVENT
-UID:b69b29593ccced53@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b69b29593ccced53@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20270127
 SUMMARY:家庭广州从化区讲座阅读研学营
@@ -625,8 +625,8 @@ LOCATION:广州从化区剧院
 DESCRIPTION:广州从化区的家庭讲座阅读研学营，适合亲子家庭参与。\n地点: 广州从化区剧院\n时间: 2026-07-27 至 2027-01-26
 END:VEVENT
 BEGIN:VEVENT
-UID:0110f855e84b71e5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0110f855e84b71e5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20261013
 SUMMARY:深度自然——2026广东美术馆儿童公共艺术季
@@ -634,8 +634,8 @@ LOCATION:广东美术馆（二沙岛本馆）
 DESCRIPTION:联动越秀区八所幼儿园打造的儿童公共艺术季，首次将户外雕塑园开拓成孩子共创现场。引导孩子探寻自然秩序与生命韵律，树立生态保护理念。配套自然工作坊、亲子共创活动。二沙岛本馆暑期不延时。\n地点: 广东美术馆（二沙岛本馆）\n时间: 2026-07-28 至 2026-10-12\n详情: https://www.nfnews.com/content/46Ndzk2eym.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5fb27879cce9981c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5fb27879cce9981c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260918
 SUMMARY:南越王博物院王宫展区暑期延长开放
@@ -643,8 +643,8 @@ LOCATION:南越王博物院
 DESCRIPTION:王宫展区暑期延长开放至18:00（17:00停止入场），免费开放。暑期推出文物修复、青铜器拓印等研学活动，可漫步'千年前的御花园'，读懂广州2200年变迁。\n地点: 南越王博物院\n时间: 2026-07-28 至 2026-09-17\n详情: https://www.yuewangmuseum.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:2e2c48ff62dd3a10@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2e2c48ff62dd3a10@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20270128
 SUMMARY:广州沙湾古镇展览-55
@@ -652,8 +652,8 @@ LOCATION:沙湾古镇
 DESCRIPTION:广州沙湾古镇的精彩展览活动，适合亲子家庭参与。\n地点: 沙湾古镇\n时间: 2026-07-28 至 2027-01-27
 END:VEVENT
 BEGIN:VEVENT
-UID:7b20a9be00dd1e2c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7b20a9be00dd1e2c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20270128
 SUMMARY:家庭广州广东美术馆亲子活动-62
@@ -661,8 +661,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-07-28 至 2027-01-27
 END:VEVENT
 BEGIN:VEVENT
-UID:cf22d0f38d14601d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cf22d0f38d14601d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20270128
 SUMMARY:解读广州余荫山房展览-144
@@ -670,8 +670,8 @@ LOCATION:余荫山房
 DESCRIPTION:广州余荫山房的精彩展览活动，适合亲子家庭参与。\n地点: 余荫山房\n时间: 2026-07-28 至 2027-01-27
 END:VEVENT
 BEGIN:VEVENT
-UID:6eb0f9f74003e47a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6eb0f9f74003e47a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20270128
 SUMMARY:探秘广州黄埔区演出月
@@ -679,8 +679,8 @@ LOCATION:广州黄埔区公园
 DESCRIPTION:广州黄埔区的探秘演出月，适合亲子家庭参与。\n地点: 广州黄埔区公园\n时间: 2026-07-28 至 2027-01-27
 END:VEVENT
 BEGIN:VEVENT
-UID:9848c00d3eb8df21@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9848c00d3eb8df21@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260929
 SUMMARY:悦读童行——广州图书馆儿童与青少年阅读攀登计划
@@ -688,8 +688,8 @@ LOCATION:广州图书馆
 DESCRIPTION:面向婴幼儿、儿童与青少年的分级阅读计划，含故事会、手工与阅读打卡，培养孩子阅读习惯，亲子暑期共同“攀登”书香。\n地点: 广州图书馆\n时间: 2026-07-29 至 2026-09-28\n详情: http://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction
 END:VEVENT
 BEGIN:VEVENT
-UID:89f6a7701b39dec2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:89f6a7701b39dec2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20270129
 SUMMARY:发现广州珠江公园展览-42
@@ -697,8 +697,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-07-29 至 2027-01-28
 END:VEVENT
 BEGIN:VEVENT
-UID:ceafb093839ab102@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ceafb093839ab102@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20270129
 SUMMARY:精彩广州华南植物园演出-136
@@ -706,8 +706,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-07-29 至 2027-01-28
 END:VEVENT
 BEGIN:VEVENT
-UID:28abeda4262d5b5f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:28abeda4262d5b5f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20270129
 SUMMARY:发现广州南沙区讲座阅读比赛
@@ -715,8 +715,8 @@ LOCATION:广州南沙区海洋馆
 DESCRIPTION:广州南沙区的发现讲座阅读比赛，适合亲子家庭参与。\n地点: 广州南沙区海洋馆\n时间: 2026-07-29 至 2027-01-28
 END:VEVENT
 BEGIN:VEVENT
-UID:3a967492c9344770@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3a967492c9344770@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260930
 SUMMARY:奇幻亲子音乐剧《绿野仙踪》暑期档
@@ -724,8 +724,8 @@ LOCATION:正佳大剧院
 DESCRIPTION:百老汇授权奇幻亲子音乐剧暑期再度登陆正佳大剧院，梦幻舞美与原创歌舞全场互动，寓教于乐打造高质量亲子陪伴，需购票。\n地点: 正佳大剧院\n时间: 2026-07-30 至 2026-09-29\n详情: https://www.xinruipiao.com/huajugeju/28092.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4627e89b12808b02@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4627e89b12808b02@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260830
 SUMMARY:岭南曲艺大舞台——2026广州市文化馆公益惠民系列活动
@@ -733,8 +733,8 @@ LOCATION:广州市文化馆
 DESCRIPTION:广州市文化馆7月惠民活动之一，邀讲师讲解“星腔”形成与背景，另有数字文化体验等公益场次，免费预约参与，亲子感受岭南曲艺。\n地点: 广州市文化馆\n时间: 2026-07-30 至 2026-08-29\n详情: https://wglj.gz.gov.cn/ggfw/whl/bywhhdpq/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:31c29c196cac894d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:31c29c196cac894d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260801
 SUMMARY:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》
@@ -742,8 +742,8 @@ LOCATION:广州大剧院
 DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-30 至 2026-07-31\n详情: http://www.gzdjy.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ea792e9918a636f9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ea792e9918a636f9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20270130
 SUMMARY:精彩广州从化区体育赛事节
@@ -751,8 +751,8 @@ LOCATION:广州从化区图书馆
 DESCRIPTION:广州从化区的精彩体育赛事节，适合亲子家庭参与。\n地点: 广州从化区图书馆\n时间: 2026-07-30 至 2027-01-29
 END:VEVENT
 BEGIN:VEVENT
-UID:a83a84fe0079f87f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a83a84fe0079f87f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20270131
 SUMMARY:广州广州少年儿童图书馆研学
@@ -760,8 +760,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-07-31 至 2027-01-30
 END:VEVENT
 BEGIN:VEVENT
-UID:fb0c30ccb3617347@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fb0c30ccb3617347@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20270131
 SUMMARY:走进广州广州海洋馆展览-138
@@ -769,8 +769,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-07-31 至 2027-01-30
 END:VEVENT
 BEGIN:VEVENT
-UID:29b3cf7b0a125785@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:29b3cf7b0a125785@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20270131
 SUMMARY:探秘广州海珠湖公园展览-163
@@ -778,8 +778,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-07-31 至 2027-01-30
 END:VEVENT
 BEGIN:VEVENT
-UID:941be665fbd45740@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:941be665fbd45740@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20270131
 SUMMARY:探索广州黄埔区亲子活动演出
@@ -787,8 +787,8 @@ LOCATION:广州黄埔区体育馆
 DESCRIPTION:广州黄埔区的探索亲子活动演出，适合亲子家庭参与。\n地点: 广州黄埔区体育馆\n时间: 2026-07-31 至 2027-01-30
 END:VEVENT
 BEGIN:VEVENT
-UID:197c5f9128556754@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:197c5f9128556754@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260901
 SUMMARY:科普广图·2026“探海无疆”系列科普活动
@@ -796,8 +796,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州图书馆暑期科普品牌，8月开展“探海无疆”等主题讲座与工作坊，邀请专家带青少年探索海洋科学，亲子共同涨知识。\n地点: 广州图书馆\n时间: 2026-08-01 至 2026-08-31\n详情: https://action.gzlib.org.cn/action/web/index.do
 END:VEVENT
 BEGIN:VEVENT
-UID:24a8ab5c04d8adfc@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:24a8ab5c04d8adfc@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260901
 SUMMARY:广州图书馆8月科普开放日
@@ -805,8 +805,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州图书馆8月科普开放日系列活动，设整点讲解与互动体验，带读者走近科学与阅读，免费参与，亲子暑期共同涨知识。\n地点: 广州图书馆\n时间: 2026-08-01 至 2026-08-31\n详情: https://action.gzlib.org.cn/action/web/index.do
 END:VEVENT
 BEGIN:VEVENT
-UID:6661ec93f75ea739@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6661ec93f75ea739@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:梦幻广州流花湖公园亲子活动
@@ -814,8 +814,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:71ce82d1c4f3bd25@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:71ce82d1c4f3bd25@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:青少年广州云台花园亲子活动-74
@@ -823,8 +823,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:18e04bbb2fe7c9ce@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:18e04bbb2fe7c9ce@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:实践广州广州动物园研学-77
@@ -832,8 +832,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:ae44bf449e1d2d4c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ae44bf449e1d2d4c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:体验广州白云山展览-127
@@ -841,8 +841,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:538acb87697fba0c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:538acb87697fba0c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:震撼广州广州图书馆演出-154
@@ -850,8 +850,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:ab5ae3668977f391@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ab5ae3668977f391@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:沉浸式广州从化区展览探索
@@ -859,8 +859,8 @@ LOCATION:广州从化区文化中心
 DESCRIPTION:广州从化区的沉浸式展览探索，适合亲子家庭参与。\n地点: 广州从化区文化中心\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:0666afc8bd5a6163@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0666afc8bd5a6163@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270201
 SUMMARY:趣味广州黄埔区展览展览
@@ -868,8 +868,8 @@ LOCATION:广州黄埔区动物园
 DESCRIPTION:广州黄埔区的趣味展览展览，适合亲子家庭参与。\n地点: 广州黄埔区动物园\n时间: 2026-08-01 至 2027-01-31
 END:VEVENT
 BEGIN:VEVENT
-UID:3227e34cdd7273bf@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3227e34cdd7273bf@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20270202
 SUMMARY:梦幻广州流花湖公园亲子活动-99
@@ -877,8 +877,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-08-02 至 2027-02-01
 END:VEVENT
 BEGIN:VEVENT
-UID:5dbac82db79e0259@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5dbac82db79e0259@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20270202
 SUMMARY:探秘广州南沙区演出月
@@ -886,8 +886,8 @@ LOCATION:广州南沙区科技馆
 DESCRIPTION:广州南沙区的探秘演出月，适合亲子家庭参与。\n地点: 广州南沙区科技馆\n时间: 2026-08-02 至 2027-02-01
 END:VEVENT
 BEGIN:VEVENT
-UID:b9531a252393967b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b9531a252393967b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20270202
 SUMMARY:暑期广州黄埔区亲子活动体验营
@@ -895,8 +895,8 @@ LOCATION:广州黄埔区体育场
 DESCRIPTION:广州黄埔区的暑期亲子活动体验营，适合亲子家庭参与。\n地点: 广州黄埔区体育场\n时间: 2026-08-02 至 2027-02-01
 END:VEVENT
 BEGIN:VEVENT
-UID:fa5e17ebef2a1617@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fa5e17ebef2a1617@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20270203
 SUMMARY:青少年广州云台花园亲子活动-104
@@ -904,8 +904,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-08-03 至 2027-02-02
 END:VEVENT
 BEGIN:VEVENT
-UID:df38e5c6ccb8758e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:df38e5c6ccb8758e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20270203
 SUMMARY:漫游广州增城区影视放映季
@@ -913,8 +913,8 @@ LOCATION:广州增城区美术馆
 DESCRIPTION:广州增城区的漫游影视放映季，适合亲子家庭参与。\n地点: 广州增城区美术馆\n时间: 2026-08-03 至 2027-02-02
 END:VEVENT
 BEGIN:VEVENT
-UID:1ade9e0fc8080003@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1ade9e0fc8080003@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20270204
 SUMMARY:广州广州少年儿童图书馆研学-95
@@ -922,8 +922,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-08-04 至 2027-02-03
 END:VEVENT
 BEGIN:VEVENT
-UID:611274898bc358cd@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:611274898bc358cd@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20270204
 SUMMARY:体验广州花都区讲座阅读嘉年华
@@ -931,8 +931,8 @@ LOCATION:广州花都区会展中心
 DESCRIPTION:广州花都区的体验讲座阅读嘉年华，适合亲子家庭参与。\n地点: 广州花都区会展中心\n时间: 2026-08-04 至 2027-02-03
 END:VEVENT
 BEGIN:VEVENT
-UID:14f7c211f5b7cecd@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:14f7c211f5b7cecd@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20270204
 SUMMARY:体验广州海珠区亲子活动嘉年华
@@ -940,8 +940,8 @@ LOCATION:广州海珠区科技馆
 DESCRIPTION:广州海珠区的体验亲子活动嘉年华，适合亲子家庭参与。\n地点: 广州海珠区科技馆\n时间: 2026-08-04 至 2027-02-03
 END:VEVENT
 BEGIN:VEVENT
-UID:172af2b0e744488d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:172af2b0e744488d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20270204
 SUMMARY:震撼广州天河区展览发现
@@ -949,8 +949,8 @@ LOCATION:广州天河区剧院
 DESCRIPTION:广州天河区的震撼展览发现，适合亲子家庭参与。\n地点: 广州天河区剧院\n时间: 2026-08-04 至 2027-02-03
 END:VEVENT
 BEGIN:VEVENT
-UID:9f6e95e00cb4f4f9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9f6e95e00cb4f4f9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20270204
 SUMMARY:暑期广州增城区讲座阅读体验营
@@ -958,8 +958,8 @@ LOCATION:广州增城区公园
 DESCRIPTION:广州增城区的暑期讲座阅读体验营，适合亲子家庭参与。\n地点: 广州增城区公园\n时间: 2026-08-04 至 2027-02-03
 END:VEVENT
 BEGIN:VEVENT
-UID:6215f467f4a7f864@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6215f467f4a7f864@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270805
 SUMMARY:花城百花开——广州非物质文化遗产展
@@ -967,8 +967,8 @@ LOCATION:广州市文化馆
 DESCRIPTION:中心阁展厅长期展出，分粤韵流芳、食在广州、岁时节庆等七大展区，系统展示广州非遗，免费预约进馆，亲子非遗启蒙首选。\n地点: 广州市文化馆\n时间: 2026-08-05 至 2027-08-04\n详情: https://m.df962388.com/news/354117.html
 END:VEVENT
 BEGIN:VEVENT
-UID:d00b076efe633b1a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d00b076efe633b1a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20261102
 SUMMARY:第三期广州之宝特展——羊城之夏
@@ -976,8 +976,8 @@ LOCATION:广州博物馆（镇海楼展区）
 DESCRIPTION:第三期广州之宝文物特展，以羊城之夏为主题。邹伯奇日冕钟、居廉越女采菱图扇面、广彩描金荔枝纹瓷盘等珍贵文物。地铁2号线越秀公园站。\n地点: 广州博物馆（镇海楼展区）\n时间: 2026-08-05 至 2026-11-01\n详情: https://www.163.com/dy/article/L1AAG8SS0523E4AV.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1d201b386e72d2e6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1d201b386e72d2e6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:震撼广州广州图书馆演出-34
@@ -985,8 +985,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:08d071c070b64662@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:08d071c070b64662@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:梦幻广州流花湖公园亲子活动-39
@@ -994,8 +994,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:1825703f3ce72ef8@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1825703f3ce72ef8@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:研学广州天河公园研学-161
@@ -1003,8 +1003,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:8fb07689cbf086e0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8fb07689cbf086e0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:青少年广州云台花园亲子活动-164
@@ -1012,8 +1012,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:3511532c61eadb13@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3511532c61eadb13@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:周末广州黄埔区影视放映活动
@@ -1021,8 +1021,8 @@ LOCATION:广州黄埔区剧院
 DESCRIPTION:广州黄埔区的周末影视放映活动，适合亲子家庭参与。\n地点: 广州黄埔区剧院\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:a3e2add5f7ddb98d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a3e2add5f7ddb98d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:周末广州从化区讲座阅读活动
@@ -1030,8 +1030,8 @@ LOCATION:广州从化区科技馆
 DESCRIPTION:广州从化区的周末讲座阅读活动，适合亲子家庭参与。\n地点: 广州从化区科技馆\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:2b5c0cb827087a8b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2b5c0cb827087a8b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270205
 SUMMARY:发现广州越秀区亲子活动比赛
@@ -1039,8 +1039,8 @@ LOCATION:广州越秀区科技馆
 DESCRIPTION:广州越秀区的发现亲子活动比赛，适合亲子家庭参与。\n地点: 广州越秀区科技馆\n时间: 2026-08-05 至 2027-02-04
 END:VEVENT
 BEGIN:VEVENT
-UID:fbd5fe9de97338ea@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fbd5fe9de97338ea@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270411
 SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术展
@@ -1048,8 +1048,8 @@ LOCATION:南越王博物院
 DESCRIPTION:180件/套古埃及文物亮相，167件/套首次在亚洲展出，将古埃及珍贵文物与南越文王墓出土珍品并置，展现两地文明交流互鉴。\n地点: 南越王博物院\n时间: 2026-08-06 至 2027-04-10\n详情: https://www.nanyuewang.org
 END:VEVENT
 BEGIN:VEVENT
-UID:6e9300fe4bee2351@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6e9300fe4bee2351@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270206
 SUMMARY:沉浸式广州广州博物馆展览
@@ -1057,8 +1057,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-08-06 至 2027-02-05
 END:VEVENT
 BEGIN:VEVENT
-UID:55f831df2154868f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:55f831df2154868f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270206
 SUMMARY:欢乐广州北京路亲子活动-57
@@ -1066,8 +1066,8 @@ LOCATION:北京路
 DESCRIPTION:广州北京路的精彩亲子活动活动，适合亲子家庭参与。\n地点: 北京路\n时间: 2026-08-06 至 2027-02-05
 END:VEVENT
 BEGIN:VEVENT
-UID:8fe689c501c54090@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8fe689c501c54090@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270206
 SUMMARY:漫游广州正佳极地海洋世界展览-169
@@ -1075,8 +1075,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-08-06 至 2027-02-05
 END:VEVENT
 BEGIN:VEVENT
-UID:d2590ea93ce24e8a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d2590ea93ce24e8a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270206
 SUMMARY:体验广州白云山展览-187
@@ -1084,8 +1084,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-08-06 至 2027-02-05
 END:VEVENT
 BEGIN:VEVENT
-UID:cc7f6dda0a1609e9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cc7f6dda0a1609e9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270206
 SUMMARY:精彩广州南沙区影视放映节
@@ -1093,8 +1093,8 @@ LOCATION:广州南沙区植物园
 DESCRIPTION:广州南沙区的精彩影视放映节，适合亲子家庭参与。\n地点: 广州南沙区植物园\n时间: 2026-08-06 至 2027-02-05
 END:VEVENT
 BEGIN:VEVENT
-UID:9f2cb50cea0c9c8f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9f2cb50cea0c9c8f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20270206
 SUMMARY:探秘广州天河区亲子活动月
@@ -1102,8 +1102,8 @@ LOCATION:广州天河区文化中心
 DESCRIPTION:广州天河区的探秘亲子活动月，适合亲子家庭参与。\n地点: 广州天河区文化中心\n时间: 2026-08-06 至 2027-02-05
 END:VEVENT
 BEGIN:VEVENT
-UID:13c9a6dadb2c1469@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:13c9a6dadb2c1469@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20270207
 SUMMARY:漫游广州正佳极地海洋世界展览-49
@@ -1111,8 +1111,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-08-07 至 2027-02-06
 END:VEVENT
 BEGIN:VEVENT
-UID:b44cd2bcf9540ecb@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b44cd2bcf9540ecb@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20270207
 SUMMARY:经典广州上下九演出-58
@@ -1120,8 +1120,8 @@ LOCATION:上下九
 DESCRIPTION:广州上下九的精彩演出活动，适合亲子家庭参与。\n地点: 上下九\n时间: 2026-08-07 至 2027-02-06
 END:VEVENT
 BEGIN:VEVENT
-UID:c680063cc3f35fe8@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c680063cc3f35fe8@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20270207
 SUMMARY:周末广州天河区展览活动
@@ -1129,8 +1129,8 @@ LOCATION:广州天河区博物馆
 DESCRIPTION:广州天河区的周末展览活动，适合亲子家庭参与。\n地点: 广州天河区博物馆\n时间: 2026-08-07 至 2027-02-06
 END:VEVENT
 BEGIN:VEVENT
-UID:33b0c89f34c37f80@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:33b0c89f34c37f80@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20270207
 SUMMARY:暑期广州白云区影视放映体验营
@@ -1138,8 +1138,8 @@ LOCATION:广州白云区文化中心
 DESCRIPTION:广州白云区的暑期影视放映体验营，适合亲子家庭参与。\n地点: 广州白云区文化中心\n时间: 2026-08-07 至 2027-02-06
 END:VEVENT
 BEGIN:VEVENT
-UID:4fa7415ea2b3aa40@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4fa7415ea2b3aa40@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260908
 SUMMARY:广州少年儿童图书馆2026年7月活动月历
@@ -1147,8 +1147,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:少儿馆7月活动月历涵盖绘本故事会、手工、志愿服务与主题阅读，按年龄分场报名，免费参与，亲子暑期阅读与动手实践。\n地点: 广州少年儿童图书馆\n时间: 2026-08-08 至 2026-09-07\n详情: https://www.gzst.org.cn/gzst/portal/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7856d02065fbd2f9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7856d02065fbd2f9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260924
 SUMMARY:广州艺术博物院艺术夏令营
@@ -1156,8 +1156,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:绘画、书法、陶艺等艺术课程，适合6-12岁儿童。\n地点: 广州艺术博物院\n时间: 2026-08-08 至 2026-09-23\n详情: https://www.gzam.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:9df32e5c05999179@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9df32e5c05999179@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20270208
 SUMMARY:研学广州天河公园研学-131
@@ -1165,8 +1165,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-08-08 至 2027-02-07
 END:VEVENT
 BEGIN:VEVENT
-UID:26c079f9fcfbe21c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:26c079f9fcfbe21c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20270208
 SUMMARY:广州广东省博物馆展览-150
@@ -1174,8 +1174,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-08-08 至 2027-02-07
 END:VEVENT
 BEGIN:VEVENT
-UID:3873cafb8b178f1f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3873cafb8b178f1f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20270208
 SUMMARY:梦幻广州黄埔区演出之旅
@@ -1183,8 +1183,8 @@ LOCATION:广州黄埔区文化中心
 DESCRIPTION:广州黄埔区的梦幻演出之旅，适合亲子家庭参与。\n地点: 广州黄埔区文化中心\n时间: 2026-08-08 至 2027-02-07
 END:VEVENT
 BEGIN:VEVENT
-UID:05e03441a20b8636@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:05e03441a20b8636@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260920
 SUMMARY:增城区图书馆暑期科学实验课
@@ -1192,8 +1192,8 @@ LOCATION:增城区图书馆
 DESCRIPTION:增城区图书馆暑期科学实验课，亲子科普讲座与动手实验，免费参加。\n地点: 增城区图书馆\n时间: 2026-08-09 至 2026-09-19\n详情: https://www.zclib.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:716dd05bf926b443@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:716dd05bf926b443@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20270209
 SUMMARY:探秘广州海珠湖公园展览-103
@@ -1201,8 +1201,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-08-09 至 2027-02-08
 END:VEVENT
 BEGIN:VEVENT
-UID:8f2533ac81fcde50@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8f2533ac81fcde50@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20270209
 SUMMARY:实践广州广州动物园研学-167
@@ -1210,8 +1210,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-08-09 至 2027-02-08
 END:VEVENT
 BEGIN:VEVENT
-UID:300eacd2a140b7a9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:300eacd2a140b7a9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20270209
 SUMMARY:梦幻广州长隆水上乐园演出-172
@@ -1219,8 +1219,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-08-09 至 2027-02-08
 END:VEVENT
 BEGIN:VEVENT
-UID:cd1f4731ecbedb6d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cd1f4731ecbedb6d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20270209
 SUMMARY:解读广州南沙区影视放映周
@@ -1228,8 +1228,8 @@ LOCATION:广州南沙区青少年宫
 DESCRIPTION:广州南沙区的解读影视放映周，适合亲子家庭参与。\n地点: 广州南沙区青少年宫\n时间: 2026-08-09 至 2027-02-08
 END:VEVENT
 BEGIN:VEVENT
-UID:c0019ccfbf2bf2f4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c0019ccfbf2bf2f4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20261002
 SUMMARY:广州动物园奇妙动物夜
@@ -1237,8 +1237,8 @@ LOCATION:广州动物园
 DESCRIPTION:夜间动物观察、动物行为讲座、亲子露营体验。\n地点: 广州动物园\n时间: 2026-08-10 至 2026-10-01\n详情: http://www.gzzoo.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:a3b9b186d17d1c7e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a3b9b186d17d1c7e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20270210
 SUMMARY:亲子广州永庆坊亲子活动
@@ -1246,8 +1246,8 @@ LOCATION:永庆坊
 DESCRIPTION:广州永庆坊的精彩亲子活动活动，适合亲子家庭参与。\n地点: 永庆坊\n时间: 2026-08-10 至 2027-02-09
 END:VEVENT
 BEGIN:VEVENT
-UID:5c5d575163ad8885@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5c5d575163ad8885@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20270210
 SUMMARY:奇妙广州广州艺术博物院亲子活动-33
@@ -1255,8 +1255,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-08-10 至 2027-02-09
 END:VEVENT
 BEGIN:VEVENT
-UID:c02a1321493f2a71@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c02a1321493f2a71@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20270211
 SUMMARY:体验广州白云山展览-157
@@ -1264,8 +1264,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-08-11 至 2027-02-10
 END:VEVENT
 BEGIN:VEVENT
-UID:64d5a86e464135f2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:64d5a86e464135f2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20270211
 SUMMARY:互动广州番禺区影视放映科普
@@ -1273,8 +1273,8 @@ LOCATION:广州番禺区公园
 DESCRIPTION:广州番禺区的互动影视放映科普，适合亲子家庭参与。\n地点: 广州番禺区公园\n时间: 2026-08-11 至 2027-02-10
 END:VEVENT
 BEGIN:VEVENT
-UID:5dc5ab276712302c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5dc5ab276712302c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20270211
 SUMMARY:探索广州番禺区讲座阅读演出
@@ -1282,8 +1282,8 @@ LOCATION:广州番禺区海洋馆
 DESCRIPTION:广州番禺区的探索讲座阅读演出，适合亲子家庭参与。\n地点: 广州番禺区海洋馆\n时间: 2026-08-11 至 2027-02-10
 END:VEVENT
 BEGIN:VEVENT
-UID:6237409132e9071c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6237409132e9071c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20270211
 SUMMARY:儿童广州从化区演出课程
@@ -1291,8 +1291,8 @@ LOCATION:广州从化区体育场
 DESCRIPTION:广州从化区的儿童演出课程，适合亲子家庭参与。\n地点: 广州从化区体育场\n时间: 2026-08-11 至 2027-02-10
 END:VEVENT
 BEGIN:VEVENT
-UID:5f1b816bf259fa99@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5f1b816bf259fa99@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20270212
 SUMMARY:精彩广州华南植物园演出-166
@@ -1300,8 +1300,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-08-12 至 2027-02-11
 END:VEVENT
 BEGIN:VEVENT
-UID:5e42212f801adec1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5e42212f801adec1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20270212
 SUMMARY:暑期广州番禺区体育赛事体验营
@@ -1309,8 +1309,8 @@ LOCATION:广州番禺区体育馆
 DESCRIPTION:广州番禺区的暑期体育赛事体验营，适合亲子家庭参与。\n地点: 广州番禺区体育馆\n时间: 2026-08-12 至 2027-02-11
 END:VEVENT
 BEGIN:VEVENT
-UID:04ba81b5eee7d18d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:04ba81b5eee7d18d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20270212
 SUMMARY:互动广州越秀区演出科普
@@ -1318,8 +1318,8 @@ LOCATION:广州越秀区会展中心
 DESCRIPTION:广州越秀区的互动演出科普，适合亲子家庭参与。\n地点: 广州越秀区会展中心\n时间: 2026-08-12 至 2027-02-11
 END:VEVENT
 BEGIN:VEVENT
-UID:a36265635fb7bb44@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a36265635fb7bb44@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20270213
 SUMMARY:家庭广州广东美术馆亲子活动-92
@@ -1327,8 +1327,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-08-13 至 2027-02-12
 END:VEVENT
 BEGIN:VEVENT
-UID:c8aa8bf3fd8b331b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c8aa8bf3fd8b331b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20270213
 SUMMARY:梦幻广州海珠区科普活动之旅
@@ -1336,8 +1336,8 @@ LOCATION:广州海珠区创意园
 DESCRIPTION:广州海珠区的梦幻科普活动之旅，适合亲子家庭参与。\n地点: 广州海珠区创意园\n时间: 2026-08-13 至 2027-02-12
 END:VEVENT
 BEGIN:VEVENT
-UID:01e00c519c863338@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:01e00c519c863338@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20270213
 SUMMARY:家庭广州天河区演出研学营
@@ -1345,8 +1345,8 @@ LOCATION:广州天河区动物园
 DESCRIPTION:广州天河区的家庭演出研学营，适合亲子家庭参与。\n地点: 广州天河区动物园\n时间: 2026-08-13 至 2027-02-12
 END:VEVENT
 BEGIN:VEVENT
-UID:9b3f2e328a885e2b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9b3f2e328a885e2b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20270213
 SUMMARY:探秘广州花都区影视放映月
@@ -1354,8 +1354,8 @@ LOCATION:广州花都区美术馆
 DESCRIPTION:广州花都区的探秘影视放映月，适合亲子家庭参与。\n地点: 广州花都区美术馆\n时间: 2026-08-13 至 2027-02-12
 END:VEVENT
 BEGIN:VEVENT
-UID:eb5775d0a65d75b7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:eb5775d0a65d75b7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260816
 SUMMARY:杨丽萍作品舞蹈剧场2026版《十面埋伏》
@@ -1363,8 +1363,8 @@ LOCATION:广州大剧院
 DESCRIPTION:杨丽萍巅峰力作舞蹈剧场2026版《十面埋伏》，融合京剧、武术、民乐、装置艺术。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-14 至 2026-08-15\n详情: http://www.gzdjy.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:04457716e5a844ee@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:04457716e5a844ee@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270214
 SUMMARY:广州广东省博物馆展览
@@ -1372,8 +1372,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-08-14 至 2027-02-13
 END:VEVENT
 BEGIN:VEVENT
-UID:9942a3e5a1d164f6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9942a3e5a1d164f6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270214
 SUMMARY:青少年广州云台花园亲子活动-44
@@ -1381,8 +1381,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-08-14 至 2027-02-13
 END:VEVENT
 BEGIN:VEVENT
-UID:858a32d4aef72f85@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:858a32d4aef72f85@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270214
 SUMMARY:发现广州珠江公园展览-72
@@ -1390,8 +1390,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-08-14 至 2027-02-13
 END:VEVENT
 BEGIN:VEVENT
-UID:095b44b5fe62a31c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:095b44b5fe62a31c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270214
 SUMMARY:震撼广州广州图书馆演出-94
@@ -1399,8 +1399,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-08-14 至 2027-02-13
 END:VEVENT
 BEGIN:VEVENT
-UID:03869601b26d7f8e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:03869601b26d7f8e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270214
 SUMMARY:漫游广州荔湾区亲子活动季
@@ -1408,8 +1408,8 @@ LOCATION:广州荔湾区文化中心
 DESCRIPTION:广州荔湾区的漫游亲子活动季，适合亲子家庭参与。\n地点: 广州荔湾区文化中心\n时间: 2026-08-14 至 2027-02-13
 END:VEVENT
 BEGIN:VEVENT
-UID:662525849bd07b27@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:662525849bd07b27@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270214
 SUMMARY:沉浸式广州天河区科普活动探索
@@ -1417,8 +1417,8 @@ LOCATION:广州天河区体育场
 DESCRIPTION:广州天河区的沉浸式科普活动探索，适合亲子家庭参与。\n地点: 广州天河区体育场\n时间: 2026-08-14 至 2027-02-13
 END:VEVENT
 BEGIN:VEVENT
-UID:8d9fb832b28c5f7e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8d9fb832b28c5f7e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270215
 SUMMARY:广东省博物馆岭南文化
@@ -1426,8 +1426,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广东历史文化展，潮州木雕端砚牙雕，岭南文化精华。\n地点: 广东省博物馆\n时间: 2026-08-15 至 2027-02-14
 END:VEVENT
 BEGIN:VEVENT
-UID:7f0af15a25972ea2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7f0af15a25972ea2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270215
 SUMMARY:震撼广州广州图书馆演出
@@ -1435,8 +1435,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-08-15 至 2027-02-14
 END:VEVENT
 BEGIN:VEVENT
-UID:58c0a05f328f8a96@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:58c0a05f328f8a96@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270215
 SUMMARY:发现广州珠江公园展览
@@ -1444,8 +1444,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-08-15 至 2027-02-14
 END:VEVENT
 BEGIN:VEVENT
-UID:2496f865f052e4d4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2496f865f052e4d4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270215
 SUMMARY:欢乐广州北京路亲子活动-87
@@ -1453,8 +1453,8 @@ LOCATION:北京路
 DESCRIPTION:广州北京路的精彩亲子活动活动，适合亲子家庭参与。\n地点: 北京路\n时间: 2026-08-15 至 2027-02-14
 END:VEVENT
 BEGIN:VEVENT
-UID:4e0eaa4d6d7ee5b6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4e0eaa4d6d7ee5b6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270215
 SUMMARY:经典广州上下九演出-148
@@ -1462,8 +1462,8 @@ LOCATION:上下九
 DESCRIPTION:广州上下九的精彩演出活动，适合亲子家庭参与。\n地点: 上下九\n时间: 2026-08-15 至 2027-02-14
 END:VEVENT
 BEGIN:VEVENT
-UID:3260da80cb2241d2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3260da80cb2241d2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270215
 SUMMARY:体验广州白云区讲座阅读嘉年华
@@ -1471,8 +1471,8 @@ LOCATION:广州白云区创意园
 DESCRIPTION:广州白云区的体验讲座阅读嘉年华，适合亲子家庭参与。\n地点: 广州白云区创意园\n时间: 2026-08-15 至 2027-02-14
 END:VEVENT
 BEGIN:VEVENT
-UID:68d89c9ad4e095b6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:68d89c9ad4e095b6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20270216
 SUMMARY:肠道小宇宙——肠道的奇妙冒险互动科学展
@@ -1480,8 +1480,8 @@ LOCATION:广东科学中心
 DESCRIPTION:源自全球畅销科普著作，由多国科学中心联合打造，以趣味互动揭秘人体微生物世界，2026年7月至2027年2月展出，亲子科普必看。\n地点: 广东科学中心\n时间: 2026-08-16 至 2027-02-15\n详情: http://gdsc.cn/cgnr/lz/
 END:VEVENT
 BEGIN:VEVENT
-UID:e8d2cfc9fe0eb5cf@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e8d2cfc9fe0eb5cf@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20270216
 SUMMARY:实践广州广州动物园研学-107
@@ -1489,8 +1489,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-08-16 至 2027-02-15
 END:VEVENT
 BEGIN:VEVENT
-UID:13bcef9ab398f255@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:13bcef9ab398f255@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20270216
 SUMMARY:解读广州越秀区亲子活动周
@@ -1498,8 +1498,8 @@ LOCATION:广州越秀区剧院
 DESCRIPTION:广州越秀区的解读亲子活动周，适合亲子家庭参与。\n地点: 广州越秀区剧院\n时间: 2026-08-16 至 2027-02-15
 END:VEVENT
 BEGIN:VEVENT
-UID:470827a247df40e5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:470827a247df40e5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20261018
 SUMMARY:广州动物园暑期研学活动
@@ -1507,8 +1507,8 @@ LOCATION:广州动物园
 DESCRIPTION:暑期推出动物科普研学活动，包括熊猫饲养员体验、珍稀动物保护讲座、夜间动物园探秘等，2026届高考生凭准考证享门票半价优惠。\n地点: 广州动物园\n时间: 2026-08-17 至 2026-10-17\n详情: https://www.gzoo.com
 END:VEVENT
 BEGIN:VEVENT
-UID:338379bf0f1a596f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:338379bf0f1a596f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260918
 SUMMARY:花都湖公园暑期灯光秀
@@ -1516,8 +1516,8 @@ LOCATION:花都湖公园
 DESCRIPTION:花都湖公园暑期灯光秀，夜间光影互动适合亲子游玩，免费开放。\n地点: 花都湖公园\n时间: 2026-08-17 至 2026-09-17\n详情: https://www.gzhd.gov.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:54f7cfbc0c293b80@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:54f7cfbc0c293b80@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20270217
 SUMMARY:发现广州珠江公园展览-162
@@ -1525,8 +1525,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-08-17 至 2027-02-16
 END:VEVENT
 BEGIN:VEVENT
-UID:5a66a635a90624c7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5a66a635a90624c7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20270217
 SUMMARY:探秘广州越秀区体育赛事月
@@ -1534,8 +1534,8 @@ LOCATION:广州越秀区会展中心
 DESCRIPTION:广州越秀区的探秘体育赛事月，适合亲子家庭参与。\n地点: 广州越秀区会展中心\n时间: 2026-08-17 至 2027-02-16
 END:VEVENT
 BEGIN:VEVENT
-UID:3ae07459a51228a2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3ae07459a51228a2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20270218
 SUMMARY:广州塔观光游乐
@@ -1543,8 +1543,8 @@ LOCATION:广州塔
 DESCRIPTION:中国第一高塔，433米观光，速降座椅，空中漫步。\n地点: 广州塔\n时间: 2026-08-18 至 2027-02-17
 END:VEVENT
 BEGIN:VEVENT
-UID:a8d5f13f1528e536@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a8d5f13f1528e536@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20261009
 SUMMARY:南沙图书馆暑期绘本工坊
@@ -1552,8 +1552,8 @@ LOCATION:南沙区图书馆
 DESCRIPTION:南沙区图书馆暑期绘本工坊，亲子共读与手工创作，免费参加。\n地点: 南沙区图书馆\n时间: 2026-08-18 至 2026-10-08\n详情: https://www.gznslib.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:a2a02ec7eb67469e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a2a02ec7eb67469e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20270218
 SUMMARY:漫游广州正佳极地海洋世界展览-139
@@ -1561,8 +1561,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-08-18 至 2027-02-17
 END:VEVENT
 BEGIN:VEVENT
-UID:e4c42f39a8355149@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e4c42f39a8355149@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20270218
 SUMMARY:亲子广州越秀区演出工作坊
@@ -1570,8 +1570,8 @@ LOCATION:广州越秀区图书馆
 DESCRIPTION:广州越秀区的亲子演出工作坊，适合亲子家庭参与。\n地点: 广州越秀区图书馆\n时间: 2026-08-18 至 2027-02-17
 END:VEVENT
 BEGIN:VEVENT
-UID:ead5e37baabd3256@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ead5e37baabd3256@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20270218
 SUMMARY:青少年广州天河区影视放映讲座
@@ -1579,8 +1579,8 @@ LOCATION:广州天河区会展中心
 DESCRIPTION:广州天河区的青少年影视放映讲座，适合亲子家庭参与。\n地点: 广州天河区会展中心\n时间: 2026-08-18 至 2027-02-17
 END:VEVENT
 BEGIN:VEVENT
-UID:281839c888a7903c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:281839c888a7903c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20270219
 SUMMARY:探索广州广州塔展览-96
@@ -1588,8 +1588,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-08-19 至 2027-02-18
 END:VEVENT
 BEGIN:VEVENT
-UID:0f86b4d9ead4eddf@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0f86b4d9ead4eddf@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20270219
 SUMMARY:广州麓湖公园亲子活动-165
@@ -1597,8 +1597,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-08-19 至 2027-02-18
 END:VEVENT
 BEGIN:VEVENT
-UID:85678a3f09ba059c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:85678a3f09ba059c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20270219
 SUMMARY:经典广州增城区展览探秘
@@ -1606,8 +1606,8 @@ LOCATION:广州增城区剧院
 DESCRIPTION:广州增城区的经典展览探秘，适合亲子家庭参与。\n地点: 广州增城区剧院\n时间: 2026-08-19 至 2027-02-18
 END:VEVENT
 BEGIN:VEVENT
-UID:22221e602ddc39e7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:22221e602ddc39e7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20261219
 SUMMARY:海丝门户——文物里的清代广州
@@ -1615,8 +1615,8 @@ LOCATION:广州博物馆（镇海楼展区）
 DESCRIPTION:海丝门户——文物里的清代广州展览，超过四分之一展品为近年新征集文物精品。知名外销画师庭呱全套广州港口风光作品。地铁2号线越秀公园站。\n地点: 广州博物馆（镇海楼展区）\n时间: 2026-08-20 至 2026-12-18\n详情: https://www.163.com/dy/article/L1AAG8SS0523E4AV.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e65da48beb8b80fa@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e65da48beb8b80fa@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20270220
 SUMMARY:走进广州南沙区科普活动日
@@ -1624,8 +1624,8 @@ LOCATION:广州南沙区文化中心
 DESCRIPTION:广州南沙区的走进科普活动日，适合亲子家庭参与。\n地点: 广州南沙区文化中心\n时间: 2026-08-20 至 2027-02-19
 END:VEVENT
 BEGIN:VEVENT
-UID:a2e6481328b3c09d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a2e6481328b3c09d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20270220
 SUMMARY:探索广州南沙区科普活动演出
@@ -1633,8 +1633,8 @@ LOCATION:广州南沙区公园
 DESCRIPTION:广州南沙区的探索科普活动演出，适合亲子家庭参与。\n地点: 广州南沙区公园\n时间: 2026-08-20 至 2027-02-19
 END:VEVENT
 BEGIN:VEVENT
-UID:7ced6ebb3ba306ae@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7ced6ebb3ba306ae@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20270220
 SUMMARY:暑期广州花都区展览体验营
@@ -1642,8 +1642,8 @@ LOCATION:广州花都区海洋馆
 DESCRIPTION:广州花都区的暑期展览体验营，适合亲子家庭参与。\n地点: 广州花都区海洋馆\n时间: 2026-08-20 至 2027-02-19
 END:VEVENT
 BEGIN:VEVENT
-UID:ed64e6a2a7df3c34@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ed64e6a2a7df3c34@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20270221
 SUMMARY:广州农讲所纪念馆
@@ -1651,8 +1651,8 @@ LOCATION:广州农民运动讲习所
 DESCRIPTION:毛泽东主办农民运动讲习所旧址，红色教育基地。\n地点: 广州农民运动讲习所\n时间: 2026-08-21 至 2027-02-20
 END:VEVENT
 BEGIN:VEVENT
-UID:695b758fc8a72b4d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:695b758fc8a72b4d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20270221
 SUMMARY:解读广州余荫山房展览
@@ -1660,8 +1660,8 @@ LOCATION:余荫山房
 DESCRIPTION:广州余荫山房的精彩展览活动，适合亲子家庭参与。\n地点: 余荫山房\n时间: 2026-08-21 至 2027-02-20
 END:VEVENT
 BEGIN:VEVENT
-UID:ce41541698a7c51d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ce41541698a7c51d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20270221
 SUMMARY:欢乐广州北京路亲子活动
@@ -1669,8 +1669,8 @@ LOCATION:北京路
 DESCRIPTION:广州北京路的精彩亲子活动活动，适合亲子家庭参与。\n地点: 北京路\n时间: 2026-08-21 至 2027-02-20
 END:VEVENT
 BEGIN:VEVENT
-UID:d986e5c9129e527d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d986e5c9129e527d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20270221
 SUMMARY:奇妙广州广州艺术博物院亲子活动-63
@@ -1678,8 +1678,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-08-21 至 2027-02-20
 END:VEVENT
 BEGIN:VEVENT
-UID:37c5da9f82a7c647@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:37c5da9f82a7c647@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20270221
 SUMMARY:研学广州天河公园研学-71
@@ -1687,8 +1687,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-08-21 至 2027-02-20
 END:VEVENT
 BEGIN:VEVENT
-UID:74d87e1f7c9e77a5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:74d87e1f7c9e77a5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20270222
 SUMMARY:广州荔湾湖公园演出
@@ -1696,8 +1696,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-08-22 至 2027-02-21
 END:VEVENT
 BEGIN:VEVENT
-UID:bd6abf12af7feab1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bd6abf12af7feab1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20270222
 SUMMARY:青少年广州云台花园亲子活动-194
@@ -1705,8 +1705,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-08-22 至 2027-02-21
 END:VEVENT
 BEGIN:VEVENT
-UID:be407edc08eae6d4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:be407edc08eae6d4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20270222
 SUMMARY:发现广州白云区亲子活动比赛
@@ -1714,8 +1714,8 @@ LOCATION:广州白云区艺术中心
 DESCRIPTION:广州白云区的发现亲子活动比赛，适合亲子家庭参与。\n地点: 广州白云区艺术中心\n时间: 2026-08-22 至 2027-02-21
 END:VEVENT
 BEGIN:VEVENT
-UID:49aa77f53ee5f134@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:49aa77f53ee5f134@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20270222
 SUMMARY:趣味广州越秀区体育赛事展览
@@ -1723,8 +1723,8 @@ LOCATION:广州越秀区文化中心
 DESCRIPTION:广州越秀区的趣味体育赛事展览，适合亲子家庭参与。\n地点: 广州越秀区文化中心\n时间: 2026-08-22 至 2027-02-21
 END:VEVENT
 BEGIN:VEVENT
-UID:31d3c95e865ddc98@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:31d3c95e865ddc98@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20270222
 SUMMARY:互动广州海珠区影视放映科普
@@ -1732,8 +1732,8 @@ LOCATION:广州海珠区剧院
 DESCRIPTION:广州海珠区的互动影视放映科普，适合亲子家庭参与。\n地点: 广州海珠区剧院\n时间: 2026-08-22 至 2027-02-21
 END:VEVENT
 BEGIN:VEVENT
-UID:d507887b36b6eee0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d507887b36b6eee0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20261024
 SUMMARY:广州图书馆暑期阅读嘉年华
@@ -1741,8 +1741,8 @@ LOCATION:广州图书馆
 DESCRIPTION:亲子阅读活动、作家见面会、绘本故事会。\n地点: 广州图书馆\n时间: 2026-08-23 至 2026-10-23\n详情: https://www.gzlib.org.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:6898725e1fee3ce6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6898725e1fee3ce6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:走进广州广州海洋馆展览-78
@@ -1750,8 +1750,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:ec8110cfca5d3919@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ec8110cfca5d3919@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:沉浸式广州花都区影视放映探索
@@ -1759,8 +1759,8 @@ LOCATION:广州花都区科技馆
 DESCRIPTION:广州花都区的沉浸式影视放映探索，适合亲子家庭参与。\n地点: 广州花都区科技馆\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:8a84e3fd3e500cde@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8a84e3fd3e500cde@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:儿童广州荔湾区演出课程
@@ -1768,8 +1768,8 @@ LOCATION:广州荔湾区动物园
 DESCRIPTION:广州荔湾区的儿童演出课程，适合亲子家庭参与。\n地点: 广州荔湾区动物园\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:833c678aff95fa9b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:833c678aff95fa9b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:亲子广州增城区展览工作坊
@@ -1777,8 +1777,8 @@ LOCATION:广州增城区海洋馆
 DESCRIPTION:广州增城区的亲子展览工作坊，适合亲子家庭参与。\n地点: 广州增城区海洋馆\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:5376a22f0c0d803a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5376a22f0c0d803a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:解读广州番禺区演出周
@@ -1786,8 +1786,8 @@ LOCATION:广州番禺区科技馆
 DESCRIPTION:广州番禺区的解读演出周，适合亲子家庭参与。\n地点: 广州番禺区科技馆\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:7d6a8157860afeb6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7d6a8157860afeb6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:周末广州白云区体育赛事活动
@@ -1795,8 +1795,8 @@ LOCATION:广州白云区体育馆
 DESCRIPTION:广州白云区的周末体育赛事活动，适合亲子家庭参与。\n地点: 广州白云区体育馆\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:5c7faaa9cf8fcda2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5c7faaa9cf8fcda2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270223
 SUMMARY:解读广州白云区科普活动周
@@ -1804,8 +1804,8 @@ LOCATION:广州白云区文化馆
 DESCRIPTION:广州白云区的解读科普活动周，适合亲子家庭参与。\n地点: 广州白云区文化馆\n时间: 2026-08-23 至 2027-02-22
 END:VEVENT
 BEGIN:VEVENT
-UID:c2004ab5085c0893@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c2004ab5085c0893@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20261025
 SUMMARY:沙滩乐园与戏水区域及消防科普体验
@@ -1813,8 +1813,8 @@ LOCATION:广州市儿童公园
 DESCRIPTION:沙滩乐园、戏水区域、消防科普体验馆、植物科普屋、无动力游乐设施，入园全免费。\n地点: 广州市儿童公园\n时间: 2026-08-24 至 2026-10-24\n详情: https://mp.weixin.qq.com/s?__biz=广州文旅
 END:VEVENT
 BEGIN:VEVENT
-UID:56e914b1cea80a48@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:56e914b1cea80a48@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20270224
 SUMMARY:体验广州白云山展览-97
@@ -1822,8 +1822,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-08-24 至 2027-02-23
 END:VEVENT
 BEGIN:VEVENT
-UID:699de96fecaf5082@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:699de96fecaf5082@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20270224
 SUMMARY:探索广州广州塔展览-126
@@ -1831,8 +1831,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-08-24 至 2027-02-23
 END:VEVENT
 BEGIN:VEVENT
-UID:50788449ed5d1b30@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:50788449ed5d1b30@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20270224
 SUMMARY:体验广州荔湾区展览嘉年华
@@ -1840,8 +1840,8 @@ LOCATION:广州荔湾区美术馆
 DESCRIPTION:广州荔湾区的体验展览嘉年华，适合亲子家庭参与。\n地点: 广州荔湾区美术馆\n时间: 2026-08-24 至 2027-02-23
 END:VEVENT
 BEGIN:VEVENT
-UID:fc97dede7582fb02@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fc97dede7582fb02@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20261026
 SUMMARY:岭南文物亲子导览与广彩剪纸非遗体验
@@ -1849,8 +1849,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:岭南文物亲子导览、广彩/剪纸非遗体验、海洋生物标本手工、古船模型搭建。\n地点: 广东省博物馆\n时间: 2026-08-25 至 2026-10-25\n详情: https://www.gdmuseum.com
 END:VEVENT
 BEGIN:VEVENT
-UID:20851c2ea4f44339@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:20851c2ea4f44339@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20270225
 SUMMARY:奇妙广州广州艺术博物院亲子活动-93
@@ -1858,8 +1858,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-08-25 至 2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:20bbdf24e608beed@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:20bbdf24e608beed@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20270225
 SUMMARY:探秘广州海珠湖公园展览-193
@@ -1867,8 +1867,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-08-25 至 2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:ee5bccf44effb3d2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ee5bccf44effb3d2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20270225
 SUMMARY:儿童广州花都区展览课程
@@ -1876,8 +1876,8 @@ LOCATION:广州花都区创意园
 DESCRIPTION:广州花都区的儿童展览课程，适合亲子家庭参与。\n地点: 广州花都区创意园\n时间: 2026-08-25 至 2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:e8bc00290e3ac05e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e8bc00290e3ac05e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20270225
 SUMMARY:探秘广州白云区讲座阅读月
@@ -1885,8 +1885,8 @@ LOCATION:广州白云区动物园
 DESCRIPTION:广州白云区的探秘讲座阅读月，适合亲子家庭参与。\n地点: 广州白云区动物园\n时间: 2026-08-25 至 2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:998635c05d1f1f82@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:998635c05d1f1f82@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20270225
 SUMMARY:发现广州海珠区展览比赛
@@ -1894,8 +1894,8 @@ LOCATION:广州海珠区青少年宫
 DESCRIPTION:广州海珠区的发现展览比赛，适合亲子家庭参与。\n地点: 广州海珠区青少年宫\n时间: 2026-08-25 至 2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:dd3178848fea3160@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:dd3178848fea3160@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20270225
 SUMMARY:走进广州黄埔区科普活动日
@@ -1903,8 +1903,8 @@ LOCATION:广州黄埔区博物馆
 DESCRIPTION:广州黄埔区的走进科普活动日，适合亲子家庭参与。\n地点: 广州黄埔区博物馆\n时间: 2026-08-25 至 2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:6627e5a69e0e89fb@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6627e5a69e0e89fb@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:白云山摩星岭
@@ -1912,8 +1912,8 @@ LOCATION:白云山风景名胜区
 DESCRIPTION:羊城第一峰，登高望远，俯瞰广州城，摩星岭祈福。\n地点: 白云山风景名胜区\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:f44880083b3700a0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f44880083b3700a0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:广州起义纪念馆
@@ -1921,8 +1921,8 @@ LOCATION:广州起义纪念馆
 DESCRIPTION:广州起义历史，广州苏维埃政府旧址，红色文化。\n地点: 广州起义纪念馆\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:75b015fa07831004@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:75b015fa07831004@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:体验广州天河城研学
@@ -1930,8 +1930,8 @@ LOCATION:天河城
 DESCRIPTION:广州天河城的精彩研学活动，适合亲子家庭参与。\n地点: 天河城\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:66cf2a9aa3cc6d09@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:66cf2a9aa3cc6d09@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:趣味广州长隆欢乐世界亲子活动-51
@@ -1939,8 +1939,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea24ccc36eb4a6d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1ea24ccc36eb4a6d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:广州沙湾古镇展览-85
@@ -1948,8 +1948,8 @@ LOCATION:沙湾古镇
 DESCRIPTION:广州沙湾古镇的精彩展览活动，适合亲子家庭参与。\n地点: 沙湾古镇\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:7260d2f5b8f9a263@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7260d2f5b8f9a263@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:亲子广州永庆坊亲子活动-146
@@ -1957,8 +1957,8 @@ LOCATION:永庆坊
 DESCRIPTION:广州永庆坊的精彩亲子活动活动，适合亲子家庭参与。\n地点: 永庆坊\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:c813741008bd02ad@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c813741008bd02ad@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:广州长隆野生动物世界亲子活动-200
@@ -1966,8 +1966,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:515c5c6426b85741@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:515c5c6426b85741@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:青少年广州黄埔区体育赛事讲座
@@ -1975,8 +1975,8 @@ LOCATION:广州黄埔区公园
 DESCRIPTION:广州黄埔区的青少年体育赛事讲座，适合亲子家庭参与。\n地点: 广州黄埔区公园\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:2345c4b1dad09c31@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2345c4b1dad09c31@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20270226
 SUMMARY:暑期广州荔湾区演出体验营
@@ -1984,8 +1984,8 @@ LOCATION:广州荔湾区创意园
 DESCRIPTION:广州荔湾区的暑期演出体验营，适合亲子家庭参与。\n地点: 广州荔湾区创意园\n时间: 2026-08-26 至 2027-02-25
 END:VEVENT
 BEGIN:VEVENT
-UID:218f441d15570e7e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:218f441d15570e7e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20261028
 SUMMARY:肠道小宇宙——肠道的奇妙冒险互动体验科学展
@@ -1993,8 +1993,8 @@ LOCATION:广东科学中心
 DESCRIPTION:法国引进的现象级互动展，通过沉浸式体验和科学互动装置，探索人体肠道的奥秘。\n地点: 广东科学中心\n时间: 2026-08-27 至 2026-10-27\n详情: https://m.sohu.com/a/1048387246_222493/
 END:VEVENT
 BEGIN:VEVENT
-UID:5aa655ff6d17eb20@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5aa655ff6d17eb20@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270227
 SUMMARY:体验广州天河城研学-119
@@ -2002,8 +2002,8 @@ LOCATION:天河城
 DESCRIPTION:广州天河城的精彩研学活动，适合亲子家庭参与。\n地点: 天河城\n时间: 2026-08-27 至 2027-02-26
 END:VEVENT
 BEGIN:VEVENT
-UID:1d490b90508bc9ce@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1d490b90508bc9ce@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270227
 SUMMARY:探索广州广州塔展览-186
@@ -2011,8 +2011,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-08-27 至 2027-02-26
 END:VEVENT
 BEGIN:VEVENT
-UID:fa20cdf75515722e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fa20cdf75515722e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270227
 SUMMARY:周末广州海珠区演出活动
@@ -2020,8 +2020,8 @@ LOCATION:广州海珠区会展中心
 DESCRIPTION:广州海珠区的周末演出活动，适合亲子家庭参与。\n地点: 广州海珠区会展中心\n时间: 2026-08-27 至 2027-02-26
 END:VEVENT
 BEGIN:VEVENT
-UID:77bb7accbb51bc46@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:77bb7accbb51bc46@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270227
 SUMMARY:走进广州增城区影视放映日
@@ -2029,8 +2029,8 @@ LOCATION:广州增城区体育场
 DESCRIPTION:广州增城区的走进影视放映日，适合亲子家庭参与。\n地点: 广州增城区体育场\n时间: 2026-08-27 至 2027-02-26
 END:VEVENT
 BEGIN:VEVENT
-UID:7e063c1612dfe8d7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7e063c1612dfe8d7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270227
 SUMMARY:走进广州花都区演出日
@@ -2038,8 +2038,8 @@ LOCATION:广州花都区艺术中心
 DESCRIPTION:广州花都区的走进演出日，适合亲子家庭参与。\n地点: 广州花都区艺术中心\n时间: 2026-08-27 至 2027-02-26
 END:VEVENT
 BEGIN:VEVENT
-UID:7e4169859cc07a6f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7e4169859cc07a6f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270227
 SUMMARY:梦幻广州从化区展览之旅
@@ -2047,8 +2047,8 @@ LOCATION:广州从化区公园
 DESCRIPTION:广州从化区的梦幻展览之旅，适合亲子家庭参与。\n地点: 广州从化区公园\n时间: 2026-08-27 至 2027-02-26
 END:VEVENT
 BEGIN:VEVENT
-UID:31c0a4d1dbb74f71@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:31c0a4d1dbb74f71@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20261029
 SUMMARY:岭南民俗免费展览与周末剪纸广彩公益体验
@@ -2056,8 +2056,8 @@ LOCATION:永庆坊（西关非遗街区）
 DESCRIPTION:岭南民俗免费展览、周末剪纸/广彩公益体验、少儿粤剧露天演出、古建筑亲子导览。\n地点: 永庆坊（西关非遗街区）\n时间: 2026-08-28 至 2026-10-28\n详情: https://mp.weixin.qq.com/s?__biz=永庆坊
 END:VEVENT
 BEGIN:VEVENT
-UID:e85ac9d0d7e94b6f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e85ac9d0d7e94b6f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270228
 SUMMARY:梦幻广州长隆水上乐园演出-52
@@ -2065,8 +2065,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-08-28 至 2027-02-27
 END:VEVENT
 BEGIN:VEVENT
-UID:79a27d66be3f5f3e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:79a27d66be3f5f3e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270228
 SUMMARY:儿童广州越秀公园亲子活动-98
@@ -2074,8 +2074,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-08-28 至 2027-02-27
 END:VEVENT
 BEGIN:VEVENT
-UID:88f70c2d85f80213@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:88f70c2d85f80213@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270228
 SUMMARY:广州荔湾湖公园演出-130
@@ -2083,8 +2083,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-08-28 至 2027-02-27
 END:VEVENT
 BEGIN:VEVENT
-UID:3189b58346a268e2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3189b58346a268e2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270228
 SUMMARY:震撼广州广州图书馆演出-184
@@ -2092,8 +2092,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-08-28 至 2027-02-27
 END:VEVENT
 BEGIN:VEVENT
-UID:f35b883748cc0bb0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f35b883748cc0bb0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270228
 SUMMARY:沉浸式广州越秀区讲座阅读探索
@@ -2101,8 +2101,8 @@ LOCATION:广州越秀区体育馆
 DESCRIPTION:广州越秀区的沉浸式讲座阅读探索，适合亲子家庭参与。\n地点: 广州越秀区体育馆\n时间: 2026-08-28 至 2027-02-27
 END:VEVENT
 BEGIN:VEVENT
-UID:78cbb1152e36d04d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:78cbb1152e36d04d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270228
 SUMMARY:青少年广州荔湾区体育赛事讲座
@@ -2110,8 +2110,8 @@ LOCATION:广州荔湾区剧院
 DESCRIPTION:广州荔湾区的青少年体育赛事讲座，适合亲子家庭参与。\n地点: 广州荔湾区剧院\n时间: 2026-08-28 至 2027-02-27
 END:VEVENT
 BEGIN:VEVENT
-UID:a6655fc1765bc653@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a6655fc1765bc653@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20270301
 SUMMARY:增城白水寨瀑布
@@ -2119,8 +2119,8 @@ LOCATION:白水寨风景名胜区
 DESCRIPTION:中国大陆落差最大瀑布，9999级天南第一梯，亲水栈道。\n地点: 白水寨风景名胜区\n时间: 2026-08-29 至 2027-02-28
 END:VEVENT
 BEGIN:VEVENT
-UID:cab529ebecfc86c1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cab529ebecfc86c1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20270307
 SUMMARY:星火启程——从农讲所到天安门
@@ -2128,8 +2128,8 @@ LOCATION:毛泽东同志主办农民运动讲习所旧址纪念馆
 DESCRIPTION:通过珍贵文物、历史照片和文献资料，展现从农民运动讲习所到新中国成立的革命历程，讲述中国共产党领导人民进行革命斗争的故事。\n地点: 毛泽东同志主办农民运动讲习所旧址纪念馆\n时间: 2026-08-29 至 2027-03-06\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20a401597dbfeb3f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:20a401597dbfeb3f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
 SUMMARY:陕西人艺茅奖系列话剧《主角》
@@ -2137,8 +2137,8 @@ LOCATION:广州大剧院
 DESCRIPTION:陕西人艺茅奖系列话剧《主角》，根据陈彦同名小说改编，讲述秦腔名伶忆秦娥的传奇人生。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-08-29 至 2026-08-30\n详情: http://www.gzdjy.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:abc1974ae0ae0602@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:abc1974ae0ae0602@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20270301
 SUMMARY:体验广州天河城研学-149
@@ -2146,8 +2146,8 @@ LOCATION:天河城
 DESCRIPTION:广州天河城的精彩研学活动，适合亲子家庭参与。\n地点: 天河城\n时间: 2026-08-29 至 2027-02-28
 END:VEVENT
 BEGIN:VEVENT
-UID:52c09be878e279b1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:52c09be878e279b1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20270301
 SUMMARY:走进广州白云区展览日
@@ -2155,8 +2155,8 @@ LOCATION:广州白云区美术馆
 DESCRIPTION:广州白云区的走进展览日，适合亲子家庭参与。\n地点: 广州白云区美术馆\n时间: 2026-08-29 至 2027-02-28
 END:VEVENT
 BEGIN:VEVENT
-UID:da02991548f759ed@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:da02991548f759ed@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20270301
 SUMMARY:经典广州南沙区体育赛事探秘
@@ -2164,8 +2164,8 @@ LOCATION:广州南沙区体育场
 DESCRIPTION:广州南沙区的经典体育赛事探秘，适合亲子家庭参与。\n地点: 广州南沙区体育场\n时间: 2026-08-29 至 2027-02-28
 END:VEVENT
 BEGIN:VEVENT
-UID:180e410f65781e02@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:180e410f65781e02@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:一念敦煌——石窟艺术大展
@@ -2173,8 +2173,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:一念敦煌石窟艺术大展，1号馆。暑期夜场延长至20:30。地铁5号线小北站。\n地点: 广州艺术博物院\n时间: 2026-08-30 至 2027-03-01\n详情: https://www.nfnews.com/content/46Ndzk2eym.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0d83a4b7907bd734@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0d83a4b7907bd734@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:广州广东省博物馆展览-30
@@ -2182,8 +2182,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-08-30 至 2027-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:c8ca9b6232cf4687@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c8ca9b6232cf4687@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:走进广州广州海洋馆展览-48
@@ -2191,8 +2191,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-08-30 至 2027-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:fa016cbf9aaff9c4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fa016cbf9aaff9c4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:欢乐广州北京路亲子活动-147
@@ -2200,8 +2200,8 @@ LOCATION:北京路
 DESCRIPTION:广州北京路的精彩亲子活动活动，适合亲子家庭参与。\n地点: 北京路\n时间: 2026-08-30 至 2027-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:cd4077234913356c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cd4077234913356c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:震撼广州荔湾区讲座阅读发现
@@ -2209,8 +2209,8 @@ LOCATION:广州荔湾区植物园
 DESCRIPTION:广州荔湾区的震撼讲座阅读发现，适合亲子家庭参与。\n地点: 广州荔湾区植物园\n时间: 2026-08-30 至 2027-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:7d0c6c59d00cd84a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7d0c6c59d00cd84a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:趣味广州增城区科普活动展览
@@ -2218,8 +2218,8 @@ LOCATION:广州增城区科技馆
 DESCRIPTION:广州增城区的趣味科普活动展览，适合亲子家庭参与。\n地点: 广州增城区科技馆\n时间: 2026-08-30 至 2027-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:a8513468cdd4dbe9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a8513468cdd4dbe9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20270302
 SUMMARY:精彩广州天河区展览节
@@ -2227,8 +2227,8 @@ LOCATION:广州天河区科技馆
 DESCRIPTION:广州天河区的精彩展览节，适合亲子家庭参与。\n地点: 广州天河区科技馆\n时间: 2026-08-30 至 2027-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:5c15475127d7eac6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5c15475127d7eac6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:流花湖公园
@@ -2236,8 +2236,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州市中心的绿洲，玫瑰园，浮丘，观鸟胜地。\n地点: 流花湖公园\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:68cc9dbce1410c03@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:68cc9dbce1410c03@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:探索广州广州塔展览
@@ -2245,8 +2245,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:db5fa92f9f450c21@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:db5fa92f9f450c21@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:沉浸式广州广州博物馆展览-31
@@ -2254,8 +2254,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:244a4b659a62e920@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:244a4b659a62e920@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:广州麓湖公园亲子活动-75
@@ -2263,8 +2263,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:66d7cac588d44875@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:66d7cac588d44875@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:儿童广州越秀公园亲子活动-158
@@ -2272,8 +2272,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:deb43c9e08f967aa@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:deb43c9e08f967aa@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:梦幻广州流花湖公园亲子活动-159
@@ -2281,8 +2281,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:c98432e6582e28ba@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c98432e6582e28ba@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:震撼广州越秀区科普活动发现
@@ -2290,8 +2290,8 @@ LOCATION:广州越秀区动物园
 DESCRIPTION:广州越秀区的震撼科普活动发现，适合亲子家庭参与。\n地点: 广州越秀区动物园\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:642f5feb56baf20d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:642f5feb56baf20d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:探索广州天河区体育赛事演出
@@ -2299,8 +2299,8 @@ LOCATION:广州天河区博物馆
 DESCRIPTION:广州天河区的探索体育赛事演出，适合亲子家庭参与。\n地点: 广州天河区博物馆\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:cffe8752f106850a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cffe8752f106850a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20270303
 SUMMARY:漫游广州番禺区影视放映季
@@ -2308,8 +2308,8 @@ LOCATION:广州番禺区植物园
 DESCRIPTION:广州番禺区的漫游影视放映季，适合亲子家庭参与。\n地点: 广州番禺区植物园\n时间: 2026-08-31 至 2027-03-02
 END:VEVENT
 BEGIN:VEVENT
-UID:05f1ec7d6f6f28a6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:05f1ec7d6f6f28a6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270304
 SUMMARY:南沙湿地观鸟
@@ -2317,8 +2317,8 @@ LOCATION:南沙湿地公园
 DESCRIPTION:候鸟栖息地，湿地游船，红树林生态，自然科普。\n地点: 南沙湿地公园\n时间: 2026-09-01 至 2027-03-03
 END:VEVENT
 BEGIN:VEVENT
-UID:d4bca930b1109d20@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d4bca930b1109d20@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261102
 SUMMARY:花都区图书馆暑期阅读节
@@ -2326,8 +2326,8 @@ LOCATION:花都区图书馆
 DESCRIPTION:花都区图书馆暑期阅读节，含主题书展、阅读打卡与亲子故事会，免费需预约。\n地点: 花都区图书馆\n时间: 2026-09-01 至 2026-11-01\n详情: https://www.gzhdlib.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:e9e348c2196c41b7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e9e348c2196c41b7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270304
 SUMMARY:趣味广州长隆欢乐世界亲子活动-111
@@ -2335,8 +2335,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-09-01 至 2027-03-03
 END:VEVENT
 BEGIN:VEVENT
-UID:ce30961a76c5244f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ce30961a76c5244f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270304
 SUMMARY:实践广州广州动物园研学-197
@@ -2344,8 +2344,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-09-01 至 2027-03-03
 END:VEVENT
 BEGIN:VEVENT
-UID:4ff86446bf6e1295@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4ff86446bf6e1295@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270304
 SUMMARY:梦幻广州白云区讲座阅读之旅
@@ -2353,8 +2353,8 @@ LOCATION:广州白云区青少年宫
 DESCRIPTION:广州白云区的梦幻讲座阅读之旅，适合亲子家庭参与。\n地点: 广州白云区青少年宫\n时间: 2026-09-01 至 2027-03-03
 END:VEVENT
 BEGIN:VEVENT
-UID:c1424aa2719c83b1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c1424aa2719c83b1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20270304
 SUMMARY:经典广州荔湾区科普活动探秘
@@ -2362,8 +2362,8 @@ LOCATION:广州荔湾区图书馆
 DESCRIPTION:广州荔湾区的经典科普活动探秘，适合亲子家庭参与。\n地点: 广州荔湾区图书馆\n时间: 2026-09-01 至 2027-03-03
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea9b4113a95fbd4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1ea9b4113a95fbd4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20270305
 SUMMARY:广州麓湖公园亲子活动-135
@@ -2371,8 +2371,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-09-02 至 2027-03-04
 END:VEVENT
 BEGIN:VEVENT
-UID:542588b90b8dedee@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:542588b90b8dedee@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20270305
 SUMMARY:解读广州增城区演出周
@@ -2380,8 +2380,8 @@ LOCATION:广州增城区艺术中心
 DESCRIPTION:广州增城区的解读演出周，适合亲子家庭参与。\n地点: 广州增城区艺术中心\n时间: 2026-09-02 至 2027-03-04
 END:VEVENT
 BEGIN:VEVENT
-UID:63b7ddcd1eb67290@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:63b7ddcd1eb67290@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20270305
 SUMMARY:漫游广州天河区体育赛事季
@@ -2389,8 +2389,8 @@ LOCATION:广州天河区创意园
 DESCRIPTION:广州天河区的漫游体育赛事季，适合亲子家庭参与。\n地点: 广州天河区创意园\n时间: 2026-09-02 至 2027-03-04
 END:VEVENT
 BEGIN:VEVENT
-UID:aa5b1fd0c3713163@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:aa5b1fd0c3713163@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20270305
 SUMMARY:周末广州花都区体育赛事活动
@@ -2398,8 +2398,8 @@ LOCATION:广州花都区植物园
 DESCRIPTION:广州花都区的周末体育赛事活动，适合亲子家庭参与。\n地点: 广州花都区植物园\n时间: 2026-09-02 至 2027-03-04
 END:VEVENT
 BEGIN:VEVENT
-UID:0bb01200f474106c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0bb01200f474106c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20270305
 SUMMARY:互动广州白云区演出科普
@@ -2407,8 +2407,8 @@ LOCATION:广州白云区海洋馆
 DESCRIPTION:广州白云区的互动演出科普，适合亲子家庭参与。\n地点: 广州白云区海洋馆\n时间: 2026-09-02 至 2027-03-04
 END:VEVENT
 BEGIN:VEVENT
-UID:d92d972045005ca9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d92d972045005ca9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20270306
 SUMMARY:珠江公园花城广场
@@ -2416,8 +2416,8 @@ LOCATION:珠江公园
 DESCRIPTION:CBD中央公园，快绿湖，园林景观，城市绿肺。\n地点: 珠江公园\n时间: 2026-09-03 至 2027-03-05
 END:VEVENT
 BEGIN:VEVENT
-UID:64eb62b5c64af65f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:64eb62b5c64af65f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20261204
 SUMMARY:南沙湿地候鸟观察季
@@ -2425,8 +2425,8 @@ LOCATION:南沙湿地景区
 DESCRIPTION:南沙湿地景区候鸟观察季，亲子观鸟与自然科普活动，景区收费。\n地点: 南沙湿地景区\n时间: 2026-09-03 至 2026-12-03\n详情: https://www.nssd.com.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:961fdcc9115a7566@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:961fdcc9115a7566@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20270306
 SUMMARY:儿童广州越秀公园亲子活动
@@ -2434,8 +2434,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-09-03 至 2027-03-05
 END:VEVENT
 BEGIN:VEVENT
-UID:329dd654164a843b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:329dd654164a843b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20270306
 SUMMARY:广州长隆野生动物世界亲子活动-50
@@ -2443,8 +2443,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-09-03 至 2027-03-05
 END:VEVENT
 BEGIN:VEVENT
-UID:ab95c24bd3fdb0d4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ab95c24bd3fdb0d4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20270306
 SUMMARY:经典广州越秀区展览探秘
@@ -2452,8 +2452,8 @@ LOCATION:广州越秀区公园
 DESCRIPTION:广州越秀区的经典展览探秘，适合亲子家庭参与。\n地点: 广州越秀区公园\n时间: 2026-09-03 至 2027-03-05
 END:VEVENT
 BEGIN:VEVENT
-UID:956cf2bcd025dc6e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:956cf2bcd025dc6e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20270306
 SUMMARY:梦幻广州花都区影视放映之旅
@@ -2461,8 +2461,8 @@ LOCATION:广州花都区体育馆
 DESCRIPTION:广州花都区的梦幻影视放映之旅，适合亲子家庭参与。\n地点: 广州花都区体育馆\n时间: 2026-09-03 至 2027-03-05
 END:VEVENT
 BEGIN:VEVENT
-UID:cba87bd7987a7d58@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cba87bd7987a7d58@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261223
 SUMMARY:文艺复兴的交响：格拉斯哥博物馆藏大师作品展
@@ -2470,8 +2470,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:汇集格拉斯哥博物馆藏文艺复兴时期大师作品，包括意大利、佛兰德斯、荷兰等画派名家真迹。\n地点: 广东省博物馆\n时间: 2026-09-04 至 2026-12-22\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8622e8e4639ca2e3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8622e8e4639ca2e3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261026
 SUMMARY:广州动物园暑假夜游（盘龙苑·广州海洋馆）
@@ -2479,8 +2479,8 @@ LOCATION:广州动物园
 DESCRIPTION:暑假17:00-21:00开放夜游，串联盘龙苑与广州海洋馆，可赏夜间动物与海洋生物，需购票，亲子避暑夜探动物园奇妙夜。\n地点: 广州动物园\n时间: 2026-09-04 至 2026-10-25\n详情: https://mp.weixin.qq.com/s?__biz=MzA3MTQwMTE5Mw==&mid=2648751229&idx=1&sn=0c6d070eee7c7271c0f0cca7272d4413&chksm=86905d01adb8c409aa05a88708696c6f99dede25870833f8c596fbed14f0120ae881e5144f5a&scene=27
 END:VEVENT
 BEGIN:VEVENT
-UID:bbb071800d60c675@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bbb071800d60c675@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20270307
 SUMMARY:广州麓湖公园亲子活动-45
@@ -2488,8 +2488,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-09-04 至 2027-03-06
 END:VEVENT
 BEGIN:VEVENT
-UID:f38c1744ecf5064e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f38c1744ecf5064e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20270307
 SUMMARY:广州麓湖公园亲子活动-105
@@ -2497,8 +2497,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-09-04 至 2027-03-06
 END:VEVENT
 BEGIN:VEVENT
-UID:f27365270780148b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f27365270780148b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20270307
 SUMMARY:互动广州增城区展览科普
@@ -2506,8 +2506,8 @@ LOCATION:广州增城区博物馆
 DESCRIPTION:广州增城区的互动展览科普，适合亲子家庭参与。\n地点: 广州增城区博物馆\n时间: 2026-09-04 至 2027-03-06
 END:VEVENT
 BEGIN:VEVENT
-UID:c838162429b82438@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c838162429b82438@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20270307
 SUMMARY:体验广州番禺区科普活动嘉年华
@@ -2515,8 +2515,8 @@ LOCATION:广州番禺区文化中心
 DESCRIPTION:广州番禺区的体验科普活动嘉年华，适合亲子家庭参与。\n地点: 广州番禺区文化中心\n时间: 2026-09-04 至 2027-03-06
 END:VEVENT
 BEGIN:VEVENT
-UID:8875b4093dfff2bc@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8875b4093dfff2bc@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20270307
 SUMMARY:青少年广州增城区演出讲座
@@ -2524,8 +2524,8 @@ LOCATION:广州增城区青少年宫
 DESCRIPTION:广州增城区的青少年演出讲座，适合亲子家庭参与。\n地点: 广州增城区青少年宫\n时间: 2026-09-04 至 2027-03-06
 END:VEVENT
 BEGIN:VEVENT
-UID:7db75c80d3a1f346@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7db75c80d3a1f346@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20270308
 SUMMARY:儿童广州天河区科普活动课程
@@ -2533,8 +2533,8 @@ LOCATION:广州天河区体育馆
 DESCRIPTION:广州天河区的儿童科普活动课程，适合亲子家庭参与。\n地点: 广州天河区体育馆\n时间: 2026-09-05 至 2027-03-07
 END:VEVENT
 BEGIN:VEVENT
-UID:9ae9235c5d33aefb@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9ae9235c5d33aefb@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270308
 SUMMARY:青州微笑——中国古青州佛造像艺术展
@@ -2542,8 +2542,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:中国古青州佛造像艺术展，1号馆。暑期夜场延长至20:30。地铁5号线小北站。\n地点: 广州艺术博物院\n时间: 2026-09-06 至 2027-03-07\n详情: https://www.nfnews.com/content/46Ndzk2eym.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8d14e83fa62dbeeb@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8d14e83fa62dbeeb@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:经典广州上下九演出-88
@@ -2551,8 +2551,8 @@ LOCATION:上下九
 DESCRIPTION:广州上下九的精彩演出活动，适合亲子家庭参与。\n地点: 上下九\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:c17369d28f212aec@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c17369d28f212aec@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:探索广州宝墨园研学-113
@@ -2560,8 +2560,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:14d0b71baa99b4d2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:14d0b71baa99b4d2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:广州沙湾古镇展览-145
@@ -2569,8 +2569,8 @@ LOCATION:沙湾古镇
 DESCRIPTION:广州沙湾古镇的精彩展览活动，适合亲子家庭参与。\n地点: 沙湾古镇\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:1c481761e872712a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1c481761e872712a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:体验广州增城区科普活动嘉年华
@@ -2578,8 +2578,8 @@ LOCATION:广州增城区剧院
 DESCRIPTION:广州增城区的体验科普活动嘉年华，适合亲子家庭参与。\n地点: 广州增城区剧院\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:54fd810488a01974@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:54fd810488a01974@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:梦幻广州天河区亲子活动之旅
@@ -2587,8 +2587,8 @@ LOCATION:广州天河区文化馆
 DESCRIPTION:广州天河区的梦幻亲子活动之旅，适合亲子家庭参与。\n地点: 广州天河区文化馆\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:9385132f7c1cc550@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9385132f7c1cc550@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:亲子广州黄埔区体育赛事工作坊
@@ -2596,8 +2596,8 @@ LOCATION:广州黄埔区艺术中心
 DESCRIPTION:广州黄埔区的亲子体育赛事工作坊，适合亲子家庭参与。\n地点: 广州黄埔区艺术中心\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:c0255d95336de4cd@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c0255d95336de4cd@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20270309
 SUMMARY:趣味广州从化区影视放映展览
@@ -2605,8 +2605,8 @@ LOCATION:广州从化区创意园
 DESCRIPTION:广州从化区的趣味影视放映展览，适合亲子家庭参与。\n地点: 广州从化区创意园\n时间: 2026-09-06 至 2027-03-08
 END:VEVENT
 BEGIN:VEVENT
-UID:8546e69221a53da2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8546e69221a53da2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:广东省博物馆自然资源
@@ -2614,8 +2614,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广东自然资源展，矿物宝石古生物，地质科普。\n地点: 广东省博物馆\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:883a1ecc3b9ef749@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:883a1ecc3b9ef749@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:体验广州白云山展览-37
@@ -2623,8 +2623,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:51a3255fb8ab667d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:51a3255fb8ab667d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:奇妙广州广州艺术博物院亲子活动-123
@@ -2632,8 +2632,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:51448c2e700ee400@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:51448c2e700ee400@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:儿童广州越秀公园亲子活动-128
@@ -2641,8 +2641,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:6376f24cd850112f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6376f24cd850112f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:梦幻广州长隆水上乐园演出-142
@@ -2650,8 +2650,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:689dc8d2137f851e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:689dc8d2137f851e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:探秘广州从化区影视放映月
@@ -2659,8 +2659,8 @@ LOCATION:广州从化区青少年宫
 DESCRIPTION:广州从化区的探秘影视放映月，适合亲子家庭参与。\n地点: 广州从化区青少年宫\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:658b4e6192ccbf5c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:658b4e6192ccbf5c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:梦幻广州荔湾区展览之旅
@@ -2668,8 +2668,8 @@ LOCATION:广州荔湾区科技馆
 DESCRIPTION:广州荔湾区的梦幻展览之旅，适合亲子家庭参与。\n地点: 广州荔湾区科技馆\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:d1172164b7274d71@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d1172164b7274d71@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20270310
 SUMMARY:儿童广州增城区讲座阅读课程
@@ -2677,8 +2677,8 @@ LOCATION:广州增城区文化中心
 DESCRIPTION:广州增城区的儿童讲座阅读课程，适合亲子家庭参与。\n地点: 广州增城区文化中心\n时间: 2026-09-07 至 2027-03-09
 END:VEVENT
 BEGIN:VEVENT
-UID:6e50ab5e0ee2ddf0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6e50ab5e0ee2ddf0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20270908
 SUMMARY:广州民俗博物馆常设展
@@ -2686,8 +2686,8 @@ LOCATION:广州民俗博物馆（花都）
 DESCRIPTION:广州民俗博物馆（花都）常设展，展示岭南民俗文化，全年免费开放。\n地点: 广州民俗博物馆（花都）\n时间: 2026-09-08 至 2027-09-07\n详情: https://www.gzhdlib.cn/minsu
 END:VEVENT
 BEGIN:VEVENT
-UID:ac81f1aeba019033@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ac81f1aeba019033@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20261031
 SUMMARY:请到粤图过暑假——300余场暑期阅读推广活动
@@ -2695,8 +2695,8 @@ LOCATION:广东省立中山图书馆
 DESCRIPTION:近200场少儿专属活动，含绘本阅读、手工制作、文化讲座等。\n地点: 广东省立中山图书馆\n时间: 2026-09-08 至 2026-10-30\n详情: http://culture.ycwb.com/ikimvkltjj/content_54223794.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:dd08badec239ab74@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:dd08badec239ab74@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20270311
 SUMMARY:漫游广州越秀区展览季
@@ -2704,8 +2704,8 @@ LOCATION:广州越秀区艺术中心
 DESCRIPTION:广州越秀区的漫游展览季，适合亲子家庭参与。\n地点: 广州越秀区艺术中心\n时间: 2026-09-08 至 2027-03-10
 END:VEVENT
 BEGIN:VEVENT
-UID:9887b29839c74901@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9887b29839c74901@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20270311
 SUMMARY:经典广州白云区演出探秘
@@ -2713,8 +2713,8 @@ LOCATION:广州白云区博物馆
 DESCRIPTION:广州白云区的经典演出探秘，适合亲子家庭参与。\n地点: 广州白云区博物馆\n时间: 2026-09-08 至 2027-03-10
 END:VEVENT
 BEGIN:VEVENT
-UID:4c5d6637103a9d0a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4c5d6637103a9d0a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20270312
 SUMMARY:精彩广州华南植物园演出-46
@@ -2722,8 +2722,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-09-09 至 2027-03-11
 END:VEVENT
 BEGIN:VEVENT
-UID:8bf16b6bf5dec10a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8bf16b6bf5dec10a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20270312
 SUMMARY:广州荔湾湖公园演出-70
@@ -2731,8 +2731,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-09-09 至 2027-03-11
 END:VEVENT
 BEGIN:VEVENT
-UID:74c5de1288abd2df@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:74c5de1288abd2df@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20270312
 SUMMARY:广州广州少年儿童图书馆研学-125
@@ -2740,8 +2740,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-09-09 至 2027-03-11
 END:VEVENT
 BEGIN:VEVENT
-UID:324fd2e2d8145a17@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:324fd2e2d8145a17@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20270312
 SUMMARY:互动广州天河区讲座阅读科普
@@ -2749,8 +2749,8 @@ LOCATION:广州天河区艺术中心
 DESCRIPTION:广州天河区的互动讲座阅读科普，适合亲子家庭参与。\n地点: 广州天河区艺术中心\n时间: 2026-09-09 至 2027-03-11
 END:VEVENT
 BEGIN:VEVENT
-UID:4c868eab0b99b1b5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4c868eab0b99b1b5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20270312
 SUMMARY:解读广州从化区体育赛事周
@@ -2758,8 +2758,8 @@ LOCATION:广州从化区会展中心
 DESCRIPTION:广州从化区的解读体育赛事周，适合亲子家庭参与。\n地点: 广州从化区会展中心\n时间: 2026-09-09 至 2027-03-11
 END:VEVENT
 BEGIN:VEVENT
-UID:b060764654581202@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b060764654581202@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270313
 SUMMARY:番禺莲花山
@@ -2767,8 +2767,8 @@ LOCATION:莲花山旅游区
 DESCRIPTION:古采石场遗址，莲花塔，望海观音，珠江口狮子洋。\n地点: 莲花山旅游区\n时间: 2026-09-10 至 2027-03-12
 END:VEVENT
 BEGIN:VEVENT
-UID:d802bdaa2d990087@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d802bdaa2d990087@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270313
 SUMMARY:探秘广州海珠湖公园展览
@@ -2776,8 +2776,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-09-10 至 2027-03-12
 END:VEVENT
 BEGIN:VEVENT
-UID:9afc9a56f2dda270@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9afc9a56f2dda270@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270313
 SUMMARY:探索广州广州塔展览-66
@@ -2785,8 +2785,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-09-10 至 2027-03-12
 END:VEVENT
 BEGIN:VEVENT
-UID:4be20c4f548a0c54@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4be20c4f548a0c54@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270313
 SUMMARY:沉浸式广州广州博物馆展览-121
@@ -2794,8 +2794,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-09-10 至 2027-03-12
 END:VEVENT
 BEGIN:VEVENT
-UID:6c9d8e43fc881dc9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6c9d8e43fc881dc9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20261112
 SUMMARY:华南国家植物园夏日萤火虫夜观与自然观察
@@ -2803,8 +2803,8 @@ LOCATION:中国科学院华南植物园
 DESCRIPTION:夏季园内生态环境佳，是广州观萤“顶流”地，可观察萤火虫与夜行生物，园方设围栏限流保护，亲子自然教育生动一课（入园需票）。\n地点: 中国科学院华南植物园\n时间: 2026-09-11 至 2026-11-11\n详情: https://baijiahao.baidu.com/s?id=1869474475824239313&wfr=spider&for=pc
 END:VEVENT
 BEGIN:VEVENT
-UID:62467ee28a1460e4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:62467ee28a1460e4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20261112
 SUMMARY:从化区图书馆暑期阅读打卡
@@ -2812,8 +2812,8 @@ LOCATION:从化区图书馆
 DESCRIPTION:从化区图书馆暑期阅读打卡活动，亲子阅读挑战与积分奖励，免费参加。\n地点: 从化区图书馆\n时间: 2026-09-11 至 2026-11-11\n详情: https://www.chlib.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:1255b17f7b662f25@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1255b17f7b662f25@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20270314
 SUMMARY:精彩广州华南植物园演出-76
@@ -2821,8 +2821,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-09-11 至 2027-03-13
 END:VEVENT
 BEGIN:VEVENT
-UID:a8a926c7e49474ec@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a8a926c7e49474ec@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20270314
 SUMMARY:发现广州珠江公园展览-102
@@ -2830,8 +2830,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-09-11 至 2027-03-13
 END:VEVENT
 BEGIN:VEVENT
-UID:94f394411e9803e8@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:94f394411e9803e8@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20270314
 SUMMARY:广州沙湾古镇展览-115
@@ -2839,8 +2839,8 @@ LOCATION:沙湾古镇
 DESCRIPTION:广州沙湾古镇的精彩展览活动，适合亲子家庭参与。\n地点: 沙湾古镇\n时间: 2026-09-11 至 2027-03-13
 END:VEVENT
 BEGIN:VEVENT
-UID:e6eed5512472d2c7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e6eed5512472d2c7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20270314
 SUMMARY:实践广州广州动物园研学-137
@@ -2848,8 +2848,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-09-11 至 2027-03-13
 END:VEVENT
 BEGIN:VEVENT
-UID:f3698ea9e4a442f3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f3698ea9e4a442f3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20270314
 SUMMARY:广州长隆野生动物世界亲子活动-140
@@ -2857,8 +2857,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-09-11 至 2027-03-13
 END:VEVENT
 BEGIN:VEVENT
-UID:d44df8afeea9191d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d44df8afeea9191d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20270314
 SUMMARY:发现广州番禺区展览比赛
@@ -2866,8 +2866,8 @@ LOCATION:广州番禺区体育场
 DESCRIPTION:广州番禺区的发现展览比赛，适合亲子家庭参与。\n地点: 广州番禺区体育场\n时间: 2026-09-11 至 2027-03-13
 END:VEVENT
 BEGIN:VEVENT
-UID:667e11f4efdb3120@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:667e11f4efdb3120@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20261113
 SUMMARY:正佳极地海洋世界暑期海洋科普展演
@@ -2875,8 +2875,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:市中心室内极地海洋馆暑期推出海洋生物科普展演与互动，含海底隧道、白鲸与企鹅展区，避暑遛娃好去处，需购票。\n地点: 正佳极地海洋世界\n时间: 2026-09-12 至 2026-11-12\n详情: http://www.grandviewaquarium.com/index.php/zh-cn/buy
 END:VEVENT
 BEGIN:VEVENT
-UID:1d14151f8444ba9e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1d14151f8444ba9e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270315
 SUMMARY:震撼广州广州图书馆演出-64
@@ -2884,8 +2884,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-09-12 至 2027-03-14
 END:VEVENT
 BEGIN:VEVENT
-UID:7f75a144606720f1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7f75a144606720f1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270315
 SUMMARY:梦幻广州流花湖公园亲子活动-69
@@ -2893,8 +2893,8 @@ LOCATION:流花湖公园
 DESCRIPTION:广州流花湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 流花湖公园\n时间: 2026-09-12 至 2027-03-14
 END:VEVENT
 BEGIN:VEVENT
-UID:a665415f80282aee@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a665415f80282aee@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270315
 SUMMARY:儿童广州越秀公园亲子活动-188
@@ -2902,8 +2902,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-09-12 至 2027-03-14
 END:VEVENT
 BEGIN:VEVENT
-UID:bd4d94e364e7c255@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bd4d94e364e7c255@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270315
 SUMMARY:研学广州天河公园研学-191
@@ -2911,8 +2911,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-09-12 至 2027-03-14
 END:VEVENT
 BEGIN:VEVENT
-UID:f4032abaa35b6b41@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f4032abaa35b6b41@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270315
 SUMMARY:体验广州南沙区演出嘉年华
@@ -2920,8 +2920,8 @@ LOCATION:广州南沙区体育馆
 DESCRIPTION:广州南沙区的体验演出嘉年华，适合亲子家庭参与。\n地点: 广州南沙区体育馆\n时间: 2026-09-12 至 2027-03-14
 END:VEVENT
 BEGIN:VEVENT
-UID:138304d0d0dc9152@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:138304d0d0dc9152@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270315
 SUMMARY:精彩广州花都区体育赛事节
@@ -2929,8 +2929,8 @@ LOCATION:广州花都区动物园
 DESCRIPTION:广州花都区的精彩体育赛事节，适合亲子家庭参与。\n地点: 广州花都区动物园\n时间: 2026-09-12 至 2027-03-14
 END:VEVENT
 BEGIN:VEVENT
-UID:8d62597700570b7d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8d62597700570b7d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20270316
 SUMMARY:经典广州上下九演出-178
@@ -2938,8 +2938,8 @@ LOCATION:上下九
 DESCRIPTION:广州上下九的精彩演出活动，适合亲子家庭参与。\n地点: 上下九\n时间: 2026-09-13 至 2027-03-15
 END:VEVENT
 BEGIN:VEVENT
-UID:864e672bffcfbca3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:864e672bffcfbca3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20270316
 SUMMARY:梦幻广州长隆水上乐园演出-202
@@ -2947,8 +2947,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-09-13 至 2027-03-15
 END:VEVENT
 BEGIN:VEVENT
-UID:82a7f5808fac2b42@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:82a7f5808fac2b42@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20270316
 SUMMARY:趣味广州荔湾区影视放映展览
@@ -2956,8 +2956,8 @@ LOCATION:广州荔湾区会展中心
 DESCRIPTION:广州荔湾区的趣味影视放映展览，适合亲子家庭参与。\n地点: 广州荔湾区会展中心\n时间: 2026-09-13 至 2027-03-15
 END:VEVENT
 BEGIN:VEVENT
-UID:b94fc039a8b55ad2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b94fc039a8b55ad2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:余荫山房四大名园
@@ -2965,8 +2965,8 @@ LOCATION:余荫山房
 DESCRIPTION:广东四大名园之一，小巧玲珑，岭南园林精品。\n地点: 余荫山房\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:ffabe2d341e8339e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ffabe2d341e8339e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:实践广州广州动物园研学-47
@@ -2974,8 +2974,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:c84fea87e6bafe25@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c84fea87e6bafe25@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:欢乐广州北京路亲子活动-117
@@ -2983,8 +2983,8 @@ LOCATION:北京路
 DESCRIPTION:广州北京路的精彩亲子活动活动，适合亲子家庭参与。\n地点: 北京路\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:367fce81158200be@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:367fce81158200be@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:探秘广州海珠湖公园展览-133
@@ -2992,8 +2992,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:5fe449615539d779@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5fe449615539d779@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:解读广州天河区影视放映周
@@ -3001,8 +3001,8 @@ LOCATION:广州天河区体育场
 DESCRIPTION:广州天河区的解读影视放映周，适合亲子家庭参与。\n地点: 广州天河区体育场\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e6f74245f396ad@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d4e6f74245f396ad@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:漫游广州花都区演出季
@@ -3010,8 +3010,8 @@ LOCATION:广州花都区公园
 DESCRIPTION:广州花都区的漫游演出季，适合亲子家庭参与。\n地点: 广州花都区公园\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:629b098bdaa81136@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:629b098bdaa81136@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20270317
 SUMMARY:探秘广州增城区体育赛事月
@@ -3019,8 +3019,8 @@ LOCATION:广州增城区创意园
 DESCRIPTION:广州增城区的探秘体育赛事月，适合亲子家庭参与。\n地点: 广州增城区创意园\n时间: 2026-09-14 至 2027-03-16
 END:VEVENT
 BEGIN:VEVENT
-UID:5ad518df65b4ee4d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5ad518df65b4ee4d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20270318
 SUMMARY:广州沙湾古镇展览-175
@@ -3028,8 +3028,8 @@ LOCATION:沙湾古镇
 DESCRIPTION:广州沙湾古镇的精彩展览活动，适合亲子家庭参与。\n地点: 沙湾古镇\n时间: 2026-09-15 至 2027-03-17
 END:VEVENT
 BEGIN:VEVENT
-UID:ec4a56626996319f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ec4a56626996319f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20270318
 SUMMARY:趣味广州长隆欢乐世界亲子活动-201
@@ -3037,8 +3037,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-09-15 至 2027-03-17
 END:VEVENT
 BEGIN:VEVENT
-UID:9a70df74160ffd64@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9a70df74160ffd64@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20270318
 SUMMARY:家庭广州海珠区演出研学营
@@ -3046,8 +3046,8 @@ LOCATION:广州海珠区图书馆
 DESCRIPTION:广州海珠区的家庭演出研学营，适合亲子家庭参与。\n地点: 广州海珠区图书馆\n时间: 2026-09-15 至 2027-03-17
 END:VEVENT
 BEGIN:VEVENT
-UID:ca771c89b2ea13b3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ca771c89b2ea13b3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:天河公园
@@ -3055,8 +3055,8 @@ LOCATION:天河公园
 DESCRIPTION:广州东部最大综合性公园，湖光山色，邓世昌纪念馆。\n地点: 天河公园\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:b9f77c46cfc29522@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b9f77c46cfc29522@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270616
 SUMMARY:第二期“广州之宝”特展
@@ -3064,8 +3064,8 @@ LOCATION:广州博物馆
 DESCRIPTION:2026年4月3日于镇海楼展区启幕，以“连接古今、联结世界”为立意遴选五件代表性藏品，展期以馆方公告为准，亲子认识广州珍宝。\n地点: 广州博物馆\n时间: 2026-09-16 至 2027-06-15\n详情: https://www.guangzhoumuseum.cn/website_cn/Web/Dynamic/Exhibition.aspx
 END:VEVENT
 BEGIN:VEVENT
-UID:29041ff3eb23e27a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:29041ff3eb23e27a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:广州荔湾湖公园演出-190
@@ -3073,8 +3073,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:36580245f14e4458@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:36580245f14e4458@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:家庭广州越秀区科普活动研学营
@@ -3082,8 +3082,8 @@ LOCATION:广州越秀区植物园
 DESCRIPTION:广州越秀区的家庭科普活动研学营，适合亲子家庭参与。\n地点: 广州越秀区植物园\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:61410093888cb861@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:61410093888cb861@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:解读广州黄埔区讲座阅读周
@@ -3091,8 +3091,8 @@ LOCATION:广州黄埔区图书馆
 DESCRIPTION:广州黄埔区的解读讲座阅读周，适合亲子家庭参与。\n地点: 广州黄埔区图书馆\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:b0d626425cf40747@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b0d626425cf40747@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:漫游广州黄埔区科普活动季
@@ -3100,8 +3100,8 @@ LOCATION:广州黄埔区海洋馆
 DESCRIPTION:广州黄埔区的漫游科普活动季，适合亲子家庭参与。\n地点: 广州黄埔区海洋馆\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:6483e05c9bbedc74@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6483e05c9bbedc74@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:趣味广州花都区讲座阅读展览
@@ -3109,8 +3109,8 @@ LOCATION:广州花都区文化馆
 DESCRIPTION:广州花都区的趣味讲座阅读展览，适合亲子家庭参与。\n地点: 广州花都区文化馆\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:7f4b8a1ccd48b5d0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7f4b8a1ccd48b5d0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20270319
 SUMMARY:互动广州花都区亲子活动科普
@@ -3118,8 +3118,8 @@ LOCATION:广州花都区图书馆
 DESCRIPTION:广州花都区的互动亲子活动科普，适合亲子家庭参与。\n地点: 广州花都区图书馆\n时间: 2026-09-16 至 2027-03-18
 END:VEVENT
 BEGIN:VEVENT
-UID:5f038a3853463149@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5f038a3853463149@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20270320
 SUMMARY:奇妙广州广州艺术博物院亲子活动
@@ -3127,8 +3127,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-09-17 至 2027-03-19
 END:VEVENT
 BEGIN:VEVENT
-UID:3a5784c9c779f00d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3a5784c9c779f00d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20270320
 SUMMARY:精彩广州白云区科普活动节
@@ -3136,8 +3136,8 @@ LOCATION:广州白云区会展中心
 DESCRIPTION:广州白云区的精彩科普活动节，适合亲子家庭参与。\n地点: 广州白云区会展中心\n时间: 2026-09-17 至 2027-03-19
 END:VEVENT
 BEGIN:VEVENT
-UID:d940e86812299f4b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d940e86812299f4b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20270320
 SUMMARY:探索广州白云区展览演出
@@ -3145,8 +3145,8 @@ LOCATION:广州白云区体育场
 DESCRIPTION:广州白云区的探索展览演出，适合亲子家庭参与。\n地点: 广州白云区体育场\n时间: 2026-09-17 至 2027-03-19
 END:VEVENT
 BEGIN:VEVENT
-UID:3ebfd20152f089d0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3ebfd20152f089d0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20270320
 SUMMARY:家庭广州增城区科普活动研学营
@@ -3154,8 +3154,8 @@ LOCATION:广州增城区体育馆
 DESCRIPTION:广州增城区的家庭科普活动研学营，适合亲子家庭参与。\n地点: 广州增城区体育馆\n时间: 2026-09-17 至 2027-03-19
 END:VEVENT
 BEGIN:VEVENT
-UID:7ad15627cb6368db@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7ad15627cb6368db@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20270320
 SUMMARY:经典广州天河区讲座阅读探秘
@@ -3163,8 +3163,8 @@ LOCATION:广州天河区植物园
 DESCRIPTION:广州天河区的经典讲座阅读探秘，适合亲子家庭参与。\n地点: 广州天河区植物园\n时间: 2026-09-17 至 2027-03-19
 END:VEVENT
 BEGIN:VEVENT
-UID:64f3d5b165c8d1ad@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:64f3d5b165c8d1ad@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20270320
 SUMMARY:震撼广州从化区讲座阅读发现
@@ -3172,8 +3172,8 @@ LOCATION:广州从化区体育馆
 DESCRIPTION:广州从化区的震撼讲座阅读发现，适合亲子家庭参与。\n地点: 广州从化区体育馆\n时间: 2026-09-17 至 2027-03-19
 END:VEVENT
 BEGIN:VEVENT
-UID:12234259d25c57ce@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:12234259d25c57ce@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20261119
 SUMMARY:广州青少年科技馆暑期互动体验
@@ -3181,8 +3181,8 @@ LOCATION:广州青少年科技馆
 DESCRIPTION:虚拟现实、物理原理到生命科学互动展项，二楼机器人工作室和手工技能室开放，周一闭馆，需在科普广州公众号预约。\n地点: 广州青少年科技馆\n时间: 2026-09-18 至 2026-11-18\n详情: https://www.gzstm.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:06d58e9355414f93@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:06d58e9355414f93@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20270321
 SUMMARY:体验广州白云山展览-67
@@ -3190,8 +3190,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-09-18 至 2027-03-20
 END:VEVENT
 BEGIN:VEVENT
-UID:f76355b2c742f231@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f76355b2c742f231@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20270321
 SUMMARY:梦幻广州长隆水上乐园演出-82
@@ -3199,8 +3199,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-09-18 至 2027-03-20
 END:VEVENT
 BEGIN:VEVENT
-UID:516642cabb9a169b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:516642cabb9a169b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20270321
 SUMMARY:走进广州荔湾区亲子活动日
@@ -3208,8 +3208,8 @@ LOCATION:广州荔湾区公园
 DESCRIPTION:广州荔湾区的走进亲子活动日，适合亲子家庭参与。\n地点: 广州荔湾区公园\n时间: 2026-09-18 至 2027-03-20
 END:VEVENT
 BEGIN:VEVENT
-UID:e5fe5b12e9d41584@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e5fe5b12e9d41584@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20270321
 SUMMARY:精彩广州增城区亲子活动节
@@ -3217,8 +3217,8 @@ LOCATION:广州增城区文化馆
 DESCRIPTION:广州增城区的精彩亲子活动节，适合亲子家庭参与。\n地点: 广州增城区文化馆\n时间: 2026-09-18 至 2027-03-20
 END:VEVENT
 BEGIN:VEVENT
-UID:3515ad0c27f14629@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3515ad0c27f14629@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20261121
 SUMMARY:增城白水寨瀑布节
@@ -3226,8 +3226,8 @@ LOCATION:白水寨风景名胜区
 DESCRIPTION:白水寨风景名胜区瀑布节，亲水徒步与瀑布观赏，景区收费。\n地点: 白水寨风景名胜区\n时间: 2026-09-19 至 2026-11-20\n详情: https://www.zcq.gov.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:99ff5a0ec0a68293@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:99ff5a0ec0a68293@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20270322
 SUMMARY:研学广州天河公园研学-101
@@ -3235,8 +3235,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-09-19 至 2027-03-21
 END:VEVENT
 BEGIN:VEVENT
-UID:8d2a9ac7101ab995@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8d2a9ac7101ab995@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20270322
 SUMMARY:解读广州余荫山房展览-174
@@ -3244,8 +3244,8 @@ LOCATION:余荫山房
 DESCRIPTION:广州余荫山房的精彩展览活动，适合亲子家庭参与。\n地点: 余荫山房\n时间: 2026-09-19 至 2027-03-21
 END:VEVENT
 BEGIN:VEVENT
-UID:7a32b33decf4549e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7a32b33decf4549e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20270322
 SUMMARY:暑期广州越秀区讲座阅读体验营
@@ -3253,8 +3253,8 @@ LOCATION:广州越秀区科技馆
 DESCRIPTION:广州越秀区的暑期讲座阅读体验营，适合亲子家庭参与。\n地点: 广州越秀区科技馆\n时间: 2026-09-19 至 2027-03-21
 END:VEVENT
 BEGIN:VEVENT
-UID:ccdd387b94167e1a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ccdd387b94167e1a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20270322
 SUMMARY:儿童广州白云区影视放映课程
@@ -3262,8 +3262,8 @@ LOCATION:广州白云区文化馆
 DESCRIPTION:广州白云区的儿童影视放映课程，适合亲子家庭参与。\n地点: 广州白云区文化馆\n时间: 2026-09-19 至 2027-03-21
 END:VEVENT
 BEGIN:VEVENT
-UID:9460ed2cca71f4dc@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9460ed2cca71f4dc@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20270322
 SUMMARY:趣味广州番禺区亲子活动展览
@@ -3271,8 +3271,8 @@ LOCATION:广州番禺区植物园
 DESCRIPTION:广州番禺区的趣味亲子活动展览，适合亲子家庭参与。\n地点: 广州番禺区植物园\n时间: 2026-09-19 至 2027-03-21
 END:VEVENT
 BEGIN:VEVENT
-UID:9565521a2fdfd02f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9565521a2fdfd02f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20270322
 SUMMARY:互动广州南沙区体育赛事科普
@@ -3280,8 +3280,8 @@ LOCATION:广州南沙区美术馆
 DESCRIPTION:广州南沙区的互动体育赛事科普，适合亲子家庭参与。\n地点: 广州南沙区美术馆\n时间: 2026-09-19 至 2027-03-21
 END:VEVENT
 BEGIN:VEVENT
-UID:cc651ca8a1eba065@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:cc651ca8a1eba065@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:走进广州广州海洋馆展览-108
@@ -3289,8 +3289,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:31bb955503337a87@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:31bb955503337a87@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:走进广州广州海洋馆展览-198
@@ -3298,8 +3298,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:5a5d21f581888710@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5a5d21f581888710@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:走进广州从化区演出日
@@ -3307,8 +3307,8 @@ LOCATION:广州从化区体育馆
 DESCRIPTION:广州从化区的走进演出日，适合亲子家庭参与。\n地点: 广州从化区体育馆\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:d53bdb35298ca322@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d53bdb35298ca322@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:青少年广州越秀区演出讲座
@@ -3316,8 +3316,8 @@ LOCATION:广州越秀区体育场
 DESCRIPTION:广州越秀区的青少年演出讲座，适合亲子家庭参与。\n地点: 广州越秀区体育场\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:c88f3cecd63ba593@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c88f3cecd63ba593@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:青少年广州从化区科普活动讲座
@@ -3325,8 +3325,8 @@ LOCATION:广州从化区艺术中心
 DESCRIPTION:广州从化区的青少年科普活动讲座，适合亲子家庭参与。\n地点: 广州从化区艺术中心\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:9e4821d754919151@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9e4821d754919151@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:探索广州从化区演出演出
@@ -3334,8 +3334,8 @@ LOCATION:广州从化区美术馆
 DESCRIPTION:广州从化区的探索演出演出，适合亲子家庭参与。\n地点: 广州从化区美术馆\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:14838c631ca65c06@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:14838c631ca65c06@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20270323
 SUMMARY:震撼广州黄埔区影视放映发现
@@ -3343,8 +3343,8 @@ LOCATION:广州黄埔区科技馆
 DESCRIPTION:广州黄埔区的震撼影视放映发现，适合亲子家庭参与。\n地点: 广州黄埔区科技馆\n时间: 2026-09-20 至 2027-03-22
 END:VEVENT
 BEGIN:VEVENT
-UID:3d60ae88febd756b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3d60ae88febd756b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:探秘广州海珠湖公园展览-73
@@ -3352,8 +3352,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:d80d1ff9a0d41cf7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d80d1ff9a0d41cf7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:家庭广州广东美术馆亲子活动-152
@@ -3361,8 +3361,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:53df8940783d8250@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:53df8940783d8250@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:探索广州广州塔展览-156
@@ -3370,8 +3370,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:a37acd763a4103e5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a37acd763a4103e5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:亲子广州荔湾区科普活动工作坊
@@ -3379,8 +3379,8 @@ LOCATION:广州荔湾区美术馆
 DESCRIPTION:广州荔湾区的亲子科普活动工作坊，适合亲子家庭参与。\n地点: 广州荔湾区美术馆\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:1e83cf77b30b1155@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1e83cf77b30b1155@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:家庭广州南沙区展览研学营
@@ -3388,8 +3388,8 @@ LOCATION:广州南沙区会展中心
 DESCRIPTION:广州南沙区的家庭展览研学营，适合亲子家庭参与。\n地点: 广州南沙区会展中心\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:681698fd516dc80b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:681698fd516dc80b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:经典广州从化区亲子活动探秘
@@ -3397,8 +3397,8 @@ LOCATION:广州从化区海洋馆
 DESCRIPTION:广州从化区的经典亲子活动探秘，适合亲子家庭参与。\n地点: 广州从化区海洋馆\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:64b0fc5b5551fca8@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:64b0fc5b5551fca8@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270324
 SUMMARY:发现广州天河区影视放映比赛
@@ -3406,8 +3406,8 @@ LOCATION:广州天河区图书馆
 DESCRIPTION:广州天河区的发现影视放映比赛，适合亲子家庭参与。\n地点: 广州天河区图书馆\n时间: 2026-09-21 至 2027-03-23
 END:VEVENT
 BEGIN:VEVENT
-UID:7e587e5d2e7a12e6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7e587e5d2e7a12e6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20270325
 SUMMARY:探秘广州番禺区科普活动月
@@ -3415,8 +3415,8 @@ LOCATION:广州番禺区文化馆
 DESCRIPTION:广州番禺区的探秘科普活动月，适合亲子家庭参与。\n地点: 广州番禺区文化馆\n时间: 2026-09-22 至 2027-03-24
 END:VEVENT
 BEGIN:VEVENT
-UID:d53f567f720005f5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d53f567f720005f5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20270325
 SUMMARY:亲子广州从化区科普活动工作坊
@@ -3424,8 +3424,8 @@ LOCATION:广州从化区植物园
 DESCRIPTION:广州从化区的亲子科普活动工作坊，适合亲子家庭参与。\n地点: 广州从化区植物园\n时间: 2026-09-22 至 2027-03-24
 END:VEVENT
 BEGIN:VEVENT
-UID:d6b0e397351e605f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d6b0e397351e605f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:荔湾湖公园
@@ -3433,8 +3433,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:老西关的荔枝湾，荔湾涌，粤剧文化，水乡风情。\n地点: 荔湾湖公园\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:21807840a47723d4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:21807840a47723d4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20261224
 SUMMARY:救民水火——纪念国民革命军北伐一百周年展
@@ -3442,8 +3442,8 @@ LOCATION:黄埔军校旧址纪念馆
 DESCRIPTION:为纪念北伐誓师一百周年推出，展出12件文物与200余张历史照片，全景展现北伐战争壮阔历史，免费开放，亲子红色研学好展览。\n地点: 黄埔军校旧址纪念馆\n时间: 2026-09-23 至 2026-12-23\n详情: https://mp.weixin.qq.com/s?__biz=MzA5OTYzNjYyOQ==&mid=2649799280&idx=1&sn=c981d1bf68005f0ea4116efa02e31a3a&chksm=89e73ff945e593cdccd4497da0b68d802f2f75a14136270e18e084bbb5b6c758e45a6f71be0c&scene=27
 END:VEVENT
 BEGIN:VEVENT
-UID:d4c6ee082ca7eb66@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d4c6ee082ca7eb66@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:探秘广州海珠湖公园展览-43
@@ -3451,8 +3451,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:广州海珠湖公园的精彩展览活动，适合亲子家庭参与。\n地点: 海珠湖公园\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:3f928f047795f86d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3f928f047795f86d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:探索广州宝墨园研学-83
@@ -3460,8 +3460,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:d3a32ee30ce817d6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d3a32ee30ce817d6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:探索广州宝墨园研学-143
@@ -3469,8 +3469,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:98d9d3a22738ea25@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:98d9d3a22738ea25@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:广州广州少年儿童图书馆研学-155
@@ -3478,8 +3478,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:bdd8cbeae779d4a9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bdd8cbeae779d4a9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:经典广州番禺区影视放映探秘
@@ -3487,8 +3487,8 @@ LOCATION:广州番禺区艺术中心
 DESCRIPTION:广州番禺区的经典影视放映探秘，适合亲子家庭参与。\n地点: 广州番禺区艺术中心\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:88e9aadf2799a41e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:88e9aadf2799a41e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20270326
 SUMMARY:发现广州黄埔区讲座阅读比赛
@@ -3496,8 +3496,8 @@ LOCATION:广州黄埔区会展中心
 DESCRIPTION:广州黄埔区的发现讲座阅读比赛，适合亲子家庭参与。\n地点: 广州黄埔区会展中心\n时间: 2026-09-23 至 2027-03-25
 END:VEVENT
 BEGIN:VEVENT
-UID:eb7e9aceb83956b2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:eb7e9aceb83956b2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20270826
 SUMMARY:由来是广州——广州建城2240年暨得名1800年文物精品展
@@ -3505,8 +3505,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州建城2240年、得名1800年核心主题展，通过文物、典籍与多媒体叙事梳理广州城脉商脉文脉。暑期延时至18:00。地铁5号线小北站。\n地点: 广州艺术博物院\n时间: 2026-09-24 至 2027-08-25\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e2d14a91559c3147@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e2d14a91559c3147@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20270327
 SUMMARY:精彩广州华南植物园演出-106
@@ -3514,8 +3514,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-09-24 至 2027-03-26
 END:VEVENT
 BEGIN:VEVENT
-UID:a453556b3cd81160@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a453556b3cd81160@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20270327
 SUMMARY:青少年广州海珠区影视放映讲座
@@ -3523,8 +3523,8 @@ LOCATION:广州海珠区海洋馆
 DESCRIPTION:广州海珠区的青少年影视放映讲座，适合亲子家庭参与。\n地点: 广州海珠区海洋馆\n时间: 2026-09-24 至 2027-03-26
 END:VEVENT
 BEGIN:VEVENT
-UID:83b9e89a5e24752a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:83b9e89a5e24752a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20270327
 SUMMARY:体验广州越秀区体育赛事嘉年华
@@ -3532,8 +3532,8 @@ LOCATION:广州越秀区文化馆
 DESCRIPTION:广州越秀区的体验体育赛事嘉年华，适合亲子家庭参与。\n地点: 广州越秀区文化馆\n时间: 2026-09-24 至 2027-03-26
 END:VEVENT
 BEGIN:VEVENT
-UID:a88a63cdd20fba1b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a88a63cdd20fba1b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20270327
 SUMMARY:漫游广州从化区亲子活动季
@@ -3541,8 +3541,8 @@ LOCATION:广州从化区博物馆
 DESCRIPTION:广州从化区的漫游亲子活动季，适合亲子家庭参与。\n地点: 广州从化区博物馆\n时间: 2026-09-24 至 2027-03-26
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a2108fd6489221@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f9a2108fd6489221@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261126
 SUMMARY:广州地铁博物馆暑期体验
@@ -3550,8 +3550,8 @@ LOCATION:广州地铁博物馆
 DESCRIPTION:沉浸式隧道、地铁模拟驾驶操作台、轨道科普展区，互动游戏丰富，周二至周五10:00-16:00，周六至周日09:00-17:00，周一闭馆。\n地点: 广州地铁博物馆\n时间: 2026-09-25 至 2026-11-25\n详情: https://www.gzmtrmuseum.com
 END:VEVENT
 BEGIN:VEVENT
-UID:447b54402606856c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:447b54402606856c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20270328
 SUMMARY:梦幻广州越秀区讲座阅读之旅
@@ -3559,8 +3559,8 @@ LOCATION:广州越秀区美术馆
 DESCRIPTION:广州越秀区的梦幻讲座阅读之旅，适合亲子家庭参与。\n地点: 广州越秀区美术馆\n时间: 2026-09-25 至 2027-03-27
 END:VEVENT
 BEGIN:VEVENT
-UID:022a2cb1b19a1a45@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:022a2cb1b19a1a45@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20270328
 SUMMARY:儿童广州南沙区科普活动课程
@@ -3568,8 +3568,8 @@ LOCATION:广州南沙区艺术中心
 DESCRIPTION:广州南沙区的儿童科普活动课程，适合亲子家庭参与。\n地点: 广州南沙区艺术中心\n时间: 2026-09-25 至 2027-03-27
 END:VEVENT
 BEGIN:VEVENT
-UID:e205728a84f593ed@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e205728a84f593ed@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20270329
 SUMMARY:海珠湖公园
@@ -3577,8 +3577,8 @@ LOCATION:海珠湖公园
 DESCRIPTION:海珠湿地的内湖，湖心岛花海，观鸟骑行。\n地点: 海珠湖公园\n时间: 2026-09-26 至 2027-03-28
 END:VEVENT
 BEGIN:VEVENT
-UID:19fd787cc683dea2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:19fd787cc683dea2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20270329
 SUMMARY:从化流溪河国家森林公园
@@ -3586,8 +3586,8 @@ LOCATION:流溪河国家森林公园
 DESCRIPTION:流溪湖游船，三桠塘幽谷，森林氧吧，避暑胜地。\n地点: 流溪河国家森林公园\n时间: 2026-09-26 至 2027-03-28
 END:VEVENT
 BEGIN:VEVENT
-UID:ca943593b2191668@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ca943593b2191668@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20270329
 SUMMARY:暑期广州南沙区亲子活动体验营
@@ -3595,8 +3595,8 @@ LOCATION:广州南沙区动物园
 DESCRIPTION:广州南沙区的暑期亲子活动体验营，适合亲子家庭参与。\n地点: 广州南沙区动物园\n时间: 2026-09-26 至 2027-03-28
 END:VEVENT
 BEGIN:VEVENT
-UID:771dc63618284f65@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:771dc63618284f65@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20270329
 SUMMARY:探索广州海珠区体育赛事演出
@@ -3604,8 +3604,8 @@ LOCATION:广州海珠区文化中心
 DESCRIPTION:广州海珠区的探索体育赛事演出，适合亲子家庭参与。\n地点: 广州海珠区文化中心\n时间: 2026-09-26 至 2027-03-28
 END:VEVENT
 BEGIN:VEVENT
-UID:17b932a121aaa4b3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:17b932a121aaa4b3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:体验广州白云山展览
@@ -3613,8 +3613,8 @@ LOCATION:白云山
 DESCRIPTION:广州白云山的精彩展览活动，适合亲子家庭参与。\n地点: 白云山\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:292f5983d3595954@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:292f5983d3595954@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:青少年广州云台花园亲子活动
@@ -3622,8 +3622,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:a5731ad739785436@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a5731ad739785436@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:漫游广州正佳极地海洋世界展览
@@ -3631,8 +3631,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:dd7ef646c156d8a3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:dd7ef646c156d8a3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:漫游广州正佳极地海洋世界展览-109
@@ -3640,8 +3640,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:efeedb58e06dc3ac@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:efeedb58e06dc3ac@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:沉浸式广州黄埔区演出探索
@@ -3649,8 +3649,8 @@ LOCATION:广州黄埔区文化馆
 DESCRIPTION:广州黄埔区的沉浸式演出探索，适合亲子家庭参与。\n地点: 广州黄埔区文化馆\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:c786c53dbdd1167d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c786c53dbdd1167d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:沉浸式广州海珠区科普活动探索
@@ -3658,8 +3658,8 @@ LOCATION:广州海珠区动物园
 DESCRIPTION:广州海珠区的沉浸式科普活动探索，适合亲子家庭参与。\n地点: 广州海珠区动物园\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:7801451509382cfe@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7801451509382cfe@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:儿童广州越秀区影视放映课程
@@ -3667,8 +3667,8 @@ LOCATION:广州越秀区海洋馆
 DESCRIPTION:广州越秀区的儿童影视放映课程，适合亲子家庭参与。\n地点: 广州越秀区海洋馆\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:da3fba8f59648917@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:da3fba8f59648917@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:探索广州荔湾区亲子活动演出
@@ -3676,8 +3676,8 @@ LOCATION:广州荔湾区艺术中心
 DESCRIPTION:广州荔湾区的探索亲子活动演出，适合亲子家庭参与。\n地点: 广州荔湾区艺术中心\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:2d063526fe35f7f5@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2d063526fe35f7f5@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20270330
 SUMMARY:沉浸式广州荔湾区演出探索
@@ -3685,8 +3685,8 @@ LOCATION:广州荔湾区海洋馆
 DESCRIPTION:广州荔湾区的沉浸式演出探索，适合亲子家庭参与。\n地点: 广州荔湾区海洋馆\n时间: 2026-09-27 至 2027-03-29
 END:VEVENT
 BEGIN:VEVENT
-UID:666b841f2c8312f0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:666b841f2c8312f0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261120
 SUMMARY:广东科学中心暑期假日科学派
@@ -3694,8 +3694,8 @@ LOCATION:广东科学中心
 DESCRIPTION:涵盖科学挑战赛、科普摊位、创意工坊及科普表演秀等板块，含极速三子棋、太阳能风扇拼装、科学盲盒等互动项目，还有机器人及机器狗表演。\n地点: 广东科学中心\n时间: 2026-09-28 至 2026-11-19\n详情: https://www.gdsc.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:7727b8a3268a4021@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7727b8a3268a4021@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20270331
 SUMMARY:广州广州少年儿童图书馆研学-35
@@ -3703,8 +3703,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-09-28 至 2027-03-30
 END:VEVENT
 BEGIN:VEVENT
-UID:2dd224696da26897@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2dd224696da26897@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20270331
 SUMMARY:探索广州宝墨园研学-53
@@ -3712,8 +3712,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-09-28 至 2027-03-30
 END:VEVENT
 BEGIN:VEVENT
-UID:8b809bb1758bb2a2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8b809bb1758bb2a2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20270331
 SUMMARY:亲子广州永庆坊亲子活动-176
@@ -3721,8 +3721,8 @@ LOCATION:永庆坊
 DESCRIPTION:广州永庆坊的精彩亲子活动活动，适合亲子家庭参与。\n地点: 永庆坊\n时间: 2026-09-28 至 2027-03-30
 END:VEVENT
 BEGIN:VEVENT
-UID:dabfa24e77e1e35d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:dabfa24e77e1e35d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20270331
 SUMMARY:广州广东省博物馆展览-180
@@ -3730,8 +3730,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-09-28 至 2027-03-30
 END:VEVENT
 BEGIN:VEVENT
-UID:bb87bd6967f4eb22@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bb87bd6967f4eb22@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20270331
 SUMMARY:震撼广州白云区科普活动发现
@@ -3739,8 +3739,8 @@ LOCATION:广州白云区图书馆
 DESCRIPTION:广州白云区的震撼科普活动发现，适合亲子家庭参与。\n地点: 广州白云区图书馆\n时间: 2026-09-28 至 2027-03-30
 END:VEVENT
 BEGIN:VEVENT
-UID:39db21c548457b61@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:39db21c548457b61@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20270331
 SUMMARY:解读广州海珠区展览周
@@ -3748,8 +3748,8 @@ LOCATION:广州海珠区植物园
 DESCRIPTION:广州海珠区的解读展览周，适合亲子家庭参与。\n地点: 广州海珠区植物园\n时间: 2026-09-28 至 2027-03-30
 END:VEVENT
 BEGIN:VEVENT
-UID:bf8722680d92b7d3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bf8722680d92b7d3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270401
 SUMMARY:研学广州天河公园研学
@@ -3757,8 +3757,8 @@ LOCATION:天河公园
 DESCRIPTION:广州天河公园的精彩研学活动，适合亲子家庭参与。\n地点: 天河公园\n时间: 2026-09-29 至 2027-03-31
 END:VEVENT
 BEGIN:VEVENT
-UID:e5db6f1d9260d3ab@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e5db6f1d9260d3ab@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270401
 SUMMARY:广州广东省博物馆展览-120
@@ -3766,8 +3766,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:广州广东省博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广东省博物馆\n时间: 2026-09-29 至 2027-03-31
 END:VEVENT
 BEGIN:VEVENT
-UID:36be6250026ac736@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:36be6250026ac736@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270401
 SUMMARY:家庭广州广东美术馆亲子活动-122
@@ -3775,8 +3775,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-09-29 至 2027-03-31
 END:VEVENT
 BEGIN:VEVENT
-UID:c0d67b96d4510420@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c0d67b96d4510420@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270401
 SUMMARY:走进广州天河区体育赛事日
@@ -3784,8 +3784,8 @@ LOCATION:广州天河区海洋馆
 DESCRIPTION:广州天河区的走进体育赛事日，适合亲子家庭参与。\n地点: 广州天河区海洋馆\n时间: 2026-09-29 至 2027-03-31
 END:VEVENT
 BEGIN:VEVENT
-UID:ed7868cf54fb3b23@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ed7868cf54fb3b23@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270401
 SUMMARY:儿童广州海珠区体育赛事课程
@@ -3793,8 +3793,8 @@ LOCATION:广州海珠区公园
 DESCRIPTION:广州海珠区的儿童体育赛事课程，适合亲子家庭参与。\n地点: 广州海珠区公园\n时间: 2026-09-29 至 2027-03-31
 END:VEVENT
 BEGIN:VEVENT
-UID:65334a2498d06f0b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:65334a2498d06f0b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270401
 SUMMARY:亲子广州番禺区展览工作坊
@@ -3802,8 +3802,8 @@ LOCATION:广州番禺区会展中心
 DESCRIPTION:广州番禺区的亲子展览工作坊，适合亲子家庭参与。\n地点: 广州番禺区会展中心\n时间: 2026-09-29 至 2027-03-31
 END:VEVENT
 BEGIN:VEVENT
-UID:b2ddc0bed905360a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b2ddc0bed905360a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270402
 SUMMARY:麓湖公园休闲
@@ -3811,8 +3811,8 @@ LOCATION:麓湖公园
 DESCRIPTION:白云山边的湖光山色，麓湖鸿鹄楼，划船漫步。\n地点: 麓湖公园\n时间: 2026-09-30 至 2027-04-01
 END:VEVENT
 BEGIN:VEVENT
-UID:bd293e8275f50479@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bd293e8275f50479@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270402
 SUMMARY:欢乐广州北京路亲子活动-177
@@ -3820,8 +3820,8 @@ LOCATION:北京路
 DESCRIPTION:广州北京路的精彩亲子活动活动，适合亲子家庭参与。\n地点: 北京路\n时间: 2026-09-30 至 2027-04-01
 END:VEVENT
 BEGIN:VEVENT
-UID:6536e0ae6978b2ba@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6536e0ae6978b2ba@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270402
 SUMMARY:精彩广州海珠区展览节
@@ -3829,8 +3829,8 @@ LOCATION:广州海珠区艺术中心
 DESCRIPTION:广州海珠区的精彩展览节，适合亲子家庭参与。\n地点: 广州海珠区艺术中心\n时间: 2026-09-30 至 2027-04-01
 END:VEVENT
 BEGIN:VEVENT
-UID:6542d215cd147e63@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6542d215cd147e63@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270402
 SUMMARY:周末广州越秀区科普活动活动
@@ -3838,8 +3838,8 @@ LOCATION:广州越秀区青少年宫
 DESCRIPTION:广州越秀区的周末科普活动活动，适合亲子家庭参与。\n地点: 广州越秀区青少年宫\n时间: 2026-09-30 至 2027-04-01
 END:VEVENT
 BEGIN:VEVENT
-UID:890f2b66cb2b17c8@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:890f2b66cb2b17c8@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270402
 SUMMARY:体验广州从化区影视放映嘉年华
@@ -3847,8 +3847,8 @@ LOCATION:广州从化区动物园
 DESCRIPTION:广州从化区的体验影视放映嘉年华，适合亲子家庭参与。\n地点: 广州从化区动物园\n时间: 2026-09-30 至 2027-04-01
 END:VEVENT
 BEGIN:VEVENT
-UID:25d524df600ad973@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:25d524df600ad973@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270402
 SUMMARY:漫游广州海珠区讲座阅读季
@@ -3856,8 +3856,8 @@ LOCATION:广州海珠区体育场
 DESCRIPTION:广州海珠区的漫游讲座阅读季，适合亲子家庭参与。\n地点: 广州海珠区体育场\n时间: 2026-09-30 至 2027-04-01
 END:VEVENT
 BEGIN:VEVENT
-UID:c7576adc07a9e0f0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c7576adc07a9e0f0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270403
 SUMMARY:趣味广州长隆欢乐世界亲子活动-81
@@ -3865,8 +3865,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-10-01 至 2027-04-02
 END:VEVENT
 BEGIN:VEVENT
-UID:780597441147bc39@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:780597441147bc39@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270403
 SUMMARY:趣味广州长隆欢乐世界亲子活动-141
@@ -3874,8 +3874,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-10-01 至 2027-04-02
 END:VEVENT
 BEGIN:VEVENT
-UID:a2c63d0970eb1ed3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a2c63d0970eb1ed3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270403
 SUMMARY:广州麓湖公园亲子活动-195
@@ -3883,8 +3883,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-10-01 至 2027-04-02
 END:VEVENT
 BEGIN:VEVENT
-UID:a11aa77368431c96@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a11aa77368431c96@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270403
 SUMMARY:青少年广州南沙区讲座阅读讲座
@@ -3892,8 +3892,8 @@ LOCATION:广州南沙区博物馆
 DESCRIPTION:广州南沙区的青少年讲座阅读讲座，适合亲子家庭参与。\n地点: 广州南沙区博物馆\n时间: 2026-10-01 至 2027-04-02
 END:VEVENT
 BEGIN:VEVENT
-UID:3327880bb6949ae0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3327880bb6949ae0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270404
 SUMMARY:解读广州余荫山房展览-54
@@ -3901,8 +3901,8 @@ LOCATION:余荫山房
 DESCRIPTION:广州余荫山房的精彩展览活动，适合亲子家庭参与。\n地点: 余荫山房\n时间: 2026-10-02 至 2027-04-03
 END:VEVENT
 BEGIN:VEVENT
-UID:f705fdd8fc523464@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f705fdd8fc523464@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270404
 SUMMARY:体验广州天河城研学-89
@@ -3910,8 +3910,8 @@ LOCATION:天河城
 DESCRIPTION:广州天河城的精彩研学活动，适合亲子家庭参与。\n地点: 天河城\n时间: 2026-10-02 至 2027-04-03
 END:VEVENT
 BEGIN:VEVENT
-UID:44e45ba092b8e1cb@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:44e45ba092b8e1cb@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270404
 SUMMARY:周末广州增城区亲子活动活动
@@ -3919,8 +3919,8 @@ LOCATION:广州增城区图书馆
 DESCRIPTION:广州增城区的周末亲子活动活动，适合亲子家庭参与。\n地点: 广州增城区图书馆\n时间: 2026-10-02 至 2027-04-03
 END:VEVENT
 BEGIN:VEVENT
-UID:3e1fb43569b9e1d6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:3e1fb43569b9e1d6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270404
 SUMMARY:青少年广州番禺区展览讲座
@@ -3928,8 +3928,8 @@ LOCATION:广州番禺区图书馆
 DESCRIPTION:广州番禺区的青少年展览讲座，适合亲子家庭参与。\n地点: 广州番禺区图书馆\n时间: 2026-10-02 至 2027-04-03
 END:VEVENT
 BEGIN:VEVENT
-UID:fda9a0926bec0ad6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fda9a0926bec0ad6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270405
 SUMMARY:趣味广州长隆欢乐世界亲子活动
@@ -3937,8 +3937,8 @@ LOCATION:长隆欢乐世界
 DESCRIPTION:广州长隆欢乐世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆欢乐世界\n时间: 2026-10-03 至 2027-04-04
 END:VEVENT
 BEGIN:VEVENT
-UID:c841a2017521de49@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c841a2017521de49@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270405
 SUMMARY:儿童广州越秀公园亲子活动-68
@@ -3946,8 +3946,8 @@ LOCATION:越秀公园
 DESCRIPTION:广州越秀公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 越秀公园\n时间: 2026-10-03 至 2027-04-04
 END:VEVENT
 BEGIN:VEVENT
-UID:c21e92873d27b71a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c21e92873d27b71a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270405
 SUMMARY:走进广州广州海洋馆展览-168
@@ -3955,8 +3955,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-10-03 至 2027-04-04
 END:VEVENT
 BEGIN:VEVENT
-UID:e0ba14550bf3aa0d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e0ba14550bf3aa0d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270405
 SUMMARY:亲子广州花都区亲子活动工作坊
@@ -3964,8 +3964,8 @@ LOCATION:广州花都区体育场
 DESCRIPTION:广州花都区的亲子亲子活动工作坊，适合亲子家庭参与。\n地点: 广州花都区体育场\n时间: 2026-10-03 至 2027-04-04
 END:VEVENT
 BEGIN:VEVENT
-UID:456aca96896ff778@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:456aca96896ff778@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270405
 SUMMARY:梦幻广州增城区体育赛事之旅
@@ -3973,8 +3973,8 @@ LOCATION:广州增城区动物园
 DESCRIPTION:广州增城区的梦幻体育赛事之旅，适合亲子家庭参与。\n地点: 广州增城区动物园\n时间: 2026-10-03 至 2027-04-04
 END:VEVENT
 BEGIN:VEVENT
-UID:bd32fbaafdbbe298@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bd32fbaafdbbe298@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261124
 SUMMARY:孙中山大元帅府纪念馆暑期延时开放
@@ -3982,8 +3982,8 @@ LOCATION:孙中山大元帅府纪念馆
 DESCRIPTION:暑期延时开放至18:00（17:30停止入馆），免预约入馆。展出《帅府百年》复原陈列、《大元帅府的前世今生》等展览，开展红剧场戏剧工作坊、帅府拾艺、帅真童乐等特色活动。\n地点: 孙中山大元帅府纪念馆\n时间: 2026-10-04 至 2026-11-23\n详情: https://www.dashuai.gov.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:07f1c65f90dc1b0c@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:07f1c65f90dc1b0c@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270406
 SUMMARY:精彩广州华南植物园演出
@@ -3991,8 +3991,8 @@ LOCATION:华南植物园
 DESCRIPTION:广州华南植物园的精彩演出活动，适合亲子家庭参与。\n地点: 华南植物园\n时间: 2026-10-04 至 2027-04-05
 END:VEVENT
 BEGIN:VEVENT
-UID:2f35bdb840d5c467@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2f35bdb840d5c467@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270406
 SUMMARY:解读广州花都区科普活动周
@@ -4000,8 +4000,8 @@ LOCATION:广州花都区博物馆
 DESCRIPTION:广州花都区的解读科普活动周，适合亲子家庭参与。\n地点: 广州花都区博物馆\n时间: 2026-10-04 至 2027-04-05
 END:VEVENT
 BEGIN:VEVENT
-UID:785571cb4e93c6f7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:785571cb4e93c6f7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270406
 SUMMARY:互动广州荔湾区科普活动科普
@@ -4009,8 +4009,8 @@ LOCATION:广州荔湾区体育场
 DESCRIPTION:广州荔湾区的互动科普活动科普，适合亲子家庭参与。\n地点: 广州荔湾区体育场\n时间: 2026-10-04 至 2027-04-05
 END:VEVENT
 BEGIN:VEVENT
-UID:fef91706b0cca859@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:fef91706b0cca859@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270406
 SUMMARY:家庭广州番禺区亲子活动研学营
@@ -4018,8 +4018,8 @@ LOCATION:广州番禺区青少年宫
 DESCRIPTION:广州番禺区的家庭亲子活动研学营，适合亲子家庭参与。\n地点: 广州番禺区青少年宫\n时间: 2026-10-04 至 2027-04-05
 END:VEVENT
 BEGIN:VEVENT
-UID:d6aff8d1359f1509@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d6aff8d1359f1509@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270406
 SUMMARY:沉浸式广州番禺区体育赛事探索
@@ -4027,8 +4027,8 @@ LOCATION:广州番禺区美术馆
 DESCRIPTION:广州番禺区的沉浸式体育赛事探索，适合亲子家庭参与。\n地点: 广州番禺区美术馆\n时间: 2026-10-04 至 2027-04-05
 END:VEVENT
 BEGIN:VEVENT
-UID:35ae002462cf6ba2@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:35ae002462cf6ba2@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270406
 SUMMARY:亲子广州南沙区讲座阅读工作坊
@@ -4036,8 +4036,8 @@ LOCATION:广州南沙区剧院
 DESCRIPTION:广州南沙区的亲子讲座阅读工作坊，适合亲子家庭参与。\n地点: 广州南沙区剧院\n时间: 2026-10-04 至 2027-04-05
 END:VEVENT
 BEGIN:VEVENT
-UID:567160eaf8be88e4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:567160eaf8be88e4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270105
 SUMMARY:第47届“羊城之夏”青少年暑期系列活动
@@ -4045,8 +4045,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州市青少年暑期品牌活动，在广州少年儿童图书馆启动，涵盖阅读、志愿服务与各类亲子体验，适合中小学生暑期参与与成长。\n地点: 广州少年儿童图书馆\n时间: 2026-10-05 至 2027-01-04\n详情: https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_10844071.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ccff2831e411563d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ccff2831e411563d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261206
 SUMMARY:广州博物馆暑期十大主题研学活动
@@ -4054,8 +4054,8 @@ LOCATION:广州博物馆
 DESCRIPTION:暑期推出十大主题研学活动，包括越秀木棉红红色史迹研学、'决战观音山'剧本杀、'清代广州人的一天'主题研学、鳌鱼挂饰制作、陨石坑小夜灯DIY等，聚焦广州红色文化、岭南文化、海丝文化。\n地点: 广州博物馆\n时间: 2026-10-05 至 2026-12-05\n详情: https://www.gzmuseum.com
 END:VEVENT
 BEGIN:VEVENT
-UID:08e615b60ebf6780@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:08e615b60ebf6780@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261126
 SUMMARY:2026“广州科普之夏”主题活动
@@ -4063,8 +4063,8 @@ LOCATION:广州动物园
 DESCRIPTION:全市百馆联动千场科普，7月11日首场科普Citywalk在广州动物园启幕，含华南虎保护探秘等，普惠共享，亲子沉浸探自然。\n地点: 广州动物园\n时间: 2026-10-05 至 2026-11-25\n详情: https://news.ycwb.com/ikimvkltjj/content_54224002.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:1bf9a42d4959aeb6@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1bf9a42d4959aeb6@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270407
 SUMMARY:广州麓湖公园亲子活动
@@ -4072,8 +4072,8 @@ LOCATION:麓湖公园
 DESCRIPTION:广州麓湖公园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 麓湖公园\n时间: 2026-10-05 至 2027-04-06
 END:VEVENT
 BEGIN:VEVENT
-UID:e2e17c7b83aac2b7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e2e17c7b83aac2b7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270407
 SUMMARY:体验广州天河城研学-59
@@ -4081,8 +4081,8 @@ LOCATION:天河城
 DESCRIPTION:广州天河城的精彩研学活动，适合亲子家庭参与。\n地点: 天河城\n时间: 2026-10-05 至 2027-04-06
 END:VEVENT
 BEGIN:VEVENT
-UID:8f31361683c9bf01@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8f31361683c9bf01@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270407
 SUMMARY:发现广州珠江公园展览-132
@@ -4090,8 +4090,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-10-05 至 2027-04-06
 END:VEVENT
 BEGIN:VEVENT
-UID:a6aefb82af7ce869@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a6aefb82af7ce869@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270407
 SUMMARY:奇妙广州广州艺术博物院亲子活动-183
@@ -4099,8 +4099,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-10-05 至 2027-04-06
 END:VEVENT
 BEGIN:VEVENT
-UID:61a164900f30596e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:61a164900f30596e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270407
 SUMMARY:体验广州黄埔区展览嘉年华
@@ -4108,8 +4108,8 @@ LOCATION:广州黄埔区青少年宫
 DESCRIPTION:广州黄埔区的体验展览嘉年华，适合亲子家庭参与。\n地点: 广州黄埔区青少年宫\n时间: 2026-10-05 至 2027-04-06
 END:VEVENT
 BEGIN:VEVENT
-UID:0aba7e842853d4ff@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0aba7e842853d4ff@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20270407
 SUMMARY:沉浸式广州南沙区亲子活动探索
@@ -4117,8 +4117,8 @@ LOCATION:广州南沙区创意园
 DESCRIPTION:广州南沙区的沉浸式亲子活动探索，适合亲子家庭参与。\n地点: 广州南沙区创意园\n时间: 2026-10-05 至 2027-04-06
 END:VEVENT
 BEGIN:VEVENT
-UID:b0f673f6ebf87d7b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b0f673f6ebf87d7b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261207
 SUMMARY:广州图书馆暑期系列活动
@@ -4126,8 +4126,8 @@ LOCATION:广州图书馆
 DESCRIPTION:暑期公益讲座、绘本故事会、手工制作、科普课堂等系列活动，周三全天闭馆，周一至周二、周四至周日09:00-21:00开放。\n地点: 广州图书馆\n时间: 2026-10-06 至 2026-12-06\n详情: https://www.gzlib.org.cn
 END:VEVENT
 BEGIN:VEVENT
-UID:98dc76354d8f1177@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:98dc76354d8f1177@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261207
 SUMMARY:广州海洋馆暑期活动
@@ -4135,8 +4135,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:暑期推出海底探秘研学活动，包括潜水体验、海洋生物知识讲座、海底隧道夜宿等，2026届考生享专属门票优惠。\n地点: 广州海洋馆\n时间: 2026-10-06 至 2026-12-06\n详情: https://www.gzocean.com
 END:VEVENT
 BEGIN:VEVENT
-UID:17ee38f2d26e2200@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:17ee38f2d26e2200@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20270408
 SUMMARY:探索广州宝墨园研学-173
@@ -4144,8 +4144,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-10-06 至 2027-04-07
 END:VEVENT
 BEGIN:VEVENT
-UID:c44cc3ad2a94e715@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c44cc3ad2a94e715@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20270408
 SUMMARY:广州广州少年儿童图书馆研学-185
@@ -4153,8 +4153,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-10-06 至 2027-04-07
 END:VEVENT
 BEGIN:VEVENT
-UID:42d438f14a120651@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:42d438f14a120651@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20270408
 SUMMARY:发现广州珠江公园展览-192
@@ -4162,8 +4162,8 @@ LOCATION:珠江公园
 DESCRIPTION:广州珠江公园的精彩展览活动，适合亲子家庭参与。\n地点: 珠江公园\n时间: 2026-10-06 至 2027-04-07
 END:VEVENT
 BEGIN:VEVENT
-UID:6bb019e35a28f025@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:6bb019e35a28f025@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20270408
 SUMMARY:家庭广州白云区体育赛事研学营
@@ -4171,8 +4171,8 @@ LOCATION:广州白云区科技馆
 DESCRIPTION:广州白云区的家庭体育赛事研学营，适合亲子家庭参与。\n地点: 广州白云区科技馆\n时间: 2026-10-06 至 2027-04-07
 END:VEVENT
 BEGIN:VEVENT
-UID:bd3e0acc99336a57@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bd3e0acc99336a57@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20270408
 SUMMARY:震撼广州花都区体育赛事发现
@@ -4180,8 +4180,8 @@ LOCATION:广州花都区青少年宫
 DESCRIPTION:广州花都区的震撼体育赛事发现，适合亲子家庭参与。\n地点: 广州花都区青少年宫\n时间: 2026-10-06 至 2027-04-07
 END:VEVENT
 BEGIN:VEVENT
-UID:2403de599a20d4b4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2403de599a20d4b4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20270107
 SUMMARY:长隆野生动物世界“全球动物科普嘉年华”暑期活动
@@ -4189,8 +4189,8 @@ LOCATION:长隆旅游度假区
 DESCRIPTION:7月至9月在长隆野生动物世界举办，设动物主题日、科普讲堂、便便工坊等十项趣味活动，解锁冷门动物知识，亲子研学胜地（收费）。\n地点: 长隆旅游度假区\n时间: 2026-10-07 至 2027-01-06\n详情: https://xzx.chimelong.com/scenicDetail?scenicCode=GZ52
 END:VEVENT
 BEGIN:VEVENT
-UID:ac4162b2f7957bfa@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ac4162b2f7957bfa@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20270409
 SUMMARY:广州荔湾湖公园演出-40
@@ -4198,8 +4198,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-10-07 至 2027-04-08
 END:VEVENT
 BEGIN:VEVENT
-UID:2e6c119b2bd03d18@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2e6c119b2bd03d18@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20270409
 SUMMARY:震撼广州广州图书馆演出-124
@@ -4207,8 +4207,8 @@ LOCATION:广州图书馆
 DESCRIPTION:广州广州图书馆的精彩演出活动，适合亲子家庭参与。\n地点: 广州图书馆\n时间: 2026-10-07 至 2027-04-08
 END:VEVENT
 BEGIN:VEVENT
-UID:d7982072889f3f66@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d7982072889f3f66@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20270409
 SUMMARY:奇妙广州广州艺术博物院亲子活动-153
@@ -4216,8 +4216,8 @@ LOCATION:广州艺术博物院
 DESCRIPTION:广州广州艺术博物院的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广州艺术博物院\n时间: 2026-10-07 至 2027-04-08
 END:VEVENT
 BEGIN:VEVENT
-UID:5048ccfa52e56fd7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5048ccfa52e56fd7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20270409
 SUMMARY:家庭广州广东美术馆亲子活动-182
@@ -4225,8 +4225,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-10-07 至 2027-04-08
 END:VEVENT
 BEGIN:VEVENT
-UID:90ad8e68223d801e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:90ad8e68223d801e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270410
 SUMMARY:走进广州广州海洋馆展览
@@ -4234,8 +4234,8 @@ LOCATION:广州海洋馆
 DESCRIPTION:广州广州海洋馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州海洋馆\n时间: 2026-10-08 至 2027-04-09
 END:VEVENT
 BEGIN:VEVENT
-UID:eb38ea5dc1a4df43@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:eb38ea5dc1a4df43@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270410
 SUMMARY:广州荔湾湖公园演出-160
@@ -4243,8 +4243,8 @@ LOCATION:荔湾湖公园
 DESCRIPTION:广州荔湾湖公园的精彩演出活动，适合亲子家庭参与。\n地点: 荔湾湖公园\n时间: 2026-10-08 至 2027-04-09
 END:VEVENT
 BEGIN:VEVENT
-UID:8ca500effd1ec195@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8ca500effd1ec195@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270410
 SUMMARY:沉浸式广州广州博物馆展览-181
@@ -4252,8 +4252,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-10-08 至 2027-04-09
 END:VEVENT
 BEGIN:VEVENT
-UID:4d778516a99d3822@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:4d778516a99d3822@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270410
 SUMMARY:互动广州黄埔区体育赛事科普
@@ -4261,8 +4261,8 @@ LOCATION:广州黄埔区植物园
 DESCRIPTION:广州黄埔区的互动体育赛事科普，适合亲子家庭参与。\n地点: 广州黄埔区植物园\n时间: 2026-10-08 至 2027-04-09
 END:VEVENT
 BEGIN:VEVENT
-UID:e42e4bdaf07bb8c9@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e42e4bdaf07bb8c9@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270614
 SUMMARY:尼罗河的赠礼——古埃及文物与数字艺术体验展
@@ -4270,8 +4270,8 @@ LOCATION:南越王博物院（王墓展区）
 DESCRIPTION:古埃及文物与数字艺术体验展，古埃及文物珍品+数字沉浸式体验。地铁2号线越秀公园站。\n地点: 南越王博物院（王墓展区）\n时间: 2026-10-09 至 2027-06-13\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aa584f44e396588e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:aa584f44e396588e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270416
 SUMMARY:广东科学中心巨幕影院科普电影《四渡》
@@ -4279,8 +4279,8 @@ LOCATION:广东科学中心
 DESCRIPTION:2026年6月26日上新的巨幕科普电影，周五震撼上映，结合展馆与影院套票优惠，适合全家观看，亲子科普观影首选。\n地点: 广东科学中心\n时间: 2026-10-09 至 2027-04-15\n详情: http://gdsc.cn/cgnr/lz/
 END:VEVENT
 BEGIN:VEVENT
-UID:b2caf7522540c072@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b2caf7522540c072@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270411
 SUMMARY:广州长隆野生动物世界亲子活动-170
@@ -4288,8 +4288,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-10-09 至 2027-04-10
 END:VEVENT
 BEGIN:VEVENT
-UID:057f84af234fbfdf@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:057f84af234fbfdf@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270411
 SUMMARY:暑期广州从化区展览体验营
@@ -4297,8 +4297,8 @@ LOCATION:广州从化区文化馆
 DESCRIPTION:广州从化区的暑期展览体验营，适合亲子家庭参与。\n地点: 广州从化区文化馆\n时间: 2026-10-09 至 2027-04-10
 END:VEVENT
 BEGIN:VEVENT
-UID:905b24f02000ae89@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:905b24f02000ae89@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270411
 SUMMARY:发现广州增城区演出比赛
@@ -4306,8 +4306,8 @@ LOCATION:广州增城区植物园
 DESCRIPTION:广州增城区的发现演出比赛，适合亲子家庭参与。\n地点: 广州增城区植物园\n时间: 2026-10-09 至 2027-04-10
 END:VEVENT
 BEGIN:VEVENT
-UID:bee59e8d5d0a9fb4@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:bee59e8d5d0a9fb4@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270411
 SUMMARY:梦幻广州南沙区亲子活动之旅
@@ -4315,8 +4315,8 @@ LOCATION:广州南沙区海洋馆
 DESCRIPTION:广州南沙区的梦幻亲子活动之旅，适合亲子家庭参与。\n地点: 广州南沙区海洋馆\n时间: 2026-10-09 至 2027-04-10
 END:VEVENT
 BEGIN:VEVENT
-UID:c4ba73c6c3d3966f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:c4ba73c6c3d3966f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270412
 SUMMARY:云台花园赏花
@@ -4324,8 +4324,8 @@ LOCATION:云台花园
 DESCRIPTION:白云山脚下，四季花卉，玻璃温室，花城明珠。\n地点: 云台花园\n时间: 2026-10-10 至 2027-04-11
 END:VEVENT
 BEGIN:VEVENT
-UID:205ba92c5eac5858@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:205ba92c5eac5858@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270412
 SUMMARY:家庭广州广东美术馆亲子活动
@@ -4333,8 +4333,8 @@ LOCATION:广东美术馆
 DESCRIPTION:广州广东美术馆的精彩亲子活动活动，适合亲子家庭参与。\n地点: 广东美术馆\n时间: 2026-10-10 至 2027-04-11
 END:VEVENT
 BEGIN:VEVENT
-UID:eaa1011c7702cb2b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:eaa1011c7702cb2b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270412
 SUMMARY:梦幻广州长隆水上乐园演出
@@ -4342,8 +4342,8 @@ LOCATION:长隆水上乐园
 DESCRIPTION:广州长隆水上乐园的精彩演出活动，适合亲子家庭参与。\n地点: 长隆水上乐园\n时间: 2026-10-10 至 2027-04-11
 END:VEVENT
 BEGIN:VEVENT
-UID:06026f1ecc6ade25@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:06026f1ecc6ade25@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270412
 SUMMARY:探索广州广州塔展览-36
@@ -4351,8 +4351,8 @@ LOCATION:广州塔
 DESCRIPTION:广州广州塔的精彩展览活动，适合亲子家庭参与。\n地点: 广州塔\n时间: 2026-10-10 至 2027-04-11
 END:VEVENT
 BEGIN:VEVENT
-UID:eaccc45fabb0d2f3@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:eaccc45fabb0d2f3@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270412
 SUMMARY:广州广州少年儿童图书馆研学-65
@@ -4360,8 +4360,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广州广州少年儿童图书馆的精彩研学活动，适合亲子家庭参与。\n地点: 广州少年儿童图书馆\n时间: 2026-10-10 至 2027-04-11
 END:VEVENT
 BEGIN:VEVENT
-UID:217b33aaf9b46f07@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:217b33aaf9b46f07@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270412
 SUMMARY:趣味广州海珠区亲子活动展览
@@ -4369,8 +4369,8 @@ LOCATION:广州海珠区体育馆
 DESCRIPTION:广州海珠区的趣味亲子活动展览，适合亲子家庭参与。\n地点: 广州海珠区体育馆\n时间: 2026-10-10 至 2027-04-11
 END:VEVENT
 BEGIN:VEVENT
-UID:0409895dbe816b51@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0409895dbe816b51@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20270413
 SUMMARY:解读广州余荫山房展览-84
@@ -4378,8 +4378,8 @@ LOCATION:余荫山房
 DESCRIPTION:广州余荫山房的精彩展览活动，适合亲子家庭参与。\n地点: 余荫山房\n时间: 2026-10-11 至 2027-04-12
 END:VEVENT
 BEGIN:VEVENT
-UID:7dbf739523f854b0@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7dbf739523f854b0@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20270413
 SUMMARY:广州长隆野生动物世界亲子活动-110
@@ -4387,8 +4387,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-10-11 至 2027-04-12
 END:VEVENT
 BEGIN:VEVENT
-UID:97e8fd267470d5ea@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:97e8fd267470d5ea@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270130
 SUMMARY:文艺复兴的交响——格拉斯哥博物馆藏大师作品展
@@ -4396,8 +4396,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:英国格拉斯哥博物馆意大利艺术珍藏展，近70件珍稀藏品涵盖绘画、雕塑、陶器等六大门类。提香《基督救赎妇人》、贝利尼《圣母子》、丁托列托《图西亚的考验》等大师真迹亮相。暑期延时至21:00，需在广东省博物馆小程序预约。地铁3号线珠江新城站。\n地点: 广东省博物馆\n时间: 2026-10-12 至 2027-01-29\n详情: https://www.nfnews.com/content/VoQVkdjXy5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7679c61841f860ac@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7679c61841f860ac@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:实践广州广州动物园研学
@@ -4405,8 +4405,8 @@ LOCATION:广州动物园
 DESCRIPTION:广州广州动物园的精彩研学活动，适合亲子家庭参与。\n地点: 广州动物园\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:76f9626aa8cb7743@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:76f9626aa8cb7743@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:沉浸式广州广州博物馆展览-61
@@ -4414,8 +4414,8 @@ LOCATION:广州博物馆
 DESCRIPTION:广州广州博物馆的精彩展览活动，适合亲子家庭参与。\n地点: 广州博物馆\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:e43a1d0a51d1bdae@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e43a1d0a51d1bdae@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:漫游广州正佳极地海洋世界展览-79
@@ -4423,8 +4423,8 @@ LOCATION:正佳极地海洋世界
 DESCRIPTION:广州正佳极地海洋世界的精彩展览活动，适合亲子家庭参与。\n地点: 正佳极地海洋世界\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:66f9b455b03d271a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:66f9b455b03d271a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:广州长隆野生动物世界亲子活动-80
@@ -4432,8 +4432,8 @@ LOCATION:长隆野生动物世界
 DESCRIPTION:广州长隆野生动物世界的精彩亲子活动活动，适合亲子家庭参与。\n地点: 长隆野生动物世界\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:9e622b3d1a35845d@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:9e622b3d1a35845d@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:亲子广州天河区讲座阅读工作坊
@@ -4441,8 +4441,8 @@ LOCATION:广州天河区公园
 DESCRIPTION:广州天河区的亲子讲座阅读工作坊，适合亲子家庭参与。\n地点: 广州天河区公园\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:0f452f9659049634@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:0f452f9659049634@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:震撼广州增城区亲子活动发现
@@ -4450,8 +4450,8 @@ LOCATION:广州增城区会展中心
 DESCRIPTION:广州增城区的震撼亲子活动发现，适合亲子家庭参与。\n地点: 广州增城区会展中心\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:ad617e3251831004@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:ad617e3251831004@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:震撼广州海珠区演出发现
@@ -4459,8 +4459,8 @@ LOCATION:广州海珠区文化馆
 DESCRIPTION:广州海珠区的震撼演出发现，适合亲子家庭参与。\n地点: 广州海珠区文化馆\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:156120dc90fd3586@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:156120dc90fd3586@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20270414
 SUMMARY:家庭广州花都区讲座阅读研学营
@@ -4468,8 +4468,8 @@ LOCATION:广州花都区文化中心
 DESCRIPTION:广州花都区的家庭讲座阅读研学营，适合亲子家庭参与。\n地点: 广州花都区文化中心\n时间: 2026-10-12 至 2027-04-13
 END:VEVENT
 BEGIN:VEVENT
-UID:281cd75330815629@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:281cd75330815629@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261214
 SUMMARY:广东科学中心科学嘉年华
@@ -4477,8 +4477,8 @@ LOCATION:广东科学中心
 DESCRIPTION:科学实验表演、动手制作工坊、天文观测活动。\n地点: 广东科学中心\n时间: 2026-10-13 至 2026-12-13\n详情: https://www.gdsc.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:a420e9d87300b11b@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:a420e9d87300b11b@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261204
 SUMMARY:广东美术馆新馆暑期延时开放
@@ -4486,8 +4486,8 @@ LOCATION:广东美术馆
 DESCRIPTION:白鹅潭馆区暑期延长开放至21:00（20:30停止入场），推出多场人工导览和'馆长带你看展览'夜间专场活动，可沉浸式逛赏美术馆文创空间。\n地点: 广东美术馆\n时间: 2026-10-13 至 2026-12-03\n详情: https://www.gdmoa.org
 END:VEVENT
 BEGIN:VEVENT
-UID:f020f431b203606e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:f020f431b203606e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261119
 SUMMARY:南越王博物院考古小探险家
@@ -4495,8 +4495,8 @@ LOCATION:南越王博物院
 DESCRIPTION:模拟考古挖掘、文物修复体验、南越文化探秘。\n地点: 南越王博物院\n时间: 2026-10-13 至 2026-11-18\n详情: https://www.nanyuewang.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:b4a903889f64f4a1@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:b4a903889f64f4a1@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20270415
 SUMMARY:体验广州天河城研学-179
@@ -4504,8 +4504,8 @@ LOCATION:天河城
 DESCRIPTION:广州天河城的精彩研学活动，适合亲子家庭参与。\n地点: 天河城\n时间: 2026-10-13 至 2027-04-14
 END:VEVENT
 BEGIN:VEVENT
-UID:51966e917331a792@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:51966e917331a792@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20270415
 SUMMARY:走进广州番禺区讲座阅读日
@@ -4513,8 +4513,8 @@ LOCATION:广州番禺区创意园
 DESCRIPTION:广州番禺区的走进讲座阅读日，适合亲子家庭参与。\n地点: 广州番禺区创意园\n时间: 2026-10-13 至 2027-04-14
 END:VEVENT
 BEGIN:VEVENT
-UID:85928a38be04983a@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:85928a38be04983a@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20270415
 SUMMARY:暑期广州天河区科普活动体验营
@@ -4522,8 +4522,8 @@ LOCATION:广州天河区美术馆
 DESCRIPTION:广州天河区的暑期科普活动体验营，适合亲子家庭参与。\n地点: 广州天河区美术馆\n时间: 2026-10-13 至 2027-04-14
 END:VEVENT
 BEGIN:VEVENT
-UID:54c9cf4874559d3e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:54c9cf4874559d3e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20270415
 SUMMARY:沉浸式广州白云区影视放映探索
@@ -4531,8 +4531,8 @@ LOCATION:广州白云区公园
 DESCRIPTION:广州白云区的沉浸式影视放映探索，适合亲子家庭参与。\n地点: 广州白云区公园\n时间: 2026-10-13 至 2027-04-14
 END:VEVENT
 BEGIN:VEVENT
-UID:7bdb0afc211fd44f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7bdb0afc211fd44f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:广东省博物馆端砚艺术
@@ -4540,8 +4540,8 @@ LOCATION:广东省博物馆
 DESCRIPTION:端砚专题展，端溪名砚，文房四宝，中国四大名砚之首。\n地点: 广东省博物馆\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:02d95553bdc2120f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:02d95553bdc2120f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270505
 SUMMARY:穗地撷珍——广州市第四次全国文物普查成果展
@@ -4549,8 +4549,8 @@ LOCATION:南汉二陵博物馆
 DESCRIPTION:展出广州市第四次全国文物普查成果，系统呈现广州地区文物资源的新发现与新认识，涵盖古遗址、古墓葬、古建筑等多个类别。\n地点: 南汉二陵博物馆\n时间: 2026-10-14 至 2027-05-04\n详情: https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5d76d02bb8753b0f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5d76d02bb8753b0f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261215
 SUMMARY:广府民俗手工与低龄绘本故事会
@@ -4558,8 +4558,8 @@ LOCATION:广州少年儿童图书馆
 DESCRIPTION:广府民俗手工、低龄绘本故事会、国学公益课堂、暑期科普研学营。\n地点: 广州少年儿童图书馆\n时间: 2026-10-14 至 2026-12-14\n详情: https://www.gzstlib.org
 END:VEVENT
 BEGIN:VEVENT
-UID:dea35cdd0f65247f@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:dea35cdd0f65247f@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:探索广州宝墨园研学
@@ -4567,8 +4567,8 @@ LOCATION:宝墨园
 DESCRIPTION:广州宝墨园的精彩研学活动，适合亲子家庭参与。\n地点: 宝墨园\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:1faf6a986a08cb00@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:1faf6a986a08cb00@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:青少年广州云台花园亲子活动-134
@@ -4576,8 +4576,8 @@ LOCATION:云台花园
 DESCRIPTION:广州云台花园的精彩亲子活动活动，适合亲子家庭参与。\n地点: 云台花园\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:8a054e2920e19613@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:8a054e2920e19613@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:亲子广州海珠区影视放映工作坊
@@ -4585,8 +4585,8 @@ LOCATION:广州海珠区博物馆
 DESCRIPTION:广州海珠区的亲子影视放映工作坊，适合亲子家庭参与。\n地点: 广州海珠区博物馆\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:5db5ca9b8c8d0524@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:5db5ca9b8c8d0524@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:精彩广州荔湾区讲座阅读节
@@ -4594,8 +4594,8 @@ LOCATION:广州荔湾区青少年宫
 DESCRIPTION:广州荔湾区的精彩讲座阅读节，适合亲子家庭参与。\n地点: 广州荔湾区青少年宫\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:d0bcc5650c9ce56e@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:d0bcc5650c9ce56e@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:周末广州番禺区亲子活动活动
@@ -4603,8 +4603,8 @@ LOCATION:广州番禺区动物园
 DESCRIPTION:广州番禺区的周末亲子活动活动，适合亲子家庭参与。\n地点: 广州番禺区动物园\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:7c1f28baf3b5bc98@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:7c1f28baf3b5bc98@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20270416
 SUMMARY:漫游广州南沙区体育赛事季
@@ -4612,8 +4612,8 @@ LOCATION:广州南沙区图书馆
 DESCRIPTION:广州南沙区的漫游体育赛事季，适合亲子家庭参与。\n地点: 广州南沙区图书馆\n时间: 2026-10-14 至 2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:e9b7c4339dd9faeb@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:e9b7c4339dd9faeb@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20270417
 SUMMARY:宝墨园南粤苑
@@ -4621,8 +4621,8 @@ LOCATION:宝墨园
 DESCRIPTION:岭南园林艺术，赵泰来藏品馆，紫洞舫，锦鲤观赏。\n地点: 宝墨园\n时间: 2026-10-15 至 2027-04-16
 END:VEVENT
 BEGIN:VEVENT
-UID:2c2ba3ae8ef91cc7@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:2c2ba3ae8ef91cc7@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20270417
 SUMMARY:经典广州上下九演出
@@ -4630,8 +4630,8 @@ LOCATION:上下九
 DESCRIPTION:广州上下九的精彩演出活动，适合亲子家庭参与。\n地点: 上下九\n时间: 2026-10-15 至 2027-04-16
 END:VEVENT
 BEGIN:VEVENT
-UID:da9e9a9cdf9d4b17@goout-guangzhou
-DTSTAMP:20260720T012825Z
+UID:da9e9a9cdf9d4b17@shenzhen-exhibitions
+DTSTAMP:20260724T124308Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20270417
 SUMMARY:青少年广州白云区亲子活动讲座

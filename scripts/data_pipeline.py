@@ -641,7 +641,7 @@ def main():
         json.dump(unique_activities, f, ensure_ascii=False, indent=2)
     print(f"JSON数据已保存到 {json_path}")
 
-    ics_content = create_ics(activities)
+    ics_content = create_ics(unique_activities)
     ics_path = os.path.join(OUTPUT_DIR, ICS_FILE)
     with open(ics_path, 'w', encoding='utf-8') as f:
         f.write(ics_content)
@@ -649,7 +649,7 @@ def main():
 
     city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing', 'zhuhai']
     for city_code in city_codes:
-        city_activities = [a for a in activities if a.get('city') == city_code]
+        city_activities = [a for a in unique_activities if a.get('city') == city_code]
         if not city_activities:
             continue
 
