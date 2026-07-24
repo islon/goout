@@ -3718,72 +3718,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "音乐赏析之《音乐之声》原声带【下午场】",
-    "name": "音乐赏析之《音乐之声》原声带【下午场】",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-23",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654490&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654490&year=2026&month=7&customizedUrl=salon",
-    "links": [
-      {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654490&year=2026&month=7&customizedUrl=salon",
-        "label": "活动详情"
-      }
-    ],
-    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "深圳图书馆"
-  },
-  {
-    "title": "音乐赏析之《音乐之声》原声带【晚上场】",
-    "name": "音乐赏析之《音乐之声》原声带【晚上场】",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-23",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654495&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654495&year=2026&month=7&customizedUrl=salon",
-    "links": [
-      {
-        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654495&year=2026&month=7&customizedUrl=salon",
-        "label": "活动详情"
-      }
-    ],
-    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "深圳图书馆"
-  },
-  {
-    "title": "南山博物馆暑期夜间延时开放",
-    "name": "南山博物馆暑期夜间延时开放",
-    "venue": "南山博物馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
-    "links": [
-      {
-        "url": "https://www.nanshanmuseum.com",
-        "label": "活动详情"
-      }
-    ],
-    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "0755-86700071",
-    "family_friendly": true,
-    "source": "南山博物馆"
-  },
-  {
     "title": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
     "name": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
     "venue": "凤凰街道综合性文化服务中心",
@@ -4134,6 +4068,28 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "南山图书馆"
+  },
+  {
+    "title": "南山博物馆暑期夜间延时开放",
+    "name": "南山博物馆暑期夜间延时开放",
+    "venue": "南山博物馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-08-31",
+    "link": "https://www.nanshanmuseum.com",
+    "url": "https://www.nanshanmuseum.com",
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-86700071",
+    "family_friendly": true,
+    "source": "南山博物馆"
   },
   {
     "title": "第十五届深圳动漫节",
@@ -4686,28 +4642,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
-    "name": "心灵沙龙·艺术疗愈丨和情绪做朋友",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-25",
-    "link": "https://activity.nslib.cn/activity/info/11682",
-    "url": "https://activity.nslib.cn/activity/info/11682",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11682",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
     "name": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
     "venue": "南山图书馆",
@@ -4723,6 +4657,28 @@
       }
     ],
     "description": "需预约报名。书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "name": "心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://activity.nslib.cn/activity/info/11682",
+    "url": "https://activity.nslib.cn/activity/info/11682",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11682",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -5033,6 +4989,28 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "法律咨询",
+    "name": "法律咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://activity.nslib.cn/activity/info/11641",
+    "url": "https://activity.nslib.cn/activity/info/11641",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11641",
+        "label": "活动详情"
+      }
+    ],
+    "description": "法律咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
     "name": "公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
     "venue": "南山图书馆",
@@ -5055,21 +5033,21 @@
     "source": "南山图书馆"
   },
   {
-    "title": "法律咨询",
-    "name": "法律咨询",
+    "title": "艺术荟 | 一藤一夏·包藏清凉",
+    "name": "艺术荟 | 一藤一夏·包藏清凉",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11641",
-    "url": "https://activity.nslib.cn/activity/info/11641",
+    "link": "https://activity.nslib.cn/activity/info/11685",
+    "url": "https://activity.nslib.cn/activity/info/11685",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11641",
+        "url": "https://activity.nslib.cn/activity/info/11685",
         "label": "活动详情"
       }
     ],
-    "description": "法律咨询。南山图书馆举办。",
+    "description": "需预约报名。艺术荟 | 一藤一夏·包藏清凉",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -5093,28 +5071,6 @@
     ],
     "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
     "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
-    "title": "艺术荟 | 一藤一夏·包藏清凉",
-    "name": "艺术荟 | 一藤一夏·包藏清凉",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11685",
-    "url": "https://activity.nslib.cn/activity/info/11685",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11685",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。艺术荟 | 一藤一夏·包藏清凉",
-    "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -5732,28 +5688,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "心理咨询",
-    "name": "心理咨询",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "link": "https://activity.nslib.cn/activity/info/11637",
-    "url": "https://activity.nslib.cn/activity/info/11637",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11637",
-        "label": "活动详情"
-      }
-    ],
-    "description": "心理咨询。南山图书馆举办。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "南图双语故事会|Go Away,Floppy",
     "name": "南图双语故事会|Go Away,Floppy",
     "venue": "南山图书馆",
@@ -5769,6 +5703,28 @@
       }
     ],
     "description": "需预约报名。南图双语故事会|Go Away,Floppy",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "心理咨询",
+    "name": "心理咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11637",
+    "url": "https://activity.nslib.cn/activity/info/11637",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11637",
+        "label": "活动详情"
+      }
+    ],
+    "description": "心理咨询。南山图书馆举办。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
