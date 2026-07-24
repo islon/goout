@@ -678,6 +678,48 @@ def main():
     except Exception as e:
         print(f"RSS生成失败: {e}")
 
+    try:
+        import subprocess
+        import sys
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        result = subprocess.run(
+            [sys.executable, os.path.join(script_dir, 'generate_city_venues.py')],
+            capture_output=True, text=True, cwd=script_dir
+        )
+        print(result.stdout.strip())
+        if result.returncode != 0:
+            print(f"分城市场馆文件生成失败: {result.stderr.strip()}")
+    except Exception as e:
+        print(f"分城市场馆文件生成失败: {e}")
+
+    try:
+        import subprocess
+        import sys
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        result = subprocess.run(
+            [sys.executable, os.path.join(script_dir, 'generate_tiered.py')],
+            capture_output=True, text=True, cwd=script_dir
+        )
+        print(result.stdout.strip())
+        if result.returncode != 0:
+            print(f"分级活动文件生成失败: {result.stderr.strip()}")
+    except Exception as e:
+        print(f"分级活动文件生成失败: {e}")
+
+    try:
+        import subprocess
+        import sys
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        result = subprocess.run(
+            [sys.executable, os.path.join(script_dir, 'generate_data_meta.py')],
+            capture_output=True, text=True, cwd=script_dir
+        )
+        print(result.stdout.strip())
+        if result.returncode != 0:
+            print(f"data_meta生成失败: {result.stderr.strip()}")
+    except Exception as e:
+        print(f"data_meta生成失败: {e}")
+
     print("\n=== 完成 ===")
 
 
