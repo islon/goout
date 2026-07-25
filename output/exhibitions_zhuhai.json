@@ -6,21 +6,25 @@
     "city": "zhuhai",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.zhsm.org.cn",
-    "url": "https://www.zhsm.org.cn",
-    "links": [
-      {
-        "url": "https://www.zhsm.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "从新石器时代先民用具到近代香山名人手稿，展示珠海从远古到近代的完整历史印记，常设展览免费参观。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "传统艺文和民俗文化展",
@@ -29,21 +33,25 @@
     "city": "zhuhai",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.zhsm.org.cn",
-    "url": "https://www.zhsm.org.cn",
-    "links": [
-      {
-        "url": "https://www.zhsm.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "展示珠海传统艺文和民俗文化，含香山文化、客家文化、水上人家等主题内容。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "共同的记忆——珠海城市变迁展",
@@ -52,21 +60,25 @@
     "city": "zhuhai",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.zhsm.org.cn",
-    "url": "https://www.zhsm.org.cn",
-    "links": [
-      {
-        "url": "https://www.zhsm.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "回顾珠海城市发展的共同记忆，从渔村到现代化城市的变迁历程。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海规划展览馆城市记忆展",
@@ -84,7 +96,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海规划展览馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "国家方志馆大湾区记忆展",
@@ -102,7 +123,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "国家方志馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "景山公园缆车观景体验",
@@ -120,7 +150,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "景山公园",
-    "district": "西城区"
+    "district": "西城区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区图书馆「云」自习室体验",
@@ -138,7 +177,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区博物馆林伟民主题陈列展",
@@ -156,7 +204,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾文物展",
@@ -174,7 +231,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门区博物馆历史展",
@@ -192,7 +258,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区博物馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "手作·造物——现代手工艺师生作品展",
@@ -210,7 +285,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "童心向党——金湾区青少儿艺术花会优秀作品展",
@@ -228,7 +312,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区文化馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海市图书馆暑期阅读季",
@@ -237,21 +330,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.zhlib.gov.cn",
-    "url": "https://www.zhlib.gov.cn",
-    "links": [
-      {
-        "url": "https://www.zhlib.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "珠海市图书馆暑期阅读推广活动，含阅读分享会、亲子故事会、好书推荐等系列活动。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海市图书馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海市文化馆公益艺术培训",
@@ -274,7 +371,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "古元美术馆版画艺术展",
@@ -283,21 +389,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-01",
     "end_date": "2026-09-30",
-    "link": "https://www.gymuseum.cn",
-    "url": "https://www.gymuseum.cn",
-    "links": [
-      {
-        "url": "https://www.gymuseum.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "古元版画艺术精品展，展示珠海版画大师古元的经典作品及当代版画创作。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "香山文化艺术中心暑期展览",
@@ -315,7 +425,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "香山文化艺术中心",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "圆明新园夏日文化游园会",
@@ -333,7 +452,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "圆明新园",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "海滨公园亲子户外活动",
@@ -351,7 +479,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海海滨公园",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "汤臣倍健透明工厂参观",
@@ -374,7 +511,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "汤臣倍健透明工厂",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "海泉湾夏日温泉度假活动",
@@ -397,7 +543,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海海泉湾度假区",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "斗门旧街历史文化游览",
@@ -415,7 +570,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门旧街",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金台寺夏日祈福活动",
@@ -433,7 +597,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金台寺",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "御温泉夏日亲子活动",
@@ -442,21 +615,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.yuwengquan.com",
-    "url": "https://www.yuwengquan.com",
-    "links": [
-      {
-        "url": "https://www.yuwengquan.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "御温泉夏日亲子活动，日式温泉度假村，含多种温泉池、日式住宿、美食体验。",
     "category": "亲子活动",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
     "source": "御温泉",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海长隆海洋王国夏日狂欢节",
@@ -479,7 +656,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "长隆海洋幻彩烟花秀",
@@ -502,7 +688,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "长隆飞船乐园宇宙探索之旅",
@@ -525,7 +720,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆飞船乐园",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "长隆横琴剧院《长隆秀》",
@@ -548,7 +752,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆横琴剧院",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "横琴金融岛夜景游览",
@@ -566,7 +779,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴金融岛",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门区图书馆暑期阅读活动",
@@ -584,7 +806,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区图书馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴文化艺术中心艺术展览",
@@ -602,7 +833,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴文化艺术中心",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "梅溪牌坊历史文化讲解",
@@ -620,7 +860,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "梅溪牌坊",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区图书馆暑期阅读营",
@@ -638,7 +887,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门区文化馆暑期公益培训",
@@ -656,7 +914,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区文化馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "星乐度露营小镇夏日露营节",
@@ -679,7 +946,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "星乐度露营小镇",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "广东省第一次全国可移动文物普查成果图片展",
@@ -697,7 +973,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海博物馆暑期亲子讲解活动",
@@ -706,21 +991,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-15",
     "end_date": "2026-08-31",
-    "link": "https://www.zhsm.org.cn",
-    "url": "https://www.zhsm.org.cn",
-    "links": [
-      {
-        "url": "https://www.zhsm.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "暑期期间珠海博物馆推出亲子讲解活动，专业讲解员带领小朋友了解珠海历史，寓教于乐。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "齐白石真迹展",
@@ -729,21 +1018,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-15",
     "end_date": "2026-08-15",
-    "link": "https://www.gymuseum.cn",
-    "url": "https://www.gymuseum.cn",
-    "links": [
-      {
-        "url": "https://www.gymuseum.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "齐白石真迹精品展，展示齐白石先生的绘画真迹，感受国画大师的艺术魅力。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海青少年妇女儿童活动中心暑期班",
@@ -761,7 +1054,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市青少年妇女儿童活动中心",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海国际会展中心暑期展览",
@@ -770,21 +1072,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-15",
     "end_date": "2026-08-30",
-    "link": "https://www.zicec.com",
-    "url": "https://www.zicec.com",
-    "links": [
-      {
-        "url": "https://www.zicec.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "珠海国际会展中心暑期系列展览，含文创展、家居展、美食展等，具体以现场为准。",
     "category": "展览",
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海国际会展中心",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区文化馆非遗体验活动",
@@ -802,7 +1108,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区文化馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾体育中心暑期游泳班",
@@ -820,7 +1135,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾体育中心",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门体育中心暑期运动营",
@@ -838,7 +1162,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门体育中心",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴口岸免税购物节",
@@ -856,7 +1189,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴口岸",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "三灶镇文化中心暑期少儿活动",
@@ -874,7 +1216,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "三灶镇文化中心",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴湿地公园自然教育活动",
@@ -892,7 +1243,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴湿地公园",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海博物馆夜间开放活动",
@@ -901,21 +1261,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
-    "link": "https://www.zhsm.org.cn",
-    "url": "https://www.zhsm.org.cn",
-    "links": [
-      {
-        "url": "https://www.zhsm.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "暑期周五夜间开放活动，夜游博物馆，感受不同于白天的观展体验。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海市文化馆非遗展示活动",
@@ -938,7 +1302,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "珠海工人文化宫职工文化节",
@@ -956,7 +1329,16 @@
     "contact": "",
     "family_friendly": false,
     "source": "珠海市工人文化宫",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾艺术中心夏季演出季",
@@ -974,7 +1356,16 @@
     "contact": "",
     "family_friendly": false,
     "source": "金湾艺术中心",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门非遗展示馆水上婚嫁展示",
@@ -992,7 +1383,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门非遗展示馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴花海长廊骑行活动",
@@ -1010,7 +1410,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴花海长廊",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "古元美术馆少儿美术工作坊",
@@ -1019,21 +1428,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "https://www.gymuseum.cn",
-    "url": "https://www.gymuseum.cn",
-    "links": [
-      {
-        "url": "https://www.gymuseum.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "古元美术馆少儿美术工作坊，专业老师指导小朋友学习版画、绘画等艺术创作。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区文化馆公益舞蹈培训",
@@ -1051,7 +1464,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区文化馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海大剧院交响乐演出季",
@@ -1060,21 +1482,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
-    "link": "https://www.zhgrandtheatre.com",
-    "url": "https://www.zhgrandtheatre.com",
-    "links": [
-      {
-        "url": "https://www.zhgrandtheatre.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "珠海大剧院夏季交响乐演出，知名交响乐团带来经典曲目，海上歌剧院享受音乐盛宴。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
     "source": "珠海大剧院",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "华发商都夏日文化市集",
@@ -1092,7 +1518,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "华发商都",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "井岸镇文化中心社区活动",
@@ -1110,7 +1545,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "井岸镇文化中心",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "长隆海洋王国海洋科普讲堂",
@@ -1133,7 +1577,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "珠海市图书馆古诗词鉴赏讲座",
@@ -1142,21 +1595,25 @@
     "city": "zhuhai",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
-    "link": "https://www.zhlib.gov.cn",
-    "url": "https://www.zhlib.gov.cn",
-    "links": [
-      {
-        "url": "https://www.zhlib.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "古诗词鉴赏公益讲座，邀请文学专家解读经典诗词，感受中华传统文化之美。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海市图书馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "香山文化艺术中心少儿才艺展演",
@@ -1174,7 +1631,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "香山文化艺术中心",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "当代艺术邀请展",
@@ -1183,21 +1649,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-01",
     "end_date": "2026-09-30",
-    "link": "https://www.gymuseum.cn",
-    "url": "https://www.gymuseum.cn",
-    "links": [
-      {
-        "url": "https://www.gymuseum.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "当代艺术邀请展，汇聚多位当代艺术家的先锋创作，从传统水墨到现代装置艺术。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海市文化馆书画展览",
@@ -1220,7 +1690,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "长隆飞船乐园亲子科学实验秀",
@@ -1243,7 +1722,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆飞船乐园",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "珠海大剧院亲子音乐剧",
@@ -1252,21 +1740,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
-    "link": "https://www.zhgrandtheatre.com",
-    "url": "https://www.zhgrandtheatre.com",
-    "links": [
-      {
-        "url": "https://www.zhgrandtheatre.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "适合全家观看的亲子音乐剧，在日月贝造型的海上歌剧院享受亲子时光。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海大剧院",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金海岸文化艺术中心社区文艺汇演",
@@ -1284,7 +1776,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金海岸文化艺术中心",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴文化艺术中心亲子工作坊",
@@ -1302,7 +1803,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴文化艺术中心",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海博物馆考古体验活动",
@@ -1311,21 +1821,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-03",
     "end_date": "2026-08-03",
-    "link": "https://www.zhsm.org.cn",
-    "url": "https://www.zhsm.org.cn",
-    "links": [
-      {
-        "url": "https://www.zhsm.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "珠海博物馆考古体验活动，模拟考古发掘，了解考古知识，适合中小学生参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门区文化馆粤剧表演",
@@ -1343,7 +1857,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区文化馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海市图书馆电影放映活动",
@@ -1352,21 +1875,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-04",
     "end_date": "2026-08-04",
-    "link": "https://www.zhlib.gov.cn",
-    "url": "https://www.zhlib.gov.cn",
-    "links": [
-      {
-        "url": "https://www.zhlib.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "珠海市图书馆公益电影放映活动，播放经典文化主题电影，免费入场。",
     "category": "影视放映",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海市图书馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区博物馆小小讲解员培训",
@@ -1384,7 +1911,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "黄杨山登山活动",
@@ -1402,7 +1938,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "黄杨山",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海大剧院话剧演出",
@@ -1411,21 +1956,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
-    "link": "https://www.zhgrandtheatre.com",
-    "url": "https://www.zhgrandtheatre.com",
-    "links": [
-      {
-        "url": "https://www.zhgrandtheatre.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "知名话剧团体在珠海大剧院演出经典话剧作品，感受戏剧艺术的魅力。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
     "source": "珠海大剧院",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区图书馆英语角活动",
@@ -1443,7 +1992,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "星乐度露营小镇星空观测活动",
@@ -1466,7 +2024,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "星乐度露营小镇",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "珠海市文化馆广场舞大赛",
@@ -1489,7 +2056,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "斗门区图书馆亲子阅读会",
@@ -1507,7 +2083,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区图书馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "香山文化艺术中心交响音乐会",
@@ -1525,7 +2110,16 @@
     "contact": "",
     "family_friendly": false,
     "source": "香山文化艺术中心",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾区文化馆摄影展",
@@ -1543,7 +2137,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾区文化馆",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门区博物馆小小讲解员",
@@ -1561,7 +2164,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区博物馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴湿地公园观鸟活动",
@@ -1579,7 +2191,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴湿地公园",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "珠海大剧院芭蕾舞演出",
@@ -1588,21 +2209,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
-    "link": "https://www.zhgrandtheatre.com",
-    "url": "https://www.zhgrandtheatre.com",
-    "links": [
-      {
-        "url": "https://www.zhgrandtheatre.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "经典芭蕾舞剧在珠海大剧院上演，在海上日月贝享受优雅的芭蕾艺术。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海大剧院",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门旧街美食文化节",
@@ -1620,7 +2245,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门旧街",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "圆明新园传统文化表演",
@@ -1638,7 +2272,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "圆明新园",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金湾体育中心篮球邀请赛",
@@ -1656,7 +2299,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金湾体育中心",
-    "district": "金湾区"
+    "district": "金湾区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "长隆横琴剧院国际马戏节",
@@ -1679,7 +2331,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆横琴剧院",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "珠海国际会展中心动漫展",
@@ -1688,21 +2349,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-22",
     "end_date": "2026-08-23",
-    "link": "https://www.zicec.com",
-    "url": "https://www.zicec.com",
-    "links": [
-      {
-        "url": "https://www.zicec.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "珠海国际动漫展览，含动漫周边、cosplay、声优见面会等，二次元文化盛宴。",
     "category": "展览",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
     "source": "珠海国际会展中心",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "金台寺禅修体验",
@@ -1720,7 +2385,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "金台寺",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "华发商都露天音乐会",
@@ -1738,7 +2412,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "华发商都",
-    "district": "香洲区"
+    "district": "香洲区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "御温泉夏日花火大会",
@@ -1747,21 +2430,25 @@
     "city": "zhuhai",
     "start_date": "2026-08-24",
     "end_date": "2026-08-24",
-    "link": "https://www.yuwengquan.com",
-    "url": "https://www.yuwengquan.com",
-    "links": [
-      {
-        "url": "https://www.yuwengquan.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "御温泉夏日花火大会，日式花火表演结合温泉体验，浪漫夏日夜晚。",
     "category": "亲子活动",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
     "source": "御温泉",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "景山公园日出观景活动",
@@ -1779,7 +2466,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "景山公园",
-    "district": "西城区"
+    "district": "西城区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门区文化馆非遗传承展",
@@ -1797,7 +2493,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门区文化馆",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴花海长廊摄影比赛",
@@ -1815,7 +2520,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴花海长廊",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "斗门体育中心足球邀请赛",
@@ -1833,7 +2547,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "斗门体育中心",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "井岸镇文化中心书画展",
@@ -1851,7 +2574,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "井岸镇文化中心",
-    "district": "斗门区"
+    "district": "斗门区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "横琴文化艺术中心音乐会",
@@ -1869,7 +2601,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴文化艺术中心",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "source_crawl"
+    },
+    "verified": true
   },
   {
     "title": "长隆海洋王国万圣节主题活动",
@@ -1892,7 +2633,16 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "横琴国际网球中心WTA超级精英赛",
@@ -1915,6 +2665,15 @@
     "contact": "",
     "family_friendly": true,
     "source": "横琴国际网球中心",
-    "district": "横琴新区"
+    "district": "横琴新区",
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-25",
+      "verified_by": "http_check"
+    },
+    "verified": true
   }
 ]

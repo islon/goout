@@ -27,8 +27,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
     "verified": true
@@ -61,8 +61,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -97,8 +97,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -130,14 +130,14 @@
       "matched_venue_type": "主题乐园"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": null,
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
-    "verified": true,
+    "verified": false,
     "venue_url": "http://www.gingkolake.com/"
   },
   {
@@ -168,8 +168,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
     "verified": true
@@ -205,7 +205,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -243,7 +243,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -280,7 +280,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -318,7 +318,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -355,7 +355,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -392,7 +392,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -430,7 +430,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -468,7 +468,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -506,7 +506,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -543,7 +543,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -581,7 +581,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -619,7 +619,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -656,7 +656,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -694,7 +694,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -732,7 +732,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -769,7 +769,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -806,7 +806,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -844,7 +844,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -881,7 +881,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -919,7 +919,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -957,7 +957,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -994,7 +994,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1031,7 +1031,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1068,7 +1068,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1106,7 +1106,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1143,7 +1143,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1181,7 +1181,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1219,7 +1219,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1257,7 +1257,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1295,7 +1295,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1332,7 +1332,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1370,7 +1370,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1407,7 +1407,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1444,7 +1444,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1481,7 +1481,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1518,7 +1518,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1555,7 +1555,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1592,7 +1592,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1629,7 +1629,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1667,7 +1667,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1704,7 +1704,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1741,7 +1741,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1778,7 +1778,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1816,7 +1816,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1854,7 +1854,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1891,7 +1891,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1928,7 +1928,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1965,7 +1965,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2003,7 +2003,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2041,7 +2041,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2079,7 +2079,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2116,7 +2116,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2154,7 +2154,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2192,7 +2192,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2230,7 +2230,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2268,7 +2268,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2305,7 +2305,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2343,7 +2343,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2380,7 +2380,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2414,8 +2414,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2453,7 +2453,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2490,7 +2490,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2528,7 +2528,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2565,7 +2565,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2602,7 +2602,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2640,7 +2640,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2678,7 +2678,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2716,7 +2716,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2754,7 +2754,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2792,7 +2792,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2830,7 +2830,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2867,7 +2867,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2905,7 +2905,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2943,7 +2943,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2981,7 +2981,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3018,7 +3018,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3031,8 +3031,8 @@
     "city": "nanjing",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
-    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
-    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "link": "https://nj.bendibao.com/",
+    "url": "https://nj.bendibao.com/",
     "description": "罗云熙熙界无限剧场巡回演唱会南京站，7月25日19:00开唱。",
     "category": "演出",
     "fee": "需购票",
@@ -3052,11 +3052,12 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "龙蟠虎踞南京城市史研学",
@@ -3090,7 +3091,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3127,7 +3128,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3164,7 +3165,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3202,7 +3203,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3239,7 +3240,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3276,7 +3277,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3314,7 +3315,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3352,7 +3353,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3390,7 +3391,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3427,7 +3428,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3465,7 +3466,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3502,7 +3503,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3540,7 +3541,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3577,7 +3578,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3615,7 +3616,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3652,7 +3653,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3689,7 +3690,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3727,7 +3728,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3765,7 +3766,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3803,7 +3804,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3840,7 +3841,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3877,7 +3878,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3914,7 +3915,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3951,7 +3952,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3988,7 +3989,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4025,7 +4026,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4062,7 +4063,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4100,7 +4101,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4137,7 +4138,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4174,7 +4175,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4211,7 +4212,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4248,7 +4249,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4285,7 +4286,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4323,7 +4324,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4360,7 +4361,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4398,7 +4399,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4435,7 +4436,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4472,7 +4473,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4510,7 +4511,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4547,7 +4548,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4585,7 +4586,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4623,7 +4624,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4661,7 +4662,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4698,7 +4699,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4735,7 +4736,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4772,7 +4773,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4810,7 +4811,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4848,7 +4849,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4885,7 +4886,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4922,7 +4923,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4960,7 +4961,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4997,7 +4998,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5035,7 +5036,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5072,7 +5073,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5110,7 +5111,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5148,7 +5149,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5185,7 +5186,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5222,7 +5223,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5260,7 +5261,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5297,7 +5298,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5334,7 +5335,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5371,7 +5372,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5409,7 +5410,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5447,7 +5448,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5485,7 +5486,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5522,7 +5523,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5559,7 +5560,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5597,7 +5598,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5635,7 +5636,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5672,7 +5673,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5709,7 +5710,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5746,7 +5747,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5784,7 +5785,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5822,7 +5823,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5859,7 +5860,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5897,7 +5898,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5935,7 +5936,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5973,7 +5974,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6010,7 +6011,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6048,7 +6049,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6086,7 +6087,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6124,7 +6125,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6162,7 +6163,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6200,7 +6201,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6237,7 +6238,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6274,7 +6275,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6312,7 +6313,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6350,7 +6351,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6387,7 +6388,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6424,7 +6425,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6462,7 +6463,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6500,7 +6501,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6538,7 +6539,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6576,7 +6577,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6614,7 +6615,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6651,7 +6652,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6689,7 +6690,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6727,7 +6728,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6765,7 +6766,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6803,7 +6804,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6841,7 +6842,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6878,7 +6879,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6915,7 +6916,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6952,7 +6953,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -6989,7 +6990,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7027,7 +7028,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7065,7 +7066,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7102,7 +7103,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7139,7 +7140,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7177,7 +7178,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7214,7 +7215,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7251,7 +7252,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7289,7 +7290,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7327,7 +7328,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7364,7 +7365,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7401,7 +7402,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7438,7 +7439,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7475,7 +7476,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7513,7 +7514,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7550,7 +7551,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7587,7 +7588,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7625,7 +7626,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7663,7 +7664,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7700,7 +7701,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7738,7 +7739,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7776,7 +7777,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7813,7 +7814,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7850,7 +7851,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7888,7 +7889,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7925,7 +7926,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -7963,7 +7964,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8000,7 +8001,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8037,7 +8038,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8075,7 +8076,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8113,7 +8114,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8151,7 +8152,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8188,7 +8189,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8226,7 +8227,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8264,7 +8265,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8302,7 +8303,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8339,7 +8340,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8376,7 +8377,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8414,7 +8415,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8451,7 +8452,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8488,7 +8489,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8526,7 +8527,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8564,7 +8565,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8601,7 +8602,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8639,7 +8640,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8676,7 +8677,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8713,7 +8714,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8750,7 +8751,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8787,7 +8788,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8824,7 +8825,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8862,7 +8863,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8899,7 +8900,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8936,7 +8937,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -8973,7 +8974,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9011,7 +9012,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9049,7 +9050,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9087,7 +9088,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9124,7 +9125,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9162,7 +9163,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9200,7 +9201,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9237,7 +9238,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9274,7 +9275,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9311,7 +9312,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9348,7 +9349,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9386,7 +9387,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9423,7 +9424,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9461,7 +9462,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9498,7 +9499,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9535,7 +9536,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9572,7 +9573,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9610,7 +9611,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9648,7 +9649,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9661,8 +9662,8 @@
     "city": "nanjing",
     "start_date": "2026-08-22",
     "end_date": "2026-08-23",
-    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
-    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "link": "https://nj.bendibao.com/",
+    "url": "https://nj.bendibao.com/",
     "description": "王源2026巡回演唱会南京站，8月22-23日青奥体育馆。",
     "category": "演出",
     "fee": "需购票",
@@ -9682,11 +9683,12 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
+      "source_type": "media",
+      "verified_at": "2026-07-25",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "links": []
   },
   {
     "name": "瞻园太平天国历史研学",
@@ -9719,7 +9721,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9756,7 +9758,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9793,7 +9795,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9830,7 +9832,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9868,7 +9870,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9905,7 +9907,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9943,7 +9945,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -9980,7 +9982,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10017,7 +10019,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10054,7 +10056,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10092,7 +10094,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10130,7 +10132,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10168,7 +10170,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10205,7 +10207,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10243,7 +10245,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10280,7 +10282,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10317,7 +10319,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10354,7 +10356,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10391,7 +10393,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10429,7 +10431,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10467,7 +10469,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10504,7 +10506,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10542,7 +10544,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10579,7 +10581,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10617,7 +10619,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10654,7 +10656,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10691,7 +10693,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10728,7 +10730,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10765,7 +10767,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10803,7 +10805,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10841,7 +10843,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10879,7 +10881,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10916,7 +10918,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10953,7 +10955,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -10990,7 +10992,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11028,7 +11030,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11066,7 +11068,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11103,7 +11105,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11141,7 +11143,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11179,7 +11181,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11217,7 +11219,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11254,7 +11256,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11292,7 +11294,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11330,7 +11332,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11367,7 +11369,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11405,7 +11407,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11442,7 +11444,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11479,7 +11481,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11517,7 +11519,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11554,7 +11556,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11591,7 +11593,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11629,7 +11631,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11666,7 +11668,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11704,7 +11706,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11742,7 +11744,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11780,7 +11782,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11817,7 +11819,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11854,7 +11856,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11891,7 +11893,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11929,7 +11931,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -11966,7 +11968,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12003,7 +12005,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12040,7 +12042,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12078,7 +12080,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12115,7 +12117,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12153,7 +12155,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12191,7 +12193,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12228,7 +12230,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12265,7 +12267,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12303,7 +12305,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12340,7 +12342,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12378,7 +12380,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12415,7 +12417,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12452,7 +12454,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12489,7 +12491,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12526,7 +12528,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12563,7 +12565,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12600,7 +12602,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12637,7 +12639,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12675,7 +12677,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12713,7 +12715,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12751,7 +12753,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12789,7 +12791,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12826,7 +12828,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12864,7 +12866,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12902,7 +12904,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12939,7 +12941,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -12976,7 +12978,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13013,7 +13015,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13050,7 +13052,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13088,7 +13090,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13125,7 +13127,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13162,7 +13164,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13199,7 +13201,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13236,7 +13238,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13274,7 +13276,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13311,7 +13313,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13349,7 +13351,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13387,7 +13389,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13425,7 +13427,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13463,7 +13465,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13501,7 +13503,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13538,7 +13540,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13576,7 +13578,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13614,7 +13616,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13651,7 +13653,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13689,7 +13691,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13726,7 +13728,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13764,7 +13766,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13801,7 +13803,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13838,7 +13840,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13876,7 +13878,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13914,7 +13916,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13952,7 +13954,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -13990,7 +13992,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14027,7 +14029,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14065,7 +14067,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14103,7 +14105,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14141,7 +14143,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14178,7 +14180,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14215,7 +14217,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14252,7 +14254,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14290,7 +14292,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14327,7 +14329,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14364,7 +14366,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14402,7 +14404,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14439,7 +14441,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14477,7 +14479,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14515,7 +14517,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14552,7 +14554,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14590,7 +14592,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14627,7 +14629,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14665,7 +14667,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14702,7 +14704,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14739,7 +14741,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14777,7 +14779,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14814,7 +14816,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14852,7 +14854,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14890,7 +14892,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14928,7 +14930,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -14966,7 +14968,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15003,7 +15005,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15040,7 +15042,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15078,7 +15080,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15116,7 +15118,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15154,7 +15156,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15191,7 +15193,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15228,7 +15230,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15265,7 +15267,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15303,7 +15305,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15341,7 +15343,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15379,7 +15381,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15416,7 +15418,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15453,7 +15455,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15490,7 +15492,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15528,7 +15530,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15566,7 +15568,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15604,7 +15606,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15642,7 +15644,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15679,7 +15681,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15716,7 +15718,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15753,7 +15755,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15790,7 +15792,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15828,7 +15830,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15866,7 +15868,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15904,7 +15906,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15941,7 +15943,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -15978,7 +15980,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16016,7 +16018,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16054,7 +16056,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16092,7 +16094,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16130,7 +16132,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16168,7 +16170,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16206,7 +16208,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16244,7 +16246,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16281,7 +16283,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16319,7 +16321,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16356,7 +16358,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16393,7 +16395,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16431,7 +16433,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16469,7 +16471,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16507,7 +16509,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16544,7 +16546,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16582,7 +16584,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16619,7 +16621,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16657,7 +16659,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16694,7 +16696,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16732,7 +16734,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16769,7 +16771,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16807,7 +16809,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16844,7 +16846,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16881,7 +16883,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16918,7 +16920,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16956,7 +16958,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -16994,7 +16996,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17032,7 +17034,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17069,7 +17071,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17106,7 +17108,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17143,7 +17145,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17181,7 +17183,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17218,7 +17220,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17256,7 +17258,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17293,7 +17295,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17330,7 +17332,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17368,7 +17370,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17405,7 +17407,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17442,7 +17444,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17480,7 +17482,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17517,7 +17519,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17554,7 +17556,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17591,7 +17593,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17629,7 +17631,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17666,7 +17668,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17703,7 +17705,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17741,7 +17743,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17778,7 +17780,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17816,7 +17818,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17853,7 +17855,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17890,7 +17892,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17927,7 +17929,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -17964,7 +17966,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18001,7 +18003,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18039,7 +18041,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18077,7 +18079,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18114,7 +18116,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18152,7 +18154,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18189,7 +18191,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18226,7 +18228,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18263,7 +18265,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18300,7 +18302,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18338,7 +18340,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18376,7 +18378,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18413,7 +18415,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18450,7 +18452,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18488,7 +18490,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18526,7 +18528,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18564,7 +18566,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18602,7 +18604,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18639,7 +18641,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18677,7 +18679,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18714,7 +18716,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18752,7 +18754,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18790,7 +18792,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18828,7 +18830,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18866,7 +18868,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18904,7 +18906,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18941,7 +18943,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -18979,7 +18981,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -19017,7 +19019,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-18",
+      "verified_at": "2026-07-25",
       "verified_by": "source_crawl"
     },
     "verified": true,

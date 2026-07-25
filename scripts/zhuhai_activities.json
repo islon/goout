@@ -4,65 +4,70 @@
     "venue": "珠海博物馆",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.zhsm.org.cn",
+    "link": "",
     "description": "从新石器时代先民用具到近代香山名人手稿，展示珠海从远古到近代的完整历史印记，常设展览免费参观。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "url": ""
   },
   {
     "title": "传统艺文和民俗文化展",
     "venue": "珠海博物馆",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.zhsm.org.cn",
+    "link": "",
     "description": "展示珠海传统艺文和民俗文化，含香山文化、客家文化、水上人家等主题内容。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "url": ""
   },
   {
     "title": "共同的记忆——珠海城市变迁展",
     "venue": "珠海博物馆",
     "start_date": "2026-01-01",
     "end_date": "2026-12-31",
-    "link": "https://www.zhsm.org.cn",
+    "link": "",
     "description": "回顾珠海城市发展的共同记忆，从渔村到现代化城市的变迁历程。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "url": ""
   },
   {
     "title": "珠海博物馆暑期亲子讲解活动",
     "venue": "珠海博物馆",
     "start_date": "2026-07-15",
     "end_date": "2026-08-31",
-    "link": "https://www.zhsm.org.cn",
+    "link": "",
     "description": "暑期期间珠海博物馆推出亲子讲解活动，专业讲解员带领小朋友了解珠海历史，寓教于乐。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "url": ""
   },
   {
     "title": "珠海市图书馆暑期阅读季",
     "venue": "珠海市图书馆",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.zhlib.gov.cn",
+    "link": "",
     "description": "珠海市图书馆暑期阅读推广活动，含阅读分享会、亲子故事会、好书推荐等系列活动。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "url": ""
   },
   {
     "title": "珠海市图书馆公益讲座",
@@ -121,78 +126,84 @@
     "venue": "古元美术馆",
     "start_date": "2026-07-01",
     "end_date": "2026-09-30",
-    "link": "https://www.gymuseum.cn",
+    "link": "",
     "description": "古元版画艺术精品展，展示珠海版画大师古元的经典作品及当代版画创作。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "url": ""
   },
   {
     "title": "齐白石真迹展",
     "venue": "古元美术馆",
     "start_date": "2026-07-15",
     "end_date": "2026-08-15",
-    "link": "https://www.gymuseum.cn",
+    "link": "",
     "description": "齐白石真迹精品展，展示齐白石先生的绘画真迹，感受国画大师的艺术魅力。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "url": ""
   },
   {
     "title": "当代艺术邀请展",
     "venue": "古元美术馆",
     "start_date": "2026-08-01",
     "end_date": "2026-09-30",
-    "link": "https://www.gymuseum.cn",
+    "link": "",
     "description": "当代艺术邀请展，汇聚多位当代艺术家的先锋创作，从传统水墨到现代装置艺术。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "url": ""
   },
   {
     "title": "珠海大剧院交响乐演出季",
     "venue": "珠海大剧院",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
-    "link": "https://www.zhgrandtheatre.com",
+    "link": "",
     "description": "珠海大剧院夏季交响乐演出，知名交响乐团带来经典曲目，海上歌剧院享受音乐盛宴。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "url": ""
   },
   {
     "title": "珠海大剧院亲子音乐剧",
     "venue": "珠海大剧院",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
-    "link": "https://www.zhgrandtheatre.com",
+    "link": "",
     "description": "适合全家观看的亲子音乐剧，在日月贝造型的海上歌剧院享受亲子时光。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "url": ""
   },
   {
     "title": "珠海大剧院话剧演出",
     "venue": "珠海大剧院",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
-    "link": "https://www.zhgrandtheatre.com",
+    "link": "",
     "description": "知名话剧团体在珠海大剧院演出经典话剧作品，感受戏剧艺术的魅力。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "url": ""
   },
   {
     "title": "香山文化艺术中心暑期展览",
@@ -303,13 +314,14 @@
     "venue": "珠海国际会展中心",
     "start_date": "2026-07-15",
     "end_date": "2026-08-30",
-    "link": "https://www.zicec.com",
+    "link": "",
     "description": "珠海国际会展中心暑期系列展览，含文创展、家居展、美食展等，具体以现场为准。",
     "category": "展览",
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "url": ""
   },
   {
     "title": "华发商都夏日文化市集",
@@ -355,26 +367,28 @@
     "venue": "珠海博物馆",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
-    "link": "https://www.zhsm.org.cn",
+    "link": "",
     "description": "暑期周五夜间开放活动，夜游博物馆，感受不同于白天的观展体验。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "url": ""
   },
   {
     "title": "珠海市图书馆古诗词鉴赏讲座",
     "venue": "珠海市图书馆",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
-    "link": "https://www.zhlib.gov.cn",
+    "link": "",
     "description": "古诗词鉴赏公益讲座，邀请文学专家解读经典诗词，感受中华传统文化之美。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "url": ""
   },
   {
     "title": "珠海市文化馆书画展览",
@@ -407,52 +421,56 @@
     "venue": "珠海大剧院",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
-    "link": "https://www.zhgrandtheatre.com",
+    "link": "",
     "description": "经典芭蕾舞剧在珠海大剧院上演，在海上日月贝享受优雅的芭蕾艺术。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "url": ""
   },
   {
     "title": "古元美术馆少儿美术工作坊",
     "venue": "古元美术馆",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "https://www.gymuseum.cn",
+    "link": "",
     "description": "古元美术馆少儿美术工作坊，专业老师指导小朋友学习版画、绘画等艺术创作。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "url": ""
   },
   {
     "title": "珠海博物馆考古体验活动",
     "venue": "珠海博物馆",
     "start_date": "2026-08-03",
     "end_date": "2026-08-03",
-    "link": "https://www.zhsm.org.cn",
+    "link": "",
     "description": "珠海博物馆考古体验活动，模拟考古发掘，了解考古知识，适合中小学生参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "url": ""
   },
   {
     "title": "珠海市图书馆电影放映活动",
     "venue": "珠海市图书馆",
     "start_date": "2026-08-04",
     "end_date": "2026-08-04",
-    "link": "https://www.zhlib.gov.cn",
+    "link": "",
     "description": "珠海市图书馆公益电影放映活动，播放经典文化主题电影，免费入场。",
     "category": "影视放映",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "url": ""
   },
   {
     "title": "珠海市文化馆广场舞大赛",
@@ -485,13 +503,14 @@
     "venue": "珠海国际会展中心",
     "start_date": "2026-08-22",
     "end_date": "2026-08-23",
-    "link": "https://www.zicec.com",
+    "link": "",
     "description": "珠海国际动漫展览，含动漫周边、cosplay、声优见面会等，二次元文化盛宴。",
     "category": "展览",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "url": ""
   },
   {
     "title": "华发商都露天音乐会",
@@ -862,13 +881,14 @@
     "venue": "御温泉",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.yuwengquan.com",
+    "link": "",
     "description": "御温泉夏日亲子活动，日式温泉度假村，含多种温泉池、日式住宿、美食体验。",
     "category": "亲子活动",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "御温泉"
+    "source": "御温泉",
+    "url": ""
   },
   {
     "title": "斗门体育中心暑期运动营",
@@ -992,13 +1012,14 @@
     "venue": "御温泉",
     "start_date": "2026-08-24",
     "end_date": "2026-08-24",
-    "link": "https://www.yuwengquan.com",
+    "link": "",
     "description": "御温泉夏日花火大会，日式花火表演结合温泉体验，浪漫夏日夜晚。",
     "category": "演出",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "御温泉"
+    "source": "御温泉",
+    "url": ""
   },
   {
     "title": "斗门区文化馆非遗传承展",
