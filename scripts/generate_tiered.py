@@ -30,7 +30,7 @@ from datetime import date
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output')
 RECENT_FILE = os.path.join(OUTPUT_DIR, 'exhibitions_recent.json')
 PAST_FILE = os.path.join(OUTPUT_DIR, 'exhibitions_past.json')
-PER_CITY_CAP = 80  # 每城取最早未结束的前 N 条（Tier 1）
+PER_CITY_CAP = 200  # 每城取最早未结束的前 N 条（Tier 1）— 提高上限确保弱网下也有足够活动
 
 
 def parse_date(s):
