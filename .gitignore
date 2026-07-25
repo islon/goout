@@ -31,3 +31,5 @@ Thumbs.db
 output/raw/
 # 官方核实脚本生成的死链明细（调试用，每次运行都会变，不进库）
 output/verification_dead_links.txt
+# 按城市汇总的活动列表快照（数据产物，随 exhibitions.json 变化，不进库）
+activity_list_by_city.md
