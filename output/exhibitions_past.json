@@ -1,5 +1,782 @@
 [
   {
+    "name": "仙女山森林探险营",
+    "venue": "仙女山国家森林公园",
+    "city": "chongqing",
+    "district": "武隆区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "五日森林探险营，含丛林穿越、溯溪与野外生存技能学习。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "森林探险",
+      "溯溪",
+      "生存技能"
+    ],
+    "type": "研学",
+    "is_family_friendly": false,
+    "title": "仙女山森林探险营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "name": "南京科技馆航天主题研学",
+    "venue": "南京科技馆",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "围绕中国航天事业开展研学，了解长征火箭、神舟飞船、空间站，并动手制作水火箭发射比赛。",
+    "source": "南京本地宝",
+    "highlights": [
+      "航天",
+      "水火箭",
+      "空间站"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "南京科技馆航天主题研学",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "科技馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "银杏湖乐园主题夏令营",
+    "venue": "银杏湖乐园",
+    "city": "nanjing",
+    "district": "江宁区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "银杏湖主题夏令营结合游乐与自然探索，白天玩项目，夜晚观星露营，丰富孩子暑期生活。",
+    "source": "南京本地宝",
+    "highlights": [
+      "夏令营",
+      "观星",
+      "露营"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "银杏湖乐园主题夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "雨花台红色夏令营",
+    "venue": "雨花台烈士陵园",
+    "city": "nanjing",
+    "district": "雨花台区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "免费",
+    "description": "五日红色夏令营结合雨花英烈学习与军事训练，培养孩子坚强意志与家国情怀，全程免费。",
+    "source": "南京本地宝",
+    "highlights": [
+      "红色夏令营",
+      "军事训练",
+      "家国情怀"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "雨花台红色夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "name": "大金山国防园军事夏令营",
+    "venue": "大金山国防园",
+    "city": "nanjing",
+    "district": "溧水区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "大金山军事夏令营五日营含军事训练、野外生存与CS对抗，让孩子在军事化生活中磨炼意志。",
+    "source": "南京本地宝",
+    "highlights": [
+      "军事夏令营",
+      "野外生存",
+      "CS对抗"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "大金山国防园军事夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "少儿民族打击乐A班（面向7-9岁少年招募）",
+    "name": "少儿民族打击乐A班（面向7-9岁少年招募）",
+    "venue": "宝安区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆"
+  },
+  {
+    "title": "少儿民族打击乐B班（面向10-12岁少年招募）",
+    "name": "少儿民族打击乐B班（面向10-12岁少年招募）",
+    "venue": "宝安区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆"
+  },
+  {
+    "title": "少儿声乐（3节课程）",
+    "name": "少儿声乐（3节课程）",
+    "venue": "宝安区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
+    "name": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "title": "2026年石岩街道“来深青工技能——古筝公益课”",
+    "name": "2026年石岩街道“来深青工技能——古筝公益课”",
+    "venue": "石岩文化艺术中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "石岩文化艺术中心"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-DIY益智戳戳画",
+    "name": "光明区文化馆总分馆联动活动-DIY益智戳戳画",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-24节气创意画",
+    "name": "光明区文化馆总分馆联动活动-24节气创意画",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
+  },
+  {
+    "title": "福田夜八点——国潮功夫夜",
+    "name": "福田夜八点——国潮功夫夜",
+    "venue": "园岭街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=04434435bcfc4be7882b39041958b3d6",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=04434435bcfc4be7882b39041958b3d6",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=04434435bcfc4be7882b39041958b3d6",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "园岭街道综合性文化服务中心"
+  },
+  {
+    "title": "2026年“夏日微时光·如‘乐’而至” 草坪音乐会",
+    "name": "2026年“夏日微时光·如‘乐’而至” 草坪音乐会",
+    "venue": "宝安区文化馆沙井分馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，宝安区公共文化体育服务中心--宝安区文化馆、沙井街道党群服务中心（文体），在宝安区文化馆沙井分馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆沙井分馆"
+  },
+  {
+    "title": "“青春舞浪”·2026凤凰街道青少年爵士舞暑假训练营活动",
+    "name": "“青春舞浪”·2026凤凰街道青少年爵士舞暑假训练营活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "title": "心理咨询",
+    "name": "心理咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://activity.nslib.cn/activity/info/11636",
+    "url": "https://activity.nslib.cn/activity/info/11636",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11636",
+        "label": "活动详情"
+      }
+    ],
+    "description": "心理咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦",
+    "name": "第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
+  },
+  {
+    "title": "“弦动西乡·乐伴成长”——2026年西乡街道“快乐 假期”青少年文艺展演之莎莎小提琴汇报音乐会",
+    "name": "“弦动西乡·乐伴成长”——2026年西乡街道“快乐 假期”青少年文艺展演之莎莎小提琴汇报音乐会",
+    "venue": "宝安区文化馆西乡街道分馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=309aa101653044118802706bffd4d64c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=309aa101653044118802706bffd4d64c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=309aa101653044118802706bffd4d64c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，指导单位：宝安区公共文化体育服务中心（文化馆） 主办单位：宝安区西乡街道办事处 宝安区西乡街道新时代文明实践所，在宝安区文化馆西乡街道分馆举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆西乡街道分馆"
+  },
+  {
+    "title": "寻找智美更登",
+    "name": "寻找智美更登",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654175&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654175&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654175&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F观影厅\n地址：龙华区腾龙路30号\n备注：年龄要求：年满45周岁以上。\n参与方式：先到先得，影厅提供28个座位，观影座位不指定。",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "东方幻境之旅：《照明商店》",
+    "name": "东方幻境之旅：《照明商店》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651458&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651458&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651458&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
+    "name": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654500&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654500&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654500&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "观影《卑鄙的我》",
+    "name": "观影《卑鄙的我》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654204&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654204&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654204&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "观影《爱丽丝梦游仙境》",
+    "name": "观影《爱丽丝梦游仙境》",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654200&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654200&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654200&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
+    "name": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654505&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654505&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654505&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "读剧：中华少儿经典故事",
+    "name": "读剧：中华少儿经典故事",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655002&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655002&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655002&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼报告厅\n地址：福田区福中一路2001号深圳图书馆五楼报告厅\n需预约\n备注：活动面向6周岁以上读者开放，6-12周岁读者参与活动需提前预约，预约成功后现场出示预约信息进行核验，并由家长陪同进馆参加。12周岁以上读者参与活动无需预约。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "name": "湖北省博物馆考古小达人体验",
+    "venue": "湖北省博物馆",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "免费需预约",
+    "description": "通过模拟探方发掘与文物拼对，让孩子化身考古小达人。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "考古",
+      "体验",
+      "亲子"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "湖北省博物馆考古小达人体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "武汉美术馆暑期艺术夏令营",
+    "venue": "武汉美术馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "五日艺术夏令营，绘画雕塑综合体验。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "夏令营",
+      "艺术",
+      "综合"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "武汉美术馆暑期艺术夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "木兰草原夏令营",
+    "venue": "木兰草原",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-24",
+    "fee": "收费",
+    "description": "五天草原夏令营，户外生存与自然探索。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "夏令营",
+      "生存",
+      "探索"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "木兰草原夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "盘龙城遗址博物院商代历史课堂",
+    "venue": "盘龙城遗址博物院",
+    "city": "wuhan",
+    "district": "黄陂区",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "fee": "免费",
+    "description": "商代历史课堂，讲述盘龙城与商代南土。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "商代",
+      "南土",
+      "课堂"
+    ],
+    "type": "讲座",
+    "is_family_friendly": false,
+    "title": "盘龙城遗址博物院商代历史课堂",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
     "title": "“飒舞飞扬”·2026凤凰街道青少年爵士舞暑假训练营活动",
     "name": "“飒舞飞扬”·2026凤凰街道青少年爵士舞暑假训练营活动",
     "venue": "凤凰街道综合性文化服务中心",
