@@ -244,6 +244,11 @@ Page({
     this.saveFilters();
   },
 
+  onClearSearch() {
+    this.setData({ searchQuery: '' }, () => this.applyFilters());
+    this.saveFilters();
+  },
+
   onVenueTap(e) {
     const name = e.currentTarget.dataset.name;
     wx.navigateTo({

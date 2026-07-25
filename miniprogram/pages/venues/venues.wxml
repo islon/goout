@@ -1,46 +1,58 @@
 <!-- 童行小程序 - 场馆指南列表页 -->
-<view class="venues-page">
+<view class="page">
 
-  <!-- 搜索栏 -->
+  <!-- 搜索框 -->
   <view class="search-bar">
-    <image class="search-icon" src="/assets/search-icon.png" mode="aspectFit" />
-    <input class="search-input" type="text" placeholder="搜索场馆名称、地址或关键词" value="{{searchQuery}}" bindinput="onSearchInput" confirm-type="search" />
+    <view class="search-wrapper">
+      <image class="search-icon" src="/assets/search-icon.png" mode="aspectFit" />
+      <input class="search-input" type="text" placeholder="搜索场馆名称、地址或关键词..." value="{{searchQuery}}" bindinput="onSearchInput" confirm-type="search" />
+      <image wx:if="{{searchQuery}}" class="search-clear-img" src="/assets/search-clear.png" mode="aspectFit" bindtap="onClearSearch" />
+    </view>
   </view>
 
   <!-- 城市筛选 -->
-  <scroll-view class="filter-scroll" scroll-x enhanced show-scrollbar="{{false}}">
-    <view class="filter-list">
-      <view wx:for="{{cities}}" wx:key="key" class="filter-chip {{cityFilter === item.key ? 'active' : ''}}" bindtap="onCityTap" data-key="{{item.key}}">
-        {{item.name}}
+  <view class="filter-section">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{cities}}" wx:key="key"
+          class="filter-btn {{cityFilter === item.key ? 'active' : ''}}"
+          data-key="{{item.key}}" bindtap="onCityTap">
+          {{item.name}}
+        </view>
       </view>
-    </view>
-  </scroll-view>
+    </scroll-view>
+  </view>
 
   <!-- 区县筛选（仅在选定具体城市时显示） -->
-  <scroll-view wx:if="{{cityFilter !== 'all'}}" class="filter-scroll district-filter" scroll-x enhanced show-scrollbar="{{false}}">
-    <view class="filter-list">
-      <view wx:for="{{districts}}" wx:key="*this" class="filter-chip {{(districtFilter === item || (districtFilter === 'all' && item === '全部区县')) ? 'active' : ''}}" bindtap="onDistrictTap" data-key="{{item}}">
-        {{item}}
+  <view wx:if="{{cityFilter !== 'all'}}" class="filter-section">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{districts}}" wx:key="*this"
+          class="filter-btn {{(districtFilter === item || (districtFilter === 'all' && item === '全部区县')) ? 'active' : ''}}"
+          data-key="{{item}}" bindtap="onDistrictTap">
+          {{item}}
+        </view>
       </view>
-    </view>
-  </scroll-view>
+    </scroll-view>
+  </view>
 
   <!-- 类型筛选（多行展示，可展开/收起） -->
-  <view class="type-filter-block">
-    <view class="filter-list type-list {{typeExpanded ? '' : 'collapsed'}}">
-      <view wx:for="{{types}}" wx:key="key" class="filter-chip {{typeFilter === item.key ? 'active' : ''}}" bindtap="onTypeTap" data-key="{{item.key}}">
+  <view class="filter-section">
+    <view class="filter-bar filter-bar-wrap {{typeExpanded ? '' : 'type-collapsed'}}">
+      <view wx:for="{{types}}" wx:key="key"
+        class="filter-btn {{typeFilter === item.key ? 'active' : ''}}"
+        data-key="{{item.key}}" bindtap="onTypeTap">
         {{item.name}}
       </view>
     </view>
-    <view wx:if="{{types.length > typeCollapseThreshold}}" class="type-toggle {{typeExpanded ? 'expanded' : ''}}" bindtap="onToggleType">
-      {{typeExpanded ? '收起' : '展开'}}
+    <view wx:if="{{types.length > typeCollapseThreshold}}" class="expand-toggle" bindtap="onToggleType">
+      {{typeExpanded ? '收起 ↑' : '展开更多 ▼'}}
     </view>
   </view>
 
-  <!-- 统计条 -->
-  <view class="stats-bar">
-    <text>共 {{venues.length}} 个场馆</text>
-    <text wx:if="{{cityFilter !== 'all'}}" class="stats-city">· {{cityNameMap[cityFilter] || cityFilter}}</text>
+  <!-- 统计信息 -->
+  <view class="count-info">
+    共 {{venues.length}} 个场馆{{cityFilter !== 'all' ? '· ' + (cityNameMap[cityFilter] || cityFilter) : ''}}
   </view>
 
   <!-- 场馆列表 -->
