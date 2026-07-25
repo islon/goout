@@ -30,7 +30,7 @@ from datetime import date
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output')
 RECENT_FILE = os.path.join(OUTPUT_DIR, 'exhibitions_recent.json')
 PAST_FILE = os.path.join(OUTPUT_DIR, 'exhibitions_past.json')
-PER_CITY_CAP = 200  # 每城取最早未结束的前 N 条（Tier 1）— 提高上限确保弱网下也有足够活动
+PER_CITY_CAP = 500  # 每城取最早未结束的前 N 条（Tier 1）— 提高上限确保弱网下也有足够活动
 
 
 def parse_date(s):
@@ -92,7 +92,7 @@ def main():
             elif ed and ed >= today:
                 alive.append(x)
         alive.sort(key=recent_key)
-        per_city_recent[city] = alive[:PER_CITY_CAP]
+        per_city_recent[city] = alive  # 不再限制每城条数，包含所有未过期活动
 
     # ---- Tier 1：近期活动（每个城市离当前最近的前 N 条），按 recent_key 合并 ----
     def merged_key(x):
