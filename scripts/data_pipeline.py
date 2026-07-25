@@ -791,13 +791,9 @@ def main():
             f.write(city_ics)
         print(f"  [{city_code}] ICS -> {city_ics_path}")
 
-    # 复制场馆信息文件到 output 目录
-    venue_info_src = os.path.join(os.path.dirname(__file__), 'venue_info.json')
-    if os.path.exists(venue_info_src):
-        import shutil
-        venue_info_dst = os.path.join(OUTPUT_DIR, 'venue_info.json')
-        shutil.copy2(venue_info_src, venue_info_dst)
-        print(f"场馆信息已复制到 {venue_info_dst}")
+    # 注：单文件兜底 output/venue_info.json 不再从这里复制 scripts/venue_info.json
+    # （那份文件容易过时并退化为 5 城，曾导致手机走兜底时丢失 6 城场馆）。
+    # 改由下方 generate_city_venues.py 以「分城市文件为权威」统一写回单文件。
 
     try:
         generate_rss()
