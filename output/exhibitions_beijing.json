@@ -440,7 +440,7 @@
     "link": "https://bj.bendibao.com/xiuxian/huodongditu",
     "url": "https://bj.bendibao.com/xiuxian/huodongditu",
     "description": "50+国内外酒水商家、400+款酒、30+网红美食，暑期周末微醺市集。",
-    "category": "市集",
+    "category": "亲子活动",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
@@ -570,7 +570,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京密云区科普活动探索",
@@ -606,7 +607,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "第八届梦幻景泰蓝夜场文化体验季",
@@ -677,7 +679,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "轮滑与乒乓球免费体验",
@@ -784,7 +787,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进北京石景山区讲座阅读日",
@@ -820,7 +824,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典北京西城区亲子活动探秘",
@@ -856,7 +861,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童北京大兴区展览课程",
@@ -892,7 +898,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "潭柘寺千年古刹",
@@ -928,7 +935,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "大运河研学与风筝手工",
@@ -1000,7 +1008,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京大兴区科普活动嘉年华",
@@ -1037,7 +1046,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童北京丰台区科普活动课程",
@@ -1074,7 +1084,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "颐和园暑期活动",
@@ -1182,7 +1193,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式北京日坛公园展览",
@@ -1219,7 +1231,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典北京西城区科普活动探秘",
@@ -1255,7 +1268,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进北京石景山区体育赛事日",
@@ -1291,7 +1305,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "家庭北京海淀区影视放映研学营",
@@ -1328,7 +1343,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京大兴区展览嘉年华",
@@ -1365,7 +1381,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京海淀区科普活动探索",
@@ -1401,7 +1418,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "免费美术舞蹈科创公益课",
@@ -1510,7 +1528,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京地坛公园展览",
@@ -1547,7 +1566,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动北京丰台区科普活动科普",
@@ -1583,7 +1603,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京石景山区影视放映之旅",
@@ -1620,7 +1641,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京昌平区讲座阅读季",
@@ -1656,7 +1678,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻北京房山区演出之旅",
@@ -1692,7 +1715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京丰台区讲座阅读嘉年华",
@@ -1728,7 +1752,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "军事博物馆基本陈列（革命战争陈列等）",
@@ -1836,7 +1861,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末北京东城区展览活动",
@@ -1873,7 +1899,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动北京大兴区影视放映科普",
@@ -1910,7 +1937,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现北京昌平区科普活动比赛",
@@ -1947,7 +1975,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "植物庞贝城——乌达二叠纪化石精品展",
@@ -2056,7 +2085,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味北京松美术馆亲子活动",
@@ -2093,7 +2123,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京东城区演出讲座",
@@ -2129,7 +2160,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进北京房山区展览日",
@@ -2166,7 +2198,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味北京门头沟区科普活动展览",
@@ -2203,7 +2236,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现北京海淀区演出比赛",
@@ -2239,7 +2273,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读北京门头沟区科普活动周",
@@ -2276,7 +2311,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "中国消防博物馆暑期安全教育",
@@ -2420,7 +2456,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典北京门头沟区讲座阅读探秘",
@@ -2456,7 +2493,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动",
@@ -2563,7 +2601,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京房山区影视放映讲座",
@@ -2599,7 +2638,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京顺义区影视放映演出",
@@ -2635,7 +2675,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味北京门头沟区亲子活动展览",
@@ -2672,7 +2713,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现北京密云区讲座阅读比赛",
@@ -2708,7 +2750,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典北京通州区科普活动探秘",
@@ -2745,7 +2788,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国铁道博物馆正阳门馆",
@@ -2782,7 +2826,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "皮影与剪纸",
@@ -2926,7 +2971,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京国贸商城展览",
@@ -2962,7 +3008,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "恐龙公园：龙口脱险",
@@ -3035,7 +3082,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "北京王府井研学",
@@ -3071,7 +3119,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京龙潭湖公园亲子活动",
@@ -3108,7 +3157,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读北京门头沟区影视放映周",
@@ -3144,7 +3194,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "草坪游乐与户外亲子运动会",
@@ -3217,7 +3268,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读北京西城区展览周",
@@ -3253,7 +3305,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻北京石景山区讲座阅读之旅",
@@ -3290,7 +3343,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "非遗剪纸皮影手工与少儿合唱公益课",
@@ -3398,7 +3452,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典北京景山公园演出",
@@ -3435,7 +3490,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京前门大街演出",
@@ -3471,7 +3527,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩北京丰台区亲子活动节",
@@ -3508,7 +3565,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味北京西城区影视放映展览",
@@ -3544,7 +3602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "刘宇2026\"宇宙诗人\"演唱会·北京站",
@@ -3688,7 +3747,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "venue_url": "https://www.n-s.cn/"
+    "venue_url": "https://www.n-s.cn/",
+    "category": "展览"
   },
   {
     "name": "沉浸式北京昌平区演出探索",
@@ -3725,7 +3785,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京怀柔区亲子活动月",
@@ -3761,7 +3822,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "欢乐北京大观园亲子活动",
@@ -3797,7 +3859,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京中国科技馆演出",
@@ -3834,7 +3897,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "走进北京房山区讲座阅读日",
@@ -3871,7 +3935,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩北京蓝色港湾演出",
@@ -3907,7 +3972,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京中山公园研学",
@@ -3944,7 +4010,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童北京蓝色港湾亲子活动",
@@ -3980,7 +4047,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京东城区讲座阅读之旅",
@@ -4017,7 +4085,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末北京石景山区亲子活动活动",
@@ -4054,7 +4123,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩北京丰台区演出节",
@@ -4091,7 +4161,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京朝阳区科普活动演出",
@@ -4128,7 +4199,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "阅读绘本与暑期研学",
@@ -4201,7 +4273,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩北京延庆区展览节",
@@ -4238,7 +4311,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻北京房山区亲子活动之旅",
@@ -4275,7 +4349,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京石景山区演出讲座",
@@ -4312,7 +4387,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "恭王府博物馆",
@@ -4349,7 +4425,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "四季植物科普与鸟类观察公益课",
@@ -4422,7 +4499,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京延庆区讲座阅读嘉年华",
@@ -4458,7 +4536,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -4600,7 +4679,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "亲子阅读与自然研学",
@@ -4673,7 +4753,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童北京延庆区演出课程",
@@ -4709,7 +4790,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "孔庙和国子监博物馆",
@@ -4746,7 +4828,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "北京天文馆暑期夜场",
@@ -4853,7 +4936,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末北京房山区科普活动活动",
@@ -4890,7 +4974,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "红螺寺秋景",
@@ -4926,7 +5011,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "山林徒步与湿地科普",
@@ -4998,7 +5084,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味北京西城区讲座阅读展览",
@@ -5035,7 +5122,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "互动北京丰台区亲子活动科普",
@@ -5072,7 +5160,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读北京西城区影视放映周",
@@ -5109,7 +5198,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "军博红色电影展映与军事互动社教活动",
@@ -5181,7 +5271,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京石景山区亲子活动讲座",
@@ -5217,7 +5308,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "儿童科学乐园与航天科普实验",
@@ -5289,7 +5381,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京顺义区展览月",
@@ -5326,7 +5419,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩北京大兴区科普活动节",
@@ -5362,7 +5456,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "巴西魂——波尔蒂纳里艺术展",
@@ -5470,7 +5565,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "汪苏泷2026\"明日世界\"演唱会-北京站",
@@ -5615,7 +5711,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京地坛公园展览",
@@ -5652,7 +5749,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游北京今日美术馆展览",
@@ -5689,7 +5787,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现北京昌平区讲座阅读比赛",
@@ -5725,7 +5824,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "圆明园考古·少年行",
@@ -5868,7 +5968,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现北京中国国家博物馆展览",
@@ -5905,7 +6006,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -5976,7 +6078,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童北京丰台区影视放映课程",
@@ -6013,7 +6116,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典北京通州区讲座阅读探秘",
@@ -6050,7 +6154,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末北京房山区体育赛事活动",
@@ -6086,7 +6191,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩北京大兴区体育赛事节",
@@ -6123,7 +6229,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "暑期北京西城区体育赛事体验营",
@@ -6160,7 +6267,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现北京密云区影视放映比赛",
@@ -6197,7 +6305,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京怀柔区演出月",
@@ -6234,7 +6343,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国邮政邮票博物馆",
@@ -6271,7 +6381,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "大钟寺古钟博物馆",
@@ -6308,7 +6419,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "双星耀世——三星堆—金沙遗址古蜀文明展",
@@ -6451,7 +6563,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "研学北京北京故宫博物院研学",
@@ -6487,7 +6600,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京怀柔区亲子活动演出",
@@ -6524,7 +6638,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭北京昌平区亲子活动研学营",
@@ -6561,7 +6676,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京朝阳区演出工作坊",
@@ -6598,7 +6714,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "2026世界机器人大会",
@@ -6610,7 +6727,7 @@
     "link": "https://bj.bendibao.com/xiuxian/huodongditu",
     "url": "https://bj.bendibao.com/xiuxian/huodongditu",
     "description": "主题为\"人机共生，产需共融\"，8月19日至23日在北京经济技术开发区举行，汇集全球机器人产业前沿。",
-    "category": "博览展会",
+    "category": "科普活动",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
@@ -6742,7 +6859,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京奥林匹克森林公园研学",
@@ -6779,7 +6897,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "郭沫若纪念馆",
@@ -6815,7 +6934,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "松美术馆",
@@ -6852,7 +6972,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "大运河文化公益展与非遗手工体验",
@@ -6994,7 +7115,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读北京门头沟区体育赛事周",
@@ -7030,7 +7152,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年北京房山区体育赛事讲座",
@@ -7067,7 +7190,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京古观象台",
@@ -7103,7 +7227,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "河边写生与亲子骑行",
@@ -7175,7 +7300,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游北京昌平区体育赛事季",
@@ -7212,7 +7338,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -7392,7 +7519,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京朝阳区演出发现",
@@ -7429,7 +7557,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京石景山区展览之旅",
@@ -7466,7 +7595,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味北京通州区展览展览",
@@ -7502,7 +7632,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "天坛公园暑期亲子研学",
@@ -7575,7 +7706,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京天坛公园展览",
@@ -7612,7 +7744,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典北京门头沟区展览探秘",
@@ -7649,7 +7782,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读北京通州区亲子活动周",
@@ -7686,7 +7820,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京海淀区亲子活动季",
@@ -7723,7 +7858,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动北京大兴区体育赛事科普",
@@ -7759,7 +7895,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯文明大展",
@@ -7866,7 +8003,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭北京什刹海亲子活动",
@@ -7902,7 +8040,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京顺义区科普活动发现",
@@ -7939,7 +8078,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "“童画恭王府”——恭王府博物馆青少年美育成果展",
@@ -8047,7 +8187,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京怀柔区体育赛事发现",
@@ -8084,7 +8225,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "周末北京房山区亲子活动活动",
@@ -8120,7 +8262,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "北科展教坊专题课程",
@@ -8192,7 +8335,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典北京门头沟区影视放映探秘",
@@ -8229,7 +8373,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国地质博物馆",
@@ -8266,7 +8411,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "云居寺石经山",
@@ -8302,7 +8448,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "绘画乐器体能免费体验",
@@ -8444,7 +8591,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "实践北京中国美术馆研学",
@@ -8481,7 +8629,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩北京丰台区展览节",
@@ -8518,7 +8667,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼北京顺义区演出发现",
@@ -8555,7 +8705,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "运河历史科普与湖边游乐区",
@@ -8663,7 +8814,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京海淀区科普活动季",
@@ -8699,7 +8851,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进北京房山区影视放映日",
@@ -8735,7 +8888,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "牛街礼拜寺",
@@ -8771,7 +8925,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "青少年北京八达岭长城亲子活动",
@@ -8807,7 +8962,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京昌平区展览探索",
@@ -8843,7 +8999,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式北京海淀区体育赛事探索",
@@ -8880,7 +9037,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "春日植物科普与湖边写生",
@@ -8953,7 +9111,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京朝阳区亲子活动演出",
@@ -8990,7 +9149,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京中山公园展览",
@@ -9027,7 +9187,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末北京东城区影视放映活动",
@@ -9064,7 +9225,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京房山区讲座阅读讲座",
@@ -9101,7 +9263,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典北京通州区体育赛事探秘",
@@ -9137,7 +9300,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探索北京顺义区讲座阅读演出",
@@ -9173,7 +9337,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进北京石景山区科普活动日",
@@ -9210,7 +9375,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "“用爱守护儿童生命安全教育展”（博物馆里过大年）",
@@ -9283,7 +9449,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京中国美术馆展览",
@@ -9320,7 +9487,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读北京王府井展览",
@@ -9356,7 +9524,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验北京大兴区亲子活动嘉年华",
@@ -9393,7 +9562,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末北京东城区体育赛事活动",
@@ -9430,7 +9600,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩北京延庆区体育赛事节",
@@ -9466,7 +9637,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻北京东城区亲子活动之旅",
@@ -9502,7 +9674,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭北京国家体育馆亲子活动",
@@ -9539,7 +9712,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京龙潭湖公园亲子活动",
@@ -9576,7 +9750,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学北京国家体育场研学",
@@ -9613,7 +9788,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "venue_url": "https://www.n-s.cn/"
+    "venue_url": "https://www.n-s.cn/",
+    "category": "亲子活动"
   },
   {
     "name": "家庭北京海淀区演出研学营",
@@ -9650,7 +9826,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京顺义区展览演出",
@@ -9686,7 +9863,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子北京顺义区体育赛事工作坊",
@@ -9723,7 +9901,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游北京密云区展览季",
@@ -9760,7 +9939,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭北京昌平区演出研学营",
@@ -9796,7 +9976,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "白云观道教",
@@ -9832,7 +10013,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "疆壤益广开郡县——战国秦汉时期的云南",
@@ -9905,7 +10087,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京朝阳公园亲子活动",
@@ -9942,7 +10125,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京石景山区体育赛事讲座",
@@ -9979,7 +10163,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京朝阳区展览发现",
@@ -10016,7 +10201,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期北京通州区影视放映体验营",
@@ -10052,7 +10238,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京朝阳区影视放映发现",
@@ -10089,7 +10276,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典北京西城区展览探秘",
@@ -10126,7 +10314,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻北京南锣鼓巷演出",
@@ -10162,7 +10351,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京三里屯亲子活动",
@@ -10198,7 +10388,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期北京西城区讲座阅读体验营",
@@ -10235,7 +10426,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动北京延庆区展览科普",
@@ -10272,7 +10464,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "儿童乐园与绘本故事会",
@@ -10414,7 +10607,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动北京延庆区影视放映科普",
@@ -10451,7 +10645,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -10631,7 +10826,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京中国国家博物馆研学",
@@ -10668,7 +10864,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "“红楼探园”展",
@@ -10741,7 +10938,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "北京北京植物园亲子活动",
@@ -10777,7 +10975,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进北京陶然亭公园展览",
@@ -10814,7 +11013,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期北京门头沟区亲子活动体验营",
@@ -10850,7 +11050,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭北京海淀区展览研学营",
@@ -10886,7 +11087,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "墨韵文脉——八大山人与17世纪以来中国写意艺术展",
@@ -10994,7 +11196,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "震撼北京怀柔区讲座阅读发现",
@@ -11030,7 +11233,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探索北京怀柔区展览演出",
@@ -11066,7 +11270,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭北京密云区科普活动研学营",
@@ -11103,7 +11308,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "雍和宫祈福",
@@ -11139,7 +11345,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "今日美术馆",
@@ -11176,7 +11383,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "非遗与户外研学",
@@ -11284,7 +11492,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验北京延庆区科普活动嘉年华",
@@ -11320,7 +11529,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京顺义区影视放映月",
@@ -11357,7 +11567,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -11572,7 +11783,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典北京西城区演出探秘",
@@ -11609,7 +11821,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味北京西城区体育赛事展览",
@@ -11645,7 +11858,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现北京昌平区亲子活动比赛",
@@ -11682,7 +11896,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "智化寺古建音乐",
@@ -11718,7 +11933,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "追光逐影——银幕中的汽车主题展",
@@ -11827,7 +12043,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期北京门头沟区展览体验营",
@@ -11863,7 +12080,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现北京海淀区展览比赛",
@@ -11900,7 +12118,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "北京环球度假区暑期活动",
@@ -12007,7 +12226,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "北京奥林匹克公园演出",
@@ -12044,7 +12264,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童北京延庆区科普活动课程",
@@ -12081,7 +12302,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京丰台区影视放映嘉年华",
@@ -12117,7 +12339,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国美术馆",
@@ -12154,7 +12377,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "五塔寺石刻博物馆",
@@ -12191,7 +12415,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "北京手工与文物临摹",
@@ -12299,7 +12524,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京颐和园研学",
@@ -12335,7 +12561,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京怀柔区影视放映工作坊",
@@ -12372,7 +12599,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "北京动物园暑期活动",
@@ -12516,7 +12744,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式北京海淀区影视放映探索",
@@ -12553,7 +12782,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期北京通州区展览体验营",
@@ -12590,7 +12820,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京海淀区讲座阅读探索",
@@ -12627,7 +12858,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期北京西城区科普活动体验营",
@@ -12664,7 +12896,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京画院美术馆",
@@ -12701,7 +12934,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现北京颐和园展览",
@@ -12737,7 +12971,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童北京延庆区亲子活动课程",
@@ -12774,7 +13009,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "河道科普与沙池",
@@ -12847,7 +13083,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "戒台寺古松",
@@ -12883,7 +13120,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "矿石标本与地质科普",
@@ -13027,7 +13265,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奇妙北京南锣鼓巷亲子活动",
@@ -13063,7 +13302,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京朝阳区体育赛事演出",
@@ -13099,7 +13339,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "周末北京石景山区展览活动",
@@ -13136,7 +13377,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子北京顺义区科普活动工作坊",
@@ -13172,7 +13414,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "园林科普与植物手工",
@@ -13245,7 +13488,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京朝阳区科普活动工作坊",
@@ -13282,7 +13526,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京密云区演出季",
@@ -13319,7 +13564,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩北京延庆区影视放映节",
@@ -13355,7 +13601,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "话剧《罗密欧与朱丽叶》",
@@ -13427,7 +13674,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京密云区亲子活动探索",
@@ -13463,7 +13711,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期北京西城区亲子活动体验营",
@@ -13499,7 +13748,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京鲁迅博物馆",
@@ -13536,7 +13786,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "“北海菊韵”传统插花雅集",
@@ -13680,7 +13931,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京北京画院美术馆展览",
@@ -13717,7 +13969,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京朝阳区影视放映月",
@@ -13754,7 +14007,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现北京昌平区体育赛事比赛",
@@ -13791,7 +14045,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "解读北京门头沟区讲座阅读周",
@@ -13828,7 +14083,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "老舍纪念馆",
@@ -13864,7 +14120,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验北京奥林匹克公园研学",
@@ -13901,7 +14158,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京三里屯展览",
@@ -13937,7 +14195,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京丰台区展览嘉年华",
@@ -13974,7 +14233,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "星空穹顶科普课与陨石标本观察",
@@ -14117,7 +14377,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京北京动物园亲子活动",
@@ -14153,7 +14414,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘北京怀柔区科普活动月",
@@ -14190,7 +14452,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京顺义区亲子活动发现",
@@ -14226,7 +14489,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末北京东城区讲座阅读活动",
@@ -14263,7 +14527,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘北京朝阳区体育赛事月",
@@ -14299,7 +14564,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "中国妇女儿童博物馆暑期展览",
@@ -14407,7 +14673,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京东城区体育赛事之旅",
@@ -14443,7 +14710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "李静训和她的时代",
@@ -14515,7 +14783,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩北京北京科学中心演出",
@@ -14551,7 +14820,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "万寿寺北京艺术博物馆",
@@ -14588,7 +14858,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "心游万仞——蒲松龄与《聊斋志异》",
@@ -14697,7 +14968,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "非遗活动与免费艺术培训",
@@ -14805,7 +15077,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京朝阳区亲子活动工作坊",
@@ -14841,7 +15114,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "麋鹿科普与环湖步道",
@@ -14914,7 +15188,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索北京玉渊潭公园展览",
@@ -14951,7 +15226,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘北京朝阳区讲座阅读月",
@@ -14987,7 +15263,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "红砖美术馆",
@@ -15024,7 +15301,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "“乾隆的审美”展",
@@ -15168,7 +15446,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -15348,7 +15627,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "星辰足迹——月背之约航天主题展",
@@ -15455,7 +15735,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索北京景山公园展览",
@@ -15492,7 +15773,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读北京西城区演出周",
@@ -15529,7 +15811,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进北京东城区演出日",
@@ -15566,7 +15849,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京怀柔区讲座阅读工作坊",
@@ -15603,7 +15887,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味北京通州区影视放映展览",
@@ -15639,7 +15924,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动北京丰台区演出科普",
@@ -15675,7 +15961,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "茅盾故居",
@@ -15711,7 +15998,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "白塔寺妙应寺",
@@ -15747,7 +16035,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "行·迹——卡塔尔游牧生活与文化展",
@@ -15820,7 +16109,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻北京北京天文馆演出",
@@ -15856,7 +16146,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭北京昌平区科普活动研学营",
@@ -15892,7 +16183,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动北京延庆区演出科普",
@@ -15928,7 +16220,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读北京通州区演出周",
@@ -15965,7 +16258,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "霸王龙T-REX——恐龙之王特展",
@@ -16109,7 +16403,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京中国科技馆亲子活动",
@@ -16146,7 +16441,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭北京密云区讲座阅读研学营",
@@ -16183,7 +16479,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "吉金耀山川——鄂尔多斯青铜文化展",
@@ -16327,7 +16624,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京国家体育场展览",
@@ -16364,7 +16662,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "venue_url": "https://www.n-s.cn/"
+    "venue_url": "https://www.n-s.cn/",
+    "category": "展览"
   },
   {
     "name": "解读北京通州区科普活动周",
@@ -16401,7 +16700,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进北京东城区亲子活动日",
@@ -16438,7 +16738,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京东城区展览讲座",
@@ -16475,7 +16776,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "森林研学与无动力乐园",
@@ -16548,7 +16850,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童北京大观园亲子活动",
@@ -16584,7 +16887,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻北京北京故宫博物院演出",
@@ -16620,7 +16924,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京怀柔区展览工作坊",
@@ -16656,7 +16961,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末北京石景山区演出活动",
@@ -16692,7 +16998,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩北京大兴区亲子活动节",
@@ -16729,7 +17036,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京密云区演出探索",
@@ -16765,7 +17073,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "工业风户外儿童乐园与非遗亲子市集",
@@ -16836,7 +17145,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京红砖美术馆亲子活动",
@@ -16873,7 +17183,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动北京大兴区讲座阅读科普",
@@ -16910,7 +17221,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童北京丰台区体育赛事课程",
@@ -16947,7 +17259,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京密云区影视放映季",
@@ -16983,7 +17296,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "宋庆龄同志故居",
@@ -17019,7 +17333,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "草坪露营与节气市集",
@@ -17091,7 +17406,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游北京大观园展览",
@@ -17127,7 +17443,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘北京怀柔区体育赛事月",
@@ -17163,7 +17480,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "体验北京大兴区演出嘉年华",
@@ -17200,7 +17518,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "哦吼！火星——火星探测与未来生活体验展",
@@ -17378,7 +17697,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验北京延庆区体育赛事嘉年华",
@@ -17415,7 +17735,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式北京昌平区影视放映探索",
@@ -17452,7 +17773,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京东岳庙",
@@ -17489,7 +17811,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "森林骑行与昆虫观察",
@@ -17561,7 +17884,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年北京石景山区科普活动讲座",
@@ -17598,7 +17922,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味北京通州区演出展览",
@@ -17635,7 +17960,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼北京怀柔区科普活动发现",
@@ -17671,7 +17997,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "街头艺术与手工市集",
@@ -17778,7 +18105,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "北京日坛公园亲子活动",
@@ -17815,7 +18143,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味北京什刹海亲子活动",
@@ -17851,7 +18180,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奇妙北京北京动物园亲子活动",
@@ -17887,7 +18217,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼北京北京植物园演出",
@@ -17923,7 +18254,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学北京北京天文馆研学",
@@ -17959,7 +18291,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子北京朝阳区展览工作坊",
@@ -17995,7 +18328,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索北京顺义区体育赛事演出",
@@ -18032,7 +18366,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "北京自然博物馆恐龙探秘之旅",
@@ -18104,7 +18439,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "北京三里屯亲子活动",
@@ -18140,7 +18476,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期北京门头沟区演出体验营",
@@ -18176,7 +18513,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "北京海洋馆智慧海洋·生存大师季",
@@ -18320,7 +18658,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年北京东城区影视放映讲座",
@@ -18356,7 +18695,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北京欢乐谷万圣节",
@@ -18392,7 +18732,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "首都博物馆暑期展览",
@@ -18501,7 +18842,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘北京国家体育馆展览",
@@ -18538,7 +18880,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动北京丰台区体育赛事科普",
@@ -18575,7 +18918,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "家庭北京密云区体育赛事研学营",
@@ -18612,7 +18956,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "世界文明互鉴系列——莫斯科市博物馆茶文化展（万里茶道）",

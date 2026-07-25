@@ -80,7 +80,7 @@
     "link": "https://wh.bendibao.com/xiuxian/huodongditu",
     "url": "https://wh.bendibao.com/xiuxian/huodongditu",
     "description": "聚焦空天国防知识普及，陈列战机模型、航天器械、防空装备展品，亲子科普好去处。",
-    "category": "博览展会",
+    "category": "亲子活动",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
@@ -174,7 +174,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "盘龙城遗址博物院青铜冶炼体验",
@@ -210,7 +211,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉科技馆机器人体验夏令营",
@@ -247,7 +249,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园夜探",
@@ -283,7 +286,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "后官湖湿地公园观鸟营",
@@ -320,7 +324,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉海昌极地海洋公园极地探险营",
@@ -357,7 +362,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "汉秀剧场亲子专场",
@@ -393,7 +399,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "武汉市少年儿童图书馆亲子阅读营",
@@ -430,7 +437,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰清凉寨萤火虫夜观",
@@ -466,7 +474,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "黎黄陂路夜游",
@@ -502,7 +511,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "沉浸式武汉黄陂区科普活动探索",
@@ -538,7 +548,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "宗师列传·唐宋八大家 主题全国美术作品邀请展",
@@ -609,7 +620,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉科技馆物理实验秀",
@@ -646,7 +658,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中山公园亲子定向越野",
@@ -683,7 +696,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉欢乐谷亲子过山车体验",
@@ -719,7 +733,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北美术馆亲子导览",
@@ -756,7 +771,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "湖北省图书馆亲子共读营",
@@ -793,7 +809,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉图书馆公益书法班",
@@ -830,7 +847,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉体育中心田径体验",
@@ -866,7 +884,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "武汉全民健身中心亲子瑜伽",
@@ -902,7 +921,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰草原热气球体验",
@@ -938,7 +958,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉东西湖区体育赛事科普",
@@ -975,7 +996,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游武汉江夏区亲子活动季",
@@ -1012,7 +1034,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省博物馆考古小达人体验",
@@ -1049,7 +1072,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "东湖落雁景区观鸟",
@@ -1086,7 +1110,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉欢乐谷儿童剧专场",
@@ -1122,7 +1147,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "武汉美术馆暑期艺术夏令营",
@@ -1159,7 +1185,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄鹤楼公园登楼揽胜课堂",
@@ -1196,7 +1223,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "木兰草原夏令营",
@@ -1232,7 +1260,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "克里姆林宫的瑰宝",
@@ -1305,7 +1334,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省科学技术馆暑期科学营",
@@ -1341,7 +1371,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉图书馆童书漂流",
@@ -1378,7 +1409,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "辛亥革命武昌起义纪念馆历史课堂",
@@ -1414,7 +1446,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉体育馆篮球训练营",
@@ -1451,7 +1484,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "木兰草原滑草嘉年华",
@@ -1487,7 +1521,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "木兰清凉寨古寨探秘",
@@ -1523,7 +1558,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进武汉黄陂区演出日",
@@ -1560,7 +1596,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉汉阳区讲座阅读科普",
@@ -1597,7 +1634,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩武汉洪山区亲子活动节",
@@ -1634,7 +1672,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省博物馆元青花四爱图梅瓶鉴赏",
@@ -1671,7 +1710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉动物园小小饲养员体验",
@@ -1707,7 +1747,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉玛雅海滩水公园亲子水寨",
@@ -1744,7 +1785,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "辛亥革命博物馆近代史课堂",
@@ -1781,7 +1823,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉体育中心网球培训",
@@ -1817,7 +1860,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "木兰天池森林夏令营",
@@ -1853,7 +1897,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "汉口江滩灯光秀夜游",
@@ -1890,7 +1935,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验武汉江夏区演出嘉年华",
@@ -1927,7 +1973,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江汉关博物馆钟楼探秘",
@@ -1964,7 +2011,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉科技馆科学实验秀暑期专场",
@@ -2001,7 +2049,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉海昌极地海洋公园海豚互动",
@@ -2038,7 +2087,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "武汉海昌极地海洋公园海底隧道",
@@ -2075,7 +2125,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "粮道街夜市",
@@ -2111,7 +2162,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童武汉江岸区影视放映课程",
@@ -2147,7 +2199,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式武汉洪山区科普活动探索",
@@ -2183,7 +2236,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "盘龙城遗址博物院商代历史课堂",
@@ -2219,7 +2273,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "第三十八届华夏家博会",
@@ -2231,7 +2286,7 @@
     "link": "https://wh.bendibao.com/xiuxian/huodongditu",
     "url": "https://wh.bendibao.com/xiuxian/huodongditu",
     "description": "以\"装修采购到华夏家博会，不花冤枉钱\"为主题，超多参展品牌可逛，免费领票。",
-    "category": "博览展会",
+    "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
@@ -2291,7 +2346,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉科技馆宇宙展厅研学",
@@ -2328,7 +2384,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "东湖皮划艇亲子营",
@@ -2365,7 +2422,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉市少年儿童图书馆童话剧表演",
@@ -2402,7 +2460,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "第十六届武汉CGF动漫游戏节",
@@ -2414,7 +2473,7 @@
     "link": "https://wh.bendibao.com/xiuxian/huodongditu",
     "url": "https://wh.bendibao.com/xiuxian/huodongditu",
     "description": "以\"凉夏派对\"为主题，打造清爽治愈的夏日次元狂欢现场，bilibili会员购售票。",
-    "category": "博览展会",
+    "category": "其他",
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
@@ -2475,7 +2534,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "解放公园亲子草坪露营",
@@ -2512,7 +2572,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北美术馆水墨画课堂",
@@ -2549,7 +2610,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉图书馆非遗故事会",
@@ -2586,7 +2648,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "东湖帆船亲子体验营",
@@ -2623,7 +2686,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池瀑布观光",
@@ -2659,7 +2723,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "沉浸式武汉硚口区演出探索",
@@ -2696,7 +2761,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年武汉江夏区展览讲座",
@@ -2733,7 +2799,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典武汉武昌区展览探秘",
@@ -2770,7 +2837,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉欢乐谷卡通巡游",
@@ -2806,7 +2874,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖北省图书馆国学经典诵读",
@@ -2843,7 +2912,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "黄鹤楼公园书法体验",
@@ -2880,7 +2950,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年武汉江夏区演出讲座",
@@ -2916,7 +2987,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式武汉黄陂区亲子活动探索",
@@ -2952,7 +3024,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省科学技术馆新能源课堂",
@@ -2988,7 +3061,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "盘龙城遗址博物院考古夏令营",
@@ -3024,7 +3098,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉新洲区科普活动研学营",
@@ -3060,7 +3135,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻武汉汉阳区科普活动之旅",
@@ -3096,7 +3172,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉新洲区影视放映科普",
@@ -3133,7 +3210,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉美术馆油画体验",
@@ -3170,7 +3248,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期武汉江汉区讲座阅读体验营",
@@ -3207,7 +3286,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读武汉新洲区影视放映周",
@@ -3243,7 +3323,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩武汉硚口区展览节",
@@ -3280,7 +3361,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩武汉黄陂区展览节",
@@ -3317,7 +3399,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读武汉新洲区科普活动周",
@@ -3354,7 +3437,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉杂技厅暑期杂技专场",
@@ -3390,7 +3474,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉体育馆游泳培训班",
@@ -3427,7 +3512,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "武昌江滩灯光秀观赏",
@@ -3464,7 +3550,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验武汉江夏区科普活动嘉年华",
@@ -3501,7 +3588,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻武汉东西湖区亲子活动之旅",
@@ -3538,7 +3626,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典武汉武昌区演出探秘",
@@ -3575,7 +3664,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘武汉蔡甸区体育赛事月",
@@ -3611,7 +3701,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典武汉蔡甸区讲座阅读探秘",
@@ -3647,7 +3738,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "盘龙城遗址博物院小小考古家",
@@ -3683,7 +3775,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉科技馆生命展厅探秘",
@@ -3720,7 +3813,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园药草园探秘",
@@ -3756,7 +3850,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "后官湖湿地公园骑行",
@@ -3793,7 +3888,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉欢乐谷水上乐园派对",
@@ -3829,7 +3925,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉玛雅海滩水公园电音泼水节",
@@ -3866,7 +3963,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉杂技厅魔术表演",
@@ -3902,7 +4000,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉市少年儿童图书馆手工绘本制作",
@@ -3939,7 +4038,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰草原草原音乐节",
@@ -3975,7 +4075,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "木兰清凉寨观星营",
@@ -4011,7 +4112,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "木兰清凉寨露营烧烤",
@@ -4047,7 +4149,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武昌江滩夜市",
@@ -4084,7 +4187,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "江滩夜跑嘉年华",
@@ -4121,7 +4225,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读武汉东西湖区展览周",
@@ -4157,7 +4262,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末武汉江岸区体育赛事活动",
@@ -4194,7 +4300,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "互动武汉东西湖区演出科普",
@@ -4230,7 +4337,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "韦礼安【HI WEI,您好】巡回演唱会-武汉站",
@@ -4301,7 +4409,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "东湖樱花园夏日养护课堂",
@@ -4338,7 +4447,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "中山公园花卉科普",
@@ -4375,7 +4485,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉图书馆亲子手工坊",
@@ -4412,7 +4523,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉体育中心击剑体验",
@@ -4448,7 +4560,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "武汉全民健身中心街舞",
@@ -4484,7 +4597,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省科学技术馆人工智能体验",
@@ -4520,7 +4634,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省科学技术馆地质科普展",
@@ -4556,7 +4671,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉海昌极地海洋公园白鲸表演",
@@ -4593,7 +4709,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖北省图书馆少儿编程公益课",
@@ -4630,7 +4747,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄鹤楼公园楚文化研学",
@@ -4667,7 +4785,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "东湖OP级帆船培训",
@@ -4704,7 +4823,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末武汉江岸区展览活动",
@@ -4741,7 +4861,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "中山舰博物馆抗战历史课堂",
@@ -4778,7 +4899,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "辛亥革命武昌起义纪念馆革命文物探秘",
@@ -4814,7 +4936,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉体育馆乒乓球培训",
@@ -4851,7 +4974,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探秘武汉蔡甸区影视放映月",
@@ -4888,7 +5012,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典武汉蔡甸区展览探秘",
@@ -4925,7 +5050,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验武汉江夏区亲子活动嘉年华",
@@ -4962,7 +5088,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验武汉江汉区影视放映嘉年华",
@@ -4998,7 +5125,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉博物馆近代汉口商埠研学",
@@ -5035,7 +5163,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉科技馆化学魔术秀",
@@ -5072,7 +5201,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉动物园鸟类展区研学",
@@ -5108,7 +5238,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉玛雅海滩水公园儿童戏水区",
@@ -5145,7 +5276,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "辛亥革命博物馆暑期研学营",
@@ -5182,7 +5314,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼武汉江汉区科普活动发现",
@@ -5219,7 +5352,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期武汉江汉区亲子活动体验营",
@@ -5255,7 +5389,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉自然博物馆昆虫标本制作",
@@ -5292,7 +5427,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉玛雅海滩水公园戏水狂欢",
@@ -5329,7 +5465,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉美术馆儿童画创作营",
@@ -5366,7 +5503,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻武汉东西湖区演出之旅",
@@ -5402,7 +5540,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘武汉武昌区影视放映月",
@@ -5439,7 +5578,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "东湖帆船体验",
@@ -5476,7 +5616,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "湖北省图书馆绘本故事会",
@@ -5513,7 +5654,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "盘龙城遗址博物院田野考古体验",
@@ -5549,7 +5691,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "东湖龙舟体验",
@@ -5586,7 +5729,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江汉关博物馆近代航运课堂",
@@ -5623,7 +5767,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉科技馆水展厅互动课堂",
@@ -5660,7 +5805,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园水生植物课堂",
@@ -5696,7 +5842,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉海昌极地海洋公园海洋科普营",
@@ -5733,7 +5880,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉市少年儿童图书馆国学启蒙",
@@ -5770,7 +5918,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池星空观测",
@@ -5806,7 +5955,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "江滩广场音乐会",
@@ -5843,7 +5993,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "发现武汉武昌区展览比赛",
@@ -5879,7 +6030,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读武汉东西湖区演出周",
@@ -5916,7 +6068,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉汉阳区影视放映科普",
@@ -5953,7 +6106,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期武汉江夏区讲座阅读体验营",
@@ -5990,7 +6144,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省博物馆文物拓印体验",
@@ -6027,7 +6182,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉科技馆科普剧表演",
@@ -6064,7 +6220,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "东湖绿道亲子定向越野",
@@ -6101,7 +6258,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解放公园鸽子广场互动",
@@ -6138,7 +6296,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北美术馆版画制作",
@@ -6175,7 +6334,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省图书馆公益培训课",
@@ -6212,7 +6372,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉图书馆小读者沙龙",
@@ -6249,7 +6410,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉市少年儿童图书馆绘本故事会",
@@ -6286,7 +6448,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉体育中心武术夏令营",
@@ -6322,7 +6485,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "汉口江滩亲子运动会",
@@ -6359,7 +6523,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "锦里沟土家风情体验",
@@ -6395,7 +6560,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼武汉青山区展览发现",
@@ -6432,7 +6598,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "湖北省科学技术馆航天器模型制作",
@@ -6468,7 +6635,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省图书馆英语角",
@@ -6505,7 +6673,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄鹤楼公园小小讲解员",
@@ -6542,7 +6711,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "东湖皮划艇培训",
@@ -6579,7 +6749,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子武汉硚口区科普活动工作坊",
@@ -6616,7 +6787,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典武汉江岸区体育赛事探秘",
@@ -6652,7 +6824,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "辛亥革命武昌起义纪念馆红色研学营",
@@ -6688,7 +6861,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉体育馆足球夏令营",
@@ -6725,7 +6899,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "木兰草原蒙古包住宿",
@@ -6761,7 +6936,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "楚河汉街夜游",
@@ -6797,7 +6973,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉博物馆陶瓷修复体验",
@@ -6834,7 +7011,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉科技馆3D打印创客营",
@@ -6871,7 +7049,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉美术馆水彩画课堂",
@@ -6908,7 +7087,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "汉口江滩夜跑活动",
@@ -6945,7 +7125,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉夜景Citywalk",
@@ -6982,7 +7163,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "漫游武汉青山区影视放映季",
@@ -7019,7 +7201,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩武汉硚口区影视放映节",
@@ -7055,7 +7238,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游武汉江夏区科普活动季",
@@ -7091,7 +7275,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉动物园夜行动物观察",
@@ -7127,7 +7312,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉海昌极地海洋公园水母宫",
@@ -7164,7 +7350,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "暑期武汉青山区演出体验营",
@@ -7200,7 +7387,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味武汉洪山区影视放映展览",
@@ -7236,7 +7424,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "盘龙城遗址博物院商代玉器研学",
@@ -7272,7 +7461,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉自然博物馆夜宿奇妙夜",
@@ -7309,7 +7499,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉科技馆信息展厅体验",
@@ -7346,7 +7537,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省科学技术馆科普电影周",
@@ -7382,7 +7574,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "后官湖湿地公园湿地生态探秘",
@@ -7419,7 +7612,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉杂技厅亲子互动专场",
@@ -7455,7 +7649,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉市少年儿童图书馆科学实验小课堂",
@@ -7492,7 +7687,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉全民健身中心攀岩",
@@ -7528,7 +7724,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰草原亲子骑马体验",
@@ -7564,7 +7761,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰草原那达慕大会",
@@ -7600,7 +7798,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "木兰天池亲子采摘",
@@ -7636,7 +7835,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江滩露天瑜伽",
@@ -7673,7 +7873,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典武汉江岸区科普活动探秘",
@@ -7710,7 +7911,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉东西湖区科普活动研学营",
@@ -7747,7 +7949,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省博物馆青铜器铭文探秘",
@@ -7784,7 +7987,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园昆虫夜观",
@@ -7820,7 +8024,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北美术馆漆艺体验",
@@ -7857,7 +8062,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉图书馆科普读书会",
@@ -7894,7 +8100,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉体育中心跆拳道培训",
@@ -7930,7 +8137,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉全民健身中心跳绳比赛",
@@ -7966,7 +8174,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "木兰草原星空露营节",
@@ -8002,7 +8211,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省科学技术馆数学奥秘探秘",
@@ -8038,7 +8248,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省图书馆暑期阅读挑战",
@@ -8075,7 +8286,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "湖北省图书馆图书修复体验",
@@ -8112,7 +8324,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄鹤楼公园古琴雅集",
@@ -8149,7 +8362,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "东湖桨板体验",
@@ -8186,7 +8400,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探秘武汉武昌区展览月",
@@ -8223,7 +8438,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "汉秀剧场水舞秀演出",
@@ -8259,7 +8475,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "盘龙城遗址博物院夏商周文明展",
@@ -8295,7 +8512,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年武汉江汉区影视放映讲座",
@@ -8331,7 +8549,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现武汉江岸区亲子活动比赛",
@@ -8368,7 +8587,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年武汉江汉区讲座阅读讲座",
@@ -8405,7 +8625,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼武汉青山区影视放映发现",
@@ -8442,7 +8663,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉博物馆小小策展人训练营",
@@ -8479,7 +8701,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉科技馆编程启蒙课",
@@ -8516,7 +8739,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "汉秀剧场七夕浪漫专场",
@@ -8552,7 +8776,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "辛亥革命博物馆革命精神讲座",
@@ -8589,7 +8814,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "户部巷夜市美食",
@@ -8625,7 +8851,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "长江灯光秀七夕专场",
@@ -8662,7 +8889,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索武汉新洲区体育赛事演出",
@@ -8698,7 +8926,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游武汉青山区讲座阅读季",
@@ -8734,7 +8963,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "东湖磨山荷花赏花会",
@@ -8771,7 +9001,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "木兰山登山祈福",
@@ -8807,7 +9038,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉两江四岸灯光秀",
@@ -8844,7 +9076,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻武汉新洲区讲座阅读之旅",
@@ -8881,7 +9114,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "盘龙城遗址博物院青铜器研学",
@@ -8917,7 +9151,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "东湖帆船夏令营",
@@ -8954,7 +9189,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "漫游武汉江夏区体育赛事季",
@@ -8990,7 +9226,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻武汉新洲区展览之旅",
@@ -9027,7 +9264,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "湖北省博物馆小小讲解员夏令营",
@@ -9064,7 +9302,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "盘龙城遗址博物院陶器修复工坊",
@@ -9100,7 +9339,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉科技馆航空航天梦工场",
@@ -9137,7 +9377,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉市少年儿童图书馆英语绘本课",
@@ -9174,7 +9415,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池亲子溯溪",
@@ -9210,7 +9452,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池缆车观景",
@@ -9246,7 +9489,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "暑期武汉青山区亲子活动体验营",
@@ -9282,7 +9526,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现武汉武昌区影视放映比赛",
@@ -9319,7 +9564,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省博物馆郧县人头骨化石探秘",
@@ -9356,7 +9602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省科学技术馆科技馆奇妙夜",
@@ -9392,7 +9639,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园亲子农耕体验",
@@ -9428,7 +9676,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解放公园园艺课堂",
@@ -9465,7 +9714,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "湖北美术馆雕塑鉴赏",
@@ -9502,7 +9752,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉图书馆历史讲堂",
@@ -9539,7 +9790,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "湖北省科学技术馆地震体验课堂",
@@ -9575,7 +9827,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省图书馆暑期电影周",
@@ -9612,7 +9865,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄鹤楼公园非遗市集",
@@ -9649,7 +9903,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末武汉蔡甸区亲子活动活动",
@@ -9686,7 +9941,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末武汉蔡甸区演出活动",
@@ -9722,7 +9978,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉东西湖区体育赛事研学营",
@@ -9759,7 +10016,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "震撼武汉江夏区科普活动发现",
@@ -9795,7 +10053,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩武汉黄陂区亲子活动节",
@@ -9832,7 +10091,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉东西湖区讲座阅读研学营",
@@ -9869,7 +10129,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼武汉江夏区讲座阅读发现",
@@ -9905,7 +10166,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进武汉黄陂区展览日",
@@ -9942,7 +10204,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读武汉汉阳区亲子活动周",
@@ -9979,7 +10242,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼武汉青山区讲座阅读发现",
@@ -10016,7 +10280,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉海昌极地海洋公园企鹅馆探秘",
@@ -10053,7 +10318,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉美术馆装置艺术体验",
@@ -10090,7 +10356,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "汉口江滩太极晨练",
@@ -10127,7 +10394,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉汉阳区讲座阅读研学营",
@@ -10163,7 +10431,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉长江大桥夜景打卡",
@@ -10199,7 +10468,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "经典武汉武昌区亲子活动探秘",
@@ -10235,7 +10505,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉东西湖区科普活动科普",
@@ -10271,7 +10542,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻武汉汉阳区亲子活动之旅",
@@ -10307,7 +10579,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼武汉青山区演出发现",
@@ -10344,7 +10617,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读武汉新洲区讲座阅读周",
@@ -10381,7 +10655,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味武汉硚口区科普活动展览",
@@ -10418,7 +10693,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉科技馆暑期科普夏令营",
@@ -10455,7 +10731,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉市少年儿童图书馆暑期打卡挑战",
@@ -10492,7 +10769,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池避暑纳凉节",
@@ -10528,7 +10806,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "木兰清凉寨徒步登山",
@@ -10564,7 +10843,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末武汉江岸区影视放映活动",
@@ -10601,7 +10881,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉汉阳区展览研学营",
@@ -10637,7 +10918,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年武汉青山区科普活动讲座",
@@ -10674,7 +10956,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进武汉洪山区演出日",
@@ -10711,7 +10994,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉图书馆诗词大会",
@@ -10748,7 +11032,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童武汉武昌区科普活动课程",
@@ -10785,7 +11070,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省科学技术馆气象观测体验",
@@ -10821,7 +11107,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "汉口江滩广场舞",
@@ -10858,7 +11145,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池森林氧吧徒步",
@@ -10894,7 +11182,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "汉江夜游船观光",
@@ -10931,7 +11220,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "漫游武汉青山区体育赛事季",
@@ -10968,7 +11258,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "亲子武汉硚口区展览工作坊",
@@ -11004,7 +11295,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验武汉江夏区展览嘉年华",
@@ -11041,7 +11333,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉海昌极地海洋公园海洋剧场",
@@ -11078,7 +11371,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "武汉杂技厅国际杂技精品展演",
@@ -11114,7 +11408,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "湖北美术馆摄影展",
@@ -11151,7 +11446,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘武汉江岸区体育赛事月",
@@ -11187,7 +11483,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "周末武汉蔡甸区展览活动",
@@ -11224,7 +11521,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉海昌极地海洋公园北极熊观赏",
@@ -11261,7 +11559,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味武汉黄陂区影视放映展览",
@@ -11297,7 +11596,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进武汉洪山区亲子活动日",
@@ -11334,7 +11634,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进武汉黄陂区影视放映日",
@@ -11370,7 +11671,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉玛雅海滩水公园冲浪体验",
@@ -11407,7 +11709,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年武汉江夏区影视放映讲座",
@@ -11443,7 +11746,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "盘龙城遗址博物院陶器研学",
@@ -11479,7 +11783,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉体育馆羽毛球夏令营",
@@ -11516,7 +11821,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "走进武汉洪山区科普活动日",
@@ -11552,7 +11858,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子武汉硚口区亲子活动工作坊",
@@ -11588,7 +11895,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索武汉汉阳区演出演出",
@@ -11625,7 +11933,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼武汉江夏区体育赛事发现",
@@ -11662,7 +11971,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "汉阳江滩文创市集",
@@ -11699,7 +12009,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "沉浸式武汉洪山区影视放映探索",
@@ -11736,7 +12047,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子武汉黄陂区讲座阅读工作坊",
@@ -11773,7 +12085,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "互动武汉新洲区演出科普",
@@ -11809,7 +12122,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式武汉洪山区讲座阅读探索",
@@ -11846,7 +12160,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验武汉青山区体育赛事嘉年华",
@@ -11883,7 +12198,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味武汉黄陂区体育赛事展览",
@@ -11919,7 +12235,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "湖北省科学技术馆生物多样性课堂",
@@ -11955,7 +12272,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "木兰草原射箭体验",
@@ -11991,7 +12309,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰清凉寨避暑度假",
@@ -12027,7 +12346,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "家庭武汉汉阳区影视放映研学营",
@@ -12064,7 +12384,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验武汉青山区科普活动嘉年华",
@@ -12100,7 +12421,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北美术馆当代艺术展",
@@ -12137,7 +12459,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉图书馆暑期阅读季",
@@ -12174,7 +12497,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉市少年儿童图书馆公益围棋班",
@@ -12211,7 +12535,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现武汉蔡甸区讲座阅读比赛",
@@ -12247,7 +12572,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期武汉江夏区展览体验营",
@@ -12284,7 +12610,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味武汉黄陂区讲座阅读展览",
@@ -12321,7 +12648,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子武汉洪山区展览工作坊",
@@ -12357,7 +12685,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索武汉东西湖区讲座阅读演出",
@@ -12393,7 +12722,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式武汉黄陂区演出探索",
@@ -12429,7 +12759,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉欢乐谷夏日狂欢节",
@@ -12465,7 +12796,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典武汉蔡甸区影视放映探秘",
@@ -12502,7 +12834,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉海昌极地海洋公园夜宿",
@@ -12539,7 +12872,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "长江夜游船观光",
@@ -12575,7 +12909,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "鹦鹉洲大桥夜景",
@@ -12611,7 +12946,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "万松园夜市",
@@ -12647,7 +12983,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "家庭武汉汉阳区演出研学营",
@@ -12684,7 +13021,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末武汉武昌区体育赛事活动",
@@ -12720,7 +13058,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "趣味武汉洪山区演出展览",
@@ -12757,7 +13096,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读武汉东西湖区影视放映周",
@@ -12794,7 +13134,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉动物园大熊猫馆探秘",
@@ -12830,7 +13171,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉美术馆亲子艺术市集",
@@ -12867,7 +13209,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童武汉武昌区讲座阅读课程",
@@ -12903,7 +13246,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子武汉洪山区影视放映工作坊",
@@ -12940,7 +13284,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘武汉江岸区演出月",
@@ -12977,7 +13322,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童武汉武昌区影视放映课程",
@@ -13014,7 +13360,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉新洲区展览科普",
@@ -13051,7 +13398,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童武汉蔡甸区演出课程",
@@ -13087,7 +13435,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩武汉硚口区体育赛事节",
@@ -13123,7 +13472,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "湖北省科学技术馆创客工坊",
@@ -13159,7 +13509,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "汉口江滩骑行",
@@ -13196,7 +13547,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩武汉洪山区体育赛事节",
@@ -13233,7 +13585,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年武汉青山区演出讲座",
@@ -13270,7 +13623,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉欢乐谷中秋主题夜",
@@ -13306,7 +13660,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "黄鹤楼公园中秋诗会",
@@ -13343,7 +13698,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "长江灯光秀中秋专场",
@@ -13380,7 +13736,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末武汉武昌区科普活动活动",
@@ -13417,7 +13774,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索武汉新洲区亲子活动演出",
@@ -13454,7 +13812,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉全民健身中心轮滑",
@@ -13490,7 +13849,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进武汉黄陂区讲座阅读日",
@@ -13527,7 +13887,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童武汉蔡甸区科普活动课程",
@@ -13564,7 +13925,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻武汉汉阳区体育赛事之旅",
@@ -13600,7 +13962,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "暑期武汉江汉区科普活动体验营",
@@ -13637,7 +14000,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻武汉东西湖区展览之旅",
@@ -13674,7 +14038,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现武汉蔡甸区亲子活动比赛",
@@ -13711,7 +14076,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "盘龙城遗址博物院文物修复研学",
@@ -13747,7 +14113,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉新洲区亲子活动研学营",
@@ -13784,7 +14151,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典武汉江岸区讲座阅读探秘",
@@ -13821,7 +14189,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进武汉硚口区讲座阅读日",
@@ -13857,7 +14226,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "发现武汉江岸区演出比赛",
@@ -13893,7 +14263,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉美术馆连环画展",
@@ -13930,7 +14301,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年武汉青山区亲子活动讲座",
@@ -13966,7 +14338,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读武汉汉阳区演出周",
@@ -14003,7 +14376,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰天池高山滑草",
@@ -14039,7 +14413,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "汉口江滩夜游市集",
@@ -14076,7 +14451,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索武汉东西湖区展览演出",
@@ -14112,7 +14488,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼武汉江汉区演出发现",
@@ -14149,7 +14526,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江汉关夜景打卡",
@@ -14186,7 +14564,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索武汉汉阳区亲子活动演出",
@@ -14223,7 +14602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式武汉硚口区影视放映探索",
@@ -14260,7 +14640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索武汉东西湖区体育赛事演出",
@@ -14297,7 +14678,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "木兰清凉寨茶园体验",
@@ -14333,7 +14715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "汉口江滩露天电影",
@@ -14370,7 +14753,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "影视放映"
   },
   {
     "name": "儿童武汉武昌区体育赛事课程",
@@ -14407,7 +14791,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘武汉江岸区亲子活动月",
@@ -14443,7 +14828,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉玛雅海滩水公园造浪派对",
@@ -14480,7 +14866,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻武汉新洲区影视放映之旅",
@@ -14517,7 +14904,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现武汉蔡甸区科普活动比赛",
@@ -14554,7 +14942,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中山公园夏日游园会",
@@ -14591,7 +14980,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉玛雅海滩水公园漂流探险",
@@ -14628,7 +15018,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "漫游武汉江汉区亲子活动季",
@@ -14664,7 +15055,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式武汉硚口区展览探索",
@@ -14700,7 +15092,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉欢乐谷夜场电音节",
@@ -14736,7 +15129,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖北美术馆暑期儿童工作坊",
@@ -14773,7 +15167,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年武汉青山区体育赛事讲座",
@@ -14810,7 +15205,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味武汉洪山区亲子活动展览",
@@ -14846,7 +15242,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童武汉江岸区演出课程",
@@ -14882,7 +15279,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动武汉汉阳区体育赛事科普",
@@ -14918,7 +15316,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探秘武汉蔡甸区讲座阅读月",
@@ -14954,7 +15353,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年武汉江汉区体育赛事讲座",
@@ -14991,7 +15391,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江汉路夜游步行街",
@@ -15027,7 +15428,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "趣味武汉硚口区体育赛事展览",
@@ -15064,7 +15466,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童武汉江岸区展览课程",
@@ -15100,7 +15503,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子武汉洪山区讲座阅读工作坊",
@@ -15137,7 +15541,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉玛雅海滩水公园夜场嗨玩",
@@ -15174,7 +15579,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉长江灯光秀观赏",
@@ -15211,7 +15617,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "亲子武汉硚口区演出工作坊",
@@ -15248,7 +15655,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末武汉武昌区亲子活动活动",
@@ -15284,7 +15692,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "湖北省科学技术馆科学嘉年华",
@@ -15320,7 +15729,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉欢乐谷国庆欢乐周",
@@ -15356,7 +15766,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "汉秀剧场国庆主题演出",
@@ -15392,7 +15803,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "武汉杂技厅马戏表演",
@@ -15428,7 +15840,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖北美术馆非遗手作",
@@ -15465,7 +15878,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄鹤楼公园国庆文化周",
@@ -15502,7 +15916,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "长江灯光秀国庆专场",
@@ -15539,7 +15954,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "精彩武汉黄陂区演出节",
@@ -15576,7 +15992,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验武汉江汉区讲座阅读嘉年华",
@@ -15612,7 +16029,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "盘龙城遗址博物院文明探源讲座",
@@ -15648,7 +16066,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "汉阳江滩灯光秀夜游",
@@ -15685,7 +16104,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻武汉汉阳区讲座阅读之旅",
@@ -15722,7 +16142,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典武汉武昌区科普活动探秘",
@@ -15758,7 +16179,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读武汉汉阳区科普活动周",
@@ -15795,7 +16217,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现武汉蔡甸区体育赛事比赛",
@@ -15832,7 +16255,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "周末武汉江岸区讲座阅读活动",
@@ -15869,7 +16293,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "漫游武汉江汉区展览季",
@@ -15906,7 +16331,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "东湖夜游灯光秀",
@@ -15943,7 +16369,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探秘武汉江岸区科普活动月",
@@ -15980,7 +16407,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘武汉武昌区演出月",
@@ -16017,7 +16445,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭武汉新洲区演出研学营",
@@ -16053,7 +16482,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉美术馆夏日画展",
@@ -16090,7 +16520,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉美术馆书法体验",
@@ -16127,7 +16558,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期武汉江汉区体育赛事体验营",
@@ -16164,7 +16596,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验武汉江汉区展览嘉年华",
@@ -16201,7 +16634,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "东湖绿道亲子骑行活动",
@@ -16238,7 +16672,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子武汉黄陂区体育赛事工作坊",
@@ -16275,7 +16710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "走进武汉硚口区体育赛事日",
@@ -16311,7 +16747,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩武汉硚口区讲座阅读节",
@@ -16348,7 +16785,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "木兰天池玻璃漂流",
@@ -16384,7 +16822,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "亲子武汉黄陂区科普活动工作坊",
@@ -16420,7 +16859,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味武汉硚口区亲子活动展览",
@@ -16457,7 +16897,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现武汉武昌区讲座阅读比赛",
@@ -16493,7 +16934,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探索武汉东西湖区影视放映演出",
@@ -16529,7 +16971,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰草原篝火晚会",
@@ -16565,7 +17008,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "精彩武汉洪山区科普活动节",
@@ -16601,7 +17045,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式武汉洪山区体育赛事探索",
@@ -16638,7 +17083,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "汉秀剧场暑期驻场演出",
@@ -16674,7 +17120,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "辛亥革命博物馆主题展览",
@@ -16711,7 +17158,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "两江夜游美食船",
@@ -16747,7 +17195,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "互动武汉东西湖区亲子活动科普",
@@ -16784,7 +17233,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木兰清凉寨樱花谷游览",
@@ -16820,7 +17270,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索武汉新洲区科普活动演出",
@@ -16857,7 +17308,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "探索武汉汉阳区展览演出",
@@ -16893,7 +17345,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现武汉江岸区展览比赛",
@@ -16930,7 +17383,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉东湖海洋世界亲子探秘",
@@ -16966,7 +17420,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江滩夜景摄影大赛",
@@ -17003,7 +17458,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验武汉青山区讲座阅读嘉年华",
@@ -17039,7 +17495,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼武汉江汉区亲子活动发现",
@@ -17075,7 +17532,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉欢乐谷暑期亲子套票",
@@ -17111,7 +17569,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游武汉江汉区演出季",
@@ -17148,7 +17607,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期武汉江夏区影视放映体验营",
@@ -17184,7 +17644,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童武汉蔡甸区亲子活动课程",
@@ -17221,7 +17682,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味武汉洪山区展览展览",
@@ -17257,7 +17719,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期武汉青山区展览体验营",
@@ -17293,7 +17756,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进武汉硚口区科普活动日",
@@ -17330,7 +17794,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉欢乐谷万圣节主题夜",
@@ -17366,7 +17831,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "东湖游泳培训",
@@ -17403,7 +17869,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读武汉新洲区体育赛事周",
@@ -17439,7 +17906,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游武汉江汉区影视放映季",
@@ -17475,7 +17943,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉美术馆版画拓印",
@@ -17512,7 +17981,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉渡江节方队演练",
@@ -17549,7 +18019,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉自然博物馆长江文明探源",
@@ -17586,7 +18057,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省博物馆编钟体验研学营",
@@ -17623,7 +18095,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省博物馆越王勾践剑赏析课",
@@ -17660,7 +18133,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "湖北省科学技术馆光学科普营",
@@ -17696,7 +18170,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园夏日花朵认知",
@@ -17732,7 +18207,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "黄鹤楼公园诗词研学",
@@ -17769,7 +18245,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "盘龙城遗址博物院商代城址研学",
@@ -17805,7 +18282,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "辛亥革命武昌起义纪念馆红楼研学",
@@ -17841,7 +18319,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉博物馆武汉历史通览研学",
@@ -17878,7 +18357,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "辛亥革命博物馆首义历史研学",
@@ -17915,7 +18395,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中山舰博物馆打捞历史研学",
@@ -17952,7 +18433,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "武汉科技馆小小科学家训练营",
@@ -17989,7 +18471,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "盘龙城遗址博物院考古研学",
@@ -18025,7 +18508,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "江汉关博物馆海关历史研学",
@@ -18062,7 +18546,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中科院武汉植物园植物标本制作",
@@ -18098,7 +18583,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "东湖听涛景区自然观察",
@@ -18135,7 +18621,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解放公园湿地观鸟",
@@ -18172,7 +18659,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖北美术馆陶艺体验",
@@ -18209,7 +18697,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉图书馆绘本剧表演",
@@ -18246,7 +18735,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武汉动物园金丝猴课堂",
@@ -18282,7 +18772,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖北省图书馆名家讲座",
@@ -18319,7 +18810,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "黄鹤楼公园古建探秘",
@@ -18356,7 +18848,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉自然博物馆恐龙化石探秘",
@@ -18393,7 +18886,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "辛亥革命武昌起义纪念馆小小讲解员",
@@ -18429,7 +18923,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "湖北省博物馆曾侯乙展厅研学",
@@ -18466,7 +18961,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武汉玛雅海滩水公园泼水节",
@@ -18503,7 +18999,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武汉市少年儿童图书馆小志愿者培训",
@@ -18540,7 +19037,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉渡江节亲子体验",
@@ -18577,7 +19075,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武汉渡江节公开水域游泳",
@@ -18614,6 +19113,7 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   }
 ]
