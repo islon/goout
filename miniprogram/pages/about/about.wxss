@@ -362,6 +362,69 @@
   flex-shrink: 0;
 }
 
+/* 开源与共建 */
+.open-card {
+  background: #FFFFFF;
+  border-radius: 20rpx;
+  padding: 24rpx 28rpx;
+  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.04);
+}
+
+.open-desc {
+  font-size: 24rpx;
+  color: #57534E;
+  line-height: 1.7;
+  margin-bottom: 20rpx;
+}
+
+.open-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
+}
+
+.open-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #FFFDF7;
+  border: 2rpx solid #F5F0E8;
+  border-radius: 14rpx;
+  padding: 22rpx 24rpx;
+}
+
+.open-item-main {
+  flex: 1;
+}
+
+.open-item-title {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #292524;
+  margin-bottom: 4rpx;
+}
+
+.open-item-desc {
+  font-size: 22rpx;
+  color: #A8A29E;
+}
+
+.open-item-action {
+  font-size: 24rpx;
+  color: #D4A373;
+  font-weight: 500;
+  flex-shrink: 0;
+  margin-left: 16rpx;
+}
+
+.open-note {
+  margin-top: 18rpx;
+  font-size: 22rpx;
+  color: #B8B0A6;
+  text-align: center;
+}
+
 /* 底部 */
 .footer {
   text-align: center;

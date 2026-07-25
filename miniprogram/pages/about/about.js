@@ -171,6 +171,15 @@ Page({
     });
   },
 
+  onCopyRepo() {
+    wx.setClipboardData({
+      data: 'https://github.com/islon/goout',
+      success: function() {
+        wx.showToast({ title: '仓库链接已复制', icon: 'success' });
+      }
+    });
+  },
+
   onShareAppMessage() {
     return {
       title: '童行 - 全国亲子活动日历',

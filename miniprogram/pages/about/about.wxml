@@ -93,14 +93,31 @@
     </view>
     <view class="feedback-row">
       <button class="feedback-wx-btn" open-type="feedback">微信反馈</button>
-      <view class="feedback-card" bindtap="onCopyGitHub">
-        <image class="feedback-icon" src="/assets/about-link.png" mode="aspectFit"></image>
-        <view class="feedback-content">
-          <view class="feedback-title">GitHub Issues</view>
-          <view class="feedback-desc">数据报错、功能建议</view>
+    </view>
+  </view>
+
+  <!-- 开源与共建 -->
+  <view class="section">
+    <view class="section-title">开源与共建</view>
+    <view class="open-card">
+      <view class="open-desc">童行是完全开源的项目，活动数据、场馆信息和小程序代码都公开在 GitHub，欢迎一起补充数据、反馈问题或参与开发。</view>
+      <view class="open-list">
+        <view class="open-item" bindtap="onCopyRepo">
+          <view class="open-item-main">
+            <view class="open-item-title">GitHub 仓库</view>
+            <view class="open-item-desc">查看源码 · 一起维护</view>
+          </view>
+          <view class="open-item-action">复制</view>
         </view>
-        <view class="feedback-action">复制</view>
+        <view class="open-item" bindtap="onCopyGitHub">
+          <view class="open-item-main">
+            <view class="open-item-title">GitHub Issues</view>
+            <view class="open-item-desc">数据报错 · 功能建议</view>
+          </view>
+          <view class="open-item-action">复制</view>
+        </view>
       </view>
+      <view class="open-note">点击复制链接，在浏览器打开即可访问</view>
     </view>
   </view>
 
