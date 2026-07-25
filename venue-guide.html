@@ -378,16 +378,153 @@
             .header h1 { font-size: 20px; padding: 0 12px; }
             .header-sub { padding: 0 12px; }
         }
+
+        .quick-nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            background: white;
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .quick-nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+            text-decoration: none;
+            color: #6B7280;
+            transition: all 0.2s;
+            cursor: pointer;
+            padding: 4px 12px;
+            flex: 1;
+        }
+
+        .quick-nav-item:hover,
+        .quick-nav-item:active {
+            color: #D97706;
+            transform: translateY(-1px);
+        }
+
+        .quick-nav-icon {
+            font-size: 22px;
+        }
+
+        .quick-nav-text {
+            font-size: 11px;
+            font-weight: 500;
+        }
+
+        .miniapp-modal-mask {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .miniapp-modal-mask.active {
+            display: flex;
+        }
+
+        .miniapp-modal {
+            background: white;
+            border-radius: 20px;
+            padding: 30px 24px 24px;
+            max-width: 340px;
+            width: 100%;
+            text-align: center;
+            position: relative;
+            animation: modalFadeIn 0.25s ease-out;
+        }
+
+        @keyframes modalFadeIn {
+            from { opacity: 0; transform: translateY(10px) scale(0.98); }
+            to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .miniapp-modal-close {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            width: 32px;
+            height: 32px;
+            border: none;
+            background: #F5F0E8;
+            border-radius: 50%;
+            font-size: 20px;
+            line-height: 1;
+            cursor: pointer;
+            color: #78716C;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .miniapp-modal h3 {
+            font-size: 20px;
+            color: #292524;
+            margin-bottom: 8px;
+        }
+
+        .miniapp-modal-desc {
+            font-size: 14px;
+            color: #78716C;
+            margin-bottom: 20px;
+        }
+
+        .miniapp-qrcode {
+            width: 220px;
+            height: 220px;
+            margin: 0 auto 16px;
+            background: #FFFDF7;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .miniapp-modal-tip {
+            font-size: 13px;
+            color: #A8A29E;
+            line-height: 1.6;
+        }
+
+        .miniapp-modal-tip strong {
+            color: #D4A373;
+        }
     </style>
 </head>
 <body>
     <div class="header">
-        <div class="header-top">
-            <a href="index.html" class="btn-link">← 返回活动</a>
-            <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="btn-link" target="_blank" rel="noopener">📝 反馈</a>
-        </div>
         <h1>🏛️ 场馆指南</h1>
         <div class="header-sub">有些场馆虽暂无活动，但本身值得带娃去逛逛</div>
+    </div>
+
+    <div class="quick-nav">
+        <a href="index.html" class="quick-nav-item">
+            <span class="quick-nav-icon">🎪</span>
+            <span class="quick-nav-text">活动列表</span>
+        </a>
+        <a href="https://islon.github.io/goout/schedule.html" class="quick-nav-item" target="_blank">
+            <span class="quick-nav-icon">📅</span>
+            <span class="quick-nav-text">订阅日程</span>
+        </a>
+        <span class="quick-nav-item miniapp-trigger" onclick="showMiniappModal()">
+            <span class="quick-nav-icon">📱</span>
+            <span class="quick-nav-text">小程序</span>
+        </span>
+        <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="quick-nav-item" target="_blank" rel="noopener">
+            <span class="quick-nav-icon">📝</span>
+            <span class="quick-nav-text">反馈</span>
+        </a>
     </div>
 
     <div class="filters">
@@ -406,6 +543,21 @@
     <div class="stats-bar" id="stats-bar"></div>
     <div class="venue-grid" id="venue-grid">
         <div class="loading">加载中...</div>
+    </div>
+
+    <div class="miniapp-modal-mask" id="miniapp-modal" onclick="hideMiniappModal()">
+        <div class="miniapp-modal" onclick="event.stopPropagation()">
+            <button class="miniapp-modal-close" onclick="hideMiniappModal()">×</button>
+            <h3>📱 童行小程序</h3>
+            <p class="miniapp-modal-desc">微信扫码，打开小程序</p>
+            <div class="miniapp-qrcode">
+                <img src="miniapp-qrcode.png" alt="童行小程序码" style="width:100%;height:100%;object-fit:contain;border-radius:8px;">
+            </div>
+            <div class="miniapp-modal-tip">
+                <strong>微信「扫一扫」</strong>上方小程序码<br>
+                或在微信中搜索「童行亲子日历」
+            </div>
+        </div>
     </div>
 
     <script>
@@ -705,6 +857,20 @@
         });
 
         loadCities().then(loadData);
+
+        function showMiniappModal() {
+            document.getElementById('miniapp-modal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function hideMiniappModal() {
+            document.getElementById('miniapp-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') hideMiniappModal();
+        });
     </script>
     <div class="venue-copied-toast" id="venue-copied-toast">已复制</div>
 </body>
