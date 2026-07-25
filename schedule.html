@@ -802,18 +802,7 @@
                 </div>
             </div>
             
-            <div class="section">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
-                    <h2>活动日程</h2>
-                    <a href="https://islon.github.io/goout/" style="padding: 6px 14px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 20px; font-size: 13px; text-decoration: none; font-weight: 500;">查看全部</a>
-                </div>
-                <div id="exhibition-list" style="display: none;">
-                    <div style="text-align: center; padding: 20px; color: #999;">加载中...</div>
-                </div>
-                <div id="exhibition-error" style="display: none; text-align: center; padding: 20px; color: #999;">
-                    加载失败，请稍后重试
-                </div>
-            </div>
+
         </div>
         
         <div class="footer">
@@ -851,7 +840,6 @@
             document.getElementById('city-hint-name').textContent = cityNames[city];
             
             updateSubscribeLinks();
-            loadExhibitions();
         }
 
         // 城市清单动态化：读取 output/cities.json 渲染城市 tab（默认选中深圳）
@@ -1015,96 +1003,9 @@
             });
         }
 
-        let scheduleVenueInfo = null;
-
-        // 提取链接数组（向后兼容 link/url 旧格式）
-        function getLinks(item) {
-            if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
-            var url = item.link || item.url;
-            if (url && url.trim()) return [{ url: url.trim(), label: '活动详情' }];
-            return [];
-        }
-
-        async function loadScheduleVenueInfo() {
-            if (scheduleVenueInfo) return scheduleVenueInfo;
-            try {
-                const resp = await fetch('output/venue_info.json', { cache: 'no-cache' });
-                if (!resp.ok) return null;
-                const list = await resp.json();
-                scheduleVenueInfo = {};
-                list.forEach(v => {
-                    if (v.source) scheduleVenueInfo[v.source] = v;
-                    if (v.name) scheduleVenueInfo[v.name] = v;
-                });
-                return scheduleVenueInfo;
-            } catch(e) { return null; }
-        }
-
-        function loadExhibitions() {
-            const listContainer = document.getElementById('exhibition-list');
-            const errorContainer = document.getElementById('exhibition-error');
-            
-            listContainer.style.display = 'block';
-            errorContainer.style.display = 'none';
-            
-            fetch(`output/exhibitions_${currentCity}.json`, { cache: 'no-cache' })
-                .then(response => response.json())
-                .then(exhibitions => {
-                    listContainer.innerHTML = '';
-                    
-                    if (exhibitions.length === 0) {
-                        listContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: #999;">暂无活动数据</div>';
-                        return;
-                    }
-                    
-                    const currentDate = new Date().toISOString().split('T')[0];
-                    const futureExhibitions = exhibitions.filter(e => e.start_date >= currentDate).slice(0, 20);
-                    
-                    listContainer.innerHTML = `<div class="exhibition-count">共 ${exhibitions.length} 个${cityNames[currentCity]}活动，显示最近 ${futureExhibitions.length} 个</div>`;
-                    
-                    futureExhibitions.forEach(exhibition => {
-                        const card = document.createElement('div');
-                        card.className = `exhibition-card ${exhibition.source || 'szcec'}`;
-
-                        const startDate = exhibition.start_date;
-                        const endDate = exhibition.end_date;
-                        const dateDisplay = startDate === endDate ? startDate : `${startDate} ~ ${endDate}`;
-
-                        const fee = exhibition.fee || '';
-                        const feeBadge = fee.includes('免费') ? '<span style="margin-left:6px;padding:2px 8px;background:#e8f5e9;color:#2e7d32;border-radius:4px;font-size:11px;font-weight:500;">免费</span>' :
-                                         (fee.includes('收费') || fee.includes('购票')) ? '<span style="margin-left:6px;padding:2px 8px;background:#fff3e0;color:#e65100;border-radius:4px;font-size:11px;font-weight:500;">收费</span>' : '';
-
-                        // 场馆信息
-                        const vinfo = scheduleVenueInfo ? (scheduleVenueInfo[exhibition.source] || scheduleVenueInfo[exhibition.venue]) : null;
-                        const typeTag = vinfo && vinfo.type ? `<span style="margin-left:6px;padding:2px 8px;background:#f0f7ff;color:#0891b2;border-radius:4px;font-size:11px;font-weight:500;">${vinfo.type}</span>` : '';
-                        const venueDesc = vinfo && vinfo.description ? `<div style="margin-top:4px;font-size:12px;color:#78716c;line-height:1.5;">💡 ${vinfo.description}</div>` : '';
-                        const venueAddr = vinfo && vinfo.address && vinfo.address !== '待补充' ? ` · ${vinfo.address}` : '';
-
-                        card.innerHTML = `
-                            <div class="exhibition-title">${exhibition.title || exhibition.name || ''}${feeBadge}${typeTag}</div>
-                            <div class="exhibition-meta">
-                                <span>📅 ${dateDisplay}</span>
-                                <span>📍 ${exhibition.venue}${venueAddr ? '<br><span style="font-size:11px;color:#a8a29e;">' + venueAddr + '</span>' : ''}</span>
-                            </div>
-                            ${exhibition.description ? `<div class="exhibition-desc">${exhibition.description}</div>` : ''}
-                            ${venueDesc}
-                            ${getLinks(exhibition).map(l => `<a href="${l.url}" target="_blank" class="exhibition-link">🔗 ${l.label}：查看详情</a>`).join('')}
-                        `;
-
-                        listContainer.appendChild(card);
-                    });
-                })
-                .catch(error => {
-                    listContainer.style.display = 'none';
-                    errorContainer.style.display = 'block';
-                    console.error('Failed to load exhibitions:', error);
-                });
-        }
-        
         window.addEventListener('DOMContentLoaded', () => {
             loadCities();
             updateSubscribeLinks();
-            loadScheduleVenueInfo().then(() => loadExhibitions());
         });
     </script>
 </body>
