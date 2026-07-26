@@ -1,815 +1,561 @@
-<?xml version=1.0 encoding=UTF-8?>
-<rss version=2.0>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
 <channel>
-  <title>深圳亲子活动日历</title>
-  <link>https://islon.github.io/goout/schedule.html</link>
-  <description>深圳及周边城市亲子文化活动资讯</description>
-  <language>zh-cn</language>
-  <lastBuildDate>2026-07-26T01:21:46Z</lastBuildDate>
-  <item>
-  <title><![CDATA[壁上万千——山西宋金壁画中的众生气象]]></title>
-  <link>https://www.nanshanmuseum.com</link>
-  <description><![CDATA[山西宋金壁画艺术展览，展现古代壁画中的众生百态。]]></description>
-  <pubDate>2025-12-30</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南山博物馆一层一号展厅]]></venue>
-</item><item>
-  <title><![CDATA[阅壤——月壤主题沉浸式科普展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[基于嫦娥五号月壤研究成果的科学+艺术展，国际首个月壤科研成果艺术展，购自然博物馆门票即可观展。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[成都自然博物馆（二楼临展厅）]]></venue>
-</item><item>
-  <title><![CDATA[第二届Y+Project 韩智同个展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[A4美术馆第二届Y+Project青年艺术家项目，呈现韩智同12组作品，涵盖绘画、影像、编织、装置。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[A4美术馆]]></venue>
-</item><item>
-  <title><![CDATA[第六届IDEA!想法——叙事艺术展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[以"叙事"为核心集结23位跨领域青年创作者，将创作全脉络与公众共创机制纳入展陈。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[许燎源当代艺术馆（一楼）]]></venue>
-</item><item>
-  <title><![CDATA[清净觉相 佛教艺术系列展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[以新津观音寺毗卢殿明代壁画为探索原点，串联古寺、壁画、法器与镜面反射的美学之路。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[知美术馆]]></venue>
-</item><item>
-  <title><![CDATA[留法勤工俭学运动主题展览]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[全国留法勤工俭学运动红色资源联盟成果，220张图片、28件实物再现青年赴法求索历程。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[李劼人故居纪念馆]]></venue>
-</item><item>
-  <title><![CDATA[窑火映天府——成都平原出土瓷器展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[系统梳理成都平原窑址考古历程，甄选出土瓷质文物，从制瓷、用瓷、微观瓷器三维度勾勒瓷业脉络。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[成都考古中心（临展厅）]]></venue>
-</item><item>
-  <title><![CDATA[珠海历史常设展]]></title>
-  <link></link>
-  <description><![CDATA[从新石器时代先民用具到近代香山名人手稿，展示珠海从远古到近代的完整历史印记，常设展览免费参观。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[珠海博物馆]]></venue>
-</item><item>
-  <title><![CDATA[传统艺文和民俗文化展]]></title>
-  <link></link>
-  <description><![CDATA[展示珠海传统艺文和民俗文化，含香山文化、客家文化、水上人家等主题内容。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[珠海博物馆]]></venue>
-</item><item>
-  <title><![CDATA[共同的记忆——珠海城市变迁展]]></title>
-  <link></link>
-  <description><![CDATA[回顾珠海城市发展的共同记忆，从渔村到现代化城市的变迁历程。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[珠海博物馆]]></venue>
-</item><item>
-  <title><![CDATA[珠海规划展览馆城市记忆展]]></title>
-  <link></link>
-  <description><![CDATA[展示珠海从渔村到现代化城市的规划建设成就，含互动模型、多媒体展示等。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[珠海规划展览馆]]></venue>
-</item><item>
-  <title><![CDATA[国家方志馆大湾区记忆展]]></title>
-  <link></link>
-  <description><![CDATA[华南地区首家国家方志馆分馆，馆藏图书超5.3万册，展示大湾区历史文化和城市记忆。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[国家方志馆粤港澳大湾区分馆]]></venue>
-</item><item>
-  <title><![CDATA[景山公园缆车观景体验]]></title>
-  <link></link>
-  <description><![CDATA[景山公园缆车索道观景体验，登高俯瞰珠海城市景观和海景，天气晴好时视野极佳。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[景山公园]]></venue>
-</item><item>
-  <title><![CDATA[金湾区图书馆「云」自习室体验]]></title>
-  <link></link>
-  <description><![CDATA[金湾区图书馆「云」自习室和24小时「开卷」自习室，提供专注学习空间。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[金湾区图书馆]]></venue>
-</item><item>
-  <title><![CDATA[金湾区博物馆林伟民主题陈列展]]></title>
-  <link></link>
-  <description><![CDATA[以林伟民生平为线索，分五个篇章串起珍贵历史照片与场景复原，了解早期工人运动历史。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[金湾区博物馆]]></venue>
-</item><item>
-  <title><![CDATA[金湾文物展]]></title>
-  <link></link>
-  <description><![CDATA[金湾文物展，展示数千年的海洋文明，探寻先民在珠海创造的海岛文明。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[金湾区博物馆]]></venue>
-</item><item>
-  <title><![CDATA[斗门区博物馆历史展]]></title>
-  <link></link>
-  <description><![CDATA[斗门区博物馆常设展览，展示斗门历史文化和民俗风情，含斗门旧事、民俗文化等。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[斗门区博物馆]]></venue>
-</item><item>
-  <title><![CDATA[吉金春秋——深圳博物馆铜器展]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳博物馆藏铜器常设展，展出商周至明清铜器精品。同心路馆10号展厅。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（古代艺术馆）]]></venue>
-</item><item>
-  <title><![CDATA[问陶之旅——深圳博物馆陶瓷展]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳博物馆藏陶瓷常设展，涵盖新石器时代到明清各时期陶瓷。同心路馆11号展厅。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（古代艺术馆）]]></venue>
-</item><item>
-  <title><![CDATA[深圳改革开放史展览]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳改革开放主题常设展，展示深圳从边陲小镇到国际化大都市的发展历程。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（改革开放展览馆）]]></venue>
-</item><item>
-  <title><![CDATA[古代深圳——深圳历史展]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳古代历史常设展，展示深圳7000年人类活动史和1700年城市史。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（历史民俗馆）]]></venue>
-</item><item>
-  <title><![CDATA[近代深圳——深圳近代史展]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳近代历史常设展，展示深圳从鸦片战争到解放战争时期的历史。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（历史民俗馆）]]></venue>
-</item><item>
-  <title><![CDATA[深圳民俗文化展]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳民俗文化常设展，展示广府、客家、海洋等多元民俗文化。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（历史民俗馆）]]></venue>
-</item><item>
-  <title><![CDATA[世界野生动物标本展]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[深圳博物馆世界野生动物标本常设展，展出非洲、美洲、澳洲等地的珍稀动物标本，亲子友好。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（历史民俗馆）]]></venue>
-</item><item>
-  <title><![CDATA[福尔摩斯的委托·沉浸式探案展（华南首站）]]></title>
-  <link>https://sz.ifeng.com/c/8sqVCenNkjN</link>
-  <description><![CDATA[柯南道尔官方授权，1:1复刻贝克街街区，孩子化身侦探解谜探案，推理文学研学；8大经典案件互动解谜，中小学生沉浸式文学体验。70岁以上老人免费，儿童亲子套票优惠。适合6-15岁推理启蒙。]]></description>
-  <pubDate>2026-01-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[深圳宝安·湾区之眼（湾区书城）]]></venue>
-</item><item>
-  <title><![CDATA[珍瓷萃美——中国古代瓷器艺术特展]]></title>
-  <link>https://www.nanshanmuseum.com</link>
-  <description><![CDATA[中国古代瓷器艺术精品展览。]]></description>
-  <pubDate>2026-02-07</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南山博物馆二层三号展厅]]></venue>
-</item><item>
-  <title><![CDATA[烟火指数·成都双年展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[邀29个国家及地区251位艺术家、328件/组作品，海外作品占比超四成，创成都双年展国际参与度新纪录。]]></description>
-  <pubDate>2026-02-08</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[成都市美术馆]]></venue>
-</item><item>
-  <title><![CDATA[贞观长歌——大唐历史文化主题展]]></title>
-  <link>https://www.nanshanmuseum.com</link>
-  <description><![CDATA[大唐历史文化主题展览，展现盛唐风貌。]]></description>
-  <pubDate>2026-02-13</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南山博物馆二层二号展厅]]></venue>
-</item><item>
-  <title><![CDATA[2026年光明区群众文艺团队培育提升系列活动]]></title>
-  <link>https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2</link>
-  <description><![CDATA[培训，深圳市光明区文化广电旅游体育局，在光明区文化馆举办]]></description>
-  <pubDate>2026-03-13</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[光明区文化馆]]></venue>
-</item><item>
-  <title><![CDATA[粤BA全省21城篮球联赛]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[全省21城全部参与、各自为战，长达5个月的精彩篮球联赛；粤BA票根福利涵盖餐饮、住宿、景区、娱乐等160余家商户。]]></description>
-  <pubDate>2026-03-21</pubDate>
-  <category><![CDATA[体育赛事]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[宝安体育馆]]></venue>
-</item><item>
-  <title><![CDATA[“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动]]></title>
-  <link>https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5</link>
-  <description><![CDATA[演出，光明区公共文化艺术和体育中心（区文化馆），在光明区文化馆举办]]></description>
-  <pubDate>2026-03-27</pubDate>
-  <category><![CDATA[演出]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[光明区文化馆]]></venue>
-</item><item>
-  <title><![CDATA[光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动]]></title>
-  <link>https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fb99268cc44c4f2ebda74282dd8be798</link>
-  <description><![CDATA[综合，光明区马田街道办事处，在光明区马田街道综合性文化服务中心举办]]></description>
-  <pubDate>2026-04-22</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[光明区马田街道综合性文化服务中心]]></venue>
-</item><item>
-  <title><![CDATA[知齐者，徐君也 徐悲鸿藏齐白石艺术研究展]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[以齐白石与徐悲鸿的知己之情为线索，集结徐悲鸿纪念馆、广东省博物馆藏约100件齐白石艺术珍品。]]></description>
-  <pubDate>2026-04-24</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广东美术馆（白鹅潭馆区）]]></venue>
-</item><item>
-  <title><![CDATA[观澜古墟第四届文化季]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[深圳仅存客家古墟之一，皮影戏表演、漫步灯笼连廊下看百年碉楼披流光，逛水岸文创市集，夜景超出片。]]></description>
-  <pubDate>2026-04-25</pubDate>
-  <category><![CDATA[其他]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[观澜古墟]]></venue>
-</item><item>
-  <title><![CDATA[中国美术馆 从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展]]></title>
-  <link>https://bj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[意大利文艺复兴名作亮相中国美术馆，涵盖达·芬奇、卡拉瓦乔等大师脉络，展期覆盖整个暑期。]]></description>
-  <pubDate>2026-04-28</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[中国美术馆]]></venue>
-</item><item>
-  <title><![CDATA[一念敦煌·石窟艺术大展]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[创新剧场化沉浸叙事，多维互动展陈完整呈现敦煌文明古今脉络，夜场开放延长至20:30。]]></description>
-  <pubDate>2026-05-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广州艺术博物院（广州美术馆）]]></venue>
-</item><item>
-  <title><![CDATA[汉艺双楫——陕鲁碑刻与画像石拓片集珍展]]></title>
-  <link>https://xa.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[特策划陕鲁碑刻与画像石拓片集珍展，沉浸式品读汉石遗韵、溯源历史文脉。]]></description>
-  <pubDate>2026-05-15</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[西安碑林博物馆]]></venue>
-</item><item>
-  <title><![CDATA[二十四伎乐 器乐剧美学展]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[以永陵"二十四伎乐"为蓝本，循器乐剧《蜀宫乐宴》创作脉络，探索千年蜀乐当代活化。]]></description>
-  <pubDate>2026-05-16</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[成都永陵博物馆（综合馆）]]></venue>
-</item><item>
-  <title><![CDATA[首都博物馆 玉米·黄金·美洲豹——玛雅与安第斯古代文明大展]]></title>
-  <link>https://bj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA["十五五"开局之年首个大展，展品数量与合作单位规模均创首博历史之最，聚焦玛雅与安第斯古代文明。]]></description>
-  <pubDate>2026-05-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[首都博物馆]]></venue>
-</item><item>
-  <title><![CDATA[奉贤博物馆 宝硕流光 故宫博物院藏乾隆时期文物特展]]></title>
-  <link>https://sh.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[精选故宫博物院所藏与乾隆皇帝密切相关的文物121件（套），含服饰、玺印、瓷器、玉器等。]]></description>
-  <pubDate>2026-05-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[奉贤博物馆（B栋二楼临展厅）]]></venue>
-</item><item>
-  <title><![CDATA[来处与归途：三燕百年]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[三燕历史文化特展，深圳博物馆金田路馆。]]></description>
-  <pubDate>2026-05-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（历史民俗馆）]]></venue>
-</item><item>
-  <title><![CDATA[骥跃升腾——三彩马的世界]]></title>
-  <link>https://www.shenzhenmuseum.com</link>
-  <description><![CDATA[唐三彩马主题特展，深圳博物馆同心路馆。]]></description>
-  <pubDate>2026-05-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳博物馆（古代艺术馆）]]></venue>
-</item><item>
-  <title><![CDATA[四季倒影：光之镜中的自然——赫利顿·希夏个展]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[希夏重写雕塑传统的体量，建构光的回馈场，集中呈现其围绕光、自然与环境的大型雕塑。]]></description>
-  <pubDate>2026-05-28</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广东美术馆（白鹅潭馆区）]]></venue>
-</item><item>
-  <title><![CDATA[风景与想象之间——意大利当代艺术在中国]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[从西方美术史"观看"概念出发，呈现多条相互呼应的创作线索，具地中海文化语境的温和节奏。]]></description>
-  <pubDate>2026-05-29</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广东美术馆（白鹅潭馆区）]]></venue>
-</item><item>
-  <title><![CDATA[薪火相传 稚笔生花——2026少儿艺术展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[深圳少儿绘画作品展，亲子友好美育展。笔触稚嫩却充满力量，色彩大胆童趣，很适合带娃观看，一楼3号厅长期展出。]]></description>
-  <pubDate>2026-05-29</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南山区深圳美术馆]]></venue>
-</item><item>
-  <title><![CDATA[薪火相传 稚笔生花——2026深圳美术馆少儿艺术展]]></title>
-  <link>http://m.toutiao.com/group/7658324154139148850/</link>
-  <description><![CDATA[描述
-
-从全市1400余件投稿中遴选出140幅少儿佳作，涵盖国画、油画、水彩、数字艺术等。免费免预约。]]></description>
-  <pubDate>2026-05-29</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[南山区深圳美术馆]]></venue>
-</item><item>
-  <title><![CDATA[薪火相传 笔笔生花——2026深圳美术馆少儿艺术展]]></title>
-  <link>http://m.toutiao.com/group/7658324154139148850/</link>
-  <description><![CDATA[从全市1400余件投稿中遴选出140幅少儿佳作，涵盖国画、油画、水彩、数字艺术等。免费免预约。]]></description>
-  <pubDate>2026-05-29</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[罗湖区深圳美术馆]]></venue>
-</item><item>
-  <title><![CDATA[葵山——许江艺术展]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA["葵"与"山"两条主线，系统呈现许江精神世界与创作脉络，思考生命、历史与时代。]]></description>
-  <pubDate>2026-05-30</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广东美术馆（白鹅潭馆区）]]></venue>
-</item><item>
-  <title><![CDATA[过期儿童：玩具、壳与失效情绪]]></title>
-  <link>https://xa.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[当代艺术家初劭玮个展，聚焦"玩具"这一工业化情感材料，构建专属共时记忆。]]></description>
-  <pubDate>2026-06-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[西安市城市影像博物馆]]></venue>
-</item><item>
-  <title><![CDATA[中国国家博物馆 行·迹——卡塔尔游牧生活与文化展]]></title>
-  <link>https://bj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[国内首次系统性呈现卡塔尔游牧生活的专题展览，约150件组实物与影像，解读卡塔尔游牧文明。]]></description>
-  <pubDate>2026-06-09</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[中国国家博物馆（南3展厅）]]></venue>
-</item><item>
-  <title><![CDATA[长风万里——关山月艺术大展]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA["其命惟新"名家个案研究首场大展，110余件作品重走关山月艺术长征，含晚年绝笔难得一见。]]></description>
-  <pubDate>2026-06-09</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[广东美术馆（二沙岛本馆）]]></venue>
-</item><item>
-  <title><![CDATA[中国国家博物馆 巴西魂——波尔蒂纳里艺术展]]></title>
-  <link>https://bj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[呈现巴西现代艺术大师坎迪多·波尔蒂纳里56件原作与沉浸式数字体验，展现巴西艺术力量。]]></description>
-  <pubDate>2026-06-10</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[中国国家博物馆（南4展厅）]]></venue>
-</item><item>
-  <title><![CDATA[北京水长城暑期活动]]></title>
-  <link>https://bj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[519活动、六一儿童节活动与暑期学生专属活动联动，山水之间清凉消暑，适合亲子出游。]]></description>
-  <pubDate>2026-06-10</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[黄花城水长城]]></venue>
-</item><item>
-  <title><![CDATA[肇兴中国 秦·大一统之路文物考古特展]]></title>
-  <link>https://sh.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[汇聚甘肃、陕西两地最新秦文化考古成果，200多件/组遗存系统呈现秦从附庸到一统的历程。]]></description>
-  <pubDate>2026-06-10</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[上海博物馆东馆]]></venue>
-</item><item>
-  <title><![CDATA[沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展]]></title>
-  <link>https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html</link>
-  <description><![CDATA[精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。展期至10月7日，免费免预约。定点讲解：每个开馆日10:50。]]></description>
-  <pubDate>2026-06-12</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南山博物馆一层一号专题展厅]]></venue>
-</item><item>
-  <title><![CDATA[沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展]]></title>
-  <link>https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html</link>
-  <description><![CDATA[精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。]]></description>
-  <pubDate>2026-06-12</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南山博物馆]]></venue>
-</item><item>
-  <title><![CDATA[金石学在陕西·追金篇]]></title>
-  <link>https://xa.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[聚焦陕西商周至民国青铜器遗存，分五大单元梳理金石学学术脉络与当代传承。]]></description>
-  <pubDate>2026-06-14</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[陕西历史博物馆]]></venue>
-</item><item>
-  <title><![CDATA[手作·造物——现代手工艺师生作品展]]></title>
-  <link></link>
-  <description><![CDATA[陶瓷、广府金绣、掐丝珐琅与非遗点翠等20余个门类的工艺美术作品在一楼中庭展出。]]></description>
-  <pubDate>2026-06-15</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[金湾区图书馆]]></venue>
-</item><item>
-  <title><![CDATA[童心向党——金湾区青少儿艺术花会优秀作品展]]></title>
-  <link></link>
-  <description><![CDATA[金湾区青少儿艺术花会优秀作品展，展出813件艺术感十足的青少儿艺术作品。]]></description>
-  <pubDate>2026-06-15</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[金湾区文化馆]]></venue>
-</item><item>
-  <title><![CDATA[墨彩童年——王明明、方楚雄儿童画作品特展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[两位国画大师6至18岁幼年原作，童趣花鸟、民俗、山水，看艺术家成长轨迹，亲子美育好去处。]]></description>
-  <pubDate>2026-06-17</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[深圳美术馆（新馆）8号厅]]></venue>
-</item><item>
-  <title><![CDATA[杭州宋城暑期狂欢（泼水+百场演艺+随意节）]]></title>
-  <link></link>
-  <description><![CDATA[20个室内外剧场暑期每日百场演出，《宋城千古情》单日固定2场；7.4-8.23"随意节"电音泼水狂欢。]]></description>
-  <pubDate>2026-06-17</pubDate>
-  <category><![CDATA[演出]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[杭州宋城（之江路148号）]]></venue>
-</item><item>
-  <title><![CDATA[国门守护·丹青传承——深圳海关缉私局查获近现代书画文物珍品特展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[深圳海关缉私局查获的近现代书画文物珍品特展，兼具文物价值与普法科普意义。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[深圳美术馆（新馆）9号厅]]></venue>
-</item><item>
-  <title><![CDATA[深情托付——深圳美术馆新馆捐赠作品展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[各界捐赠880余件馆藏精品，涵盖国画、油画、版画等多元门类，梳理新馆收藏脉络。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[深圳美术馆（新馆）12、13号厅]]></venue>
-</item><item>
-  <title><![CDATA[PINGU 45周年南极奇境全球艺术家群展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[PINGU官方×COEXIST共凝文化联手，集结45位来自12国艺术家作品。免费打卡区零门槛开放，巨型PINGU雕塑+动画场景还原，每日10:00-22:00。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[深圳万象天地北区L4层 MXTR GALLERY]]></venue>
-</item><item>
-  <title><![CDATA[深圳世界之窗WoW潮音嘉年华]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[6月18日至8月30日每周五六日，33天露天音乐节落地罗马假日广场，集结焦迈奇、HIGH5、井胧等艺人，另有神秘嘉宾。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[演出]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[深圳世界之窗（罗马假日广场）]]></venue>
-</item><item>
-  <title><![CDATA[跨越山海——寻找东西方传说中的奇幻生物]]></title>
-  <link>https://cq.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[集结中意20+家文博机构、200+件/组文物，以"奇幻生物"为线索展开东西方文明想象力对话，单人票49元。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[重庆中国三峡博物馆]]></venue>
-</item><item>
-  <title><![CDATA[伯乐相马 特色展览]]></title>
-  <link>https://xa.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[以相马、绘马、塑马为脉络设三大单元，集中展现中国古代绘画与雕塑中骏马的风骨神韵。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[陕西历史博物馆]]></venue>
-</item><item>
-  <title><![CDATA[2026光明街道迳口社区笔墨光影-迳口古村书法摄影展]]></title>
-  <link>https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=215c7cf11b9643fcb76756036a947c7f</link>
-  <description><![CDATA[展览，光明区公共文化艺术和体育中心，在迳口社区综合性文化服务中心举办]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[迳口社区综合性文化服务中心]]></venue>
-</item><item>
-  <title><![CDATA[深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节]]></title>
-  <link>https://m.sohu.com/a/1045463665_675420/</link>
-  <description><![CDATA[33天露天音乐节，汇集谢霆锋、HIGH5、周深等艺人，罗马假日广场冰雕啤酒+烧烤+音乐派对。每周五至周日举办。]]></description>
-  <pubDate>2026-06-18</pubDate>
-  <category><![CDATA[其他]]></category>
-  <fee>需购票</fee>
-  <venue><![CDATA[深圳世界之窗]]></venue>
-</item><item>
-  <title><![CDATA[呀路古热带植物园第十一届泼水节]]></title>
-  <link>https://bj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[将彩云之南的傣族风情原汁原味搬到京郊，泼水节盛大启幕，以水为媒解锁夏日治愈打开方式。]]></description>
-  <pubDate>2026-06-19</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[北京呀路古热带植物园]]></venue>
-</item><item>
-  <title><![CDATA[拓墨涤心——拓绘展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[非遗拓绘技艺展，一纸一墨复刻古碑石刻纹路，黑白拓片藏岁月厚重感，喜爱国风金石传统文化的不要错过。]]></description>
-  <pubDate>2026-06-19</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[深圳美术馆（新馆）]]></venue>
-</item><item>
-  <title><![CDATA[文明以止——希腊化时期的黄金艺术]]></title>
-  <link>https://xa.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[展出250件（套）希腊金器，汇集希腊多家文博机构藏品，呈现多元审美与古人祈愿。]]></description>
-  <pubDate>2026-06-19</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[未来之瞳西安大剧院]]></venue>
-</item><item>
-  <title><![CDATA[高淳区龙虾啤酒·夏夜嘉年华]]></title>
-  <link>https://nj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[吹晚风、看比赛、吃龙虾的夏夜嘉年华，暑期消暑夜游。]]></description>
-  <pubDate>2026-06-20</pubDate>
-  <category><![CDATA[体育赛事]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[固城湾景区]]></venue>
-</item><item>
-  <title><![CDATA[笔墨同心·林墉、苏华作品展]]></title>
-  <link>http://m.toutiao.com/group/7658324154139148850/</link>
-  <description><![CDATA[描述
-
-全面呈现林墉'霸悍恣丽'的水墨人物风骨与苏华'豪迈雄放'的书画才情。免费免预约。]]></description>
-  <pubDate>2026-06-20</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[何香凝美术馆 |]]></venue>
-</item><item>
-  <title><![CDATA[国宝萌友展]]></title>
-  <link>https://www.szstm.org.cn</link>
-  <description><![CDATA[沉浸式体验+活体昆虫互动展，亲子友好。光明新馆特展。]]></description>
-  <pubDate>2026-06-20</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳科学技术馆（光明新馆）]]></venue>
-</item><item>
-  <title><![CDATA[笔墨同心·林甘泉、萧华作品展]]></title>
-  <link>http://m.toutiao.com/group/7658324154139148850/</link>
-  <description><![CDATA[全面呈现林甘泉'挥洒淋漓'的水彩人物风格与萧华'华丽绽放'的书画才情。免费免预约。]]></description>
-  <pubDate>2026-06-20</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[何香凝美术馆]]></venue>
-</item><item>
-  <title><![CDATA[多彩巴蜀——巴蜀文化旅游走廊美术作品展]]></title>
-  <link>https://cq.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[重庆美术馆新展之一，呈现巴蜀文化旅游走廊美术创作成果，免费对公众开放。]]></description>
-  <pubDate>2026-06-23</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[重庆美术馆（1号厅）]]></venue>
-</item><item>
-  <title><![CDATA[道登天门——萧娴书法艺术展]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[新开书法特展，展览设计具东方美感，集中呈现萧娴书法艺术成就，书法爱好者可前往观赏。]]></description>
-  <pubDate>2026-06-24</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[深圳美术馆（新馆）]]></venue>
-</item><item>
-  <title><![CDATA[万物之始·种子的远行 科普展]]></title>
-  <link>https://hz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[持卡（公园年卡）免费入园，陈列植物实物标本、显微摄影与图文展板，直观了解种子传播方式。]]></description>
-  <pubDate>2026-06-24</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[杭州植物园（展览小花园）]]></venue>
-</item><item>
-  <title><![CDATA[钱王祠 夏日莲荷展]]></title>
-  <link>https://hz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[持卡（公园年卡）免费入园，上百盆荷花、睡莲次第开放，打造"莫奈花园"般荷景打卡地。]]></description>
-  <pubDate>2026-06-24</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[钱王祠]]></venue>
-</item><item>
-  <title><![CDATA[第三届"新时代新征程新重庆"全国名家画重庆]]></title>
-  <link>https://cq.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[全国名家画重庆美术作品邀请展，免费开放，展现山城风貌与时代新貌。]]></description>
-  <pubDate>2026-06-24</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[重庆美术馆（2-5号厅）]]></venue>
-</item><item>
-  <title><![CDATA[岚岚作品展]]></title>
-  <link>https://cq.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[重庆美术馆暑期新展，免费开放，盛夏防雨又防晒的遛娃看展好去处。]]></description>
-  <pubDate>2026-06-27</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[重庆美术馆（7号厅）]]></venue>
-</item><item>
-  <title><![CDATA[上海迪士尼乐园夏日缤纷主题体验]]></title>
-  <link>https://sh.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[开业十周年限定夏日狂欢，加时升级日至22:30，明日世界化身高燃舞池，水花巡游与十周年幻影秀。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[上海迪士尼乐园]]></venue>
-</item><item>
-  <title><![CDATA[上海欢乐谷&玛雅海滩水公园 水陆双园夏日狂欢]]></title>
-  <link>https://sh.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[白天逐浪戏水、夜晚音浪炸场双园联动，泼水派对与水上滑道适配亲子与年轻玩家。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[演出]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[上海欢乐谷/玛雅海滩水公园]]></venue>
-</item><item>
-  <title><![CDATA[上海野生动物园夏日野趣夜游]]></title>
-  <link>https://sh.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[7月全新升级夜公园持续开放至21:00，"日游狂欢+夜探秘境"双线模式打造都市野趣夜游。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[上海野生动物园]]></venue>
-</item><item>
-  <title><![CDATA[2026上海暑假"博物馆奇妙夜"系列活动]]></title>
-  <link>https://sh.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[上历博、世博会博物馆、琉璃艺术博物馆等推出夜间开放与特展，含免费与收费多种活动。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>部分免费</fee>
-  <venue><![CDATA[上海博物馆/历博等多馆]]></venue>
-</item><item>
-  <title><![CDATA[长隆水上乐园 全球玩水嘉年华]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[横跨五大洲洲际主题狂欢，萌娃IP互动、明星水上电音派对，暑期每周有大动作。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广州长隆水上乐园]]></venue>
-</item><item>
-  <title><![CDATA[长隆欢乐世界 森巴酷爽嘉年华]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[围绕"玩水、亲子、森巴狂欢"的夏日限定，全天候玩水派对+森巴大巡游+夜间电音狂欢。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广州长隆欢乐世界]]></venue>
-</item><item>
-  <title><![CDATA[长隆野生动物世界 全球动物科普嘉年华]]></title>
-  <link>https://gz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[围绕科普开展十项活动，含动物主题日、科普讲堂、便便工坊等，挖掘动物冷知识。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[广州长隆野生动物世界]]></venue>
-</item><item>
-  <title><![CDATA[圆明园兽首真品展（牛首·猴首·虎首·猪首）]]></title>
-  <link>https://sz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[圆明园牛首、猴首、虎首、猪首四尊兽首真品展出，7月20日谢幕后改展复制件，展期整体延长至8月31日，周二至周日10:00-18:00开放。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费需预约</fee>
-  <venue><![CDATA[深圳国际美术馆]]></venue>
-</item><item>
-  <title><![CDATA[中国动漫博物馆 暑期免费观影]]></title>
-  <link></link>
-  <description><![CDATA[暑期面向公众免费观影活动，领票时间见馆方公告，亲子动画文化好去处。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[讲座阅读]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[中国动漫博物馆]]></venue>
-</item><item>
-  <title><![CDATA[西湖夜游船·三潭印月]]></title>
-  <link>https://hz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[夏夜乘船赏三潭印月与湖心亭灯影，含演艺观赏，暑期亲子夜游经典线路。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[西湖（湖滨/钱王祠码头）]]></venue>
-</item><item>
-  <title><![CDATA[浙江省博物馆 跟着浙博游西湖 体验式讲解]]></title>
-  <link>https://hz.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[清行宫遗址体验式讲解服务，双人/家庭票可选，边游西湖边听浙博文物故事。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[讲座阅读]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[浙江省博物馆（孤山馆区）]]></venue>
-</item><item>
-  <title><![CDATA[西岭雪山 暑期避暑季（后山滑雪场景区免票）]]></title>
-  <link>https://cd.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[后山滑雪场景区面向所有游客免门票至10月30日，新鸳鸯池索道投运，云懒懒牧场等全新场景上线。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[西岭雪山]]></venue>
-</item><item>
-  <title><![CDATA[洪崖洞民俗风貌区 夜景游]]></title>
-  <link>https://cq.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[依山错落的吊脚楼亮灯夜景是重庆地标，免费开放，暑期夜间纳凉打卡胜地。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[洪崖洞民俗风貌区]]></venue>
-</item><item>
-  <title><![CDATA[重庆科技馆 暑期开放]]></title>
-  <link>https://cq.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[周二至周日9:30-17:00免费开放（16:30停止入馆），寓教于乐的科普场馆，亲子避暑好去处。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[重庆科技馆]]></venue>
-</item><item>
-  <title><![CDATA[南京博物院 延时开放·博物馆奇妙夜]]></title>
-  <link>https://nj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[7.1-8.30每周日至周四至20:00、周五六至21:00，特展馆《世界珍宝——印度莫卧儿王朝艺术展》等夜场开放。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>部分免费</fee>
-  <venue><![CDATA[南京博物院]]></venue>
-</item><item>
-  <title><![CDATA[灯影——南京博物院藏陕西皮影艺术展]]></title>
-  <link>https://nj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[暑假上新特展之一，以光影呈现陕西皮影艺术，夜游南博时顺道邂逅千年皮影。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[展览]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[南京博物院]]></venue>
-</item><item>
-  <title><![CDATA[银杏湖乐园 暑期亲子]]></title>
-  <link>https://nj.bendibao.com/xiuxian/huodongditu</link>
-  <description><![CDATA[设施先进的亲子主题乐园，暑期戏水与游乐项目全开，家庭票2大1小可选。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[亲子活动]]></category>
-  <fee>收费</fee>
-  <venue><![CDATA[南京银杏湖乐园]]></venue>
-</item><item>
-  <title><![CDATA[珠海市图书馆暑期阅读季]]></title>
-  <link></link>
-  <description><![CDATA[珠海市图书馆暑期阅读推广活动，含阅读分享会、亲子故事会、好书推荐等系列活动。]]></description>
-  <pubDate>2026-07-01</pubDate>
-  <category><![CDATA[讲座阅读]]></category>
-  <fee>免费</fee>
-  <venue><![CDATA[珠海市图书馆]]></venue>
-</item>
+    <title>深圳展览日历</title>
+    <link>https://islon.github.io/shenzhen-exhibitions/</link>
+    <description>深圳会展中心 & 深圳国际会展中心 展览日程</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 26 Jul 2026 15:14:24 GMT</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+        <title>少年述史·馆员论典——地方文献与馆藏精品暑期定时导览</title>
+        <link>https://www.library.sh.cn/activity?tabName=%E5%85%A8%E9%A2%91&dateType=lately</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-16<br>
+            <strong>地点：</strong>上海图书馆<br>
+            上图东馆推出的暑期定时导览活动，由馆员带领解读地方文献与馆藏精品，面向青少年与亲子家庭，培养历史认知与阅读兴趣，需预约参加。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>少年述史·馆员论典——地方文献与馆藏精品暑期定时导览</guid>
+    </item>
+    <item>
+        <title>欢迎来到恐龙时代——知识视界科普讲座</title>
+        <link>https://www.zjhzlib.cn/hdyghz/8010.htm</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-16<br>
+            <strong>地点：</strong>杭州图书馆少儿分馆<br>
+            杭小图看世界系列科普讲座，带领少儿读者探索恐龙时代的奥秘。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>欢迎来到恐龙时代——知识视界科普讲座</guid>
+    </item>
+    <item>
+        <title>重庆小面制作体验</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-16<br>
+            <strong>地点：</strong>磁器口古镇<br>
+            向老师傅学习揉面、佐料搭配，亲手做一碗地道重庆小面品尝。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>重庆小面制作体验</guid>
+    </item>
+    <item>
+        <title>武汉渡江节亲子体验</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-16<br>
+            <strong>地点：</strong>东湖风景区<br>
+            渡江节亲子方队体验，安全水域感受横渡乐趣。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉渡江节亲子体验</guid>
+    </item>
+    <item>
+        <title>武汉渡江节公开水域游泳</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-16<br>
+            <strong>地点：</strong>东湖风景区<br>
+            渡江节公开水域游泳赛，全民健身畅游长江。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉渡江节公开水域游泳</guid>
+    </item>
+    <item>
+        <title>自然博物馆昆虫探秘之旅</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-15<br>
+            <strong>地点：</strong>重庆自然博物馆<br>
+            昆虫学家带领观察标本馆藏，了解重庆地区昆虫多样性，制作昆虫标本。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>自然博物馆昆虫探秘之旅</guid>
+    </item>
+    <item>
+        <title>缙云山森林避暑课堂</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-15<br>
+            <strong>地点：</strong>缙云山自然保护区<br>
+            在缙云山凉爽森林中开展自然课堂，学习植物辨识与生态保护知识。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>缙云山森林避暑课堂</guid>
+    </item>
+    <item>
+        <title>湖北省博物馆曾侯乙展厅研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-15<br>
+            <strong>地点：</strong>湖北省博物馆<br>
+            围绕曾侯乙墓出土文物开展主题研学，揭秘战国礼乐文明。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>湖北省博物馆曾侯乙展厅研学</guid>
+    </item>
+    <item>
+        <title>武汉玛雅海滩水公园泼水节</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-15<br>
+            <strong>地点：</strong>武汉玛雅海滩水公园<br>
+            玛雅泼水节主题活动，全民泼水大战清凉一夏。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉玛雅海滩水公园泼水节</guid>
+    </item>
+    <item>
+        <title>武汉市少年儿童图书馆小志愿者培训</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-15<br>
+            <strong>地点：</strong>武汉市少年儿童图书馆<br>
+            小志愿者培训，参与图书整理与导读服务。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉市少年儿童图书馆小志愿者培训</guid>
+    </item>
+    <item>
+        <title>火锅博物馆美食文化研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-14<br>
+            <strong>地点：</strong>重庆火锅博物馆<br>
+            了解重庆火锅百年发展史，参观历代火锅器具，体验底料炒制工艺。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>火锅博物馆美食文化研学</guid>
+    </item>
+    <item>
+        <title>红岩精神讲堂</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-14<br>
+            <strong>地点：</strong>重庆红岩革命历史博物馆<br>
+            红岩研究专家讲述南方局革命事迹，传承红岩精神与革命传统。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>红岩精神讲堂</guid>
+    </item>
+    <item>
+        <title>武汉自然博物馆恐龙化石探秘</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-14<br>
+            <strong>地点：</strong>武汉自然博物馆<br>
+            近距离观察恐龙化石标本，听讲解员讲述恐龙时代故事。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉自然博物馆恐龙化石探秘</guid>
+    </item>
+    <item>
+        <title>辛亥革命武昌起义纪念馆小小讲解员</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-14 ~ 2027-07-16<br>
+            <strong>地点：</strong>辛亥革命武昌起义纪念馆<br>
+            红楼小小讲解员培训，传播红色历史。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>辛亥革命武昌起义纪念馆小小讲解员</guid>
+    </item>
+    <item>
+        <title>南山植物园蔷薇园探秘</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-13<br>
+            <strong>地点：</strong>南山植物园<br>
+            漫步蔷薇园，欣赏月季、玫瑰等蔷薇科花卉，了解其栽培与育种历史。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>南山植物园蔷薇园探秘</guid>
+    </item>
+    <item>
+        <title>火锅文化深度体验营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-13<br>
+            <strong>地点：</strong>重庆火锅博物馆<br>
+            了解火锅百年历史，体验底料炒制与菜品摆盘，最后品尝自制火锅。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>火锅文化深度体验营</guid>
+    </item>
+    <item>
+        <title>武汉动物园金丝猴课堂</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-13<br>
+            <strong>地点：</strong>武汉动物园<br>
+            走近川金丝猴家族，了解灵长类动物习性。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉动物园金丝猴课堂</guid>
+    </item>
+    <item>
+        <title>湖北省图书馆名家讲座</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-13<br>
+            <strong>地点：</strong>湖北省图书馆<br>
+            名家讲座邀请知名作家分享创作心得。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>湖北省图书馆名家讲座</guid>
+    </item>
+    <item>
+        <title>黄鹤楼公园古建探秘</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-13<br>
+            <strong>地点：</strong>黄鹤楼公园<br>
+            探秘黄鹤楼古建结构与斗拱技艺，了解建筑智慧。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>黄鹤楼公园古建探秘</guid>
+    </item>
+    <item>
+        <title>巴蜀青铜器鉴赏研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>重庆中国三峡博物馆<br>
+            专家带领近距离观察巴蜀青铜器精品，解读古代青铜铸造工艺与文化内涵。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>巴蜀青铜器鉴赏研学</guid>
+    </item>
+    <item>
+        <title>重庆动物园金丝猴探秘</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>重庆动物园<br>
+            近距离观察川金丝猴族群，了解这一珍稀灵长类动物的生态习性。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>重庆动物园金丝猴探秘</guid>
+    </item>
+    <item>
+        <title>重庆中央公园亲子骑行</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>重庆中央公园<br>
+            亲子骑行活动沿公园绿道骑行，提供自行车租赁与安全骑行指导。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>重庆中央公园亲子骑行</guid>
+    </item>
+    <item>
+        <title>武隆喀斯特地质研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>武隆喀斯特<br>
+            走进世界自然遗产武隆喀斯特，研学天生三桥与天坑地缝地质奇观。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武隆喀斯特地质研学</guid>
+    </item>
+    <item>
+        <title>东湖听涛景区自然观察</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>东湖风景区<br>
+            在听涛景区观察水生植物与鸟类，记录自然笔记。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>东湖听涛景区自然观察</guid>
+    </item>
+    <item>
+        <title>解放公园湿地观鸟</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>解放公园<br>
+            在解放公园湿地观察白鹭与水鸟，学习观鸟技巧。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>解放公园湿地观鸟</guid>
+    </item>
+    <item>
+        <title>湖北美术馆陶艺体验</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>湖北美术馆<br>
+            陶艺拉坯与捏塑体验，亲手制作专属陶艺作品。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>湖北美术馆陶艺体验</guid>
+    </item>
+    <item>
+        <title>武汉图书馆绘本剧表演</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-12<br>
+            <strong>地点：</strong>武汉图书馆<br>
+            绘本剧表演，小读者化身演员演绎绘本故事。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉图书馆绘本剧表演</guid>
+    </item>
+    <item>
+        <title>防灾减灾体验营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-11<br>
+            <strong>地点：</strong>重庆科技馆<br>
+            通过地震、火灾模拟体验，学习应急避险与自救互救技能，提升安全意识。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>防灾减灾体验营</guid>
+    </item>
+    <item>
+        <title>缙云山植物认知自然课堂</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-11<br>
+            <strong>地点：</strong>缙云山自然保护区<br>
+            走进缙云山亚热带常绿阔叶林，识别珍稀植物，制作植物认知手册。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>缙云山植物认知自然课堂</guid>
+    </item>
+    <item>
+        <title>江汉关博物馆海关历史研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-11<br>
+            <strong>地点：</strong>江汉关博物馆<br>
+            走进江汉关大楼，了解近代海关制度与武汉开埠历史。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>江汉关博物馆海关历史研学</guid>
+    </item>
+    <item>
+        <title>中科院武汉植物园植物标本制作</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-11<br>
+            <strong>地点：</strong>中科院武汉植物园<br>
+            采集植物叶片制作腊叶标本，学习植物分类知识。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>中科院武汉植物园植物标本制作</guid>
+    </item>
+    <item>
+        <title>三峡文化研学夏令营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-10 ~ 2027-07-15<br>
+            <strong>地点：</strong>重庆中国三峡博物馆<br>
+            深度解读三峡历史文化，带领青少年走进巴渝文明发源地，开展五日研学课程。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>三峡文化研学夏令营</guid>
+    </item>
+    <item>
+        <title>大足石刻文化研学营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-10 ~ 2027-07-12<br>
+            <strong>地点：</strong>大足石刻<br>
+            三日大足石刻研学，深度解读世界文化遗产的造像艺术与宗教文化。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>大足石刻文化研学营</guid>
+    </item>
+    <item>
+        <title>科举博物馆小小举人研学营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-10 ~ 2027-07-12<br>
+            <strong>地点：</strong>南京中国科举博物馆<br>
+            三日研学营带领孩子从童试到殿试逐级闯关，学习古代科举文化，结营颁发小小举人研学证书。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>科举博物馆小小举人研学营</guid>
+    </item>
+    <item>
+        <title>武汉科技馆小小科学家训练营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-10 ~ 2027-07-12<br>
+            <strong>地点：</strong>武汉科技馆<br>
+            三天营期完成多组科学实验，培养小小科学家思维。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉科技馆小小科学家训练营</guid>
+    </item>
+    <item>
+        <title>盘龙城遗址博物院考古研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-10<br>
+            <strong>地点：</strong>盘龙城遗址博物院<br>
+            田野考古研学，学习探方发掘与记录方法。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>盘龙城遗址博物院考古研学</guid>
+    </item>
+    <item>
+        <title>中山舰博物馆打捞历史研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-09<br>
+            <strong>地点：</strong>中山舰博物馆<br>
+            了解中山舰打捞修复全过程，重温近代海军风云。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>中山舰博物馆打捞历史研学</guid>
+    </item>
+    <item>
+        <title>建川博物馆抗战文化研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-08<br>
+            <strong>地点：</strong>重庆建川博物馆聚落<br>
+            参观抗战时期兵工厂旧址与文物，聆听抗战故事，传承爱国主义精神。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>建川博物馆抗战文化研学</guid>
+    </item>
+    <item>
+        <title>朝天宫小小讲解员培训</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-08 ~ 2027-07-14<br>
+            <strong>地点：</strong>南京市博物馆<br>
+            南京市博物馆(朝天宫)暑期小小讲解员培训班，通过文物知识培训与讲解实训，培养少年儿童的口语表达与历史兴趣。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>朝天宫小小讲解员培训</guid>
+    </item>
+    <item>
+        <title>武汉博物馆武汉历史通览研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-08<br>
+            <strong>地点：</strong>武汉博物馆<br>
+            通过江汉曙光到近代都市展厅，通览武汉城市发展史。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>武汉博物馆武汉历史通览研学</guid>
+    </item>
+    <item>
+        <title>辛亥革命博物馆首义历史研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-08<br>
+            <strong>地点：</strong>辛亥革命博物馆<br>
+            首义历史主题研学，系统了解辛亥革命全过程。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>辛亥革命博物馆首义历史研学</guid>
+    </item>
+    <item>
+        <title>红岩研学夏令营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-07 ~ 2027-07-11<br>
+            <strong>地点：</strong>重庆红岩革命历史博物馆<br>
+            五日红岩研学营，走访红岩革命旧址，学习红岩精神与革命历史。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>红岩研学夏令营</guid>
+    </item>
+    <item>
+        <title>盘龙城遗址博物院商代城址研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-07<br>
+            <strong>地点：</strong>盘龙城遗址博物院<br>
+            走进武汉城市之根盘龙城，探秘3500年前的商代城址。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>盘龙城遗址博物院商代城址研学</guid>
+    </item>
+    <item>
+        <title>辛亥革命武昌起义纪念馆红楼研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-07<br>
+            <strong>地点：</strong>辛亥革命武昌起义纪念馆<br>
+            走进红楼开展首义研学，重温辛亥革命历史。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>辛亥革命武昌起义纪念馆红楼研学</guid>
+    </item>
+    <item>
+        <title>重庆美术馆少儿美育课堂</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-06<br>
+            <strong>地点：</strong>重庆美术馆<br>
+            专业美术老师带领少儿欣赏馆藏作品，开展创意绘画创作体验。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>重庆美术馆少儿美育课堂</guid>
+    </item>
+    <item>
+        <title>南山植物园夏花认知之旅</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-06<br>
+            <strong>地点：</strong>南山植物园<br>
+            植物专家带领识别夏季盛开花卉，学习植物分类基础知识与花卉文化。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>南山植物园夏花认知之旅</guid>
+    </item>
+    <item>
+        <title>湖北省博物馆越王勾践剑赏析课</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-06<br>
+            <strong>地点：</strong>湖北省博物馆<br>
+            深度赏析天下第一剑，了解越王勾践剑的铸造工艺与历史故事。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>湖北省博物馆越王勾践剑赏析课</guid>
+    </item>
+    <item>
+        <title>湖北省科学技术馆光学科普营</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-06<br>
+            <strong>地点：</strong>湖北省科学技术馆<br>
+            探秘光的折射反射与色散，亲手制作简易光学仪器。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>湖北省科学技术馆光学科普营</guid>
+    </item>
+    <item>
+        <title>中科院武汉植物园夏日花朵认知</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-06<br>
+            <strong>地点：</strong>中科院武汉植物园<br>
+            在科普老师带领下识别夏日开花植物。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>中科院武汉植物园夏日花朵认知</guid>
+    </item>
+    <item>
+        <title>黄鹤楼公园诗词研学</title>
+        <link>https://islon.github.io/shenzhen-exhibitions/</link>
+        <description><![CDATA[
+            <strong>日期：</strong>2027-07-06<br>
+            <strong>地点：</strong>黄鹤楼公园<br>
+            登黄鹤楼诵读千古名篇，开展诗词主题研学。
+        ]]></description>
+        <pubDate>Sun, 26 Jul 2026 15:14:24 GMT</pubDate>
+        <guid>黄鹤楼公园诗词研学</guid>
+    </item>
 </channel>
 </rss>
