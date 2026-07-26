@@ -10,7 +10,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "来处与归途：三燕百年"
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -23,7 +25,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "骥跃升腾——三彩马的世界"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -36,7 +40,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "深圳博物馆暑期延时开放"
   },
   {
     "title": "国宝萌友展",
@@ -49,7 +55,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网"
+    "source": "深圳科学技术馆（光明新馆）官网",
+    "url": "https://www.szstm.org.cn",
+    "name": "国宝萌友展"
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -62,7 +70,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网"
+    "source": "深圳科学技术馆（光明新馆）官网",
+    "url": "https://www.szstm.org.cn",
+    "name": "太空奥德赛——宇宙探索展"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -75,7 +85,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网"
+    "source": "深圳科学技术馆（光明新馆）官网",
+    "url": "https://www.szstm.org.cn",
+    "name": "中国科幻史里程碑展"
   },
   {
     "title": "一平米实验室",
@@ -88,7 +100,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网"
+    "source": "深圳科学技术馆（光明新馆）官网",
+    "url": "https://www.szstm.org.cn",
+    "name": "一平米实验室"
   },
   {
     "title": "美丽星期天——暑期交响音乐会",
@@ -101,7 +115,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——暑期交响音乐会"
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -114,7 +130,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——室内乐之夜"
   },
   {
     "title": "美丽星期天——民乐鉴赏",
@@ -127,7 +145,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——民乐鉴赏"
   },
   {
     "title": "美丽星期天——合唱音乐会",
@@ -140,7 +160,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——合唱音乐会"
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -153,7 +175,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "跟着音乐去旅行——暑期亲子音乐会"
   },
   {
     "title": "美丽星期天——钢琴独奏会",
@@ -166,7 +190,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——钢琴独奏会"
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -179,7 +205,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——弦乐鉴赏"
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -192,7 +220,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——管乐音乐会"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -205,7 +235,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "美丽星期天——童声合唱"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -218,7 +250,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "url": "https://www.szbo.com.cn",
+    "name": "俄罗斯冰上芭蕾《胡桃夹子》"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -231,7 +265,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "url": "https://www.szbo.com.cn",
+    "name": "俄罗斯冰上芭蕾《天鹅湖》"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -244,7 +280,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "url": "https://www.szbo.com.cn",
+    "name": "俄罗斯冰上芭蕾《天鹅湖》"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -257,7 +295,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "url": "https://www.szbo.com.cn",
+    "name": "俄罗斯冰上芭蕾《胡桃夹子》"
   },
   {
     "title": "鼻涕虫教授的昆虫秀",
@@ -270,7 +310,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "url": "https://www.szbo.com.cn",
+    "name": "鼻涕虫教授的昆虫秀"
   },
   {
     "title": "小奶牛故事绘",
@@ -283,7 +325,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "url": "https://www.szgmlib.com.cn",
+    "name": "小奶牛故事绘"
   },
   {
     "title": "小太阳i阅读故事会",
@@ -296,7 +340,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "url": "https://www.szgmlib.com.cn",
+    "name": "小太阳i阅读故事会"
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -309,7 +355,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "url": "https://www.szgmlib.com.cn",
+    "name": "书香乐韵——音乐读书会"
   },
   {
     "title": "少儿国际象棋公益班",
@@ -322,7 +370,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "url": "https://www.szmassart.com",
+    "name": "少儿国际象棋公益班"
   },
   {
     "title": "成人古典舞公益班",
@@ -335,7 +385,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "url": "https://www.szmassart.com",
+    "name": "成人古典舞公益班"
   },
   {
     "title": "读剧公益班",
@@ -348,7 +400,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "url": "https://www.szmassart.com",
+    "name": "读剧公益班"
   },
   {
     "title": "朗诵艺术公益班",
@@ -361,7 +415,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "url": "https://www.szmassart.com",
+    "name": "朗诵艺术公益班"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -374,7 +430,9 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
+    "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -387,7 +445,9 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "url": "https://www.nanshanmuseum.com",
+    "name": "南山博物馆暑期夜间延时开放"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 青岛西海岸",
@@ -400,7 +460,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心"
+    "source": "深圳市体育中心",
+    "url": "https://www.szsportscenter.com",
+    "name": "中超联赛 深圳新鹏城 vs 青岛西海岸"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
@@ -414,7 +476,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳市体育中心",
-    "url": ""
+    "url": "",
+    "name": "中超联赛 深圳新鹏城 vs 重庆铜梁龙"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
@@ -428,7 +491,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳市体育中心",
-    "url": ""
+    "url": "",
+    "name": "中超联赛 深圳新鹏城 vs 浙江"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
@@ -442,7 +506,8 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳市体育中心",
-    "url": ""
+    "url": "",
+    "name": "中超联赛 深圳新鹏城 vs 上海海港"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -455,7 +520,9 @@
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "url": "https://www.szlib.org.cn",
+    "name": "深圳图书馆暑期系列活动"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -468,7 +535,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "url": "https://www.balib.cn",
+    "name": "宝安图书馆暑期阅读夏令营"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -481,7 +550,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "url": "https://www.balib.cn",
+    "name": "宝安图书馆绘本故事会"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -495,7 +566,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "福田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "福田区图书馆暑期读书分享会"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -508,7 +580,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "url": "https://szlhlib.org.cn",
+    "name": "罗湖区图书馆暑期阅读活动"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -522,7 +596,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙岗区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "龙岗区图书馆暑期夏令营"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -536,7 +611,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙华区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "龙华区图书馆暑期少儿活动"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -550,7 +626,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "坪山区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "坪山区图书馆暑期阅读季"
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -564,7 +641,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "盐田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "盐田区图书馆暑期活动"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -578,7 +656,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏新区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "大鹏新区图书馆暑期活动"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -591,7 +670,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安科技馆暑期科普活动"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -604,7 +685,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安区青少年宫暑期活动"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -617,7 +700,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "url": "https://www.lg.gov.cn",
+    "name": "龙岗区青少年宫暑期公益课"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -630,7 +715,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "url": "https://www.szlh.gov.cn",
+    "name": "龙华区青少年宫暑期活动"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -644,7 +731,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安体育中心",
-    "url": "http://www.baoan.gov.cn/"
+    "url": "http://www.baoan.gov.cn/",
+    "name": "宝安体育中心暑期游泳培训班"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -657,7 +745,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "url": "https://www.szns.gov.cn",
+    "name": "深圳湾体育中心暑期青少年体育培训"
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -671,7 +761,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙岗区博物馆",
-    "url": ""
+    "url": "",
+    "name": "龙岗区博物馆暑期展览"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -685,7 +776,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏地质公园博物馆",
-    "url": ""
+    "url": "",
+    "name": "大鹏地质公园博物馆科普活动"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -698,7 +790,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "url": "https://www.szclib.org.cn",
+    "name": "深圳少年儿童图书馆暑期活动"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -711,7 +805,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "url": "http://www.szcp.com",
+    "name": "深圳市少年宫暑期科普活动"
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -724,7 +820,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网"
+    "source": "深圳市青少年活动中心官网",
+    "url": "https://www.szaac.com",
+    "name": "深圳市青少年活动中心暑期活动"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -737,7 +835,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "深圳博物馆暑期延时开放"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -750,7 +850,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "吉金春秋——深圳博物馆铜器展"
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -763,7 +865,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "问陶之旅——深圳博物馆陶瓷展"
   },
   {
     "title": "深圳改革开放史展览",
@@ -776,7 +880,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "深圳改革开放史展览"
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -789,7 +895,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "古代深圳——深圳历史展"
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -802,7 +910,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "近代深圳——深圳近代史展"
   },
   {
     "title": "深圳民俗文化展",
@@ -815,7 +925,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "深圳民俗文化展"
   },
   {
     "title": "世界野生动物标本展",
@@ -828,7 +940,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "https://www.shenzhenmuseum.com",
+    "name": "世界野生动物标本展"
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -841,7 +955,9 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "url": "https://www.nanshanmuseum.com",
+    "name": "南山博物馆暑期延时开放"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -854,7 +970,9 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "url": "https://www.nanshanmuseum.com",
+    "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -867,7 +985,9 @@
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网"
+    "source": "深圳图书馆官网",
+    "url": "https://www.szlib.org.cn",
+    "name": "深圳图书馆暑期系列活动"
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -881,7 +1001,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山区文化馆官网",
-    "url": "https://www.szns.gov.cn/"
+    "url": "https://www.szns.gov.cn/",
+    "name": "南山区文化馆暑期公益培训"
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
@@ -895,7 +1016,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山区文化馆官网",
-    "url": "https://www.szns.gov.cn/"
+    "url": "https://www.szns.gov.cn/",
+    "name": "南山区文化馆暑期少儿艺术营"
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -908,7 +1030,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "url": "https://www.szgm.gov.cn",
+    "name": "光明区文化馆暑期公益培训班"
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -921,7 +1045,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆"
+    "source": "光明区文化馆",
+    "url": "https://www.szgm.gov.cn",
+    "name": "光明区文化馆少儿暑期营"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -934,7 +1060,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "url": "https://www.balib.cn",
+    "name": "宝安图书馆绘本故事会"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -947,7 +1075,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "url": "https://www.balib.cn",
+    "name": "宝安图书馆暑期阅读夏令营"
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -960,7 +1090,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网"
+    "source": "宝安图书馆官网",
+    "url": "https://www.balib.cn",
+    "name": "宝安图书馆创客空间暑期活动"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -974,7 +1106,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "福田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "福田区图书馆暑期读书分享会"
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
@@ -988,7 +1121,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "福田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "福田区图书馆少儿绘本课堂"
   },
   {
     "title": "福田区图书馆暑期电影放映",
@@ -1002,7 +1136,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "福田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "福田区图书馆暑期电影放映"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -1015,7 +1150,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "url": "https://szlhlib.org.cn",
+    "name": "罗湖区图书馆暑期阅读活动"
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -1028,7 +1165,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网"
+    "source": "罗湖区图书馆官网",
+    "url": "https://szlhlib.org.cn",
+    "name": "罗湖区图书馆暑期国学课堂"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -1042,7 +1181,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙岗区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "龙岗区图书馆暑期夏令营"
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
@@ -1056,7 +1196,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙岗区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "龙岗区图书馆少儿编程体验课"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -1070,7 +1211,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙华区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "龙华区图书馆暑期少儿活动"
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -1084,7 +1226,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙华区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "龙华区图书馆暑期科普讲座"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -1098,7 +1241,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "坪山区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "坪山区图书馆暑期阅读季"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -1112,7 +1256,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "坪山区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "坪山区图书馆少儿暑期工坊"
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -1126,7 +1271,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "盐田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "盐田区图书馆暑期活动"
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
@@ -1140,7 +1286,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "盐田区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "盐田区图书馆海洋文化讲座"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -1154,7 +1301,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏新区图书馆官网",
-    "url": ""
+    "url": "",
+    "name": "大鹏新区图书馆暑期活动"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -1167,7 +1315,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "url": "https://www.szclib.org.cn",
+    "name": "深圳少年儿童图书馆暑期活动"
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -1180,7 +1330,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "url": "https://www.szclib.org.cn",
+    "name": "深圳少年儿童图书馆暑期阅读挑战赛"
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -1193,7 +1345,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网"
+    "source": "深圳少年儿童图书馆官网",
+    "url": "https://www.szclib.org.cn",
+    "name": "深圳少年儿童图书馆暑期电影展映"
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -1206,7 +1360,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "url": "https://www.szgmlib.com.cn",
+    "name": "光明区图书馆暑期阅读活动"
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -1219,7 +1375,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网"
+    "source": "光明区图书馆官网",
+    "url": "https://www.szgmlib.com.cn",
+    "name": "光明区图书馆光明大讲堂"
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -1232,7 +1390,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "url": "https://www.szmassart.com",
+    "name": "深圳市文化馆暑期公益培训班"
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -1245,7 +1405,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网"
+    "source": "深圳市文化馆官网",
+    "url": "https://www.szmassart.com",
+    "name": "深圳市文化馆暑期美术培训班"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -1258,7 +1420,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安科技馆暑期科普活动"
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -1271,7 +1435,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆"
+    "source": "宝安科技馆",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安科技馆暑期创客工坊"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -1284,7 +1450,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安区青少年宫暑期活动"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -1297,7 +1465,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫"
+    "source": "宝安区青少年宫",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安区青少年宫暑期科技夏令营"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -1310,7 +1480,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "url": "https://www.lg.gov.cn",
+    "name": "龙岗区青少年宫暑期公益课"
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -1323,7 +1495,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫"
+    "source": "龙岗区青少年宫",
+    "url": "https://www.lg.gov.cn",
+    "name": "龙岗区青少年宫暑期体育训练营"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -1336,7 +1510,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "url": "https://www.szlh.gov.cn",
+    "name": "龙华区青少年宫暑期活动"
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -1349,7 +1525,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫"
+    "source": "龙华区青少年宫",
+    "url": "https://www.szlh.gov.cn",
+    "name": "龙华区青少年宫暑期艺术展演"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -1362,7 +1540,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "url": "http://www.szcp.com",
+    "name": "深圳市少年宫暑期科普活动"
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -1375,7 +1555,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网"
+    "source": "深圳市少年宫官网",
+    "url": "http://www.szcp.com",
+    "name": "深圳市少年宫暑期少儿剧场"
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -1388,7 +1570,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网"
+    "source": "深圳科学技术馆（光明新馆）官网",
+    "url": "https://www.szstm.org.cn",
+    "name": "深圳科学技术馆暑期科普展"
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -1401,7 +1585,9 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网"
+    "source": "深圳科学技术馆（光明新馆）官网",
+    "url": "https://www.szstm.org.cn",
+    "name": "深圳科学技术馆科学小课堂"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -1415,7 +1601,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安体育中心",
-    "url": "http://www.baoan.gov.cn/"
+    "url": "http://www.baoan.gov.cn/",
+    "name": "宝安体育中心暑期游泳培训班"
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -1429,7 +1616,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安体育中心",
-    "url": "http://www.baoan.gov.cn/"
+    "url": "http://www.baoan.gov.cn/",
+    "name": "宝安体育中心暑期篮球训练营"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -1442,7 +1630,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "url": "https://www.szns.gov.cn",
+    "name": "深圳湾体育中心暑期青少年体育培训"
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -1455,7 +1645,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心"
+    "source": "深圳湾体育中心",
+    "url": "https://www.szns.gov.cn",
+    "name": "深圳湾体育中心暑期网球培训班"
   },
   {
     "title": "深圳市体育中心暑期运动营",
@@ -1469,7 +1661,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳市体育中心",
-    "url": ""
+    "url": "",
+    "name": "深圳市体育中心暑期运动营"
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -1483,7 +1676,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "龙岗区博物馆",
-    "url": ""
+    "url": "",
+    "name": "龙岗区博物馆暑期展览"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -1497,7 +1691,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏地质公园博物馆",
-    "url": ""
+    "url": "",
+    "name": "大鹏地质公园博物馆科普活动"
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
@@ -1511,7 +1706,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏地质公园博物馆",
-    "url": ""
+    "url": "",
+    "name": "大鹏地质公园博物馆暑期探索营"
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -1524,7 +1720,9 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网"
+    "source": "深圳音乐厅官网",
+    "url": "https://www.shenzhenconcerthall.com",
+    "name": "深圳音乐厅暑期音乐季"
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -1537,7 +1735,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网"
+    "source": "深圳滨海艺术中心官网",
+    "url": "https://www.szbo.com.cn",
+    "name": "深圳滨海艺术中心暑期演出季"
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -1551,7 +1751,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山文体中心",
-    "url": "https://www.szns.gov.cn/"
+    "url": "https://www.szns.gov.cn/",
+    "name": "南山文体中心暑期公益培训"
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
@@ -1565,7 +1766,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山文体中心",
-    "url": "https://www.szns.gov.cn/"
+    "url": "https://www.szns.gov.cn/",
+    "name": "南山文体中心暑期少儿游泳班"
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -1579,7 +1781,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山区青少年活动中心",
-    "url": "https://www.szns.gov.cn/"
+    "url": "https://www.szns.gov.cn/",
+    "name": "南山区青少年活动中心暑期科技营"
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
@@ -1593,7 +1796,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山区青少年活动中心",
-    "url": "https://www.szns.gov.cn/"
+    "url": "https://www.szns.gov.cn/",
+    "name": "南山区青少年活动中心暑期艺术培训"
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
@@ -1607,7 +1811,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山图书馆",
-    "url": ""
+    "url": "",
+    "name": "南山图书馆暑期阅读推广活动"
   },
   {
     "title": "南山图书馆暑期亲子故事会",
@@ -1621,7 +1826,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "南山图书馆",
-    "url": ""
+    "url": "",
+    "name": "南山图书馆暑期亲子故事会"
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -1634,7 +1840,9 @@
     "fee": "免费需预约",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "url": "https://www.nanshanmuseum.com",
+    "name": "南山博物馆暑期少儿工作坊"
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -1647,7 +1855,9 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网"
+    "source": "南山博物馆官网",
+    "url": "https://www.nanshanmuseum.com",
+    "name": "南山博物馆暑期讲座系列"
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -1660,7 +1870,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网"
+    "source": "深圳市青少年活动中心官网",
+    "url": "https://www.szaac.com",
+    "name": "深圳市青少年活动中心暑期科技体验"
   },
   {
     "title": "桃源街道综合性文化服务中心暑期活动",
@@ -1673,7 +1885,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桃源街道文化服务中心"
+    "source": "桃源街道文化服务中心",
+    "url": "https://www.szns.gov.cn",
+    "name": "桃源街道综合性文化服务中心暑期活动"
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -1686,7 +1900,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆"
+    "source": "宝安区文化馆燕罗分馆",
+    "url": "https://www.baoan.gov.cn",
+    "name": "燕罗街道分馆暑期阅读活动"
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -1699,7 +1915,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安区文化馆暑期公益培训"
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -1712,7 +1930,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆"
+    "source": "宝安区文化馆",
+    "url": "https://www.baoan.gov.cn",
+    "name": "宝安区文化馆暑期少儿艺术团"
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -1725,7 +1945,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "url": "https://mp.weixin.qq.com/s/v8RvHOaMKlgmus7DyIBOjA",
+    "name": "深圳少年儿童图书馆国艺团暑期免费公益活动"
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -1738,7 +1960,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "url": "https://mp.weixin.qq.com/s/lnibmBR9jlku1o3tO10z3g",
+    "name": "岭动手作——暑期手工活动"
   },
   {
     "title": "红星闪闪耀童心——线上答题活动",
@@ -1751,7 +1975,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "url": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
+    "name": "红星闪闪耀童心——线上答题活动"
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -1764,7 +1990,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "url": "https://mp.weixin.qq.com/s/ddyC0lKxVF5V1aY4n-Hl5w",
+    "name": "岭阅书香——暑期读书会"
   },
   {
     "title": "国艺团少儿文艺汇演——跃马新程·筑梦盛夏",
@@ -1777,7 +2005,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "url": "https://mp.weixin.qq.com/s/htzznWkkDd6IMZQsPPcMEQ",
+    "name": "国艺团少儿文艺汇演——跃马新程·筑梦盛夏"
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -1790,7 +2020,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号"
+    "source": "深圳少年儿童图书馆公众号",
+    "url": "https://mp.weixin.qq.com/s/1fWZCNRmmp-cO1gZ_ZA1Uw",
+    "name": "巡天探海 舰载未来——科普展览"
   },
   {
     "title": "绿翠同心——深港两地书画艺术交流展",
@@ -1803,7 +2035,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方都市报"
+    "source": "南方都市报",
+    "url": "http://m.toutiao.com/group/7659258111554961955/",
+    "name": "绿翠同心——深港两地书画艺术交流展"
   },
   {
     "title": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展",
@@ -1816,7 +2050,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆（罗湖区）"
+    "source": "深圳美术馆（罗湖区）",
+    "url": "http://m.toutiao.com/group/7658324154139148850/",
+    "name": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展"
   },
   {
     "title": "笔墨同心·林甘泉、萧华作品展",
@@ -1829,7 +2065,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "url": "http://m.toutiao.com/group/7658324154139148850/",
+    "name": "笔墨同心·林甘泉、萧华作品展"
   },
   {
     "title": "沉浸式互动亲子科学剧《数学侠》",
@@ -1842,7 +2080,9 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐（龙岗区）"
+    "source": "深圳梦/搜狐（龙岗区）",
+    "url": "https://m.sohu.com/a/1045463665_675420/",
+    "name": "沉浸式互动亲子科学剧《数学侠》"
   },
   {
     "title": "锦绣中华民俗村·夏日狂欢节",
@@ -1855,7 +2095,9 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐"
+    "source": "深圳梦/搜狐",
+    "url": "https://m.sohu.com/a/1045463665_675420/",
+    "name": "锦绣中华民俗村·夏日狂欢节"
   },
   {
     "title": "深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节",
@@ -1868,7 +2110,9 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐"
+    "source": "深圳梦/搜狐",
+    "url": "https://m.sohu.com/a/1045463665_675420/",
+    "name": "深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节"
   },
   {
     "title": "深圳欢乐海岸·夏日狂欢节",
@@ -1881,7 +2125,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐"
+    "source": "深圳梦/搜狐",
+    "url": "https://m.sohu.com/a/1045463665_675420/",
+    "name": "深圳欢乐海岸·夏日狂欢节"
   },
   {
     "title": "《海洋奇缘：起航》迪士尼电影主题展",
@@ -1894,7 +2140,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心"
+    "source": "南山融媒体中心",
+    "url": "http://m.toutiao.com/group/7658324154139148850/",
+    "name": "《海洋奇缘：起航》迪士尼电影主题展"
   },
   {
     "title": "罗湖一站式普惠托育集市",
@@ -1908,7 +2156,9 @@
     "contact": "",
     "family_friendly": true,
     "source": "罗湖发布",
-    "city": "shenzhen"
+    "city": "shenzhen",
+    "url": "http://m.toutiao.com/group/7660412037217993243/",
+    "name": "罗湖一站式普惠托育集市"
   },
   {
     "title": "宝安大仟里首届暑期儿童戏剧节",
@@ -1922,7 +2172,9 @@
     "contact": "",
     "family_friendly": true,
     "source": "凤凰网深圳（宝安区）",
-    "city": "shenzhen"
+    "city": "shenzhen",
+    "url": "https://sz.ifeng.com/c/8uQvmmWyQO0",
+    "name": "宝安大仟里首届暑期儿童戏剧节"
   },
   {
     "title": "深圳图书馆第十二届\"暑期缤纷季\"——近300场阅读活动",
@@ -1936,7 +2188,9 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳新闻网",
-    "city": "shenzhen"
+    "city": "shenzhen",
+    "url": "http://www.sznews.com/news/content/2026-07/08/content_32114626.htm",
+    "name": "深圳图书馆第十二届\"暑期缤纷季\"——近300场阅读活动"
   },
   {
     "title": "炫彩青春——优秀青年京剧演员展演",
@@ -1950,7 +2204,9 @@
     "contact": "",
     "family_friendly": true,
     "source": "罗湖发布",
-    "city": "shenzhen"
+    "city": "shenzhen",
+    "url": "https://m.sohu.com/a/1047290911_122091088/",
+    "name": "炫彩青春——优秀青年京剧演员展演"
   },
   {
     "title": "儿童音乐皮影戏",
@@ -1964,7 +2220,9 @@
     "contact": "",
     "family_friendly": true,
     "source": "罗湖发布",
-    "city": "shenzhen"
+    "city": "shenzhen",
+    "url": "https://m.sohu.com/a/1047290911_122091088/",
+    "name": "儿童音乐皮影戏"
   },
   {
     "title": "沉浸式互动亲子科学剧《数学秀》",
@@ -1977,7 +2235,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "自动化发现"
+    "source": "自动化发现",
+    "name": "沉浸式互动亲子科学剧《数学秀》"
   },
   {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
@@ -1990,7 +2249,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "自动化发现"
+    "source": "自动化发现",
+    "name": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》"
   },
   {
     "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
@@ -2003,7 +2263,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "自动化发现"
+    "source": "自动化发现",
+    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会"
   },
   {
     "title": "欢乐META儿童绘本馆",
@@ -2017,7 +2278,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "湾区之眼",
-    "url": ""
+    "url": "",
+    "name": "欢乐META儿童绘本馆"
   },
   {
     "title": "星空屋顶花园",
@@ -2031,7 +2293,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "湾区之眼",
-    "url": "https://www.szgm.gov.cn/"
+    "url": "https://www.szgm.gov.cn/",
+    "name": "星空屋顶花园"
   },
   {
     "title": "艺术花园阅览空间",
@@ -2045,7 +2308,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "湾区之眼",
-    "url": ""
+    "url": "",
+    "name": "艺术花园阅览空间"
   },
   {
     "title": "公益阅读打卡点位",
@@ -2059,7 +2323,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "湾区之眼",
-    "url": ""
+    "url": "",
+    "name": "公益阅读打卡点位"
   },
   {
     "title": "中高考准考证专属福利活动",
@@ -2072,7 +2337,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方都市报"
+    "source": "南方都市报",
+    "url": "http://m.toutiao.com/group/7661215690350707250/",
+    "name": "中高考准考证专属福利活动"
   },
   {
     "title": "青春回响·星空露天毕业歌会",
@@ -2085,7 +2352,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "url": "https://m.weibo.cn/detail/5315978175187194",
+    "name": "青春回响·星空露天毕业歌会"
   },
   {
     "title": "一日店长青少年社会实践公益计划",
@@ -2098,7 +2367,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳特区报（宝安区）"
+    "source": "深圳特区报（宝安区）",
+    "url": "http://m.toutiao.com/group/7662537559884546575/",
+    "name": "一日店长青少年社会实践公益计划"
   },
   {
     "title": "名家读书沙龙/新书分享会",
@@ -2112,7 +2383,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "湾区之眼",
-    "url": ""
+    "url": "",
+    "name": "名家读书沙龙/新书分享会"
   },
   {
     "title": "第四届「宝安杯」全国中小学围棋校际联赛",
@@ -2125,7 +2397,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区委宣传部"
+    "source": "宝安区委宣传部",
+    "url": "http://m.toutiao.com/group/7662642376405680667/",
+    "name": "第四届「宝安杯」全国中小学围棋校际联赛"
   },
   {
     "title": "《给阿嬷的情书》深圳原创电影主创分享会",
@@ -2138,7 +2412,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "url": "http://m.toutiao.com/group/7664016824635359763/",
+    "name": "《给阿嬷的情书》深圳原创电影主创分享会"
   },
   {
     "title": "福尔摩斯的委托·沉浸式探案展（华南首站）",
@@ -2151,7 +2427,9 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）"
+    "source": "凤凰网深圳（宝安区）",
+    "url": "https://sz.ifeng.com/c/8sqVCenNkjN",
+    "name": "福尔摩斯的委托·沉浸式探案展（华南首站）"
   },
   {
     "title": "世界海洋日深海科技科普展",
@@ -2164,7 +2442,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳新闻网（宝安区）"
+    "source": "深圳新闻网（宝安区）",
+    "url": "http://www.sznews.com/news/content/2026-06/04/content_32077786.htm",
+    "name": "世界海洋日深海科技科普展"
   },
   {
     "title": "湾区之眼亲子共读节",
@@ -2177,7 +2457,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "url": "https://www.szcbgroup.com/",
+    "name": "湾区之眼亲子共读节"
   },
   {
     "title": "壁上丹青·大唐壁画特展",
@@ -2190,7 +2472,9 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼"
+    "source": "湾区之眼",
+    "url": "https://www.szcbgroup.com/",
+    "name": "壁上丹青·大唐壁画特展"
   },
   {
     "title": "宠·爱——猫猫狗狗的世界",
@@ -2203,6 +2487,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "url": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+    "name": "宠·爱——猫猫狗狗的世界"
   }
 ]

@@ -429,7 +429,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海玻璃博物馆",
@@ -467,7 +468,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "上海乐高乐园开园一周年暑期活动",
@@ -539,7 +541,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "金茂大厦观光",
@@ -576,7 +579,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "title": "上海自然博物馆夜宿奇妙夜",
@@ -650,7 +654,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海金茂大厦演出-58",
@@ -687,7 +692,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "上海迪士尼度假区10周年夏日狂欢",
@@ -760,7 +766,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海淮海路研学-83",
@@ -797,7 +804,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海长宁区演出发现",
@@ -835,7 +843,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期上海徐汇区体育赛事体验营",
@@ -873,7 +882,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海奉贤区讲座阅读节",
@@ -911,7 +921,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "趣味上海金山区亲子活动展览",
@@ -949,7 +960,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -1023,7 +1035,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -1096,7 +1109,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海青浦区展览季",
@@ -1134,7 +1148,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "经典上海徐汇区演出探秘",
@@ -1172,7 +1187,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动",
@@ -1209,7 +1225,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海上海科技馆展览-61",
@@ -1247,7 +1264,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-158",
@@ -1285,7 +1303,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海嘉定区展览嘉年华",
@@ -1323,7 +1342,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "2026《华人之光·芭蕾明星GALA》",
@@ -1396,7 +1416,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐家汇展览-84",
@@ -1433,7 +1454,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-147",
@@ -1470,7 +1492,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海闵行区亲子活动发现",
@@ -1507,7 +1530,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期上海金山区展览体验营",
@@ -1544,7 +1568,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "丽娜·波·巴蒂 生存的诗学",
@@ -1654,7 +1679,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海上海汽车博物馆展览-66",
@@ -1692,7 +1718,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "体验上海上海电影博物馆展览-97",
@@ -1730,7 +1757,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海世纪公园展览-138",
@@ -1768,7 +1796,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "儿童上海奉贤区科普活动课程",
@@ -1806,7 +1835,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海金山区讲座阅读周",
@@ -1844,7 +1874,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-92",
@@ -1882,7 +1913,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味上海杨浦区亲子活动展览",
@@ -1919,7 +1951,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海虹口区展览之旅",
@@ -1957,7 +1990,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "互动上海普陀区科普活动科普",
@@ -1994,7 +2028,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海宝山区亲子活动研学营",
@@ -2032,7 +2067,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动上海嘉定区体育赛事科普",
@@ -2069,7 +2105,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "上海公安博物馆",
@@ -2107,7 +2144,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-93",
@@ -2145,7 +2183,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海人民广场亲子活动-140",
@@ -2182,7 +2221,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海普陀区影视放映嘉年华",
@@ -2219,7 +2259,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海黄浦区科普活动之旅",
@@ -2256,7 +2297,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海中心118层观光",
@@ -2293,7 +2335,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -2366,7 +2409,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海静安雕塑公园展览-139",
@@ -2404,7 +2448,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "趣味上海外滩亲子活动-141",
@@ -2441,7 +2486,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动上海嘉定区影视放映科普",
@@ -2479,7 +2525,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海浦东新区展览日",
@@ -2517,7 +2564,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "周末上海黄浦区讲座阅读活动",
@@ -2555,7 +2603,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -2700,7 +2749,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海淮海路研学-113",
@@ -2737,7 +2787,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-128",
@@ -2775,7 +2826,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海淮海路研学-143",
@@ -2812,7 +2864,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海宝山区亲子活动比赛",
@@ -2850,7 +2903,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海上海迪士尼乐园展览-72",
@@ -2887,7 +2941,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "体验上海环球金融中心研学-89",
@@ -2924,7 +2979,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海上海欢乐谷展览-163",
@@ -2961,7 +3017,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "互动上海奉贤区影视放映科普",
@@ -2999,7 +3056,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -3074,7 +3132,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海上海玻璃博物馆研学-65",
@@ -3112,7 +3171,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海陆家嘴展览-115",
@@ -3149,7 +3209,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "经典上海徐汇区科普活动探秘",
@@ -3186,7 +3247,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "乔治·莫兰迪：独白",
@@ -3296,7 +3358,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-153",
@@ -3334,7 +3397,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海宝山区科普活动研学营",
@@ -3371,7 +3435,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海静安区体育赛事季",
@@ -3408,7 +3473,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "经典上海金山区展览探秘",
@@ -3446,7 +3512,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海宝山区展览探索",
@@ -3483,7 +3550,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "家庭上海静安区讲座阅读研学营",
@@ -3520,7 +3588,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "title": "“数字一大·伟大征程”VR沉浸式体验项目",
@@ -3629,7 +3698,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海上海植物园亲子活动-45",
@@ -3666,7 +3736,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海南京路演出-52",
@@ -3703,7 +3774,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-62",
@@ -3741,7 +3813,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-98",
@@ -3779,7 +3852,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海陆家嘴展览-145",
@@ -3816,7 +3890,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "发现上海宝山区体育赛事比赛",
@@ -3854,7 +3929,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "周末上海虹口区演出活动",
@@ -3891,7 +3967,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海奉贤区体育赛事嘉年华",
@@ -3929,7 +4006,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海普陀区演出节",
@@ -3967,7 +4045,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海浦东新区演出之旅",
@@ -4004,7 +4083,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海浦东新区展览之旅",
@@ -4042,7 +4122,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "航天科普与少儿编程",
@@ -4115,7 +4196,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "精彩上海普陀区亲子活动节",
@@ -4153,7 +4235,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海青浦区科普活动探索",
@@ -4190,7 +4273,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "流动艺术科普展与户外攀爬场地",
@@ -4262,7 +4346,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-44",
@@ -4299,7 +4384,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海上海汽车博物馆展览-96",
@@ -4337,7 +4423,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "走进上海虹口区科普活动日",
@@ -4375,7 +4462,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海闵行区体育赛事演出",
@@ -4413,7 +4501,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "title": "上海天文馆暑期活动",
@@ -4558,7 +4647,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末上海黄浦区展览活动",
@@ -4596,7 +4686,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "周末上海浦东新区科普活动活动",
@@ -4634,7 +4725,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味上海杨浦区展览展览",
@@ -4671,7 +4763,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "让·努维尔：建筑在不朽中消失",
@@ -4745,7 +4838,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海青浦区体育赛事研学营",
@@ -4783,7 +4877,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "亲子上海松江区讲座阅读工作坊",
@@ -4821,7 +4916,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海黄浦区亲子活动之旅",
@@ -4858,7 +4954,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子上海松江区影视放映工作坊",
@@ -4896,7 +4993,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海静安区影视放映研学营",
@@ -4934,7 +5032,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海闵行区讲座阅读演出",
@@ -4971,7 +5070,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "走进上海世纪公园展览-48",
@@ -5009,7 +5109,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "体验上海环球金融中心研学-59",
@@ -5046,7 +5147,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海闵行区科普活动发现",
@@ -5084,7 +5186,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海闵行区演出月",
@@ -5122,7 +5225,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海静安区影视放映探索",
@@ -5160,7 +5264,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海静安区科普活动季",
@@ -5197,7 +5302,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海电影博物馆",
@@ -5235,7 +5341,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "title": "亲子共读与科创手工",
@@ -5345,7 +5452,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动上海普陀区演出科普",
@@ -5382,7 +5490,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "2026上海书展暨“书香中国”上海周",
@@ -5455,7 +5564,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海松江区讲座阅读发现",
@@ -5492,7 +5602,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "解读上海杨浦区亲子活动周",
@@ -5530,7 +5641,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "BRKN·破碎 年度特展",
@@ -5605,7 +5717,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海玻璃博物馆研学-35",
@@ -5643,7 +5756,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期上海杨浦区讲座阅读体验营",
@@ -5681,7 +5795,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海长宁区亲子活动演出",
@@ -5719,7 +5834,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海博物馆东馆",
@@ -5757,7 +5873,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "title": "音乐剧《大状王》",
@@ -5830,7 +5947,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海南京路演出",
@@ -5867,7 +5985,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海上海电影博物馆展览-37",
@@ -5905,7 +6024,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海环球金融中心研学-119",
@@ -5942,7 +6062,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海松江区亲子活动演出",
@@ -5980,7 +6101,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -6053,7 +6175,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海浦东新区亲子活动之旅",
@@ -6091,7 +6214,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海黄浦区展览讲座",
@@ -6129,7 +6253,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -6203,7 +6328,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-122",
@@ -6241,7 +6367,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海中医药博物馆",
@@ -6279,7 +6406,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "上海工艺美术博物馆",
@@ -6317,7 +6445,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "书房中的文艺复兴——10至17世纪的西方抄写、印刷与装帧艺术特展",
@@ -6427,7 +6556,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海陆家嘴展览-55",
@@ -6464,7 +6594,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "互动上海奉贤区演出科普",
@@ -6501,7 +6632,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期上海徐汇区亲子活动体验营",
@@ -6538,7 +6670,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "非遗手作市集与少儿国风绘画",
@@ -6611,7 +6744,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海黄浦区讲座阅读之旅",
@@ -6649,7 +6783,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "精彩上海普陀区展览节",
@@ -6687,7 +6822,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "趣味上海杨浦区影视放映展览",
@@ -6724,7 +6860,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "精彩上海奉贤区体育赛事节",
@@ -6761,7 +6898,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "实践上海长风公园研学-47",
@@ -6799,7 +6937,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海上海欢乐谷展览-133",
@@ -6836,7 +6975,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "走进上海虹口区体育赛事日",
@@ -6873,7 +7013,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "上海科技馆生物万象",
@@ -6911,7 +7052,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海博物馆展览-60",
@@ -6949,7 +7091,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "儿童上海嘉定区演出课程",
@@ -6986,7 +7129,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海浦东新区影视放映讲座",
@@ -7023,7 +7167,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动上海普陀区亲子活动科普",
@@ -7061,7 +7206,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -7207,7 +7353,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海科技馆地壳探秘",
@@ -7245,7 +7392,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "上海自然博物馆起源之谜",
@@ -7283,7 +7431,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "水主题科普与诗词手工",
@@ -7356,7 +7505,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海上海欢乐谷展览-43",
@@ -7393,7 +7543,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-99",
@@ -7431,7 +7582,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海奉贤区展览节",
@@ -7469,7 +7621,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "精彩上海嘉定区科普活动节",
@@ -7506,7 +7659,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "上海植物园国际新优展区",
@@ -7614,7 +7768,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海奉贤区讲座阅读嘉年华",
@@ -7651,7 +7806,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "发现上海静安区演出比赛",
@@ -7688,7 +7844,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海迪士尼夏日狂欢节",
@@ -7725,7 +7882,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -7799,7 +7957,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探索上海长宁区体育赛事演出",
@@ -7836,7 +7995,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "走进上海黄浦区演出日",
@@ -7874,7 +8034,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海浦东新区讲座阅读日",
@@ -7912,7 +8073,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "title": "火车模型与机械科普",
@@ -7985,7 +8147,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海静安区亲子活动比赛",
@@ -8023,7 +8186,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期上海金山区演出体验营",
@@ -8060,7 +8224,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海松江区体育赛事发现",
@@ -8098,7 +8263,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "探秘上海长宁区体育赛事月",
@@ -8135,7 +8301,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "震撼上海闵行区演出发现",
@@ -8173,7 +8340,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "天地星语——中国诗文里的天文",
@@ -8245,7 +8413,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海松江区科普活动月",
@@ -8283,7 +8452,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -8358,7 +8528,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-131",
@@ -8395,7 +8566,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海松江区体育赛事月",
@@ -8432,7 +8604,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "暑期上海金山区亲子活动体验营",
@@ -8469,7 +8642,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期上海杨浦区影视放映体验营",
@@ -8506,7 +8680,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海杨浦区演出周",
@@ -8544,7 +8719,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海闵行区影视放映月",
@@ -8582,7 +8758,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末上海黄浦区体育赛事活动",
@@ -8620,7 +8797,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海静安区科普活动探索",
@@ -8657,7 +8835,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "农耕科普与民俗手工",
@@ -8730,7 +8909,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-94",
@@ -8768,7 +8948,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-104",
@@ -8805,7 +8986,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童上海奉贤区亲子活动课程",
@@ -8843,7 +9025,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海徐汇区展览探秘",
@@ -8881,7 +9064,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "机器人与陶艺",
@@ -8990,7 +9174,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-39",
@@ -9028,7 +9213,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海上海科技馆展览-151",
@@ -9066,7 +9252,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海科技馆宇航天地",
@@ -9104,7 +9291,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "矿石科普与红色研学",
@@ -9178,7 +9366,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海金山区体育赛事周",
@@ -9215,7 +9404,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "发现上海静安区展览比赛",
@@ -9253,7 +9443,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "科创美术轮滑免费体验课",
@@ -9326,7 +9517,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "发现上海青浦区影视放映比赛",
@@ -9364,7 +9556,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味上海徐汇区讲座阅读展览",
@@ -9402,7 +9595,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "漫游上海宝山区体育赛事季",
@@ -9440,7 +9634,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "上海科技馆机器人世界",
@@ -9478,7 +9673,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "金冠之下：新罗文物精华展",
@@ -9587,7 +9783,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐家汇展览-54",
@@ -9624,7 +9821,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海上海玻璃博物馆研学-155",
@@ -9662,7 +9860,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海上海迪士尼乐园展览-162",
@@ -9699,7 +9898,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "《来自三伯爵的请柬》音乐会",
@@ -9772,7 +9972,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-69",
@@ -9810,7 +10011,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海浦东新区演出日",
@@ -9848,7 +10050,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海宝山区影视放映季",
@@ -9886,7 +10089,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子上海长宁区亲子活动工作坊",
@@ -9923,7 +10127,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动",
@@ -9961,7 +10166,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海城市规划展示馆演出",
@@ -9998,7 +10204,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-134",
@@ -10035,7 +10242,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐家汇展览-144",
@@ -10072,7 +10280,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "家庭上海静安区演出研学营",
@@ -10110,7 +10319,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童上海普陀区影视放映课程",
@@ -10148,7 +10358,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海虹口区科普活动讲座",
@@ -10186,7 +10397,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海金山区讲座阅读探秘",
@@ -10223,7 +10435,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "title": "剪纸与皮影",
@@ -10331,7 +10544,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "复古里弄免费打卡与少儿国风公益展",
@@ -10475,7 +10689,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海金山区科普活动周",
@@ -10513,7 +10728,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海植物园亲子活动",
@@ -10550,7 +10766,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海金山区影视放映周",
@@ -10587,7 +10804,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海青浦区演出季",
@@ -10625,7 +10843,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子上海东方明珠亲子活动-86",
@@ -10662,7 +10881,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海上海汽车博物馆展览-126",
@@ -10700,7 +10920,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "经典上海杨浦区科普活动探秘",
@@ -10738,7 +10959,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海嘉定区亲子活动节",
@@ -10776,7 +10998,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海昆虫博物馆",
@@ -10814,7 +11037,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "暂得之乐：暂得楼捐赠明清瓷器展",
@@ -10924,7 +11148,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-154",
@@ -10962,7 +11187,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海徐汇区亲子活动探秘",
@@ -10999,7 +11225,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海长宁区展览发现",
@@ -11037,7 +11264,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "上海动物园暑期动物主题科普活动",
@@ -11146,7 +11374,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海上海电影博物馆展览-127",
@@ -11184,7 +11413,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海宝山区演出研学营",
@@ -11221,7 +11451,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童上海奉贤区演出课程",
@@ -11258,7 +11489,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海青浦区影视放映季",
@@ -11295,7 +11527,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-87",
@@ -11332,7 +11565,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海城市规划展示馆演出-130",
@@ -11369,7 +11603,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海上海电影博物馆展览-157",
@@ -11407,7 +11642,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海南京路演出-112",
@@ -11444,7 +11680,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海博物馆展览-120",
@@ -11482,7 +11719,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海南京路演出-142",
@@ -11519,7 +11757,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海虹口区影视放映之旅",
@@ -11557,7 +11796,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "只有树知道",
@@ -11667,7 +11907,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海玻璃博物馆研学",
@@ -11705,7 +11946,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海上海科技馆展览-91",
@@ -11743,7 +11985,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青少年上海虹口区体育赛事讲座",
@@ -11781,7 +12024,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海宝山区演出探索",
@@ -11819,7 +12063,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海青浦区科普活动研学营",
@@ -11857,7 +12102,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海环球金融中心观光",
@@ -11894,7 +12140,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "title": "广富林文化与考古模拟",
@@ -11968,7 +12215,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海上海欢乐谷展览-73",
@@ -12005,7 +12253,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海上海科技馆展览-121",
@@ -12043,7 +12292,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子上海长宁区科普活动工作坊",
@@ -12081,7 +12331,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味上海金山区体育赛事展览",
@@ -12119,7 +12370,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "经典上海杨浦区讲座阅读探秘",
@@ -12157,7 +12409,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "儿童上海嘉定区展览课程",
@@ -12194,7 +12447,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海虹口区演出讲座",
@@ -12232,7 +12486,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "周末亲子读书会与自然写生",
@@ -12377,7 +12632,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "趣味上海外滩亲子活动-81",
@@ -12414,7 +12670,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海静安雕塑公园展览-109",
@@ -12452,7 +12709,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海上海玻璃博物馆研学-125",
@@ -12490,7 +12748,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海宝山区影视放映探索",
@@ -12528,7 +12787,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -12603,7 +12863,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青少年上海浦东新区讲座阅读讲座",
@@ -12641,7 +12902,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "趣味上海徐汇区体育赛事展览",
@@ -12678,7 +12940,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子上海长宁区展览工作坊",
@@ -12715,7 +12978,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "上海城市规划展示馆",
@@ -12752,7 +13016,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "title": "机器人世界互动与水力搭建手工",
@@ -12862,7 +13127,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "实践上海长风公园研学-137",
@@ -12900,7 +13166,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "分龄绘本馆与艺术亲子公益课",
@@ -13011,7 +13278,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "精彩上海奉贤区影视放映节",
@@ -13048,7 +13316,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海静安区亲子活动季",
@@ -13086,7 +13355,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海黄浦区影视放映讲座",
@@ -13123,7 +13393,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海博物馆人民广场馆",
@@ -13161,7 +13432,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "上海地震科普馆",
@@ -13198,7 +13470,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "上海惊魂密境",
@@ -13235,7 +13508,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -13345,7 +13619,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐汇区演出周",
@@ -13383,7 +13658,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -13491,7 +13767,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "周末上海黄浦区影视放映活动",
@@ -13529,7 +13806,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海松江区展览演出",
@@ -13566,7 +13844,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "文物导览与非遗拓印",
@@ -13675,7 +13954,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海人民广场亲子活动-110",
@@ -13712,7 +13992,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海植物园亲子活动-165",
@@ -13749,7 +14030,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海杨浦区体育赛事探秘",
@@ -13786,7 +14068,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "暑期上海徐汇区科普活动体验营",
@@ -13824,7 +14107,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "上海海洋水族馆暑期探险",
@@ -13933,7 +14217,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海嘉定区体育赛事节",
@@ -13971,7 +14256,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "震撼上海松江区科普活动发现",
@@ -14008,7 +14294,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海汽车博物馆",
@@ -14046,7 +14333,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "漫游上海静安雕塑公园展览-79",
@@ -14084,7 +14372,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "周末上海虹口区亲子活动活动",
@@ -14122,7 +14411,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海松江区演出演出",
@@ -14160,7 +14450,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动上海嘉定区讲座阅读科普",
@@ -14198,7 +14489,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "探索上海长宁区科普活动演出",
@@ -14236,7 +14528,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "上海博物馆青铜器探索营",
@@ -14310,7 +14603,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "实践上海长风公园研学-107",
@@ -14348,7 +14642,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海嘉定区科普活动嘉年华",
@@ -14386,7 +14681,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海黄浦区体育赛事之旅",
@@ -14423,7 +14719,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "title": "城市建筑手工与上海历史亲子导览",
@@ -14496,7 +14793,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "海洋科普与手工",
@@ -14568,7 +14866,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海上海动物园演出-46",
@@ -14605,7 +14904,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味上海徐汇区影视放映展览",
@@ -14642,7 +14942,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "体验上海奉贤区科普活动嘉年华",
@@ -14679,7 +14980,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展",
@@ -14896,7 +15198,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海上海欢乐谷展览-103",
@@ -14933,7 +15236,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "经典上海金茂大厦演出-118",
@@ -14970,7 +15274,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年上海黄浦区演出讲座",
@@ -15007,7 +15312,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭上海静安区展览研学营",
@@ -15044,7 +15350,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探索上海闵行区影视放映演出",
@@ -15081,7 +15388,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海黄浦区亲子活动日",
@@ -15119,7 +15427,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海宝山区讲座阅读季",
@@ -15156,7 +15465,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "上海自然博物馆生态万象",
@@ -15194,7 +15504,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "上海航海博物馆",
@@ -15232,7 +15543,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "亲子上海东方明珠亲子活动-146",
@@ -15269,7 +15581,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海环球金融中心研学-149",
@@ -15306,7 +15619,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海博物馆展览-150",
@@ -15344,7 +15658,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子上海闵行区讲座阅读工作坊",
@@ -15382,7 +15697,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海青浦区演出探索",
@@ -15419,7 +15735,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海上海科技馆展览-31",
@@ -15457,7 +15774,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探秘上海松江区亲子活动月",
@@ -15494,7 +15812,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "少儿篮球与体能训练",
@@ -15566,7 +15885,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海闵行区展览演出",
@@ -15603,7 +15923,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "儿童上海普陀区讲座阅读课程",
@@ -15640,7 +15961,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海静安区讲座阅读探索",
@@ -15678,7 +16000,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海静安区体育赛事探索",
@@ -15716,7 +16039,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "亲子上海闵行区科普活动工作坊",
@@ -15753,7 +16077,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海长宁区讲座阅读发现",
@@ -15791,7 +16116,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "title": "马桥文化手工与古陶临摹",
@@ -15864,7 +16190,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青少年上海虹口区亲子活动讲座",
@@ -15901,7 +16228,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海欢乐谷国潮节",
@@ -15938,7 +16266,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出"
+    "category": "演出",
+    "family_friendly": false
   },
   {
     "title": "航天航海与互动科学装置",
@@ -16048,7 +16377,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子上海东方明珠亲子活动-56",
@@ -16085,7 +16415,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-71",
@@ -16122,7 +16453,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海金茂大厦演出-148",
@@ -16159,7 +16491,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海长宁区讲座阅读月",
@@ -16196,7 +16529,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "儿童上海普陀区体育赛事课程",
@@ -16234,7 +16568,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海自然博物馆生命长河",
@@ -16272,7 +16607,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "title": "阅读沙龙与童话舞台剧",
@@ -16346,7 +16682,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-41",
@@ -16383,7 +16720,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海上海动物园演出-106",
@@ -16420,7 +16758,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海城市规划展示馆演出-160",
@@ -16457,7 +16796,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -16531,7 +16871,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味上海外滩亲子活动-111",
@@ -16568,7 +16909,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海浦东新区影视放映日",
@@ -16605,7 +16947,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海普陀区讲座阅读嘉年华",
@@ -16642,7 +16985,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "精彩上海上海动物园演出-76",
@@ -16679,7 +17023,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海青浦区展览比赛",
@@ -16716,7 +17061,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "体验上海嘉定区亲子活动嘉年华",
@@ -16754,7 +17100,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海青浦区亲子活动探索",
@@ -16791,7 +17138,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘上海松江区演出月",
@@ -16829,7 +17177,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海上海城市规划展示馆演出-100",
@@ -16866,7 +17215,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验上海嘉定区演出嘉年华",
@@ -16904,7 +17254,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童上海嘉定区影视放映课程",
@@ -16941,7 +17292,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "科好玩了——2026上海科技馆暑假营",
@@ -17015,7 +17367,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海青浦区讲座阅读比赛",
@@ -17052,7 +17405,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐家汇展览",
@@ -17089,7 +17443,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-101",
@@ -17126,7 +17481,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海杨浦区科普活动周",
@@ -17164,7 +17520,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐汇区展览周",
@@ -17201,7 +17558,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探秘上海闵行区展览月",
@@ -17239,7 +17597,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青少年上海浦东新区体育赛事讲座",
@@ -17277,7 +17636,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海杜莎夫人蜡像馆",
@@ -17314,7 +17674,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -17386,7 +17747,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探索上海淮海路研学",
@@ -17423,7 +17785,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海南京路演出-82",
@@ -17460,7 +17823,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子上海闵行区体育赛事工作坊",
@@ -17498,7 +17862,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "亲子上海长宁区演出工作坊",
@@ -17536,7 +17901,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼上海长宁区影视放映发现",
@@ -17574,7 +17940,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读上海徐汇区影视放映周",
@@ -17612,7 +17979,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "国采——故宫藏清代帝后服饰展",
@@ -17685,7 +18053,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-117",
@@ -17722,7 +18091,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游上海青浦区亲子活动季",
@@ -17759,7 +18129,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末上海虹口区展览活动",
@@ -17797,7 +18168,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "title": "海洋文化与航海科普",
@@ -17905,7 +18277,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海人民广场亲子活动-50",
@@ -17942,7 +18315,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进上海世纪公园展览-78",
@@ -17980,7 +18354,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "发现上海宝山区科普活动比赛",
@@ -18018,7 +18393,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现上海上海迪士尼乐园展览-132",
@@ -18055,7 +18431,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-152",
@@ -18093,7 +18470,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索上海上海汽车博物馆展览-156",
@@ -18131,7 +18509,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子上海松江区展览工作坊",
@@ -18168,7 +18547,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "暑期上海徐汇区讲座阅读体验营",
@@ -18206,7 +18586,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动",
@@ -18244,7 +18625,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典上海金茂大厦演出-88",
@@ -18281,7 +18663,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩上海上海动物园演出-136",
@@ -18318,7 +18701,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末上海浦东新区体育赛事活动",
@@ -18355,7 +18739,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "趣味上海金山区科普活动展览",
@@ -18393,7 +18778,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "梦幻上海虹口区讲座阅读之旅",
@@ -18431,7 +18817,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "上海隧道科技馆",
@@ -18469,7 +18856,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式上海上海科技馆展览",
@@ -18507,7 +18895,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "走进上海黄浦区科普活动日",
@@ -18544,7 +18933,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末上海浦东新区亲子活动活动",
@@ -18581,7 +18971,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "上海自然博物馆恐龙盛世",
@@ -18619,7 +19010,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "title": "素心相映·邱瑞敏吴慧明艺术展",
@@ -18727,7 +19119,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "走进上海虹口区讲座阅读日",
@@ -18764,7 +19157,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "title": "环宇璀璨：大都会艺术博物馆珠宝珍藏展",
@@ -18837,7 +19231,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "title": "大音希声：八大山人诞辰400周年书画艺术大展",
@@ -18910,7 +19305,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "title": "少年述史·馆员论典——地方文献与馆藏精品暑期定时导览",

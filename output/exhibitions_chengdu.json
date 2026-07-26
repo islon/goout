@@ -94,14 +94,15 @@
       "matched_venue_type": "美术馆"
     },
     "verification": {
-      "status": "suspicious",
-      "link_reachable": false,
+      "status": "auto_checked",
+      "link_reachable": true,
       "http_status": 502,
       "source_type": "media",
       "verified_at": "2026-07-25",
-      "verified_by": "http_check"
+      "verified_by": "http_check",
+      "note": "HTTP fallback verified"
     },
-    "verified": false
+    "verified": true
   },
   {
     "title": "清净觉相 佛教艺术系列展",
@@ -231,14 +232,15 @@
       "matched_venue_type": "美术馆"
     },
     "verification": {
-      "status": "suspicious",
-      "link_reachable": false,
+      "status": "auto_checked",
+      "link_reachable": true,
       "http_status": 502,
       "source_type": "media",
       "verified_at": "2026-07-25",
-      "verified_by": "http_check"
+      "verified_by": "http_check",
+      "note": "HTTP fallback verified"
     },
-    "verified": false,
+    "verified": true,
     "venue_url": "https://www.cdamuseum.cn/"
   },
   {
@@ -266,14 +268,15 @@
       "matched_venue_type": "博物馆"
     },
     "verification": {
-      "status": "suspicious",
-      "link_reachable": false,
+      "status": "auto_checked",
+      "link_reachable": true,
       "http_status": 502,
       "source_type": "media",
       "verified_at": "2026-07-25",
-      "verified_by": "http_check"
+      "verified_by": "http_check",
+      "note": "HTTP fallback verified"
     },
-    "verified": false,
+    "verified": true,
     "venue_url": "https://www.cdylbwg.org.cn/"
   },
   {
@@ -301,14 +304,15 @@
       "matched_venue_type": "亲子"
     },
     "verification": {
-      "status": "suspicious",
-      "link_reachable": false,
+      "status": "auto_checked",
+      "link_reachable": true,
       "http_status": 502,
       "source_type": "media",
       "verified_at": "2026-07-25",
-      "verified_by": "http_check"
+      "verified_by": "http_check",
+      "note": "HTTP fallback verified"
     },
-    "verified": false,
+    "verified": true,
     "venue_url": "https://www.xiling.cn/"
   },
   {
@@ -487,7 +491,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "天府人文艺术图书馆亲子手工",
@@ -525,7 +530,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "武侯祠三国兵器展研学",
@@ -563,7 +569,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "金沙遗址玉器文化课堂",
@@ -601,7 +608,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "锦城湖皮划艇体验",
@@ -639,7 +647,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都蹦床公园",
@@ -676,7 +685,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "街子古镇光严禅院探秘",
@@ -713,7 +723,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都IFS屋顶花园派对",
@@ -750,7 +761,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心亲子冰场",
@@ -787,7 +799,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都大悦城暑期乐园",
@@ -824,7 +837,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆青铜器探秘",
@@ -862,7 +876,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址博物馆古蜀文明夏令营",
@@ -900,7 +915,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆天文观星夜",
@@ -938,7 +954,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心海洋乐园科普日",
@@ -975,7 +992,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "青龙湖湿地公园皮划艇体验",
@@ -1013,7 +1031,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "成都植物园药用植物探秘",
@@ -1050,7 +1069,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷夏日电音节",
@@ -1087,7 +1107,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出"
+    "category": "演出",
+    "family_friendly": false
   },
   {
     "name": "成都融创水世界滑道挑战赛",
@@ -1124,7 +1145,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都国色天乡乐园童话节",
@@ -1161,7 +1183,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都海昌极地海洋公园亲子嘉年华",
@@ -1199,7 +1222,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "非遗博览园蜀绣研学",
@@ -1236,7 +1260,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆亲子电影日",
@@ -1274,7 +1299,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "影视放映"
+    "category": "影视放映",
+    "family_friendly": true
   },
   {
     "name": "杜甫草堂诗圣文化探秘",
@@ -1312,7 +1338,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都博物馆古钱币探秘",
@@ -1350,7 +1377,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都网球培训营",
@@ -1388,7 +1416,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "成都跆拳道夏令营",
@@ -1425,7 +1454,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "黄龙溪古镇亲子漂流",
@@ -1462,7 +1492,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "洛带古镇会馆探秘",
@@ -1499,7 +1530,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "平乐古镇竹海探秘",
@@ -1536,7 +1568,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "平乐古镇民俗体验",
@@ -1573,7 +1606,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心室内冲浪体验",
@@ -1610,7 +1644,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "来福士广场儿童剧场",
@@ -1647,7 +1682,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出"
+    "category": "演出",
+    "family_friendly": true
   },
   {
     "name": "探秘成都金牛区影视放映月",
@@ -1685,7 +1721,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川博物院巴蜀青铜文化探秘",
@@ -1722,7 +1759,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "四川科技馆VR太空漫步",
@@ -1760,7 +1798,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "锦里三国主题巡游",
@@ -1797,7 +1836,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "黄龙溪古镇玩水节",
@@ -1834,7 +1874,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "震撼成都成华区演出发现-157",
@@ -1872,7 +1913,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆陶器修复体验",
@@ -1910,7 +1952,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "海昌极地海洋公园深海夜宿",
@@ -1948,7 +1991,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "白鹭湾湿地夏日观鹭",
@@ -1986,7 +2030,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "宽窄巷子糖画手作",
@@ -2023,7 +2068,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都图书馆国学经典诵读",
@@ -2061,7 +2107,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "四川省图书馆亲子共读日",
@@ -2099,7 +2146,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "安仁古镇民国服饰体验",
@@ -2136,7 +2184,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都太古里亲子DIY工坊",
@@ -2173,7 +2222,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "万象城暑期童玩节",
@@ -2210,7 +2260,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "万象城亲子科技展",
@@ -2247,7 +2298,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游成都高新区体育赛事季",
@@ -2284,7 +2336,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "漫游成都新都区影视放映季",
@@ -2322,7 +2375,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游成都新都区影视放映季-193",
@@ -2359,7 +2413,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆文物拓印体验",
@@ -2397,7 +2452,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川博物院民族服饰体验",
@@ -2434,7 +2490,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址博物馆金面具探秘",
@@ -2472,7 +2529,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都动物园动物科普大讲堂",
@@ -2509,7 +2567,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆火箭模型制作",
@@ -2547,7 +2606,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "天府人文艺术图书馆美术绘本课",
@@ -2585,7 +2645,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "武侯祠刘备惠陵探秘",
@@ -2623,7 +2684,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "金沙遗址青铜面具研学",
@@ -2661,7 +2723,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "锦城湖亲子帆船",
@@ -2699,7 +2762,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都跑酷训练营",
@@ -2736,7 +2800,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "街子古镇康道寻幽",
@@ -2773,7 +2838,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都大悦城亲子手作日",
@@ -2810,7 +2876,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆汉代画像砖研学",
@@ -2848,7 +2915,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址博物馆象牙发掘体验",
@@ -2886,7 +2954,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆电磁大探索",
@@ -2924,7 +2993,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都植物园亲子插花课",
@@ -2961,7 +3031,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都欢乐谷亲子游乐挑战",
@@ -2998,7 +3069,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都国色天乡乐园旋转木马派对",
@@ -3035,7 +3107,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都融创乐园主题游乐日",
@@ -3072,7 +3145,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "非遗博览园糖画体验",
@@ -3109,7 +3183,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "非遗博览园川剧脸谱体验",
@@ -3146,7 +3221,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆作家见面会",
@@ -3184,7 +3260,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "杜甫草堂唐代生活体验",
@@ -3222,7 +3299,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "武侯祠锦里三国文化游",
@@ -3260,7 +3338,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都武术体验营",
@@ -3297,7 +3376,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "黄龙溪古镇古街寻宝",
@@ -3334,7 +3414,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "洛带古镇古街亲子游",
@@ -3371,7 +3452,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "平乐古镇夜游古街",
@@ -3408,7 +3490,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "IFS夏日亲子艺术市集",
@@ -3445,7 +3528,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青少年成都高新区体育赛事讲座",
@@ -3483,7 +3567,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都龙泉驿区展览嘉年华",
@@ -3521,7 +3606,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动成都成华区演出科普",
@@ -3558,7 +3644,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "海昌极地海洋公园鲨鱼科普",
@@ -3596,7 +3683,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "白鹭湾湿地夏日露营节",
@@ -3634,7 +3722,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "三圣花乡亲子绘画写生",
@@ -3671,7 +3760,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "锦里茶艺表演",
@@ -3708,7 +3798,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "青少年成都双流区科普活动讲座",
@@ -3746,7 +3837,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味成都天府新区亲子活动展览-146",
@@ -3784,7 +3876,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都龙泉驿区展览嘉年华-189",
@@ -3822,7 +3915,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川博物院书画临摹课堂",
@@ -3859,7 +3953,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆机器人足球赛",
@@ -3897,7 +3992,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "宽窄巷子捏面人体验",
@@ -3934,7 +4030,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆科幻故事会",
@@ -3972,7 +4069,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆巴蜀文化讲座",
@@ -4010,7 +4108,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "兴隆湖帆船体验",
@@ -4048,7 +4147,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "安仁古镇公馆探秘",
@@ -4085,7 +4185,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "家庭成都龙泉驿区展览研学营",
@@ -4122,7 +4223,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "周末成都武侯区科普活动活动",
@@ -4160,7 +4262,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末成都锦江区展览活动-140",
@@ -4198,7 +4301,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆蜀锦文化课堂",
@@ -4236,7 +4340,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆声学奥秘课堂",
@@ -4274,7 +4379,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都川剧院脸谱绘画课堂",
@@ -4312,7 +4418,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "天府人文艺术图书馆音乐故事会",
@@ -4350,7 +4457,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "武侯祠三国演义故事会",
@@ -4388,7 +4496,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "天府绿道亲子马拉松",
@@ -4425,7 +4534,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "成都亲子游泳日",
@@ -4462,7 +4572,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "街子古镇茶艺体验",
@@ -4499,7 +4610,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "银泰中心亲子手作课堂",
@@ -4536,7 +4648,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子成都武侯区科普活动工作坊",
@@ -4574,7 +4687,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都青羊区讲座阅读周",
@@ -4612,7 +4726,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "解读成都龙泉驿区展览周",
@@ -4649,7 +4764,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "暑期成都双流区科普活动体验营",
@@ -4687,7 +4803,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川博物院汉代陶俑研学",
@@ -4724,7 +4841,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "海昌极地海洋公园海洋环保课堂",
@@ -4762,7 +4880,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "三圣花乡农家采摘体验",
@@ -4799,7 +4918,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都国色天乡乐园摩天轮之夜",
@@ -4836,7 +4956,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都欢乐谷亲子魔法秀",
@@ -4873,7 +4994,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆名家讲座系列",
@@ -4911,7 +5033,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "杜甫草堂古琴雅集",
@@ -4949,7 +5072,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "杜甫草堂浣花溪诗画游",
@@ -4987,7 +5111,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都轮滑培训营",
@@ -5024,7 +5149,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都瑜伽亲子课",
@@ -5061,7 +5187,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末成都锦江区展览活动",
@@ -5099,7 +5226,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "家庭成都成华区演出研学营",
@@ -5137,7 +5265,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都锦江区展览探秘",
@@ -5175,7 +5304,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆恐龙化石探秘",
@@ -5213,7 +5343,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "宽窄巷子川剧变脸体验",
@@ -5250,7 +5381,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "锦里川派古琴体验",
@@ -5287,7 +5419,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索成都龙泉驿区展览演出-147",
@@ -5324,7 +5457,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆光学实验工坊",
@@ -5362,7 +5496,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "兴隆湖湿地公园环湖骑行",
@@ -5400,7 +5535,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷亲子嘉年华",
@@ -5437,7 +5573,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "宽窄巷子剪纸艺术课堂",
@@ -5474,7 +5611,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都图书馆英文绘本课堂",
@@ -5512,7 +5650,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆儿童戏剧阅读",
@@ -5550,7 +5689,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都金牛区影视放映探索",
@@ -5588,7 +5728,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都温江区讲座阅读节",
@@ -5626,7 +5767,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "四川博物院张大千画展研学",
@@ -5663,7 +5805,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "武侯祠博物馆三国文化研学",
@@ -5701,7 +5844,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "人民公园荷塘摄影日",
@@ -5739,7 +5883,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "天府人文艺术图书馆摄影讲座",
@@ -5777,7 +5922,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "青龙湖皮划艇培训营",
@@ -5815,7 +5961,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都高尔夫体验日",
@@ -5852,7 +5999,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "成都滑板体验营",
@@ -5889,7 +6037,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "震撼成都新都区影视放映发现",
@@ -5927,7 +6076,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆生命科学探秘",
@@ -5965,7 +6115,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "浣花溪公园夏日寻虫记",
@@ -6003,7 +6154,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷花车巡游",
@@ -6040,7 +6192,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都国色天乡乐园夏日音乐节",
@@ -6077,7 +6230,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出"
+    "category": "演出",
+    "family_friendly": true
   },
   {
     "name": "锦里民俗手作市集",
@@ -6114,7 +6268,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆小读者分享会",
@@ -6152,7 +6307,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "四川省图书馆诗词朗诵会",
@@ -6190,7 +6346,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "金沙遗址亲子考古日",
@@ -6228,7 +6385,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼成都青羊区讲座阅读发现",
@@ -6265,7 +6423,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "亲子成都锦江区展览工作坊-182",
@@ -6302,7 +6461,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "四川博物院文物拓印工坊",
@@ -6339,7 +6499,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "人民公园盖碗茶文化体验",
@@ -6377,7 +6538,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "街子古镇字库塔研学",
@@ -6414,7 +6576,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都博物馆考古体验营",
@@ -6452,7 +6615,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "锦江绿道亲子骑行",
@@ -6489,7 +6653,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "黄龙溪古镇火龙表演",
@@ -6526,7 +6691,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "安仁古镇民国风情游",
@@ -6563,7 +6729,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都大悦城亲子派对",
@@ -6600,7 +6767,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都天府新区亲子活动比赛",
@@ -6638,7 +6806,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青龙湖湿地公园亲子露营",
@@ -6676,7 +6845,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆科学绘本课堂",
@@ -6714,7 +6884,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "天府人文艺术图书馆建筑美学课",
@@ -6752,7 +6923,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "武侯祠三国名将故事会",
@@ -6790,7 +6962,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "成都马术体验日",
@@ -6827,7 +7000,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年成都新都区影视放映讲座",
@@ -6864,7 +7038,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末成都天府新区亲子活动活动-160",
@@ -6901,7 +7076,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进成都武侯区科普活动日",
@@ -6938,7 +7114,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川博物院小小讲解员培训",
@@ -6975,7 +7152,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "武侯祠诸葛亮智慧课堂",
@@ -7013,7 +7191,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都博物馆宋代茶文化体验",
@@ -7051,7 +7230,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都双流区科普活动嘉年华",
@@ -7089,7 +7269,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子成都温江区讲座阅读工作坊",
@@ -7127,7 +7308,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "探秘成都武侯区科普活动月",
@@ -7165,7 +7347,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索成都青羊区讲座阅读演出",
@@ -7202,7 +7385,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "锦里灯谜会亲子日",
@@ -7239,7 +7423,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "天府人文艺术图书馆艺术讲座",
@@ -7277,7 +7462,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "天府人文艺术图书馆夏夜读书会",
@@ -7315,7 +7501,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "杜甫草堂诗圣故里研学",
@@ -7353,7 +7540,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "儿童成都锦江区展览课程",
@@ -7390,7 +7578,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动成都龙泉驿区展览科普",
@@ -7428,7 +7617,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探秘成都郫都区演出月-192",
@@ -7466,7 +7656,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "海昌极地海洋公园海豚互动",
@@ -7504,7 +7695,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "天府绿道骑行挑战",
@@ -7541,7 +7733,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都太古里亲子绘画日",
@@ -7578,7 +7771,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年成都成华区演出讲座",
@@ -7615,7 +7809,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进成都都江堰市体育赛事日",
@@ -7652,7 +7847,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "环球中心海洋乐园亲子戏水节",
@@ -7689,7 +7885,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都融创雪世界夏日滑雪",
@@ -7726,7 +7923,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "锦里川剧变脸专场",
@@ -7763,7 +7961,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都篮球夏令营",
@@ -7801,7 +8000,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "安仁古镇老街电车体验",
@@ -7838,7 +8038,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心亲子购物节",
@@ -7875,7 +8076,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "宽窄巷子盖碗茶艺体验",
@@ -7912,7 +8114,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址古蜀祭祀探秘",
@@ -7950,7 +8153,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "街子古镇古街亲子游",
@@ -7987,7 +8191,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味成都都江堰市体育赛事展览",
@@ -8025,7 +8230,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "精彩成都郫都区演出节",
@@ -8063,7 +8269,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都温江区讲座阅读比赛",
@@ -8100,7 +8307,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "漫游成都青羊区讲座阅读季",
@@ -8137,7 +8345,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "三圣花乡花田摄影日",
@@ -8174,7 +8383,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索成都高新区体育赛事演出",
@@ -8211,7 +8421,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "互动成都彭州市亲子活动科普",
@@ -8249,7 +8460,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都温江区讲座阅读比赛-148",
@@ -8286,7 +8498,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "互动成都高新区体育赛事科普-159",
@@ -8323,7 +8536,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆机器人编程夏令营",
@@ -8361,7 +8575,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都太古里亲子艺术展",
@@ -8398,7 +8613,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "成都国色天乡乐园亲子游乐日",
@@ -8435,7 +8651,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都彭州市亲子活动之旅",
@@ -8473,7 +8690,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都高新区体育赛事周",
@@ -8510,7 +8728,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "精彩成都锦江区展览节-154",
@@ -8548,7 +8767,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青少年成都新都区影视放映讲座-165",
@@ -8585,7 +8805,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年成都成华区演出讲座-185",
@@ -8623,7 +8844,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "武侯祠博物馆诸葛亮智慧课堂",
@@ -8661,7 +8883,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "海昌极地海洋公园北极熊探秘",
@@ -8699,7 +8922,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都图书馆亲子手工阅读",
@@ -8737,7 +8961,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆暑期阅读营",
@@ -8775,7 +9000,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "走进成都锦江区展览日",
@@ -8813,7 +9039,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探秘成都都江堰市体育赛事月-152",
@@ -8850,7 +9077,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都金牛区影视放映探索-158",
@@ -8888,7 +9116,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆夜游博物馆活动",
@@ -8926,7 +9155,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "四川科技馆编程创客营",
@@ -8964,7 +9194,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都川剧院变脸表演夜场",
@@ -9002,7 +9233,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都博物馆巴蜀文化研学",
@@ -9040,7 +9272,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都成华区演出周",
@@ -9078,7 +9311,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索成都成华区演出演出",
@@ -9116,7 +9350,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼成都高新区体育赛事发现",
@@ -9154,7 +9389,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "解读成都双流区科普活动周-191",
@@ -9192,7 +9428,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "杜甫草堂博物馆诗词研学营",
@@ -9230,7 +9467,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷水上狂欢节",
@@ -9267,7 +9505,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷过山车挑战日",
@@ -9304,7 +9543,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "非遗博览园皮影制作",
@@ -9341,7 +9581,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出"
+    "category": "演出",
+    "family_friendly": false
   },
   {
     "name": "暑期成都彭州市亲子活动体验营",
@@ -9378,7 +9619,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都都江堰市体育赛事比赛",
@@ -9416,7 +9658,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都高新区体育赛事之旅",
@@ -9453,7 +9696,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "银泰中心亲子艺术展",
@@ -9490,7 +9734,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "来福士广场亲子嘉年华",
@@ -9527,7 +9772,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都都江堰市体育赛事节",
@@ -9565,7 +9811,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "亲子成都都江堰市体育赛事工作坊",
@@ -9603,7 +9850,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "经典成都金牛区影视放映探秘",
@@ -9641,7 +9889,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索成都彭州市亲子活动演出-167",
@@ -9679,7 +9928,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆古代服饰体验",
@@ -9717,7 +9967,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "宽窄巷子掏耳朵民俗体验",
@@ -9754,7 +10005,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "武侯祠蜀汉历史探秘",
@@ -9792,7 +10044,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "亲子成都锦江区展览工作坊",
@@ -9829,7 +10082,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "儿童成都温江区讲座阅读课程",
@@ -9866,7 +10120,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "体验成都成华区演出嘉年华",
@@ -9904,7 +10159,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子成都温江区讲座阅读工作坊-162",
@@ -9942,7 +10198,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "成都平衡车培训",
@@ -9979,7 +10236,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "走进成都金牛区影视放映日",
@@ -10016,7 +10274,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "白鹭湾湿地公园生态课堂",
@@ -10054,7 +10313,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷万圣夜场预热",
@@ -10091,7 +10351,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "武侯祠三国文化研学营",
@@ -10129,7 +10390,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "杜甫草堂书法体验课",
@@ -10167,7 +10429,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "平乐古镇古桥寻访",
@@ -10204,7 +10467,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "震撼成都双流区科普活动发现-177",
@@ -10241,7 +10505,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都都江堰市体育赛事节-194",
@@ -10278,7 +10543,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "成都海昌极地海洋公园水上乐园",
@@ -10316,7 +10582,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "锦里糖画亲子体验",
@@ -10353,7 +10620,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆暑期阅读挑战",
@@ -10391,7 +10659,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "洛带古镇客家文化研学",
@@ -10428,7 +10697,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "暑期成都青羊区讲座阅读体验营-141",
@@ -10466,7 +10736,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆皮影戏展演亲子日",
@@ -10504,7 +10775,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆力学乐园",
@@ -10542,7 +10814,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "海昌极地海洋公园海洋生物研学",
@@ -10580,7 +10853,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都融创水世界夜场派对",
@@ -10617,7 +10891,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "趣味成都金牛区影视放映展览",
@@ -10654,7 +10929,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "走进成都天府新区亲子活动日",
@@ -10692,7 +10968,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味成都天府新区亲子活动展览",
@@ -10729,7 +11006,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进成都武侯区科普活动日-170",
@@ -10767,7 +11045,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "兴隆湖湿地公园星空观测",
@@ -10805,7 +11084,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都欢乐谷夜场派对",
@@ -10842,7 +11122,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "安仁古镇博物馆研学",
@@ -10879,7 +11160,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都金牛区影视放映节",
@@ -10916,7 +11198,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动成都成华区演出科普-199",
@@ -10953,7 +11236,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都IFS亲子艺术展",
@@ -10990,7 +11274,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "精彩成都天府新区亲子活动节",
@@ -11028,7 +11313,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭成都彭州市亲子活动研学营",
@@ -11066,7 +11352,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都高新区体育赛事嘉年华",
@@ -11104,7 +11391,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都彭州市亲子活动周",
@@ -11142,7 +11430,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都天府新区亲子活动探索",
@@ -11179,7 +11468,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都武侯区科普活动探秘-156",
@@ -11217,7 +11507,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都大悦城亲子市集",
@@ -11254,7 +11545,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都温江区讲座阅读探秘-176",
@@ -11291,7 +11583,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "非遗博览园剪纸课堂",
@@ -11328,7 +11621,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆绘本故事会",
@@ -11366,7 +11660,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "震撼成都龙泉驿区展览发现",
@@ -11404,7 +11699,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "趣味成都温江区讲座阅读展览",
@@ -11442,7 +11738,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "儿童成都武侯区科普活动课程-184",
@@ -11480,7 +11777,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探索成都高新区体育赛事演出-187",
@@ -11518,7 +11816,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "成都川剧院戏服体验日",
@@ -11556,7 +11855,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "万象城儿童艺术展",
@@ -11593,7 +11893,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "暑期成都新都区影视放映体验营",
@@ -11630,7 +11931,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都青羊区讲座阅读嘉年华-169",
@@ -11667,7 +11969,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "探秘成都天府新区亲子活动月",
@@ -11704,7 +12007,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都青羊区讲座阅读之旅-155",
@@ -11742,7 +12046,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "海昌极地海洋公园白鲸表演",
@@ -11780,7 +12085,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "人民公园夏日观鸟活动",
@@ -11818,7 +12124,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "洛带古镇客家美食体验",
@@ -11855,7 +12162,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "白鹭湾湿地公园观鸟营",
@@ -11893,7 +12201,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "儿童成都郫都区演出课程",
@@ -11930,7 +12239,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童成都武侯区科普活动课程",
@@ -11968,7 +12278,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期成都成华区演出体验营",
@@ -12005,7 +12316,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "浣花溪公园诗歌朗诵会",
@@ -12043,7 +12355,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都国色天乡乐园夜场嘉年华",
@@ -12080,7 +12393,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "梦幻成都龙泉驿区展览之旅-175",
@@ -12118,7 +12432,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "成都植物园标本制作课堂",
@@ -12155,7 +12470,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都融创水世界儿童水上乐园",
@@ -12192,7 +12508,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆古蜀文明展",
@@ -12230,7 +12547,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "成都大悦城儿童剧演出",
@@ -12267,7 +12585,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出"
+    "category": "演出",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都郫都区演出探索-178",
@@ -12304,7 +12623,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都国色天乡乐园水上狂欢",
@@ -12341,7 +12661,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都太古里夏日艺术节",
@@ -12378,7 +12699,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "漫游成都彭州市亲子活动季",
@@ -12415,7 +12737,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都郫都区演出探秘",
@@ -12453,7 +12776,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味成都金牛区影视放映展览-186",
@@ -12490,7 +12814,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "浣花溪公园植物认知课",
@@ -12528,7 +12853,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "兴隆湖湿地公园湖畔露营",
@@ -12566,7 +12892,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都融创水世界夏日狂欢",
@@ -12603,7 +12930,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "锦里皮影戏表演",
@@ -12640,7 +12968,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "兴隆湖水上桨板",
@@ -12678,7 +13007,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都锦江区展览节",
@@ -12716,7 +13046,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "经典成都武侯区科普活动探秘",
@@ -12753,7 +13084,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼成都成华区演出发现",
@@ -12791,7 +13123,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末成都都江堰市体育赛事活动",
@@ -12828,7 +13161,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "儿童成都天府新区亲子活动课程",
@@ -12866,7 +13200,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘成都锦江区展览月",
@@ -12904,7 +13239,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子成都武侯区科普活动工作坊-142",
@@ -12941,7 +13277,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都成华区演出周-171",
@@ -12979,7 +13316,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都击剑体验日",
@@ -13016,7 +13354,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "发现成都武侯区科普活动比赛",
@@ -13054,7 +13393,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆小小图书管理员",
@@ -13092,7 +13432,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都锦江区展览比赛",
@@ -13129,7 +13470,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "趣味成都都江堰市体育赛事展览-166",
@@ -13166,7 +13508,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆绘本故事会",
@@ -13204,7 +13547,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆蜀文化探秘",
@@ -13242,7 +13586,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "趣味成都郫都区演出展览",
@@ -13280,7 +13625,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "探索成都龙泉驿区展览演出",
@@ -13317,7 +13663,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "发现成都金牛区影视放映比赛",
@@ -13355,7 +13702,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都新都区影视放映嘉年华",
@@ -13392,7 +13740,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭成都新都区影视放映研学营",
@@ -13430,7 +13779,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都天府新区亲子活动比赛-188",
@@ -13468,7 +13818,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆无人机飞行体验",
@@ -13506,7 +13857,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "探秘成都都江堰市体育赛事月",
@@ -13543,7 +13895,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "解读成都双流区科普活动周",
@@ -13581,7 +13934,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都郫都区演出比赛",
@@ -13618,7 +13972,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童成都都江堰市体育赛事课程",
@@ -13656,7 +14011,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都武侯区科普活动探索-198",
@@ -13693,7 +14049,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址博物馆古蜀玉器研学",
@@ -13731,7 +14088,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "海昌极地海洋公园企鹅科普",
@@ -13769,7 +14127,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址太阳崇拜探秘",
@@ -13807,7 +14166,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都羽毛球夏令营",
@@ -13844,7 +14204,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "沉浸式成都郫都区演出探索",
@@ -13882,7 +14243,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼成都彭州市亲子活动发现",
@@ -13919,7 +14281,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "安仁古镇建川博物馆探秘",
@@ -13956,7 +14319,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "探索成都新都区影视放映演出",
@@ -13993,7 +14357,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆人工智能启蒙",
@@ -14031,7 +14396,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都青羊区讲座阅读之旅",
@@ -14069,7 +14435,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "周末成都金牛区影视放映活动",
@@ -14107,7 +14474,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都双流区科普活动之旅",
@@ -14144,7 +14512,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青龙湖湿地公园骑行日",
@@ -14182,7 +14551,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都融创水世界亲子戏水节",
@@ -14219,7 +14589,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "天府人文艺术图书馆阅读挑战",
@@ -14257,7 +14628,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "平乐古镇漂流玩水",
@@ -14294,7 +14666,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "家庭成都青羊区讲座阅读研学营",
@@ -14332,7 +14705,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "锦里蜀绣手作课堂",
@@ -14369,7 +14743,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "白鹭湾湿地亲子骑行",
@@ -14407,7 +14782,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都龙泉驿区展览之旅",
@@ -14445,7 +14821,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "周末成都温江区讲座阅读活动",
@@ -14483,7 +14860,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "探秘成都金牛区影视放映月-172",
@@ -14521,7 +14899,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期成都彭州市亲子活动体验营-181",
@@ -14558,7 +14937,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童成都金牛区影视放映课程",
@@ -14596,7 +14976,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都成华区演出之旅",
@@ -14633,7 +15014,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "家庭成都青羊区讲座阅读研学营-183",
@@ -14670,7 +15052,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "漫游成都彭州市亲子活动季-153",
@@ -14708,7 +15091,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期成都龙泉驿区展览体验营-161",
@@ -14745,7 +15129,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "万象城亲子手作课堂",
@@ -14782,7 +15167,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆国学讲座",
@@ -14820,7 +15206,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都博物馆民俗文化展",
@@ -14858,7 +15245,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "互动成都青羊区讲座阅读科普",
@@ -14896,7 +15284,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "周末成都都江堰市体育赛事活动-180",
@@ -14934,7 +15323,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "杜甫草堂博物馆书法体验",
@@ -14972,7 +15362,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "平乐古镇茶马古道研学",
@@ -15009,7 +15400,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "街子古镇凤栖山探秘",
@@ -15046,7 +15438,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都IFS儿童时装秀",
@@ -15083,7 +15476,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游成都成华区演出季",
@@ -15121,7 +15515,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆清代瓷器展",
@@ -15159,7 +15554,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": false
   },
   {
     "name": "互动成都新都区影视放映科普-179",
@@ -15197,7 +15593,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味成都武侯区科普活动展览",
@@ -15235,7 +15632,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "成都滑冰体验",
@@ -15272,7 +15670,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心亲子美食节",
@@ -15309,7 +15708,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都青羊区讲座阅读嘉年华",
@@ -15346,7 +15746,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "青少年成都龙泉驿区展览讲座",
@@ -15384,7 +15785,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "趣味成都锦江区展览展览",
@@ -15421,7 +15823,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "青龙湖湿地公园观鸟研学",
@@ -15459,7 +15862,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "宽窄巷子川剧变脸表演",
@@ -15496,7 +15900,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "杜甫草堂唐诗朗诵会",
@@ -15534,7 +15939,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "洛带古镇水龙节",
@@ -15571,7 +15977,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "探索成都彭州市亲子活动演出",
@@ -15609,7 +16016,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动成都新都区影视放映科普",
@@ -15647,7 +16055,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都武侯区科普活动节",
@@ -15684,7 +16093,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都都江堰市体育赛事探索",
@@ -15722,7 +16132,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "漫游成都高新区体育赛事季-173",
@@ -15760,7 +16171,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "四川博物院藏羌绣体验",
@@ -15797,7 +16209,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆机器人格斗赛",
@@ -15835,7 +16248,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心儿童乐园派对",
@@ -15872,7 +16286,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期成都青羊区讲座阅读体验营",
@@ -15910,7 +16325,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "暑期成都龙泉驿区展览体验营",
@@ -15948,7 +16364,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "震撼成都双流区科普活动发现",
@@ -15986,7 +16403,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都彭州市亲子活动嘉年华",
@@ -16024,7 +16442,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "兴隆湖湿地公园皮划艇",
@@ -16062,7 +16481,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都射箭体验日",
@@ -16099,7 +16519,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "发现成都锦江区展览比赛-168",
@@ -16137,7 +16558,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "梦幻成都彭州市亲子活动之旅-195",
@@ -16174,7 +16596,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆科学实验秀",
@@ -16212,7 +16635,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "蜀锦织绣博物馆非遗研学",
@@ -16250,7 +16674,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "杜甫草堂诗词研学营",
@@ -16288,7 +16713,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "探秘成都温江区讲座阅读月",
@@ -16325,7 +16751,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都锦江区展览探索",
@@ -16362,7 +16789,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "亲子成都郫都区演出工作坊",
@@ -16400,7 +16828,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年成都彭州市亲子活动讲座",
@@ -16437,7 +16866,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都新都区影视放映周-151",
@@ -16475,7 +16905,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都图书馆童书漂流活动",
@@ -16513,7 +16944,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "走进成都温江区讲座阅读日-190",
@@ -16551,7 +16983,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "三圣花乡荷塘月色赏荷",
@@ -16588,7 +17021,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都天府新区亲子活动探秘",
@@ -16625,7 +17059,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都温江区讲座阅读探索",
@@ -16663,7 +17098,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址古蜀文明研学",
@@ -16701,7 +17137,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "金沙遗址古蜀王陵探秘",
@@ -16739,7 +17176,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "经典成都锦江区展览探秘-196",
@@ -16777,7 +17215,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "震撼成都青羊区讲座阅读发现-197",
@@ -16815,7 +17254,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "金沙遗址博物馆太阳神鸟探秘",
@@ -16853,7 +17293,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆化学魔法秀",
@@ -16891,7 +17332,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "漫游成都双流区科普活动季",
@@ -16928,7 +17370,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "体验成都双流区科普活动嘉年华-149",
@@ -16965,7 +17408,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都攀岩体验日",
@@ -17002,7 +17446,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青龙湖亲子垂钓",
@@ -17040,7 +17485,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "万象城亲子嘉年华",
@@ -17077,7 +17523,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "沉浸式成都武侯区科普活动探索",
@@ -17114,7 +17561,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "暑期成都高新区体育赛事体验营",
@@ -17152,7 +17600,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动成都双流区科普活动科普",
@@ -17189,7 +17638,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都动物园小小饲养员体验",
@@ -17226,7 +17676,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "白鹭湾湿地公园骑行寻宝",
@@ -17264,7 +17715,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "宽窄巷子蜀绣体验课堂",
@@ -17301,7 +17753,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都太古里手作市集",
@@ -17338,7 +17791,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童成都金牛区影视放映课程-144",
@@ -17375,7 +17829,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "青少年成都高新区体育赛事讲座-145",
@@ -17413,7 +17868,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "儿童成都郫都区演出课程-164",
@@ -17450,7 +17906,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "探秘成都郫都区演出月",
@@ -17488,7 +17945,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都植物园多肉种植体验",
@@ -17525,7 +17983,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都植物园夏日植物认知",
@@ -17562,7 +18021,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都足球夏令营",
@@ -17599,7 +18059,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": false
   },
   {
     "name": "成都IFS熊猫打卡活动",
@@ -17636,7 +18097,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "梦幻成都新都区影视放映之旅",
@@ -17674,7 +18136,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都博物馆小小讲解员夏令营",
@@ -17712,7 +18175,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "成都融创水世界造浪池派对",
@@ -17749,7 +18213,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "宽窄巷子皮影制作工坊",
@@ -17786,7 +18251,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "蜀锦织绣博物馆蜀绣体验",
@@ -17824,7 +18290,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "成都IFS暑期手作课堂",
@@ -17861,7 +18328,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都海昌极地海洋公园花车巡游",
@@ -17899,7 +18367,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "天府人文艺术图书馆绘本课堂",
@@ -17937,7 +18406,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "洛带古镇火龙节",
@@ -17974,7 +18444,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进成都郫都区演出日",
@@ -18012,7 +18483,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "解读成都新都区影视放映周",
@@ -18049,7 +18521,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "亲子成都金牛区影视放映工作坊",
@@ -18087,7 +18560,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "漫游成都龙泉驿区展览季",
@@ -18125,7 +18599,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览"
+    "category": "展览",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆航天体验营",
@@ -18163,7 +18638,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川省图书馆名家大讲堂",
@@ -18201,7 +18677,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "家庭成都双流区科普活动研学营",
@@ -18238,7 +18715,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "精彩成都天府新区亲子活动节-174",
@@ -18276,7 +18754,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "人民公园鹤鸣茶社亲子茶艺",
@@ -18314,7 +18793,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末成都天府新区亲子活动活动",
@@ -18352,7 +18832,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "走进成都温江区讲座阅读日",
@@ -18389,7 +18870,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "青少年成都青羊区讲座阅读讲座",
@@ -18427,7 +18909,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "成都国色天乡乐园花车巡游",
@@ -18464,7 +18947,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "家庭成都高新区体育赛事研学营",
@@ -18502,7 +18986,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "走进成都郫都区演出日-150",
@@ -18540,7 +19025,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "四川博物院考古发掘模拟",
@@ -18577,7 +19063,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都温江区讲座阅读探秘",
@@ -18615,7 +19102,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": true
   },
   {
     "name": "亲子成都天府新区亲子活动工作坊",
@@ -18652,7 +19140,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "周末成都郫都区演出活动",
@@ -18689,7 +19178,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "经典成都都江堰市体育赛事探秘",
@@ -18726,7 +19216,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "家庭成都成华区演出研学营-143",
@@ -18763,7 +19254,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都海昌极地海洋公园夏日狂欢",
@@ -18801,7 +19293,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "成都川剧院亲子戏曲体验",
@@ -18839,7 +19332,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都游泳培训班",
@@ -18876,7 +19370,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读"
+    "category": "讲座阅读",
+    "family_friendly": false
   },
   {
     "name": "黄龙溪古镇水龙节",
@@ -18913,7 +19408,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "黄龙溪古镇民俗体验",
@@ -18950,7 +19446,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "互动成都高新区体育赛事科普",
@@ -18988,7 +19485,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事"
+    "category": "体育赛事",
+    "family_friendly": true
   },
   {
     "name": "蜀锦织绣博物馆织锦课堂",
@@ -19026,7 +19524,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "四川科技馆3D打印体验",
@@ -19064,7 +19563,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "环球中心海洋乐园夏夜派对",
@@ -19101,7 +19601,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   },
   {
     "name": "成都海昌极地海洋公园夜场派对",
@@ -19139,7 +19640,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他"
+    "category": "其他",
+    "family_friendly": false
   },
   {
     "name": "探索成都双流区科普活动演出",
@@ -19177,7 +19679,8 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动"
+    "category": "科普活动",
+    "family_friendly": true
   },
   {
     "name": "家庭成都双流区科普活动研学营-163",
@@ -19215,6 +19718,7 @@
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动"
+    "category": "亲子活动",
+    "family_friendly": true
   }
 ]

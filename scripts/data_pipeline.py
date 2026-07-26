@@ -155,6 +155,22 @@ def validate_and_fix_activity(activity):
     if source_dist and venue_dist and source_dist != venue_dist:
         if venue_dist:
             pass
+
+    if 'family_friendly' not in activity:
+        activity['family_friendly'] = is_family_friendly(
+            activity.get('title', ''),
+            activity.get('description', ''),
+            activity.get('category', '')
+        )
+
+    if not activity.get('name') and activity.get('title'):
+        activity['name'] = activity['title']
+
+    link = activity.get('link', '') or activity.get('url', '')
+    url = activity.get('url', '') or activity.get('link', '')
+    activity['link'] = link
+    activity['url'] = url
+
     return activity
 
 CATEGORY_KEYWORDS = {
@@ -224,6 +240,63 @@ SOURCE_CODE_MAP = {
     'szartm': '深圳美术馆',
     'gmarts': '光明文化艺术中心',
 }
+
+URL_SOURCE_MAP = {
+    "www.szlhq.gov.cn": "龙华区文旅局",
+    "www.yantian.gov.cn": "盐田区政府",
+    "www.szgm.gov.cn": "光明区政府",
+    "www.lg.gov.cn": "龙岗区政府",
+    "www.szft.gov.cn": "福田区政府",
+    "www.szlh.gov.cn": "龙华区政府",
+    "whgy.szmassart.com": "南山文化艺术中心",
+    "www.szftlib.org.cn": "福田图书馆",
+    "www.ytlib.yantian.org.cn": "盐田图书馆",
+    "www.szgmlib.com.cn": "光明图书馆",
+    "www.sz.gov.cn": "深圳政府在线",
+    "sthjj.sz.gov.cn": "深圳生态环境局",
+    "www.szlglib.com.cn": "罗湖图书馆",
+    "wtl.sz.gov.cn": "深圳文体旅游局",
+    "www.szlhlib.org.cn": "龙华图书馆",
+    "cgj.sz.gov.cn": "深圳城管局",
+    "www.shenzhenmuseum.com": "深圳博物馆",
+    "inanshan.sznews.com": "南山新闻网",
+    "www.szns.gov.cn": "南山区政府",
+    "www.nanshanmuseum.com": "南山博物馆",
+    "www.guanlanprints.com": "中国版画博物馆",
+    "www.szzhdj.gov.cn": "深圳水务局",
+    "www.oct.com.cn": "华侨城",
+    "www.szwomen.org.cn": "深圳妇女联合会",
+    "www.qianhai.gov.cn": "前海管理局",
+    "www.shekouculture.com": "蛇口文化",
+    "www.szu.edu.cn": "深圳大学",
+    "www.szbg.ac.cn": "深圳科技馆",
+    "www.crlandsports.com": "华润体育",
+    "sztb.szwater.gov.cn": "深圳水土保持",
+    "www.gsyart.com": "光明文化艺术中心",
+    "www.cndafen.com": "达芬美术馆",
+}
+
+
+def map_url_source(url):
+    try:
+        from urllib.parse import urlparse
+        parsed = urlparse(url)
+        domain = parsed.netloc.lower()
+        if domain in URL_SOURCE_MAP:
+            return URL_SOURCE_MAP[domain]
+        for key, value in URL_SOURCE_MAP.items():
+            if key in domain:
+                return value
+        path = parsed.path.lower()
+        if 'museum' in path or 'museum' in domain:
+            return '博物馆'
+        if 'lib' in path or 'lib' in domain:
+            return '图书馆'
+        if 'gov' in domain:
+            return '政府网站'
+        return '官方网站'
+    except Exception:
+        return '官方网站'
 
 
 def get_district_from_text(text):
@@ -303,6 +376,8 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     # 始终将 source 代码映射为可读名称
     if source in SOURCE_CODE_MAP:
         source = SOURCE_CODE_MAP[source]
+    elif source and source.startswith('http'):
+        source = map_url_source(source)
 
     venue_district = get_district_from_text(venue)
     source_district = get_district_from_text(source)
