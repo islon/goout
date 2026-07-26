@@ -1,5 +1,1171 @@
 [
   {
+    "name": "缙云山森林课堂夏令营",
+    "venue": "缙云山自然保护区",
+    "city": "chongqing",
+    "district": "北碚区",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-25",
+    "fee": "收费",
+    "description": "五日森林夏令营，在缙云山开展自然观察、溯溪探险与生态保护实践。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "森林课堂",
+      "夏令营",
+      "溯溪"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "缙云山森林课堂夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "name": "荣昌折扇制作体验",
+    "venue": "磁器口古镇",
+    "city": "chongqing",
+    "district": "沙坪坝区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "收费",
+    "description": "了解荣昌折扇百年工艺，亲手组装并绘制扇面，制作专属折扇。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "荣昌折扇",
+      "非遗",
+      "扇面"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "荣昌折扇制作体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "舞剧《英歌》海外巡演版",
+    "name": "舞剧《英歌》海外巡演版",
+    "venue": "广东艺术剧院",
+    "city": "guangzhou",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://gz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+    "description": "以英歌舞为载体讲述南洋游子家国情怀，展现潮汕血脉传承，7月25日广东艺术剧院上演。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "广东艺术剧院",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "广州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「广州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "广州",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "高淳区龙虾啤酒·夏夜嘉年华",
+    "name": "高淳区龙虾啤酒·夏夜嘉年华",
+    "venue": "固城湾景区",
+    "city": "nanjing",
+    "start_date": "2026-06-20",
+    "end_date": "2026-07-25",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "吹晚风、看比赛、吃龙虾的夏夜嘉年华，暑期消暑夜游。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "市集"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "name": "玄武湖环湖跑",
+    "venue": "玄武湖公园",
+    "city": "nanjing",
+    "district": "玄武区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "免费",
+    "description": "玄武湖环湖跑设5公里亲子组与10公里挑战组，沿途补给完善，完赛获电子证书与奖牌。",
+    "source": "南京本地宝",
+    "highlights": [
+      "环湖跑",
+      "奖牌",
+      "证书"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "玄武湖环湖跑",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "罗云熙\"熙界无限剧场\"巡回演唱会-南京站",
+    "name": "罗云熙\"熙界无限剧场\"巡回演唱会-南京站",
+    "venue": "梦之蓝青奥体育公园体育馆",
+    "city": "nanjing",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "罗云熙熙界无限剧场巡回演唱会南京站，7月25日19:00开唱。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
+    "name": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
+  },
+  {
+    "title": "第二十四届中外艺术精品演出季 舒曼尼科夫《天鹅湖》主题音乐会",
+    "name": "第二十四届中外艺术精品演出季 舒曼尼科夫《天鹅湖》主题音乐会",
+    "venue": "深圳音乐厅五楼小剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szyyt.com/performance/show_100000984262811.html",
+    "url": "https://www.szyyt.com/performance/show_100000984262811.html",
+    "description": "广州市交响乐团演出，以新世纪音乐风格呈现舒曼尼科夫《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳音乐厅官网",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "深圳读书月",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
+      "platform_url": null,
+      "city": "深圳",
+      "matched_venue_type": "音乐厅"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "福田区"
+  },
+  {
+    "title": "陈洁仪ATRIUM演唱会（深圳）",
+    "name": "陈洁仪ATRIUM演唱会（深圳）",
+    "venue": "宝安体育馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://sz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://sz.bendibao.com/xiuxian/huodongditu",
+    "description": "殿堂级嗓音陈洁仪演绎经典金曲，巡演深圳站开唱，7月25日宝安体育馆，开票消息持续跟进。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "深圳读书月",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
+      "platform_url": null,
+      "city": "深圳",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "宝安区"
+  },
+  {
+    "title": "2026年第十五届深圳儿童戏剧节 儿童剧《白雪公主》",
+    "name": "2026年第十五届深圳儿童戏剧节 儿童剧《白雪公主》",
+    "venue": "光明区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1f9c06544f65416d96f483a313ad161b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1f9c06544f65416d96f483a313ad161b",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1f9c06544f65416d96f483a313ad161b",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，深圳市儿童戏剧研究会，在光明区文化馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明区文化馆",
+    "district": "光明区"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“巧做状元官帽，祈愿前程似锦”状元帽DIY活动",
+    "name": "2026凤凰街道文化惠民工程系列之“巧做状元官帽，祈愿前程似锦”状元帽DIY活动",
+    "venue": "塘家社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "其它，光明区公共文化艺术和体育中心，在塘家社区综合性文化服务中心举办",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "塘家社区综合性文化服务中心"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“翩翩稚舞，赓续国风”舞蹈美育活动",
+    "name": "2026凤凰街道文化惠民工程系列之“翩翩稚舞，赓续国风”舞蹈美育活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30c0c2f3f51745c1bdde198f0b7d3556",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30c0c2f3f51745c1bdde198f0b7d3556",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30c0c2f3f51745c1bdde198f0b7d3556",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "凤凰街道综合性文化服务中心",
+    "district": "光明区"
+  },
+  {
+    "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆舞动匠心   指尖传承活动",
+    "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆舞动匠心   指尖传承活动",
+    "venue": "桂园街道综合文体中心(桂园街道分馆）",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "桂园街道综合文体中心(桂园街道分馆）"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-杮杮如意",
+    "name": "光明区文化馆总分馆联动活动-杮杮如意",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心",
+    "district": "光明区"
+  },
+  {
+    "title": "AI 时代，你的下一步怎么走？AI 转型分享会",
+    "name": "AI 时代，你的下一步怎么走？AI 转型分享会",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场",
+    "district": "福田区"
+  },
+  {
+    "title": "红色影院第十期《红色圩场》",
+    "name": "红色影院第十期《红色圩场》",
+    "venue": "深圳市坪山区石井街道公共文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b4a3188e06c5467ab8dac1060f37fcdc",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b4a3188e06c5467ab8dac1060f37fcdc",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b4a3188e06c5467ab8dac1060f37fcdc",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，石井街道公共服务办公室，在深圳市坪山区石井街道公共文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳市坪山区石井街道公共文化服务中心",
+    "district": "坪山区"
+  },
+  {
+    "title": "福田夜八点—— 乐队狂欢夜",
+    "name": "福田夜八点—— 乐队狂欢夜",
+    "venue": "园岭街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bcec904925ca4f139d34d8d424552dc8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bcec904925ca4f139d34d8d424552dc8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bcec904925ca4f139d34d8d424552dc8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "园岭街道综合性文化服务中心",
+    "district": "福田区"
+  },
+  {
+    "title": "玉塘街道“巧手童趣，快乐相伴”亲子手工制作活动暨文化馆总分馆联动活动2026年第二场",
+    "name": "玉塘街道“巧手童趣，快乐相伴”亲子手工制作活动暨文化馆总分馆联动活动2026年第二场",
+    "venue": "玉塘街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，玉塘街道办事处，在玉塘街道综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "玉塘街道综合性文化服务中心"
+  },
+  {
+    "title": "光明区文化馆总分馆联动活动-DIY万花镜",
+    "name": "光明区文化馆总分馆联动活动-DIY万花镜",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心",
+    "district": "光明区"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“百草入韵・良药抒怀”中草药画作创意DIY活动",
+    "name": "2026凤凰街道文化惠民工程系列之“百草入韵・良药抒怀”中草药画作创意DIY活动",
+    "venue": "塘家社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357",
+        "label": "活动详情"
+      }
+    ],
+    "description": "其它，光明区公共文化艺术和体育中心，在塘家社区综合性文化服务中心举办",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "塘家社区综合性文化服务中心"
+  },
+  {
+    "title": "叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）",
+    "name": "叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d",
+        "label": "活动详情"
+      }
+    ],
+    "description": "讲座，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场",
+    "district": "福田区"
+  },
+  {
+    "title": "享趣龙岗•艺脉相传2026年龙岗区“非遗在社区”系列活动——“非遗传薪•客韵悠扬”布吉客家音乐会",
+    "name": "享趣龙岗•艺脉相传2026年龙岗区“非遗在社区”系列活动——“非遗传薪•客韵悠扬”布吉客家音乐会",
+    "venue": "布吉街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=feb05d24c6194701a7fd1c9319782894",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=feb05d24c6194701a7fd1c9319782894",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=feb05d24c6194701a7fd1c9319782894",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，深圳市龙岗区文化广电旅游体育局，在布吉街道文化站举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "布吉街道文化站",
+    "district": "龙岗区"
+  },
+  {
+    "title": "“圳少年·有话说”——中学生脱口秀（第三季）线下海选",
+    "name": "“圳少年·有话说”——中学生脱口秀（第三季）线下海选",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656873&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656873&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656873&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆、教育大事全媒体\n地点：馆外（具体见简介）\n地址：具体见活动简介或活动备注\n备注：活动具体地点在：香港中文大学（深圳）逸夫国际会议中心。面向所有市民开放，免票入场，从香港中文大学（深圳）东北门访客登记，即可入场观看比赛。",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "绘本半小时：《阿兔的小瓷碗》",
+    "name": "绘本半小时：《阿兔的小瓷碗》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654301&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654301&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654301&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：活动无需预约，场地有限，座位先到先得。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "书海探底——智慧书库参观体验活动第642场",
+    "name": "书海探底——智慧书库参观体验活动第642场",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654642&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654642&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654642&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "律师公益咨询活动",
+    "name": "律师公益咨询活动",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655108&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655108&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655108&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆  深圳市律师协会\n地点：中心馆 一楼展厅\n地址：福田区福中一路2001号深圳图书馆一楼展厅",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "原版BOOK快乐读：乐于助人的Bella",
+    "name": "原版BOOK快乐读：乐于助人的Bella",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647640&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647640&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647640&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约\n备注：本场活动面向6-8岁少儿，限额20名。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "胭脂扣",
+    "name": "胭脂扣",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654170&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654170&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654170&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F观影厅\n地址：龙华区腾龙路30号\n备注：年龄要求：年满12周岁以上。",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "书海探底——智慧书库参观体验活动第643场",
+    "name": "书海探底——智慧书库参观体验活动第643场",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654643&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654643&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654643&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 智慧书库\n地址：深圳市龙华区腾龙路30号\n需预约",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "故事小讲堂第151期：“不一样，也很好”创意主题读书会",
+    "name": "故事小讲堂第151期：“不一样，也很好”创意主题读书会",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647606&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647606&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=647606&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室\n备注：面向3-8岁少儿读者及家长",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "“圳作一夏”主题系列活动 |  企业实地参访之斯达高瓷艺",
+    "name": "“圳作一夏”主题系列活动 |  企业实地参访之斯达高瓷艺",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654677&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654677&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654677&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：馆外（具体见简介）\n地址：具体见活动简介或活动备注\n备注：年满18周岁读者可预约报名，报名方式详见深圳图书馆微信公众号推文。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "“民断是非”大型思辨性公益普法活动",
+    "name": "“民断是非”大型思辨性公益普法活动",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637446&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637446&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=637446&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆、深圳市法学会\n地点：北馆 4F报告厅\n地址：深圳市龙华区腾龙路30号",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "name": "心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://activity.nslib.cn/activity/info/11682",
+    "url": "https://activity.nslib.cn/activity/info/11682",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11682",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "name": "书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://activity.nslib.cn/activity/info/11683",
+    "url": "https://activity.nslib.cn/activity/info/11683",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11683",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "venue": "福田区深圳音乐厅五楼小剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "柴可夫斯基经典作品《天鹅湖》主题音乐会，在深圳音乐厅上演。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "自动化发现",
+    "district": "福田区"
+  },
+  {
+    "name": "湖北省科学技术馆暑期科学营",
+    "venue": "湖北省科学技术馆",
+    "city": "wuhan",
+    "district": "洪山区",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-25",
+    "fee": "收费",
+    "description": "五天四夜科学营，沉浸式体验科学家工作日常。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "科学营",
+      "沉浸式",
+      "研学"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "湖北省科学技术馆暑期科学营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "武汉自然博物馆贝林大河展厅课堂",
+    "venue": "武汉自然博物馆",
+    "city": "wuhan",
+    "district": "东西湖区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "免费需预约",
+    "description": "走进贝林大河展厅，了解世界大河生态与动物迁徙。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "贝林",
+      "大河",
+      "生态"
+    ],
+    "type": "研学",
+    "is_family_friendly": false,
+    "title": "武汉自然博物馆贝林大河展厅课堂",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "name": "武汉科技馆宇宙展厅研学",
+    "venue": "武汉科技馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "免费需预约",
+    "description": "在宇宙展厅探索太阳系与深空奥秘，培养天文兴趣。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "宇宙",
+      "天文",
+      "研学"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "武汉科技馆宇宙展厅研学",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "科技馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "东湖皮划艇亲子营",
+    "venue": "东湖风景区",
+    "city": "wuhan",
+    "district": "武昌区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "收费",
+    "description": "亲子共划皮划艇，在东湖上享受清凉夏日。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "皮划艇",
+      "亲子",
+      "水上"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "东湖皮划艇亲子营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "景区"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "武汉市少年儿童图书馆童话剧表演",
+    "venue": "武汉市少年儿童图书馆",
+    "city": "wuhan",
+    "district": "江岸区",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "fee": "免费",
+    "description": "童话剧表演，小读者登台演绎经典童话。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "童话剧",
+      "表演",
+      "演绎"
+    ],
+    "type": "演出",
+    "is_family_friendly": true,
+    "title": "武汉市少年儿童图书馆童话剧表演",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "图书馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "汪峰\"相信未来\"巡回演唱会-西安站",
+    "name": "汪峰\"相信未来\"巡回演唱会-西安站",
+    "venue": "西安曲江竞技中心",
+    "city": "xian",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://xa.bendibao.com/xiuxian/huodongditu",
+    "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+    "description": "1994年至今汪峰作品记录一代人呐喊与低回，西安站7月25日开唱。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "西安本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "西安本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「西安本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "西安",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "珠海大剧院交响乐演出季",
+    "name": "珠海大剧院交响乐演出季",
+    "venue": "珠海大剧院",
+    "city": "zhuhai",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.zhgrandtheatre.com",
+    "url": "https://www.zhgrandtheatre.com",
+    "links": [
+      {
+        "url": "https://www.zhgrandtheatre.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "珠海大剧院夏季交响乐演出，知名交响乐团带来经典曲目，海上歌剧院享受音乐盛宴。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "珠海大剧院",
+    "district": "香洲区"
+  },
+  {
+    "title": "长隆海洋王国海洋科普讲堂",
+    "name": "长隆海洋王国海洋科普讲堂",
+    "venue": "珠海长隆海洋王国",
+    "city": "zhuhai",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.chimelong.com",
+    "url": "https://www.chimelong.com",
+    "links": [
+      {
+        "url": "https://www.chimelong.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "长隆海洋王国海洋科普讲堂，专业讲解员介绍海洋生物知识，适合中小学生参与。",
+    "category": "讲座阅读",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海长隆海洋王国",
+    "district": "横琴新区"
+  },
+  {
     "name": "仙女山森林探险营",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
@@ -31,7 +1197,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -69,7 +1235,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -106,7 +1272,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -143,7 +1309,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -180,7 +1346,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -207,15 +1373,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -238,15 +1396,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "少儿声乐（3节课程）",
@@ -269,15 +1419,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动",
@@ -300,15 +1442,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "凤凰街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "2026年石岩街道“来深青工技能——古筝公益课”",
@@ -331,15 +1465,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "石岩文化艺术中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "光明区文化馆总分馆联动活动-DIY益智戳戳画",
@@ -362,15 +1488,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "光明区马田街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "光明区文化馆总分馆联动活动-24节气创意画",
@@ -393,15 +1511,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "光明区马田街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "福田夜八点——国潮功夫夜",
@@ -424,15 +1534,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "园岭街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "2026年“夏日微时光·如‘乐’而至” 草坪音乐会",
@@ -455,15 +1557,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "宝安区文化馆沙井分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "“青春舞浪”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -486,15 +1580,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "凤凰街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "心理咨询",
@@ -517,15 +1603,7 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "南山图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "南山区"
   },
   {
     "title": "第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦",
@@ -548,15 +1626,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "福田梦工场",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "“弦动西乡·乐伴成长”——2026年西乡街道“快乐 假期”青少年文艺展演之莎莎小提琴汇报音乐会",
@@ -579,15 +1649,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆西乡街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "寻找智美更登",
@@ -610,15 +1672,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "东方幻境之旅：《照明商店》",
@@ -641,15 +1695,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
@@ -672,15 +1718,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "观影《卑鄙的我》",
@@ -703,15 +1741,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "观影《爱丽丝梦游仙境》",
@@ -734,15 +1764,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
@@ -765,15 +1787,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "读剧：中华少儿经典故事",
@@ -796,15 +1810,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "name": "湖北省博物馆考古小达人体验",
@@ -838,7 +1844,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -876,7 +1882,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -913,7 +1919,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -950,7 +1956,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -977,15 +1983,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "凤凰街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场",
@@ -1007,16 +2005,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园山街道文化站",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "source": "园山街道文化站"
   },
   {
     "title": "2026凤凰街道文化惠民工程之“笔承古韵，墨染韶华”书法交流活动",
@@ -1039,15 +2028,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "凤凰街道综合性文化服务中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
@@ -1070,15 +2051,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "石岩文化艺术中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十九期）",
@@ -1101,15 +2074,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "宝安区文化馆燕罗街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "2026年“石岩街道官田社区居民”——古筝特色班",
@@ -1132,15 +2097,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "石岩文化艺术中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "国学小讲堂丨大暑，跟着狐狸读七月岁时",
@@ -1163,15 +2120,7 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "南山图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "南山区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -1194,15 +2143,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【晚上场】",
@@ -1225,15 +2166,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "name": "江汉关博物馆钟楼探秘",
@@ -1267,7 +2200,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1305,7 +2238,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1342,7 +2275,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1355,8 +2288,8 @@
     "city": "guangzhou",
     "start_date": "2026-07-20",
     "end_date": "2026-07-22",
-    "link": "",
-    "url": "",
+    "link": "https://www.ns-thp.com.cn",
+    "url": "https://www.ns-thp.com.cn",
     "description": "南沙天后宫妈祖文化节，含祭祀典礼、民俗表演与文化展览，免费开放。",
     "category": "展览",
     "fee": "免费",
@@ -1373,16 +2306,15 @@
       "city": "广州"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "南沙区",
-    "links": []
+    "verified": false,
+    "district": "南沙区"
   },
   {
     "title": "舞剧《醒·狮》海外巡演版",
@@ -1412,8 +2344,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -1440,15 +2372,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——爵士舞蹈（第三天）",
@@ -1471,15 +2395,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——爵士舞蹈B班（第一天）",
@@ -1502,15 +2418,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——爵士舞蹈（第二天）",
@@ -1533,15 +2441,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——爵士舞蹈（第一天）",
@@ -1564,15 +2464,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "YUE航城暑期公益艺术培训——爵士舞蹈B班（第二天）",
@@ -1595,15 +2487,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆航城街道分馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "2026年龙岗区文化馆总分馆联动文艺演出——吉华街道专场",
@@ -1626,15 +2510,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "吉华街道文化站",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "龙岗区"
   },
   {
     "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
@@ -1657,15 +2533,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "石岩文化艺术中心",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "宝安区"
   },
   {
     "title": "视障儿童夏令营南科大校园科普实验",
@@ -1688,15 +2556,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -1719,15 +2579,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之费玉清作品【晚上场】",
@@ -1750,15 +2602,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "name": "武汉科技馆机器人体验夏令营",
@@ -1792,7 +2636,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1830,7 +2674,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1867,7 +2711,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1905,7 +2749,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1918,25 +2762,21 @@
     "city": "zhuhai",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
-    "link": "",
-    "url": "",
-    "links": [],
+    "link": "https://www.gymuseum.cn",
+    "url": "https://www.gymuseum.cn",
+    "links": [
+      {
+        "url": "https://www.gymuseum.cn",
+        "label": "活动详情"
+      }
+    ],
     "description": "古元美术馆少儿美术工作坊，专业老师指导小朋友学习版画、绘画等艺术创作。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
-      "http_status": null,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
-    },
-    "verified": true
+    "district": "香洲区"
   },
   {
     "name": "白公馆历史研学活动",
@@ -1969,7 +2809,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -1996,16 +2836,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "凤凰街道综合性文化服务中心",
-    "district": "光明区",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "《自媒体时代，如何打造爆款、打通内容营销》",
@@ -2028,16 +2859,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳市文化馆",
-    "district": "福田区",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之苏运莹作品【下午场】",
@@ -2060,15 +2882,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "音乐赏析之苏运莹作品【晚上场】",
@@ -2091,15 +2905,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "name": "中山舰博物馆舰艇模型制作",
@@ -2133,7 +2939,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2170,7 +2976,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2206,7 +3012,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2244,7 +3050,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2282,7 +3088,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2317,7 +3123,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2352,7 +3158,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true
@@ -2386,7 +3192,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true
@@ -2412,16 +3218,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳音乐厅官网",
-    "district": "福田区",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "name": "东湖落雁景区观鸟",
@@ -2455,7 +3252,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2492,7 +3289,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2530,7 +3327,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2557,16 +3354,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "香洲区"
   },
   {
     "title": "北京开瓶·独立酿造节",
@@ -2596,8 +3384,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2635,7 +3423,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2672,7 +3460,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2709,7 +3497,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2746,7 +3534,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2782,7 +3570,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2818,7 +3606,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2852,8 +3640,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -2890,7 +3678,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -2911,15 +3699,7 @@
     "family_friendly": true,
     "start_date": "2026-07-14",
     "end_date": "2026-07-19",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "罗湖区"
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -2949,7 +3729,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2983,7 +3763,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3018,7 +3798,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3053,7 +3833,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3087,7 +3867,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3122,7 +3902,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3157,7 +3937,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3192,7 +3972,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3227,7 +4007,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3262,7 +4042,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3297,7 +4077,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3332,7 +4112,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3367,7 +4147,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3402,7 +4182,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3437,7 +4217,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3472,7 +4252,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3507,7 +4287,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3542,7 +4322,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3577,7 +4357,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3612,7 +4392,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3647,7 +4427,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3682,7 +4462,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3703,15 +4483,7 @@
     "family_friendly": true,
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "name": "武汉海昌极地海洋公园极地探险营",
@@ -3745,7 +4517,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3783,7 +4555,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3821,7 +4593,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3859,7 +4631,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3897,7 +4669,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3935,7 +4707,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -3972,7 +4744,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4009,7 +4781,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4043,8 +4815,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -4081,7 +4853,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4118,7 +4890,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -4154,7 +4926,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4167,8 +4939,8 @@
     "city": "shanghai",
     "start_date": "2026-07-17",
     "end_date": "2026-07-18",
-    "link": "http://m.toutiao.com/",
-    "url": "http://m.toutiao.com/",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "url": "http://m.toutiao.com/group/7660419048286487086/",
     "description": "纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。",
     "category": "其他",
     "fee": "收费",
@@ -4186,14 +4958,14 @@
       "matched_venue_type": "剧院"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true,
+    "verified": false,
     "district": "黄浦区"
   },
   {
@@ -4224,7 +4996,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4258,7 +5030,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4293,7 +5065,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4328,7 +5100,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4363,7 +5135,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4398,7 +5170,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4433,7 +5205,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4468,7 +5240,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4503,7 +5275,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4538,7 +5310,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4573,7 +5345,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4608,7 +5380,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4643,7 +5415,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4678,7 +5450,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4713,7 +5485,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4748,7 +5520,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4783,7 +5555,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4818,7 +5590,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4853,7 +5625,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4888,7 +5660,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4923,7 +5695,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4958,7 +5730,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4993,7 +5765,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5028,7 +5800,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5063,7 +5835,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5097,8 +5869,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5118,16 +5890,7 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-18",
-    "end_date": "2026-07-18",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "end_date": "2026-07-18"
   },
   {
     "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
@@ -5144,15 +5907,7 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
@@ -5169,15 +5924,7 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
@@ -5210,7 +5957,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5247,7 +5994,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5285,7 +6032,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5322,7 +6069,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5360,7 +6107,7 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
@@ -5396,7 +6143,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5432,7 +6179,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5453,15 +6200,7 @@
     "family_friendly": true,
     "start_date": "2026-07-17",
     "end_date": "2026-07-17",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "福田区"
   },
   {
     "title": "儿童音乐皮影戏",
@@ -5478,15 +6217,7 @@
     "family_friendly": true,
     "start_date": "2026-07-11",
     "end_date": "2026-07-12",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "罗湖区"
   },
   {
     "title": "国风儿童剧《少年诗词游之李白》",
@@ -5502,16 +6233,7 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-12",
-    "end_date": "2026-07-12",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "end_date": "2026-07-12"
   },
   {
     "title": "罗湖一站式普惠托育集市",
@@ -5527,16 +6249,7 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-11",
-    "end_date": "2026-07-11",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "end_date": "2026-07-11"
   },
   {
     "title": "北京人艺话剧《寻找春柳社》",
@@ -5553,15 +6266,7 @@
     "family_friendly": true,
     "start_date": "2026-07-10",
     "end_date": "2026-07-10",
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "光明区"
   },
   {
     "title": "2026深圳食博会",
@@ -5591,8 +6296,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
