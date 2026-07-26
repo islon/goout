@@ -263,6 +263,19 @@ function getFilteredExhibitions(allExhibitions, filters) {
     filtered = filtered.filter(function(e) { return e.family_friendly !== true && getActivityType(e) !== '亲子活动'; });
   }
 
+  // 活动持续时长筛选（按 end_date - start_date + 1 天数判断）
+  // week=1周内(≤7) / 3months=3月内(≤90) / long=3月以上(>90) / all=不过滤
+  if (filters.duration && filters.duration !== 'all') {
+    filtered = filtered.filter(function(e) {
+      if (!e.start_date || !e.end_date) return false;
+      var days = Math.floor((new Date(e.end_date) - new Date(e.start_date)) / 86400000) + 1;
+      if (filters.duration === 'week') return days <= 7;
+      if (filters.duration === '3months') return days <= 90;
+      if (filters.duration === 'long') return days > 90;
+      return true;
+    });
+  }
+
   switch (filters.time) {
     case 'today':
       return filtered.filter(function(e) {

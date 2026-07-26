@@ -269,6 +269,16 @@ def render_filters_js(cities, mappings):
     lines.append('];')
     lines.append('')
 
+    # 活动持续时长筛选
+    lines.append('// 活动持续时长筛选（按 end_date - start_date + 1 天数）')
+    lines.append('const durationFilters = [')
+    lines.append("  { key: 'week', name: '1周内' },")
+    lines.append("  { key: '3months', name: '3月内' },")
+    lines.append("  { key: 'long', name: '3月以上' },")
+    lines.append("  { key: 'all', name: '全部' }")
+    lines.append('];')
+    lines.append('')
+
     # districtMapping
     lines.append('// 区县映射（自动生成）')
     lines.append(f'const districtMapping = {js_obj(mappings["districtMapping"])};')
@@ -311,6 +321,7 @@ def render_filters_js(cities, mappings):
     lines.append('  familyFilters,')
     lines.append('  typeFilters,')
     lines.append('  feeFilters,')
+    lines.append('  durationFilters,')
     lines.append('  districtMapping,')
     lines.append('  sourceToVenue,')
     lines.append('  venueAddressMap,')

@@ -68,6 +68,19 @@
     </scroll-view>
   </view>
 
+  <!-- 活动持续时长筛选 -->
+  <view class="filter-section">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{durationFilters}}" wx:key="key"
+          class="filter-btn {{durationFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onDurationTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
   <!-- 类型筛选 -->
   <view class="filter-section">
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">

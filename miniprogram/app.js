@@ -280,6 +280,7 @@ App({
   globalData: {
     cityFilter: 'shenzhen',
     timeFilter: 'upcoming',
+    durationFilter: '3months',
     typeFilter: 'all',
     districtFilter: 'all',
     sourceFilter: 'all',

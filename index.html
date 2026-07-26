@@ -1411,6 +1411,15 @@
     </div>
 
     <div class="filter-section-mobile">
+        <div class="filter-bar" id="duration-filter-bar">
+            <button class="filter-btn" data-duration="week">1周内</button>
+            <button class="filter-btn" data-duration="3months">3月内</button>
+            <button class="filter-btn" data-duration="long">3月以上</button>
+            <button class="filter-btn" data-duration="all">全部</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
         <div class="filter-bar" id="type-filter-bar">
             <button class="filter-btn" data-type="all">全部类型</button>
             <button class="filter-btn" data-type="展览">展览</button>
@@ -1605,6 +1614,16 @@
                     <button class="filter-btn" data-filter="month">本月</button>
                     <button class="filter-btn" data-filter="next_month">下月</button>
                     <button class="filter-btn" data-filter="all">全部活动</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">⏳ 活动持续时长</div>
+                <div class="filter-bar" id="sidebar-duration-filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-duration="week">1周内</button>
+                    <button class="filter-btn" data-duration="3months">3月内</button>
+                    <button class="filter-btn" data-duration="long">3月以上</button>
+                    <button class="filter-btn" data-duration="all">全部</button>
                 </div>
             </div>
 
@@ -1954,6 +1973,8 @@
         let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
         let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
         let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'all';
+        // 活动持续时长筛选：week=1周内 / 3months=3月内 / long=3月以上 / all=全部
+        let currentDurationFilter = localStorage.getItem('schedule_duration_filter') || '3months';
         let currentSearchQuery = '';
         let currentPage = 1;
         const PAGE_SIZE = 50;
@@ -2073,6 +2094,18 @@
                 filtered = filtered.filter(e => e.family_friendly !== true);
             }
 
+            // 活动持续时长筛选（按 end_date - start_date + 1 天数判断）
+            if (currentDurationFilter !== 'all') {
+                filtered = filtered.filter(e => {
+                    if (!e.start_date || !e.end_date) return false;
+                    const days = Math.floor((new Date(e.end_date) - new Date(e.start_date)) / 86400000) + 1;
+                    if (currentDurationFilter === 'week') return days <= 7;
+                    if (currentDurationFilter === '3months') return days <= 90;
+                    if (currentDurationFilter === 'long') return days > 90;
+                    return true;
+                });
+            }
+
             switch (currentTimeFilter) {
                 case 'today':
                     return filtered.filter(e => e.start_date === today || 
@@ -2161,6 +2194,7 @@
             const savedType = currentTypeFilter;
             const savedDistrict = currentDistrictFilter;
             const savedFamily = currentFamilyFriendlyFilter;
+            const savedDuration = currentDurationFilter;
 
             switch (filterType) {
                 case 'city': currentCityFilter = testValue; currentDistrictFilter = 'all'; currentSourceFilter = 'all'; break;
@@ -2170,6 +2204,7 @@
                 case 'source': currentSourceFilter = testValue; break;
                 case 'fee': currentFeeFilter = testValue; break;
                 case 'family': currentFamilyFriendlyFilter = testValue; break;
+                case 'duration': currentDurationFilter = testValue; break;
             }
 
             const result = getFilteredExhibitions().length > 0;
@@ -2181,6 +2216,7 @@
             currentTypeFilter = savedType;
             currentDistrictFilter = savedDistrict;
             currentFamilyFriendlyFilter = savedFamily;
+            currentDurationFilter = savedDuration;
 
             return result;
         }
@@ -2228,6 +2264,12 @@
             document.querySelectorAll('[data-family]').forEach(btn => {
                 if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
                 btn.classList.toggle('disabled', !checkFilterHasResult('family', btn.dataset.family));
+            });
+
+            // 活动持续时长
+            document.querySelectorAll('[data-duration]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('duration', btn.dataset.duration));
             });
         }
 
@@ -2697,27 +2739,30 @@
             currentTypeFilter = 'all';
             currentDistrictFilter = 'all';
             currentFamilyFriendlyFilter = 'all';
+            currentDurationFilter = '3months';
             currentSearchQuery = '';
-            
+
             localStorage.setItem('schedule_time_filter', 'upcoming');
             localStorage.setItem('schedule_source_filter', 'all');
             localStorage.setItem('schedule_fee_filter', 'all');
             localStorage.setItem('schedule_type_filter', 'all');
             localStorage.setItem('schedule_district_filter', 'all');
             localStorage.setItem('schedule_family_filter', 'family');
-            
+            localStorage.setItem('schedule_duration_filter', '3months');
+
             document.getElementById('search-input').value = '';
             document.getElementById('search-input-desktop').value = '';
-            
+
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            
+
             document.querySelectorAll('[data-filter="upcoming"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-type="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-district="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-source="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-family="family"]').forEach(btn => btn.classList.add('active'));
-            
+            document.querySelectorAll('[data-duration="3months"]').forEach(btn => btn.classList.add('active'));
+
             currentPage = 1;
             renderExhibitions();
         }
@@ -2918,6 +2963,22 @@
                     btn.classList.add('active');
                     currentTimeFilter = btn.dataset.filter;
                     localStorage.setItem('schedule_time_filter', currentTimeFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            // 活动持续时长筛选
+            const durationButtons = document.querySelectorAll('[data-duration]');
+            durationButtons.forEach(btn => {
+                if (btn.dataset.duration === currentDurationFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    durationButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentDurationFilter = btn.dataset.duration;
+                    localStorage.setItem('schedule_duration_filter', currentDurationFilter);
                     currentPage = 1;
                     renderExhibitions();
                 });

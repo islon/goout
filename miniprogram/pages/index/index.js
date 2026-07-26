@@ -1,11 +1,11 @@
 // 打包内 cities 仅作离线兜底；运行期优先用 app.getCities()（远程 cities.json），
 // 云侧新增城市后无需重新发布小程序版本即可出现在城市 tab。
-const { cities: bundledCities, timeFilters, typeFilters, feeFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
+const { cities: bundledCities, timeFilters, typeFilters, feeFilters, durationFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
 const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, getPresentDistricts, matchSource, normalizeCity } = require('../../utils/helpers.js');
 
 const PAGE_SIZE = 20;
 const FILTER_STORAGE_KEY = 'goout_filter_state';
-const FILTER_KEYS = ['cityFilter', 'timeFilter', 'typeFilter', 'districtFilter', 'sourceFilter', 'feeFilter', 'searchQuery'];
+const FILTER_KEYS = ['cityFilter', 'timeFilter', 'durationFilter', 'typeFilter', 'districtFilter', 'sourceFilter', 'feeFilter', 'searchQuery'];
 const app = getApp();
 
 Page({
@@ -14,6 +14,7 @@ Page({
     timeFilters,
     typeFilters,
     feeFilters,
+    durationFilters,
     districts: [],
     venues: [],
     displayVenues: [],
@@ -21,6 +22,7 @@ Page({
     // 当前筛选状态
     cityFilter: 'shenzhen',
     timeFilter: 'upcoming',
+    durationFilter: '3months',
     typeFilter: 'all',
     districtFilter: 'all',
     sourceFilter: 'all',
@@ -248,6 +250,7 @@ Page({
     const filters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
+      duration: this.data.durationFilter,
       type: this.data.typeFilter,
       district: this.data.districtFilter,
       source: this.data.sourceFilter,
@@ -302,6 +305,7 @@ Page({
     const baseFilters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
+      duration: this.data.durationFilter,
       type: this.data.typeFilter,
       district: this.data.districtFilter,
       source: this.data.sourceFilter,
@@ -342,6 +346,10 @@ Page({
       return Object.assign({}, t, { disabled: !checkResult('time', t.key) && t.key !== self.data.timeFilter });
     });
 
+    const durationAvail = (this.data.durationFilters || []).map(function(d) {
+      return Object.assign({}, d, { disabled: !checkResult('duration', d.key) && d.key !== self.data.durationFilter });
+    });
+
     const typeAvail = this.data.typeFilters.map(function(t) {
       return Object.assign({}, t, { disabled: !checkResult('type', t.key) && t.key !== self.data.typeFilter });
     });
@@ -358,6 +366,7 @@ Page({
     this.setData({
       cities: citiesAvail,
       timeFilters: timeAvail,
+      durationFilters: durationAvail,
       typeFilters: typeAvail,
       feeFilters: feeAvail,
       districts: districtsAvail
@@ -386,6 +395,15 @@ Page({
     const key = e.currentTarget.dataset.key;
     if (key === this.data.timeFilter) return;
     this.setData({ timeFilter: key, currentPage: 1 });
+    this.saveFilters();
+    this.loadData();
+  },
+
+  onDurationTap(e) {
+    if (e.currentTarget.dataset.disabled) return;
+    const key = e.currentTarget.dataset.key;
+    if (key === this.data.durationFilter) return;
+    this.setData({ durationFilter: key, currentPage: 1 });
     this.saveFilters();
     this.loadData();
   },
