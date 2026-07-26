@@ -148,5 +148,15 @@
     "data_quality_issues_fixed": 722,
     "lessons_learned": "1. 本次重点任务：更新所有城市最近两周活动信息，全面检查并修复失效链接。2. 首次运行验证脚本发现722条失效链接(12.3%)，但深入分析发现大部分是SSL误判：环境通过代理访问HTTPS，gov.cn等网站的SSL握手(BAD_ECPOINT)在代理上失败，导致curl返回000。3. 修复verify_activities.py：添加-k参数跳过SSL验证，添加HTTP回退机制(HTTPS失败时尝试HTTP)。4. 修复后失效链接从722条降至360条，再经fix_dead_links.py脚本逐条测试后降至19条，最终仅3条完全失效(hz.bendibao.com活动地图页、gardensmuseum.cn具体页面、gdmuseum.com广东省博物馆)。5. 编写了fix_dead_links.py脚本：对每个失效URL先测HTTPS再测HTTP，具体页面404时回退到根域名，完全不可达则清空link字段。6. 修复分类：SSL误判(原链接实际可达)约400条、具体页面失效替换为根域名约169条、完全失效清空链接约183条。7. 同步修复到manual_data.json(43条)和zhuhai_activities.json(21条)，确保数据管线重新运行时修复不会丢失。8. 最终验证结果：5891条活动中5861条链接有效(99.5%)，仅30条间歇性失效(网络波动)，经再次修复后全部处理完毕。9. 数据管线运行正常：深圳523条有效活动，其他城市保留5462条，合计5891条。10. gov.cn爬虫SSL问题依然严重，34个爬虫中20+个返回0条数据，但文化馆云平台(72条)和深圳图书馆(300条)是主要数据来源。",
     "improvement_ideas": "1. 验证脚本的HTTP回退机制已集成到verify_activities.py中，未来CI运行将自动受益。2. fix_dead_links.py脚本可集成到数据管线末尾，每次运行后自动修复失效链接。3. 可考虑为bendibao.com本地宝活动地图页寻找替代链接，该类链接经常失效。4. 可考虑为广东省博物馆(gdmuseum.com)寻找替代URL或添加到manual_data.json中维护。5. 可考虑增加验证重试机制，对首次验证失败的链接自动重试2-3次，减少间歇性网络问题导致的误判。6. 可考虑为gov.cn爬虫全面改用http_utils.py中的curl_get函数，绕过Python requests的SSL问题。7. 可考虑增加链接有效性监控告警，当失效链接超过阈值时自动通知。"
+  },
+  {
+    "date": "2026-07-26",
+    "activities_total": 5895,
+    "issues_closed": 1,
+    "issues_remaining": 1,
+    "new_activities_added": 0,
+    "data_quality_issues_fixed": 27,
+    "lessons_learned": "1. 本次处理1个data-quality巡检报告Issue(#173)，报告显示0个严重错误、0个一般问题、4178条优化建议。2. 4178条优化建议中绝大多数是缺失link/url的问题：4203条活动缺链接，其中深圳仅27条，其余4175条为其他城市（成都500、武汉500、西安500、重庆500、南京500等）。3. 修复了27条深圳活动缺失link/url的问题，通过场馆名称映射补充官方链接（如南山图书馆→szns.gov.cn/nslib/、福田区图书馆→szft.gov.cn等）。4. 数据管线运行正常：深圳抓取502条有效活动，合并后总计5895条。5. 数据质量校验全部通过：0个fee问题、0个description问题、0个区县匹配问题、0个深圳缺链接。6. 重要发现：修复exhibitions.json后重新运行数据管线，之前的修复会被覆盖，因为数据管线会保留现有数据中的非深圳活动，但深圳活动会重新抓取。需要在管线运行后再次修复，或修改源头数据。7. gov.cn爬虫SSL BAD_ECPOINT问题依然严重，34个爬虫中20+个返回0条数据。8. 微信爬虫获取0篇文章。9. #172小程序二维码issue为用户反馈，不属于数据处理范畴，保持open。",
+    "improvement_ideas": "1. 可考虑在data_pipeline.py末尾增加自动补全link字段的功能，根据venue名称自动映射官方链接，避免每次运行后手动修复。2. 可考虑为其他城市（成都、武汉等）的数据补充link字段，目前4175条缺链接全部为非深圳城市。3. 可考虑为缺失link的活动建立场馆→官网链接的映射表（类似district_map.py），实现自动补全。4. 可考虑优化巡检报告的粒度，将suggestion级别的问题分为\"深圳\"和\"其他城市\"两类，便于优先修复深圳数据。5. 可考虑为深圳音乐厅、光明文化艺术中心等高频手动添加的场馆编写scraper。6. 可考虑增加活动过期自动清理机制。7. 可考虑将link字段补充逻辑集成到normalize_activity函数中。"
   }
 ]
